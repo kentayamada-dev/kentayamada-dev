@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/06d950dd3dc1e60491e7ee307e4a24dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/045e18ac6b44151e3e8ce79946a0a0ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0aeec42fc0693472c65adc5d918c86cfda3f0606>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000037-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=35&cw=609&ch=609&exp=10800&fmt=webp> 野党、商品券は「法抵触疑い」　与党は首相に説明要請
+      <a href=https://news.yahoo.co.jp/articles/87866dd26f238639062fa9915d92b5beb4e147a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00010008-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 戸郷翔征はなぜドジャース打線につかまったのか　1イニング3被弾、6回5失点投球　球界OBが徹底解説　「もっと荒々しくていいのかな」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97b7be0182c8f4aa23644b6ed857117df54e0dfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000029-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=865&ch=865&exp=10800&fmt=webp> ドジャースの山本由伸、大谷の本塁打に「当たり前のように打つだろうなとイメージしていたら…やはりさすが」
+      <a href=https://news.yahoo.co.jp/articles/1a945f15ba6944b5e02d5cd33c9a0529cedc4bdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-10474929-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=683&ch=683&exp=10800&fmt=webp> スタンフォード大の佐々木麟太郎が豪快1号＆2号　待望の公式戦初アーチ含む3安打4打点の固め打ち
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b58e288e3adf64dcfc67c93314fee7a60e8a67b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 佐々木、公式戦初アーチ　米大学野球
+      <a href=https://news.yahoo.co.jp/articles/ba1ce0f2e1241341d31d5dbe3d1dfc385ec71db1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-33160236-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=1&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 石破首相は「言うだけ番長」？　10万円商品券を私費配布、&quot;国民に近い&quot;政治家イメージも崩壊
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/48c8d69e586b49ddbba5e452b1198582802f0ae4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-90020610-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=675&ch=675&exp=10800&fmt=webp> プーチン氏が米特使を8時間待ちぼうけに…　交渉有利へ駆け引きか
       </a>
     </td>
   </tr>
@@ -402,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/1bc029980a8b95c7b0ab635db6368700e93f529398a65d5c330d58c8bc3d64a9.jpg> 政府 長射程弾を九州に先行配備へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532515>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/d286fa37b20ed2ba0b2e910b0dc960d56c246e2b56c8c07a825e41e03160b2de.jpg> 転落死 短時間でも子1人は避けて
       </a>
@@ -418,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/d650e9fd66a45a6731cc1f148a4a5f2f8f63746836cc475fb86c54c33818c3cc.jpg> 広島で住宅火災 男女2人が死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532511>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/13df00b8ab499aa5fbf54e8e98e10d797c46972bf06b65eac216ffa9e9822a3b.jpg> 走行中の新幹線 窓ガラスにひび
+      <a href=https://news.yahoo.co.jp/pickup/6532523>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/8f12d05fff09205371a4082a4b7009c650f8bda11632b92b10bb42d278131b80.jpg> 白骨化した乳児遺体 不明な点多く
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532517>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/b18f0dd31f55a206743395bff6b53cb9df84797084eb217f25c8605f889b189f.jpg> 麟太郎が公式戦1号&2号 実況絶叫
+      <a href=https://news.yahoo.co.jp/pickup/6532522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c02377863889331dd5d9c65bf424d70865bd5c68b94d1b9949f5abf4cb0fcc2a.jpg> MLB日本開幕戦 WBCへのテスト?
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 11:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 11:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
