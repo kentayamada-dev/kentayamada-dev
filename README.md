@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a8e839bd22484cbbb32a7f9aa0567d69.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/84c0353b2514a511991b88df64427e25.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed9179032913c11c8bbd3b6f381845d94ad054a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00000077-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=90&cw=866&ch=866&exp=10800&fmt=webp> 千葉市長に神谷氏再選　共産系新人ら破る
+      <a href=https://news.yahoo.co.jp/articles/d8fc2427d97c978d770f4b9bbe6b8a587b204453>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-06754357-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】北日本の太平洋側で大雪や猛吹雪
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5f2fb83d4da0a2fc2a299043d1a4d31a0a12c0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-21792637-ohbsn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今後の雨と雪はいつ、どこで? 西高東低の気圧配置で冬に逆戻り? 西日本〜北日本で大雪の所も 暴風や高波にも警戒 19日は荒れた天気の恐れも…【3時間ごとの雨雪シミュレーション・16日午後8時更新】
+      <a href=https://news.yahoo.co.jp/articles/31da7cd613e3ba459054acd8a92edd63ab825214>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-00050121-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=333&ch=333&exp=10800&fmt=webp> アメリカ軍がフーシ拠点空爆、３１人死亡・１０１人負傷…フーシ「侵略者を罰する」と報復宣言
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/28eb6a8f26a64be1e98c43862eaeeb5b30801c9d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250316-01718433-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が本塁打2時間後に公開した大物「言葉がない」　突如の登場に「マジで泣ける」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98d5b14d900cfbbbd34935f2c1e3002d4db886eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ×プーチン、米露首脳対話へ環境整備　外相電話会談、ウクライナ「次の段階」協議
       </a>
     </td>
   </tr>
@@ -410,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/929f5d8bcbe9733dc934adcf069f2860965b377e035c65436325e15bb556a61d.jpg> 千葉知事選 熊谷俊人氏が再選確実
+      <a href=https://news.yahoo.co.jp/pickup/6532561>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 商品券 歴代首相の慣例と自民議員
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532563>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/e7f325cca14ae60c22c22f68a964fd4ac17f53d4928b8d0002d835d44fd25420.jpg> 9年ぶり帰国の若者も シリアの今
+      <a href=https://news.yahoo.co.jp/pickup/6532570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/929f5d8bcbe9733dc934adcf069f2860965b377e035c65436325e15bb556a61d.jpg> 千葉知事選 熊谷俊人氏が再選確実
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532554>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/425c50c85ff0605ea50dab4be98bd5f0cdd4141aee675c35ad34a439fbde3c41.jpg> 速報プレシーズン カブスvs.巨人
+      <a href=https://news.yahoo.co.jp/pickup/6532568>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/c62c696d6f3a623edf527c82ca847bd5f4ae27eccbc1f8a959d24c6e814cc84b.jpg> 群れの中に赤いスズメ2羽 驚き
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/16 20:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/16 21:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
