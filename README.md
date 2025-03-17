@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bb2920f6edcf7deb593dea377adcb029.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5d0052f06ec57363f0f69bf4d561c10c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4e0b594043ae1a7d705139935efd7b4818fdaf3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00050137-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=85&cw=393&ch=393&exp=10800&fmt=webp> いしだあゆみさんが死去、７６歳…「ブルー・ライト・ヨコハマ」大ヒット
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/982cc3ba37d43f25c3899cd628a3c87bbe4e79fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 商品券配布は「歴代首相の慣例」発言を撤回　自民・舞立氏、「事実誤認、推測に基づく」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c072508654eb4ed986a29d7b867f4aded923c6f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010002-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> イエメンのフーシ派拠点空爆　米軍爆撃で150人超が死傷
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bf44123d2745d94630289587b090c6b721d7b99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00051328-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 死刑囚２人の訴えを全面的に退けた１審判決を一部取り消し　死刑執行の直前告知めぐる裁判　大阪高裁が審理差し戻し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8a28700b721aeb5608df0a254db16f32c3c36cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000024-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=370&ch=370&exp=10800&fmt=webp> ロシアのプーチン大統領と協議、18日に　トランプ氏が記者団に発言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/579a7e8f83ac94a4a8b7944a33a6e9d71f232ece>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-04376926-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 内閣支持率31％…石破政権に逆風　野党側は“商品券配布”で首相の責任追及
+      <a href=https://news.yahoo.co.jp/articles/a2c7942b1d0c87c875e79416b7b924fd37c80b9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-03226119-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 米トランプ大統領、露プーチン大統領と18日に対話の予定　ウクライナ停戦交渉めぐり
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532619>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/8126027018596f975ef7ca01eacfe2841c6b20cd192267852c9e37209aef5ef8.jpg> 巨人－ド軍の視聴率 関東で22.9%
+      <a href=https://news.yahoo.co.jp/pickup/6532623>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/46252b2e633e53a4a519620479c7fb4f67f288be9db0e03786b23deec5246411.jpg> ド軍激震 ベッツが開幕S欠場へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532623>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/46252b2e633e53a4a519620479c7fb4f67f288be9db0e03786b23deec5246411.jpg> ド軍激震 ベッツが開幕S欠場へ
+      <a href=https://news.yahoo.co.jp/pickup/6532636>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/feb1a537f195099892e1f4938982f179b1ce9686c6040caad15b7e44f2b56312.jpg> 歌手・俳優 いしだあゆみさん死去
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 15:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 15:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
