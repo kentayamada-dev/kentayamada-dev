@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/19b75c8125f4bd0e1ce73ba73d1b7641.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/509a1c34fccffab544cd3bf966a191e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/12e721accbfa42e9de106f7e8b38b38870229d88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000038-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 「商品券配布」歴代総理も？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e01508ccdefac85172b272c771dc6b55c112a764>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-35230593-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=676&ch=676&exp=10800&fmt=webp> トランプ氏、プーチン氏と１８日に協議　すでに資産分割の話し合い進む
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8dd6f4f9d73423acde0d15728e804e423ae474b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-10168944-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=385&cy=0&cw=971&ch=971&exp=10800&fmt=webp> フルタイム労働者の平均月給 33万円で過去最高を更新
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f18b42261dd6c3a3b0d63c5cc67646413dcdd84d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000031-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 商品券配布「歴代総理の慣例」　首相地元で参院議員発言、一転し撤回
+      <a href=https://news.yahoo.co.jp/articles/b5e501f7c63ededb855615f0d5935b4c21df7e92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-33170925-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1337&ch=1337&exp=10800&fmt=webp> 今永昇太、米国で感情むき出しの理由明かす「以前は誰かが期待する自分に」「人生を楽しむ的な」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/19c20409c4e6a9cf706b87d57ad0808e95f9959065a312b99a0fb39af658d4b9.jpg> 北朝鮮の経済代表団 ロシア訪問へ
+      <a href=https://news.yahoo.co.jp/pickup/6532646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/df23abc4584a33e9f0f8ccaae29e99e39f8de347288de6307b2131a59a8f22c0.jpg> 18～19日 九州～関東で急な雨注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/9b47571217550db5b8033e3fb7a465c417619532977150d8022413645db711ff.jpg> 高知市で火災 2人死亡1人心肺停止
+      <a href=https://news.yahoo.co.jp/pickup/6532626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/19c20409c4e6a9cf706b87d57ad0808e95f9959065a312b99a0fb39af658d4b9.jpg> 北朝鮮の経済代表団 ロシア訪問へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 17:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 17:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
