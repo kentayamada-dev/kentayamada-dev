@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/38f3f05a149e88d4ee5e357db91d24f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/387a77a7d58c47448abc2162b6450cdd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3653a7474289179dc5cbedb425187bd8c7fe5aa9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-21793579-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】福岡 山地10cm 平地1cm  春のお彼岸なのに雪が降るのか?【雪はいつ どこで?】 雪と寒気のシミュレーション18日（火）〜19日（水） 福岡・佐賀・長崎・大分・熊本・宮崎・鹿児島
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/23e1dd06bc6b6df320a27ffce10b9d3d028ec63a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00050097-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=375&ch=375&exp=10800&fmt=webp> トランプ氏とプーチン氏、今週「即時停戦案」議論か…米特使「前向きで建設的な協議になる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00050097-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=375&ch=375&exp=10800&fmt=webp> トランプ氏とプーチン氏、今週「即時停戦案」議論か…米特使「前向きで建設的な協議になる」
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f50c91ade02d396fa89329b6319cd28340d8fa4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-90020664-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=962&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 爆弾低気圧襲来で列島は春の嵐　西からさらに別の低気圧　関東も大荒れ　雷雨に注意
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/7821658cb5d7f6537c2ccc9068ccdf072b472239db4945375055c0aea60787d8.jpg> 石破氏 歴代首相が配布か存じない
+      <a href=https://news.yahoo.co.jp/pickup/6532606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/bb6fbb9b64c4b21391cad6b1853ac97888cdd7c32fcfdb5d092d3d7834c17967.jpg> ウの新型ミサイル 露首都攻撃圏内
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 13:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 13:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
