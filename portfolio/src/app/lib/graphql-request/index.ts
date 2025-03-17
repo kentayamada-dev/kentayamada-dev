@@ -7,6 +7,7 @@ import type {
   GetCareersType,
   GetFaqsType,
   GetMetadataType,
+  GetSitemapType,
   GetSlugsType,
   GetUtilitiesType,
   GetUtilityBySlugType
@@ -19,10 +20,39 @@ import type {
   CareersResponseType,
   FaqsResponseType,
   MetadataResponseType,
+  SitemapResponseType,
   UtilitiesResponseType,
   UtilityResponseType,
   UtilitySlugsResponseType
 } from '@/types/contentful';
+
+const getSitemap: GetSitemapType = async () => {
+  const query = gql`
+    query Query {
+      articleCollection {
+        items {
+          slug
+          sys {
+            publishedAt
+          }
+        }
+      }
+      utilityCollection {
+        items {
+          slug
+          sys {
+            publishedAt
+          }
+        }
+      }
+    }
+  `;
+
+  const articleItems = (await apiRequest<SitemapResponseType>(query)).articleCollection.items;
+  const utilityItems = (await apiRequest<SitemapResponseType>(query)).utilityCollection.items;
+
+  return { articleItems, utilityItems };
+};
 
 const getArticleSlugs: GetSlugsType = async () => {
   const query = gql`
@@ -316,6 +346,7 @@ export {
   getCareers,
   getFaqs,
   getMetadata,
+  getSitemap,
   getUtilities,
   getUtilityBySlug,
   getUtilitySlugs

@@ -4,7 +4,7 @@ import { addPrefixRule, validateRules } from './utils.js';
 const tseslintPrefix = '@typescript-eslint';
 
 const tseslintRule = addPrefixRule(tseslintPrefix, {
-  'no-magic-numbers': ['error', { 'ignoreArrayIndexes': true }],
+  'no-magic-numbers': ['error', { 'ignoreArrayIndexes': true, 'ignoreTypeIndexes': true }],
   'ban-ts-comment': [
     'error',
     {

@@ -118,10 +118,29 @@ type SlugsType = {
   slug: string;
 }[];
 
+type SitemapItemsType = {
+  slug: string;
+  sys: { publishedAt: string };
+}[];
+
 type ArticleSlugsResponseType = {
   articleCollection: {
     items: SlugsType;
   };
+};
+
+type SitemapResponseType = {
+  articleCollection: {
+    items: SitemapItemsType;
+  };
+  utilityCollection: {
+    items: SitemapItemsType;
+  };
+};
+
+type SitemapType = {
+  articleItems: SitemapItemsType;
+  utilityItems: SitemapItemsType;
 };
 
 type UtilitySlugsResponseType = {
@@ -163,6 +182,8 @@ export type {
   FaqsType,
   MetadataResponseType,
   MetadataType,
+  SitemapResponseType,
+  SitemapType,
   SlugsType,
   UtilitiesResponseType,
   UtilitiesType,

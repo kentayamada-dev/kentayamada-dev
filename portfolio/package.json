@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@headlessui/react": "2.2.0",
-    "@t3-oss/env-core": "0.12.0",
+    "@t3-oss/env-nextjs": "0.12.0",
     "@tailwindcss/typography": "0.5.16",
     "@vercel/analytics": "1.5.0",
     "@vercel/speed-insights": "1.2.0",

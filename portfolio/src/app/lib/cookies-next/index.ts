@@ -1,5 +1,5 @@
 import { setCookie } from 'cookies-next';
-import { env } from '@/constants/env';
+import { envClient } from '@/constants/env';
 import { localeCookieName } from '@/constants/i18n';
 import type { SetLocaleCookieType } from './types';
 
@@ -9,7 +9,7 @@ const setLocaleCookie: SetLocaleCookieType = async (value, options) => {
     path: '/',
     priority: 'high',
     sameSite: 'strict',
-    secure: env.IS_VERCEL_ENV,
+    secure: envClient.NEXT_PUBLIC_IS_PRODUCTION,
     ...options
   });
 };

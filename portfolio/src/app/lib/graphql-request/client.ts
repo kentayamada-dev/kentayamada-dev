@@ -1,10 +1,10 @@
 import { GraphQLClient } from 'graphql-request';
-import { env } from '@/constants/env';
+import { envServer } from '@/constants/env';
 
-const apiClient = new GraphQLClient(`https://graphql.contentful.com/content/v1/spaces/${env.CONTENTFUL_SPACE_ID}`, {
+const apiClient = new GraphQLClient(`https://graphql.contentful.com/content/v1/spaces/${envServer.CONTENTFUL_SPACE_ID}`, {
   excludeOperationName: true,
   headers: {
-    authorization: `Bearer ${env.CONTENTFUL_ACCESS_TOKEN}`
+    authorization: `Bearer ${envServer.CONTENTFUL_ACCESS_TOKEN}`
   }
 });
 
