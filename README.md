@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/03563314129739a12ec6f237bc7ee051.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/01577f83957b5f4d6eedc2722a52ec1c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65546cb038df413a89fc1443747661ecfac0a7b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-21795353-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 宮城県で最大震度2の地震　宮城県・気仙沼市
+      <a href=https://news.yahoo.co.jp/articles/9db01fb5282a24716ab6da798469fbdb0be37d24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-05458839-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【天気】西から雨や雪　山沿いでは大雪のおそれ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad720e12cab07d4adc1a265afd8383b4d4529f3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-21795352-tysv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 雪の降り方は?山口県の山地では積雪40センチの予報も　山地を中心に大雪に注意　九州北部地方（山口県、福岡県、大分県、佐賀県、熊本県、長崎県）気象情報（福岡管区気象台　午前5時45分発表）
+      <a href=https://news.yahoo.co.jp/articles/cb8b9471ab90b49698f345af8f347f2d50b7027d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000005-kumanichi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 【速報】八代市など震度2
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac76171f1b86006677a2a99f71650dd6e1213c5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-08219814-fbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【気象台】福岡と佐賀で大雪の恐れ　18日夕方から山地で10センチ　平地で2センチの予想　暴風にも警戒
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532681>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1a0fdcbcb4663552227c8c94390ef56213ebf5925094bc8d688a47a5be8085d1.jpg> 浜岡原発2号機 原子炉の解体開始
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532678>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/a2e4e48badae662ed185045b118e04d1a2ec55850afe55d668365ea40f54991f.jpg> 維新 衆院で予算再修正案に同意へ
       </a>
@@ -426,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532672>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/5c58838c23840b8f6ad1bc84436649d2ab2a2bd735f01b494f1209e68f4d7bd6.jpg> 拘束の邦人に禁錮7年 ベラルーシ
+      <a href=https://news.yahoo.co.jp/pickup/6532681>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1a0fdcbcb4663552227c8c94390ef56213ebf5925094bc8d688a47a5be8085d1.jpg> 浜岡原発2号機 原子炉の解体開始
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532684>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/57d021c447a2397ca533ab0016dad56cb264d50afceb63c3649650f32d8db22b.jpg> 介護職員が減 小規模事業者に支援
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/9886cef32d3935cd9daa9208554dc01bedd4a1ef648929bb6407394914366543.jpg> ベッツ欠場 7kg近く体重減と監督
+      <a href=https://news.yahoo.co.jp/pickup/6532688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/89e5951125de7fc5d84b88abd868dc3cca7e3ac5d38b2177a437a5ada86b2939.jpg> 仕事ない 中国で大学生が就職難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532687>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/ee73d32ddf84dfe61714957fd7a0415662ee9d27bc01cd3b543c0105c2a66992.jpg> 40年スキー限定 客減でスノボ解禁
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532671>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/1ed746286836da6a2f3c573b73ee2bbdeb15ddf3c87b45b7906e1009300a877e.jpg> いしだあゆみさん死去 入院は今月
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 08:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 08:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
