@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/748e7d9cf6f7b9f60198268d375c4410.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/53c59f6dab52d087a9affe3b027eac95.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/05fb75295056dd3a5e43f7e779319f84b23b82fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000033-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米軍、イエメンのフーシ派空爆を継続　拿捕の自動車運搬船も標的か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2e9708cf9ac9e816a970d1434280da7ffeb02501>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米露首脳18日会談へ　ウクライナ停戦要求　米高官「数週間のうちに何らかの取引」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c799a0e311c79033b7a94c128c7818f1650d17c5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-05198829-nkt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破首相の商品券配布を巡る問題…参議院選挙への影響は？　舞立議員「歴代の総理が慣例として普通にやっていたこと」発言を撤回　石破内閣の支持率は政権発足以来最低に
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e01508ccdefac85172b272c771dc6b55c112a764>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-35230593-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=676&ch=676&exp=10800&fmt=webp> トランプ氏、プーチン氏と１８日に協議　すでに資産分割の話し合い進む
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b5e501f7c63ededb855615f0d5935b4c21df7e92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-33170925-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1337&ch=1337&exp=10800&fmt=webp> 今永昇太、米国で感情むき出しの理由明かす「以前は誰かが期待する自分に」「人生を楽しむ的な」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c072508654eb4ed986a29d7b867f4aded923c6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010002-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> イエメンのフーシ派拠点空爆　米軍爆撃で150人超が死傷
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-33170925-nksports-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1337&ch=1337&exp=10800&fmt=webp> 今永昇太、米国で感情むき出しの理由明かす「以前は誰かが期待する自分に」「人生を楽しむ的な」
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532653>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/df68d4eefbfba29be8b135d8d575ecf4621bf3b293e872fbae859010f454e32e.jpg> スーパーの米価格 初の4000円超え
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/db98f8d15b5d7e57c353afc7f2b8615b52d0b907d17b67e82439c8e08acd11b3.jpg> スーパーの米価格 初の4000円超え
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532636>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/feb1a537f195099892e1f4938982f179b1ce9686c6040caad15b7e44f2b56312.jpg> 歌手・俳優 いしだあゆみさん死去
+      <a href=https://news.yahoo.co.jp/pickup/6532652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/70d4dc6c6853c1a426e630a3f7c861d917e3e078fc52e3bef5ff0e3c756c3712.jpg> いしださん死去 甲状腺機能低下症
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 18:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 18:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
