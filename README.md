@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9d90f61d917196e110100b75b94daef1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eda27017eea7c915af735aac9ac8b516.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b12097d87639a300fcb2ff73aab7d7c3eb236457>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000219-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> いしだあゆみさん死去　甲状腺機能低下症とは　疲れ、むくみ、心臓の機能低下…症状は多岐に
+      <a href=https://news.yahoo.co.jp/articles/f18b42261dd6c3a3b0d63c5cc67646413dcdd84d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000031-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 商品券配布「歴代総理の慣例」　首相地元で参院議員発言、一転し撤回
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa4a88db7f801966efac65694266aa0128b81be4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000129-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1590&ch=1590&exp=10800&fmt=webp> 舞立氏「慣例」発言を撤回　商品券配布巡り「誤認」
+      <a href=https://news.yahoo.co.jp/articles/cab0d34ac28d346f103d8bc271501f4475eee860>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00029049-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 18日～19日は積雪や強風で西日本の道路を中心に影響大　スリップや横風など注意
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532625>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/5f5442a347b72e98ab2b1a106ddb7328e8a2b56c2c29ba8ff95500cc9c762c7c.jpg> 渡辺周氏秘書 無車検疑い書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6532641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/6450b0c8fc81c6c3e4388b6fae87df148e6831edb48f373b603826cfc609bb02.jpg> 商品券「慣例」発言を撤回 舞立氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/9b47571217550db5b8033e3fb7a465c417619532977150d8022413645db711ff.jpg> 高知市で火災 2人死亡1人心肺停止
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532633>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/a47ef295c2a9aef6a6bd74c1312cd41be2860cd456759df65a962ac88cad7539.jpg> 4歳転落 1人でホテル内を歩く様子
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532628>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/2a390aaaa1733529746f4e8138869ed7468333b1130c1bd4898b8936819088c0.jpg> 就活生に人気のコンサル 業界の今
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 16:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 16:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
