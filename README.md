@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/43057a5c320ae35abb94e6fb8924c295.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/34739e11d4820995ab18c55070b2e438.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0031ba50f2257c2701735ac06a9197c5ee4754ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00050219-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=34&cw=432&ch=432&exp=10800&fmt=webp> ベラルーシで諜報活動の罪に問われた元日本語講師の男性、禁錮７年の判決…道路や橋を撮影し拘束される
+      <a href=https://news.yahoo.co.jp/articles/b7926a1bc74e72c8da2d2dcf8e9c47a6bfa1126a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-90020732-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 与党内からも「国民納得いかない」世論調査7割超『問題だ』“商品券問題”支持率急落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d436128ff740de5a51ceeb51686fb73d0d1571f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00944271-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相が“商品券配布問題”を重ねて陳謝「世の中の感覚と乖離した部分が大きくあった」　森山幹事長は“退陣論”否定
+      <a href=https://news.yahoo.co.jp/articles/6ca2e251f67702ab4623d3c9f03f427fa3d62f67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ベラルーシで“スパイ活動”拘束の日本人男性に懲役7年　現地裁判所
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 01:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 01:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
