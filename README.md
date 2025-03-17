@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b7eff3d8d4efe4cd283042ccf7f6d2f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b18a124d1362ce10c268bf6d4ecc7ac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7dca554691c45aed55fb9edd67a906fa71f93dc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-21792961-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 上空5500メートルに氷点下33℃以下の強い寒気【嵐の使者】北日本は猛ふぶきや吹きだまりで大雪、交通障害に警戒【雪と雨シミュレーション】九州北部地方は暴風や高波、北海道地方は高潮に警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/694cbeb46584b4ff4cb8d0396a931ded5c9d4c8e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00029038-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 寒さは20日頃まで　週の後半は気温上昇　西・東日本で20℃超えも　服装の目安は
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cea3b10d2bffd33d0640212de6a02a6c209d8f0f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-07224921-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏✕プーチン氏 今週中に電話会談へ　ウクライナ“一時停戦”めぐり　米ウィットコフ特使が見通し示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4b639059ba6357f4e59b1d81e5d05eea2724496>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000001-awire-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=629&ch=629&exp=10800&fmt=webp> 17日の航空各社、雪で欠航58便　北海道・東北方面
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/6af29db85e1ddb2c6f6b83725e5fe92f1856b5e656ee5da76f4fa6f134e0ded5.jpg> JR東海運転士 走行中40秒居眠り
+      <a href=https://news.yahoo.co.jp/pickup/6532603>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/95c6f5f0948191515f1018babab0f9b1e1eed5952c3d4911b003d80150a4831f.jpg> 公立高の定員割れ深刻 募る危機感
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532597>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/df391a9a708bc1bd522dbbcf672ef89874aa3c3cd515283a414732cf5ce60481.jpg> 「行列」最終回は3時間の生放送
+      <a href=https://news.yahoo.co.jp/pickup/6532599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/40d28596b16a8124edd7caf9048dbd68558ddd9e52605d4c1a4db074d4b9dbaf.jpg> バカリ脚本 山本耕史の登場話題
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/40d28596b16a8124edd7caf9048dbd68558ddd9e52605d4c1a4db074d4b9dbaf.jpg> バカリ脚本 山本耕史の登場話題
+      <a href=https://news.yahoo.co.jp/pickup/6532605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/90f33c848964c213c24971cda73ce97d0158266018a79bd549e14dbbbeb5de5b.jpg> 霜降り初の冠番組 3月末で終了
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 10:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 10:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
