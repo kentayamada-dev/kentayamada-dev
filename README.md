@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a6dc927d950720bbeee1a2535d018e01.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1cf211844c355d9e3af7e3a5441445cd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d292fae53099d345e56066ee8b9518790f87b9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00944227-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 参院予算委で石破首相が重ねて陳謝　商品券配布受け野党から追及
+      <a href=https://news.yahoo.co.jp/articles/ce130962c998837ff68ad65be1a475909ef070e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00337699-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 山崎努　マラソンドラマで感じたいしだあゆみさんの鮮烈演技「少しゆっくりしたらいいよ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57dee7e9f98f57e2f5eb6fdac4859417d2b87cc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> タイで拘束の男、逮捕へ　高校生誘拐でも捜査　大阪府警
+      <a href=https://news.yahoo.co.jp/articles/6a6e2b75ce9794b20ec7b9a18a43c3332c997fdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000110-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=103&cw=849&ch=849&exp=10800&fmt=webp> 石破首相、商品券「国民感覚と乖離」　野党、説明求め攻勢
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e9708cf9ac9e816a970d1434280da7ffeb02501>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米露首脳18日会談へ　ウクライナ停戦要求　米高官「数週間のうちに何らかの取引」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000064-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=141&cw=1059&ch=1059&exp=10800&fmt=webp> 米露首脳18日会談へ　ウクライナ停戦要求　米高官「数週間のうちに何らかの取引」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/a47ef295c2a9aef6a6bd74c1312cd41be2860cd456759df65a962ac88cad7539.jpg> 4歳転落 1人でホテル内を歩く様子
+      <a href=https://news.yahoo.co.jp/pickup/6532662>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/3fcf70dbb6ba53858e7b3c9b0abbc2c21faf98a84e319f6bf5f5dc80a9504877.jpg> タイで拘束の男を逮捕へ 大阪府警
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/4384e1f89e8ca5fba9da534d4ea0dd3dbccc8652e22f7ed34ef2656b5645b972.jpg> せいや 今振り返る「いじめ体験」
+      <a href=https://news.yahoo.co.jp/pickup/6532665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/d7ab27b7491153c945f8c32b7b11a022f139fb3e5b5890c7ec1c1b6ab7e241b0.jpg> いしだあゆみさん死去 芸能界の声
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 20:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 21:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
