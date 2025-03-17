@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/387a77a7d58c47448abc2162b6450cdd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/88304660b1a635300908c85650cc52f6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3653a7474289179dc5cbedb425187bd8c7fe5aa9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-21793579-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【大雪情報】福岡 山地10cm 平地1cm  春のお彼岸なのに雪が降るのか?【雪はいつ どこで?】 雪と寒気のシミュレーション18日（火）〜19日（水） 福岡・佐賀・長崎・大分・熊本・宮崎・鹿児島
+      <a href=https://news.yahoo.co.jp/articles/dd65d8cb2f72e31d530b8566a048aa4eb6027862>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00029044-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 東海　18日は穏やかな晴天も　夜は天気急変に注意　20日頃まで寒の戻り　週間天気
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532620>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/8751fe471c9e0bc97b721925a5a6617f4630cc2cfe23f5aecb0dce6d00a290ed.jpg> 19日にかけ寒気影響 天気は不安定
+      <a href=https://news.yahoo.co.jp/pickup/6532606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/bb6fbb9b64c4b21391cad6b1853ac97888cdd7c32fcfdb5d092d3d7834c17967.jpg> ウの新型ミサイル 露首都攻撃圏内
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/bb6fbb9b64c4b21391cad6b1853ac97888cdd7c32fcfdb5d092d3d7834c17967.jpg> ウの新型ミサイル 露首都攻撃圏内
+      <a href=https://news.yahoo.co.jp/pickup/6532615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/47baf379b14a6b65809d2f6a7823dca990a33ed6a15d59f7ab479d2af0b861ed.jpg> 飲酒確認できず 郵便局点呼の実態
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532625>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/5f5442a347b72e98ab2b1a106ddb7328e8a2b56c2c29ba8ff95500cc9c762c7c.jpg> 渡辺周氏秘書 無車検疑い書類送検
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/90f33c848964c213c24971cda73ce97d0158266018a79bd549e14dbbbeb5de5b.jpg> 霜降り初の冠番組 3月末で終了
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 13:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 14:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
