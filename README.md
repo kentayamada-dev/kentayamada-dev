@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d1dff5ae454f8900b8fe16679c8e9443.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a2c43be09c4737a8a2e6b5468597d7af.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec555acffefaa970f8027ead15dc944c7dd877a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-11624077-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=105&cw=640&ch=640&exp=10800&fmt=webp> 鳩山元首相、石破首相の商品券配布に「政治活動でないというのは無理がある」
+      <a href=https://news.yahoo.co.jp/articles/e8909f8f7dc4b7735e7cf4c88c47ac3506675e2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00050172-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> フーシがアメリカ空母ハリー・トルーマンへの攻撃を主張…大規模攻撃への報復と位置づけ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efca34d470f473b1b5912a7bf5f087ab7cfd6d4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米軍、日本郵船運航船にも空爆か　フーシ派系TV報道、23年拿捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e50b01ef767807ad4ca79b2feb0f80b12d5efc80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000042-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> JA全農、備蓄米販売で利益とらず　「備蓄米と表示しないで」要請も
+      <a href=https://news.yahoo.co.jp/articles/4972ca6e0d61c21606e141717ae8e197bdedb0d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00943959-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=764&ch=764&exp=10800&fmt=webp> 【慣例?】「総理、何をやってるんだ」“10万円商品券”めぐり野党が石破首相の“常識”を追及、政倫審出席も要求　国民民主党・玉木代表らも苦言
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e9708cf9ac9e816a970d1434280da7ffeb02501>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米露首脳18日会談へ　ウクライナ停戦要求　米高官「数週間のうちに何らかの取引」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb6a254d8e6181c7196259ad22f0e0125726d427>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00767823-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 嵐・二宮和也、目を潤ませて小倉智昭さんに感謝「お父さんみたいな存在でした」「学ぶ姿勢を教わりました」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/dbf67353de3c76586fb955b4868b6b1f812d85368fa8a7e5d1b8a7584bed60c0.jpg> 456人がノロ感染 仕出し業者閉業
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532656>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/25df1950c9a65e78b918ba6af7187ff0887d156743ac8621e752e14fda683e6a.jpg> フォーエバー21 米国で事業終了か
       </a>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/70d4dc6c6853c1a426e630a3f7c861d917e3e078fc52e3bef5ff0e3c756c3712.jpg> いしださん死去 甲状腺機能低下症
+      <a href=https://news.yahoo.co.jp/pickup/6532644>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/a163ccf99de421186f9ed51d2ee45455d755d7f794cdde2624546ed1381d6cd2.jpg> 消火用ドローン開発へ 東京消防庁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532658>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/50c10fa1a84566f4ab568d9b65e0612fa7b97c3ba8531ac5c3410b04aba647f0.jpg> 元日テレ・久野静香アナ 出産発表
+      <a href=https://news.yahoo.co.jp/pickup/6532654>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/9886cef32d3935cd9daa9208554dc01bedd4a1ef648929bb6407394914366543.jpg> ベッツ欠場 7kg近く体重減と監督
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/70d4dc6c6853c1a426e630a3f7c861d917e3e078fc52e3bef5ff0e3c756c3712.jpg> いしださん死去 甲状腺機能低下症
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 19:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 20:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
