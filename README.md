@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/509a1c34fccffab544cd3bf966a191e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/748e7d9cf6f7b9f60198268d375c4410.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12e721accbfa42e9de106f7e8b38b38870229d88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000038-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 「商品券配布」歴代総理も？
+      <a href=https://news.yahoo.co.jp/articles/c799a0e311c79033b7a94c128c7818f1650d17c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-05198829-nkt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破首相の商品券配布を巡る問題…参議院選挙への影響は？　舞立議員「歴代の総理が慣例として普通にやっていたこと」発言を撤回　石破内閣の支持率は政権発足以来最低に
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b5e501f7c63ededb855615f0d5935b4c21df7e92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-33170925-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1337&ch=1337&exp=10800&fmt=webp> 今永昇太、米国で感情むき出しの理由明かす「以前は誰かが期待する自分に」「人生を楽しむ的な」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-33170925-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1337&ch=1337&exp=10800&fmt=webp> 今永昇太、米国で感情むき出しの理由明かす「以前は誰かが期待する自分に」「人生を楽しむ的な」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/6ab50a3bd8c2ee1eec046f38cf1365909d2ae1cbc6e3041d83ea5cb563b6a010.jpg> 死刑の当日告知 高裁が差し戻し
+      <a href=https://news.yahoo.co.jp/pickup/6532634>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/694fa13c07d2ecda312cc0243e76184d95112b4f949e1cad53f9b702cd365ea2.jpg> 商品券巡り首相 世間と乖離あった
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/19c20409c4e6a9cf706b87d57ad0808e95f9959065a312b99a0fb39af658d4b9.jpg> 北朝鮮の経済代表団 ロシア訪問へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/a47ef295c2a9aef6a6bd74c1312cd41be2860cd456759df65a962ac88cad7539.jpg> 4歳転落 1人でホテル内を歩く様子
+      <a href=https://news.yahoo.co.jp/pickup/6532653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/df68d4eefbfba29be8b135d8d575ecf4621bf3b293e872fbae859010f454e32e.jpg> スーパーの米価格 初の4000円超え
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532650>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/7097be802d7a4ee92fee8a5ab9ae2dcccd4d0268a969397b10eeae0b1f75f23e.jpg> 今永 米国で感情むき出しの理由
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532636>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/feb1a537f195099892e1f4938982f179b1ce9686c6040caad15b7e44f2b56312.jpg> 歌手・俳優 いしだあゆみさん死去
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 17:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 18:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
