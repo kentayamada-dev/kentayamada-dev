@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1cf211844c355d9e3af7e3a5441445cd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/13f5e46d68bf36e2dfbc8914ea33a45b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce130962c998837ff68ad65be1a475909ef070e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00337699-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 山崎努　マラソンドラマで感じたいしだあゆみさんの鮮烈演技「少しゆっくりしたらいいよ」
+      <a href=https://news.yahoo.co.jp/articles/d6c3eaab58c7acd48c7ef0b69b9ae2e797d2ad8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=18&cw=534&ch=534&exp=10800&fmt=webp> 石破首相「選挙の手伝いは行くと伝えた」　自民1期生との会食　参院予算委
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a6e2b75ce9794b20ec7b9a18a43c3332c997fdd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000110-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=103&cw=849&ch=849&exp=10800&fmt=webp> 石破首相、商品券「国民感覚と乖離」　野党、説明求め攻勢
+      <a href=https://news.yahoo.co.jp/articles/ce130962c998837ff68ad65be1a475909ef070e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00337699-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 山崎努　マラソンドラマで感じたいしだあゆみさんの鮮烈演技「少しゆっくりしたらいいよ」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532638>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/bd7b609a8d92bacef0c76560381283164297db054291778fd5206f6c1ad7a08d.jpg> 米大統領 露大統領と18日協議意向
+      <a href=https://news.yahoo.co.jp/pickup/6532648>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/68a3d9e78e9a5178a12229aadd9bb01f0d232d67fbd4c0eb6295639a9d433f44.jpg> 賃金の男女格差8.78万円 過去最小
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/25df1950c9a65e78b918ba6af7187ff0887d156743ac8621e752e14fda683e6a.jpg> フォーエバー21 米国で事業終了か
+      <a href=https://news.yahoo.co.jp/pickup/6532647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/dbf67353de3c76586fb955b4868b6b1f812d85368fa8a7e5d1b8a7584bed60c0.jpg> 456人がノロ感染 仕出し業者閉業
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/a163ccf99de421186f9ed51d2ee45455d755d7f794cdde2624546ed1381d6cd2.jpg> 消火用ドローン開発へ 東京消防庁
+      <a href=https://news.yahoo.co.jp/pickup/6532660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/aa271d6a0876e2d6c5ac42cbcb709898a96df5db6dd97cdf7807e579bcb0de67.jpg> 幻の深海魚か 高校生が稚魚を釣る
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 21:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 21:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
