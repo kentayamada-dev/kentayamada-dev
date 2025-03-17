@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8382533572ff7a48f2b2c0cf347c9f8f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/37be657639ea61a84ec51c7cc9b82d3c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57d203b8fce5b2bbc42d50cb1690f86439939ca2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010009-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「ブルー・ライト・ヨコハマ」いしだあゆみさんが甲状腺機能低下症で死去、76歳
+      <a href=https://news.yahoo.co.jp/articles/d6c3eaab58c7acd48c7ef0b69b9ae2e797d2ad8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=18&cw=534&ch=534&exp=10800&fmt=webp> 石破首相「選挙の手伝いは行くと伝えた」　自民1期生との会食　参院予算委
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6c3eaab58c7acd48c7ef0b69b9ae2e797d2ad8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=18&cw=534&ch=534&exp=10800&fmt=webp> 石破首相「選挙の手伝いは行くと伝えた」　自民1期生との会食　参院予算委
+      <a href=https://news.yahoo.co.jp/articles/a7e0dd41334b541cd1596c6377b7ebaa63543e55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-21794516-ohbsn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今後の雨と雪はいつ、どこで? 東京など関東南部の平地でも降雪? 18〜19日にかけて強い寒気　北日本〜西日本で降雪強まり大雪の恐れ【3時間ごとの雨雪シミュレーション・17日午後9時更新】
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 22:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 22:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
