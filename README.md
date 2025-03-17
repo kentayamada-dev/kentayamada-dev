@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5d0052f06ec57363f0f69bf4d561c10c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9d90f61d917196e110100b75b94daef1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4e0b594043ae1a7d705139935efd7b4818fdaf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00050137-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=85&cw=393&ch=393&exp=10800&fmt=webp> いしだあゆみさんが死去、７６歳…「ブルー・ライト・ヨコハマ」大ヒット
+      <a href=https://news.yahoo.co.jp/articles/b12097d87639a300fcb2ff73aab7d7c3eb236457>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000219-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> いしだあゆみさん死去　甲状腺機能低下症とは　疲れ、むくみ、心臓の機能低下…症状は多岐に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/982cc3ba37d43f25c3899cd628a3c87bbe4e79fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 商品券配布は「歴代首相の慣例」発言を撤回　自民・舞立氏、「事実誤認、推測に基づく」
+      <a href=https://news.yahoo.co.jp/articles/aa4a88db7f801966efac65694266aa0128b81be4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000129-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1590&ch=1590&exp=10800&fmt=webp> 舞立氏「慣例」発言を撤回　商品券配布巡り「誤認」
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532623>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/46252b2e633e53a4a519620479c7fb4f67f288be9db0e03786b23deec5246411.jpg> ド軍激震 ベッツが開幕S欠場へ
+      <a href=https://news.yahoo.co.jp/pickup/6532635>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/5f342ad5a3033bdc0c780a1f2d5f0b0267b623e2e4a6145a8fb9602653eed8a8.jpg> 北斗七星の方向から謎の電波 解明
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 15:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 16:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
