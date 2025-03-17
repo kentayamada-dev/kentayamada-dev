@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/66ca9a9535922693798da2d7e6be43c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/460bf95beffb3b5da6d58f03bd231f8b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/221964666c13bd017c67fbb0515d7c26499756ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-10169010-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=489&cy=0&cw=985&ch=985&exp=10800&fmt=webp> 「商品券配布」歴代総理も？ 追及続く
+      <a href=https://news.yahoo.co.jp/articles/0031ba50f2257c2701735ac06a9197c5ee4754ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00050219-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=34&cw=432&ch=432&exp=10800&fmt=webp> ベラルーシで諜報活動の罪に問われた元日本語講師の男性、禁錮７年の判決…道路や橋を撮影し拘束される
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57d203b8fce5b2bbc42d50cb1690f86439939ca2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010009-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「ブルー・ライト・ヨコハマ」いしだあゆみさんが甲状腺機能低下症で死去、76歳
+      <a href=https://news.yahoo.co.jp/articles/0d436128ff740de5a51ceeb51686fb73d0d1571f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00944271-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相が“商品券配布問題”を重ねて陳謝「世の中の感覚と乖離した部分が大きくあった」　森山幹事長は“退陣論”否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41fdd38f46d4bb9629351a9c3a105773833ad2f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000005-courrier-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=900&ch=900&exp=10800&fmt=webp> イエメンでは死傷者が150人超　トランプはなぜ「圧倒的な殺傷力を持つ武力を使う」とフーシ派を脅し、攻撃するのか
+      <a href=https://news.yahoo.co.jp/articles/6ae9987c086013c73988801823772f30f71c8af9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000085-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=791&ch=791&exp=10800&fmt=webp> 米軍、フーシ派への空爆継続　紅海沿岸の港湾都市など＝報道
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 23:52:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 00:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
