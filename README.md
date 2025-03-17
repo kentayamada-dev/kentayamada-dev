@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1fdeb827adeba4d9a5ec9a1c57583114.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d84dafbabd2ec2ff76526f4d339ebbf3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac76171f1b86006677a2a99f71650dd6e1213c5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-08219814-fbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【気象台】福岡と佐賀で大雪の恐れ　18日夕方から山地で10センチ　平地で2センチの予想　暴風にも警戒
+      <a href=https://news.yahoo.co.jp/articles/7078fe344088d0b57c77a9aa6defc513984a5bbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000002-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 埼玉県で大雪の恐れ　秩父で10センチの降雪予報　18日夜遅くから　関東北部山沿いで19日までに40センチ、関東北部平地で6センチ　南部平地で1センチ【気象情報】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3087995900fbd7d1c8a39e17def09389f197ea81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000010-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=719&ch=719&exp=10800&fmt=webp> 「首相の慣例」新たな火種　商品券配布、自民で常態化か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d3262106cd8de9245de87a5d0f6a149e37ebd157>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000162-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=80&cw=888&ch=888&exp=10800&fmt=webp> 踊る大捜査線「室井慎次」シリーズが遺作に　公式Xでスタッフ追悼　いしだあゆみさん死去
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/34542dc7e235733652608658c3377843eedee458>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-05672557-kkt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 熊本県で震度4の地震 交通にも影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d2af3661410e1a5f9d6f0f827db7b55de7b8cfb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-33171391-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=17&cw=993&ch=993&exp=10800&fmt=webp> いしだあゆみさん、明かしていた芝居の魅力「不倫だって何だって…」幅広い役柄で高評価受ける
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-05672557-kkt-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 熊本県で震度4の地震 交通にも影響
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532674>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/4ef328fae1601e84b7f4e13aaf559380fe58500e50c99428007d28e53e060d13.jpg> 熊本県で震度4 津波の心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6532681>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1a0fdcbcb4663552227c8c94390ef56213ebf5925094bc8d688a47a5be8085d1.jpg> 浜岡原発2号機 原子炉の解体開始
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 07:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 07:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
