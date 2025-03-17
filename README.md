@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9dca978efda35f0474ee74f9250d606b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b7eff3d8d4efe4cd283042ccf7f6d2f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca7fe3ee1c023eb6a44216e31597a52b27ca12e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-07182697-rab-000-1-thumb.jpg?exp=10800&fmt=webp> 海は大しけで下北と三八上北は“湿った大雪”…18日朝までに平地で“30センチ”の雪が降る予想も
+      <a href=https://news.yahoo.co.jp/articles/694cbeb46584b4ff4cb8d0396a931ded5c9d4c8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00029038-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 寒さは20日頃まで　週の後半は気温上昇　西・東日本で20℃超えも　服装の目安は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cea3b10d2bffd33d0640212de6a02a6c209d8f0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-07224921-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏✕プーチン氏 今週中に電話会談へ　ウクライナ“一時停戦”めぐり　米ウィットコフ特使が見通し示す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4b639059ba6357f4e59b1d81e5d05eea2724496>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000001-awire-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=629&ch=629&exp=10800&fmt=webp> 17日の航空各社、雪で欠航58便　北海道・東北方面
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b6b56b7a167df40da8833066fcbe84e772e8960>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000006-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=513&ch=513&exp=10800&fmt=webp> 「合意を期待」　米高官から前向きな発言相次ぐ　ウクライナ停戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a35355b5adba5d5aa457f2190526b9090f27009a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000105-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　首相の商品券配布「もらったことのある人、自ら名乗り出よ…野党も同じようなことがあるやろ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a782660593ab2d75c2c102acbaddc3f123652f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-21792874-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 雪情報　東北太平洋側北部で大雪に　17日昼前にかけて大雪に注意・警戒を　降雪は最大40センチ　気象庁発表
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/151741863d3a37defa242a1597ca2ddd23b84ddce5a764a62bf463f9b685042f.jpg> 麟太郎が止まらない 2戦連発の3号
+      <a href=https://news.yahoo.co.jp/pickup/6532602>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/cc93aa87a4cab876b04641befd226238888c06fff41afe2b1ae89b3feb164e4e.jpg> 西武・源田 左脚負傷で開幕微妙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 09:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 10:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
