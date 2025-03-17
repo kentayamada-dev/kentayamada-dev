@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/36c8652f904315a79ab1c733e359d940.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/66ca9a9535922693798da2d7e6be43c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57d203b8fce5b2bbc42d50cb1690f86439939ca2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010009-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「ブルー・ライト・ヨコハマ」いしだあゆみさんが甲状腺機能低下症で死去、76歳
+      <a href=https://news.yahoo.co.jp/articles/221964666c13bd017c67fbb0515d7c26499756ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-10169010-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=489&cy=0&cw=985&ch=985&exp=10800&fmt=webp> 「商品券配布」歴代総理も？ 追及続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6c3eaab58c7acd48c7ef0b69b9ae2e797d2ad8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=18&cw=534&ch=534&exp=10800&fmt=webp> 石破首相「選挙の手伝いは行くと伝えた」　自民1期生との会食　参院予算委
+      <a href=https://news.yahoo.co.jp/articles/57d203b8fce5b2bbc42d50cb1690f86439939ca2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010009-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「ブルー・ライト・ヨコハマ」いしだあゆみさんが甲状腺機能低下症で死去、76歳
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 23:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 23:52:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
