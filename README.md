@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f719c04f3e95e4ccaf0de9a1b726131e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a84ba622205c1034133224ef30800bf0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da172298f2288906a2a869b6803988752eb5ee06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000006-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=536&cy=0&cw=931&ch=931&exp=10800&fmt=webp> 米ロシア首脳、ウクライナめぐり週内協議の見通し ウィトコフ特使<br />
+      <a href=https://news.yahoo.co.jp/articles/429eb8704f6a605b9289edf0df5974a9e8082a12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00865294-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 高まる「7・20衆参ダブル選挙」の現実味、商品券配布で窮地の石破首相が打って出る？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/453d875acfa4c776b4b45210c5a22410bf37cfad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010002-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今週の前半　太平洋側も不安定な天気・寒さ続く　週後半は季節前進　一気に気温上昇
+      <a href=https://news.yahoo.co.jp/articles/34cd830266d7ed4ff8ffc7aafb0908435cf16382>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00943790-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米ロ首脳が今週にも電話会談か　ウクライナ侵攻終結に向け米ウィトコフ特使が進展明かす「今後数週間で何らかの合意得られること期待」
       </a>
     </td>
   </tr>
@@ -381,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6927ebe17e335c87661799f67f5d5a4ed60b4ceb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000131-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 泉房穂氏　首相の商品券問題に「商品券が飛び交うお金まみれの政治ではなく、政策が飛び交う言葉の政治に」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c0e5c1a6e124e35df66999ddea53ab0abbefad0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-90018188-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】名門・東大寺学園　教員に「時間外・休日労働割増賃金の一部支払わなかった」疑い　校長ら書類送検
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-90018188-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】名門・東大寺学園　教員に「時間外・休日労働割増賃金の一部支払わなかった」疑い　校長ら書類送検
       </a>
     </td>
   </tr>
@@ -418,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532593>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/4ce3ae16b8a37626adb67d46711bdd6228ca799c852d4e2bbd2198a9eda9dd52.jpg> 麻原信じたことが罪 元死刑囚後悔
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/a0a9101798d17e93c92f6f0e44906223303887c8fdec1a2e783cca93c950bde1.jpg> SBI子会社 約34億円の申告漏れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532603>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/95c6f5f0948191515f1018babab0f9b1e1eed5952c3d4911b003d80150a4831f.jpg> 公立高の定員割れ深刻 募る危機感
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/0e53fdc104c7a04d44f841ded9e8fd82692fbd7de4c2c51aad50beb566c0d781.jpg> 奈良 東大寺学園の校長ら書類送検
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/bec5573dead6fc591357893a53b767c617a1939a3536830f58a56c0f9fda33c4.jpg> 新橋の居酒屋 交通妨げ営業停止へ
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532607>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/a1f58ec2a731f33a8906bf3e3529014fcd75d1668d9ceaa9580d18cf8b2df3d8.jpg> 大谷語るゲーム事情「妻と2人で」
+      <a href=https://news.yahoo.co.jp/pickup/6532611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/a1f58ec2a731f33a8906bf3e3529014fcd75d1668d9ceaa9580d18cf8b2df3d8.jpg> 大谷 私生活の「ゲーム事情」語る
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 11:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 12:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
