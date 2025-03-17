@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a84ba622205c1034133224ef30800bf0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/90a5c66f4d24f0a411013259a838f28a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/429eb8704f6a605b9289edf0df5974a9e8082a12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00865294-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 高まる「7・20衆参ダブル選挙」の現実味、商品券配布で窮地の石破首相が打って出る？
+      <a href=https://news.yahoo.co.jp/articles/45f2982395ac96a4dbac10b2ac5b1509747ab16b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000005-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 千葉県知事選制した熊谷俊人氏、Xで当選の弁　低投票率も念頭？「消極的・消去法的に投票した方も」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/579a7e8f83ac94a4a8b7944a33a6e9d71f232ece>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-04376926-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 内閣支持率31％…石破政権に逆風　野党側は“商品券配布”で首相の責任追及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f50c91ade02d396fa89329b6319cd28340d8fa4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-90020664-ann-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 爆弾低気圧襲来で列島は春の嵐　西からさらに別の低気圧　関東も大荒れ　雷雨に注意
       </a>
     </td>
   </tr>
@@ -371,27 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4f230cf131aa479cbef7795a3c207ac9c203852>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-16277424-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 米軍、イエメンのフーシ派拠点を空爆　子供含む53人死亡とフーシ派発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0e5c1a6e124e35df66999ddea53ab0abbefad0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-90018188-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】名門・東大寺学園　教員に「時間外・休日労働割増賃金の一部支払わなかった」疑い　校長ら書類送検
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/7821658cb5d7f6537c2ccc9068ccdf072b472239db4945375055c0aea60787d8.jpg> 石破氏 歴代首相が配布か存じない
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532604>
@@ -402,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/75b316deba70a37cbd2f439184c946559242356e3ce49bae96b35365b6e63e4f.jpg> 米南部・中西部で竜巻 30人超死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/95c6f5f0948191515f1018babab0f9b1e1eed5952c3d4911b003d80150a4831f.jpg> 公立高の定員割れ深刻 募る危機感
+      <a href=https://news.yahoo.co.jp/pickup/6532612>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/9b47571217550db5b8033e3fb7a465c417619532977150d8022413645db711ff.jpg> 高知市で住宅火災 3人心肺停止
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/44a7c40a024d7e8c2a3fcbf5753835c8cca7453706a50dfdc019c4e3d39f334d.jpg> アマプラ、スポーツ配信拡充狙い
+      <a href=https://news.yahoo.co.jp/pickup/6532614>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/5597519adcc1e1bc4977a947407f78faffb6201b10ef04f3fce7a7f97f2f5d81.jpg> 富士山の入山料4000円 条例案可決
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 12:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 12:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
