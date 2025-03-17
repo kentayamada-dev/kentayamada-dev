@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9fc16cce106106ff6d37d8a083def945.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3807a2690ca0b52a3dd84776001a2faa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1b6b56b7a167df40da8833066fcbe84e772e8960>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000006-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=513&ch=513&exp=10800&fmt=webp> 「合意を期待」　米高官から前向きな発言相次ぐ　ウクライナ停戦
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a35355b5adba5d5aa457f2190526b9090f27009a>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4ed7add1d27795234ccbb11c83c7c78a9c967194>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000003-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米フーシ派攻撃、商戦への攻撃やめるまで継続とヘグセス国防長官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3677bf9d3bb7c5609fad4676c49565b3c32916ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00943744-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=362&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ・ロシア電話首脳会談を今週にも開催か　ウィトコフ特使「今後数週間で何らかの合意を期待」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000003-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 再送-米フーシ派攻撃、商船への攻撃やめるまで継続とヘグセス国防長官
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/16/a2bd491c679f0eb57e2bd6fb7185cd06c4c6c676a38408ee2bd6243c7568eef5.jpg> 千葉知事選 熊谷俊人氏が再選
+      <a href=https://news.yahoo.co.jp/pickup/6532592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/990180fb273beb1e8707cc8bc4e637e85f20963a387056f94121ff29772fc39e.jpg> 経済再生相に事実上の企業献金か
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/77b6d5cea9a327d6d29a364189ee18e277c40d89a5d3f0b5cfd5a3fd1306234b.jpg> 亡き「校長」へ MAXが全力追悼
+      <a href=https://news.yahoo.co.jp/pickup/6532595>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/40d28596b16a8124edd7caf9048dbd68558ddd9e52605d4c1a4db074d4b9dbaf.jpg> ホットスポット最終話 出演者話題
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 08:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 09:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
