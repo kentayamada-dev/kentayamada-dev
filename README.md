@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d3dc078f93e9766b0aef698c1e18687a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/36c8652f904315a79ab1c733e359d940.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6c3eaab58c7acd48c7ef0b69b9ae2e797d2ad8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=18&cw=534&ch=534&exp=10800&fmt=webp> 石破首相「選挙の手伝いは行くと伝えた」　自民1期生との会食　参院予算委
+      <a href=https://news.yahoo.co.jp/articles/57d203b8fce5b2bbc42d50cb1690f86439939ca2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010009-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「ブルー・ライト・ヨコハマ」いしだあゆみさんが甲状腺機能低下症で死去、76歳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efb29ae98a5141e242c25b89290d92c72a508600>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000024-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=599&ch=599&exp=10800&fmt=webp> 東北道などで予防的通行止め予定　大雪警戒　19日未明から　他の区間も可能性【交通情報】
+      <a href=https://news.yahoo.co.jp/articles/d6c3eaab58c7acd48c7ef0b69b9ae2e797d2ad8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=18&cw=534&ch=534&exp=10800&fmt=webp> 石破首相「選挙の手伝いは行くと伝えた」　自民1期生との会食　参院予算委
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532669>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/483d00ef960785361d2faeaaf95c56cd2d64f6e27bd4409d6833e34248070977.jpg> 米軍 フーシ派への空爆を継続
+      <a href=https://news.yahoo.co.jp/pickup/6532672>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/5c58838c23840b8f6ad1bc84436649d2ab2a2bd735f01b494f1209e68f4d7bd6.jpg> 拘束の邦人に禁錮7年 ベラルーシ
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/d7ab27b7491153c945f8c32b7b11a022f139fb3e5b5890c7ec1c1b6ab7e241b0.jpg> いしだあゆみさん死去 芸能界の声
+      <a href=https://news.yahoo.co.jp/pickup/6532671>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/1ed746286836da6a2f3c573b73ee2bbdeb15ddf3c87b45b7906e1009300a877e.jpg> いしだあゆみさん死去 入院は今月
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 23:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 23:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
