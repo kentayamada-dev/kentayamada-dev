@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/90a5c66f4d24f0a411013259a838f28a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/38f3f05a149e88d4ee5e357db91d24f7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/23e1dd06bc6b6df320a27ffce10b9d3d028ec63a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00050097-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=375&ch=375&exp=10800&fmt=webp> トランプ氏とプーチン氏、今週「即時停戦案」議論か…米特使「前向きで建設的な協議になる」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/45f2982395ac96a4dbac10b2ac5b1509747ab16b>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f50c91ade02d396fa89329b6319cd28340d8fa4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-90020664-ann-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 爆弾低気圧襲来で列島は春の嵐　西からさらに別の低気圧　関東も大荒れ　雷雨に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34cd830266d7ed4ff8ffc7aafb0908435cf16382>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00943790-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米ロ首脳が今週にも電話会談か　ウクライナ侵攻終結に向け米ウィトコフ特使が進展明かす「今後数週間で何らかの合意得られること期待」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-90020664-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=962&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 爆弾低気圧襲来で列島は春の嵐　西からさらに別の低気圧　関東も大荒れ　雷雨に注意
       </a>
     </td>
   </tr>
@@ -394,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532620>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/8751fe471c9e0bc97b721925a5a6617f4630cc2cfe23f5aecb0dce6d00a290ed.jpg> 19日にかけ寒気影響 天気は不安定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532608>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/7821658cb5d7f6537c2ccc9068ccdf072b472239db4945375055c0aea60787d8.jpg> 石破氏 歴代首相が配布か存じない
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532604>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/f822970896261e0a3c87a2d389be635978afc5a60f7ffb9fdfe44526614cf040.jpg> 備蓄米 コメ価格の抑制は一時的か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532612>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/9b47571217550db5b8033e3fb7a465c417619532977150d8022413645db711ff.jpg> 高知市で住宅火災 3人心肺停止
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532623>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/46252b2e633e53a4a519620479c7fb4f67f288be9db0e03786b23deec5246411.jpg> ド軍激震 ベッツが開幕S欠場へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532611>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/a1f58ec2a731f33a8906bf3e3529014fcd75d1668d9ceaa9580d18cf8b2df3d8.jpg> 大谷 私生活の「ゲーム事情」語る
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 12:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 13:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
