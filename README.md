@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/53c59f6dab52d087a9affe3b027eac95.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d4bdef844b6c7d3b59729faa991fa69b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7dfaf6bab5d157ed71bcfd5bfbb387c0bbdbeed1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-90012368-ftb-000-1-thumb.jpg?exp=10800&fmt=webp> 「びっくり、感覚がずれている、少額だからいい…」石破首相の10万円分商品券配布問題　県民から賛否の声【福井】
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/05fb75295056dd3a5e43f7e779319f84b23b82fa>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c799a0e311c79033b7a94c128c7818f1650d17c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-05198829-nkt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破首相の商品券配布を巡る問題…参議院選挙への影響は？　舞立議員「歴代の総理が慣例として普通にやっていたこと」発言を撤回　石破内閣の支持率は政権発足以来最低に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5e501f7c63ededb855615f0d5935b4c21df7e92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-33170925-nksports-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1337&ch=1337&exp=10800&fmt=webp> 今永昇太、米国で感情むき出しの理由明かす「以前は誰かが期待する自分に」「人生を楽しむ的な」
+      <a href=https://news.yahoo.co.jp/articles/fb6a254d8e6181c7196259ad22f0e0125726d427>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00767823-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 嵐・二宮和也、目を潤ませて小倉智昭さんに感謝「お父さんみたいな存在でした」「学ぶ姿勢を教わりました」
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532634>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/694fa13c07d2ecda312cc0243e76184d95112b4f949e1cad53f9b702cd365ea2.jpg> 商品券巡り首相 世間と乖離あった
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/6450b0c8fc81c6c3e4388b6fae87df148e6831edb48f373b603826cfc609bb02.jpg> 商品券「慣例」発言を撤回 舞立氏
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532655>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/f00f49f2596b044b4b96c5d83b57475526d31e8fd3fcacc19c0e98813c7d39bb.jpg> 二宮和也の目に涙 小倉さんしのぶ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 18:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 19:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
