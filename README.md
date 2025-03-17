@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCUUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20d79b213ea47a50b760a8fb85ca958d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f719c04f3e95e4ccaf0de9a1b726131e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/390fb15f974653f9e4a91b5f8a51756a62ad6832>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-35230569-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 米中部と南部で相次ぐ竜巻　３９人死亡、３０万軒停電　建物にも大きな被害
+      <a href=https://news.yahoo.co.jp/articles/da172298f2288906a2a869b6803988752eb5ee06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000006-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=536&cy=0&cw=931&ch=931&exp=10800&fmt=webp> 米ロシア首脳、ウクライナめぐり週内協議の見通し ウィトコフ特使<br />
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0c0ca8a7c0d4aae2954a1fca7d6f717a9238377>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-33170324-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=45&cw=1238&ch=1238&exp=10800&fmt=webp> 舛添要一氏「石破首相や側近たちの不祥事情報がこれから続々と出てくるだろう」
+      <a href=https://news.yahoo.co.jp/articles/453d875acfa4c776b4b45210c5a22410bf37cfad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010002-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 今週の前半　太平洋側も不安定な天気・寒さ続く　週後半は季節前進　一気に気温上昇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7dca554691c45aed55fb9edd67a906fa71f93dc9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-21792961-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 上空5500メートルに氷点下33℃以下の強い寒気【嵐の使者】北日本は猛ふぶきや吹きだまりで大雪、交通障害に警戒【雪と雨シミュレーション】九州北部地方は暴風や高波、北海道地方は高潮に警戒
+      <a href=https://news.yahoo.co.jp/articles/f4f230cf131aa479cbef7795a3c207ac9c203852>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-16277424-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 米軍、イエメンのフーシ派拠点を空爆　子供含む53人死亡とフーシ派発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cea3b10d2bffd33d0640212de6a02a6c209d8f0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-07224921-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏✕プーチン氏 今週中に電話会談へ　ウクライナ“一時停戦”めぐり　米ウィットコフ特使が見通し示す
+      <a href=https://news.yahoo.co.jp/articles/6927ebe17e335c87661799f67f5d5a4ed60b4ceb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000131-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 泉房穂氏　首相の商品券問題に「商品券が飛び交うお金まみれの政治ではなく、政策が飛び交う言葉の政治に」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d2acb35df0f66c77d8f50dc829eff576089a1d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 米軍、イエメンのフーシ派に軍事攻撃　31人死亡　第2次トランプ政権発足後、中東で最大規模
+      <a href=https://news.yahoo.co.jp/articles/c0e5c1a6e124e35df66999ddea53ab0abbefad0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-90018188-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】名門・東大寺学園　教員に「時間外・休日労働割増賃金の一部支払わなかった」疑い　校長ら書類送検
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/990180fb273beb1e8707cc8bc4e637e85f20963a387056f94121ff29772fc39e.jpg> 経済再生相に事実上の企業献金か
+      <a href=https://news.yahoo.co.jp/pickup/6532600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/75b316deba70a37cbd2f439184c946559242356e3ce49bae96b35365b6e63e4f.jpg> 米南部・中西部で竜巻 30人超死亡
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532602>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/cc93aa87a4cab876b04641befd226238888c06fff41afe2b1ae89b3feb164e4e.jpg> 西武・源田 左脚負傷で開幕微妙
+      <a href=https://news.yahoo.co.jp/pickup/6532607>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/a1f58ec2a731f33a8906bf3e3529014fcd75d1668d9ceaa9580d18cf8b2df3d8.jpg> 大谷語るゲーム事情「妻と2人で」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 11:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 11:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
