@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cc1c039830a14f2f80fb0490d27b921b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3fb21cf5aaa154b7e2863643cd724e77.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9caa4af788a713823a44d226d4155a3a7330556a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-21795320-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 熊本県で最大震度1の地震　熊本県・八代市
+      <a href=https://news.yahoo.co.jp/articles/a121bbddc46ab4f7cde66865b75b4086aba4ad76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00944293-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 現行憲法下で初の参院で修正予算案が成立へ…石破首相表明の高額療養費“凍結”の増額分105億円は予備費活用の予算案まとまる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/91a4a9878d54dea97c654588393c383fee656bf3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-09195973-fbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】熊本で最大震度4　福岡で震度2　九州新幹線は熊本～鹿児島中央で運転見合わせ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ea009de6d98a1072a7206397f637d7b0620b748c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000019-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=760&ch=760&exp=10800&fmt=webp> 暴風や落雷、突風に警戒　気象庁、大気が不安定
       </a>
     </td>
   </tr>
@@ -394,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532678>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/a2e4e48badae662ed185045b118e04d1a2ec55850afe55d668365ea40f54991f.jpg> 維新 衆院で予算再修正案に同意へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532672>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/5c58838c23840b8f6ad1bc84436649d2ab2a2bd735f01b494f1209e68f4d7bd6.jpg> 拘束の邦人に禁錮7年 ベラルーシ
       </a>
@@ -402,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/e859b596bf6fbd10908909cab424313f7cbfe2b34080ce7b9c8def3f722b519c.jpg> 妻が死亡 医療過誤訴え大学を提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/11b01e8e601dd7c8722e022772f355477f9ec76c9939c7bac2ef0a9502295757.jpg> 財務省解体デモ ネット中心に拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532668>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/97a3562f7a4c95f8c3c97bf893aacbf1cfe73e361a0afbed9ac41779fcb7c806.jpg> 体操・中山彰規さん死去 金6個
+      <a href=https://news.yahoo.co.jp/pickup/6532677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1c4a271ccf7bb8403e2d1c9e108637ab76d11c482fb2d5a5a48983125c644ada.jpg> 郵便配達員の酩酊運転 通報11日後
       </a>
     </td>
   </tr>
@@ -428,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532654>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/9886cef32d3935cd9daa9208554dc01bedd4a1ef648929bb6407394914366543.jpg> ベッツ欠場 7kg近く体重減と監督
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532676>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/77817406b832d63ad612af642ebb5605f31c2aa9c0376e04c59c9b0eb7c8290d.jpg> AdoやYOASOBIがLAでライブ 熱狂
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 06:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 06:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
