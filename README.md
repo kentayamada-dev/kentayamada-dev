@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eda27017eea7c915af735aac9ac8b516.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/19b75c8125f4bd0e1ce73ba73d1b7641.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e01508ccdefac85172b272c771dc6b55c112a764>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-35230593-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=676&ch=676&exp=10800&fmt=webp> トランプ氏、プーチン氏と１８日に協議　すでに資産分割の話し合い進む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f8dd6f4f9d73423acde0d15728e804e423ae474b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-10168944-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=385&cy=0&cw=971&ch=971&exp=10800&fmt=webp> フルタイム労働者の平均月給 33万円で過去最高を更新
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f18b42261dd6c3a3b0d63c5cc67646413dcdd84d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000031-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 商品券配布「歴代総理の慣例」　首相地元で参院議員発言、一転し撤回
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cab0d34ac28d346f103d8bc271501f4475eee860>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00029049-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 18日～19日は積雪や強風で西日本の道路を中心に影響大　スリップや横風など注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c072508654eb4ed986a29d7b867f4aded923c6f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010002-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> イエメンのフーシ派拠点空爆　米軍爆撃で150人超が死傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2c7942b1d0c87c875e79416b7b924fd37c80b9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-03226119-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 米トランプ大統領、露プーチン大統領と18日に対話の予定　ウクライナ停戦交渉めぐり
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/88cead7a7f986fa4ffd114d7048b14790dda616a4337bce9116ab00a2aab7fa5.jpg> 米FRB 金利据え置きの公算大
+      <a href=https://news.yahoo.co.jp/pickup/6532641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/6450b0c8fc81c6c3e4388b6fae87df148e6831edb48f373b603826cfc609bb02.jpg> 商品券「慣例」発言を撤回 舞立氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/6450b0c8fc81c6c3e4388b6fae87df148e6831edb48f373b603826cfc609bb02.jpg> 商品券「慣例」発言を撤回 舞立氏
+      <a href=https://news.yahoo.co.jp/pickup/6532626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/19c20409c4e6a9cf706b87d57ad0808e95f9959065a312b99a0fb39af658d4b9.jpg> 北朝鮮の経済代表団 ロシア訪問へ
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/dbf67353de3c76586fb955b4868b6b1f812d85368fa8a7e5d1b8a7584bed60c0.jpg> 456人がノロ感染 仕出し業者閉業
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532635>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/5f342ad5a3033bdc0c780a1f2d5f0b0267b623e2e4a6145a8fb9602653eed8a8.jpg> 北斗七星の方向から謎の電波 解明
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/7e6c963b45a8a38b5ffdd548b41236859b6ea4ebc4a96ca9ff73971b3ef7775e.jpg> ニコル「ヒルナンデス」卒業発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 16:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 17:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
