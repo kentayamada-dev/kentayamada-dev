@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d4bdef844b6c7d3b59729faa991fa69b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d1dff5ae454f8900b8fe16679c8e9443.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7dfaf6bab5d157ed71bcfd5bfbb387c0bbdbeed1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-90012368-ftb-000-1-thumb.jpg?exp=10800&fmt=webp> 「びっくり、感覚がずれている、少額だからいい…」石破首相の10万円分商品券配布問題　県民から賛否の声【福井】
+      <a href=https://news.yahoo.co.jp/articles/ec555acffefaa970f8027ead15dc944c7dd877a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-11624077-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=105&cw=640&ch=640&exp=10800&fmt=webp> 鳩山元首相、石破首相の商品券配布に「政治活動でないというのは無理がある」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05fb75295056dd3a5e43f7e779319f84b23b82fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000033-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米軍、イエメンのフーシ派空爆を継続　拿捕の自動車運搬船も標的か
+      <a href=https://news.yahoo.co.jp/articles/efca34d470f473b1b5912a7bf5f087ab7cfd6d4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米軍、日本郵船運航船にも空爆か　フーシ派系TV報道、23年拿捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e50b01ef767807ad4ca79b2feb0f80b12d5efc80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000042-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> JA全農、備蓄米販売で利益とらず　「備蓄米と表示しないで」要請も
       </a>
     </td>
   </tr>
@@ -379,19 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb6a254d8e6181c7196259ad22f0e0125726d427>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00767823-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 嵐・二宮和也、目を潤ませて小倉智昭さんに感謝「お父さんみたいな存在でした」「学ぶ姿勢を教わりました」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532638>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/bd7b609a8d92bacef0c76560381283164297db054291778fd5206f6c1ad7a08d.jpg> 米大統領 露大統領と18日協議意向
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532634>
@@ -402,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/df23abc4584a33e9f0f8ccaae29e99e39f8de347288de6307b2131a59a8f22c0.jpg> 18～19日 九州～関東で急な雨注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532653>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/db98f8d15b5d7e57c353afc7f2b8615b52d0b907d17b67e82439c8e08acd11b3.jpg> スーパーの米価格 初の4000円超え
+      <a href=https://news.yahoo.co.jp/pickup/6532657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/d46f3cf5eacf32bf4fb7b3ef4104c3690f079572472f53755329a6693b92937e.jpg> 備蓄米販売で利益とらず JA全農
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532635>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/5f342ad5a3033bdc0c780a1f2d5f0b0267b623e2e4a6145a8fb9602653eed8a8.jpg> 北斗七星の方向から謎の電波 解明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532650>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/7097be802d7a4ee92fee8a5ab9ae2dcccd4d0268a969397b10eeae0b1f75f23e.jpg> 今永 米国で感情むき出しの理由
+      <a href=https://news.yahoo.co.jp/pickup/6532656>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/25df1950c9a65e78b918ba6af7187ff0887d156743ac8621e752e14fda683e6a.jpg> フォーエバー21 米国で事業終了か
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532652>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/70d4dc6c6853c1a426e630a3f7c861d917e3e078fc52e3bef5ff0e3c756c3712.jpg> いしださん死去 甲状腺機能低下症
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/50c10fa1a84566f4ab568d9b65e0612fa7b97c3ba8531ac5c3410b04aba647f0.jpg> 元日テレ・久野静香アナ 出産発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 19:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 19:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
