@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/460bf95beffb3b5da6d58f03bd231f8b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/43057a5c320ae35abb94e6fb8924c295.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0d436128ff740de5a51ceeb51686fb73d0d1571f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00944271-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相が“商品券配布問題”を重ねて陳謝「世の中の感覚と乖離した部分が大きくあった」　森山幹事長は“退陣論”否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ae9987c086013c73988801823772f30f71c8af9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000085-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=791&ch=791&exp=10800&fmt=webp> 米軍、フーシ派への空爆継続　紅海沿岸の港湾都市など＝報道
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 00:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 01:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
