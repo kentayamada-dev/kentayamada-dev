@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a2c43be09c4737a8a2e6b5468597d7af.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a6dc927d950720bbeee1a2535d018e01.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8909f8f7dc4b7735e7cf4c88c47ac3506675e2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00050172-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> フーシがアメリカ空母ハリー・トルーマンへの攻撃を主張…大規模攻撃への報復と位置づけ
+      <a href=https://news.yahoo.co.jp/articles/7d292fae53099d345e56066ee8b9518790f87b9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00944227-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 参院予算委で石破首相が重ねて陳謝　商品券配布受け野党から追及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4972ca6e0d61c21606e141717ae8e197bdedb0d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00943959-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=764&ch=764&exp=10800&fmt=webp> 【慣例?】「総理、何をやってるんだ」“10万円商品券”めぐり野党が石破首相の“常識”を追及、政倫審出席も要求　国民民主党・玉木代表らも苦言
+      <a href=https://news.yahoo.co.jp/articles/57dee7e9f98f57e2f5eb6fdac4859417d2b87cc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> タイで拘束の男、逮捕へ　高校生誘拐でも捜査　大阪府警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/41fdd38f46d4bb9629351a9c3a105773833ad2f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000005-courrier-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=900&ch=900&exp=10800&fmt=webp> イエメンでは死傷者が150人超　トランプはなぜ「圧倒的な殺傷力を持つ武力を使う」とフーシ派を脅し、攻撃するのか
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e9708cf9ac9e816a970d1434280da7ffeb02501>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米露首脳18日会談へ　ウクライナ停戦要求　米高官「数週間のうちに何らかの取引」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb6a254d8e6181c7196259ad22f0e0125726d427>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00767823-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 嵐・二宮和也、目を潤ませて小倉智昭さんに感謝「お父さんみたいな存在でした」「学ぶ姿勢を教わりました」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532634>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/694fa13c07d2ecda312cc0243e76184d95112b4f949e1cad53f9b702cd365ea2.jpg> 商品券巡り首相 世間と乖離あった
+      <a href=https://news.yahoo.co.jp/pickup/6532657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/d46f3cf5eacf32bf4fb7b3ef4104c3690f079572472f53755329a6693b92937e.jpg> 備蓄米販売で利益とらず JA全農
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/d46f3cf5eacf32bf4fb7b3ef4104c3690f079572472f53755329a6693b92937e.jpg> 備蓄米販売で利益とらず JA全農
+      <a href=https://news.yahoo.co.jp/pickup/6532633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/a47ef295c2a9aef6a6bd74c1312cd41be2860cd456759df65a962ac88cad7539.jpg> 4歳転落 1人でホテル内を歩く様子
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/70d4dc6c6853c1a426e630a3f7c861d917e3e078fc52e3bef5ff0e3c756c3712.jpg> いしださん死去 甲状腺機能低下症
+      <a href=https://news.yahoo.co.jp/pickup/6532661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/4384e1f89e8ca5fba9da534d4ea0dd3dbccc8652e22f7ed34ef2656b5645b972.jpg> せいや 今振り返る「いじめ体験」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 20:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 20:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
