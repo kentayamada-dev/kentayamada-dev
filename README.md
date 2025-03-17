@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3807a2690ca0b52a3dd84776001a2faa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9dca978efda35f0474ee74f9250d606b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ca7fe3ee1c023eb6a44216e31597a52b27ca12e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-07182697-rab-000-1-thumb.jpg?exp=10800&fmt=webp> 海は大しけで下北と三八上北は“湿った大雪”…18日朝までに平地で“30センチ”の雪が降る予想も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4d2acb35df0f66c77d8f50dc829eff576089a1d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 米軍、イエメンのフーシ派に軍事攻撃　31人死亡　第2次トランプ政権発足後、中東で最大規模
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1b6b56b7a167df40da8833066fcbe84e772e8960>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000006-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=513&ch=513&exp=10800&fmt=webp> 「合意を期待」　米高官から前向きな発言相次ぐ　ウクライナ停戦
       </a>
@@ -366,31 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a35355b5adba5d5aa457f2190526b9090f27009a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000105-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　首相の商品券配布「もらったことのある人、自ら名乗り出よ…野党も同じようなことがあるやろ」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000105-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　首相の商品券配布「もらったことのある人、自ら名乗り出よ…野党も同じようなことがあるやろ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/401827ea63bde1afa77ae9feffde4d9d0fcf97fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 北海道など大雪や暴風警戒　気象庁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ed7add1d27795234ccbb11c83c7c78a9c967194>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000003-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 再送-米フーシ派攻撃、商船への攻撃やめるまで継続とヘグセス国防長官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ce661e83d97b186809edb4d6a1de1716824fcc3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】17日の天気 - 北海道中心に大雪・吹雪に注意　　太平洋側は変わりやすい天気（17日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/3a782660593ab2d75c2c102acbaddc3f123652f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-21792874-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 雪情報　東北太平洋側北部で大雪に　17日昼前にかけて大雪に注意・警戒を　降雪は最大40センチ　気象庁発表
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532589>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/ee7ef44144010e186c30d9ab4b7da900f10fb5dd5ab669f54ac947f89ee27ac9.jpg> 強い寒気流入 北日本で大雪に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6532593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/4ce3ae16b8a37626adb67d46711bdd6228ca799c852d4e2bbd2198a9eda9dd52.jpg> 麻原信じたことが罪 元死刑囚後悔
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532585>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/043bf7f893b864ac4d324b2913fa39d58d631dc1f3e4124d689f36b0861c90f3.jpg> 日本郵便配達員 業務時に酩酊運転
+      <a href=https://news.yahoo.co.jp/pickup/6532596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/a0a9101798d17e93c92f6f0e44906223303887c8fdec1a2e783cca93c950bde1.jpg> SBI子会社 約34億円の申告漏れ
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532595>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/40d28596b16a8124edd7caf9048dbd68558ddd9e52605d4c1a4db074d4b9dbaf.jpg> ホットスポット最終話 出演者話題
+      <a href=https://news.yahoo.co.jp/pickup/6532597>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/df391a9a708bc1bd522dbbcf672ef89874aa3c3cd515283a414732cf5ce60481.jpg> 「行列」最終回は3時間の生放送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/93306aa617e0bf7ef57f1982f241cd4ea5ff037048ed153b184d8fdc73e5709f.jpg> 俳優・間下このみ 離婚していた
+      <a href=https://news.yahoo.co.jp/pickup/6532599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/40d28596b16a8124edd7caf9048dbd68558ddd9e52605d4c1a4db074d4b9dbaf.jpg> バカリ脚本 山本耕史の登場話題
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 09:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 09:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
