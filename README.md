@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/13f5e46d68bf36e2dfbc8914ea33a45b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8382533572ff7a48f2b2c0cf347c9f8f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57d203b8fce5b2bbc42d50cb1690f86439939ca2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00010009-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「ブルー・ライト・ヨコハマ」いしだあゆみさんが甲状腺機能低下症で死去、76歳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d6c3eaab58c7acd48c7ef0b69b9ae2e797d2ad8c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=18&cw=534&ch=534&exp=10800&fmt=webp> 石破首相「選挙の手伝いは行くと伝えた」　自民1期生との会食　参院予算委
       </a>
@@ -365,24 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce130962c998837ff68ad65be1a475909ef070e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00337699-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 山崎努　マラソンドラマで感じたいしだあゆみさんの鮮烈演技「少しゆっくりしたらいいよ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/41fdd38f46d4bb9629351a9c3a105773833ad2f8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000005-courrier-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=900&ch=900&exp=10800&fmt=webp> イエメンでは死傷者が150人超　トランプはなぜ「圧倒的な殺傷力を持つ武力を使う」とフーシ派を脅し、攻撃するのか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e9708cf9ac9e816a970d1434280da7ffeb02501>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000064-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=141&cw=1059&ch=1059&exp=10800&fmt=webp> 米露首脳18日会談へ　ウクライナ停戦要求　米高官「数週間のうちに何らかの取引」
       </a>
     </td>
   </tr>
@@ -402,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/d46f3cf5eacf32bf4fb7b3ef4104c3690f079572472f53755329a6693b92937e.jpg> 備蓄米販売で利益とらず JA全農
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532662>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/3fcf70dbb6ba53858e7b3c9b0abbc2c21faf98a84e319f6bf5f5dc80a9504877.jpg> タイで拘束の男を逮捕へ 大阪府警
+      <a href=https://news.yahoo.co.jp/pickup/6532649>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/9cd7d587e25d1499e0bba2f6109803aa1e3ced09c5b55804c4f424440fb5de37.jpg> 日本で暮らす脱北者ら 実情を語る
       </a>
     </td>
   </tr>
@@ -420,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532647>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/dbf67353de3c76586fb955b4868b6b1f812d85368fa8a7e5d1b8a7584bed60c0.jpg> 456人がノロ感染 仕出し業者閉業
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/e859b596bf6fbd10908909cab424313f7cbfe2b34080ce7b9c8def3f722b519c.jpg> 妻が死亡 医療過誤訴え大学を提訴
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/d7ab27b7491153c945f8c32b7b11a022f139fb3e5b5890c7ec1c1b6ab7e241b0.jpg> いしだあゆみさん死去 芸能界の声
+      <a href=https://news.yahoo.co.jp/pickup/6532661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/4384e1f89e8ca5fba9da534d4ea0dd3dbccc8652e22f7ed34ef2656b5645b972.jpg> せいや 今振り返る「いじめ体験」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532655>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/f00f49f2596b044b4b96c5d83b57475526d31e8fd3fcacc19c0e98813c7d39bb.jpg> 二宮和也の目に涙 小倉さんしのぶ
+      <a href=https://news.yahoo.co.jp/pickup/6532665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/d7ab27b7491153c945f8c32b7b11a022f139fb3e5b5890c7ec1c1b6ab7e241b0.jpg> いしだあゆみさん死去 芸能界の声
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/17 21:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/17 22:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
