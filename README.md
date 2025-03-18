@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0979be61ba4da88498c1cfd584860bbe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc49dcec52210c0624bfe091f5760648.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ce5f087abfa232aeec9f782800a885b4e4d0cf0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000012-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> イスラエル外相「ガザ攻撃は数日続く」、米国に事前に通知
+      <a href=https://news.yahoo.co.jp/articles/06cbc5f15d239f280c80425e69093587abe57186>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050044-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=333&ch=333&exp=10800&fmt=webp> プーチン氏、トランプ氏の提案に同意…発電所などのエネルギー施設標的の攻撃を３０日間停止へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e45ff9576b5f676445d9f515e2761a2a35c4c433>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ロ首脳会談　ウクライナとの「永続的な和平」が必要だという認識で一致
+      <a href=https://news.yahoo.co.jp/articles/2ce5f087abfa232aeec9f782800a885b4e4d0cf0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000012-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> イスラエル外相「ガザ攻撃は数日続く」、米国に事前に通知
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/6d930313411a471d6aa0f08777ceba8e4bc14ccd4540eb2bb743f0cc93e5efde.jpg> 発効2カ月 ガザ停戦は崩壊危機
+      <a href=https://news.yahoo.co.jp/pickup/6532769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/4ace6f76b90ff27d65f2a0b98e0eecd4f6cd7bd96bbf316a9825fd077410efe8.jpg> 米露 エネ施設への攻撃停止で合意
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 03:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 04:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
