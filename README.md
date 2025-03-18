@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f6a4a7b63381142a0d93da7fa6f8efaf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0979be61ba4da88498c1cfd584860bbe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e45ff9576b5f676445d9f515e2761a2a35c4c433>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ロ首脳会談　ウクライナとの「永続的な和平」を実現し戦闘を終わらせることで合意
+      <a href=https://news.yahoo.co.jp/articles/2ce5f087abfa232aeec9f782800a885b4e4d0cf0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000012-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> イスラエル外相「ガザ攻撃は数日続く」、米国に事前に通知
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da13a3f666385d66f4bfcaad803d9bb7c179a71d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-90020816-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 停戦合意の継続めぐる協議に影響も…イスラエルがガザ空爆 400人超死亡
+      <a href=https://news.yahoo.co.jp/articles/e45ff9576b5f676445d9f515e2761a2a35c4c433>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ロ首脳会談　ウクライナとの「永続的な和平」が必要だという認識で一致
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 03:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 03:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
