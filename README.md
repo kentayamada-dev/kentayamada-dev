@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/422821a1bbeaf27c153d0633a427f3ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/22252e4746845867aadb3aeafbdef4ab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/476521a872a4fab1e9f620d072369b107b04fa23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 山本由伸の“魔球”は「説明がつかない」 大投手カーショウが米解説で日本のエースを激賞「息子に『理想的な投げ方だ』と教えた」
+      <a href=https://news.yahoo.co.jp/articles/f88fcdc9eb6d8fc5cdfd7ac4d769bf6d40700261>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-03181288-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ７０球メドだった今永昇太　４回ノーノー６９球降板「僕のミッションは２つ」１つは達成もう１つはアメリカで
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d1fc1eb12848346e964d80f48db38bb6e9dbb5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000048-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=943&ch=943&exp=10800&fmt=webp> ドジャース・大谷　快幕!!25年チーム初安打から逆転勝ち
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 05:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 05:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
