@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/xHPsrcT44m4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d84dafbabd2ec2ff76526f4d339ebbf3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/27324bf215935e91f3d33280ca271706.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7078fe344088d0b57c77a9aa6defc513984a5bbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000002-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 埼玉県で大雪の恐れ　秩父で10センチの降雪予報　18日夜遅くから　関東北部山沿いで19日までに40センチ、関東北部平地で6センチ　南部平地で1センチ【気象情報】
+      <a href=https://news.yahoo.co.jp/articles/0fa9e068ead5f43205189bf51baa7c7f5b5ce3bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00009392-kkbvc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 熊本で最大震度４の地震　鹿児島県内は震度３を観測　九州新幹線の一部区間で運転見合わせ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3087995900fbd7d1c8a39e17def09389f197ea81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000010-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=719&ch=719&exp=10800&fmt=webp> 「首相の慣例」新たな火種　商品券配布、自民で常態化か
+      <a href=https://news.yahoo.co.jp/articles/91cb08ab3b911d52ec0ef1d76b29f7bcdd0c46d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ロ首脳、ウクライナ停戦巡り協議へ　領土譲歩や「発電所」が議題とトランプ氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3262106cd8de9245de87a5d0f6a149e37ebd157>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000162-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=80&cw=888&ch=888&exp=10800&fmt=webp> 踊る大捜査線「室井慎次」シリーズが遺作に　公式Xでスタッフ追悼　いしだあゆみさん死去
+      <a href=https://news.yahoo.co.jp/articles/6714c5659a40433549851d88a61c0a6e899f404b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000185-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=309&cw=845&ch=845&exp=10800&fmt=webp> 大谷翔平、世紀の一日！日本が世界が注目侍対決で開幕弾　ドジャース－カブス、東京ドームから始まる’25 SHOTIME
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34542dc7e235733652608658c3377843eedee458>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-05672557-kkt-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 熊本県で震度4の地震 交通にも影響
+      <a href=https://news.yahoo.co.jp/articles/04b21e1ee849bf851fc4064f80df1300d5f9ba95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000179-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=888&ch=888&exp=10800&fmt=webp> いしだあゆみさん、逝く　「ブルー・ライト・ヨコハマ」68年に大ヒット、話題のドラマに映画に数々出演　歌手として、女優として、日本を優しく包み込んだ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f3a1c1e594dc078df81c2ccf111b940c5eba8cf3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050011-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=49&cw=305&ch=305&exp=10800&fmt=webp> 国民民主党の政党支持率が堅調、一貫して「手取り増」にこだわる姿勢が奏功か…読売世論調査
       </a>
     </td>
   </tr>
@@ -402,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 国民民主の支持率が堅調 読売調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532681>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1a0fdcbcb4663552227c8c94390ef56213ebf5925094bc8d688a47a5be8085d1.jpg> 浜岡原発2号機 原子炉の解体開始
       </a>
@@ -410,48 +426,40 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532678>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/a2e4e48badae662ed185045b118e04d1a2ec55850afe55d668365ea40f54991f.jpg> 維新 衆院で予算再修正案に同意へ
+      <a href=https://news.yahoo.co.jp/pickup/6532684>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/57d021c447a2397ca533ab0016dad56cb264d50afceb63c3649650f32d8db22b.jpg> 介護職員が減 小規模事業者に支援
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532672>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/5c58838c23840b8f6ad1bc84436649d2ab2a2bd735f01b494f1209e68f4d7bd6.jpg> 拘束の邦人に禁錮7年 ベラルーシ
+      <a href=https://news.yahoo.co.jp/pickup/6532692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/50d75166c0c3cc5e135c67f1f9a913a7040e0e21146b55f89c5d73e7698968f7.jpg> 夜行バスで男性に性的暴行か 逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1c4a271ccf7bb8403e2d1c9e108637ab76d11c482fb2d5a5a48983125c644ada.jpg> 郵便配達員の酩酊運転 通報11日後
+      <a href=https://news.yahoo.co.jp/pickup/6532688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/89e5951125de7fc5d84b88abd868dc3cca7e3ac5d38b2177a437a5ada86b2939.jpg> 仕事ない 中国で大学生が就職難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/9886cef32d3935cd9daa9208554dc01bedd4a1ef648929bb6407394914366543.jpg> ベッツ欠場 7kg近く体重減と監督
+      <a href=https://news.yahoo.co.jp/pickup/6532687>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/ee73d32ddf84dfe61714957fd7a0415662ee9d27bc01cd3b543c0105c2a66992.jpg> 40年スキー限定 客減でスノボ解禁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532676>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/77817406b832d63ad612af642ebb5605f31c2aa9c0376e04c59c9b0eb7c8290d.jpg> AdoやYOASOBIがLAでライブ 熱狂
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532671>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/17/1ed746286836da6a2f3c573b73ee2bbdeb15ddf3c87b45b7906e1009300a877e.jpg> いしだあゆみさん死去 入院は今月
+      <a href=https://news.yahoo.co.jp/pickup/6532689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/757f2186b166875b2c9b6aba7bdde2f47cf3702c503df3e79233ca1e2ccee393.jpg> 大谷なら達成? 開幕初球弾の偉業
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 07:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 09:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
