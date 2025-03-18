@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d37fb599acf09c69f8b016847251464b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d4d4bc10ffa643db729ace66864a59e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a3b497cdc1fbccfb0707c114f0fa46b5afff780d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-90007642-tvq-000-1-thumb.jpg?exp=10800&fmt=webp> 熊本で震度４の地震　九州新幹線一部区間の運転に影響
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/065e90a3a6fd9fb1afd3d19b325f72bc9d21eb72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181152-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が開幕戦前に“投手リハビリ”　ボールプレゼントで大歓声　ボディーガードがグラウンドにも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f1251a38b6020e15470ae17e13f08e81fa93bef0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-07225270-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル軍がガザ大規模攻撃　340人以上死亡　戦闘再開への懸念高まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f52be4ebe97816308137a3eae53003683a30f46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-04651383-ybs-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 19日明け方にかけ大雪か 盆地で3センチの降雪予想 中央線は19日昼まで運転せず 山梨
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0107fbcc234219bd236daaf5afaeb248bf94c180>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000017-kumanichi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 【速報】八代市など震度2
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a03742f91cc1dc9428cc8eecdc405694d760086a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=824&ch=824&exp=10800&fmt=webp> ガザ空爆「強く懸念」　官房副長官、停戦合意の履行求める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a734ca420f672a4168a84a92795d716a66781b95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010003-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=600&ch=600&exp=10800&fmt=webp> MLB開幕戦スタメン発表！大谷翔平1番DH＆山本由伸先発のドジャースが今永昇太＆鈴木誠也擁するカブスと激突！
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-04651383-ybs-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 19日明け方にかけ大雪か 盆地で3センチの降雪予想 中央線は19日昼まで運転せず 山梨
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532732>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/f9bae4514c2490e2196faaba0ab6ae9c1e6c7570a65b72673226a08982101de7.jpg> イスラエルのガザ空爆 何が起きた
+      <a href=https://news.yahoo.co.jp/pickup/6532740>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/f49d1f52ba03c247a9170f365fcac7368bfb3c3ab82af2bd87fafed694f6e923.jpg> 石破首相 政倫審出席に応じる意向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532722>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/ee1dbc3f34e9b8c75a90e148a4e1bb160927e049b20c0be5ec42b5cdefe3278c.jpg> 伊方原発運転差し止め認めず 地裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532719>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/f8ecc5b2b5f3632c231098ca909c3416208e8a5f9b20fe24dc453afb3771edd9.jpg> 中3が校門で車にはねられる 重傷
+      <a href=https://news.yahoo.co.jp/pickup/6532735>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 顧客情報流用 日本郵政社長ら処分
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532730>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/079fe6adb540f94c7da06317a08c9da2675f8bb08c94e004c122772b906a5216.jpg> 2月首都圏マンション価格 11%上昇
+      <a href=https://news.yahoo.co.jp/pickup/6532741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/9c88a68195d5c7c794e1da6ac8e1ef0ca6a0c6cae48c7f6642b80f47be47b44a.jpg> スシロー 非正規が賃上げ求めスト
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532742>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1b35b2c220bea21deaf8f45625064d851ae87ccdca7b54786971881e9de55c87.jpg> 軽石なのに16.6kg 巨大軽石発見
+      <a href=https://news.yahoo.co.jp/pickup/6532739>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/4ed685e7880186c79ce94989a5c37497b0f971685afd0c395cee016b3b0a1cf8.jpg> ロト7で12億円当せん 史上最高額
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532729>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/a423316575378be38a141cbfa3550662647f2053be720876e6610170e76e2a0a.jpg> テレ東「警察密着」に問題 BPO
+      <a href=https://news.yahoo.co.jp/pickup/6532743>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/df518ebc079c2790051cf5012fadf0c7fb6d20f337325f98cd54a40e576ca4cb.jpg> ド軍・キケがサッカーユニで会見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532745>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/a173e17ffe9dfd6ca8933db3031cca16203f71cb369f561cbbedbebd391f46d3.jpg> YOSHIKIと朗希 試合前に談笑
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 18:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 18:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
