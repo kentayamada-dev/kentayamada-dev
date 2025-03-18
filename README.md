@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bb89b424a2c6a8a83b3aa2a5c790b50a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/933f2017d76269f8375881d5c3845cde.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd2d53fdde45ef744031f0ba98bcf0106165300e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】米ロ首脳の電話会談始まる　ホワイトハウス高官
+      <a href=https://news.yahoo.co.jp/articles/acd1bc1da8e3f29eb53f39eba3d6e74568cbbe90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050021-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 関東甲信で１９日降雪か、気象庁が交通障害への警戒呼びかけ…青梅線など一部区間で運転取りやめ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3d6a1ca1b64daa51f34628b715bd3e66c7e04ab7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-08127357-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米トランプ大統領と露プーチン大統領の電話会談が始まる　停戦案めぐり露の譲歩が焦点
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1716303fa43c2a87e20bdf7e98ca8f44c2f83f75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000214-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 日本人対決、ドジャース山本に軍配「最高の気持ち」　カブス今永も大谷封じる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca9510e1b2f71fbe5ddcefe8b5c78ccc15277518>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-21797786-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 沖縄県で最大震度1の地震　沖縄県・宮古島市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000214-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 日本人対決、ドジャース山本に軍配「最高の気持ち」　カブス今永も大谷封じる
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 00:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 01:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
