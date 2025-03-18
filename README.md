@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/27324bf215935e91f3d33280ca271706.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e9fbc095ab1c33fd899ea2f854d3163.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1f3158aeb2505e9f521d43abddc8f3f94d327a83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-33180173-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 谷原章介「いろんなことを考えて積み重ねなければたどり着けないお芝居」いしだあゆみさんしのぶ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0fa9e068ead5f43205189bf51baa7c7f5b5ce3bf>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04b21e1ee849bf851fc4064f80df1300d5f9ba95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000179-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=888&ch=888&exp=10800&fmt=webp> いしだあゆみさん、逝く　「ブルー・ライト・ヨコハマ」68年に大ヒット、話題のドラマに映画に数々出演　歌手として、女優として、日本を優しく包み込んだ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f3a1c1e594dc078df81c2ccf111b940c5eba8cf3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050011-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=49&cw=305&ch=305&exp=10800&fmt=webp> 国民民主党の政党支持率が堅調、一貫して「手取り増」にこだわる姿勢が奏功か…読売世論調査
       </a>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532680>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/385768a2eea03d3798b8876e89d7dfb2eafe3da31e2baef1dd6450ec98d60f00.jpg> 大気不安定 関東甲信では積雪恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6532693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/2bb5cd1e1d98ea5d2c07ff076410d82a1ed8327bf82a24b8208f3b6eed5901c1.jpg> 米 USS巡る口頭弁論の延期を要請
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 09:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 10:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
