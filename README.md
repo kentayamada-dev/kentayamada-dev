@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7ea9f99cf74450fb11670ac74c489d82.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bb89b424a2c6a8a83b3aa2a5c790b50a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10c2fce0e8afbd9cdc0a182ee5c5140bba233fb0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-33182262-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> ロバーツ監督「サイ・ヤング受賞する可能性大いにある」と山本由伸称賛　２安打の大谷翔平も評価
+      <a href=https://news.yahoo.co.jp/articles/bd2d53fdde45ef744031f0ba98bcf0106165300e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】米ロ首脳の電話会談始まる　ホワイトハウス高官
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0879eaa69d9c7df96d0f06f3056f313e57dc03b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181289-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=865&ch=865&exp=10800&fmt=webp> 大谷翔平が山本由伸にピース「本当に頼もしい」　５回１失点の快投にマルチ安打で逆転の起点に
+      <a href=https://news.yahoo.co.jp/articles/83821902d4a185b3ee0c639acb764cf08a4a1beb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=543&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 大谷翔平 「緊張」の開幕戦 2安打で勝利に貢献
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3dca795df060055d8159033756bcafd1489a63df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 極右政党が政権復帰表明　イスラエル、ガザ空爆歓迎
+      <a href=https://news.yahoo.co.jp/articles/454b1a43b7367e33765c842b3fc42b8c3421f0c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00944912-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルがガザ空爆 死者400人超　停戦合意 崩壊の危機に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cea42d26d350fbcdc591ef421f1311fbf1256f12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00944850-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 予算の再修正案を自民が了承　石破首相“政倫審に応じる用意ある”「商品券問題」公明からも苦言
+      <a href=https://news.yahoo.co.jp/articles/1716303fa43c2a87e20bdf7e98ca8f44c2f83f75>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000214-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 日本人対決、ドジャース山本に軍配「最高の気持ち」　カブス今永も大谷封じる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a4e3ca30ea723a5ed5f6db2d5f4368a84205470>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000067-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=520&ch=520&exp=10800&fmt=webp> ウクライナ領土や原発の扱い議題か 米露首脳、停戦巡り18日協議
+      <a href=https://news.yahoo.co.jp/articles/ca9510e1b2f71fbe5ddcefe8b5c78ccc15277518>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-21797786-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 沖縄県で最大震度1の地震　沖縄県・宮古島市
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 23:52:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 00:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
