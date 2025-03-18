@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dcd99308fafde92c9e85de9ea512dfc2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a46cc65e7a0f0a376301ee3029b7020c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37402c0bf3597513cc03484cafc9ab21f58a9b28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-35230627-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イスラエル、ガザを広範囲に空爆　「軍事力拡大」しハマス攻撃と首相
+      <a href=https://news.yahoo.co.jp/articles/c88ee1273f2b9f0a9fc20bb24b6556db0fd50cfa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-04563576-kkt-000-2-thumb.jpg?exp=10800&fmt=webp> 18日朝早く熊本県八代市などで震度4 「起きようとした時にドンという揺れ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a91d22eeeaa0b5d51f566b602a574188dbe43990>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010007-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ドジャースの開幕スタメンは？　先発メンバーを徹底予想【打順（オーダー）編】ベッツ離脱の緊急事態…打線の“キーマン”となるのは…？
+      <a href=https://news.yahoo.co.jp/articles/27a376182d6bfa6e3127b101954851f0849cb2b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00944345-fnnprimev-000-1-view.jpg?pri=l&w=192&h=107&exp=10800&fmt=webp> 悠仁さま笑顔で筑波大学附属高校を卒業「忘れられない友達も作ることができたと思います」充実した3年間振り返られる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/372ee86e8a089b105c62190b6178541d335cd4cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000026-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 女優いしだあゆみさん76歳で死去…ショーケンとの4年の夫婦関係で何度も見せていた「強い母性」
+      <a href=https://news.yahoo.co.jp/articles/89ee312d3de44a5517b630f4e8412a3cd76b9f91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000033-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】イスラエル軍によるガザ地区大規模空爆で少なくとも100人死亡　ロイター通信
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d7404352965995393231d9d82bef75028239447>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000001-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 首相の強みは少数与党？田崎史郎氏が推測する「石破おろしは起きない」理由
+      <a href=https://news.yahoo.co.jp/articles/0e080fe2e4eeb2fb45bb6a27573d345044b9f70b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00944376-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 世界一連覇へ…大谷翔平選手SNSに“今夜会いましょう”と英語で投稿　開幕投手はドジャースが山本由伸投手・カブスが今永昇太投手
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fa9e068ead5f43205189bf51baa7c7f5b5ce3bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00009392-kkbvc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 熊本で最大震度４の地震　鹿児島県内は震度３を観測　九州新幹線の一部区間で運転見合わせ
+      <a href=https://news.yahoo.co.jp/articles/f7c1c26b2207697e2dd014fed753519a21664230>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000006-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=473&ch=473&exp=10800&fmt=webp> いしだあゆみさん死去に悲しみの声続々　研ナオコさん「私も同じ甲状腺の病気を持っています」
       </a>
     </td>
   </tr>
@@ -403,23 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532699>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> イスラエル軍 ガザに大規模攻撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/2bb5cd1e1d98ea5d2c07ff076410d82a1ed8327bf82a24b8208f3b6eed5901c1.jpg> 米 USS巡る口頭弁論の延期を要請
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 国民民主の支持率が堅調 読売調査
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/91f7c494c9bf157d0b7d464b81e872dc0ffa97447430bfaf77d9f143a0749e49.jpg> イスラエル軍 ガザに大規模攻撃
       </a>
     </td>
   </tr>
@@ -434,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532692>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/50d75166c0c3cc5e135c67f1f9a913a7040e0e21146b55f89c5d73e7698968f7.jpg> 夜行バスで男性に性的暴行か 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6532701>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/333d217b7947abd03c17838f7ff548d842aa9dd22765c5f3e0adae13099d475e.jpg> 岸田氏 商品券配布の有無答えず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532702>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/84df8361aefc6697b80343f2909561d53e696bb431a4e7e5e13018775d934132.jpg> 伊藤塾運営前代表が脱税疑い 告発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/070cc3a994dae1b61dafceb2a558a7ffe0cbf80e7393761ef36d7a2d7af43843.jpg> 悠仁さま 筑波大学付属高校を卒業
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 11:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 12:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
