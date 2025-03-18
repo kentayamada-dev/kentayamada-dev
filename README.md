@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/904cf2426f686998f4b14465f32187fb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bcf5f9c55a67408fd21d2462b892a36b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7ade8f75ac79cc5e0d5ad14df0df265be244f15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、フーシ派巡りイランを牽制「責任問われ、悲惨な結果に」　米軍は攻撃を継続
+      <a href=https://news.yahoo.co.jp/articles/372ee86e8a089b105c62190b6178541d335cd4cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000026-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 女優いしだあゆみさん76歳で死去…ショーケンとの4年の夫婦関係で何度も見せていた「強い母性」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f3158aeb2505e9f521d43abddc8f3f94d327a83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-33180173-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 谷原章介「いろんなことを考えて積み重ねなければたどり着けないお芝居」いしだあゆみさんしのぶ
+      <a href=https://news.yahoo.co.jp/articles/1547ad4d41926491965f15e8f67f3da1bc9c9ff0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000068-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=315&cw=1571&ch=1571&exp=10800&fmt=webp> 日鉄との裁判日程を延期申請　米政府、協議時間を確保
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6d7404352965995393231d9d82bef75028239447>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000001-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 首相の強みは少数与党？田崎史郎氏が推測する「石破おろしは起きない」理由
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6714c5659a40433549851d88a61c0a6e899f404b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000185-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=309&cw=845&ch=845&exp=10800&fmt=webp> 大谷翔平、世紀の一日！日本が世界が注目侍対決で開幕弾　ドジャース－カブス、東京ドームから始まる’25 SHOTIME
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3a1c1e594dc078df81c2ccf111b940c5eba8cf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050011-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=49&cw=305&ch=305&exp=10800&fmt=webp> 国民民主党の政党支持率が堅調、一貫して「手取り増」にこだわる姿勢が奏功か…読売世論調査
       </a>
     </td>
   </tr>
@@ -412,22 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532691>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 国民民主の支持率が堅調 読売調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532681>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1a0fdcbcb4663552227c8c94390ef56213ebf5925094bc8d688a47a5be8085d1.jpg> 浜岡原発2号機 原子炉の解体開始
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532684>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/57d021c447a2397ca533ab0016dad56cb264d50afceb63c3649650f32d8db22b.jpg> 介護職員が減 小規模事業者に支援
       </a>
     </td>
   </tr>
@@ -458,8 +442,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/6a5fcb2698906b546e001c76a787dc1d88e1ac39e98e7cb3f1ae0b24d6adf536.jpg> 選抜速報 二松学舎大付vs.柳ケ浦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532689>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/757f2186b166875b2c9b6aba7bdde2f47cf3702c503df3e79233ca1e2ccee393.jpg> 大谷なら達成? 開幕初球弾の偉業
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/e1be03ab4be84741db27985699ad523d2becd3cd79a0f8d79c3ffdd510cb475a.jpg> 今泉佑唯が復帰へ 語った引退の訳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 10:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 11:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
