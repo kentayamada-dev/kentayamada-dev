@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1caff9c7e7b26ea285a0313897a9170.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/97f6a13aced688e3474258b0c3446d71.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b62867e85fba8cca3931ca99ed157b501e32ee32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000015-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イスラエル、ガザに大規模攻撃 220人以上死亡
+      <a href=https://news.yahoo.co.jp/articles/a53132387800c992823138b4a978bbed2d28ef5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010015-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ドジャースの開幕スタメンは？　先発メンバーを徹底予想！
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2bb143c23d49b057460cac19b30feeaea9474c9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010002-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル、ガザに大規模攻撃 220人以上死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/de76f5c348f7ab21657022e08e9010c4f920fd8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-05319451-sdt-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【正門付近で事故】中学校から出ようとした車に中学生２人はねられけが…運転手の高齢女性も負傷か（静岡・長泉町）
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed67aeb31b64c53433da3faad455dcb39d0d8d12>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-90019132-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 八代市や上天草市、芦北町で震度４　九州新幹線で一時運転見合わせ【熊本】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3984eefc1e1d1b63ae5438cd1650546a0d1d30c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181040-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1156&ch=1156&exp=10800&fmt=webp> ドジャース佐々木朗希がメジャー契約、開幕ベンチ２６人入り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7eab9d0a4abcdf00d10d8f36a4c166bd96766dd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000023-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=589&ch=589&exp=10800&fmt=webp> 「長期政権のおごり」　公明幹部が自民に苦言　商品券配布問題
       </a>
     </td>
   </tr>
@@ -402,32 +402,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532701>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/333d217b7947abd03c17838f7ff548d842aa9dd22765c5f3e0adae13099d475e.jpg> 岸田氏 商品券配布の有無答えず
+      <a href=https://news.yahoo.co.jp/pickup/6532716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/85374cde14192d3c137f4aacfc02d670bc797c642a2ec724fe42e97060023ed6.jpg> ガザ大規模空爆 停戦合意巡り暗雲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/080a72a11ee6394728832e865cc79713e09e1e9c9cafab77c90603b0b52afd54.jpg> 岸和田市長選に前市長が出馬表明
+      <a href=https://news.yahoo.co.jp/pickup/6532717>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/e4269a37b90c5c5ae654ef1e5b471ddf0b4fa4a77490d56ebda4c2c4552943c1.jpg> 高額療養費 外国人の利用限定的
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532710>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/ea0f87206c8a8851c3153919c21f14d9a13ee4ce28185507e0a61c5b3f137a63.jpg> 乳児死亡 元施設長ら書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6532719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/f8ecc5b2b5f3632c231098ca909c3416208e8a5f9b20fe24dc453afb3771edd9.jpg> 中3が校門で車にはねられる 重傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/3cc4fbed21704dd661f42751ee627c4cba18e4ecf35801a772dddf748d2f7512.jpg> 悠仁さま 筑波大学付属高校を卒業
+      <a href=https://news.yahoo.co.jp/pickup/6532711>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/996d9aa6cf2e521bcc6075fa19f9d727acbe1361f6001cb7d589f08d1e6520f6.jpg> 不審な蓄電池の訪問販売 注意点は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 14:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 15:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
