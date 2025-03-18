@@ -25,6 +25,9 @@ export const envServer = createEnv({
       .string()
       .optional()
       .transform((val) => {
+        // eslint-disable-next-line no-console
+        console.log('🍣🍣🍣', VERCEL_PROJECT_PRODUCTION_URL, VERCEL_ENV);
+
         if (isString(VERCEL_PROJECT_PRODUCTION_URL) && isString(VERCEL_ENV) && VERCEL_ENV === 'production') {
           return `https://${val}`;
         }
