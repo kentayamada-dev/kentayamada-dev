@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b98a94753501c4fa0c915ecf3577f973.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/25f56a5fe7e717e6e8ad69ee780238c9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5c51946b71ec97453892a7ed4fbb4d1dd119652>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00944944-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=470&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナのゼレンスキー大統領　米ロ首脳電話会談を受けてエネルギー施設への攻撃停止の提案支持
+      <a href=https://news.yahoo.co.jp/articles/736cc4acdfa193dea16cb9dbd45d53bbccc86837>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000263-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 米露首脳、ウクライナ終戦へエネルギー施設攻撃停止で合意　全面停戦へ交渉開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01f653813bc80bf4301e9da0f83e58c96e1cc12e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-01720446-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、開幕戦で21年ぶり偉業「素晴らしい」　意外な“前任者”が話題
+      <a href=https://news.yahoo.co.jp/articles/0e0bce3a498cb50d9a2346f334e8c23f482410fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ攻撃再開「ハマスに責任」　米はイスラエル支持、仏は非難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/802a83588ce4b20cea8d57213f391fcd2efba140>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 19日の朝刊（都内最終版）☆1
+      <a href=https://news.yahoo.co.jp/articles/4ca7560f543826aa85979c923ffecebab40440d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000253-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=904&ch=904&exp=10800&fmt=webp> ドジャース・山本由伸がほえた！日本投手4人目開幕戦先発勝利　〝日本式〟お立ち台でファンに感謝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d6b4bae34a83ff5cd8e8cb222d330448a467d24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000010-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=479&cy=0&cw=1366&ch=1366&exp=10800&fmt=webp> ＜芳根京子＞2クール連続でGP帯連ドラ主演　フジ系木曜劇場「波うららかに、めおと日和」で本田響矢と昭和の夫婦に
+      <a href=https://news.yahoo.co.jp/articles/61c28fa9cc9f2067a31fd43a97994da84d9545d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000254-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 阪神・森下翔太、お目覚め3安打2打点　大谷SHO－TIMEより翔太イムや
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0728b618826427de98a70082bbfe5c321696e6cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00010001-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「ソウルの悪夢を忘れさせた」ドジャース山本由伸の“1回5失点KO”を知る韓国メディアが1年後の5回1失点の開幕戦“リベンジ”勝利を絶賛
+      <a href=https://news.yahoo.co.jp/articles/12aff7ef7c7c09ef2311ebdc925a23d0d93297f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050250-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=461&ch=461&exp=10800&fmt=webp> 凱旋試合で「珍しく緊張していた」大谷翔平、フリーマンとベッツ不在の中で痛烈マルチ
       </a>
     </td>
   </tr>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532769>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/4ace6f76b90ff27d65f2a0b98e0eecd4f6cd7bd96bbf316a9825fd077410efe8.jpg> 米露 エネ施設への攻撃停止で合意
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532770>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/67439c0bb9cec98e785691d2ca03e9a535d0544d69a6ba623633ef36439a7b4f.jpg> 日米で物議 なぜ今永は4回で降板
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532772>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/f86736b9227509133edb5ce5231a877a4a9ee220d548d8ba8ea1a2e68bfc5aca.jpg> 大谷が由伸の会見中に「変顔」
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532764>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/f5d3cc83df0329da7db3f170ba31d84a69f819234c002da28090291f245c8068.jpg> 開幕戦におぎやはぎ 球場どよめき
+      <a href=https://news.yahoo.co.jp/pickup/6532776>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/027a211fe87fcad4cc1e013d4d3fb394bb75b185e3e81ea2429fec3b613b00e0.jpg> 芳根京子 2クール連続ドラマ主演
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 07:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 08:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
