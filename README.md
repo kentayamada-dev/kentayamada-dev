@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/53551772684652e63186730eb7c3ed19.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6a5734ce140ac2825df5ce314821f122.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a03742f91cc1dc9428cc8eecdc405694d760086a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=824&ch=824&exp=10800&fmt=webp> ガザ空爆「強く懸念」　官房副長官、停戦合意の履行求める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a734ca420f672a4168a84a92795d716a66781b95>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010003-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=600&ch=600&exp=10800&fmt=webp> MLB開幕戦スタメン発表！大谷翔平1番DH＆山本由伸先発のドジャースが今永昇太＆鈴木誠也擁するカブスと激突！
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4afd99882444421793e06eaa5ca4a092f1dc5b5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-90020796-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1012&ch=1012&exp=10800&fmt=webp> 竹内涼真、3歳まで将来の夢は「イルカになりたかった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b02532997fcd5b1749aed4d8f560b1f2fd99aa49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000022-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イスラエル空爆でガザ内務省トップ死亡か 死者330人に
+      <a href=https://news.yahoo.co.jp/articles/995313d1b929b9c3b726948e143fc33236057ba8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-10169107-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=558&ch=558&exp=10800&fmt=webp> ホワイトハウス報道官が仏議員に反論 自由の女神像「返還せず」
       </a>
     </td>
   </tr>
@@ -382,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ccb069fef8ed9ac772f5e041bf1309727d8730a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03416382-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 雪予報受け交通にも影響　JR中央本線特急列車の一部などで運休も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed67aeb31b64c53433da3faad455dcb39d0d8d12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-90019132-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 八代市や上天草市、芦北町で震度４　九州新幹線で一時運転見合わせ【熊本】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03416382-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 雪予報受け交通にも影響　JR中央本線特急列車の一部などで運休も
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532717>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/e4269a37b90c5c5ae654ef1e5b471ddf0b4fa4a77490d56ebda4c2c4552943c1.jpg> 高額療養費 外国人の利用限定的
+      <a href=https://news.yahoo.co.jp/pickup/6532722>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/ee1dbc3f34e9b8c75a90e148a4e1bb160927e049b20c0be5ec42b5cdefe3278c.jpg> 伊方原発運転差し止め認めず 地裁
       </a>
     </td>
   </tr>
@@ -426,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532723>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a62e4c548d5393eed86758b7f1030d20ef1783bde8f621d2bae2a9d6b39ff575.jpg> はしか感染 3月入り都市部で急増
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532719>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/f8ecc5b2b5f3632c231098ca909c3416208e8a5f9b20fe24dc453afb3771edd9.jpg> 中3が校門で車にはねられる 重傷
       </a>
@@ -442,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532726>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1e39cc18604245daedfc831bd527907ac11f7dab5992112b24ad1ab1e8449734.jpg> 広島女学院 大学運営から撤退へ
+      <a href=https://news.yahoo.co.jp/pickup/6532737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/434403f283e7be53471fb33975fee7b1c16d9748e25aeca5f612a6d0ae59d084.jpg> エレベーターが急上昇し重傷 公表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1d73591305085b444d6739c5398c012ddea06e2439a66c1c4ab1bcbb9a360ad8.jpg> 「自由の女神」返還巡り米仏論争
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 17:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 17:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
