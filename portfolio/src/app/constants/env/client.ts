@@ -2,7 +2,7 @@ import { createEnv } from '@t3-oss/env-nextjs';
 import { z } from 'zod';
 import { isString } from '@/typeGuards';
 
-const { NEXT_PUBLIC_VERCEL_ENV, NEXT_PUBLIC_VERCEL_PROJECT_PRODUCTION_URL } = process.env;
+const { VERCEL_ENV, VERCEL_PROJECT_PRODUCTION_URL } = process.env;
 
 export const envClient = createEnv({
   client: {
@@ -10,7 +10,7 @@ export const envClient = createEnv({
       .boolean()
       .optional()
       .transform(() => {
-        if (isString(NEXT_PUBLIC_VERCEL_ENV) && NEXT_PUBLIC_VERCEL_ENV === 'production') {
+        if (isString(VERCEL_ENV) && VERCEL_ENV === 'production') {
           return true;
         }
 
@@ -19,6 +19,6 @@ export const envClient = createEnv({
   },
   emptyStringAsUndefined: true,
   runtimeEnv: {
-    NEXT_PUBLIC_IS_PRODUCTION: NEXT_PUBLIC_VERCEL_PROJECT_PRODUCTION_URL
+    NEXT_PUBLIC_IS_PRODUCTION: VERCEL_PROJECT_PRODUCTION_URL
   }
 });
