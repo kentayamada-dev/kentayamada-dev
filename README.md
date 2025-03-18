@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d2d571030cd4f56f1d95ada0f4631ca1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9cd7a1b35d051ec143ca9365c6506ecb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/411a6ad4659698c2921ff198f052fb9563c8c7cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000189-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 【センバツ】花巻東が同日開幕の大谷翔平先輩へ贈る7年ぶり春1勝　次戦は鈴木誠也母校・二松学舎大付と
+      <a href=https://news.yahoo.co.jp/articles/ee1e93bb54339544372ae47c16e540dd99348054>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000066-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平が開幕戦で「1番・DH」　警備員2人が付く厳戒態勢　山本由伸、カブス・今永と史上初の日本人投手対決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b92a491dd83bceda9ab5989a1b9e57289a3a7c5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181104-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平が東京ドーム入り　ボディーガード２人つきの“厳戒態勢”　ＶＳ今永昇太で米８年目開幕
+      <a href=https://news.yahoo.co.jp/articles/b2a97ac6f94381f0657e8765f873fd555d1cd4d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-35230651-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800&fmt=webp> イスラエル、ガザでの戦闘を再開　何が起きたのか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2bb143c23d49b057460cac19b30feeaea9474c9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010002-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル、ガザに大規模攻撃 220人以上死亡
+      <a href=https://news.yahoo.co.jp/articles/ccb069fef8ed9ac772f5e041bf1309727d8730a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03416382-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 雪予報受け交通にも影響　JR中央本線特急列車の一部などで運休も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f849cca9e806ac2ec992c417a175a2e6a7f6607a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ニュースワード「四国電力伊方原発」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed67aeb31b64c53433da3faad455dcb39d0d8d12>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-90019132-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 八代市や上天草市、芦北町で震度４　九州新幹線で一時運転見合わせ【熊本】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7c1c26b2207697e2dd014fed753519a21664230>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000006-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=473&ch=473&exp=10800&fmt=webp> いしだあゆみさん死去に悲しみの声続々　研ナオコさん「私も同じ甲状腺の病気を持っています」
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532725>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/75c860874ce751bfbefcc2a4ce83afe0d4cf1765d4a4bfde6ce84fe7e0aee7e7.jpg> 大谷は1番DH カブスとの開幕戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532713>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/43e835d33dc5d86679c56f8c6fb459dffe7267895325755b21d8400f8ba258d4.jpg> 豊昇龍が休場 新横綱では39年ぶり
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/0863f670164d5476252ae30d2809484314972d483172adf37de2861de788209f.jpg> ドジャース 開幕ベンチ26人発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 15:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 16:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
