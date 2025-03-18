@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bcf5f9c55a67408fd21d2462b892a36b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dcd99308fafde92c9e85de9ea512dfc2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/372ee86e8a089b105c62190b6178541d335cd4cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000026-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 女優いしだあゆみさん76歳で死去…ショーケンとの4年の夫婦関係で何度も見せていた「強い母性」
+      <a href=https://news.yahoo.co.jp/articles/37402c0bf3597513cc03484cafc9ab21f58a9b28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-35230627-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イスラエル、ガザを広範囲に空爆　「軍事力拡大」しハマス攻撃と首相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1547ad4d41926491965f15e8f67f3da1bc9c9ff0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000068-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=315&cw=1571&ch=1571&exp=10800&fmt=webp> 日鉄との裁判日程を延期申請　米政府、協議時間を確保
+      <a href=https://news.yahoo.co.jp/articles/a91d22eeeaa0b5d51f566b602a574188dbe43990>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010007-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ドジャースの開幕スタメンは？　先発メンバーを徹底予想【打順（オーダー）編】ベッツ離脱の緊急事態…打線の“キーマン”となるのは…？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/372ee86e8a089b105c62190b6178541d335cd4cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000026-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 女優いしだあゆみさん76歳で死去…ショーケンとの4年の夫婦関係で何度も見せていた「強い母性」
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6714c5659a40433549851d88a61c0a6e899f404b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000185-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=309&cw=845&ch=845&exp=10800&fmt=webp> 大谷翔平、世紀の一日！日本が世界が注目侍対決で開幕弾　ドジャース－カブス、東京ドームから始まる’25 SHOTIME
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532699>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> イスラエル軍 ガザに大規模攻撃
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532693>
@@ -418,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532696>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/10b1e964a868b785ed38f6ab1596fb75f9fd87e5b3ae8461c468e2c160556902.jpg> 教育にデジタル 海外で見直し続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532692>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/50d75166c0c3cc5e135c67f1f9a913a7040e0e21146b55f89c5d73e7698968f7.jpg> 夜行バスで男性に性的暴行か 逮捕
       </a>
@@ -426,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/89e5951125de7fc5d84b88abd868dc3cca7e3ac5d38b2177a437a5ada86b2939.jpg> 仕事ない 中国で大学生が就職難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532687>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/ee73d32ddf84dfe61714957fd7a0415662ee9d27bc01cd3b543c0105c2a66992.jpg> 40年スキー限定 客減でスノボ解禁
+      <a href=https://news.yahoo.co.jp/pickup/6532698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/66d68d735b5db08a022182ee225bb3b7d684ec239172fa9f41d30b0a82e38814.jpg> ダルビッシュ 開幕への調整を中断
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532694>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/6a5fcb2698906b546e001c76a787dc1d88e1ac39e98e7cb3f1ae0b24d6adf536.jpg> 選抜速報 二松学舎大付vs.柳ケ浦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/757f2186b166875b2c9b6aba7bdde2f47cf3702c503df3e79233ca1e2ccee393.jpg> 大谷なら達成? 開幕初球弾の偉業
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 11:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 11:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
