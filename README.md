@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d661e5d157ee928cbb5f986e901456f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/982d18b30ec8b657b13392dfc9551e7a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/013e40e2092e692bf5207432eb241571826267f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 路上に遺体、おびえる市民　未明の空爆、イスラエルに怒り　ガザ
+      <a href=https://news.yahoo.co.jp/articles/32f2175c27b01798b760910616b5cbbb42fe7320>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181179-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 大谷翔平が開幕戦、今永昇太の前に２打席連続凡退　山本由伸は先取点献上　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/def731a976b54c0cfc323e439a321dfd0fc0ba52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-33181495-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=1133&ch=1133&exp=10800&fmt=webp> 大谷翔平、注目の第１打席はカブス今永昇太の150キロに二ゴロ　通算成績は６打数ノーヒットに
+      <a href=https://news.yahoo.co.jp/articles/1be3014ec4bcc09878da99d9bc1defc9f0cbfcf3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181193-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=935&ch=935&exp=10800&fmt=webp> 大谷翔平登場の開幕戦にピカチュ大量発生「カメラ目線に草」「豪華すぎる」「ピカまみれの球場！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c53f5db79c38b78f71d1261908677aeb6295e1d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00002989-kab-000-1-thumb.jpg?exp=10800&fmt=webp> 早朝の緊急地震速報…八代市、上天草市、芦北町で震度4　
+      <a href=https://news.yahoo.co.jp/articles/3dda49b48cef51b683bf48fa2f5c36421250481a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ停戦合意の歓喜、今では悲しみと哀悼に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/02385b808f59bea4792d8f70b6c6a1f70161e673>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-90019135-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 明け方の緊急地震速報　天草・芦北地方で震度４【熊本】
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/26739d7b5ed5c7e838bb0f1285909ae0a8caf7bc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 首相から政倫審への出席申し出ず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a63104c80727114402aaef166280725df4ddda50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010004-sporting-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> ドジャース急遽先発オーダー変更！ フリーマンに代わってコンフォート 大谷翔平は1番DH
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/13fec8c3b0105a56475d309cfbb8f29a3d9dedb7aa811d254910baed1cd48201.jpg> 顧客情報流用 日本郵政社長ら処分
+      <a href=https://news.yahoo.co.jp/pickup/6532746>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/686a54fc35770d02f099ab321ba8aab1dedf89e4207a7f2d3331b8ca94adc55d.jpg> 備蓄米の放出開始 コメ価格注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/434403f283e7be53471fb33975fee7b1c16d9748e25aeca5f612a6d0ae59d084.jpg> エレベーターが急上昇し重傷 公表
+      <a href=https://news.yahoo.co.jp/pickup/6532751>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/9b7125dc4306d3756ef15c9ac7fee03315487d68bd5376a130497d309006cda0.jpg> マイナ免許証開始へ メリットは
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532749>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/6d8c2ed89211959fe591c0770a4d4b310ff8c06b46e2ac548a7711c94b297fd5.jpg> ド軍激震 フリーマンスタメン落ち
+      <a href=https://news.yahoo.co.jp/pickup/6532752>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/a6c0885ace94b8bf344327f1a30dc11ca8c71c90cb28621d6db5c0db9c8d2485.jpg> 開幕戦セレモニー 大量ピカチュウ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 19:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 20:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
