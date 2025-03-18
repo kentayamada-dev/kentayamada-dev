@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/820eb3c2e71ba138a71594a29e358456.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9b9320096868d6759df757ce9e852614.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d76ee3bdf8220740c36c503d8f61668469f7ea2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000403-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=153&cw=800&ch=800&exp=10800&fmt=webp> 大谷が打席に入ると静まり返った東京D「シーンとなるのはちょっと気になりますけど…（苦笑）打席に集中」
+      <a href=https://news.yahoo.co.jp/articles/50b3fab3c6a3fe06220db5e861d222ce473c6f52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000154-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=997&ch=997&exp=10800&fmt=webp> ドジャース大谷翔平、マルチ安打に手応え「３打席目以降で良い仕事」　初打席はド緊張「普段はないが…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70b81523501582cf3f8f64f0ef18108822d82199>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00516852-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、王貞治氏との2ショット掲載
+      <a href=https://news.yahoo.co.jp/articles/be6cb38c9093400340d32e49cc3a4e488edc9d5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00093836-thedigest-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=599&ch=599&exp=10800&fmt=webp> 「オオタニお兄ちゃん」大谷翔平、今季初勝利の山本由伸とベンチでハイタッチ&好投を労う姿が話題「イチャイチャ」「話してるの見ると高校生みたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cffde4e30525645064015817147ce9342ca188af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050191-yom-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=375&ch=375&exp=10800&fmt=webp> イスラエル軍の大規模空爆、死者４０４人に…ハマスが戦闘再開なら停戦合意枠組み崩壊の恐れ
+      <a href=https://news.yahoo.co.jp/articles/3dca795df060055d8159033756bcafd1489a63df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 極右政党が政権復帰表明　イスラエル、ガザ空爆歓迎
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/aaa4eb0cbda9425b4a89555eb8f496305340adc0f117e31d9cfb85679629c3eb.jpg> 米露電話協議 ウ領土など議題か
+      <a href=https://news.yahoo.co.jp/pickup/6532768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/6d930313411a471d6aa0f08777ceba8e4bc14ccd4540eb2bb743f0cc93e5efde.jpg> 発効2カ月 ガザ停戦は崩壊危機
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/e59323bcb91c3f1621e9d65331e77e4e6a305cb1a6ff796b10a04191c7576df8.jpg> 備蓄米販売の表記巡り 消費者困惑
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532763>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/b94bca477ae0ec88af1aeed3605fc802372477dec77c91ea09c7fa13d79a26b8.jpg> 北海道の死亡事故 高裁で逆転無罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532766>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/607ef696ca74f143d5e6b37a9a674ca630a6f6f7026d74b7b049ba97d92486de.jpg> 返礼品で5年間産地偽装 市長謝罪
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532760>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/73630d2cbc3280911246fdd7e6cfdf1e2e038f60f2ff597eb4bf5ea5f5d5a2c6.jpg> 豪州ビーチに謎の泡 当局が調査
+      <a href=https://news.yahoo.co.jp/pickup/6532757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/c331922bc78255d4f1d620b83c9036deec92297d95026a3aecb52fb9671f2b58.jpg> 警察装う特殊詐欺 被害100億円超
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 23:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 23:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
