@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/58eeb58dbc3ee337e03122c59a9c1d6c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9de85570a77ef61a2d40bb7774cf8473.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cb21bdc62b62cd46d96b5ea4244fe6d0ff07f43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010019-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「なんで交代したんだ」“ノーヒット降板→即逆転”が裏目に…今永昇太の交代策に賛否両論「逆に今永の凄さが際立つ」
+      <a href=https://news.yahoo.co.jp/articles/a010bc8b11753fb9e8818ffaa06a42cca78c1c54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-01720395-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が第5打席　第3打席に今季初安打…今永昇太には2打席凡退、東京ドーム熱視線
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fd0467e4736cdfe855e919994ca44199dad2c918>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000137-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=160&cw=880&ch=880&exp=10800&fmt=webp> 船井電機への民事再生法適用を棄却　原田会長が申請　東京地裁
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cffde4e30525645064015817147ce9342ca188af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050191-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=375&ch=375&exp=10800&fmt=webp> イスラエル軍の大規模空爆、死者４０４人に…ハマスが戦闘再開なら停戦合意枠組み崩壊の恐れ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050191-yom-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=375&ch=375&exp=10800&fmt=webp> イスラエル軍の大規模空爆、死者４０４人に…ハマスが戦闘再開なら停戦合意枠組み崩壊の恐れ
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9110e91cbb033ad6e89dc927f675a092c049b4ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000093-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=156&cw=329&ch=329&exp=10800&fmt=webp> 表示されるのは警察の番号…詐欺の電話が急増　ニセ警察に要注意
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/aaa4eb0cbda9425b4a89555eb8f496305340adc0f117e31d9cfb85679629c3eb.jpg> 米露電話協議 ウ領土など議題か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532753>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/cada96914701e2065294da1b5b3c2112cb0ca396477cb0c414aaedb1d335a4c4.jpg> おびえる一夜過ごし ガザ市民怒り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532746>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/686a54fc35770d02f099ab321ba8aab1dedf89e4207a7f2d3331b8ca94adc55d.jpg> 備蓄米の放出開始 コメ価格注目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532755>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/649e9c87ecfd0d8722b60d597bdbd12b872099ab33876426ebda9cc280dadd16.jpg> 19日朝 関東平地も積雪の恐れ
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/9c88a68195d5c7c794e1da6ac8e1ef0ca6a0c6cae48c7f6642b80f47be47b44a.jpg> スシロー 非正規が賃上げ求めスト
+      <a href=https://news.yahoo.co.jp/pickup/6532761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/c492cd91bf95eb48bcdf9253170df92cbf65c4a166f9caf65fd569e7f8406293.jpg> 鞄ぶつける男 福岡で被害相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532754>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/4623d184657391b883b89509c52b067f68a0e832eb637ee2712c676721d8809a.jpg> ステマと判断 医療法人に措置命令
+      <a href=https://news.yahoo.co.jp/pickup/6532739>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/4ed685e7880186c79ce94989a5c37497b0f971685afd0c395cee016b3b0a1cf8.jpg> ロト7で12億円当せん 史上最高額
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532760>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/73630d2cbc3280911246fdd7e6cfdf1e2e038f60f2ff597eb4bf5ea5f5d5a2c6.jpg> 豪州ビーチに謎の泡 当局が調査
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 21:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 21:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
