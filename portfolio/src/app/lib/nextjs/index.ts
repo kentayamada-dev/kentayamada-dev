@@ -1,3 +1,4 @@
+import { envServer } from '@/constants/env';
 import { dictionaries } from '@/constants/i18n';
 import type { Metadata } from 'next';
 import type { OpenGraphType } from 'next/dist/lib/metadata/types/opengraph-types';
@@ -70,7 +71,7 @@ const getMetadataObject = (
       modifiedTime: modifiedTime.toISOString(),
       publishedTime: publishedTime.toISOString(),
       type,
-      url: `${lang}${path}`
+      url: `${envServer.SITE_URL}/${lang}${path}`
     }
   };
 };
