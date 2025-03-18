@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9b9320096868d6759df757ce9e852614.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7ea9f99cf74450fb11670ac74c489d82.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50b3fab3c6a3fe06220db5e861d222ce473c6f52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000154-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=997&ch=997&exp=10800&fmt=webp> ドジャース大谷翔平、マルチ安打に手応え「３打席目以降で良い仕事」　初打席はド緊張「普段はないが…」
+      <a href=https://news.yahoo.co.jp/articles/10c2fce0e8afbd9cdc0a182ee5c5140bba233fb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-33182262-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> ロバーツ監督「サイ・ヤング受賞する可能性大いにある」と山本由伸称賛　２安打の大谷翔平も評価
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be6cb38c9093400340d32e49cc3a4e488edc9d5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00093836-thedigest-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=599&ch=599&exp=10800&fmt=webp> 「オオタニお兄ちゃん」大谷翔平、今季初勝利の山本由伸とベンチでハイタッチ&好投を労う姿が話題「イチャイチャ」「話してるの見ると高校生みたい」
+      <a href=https://news.yahoo.co.jp/articles/a0879eaa69d9c7df96d0f06f3056f313e57dc03b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181289-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=865&ch=865&exp=10800&fmt=webp> 大谷翔平が山本由伸にピース「本当に頼もしい」　５回１失点の快投にマルチ安打で逆転の起点に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 23:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 23:52:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
