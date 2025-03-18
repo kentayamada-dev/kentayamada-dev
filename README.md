@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bb0d324db6d834d1af1f8ca2447af995.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/422821a1bbeaf27c153d0633a427f3ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84e9591458e1f6d6635d67d8e4417fc096390ec0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ロ首脳、エネルギー停戦で合意　プーチン氏、米案受け入れず　ウクライナ侵攻巡り電話会談
+      <a href=https://news.yahoo.co.jp/articles/476521a872a4fab1e9f620d072369b107b04fa23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 山本由伸の“魔球”は「説明がつかない」 大投手カーショウが米解説で日本のエースを激賞「息子に『理想的な投げ方だ』と教えた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47e1b8b37a7c065b30b634e2009b7c0cf74b452a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ空爆「始まりに過ぎない」とイスラエル
+      <a href=https://news.yahoo.co.jp/articles/c1b8d7e9cb5c8a35eb90e33215ee072a3a8def6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、攻撃続行表明　ガザ空爆は「始まり」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4b6df1df557e3e4126018401d58a90f6832e031>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000219-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=964&ch=964&exp=10800&fmt=webp> カブス・今永昇太「無失点をかなりフォーカスしていた」　勝敗付かずも4回無安打無失点で大役果たす　好相性の大谷はニゴロ＆二直
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83821902d4a185b3ee0c639acb764cf08a4a1beb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=543&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 大谷翔平 「緊張」の開幕戦 2安打で勝利に貢献
+      <a href=https://news.yahoo.co.jp/articles/476b2cfdf9c76ee6b74598fea565fc2ffc4921d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000028-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=745&ch=745&exp=10800&fmt=webp> 米ロ、エネ施設の攻撃停止で一致　ウクライナ巡り首脳が電話会談
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 04:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 05:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
