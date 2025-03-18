@@ -13,7 +13,7 @@
     "check": "pnpm test && pnpm knip && pnpm prettier && pnpm eslint && pnpm tsc",
     "build-next": "bash -c 'until next build; do echo \"Build failed, retrying in 5 seconds...\" && sleep 5; done'",
     "build-storybook": "storybook build --output-dir ./public/storybook",
-    "build": "pnpm build-storybook && pnpm build-next",
+    "build": "echo $VERCEL_PROJECT_PRODUCTION_URL && pnpm build-storybook && pnpm build-next",
     "dev-next": "next dev --port $NEXTJS_PORT --experimental-https --experimental-https-key ~/mkcert/localhost-key.pem --experimental-https-cert ~/mkcert/localhost.pem",
     "dev-storybook": "storybook dev --https --port $STORYBOOK_PORT --host 127.0.0.1 --no-open --no-version-updates --ssl-cert ~/mkcert/localhost.pem --ssl-key ~/mkcert/localhost-key.pem",
     "start": "next start --port $NEXTJS_PORT",
