@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1923a6804e32ae2c7edb246376ae9c9b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc93ceaf427cfcc050ed5a4f9cf6a0f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ce2f449b08b1b114ab2f5f2c9fb6e24c6bef303>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-03947985-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ガザ地区でイスラエル軍による大規模空爆　“400人超”死者も　停戦以来、最大規模か
+      <a href=https://news.yahoo.co.jp/articles/da13a3f666385d66f4bfcaad803d9bb7c179a71d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-90020816-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 停戦合意の継続めぐる協議に影響も…イスラエルがガザ空爆 400人超死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 01:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 02:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
