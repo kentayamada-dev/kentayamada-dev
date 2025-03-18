@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dcd99308fafde92c9e85de9ea512dfc2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b1af59f18758d1806b3f319ee4f367f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37402c0bf3597513cc03484cafc9ab21f58a9b28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-35230627-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イスラエル、ガザを広範囲に空爆　「軍事力拡大」しハマス攻撃と首相
+      <a href=https://news.yahoo.co.jp/articles/0fc24e301bee1ab31b4aeb6d0a3af49da2f204b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-16131917-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=605&cy=0&cw=778&ch=778&exp=10800&fmt=webp> イスラエルがガザ地区に空爆、100人超死亡とハマス発表　停戦発効後で最大規模
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a91d22eeeaa0b5d51f566b602a574188dbe43990>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010007-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ドジャースの開幕スタメンは？　先発メンバーを徹底予想【打順（オーダー）編】ベッツ離脱の緊急事態…打線の“キーマン”となるのは…？
+      <a href=https://news.yahoo.co.jp/articles/edcd6a12504771b374b34735b8115123a75ca381>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181052-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 【センバツ】誠也先輩やりました！！　二松学舎大付が開幕戦勝利　センバツでは４３年ぶりの初戦突破
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/372ee86e8a089b105c62190b6178541d335cd4cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000026-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 女優いしだあゆみさん76歳で死去…ショーケンとの4年の夫婦関係で何度も見せていた「強い母性」
+      <a href=https://news.yahoo.co.jp/articles/ed67aeb31b64c53433da3faad455dcb39d0d8d12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-90019132-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 八代市や上天草市、芦北町で震度４　九州新幹線で一時運転見合わせ【熊本】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d7404352965995393231d9d82bef75028239447>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000001-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 首相の強みは少数与党？田崎史郎氏が推測する「石破おろしは起きない」理由
+      <a href=https://news.yahoo.co.jp/articles/0e080fe2e4eeb2fb45bb6a27573d345044b9f70b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00944376-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 世界一連覇へ…大谷翔平選手SNSに“今夜会いましょう”と英語で投稿　開幕投手はドジャースが山本由伸投手・カブスが今永昇太投手
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fa9e068ead5f43205189bf51baa7c7f5b5ce3bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00009392-kkbvc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 熊本で最大震度４の地震　鹿児島県内は震度３を観測　九州新幹線の一部区間で運転見合わせ
+      <a href=https://news.yahoo.co.jp/articles/f7c1c26b2207697e2dd014fed753519a21664230>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000006-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=473&ch=473&exp=10800&fmt=webp> いしだあゆみさん死去に悲しみの声続々　研ナオコさん「私も同じ甲状腺の病気を持っています」
       </a>
     </td>
   </tr>
@@ -403,23 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532699>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> イスラエル軍 ガザに大規模攻撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/2bb5cd1e1d98ea5d2c07ff076410d82a1ed8327bf82a24b8208f3b6eed5901c1.jpg> 米 USS巡る口頭弁論の延期を要請
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 国民民主の支持率が堅調 読売調査
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/91f7c494c9bf157d0b7d464b81e872dc0ffa97447430bfaf77d9f143a0749e49.jpg> イスラエル軍 ガザに大規模攻撃
       </a>
     </td>
   </tr>
@@ -434,8 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532692>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/50d75166c0c3cc5e135c67f1f9a913a7040e0e21146b55f89c5d73e7698968f7.jpg> 夜行バスで男性に性的暴行か 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6532701>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/333d217b7947abd03c17838f7ff548d842aa9dd22765c5f3e0adae13099d475e.jpg> 岸田氏 商品券配布の有無答えず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532702>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/84df8361aefc6697b80343f2909561d53e696bb431a4e7e5e13018775d934132.jpg> 伊藤塾運営前代表が脱税疑い 告発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/3cc4fbed21704dd661f42751ee627c4cba18e4ecf35801a772dddf748d2f7512.jpg> 悠仁さま 筑波大学付属高校を卒業
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/001aaf205f97291cae026d5e78e4542ffb2da6bebc866a9cb07d67dac8a7db9d.jpg> 選抜開幕戦 スピードガンに不具合
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532698>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/66d68d735b5db08a022182ee225bb3b7d684ec239172fa9f41d30b0a82e38814.jpg> ダルビッシュ 開幕への調整を中断
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/6a5fcb2698906b546e001c76a787dc1d88e1ac39e98e7cb3f1ae0b24d6adf536.jpg> 選抜速報 二松学舎大付vs.柳ケ浦
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 11:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 13:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
