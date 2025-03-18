@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51041a17ba91222c8bab4e7d72305ecb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/820eb3c2e71ba138a71594a29e358456.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8581f259d0eb2612639824b1cf18a5a378b68db5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-01720103-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督、開幕戦の勝利に笑顔　カブスに4得点快勝…山本由伸は5回1失点
+      <a href=https://news.yahoo.co.jp/articles/2d76ee3bdf8220740c36c503d8f61668469f7ea2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000403-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=153&cw=800&ch=800&exp=10800&fmt=webp> 大谷が打席に入ると静まり返った東京D「シーンとなるのはちょっと気になりますけど…（苦笑）打席に集中」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78a516194a01d4b57d546c8edd2fe9c920c818d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000392-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=900&ch=900&exp=10800&fmt=webp> カブス・カウンセル監督が語った朗希討ちプランは？　由伸には脱帽「質の高いスプリットに苦労した」
+      <a href=https://news.yahoo.co.jp/articles/70b81523501582cf3f8f64f0ef18108822d82199>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00516852-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、王貞治氏との2ショット掲載
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cffde4e30525645064015817147ce9342ca188af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050191-yom-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=375&ch=375&exp=10800&fmt=webp> イスラエル軍の大規模空爆、死者４０４人に…ハマスが戦闘再開なら停戦合意枠組み崩壊の恐れ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050191-yom-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=375&ch=375&exp=10800&fmt=webp> イスラエル軍の大規模空爆、死者４０４人に…ハマスが戦闘再開なら停戦合意枠組み崩壊の恐れ
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a4e3ca30ea723a5ed5f6db2d5f4368a84205470>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000067-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=520&ch=520&exp=10800&fmt=webp> ウクライナ領土や原発の扱い議題か 米露首脳、停戦巡り18日協議
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000067-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=520&ch=520&exp=10800&fmt=webp> ウクライナ領土や原発の扱い議題か 米露首脳、停戦巡り18日協議
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/cada96914701e2065294da1b5b3c2112cb0ca396477cb0c414aaedb1d335a4c4.jpg> おびえる一夜過ごし ガザ市民怒り
+      <a href=https://news.yahoo.co.jp/pickup/6532756>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1a769a2fd7de450a4d7df5c16dc9ab8290c5284f36325a6c5df4381d22555113.jpg> 公示地価2.7%増加 4年連続上昇
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/61b3e3058e108ea9e67df311263019b93c18d47e159984eeadf1c33516dd5920.jpg> 公立高端末代 全国の半数が親負担
+      <a href=https://news.yahoo.co.jp/pickup/6532766>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/607ef696ca74f143d5e6b37a9a674ca630a6f6f7026d74b7b049ba97d92486de.jpg> 返礼品で5年間産地偽装 市長謝罪
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532765>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/481604c0cb05ac7000bbb8c3c8224b27d953e5573e22b660e5cd5badc9cf0bbd.jpg> 開幕戦 ドジャースがカブスに勝利
+      <a href=https://news.yahoo.co.jp/pickup/6532767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/a800af5bede5cff667f356ef0d4494a2249a7a35c576dc298c164f15c42044dd.jpg> 大谷翔平「久々に緊張しました」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 22:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 23:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
