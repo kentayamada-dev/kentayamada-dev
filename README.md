@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/705ec52e03df335ad32c566445b35458.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d661e5d157ee928cbb5f986e901456f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11916ea4230a207a690965f4d31974940fd3b443>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-02338238-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドジャースが試合開始直前にスタメン変更　フリーマンが先発を外れる　MVPトリオは大谷翔平だけに
+      <a href=https://news.yahoo.co.jp/articles/013e40e2092e692bf5207432eb241571826267f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 路上に遺体、おびえる市民　未明の空爆、イスラエルに怒り　ガザ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e66d06d13b9f16fa2b83a702898def9820271b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-09993112-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相の政倫審出席“応じる用意ある”自民党が野党側に伝える
+      <a href=https://news.yahoo.co.jp/articles/def731a976b54c0cfc323e439a321dfd0fc0ba52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-33181495-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=1133&ch=1133&exp=10800&fmt=webp> 大谷翔平、注目の第１打席はカブス今永昇太の150キロに二ゴロ　通算成績は６打数ノーヒットに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08d26ae2e0c8f26b0134a329c8f3342bd04f9368>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-02918599-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 九州新幹線一時運転見合わせ約3000人に影響　熊本で震度4の地震　県内でも震度3観測
+      <a href=https://news.yahoo.co.jp/articles/c53f5db79c38b78f71d1261908677aeb6295e1d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00002989-kab-000-1-thumb.jpg?exp=10800&fmt=webp> 早朝の緊急地震速報…八代市、上天草市、芦北町で震度4　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1251a38b6020e15470ae17e13f08e81fa93bef0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-07225270-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル軍がガザ大規模攻撃　340人以上死亡　戦闘再開への懸念高まる
+      <a href=https://news.yahoo.co.jp/articles/26739d7b5ed5c7e838bb0f1285909ae0a8caf7bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 首相から政倫審への出席申し出ず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/995313d1b929b9c3b726948e143fc33236057ba8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-10169107-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=558&ch=558&exp=10800&fmt=webp> ホワイトハウス報道官が仏議員に反論 自由の女神像「返還せず」
+      <a href=https://news.yahoo.co.jp/articles/a63104c80727114402aaef166280725df4ddda50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010004-sporting-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> ドジャース急遽先発オーダー変更！ フリーマンに代わってコンフォート 大谷翔平は1番DH
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/f49d1f52ba03c247a9170f365fcac7368bfb3c3ab82af2bd87fafed694f6e923.jpg> 石破首相 政倫審出席に応じる意向
+      <a href=https://news.yahoo.co.jp/pickup/6532748>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/f49d1f52ba03c247a9170f365fcac7368bfb3c3ab82af2bd87fafed694f6e923.jpg> 石破首相 政倫審出席に応じる用意
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532743>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/df518ebc079c2790051cf5012fadf0c7fb6d20f337325f98cd54a40e576ca4cb.jpg> ド軍・キケがサッカーユニで会見
+      <a href=https://news.yahoo.co.jp/pickup/6532749>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/6d8c2ed89211959fe591c0770a4d4b310ff8c06b46e2ac548a7711c94b297fd5.jpg> ド軍激震 フリーマンスタメン落ち
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532745>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/a173e17ffe9dfd6ca8933db3031cca16203f71cb369f561cbbedbebd391f46d3.jpg> YOSHIKIと朗希 試合前に談笑
+      <a href=https://news.yahoo.co.jp/pickup/6532728>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/a558bd75f398fc657899cb6915925566af3f018d9b4d7c8cc1e8b27be33383fd.jpg> 速報開幕戦 カブスvs.ドジャース
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 19:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 19:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
