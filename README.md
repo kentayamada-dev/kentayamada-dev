@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c85dfd80f388b901e82b0107c9242f95.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/56ab6a29522db391f001f236ed7da77d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d9ffc9dc8ec79a3a6a1d7893180f2b59d59d328>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050048-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏、プーチン氏との電話会談「全てのエネルギーとインフラにおける即時停戦で合意」と投稿
+      <a href=https://news.yahoo.co.jp/articles/fcf088604cda7def49948cb374543833880627b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、149円台前半（18日）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c28695709889161f00131746da74b2563a72f18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000016-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ネタニヤフ氏「ガザ攻撃始まりにすぎず」、停戦交渉は砲火の下で継続
+      <a href=https://news.yahoo.co.jp/articles/0728b618826427de98a70082bbfe5c321696e6cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00010001-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「ソウルの悪夢を忘れさせた」ドジャース山本由伸の“1回5失点KO”を知る韓国メディアが1年後の5回1失点の開幕戦“リベンジ”勝利を絶賛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82fa458b9488841254269ef1d123f8386fb0b422>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00516876-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 隠れた足裏の秘密を大谷翔平自ら公開「愛が溢れてる」　ストレッチした時に「見えてました」話題沸騰
+      <a href=https://news.yahoo.co.jp/articles/3a9e89e5aa922d379f81b16b01c433dcbc92f657>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-02297468-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ネタニヤフ首相「始まりに過ぎない」　攻撃再開の考え示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f88fcdc9eb6d8fc5cdfd7ac4d769bf6d40700261>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-03181288-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ７０球メドだった今永昇太　４回ノーノー６９球降板「僕のミッションは２つ」１つは達成もう１つはアメリカで
+      <a href=https://news.yahoo.co.jp/articles/49f5ca743e80e7d6eb7f01dc9ebeab0702772d55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225358-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 午前を中心に荒天続く　季節外れの大雪も　関東は朝の通勤通学に雪・雨や風ピーク
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/45c3ebaaf3d07703b84c863ab6efdea38ba97b9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000015-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 大谷翔平はやっぱり千両役者！　ファンの期待を一身に背負った開幕戦「珍しく緊張」しても2安打2得点
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/e59323bcb91c3f1621e9d65331e77e4e6a305cb1a6ff796b10a04191c7576df8.jpg> 備蓄米販売の表記巡り 消費者困惑
+      <a href=https://news.yahoo.co.jp/pickup/6532770>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/329b11c2fbe3b0bf1fe1b2a74bbd048234870a558a990b63f667f5d1333ddad5.jpg> 19日午前を中心に広く雨や雪 注意
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532762>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/2e4735b21b861adf5cbc85db095bfbdacd15ac24f66dde057055c39740648cb8.jpg> 船井電機への民事再生法適用 棄却
+      <a href=https://news.yahoo.co.jp/pickup/6532771>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/7fa7ccf18add667af3d25f5b77da5fb7807f14fefe041c955a1a001cec00a92b.jpg> 車のタイヤが外れ直撃か 1人重体
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/a800af5bede5cff667f356ef0d4494a2249a7a35c576dc298c164f15c42044dd.jpg> 大谷翔平「久々に緊張しました」
+      <a href=https://news.yahoo.co.jp/pickup/6532772>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/f86736b9227509133edb5ce5231a877a4a9ee220d548d8ba8ea1a2e68bfc5aca.jpg> 大谷が由伸の会見中に「変顔」
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 06:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 06:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
