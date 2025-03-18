@@ -7,7 +7,7 @@ const { VERCEL_ENV } = process.env;
 export const envClient = createEnv({
   client: {
     NEXT_PUBLIC_IS_PRODUCTION: z
-      .boolean()
+      .string()
       .optional()
       .transform((val) => {
         if (isString(val) && val === 'production') {
