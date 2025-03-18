@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6a5734ce140ac2825df5ce314821f122.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d37fb599acf09c69f8b016847251464b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0f52be4ebe97816308137a3eae53003683a30f46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-04651383-ybs-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 19日明け方にかけ大雪か 盆地で3センチの降雪予想 中央線は19日昼まで運転せず 山梨
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0107fbcc234219bd236daaf5afaeb248bf94c180>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000017-kumanichi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 【速報】八代市など震度2
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a03742f91cc1dc9428cc8eecdc405694d760086a>
@@ -375,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/995313d1b929b9c3b726948e143fc33236057ba8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-10169107-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=558&ch=558&exp=10800&fmt=webp> ホワイトハウス報道官が仏議員に反論 自由の女神像「返還せず」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ccb069fef8ed9ac772f5e041bf1309727d8730a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03416382-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 雪予報受け交通にも影響　JR中央本線特急列車の一部などで運休も
       </a>
     </td>
   </tr>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532724>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/9149c6f9c281e39264f631fed95db9577068dc8444c912cb3544427ea2ca4b43.jpg> ファストリ 従業員情報一部漏洩か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532719>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/f8ecc5b2b5f3632c231098ca909c3416208e8a5f9b20fe24dc453afb3771edd9.jpg> 中3が校門で車にはねられる 重傷
       </a>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532730>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/079fe6adb540f94c7da06317a08c9da2675f8bb08c94e004c122772b906a5216.jpg> 2月首都圏マンション価格 11%上昇
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532736>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1d73591305085b444d6739c5398c012ddea06e2439a66c1c4ab1bcbb9a360ad8.jpg> 「自由の女神」返還巡り米仏論争
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532721>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/db7cc8b1daf5580a94b7e64d17bb9d1f4fc4278e85b92912eca907efbca3580d.jpg> 選抜速報 健大高崎vs.明徳義塾
+      <a href=https://news.yahoo.co.jp/pickup/6532742>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1b35b2c220bea21deaf8f45625064d851ae87ccdca7b54786971881e9de55c87.jpg> 軽石なのに16.6kg 巨大軽石発見
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 17:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 18:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
