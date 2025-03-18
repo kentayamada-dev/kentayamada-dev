@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/56ab6a29522db391f001f236ed7da77d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9e5816dba0169eea970b0fe5d5ddd8d6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fcf088604cda7def49948cb374543833880627b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、149円台前半（18日）
+      <a href=https://news.yahoo.co.jp/articles/49471f74dc4b3a3e1813bc062c917fe0abb53d44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000005-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ロシア、米の即時停戦案を棚上げ　首脳同士の電話協議で課題指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f403a830bec57b5cb5d01e4f62d36e8855500627>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000002-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=280&ch=280&exp=10800&fmt=webp> イスラエル、停戦破った未明の空襲…子ども・女性・高齢者が無差別犠牲
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0a401fc64d7a91ff0f7378d633f5387d549b05bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07995822-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平「本人もプレーをしたかったと思う」相次ぐ主軸の離脱に思い　“珍しく緊張”と語るも2安打で打線をけん引
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a9e89e5aa922d379f81b16b01c433dcbc92f657>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-02297468-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ネタニヤフ首相「始まりに過ぎない」　攻撃再開の考え示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49f5ca743e80e7d6eb7f01dc9ebeab0702772d55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225358-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 午前を中心に荒天続く　季節外れの大雪も　関東は朝の通勤通学に雪・雨や風ピーク
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45c3ebaaf3d07703b84c863ab6efdea38ba97b9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000015-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 大谷翔平はやっぱり千両役者！　ファンの期待を一身に背負った開幕戦「珍しく緊張」しても2安打2得点
+      <a href=https://news.yahoo.co.jp/articles/c8c960f6591379e46add98a7564cc34a559a8eb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000004-ann-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 国防総省が「硫黄島で星条旗掲げる海兵隊員」の写真を削除　反DEIで
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/a9bf62764d58338b62b2ec72a2b6da69a63c89b8493d529794faf1dbbe487b51.jpg> 硫黄島で星条旗掲揚の写真削除 米
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532771>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/7fa7ccf18add667af3d25f5b77da5fb7807f14fefe041c955a1a001cec00a92b.jpg> 車のタイヤが外れ直撃か 1人重体
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532766>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/607ef696ca74f143d5e6b37a9a674ca630a6f6f7026d74b7b049ba97d92486de.jpg> 返礼品で5年間産地偽装 市長謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/c331922bc78255d4f1d620b83c9036deec92297d95026a3aecb52fb9671f2b58.jpg> 警察装う特殊詐欺 被害100億円超
+      <a href=https://news.yahoo.co.jp/pickup/6532774>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/7e0e2fdb97b444da7461f43fdb1b659766de6902a9e205a40fba8fd384e67add.jpg> 「鍵穴に接着剤」通報相次ぐ 横浜
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 06:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 07:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
