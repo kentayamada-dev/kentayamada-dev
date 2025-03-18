@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d4f4e7edf8f95169ad0a1c142ceda96d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/58eeb58dbc3ee337e03122c59a9c1d6c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1cb21bdc62b62cd46d96b5ea4244fe6d0ff07f43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010019-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「なんで交代したんだ」“ノーヒット降板→即逆転”が裏目に…今永昇太の交代策に賛否両論「逆に今永の凄さが際立つ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cffde4e30525645064015817147ce9342ca188af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050191-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=375&ch=375&exp=10800&fmt=webp> イスラエル軍の大規模空爆、死者４０４人に…ハマスが戦闘再開なら停戦合意枠組み崩壊の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cea42d26d350fbcdc591ef421f1311fbf1256f12>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00944850-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 予算の再修正案を自民が了承　石破首相“政倫審に応じる用意ある”「商品券問題」公明からも苦言
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4109b673d422b7d3a29dbda1a287beee61a4c287>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000131-jij-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 薄氷の停戦、2カ月で崩壊危機　「人質解放」「軍撤退」で溝　イスラエルとハマス
+      <a href=https://news.yahoo.co.jp/articles/2a4e3ca30ea723a5ed5f6db2d5f4368a84205470>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000067-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=520&ch=520&exp=10800&fmt=webp> ウクライナ領土や原発の扱い議題か 米露首脳、停戦巡り18日協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19b06bb03ed164f291086787bc3594cf8eb855aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181211-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平が３打席目に今季初安打で「ヘッドバンプ」、逆転につなげる　今永昇太の前には２打席凡退
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cdcf72cdcea658f76bfdd501db035c51193ba0a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010005-suntvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> インバウンド効果で城崎温泉は大幅上昇　兵庫県内の最新地価を公表／兵庫県
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81e337c5db97c1e9e7714a9ef6f21079728b32d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-21797238-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 熊本で地震　鹿児島でも最大震度3　九州新幹線が一時運転見合わせで影響も
+      <a href=https://news.yahoo.co.jp/articles/9110e91cbb033ad6e89dc927f675a092c049b4ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000093-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=156&cw=329&ch=329&exp=10800&fmt=webp> 表示されるのは警察の番号…詐欺の電話が急増　ニセ警察に要注意
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532748>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/f49d1f52ba03c247a9170f365fcac7368bfb3c3ab82af2bd87fafed694f6e923.jpg> 石破首相 政倫審出席に応じる用意
+      <a href=https://news.yahoo.co.jp/pickup/6532753>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/cada96914701e2065294da1b5b3c2112cb0ca396477cb0c414aaedb1d335a4c4.jpg> おびえる一夜過ごし ガザ市民怒り
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532755>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/649e9c87ecfd0d8722b60d597bdbd12b872099ab33876426ebda9cc280dadd16.jpg> 19日朝 関東平地も積雪の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532733>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/61b3e3058e108ea9e67df311263019b93c18d47e159984eeadf1c33516dd5920.jpg> 公立高端末代 全国の半数が親負担
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532731>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/210c4b9ecb3e33c984182077c67deb6b8d0b72445c92a142a00460530ac92858.jpg> 竹内涼真 子どもの頃の夢はイルカ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 20:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 21:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
