@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a46cc65e7a0f0a376301ee3029b7020c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b1af59f18758d1806b3f319ee4f367f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c88ee1273f2b9f0a9fc20bb24b6556db0fd50cfa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-04563576-kkt-000-2-thumb.jpg?exp=10800&fmt=webp> 18日朝早く熊本県八代市などで震度4 「起きようとした時にドンという揺れ」
+      <a href=https://news.yahoo.co.jp/articles/0fc24e301bee1ab31b4aeb6d0a3af49da2f204b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-16131917-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=605&cy=0&cw=778&ch=778&exp=10800&fmt=webp> イスラエルがガザ地区に空爆、100人超死亡とハマス発表　停戦発効後で最大規模
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27a376182d6bfa6e3127b101954851f0849cb2b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00944345-fnnprimev-000-1-view.jpg?pri=l&w=192&h=107&exp=10800&fmt=webp> 悠仁さま笑顔で筑波大学附属高校を卒業「忘れられない友達も作ることができたと思います」充実した3年間振り返られる
+      <a href=https://news.yahoo.co.jp/articles/edcd6a12504771b374b34735b8115123a75ca381>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181052-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 【センバツ】誠也先輩やりました！！　二松学舎大付が開幕戦勝利　センバツでは４３年ぶりの初戦突破
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89ee312d3de44a5517b630f4e8412a3cd76b9f91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000033-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】イスラエル軍によるガザ地区大規模空爆で少なくとも100人死亡　ロイター通信
+      <a href=https://news.yahoo.co.jp/articles/ed67aeb31b64c53433da3faad455dcb39d0d8d12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-90019132-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 八代市や上天草市、芦北町で震度４　九州新幹線で一時運転見合わせ【熊本】
       </a>
     </td>
   </tr>
@@ -435,7 +435,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/070cc3a994dae1b61dafceb2a558a7ffe0cbf80e7393761ef36d7a2d7af43843.jpg> 悠仁さま 筑波大学付属高校を卒業
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/3cc4fbed21704dd661f42751ee627c4cba18e4ecf35801a772dddf748d2f7512.jpg> 悠仁さま 筑波大学付属高校を卒業
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/001aaf205f97291cae026d5e78e4542ffb2da6bebc866a9cb07d67dac8a7db9d.jpg> 選抜開幕戦 スピードガンに不具合
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532698>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/66d68d735b5db08a022182ee225bb3b7d684ec239172fa9f41d30b0a82e38814.jpg> ダルビッシュ 開幕への調整を中断
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/6a5fcb2698906b546e001c76a787dc1d88e1ac39e98e7cb3f1ae0b24d6adf536.jpg> 選抜速報 二松学舎大付vs.柳ケ浦
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 12:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 13:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
