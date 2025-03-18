@@ -2,7 +2,7 @@ import { createEnv } from '@t3-oss/env-nextjs';
 import { z } from 'zod';
 import { isString } from '@/typeGuards';
 
-const { VERCEL_ENV, VERCEL_PROJECT_PRODUCTION_URL } = process.env;
+const { NEXT_PUBLIC_VERCEL_ENV, NEXT_PUBLIC_VERCEL_PROJECT_PRODUCTION_URL } = process.env;
 
 export const envServer = createEnv({
   emptyStringAsUndefined: true,
@@ -15,7 +15,7 @@ export const envServer = createEnv({
       .boolean()
       .optional()
       .transform(() => {
-        if (isString(VERCEL_ENV) && VERCEL_ENV === 'production') {
+        if (isString(NEXT_PUBLIC_VERCEL_ENV) && NEXT_PUBLIC_VERCEL_ENV === 'production') {
           return true;
         }
 
@@ -26,9 +26,9 @@ export const envServer = createEnv({
       .optional()
       .transform((val) => {
         // eslint-disable-next-line no-console
-        console.log('🍣🍣🍣', VERCEL_PROJECT_PRODUCTION_URL, VERCEL_ENV);
+        console.log('🍣🍣🍣', NEXT_PUBLIC_VERCEL_PROJECT_PRODUCTION_URL, NEXT_PUBLIC_VERCEL_ENV);
 
-        if (isString(VERCEL_PROJECT_PRODUCTION_URL) && isString(VERCEL_ENV) && VERCEL_ENV === 'production') {
+        if (isString(NEXT_PUBLIC_VERCEL_PROJECT_PRODUCTION_URL) && isString(NEXT_PUBLIC_VERCEL_ENV) && NEXT_PUBLIC_VERCEL_ENV === 'production') {
           return `https://${val}`;
         }
 
