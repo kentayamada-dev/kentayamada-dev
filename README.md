@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/01577f83957b5f4d6eedc2722a52ec1c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/33e3b6302723d68106d412d70f904327.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9db01fb5282a24716ab6da798469fbdb0be37d24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-05458839-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【天気】西から雨や雪　山沿いでは大雪のおそれ
+      <a href=https://news.yahoo.co.jp/articles/9f5d1d99db73400bccf997fcf8ef5c36fad19089>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-21795379-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=758&ch=758&exp=10800&fmt=webp> 【また雪?】東京でも雪か　関東甲信地方の山地中心に大雪　「警報級」大雪のおそれも　積雪や路面凍結に注意・警戒【雪・雨最新シミュレーション】
       </a>
     </td>
   </tr>
@@ -367,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cb8b9471ab90b49698f345af8f347f2d50b7027d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000005-kumanichi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 【速報】八代市など震度2
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6714c5659a40433549851d88a61c0a6e899f404b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000185-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=309&cw=845&ch=845&exp=10800&fmt=webp> 大谷翔平、世紀の一日！日本が世界が注目侍対決で開幕弾　ドジャース－カブス、東京ドームから始まる’25 SHOTIME
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532676>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/77817406b832d63ad612af642ebb5605f31c2aa9c0376e04c59c9b0eb7c8290d.jpg> AdoやYOASOBIがLAでライブ 熱狂
+      <a href=https://news.yahoo.co.jp/pickup/6532689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/757f2186b166875b2c9b6aba7bdde2f47cf3702c503df3e79233ca1e2ccee393.jpg> 大谷なら達成? 開幕初球弾の偉業
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 08:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 09:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
