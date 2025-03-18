@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/25f56a5fe7e717e6e8ad69ee780238c9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a8db6ca8b40d84d67b1af2cac170e63f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/736cc4acdfa193dea16cb9dbd45d53bbccc86837>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000263-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 米露首脳、ウクライナ終戦へエネルギー施設攻撃停止で合意　全面停戦へ交渉開始
+      <a href=https://news.yahoo.co.jp/articles/cfe26e8678f61a3004086edc94df016994197831>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000031-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=471&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米飛行士2人、9カ月ぶり帰還　宇宙船不具合でＩＳＳ滞在長期化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e0bce3a498cb50d9a2346f334e8c23f482410fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ攻撃再開「ハマスに責任」　米はイスラエル支持、仏は非難
+      <a href=https://news.yahoo.co.jp/articles/58133e7421cde2e50016aa5e5df2f66943d55533>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-02224915-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=436&ch=436&exp=10800&fmt=webp> ロシアが“トランプ氏米露ホッケーの試合開催を支持”と明らかに　英メディア「トランプ氏の和平への野望をあざ笑うかのようだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/83c648e96e46d905c2e108c42c36c1b0fafea574>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-01720394-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、ギリギリプレーに「ヒヤッとする」　ファン心配の一瞬…X「大丈夫かな」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/875ca6ae2baa63b25450a1b378be03c0ca2af19e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000027-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> フーシ派、イスラエルへの攻撃拡大宣言　「ガザ紛争終結まで」
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4ca7560f543826aa85979c923ffecebab40440d6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000253-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=904&ch=904&exp=10800&fmt=webp> ドジャース・山本由伸がほえた！日本投手4人目開幕戦先発勝利　〝日本式〟お立ち台でファンに感謝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61c28fa9cc9f2067a31fd43a97994da84d9545d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000254-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 阪神・森下翔太、お目覚め3安打2打点　大谷SHO－TIMEより翔太イムや
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12aff7ef7c7c09ef2311ebdc925a23d0d93297f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050250-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=461&ch=461&exp=10800&fmt=webp> 凱旋試合で「珍しく緊張していた」大谷翔平、フリーマンとベッツ不在の中で痛烈マルチ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 08:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 08:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
