@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9cd7a1b35d051ec143ca9365c6506ecb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c6dc8ae478e616c65692f5f84d0eded.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee1e93bb54339544372ae47c16e540dd99348054>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000066-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平が開幕戦で「1番・DH」　警備員2人が付く厳戒態勢　山本由伸、カブス・今永と史上初の日本人投手対決
+      <a href=https://news.yahoo.co.jp/articles/98ca43a71d8031a0c4081ba78c1b1c01fd2784ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-11624414-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「人生そのものが旅…」いしだあゆみさん（76）甲状腺機能低下症のため死去  独自の存在感を貫いた俳優としての生き方とは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2a97ac6f94381f0657e8765f873fd555d1cd4d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-35230651-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800&fmt=webp> イスラエル、ガザでの戦闘を再開　何が起きたのか
+      <a href=https://news.yahoo.co.jp/articles/5b8da0d34373330948e1b025a1246b9ed089d526>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000051-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=1039&ch=1039&exp=10800&fmt=webp> 竹内涼真、 自分の名前に“ウマ”を発見「きょうまで知りませんでした！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ccb069fef8ed9ac772f5e041bf1309727d8730a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03416382-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 雪予報受け交通にも影響　JR中央本線特急列車の一部などで運休も
+      <a href=https://news.yahoo.co.jp/articles/dcef48920f26acbb2d071c1cc09691c6e80def01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-33180829-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=582&ch=582&exp=10800&fmt=webp> キケ・ヘルナンデスが家族で「原宿かわいいランド」へ　両手で抱いたハリネズミがまさかの熟睡？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f849cca9e806ac2ec992c417a175a2e6a7f6607a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ニュースワード「四国電力伊方原発」
+      <a href=https://news.yahoo.co.jp/articles/18807f7f78d72e33c5bc1f3b5c98411699905c5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00944553-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “停戦後”最大規模のガザ空爆で700人以上が死傷　イスラエル政府はハマスが停戦期間の延長を拒否と主張　ハマスは停戦合意破ったと批判
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532724>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/9149c6f9c281e39264f631fed95db9577068dc8444c912cb3544427ea2ca4b43.jpg> ファストリ 従業員情報一部漏洩か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532719>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/f8ecc5b2b5f3632c231098ca909c3416208e8a5f9b20fe24dc453afb3771edd9.jpg> 中3が校門で車にはねられる 重傷
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532711>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/996d9aa6cf2e521bcc6075fa19f9d727acbe1361f6001cb7d589f08d1e6520f6.jpg> 不審な蓄電池の訪問販売 注意点は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/0b6a466278cf051bce1a407635266ea62d05a9c589d603e9f8636e591941c94c.jpg> 激狭でも都心に住める 物件人気
+      <a href=https://news.yahoo.co.jp/pickup/6532726>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1e39cc18604245daedfc831bd527907ac11f7dab5992112b24ad1ab1e8449734.jpg> 広島女学院 大学運営から撤退へ
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532720>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/ddc1c892be9ecf267591d7b26a2b366454657aee344ffcbfd55a77c80662517b.jpg> 誠也の母校 センバツ43年ぶり白星
+      <a href=https://news.yahoo.co.jp/pickup/6532721>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/db7cc8b1daf5580a94b7e64d17bb9d1f4fc4278e85b92912eca907efbca3580d.jpg> 選抜速報 健大高崎vs.明徳義塾
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 16:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 16:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
