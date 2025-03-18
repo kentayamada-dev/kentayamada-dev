@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/982d18b30ec8b657b13392dfc9551e7a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d4f4e7edf8f95169ad0a1c142ceda96d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32f2175c27b01798b760910616b5cbbb42fe7320>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181179-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 大谷翔平が開幕戦、今永昇太の前に２打席連続凡退　山本由伸は先取点献上　
+      <a href=https://news.yahoo.co.jp/articles/cea42d26d350fbcdc591ef421f1311fbf1256f12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00944850-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 予算の再修正案を自民が了承　石破首相“政倫審に応じる用意ある”「商品券問題」公明からも苦言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1be3014ec4bcc09878da99d9bc1defc9f0cbfcf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181193-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=935&ch=935&exp=10800&fmt=webp> 大谷翔平登場の開幕戦にピカチュ大量発生「カメラ目線に草」「豪華すぎる」「ピカまみれの球場！」
+      <a href=https://news.yahoo.co.jp/articles/4109b673d422b7d3a29dbda1a287beee61a4c287>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000131-jij-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 薄氷の停戦、2カ月で崩壊危機　「人質解放」「軍撤退」で溝　イスラエルとハマス
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3dda49b48cef51b683bf48fa2f5c36421250481a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ停戦合意の歓喜、今では悲しみと哀悼に
+      <a href=https://news.yahoo.co.jp/articles/19b06bb03ed164f291086787bc3594cf8eb855aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181211-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平が３打席目に今季初安打で「ヘッドバンプ」、逆転につなげる　今永昇太の前には２打席凡退
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02385b808f59bea4792d8f70b6c6a1f70161e673>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-90019135-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 明け方の緊急地震速報　天草・芦北地方で震度４【熊本】
+      <a href=https://news.yahoo.co.jp/articles/cdcf72cdcea658f76bfdd501db035c51193ba0a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010005-suntvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> インバウンド効果で城崎温泉は大幅上昇　兵庫県内の最新地価を公表／兵庫県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26739d7b5ed5c7e838bb0f1285909ae0a8caf7bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 首相から政倫審への出席申し出ず
+      <a href=https://news.yahoo.co.jp/articles/81e337c5db97c1e9e7714a9ef6f21079728b32d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-21797238-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 熊本で地震　鹿児島でも最大震度3　九州新幹線が一時運転見合わせで影響も
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/9b7125dc4306d3756ef15c9ac7fee03315487d68bd5376a130497d309006cda0.jpg> マイナ免許証開始へ メリットは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532747>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/de5294cde2ec1c8028463b84d737ed3d24cdfba032bf6ce9b32cfa1e090f0274.jpg> 旧校舎解体工事 作業員挟まれ死亡
+      <a href=https://news.yahoo.co.jp/pickup/6532755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/649e9c87ecfd0d8722b60d597bdbd12b872099ab33876426ebda9cc280dadd16.jpg> 19日朝 関東平地も積雪の恐れ
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532739>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/4ed685e7880186c79ce94989a5c37497b0f971685afd0c395cee016b3b0a1cf8.jpg> ロト7で12億円当せん 史上最高額
+      <a href=https://news.yahoo.co.jp/pickup/6532754>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/4623d184657391b883b89509c52b067f68a0e832eb637ee2712c676721d8809a.jpg> ステマと判断 医療法人に措置命令
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532731>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/210c4b9ecb3e33c984182077c67deb6b8d0b72445c92a142a00460530ac92858.jpg> 竹内涼真 子どもの頃の夢はイルカ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 20:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 20:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
