@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/33e3b6302723d68106d412d70f904327.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/27324bf215935e91f3d33280ca271706.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f5d1d99db73400bccf997fcf8ef5c36fad19089>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-21795379-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=758&ch=758&exp=10800&fmt=webp> 【また雪?】東京でも雪か　関東甲信地方の山地中心に大雪　「警報級」大雪のおそれも　積雪や路面凍結に注意・警戒【雪・雨最新シミュレーション】
+      <a href=https://news.yahoo.co.jp/articles/0fa9e068ead5f43205189bf51baa7c7f5b5ce3bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00009392-kkbvc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 熊本で最大震度４の地震　鹿児島県内は震度３を観測　九州新幹線の一部区間で運転見合わせ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb8b9471ab90b49698f345af8f347f2d50b7027d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000005-kumanichi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 【速報】八代市など震度2
+      <a href=https://news.yahoo.co.jp/articles/91cb08ab3b911d52ec0ef1d76b29f7bcdd0c46d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ロ首脳、ウクライナ停戦巡り協議へ　領土譲歩や「発電所」が議題とトランプ氏
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3087995900fbd7d1c8a39e17def09389f197ea81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000010-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=719&ch=719&exp=10800&fmt=webp> 「首相の慣例」新たな火種　商品券配布、自民で常態化か
+      <a href=https://news.yahoo.co.jp/articles/f3a1c1e594dc078df81c2ccf111b940c5eba8cf3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050011-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=49&cw=305&ch=305&exp=10800&fmt=webp> 国民民主党の政党支持率が堅調、一貫して「手取り増」にこだわる姿勢が奏功か…読売世論調査
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532678>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/a2e4e48badae662ed185045b118e04d1a2ec55850afe55d668365ea40f54991f.jpg> 維新 衆院で予算再修正案に同意へ
+      <a href=https://news.yahoo.co.jp/pickup/6532691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 国民民主の支持率が堅調 読売調査
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1c4a271ccf7bb8403e2d1c9e108637ab76d11c482fb2d5a5a48983125c644ada.jpg> 郵便配達員の酩酊運転 通報11日後
+      <a href=https://news.yahoo.co.jp/pickup/6532692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/50d75166c0c3cc5e135c67f1f9a913a7040e0e21146b55f89c5d73e7698968f7.jpg> 夜行バスで男性に性的暴行か 逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 09:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 09:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
