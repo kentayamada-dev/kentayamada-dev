@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e9fbc095ab1c33fd899ea2f854d3163.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/904cf2426f686998f4b14465f32187fb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b7ade8f75ac79cc5e0d5ad14df0df265be244f15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、フーシ派巡りイランを牽制「責任問われ、悲惨な結果に」　米軍は攻撃を継続
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1f3158aeb2505e9f521d43abddc8f3f94d327a83>
@@ -373,14 +381,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91cb08ab3b911d52ec0ef1d76b29f7bcdd0c46d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ロ首脳、ウクライナ停戦巡り協議へ　領土譲歩や「発電所」が議題とトランプ氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6714c5659a40433549851d88a61c0a6e899f404b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250317-00000185-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=309&cw=845&ch=845&exp=10800&fmt=webp> 大谷翔平、世紀の一日！日本が世界が注目侍対決で開幕弾　ドジャース－カブス、東京ドームから始まる’25 SHOTIME
       </a>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f3a1c1e594dc078df81c2ccf111b940c5eba8cf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050011-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=49&cw=305&ch=305&exp=10800&fmt=webp> 国民民主党の政党支持率が堅調、一貫して「手取り増」にこだわる姿勢が奏功か…読売世論調査
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050011-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=49&cw=305&ch=305&exp=10800&fmt=webp> 国民民主党の政党支持率が堅調、一貫して「手取り増」にこだわる姿勢が奏功か…読売世論調査
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 10:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 10:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
