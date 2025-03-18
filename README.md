@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d4d4bc10ffa643db729ace66864a59e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/705ec52e03df335ad32c566445b35458.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3b497cdc1fbccfb0707c114f0fa46b5afff780d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-90007642-tvq-000-1-thumb.jpg?exp=10800&fmt=webp> 熊本で震度４の地震　九州新幹線一部区間の運転に影響
+      <a href=https://news.yahoo.co.jp/articles/11916ea4230a207a690965f4d31974940fd3b443>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-02338238-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドジャースが試合開始直前にスタメン変更　フリーマンが先発を外れる　MVPトリオは大谷翔平だけに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/065e90a3a6fd9fb1afd3d19b325f72bc9d21eb72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181152-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が開幕戦前に“投手リハビリ”　ボールプレゼントで大歓声　ボディーガードがグラウンドにも
+      <a href=https://news.yahoo.co.jp/articles/3e66d06d13b9f16fa2b83a702898def9820271b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-09993112-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相の政倫審出席“応じる用意ある”自民党が野党側に伝える
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/08d26ae2e0c8f26b0134a329c8f3342bd04f9368>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-02918599-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 九州新幹線一時運転見合わせ約3000人に影響　熊本で震度4の地震　県内でも震度3観測
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f1251a38b6020e15470ae17e13f08e81fa93bef0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-07225270-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル軍がガザ大規模攻撃　340人以上死亡　戦闘再開への懸念高まる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f52be4ebe97816308137a3eae53003683a30f46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-04651383-ybs-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 19日明け方にかけ大雪か 盆地で3センチの降雪予想 中央線は19日昼まで運転せず 山梨
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532735>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 顧客情報流用 日本郵政社長ら処分
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/13fec8c3b0105a56475d309cfbb8f29a3d9dedb7aa811d254910baed1cd48201.jpg> 顧客情報流用 日本郵政社長ら処分
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/9c88a68195d5c7c794e1da6ac8e1ef0ca6a0c6cae48c7f6642b80f47be47b44a.jpg> スシロー 非正規が賃上げ求めスト
+      <a href=https://news.yahoo.co.jp/pickup/6532747>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/de5294cde2ec1c8028463b84d737ed3d24cdfba032bf6ce9b32cfa1e090f0274.jpg> 旧校舎解体工事 作業員挟まれ死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/1d73591305085b444d6739c5398c012ddea06e2439a66c1c4ab1bcbb9a360ad8.jpg> 「自由の女神」返還巡り米仏論争
+      <a href=https://news.yahoo.co.jp/pickup/6532741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/9c88a68195d5c7c794e1da6ac8e1ef0ca6a0c6cae48c7f6642b80f47be47b44a.jpg> スシロー 非正規が賃上げ求めスト
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 18:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 19:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
