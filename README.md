@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/77708f1f026b51e3667166ded4429d36.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/43ab88db1ae1fcae44fafd34ab517229.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b27af01ae1f9f57db1dae1a144e0715a1f6eca19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国家安全保障会議報道官「拒否と戦争を選んだ」イスラエル軍のガザ地区攻撃にコメント
+      <a href=https://news.yahoo.co.jp/articles/cf926f8c2973329b9db9d6bf64b685f4438237a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03869752-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル軍、ガザ地区で大規模空爆　少なくとも200人死亡　停戦合意めぐり“暗雲”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7284a0fea6f323d8cad7270903ceeb2f2c7dedb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000065-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=792&ch=792&exp=10800&fmt=webp> 保育施設元施設長ら書類送検　うつぶせ寝で男児窒息死　警視庁
+      <a href=https://news.yahoo.co.jp/articles/6a8601bd675fae27ee40fa03d596fa2275901811>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00337778-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【春場所】豊昇龍休場　師匠の立浪親方が指令「５月はしっかりした成績を出さないと」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532708>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/b94954d42c548c378e12df12a78d9ae2e7ef1e2b546d3cf3b41bd82fac892d72.jpg> 津波対策実施は67% 教委にアンケ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532701>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/333d217b7947abd03c17838f7ff548d842aa9dd22765c5f3e0adae13099d475e.jpg> 岸田氏 商品券配布の有無答えず
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532702>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/84df8361aefc6697b80343f2909561d53e696bb431a4e7e5e13018775d934132.jpg> 伊藤塾運営前代表が脱税疑い 告発
+      <a href=https://news.yahoo.co.jp/pickup/6532712>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/080a72a11ee6394728832e865cc79713e09e1e9c9cafab77c90603b0b52afd54.jpg> 岸和田市長選に前市長が出馬表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/ea0f87206c8a8851c3153919c21f14d9a13ee4ce28185507e0a61c5b3f137a63.jpg> 乳児死亡 元施設長ら書類送検
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532704>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/001aaf205f97291cae026d5e78e4542ffb2da6bebc866a9cb07d67dac8a7db9d.jpg> 選抜開幕戦 スピードガンに不具合
+      <a href=https://news.yahoo.co.jp/pickup/6532698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/66d68d735b5db08a022182ee225bb3b7d684ec239172fa9f41d30b0a82e38814.jpg> ダルビッシュ 開幕への調整を中断
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/66d68d735b5db08a022182ee225bb3b7d684ec239172fa9f41d30b0a82e38814.jpg> ダルビッシュ 開幕への調整を中断
+      <a href=https://news.yahoo.co.jp/pickup/6532704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/001aaf205f97291cae026d5e78e4542ffb2da6bebc866a9cb07d67dac8a7db9d.jpg> 選抜開幕戦 スピードガンに不具合
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 13:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 14:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
