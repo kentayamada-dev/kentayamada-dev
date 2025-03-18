@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97f6a13aced688e3474258b0c3446d71.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d2d571030cd4f56f1d95ada0f4631ca1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a53132387800c992823138b4a978bbed2d28ef5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010015-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=320&ch=320&exp=10800&fmt=webp> ドジャースの開幕スタメンは？　先発メンバーを徹底予想！
+      <a href=https://news.yahoo.co.jp/articles/411a6ad4659698c2921ff198f052fb9563c8c7cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000189-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 【センバツ】花巻東が同日開幕の大谷翔平先輩へ贈る7年ぶり春1勝　次戦は鈴木誠也母校・二松学舎大付と
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b92a491dd83bceda9ab5989a1b9e57289a3a7c5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181104-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平が東京ドーム入り　ボディーガード２人つきの“厳戒態勢”　ＶＳ今永昇太で米８年目開幕
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2bb143c23d49b057460cac19b30feeaea9474c9c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010002-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル、ガザに大規模攻撃 220人以上死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de76f5c348f7ab21657022e08e9010c4f920fd8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-05319451-sdt-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【正門付近で事故】中学校から出ようとした車に中学生２人はねられけが…運転手の高齢女性も負傷か（静岡・長泉町）
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532705>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/db7cc8b1daf5580a94b7e64d17bb9d1f4fc4278e85b92912eca907efbca3580d.jpg> 選抜速報 花巻東vs.米子松蔭
+      <a href=https://news.yahoo.co.jp/pickup/6532720>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/ddc1c892be9ecf267591d7b26a2b366454657aee344ffcbfd55a77c80662517b.jpg> 誠也の母校 センバツ43年ぶり白星
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 15:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 15:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
