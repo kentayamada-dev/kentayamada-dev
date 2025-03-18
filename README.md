@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/22252e4746845867aadb3aeafbdef4ab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c85dfd80f388b901e82b0107c9242f95.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4d9ffc9dc8ec79a3a6a1d7893180f2b59d59d328>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050048-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏、プーチン氏との電話会談「全てのエネルギーとインフラにおける即時停戦で合意」と投稿
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9c28695709889161f00131746da74b2563a72f18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000016-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ネタニヤフ氏「ガザ攻撃始まりにすぎず」、停戦交渉は砲火の下で継続
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/82fa458b9488841254269ef1d123f8386fb0b422>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00516876-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 隠れた足裏の秘密を大谷翔平自ら公開「愛が溢れてる」　ストレッチした時に「見えてました」話題沸騰
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f88fcdc9eb6d8fc5cdfd7ac4d769bf6d40700261>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-03181288-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ７０球メドだった今永昇太　４回ノーノー６９球降板「僕のミッションは２つ」１つは達成もう１つはアメリカで
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d1fc1eb12848346e964d80f48db38bb6e9dbb5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000048-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=943&ch=943&exp=10800&fmt=webp> ドジャース・大谷　快幕!!25年チーム初安打から逆転勝ち
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1b8d7e9cb5c8a35eb90e33215ee072a3a8def6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、攻撃続行表明　ガザ空爆は「始まり」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/476b2cfdf9c76ee6b74598fea565fc2ffc4921d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000028-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=745&ch=745&exp=10800&fmt=webp> 米ロ、エネ施設の攻撃停止で一致　ウクライナ巡り首脳が電話会談
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 05:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 06:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
