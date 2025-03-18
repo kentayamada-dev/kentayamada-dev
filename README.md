@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/43ab88db1ae1fcae44fafd34ab517229.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1caff9c7e7b26ea285a0313897a9170.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf926f8c2973329b9db9d6bf64b685f4438237a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03869752-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル軍、ガザ地区で大規模空爆　少なくとも200人死亡　停戦合意めぐり“暗雲”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a8601bd675fae27ee40fa03d596fa2275901811>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00337778-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【春場所】豊昇龍休場　師匠の立浪親方が指令「５月はしっかりした成績を出さないと」
+      <a href=https://news.yahoo.co.jp/articles/b62867e85fba8cca3931ca99ed157b501e32ee32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000015-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イスラエル、ガザに大規模攻撃 220人以上死亡
       </a>
     </td>
   </tr>
@@ -381,8 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e080fe2e4eeb2fb45bb6a27573d345044b9f70b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00944376-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 世界一連覇へ…大谷翔平選手SNSに“今夜会いましょう”と英語で投稿　開幕投手はドジャースが山本由伸投手・カブスが今永昇太投手
+      <a href=https://news.yahoo.co.jp/articles/3984eefc1e1d1b63ae5438cd1650546a0d1d30c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181040-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1156&ch=1156&exp=10800&fmt=webp> ドジャース佐々木朗希がメジャー契約、開幕ベンチ２６人入り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7eab9d0a4abcdf00d10d8f36a4c166bd96766dd3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000023-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=589&ch=589&exp=10800&fmt=webp> 「長期政権のおごり」　公明幹部が自民に苦言　商品券配布問題
       </a>
     </td>
   </tr>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532699>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/c4a7b71be989eee56ed754a09b05f179127529eb8335e032391f7e6f67dc47a5.jpg> イスラエル軍 ガザに大規模攻撃
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532701>
@@ -442,6 +434,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/0b6a466278cf051bce1a407635266ea62d05a9c589d603e9f8636e591941c94c.jpg> 激狭でも都心に住める 物件人気
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532713>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/43e835d33dc5d86679c56f8c6fb459dffe7267895325755b21d8400f8ba258d4.jpg> 豊昇龍が休場 新横綱では39年ぶり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532705>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/db7cc8b1daf5580a94b7e64d17bb9d1f4fc4278e85b92912eca907efbca3580d.jpg> 選抜速報 花巻東vs.米子松蔭
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/66d68d735b5db08a022182ee225bb3b7d684ec239172fa9f41d30b0a82e38814.jpg> ダルビッシュ 開幕への調整を中断
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532704>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/001aaf205f97291cae026d5e78e4542ffb2da6bebc866a9cb07d67dac8a7db9d.jpg> 選抜開幕戦 スピードガンに不具合
+      <a href=https://news.yahoo.co.jp/pickup/6532714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/0863f670164d5476252ae30d2809484314972d483172adf37de2861de788209f.jpg> ドジャース 開幕ベンチ26人発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 14:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 14:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
