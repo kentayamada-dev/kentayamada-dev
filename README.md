@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9de85570a77ef61a2d40bb7774cf8473.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d265d09a1a941679bec78ae63aabb2b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a010bc8b11753fb9e8818ffaa06a42cca78c1c54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-01720395-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が第5打席　第3打席に今季初安打…今永昇太には2打席凡退、東京ドーム熱視線
+      <a href=https://news.yahoo.co.jp/articles/5f4e1fc0642f44be85f8d019a901a99806c6682f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000382-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1179&ch=1179&exp=10800&fmt=webp> カブス・カウンセル監督が、今永の69球交代を説明　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd0467e4736cdfe855e919994ca44199dad2c918>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000137-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=160&cw=880&ch=880&exp=10800&fmt=webp> 船井電機への民事再生法適用を棄却　原田会長が申請　東京地裁
+      <a href=https://news.yahoo.co.jp/articles/16010ebc5d798eda104b37c6b2800125cf8cbc0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドジャース山本由伸が日本人４人目となる開幕戦勝利　大谷翔平からハイタッチ求められ肩をモミモミ
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cffde4e30525645064015817147ce9342ca188af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050191-yom-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=375&ch=375&exp=10800&fmt=webp> イスラエル軍の大規模空爆、死者４０４人に…ハマスが戦闘再開なら停戦合意枠組み崩壊の恐れ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00050191-yom-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=375&ch=375&exp=10800&fmt=webp> イスラエル軍の大規模空爆、死者４０４人に…ハマスが戦闘再開なら停戦合意枠組み崩壊の恐れ
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a4e3ca30ea723a5ed5f6db2d5f4368a84205470>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000067-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=520&ch=520&exp=10800&fmt=webp> ウクライナ領土や原発の扱い議題か 米露首脳、停戦巡り18日協議
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000067-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=520&ch=520&exp=10800&fmt=webp> ウクライナ領土や原発の扱い議題か 米露首脳、停戦巡り18日協議
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532762>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/2e4735b21b861adf5cbc85db095bfbdacd15ac24f66dde057055c39740648cb8.jpg> 船井電機への民事再生法適用 棄却
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532763>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 北海道の死亡事故 高裁で逆転無罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532733>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/61b3e3058e108ea9e67df311263019b93c18d47e159984eeadf1c33516dd5920.jpg> 公立高端末代 全国の半数が親負担
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532761>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/c492cd91bf95eb48bcdf9253170df92cbf65c4a166f9caf65fd569e7f8406293.jpg> 鞄ぶつける男 福岡で被害相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532739>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/4ed685e7880186c79ce94989a5c37497b0f971685afd0c395cee016b3b0a1cf8.jpg> ロト7で12億円当せん 史上最高額
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532752>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/a6c0885ace94b8bf344327f1a30dc11ca8c71c90cb28621d6db5c0db9c8d2485.jpg> 開幕戦セレモニー 大量ピカチュウ
+      <a href=https://news.yahoo.co.jp/pickup/6532765>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/481604c0cb05ac7000bbb8c3c8224b27d953e5573e22b660e5cd5badc9cf0bbd.jpg> 開幕戦 ドジャースがカブスに勝利
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532728>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/a558bd75f398fc657899cb6915925566af3f018d9b4d7c8cc1e8b27be33383fd.jpg> 速報開幕戦 カブスvs.ドジャース
+      <a href=https://news.yahoo.co.jp/pickup/6532764>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/f5d3cc83df0329da7db3f170ba31d84a69f819234c002da28090291f245c8068.jpg> 開幕戦におぎやはぎ 球場どよめき
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 21:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/03/18 22:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
