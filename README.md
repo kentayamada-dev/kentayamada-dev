@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c1cf5cca0e8048489e32818eeaafa597.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dc817253f39037ee366d1244d032a7b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91a0a5f820924fc63041de1618127c69c5706c60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-01720746-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、東京Dで見せた“芸術”　難攻不落な打棒に名左腕も脱帽「とてつもない」
+      <a href=https://news.yahoo.co.jp/articles/7ec440794cbff1474d8efe3e4b9c1c39a24ae359>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-04883247-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米露電話会談　全面的な停戦合意期待も…ロシア側が難色示し大幅後退
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d419f8d668c5ae31d4ad677ecf5d5d1c3643c510>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000012-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=1394&ch=1394&exp=10800&fmt=webp> ロシアが全面停戦案を事実上拒否 ゼレンスキー氏
+      <a href=https://news.yahoo.co.jp/articles/c6aee37a11d0ba90e0b51a17b9ac6e2c1337d770>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225386-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> ガザ攻撃再開のイスラエル「これは始まりにすぎない」 イエメンでも攻撃応酬　中東情勢が再び緊迫化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9886fba8c54e36fada8e04c6ff30621d96c94c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ネタニヤフ首相“ハマス壊滅まで休むことはない”　ハマス側も戦闘再開の可能性示す
+      <a href=https://news.yahoo.co.jp/articles/0eb1e3dd31adcc35799a16c51a7e0ac0f344eefd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-06913866-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 商品券配布、歴代首相は…野党が追及強める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f03ff0ab39539a8fe4e25bf43c8c90b87d68d40e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225392-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「岸田前総理も10万円相当の商品券を配っていた疑いが出てきた」石破総理の商品券配布問題をめぐり野党追及
+      <a href=https://news.yahoo.co.jp/articles/5c72248454ef9cf59db60409661bf5412ece0cdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00093880-thedigest-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「いま東京いるの？」MLB開幕シリーズを現地観戦した“超人気韓国アイドル”にネット騒然「東京ドームいたの」「ヒョヨンちゃんきてたのか…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd49a3129adc3560a4bbefcb18709c3d7bfd8806>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000050-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 元福島県知事の佐藤栄佐久氏が死去、85歳　脱原発を訴え続ける
+      <a href=https://news.yahoo.co.jp/articles/2c8e140615dfcdafcd9f3e3cb533f3d09df306ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050090-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 日銀、政策金利０・５％程度の据え置き決定…トランプ関税の影響を慎重に見極め
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532781>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/d564743f9c41c0a8a76cabca9b7def731f1a8e72ed101a2d5640d354236acda3.jpg> ウ大統領 エネ施設攻撃停止を支持
+      <a href=https://news.yahoo.co.jp/pickup/6532804>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6e2b10eed56b7cf8531a39be0a3055bd2a5d3e565e3758775d8e4fd2a4b6c9ff.jpg> 日銀が追加利上げ見送り 0.5%維持
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/4d20b2472e4095f35bd03bc73869cb9f6b4fe8b8908a43d98fb9008961ceea2a.jpg> 元福島県知事 佐藤栄佐久氏が死去
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/b15304100ca1e88757fc0d0dcffa6a399154d945b230efa0be976bd44128e353.jpg> 伊藤詩織氏 望月氏提訴を取り下げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532797>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/db7cc8b1daf5580a94b7e64d17bb9d1f4fc4278e85b92912eca907efbca3580d.jpg> 速報センバツ 横浜vs.市和歌山
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 12:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 12:30:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
