@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f4010e8e67a75a0b9bce2952dbf60c05.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e559e8653d601377718151290d62e542.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1b62caecb6c067286b7cfe1d442b39abd813340>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-90031489-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 「ドーンというすごい音が…」落雷が原因で火災か　住宅ほぼ全焼　ケガ人なし
+      <a href=https://news.yahoo.co.jp/articles/d384a9ce53e60276fbc609288bf3f7d4b173d8d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-33190509-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 石破首相が珍妙言い訳「天気かプロ野球の話しかできない」　公邸懇親会「政治活動か否か」めぐり
       </a>
     </td>
   </tr>
@@ -366,15 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb0d96b5fc65d7449a71564a51fd7ee138f52977>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050132-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米露の停戦協議、独仏首脳「最初の重要な一歩だ」と歓迎…ウクライナ抜きの交渉に警戒感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05c0eabbcb3a4c5997bad0b3fceacdd34d385b9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000129-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=558&ch=558&exp=10800&fmt=webp> 岸田前首相、商品券を配布か　政務官懇談で、朝日新聞が報道
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050132-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米露の停戦協議、独仏首脳「最初の重要な一歩だ」と歓迎…ウクライナ抜きの交渉に警戒感
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/66acb5e80ac41a3e356595723891169a06d44bc7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945087-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=486&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 死傷者は950人以上か…ガサの大規模空爆についてイスラエルとアメリカが攻撃の正当性を主張「敵対行為が再開した責任はハマスにある」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d7912fe43529801402419edf0808fc64603ee20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000054-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=201&cw=798&ch=798&exp=10800&fmt=webp> 森友文書の概要、国会に提示　改ざん問題で財務省
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6531847>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 地震情報
+      <a href=https://news.yahoo.co.jp/pickup/6532814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 石川県で震度4 津波心配なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/602f2a3f7e5d30faad6903d6304c3d9678c430010a10f9993d9e53f6b00fe244.jpg> 不正取引の元裁判官に懲役2年求刑
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6e2b10eed56b7cf8531a39be0a3055bd2a5d3e565e3758775d8e4fd2a4b6c9ff.jpg> 日銀が追加利上げ見送り 0.5%維持
+      <a href=https://news.yahoo.co.jp/pickup/6532816>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/14ab0bd3049fe7cef5f891c1be1ef39ee8c72780443c2a745f5178f55aeea1ed.jpg> 北陸新幹線 上下線で運転再開
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532810>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 北陸新幹線 東京-長野で見合わせ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/4d20b2472e4095f35bd03bc73869cb9f6b4fe8b8908a43d98fb9008961ceea2a.jpg> 元福島県知事 佐藤栄佐久氏が死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532809>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6f94992ccbf7694e1d28856ce761df0f5357d944ab3bbc43e4908a8622650ddd.jpg> 「雷が落ちた」通報 住宅ほぼ全焼
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532813>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/1741cad17655b2a684131ab17c3cf600cec05135a5ff4aac54b9967c8f6c0d8b.jpg> ド軍カーショー 愛息の手本は由伸
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 13:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 14:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
