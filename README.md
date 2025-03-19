@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/72c8c95c634ed85f594be2be5bf1ecf7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/88850a9887fdbef6c79eed609223e848.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/87e3f793bbcd510b140dd9fead287a1a63ed4461>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000148-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1090&ch=1090&exp=10800&fmt=webp> カブス・鈴木誠也から快音聞かれず　東京シリーズ2試合で計8打数無安打、チームも開幕2連敗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb8187651ec6b6a8b606d79ddab124b588ce023e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア「攻撃停止はエネルギー施設のみ」　首脳電話会談　米「インフラ分野も」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/da2e08550d6da0d45629b7564827907983438cb0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00010014-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1735&ch=1735&exp=10800&fmt=webp> 【中日】ソフトバンクに競り勝ちOP戦勝率は5割に 涌井は5回3安打1失点 木下が先制打 石川昂の内野ゴロ間で加点 救援陣は無失点
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e48a7d2d963892070f0fafcc3e642b49f989476>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-21800614-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=695&ch=695&exp=10800&fmt=webp> 【STARTO社】「コンサートチケットの転売出品が権利侵害にあたる」　日本で初めての「画期的な司法判断」　公式サイトで明かす　「公式のリセールサイトを今年夏にも立ち上げる予定で準備」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5f6770adcd5db48acb74f1f375b9c0ce927fff52>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 「自民の金権政治体質」　岸田前首相も商品券配布で野党が批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a1fb249ad9c2f6db4435d6299147a2ccd99d053>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000110-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏とゼレンスキー氏が電話協議へ、激しい口論後初めて
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/0bab7d4c836b7412bc6afe6611ea611b411cc2554415be937ae93eecc3ec16a1.jpg> ガザ空爆 停戦交渉「戦火の下で」
+      <a href=https://news.yahoo.co.jp/pickup/6532857>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/c733d78f9a08f4d2abf29e6150374928808f9466ae4bdc24dcc01d82a0e758c7.jpg> 上祐氏語る オウムが陥った陰謀論
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/2a7d43d27472da7572d3f8971cd0bd8fd1c0a9d0569186d52124ada5607b9fe3.jpg> NISA投資56兆円 政府目標を達成
+      <a href=https://news.yahoo.co.jp/pickup/6532829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/0bab7d4c836b7412bc6afe6611ea611b411cc2554415be937ae93eecc3ec16a1.jpg> ガザ空爆 停戦交渉「戦火の下で」
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532847>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/866f91354e61c58b7a0fd99143598b50ff7f505eddc7a703928f29dcf17f0bcf.jpg> 速報MLB カブスvs.ドジャース
+      <a href=https://news.yahoo.co.jp/pickup/6532858>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/bb85288121aab0b8d93857e506fa0cb07002cdca48a356ec0936af980d8b5ee6.jpg> 大谷1号HR 客が触れてビデオ判定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532855>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/9ba2c004ffa322511ea0ef2004033c58830fb69bad00652ba1e295b7aeee2f9c.jpg> 大谷翔平が今季1号 ドーム大歓声
+      <a href=https://news.yahoo.co.jp/pickup/6532853>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6fa72bb2db8372f8905b39f90876931fbdbeb680942b007d02b88b6c42ecdf0f.jpg> 朗希160キロ連発の衝撃デビュー
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 21:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 22:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
