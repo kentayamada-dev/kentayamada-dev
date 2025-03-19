@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4430d8134f36c04e36c60acc1e72a56.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/afa25e53b55f5450868d42484d469936.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/16459c2fd3f090ec3c36911cb9b90160fd687958>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00945537-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナ・ゼレンスキー大統領とアメリカ・トランプ大統領が電話会談　米ロ会談内容を説明か
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/338fd48f3b1b41f6629770cc1a6ce11e8d500d88>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d68806ca6ce43f8eb21ff601dadf050352565434>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050239-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=409&ch=409&exp=10800&fmt=webp> 大谷翔平「少し微妙な感じ」の１号アーチ…凱旋試合は「本当にいい思い出になった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b2b410b7b74eb08a68370502e64df43f78bc31b9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225557-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岸田前総理も“商品券”渡していた 懇談会の出席者に　岸田氏側は書面で回答「法令に従い適正に行っている」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb8187651ec6b6a8b606d79ddab124b588ce023e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア「攻撃停止はエネルギー施設のみ」　首脳電話会談　米「インフラ分野も」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/468cdf062fb6e201afeb3fb1cc43598e69ba4f91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225528-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「これは始まりにすぎない」 ネタニヤフ首相がガザ攻撃の“継続”方針を示す　イスラエル軍が新たな空爆　少なくとも24人死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 23:52:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 00:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
