@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dc817253f39037ee366d1244d032a7b5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/89e19712199650516d693cd793a5f71a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9df4a095ef8dc0b126c98dc24a61859341e843df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000044-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 商品券配布問題で野党追及続く　岸田前総理の参考人招致を要求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7ec440794cbff1474d8efe3e4b9c1c39a24ae359>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-04883247-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米露電話会談　全面的な停戦合意期待も…ロシア側が難色示し大幅後退
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/39ec51b943dc7940b056a04f5ab9612e186aad5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-21798263-sbsv-000-3-thumb.jpg?exp=10800&fmt=webp> 「雷が落ちて家が燃えて…」木造2階建て住宅ほぼ全焼し4時間後鎮火 警察と消防が火事の原因調査=静岡・伊東市
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0eb1e3dd31adcc35799a16c51a7e0ac0f344eefd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-06913866-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 商品券配布、歴代首相は…野党が追及強める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5c72248454ef9cf59db60409661bf5412ece0cdd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00093880-thedigest-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「いま東京いるの？」MLB開幕シリーズを現地観戦した“超人気韓国アイドル”にネット騒然「東京ドームいたの」「ヒョヨンちゃんきてたのか…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c8e140615dfcdafcd9f3e3cb533f3d09df306ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050090-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 日銀、政策金利０・５％程度の据え置き決定…トランプ関税の影響を慎重に見極め
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/a7eba525ec7bd5f25b079a34245d774ac420c1aedecb17801bb7e5a1f284ab0e.jpg> 関東各地で積雪 港区で9mmひょう
+      <a href=https://news.yahoo.co.jp/pickup/6532806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/7b255d168ced60b4b73713e21c0c9aaa0758dba77270f09bf11d5e35745606e6.jpg> 東京都心積雪1cm 北風強く体感冬
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/4d20b2472e4095f35bd03bc73869cb9f6b4fe8b8908a43d98fb9008961ceea2a.jpg> 元福島県知事 佐藤栄佐久氏が死去
+      <a href=https://news.yahoo.co.jp/pickup/6532810>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 北陸新幹線 東京-長野で見合わせ
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532787>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/0cd75f7df014a7b21c5e1b043355995d3da7f32fa0f4419110bc5c184d61ac1f.jpg> 中国の公園で「婚活」 若者嫌悪も
+      <a href=https://news.yahoo.co.jp/pickup/6532801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/4d20b2472e4095f35bd03bc73869cb9f6b4fe8b8908a43d98fb9008961ceea2a.jpg> 元福島県知事 佐藤栄佐久氏が死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6f94992ccbf7694e1d28856ce761df0f5357d944ab3bbc43e4908a8622650ddd.jpg> 「雷が落ちた」通報 住宅ほぼ全焼
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532802>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/12eb228bcd94907d8d6718010d2204c5d32f6919c54f488b4794cbd9f703ee05.jpg> 丸高愛実 出産より怖かったつわり
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 12:30:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 13:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
