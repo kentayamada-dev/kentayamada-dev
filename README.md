@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4cad0209179e815c6c84a23ef92826bd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c1cf5cca0e8048489e32818eeaafa597.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83ade26d0f366a6a8941ddb3507173c629f45d7e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-90020838-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=372&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 停戦暗雲…イスラエル、ガザ大規模空爆で400人超死亡　アメリカ“黙認”の狙いは？
+      <a href=https://news.yahoo.co.jp/articles/91a0a5f820924fc63041de1618127c69c5706c60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-01720746-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、東京Dで見せた“芸術”　難攻不落な打棒に名左腕も脱帽「とてつもない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c98f03cc5cecbe2b2989efe4fea94e3b1399e25e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=736&ch=736&exp=10800&fmt=webp> 「全面的停戦」は棚上げに　露側、ウクライナの戦力立て直しに懸念
+      <a href=https://news.yahoo.co.jp/articles/d419f8d668c5ae31d4ad677ecf5d5d1c3643c510>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000012-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=1394&ch=1394&exp=10800&fmt=webp> ロシアが全面停戦案を事実上拒否 ゼレンスキー氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0801625df4c25d7573918650c8fdcdb0e4b46af4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 立民の野田代表「自民の構造的問題に」　「岸田前首相も商品券」報道受け
+      <a href=https://news.yahoo.co.jp/articles/b9886fba8c54e36fada8e04c6ff30621d96c94c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ネタニヤフ首相“ハマス壊滅まで休むことはない”　ハマス側も戦闘再開の可能性示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ab21037d24530bc96bf01ad89c86199be6daacf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000028-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 死亡女児の住民票、容疑者父の申告で削除　大阪・八尾のコンクリ遺体
+      <a href=https://news.yahoo.co.jp/articles/f03ff0ab39539a8fe4e25bf43c8c90b87d68d40e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225392-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「岸田前総理も10万円相当の商品券を配っていた疑いが出てきた」石破総理の商品券配布問題をめぐり野党追及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03796f7ef1d77c37e41675d130743425ce14f5ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00516998-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の執刀医が明言した二刀流復活の難しさ　復帰日予想は「健全ではない。彼は他と違う」
+      <a href=https://news.yahoo.co.jp/articles/bd49a3129adc3560a4bbefcb18709c3d7bfd8806>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000050-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 元福島県知事の佐藤栄佐久氏が死去、85歳　脱原発を訴え続ける
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532792>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/a7eba525ec7bd5f25b079a34245d774ac420c1aedecb17801bb7e5a1f284ab0e.jpg> 関東各地で積雪 港区で9mmひょう
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532789>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_32.png> 関東で降雪 鉄道やフライトの情報
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532795>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/025e9ed07267bfb8699ba041b0f57cb3b9bb73ac41274ff6612d5e4faee063ff.jpg> ラノベ誌のドラゴンマガジン 休刊
+      <a href=https://news.yahoo.co.jp/pickup/6532797>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/db7cc8b1daf5580a94b7e64d17bb9d1f4fc4278e85b92912eca907efbca3580d.jpg> 速報センバツ 横浜vs.市和歌山
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532802>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/12eb228bcd94907d8d6718010d2204c5d32f6919c54f488b4794cbd9f703ee05.jpg> 丸高愛実 出産より怖かったつわり
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 11:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 12:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
