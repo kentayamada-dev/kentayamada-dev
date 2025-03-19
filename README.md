@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ff8646143310b13ff391e96f840a18fc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/be5843dc74dd49471ec57de8b80a5e0a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f89bd8efd5d4c6d5519ee69362c09ccd8ade445e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000032-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=671&ch=671&exp=10800&fmt=webp> 米FRB、政策金利維持　年内利下げ2回で据え置き
+      <a href=https://news.yahoo.co.jp/articles/1cdf7ffcf23c49f69f963bc52ada75c22b99534c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000037-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=43&cw=615&ch=615&exp=10800&fmt=webp> 国連総長、ガザ停戦維持要請　施設攻撃で職員1人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/65a300d9b97733ea5e5b0ef6082fdf9322878f7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00050058-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏とゼレンスキー氏、エネルギー施設攻撃停止に合意…部分停戦実施の公算大きく
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/41d04c4d2bbd901b2d724bd14946e83e241d6065>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（19日）ＦＯＭＣ受け株価反発、利回り低下　ドル上げ幅縮小
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd94cf0baa6538c0260cc0edfbe39b3cf26618fb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00337970-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=939&ch=939&exp=10800&fmt=webp> 【センバツ】田端ブラザーズが横浜の織田、奥村頼の〝無双継投〟を分析「あの寒さでエグいっす」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43fcbee356256205bb1bb17fe8edfc8cfe2a91e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00945553-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル軍がガザで地上作戦開始　ハマスは「合意違反」と批判　戦闘拡大が懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/721e7e452ef70f634944cbd53a36773ffb7d76ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00945551-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> エネルギー施設攻撃停止　ウクライナも同意　トランプ氏は原発のアメリカ所有を提案
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 06:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 07:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
