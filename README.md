@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/65248e6c6e962327d47130e990ed909e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6bc666a9b18f62fb87019f7f15200420.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c8148cca0360eb61c3ff63758a20aa5abc5dbc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000087-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 攻撃除外施設のリスト、ロシア側に伝達方針　ゼレンスキー大統領
+      <a href=https://news.yahoo.co.jp/articles/0e2df1d377918573b29cf2ce3b5ef98642afc9bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-33191828-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=54&cw=1331&ch=1331&exp=10800&fmt=webp> 大谷翔平１号は「ファンの手ホームラン」？ビデオ判定に…「プレーの邪魔をしたらだめです」Ｘでも物議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bd85a5f5c64805f397b3927ef45bc405b5164d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000084-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 在任中の岸田前首相から商品券　自民関係者　歴代政権で慣例化か
+      <a href=https://news.yahoo.co.jp/articles/da2e08550d6da0d45629b7564827907983438cb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00010014-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1735&ch=1735&exp=10800&fmt=webp> 【中日】ソフトバンクに競り勝ちOP戦勝率は5割に 涌井は5回3安打1失点 木下が先制打 石川昂の内野ゴロ間で加点 救援陣は無失点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ac268a71af9873b7c949e0661aa63dd419d463d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000121-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=919&ch=919&exp=10800&fmt=webp> 【中日】先発・涌井秀章、5イニング3安打1失点の力投　3年連続開幕ローテ入りへアピール
+      <a href=https://news.yahoo.co.jp/articles/5f6770adcd5db48acb74f1f375b9c0ce927fff52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 「自民の金権政治体質」　岸田前首相も商品券配布で野党が批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f6bfa9aaf58f4f7d0da0c080f18a32482590f59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00337975-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 河村隆一「喫煙者ではないのに、なぜ自分が肺がんに」　イベントで肺がん検診の重要性訴える
+      <a href=https://news.yahoo.co.jp/articles/7a1fb249ad9c2f6db4435d6299147a2ccd99d053>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000110-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏とゼレンスキー氏が電話協議へ、激しい口論後初めて
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/aee9599fa0309fc62f9894c0f2409f2ba3e0e3dc50786c80c4ae1af50e1cc687.jpg> 河村隆一 がん発見当時の苦悩語る
+      <a href=https://news.yahoo.co.jp/pickup/6532855>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/9ba2c004ffa322511ea0ef2004033c58830fb69bad00652ba1e295b7aeee2f9c.jpg> 大谷翔平が今季1号 ドーム大歓声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/fd3adcae39dd15239be3c5ce3690b749f034a926e7b286e67d0283812f691a53.jpg> ナスD大冒険TV打ち切り 社員処分
+      <a href=https://news.yahoo.co.jp/pickup/6532851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/aee9599fa0309fc62f9894c0f2409f2ba3e0e3dc50786c80c4ae1af50e1cc687.jpg> 河村隆一 がん発見当時の苦悩語る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 20:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 21:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
