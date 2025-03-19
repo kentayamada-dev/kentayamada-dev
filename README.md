@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be5843dc74dd49471ec57de8b80a5e0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/631e4128d7a573a0c18522f18bb32556.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cdf7ffcf23c49f69f963bc52ada75c22b99534c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000037-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=43&cw=615&ch=615&exp=10800&fmt=webp> 国連総長、ガザ停戦維持要請　施設攻撃で職員1人死亡
+      <a href=https://news.yahoo.co.jp/articles/f7c49e96b32eca6433d0c9138c5fba59da34fd0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍、ガザで地上作戦再開　要衝に展開、戦闘拡大恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65a300d9b97733ea5e5b0ef6082fdf9322878f7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00050058-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏とゼレンスキー氏、エネルギー施設攻撃停止に合意…部分停戦実施の公算大きく
+      <a href=https://news.yahoo.co.jp/articles/1d8796cc5280fab452b7fb464f88d7102a353ee5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00093348-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=938&ch=938&exp=10800&fmt=webp> やっぱりプーチンに甘すぎる…電話会談の成果を自慢したいトランプ大統領が隠した"ロシアの要求"の中身
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41d04c4d2bbd901b2d724bd14946e83e241d6065>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（19日）ＦＯＭＣ受け株価反発、利回り低下　ドル上げ幅縮小
+      <a href=https://news.yahoo.co.jp/articles/a0f3e12ba30f2a01f4c7c274d6d0bb2f3572ff16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日銀の利上げ判断に影響も　「トランプリスク」急浮上
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/74ea8a06a97058f406d0e5a11cfa8ba6348f068d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000012-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 商品券配布、自民で慣習化　石破首相の説明迷走　国会
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8fc0bc2e5ab8cefd71665eb2764a432d322e51ab>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010001-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「ボール、ボール、ボール、ボール…」佐々木朗希の大荒れ5四球デビューに韓国メディアは厳しい評価も大谷翔平には脱帽
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd94cf0baa6538c0260cc0edfbe39b3cf26618fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00337970-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=939&ch=939&exp=10800&fmt=webp> 【センバツ】田端ブラザーズが横浜の織田、奥村頼の〝無双継投〟を分析「あの寒さでエグいっす」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a3862092b693ade1a8ee26e5830f7c2d3588b0ef5666f4fe2efe8b1d0dceeb77.jpg> イスラエル ガザで地上作戦を開始
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532859>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/aea707765eeffb5a3b337d7f689d1e4c607a5313c6ac9b1dfdc055892c865c4c.jpg> パワハラ認定 斎藤知事に逆風か
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532849>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/67744b5d639572254536b70b3d3c06c9954e21c7aa439761bd6086abada1613c.jpg> 切り抜き動画の課題は 職人に密着
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532858>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/bb85288121aab0b8d93857e506fa0cb07002cdca48a356ec0936af980d8b5ee6.jpg> 大谷1号HR 客が触れてビデオ判定
+      <a href=https://news.yahoo.co.jp/pickup/6532867>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/00b2eacf9d398a668c79a8ba96bf97dc51db68067e7787190222f52bd42a627a.jpg> 大谷の1号HR球 10歳少年がゲット
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 07:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 07:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
