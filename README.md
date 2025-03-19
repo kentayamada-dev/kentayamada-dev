@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/afa25e53b55f5450868d42484d469936.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d9116025499952eeee9f759660952cb8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16459c2fd3f090ec3c36911cb9b90160fd687958>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00945537-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナ・ゼレンスキー大統領とアメリカ・トランプ大統領が電話会談　米ロ会談内容を説明か
+      <a href=https://news.yahoo.co.jp/articles/6053a0c31fc0b4918757be5922053efc3f024905>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000002-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ゼレンスキー氏「ロシアは言行不一致」、米ロ会談後も相互攻撃やまず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a799809282ef50fcdd3fef35267a52f50ebaecd1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000356-spnannex-000-26-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=589&ch=589&exp=10800&fmt=webp> 大谷効果だ！18日の東京シリーズ第1戦は日本史上最多の2500万人が視聴　由伸、今永、誠也も出場
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/839a6e0bd976e6c6b318a0e3dae44ba1aa7e1d6d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000199-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=837&ch=837&exp=10800&fmt=webp> センバツ　横浜・奥村頼人、投打で躍動　猛打賞＆0封5K
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d68806ca6ce43f8eb21ff601dadf050352565434>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050239-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=409&ch=409&exp=10800&fmt=webp> 大谷翔平「少し微妙な感じ」の１号アーチ…凱旋試合は「本当にいい思い出になった」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 00:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 01:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
