@@ -69,8 +69,7 @@ const meta = {
         </>
       );
     }
-  ],
-  title: 'Templates/Article Template/Article/Desktop Table of Contents'
+  ]
 } satisfies Meta<typeof DesktopTableOfContents>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

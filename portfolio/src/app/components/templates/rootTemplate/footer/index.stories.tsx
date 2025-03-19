@@ -19,8 +19,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Templates/Root Template/Footer'
+  ]
 } satisfies Meta<typeof Footer>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

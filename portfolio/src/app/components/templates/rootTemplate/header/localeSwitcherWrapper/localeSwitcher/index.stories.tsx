@@ -10,8 +10,7 @@ const meta = {
     items: locales,
     lang: defaultLocale
   },
-  component: LocaleSwitcher,
-  title: 'Templates/Root Template/Header/Locale Switcher'
+  component: LocaleSwitcher
 } satisfies Meta<typeof LocaleSwitcher>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

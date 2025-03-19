@@ -12,8 +12,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Icons/Cross'
+  ]
 } satisfies Meta<typeof CrossIcon>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

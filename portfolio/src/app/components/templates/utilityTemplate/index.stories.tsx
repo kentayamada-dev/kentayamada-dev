@@ -29,8 +29,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Templates/Utility Template'
+  ]
 } satisfies Meta<typeof UtilityTemplate>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

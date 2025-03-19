@@ -22,8 +22,7 @@ const meta = {
     items: navigationItems,
     lang: defaultLocale
   },
-  component: NavItems,
-  title: 'Templates/Root Template/Header/Nav Items'
+  component: NavItems
 } satisfies Meta<typeof NavItems>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

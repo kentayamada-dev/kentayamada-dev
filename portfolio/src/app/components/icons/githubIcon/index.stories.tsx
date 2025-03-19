@@ -12,8 +12,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Icons/GitHub'
+  ]
 } satisfies Meta<typeof GithubIcon>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

@@ -8,8 +8,7 @@ const meta = {
     icon: SunIcon,
     title: 'Light'
   },
-  component: ListItem,
-  title: 'Atoms/List Item'
+  component: ListItem
 } satisfies Meta<typeof ListItem>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

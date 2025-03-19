@@ -18,8 +18,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Templates/Root Template/Header/Side Panel/Link Item'
+  ]
 } satisfies Meta<typeof LinkItem>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

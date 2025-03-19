@@ -12,8 +12,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Icons/Moon'
+  ]
 } satisfies Meta<typeof MoonIcon>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

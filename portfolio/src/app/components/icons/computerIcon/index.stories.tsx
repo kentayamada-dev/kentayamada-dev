@@ -12,8 +12,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Icons/Computer'
+  ]
 } satisfies Meta<typeof ComputerIcon>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

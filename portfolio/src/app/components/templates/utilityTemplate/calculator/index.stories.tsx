@@ -7,8 +7,7 @@ const meta = {
   args: {
     lang: defaultLocale
   },
-  component: Calculator,
-  title: 'Templates/Utility Template/Calculator'
+  component: Calculator
 } satisfies Meta<typeof Calculator>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

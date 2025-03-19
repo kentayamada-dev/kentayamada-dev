@@ -9,8 +9,7 @@ const meta = {
     lang: defaultLocale,
     year: 2024
   },
-  component: Header,
-  title: 'Templates/Root Template/Header'
+  component: Header
 } satisfies Meta<typeof Header>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

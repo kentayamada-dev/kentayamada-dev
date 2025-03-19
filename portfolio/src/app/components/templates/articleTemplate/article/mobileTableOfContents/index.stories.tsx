@@ -72,8 +72,7 @@ const meta = {
   ],
   parameters: {
     viewport: { defaultViewport: 'iPhone14ProMax' }
-  },
-  title: 'Templates/Article Template/Article/Mobile Table of Contents'
+  }
 } satisfies Meta<typeof MobileTableOfContents>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

@@ -12,8 +12,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Icons/Japan Flag'
+  ]
 } satisfies Meta<typeof JapanFlagIcon>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

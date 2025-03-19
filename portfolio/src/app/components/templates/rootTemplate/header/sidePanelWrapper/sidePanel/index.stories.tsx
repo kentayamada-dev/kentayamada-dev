@@ -27,8 +27,7 @@ const meta = {
     open: true,
     year: 2024
   },
-  component: SidePanel,
-  title: 'Templates/Root Template/Header/Side Panel'
+  component: SidePanel
 } satisfies Meta<typeof SidePanel>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

@@ -6,8 +6,7 @@ const meta = {
     id: 'label',
     label: 'Label'
   },
-  component: Input,
-  title: 'Atoms/Input'
+  component: Input
 } satisfies Meta<typeof Input>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

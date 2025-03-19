@@ -15,8 +15,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Atoms/Logo'
+  ]
 } satisfies Meta<typeof Logo>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

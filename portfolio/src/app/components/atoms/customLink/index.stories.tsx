@@ -6,8 +6,7 @@ const meta = {
     active: true,
     title: 'Home'
   },
-  component: CustomLink,
-  title: 'Atoms/Custom Link'
+  component: CustomLink
 } satisfies Meta<typeof CustomLink>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

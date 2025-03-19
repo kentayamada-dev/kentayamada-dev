@@ -9,8 +9,7 @@ const meta = {
     lang: defaultLocale,
     year: 2024
   },
-  component: CopyRight,
-  title: 'Atoms/Copy Right'
+  component: CopyRight
 } satisfies Meta<typeof CopyRight>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

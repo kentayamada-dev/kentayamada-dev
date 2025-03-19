@@ -115,8 +115,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Templates/Article Template'
+  ]
 } satisfies Meta<typeof ArticleTemplate>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

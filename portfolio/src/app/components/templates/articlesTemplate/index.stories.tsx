@@ -54,8 +54,7 @@ const meta = {
     articlesHref: '/articles',
     lang: defaultLocale
   },
-  component: ArticlesTemplate,
-  title: 'Templates/Articles Template'
+  component: ArticlesTemplate
 } satisfies Meta<typeof ArticlesTemplate>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

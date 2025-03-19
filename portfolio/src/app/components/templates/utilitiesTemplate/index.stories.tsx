@@ -58,8 +58,7 @@ const meta = {
     ],
     utilitiesHref: '/utilities'
   },
-  component: UtilitiesTemplate,
-  title: 'Templates/Utilities Template'
+  component: UtilitiesTemplate
 } satisfies Meta<typeof UtilitiesTemplate>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

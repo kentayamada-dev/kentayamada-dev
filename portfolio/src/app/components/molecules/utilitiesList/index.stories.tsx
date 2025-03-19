@@ -64,8 +64,7 @@ const meta = {
     viewport: {
       defaultViewport: 'iPadAir'
     }
-  },
-  title: 'Molecules/Utilities List'
+  }
 } satisfies Meta<typeof UtilitiesList>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

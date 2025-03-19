@@ -58,8 +58,7 @@ const meta = {
     publishedAt: new Date(),
     title: 'Title'
   },
-  component: Article,
-  title: 'Templates/Article Template/Article'
+  component: Article
 } satisfies Meta<typeof Article>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

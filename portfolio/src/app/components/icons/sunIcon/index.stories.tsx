@@ -12,8 +12,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Icons/Sun'
+  ]
 } satisfies Meta<typeof SunIcon>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

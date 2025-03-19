@@ -12,8 +12,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Icons/Table Of Contents'
+  ]
 } satisfies Meta<typeof TableOfContentsIcon>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

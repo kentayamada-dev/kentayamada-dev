@@ -13,8 +13,7 @@ const meta = {
     items: themeOptions,
     lang: defaultLocale
   },
-  component: ThemeSwitcher,
-  title: 'Templates/Root Template/Header/Theme Switcher'
+  component: ThemeSwitcher
 } satisfies Meta<typeof ThemeSwitcher>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

@@ -5,8 +5,7 @@ const meta = {
   args: {
     videoId: '3KtWfp0UopM'
   },
-  component: YoutubeEmbed,
-  title: 'Atoms/Youtube Embed'
+  component: YoutubeEmbed
 } satisfies Meta<typeof YoutubeEmbed>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

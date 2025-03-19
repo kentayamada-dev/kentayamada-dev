@@ -9,8 +9,7 @@ const meta = {
     mainMessage: 'Main Message',
     subMessage: 'Sub Message'
   },
-  component: NotFound,
-  title: 'Molecules/Not Found'
+  component: NotFound
 } satisfies Meta<typeof NotFound>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

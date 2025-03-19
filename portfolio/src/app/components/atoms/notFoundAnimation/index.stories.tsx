@@ -12,8 +12,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Atoms/Not Found Animation'
+  ]
 } satisfies Meta<typeof NotFoundAnimation>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

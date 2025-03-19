@@ -20,8 +20,7 @@ const meta = {
         </div>
       );
     }
-  ],
-  title: 'Atoms/Custom Image'
+  ]
 } satisfies Meta<typeof CustomImage>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

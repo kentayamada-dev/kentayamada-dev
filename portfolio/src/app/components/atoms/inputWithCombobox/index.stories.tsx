@@ -10,8 +10,7 @@ const meta = {
     optionValue: 'option1',
     options: ['option1', 'option2', 'option3']
   },
-  component: InputWithCombobox,
-  title: 'Atoms/Input With Combobox'
+  component: InputWithCombobox
 } satisfies Meta<typeof InputWithCombobox>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;
