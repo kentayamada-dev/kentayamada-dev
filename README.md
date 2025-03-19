@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/10e01017a08eed7d0a436a1a1df082fb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/78378259a56a7f87179778e47259431c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c19578c52c55a2ad483dbd5519e7f03020a29571>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000007-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> イスラエル軍、ガザ中南部で地上作戦再開　緩衝地帯設置が目的
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fdccd81da016754e78a434b261354ca51a141e94>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00338012-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 「ｍ―ｆｌｏ」のＬＩＳＡの結婚報告に上田晋也が困惑
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bfcb8affd351c9faf64db70e3a37161efd4c66df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225571-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岸田前総理側も商品券配布　石破総理に続き歴代総理に“飛び火”「官房機密費」の使用は？　約20年前の”機密費”資料には「商品券」の記載が…【news23】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225571-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 岸田前総理側も商品券配布　石破総理に続き歴代総理に“飛び火”「官房機密費」の使用は？　約20年前の”機密費”資料には「商品券」の記載が…【news23】
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a799809282ef50fcdd3fef35267a52f50ebaecd1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000356-spnannex-000-28-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=589&ch=589&exp=10800&fmt=webp> 大谷効果だ！18日東京シリーズ第1戦の日本視聴者は過去最多2500万人　由伸、今永、誠也も出場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/839a6e0bd976e6c6b318a0e3dae44ba1aa7e1d6d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000199-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=837&ch=837&exp=10800&fmt=webp> センバツ　横浜・奥村頼人、投打で躍動　猛打賞＆0封5K
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 01:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 02:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
