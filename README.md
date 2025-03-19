@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/962c37b245d4128e64ff9370432e68bc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f27e14c51e7d7dff82982fa28f65b221.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a79ac5bd77310bb0baa32c4e1c280a12ea7c0f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00010004-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=216&cw=1768&ch=1768&exp=10800&fmt=webp> 【ロッテ】4投手リレーで完封勝利！ ドラ1西川5試合連続安打 安田OP戦初ホームラン 先発・西野5回無失点 ポランコ先制タイムリー
+      <a href=https://news.yahoo.co.jp/articles/c4509f8c50eece987a8ad60f42adddcb1605092a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-90018235-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=490&ch=490&exp=10800&fmt=webp> 「亡くなった娘のために、私たち家族はこの裁判にしっかりと向き合っていく」殺害された女児の遺族コメント
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/86bc50cccd9d60ed5347caf1c41bed7e632ce8e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-33190787-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=1248&ch=1248&exp=10800&fmt=webp> 【センバツ】織田翔希に負けん！市和歌山「隠れ150キロ」２年生鮮烈デビュー「思ったより通用」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/077268b96a27de69a884c5abb1618971e611f3df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000056-ann-000-8-thumb.jpg?exp=10800&fmt=webp> 「責任はハマスにある」安保理で米国代表がガザ空爆のイスラエルを支持
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7477f0bf5525bd7f23f47a1a3661c5feabb7af2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000062-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ガザ攻撃「始まりにすぎない」　停戦交渉と同時並行　イスラエル首相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77f0d5eb4c31c0ce34e2ee70df8ddb9460a24889>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050134-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 前兵庫県民局長の公用ＰＣ保存の私的情報、非公開を決定…県「公益性は考えられない」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,22 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/840c94066a9db98443a26b476c665e7cd21c49c0194e49b27b8f5318e24512eb.jpg> 岸田氏に商品券配布問題 野党追及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532812>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/602f2a3f7e5d30faad6903d6304c3d9678c430010a10f9993d9e53f6b00fe244.jpg> 不正取引の元裁判官に懲役2年求刑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532817>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/5f95e00680ddbe9e48d15188ae200c62397e095a33332904b97a05034c2984a0.jpg> 森友文書 17万ページ1年かけ開示
       </a>
@@ -434,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6f94992ccbf7694e1d28856ce761df0f5357d944ab3bbc43e4908a8622650ddd.jpg> 「雷が落ちた」通報 住宅ほぼ全焼
+      <a href=https://news.yahoo.co.jp/pickup/6532821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/30997e16c0672fe23893c0930c6508b4d70cf1b2d4d8b07242eb1ce38fe16ed0.jpg> 元局長の公用PCは非開示 兵庫
       </a>
     </td>
   </tr>
@@ -444,6 +428,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532811>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/0d0449e9863263648c11dccc4b949aa3bb1cef4d5a5136c374f49b196099ac11.jpg> 金価格1万6千円を突破 過去最高に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532830>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/28bdbc42136fef0b0719a3408c531505ad28359a3b0e71075407d77171017743.jpg> 18年前の小2殺害疑い 男を起訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532828>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/9d15acd0089ef53fe69769e9569768b3dcb172d5b57d4a1b55c61f436bec2a1f.jpg> 東海道新幹線 半個室の座席導入へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 15:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 16:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
