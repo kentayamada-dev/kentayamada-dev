@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/23e48e010a9f7f16c53877ba1a554c02.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/962c37b245d4128e64ff9370432e68bc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f742871a0a4d93f07e25003e4c4aa9244bc1c4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 赤木さん妻「もう少し待ちたい」　森友文書の一覧開示受け
+      <a href=https://news.yahoo.co.jp/articles/5a79ac5bd77310bb0baa32c4e1c280a12ea7c0f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00010004-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=216&cw=1768&ch=1768&exp=10800&fmt=webp> 【ロッテ】4投手リレーで完封勝利！ ドラ1西川5試合連続安打 安田OP戦初ホームラン 先発・西野5回無失点 ポランコ先制タイムリー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d261794d7dae9024a3b050fa54b4d81a3451baa9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00003227-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=840&ch=840&exp=10800&fmt=webp> V候補・横浜が市和歌山を振り切って13年ぶり春白星！織田が152キロマーク！奥村頼は無安打救援【25年センバツ】
+      <a href=https://news.yahoo.co.jp/articles/0828eecf94953a76da3e0e86a89509f8c32bc1e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000084-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 「商品券千円×１００枚」岸田前首相にも疑惑　国会でも質問飛び招致要求　ネット「ドサッと札束感」「どんなの？」「横にしたら立つ」「コンニャク」　岸田氏側「適正に対応」も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3b9d500ad840ebe8c6960fed9d30be96d182d573>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000053-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ウクライナ停戦に向けた米ロ首脳会談受け「各国の外交努力を後押し」日本政府
       </a>
     </td>
   </tr>
@@ -374,23 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c7477f0bf5525bd7f23f47a1a3661c5feabb7af2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ攻撃「始まりにすぎない」　停戦交渉と同時並行　イスラエル首相
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000062-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ガザ攻撃「始まりにすぎない」　停戦交渉と同時並行　イスラエル首相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/233e949b0c7a79d48664f37fe8f963585c64d489>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000019-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ウクライナ無人機の残骸落ち石油貯蔵施設で火災 ロシア
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d384a9ce53e60276fbc609288bf3f7d4b173d8d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-33190509-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 石破首相が珍妙言い訳「天気かプロ野球の話しかできない」　公邸懇親会「政治活動か否か」めぐり
+      <a href=https://news.yahoo.co.jp/articles/77f0d5eb4c31c0ce34e2ee70df8ddb9460a24889>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050134-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 前兵庫県民局長の公用ＰＣ保存の私的情報、非公開を決定…県「公益性は考えられない」
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/a8885b0f3980789a958272d96b73716c8ba49bbbbd759ef3ddce77f21c33e003.jpg> 岸田前首相 商品券10万円分を配布
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532800>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532816>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/14ab0bd3049fe7cef5f891c1be1ef39ee8c72780443c2a745f5178f55aeea1ed.jpg> 北陸新幹線 上下線で運転再開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532809>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6f94992ccbf7694e1d28856ce761df0f5357d944ab3bbc43e4908a8622650ddd.jpg> 「雷が落ちた」通報 住宅ほぼ全焼
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532820>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/296b78f997e089247f36861fabb281323cae9b9586546f3810c00e90641d39e3.jpg> 横浜 13年ぶり選抜勝利で初戦突破
+      <a href=https://news.yahoo.co.jp/pickup/6532826>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/46080210dc4868b72ba2e7449284117e9e611c55a002774fd27586d63187c8cf.jpg> 川田裕美「ヒルナンデス」卒業へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 15:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 15:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
