@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6e6f44288375731e1cec1abd01942753.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a6673f28ec5ec88173be310f76c89961.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/827aa30502db3d7bfeee80ea18a881a27b43f867>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000005-nkgendai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷の躍動にニューヨーカー悲鳴…ドジャースは名門ヤンキースに大差つけ米球界の新盟主に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3e7daa6c5fa4122149a018794300172ed9a0a090>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、米露関係の「リセット」志向　ウクライナ停戦、「全面」から「部分」に後退
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/da2cf2fdec8edc1e8b5de622a13c7aac69d106e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000101-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=943&ch=943&exp=10800&fmt=webp> MLB日本開幕戦カブスVSドジャース　日テレ世帯視聴率31.2％！瞬間最高は35.7%
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1abcb68aa60848ce1026447a698acb9703e9a2c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000005-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ガザ空爆は「始まりにすぎない」 ネタニヤフ氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dcf65fc9b8cbdd7bd90cb80d3c6f63b999740674>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-01720682-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「少し時間がかかるかも」　開幕好スタートも…専門家が指摘した“懸念”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4b08ffd6e2145ddb26c9253d0f0c270ea4785c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000024-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=399&ch=399&exp=10800&fmt=webp> ゼレンスキー氏、部分停戦にひとまず賛成…「トランプと氏との対話望む」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83e136f2445ccdf159428023a7a055c3fda67d7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-33190199-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=310&cy=0&cw=842&ch=842&exp=10800&fmt=webp> トップ100選手で大谷翔平が１位、山本由伸、佐々木朗希もランクイン　２位は昨季の首位打者
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000005-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ガザ空爆は「始まりにすぎない」 ネタニヤフ氏
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532780>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6e19787a5b7ce91581c99be371eeda437375c93b3537af73fd78b95549cc79fb.jpg> 2月の大雪 温暖化の影響の可能性
+      <a href=https://news.yahoo.co.jp/pickup/6532792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/a7eba525ec7bd5f25b079a34245d774ac420c1aedecb17801bb7e5a1f284ab0e.jpg> 関東各地で積雪 港区で9mmひょう
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532789>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_32.png> 関東で降雪 鉄道やフライトの情報
       </a>
     </td>
   </tr>
@@ -434,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/f256f9ea73b5a26452767a8d1663382d7dbc1074ee50fc208817d8ebeb689c14.jpg> 米 ケネディ暗殺機密文書を公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532785>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/89e506ef5c555e4986e173e0ba8551960402392a7db66560b1340349dc3b1c3d.jpg> 高騰の富良野 購入は外国人ばかり
       </a>
@@ -442,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532782>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/e4fda9d5a65e5dc94521f1690d8898f6e0124404941c5d982513d2b5244175b8.jpg> 当初予定1週間 9カ月ぶり地球帰還
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/67439c0bb9cec98e785691d2ca03e9a535d0544d69a6ba623633ef36439a7b4f.jpg> 日米で物議 なぜ今永は4回で降板
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532776>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/027a211fe87fcad4cc1e013d4d3fb394bb75b185e3e81ea2429fec3b613b00e0.jpg> 芳根京子 2クール連続ドラマ主演
+      <a href=https://news.yahoo.co.jp/pickup/6532791>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/27bf67221e52b7dd1fd27ffc6228ec5762b156c0f1209dbe12895717fd9ac387.jpg> 開幕戦の視聴率 瞬間最高は35.7%
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 10:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 10:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
