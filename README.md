@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d2d571030cd4f56f1d95ada0f4631ca1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f4010e8e67a75a0b9bce2952dbf60c05.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/411a6ad4659698c2921ff198f052fb9563c8c7cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000189-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=933&ch=933&exp=10800&fmt=webp> 【センバツ】花巻東が同日開幕の大谷翔平先輩へ贈る7年ぶり春1勝　次戦は鈴木誠也母校・二松学舎大付と
+      <a href=https://news.yahoo.co.jp/articles/d1b62caecb6c067286b7cfe1d442b39abd813340>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-90031489-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 「ドーンというすごい音が…」落雷が原因で火災か　住宅ほぼ全焼　ケガ人なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b92a491dd83bceda9ab5989a1b9e57289a3a7c5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-03181104-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平が東京ドーム入り　ボディーガード２人つきの“厳戒態勢”　ＶＳ今永昇太で米８年目開幕
+      <a href=https://news.yahoo.co.jp/articles/bb0d96b5fc65d7449a71564a51fd7ee138f52977>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050132-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米露の停戦協議、独仏首脳「最初の重要な一歩だ」と歓迎…ウクライナ抜きの交渉に警戒感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2bb143c23d49b057460cac19b30feeaea9474c9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00010002-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル、ガザに大規模攻撃 220人以上死亡
+      <a href=https://news.yahoo.co.jp/articles/05c0eabbcb3a4c5997bad0b3fceacdd34d385b9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000129-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=558&ch=558&exp=10800&fmt=webp> 岸田前首相、商品券を配布か　政務官懇談で、朝日新聞が報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed67aeb31b64c53433da3faad455dcb39d0d8d12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-90019132-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 八代市や上天草市、芦北町で震度４　九州新幹線で一時運転見合わせ【熊本】
+      <a href=https://news.yahoo.co.jp/articles/66acb5e80ac41a3e356595723891169a06d44bc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945087-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=486&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 死傷者は950人以上か…ガサの大規模空爆についてイスラエルとアメリカが攻撃の正当性を主張「敵対行為が再開した責任はハマスにある」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7c1c26b2207697e2dd014fed753519a21664230>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000006-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=38&cw=473&ch=473&exp=10800&fmt=webp> いしだあゆみさん死去に悲しみの声続々　研ナオコさん「私も同じ甲状腺の病気を持っています」
+      <a href=https://news.yahoo.co.jp/articles/5c72248454ef9cf59db60409661bf5412ece0cdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00093880-thedigest-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「いま東京いるの？」MLB開幕シリーズを現地観戦した“超人気韓国アイドル”にネット騒然「東京ドームいたの」「ヒョヨンちゃんきてたのか…」
       </a>
     </td>
   </tr>
@@ -402,64 +402,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/85374cde14192d3c137f4aacfc02d670bc797c642a2ec724fe42e97060023ed6.jpg> ガザ大規模空爆 停戦合意巡り暗雲
+      <a href=https://news.yahoo.co.jp/pickup/6531847>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 地震情報
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532717>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/e4269a37b90c5c5ae654ef1e5b471ddf0b4fa4a77490d56ebda4c2c4552943c1.jpg> 高額療養費 外国人の利用限定的
+      <a href=https://news.yahoo.co.jp/pickup/6532806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/7b255d168ced60b4b73713e21c0c9aaa0758dba77270f09bf11d5e35745606e6.jpg> 東京都心積雪1cm 北風強く体感冬
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532719>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/f8ecc5b2b5f3632c231098ca909c3416208e8a5f9b20fe24dc453afb3771edd9.jpg> 中3が校門で車にはねられる 重傷
+      <a href=https://news.yahoo.co.jp/pickup/6532804>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6e2b10eed56b7cf8531a39be0a3055bd2a5d3e565e3758775d8e4fd2a4b6c9ff.jpg> 日銀が追加利上げ見送り 0.5%維持
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532711>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/996d9aa6cf2e521bcc6075fa19f9d727acbe1361f6001cb7d589f08d1e6520f6.jpg> 不審な蓄電池の訪問販売 注意点は
+      <a href=https://news.yahoo.co.jp/pickup/6532793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/979f0e6916c8763690189f3f15a5e5533095db8f042d2464b08821dbc15116d9.jpg> AI悪用か 社長の偽音声で送金指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/0b6a466278cf051bce1a407635266ea62d05a9c589d603e9f8636e591941c94c.jpg> 激狭でも都心に住める 物件人気
+      <a href=https://news.yahoo.co.jp/pickup/6532810>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 北陸新幹線 東京-長野で見合わせ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532713>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/43e835d33dc5d86679c56f8c6fb459dffe7267895325755b21d8400f8ba258d4.jpg> 豊昇龍が休場 新横綱では39年ぶり
+      <a href=https://news.yahoo.co.jp/pickup/6532801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/4d20b2472e4095f35bd03bc73869cb9f6b4fe8b8908a43d98fb9008961ceea2a.jpg> 元福島県知事 佐藤栄佐久氏が死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532720>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/ddc1c892be9ecf267591d7b26a2b366454657aee344ffcbfd55a77c80662517b.jpg> 誠也の母校 センバツ43年ぶり白星
+      <a href=https://news.yahoo.co.jp/pickup/6532809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6f94992ccbf7694e1d28856ce761df0f5357d944ab3bbc43e4908a8622650ddd.jpg> 「雷が落ちた」通報 住宅ほぼ全焼
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/18/0863f670164d5476252ae30d2809484314972d483172adf37de2861de788209f.jpg> ドジャース 開幕ベンチ26人発表
+      <a href=https://news.yahoo.co.jp/pickup/6532797>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/db7cc8b1daf5580a94b7e64d17bb9d1f4fc4278e85b92912eca907efbca3580d.jpg> 速報センバツ 横浜vs.市和歌山
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/18 15:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 13:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
