@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/401a429618015a38cfb02b2fef2c80b0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/87bfb30f4cab2c20b5c29518a1041f93.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2264cd2d8c95edd664cf6f993ff6a8eeb2d872a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-06442897-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 兵庫・斎藤知事のパワハラ認定　告発者特定は違法　第三者委
+      <a href=https://news.yahoo.co.jp/articles/9a26c1db22d480b21663d567645ab24bf2c94236>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945309-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【混乱】石破首相“個人”によるものか「商品券配布問題」めぐり歴代首相が“慣習的”に?岸田前首相や菅元首相にも追及が…飛び火は野党にまで
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/babf3db8c7b59b2921433fb95999c828085d0a3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000074-ann-000-2-thumb.jpg?exp=10800&fmt=webp> テレビ朝日が社員を懲戒処分　経費の不適切使用やパワハラ
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ccbac7e6d316a2263affb514bbbacf420ff561f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000121-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=896&ch=896&exp=10800&fmt=webp> 石破首相が夫婦別姓巡り公明との協議に意欲「さらなる見解たまわりたい」　参院予算委
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f06e5703525ef2d1fc429632ff4499485bd00061>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000084-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 消極的だった市和歌山、「負けて元々」の思い切りあれば　高嶋仁の目
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000084-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 消極的だった市和歌山、「負けて元々」の思い切りあれば　高嶋仁の目
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/a8885b0f3980789a958272d96b73716c8ba49bbbbd759ef3ddce77f21c33e003.jpg> 岸田前首相 商品券10万円分を配布
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532839>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/d5c678d9724f4b1fab7bceb18e0076e76e8563695a271a7c2db88810a6da659c.jpg> 首相 退職金見直し答弁の撤回拒否
       </a>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532835>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/7d98b2951e045e209f0a1d75df91df76da1e7302d2e911b5535008858b77c5f0.jpg> 斎藤知事のパワハラ認定 第三者委
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532842>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/9c633c6fb725f5b6a78b5b90bb8142a85a0d7535ecfa8c64e38516be64f7ddbe.jpg> 都で季節外れの雪 来週は春の陽気
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/2ce2e84cfe918c04c1f6189b9a5aed06435571348e9e5aa0048525f2cb5c9f14.jpg> 高良健吾に第1子 田原俊彦に初孫
+      <a href=https://news.yahoo.co.jp/pickup/6532845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/fd3adcae39dd15239be3c5ce3690b749f034a926e7b286e67d0283812f691a53.jpg> ナスD大冒険TV打ち切り 社員処分
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 18:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 19:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
