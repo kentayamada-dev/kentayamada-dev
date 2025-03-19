@@ -3,14 +3,16 @@ import { arrayOfLocales } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getSitemap } from '@/lib/graphql-request';
 import { isString } from '@/typeGuards';
+import storybook from '../../public/storybook/index.json';
 import type { MetadataRoute } from 'next';
 
 const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
+  const today = new Date();
   const { articleItems, utilityItems } = await getSitemap();
 
   const createSitemapEntry = (url: string, publishedAt?: string): MetadataRoute.Sitemap[0] => {
     return {
-      lastModified: isString(publishedAt) ? publishedAt : new Date(),
+      lastModified: isString(publishedAt) ? publishedAt : today,
       url
     };
   };
@@ -33,7 +35,11 @@ const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
     });
   });
 
-  return [...staticPaths, ...articlePaths, ...utilityPaths];
+  const storybookPaths = Object.keys(storybook.entries).map((key) => {
+    return createSitemapEntry(`${envServer.SITE_URL}/storybook/index.html?path=/story/${key}`);
+  });
+
+  return [...staticPaths, ...articlePaths, ...utilityPaths, ...storybookPaths];
 };
 
 export { sitemap as default };
