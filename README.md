@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cf5bf96e4cd77446f7f9f970c54e2ac1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/350ec18d13bb9049d6e948a6b007dc8a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b578b8f64f809c43a1723ee56e64eaa592dbfc97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225449-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米ロ首脳が電話会談　トランプ氏「すばらしい電話会談だった」手ごたえ示すも全面停戦には至らず
+      <a href=https://news.yahoo.co.jp/articles/ddb97dab9f765680485bacc5cc8357967d033191>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000028-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ロシアがミサイル6発と無人機145機で攻撃 ウクライナ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/336a9be38fc08d1143a09f9a64a63dca39d482ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00003231-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 2年生右腕は横浜・織田だけでない！市和歌山の2年生右腕・丹羽が147キロマークで横浜から8三振【25年センバツ・輝きを放った球児たち】
+      <a href=https://news.yahoo.co.jp/articles/f06e5703525ef2d1fc429632ff4499485bd00061>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000084-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 消極的だった市和歌山、「負けて元々」の思い切りあれば　高嶋仁の目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0e502928bf451005bc35a75afb3279bd6e6383ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000027-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イスラエル軍の新たな空爆で13人死亡 ガザ民間防衛隊
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a06aae79a9ca06e384a488c46f8f301df8d55088>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225452-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破総理の商品券配布問題「歴代の自民党の総理も配っていたのでは」野党追及　総理経験者事務所への取材に回答は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7885466ffaa3eb78a261136557c4a6e5a90ffbf1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945170-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ガザ攻撃「始まりにすぎない。さらに強い攻撃行う」18日に1000人近く死傷も攻撃続く　“停戦延長を検討中に…”ハマス反発
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/23e667a9dcfef750941ca4f47abb00507d867760ccf1f6da704392718336c27a.jpg> サリン事件変えた 鉄道の日常風景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532825>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/a8885b0f3980789a958272d96b73716c8ba49bbbbd759ef3ddce77f21c33e003.jpg> 岸田前首相 商品券10万円分を配布
       </a>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532830>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/28bdbc42136fef0b0719a3408c531505ad28359a3b0e71075407d77171017743.jpg> 18年前の小2殺害疑い 男を起訴
+      <a href=https://news.yahoo.co.jp/pickup/6532822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/93bb4ec1f2f7ef9929053c0c92987db367c5bb05e946d7824be216614feb341c.jpg> 米テスラ工場銃撃 テロ容疑で捜査
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532835>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/7d98b2951e045e209f0a1d75df91df76da1e7302d2e911b5535008858b77c5f0.jpg> 斎藤知事のパワハラ認定 第三者委
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/9d15acd0089ef53fe69769e9569768b3dcb172d5b57d4a1b55c61f436bec2a1f.jpg> 東海道新幹線 半個室の座席導入へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 17:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 18:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
