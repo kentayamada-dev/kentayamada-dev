@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/87bfb30f4cab2c20b5c29518a1041f93.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/16eeb45f166ab84ff6612d849537067a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a26c1db22d480b21663d567645ab24bf2c94236>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945309-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【混乱】石破首相“個人”によるものか「商品券配布問題」めぐり歴代首相が“慣習的”に?岸田前首相や菅元首相にも追及が…飛び火は野党にまで
+      <a href=https://news.yahoo.co.jp/articles/468cdf062fb6e201afeb3fb1cc43598e69ba4f91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225528-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「これは始まりにすぎない」 ネタニヤフ首相がガザ攻撃の“継続”方針を示す　イスラエル軍が新たな空爆　少なくとも24人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/babf3db8c7b59b2921433fb95999c828085d0a3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000074-ann-000-2-thumb.jpg?exp=10800&fmt=webp> テレビ朝日が社員を懲戒処分　経費の不適切使用やパワハラ
+      <a href=https://news.yahoo.co.jp/articles/6df8e5fc409e8e7fa5ae422e4b5b3a7f6d328e3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050189-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=386&ch=386&exp=10800&fmt=webp> 石破首相が語った商品券配布の理由…「人付き合いが悪いだの、ケチだのと散々言われ気にする部分が」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9a26c1db22d480b21663d567645ab24bf2c94236>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945309-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【混乱】石破首相“個人”によるものか「商品券配布問題」めぐり歴代首相が“慣習的”に?岸田前首相や菅元首相にも追及が…飛び火は野党にまで
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f06e5703525ef2d1fc429632ff4499485bd00061>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000084-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 消極的だった市和歌山、「負けて元々」の思い切りあれば　高嶋仁の目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e502928bf451005bc35a75afb3279bd6e6383ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000027-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イスラエル軍の新たな空爆で13人死亡 ガザ民間防衛隊
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6f94992ccbf7694e1d28856ce761df0f5357d944ab3bbc43e4908a8622650ddd.jpg> 「雷が落ちた」通報 住宅ほぼ全焼
+      <a href=https://news.yahoo.co.jp/pickup/6532836>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/2c70a30dc820b6950880e7f76e4b442f42332d9708887e0287b43f0abb1b3bab.jpg> 調味料の「シート化」続々 狙いは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/2c70a30dc820b6950880e7f76e4b442f42332d9708887e0287b43f0abb1b3bab.jpg> 調味料の「シート化」続々 狙いは
+      <a href=https://news.yahoo.co.jp/pickup/6532847>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/866f91354e61c58b7a0fd99143598b50ff7f505eddc7a703928f29dcf17f0bcf.jpg> 速報MLB カブスvs.ドジャース
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 19:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 19:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
