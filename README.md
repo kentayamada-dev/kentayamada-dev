@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/88850a9887fdbef6c79eed609223e848.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6ac5a8c7ad5480b979513def2756dcd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87e3f793bbcd510b140dd9fead287a1a63ed4461>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000148-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1090&ch=1090&exp=10800&fmt=webp> カブス・鈴木誠也から快音聞かれず　東京シリーズ2試合で計8打数無安打、チームも開幕2連敗
+      <a href=https://news.yahoo.co.jp/articles/1d9196920aee2f49d389fbd6152b6b577f1f74a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000197-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 横浜・織田翔希、自己最速更新152キロデビュー　3年時の松坂超え　〝平成の怪物〟に憧れ横浜入学2年生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57a3e5ba961055df197a3b8f3722d5153b536c46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000170-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 人気歌姫が番組中に結婚を発表　ファンへの報告は「まだ」　上田晋也「そんなに所縁はないですよね？」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1dc0803cabdbe1c37917281fc21b3f0096665d87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945516-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 野党が商品券配布の“常態化”を追及　参院予算委員会
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb8187651ec6b6a8b606d79ddab124b588ce023e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア「攻撃停止はエネルギー施設のみ」　首脳電話会談　米「インフラ分野も」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da2e08550d6da0d45629b7564827907983438cb0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00010014-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1735&ch=1735&exp=10800&fmt=webp> 【中日】ソフトバンクに競り勝ちOP戦勝率は5割に 涌井は5回3安打1失点 木下が先制打 石川昂の内野ゴロ間で加点 救援陣は無失点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f6770adcd5db48acb74f1f375b9c0ce927fff52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 「自民の金権政治体質」　岸田前首相も商品券配布で野党が批判
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/99d3084469e3365cec80efbfa77ad9fb8390dbccf9f39c607d56f1effa798062.jpg> 商品券配布 首相が理由を釈明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532857>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/c733d78f9a08f4d2abf29e6150374928808f9466ae4bdc24dcc01d82a0e758c7.jpg> 上祐氏語る オウムが陥った陰謀論
       </a>
@@ -418,24 +410,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/0bab7d4c836b7412bc6afe6611ea611b411cc2554415be937ae93eecc3ec16a1.jpg> ガザ空爆 停戦交渉「戦火の下で」
+      <a href=https://news.yahoo.co.jp/pickup/6532850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/99d3084469e3365cec80efbfa77ad9fb8390dbccf9f39c607d56f1effa798062.jpg> 商品券配布 首相が理由を釈明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/702e2a8ed922d37746554dba440c086553df4ebaf3db70a50f23ab4e17b0535a.jpg> 紅麹 大阪市が厚労省に調査報告
+      <a href=https://news.yahoo.co.jp/pickup/6532859>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/aea707765eeffb5a3b337d7f689d1e4c607a5313c6ac9b1dfdc055892c865c4c.jpg> パワハラ認定 斎藤知事に逆風か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/bc61bb627917aa24c307d5cb9d8d64c656f43d29d5fcc6cbdf77694a34549b79.jpg> 北海道じゃらん サイト改ざん被害
+      <a href=https://news.yahoo.co.jp/pickup/6532861>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/bed38760b71748e30363a93862c3433dafcf5f3140e95569e12c6419a0934068.jpg> 別府ひき逃げ 情報提供は約9000件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532849>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/67744b5d639572254536b70b3d3c06c9954e21c7aa439761bd6086abada1613c.jpg> 切り抜き動画の課題は 職人に密着
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532853>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6fa72bb2db8372f8905b39f90876931fbdbeb680942b007d02b88b6c42ecdf0f.jpg> 朗希160キロ連発の衝撃デビュー
+      <a href=https://news.yahoo.co.jp/pickup/6532862>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/11b1eaabf8edc8b19cea901e80bf54eda331dedd1870825ffd6af58896ec14b8.jpg> m-flo・LISA 番組内で結婚を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/aee9599fa0309fc62f9894c0f2409f2ba3e0e3dc50786c80c4ae1af50e1cc687.jpg> 河村隆一 がん発見当時の苦悩語る
+      <a href=https://news.yahoo.co.jp/pickup/6532845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/fd3adcae39dd15239be3c5ce3690b749f034a926e7b286e67d0283812f691a53.jpg> ナスD大冒険TV打ち切り 社員処分
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 22:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 23:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
