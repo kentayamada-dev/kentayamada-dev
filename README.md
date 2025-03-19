@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f27e14c51e7d7dff82982fa28f65b221.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd5fbf4f7eb84151234fa26df9b54ddb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4509f8c50eece987a8ad60f42adddcb1605092a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-90018235-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=490&ch=490&exp=10800&fmt=webp> 「亡くなった娘のために、私たち家族はこの裁判にしっかりと向き合っていく」殺害された女児の遺族コメント
+      <a href=https://news.yahoo.co.jp/articles/602722ac66b81f2725885c37deb80b1eecab85ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050164-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 斎藤元彦知事の１０の行為、パワハラ認定…兵庫県の第三者委が報告書公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86bc50cccd9d60ed5347caf1c41bed7e632ce8e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-33190787-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=1248&ch=1248&exp=10800&fmt=webp> 【センバツ】織田翔希に負けん！市和歌山「隠れ150キロ」２年生鮮烈デビュー「思ったより通用」
+      <a href=https://news.yahoo.co.jp/articles/1b5f09110c5986a8137301a746032f94a7495116>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945168-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 野党が商品券配布“常態化”を追及…岸田前首相の報道に関し石破首相“コメントする立場にない”　首相経験者の立憲・野田代表は「全くない。即答できる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/077268b96a27de69a884c5abb1618971e611f3df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000056-ann-000-8-thumb.jpg?exp=10800&fmt=webp> 「責任はハマスにある」安保理で米国代表がガザ空爆のイスラエルを支持
+      <a href=https://news.yahoo.co.jp/articles/54b20f4bb7b2d8936bb4a234fb1fae1a56a5d9fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000009-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=629&ch=629&exp=10800&fmt=webp> 横浜・織田の最速152キロに「はやっ」　市和歌山・半田監督
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0828eecf94953a76da3e0e86a89509f8c32bc1e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000084-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 「商品券千円×１００枚」岸田前首相にも疑惑　国会でも質問飛び招致要求　ネット「ドサッと札束感」「どんなの？」「横にしたら立つ」「コンニャク」　岸田氏側「適正に対応」も
+      <a href=https://news.yahoo.co.jp/articles/699e6aea7121f367fde0211fc043cc66508b2b90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 社説：ガザ攻撃再開　イスラエルは自制せよ
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/5f95e00680ddbe9e48d15188ae200c62397e095a33332904b97a05034c2984a0.jpg> 森友文書 17万ページ1年かけ開示
+      <a href=https://news.yahoo.co.jp/pickup/6532835>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 斎藤知事のパワハラ認定 第三者委
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/0d0449e9863263648c11dccc4b949aa3bb1cef4d5a5136c374f49b196099ac11.jpg> 金価格1万6千円を突破 過去最高に
+      <a href=https://news.yahoo.co.jp/pickup/6532832>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/63043fe2884b6ddd4bdff3d8c4173892f328964a6364a009dcd7d30fa510b6b1.jpg> 同性婚巡る訴訟 愛知の原告が上告
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 16:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 16:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
