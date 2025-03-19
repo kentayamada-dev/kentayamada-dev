@@ -130,7 +130,8 @@ const Calculator: CalculatorType = (props) => {
       <form className='space-y-7' onSubmit={handleFormSubmit}>
         <InputWithCombobox
           id='buyPrice'
-          inputMode='numeric'
+          inputMode='decimal'
+          pattern='[0-9]*'
           required
           type='number'
           {...register('buyPrice')}
@@ -145,7 +146,8 @@ const Calculator: CalculatorType = (props) => {
         />
         <InputWithCombobox
           id='sellPrice'
-          inputMode='numeric'
+          inputMode='decimal'
+          pattern='[0-9]*'
           required
           type='number'
           {...register('sellPrice')}
@@ -160,7 +162,8 @@ const Calculator: CalculatorType = (props) => {
         />
         <InputWithCombobox
           id='buyRate'
-          inputMode='numeric'
+          inputMode='decimal'
+          pattern='[0-9]*'
           required
           type='number'
           {...register('buyRate')}
@@ -175,8 +178,9 @@ const Calculator: CalculatorType = (props) => {
         />
         <InputWithCombobox
           id='sellRate'
-          inputMode='numeric'
+          inputMode='decimal'
           label={dict.calculator.sellRate}
+          pattern='[0-9]*'
           required
           type='number'
           {...register('sellRate')}
@@ -192,6 +196,7 @@ const Calculator: CalculatorType = (props) => {
           id='shares'
           inputMode='numeric'
           label={dict.calculator.shares}
+          pattern='[0-9]*'
           required
           type='number'
           {...register('shares')}
