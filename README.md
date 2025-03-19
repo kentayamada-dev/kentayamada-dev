@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cfe6a574e3330150bc2f0917c4505ebb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f0e4c0f3c8c04edf18f3226b2fb6829b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b055f6292347f55dea03a537bfaffe88710f05dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-90020907-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “食い違い”透ける思惑…戦闘停止の可能性どこまで？米ロ首脳電話会談
+      <a href=https://news.yahoo.co.jp/articles/8a5be254d26a6b79b7f656a2d1a0aa3220581c38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔FOMC〕米金利、2会合連続据え置き＝「量的引き締め」ペース緩和
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/51f83ee66410a2fd5cf9104b003e249d15c73e2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー氏　トランプ氏と電話会談　ロシアのエネルギーインフラ攻撃停止に同意
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfcb8affd351c9faf64db70e3a37161efd4c66df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225571-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 岸田前総理側も商品券配布　石破総理に続き歴代総理に“飛び火”「官房機密費」の使用は？　約20年前の”機密費”資料には「商品券」の記載が…【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a799809282ef50fcdd3fef35267a52f50ebaecd1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000356-spnannex-000-28-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=589&ch=589&exp=10800&fmt=webp> 大谷効果だ！18日東京シリーズ第1戦の日本視聴者は過去最多2500万人　由伸、今永、誠也も出場
       </a>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/c733d78f9a08f4d2abf29e6150374928808f9466ae4bdc24dcc01d82a0e758c7.jpg> 上祐氏語る オウムが陥った陰謀論
+      <a href=https://news.yahoo.co.jp/pickup/6532864>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/e86d63b5ce38e831bac256cf78fe80a49a9a6df7ac7119b768ab57bc38ccc1e9.jpg> 米FRB 2会合連続で金利据え置き
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 03:01:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 03:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
