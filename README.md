@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/16eeb45f166ab84ff6612d849537067a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f3383d666ad08a3d6715314534a00cad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/95196bad58dc4cf2484bd827e4c4c8925268f363>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-04563656-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ戦闘停止の行方は？　米露“一部合意”も…「効果はほとんどない」米メディアから疑問の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/00b2ccec1f14bedfc24d8e0c05839e237d81105b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225467-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岸田前総理も“商品券配布”か？ 野党は参考人招致を要求　岸田氏事務所「いずれも法令に従い適正に行っている」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b754b8e8986ea71576b30da05c840235a6c99da8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00003236-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=895&ch=895&exp=10800&fmt=webp> 大会2日目は「2年生投手」たちが快投！横浜の剛腕が152キロを計測！市和歌山・丹羽もドラフト候補に浮上！【2025センバツ球速一覧】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/468cdf062fb6e201afeb3fb1cc43598e69ba4f91>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225528-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「これは始まりにすぎない」 ネタニヤフ首相がガザ攻撃の“継続”方針を示す　イスラエル軍が新たな空爆　少なくとも24人死亡
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6df8e5fc409e8e7fa5ae422e4b5b3a7f6d328e3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050189-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=386&ch=386&exp=10800&fmt=webp> 石破首相が語った商品券配布の理由…「人付き合いが悪いだの、ケチだのと散々言われ気にする部分が」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a26c1db22d480b21663d567645ab24bf2c94236>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945309-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【混乱】石破首相“個人”によるものか「商品券配布問題」めぐり歴代首相が“慣習的”に?岸田前首相や菅元首相にも追及が…飛び火は野党にまで
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/661441adfb68736feae80f64662c5f98c3a28d91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225454-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏✕プーチン氏 「一時停戦」では合意に至らず　電話会談は「すばらしかった」トランプ氏は手ごたえ示す　次の交渉は23日か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f06e5703525ef2d1fc429632ff4499485bd00061>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000084-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 消極的だった市和歌山、「負けて元々」の思い切りあれば　高嶋仁の目
+      <a href=https://news.yahoo.co.jp/articles/60f21e22fa15bab84018129a4314e92f1d21fc9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000102-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=6&cw=930&ch=930&exp=10800&fmt=webp> 岸田前首相も商品券配布　菅氏「手土産」認める
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532842>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/9c633c6fb725f5b6a78b5b90bb8142a85a0d7535ecfa8c64e38516be64f7ddbe.jpg> 都で季節外れの雪 来週は春の陽気
+      <a href=https://news.yahoo.co.jp/pickup/6532827>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/c375f580823768043936bcd622362c6639f146d916c14d7c3761da0b5644511f.jpg> アマゾン配達中にけが 労災認定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 19:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 20:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
