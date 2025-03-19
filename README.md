@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/89e19712199650516d693cd793a5f71a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f4010e8e67a75a0b9bce2952dbf60c05.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9df4a095ef8dc0b126c98dc24a61859341e843df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000044-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 商品券配布問題で野党追及続く　岸田前総理の参考人招致を要求
+      <a href=https://news.yahoo.co.jp/articles/d1b62caecb6c067286b7cfe1d442b39abd813340>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-90031489-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 「ドーンというすごい音が…」落雷が原因で火災か　住宅ほぼ全焼　ケガ人なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ec440794cbff1474d8efe3e4b9c1c39a24ae359>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-04883247-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米露電話会談　全面的な停戦合意期待も…ロシア側が難色示し大幅後退
+      <a href=https://news.yahoo.co.jp/articles/bb0d96b5fc65d7449a71564a51fd7ee138f52977>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050132-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米露の停戦協議、独仏首脳「最初の重要な一歩だ」と歓迎…ウクライナ抜きの交渉に警戒感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39ec51b943dc7940b056a04f5ab9612e186aad5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-21798263-sbsv-000-3-thumb.jpg?exp=10800&fmt=webp> 「雷が落ちて家が燃えて…」木造2階建て住宅ほぼ全焼し4時間後鎮火 警察と消防が火事の原因調査=静岡・伊東市
+      <a href=https://news.yahoo.co.jp/articles/05c0eabbcb3a4c5997bad0b3fceacdd34d385b9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000129-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=558&ch=558&exp=10800&fmt=webp> 岸田前首相、商品券を配布か　政務官懇談で、朝日新聞が報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6aee37a11d0ba90e0b51a17b9ac6e2c1337d770>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225386-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> ガザ攻撃再開のイスラエル「これは始まりにすぎない」 イエメンでも攻撃応酬　中東情勢が再び緊迫化
+      <a href=https://news.yahoo.co.jp/articles/66acb5e80ac41a3e356595723891169a06d44bc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945087-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=486&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 死傷者は950人以上か…ガサの大規模空爆についてイスラエルとアメリカが攻撃の正当性を主張「敵対行為が再開した責任はハマスにある」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6531847>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 地震情報
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532806>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/7b255d168ced60b4b73713e21c0c9aaa0758dba77270f09bf11d5e35745606e6.jpg> 東京都心積雪1cm 北風強く体感冬
       </a>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/979f0e6916c8763690189f3f15a5e5533095db8f042d2464b08821dbc15116d9.jpg> AI悪用か 社長の偽音声で送金指示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532810>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 北陸新幹線 東京-長野で見合わせ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532796>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/cead58e0bff179f1daef46a32c2b3c87717c8773140f5ab1bd8d8f4da201e8fb.jpg> コンクリ詰め遺体 女児の身元判明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532790>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/f256f9ea73b5a26452767a8d1663382d7dbc1074ee50fc208817d8ebeb689c14.jpg> 米 ケネディ暗殺機密文書を公開
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 13:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 13:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
