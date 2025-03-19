@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f0e4c0f3c8c04edf18f3226b2fb6829b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/edf10215185c7da98b4dde05390632a2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a5be254d26a6b79b7f656a2d1a0aa3220581c38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔FOMC〕米金利、2会合連続据え置き＝「量的引き締め」ペース緩和
+      <a href=https://news.yahoo.co.jp/articles/c09ac6a684ea313a63ca5fdb843577dfe276cae3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225580-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=434&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】トランプ氏とゼレンスキー氏 電話会談　ロシア受け入れのエネルギー施設などへの攻撃停止についてウクライナ側も同意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51f83ee66410a2fd5cf9104b003e249d15c73e2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー氏　トランプ氏と電話会談　ロシアのエネルギーインフラ攻撃停止に同意
+      <a href=https://news.yahoo.co.jp/articles/43f90c352a4a19d99825f55931e43b0aba903a55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、金利据え置き　年内2回利下げ想定維持　トランプ関税で物価上振れ・FRB
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bd877bf6f323dd03fbe8e8f1346572b7257da11f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000005-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=583&cy=0&cw=1617&ch=1617&exp=10800&fmt=webp> カブス・鈴木誠也　全力スイング　メジャー初登板の佐々木朗希と真っ向勝負　悔し２戦無安打「米国へ帰ってから頑張りたい」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a799809282ef50fcdd3fef35267a52f50ebaecd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000356-spnannex-000-28-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=589&ch=589&exp=10800&fmt=webp> 大谷効果だ！18日東京シリーズ第1戦の日本視聴者は過去最多2500万人　由伸、今永、誠也も出場
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/e86d63b5ce38e831bac256cf78fe80a49a9a6df7ac7119b768ab57bc38ccc1e9.jpg> 米FRB 2会合連続で金利据え置き
+      <a href=https://news.yahoo.co.jp/pickup/6532865>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ウ大統領 エネ施設攻撃停止に同意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532863>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/5c6330ee3b33d301164ff9db8b4e98a9f7ee37f3472d921068d94a664d269d1f.jpg> 自民内 金品配布が常態化の可能性
+      <a href=https://news.yahoo.co.jp/pickup/6532864>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/e86d63b5ce38e831bac256cf78fe80a49a9a6df7ac7119b768ab57bc38ccc1e9.jpg> 米FRB 2会合連続で金利据え置き
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 03:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 04:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
