@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e559e8653d601377718151290d62e542.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/79fca6184ea8fd6352d0f551a3490e4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d384a9ce53e60276fbc609288bf3f7d4b173d8d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-33190509-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 石破首相が珍妙言い訳「天気かプロ野球の話しかできない」　公邸懇親会「政治活動か否か」めぐり
+      <a href=https://news.yahoo.co.jp/articles/233e949b0c7a79d48664f37fe8f963585c64d489>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000019-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ウクライナ無人機の残骸落ち石油貯蔵施設で火災 ロシア
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb0d96b5fc65d7449a71564a51fd7ee138f52977>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050132-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米露の停戦協議、独仏首脳「最初の重要な一歩だ」と歓迎…ウクライナ抜きの交渉に警戒感
+      <a href=https://news.yahoo.co.jp/articles/bfac47bf5fcb290a2b4a4e8c24bd45ceb398b5cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-01156968-kana-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【センバツ】横浜高校が４－２で市和歌山に競り勝つ　織田が先発、５回２失点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f752d2c6bf0f19a61a67a1fe5f321a6151885ec2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-10169278-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=779&ch=779&exp=10800&fmt=webp> “森友文書” 財務省が概要を提示 立憲・斉藤氏「今の石破政権のある意味で英断」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d384a9ce53e60276fbc609288bf3f7d4b173d8d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-33190509-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 石破首相が珍妙言い訳「天気かプロ野球の話しかできない」　公邸懇親会「政治活動か否か」めぐり
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d7912fe43529801402419edf0808fc64603ee20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000054-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=201&cw=798&ch=798&exp=10800&fmt=webp> 森友文書の概要、国会に提示　改ざん問題で財務省
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c72248454ef9cf59db60409661bf5412ece0cdd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00093880-thedigest-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「いま東京いるの？」MLB開幕シリーズを現地観戦した“超人気韓国アイドル”にネット騒然「東京ドームいたの」「ヒョヨンちゃんきてたのか…」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 石川県で震度4 津波心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6532800>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/840c94066a9db98443a26b476c665e7cd21c49c0194e49b27b8f5318e24512eb.jpg> 岸田氏に商品券配布問題 野党追及
       </a>
     </td>
   </tr>
@@ -434,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532793>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/979f0e6916c8763690189f3f15a5e5533095db8f042d2464b08821dbc15116d9.jpg> AI悪用か 社長の偽音声で送金指示
+      <a href=https://news.yahoo.co.jp/pickup/6532809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6f94992ccbf7694e1d28856ce761df0f5357d944ab3bbc43e4908a8622650ddd.jpg> 「雷が落ちた」通報 住宅ほぼ全焼
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/6f94992ccbf7694e1d28856ce761df0f5357d944ab3bbc43e4908a8622650ddd.jpg> 「雷が落ちた」通報 住宅ほぼ全焼
+      <a href=https://news.yahoo.co.jp/pickup/6532811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/0d0449e9863263648c11dccc4b949aa3bb1cef4d5a5136c374f49b196099ac11.jpg> 金価格1万6千円を突破 過去最高に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532820>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/296b78f997e089247f36861fabb281323cae9b9586546f3810c00e90641d39e3.jpg> 横浜 13年ぶり選抜勝利で初戦突破
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532797>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/db7cc8b1daf5580a94b7e64d17bb9d1f4fc4278e85b92912eca907efbca3580d.jpg> 速報センバツ 横浜vs.市和歌山
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 14:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 14:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
