@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c3a252b72781102b33b4faab1a0a6f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4cad0209179e815c6c84a23ef92826bd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c43a9e598ddc50779501b679673e407ebc973bd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000013-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=1039&ch=1039&exp=10800&fmt=webp> 大阪・八尾コンクリ詰め遺体女児は遺棄容疑者のめいと判明　約18年前に内臓出血で死亡か
+      <a href=https://news.yahoo.co.jp/articles/83ade26d0f366a6a8941ddb3507173c629f45d7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-90020838-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=372&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 停戦暗雲…イスラエル、ガザ大規模空爆で400人超死亡　アメリカ“黙認”の狙いは？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b111da62c4bbb5d5e2d05a5b3134ae760ea77bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050070-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ガザ大規模空爆で犠牲４００人超、各国が非難…米国は「ハマスに全責任」とイスラエル擁護
+      <a href=https://news.yahoo.co.jp/articles/c98f03cc5cecbe2b2989efe4fea94e3b1399e25e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=736&ch=736&exp=10800&fmt=webp> 「全面的停戦」は棚上げに　露側、ウクライナの戦力立て直しに懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d81e8b4826092c98407e8f2e00e10b59df110485>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00768636-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平2安打のカブス×ドジャース開幕戦　視聴率は世帯31.2％、個人19.9％…関心度はWBCに匹敵
+      <a href=https://news.yahoo.co.jp/articles/0801625df4c25d7573918650c8fdcdb0e4b46af4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 立民の野田代表「自民の構造的問題に」　「岸田前首相も商品券」報道受け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3ab21037d24530bc96bf01ad89c86199be6daacf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000028-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 死亡女児の住民票、容疑者父の申告で削除　大阪・八尾のコンクリ遺体
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/03796f7ef1d77c37e41675d130743425ce14f5ee>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00516998-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の執刀医が明言した二刀流復活の難しさ　復帰日予想は「健全ではない。彼は他と違う」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/080ed8611e9d0f8f6e591f41ecdf313263591316>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050066-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=375&ch=375&exp=10800&fmt=webp> エネルギー施設への攻撃停止、ゼレンスキー氏が支持…「公正な平和につながる提案を支持する」
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532794>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/527c5b90d09c8a8a987dab8daabc1647adab5b87c06cbe3ae929182e6d64ae75.jpg> 大谷の投手復帰「慎重に」執刀医
+      <a href=https://news.yahoo.co.jp/pickup/6532795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/025e9ed07267bfb8699ba041b0f57cb3b9bb73ac41274ff6612d5e4faee063ff.jpg> ラノベ誌のドラゴンマガジン 休刊
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 11:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 11:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
