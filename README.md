@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ef9f10bbb8442a014ab7e86c60cb2d89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ff8646143310b13ff391e96f840a18fc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6414ee48980cae1fdafd500c7eddc95f5625fa4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-03191258-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1165&ch=1165&exp=10800&fmt=webp> センバツ２年生最速タイ１５２キロの織田翔希　北九州から横浜入学を決めた理由「見学に行ったとき…」
+      <a href=https://news.yahoo.co.jp/articles/f89bd8efd5d4c6d5519ee69362c09ccd8ade445e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000032-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=671&ch=671&exp=10800&fmt=webp> 米FRB、政策金利維持　年内利下げ2回で据え置き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2c873424dfae5b8563346ab3bb81c93e69fd7d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225583-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=418&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー氏、トランプ氏と電話会談　エネルギー施設への攻撃停止に合意、全面的な停戦を求める意思を改めて示す
+      <a href=https://news.yahoo.co.jp/articles/8fc0bc2e5ab8cefd71665eb2764a432d322e51ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010001-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「ボール、ボール、ボール、ボール…」佐々木朗希の大荒れ5四球デビューに韓国メディアは厳しい評価も大谷翔平には脱帽
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22abb333f310ce3ae08bada519489a86f1fd9819>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225582-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカFRB 政策金利2会合連続で利下げ見送り　“年内に0.25％の利下げを2回”の見通し維持
+      <a href=https://news.yahoo.co.jp/articles/dd94cf0baa6538c0260cc0edfbe39b3cf26618fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00337970-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=939&ch=939&exp=10800&fmt=webp> 【センバツ】田端ブラザーズが横浜の織田、奥村頼の〝無双継投〟を分析「あの寒さでエグいっす」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a56101f35824796b5d7d9d1a67eda46ca113a8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225579-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「標的を絞った地上での活動開始」イスラエル軍が地上作戦を開始　ハマス「停戦合意に対する危険な違反」と非難
+      <a href=https://news.yahoo.co.jp/articles/43fcbee356256205bb1bb17fe8edfc8cfe2a91e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00945553-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル軍がガザで地上作戦開始　ハマスは「合意違反」と批判　戦闘拡大が懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5bdc16bf4aa353fe85b4ef5742e6f65df07606d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ニュースワード「地下鉄サリン事件」
+      <a href=https://news.yahoo.co.jp/articles/721e7e452ef70f634944cbd53a36773ffb7d76ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00945551-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> エネルギー施設攻撃停止　ウクライナも同意　トランプ氏は原発のアメリカ所有を提案
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 06:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 06:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
