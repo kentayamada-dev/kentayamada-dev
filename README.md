@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dd5d97c9f2df0e4808ec2facc89b989b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2051a7ac42a7eb0d6716d5e26693d54d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8b9ebac488ae18fec1c538476a6a2f8ecaad078>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米宇宙飛行士、ようやく帰還　ISS滞在、8日が9カ月に
+      <a href=https://news.yahoo.co.jp/articles/08e5006f6da2544323efec9f88ef747896e2e155>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ロ首脳「エネルギー・インフラ分野への攻撃中断」…部分休戦に合意（２）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fcfbbba575e8d1bc52ccc19c5c3e0ff9593b9d14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250318-00000269-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> エネルギー施設攻撃停止は露にも利益　プーチン氏、「後顧の憂い」断ち地上戦で戦勝狙う
+      <a href=https://news.yahoo.co.jp/articles/d106a92a8f2c94601968d33142bd3663d93e940b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00010013-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 日本凱旋で大谷翔平が見せた仲間への思いと“21年ぶり”の記録　塁上で「フレディ・ダンス」も魅せた
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78e02a3b9d8eeb54222baaed7e17b2b03bc5b6ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00093875-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 大谷翔平がマルチ安打、山本由伸は５回１失点の好投…米記者、アナリストから称賛の声「世界はすべて順調だ。野球が戻ってきた」
+      <a href=https://news.yahoo.co.jp/articles/8784c262cf5ac7485df9f32116c20c7d220b4736>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-03347552-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「なかなかナーバスなショウヘイはみない」大谷の緊張した様子にド軍指揮官驚き　試合前の普段と違う様子明かす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83c648e96e46d905c2e108c42c36c1b0fafea574>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-01720394-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、ギリギリプレーに「ヒヤッとする」　ファン心配の一瞬…X「大丈夫かな」
+      <a href=https://news.yahoo.co.jp/articles/515a3b900465c352aa2d1c7565276ca56459a8d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-03191025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 開幕負傷者リスト入り濃厚なダルビッシュ有　シルト監督は「肘の炎症」と語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/875ca6ae2baa63b25450a1b378be03c0ca2af19e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000027-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> フーシ派、イスラエルへの攻撃拡大宣言　「ガザ紛争終結まで」
+      <a href=https://news.yahoo.co.jp/articles/83c97af65e8c252b705f09176419fbbc97577852>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル首相、対ハマス攻撃は「始まったばかり」　フーシ派はイスラエルにミサイル発射
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/329b11c2fbe3b0bf1fe1b2a74bbd048234870a558a990b63f667f5d1333ddad5.jpg> 19日午前を中心に広く雨や雪 注意
+      <a href=https://news.yahoo.co.jp/pickup/6532778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/4ddb9893d306a91d0996b4daf6195cc930cffac14ef7fa14332861c1bc489d07.jpg> ガザで大規模空爆 死者は400人超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/a9bf62764d58338b62b2ec72a2b6da69a63c89b8493d529794faf1dbbe487b51.jpg> 硫黄島で星条旗掲揚の写真削除 米
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532771>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/7fa7ccf18add667af3d25f5b77da5fb7807f14fefe041c955a1a001cec00a92b.jpg> 車のタイヤが外れ直撃か 1人重体
+      <a href=https://news.yahoo.co.jp/pickup/6532783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/b15304100ca1e88757fc0d0dcffa6a399154d945b230efa0be976bd44128e353.jpg> 伊藤詩織氏 望月氏提訴を取り下げ
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532788>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/0d82369584f2de5315dfba293363c1a9b191c929174ed904edaf347a1c8399da.jpg> ダルの右肘炎症 開幕まで約1週間
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532779>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/67439c0bb9cec98e785691d2ca03e9a535d0544d69a6ba623633ef36439a7b4f.jpg> 日米で物議 なぜ今永は4回で降板
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 09:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 09:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
