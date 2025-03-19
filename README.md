@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6ac5a8c7ad5480b979513def2756dcd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/68bae125f414bfb00cf0e242115d0e55.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d9196920aee2f49d389fbd6152b6b577f1f74a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000197-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 横浜・織田翔希、自己最速更新152キロデビュー　3年時の松坂超え　〝平成の怪物〟に憧れ横浜入学2年生
+      <a href=https://news.yahoo.co.jp/articles/839a6e0bd976e6c6b318a0e3dae44ba1aa7e1d6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000199-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=837&ch=837&exp=10800&fmt=webp> センバツ　横浜・奥村頼人、投打で躍動　猛打賞＆0封5K
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57a3e5ba961055df197a3b8f3722d5153b536c46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000170-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 人気歌姫が番組中に結婚を発表　ファンへの報告は「まだ」　上田晋也「そんなに所縁はないですよね？」
+      <a href=https://news.yahoo.co.jp/articles/75a51b614fba7c88de6fe9d53469b8c742b7e7eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000351-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=815&ch=815&exp=10800&fmt=webp> m-flo・☆Taku　電撃結婚発表したLISAを祝福　当日まで知らされず…「最高かよリサ！！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1dc0803cabdbe1c37917281fc21b3f0096665d87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945516-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 野党が商品券配布の“常態化”を追及　参院予算委員会
+      <a href=https://news.yahoo.co.jp/articles/b2b410b7b74eb08a68370502e64df43f78bc31b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225557-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岸田前総理も“商品券”渡していた 懇談会の出席者に　岸田氏側は書面で回答「法令に従い適正に行っている」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/99d3084469e3365cec80efbfa77ad9fb8390dbccf9f39c607d56f1effa798062.jpg> 商品券配布 首相が理由を釈明
+      <a href=https://news.yahoo.co.jp/pickup/6532863>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/5c6330ee3b33d301164ff9db8b4e98a9f7ee37f3472d921068d94a664d269d1f.jpg> 自民内 金品配布が常態化の可能性
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 23:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 23:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
