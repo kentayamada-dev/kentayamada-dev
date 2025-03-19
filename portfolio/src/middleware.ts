@@ -28,6 +28,10 @@ export const middleware: NextMiddleware = async (request: NextRequest) => {
   const cookieStore = await cookies();
   let response = NextResponse.next();
 
+  if (request.method === 'HEAD') {
+    return new NextResponse(null, { status: 200 });
+  }
+
   if (!isPathStartingWith(pathname, 'storybook')) {
     const foundLocale = arrayOfLocales.find((locale) => {
       return isPathStartingWith(pathname, locale);
