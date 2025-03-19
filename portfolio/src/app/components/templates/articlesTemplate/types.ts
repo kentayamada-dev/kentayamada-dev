@@ -1,8 +1,8 @@
 import type { ArticlesListProps } from '@/components/molecules';
-import type { ReadonlyComponentType, StrictOmitType } from '@/types/components';
+import type { ComponentType, StrictOmitType } from '@/types/components';
 
 type ArticlesTemplateProps = StrictOmitType<ArticlesListProps, 'title'>;
 
-type ArticlesTemplateType = ReadonlyComponentType<ArticlesTemplateProps>;
+type ArticlesTemplateType = ComponentType<ArticlesTemplateProps>;
 
 export type { ArticlesTemplateType };

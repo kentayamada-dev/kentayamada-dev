@@ -12,9 +12,19 @@ import { navigationItems } from '@/constants/navigation';
 import { getArticleBySlug, getArticleSlugs, getArticles } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getRehypeReactOptions } from '@/lib/rehype-react';
-import type { ArticlePageProps, AsyncJSXElementType, AsyncMetadataType, PostGenerateStaticParamsReturn } from '@/types/components';
+import type { ArticleGenerateMetadataType, ArticleGenerateStaticParamsType, ArticlePageType } from '@/types/components';
 
-async function generateMetadata(props: ArticlePageProps): AsyncMetadataType {
+const generateStaticParams: ArticleGenerateStaticParamsType = async () => {
+  const articleSlugs = await getArticleSlugs();
+
+  return articleSlugs.map((post) => {
+    return {
+      articleId: post.slug
+    };
+  });
+};
+
+const generateMetadata: ArticleGenerateMetadataType = async (props) => {
   const { articleId, lang } = await props.params;
   const { coverImage, description, sys, title } = await getArticleBySlug(lang, articleId, notFound);
 
@@ -28,19 +38,9 @@ async function generateMetadata(props: ArticlePageProps): AsyncMetadataType {
     new Date(sys.publishedAt),
     new Date(sys.firstPublishedAt)
   );
-}
+};
 
-async function generateStaticParams(): PostGenerateStaticParamsReturn {
-  const articleSlugs = await getArticleSlugs();
-
-  return articleSlugs.map((post) => {
-    return {
-      articleId: post.slug
-    };
-  });
-}
-
-async function Page(props: ArticlePageProps): AsyncJSXElementType {
+const Page: ArticlePageType = async (props) => {
   const { articleId, lang } = await props.params;
   const articles = await getArticles(lang);
   const { content, sys, title } = await getArticleBySlug(lang, articleId, notFound);
@@ -70,6 +70,6 @@ async function Page(props: ArticlePageProps): AsyncJSXElementType {
       title={title}
     />
   );
-}
+};
 
 export { Page as default, generateMetadata, generateStaticParams };

@@ -1,8 +1,8 @@
 import type { CopyRightProps } from '@/components/atoms';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type SidePanelWrapperProps = CopyRightProps;
 
-type SidePanelWrapperType = ReadonlyComponentType<SidePanelWrapperProps>;
+type SidePanelWrapperType = ComponentType<SidePanelWrapperProps>;
 
 export type { SidePanelWrapperProps, SidePanelWrapperType };

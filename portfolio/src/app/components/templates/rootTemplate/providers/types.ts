@@ -1,10 +1,10 @@
 import type { ReactNode } from 'react';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type ProvidersProps = {
   children: ReactNode;
 };
 
-type ProvidersType = ReadonlyComponentType<ProvidersProps>;
+type ProvidersType = ComponentType<ProvidersProps>;
 
 export type { ProvidersType };

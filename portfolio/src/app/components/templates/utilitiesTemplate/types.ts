@@ -1,8 +1,8 @@
 import type { UtilitiesListProps } from '@/components/molecules';
-import type { ReadonlyComponentType, StrictOmitType } from '@/types/components';
+import type { ComponentType, StrictOmitType } from '@/types/components';
 
 type UtilitiesTemplateProps = StrictOmitType<UtilitiesListProps, 'title'>;
 
-type UtilitiesTemplateType = ReadonlyComponentType<UtilitiesTemplateProps>;
+type UtilitiesTemplateType = ComponentType<UtilitiesTemplateProps>;
 
 export type { UtilitiesTemplateType };

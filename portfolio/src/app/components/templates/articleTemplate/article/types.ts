@@ -1,5 +1,5 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { JSXElementType, ReadonlyComponentType } from '@/types/components';
+import type { ComponentType, JSXElementType } from '@/types/components';
 
 type ArticleProps = {
   content: JSXElementType;
@@ -8,6 +8,6 @@ type ArticleProps = {
   title: string;
 };
 
-type ArticleType = ReadonlyComponentType<ArticleProps>;
+type ArticleType = ComponentType<ArticleProps>;
 
 export type { ArticleProps, ArticleType };

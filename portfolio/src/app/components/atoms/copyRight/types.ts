@@ -1,5 +1,5 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type CopyRightProps = {
   authorName: string;
@@ -7,6 +7,6 @@ type CopyRightProps = {
   year: number;
 };
 
-type CopyRightType = ReadonlyComponentType<CopyRightProps>;
+type CopyRightType = ComponentType<CopyRightProps>;
 
 export type { CopyRightProps, CopyRightType };

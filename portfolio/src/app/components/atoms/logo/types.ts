@@ -1,9 +1,9 @@
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type LogoProps = {
   isJapanese: boolean;
 };
 
-type LogoType = ReadonlyComponentType<LogoProps>;
+type LogoType = ComponentType<LogoProps>;
 
 export type { LogoType };

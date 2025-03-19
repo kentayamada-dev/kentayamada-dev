@@ -3,20 +3,20 @@ import { SpeedInsights } from '@vercel/speed-insights/next';
 import { Providers, RootTemplate } from '@/components/templates';
 import { fonts } from '@/constants/fonts';
 import { arrayOfLocales, dictionaries } from '@/constants/i18n';
-import type { AsyncJSXElementType, LayoutGenerateStaticParamsReturn, NextLayoutProps } from '@/types/components';
+import type { LayoutGenerateStaticParamsType, LayoutPageType } from '@/types/components';
 /* eslint-disable import/no-unresolved, import/order */
 import 'katex/dist/katex.min.css';
 import 'scroll-hint/css/scroll-hint.css';
 import '../globals.css';
 /* eslint-enable import/no-unresolved, import/order */
 
-function generateStaticParams(): LayoutGenerateStaticParamsReturn {
+const generateStaticParams: LayoutGenerateStaticParamsType = () => {
   return arrayOfLocales.map((lang) => {
     return { lang, slug: [] };
   });
-}
+};
 
-async function Layout(props: NextLayoutProps): AsyncJSXElementType {
+const Layout: LayoutPageType = async (props) => {
   const currentYear = new Date().getFullYear();
   const { lang } = await props.params;
   const dict = dictionaries[lang];
@@ -34,6 +34,6 @@ async function Layout(props: NextLayoutProps): AsyncJSXElementType {
       </body>
     </html>
   );
-}
+};
 
 export { Layout as default, generateStaticParams };

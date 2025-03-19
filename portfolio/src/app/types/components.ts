@@ -2,32 +2,12 @@ import type { Metadata } from 'next';
 import type { ChangeEventHandler, Dispatch, FC, JSX, PropsWithChildren, ReactNode, SetStateAction } from 'react';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 
-type JSXElementType = JSX.Element;
+type StrictOmitType<T, K extends keyof T> = Omit<T, K>;
 
-type AsyncJSXElementType = Promise<JSXElementType>;
+type ElementChangeEventType<K extends keyof HTMLElementTagNameMap> = ChangeEventHandler<HTMLElementTagNameMap[K]>;
 
-type AsyncMetadataType = Promise<Metadata>;
-
-type NextLayoutProps = DeepReadonlyType<Required<PageProps & Pick<PropsWithChildren, 'children'>>>;
-
-type IconType = FC;
-
-type StateSetterType<T> = Dispatch<SetStateAction<T>>;
-
-type ReadonlyComponentType<P = object> = (props: DeepReadonlyType<P>) => JSXElementType;
-
-type LayoutGenerateStaticParamsType = {
-  lang: LocaleKeyType;
-  slug: string[];
-};
-
-type PostGenerateStaticParamsType = {
-  articleId: string;
-};
-
-type UtilityGenerateStaticParamsType = {
-  utilityId: string;
-};
+type ConditionalPickType<T, RequiredKeys extends keyof T, OptionalKeys extends keyof T = never> = Required<Pick<T, RequiredKeys>> &
+  Partial<Pick<T, OptionalKeys>>;
 
 type DeepReadonlyType<T> = T extends ReactNode
   ? T
@@ -45,38 +25,80 @@ type DeepReadonlyType<T> = T extends ReactNode
               ? { readonly [P in keyof T]: DeepReadonlyType<T[P]> }
               : T;
 
-type PageProps = DeepReadonlyType<{
-  params: Promise<LayoutGenerateStaticParamsType>;
-}>;
+type IconType = FC;
 
-type ArticlePageProps = DeepReadonlyType<{
-  params: Promise<LayoutGenerateStaticParamsType & PostGenerateStaticParamsType>;
-}>;
+type JSXElementType = JSX.Element;
 
-type LayoutGenerateStaticParamsReturn = LayoutGenerateStaticParamsType[];
+type AsyncJSXElementType = Promise<JSXElementType>;
 
-type PostGenerateStaticParamsReturn = Promise<PostGenerateStaticParamsType[]>;
+type AsyncMetadataType = Promise<Metadata>;
 
-type UtilityGenerateStaticParamsReturn = Promise<UtilityGenerateStaticParamsType[]>;
+type LayoutGenerateStaticParams = {
+  lang: LocaleKeyType;
+  slug: string[];
+};
 
-type StrictOmitType<T, K extends keyof T> = Omit<T, K>;
+type ArticleGenerateStaticParams = {
+  articleId: string;
+};
 
-type ChangeEventType<K extends keyof HTMLElementTagNameMap> = ChangeEventHandler<HTMLElementTagNameMap[K]>;
+type UtilityGenerateStaticParams = {
+  utilityId: string;
+};
+
+type PageProps = {
+  params: Promise<LayoutGenerateStaticParams>;
+};
+
+type ArticlePageProps = {
+  params: Promise<LayoutGenerateStaticParams & ArticleGenerateStaticParams>;
+};
+
+type NextLayoutProps = PageProps & ConditionalPickType<PropsWithChildren, 'children'>;
+
+type StateSetterType<T> = Dispatch<SetStateAction<T>>;
+
+type ComponentType<P = object> = (props: DeepReadonlyType<P>) => JSXElementType;
+
+type AsyncMetadataComponentType<P = object> = (props: DeepReadonlyType<P>) => AsyncMetadataType;
+
+type AsyncArticlePageComponentType<P = object> = (props: DeepReadonlyType<P>) => AsyncJSXElementType;
+
+type GenerateMetadataType = AsyncMetadataComponentType<PageProps>;
+
+type ArticlePageType = AsyncArticlePageComponentType<ArticlePageProps>;
+
+type ArticlesPageType = AsyncArticlePageComponentType<PageProps>;
+
+type LayoutPageType = AsyncArticlePageComponentType<NextLayoutProps>;
+
+type NotFoundPageType = AsyncArticlePageComponentType;
+
+type ArticleGenerateMetadataType = AsyncMetadataComponentType<ArticlePageProps>;
+
+type LayoutGenerateStaticParamsType = () => LayoutGenerateStaticParams[];
+
+type ArticleGenerateStaticParamsType = () => Promise<ArticleGenerateStaticParams[]>;
+
+type UtilityGenerateStaticParamsType = () => Promise<UtilityGenerateStaticParams[]>;
 
 export type {
-  ArticlePageProps,
-  AsyncJSXElementType,
-  AsyncMetadataType,
-  ChangeEventType,
+  ArticleGenerateMetadataType,
+  ArticleGenerateStaticParamsType,
+  ArticlePageType,
+  ArticlesPageType,
+  ComponentType,
+  ConditionalPickType,
   DeepReadonlyType,
+  ElementChangeEventType,
+  GenerateMetadataType,
   IconType,
   JSXElementType,
-  LayoutGenerateStaticParamsReturn,
+  LayoutGenerateStaticParamsType,
+  LayoutPageType,
   NextLayoutProps,
-  PageProps,
-  PostGenerateStaticParamsReturn,
-  ReadonlyComponentType,
+  NotFoundPageType,
   StateSetterType,
   StrictOmitType,
-  UtilityGenerateStaticParamsReturn
+  UtilityGenerateStaticParamsType
 };

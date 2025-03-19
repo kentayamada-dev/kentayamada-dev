@@ -1,4 +1,4 @@
-import type { IconType, ReadonlyComponentType } from '@/types/components';
+import type { ComponentType, IconType } from '@/types/components';
 
 type ListItemProps = {
   active: boolean;
@@ -6,6 +6,6 @@ type ListItemProps = {
   title: string;
 };
 
-type ListItemType = ReadonlyComponentType<ListItemProps>;
+type ListItemType = ComponentType<ListItemProps>;
 
 export type { ListItemProps, ListItemType };

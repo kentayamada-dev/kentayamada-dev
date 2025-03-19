@@ -1,8 +1,8 @@
 import type { FooterProps } from './footer/types';
-import type { NextLayoutProps, ReadonlyComponentType } from '@/types/components';
+import type { ComponentType, ConditionalPickType, NextLayoutProps } from '@/types/components';
 
-type RootTemplateProps = FooterProps & Pick<NextLayoutProps, 'children'>;
+type RootTemplateProps = FooterProps & ConditionalPickType<NextLayoutProps, 'children'>;
 
-type RootTemplateType = ReadonlyComponentType<RootTemplateProps>;
+type RootTemplateType = ComponentType<RootTemplateProps>;
 
 export type { RootTemplateType };

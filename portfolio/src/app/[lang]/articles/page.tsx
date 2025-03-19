@@ -4,9 +4,9 @@ import { contentfulType } from '@/constants/contentful';
 import { navigationItems } from '@/constants/navigation';
 import { getArticles, getMetadata } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
-import type { AsyncJSXElementType, AsyncMetadataType, PageProps } from '@/types/components';
+import type { ArticlesPageType, GenerateMetadataType } from '@/types/components';
 
-async function generateMetadata(props: PageProps): AsyncMetadataType {
+const generateMetadata: GenerateMetadataType = async (props) => {
   const { lang } = await props.params;
   const { coverImage, description, sys, title } = await getMetadata(lang, contentfulType.metadata.articles, notFound);
 
@@ -20,13 +20,13 @@ async function generateMetadata(props: PageProps): AsyncMetadataType {
     new Date(sys.publishedAt),
     new Date(sys.firstPublishedAt)
   );
-}
+};
 
-async function Page(props: PageProps): AsyncJSXElementType {
+const Page: ArticlesPageType = async (props) => {
   const { lang } = await props.params;
   const articles = await getArticles(lang);
 
   return <ArticlesTemplate articles={articles} articlesHref={navigationItems.articles.href} lang={lang} />;
-}
+};
 
 export { Page as default, generateMetadata };

@@ -1,8 +1,8 @@
 import type { ImageProps } from 'next/image';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType, ConditionalPickType } from '@/types/components';
 
-type CustomImageProps = Pick<ImageProps, 'alt' | 'sizes' | 'src' | 'style' | 'priority'>;
+type CustomImageProps = ConditionalPickType<ImageProps, 'alt' | 'sizes' | 'src' | 'style', 'priority'>;
 
-type CustomImageType = ReadonlyComponentType<CustomImageProps>;
+type CustomImageType = ComponentType<CustomImageProps>;
 
 export type { CustomImageType };

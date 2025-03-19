@@ -1,5 +1,5 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type CalculatorInputsType = {
   buyPrice: string;
@@ -13,6 +13,6 @@ type CalculatorProps = {
   lang: LocaleKeyType;
 };
 
-type CalculatorType = ReadonlyComponentType<CalculatorProps>;
+type CalculatorType = ComponentType<CalculatorProps>;
 
 export type { CalculatorInputsType, CalculatorType };

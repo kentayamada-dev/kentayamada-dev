@@ -1,5 +1,5 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 import type { UtilitiesResponseType } from '@/types/contentful';
 
 type UtilitiesListProps = {
@@ -9,6 +9,6 @@ type UtilitiesListProps = {
   utilitiesHref: string;
 };
 
-type UtilitiesListType = ReadonlyComponentType<UtilitiesListProps>;
+type UtilitiesListType = ComponentType<UtilitiesListProps>;
 
 export type { UtilitiesListProps, UtilitiesListType };

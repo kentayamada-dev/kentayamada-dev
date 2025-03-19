@@ -1,8 +1,8 @@
 import type { CopyRightProps } from '@/components/atoms';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type FooterProps = CopyRightProps;
 
-type FooterType = ReadonlyComponentType<FooterProps>;
+type FooterType = ComponentType<FooterProps>;
 
 export type { FooterProps, FooterType };

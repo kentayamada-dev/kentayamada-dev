@@ -1,8 +1,8 @@
 import type { ComponentPropsWithoutRef } from 'react';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type UlProps = ComponentPropsWithoutRef<'ul'>;
 
-type UlType = ReadonlyComponentType<UlProps>;
+type UlType = ComponentType<UlProps>;
 
 export type { UlType };

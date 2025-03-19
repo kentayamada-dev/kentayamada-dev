@@ -1,8 +1,8 @@
 import type { ComponentPropsWithoutRef } from 'react';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type SectionProps = ComponentPropsWithoutRef<'section'>;
 
-type SectionType = ReadonlyComponentType<SectionProps>;
+type SectionType = ComponentType<SectionProps>;
 
 export type { SectionType };

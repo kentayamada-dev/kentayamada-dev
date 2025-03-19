@@ -1,5 +1,5 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type NotFoundProps = {
   lang: LocaleKeyType;
@@ -7,6 +7,6 @@ type NotFoundProps = {
   subMessage: string;
 };
 
-type NotFoundType = ReadonlyComponentType<NotFoundProps>;
+type NotFoundType = ComponentType<NotFoundProps>;
 
 export type { NotFoundType };

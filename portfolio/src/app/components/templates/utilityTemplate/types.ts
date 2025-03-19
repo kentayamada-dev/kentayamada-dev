@@ -1,5 +1,5 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { JSXElementType, ReadonlyComponentType } from '@/types/components';
+import type { ComponentType, JSXElementType } from '@/types/components';
 
 type UtilityTemplateProps = {
   faqs: {
@@ -11,6 +11,6 @@ type UtilityTemplateProps = {
   title: string;
 };
 
-type UtilityTemplateType = ReadonlyComponentType<UtilityTemplateProps>;
+type UtilityTemplateType = ComponentType<UtilityTemplateProps>;
 
 export type { UtilityTemplateType };

@@ -1,6 +1,6 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
 import type { NavigationType } from '@/constants/navigation/types';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type NavItemsProps = {
   currentPathname: string;
@@ -8,6 +8,6 @@ type NavItemsProps = {
   lang: LocaleKeyType;
 };
 
-type NavItemsType = ReadonlyComponentType<NavItemsProps>;
+type NavItemsType = ComponentType<NavItemsProps>;
 
 export type { NavItemsType };

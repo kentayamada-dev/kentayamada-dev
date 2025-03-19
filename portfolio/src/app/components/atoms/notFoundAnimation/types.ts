@@ -1,5 +1,5 @@
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
-type NotFoundAnimationType = ReadonlyComponentType;
+type NotFoundAnimationType = ComponentType;
 
 export type { NotFoundAnimationType };

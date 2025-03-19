@@ -1,9 +1,9 @@
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type YoutubeEmbedProps = {
   videoId: string;
 };
 
-type YoutubeEmbedType = ReadonlyComponentType<YoutubeEmbedProps>;
+type YoutubeEmbedType = ComponentType<YoutubeEmbedProps>;
 
 export type { YoutubeEmbedType };

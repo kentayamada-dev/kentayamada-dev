@@ -1,6 +1,6 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
 import type { ThemeOptionsType } from '@/constants/themes/types';
-import type { ReadonlyComponentType, StateSetterType } from '@/types/components';
+import type { ComponentType, StateSetterType } from '@/types/components';
 
 type ThemeSwitcherProps = {
   currentThemeKey: string | undefined;
@@ -10,6 +10,6 @@ type ThemeSwitcherProps = {
   lang: LocaleKeyType;
 };
 
-type ThemeSwitcherType = ReadonlyComponentType<ThemeSwitcherProps>;
+type ThemeSwitcherType = ComponentType<ThemeSwitcherProps>;
 
 export type { ThemeSwitcherType };

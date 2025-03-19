@@ -1,11 +1,11 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type MobileTableOfContentsProps = {
   articleClassName: string;
   lang: LocaleKeyType;
 };
 
-type MobileTableOfContentsType = ReadonlyComponentType<MobileTableOfContentsProps>;
+type MobileTableOfContentsType = ComponentType<MobileTableOfContentsProps>;
 
 export type { MobileTableOfContentsType };

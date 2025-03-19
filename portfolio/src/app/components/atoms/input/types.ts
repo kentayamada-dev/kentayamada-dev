@@ -1,11 +1,11 @@
 import type { ComponentPropsWithoutRef } from 'react';
-import type { ReadonlyComponentType, StrictOmitType } from '@/types/components';
+import type { ComponentType, StrictOmitType } from '@/types/components';
 
 type InputProps = StrictOmitType<ComponentPropsWithoutRef<'input'>, 'className' | 'id'> & {
   id: string;
   label: string;
 };
 
-type InputType = ReadonlyComponentType<InputProps>;
+type InputType = ComponentType<InputProps>;
 
 export type { InputType };

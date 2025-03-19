@@ -1,8 +1,8 @@
 import type { ComponentPropsWithoutRef } from 'react';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type HrProps = ComponentPropsWithoutRef<'hr'>;
 
-type HrType = ReadonlyComponentType<HrProps>;
+type HrType = ComponentType<HrProps>;
 
 export type { HrType };

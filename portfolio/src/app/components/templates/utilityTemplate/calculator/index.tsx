@@ -13,7 +13,7 @@ import type { MotionValue } from 'framer-motion';
 import type { FormEventHandler } from 'react';
 import type { SubmitHandler } from 'react-hook-form';
 import type { CurrencyPairType, CurrencyType } from '@/constants/currencies/types';
-import type { ChangeEventType } from '@/types/components';
+import type { ElementChangeEventType } from '@/types/components';
 
 const Calculator: CalculatorType = (props) => {
   const dict = dictionaries[props.lang];
@@ -89,7 +89,7 @@ const Calculator: CalculatorType = (props) => {
     totalProfitSpring.set(totalProfitInQuoteCurrency);
   };
 
-  const handleCurrencyChange: ChangeEventType<'select'> = (event): void => {
+  const handleCurrencyChange: ElementChangeEventType<'select'> = (event): void => {
     const newCurrency = event.target.value;
 
     if (isValueInArray(newCurrency, currencies)) {
@@ -103,7 +103,7 @@ const Calculator: CalculatorType = (props) => {
     }
   };
 
-  const handleCurrencyPairChange: ChangeEventType<'select'> = (event) => {
+  const handleCurrencyPairChange: ElementChangeEventType<'select'> = (event) => {
     const newCurrency = event.target.value;
     const [, quote] = newCurrency.split('/');
 

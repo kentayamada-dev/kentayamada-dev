@@ -1,8 +1,8 @@
 import type { ComponentPropsWithoutRef } from 'react';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type LiProps = ComponentPropsWithoutRef<'li'>;
 
-type LiType = ReadonlyComponentType<LiProps>;
+type LiType = ComponentType<LiProps>;
 
 export type { LiType };

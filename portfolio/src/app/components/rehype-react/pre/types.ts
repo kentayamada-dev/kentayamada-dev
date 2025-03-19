@@ -1,8 +1,8 @@
 import type { ComponentPropsWithoutRef } from 'react';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type PreProps = ComponentPropsWithoutRef<'pre'>;
 
-type PreType = ReadonlyComponentType<PreProps>;
+type PreType = ComponentType<PreProps>;
 
 export type { PreType };

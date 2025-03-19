@@ -1,5 +1,5 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 import type { ArticlesResponseType } from '@/types/contentful';
 
 type ArticlesListProps = {
@@ -9,6 +9,6 @@ type ArticlesListProps = {
   title: string;
 };
 
-type ArticlesListType = ReadonlyComponentType<ArticlesListProps>;
+type ArticlesListType = ComponentType<ArticlesListProps>;
 
 export type { ArticlesListProps, ArticlesListType };

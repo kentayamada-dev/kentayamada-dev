@@ -6,9 +6,9 @@ import { navigationItems } from '@/constants/navigation';
 import { getAbout, getCareers, getMetadata } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getPeriod } from '@/utils';
-import type { AsyncJSXElementType, AsyncMetadataType, PageProps } from '@/types/components';
+import type { ArticlesPageType, GenerateMetadataType } from '@/types/components';
 
-async function generateMetadata(props: PageProps): AsyncMetadataType {
+const generateMetadata: GenerateMetadataType = async (props) => {
   const { lang } = await props.params;
   const { coverImage, description, sys, title } = await getMetadata(lang, contentfulType.metadata.kentaYamada, notFound);
 
@@ -23,9 +23,9 @@ async function generateMetadata(props: PageProps): AsyncMetadataType {
     new Date(sys.firstPublishedAt),
     false
   );
-}
+};
 
-async function Page(props: PageProps): AsyncJSXElementType {
+const Page: ArticlesPageType = async (props) => {
   const { lang } = await props.params;
   const { coverImage, subtitle, title } = await getAbout(lang, notFound);
   const dict = dictionaries[(await props.params).lang];
@@ -83,6 +83,6 @@ async function Page(props: PageProps): AsyncJSXElementType {
       </section>
     </div>
   );
-}
+};
 
 export { Page as default, generateMetadata };

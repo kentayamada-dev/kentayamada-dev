@@ -1,8 +1,8 @@
 import type { SidePanelWrapperProps } from './sidePanelWrapper/types';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type HeaderProps = SidePanelWrapperProps;
 
-type HeaderType = ReadonlyComponentType<HeaderProps>;
+type HeaderType = ComponentType<HeaderProps>;
 
 export type { HeaderType };

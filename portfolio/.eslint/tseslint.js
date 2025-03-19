@@ -29,7 +29,7 @@ const tseslintRule = addPrefixRule(tseslintPrefix, {
     {
       'selector': 'typeAlias',
       'format': ['PascalCase'],
-      'suffix': ['Type', 'Props', 'Return']
+      'suffix': ['Type', 'Props', 'Params']
     }
   ],
   'no-restricted-imports': [

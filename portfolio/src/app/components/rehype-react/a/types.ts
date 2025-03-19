@@ -1,8 +1,8 @@
 import type { ComponentPropsWithoutRef } from 'react';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type AProps = ComponentPropsWithoutRef<'a'>;
 
-type AType = ReadonlyComponentType<AProps>;
+type AType = ComponentType<AProps>;
 
 export type { AType };

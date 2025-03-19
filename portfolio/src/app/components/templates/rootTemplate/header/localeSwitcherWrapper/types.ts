@@ -1,10 +1,10 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type LocaleSwitcherWrapperProps = {
   lang: LocaleKeyType;
 };
 
-type LocaleSwitcherWrapperType = ReadonlyComponentType<LocaleSwitcherWrapperProps>;
+type LocaleSwitcherWrapperType = ComponentType<LocaleSwitcherWrapperProps>;
 
 export type { LocaleSwitcherWrapperType };

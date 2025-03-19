@@ -4,6 +4,7 @@ import { getExtend, addPrefixRule, validateRules } from './utils.js';
 const reactPrefix = 'react';
 
 const reactRule = addPrefixRule(reactPrefix, {
+  'function-component-definition': ['error', { 'namedComponents': 'arrow-function' }],
   'destructuring-assignment': ['error', 'never'],
   'jsx-filename-extension': [
     'error',

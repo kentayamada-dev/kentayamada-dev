@@ -1,6 +1,6 @@
 import type { RefObject } from 'react';
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type TableOfContentsProps = {
   articleClassName: string;
@@ -14,6 +14,6 @@ type TableOfContentsHeadingType = {
   text: string;
 };
 
-type TableOfContentsType = ReadonlyComponentType<TableOfContentsProps>;
+type TableOfContentsType = ComponentType<TableOfContentsProps>;
 
 export type { TableOfContentsHeadingType, TableOfContentsType };

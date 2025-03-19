@@ -93,17 +93,7 @@ export default tseslintPlugin.config(
       ...reactRule,
       ...nextRule,
       ...reactHooksRule,
-      'react/function-component-definition': ['error', { 'namedComponents': 'function-declaration' }],
-      '@stylistic/jsx-quotes': ['error', 'prefer-single'],
-      'func-style': ['error', 'declaration']
-    }
-  },
-  {
-    name: 'Child Component Files',
-    files: ['src/app/components/**/*.tsx'],
-    rules: {
-      'react/function-component-definition': ['error', { 'namedComponents': 'arrow-function' }],
-      'func-style': ['error', 'expression']
+      '@stylistic/jsx-quotes': ['error', 'prefer-single']
     }
   },
   {

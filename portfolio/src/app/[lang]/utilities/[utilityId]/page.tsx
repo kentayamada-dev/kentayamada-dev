@@ -13,9 +13,9 @@ import { navigationItems } from '@/constants/navigation';
 import { getFaqs, getUtilityBySlug, getUtilitySlugs } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getRehypeReactOptions } from '@/lib/rehype-react';
-import type { ArticlePageProps, AsyncJSXElementType, AsyncMetadataType, UtilityGenerateStaticParamsReturn } from '@/types/components';
+import type { ArticleGenerateMetadataType, ArticlePageType, UtilityGenerateStaticParamsType } from '@/types/components';
 
-async function generateStaticParams(): UtilityGenerateStaticParamsReturn {
+const generateStaticParams: UtilityGenerateStaticParamsType = async () => {
   const utilitySlugs = await getUtilitySlugs();
 
   return utilitySlugs.map((utility) => {
@@ -23,9 +23,9 @@ async function generateStaticParams(): UtilityGenerateStaticParamsReturn {
       utilityId: utility.slug
     };
   });
-}
+};
 
-async function generateMetadata(props: ArticlePageProps): AsyncMetadataType {
+const generateMetadata: ArticleGenerateMetadataType = async (props) => {
   const { articleId, lang } = await props.params;
   const { coverImage, subtitle, sys, title } = await getUtilityBySlug(lang, articleId, notFound);
 
@@ -39,9 +39,9 @@ async function generateMetadata(props: ArticlePageProps): AsyncMetadataType {
     new Date(sys.publishedAt),
     new Date(sys.firstPublishedAt)
   );
-}
+};
 
-async function Page(props: ArticlePageProps): AsyncJSXElementType {
+const Page: ArticlePageType = async (props) => {
   const { articleId, lang } = await props.params;
   const { sys, title } = await getUtilityBySlug(lang, articleId, notFound);
   const faqs = await getFaqs(lang, contentfulType.faq.calculator);
@@ -68,6 +68,6 @@ async function Page(props: ArticlePageProps): AsyncJSXElementType {
   /* eslint-enable @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-unsafe-call */
 
   return <UtilityTemplate faqs={processedFaqs} lang={lang} publishedAt={new Date(sys.publishedAt)} title={title} />;
-}
+};
 
 export { Page as default, generateMetadata, generateStaticParams };

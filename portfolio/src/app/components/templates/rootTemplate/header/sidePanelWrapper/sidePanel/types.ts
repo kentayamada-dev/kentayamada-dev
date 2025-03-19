@@ -1,6 +1,6 @@
 import type { CopyRightProps } from '@/components/atoms';
 import type { NavigationType } from '@/constants/navigation/types';
-import type { ReadonlyComponentType } from '@/types/components';
+import type { ComponentType } from '@/types/components';
 
 type SidePanelProps = CopyRightProps & {
   currentPathname: string;
@@ -9,6 +9,6 @@ type SidePanelProps = CopyRightProps & {
   open: boolean;
 };
 
-type SidePanelType = ReadonlyComponentType<SidePanelProps>;
+type SidePanelType = ComponentType<SidePanelProps>;
 
 export type { SidePanelType };

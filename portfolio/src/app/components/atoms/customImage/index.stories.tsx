@@ -6,7 +6,10 @@ const meta = {
   args: {
     alt: 'Alt',
     sizes: '100px',
-    src: 'storybook/image1.jpg'
+    src: 'storybook/image1.jpg',
+    style: {
+      objectFit: 'cover'
+    }
   },
   component: CustomImage,
   decorators: [

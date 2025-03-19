@@ -4,6 +4,7 @@ import { validateRules } from './utils.js';
 const eslintExtend = eslint.configs.all;
 
 const eslintRule = {
+  'func-style': ['error', 'expression'],
   'one-var': ['error', 'never'],
   'arrow-body-style': ['error', 'always'],
   'capitalized-comments': ['error', 'always', { 'ignorePattern': 'prettier-ignore' }],
