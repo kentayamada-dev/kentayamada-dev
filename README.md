@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f3383d666ad08a3d6715314534a00cad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/65248e6c6e962327d47130e990ed909e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95196bad58dc4cf2484bd827e4c4c8925268f363>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-04563656-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ戦闘停止の行方は？　米露“一部合意”も…「効果はほとんどない」米メディアから疑問の声
+      <a href=https://news.yahoo.co.jp/articles/9c8148cca0360eb61c3ff63758a20aa5abc5dbc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000087-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 攻撃除外施設のリスト、ロシア側に伝達方針　ゼレンスキー大統領
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00b2ccec1f14bedfc24d8e0c05839e237d81105b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225467-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岸田前総理も“商品券配布”か？ 野党は参考人招致を要求　岸田氏事務所「いずれも法令に従い適正に行っている」
+      <a href=https://news.yahoo.co.jp/articles/0bd85a5f5c64805f397b3927ef45bc405b5164d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000084-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 在任中の岸田前首相から商品券　自民関係者　歴代政権で慣例化か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b754b8e8986ea71576b30da05c840235a6c99da8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00003236-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=895&ch=895&exp=10800&fmt=webp> 大会2日目は「2年生投手」たちが快投！横浜の剛腕が152キロを計測！市和歌山・丹羽もドラフト候補に浮上！【2025センバツ球速一覧】
+      <a href=https://news.yahoo.co.jp/articles/3ac268a71af9873b7c949e0661aa63dd419d463d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000121-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=919&ch=919&exp=10800&fmt=webp> 【中日】先発・涌井秀章、5イニング3安打1失点の力投　3年連続開幕ローテ入りへアピール
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0f6bfa9aaf58f4f7d0da0c080f18a32482590f59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00337975-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 河村隆一「喫煙者ではないのに、なぜ自分が肺がんに」　イベントで肺がん検診の重要性訴える
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/468cdf062fb6e201afeb3fb1cc43598e69ba4f91>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225528-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「これは始まりにすぎない」 ネタニヤフ首相がガザ攻撃の“継続”方針を示す　イスラエル軍が新たな空爆　少なくとも24人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60f21e22fa15bab84018129a4314e92f1d21fc9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000102-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=6&cw=930&ch=930&exp=10800&fmt=webp> 岸田前首相も商品券配布　菅氏「手土産」認める
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532839>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/d5c678d9724f4b1fab7bceb18e0076e76e8563695a271a7c2db88810a6da659c.jpg> 首相 退職金見直し答弁の撤回拒否
+      <a href=https://news.yahoo.co.jp/pickup/6532850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/99d3084469e3365cec80efbfa77ad9fb8390dbccf9f39c607d56f1effa798062.jpg> 商品券配布 首相が理由を釈明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/7d98b2951e045e209f0a1d75df91df76da1e7302d2e911b5535008858b77c5f0.jpg> 斎藤知事のパワハラ認定 第三者委
+      <a href=https://news.yahoo.co.jp/pickup/6532848>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/2a7d43d27472da7572d3f8971cd0bd8fd1c0a9d0569186d52124ada5607b9fe3.jpg> NISA投資56兆円 政府目標を達成
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/cbf841777e501640406d21fe5848c231c1e6e9bbcdb8c999dc7dc8d911ab8f70.jpg> 井上雄彦氏の長男 B2鹿児島加入
+      <a href=https://news.yahoo.co.jp/pickup/6532851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/aee9599fa0309fc62f9894c0f2409f2ba3e0e3dc50786c80c4ae1af50e1cc687.jpg> 河村隆一 がん発見当時の苦悩語る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 20:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 20:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
