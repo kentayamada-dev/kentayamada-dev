@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/79fca6184ea8fd6352d0f551a3490e4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/23e48e010a9f7f16c53877ba1a554c02.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2f742871a0a4d93f07e25003e4c4aa9244bc1c4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 赤木さん妻「もう少し待ちたい」　森友文書の一覧開示受け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d261794d7dae9024a3b050fa54b4d81a3451baa9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00003227-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=840&ch=840&exp=10800&fmt=webp> V候補・横浜が市和歌山を振り切って13年ぶり春白星！織田が152キロマーク！奥村頼は無安打救援【25年センバツ】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c7477f0bf5525bd7f23f47a1a3661c5feabb7af2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ攻撃「始まりにすぎない」　停戦交渉と同時並行　イスラエル首相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/233e949b0c7a79d48664f37fe8f963585c64d489>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000019-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ウクライナ無人機の残骸落ち石油貯蔵施設で火災 ロシア
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfac47bf5fcb290a2b4a4e8c24bd45ceb398b5cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-01156968-kana-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【センバツ】横浜高校が４－２で市和歌山に競り勝つ　織田が先発、５回２失点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f752d2c6bf0f19a61a67a1fe5f321a6151885ec2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-10169278-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=779&ch=779&exp=10800&fmt=webp> “森友文書” 財務省が概要を提示 立憲・斉藤氏「今の石破政権のある意味で英断」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d384a9ce53e60276fbc609288bf3f7d4b173d8d2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-33190509-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 石破首相が珍妙言い訳「天気かプロ野球の話しかできない」　公邸懇親会「政治活動か否か」めぐり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66acb5e80ac41a3e356595723891169a06d44bc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945087-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=486&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 死傷者は950人以上か…ガサの大規模空爆についてイスラエルとアメリカが攻撃の正当性を主張「敵対行為が再開した責任はハマスにある」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532806>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/7b255d168ced60b4b73713e21c0c9aaa0758dba77270f09bf11d5e35745606e6.jpg> 東京都心積雪1cm 北風強く体感冬
+      <a href=https://news.yahoo.co.jp/pickup/6532817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/5f95e00680ddbe9e48d15188ae200c62397e095a33332904b97a05034c2984a0.jpg> 森友文書 17万ページ1年かけ開示
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532813>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/1741cad17655b2a684131ab17c3cf600cec05135a5ff4aac54b9967c8f6c0d8b.jpg> ド軍カーショー 愛息の手本は由伸
+      <a href=https://news.yahoo.co.jp/pickup/6532824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/2ce2e84cfe918c04c1f6189b9a5aed06435571348e9e5aa0048525f2cb5c9f14.jpg> 高良健吾に第1子 田原俊彦に初孫
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 14:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 15:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
