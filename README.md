@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d0c640f989887e626d3d619acccfa5a0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e8f6c2a2e045d80409b0295151682d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e01c7e12b9bd2a8e08c9e2f07ff057a934099d3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010000-jij-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 維新代表、「違法」発言の重み　石破首相の商品券配布【解説委員室から】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e4b5eec92e7ed330b606eb7ffecfa490d360f10c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000121-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　斎藤知事に「これが法理による判断」　第三者委が告発者処分は「違法で無効」パワハラも認定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b13516d45b99d78c2921b4cf16496517095b9563>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000011-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=253&ch=253&exp=10800&fmt=webp> トランプ大統領、ゼレンスキー大統領と１時間電話…「エネルギー施設の部分休戦に合意」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3f4b6c2cab7e55f0b4461ded9fa0ba3ecd0f3583>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000045-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=441&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> イスラエル、ガザで地上作戦再開　要衝に部隊を再配備
       </a>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e9112e699cb4081ec02055e19fc9901bf5c5a352>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000241-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=874&ch=874&exp=10800&fmt=webp> テレ朝『ナスD』、経費不正使用とパワハラで降格処分「全て自分に責任があり、深く反省」　『大冒険TV』は打ち切り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d8796cc5280fab452b7fb464f88d7102a353ee5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00093348-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=938&ch=938&exp=10800&fmt=webp> やっぱりプーチンに甘すぎる…電話会談の成果を自慢したいトランプ大統領が隠した"ロシアの要求"の中身
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74ea8a06a97058f406d0e5a11cfa8ba6348f068d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000012-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 商品券配布、自民で慣習化　石破首相の説明迷走　国会
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fc0bc2e5ab8cefd71665eb2764a432d322e51ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010001-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「ボール、ボール、ボール、ボール…」佐々木朗希の大荒れ5四球デビューに韓国メディアは厳しい評価も大谷翔平には脱帽
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/e86d63b5ce38e831bac256cf78fe80a49a9a6df7ac7119b768ab57bc38ccc1e9.jpg> 米FRB 2会合連続で金利据え置き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532859>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/aea707765eeffb5a3b337d7f689d1e4c607a5313c6ac9b1dfdc055892c865c4c.jpg> パワハラ認定 斎藤知事に逆風か
       </a>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532861>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/bed38760b71748e30363a93862c3433dafcf5f3140e95569e12c6419a0934068.jpg> 別府ひき逃げ 情報提供は約9000件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/11488539ba48c8561a32871ee2c277bf9bbfd6fa1fc0945b29c23e747664ebc2.jpg> 工場の社員食堂でノロ 263人症状
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 08:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 08:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
