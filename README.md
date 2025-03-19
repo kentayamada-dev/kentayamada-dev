@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d9116025499952eeee9f759660952cb8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/10e01017a08eed7d0a436a1a1df082fb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fdccd81da016754e78a434b261354ca51a141e94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00338012-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 「ｍ―ｆｌｏ」のＬＩＳＡの結婚報告に上田晋也が困惑
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bfcb8affd351c9faf64db70e3a37161efd4c66df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225571-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岸田前総理側も商品券配布　石破総理に続き歴代総理に“飛び火”「官房機密費」の使用は？　約20年前の”機密費”資料には「商品券」の記載が…【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6053a0c31fc0b4918757be5922053efc3f024905>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000002-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ゼレンスキー氏「ロシアは言行不一致」、米ロ会談後も相互攻撃やまず
       </a>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a799809282ef50fcdd3fef35267a52f50ebaecd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000356-spnannex-000-26-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=589&ch=589&exp=10800&fmt=webp> 大谷効果だ！18日の東京シリーズ第1戦は日本史上最多の2500万人が視聴　由伸、今永、誠也も出場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/338fd48f3b1b41f6629770cc1a6ce11e8d500d88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-33192269-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=693&ch=693&exp=10800&fmt=webp> 「m-flo」LISAが「56歳の彼氏」と結婚発表「女が吠える夜」内でサプライズも父の猛反対明かす
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000356-spnannex-000-28-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=589&ch=589&exp=10800&fmt=webp> 大谷効果だ！18日東京シリーズ第1戦の日本視聴者は過去最多2500万人　由伸、今永、誠也も出場
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/839a6e0bd976e6c6b318a0e3dae44ba1aa7e1d6d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000199-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=837&ch=837&exp=10800&fmt=webp> センバツ　横浜・奥村頼人、投打で躍動　猛打賞＆0封5K
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2b410b7b74eb08a68370502e64df43f78bc31b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225557-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 岸田前総理も“商品券”渡していた 懇談会の出席者に　岸田氏側は書面で回答「法令に従い適正に行っている」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 01:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 01:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
