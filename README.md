@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/edf10215185c7da98b4dde05390632a2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80661e7b184aab2fd2ec45ca9a4ba45c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52f60d49ad87e26bcbf4365b9470d221eaf3b6bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000016-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 情報ＢＯＸ：パウエル米ＦＲＢ議長の会見要旨
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e2e733662fcc7c5002a9bd23cf80321dfee7412>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00093940-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 「才能も人格も超一流なんだな」激闘を終えた大谷翔平が今永昇太に示した“さりげない敬意”に日米感銘！「らしい振る舞いだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c09ac6a684ea313a63ca5fdb843577dfe276cae3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225580-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=434&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】トランプ氏とゼレンスキー氏 電話会談　ロシア受け入れのエネルギー施設などへの攻撃停止についてウクライナ側も同意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43f90c352a4a19d99825f55931e43b0aba903a55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米、金利据え置き　年内2回利下げ想定維持　トランプ関税で物価上振れ・FRB
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd877bf6f323dd03fbe8e8f1346572b7257da11f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000005-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=583&cy=0&cw=1617&ch=1617&exp=10800&fmt=webp> カブス・鈴木誠也　全力スイング　メジャー初登板の佐々木朗希と真っ向勝負　悔し２戦無安打「米国へ帰ってから頑張りたい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225580-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=443&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】トランプ氏とゼレンスキー氏 電話会談　ロシア受け入れのエネルギー施設などへの攻撃停止についてウクライナ側も同意
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdccd81da016754e78a434b261354ca51a141e94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00338012-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 「ｍ―ｆｌｏ」のＬＩＳＡの結婚報告に上田晋也が困惑
+      <a href=https://news.yahoo.co.jp/articles/216515cd99ea49f584284adbf8440b239906c313>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225537-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 元県民局長へのパワハラを「認定」 兵庫・斎藤知事への内部告発めぐる問題　第三者委員会が報告書を提出
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 04:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 04:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
