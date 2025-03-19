@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd5fbf4f7eb84151234fa26df9b54ddb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51cd2e81923e937c613e95623a8e1a62.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/602722ac66b81f2725885c37deb80b1eecab85ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00050164-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 斎藤元彦知事の１０の行為、パワハラ認定…兵庫県の第三者委が報告書公表
+      <a href=https://news.yahoo.co.jp/articles/537e8340bd4373d851a74d579aa6292d0c65b06e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-07225491-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=364&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「慣習化されていたら不適切」　公明党・岡本政調会長　商品券問題めぐり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b5f09110c5986a8137301a746032f94a7495116>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945168-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 野党が商品券配布“常態化”を追及…岸田前首相の報道に関し石破首相“コメントする立場にない”　首相経験者の立憲・野田代表は「全くない。即答できる」
+      <a href=https://news.yahoo.co.jp/articles/791732a9d75d061ad24b1674b6b8ed6118740d7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000103-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=727&ch=727&exp=10800&fmt=webp> 斎藤知事のパワハラ認定をした第三者委、どんなメンバーか　3人の元裁判官が60人と面談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54b20f4bb7b2d8936bb4a234fb1fae1a56a5d9fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000009-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=629&ch=629&exp=10800&fmt=webp> 横浜・織田の最速152キロに「はやっ」　市和歌山・半田監督
+      <a href=https://news.yahoo.co.jp/articles/689b27e3f1f01340edc3995e2cdb498b1bf91c14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000003-courrier-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=385&cy=0&cw=900&ch=900&exp=10800&fmt=webp> トランプとプーチンの「2時間半の長電話」で合意されたこと・されなかったこと
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/699e6aea7121f367fde0211fc043cc66508b2b90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 社説：ガザ攻撃再開　イスラエルは自制せよ
+      <a href=https://news.yahoo.co.jp/articles/3e333a1687363bcdcb81217e0c7ca61956803c85>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00337951-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【センバツ】市和歌山は優勝候補に惜敗　川辺主将「横浜高校さんのレベルの高さを痛感した」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b9d500ad840ebe8c6960fed9d30be96d182d573>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000053-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ウクライナ停戦に向けた米ロ首脳会談受け「各国の外交努力を後押し」日本政府
+      <a href=https://news.yahoo.co.jp/articles/7885466ffaa3eb78a261136557c4a6e5a90ffbf1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00945170-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ガザ攻撃「始まりにすぎない。さらに強い攻撃行う」18日に1000人近く死傷も攻撃続く　“停戦延長を検討中に…”ハマス反発
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532835>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 斎藤知事のパワハラ認定 第三者委
+      <a href=https://news.yahoo.co.jp/pickup/6532837>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/a49bdcbbf509f326b0428b86613db0f586a6b3161300d74c8985544ba412663b.jpg> 4月の電気・ガス 全社で値上がり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532821>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/30997e16c0672fe23893c0930c6508b4d70cf1b2d4d8b07242eb1ce38fe16ed0.jpg> 元局長の公用PCは非開示 兵庫
+      <a href=https://news.yahoo.co.jp/pickup/6532835>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/7d98b2951e045e209f0a1d75df91df76da1e7302d2e911b5535008858b77c5f0.jpg> 斎藤知事のパワハラ認定 第三者委
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532826>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/46080210dc4868b72ba2e7449284117e9e611c55a002774fd27586d63187c8cf.jpg> 川田裕美「ヒルナンデス」卒業へ
+      <a href=https://news.yahoo.co.jp/pickup/6532834>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/shigemidaisuke/02139327/title-1742343400645.jpeg?exp=10800> 男性にも「産後うつ」要因は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/19 16:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/19 17:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
