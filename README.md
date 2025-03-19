@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/631e4128d7a573a0c18522f18bb32556.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d0c640f989887e626d3d619acccfa5a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7c49e96b32eca6433d0c9138c5fba59da34fd0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍、ガザで地上作戦再開　要衝に展開、戦闘拡大恐れ
+      <a href=https://news.yahoo.co.jp/articles/3f4b6c2cab7e55f0b4461ded9fa0ba3ecd0f3583>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000045-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=441&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> イスラエル、ガザで地上作戦再開　要衝に部隊を再配備
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e9112e699cb4081ec02055e19fc9901bf5c5a352>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000241-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=874&ch=874&exp=10800&fmt=webp> テレ朝『ナスD』、経費不正使用とパワハラで降格処分「全て自分に責任があり、深く反省」　『大冒険TV』は打ち切り
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0f3e12ba30f2a01f4c7c274d6d0bb2f3572ff16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日銀の利上げ判断に影響も　「トランプリスク」急浮上
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/74ea8a06a97058f406d0e5a11cfa8ba6348f068d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000012-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 商品券配布、自民で慣習化　石破首相の説明迷走　国会
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000012-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=801&ch=801&exp=10800&fmt=webp> 商品券配布、自民で慣習化　石破首相の説明迷走　国会
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a3862092b693ade1a8ee26e5830f7c2d3588b0ef5666f4fe2efe8b1d0dceeb77.jpg> イスラエル ガザで地上作戦を開始
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532865>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ウ大統領 エネ施設攻撃停止に同意
       </a>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532864>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/e86d63b5ce38e831bac256cf78fe80a49a9a6df7ac7119b768ab57bc38ccc1e9.jpg> 米FRB 2会合連続で金利据え置き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a3862092b693ade1a8ee26e5830f7c2d3588b0ef5666f4fe2efe8b1d0dceeb77.jpg> イスラエル ガザで地上作戦を開始
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532862>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/11b1eaabf8edc8b19cea901e80bf54eda331dedd1870825ffd6af58896ec14b8.jpg> m-flo・LISA 番組内で結婚を発表
+      <a href=https://news.yahoo.co.jp/pickup/6532868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/732575dac69b6ba53db681135dfeac69c37f4366c6bac100a73591e2cc7e38a1.jpg> 経費不正のテレ朝社員 全額を返済
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/fd3adcae39dd15239be3c5ce3690b749f034a926e7b286e67d0283812f691a53.jpg> ナスD大冒険TV打ち切り 社員処分
+      <a href=https://news.yahoo.co.jp/pickup/6532869>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/3151ce8abe2a2f9fbe7a4d73efb9eb4c4ee848449b0451e9f53dff3f8eefe3a1.jpg> 朝ドラ 橋本から今田へバトンパス
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 07:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 08:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
