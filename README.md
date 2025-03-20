@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e52ecd56dd5786638da174a72049013.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fef8c03d6b1dd1317813ce82219e36ab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcacf125dc2ae4c9d3ada40d6a150ab08963b41f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000031-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> イスラエル軍、地上作戦を拡大　ガザ最南部に展開、90人死亡
+      <a href=https://news.yahoo.co.jp/articles/52be6b243ac3086e154d3973496db3e8d179332a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000016-ann-000-5-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー氏　トランプ氏との会談で“原発所有権”の議論「していない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c199bd269eee94046538d51ca8c998188474fdc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000149-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 交代ドンピシャ！鎌田大地が先制弾「すごくいいパスが来て、あとは決めるだけでした」
+      <a href=https://news.yahoo.co.jp/articles/ef0f75367e0b6b5659874a749ad94e972ae96084>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-33210052-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=135&cw=1230&ch=1230&exp=10800&fmt=webp> 【日本代表】６勝１分けの勝ち点19で本大会出場決定／Ｗ杯アジア予選VTR
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bcacf125dc2ae4c9d3ada40d6a150ab08963b41f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000031-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> イスラエル軍、地上作戦を拡大　ガザ最南部に展開、90人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/478858bfd9aa036315e2e61936edaa65567fda72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-35230755-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ＩＯＣ新会長にコベントリー氏　初の女性・アフリカ出身
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b36d487f0e0a11069cfb65aaed34066b5ca6cec6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-05391634-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 猛毒サリン「除染」に挑んだ自衛官の戦い　オウム真理教「地下鉄サリン事件」から30年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4937e09525a363d2ceb1f2e5a5b2d0ee99ed1009>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00945969-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> アメリカとウクライナが原発所有権めぐり認識の違い…トランプ大統領はザポリージャ原発のアメリカ所有提案と発表もゼレンスキー大統領「協議していない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a4bc21179d57ddd710c5177aed70ffb2b726bdf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00050159-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 楽天モバイル不正接続、別の少年もプログラム提供受けて回線入手疑い…３・５万件のＩＤ使用か
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532944>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/08639d29385c0d57020c69acb0576955a85d19dd5c4b2d6a4a45fd119c1d439f.jpg> 公立高 県トップ校でも定員割れ
+      <a href=https://news.yahoo.co.jp/pickup/6532960>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/bfec0966d0446a3cd1000840c844fcde20d9f9eea0ac1804ffe98e59fe13f463.jpg> AI悪用 回線不正契約疑い17歳逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 08:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 08:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
