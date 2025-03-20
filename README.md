@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e39b739290d9607023e79f02351f91ac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bef31b7ba57d37331d0a0c172e844a51.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/13db1c86b39b07d534a1ca0196bed44a46d43c57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00945761-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> FNNが入手した教祖の新たな写真や初めて明らかになった無線音声の全容　若い信者が増加…今も続く崇拝の動き【地下鉄サリン事件から30年】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e4cae75130f96054f853c463e4c392e783d675d1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000024-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=1312&ch=1312&exp=10800&fmt=webp> 「投げるたびに温かい声援が」好救援の壱岐・日高　センバツ
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/809ef9eda7d8d9146e2b5259fbcd113f457c7a64>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-21802323-sbsv-000-1-thumb.jpg?exp=10800&fmt=webp> 国民民主党・玉木雄一郎代表「『石破、お前もか』と 政倫審に出て弁明を」“10万円商品券問題”で石破総理を強く非難【静岡】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b576282ce0c5658449e7f56605086d2c7097b339>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-90031494-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 不審なワゴン車はやがてサリン生成の実態解明につながる…すべてはある警察官の職務質問から始まった　「報復に対する不安・恐怖が先立った」　オウム真理教による地下鉄サリン事件から30年
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/74a823c6dce7ba4f36e6f63ebb67a81c438e516e8015caeefd5e78ed1da90d00.jpg> イスラエルでデモ 首相へ怒り噴出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532911>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/80f95469cca7ffddc34d2219a1411da40d29815c81bafac1ada196e66458cb57.jpg> オウムの子ども 元児相職員の証言
+      <a href=https://news.yahoo.co.jp/pickup/6532938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/88659b44f50567df8fab720b5b299e88580eb14f3a2afd913434f256438c6d32.jpg> オウム後継団体 若者狙う勧誘手法
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532913>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/bcbdf3b8efc45456249164515ab3593007127ff91a849e72e16aa15bce59d7e8.jpg> 大学が「100円朝食」各地で試み
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/927d9eb6eb89609a7a1c1fa1cb4f6ff40321a20ee9f91803ac63262db1118b76.jpg> 全校児童1人 地域の人見守る卒業
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 20:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 21:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
