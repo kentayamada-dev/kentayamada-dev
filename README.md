@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/63ee7ded6a0b3f12fbaf06fd5d874b79.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a3dfd837fb564334e1605e4db73d8659.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/290c61b5f077a9e2bbd837b52c6fa16cb53b21b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-04525345-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 松丸亮吾、東大中退を報告「起業の道で人生を懸けることに決めました」
+      <a href=https://news.yahoo.co.jp/articles/ff9856ffa7b941c11067b4eca55c871676f79aad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000091-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=650&ch=650&exp=10800&fmt=webp> 東洋大姫路、7得点挙げて春夏通算の総得点225点　兵庫県勢では報徳学園の457点に次ぐ2位に【センバツ記録メモ】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bec0963ec0f48fb9a8124a96bbcc11259a80192>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00338106-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【センバツ】２１世紀枠の壱岐は初戦で涙も…大応援団に坂本監督「ワクワクの方が大きかった」
+      <a href=https://news.yahoo.co.jp/articles/7a43e3d863a0bc2be679bc025076b3190c1e86d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00338110-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松丸亮吾　東大中退を報告　あと１年で卒業も…「起業の道で人生を懸けることに決めました」
       </a>
     </td>
   </tr>
@@ -383,6 +383,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/050cdf8399bed3b50a517c2e9a0b6e67b706d5ef>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225711-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> ガザでの戦闘、今後のシナリオは2つ　ハマスが妥協して一部の人質を解放するか、ハマスも戦闘を再開させるか…【イスラエルから中継】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3fba6d2bf6922564537966269c7b7471971fc7d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000105-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1914&ch=1914&exp=10800&fmt=webp> 立民・野田氏「法抵触の可能性」　商品券配布、政倫審説明を
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0d175f88fd2c86a9b9d1d98916f227d7908657ef65ce3e8874191fac7b005697.jpg> 松丸亮吾 東大中退を報告
+      <a href=https://news.yahoo.co.jp/pickup/6532920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/dad239d41dd66ba9a69358c95a637ce97b784f8caad8c02e348da9240c81fb23.jpg> 速報 森保ジャパンvs.バーレーン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532933>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/e522cc0622836db7039fff04f64b92db6db136909fdda26754d3bdbb20b18b60.jpg> ごぶごぶ 浜田代役にフット後藤
+      <a href=https://news.yahoo.co.jp/pickup/6532936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0d175f88fd2c86a9b9d1d98916f227d7908657ef65ce3e8874191fac7b005697.jpg> 松丸亮吾 東大中退を報告
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 19:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 20:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
