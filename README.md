@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/083fac16f63b83079632fb96a84532af.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99b1b8180f0468701c62bc5ff666267e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d4deb7b592ff1bde761f90c485899c382060672>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000017-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1296&ch=1296&exp=10800&fmt=webp> 天理・藤原忠理監督「前半はうまくいったが…」　センバツ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/46a7978c6ad19fb450e476f37fb84df23de6a737>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010002-jij-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 商品券配布で首相ピンチ、それでも「石破降ろし」広がらず◇自民・山崎元副総裁に聞く【解説委員室から】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cbe8a6286ff941935ae7e94eab64f43af4c8d6f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 国特別史跡に無断でキャンプ場開設　不動産侵奪疑いで2人逮捕　福岡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a04c66133fa258663be2fb1e1b7d694f0337179d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、地上戦を再開…トランプ氏も「親ハマス」フーシ派に警告
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d9fcfd316c9b64f25ee24419bae7a7f410ed701>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000227-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=958&ch=958&exp=10800&fmt=webp> 【センバツ】天理・藤原忠理監督「動揺があったのかなというふうには見えた」　正捕手欠き聖地初白星ならず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f7ba73bd6a96aa485d5c16d067c6b1dad125f59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-10169453-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=537&cy=0&cw=812&ch=812&exp=10800&fmt=webp> 特殊詐欺グループのリーダーか 日本人の男 逃亡先のタイで拘束
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ebb09da05a5af0fa62c42b95ab2375ce69f9149e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアが占領するウクライナ最大原発の運命は…トランプ大統領「米国が所有」提案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18066fdf72fb10a03dd6a78a9f5629a5332bc099>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00945620-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 商品券で政局流動化か　注目集める国民・玉木代表「首相になったらを常に意識」  “玉木首相で野党一本化”はあるのか
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532901>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/abb19324e16b0e83a432a4fa09cf5214a38288f238a7097e3efedf8166d46423.jpg> トランプ氏 FRBは利下げすべき
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532895>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/7d66eedcb7a5886f0e92ab1093eacd403f684f8cca8f665b6abd4889b6a1e283.jpg> EU 鉄鋼の輸入制限を厳格化へ
       </a>
@@ -428,6 +420,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532899>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/47b90890d2a8b98c70e26a7781d70a8a4055ce29cead9001c967ce76d2b6c747.jpg> 松本元死刑囚 発見直後の写真か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532919>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/b372e0052296463a5460ddf61eeae0b4912da8f68ca4ecb69bff47d3c9cbd2c3.jpg> 無断でキャンプ場を開設疑い 逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/763427178104dbc4a2863d7262a7e3eb15cf7de51c1df401a53ca4ee1edf7938.jpg> 長野県の温泉街「夕食難民」の姿
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/d407ae26baeb00c97ee206914437a472865958964c7c4af35ae3c4272c3fdda7.jpg> 栄和人氏、至学館大の監督退任へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 16:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 17:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
