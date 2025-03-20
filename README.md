@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2b6862aeb35e5b0e0668d53105a83a7f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/defb4c10b7873857efaa4e3095e55887.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b42d6037bc2a19bbd83a641ca3f04536e73fa3f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00050102-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=310&ch=310&exp=10800&fmt=webp> 地下鉄サリン事件、アレフからの被害賠償進まず…関連法人名義の多額の資産は差し押さえできず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1059626507a38fd5ba45ea9c7d712f92b2486d2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000375-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> ドジャース大谷翔平がサッカー日本代表を祝福！W杯出場決定に拍手の絵文字3連発
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca694675dd31bc17d3247c08057b7f2cecbf1aa4>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf0655960244f5e9d9a397463abdf059bcb4d2d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-90020969-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=451&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 松丸亮吾、「夢を叶えるため」東京大学中退を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9f72fb337b1662b58fedd0f6209cc4886581d1ac>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000070-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 21世紀枠の壱岐　島ぐるみの熱気　スタンドで、PVで　球児に声援
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01665ef46bb5becb27c21207b252c646c55d449a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-05581714-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 斎藤知事、今後どう対応？　第三者委員会がパワハラ認定、告発者捜しも「違法」
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/633740422d5fd352e6cfda9f7c9b2ab6108900896a45c99ea227273750d25fb3.jpg> 詐欺拠点 邦人に電気ショックか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532929>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a9f0247b50fcfb665830b78a7b799f8313faa7c48f6d7d39b3b82034212879e9.jpg> 扉に手挟んだままバス発進 客骨折
       </a>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532944>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/08639d29385c0d57020c69acb0576955a85d19dd5c4b2d6a4a45fd119c1d439f.jpg> 公立高 県トップ校でも定員割れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532913>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/bcbdf3b8efc45456249164515ab3593007127ff91a849e72e16aa15bce59d7e8.jpg> 大学が「100円朝食」各地で試み
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 23:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 23:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
