@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8bea9b0f248b4996c2eb337f8e652c44.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f76d838266d1f0f9c624ab7d89cb2d55.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5909cfee2f3c6c06d2b53b6b3b093a846100f6dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000112-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1886&ch=1886&exp=10800&fmt=webp> １回で緊急降板の東洋大姫路エース・阪下漣　右肘に違和感「自分の中で危険信号が出た」「疲労が膨大に。イニング終わった時にはもうダメだなって」
+      <a href=https://news.yahoo.co.jp/articles/02acdc25c1fba8eaac45ec05e01c90b783307ffb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000283-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=848&ch=848&exp=10800&fmt=webp> 【センバツ】大健闘の壱岐・坂本徹監督「甲子園は凄いところ」　スタンドから「夏に帰って来い！」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5b893543cb5c39243bb89327bf6be236aaae6ca1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000282-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=955&ch=955&exp=10800&fmt=webp> Koki,「幸せな気持ちでいっぱい」主演映画「女神降臨」公開迎え舞台あいさつで涙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e0020323a874a8af9c0a53ec1cd16b6acff7a7d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-04144415-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル軍、ガザ地区へ局所的な地上作戦開始　少なくとも70人死亡
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca02e53f6924fa627ce27b47be6ecd6a2adf7b55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-04346946-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> “パワハラ”認定から一夜…斎藤知事「県政を前に進めていく」第三者委の報告書「すべては見ていない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c7f165b35e72aaaa7187bd6697746c708806b84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000048-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 国史跡内にキャンプ場を無断造成、不動産侵奪の疑いで中国籍夫婦逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46a7978c6ad19fb450e476f37fb84df23de6a737>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010002-jij-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 商品券配布で首相ピンチ、それでも「石破降ろし」広がらず◇自民・山崎元副総裁に聞く【解説委員室から】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-04346946-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> “パワハラ”認定から一夜…斎藤知事「県政を前に進めていく」第三者委の報告書「すべては見ていない」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532895>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/7d66eedcb7a5886f0e92ab1093eacd403f684f8cca8f665b6abd4889b6a1e283.jpg> EU 鉄鋼の輸入制限を厳格化へ
+      <a href=https://news.yahoo.co.jp/pickup/6532923>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/aed98d4acce6ffe12600a9fdfe9fdc42dbcaf476519b604af905ad4aa23f03fe.jpg> 三菱自動車 台湾鴻海とEV協業へ
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/2ece640a612e036009475197a6c12b868da7d0a78086f1d8db5b7e10850f192b.jpg> 初甲子園の壱岐 大応援団が話題
+      <a href=https://news.yahoo.co.jp/pickup/6532924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/760604467213a516a250d3238f74472240588607bdc3760c462dbbf69043eee6.jpg> 「デジモン」新作アニメ制作決定
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 17:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 18:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
