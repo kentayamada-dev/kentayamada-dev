@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b3eb0d145ee6aff401d5543018f1cd99.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9707bd8bddac27420d23b71aa189a78c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec14a89ededb7fcf9b299891a16fb65ce8f3cff2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000004-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 惜しくも敗退したが…センバツで奮闘！長崎・壱岐高校野球部 離島育ちの部員21人「遥かなる聖地へ」
+      <a href=https://news.yahoo.co.jp/articles/b36d487f0e0a11069cfb65aaed34066b5ca6cec6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-05391634-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 猛毒サリン「除染」に挑んだ自衛官の戦い　オウム真理教「地下鉄サリン事件」から30年
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7426fb0aada670c3bbed2a798372f7bf62b80919>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00170372-sdigestw-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=387&ch=387&exp=10800&fmt=webp> 森保Jでは連戦連勝も…クラブではリーグ戦４か月未勝利。24歳が噛みしめた久々の感覚「雰囲気、良い流れを持ち帰りたい」
+      <a href=https://news.yahoo.co.jp/articles/ac8a2e10b4b71f6b637f081f7fcd4281624b1b62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00010003-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 春の頂点に立つのは…？センバツ甲子園の優勝候補（4）「近畿最強」に”アクシデント”か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd32752bb5e9cfbb7e68e1b0cd416fb3d983b327>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00170377-sdigestw-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 「途轍もない傑物だ！」１Ｇ１Ａで日本代表を“世界最速突破”に導いた久保建英を米ESPN記者が激賞！「どんな場所にも彼がいた」【W杯予選】
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c603f8f4f95f9c7d9016591eb72dd1bdda54e312>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-01268667-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=808&ch=808&exp=10800&fmt=webp> 3・22「上九一色村」オウム施設に一斉捜索…捜査員と命がけの現場を共にした「カナリア」のその後
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30e45e957251acf6e8f7af64bf3f19450651f321>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-04919225-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領「24日に米と協議」　同日にサウジで米露も会合
+      <a href=https://news.yahoo.co.jp/articles/4937e09525a363d2ceb1f2e5a5b2d0ee99ed1009>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00945969-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> アメリカとウクライナが原発所有権めぐり認識の違い…トランプ大統領はザポリージャ原発のアメリカ所有提案と発表もゼレンスキー大統領「協議していない」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 07:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 07:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
