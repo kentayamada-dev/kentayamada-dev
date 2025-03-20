@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fc1790b4a339a26c9c905cb1dbcacdc7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3122bf8dc0a04eb5a54b643edf490a94.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8506d2ddeb5df6bf4f7460a1a267808946563638>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010002-suntvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【センバツ高校野球】東洋大姫路が壱岐に勝利し2回戦へ／兵庫県
+      <a href=https://news.yahoo.co.jp/articles/82daa26e03722cc2f8a3347cd9bd0225b8be0eee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-03201264-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 【採点＆寸評】森保ジャパン、８大会連続Ｗ杯！聖域なき起用策で史上最速で出場決める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/07e11e3b7e7daa35a9ca37109a42b0354cadb70c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-90039459-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> "ガソリン税引き下げ"も…参院選 岐阜選挙区に立憲民主党が新人の服部学氏を擁立「国民の負担減らしていく」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f72fb337b1662b58fedd0f6209cc4886581d1ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000070-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 21世紀枠の壱岐　島ぐるみの熱気　スタンドで、PVで　球児に声援
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6fcdac30756091a9e37c6fb8a85293c262c0d87d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00050104-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル軍、ガザで地上作戦を再開…要衝「ネツァリム回廊」中心部まで制圧範囲拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13db1c86b39b07d534a1ca0196bed44a46d43c57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00945761-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> FNNが入手した教祖の新たな写真や初めて明らかになった無線音声の全容　若い信者が増加…今も続く崇拝の動き【地下鉄サリン事件から30年】
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532932>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/08639d29385c0d57020c69acb0576955a85d19dd5c4b2d6a4a45fd119c1d439f.jpg> 公立高で定員割れ続く 地方で何が
+      <a href=https://news.yahoo.co.jp/pickup/6532944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/08639d29385c0d57020c69acb0576955a85d19dd5c4b2d6a4a45fd119c1d439f.jpg> 公立高 県トップ校でも定員割れ
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/dad239d41dd66ba9a69358c95a637ce97b784f8caad8c02e348da9240c81fb23.jpg> 速報 森保ジャパンvs.バーレーン
+      <a href=https://news.yahoo.co.jp/pickup/6532945>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/870f507b86f4548b28b39690b4b6441d2c898f6b2975a70bdc03b60a0954f161.jpg> 森保ジャパン、W杯出場を決める
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 21:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 22:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
