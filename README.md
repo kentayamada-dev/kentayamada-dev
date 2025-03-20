@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5e0c604a89a47622c9d413d0eae64f90.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2b6862aeb35e5b0e0668d53105a83a7f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ca694675dd31bc17d3247c08057b7f2cecbf1aa4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000061-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> イスラエル軍が地上部隊でガザの拠点を攻撃　ハマスもロケット弾で反撃　攻撃再開後初
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/07e11e3b7e7daa35a9ca37109a42b0354cadb70c>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9f72fb337b1662b58fedd0f6209cc4886581d1ac>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000070-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 21世紀枠の壱岐　島ぐるみの熱気　スタンドで、PVで　球児に声援
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fcdac30756091a9e37c6fb8a85293c262c0d87d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00050104-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル軍、ガザで地上作戦を再開…要衝「ネツァリム回廊」中心部まで制圧範囲拡大
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/88659b44f50567df8fab720b5b299e88580eb14f3a2afd913434f256438c6d32.jpg> オウム後継団体 若者狙う勧誘手法
+      <a href=https://news.yahoo.co.jp/pickup/6532942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/ffdadad1bbb78c7be98c3240ddf4221b5ecf04dc36a5d69d5849c4de36e3710a.jpg> SBG 米半導体設計会社を買収へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a9f0247b50fcfb665830b78a7b799f8313faa7c48f6d7d39b3b82034212879e9.jpg> 扉に手挟んだままバス発進 客骨折
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a6f09eb83120f21f1dfe5756c8ffe1cb57189cb605ab4fec67ae3509d2da2dda.jpg> 弥生時代の女性の顔 初めて復元
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532945>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/870f507b86f4548b28b39690b4b6441d2c898f6b2975a70bdc03b60a0954f161.jpg> 森保ジャパン、W杯出場を決める
+      <a href=https://news.yahoo.co.jp/pickup/6532948>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/c3eecb105822c6831d1eaad7d2c9094239602d2ff1c08f0af42057be4438a8a6.jpg> W杯決定 長友が絶叫「ブラボー」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 22:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 23:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
