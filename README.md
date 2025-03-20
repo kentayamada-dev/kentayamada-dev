@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/44afa8e7ff0f6397d682f2f059598050.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e7729abcb65e4befcfe8e0e724ab06ab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4e57a95e685fa0a4df6f6b3d5f1ef09f3beb5a9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-21800836-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 保護された“オウムの子どもたち”と向き合い続けた90日間 「はやくオウムにかえせ」“カルト教団の教え”に染まった「宗教2世」が綴った日記　次第に変化も【news23】
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e68dc35ff8bd0171331255bdc531f072190bbe35>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9784f3eab84779654e7cfc23b71910f9212a34b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225605-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 在日米軍の機能強化計画、トランプ政権が中止検討か　経費削減の一環
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532879>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/390493c496a9791df2d87a41976e780cc5463e8056c60876ae6ce6e418a2a327.jpg> イラン核交渉の期限は2カ月 報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532889>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/966528a441f7fa021a3e8f9d077bba092de7f3f24366c2b862a04db9cfa43147.jpg> サリン工場 オウム拠点跡地の現在
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532886>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/393b7dddde425bd02870f745da887ed2418babc0110c4df7fa4ad1f150eb6913.jpg> 夏日予想 東京は24日に桜開花か
+      <a href=https://news.yahoo.co.jp/pickup/6532898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0b3d36f49ce23d8778f0d3c0a8a7e01c0f8c87fd6e982f345d9eecb9ec4b55c4.jpg> 斎藤知事 報告書しっかり読みたい
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532885>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/bd4adf16a61fa34027871575a0a8c286cf2c7a4b9f5942e0b719e2cbd356e76f.jpg> IOC名誉会長就任へ バッハ氏が涙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 14:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 14:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
