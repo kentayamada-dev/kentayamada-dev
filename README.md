@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f4db1a28d204da25548dd66f9142871c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e5c7947101dc18631efcefb7cd73f724.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ebf75839fbef78bee3edfeba4801421e0a73f13f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-33200490-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=1418&ch=1418&exp=10800&fmt=webp> 斎藤元彦知事「違法」認定に「モーニングショー」出演弁護士「民意で選ばれたからと言って…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/970bee57d0ee6f2e9056f9d25e1a141ed3290304>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000029-ann-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル軍 ガザ地区の地上作戦を再開　紛争継続に反発の抗議デモも
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000029-ann-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル軍 ガザ地区の地上作戦を再開　紛争継続に反発の抗議デモも
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b9784f3eab84779654e7cfc23b71910f9212a34b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225605-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 在日米軍の機能強化計画、トランプ政権が中止検討か　経費削減の一環
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f367355f9ec57a2d5c3fcfb9002425ac5fe74ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00064421-mbsnews-000-3-thumb.jpg?exp=10800&fmt=webp> 斎藤知事「県政前に進めるのが果たすべき責任」パワハラ認定・告発者さがし「違法」の報告書提出「ゆっくり時間をかけて読みたい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225605-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 在日米軍の機能強化計画、トランプ政権が中止検討か　経費削減の一環
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532877>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/d410556226474a820fff7db1d263784bb0d01f35c363307db68e806d4c0670d0.jpg> 車2台絡む事故で1台炎上 1人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6532889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/966528a441f7fa021a3e8f9d077bba092de7f3f24366c2b862a04db9cfa43147.jpg> サリン工場 オウム拠点跡地の現在
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/966528a441f7fa021a3e8f9d077bba092de7f3f24366c2b862a04db9cfa43147.jpg> サリン工場 オウム拠点跡地の現在
+      <a href=https://news.yahoo.co.jp/pickup/6532893>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「外国人1割時代」25年後に到来か
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/3f35a3f8539e9caf3f6502923326162327262bb470835fa8d0ef878c7dcc8900.jpg> 吉田輝星「150キロバンバン出す」
+      <a href=https://news.yahoo.co.jp/pickup/6532890>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/d07d24ebcc52103973903db40f4b9db6cbc2c20b8f1226dcb363331a3f73548e.jpg> 大谷 25年の広告収入推定148億円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0561cf335f8196fa7e5a5bafbbdd783d16314023d963aef39ac97af01b447ab4.jpg> エ軍ロッカーでスマホ禁止 米報道
+      <a href=https://news.yahoo.co.jp/pickup/6532883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/3f35a3f8539e9caf3f6502923326162327262bb470835fa8d0ef878c7dcc8900.jpg> 吉田輝星「150キロバンバン出す」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 12:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 13:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
