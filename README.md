@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/688d499543465c569c1951d92491fc2e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c736ec18ac641aab09d555feb047be6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/687be6cc9f03f8065d19a944b00940cfa88d9fb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ米大統領、ゼレンスキー氏と「非常に良い」電話協議
+      <a href=https://news.yahoo.co.jp/articles/13811ecf38f07bebb86e340266acdc51da5d2a11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-03201042-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=389&ch=389&exp=10800&fmt=webp> 「調査結果報告についてどのような見解を持つのか？」…パワハラ１０件が認定された斎藤元彦知事へ「めざまし８」谷原章介が問いかける
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3c5fce9db419640ce07fe772f6738503a7f122c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00064418-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 斎藤知事の１０行為「パワハラ認定」告発者さがし「違法」と認定　第三者委　報告書出ても告発文書は「誹謗中傷性の高い」
+      <a href=https://news.yahoo.co.jp/articles/687be6cc9f03f8065d19a944b00940cfa88d9fb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ米大統領、ゼレンスキー氏と「非常に良い」電話協議
       </a>
     </td>
   </tr>
@@ -382,15 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c23149fed2af3821ca7288e6137de5cd8087e554>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000124-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　岸田文雄前首相も10万円分の商品券配布に「飲み食い政治、国対政治のなれの果て」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000124-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　岸田文雄前首相も10万円分の商品券配布に「飲み食い政治、国対政治のなれの果て」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba8b84915b01c86fcbd862e656cb1d686411d3e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000004-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1342&ch=1342&exp=10800&fmt=webp> トランプ氏、イランに「2カ月以内の核合意締結」を要求　米報道
+      <a href=https://news.yahoo.co.jp/articles/874358e009142be5ea26bedc73beac8882d1d8b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000345-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=677&ch=677&exp=10800&fmt=webp> 風間俊介、『白雪姫』“7人のこびと”おとぼけ役で声の出演「願いがかないました」
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0ebe801cd0ea9f91a4e2300d58346a23150def57ccec9a4f240fe6cef3cbefc6.jpg> 開幕絶望 中日・福永が右膝負傷
+      <a href=https://news.yahoo.co.jp/pickup/6532880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0561cf335f8196fa7e5a5bafbbdd783d16314023d963aef39ac97af01b447ab4.jpg> エ軍ロッカーでスマホ禁止 米報道
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 10:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 10:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
