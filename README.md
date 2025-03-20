@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e8f6c2a2e045d80409b0295151682d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3292c638bc853385e3d0e5ba24b106e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e01c7e12b9bd2a8e08c9e2f07ff057a934099d3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010000-jij-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 維新代表、「違法」発言の重み　石破首相の商品券配布【解説委員室から】
+      <a href=https://news.yahoo.co.jp/articles/9b707bac1df957eff05c1ef227622f74161685a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-07225771-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=445&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米ウ協議は24日にサウジで　ゼレンスキー大統領が表明　米ロ会合も同じ日にサウジで開催予定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4b5eec92e7ed330b606eb7ffecfa490d360f10c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000121-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　斎藤知事に「これが法理による判断」　第三者委が告発者処分は「違法で無効」パワハラも認定
+      <a href=https://news.yahoo.co.jp/articles/78d394b3e56e74e7917826e4935a9df60fd2fb01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-33210025-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=408&ch=408&exp=10800&fmt=webp> 大谷翔平が祝福！Ｗ杯史上最速出場決めた森保ジャパンを拍手マーク３つで祝う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b13516d45b99d78c2921b4cf16496517095b9563>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000011-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=253&ch=253&exp=10800&fmt=webp> トランプ大統領、ゼレンスキー大統領と１時間電話…「エネルギー施設の部分休戦に合意」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f4b6c2cab7e55f0b4461ded9fa0ba3ecd0f3583>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000045-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=441&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> イスラエル、ガザで地上作戦再開　要衝に部隊を再配備
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9112e699cb4081ec02055e19fc9901bf5c5a352>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000241-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=874&ch=874&exp=10800&fmt=webp> テレ朝『ナスD』、経費不正使用とパワハラで降格処分「全て自分に責任があり、深く反省」　『大冒険TV』は打ち切り
+      <a href=https://news.yahoo.co.jp/articles/8120b0ea450fabde9adcaa1d014c3ba40dc878ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-90020978-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=397&ch=397&exp=10800&fmt=webp> デモ拡大・支持率低下も…イスラエル軍の攻撃“激化”ガザへの地上作戦も再開
       </a>
     </td>
   </tr>
@@ -402,64 +386,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a3862092b693ade1a8ee26e5830f7c2d3588b0ef5666f4fe2efe8b1d0dceeb77.jpg> イスラエル ガザで地上作戦を開始
+      <a href=https://news.yahoo.co.jp/pickup/6532941>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハマスがイスラエルに反撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532865>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ウ大統領 エネ施設攻撃停止に同意
+      <a href=https://news.yahoo.co.jp/pickup/6532943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/e32a480f29215b82c5a4b1e8fc5827cdc83e56ebcf8c8028bd3582f913ea755f.jpg> 小泉進次郎氏 首相退陣論をけん制
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532859>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/aea707765eeffb5a3b337d7f689d1e4c607a5313c6ac9b1dfdc055892c865c4c.jpg> パワハラ認定 斎藤知事に逆風か
+      <a href=https://news.yahoo.co.jp/pickup/6532950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/55eb1421aaf8bfc5d0db9250d63c0f64d0b817a5dc508f9acd1a6561d7fbf416.jpg> サリン事件 職員語るあの日の混乱
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532861>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/bed38760b71748e30363a93862c3433dafcf5f3140e95569e12c6419a0934068.jpg> 別府ひき逃げ 情報提供は約9000件
+      <a href=https://news.yahoo.co.jp/pickup/6532942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/ffdadad1bbb78c7be98c3240ddf4221b5ecf04dc36a5d69d5849c4de36e3710a.jpg> SBG 米半導体設計会社を買収へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/11488539ba48c8561a32871ee2c277bf9bbfd6fa1fc0945b29c23e747664ebc2.jpg> 工場の社員食堂でノロ 263人症状
+      <a href=https://news.yahoo.co.jp/pickup/6532937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/633740422d5fd352e6cfda9f7c9b2ab6108900896a45c99ea227273750d25fb3.jpg> 詐欺拠点 邦人に電気ショックか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/00b2eacf9d398a668c79a8ba96bf97dc51db68067e7787190222f52bd42a627a.jpg> 大谷の1号HR球 10歳少年がゲット
+      <a href=https://news.yahoo.co.jp/pickup/6532944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/08639d29385c0d57020c69acb0576955a85d19dd5c4b2d6a4a45fd119c1d439f.jpg> 公立高 県トップ校でも定員割れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/732575dac69b6ba53db681135dfeac69c37f4366c6bac100a73591e2cc7e38a1.jpg> 経費不正のテレ朝社員 全額を返済
+      <a href=https://news.yahoo.co.jp/pickup/6532949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/b5120dfb32138c846f6dc49631e840c4456ac728bb1bb0a00f96a1f2f2fb4d40.jpg> 大谷翔平 W杯決定の森保Jを祝福
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/3151ce8abe2a2f9fbe7a4d73efb9eb4c4ee848449b0451e9f53dff3f8eefe3a1.jpg> 朝ドラ 橋本から今田へバトンパス
+      <a href=https://news.yahoo.co.jp/pickup/6532947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/b100efdca54ca350f25fe4d0d3d687eac4d1de1798970574a3b9c1e9e53b41ef.jpg> 松丸亮吾が東大中退 起業の道で
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 08:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 03:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
