@@ -11,7 +11,7 @@
     "prettier": "prettier . --write",
     "knip": "knip --debug",
     "check": "pnpm test && pnpm knip && pnpm prettier && pnpm eslint && pnpm tsc",
-    "build-next": "bash -c 'until next build; do echo \"Build failed, retrying in 5 seconds...\" && sleep 5; done'",
+    "build-next": "bash -c 'until next build; do echo \"Build failed, retrying...\"; done'",
     "build-storybook": "storybook build --output-dir ./public/storybook",
     "build": "pnpm build-storybook && pnpm build-next",
     "dev-next": "next dev --port $NEXTJS_PORT --experimental-https --experimental-https-key ~/mkcert/localhost-key.pem --experimental-https-cert ~/mkcert/localhost.pem",
