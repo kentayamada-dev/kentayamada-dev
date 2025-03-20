@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bef31b7ba57d37331d0a0c172e844a51.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fc1790b4a339a26c9c905cb1dbcacdc7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8506d2ddeb5df6bf4f7460a1a267808946563638>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010002-suntvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【センバツ高校野球】東洋大姫路が壱岐に勝利し2回戦へ／兵庫県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6fcdac30756091a9e37c6fb8a85293c262c0d87d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00050104-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル軍、ガザで地上作戦を再開…要衝「ネツァリム回廊」中心部まで制圧範囲拡大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/13db1c86b39b07d534a1ca0196bed44a46d43c57>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00945761-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> FNNが入手した教祖の新たな写真や初めて明らかになった無線音声の全容　若い信者が増加…今も続く崇拝の動き【地下鉄サリン事件から30年】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4cae75130f96054f853c463e4c392e783d675d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000024-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=1312&ch=1312&exp=10800&fmt=webp> 「投げるたびに温かい声援が」好救援の壱岐・日高　センバツ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/809ef9eda7d8d9146e2b5259fbcd113f457c7a64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-21802323-sbsv-000-1-thumb.jpg?exp=10800&fmt=webp> 国民民主党・玉木雄一郎代表「『石破、お前もか』と 政倫審に出て弁明を」“10万円商品券問題”で石破総理を強く非難【静岡】
       </a>
     </td>
   </tr>
@@ -387,19 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/050cdf8399bed3b50a517c2e9a0b6e67b706d5ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225711-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> ガザでの戦闘、今後のシナリオは2つ　ハマスが妥協して一部の人質を解放するか、ハマスも戦闘を再開させるか…【イスラエルから中継】
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532941>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハマスがイスラエルに反撃
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532938>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a9f0247b50fcfb665830b78a7b799f8313faa7c48f6d7d39b3b82034212879e9.jpg> 扉に手挟んだままバス発進 客骨折
+      <a href=https://news.yahoo.co.jp/pickup/6532932>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/08639d29385c0d57020c69acb0576955a85d19dd5c4b2d6a4a45fd119c1d439f.jpg> 公立高で定員割れ続く 地方で何が
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/927d9eb6eb89609a7a1c1fa1cb4f6ff40321a20ee9f91803ac63262db1118b76.jpg> 全校児童1人 地域の人見守る卒業
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0e2048f3c5fe6305895df160ce4412a573587fbe1631e42849e70e1642b1dfba.jpg> 映画コナン舞台 天文台早くも話題
+      <a href=https://news.yahoo.co.jp/pickup/6532909>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a6f09eb83120f21f1dfe5756c8ffe1cb57189cb605ab4fec67ae3509d2da2dda.jpg> 弥生時代の女性の顔 初めて復元
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 21:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 21:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
