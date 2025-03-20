@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f76d838266d1f0f9c624ab7d89cb2d55.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f199de329113af449d478df12b79e6e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02acdc25c1fba8eaac45ec05e01c90b783307ffb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000283-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=848&ch=848&exp=10800&fmt=webp> 【センバツ】大健闘の壱岐・坂本徹監督「甲子園は凄いところ」　スタンドから「夏に帰って来い！」
+      <a href=https://news.yahoo.co.jp/articles/aef8aa64bb06c4d08f6da8bb9d5380f8af7d13fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000019-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=117&cw=1002&ch=1002&exp=10800&fmt=webp> 壱岐・坂本監督「最後まで粘って試合ができ、楽しかった」　センバツ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b893543cb5c39243bb89327bf6be236aaae6ca1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000282-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=955&ch=955&exp=10800&fmt=webp> Koki,「幸せな気持ちでいっぱい」主演映画「女神降臨」公開迎え舞台あいさつで涙
+      <a href=https://news.yahoo.co.jp/articles/e9f153d17774d55b134360d4ed38cc9c0beaf13f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000004-maikirei-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＜Koki，＞主演映画公開で涙　「幸せな気持ちでいっぱい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0020323a874a8af9c0a53ec1cd16b6acff7a7d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-04144415-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル軍、ガザ地区へ局所的な地上作戦開始　少なくとも70人死亡
+      <a href=https://news.yahoo.co.jp/articles/57209b3a2e4112a7a78d2b3829fd78e4bc4fb9d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225693-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ガザで停戦合意が崩壊の危機に…ネタニヤフ首相の側近に汚職疑惑が浮上　一部市民は「国民の目を逸らすために戦闘を再開したのでは」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca02e53f6924fa627ce27b47be6ecd6a2adf7b55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-04346946-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> “パワハラ”認定から一夜…斎藤知事「県政を前に進めていく」第三者委の報告書「すべては見ていない」
+      <a href=https://news.yahoo.co.jp/articles/61c168f280a510f984c1beb12041d4977d0955c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010000-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=427&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 斎藤知事は繰り返し「精査したい」　パワハラ10件認定・公益通報対応「違法」　第三者委員会の調査報告書受け　来週の県議会や会見での発言に注目
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532919>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/b372e0052296463a5460ddf61eeae0b4912da8f68ca4ecb69bff47d3c9cbd2c3.jpg> 無断でキャンプ場を開設疑い 逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532918>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/763427178104dbc4a2863d7262a7e3eb15cf7de51c1df401a53ca4ee1edf7938.jpg> 長野県の温泉街「夕食難民」の姿
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532924>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/760604467213a516a250d3238f74472240588607bdc3760c462dbbf69043eee6.jpg> 「デジモン」新作アニメ制作決定
+      <a href=https://news.yahoo.co.jp/pickup/6532868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/732575dac69b6ba53db681135dfeac69c37f4366c6bac100a73591e2cc7e38a1.jpg> 経費不正のテレ朝社員 全額を返済
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a95548ce07366e5e7ae6c50a141c02ba0bc227d87d0bffa99b2f24d351bf4745.jpg> Koki, 主演映画のイベントで涙
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 18:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 18:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
