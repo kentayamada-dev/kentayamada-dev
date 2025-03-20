@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec7bbf86bc3943f4f75f3a46b96006ac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1748d146494a3967c87008e9e20e3aa5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b823aba49cf27c5bae64784badf8de0d2219674d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-09223732-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 「『嘘八百』発言は精神的苦痛を与え、職員委縮」　斎藤知事のパワハラ認定　告発者対応違法　第三者委
+      <a href=https://news.yahoo.co.jp/articles/99a8968dec212302addae680152d0b84cdac650d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000003-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=968&ch=968&exp=10800&fmt=webp> ゼレンスキー氏「前向きで、実りの多い会談」　トランプ氏とエネ施設攻撃停止案に同意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51ca99dbc2249f3a93ba4416c65194122ad877f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> イスラエル、地上作戦を再開 ガザ住民に「最後通告」
+      <a href=https://news.yahoo.co.jp/articles/f3c5fce9db419640ce07fe772f6738503a7f122c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00064418-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 斎藤知事の１０行為「パワハラ認定」告発者さがし「違法」と認定　第三者委　報告書出ても告発文書は「誹謗中傷性の高い」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f79f74005b331a468970d2956a97a285b04612c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> 米国がウクライナ原発を所有、トランプ氏提案
+      <a href=https://news.yahoo.co.jp/articles/26d76ef9f9d40b92389a26889ba9227a3acadcec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-35230742-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=477&cy=0&cw=676&ch=676&exp=10800&fmt=webp> イスラエル軍、ガザで地上作戦を再開　主要地域を一部制圧
       </a>
     </td>
   </tr>
@@ -382,15 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c23149fed2af3821ca7288e6137de5cd8087e554>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000124-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　岸田文雄前首相も10万円分の商品券配布に「飲み食い政治、国対政治のなれの果て」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000124-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　岸田文雄前首相も10万円分の商品券配布に「飲み食い政治、国対政治のなれの果て」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0161e249764259e88681d6cf9890de139dd91cd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00252559-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=932&ch=932&exp=10800&fmt=webp> オウム後継「アレフ」で進行する“弱体化”　「悪化する資金繰り」と幹部の離脱
+      <a href=https://news.yahoo.co.jp/articles/874358e009142be5ea26bedc73beac8882d1d8b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000345-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=677&ch=677&exp=10800&fmt=webp> 風間俊介、『白雪姫』“7人のこびと”おとぼけ役で声の出演「願いがかないました」
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532877>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/d410556226474a820fff7db1d263784bb0d01f35c363307db68e806d4c0670d0.jpg> 車2台絡む事故で1台炎上 1人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532870>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/11488539ba48c8561a32871ee2c277bf9bbfd6fa1fc0945b29c23e747664ebc2.jpg> 工場の社員食堂でノロ 263人症状
       </a>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0ebe801cd0ea9f91a4e2300d58346a23150def57ccec9a4f240fe6cef3cbefc6.jpg> 開幕絶望 中日・福永が右膝負傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532867>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/00b2eacf9d398a668c79a8ba96bf97dc51db68067e7787190222f52bd42a627a.jpg> 大谷の1号HR球 10歳少年がゲット
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/732575dac69b6ba53db681135dfeac69c37f4366c6bac100a73591e2cc7e38a1.jpg> 経費不正のテレ朝社員 全額を返済
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/3151ce8abe2a2f9fbe7a4d73efb9eb4c4ee848449b0451e9f53dff3f8eefe3a1.jpg> 朝ドラ 橋本から今田へバトンパス
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 09:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 09:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
