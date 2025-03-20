@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1748d146494a3967c87008e9e20e3aa5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/688d499543465c569c1951d92491fc2e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99a8968dec212302addae680152d0b84cdac650d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000003-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=968&ch=968&exp=10800&fmt=webp> ゼレンスキー氏「前向きで、実りの多い会談」　トランプ氏とエネ施設攻撃停止案に同意
+      <a href=https://news.yahoo.co.jp/articles/687be6cc9f03f8065d19a944b00940cfa88d9fb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ米大統領、ゼレンスキー氏と「非常に良い」電話協議
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/874358e009142be5ea26bedc73beac8882d1d8b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000345-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=677&ch=677&exp=10800&fmt=webp> 風間俊介、『白雪姫』“7人のこびと”おとぼけ役で声の出演「願いがかないました」
+      <a href=https://news.yahoo.co.jp/articles/ba8b84915b01c86fcbd862e656cb1d686411d3e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000004-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1342&ch=1342&exp=10800&fmt=webp> トランプ氏、イランに「2カ月以内の核合意締結」を要求　米報道
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532875>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/7b34876d073c7204734f59dbca8db6e59d31ba268897d35df0b539908d281aa6.jpg> オウム後継団体 若者入信途絶えず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a3862092b693ade1a8ee26e5830f7c2d3588b0ef5666f4fe2efe8b1d0dceeb77.jpg> イスラエル ガザで地上作戦を開始
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/11488539ba48c8561a32871ee2c277bf9bbfd6fa1fc0945b29c23e747664ebc2.jpg> 工場の社員食堂でノロ 263人症状
+      <a href=https://news.yahoo.co.jp/pickup/6532871>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a332ef6326188091a60c64d919b7b2afef20f2c2dea51decb3a18ff4f45af930.jpg> ケネディ文書「決定的内容なし」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532872>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/7b8a22795f0a7309c7ff08e2106216be4930471dd02f65d5310d55f90289ce40.jpg> Google「Pixel 9a」発表 機能は
+      <a href=https://news.yahoo.co.jp/pickup/6532876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/eb10824815c41af6409fdd9f26dc26f3b0671a10e0b8157c206a48f897f45ba3.jpg> 「エノラ・ゲイ」写真 再び公開へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/11488539ba48c8561a32871ee2c277bf9bbfd6fa1fc0945b29c23e747664ebc2.jpg> 工場の社員食堂でノロ 263人症状
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 09:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 10:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
