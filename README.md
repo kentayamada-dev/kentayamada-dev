@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a3dfd837fb564334e1605e4db73d8659.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e39b739290d9607023e79f02351f91ac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff9856ffa7b941c11067b4eca55c871676f79aad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000091-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=650&ch=650&exp=10800&fmt=webp> 東洋大姫路、7得点挙げて春夏通算の総得点225点　兵庫県勢では報徳学園の457点に次ぐ2位に【センバツ記録メモ】
+      <a href=https://news.yahoo.co.jp/articles/e4cae75130f96054f853c463e4c392e783d675d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000024-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=1312&ch=1312&exp=10800&fmt=webp> 「投げるたびに温かい声援が」好救援の壱岐・日高　センバツ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a43e3d863a0bc2be679bc025076b3190c1e86d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00338110-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松丸亮吾　東大中退を報告　あと１年で卒業も…「起業の道で人生を懸けることに決めました」
+      <a href=https://news.yahoo.co.jp/articles/809ef9eda7d8d9146e2b5259fbcd113f457c7a64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-21802323-sbsv-000-1-thumb.jpg?exp=10800&fmt=webp> 国民民主党・玉木雄一郎代表「『石破、お前もか』と 政倫審に出て弁明を」“10万円商品券問題”で石破総理を強く非難【静岡】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b576282ce0c5658449e7f56605086d2c7097b339>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-90031494-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 不審なワゴン車はやがてサリン生成の実態解明につながる…すべてはある警察官の職務質問から始まった　「報復に対する不安・恐怖が先立った」　オウム真理教による地下鉄サリン事件から30年
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/050cdf8399bed3b50a517c2e9a0b6e67b706d5ef>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225711-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> ガザでの戦闘、今後のシナリオは2つ　ハマスが妥協して一部の人質を解放するか、ハマスも戦闘を再開させるか…【イスラエルから中継】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fba6d2bf6922564537966269c7b7471971fc7d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000105-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1914&ch=1914&exp=10800&fmt=webp> 立民・野田氏「法抵触の可能性」　商品券配布、政倫審説明を
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/aed98d4acce6ffe12600a9fdfe9fdc42dbcaf476519b604af905ad4aa23f03fe.jpg> 三菱自動車 台湾鴻海とEV協業へ
+      <a href=https://news.yahoo.co.jp/pickup/6532907>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/fc1f4bb495613020cadb6dd5b859bd6246efcfb0df197804206509a20ed213f9.jpg> 特殊詐欺Gリーダーか タイで拘束
       </a>
     </td>
   </tr>
@@ -427,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/8967867b74ffc560afbf445db15b49b1634cc834b45b0ad5862926c56c354d9b.jpg> 扉に手挟んだままバス発進 客骨折
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a9f0247b50fcfb665830b78a7b799f8313faa7c48f6d7d39b3b82034212879e9.jpg> 扉に手挟んだままバス発進 客骨折
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 20:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 20:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
