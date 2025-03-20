@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5c736ec18ac641aab09d555feb047be6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a939bf3b975d3a9e63ad12308bc36c2a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13811ecf38f07bebb86e340266acdc51da5d2a11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-03201042-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=389&ch=389&exp=10800&fmt=webp> 「調査結果報告についてどのような見解を持つのか？」…パワハラ１０件が認定された斎藤元彦知事へ「めざまし８」谷原章介が問いかける
+      <a href=https://news.yahoo.co.jp/articles/0db0dded17efd6033daff39652df83e710ce56fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000136-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=278&ch=278&exp=10800&fmt=webp> 岩田明子氏　岸田前首相も10万円商品券配布に「野党は参院選挙までこの問題を引っ張り続けることで…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/687be6cc9f03f8065d19a944b00940cfa88d9fb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ米大統領、ゼレンスキー氏と「非常に良い」電話協議
+      <a href=https://news.yahoo.co.jp/articles/cd36e23853a9950b210dbf3b36aafad04a276fb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000030-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> エネルギー施設攻撃停止、迅速に実施可能＝ゼレンスキー氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f282a0d69d9460dac629c0a1651338c53c26f9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000133-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 古市憲寿氏　斎藤知事の第三者委報告書に「職員側からみればパワハラと思ったこともあるでしょうけど…」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/26d76ef9f9d40b92389a26889ba9227a3acadcec>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-35230742-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=477&cy=0&cw=676&ch=676&exp=10800&fmt=webp> イスラエル軍、ガザで地上作戦を再開　主要地域を一部制圧
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c23149fed2af3821ca7288e6137de5cd8087e554>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000124-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　岸田文雄前首相も10万円分の商品券配布に「飲み食い政治、国対政治のなれの果て」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532882>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/ca17dc94b2a808ffce04b0a82982abc20466e41c554cafa9751c21e65cd521bc.jpg> 米ウ電話協議 非常に良い話し合い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532873>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/faa8ca69c93c2dd54bd734f02441d2f2a5c9179cd4a9be9b7a3e436322178c71.jpg> 斎藤知事パワハラ 認定された10件
       </a>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532877>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/d410556226474a820fff7db1d263784bb0d01f35c363307db68e806d4c0670d0.jpg> 車2台絡む事故で1台炎上 1人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a332ef6326188091a60c64d919b7b2afef20f2c2dea51decb3a18ff4f45af930.jpg> ケネディ文書「決定的内容なし」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 10:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 11:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
