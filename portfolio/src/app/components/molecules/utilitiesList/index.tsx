@@ -10,7 +10,7 @@ const UtilitiesList: UtilitiesListType = (props) => {
         {props.utilities.map((utility) => {
           return (
             <Link
-              className='bg-primary group rounded-lg p-5 hover:opacity-80'
+              className='bg-primary group hover-primary h-80 rounded-lg p-5'
               href={`/${props.lang}${props.utilitiesHref}/${utility.slug}`}
               key={utility.slug}
             >
@@ -24,8 +24,8 @@ const UtilitiesList: UtilitiesListType = (props) => {
                   }}
                 />
               </div>
-              <h3 className='text-lg font-semibold text-slate-900 dark:text-slate-200'>{utility.title}</h3>
-              <p className='mt-2 text-sm text-slate-600 dark:text-slate-400'>{utility.subtitle}</p>
+              <h3 className='line-clamp-2 text-lg font-semibold text-slate-900 dark:text-slate-200'>{utility.title}</h3>
+              <p className='mt-2 line-clamp-4 text-sm text-slate-600 dark:text-slate-400'>{utility.subtitle}</p>
             </Link>
           );
         })}

@@ -8,6 +8,7 @@ export const envServer = createEnv({
   server: {
     CONTENTFUL_ACCESS_TOKEN: z.string(),
     CONTENTFUL_SPACE_ID: z.string(),
+    GITHUB_ACCESS_TOKEN: z.string(),
     SITE_URL: z.string()
   }
 });

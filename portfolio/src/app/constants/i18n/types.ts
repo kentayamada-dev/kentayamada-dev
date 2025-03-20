@@ -40,6 +40,7 @@ type DictionaryType = {
     themeSwitcherLabel: string;
   };
   myName: string;
+  projects: string;
   siteName: string;
   utilities: string;
 };

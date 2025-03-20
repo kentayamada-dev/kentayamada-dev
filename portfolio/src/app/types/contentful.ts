@@ -123,6 +123,14 @@ type SitemapItemsType = {
   sys: { publishedAt: string };
 }[];
 
+type ProjectItemsType = {
+  description: string;
+  forkCount: number;
+  name: string;
+  stargazerCount: number;
+  url: string;
+}[];
+
 type ArticleSlugsResponseType = {
   articleCollection: {
     items: SlugsType;
@@ -135,6 +143,20 @@ type SitemapResponseType = {
   };
   utilityCollection: {
     items: SitemapItemsType;
+  };
+};
+
+type ProjectPinnedItemsType = {
+  nodes: ProjectItemsType;
+  pageInfo: {
+    endCursor: string;
+    hasNextPage: boolean;
+  };
+};
+
+type ProjectResponseType = {
+  user: {
+    pinnedItems: ProjectPinnedItemsType;
   };
 };
 
@@ -182,6 +204,9 @@ export type {
   FaqsType,
   MetadataResponseType,
   MetadataType,
+  ProjectItemsType,
+  ProjectPinnedItemsType,
+  ProjectResponseType,
   SitemapResponseType,
   SitemapType,
   SlugsType,

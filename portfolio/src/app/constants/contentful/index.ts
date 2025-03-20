@@ -6,6 +6,7 @@ const contentfulType = {
     articles: 'articles',
     kentaYamada: 'kenta-yamada',
     pageNotFound: 'page-not-found',
+    projects: 'projects',
     utilities: 'utilities'
   }
 } as const;

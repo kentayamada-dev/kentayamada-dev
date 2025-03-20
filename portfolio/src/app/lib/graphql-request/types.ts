@@ -7,6 +7,7 @@ import type {
   CareersType,
   FaqsType,
   MetadataType,
+  ProjectItemsType,
   SitemapType,
   SlugsType,
   UtilitiesType,
@@ -20,6 +21,8 @@ type GetContentBySlugType<T> = (locale: LocaleKeyType, slug: string, onNotFound:
 type GetSlugsType = () => Promise<DeepReadonlyType<SlugsType>>;
 
 type GetSitemapType = () => Promise<DeepReadonlyType<SitemapType>>;
+
+type GetProjectsType = () => Promise<DeepReadonlyType<ProjectItemsType>>;
 
 type GetMetadataType = (locale: LocaleKeyType, id: string, onNotFound: () => never) => Promise<DeepReadonlyType<MetadataType>>;
 
@@ -44,6 +47,7 @@ export type {
   GetCareersType,
   GetFaqsType,
   GetMetadataType,
+  GetProjectsType,
   GetSitemapType,
   GetSlugsType,
   GetUtilitiesType,

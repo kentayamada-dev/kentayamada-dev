@@ -7,6 +7,7 @@ import type {
   GetCareersType,
   GetFaqsType,
   GetMetadataType,
+  GetProjectsType,
   GetSitemapType,
   GetSlugsType,
   GetUtilitiesType,
@@ -20,11 +21,54 @@ import type {
   CareersResponseType,
   FaqsResponseType,
   MetadataResponseType,
+  ProjectItemsType,
+  ProjectPinnedItemsType,
+  ProjectResponseType,
   SitemapResponseType,
   UtilitiesResponseType,
   UtilityResponseType,
   UtilitySlugsResponseType
 } from '@/types/contentful';
+
+const getProjects: GetProjectsType = async () => {
+  let pinnedRepos: ProjectItemsType = [];
+  let cursor: string | null = null;
+
+  const query = gql`
+    query Query($username: String!, $cursor: String) {
+      user(login: $username) {
+        pinnedItems(first: 10, types: REPOSITORY, after: $cursor) {
+          totalCount
+          pageInfo {
+            hasNextPage
+            endCursor
+          }
+          nodes {
+            ... on Repository {
+              name
+              description
+              url
+              stargazerCount
+              forkCount
+            }
+          }
+        }
+      }
+    }
+  `;
+
+  do {
+    // eslint-disable-next-line no-await-in-loop
+    const userData: ProjectPinnedItemsType = (await apiRequest<ProjectResponseType>('github', query, { cursor, username: 'kentayamada-dev' })).user
+      .pinnedItems;
+
+    pinnedRepos = [...pinnedRepos, ...userData.nodes];
+
+    cursor = userData.pageInfo.hasNextPage ? userData.pageInfo.endCursor : null;
+  } while (cursor !== null);
+
+  return pinnedRepos;
+};
 
 const getSitemap: GetSitemapType = async () => {
   const query = gql`
@@ -48,8 +92,8 @@ const getSitemap: GetSitemapType = async () => {
     }
   `;
 
-  const articleItems = (await apiRequest<SitemapResponseType>(query)).articleCollection.items;
-  const utilityItems = (await apiRequest<SitemapResponseType>(query)).utilityCollection.items;
+  const articleItems = (await apiRequest<SitemapResponseType>('contentful', query)).articleCollection.items;
+  const utilityItems = (await apiRequest<SitemapResponseType>('contentful', query)).utilityCollection.items;
 
   return { articleItems, utilityItems };
 };
@@ -65,7 +109,7 @@ const getArticleSlugs: GetSlugsType = async () => {
     }
   `;
 
-  const articleSlugs = (await apiRequest<ArticleSlugsResponseType>(query)).articleCollection.items;
+  const articleSlugs = (await apiRequest<ArticleSlugsResponseType>('contentful', query)).articleCollection.items;
 
   return articleSlugs;
 };
@@ -81,7 +125,7 @@ const getUtilitySlugs: GetSlugsType = async () => {
     }
   `;
 
-  const utilitySlugs = (await apiRequest<UtilitySlugsResponseType>(query)).utilityCollection.items;
+  const utilitySlugs = (await apiRequest<UtilitySlugsResponseType>('contentful', query)).utilityCollection.items;
 
   return utilitySlugs;
 };
@@ -107,7 +151,7 @@ const getMetadata: GetMetadataType = async (locale, id, onNotFound) => {
   `;
 
   const [metadata] = (
-    await apiRequest<MetadataResponseType>(query, {
+    await apiRequest<MetadataResponseType>('contentful', query, {
       locale,
       where: {
         id
@@ -142,7 +186,7 @@ const getArticles: GetArticlesType = async (locale) => {
   `;
 
   const articles = (
-    await apiRequest<ArticlesResponseType>(query, {
+    await apiRequest<ArticlesResponseType>('contentful', query, {
       locale,
       order: 'sys_publishedAt_DESC'
     })
@@ -170,7 +214,7 @@ const getCareers: GetCareersType = async (locale) => {
   `;
 
   const careers = (
-    await apiRequest<CareersResponseType>(query, {
+    await apiRequest<CareersResponseType>('contentful', query, {
       locale,
       order: 'startDate_DESC'
     })
@@ -200,7 +244,7 @@ const getUtilities: GetUtilitiesType = async (locale) => {
   `;
 
   const articles = (
-    await apiRequest<UtilitiesResponseType>(query, {
+    await apiRequest<UtilitiesResponseType>('contentful', query, {
       locale,
       order: 'sys_publishedAt_DESC'
     })
@@ -226,7 +270,7 @@ const getAbout: GetAboutType = async (locale, onNotFound) => {
   `;
 
   const [about] = (
-    await apiRequest<AboutResponseType>(query, {
+    await apiRequest<AboutResponseType>('contentful', query, {
       locale
     })
   ).aboutCollection.items;
@@ -260,7 +304,7 @@ const getArticleBySlug: GetArticleBySlugType = async (locale, slug, onNotFound) 
   `;
 
   const [article] = (
-    await apiRequest<ArticleResponseType>(query, {
+    await apiRequest<ArticleResponseType>('contentful', query, {
       locale,
       where: {
         slug
@@ -297,7 +341,7 @@ const getUtilityBySlug: GetUtilityBySlugType = async (locale, slug, onNotFound) 
   `;
 
   const [utility] = (
-    await apiRequest<UtilityResponseType>(query, {
+    await apiRequest<UtilityResponseType>('contentful', query, {
       locale,
       where: {
         slug
@@ -325,7 +369,7 @@ const getFaqs: GetFaqsType = async (locale, id) => {
   `;
 
   const articles = (
-    await apiRequest<FaqsResponseType>(query, {
+    await apiRequest<FaqsResponseType>('contentful', query, {
       locale,
       order: 'id_ASC',
       where: {
@@ -346,6 +390,7 @@ export {
   getCareers,
   getFaqs,
   getMetadata,
+  getProjects,
   getSitemap,
   getUtilities,
   getUtilityBySlug,

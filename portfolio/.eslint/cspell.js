@@ -19,7 +19,7 @@ const cspellRule = addPrefixRule(cspellPrefix, {
       'checkComments': true,
       'cspell': {
         'language': 'en-US',
-        'words': ['noto', 'roboto', 'rehype', 'Rehype', 'Katex', 'kenta', 'forex', 'youtu'],
+        'words': ['noto', 'roboto', 'rehype', 'Rehype', 'Katex', 'kenta', 'forex', 'youtu', 'kentayamada'],
         'ignoreWords': [],
         'flagWords': [],
         'ignoreRegExpList': [],
