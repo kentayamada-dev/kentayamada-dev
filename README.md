@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3122bf8dc0a04eb5a54b643edf490a94.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5e0c604a89a47622c9d413d0eae64f90.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82daa26e03722cc2f8a3347cd9bd0225b8be0eee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-03201264-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 【採点＆寸評】森保ジャパン、８大会連続Ｗ杯！聖域なき起用策で史上最速で出場決める
+      <a href=https://news.yahoo.co.jp/articles/07e11e3b7e7daa35a9ca37109a42b0354cadb70c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-90039459-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> "ガソリン税引き下げ"も…参院選 岐阜選挙区に立憲民主党が新人の服部学氏を擁立「国民の負担減らしていく」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07e11e3b7e7daa35a9ca37109a42b0354cadb70c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-90039459-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> "ガソリン税引き下げ"も…参院選 岐阜選挙区に立憲民主党が新人の服部学氏を擁立「国民の負担減らしていく」
+      <a href=https://news.yahoo.co.jp/articles/cf0655960244f5e9d9a397463abdf059bcb4d2d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-90020969-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=451&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 松丸亮吾、「夢を叶えるため」東京大学中退を発表
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/88659b44f50567df8fab720b5b299e88580eb14f3a2afd913434f256438c6d32.jpg> オウム後継団体 若者狙う勧誘手法
+      <a href=https://news.yahoo.co.jp/pickup/6532943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/e32a480f29215b82c5a4b1e8fc5827cdc83e56ebcf8c8028bd3582f913ea755f.jpg> 小泉進次郎氏 首相退陣論をけん制
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532907>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/fc1f4bb495613020cadb6dd5b859bd6246efcfb0df197804206509a20ed213f9.jpg> 特殊詐欺Gリーダーか タイで拘束
+      <a href=https://news.yahoo.co.jp/pickup/6532938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/88659b44f50567df8fab720b5b299e88580eb14f3a2afd913434f256438c6d32.jpg> オウム後継団体 若者狙う勧誘手法
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0d175f88fd2c86a9b9d1d98916f227d7908657ef65ce3e8874191fac7b005697.jpg> 松丸亮吾 東大中退を報告
+      <a href=https://news.yahoo.co.jp/pickup/6532947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/b100efdca54ca350f25fe4d0d3d687eac4d1de1798970574a3b9c1e9e53b41ef.jpg> 松丸亮吾が東大中退 起業の道で
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 22:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 22:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
