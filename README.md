@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e8f6c2a2e045d80409b0295151682d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec7bbf86bc3943f4f75f3a46b96006ac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e01c7e12b9bd2a8e08c9e2f07ff057a934099d3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010000-jij-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 維新代表、「違法」発言の重み　石破首相の商品券配布【解説委員室から】
+      <a href=https://news.yahoo.co.jp/articles/b823aba49cf27c5bae64784badf8de0d2219674d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-09223732-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> 「『嘘八百』発言は精神的苦痛を与え、職員委縮」　斎藤知事のパワハラ認定　告発者対応違法　第三者委
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4b5eec92e7ed330b606eb7ffecfa490d360f10c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000121-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　斎藤知事に「これが法理による判断」　第三者委が告発者処分は「違法で無効」パワハラも認定
+      <a href=https://news.yahoo.co.jp/articles/51ca99dbc2249f3a93ba4416c65194122ad877f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> イスラエル、地上作戦を再開 ガザ住民に「最後通告」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b13516d45b99d78c2921b4cf16496517095b9563>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000011-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=253&ch=253&exp=10800&fmt=webp> トランプ大統領、ゼレンスキー大統領と１時間電話…「エネルギー施設の部分休戦に合意」
+      <a href=https://news.yahoo.co.jp/articles/6f79f74005b331a468970d2956a97a285b04612c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> 米国がウクライナ原発を所有、トランプ氏提案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f4b6c2cab7e55f0b4461ded9fa0ba3ecd0f3583>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000045-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=441&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> イスラエル、ガザで地上作戦再開　要衝に部隊を再配備
+      <a href=https://news.yahoo.co.jp/articles/c23149fed2af3821ca7288e6137de5cd8087e554>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000124-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　岸田文雄前首相も10万円分の商品券配布に「飲み食い政治、国対政治のなれの果て」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9112e699cb4081ec02055e19fc9901bf5c5a352>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250319-00000241-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=874&ch=874&exp=10800&fmt=webp> テレ朝『ナスD』、経費不正使用とパワハラで降格処分「全て自分に責任があり、深く反省」　『大冒険TV』は打ち切り
+      <a href=https://news.yahoo.co.jp/articles/0161e249764259e88681d6cf9890de139dd91cd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00252559-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=932&ch=932&exp=10800&fmt=webp> オウム後継「アレフ」で進行する“弱体化”　「悪化する資金繰り」と幹部の離脱
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/7b34876d073c7204734f59dbca8db6e59d31ba268897d35df0b539908d281aa6.jpg> オウム後継団体 若者入信途絶えず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532866>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a3862092b693ade1a8ee26e5830f7c2d3588b0ef5666f4fe2efe8b1d0dceeb77.jpg> イスラエル ガザで地上作戦を開始
       </a>
@@ -410,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532865>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ウ大統領 エネ施設攻撃停止に同意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532859>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/aea707765eeffb5a3b337d7f689d1e4c607a5313c6ac9b1dfdc055892c865c4c.jpg> パワハラ認定 斎藤知事に逆風か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532861>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/19/bed38760b71748e30363a93862c3433dafcf5f3140e95569e12c6419a0934068.jpg> 別府ひき逃げ 情報提供は約9000件
+      <a href=https://news.yahoo.co.jp/pickup/6532873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/faa8ca69c93c2dd54bd734f02441d2f2a5c9179cd4a9be9b7a3e436322178c71.jpg> 斎藤知事パワハラ 認定された10件
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532870>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/11488539ba48c8561a32871ee2c277bf9bbfd6fa1fc0945b29c23e747664ebc2.jpg> 工場の社員食堂でノロ 263人症状
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532872>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/7b8a22795f0a7309c7ff08e2106216be4930471dd02f65d5310d55f90289ce40.jpg> Google「Pixel 9a」発表 機能は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 08:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 09:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
