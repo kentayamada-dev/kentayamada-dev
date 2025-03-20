@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d99a26b5839240a5c492c4e016604546.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/083fac16f63b83079632fb96a84532af.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44d5ade20f6976184251434aaeaf41154c88c928>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-21801577-atv-000-1-thumb.jpg?exp=10800&fmt=webp> 岸田前総理の商品券　神田氏「返答差し控え」木村氏「受け取ったことない」　青森県
+      <a href=https://news.yahoo.co.jp/articles/a04c66133fa258663be2fb1e1b7d694f0337179d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル、地上戦を再開…トランプ氏も「親ハマス」フーシ派に警告
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/754090cdb51ee6c82e1dd7f38054caa8f4502265>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍、ガザ地区で局所的な地上作戦開始と発表　ハマス反発…再び戦闘が始まる恐れも
+      <a href=https://news.yahoo.co.jp/articles/18066fdf72fb10a03dd6a78a9f5629a5332bc099>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00945620-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 商品券で政局流動化か　注目集める国民・玉木代表「首相になったらを常に意識」  “玉木首相で野党一本化”はあるのか
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532914>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/89b9f4b03f1a56bb504e0df4bd8e0da436bb65458c7f203f5bf03eb5352d4a85.jpg> 政局流動化か 玉木氏に注目集まる
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532901>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532885>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/bd4adf16a61fa34027871575a0a8c286cf2c7a4b9f5942e0b719e2cbd356e76f.jpg> IOC名誉会長就任へ バッハ氏が涙
+      <a href=https://news.yahoo.co.jp/pickup/6532910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/5e50fe0b4a121675ac9c6b14c4aa82666145d1f45b71ebab05cb6d830bdfa179.jpg> 飲食店のスマホ注文 客のモヤモヤ
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532909>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a6f09eb83120f21f1dfe5756c8ffe1cb57189cb605ab4fec67ae3509d2da2dda.jpg> 弥生時代の女性の顔 初めて復元
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532905>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/89b2d0b11d5a5ec492e7eadd5c15a6122c68946a2e3957b063c631a3c27df411.jpg> 「ポロンちゃん」終売 今後の展開
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 16:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 16:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
