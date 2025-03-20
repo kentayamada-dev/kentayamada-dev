@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/281fbdb776975543a97003a647b07593.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/63ee7ded6a0b3f12fbaf06fd5d874b79.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e46bdc49abf3b2ae35089c310b23ff64adf6296>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010006-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> Kōki,の姉を演じた丸山礼「れい姉」と呼ばれ有頂天「実質Cocomiちゃん」
+      <a href=https://news.yahoo.co.jp/articles/290c61b5f077a9e2bbd837b52c6fa16cb53b21b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-04525345-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 松丸亮吾、東大中退を報告「起業の道で人生を懸けることに決めました」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ffff290bbc61a2e81c74e9810fe40419757d532>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-11625143-ncctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【長崎】県勢初２１世紀枠センバツ甲子園 出場・壱岐高校が初舞台に臨む
+      <a href=https://news.yahoo.co.jp/articles/5bec0963ec0f48fb9a8124a96bbcc11259a80192>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00338106-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【センバツ】２１世紀枠の壱岐は初戦で涙も…大応援団に坂本監督「ワクワクの方が大きかった」
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/01665ef46bb5becb27c21207b252c646c55d449a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-05581714-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 斎藤知事、今後どう対応？　第三者委員会がパワハラ認定、告発者捜しも「違法」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-05581714-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 斎藤知事、今後どう対応？　第三者委員会がパワハラ認定、告発者捜しも「違法」
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/89b9f4b03f1a56bb504e0df4bd8e0da436bb65458c7f203f5bf03eb5352d4a85.jpg> 政局流動化か 玉木氏に注目集まる
+      <a href=https://news.yahoo.co.jp/pickup/6532927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/74a823c6dce7ba4f36e6f63ebb67a81c438e516e8015caeefd5e78ed1da90d00.jpg> イスラエルでデモ 首相へ怒り噴出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532911>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/80f95469cca7ffddc34d2219a1411da40d29815c81bafac1ada196e66458cb57.jpg> オウムの子ども 元児相職員の証言
       </a>
     </td>
   </tr>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532899>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/47b90890d2a8b98c70e26a7781d70a8a4055ce29cead9001c967ce76d2b6c747.jpg> 松本元死刑囚 発見直後の写真か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532929>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/8967867b74ffc560afbf445db15b49b1634cc834b45b0ad5862926c56c354d9b.jpg> 扉に手挟んだままバス発進 客骨折
       </a>
@@ -426,32 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532918>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/763427178104dbc4a2863d7262a7e3eb15cf7de51c1df401a53ca4ee1edf7938.jpg> 長野県の温泉街「夕食難民」の姿
+      <a href=https://news.yahoo.co.jp/pickup/6532913>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/bcbdf3b8efc45456249164515ab3593007127ff91a849e72e16aa15bce59d7e8.jpg> 大学が「100円朝食」各地で試み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/5e50fe0b4a121675ac9c6b14c4aa82666145d1f45b71ebab05cb6d830bdfa179.jpg> 飲食店のスマホ注文 客のモヤモヤ
+      <a href=https://news.yahoo.co.jp/pickup/6532931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0e2048f3c5fe6305895df160ce4412a573587fbe1631e42849e70e1642b1dfba.jpg> 映画コナン舞台 天文台早くも話題
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a6f09eb83120f21f1dfe5756c8ffe1cb57189cb605ab4fec67ae3509d2da2dda.jpg> 弥生時代の女性の顔 初めて復元
+      <a href=https://news.yahoo.co.jp/pickup/6532936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0d175f88fd2c86a9b9d1d98916f227d7908657ef65ce3e8874191fac7b005697.jpg> 松丸亮吾 東大中退を報告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a95548ce07366e5e7ae6c50a141c02ba0bc227d87d0bffa99b2f24d351bf4745.jpg> Koki, 主演映画のイベントで涙
+      <a href=https://news.yahoo.co.jp/pickup/6532933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/e522cc0622836db7039fff04f64b92db6db136909fdda26754d3bdbb20b18b60.jpg> ごぶごぶ 浜田代役にフット後藤
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 19:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 19:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
