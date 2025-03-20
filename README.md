@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7729abcb65e4befcfe8e0e724ab06ab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/115ff5f084a974065ffa4a38c3922342.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/966528a441f7fa021a3e8f9d077bba092de7f3f24366c2b862a04db9cfa43147.jpg> サリン工場 オウム拠点跡地の現在
+      <a href=https://news.yahoo.co.jp/pickup/6532898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0b3d36f49ce23d8778f0d3c0a8a7e01c0f8c87fd6e982f345d9eecb9ec4b55c4.jpg> 斎藤知事 報告書しっかり読みたい
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532898>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0b3d36f49ce23d8778f0d3c0a8a7e01c0f8c87fd6e982f345d9eecb9ec4b55c4.jpg> 斎藤知事 報告書しっかり読みたい
+      <a href=https://news.yahoo.co.jp/pickup/6532901>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/abb19324e16b0e83a432a4fa09cf5214a38288f238a7097e3efedf8166d46423.jpg> トランプ氏 FRBは利下げすべき
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532899>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/47b90890d2a8b98c70e26a7781d70a8a4055ce29cead9001c967ce76d2b6c747.jpg> 松本元死刑囚 発見直後の写真か
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532893>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「外国人1割時代」25年後に到来か
+      <a href=https://news.yahoo.co.jp/pickup/6532896>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/db7cc8b1daf5580a94b7e64d17bb9d1f4fc4278e85b92912eca907efbca3580d.jpg> 速報センバツ 壱岐vs.東洋大姫路
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532890>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/d07d24ebcc52103973903db40f4b9db6cbc2c20b8f1226dcb363331a3f73548e.jpg> 大谷 25年の広告収入推定148億円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/3f35a3f8539e9caf3f6502923326162327262bb470835fa8d0ef878c7dcc8900.jpg> 吉田輝星「150キロバンバン出す」
+      <a href=https://news.yahoo.co.jp/pickup/6532900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/d407ae26baeb00c97ee206914437a472865958964c7c4af35ae3c4272c3fdda7.jpg> 栄和人氏、至学館大の監督退任へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 14:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 15:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
