@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e3fb287ed399f45d7c548faf129c0286.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/578120fb21e4cfab4b82e74bd9984c65.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13372a3e293c475da8324f1441125ccc7ea3850e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-03201219-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=554&ch=554&exp=10800&fmt=webp> 「プロ注目投手が相手でも、離島の高校でも点数が取れる」壱岐から甲子園、夢は正夢に　４万人驚かせた初回２点打
+      <a href=https://news.yahoo.co.jp/articles/6e1b5b4127f51097bdd5ef27fce3b9034a9f8dc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00010001-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1405&ch=1405&exp=10800&fmt=webp> 三笘薫「今話すのは難しい」“世界最速”で2026年北中米W杯出場を決めた森保ジャパンは“本番”で勝てるのか？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b101e73faf9a161346a25159645d426afea301b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00170368-sdigestw-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=461&ch=461&exp=10800&fmt=webp> 「アウェーの時とは別物だった」これが日本に０－５で敗れたチームなのか？ 久保建英も驚愕したバーレーンの変貌。特に驚異的だったのが…
+      <a href=https://news.yahoo.co.jp/articles/c603f8f4f95f9c7d9016591eb72dd1bdda54e312>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-01268667-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=808&ch=808&exp=10800&fmt=webp> 3・22「上九一色村」オウム施設に一斉捜索…捜査員と命がけの現場を共にした「カナリア」のその後
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0577b02bb515547196d89c3e07b19b5c279c957f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000077-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=1183&ch=1183&exp=10800&fmt=webp> 「狙われたのは霞ヶ関!」強制捜査2日前の電話　小池聡記者が振り返る緊迫の当時
+      <a href=https://news.yahoo.co.jp/articles/a6ceefb1f8c6f314152e93e27c0bcb983ca6be0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-03201221-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=1099&ch=1099&exp=10800&fmt=webp> 初回２点先制で戸惑い、逆転された５回の守備では胸が締め付けられる思い…初甲子園・壱岐高のＯＢ記者観戦記
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/30e45e957251acf6e8f7af64bf3f19450651f321>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-04919225-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー大統領「24日に米と協議」　同日にサウジで米露も会合
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/b5120dfb32138c846f6dc49631e840c4456ac728bb1bb0a00f96a1f2f2fb4d40.jpg> 大谷翔平 W杯決定の森保Jを祝福
+      <a href=https://news.yahoo.co.jp/pickup/6532952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/ea129dfa95c973c9127faf7c339a4bb9f16a7504bad4647717560901b2099b4a.jpg> W杯決定 本音漏らした三笘の重圧
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 06:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 06:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
