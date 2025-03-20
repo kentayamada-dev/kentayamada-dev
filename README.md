@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/578120fb21e4cfab4b82e74bd9984c65.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b3eb0d145ee6aff401d5543018f1cd99.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e1b5b4127f51097bdd5ef27fce3b9034a9f8dc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00010001-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1405&ch=1405&exp=10800&fmt=webp> 三笘薫「今話すのは難しい」“世界最速”で2026年北中米W杯出場を決めた森保ジャパンは“本番”で勝てるのか？
+      <a href=https://news.yahoo.co.jp/articles/ec14a89ededb7fcf9b299891a16fb65ce8f3cff2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000004-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 惜しくも敗退したが…センバツで奮闘！長崎・壱岐高校野球部 離島育ちの部員21人「遥かなる聖地へ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7426fb0aada670c3bbed2a798372f7bf62b80919>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00170372-sdigestw-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=387&ch=387&exp=10800&fmt=webp> 森保Jでは連戦連勝も…クラブではリーグ戦４か月未勝利。24歳が噛みしめた久々の感覚「雰囲気、良い流れを持ち帰りたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/380adff7144749a459a4940c26541c792ff2cb3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-35230754-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イスラエル、ガザ攻撃を継続　ハマスも反撃
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c603f8f4f95f9c7d9016591eb72dd1bdda54e312>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-01268667-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=808&ch=808&exp=10800&fmt=webp> 3・22「上九一色村」オウム施設に一斉捜索…捜査員と命がけの現場を共にした「カナリア」のその後
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6ceefb1f8c6f314152e93e27c0bcb983ca6be0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-03201221-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=1099&ch=1099&exp=10800&fmt=webp> 初回２点先制で戸惑い、逆転された５回の守備では胸が締め付けられる思い…初甲子園・壱岐高のＯＢ記者観戦記
       </a>
     </td>
   </tr>
@@ -394,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/55eb1421aaf8bfc5d0db9250d63c0f64d0b817a5dc508f9acd1a6561d7fbf416.jpg> サリン事件 職員語るあの日の混乱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532951>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/5/e15afc3c02eefbabc4cfccf32bb25b87cad6ad9d82d5ef9b9449d2eccb787790.jpg> インドネシア噴火 津波の有無調査
       </a>
@@ -410,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/55eb1421aaf8bfc5d0db9250d63c0f64d0b817a5dc508f9acd1a6561d7fbf416.jpg> サリン事件 職員語るあの日の混乱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532942>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/ffdadad1bbb78c7be98c3240ddf4221b5ecf04dc36a5d69d5849c4de36e3710a.jpg> SBG 米半導体設計会社を買収へ
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/633740422d5fd352e6cfda9f7c9b2ab6108900896a45c99ea227273750d25fb3.jpg> 詐欺拠点 邦人に電気ショックか
+      <a href=https://news.yahoo.co.jp/pickup/6532954>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/f38c672cdcad4ae24727e9842c0be10a8647982fbd9bdc276a5f7d5983575cd1.jpg> パトカーが追う車がひき逃げ 重傷
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532952>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/ea129dfa95c973c9127faf7c339a4bb9f16a7504bad4647717560901b2099b4a.jpg> W杯決定 本音漏らした三笘の重圧
+      <a href=https://news.yahoo.co.jp/pickup/6532953>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/6c407fcbbc90f107ea6c43890c99ad78e709c7248c7f353f3534ce4478f94c20.jpg> NBA・セルティックスに買収報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/b100efdca54ca350f25fe4d0d3d687eac4d1de1798970574a3b9c1e9e53b41ef.jpg> 松丸亮吾が東大中退 起業の道で
+      <a href=https://news.yahoo.co.jp/pickup/6532952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/ea129dfa95c973c9127faf7c339a4bb9f16a7504bad4647717560901b2099b4a.jpg> W杯決定 本音漏らした三笘の重圧
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 06:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 07:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
