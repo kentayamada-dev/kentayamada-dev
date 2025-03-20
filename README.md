@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f199de329113af449d478df12b79e6e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/281fbdb776975543a97003a647b07593.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aef8aa64bb06c4d08f6da8bb9d5380f8af7d13fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000019-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=117&cw=1002&ch=1002&exp=10800&fmt=webp> 壱岐・坂本監督「最後まで粘って試合ができ、楽しかった」　センバツ
+      <a href=https://news.yahoo.co.jp/articles/9e46bdc49abf3b2ae35089c310b23ff64adf6296>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010006-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> Kōki,の姉を演じた丸山礼「れい姉」と呼ばれ有頂天「実質Cocomiちゃん」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9f153d17774d55b134360d4ed38cc9c0beaf13f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000004-maikirei-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＜Koki，＞主演映画公開で涙　「幸せな気持ちでいっぱい」
+      <a href=https://news.yahoo.co.jp/articles/0ffff290bbc61a2e81c74e9810fe40419757d532>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-11625143-ncctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【長崎】県勢初２１世紀枠センバツ甲子園 出場・壱岐高校が初舞台に臨む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57209b3a2e4112a7a78d2b3829fd78e4bc4fb9d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225693-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ガザで停戦合意が崩壊の危機に…ネタニヤフ首相の側近に汚職疑惑が浮上　一部市民は「国民の目を逸らすために戦闘を再開したのでは」
+      <a href=https://news.yahoo.co.jp/articles/01665ef46bb5becb27c21207b252c646c55d449a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-05581714-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 斎藤知事、今後どう対応？　第三者委員会がパワハラ認定、告発者捜しも「違法」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61c168f280a510f984c1beb12041d4977d0955c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010000-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=427&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 斎藤知事は繰り返し「精査したい」　パワハラ10件認定・公益通報対応「違法」　第三者委員会の調査報告書受け　来週の県議会や会見での発言に注目
+      <a href=https://news.yahoo.co.jp/articles/050cdf8399bed3b50a517c2e9a0b6e67b706d5ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225711-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> ガザでの戦闘、今後のシナリオは2つ　ハマスが妥協して一部の人質を解放するか、ハマスも戦闘を再開させるか…【イスラエルから中継】
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/8967867b74ffc560afbf445db15b49b1634cc834b45b0ad5862926c56c354d9b.jpg> 扉に手挟んだままバス発進 客骨折
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532918>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/763427178104dbc4a2863d7262a7e3eb15cf7de51c1df401a53ca4ee1edf7938.jpg> 長野県の温泉街「夕食難民」の姿
       </a>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/732575dac69b6ba53db681135dfeac69c37f4366c6bac100a73591e2cc7e38a1.jpg> 経費不正のテレ朝社員 全額を返済
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532926>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/a95548ce07366e5e7ae6c50a141c02ba0bc227d87d0bffa99b2f24d351bf4745.jpg> Koki, 主演映画のイベントで涙
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 18:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 19:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
