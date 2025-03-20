@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2dd11048f0062f5d4c1a056a7ceaece1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28dd5ff19216a846a9657a3001005cc5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a3befb24c586d845ef4eac8c04e69dfcbe54d95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000066-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ガザ全域にイスラエルの空爆、少なくとも85人死亡　ハマスも反撃
+      <a href=https://news.yahoo.co.jp/articles/05c05aa5b7585cb4ef697ea90b74d358dc07671b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225760-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル軍がガザ北部でも地上作戦開始　ハマスは反撃　停戦合意は事実上“崩壊”
       </a>
     </td>
   </tr>
@@ -374,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1059626507a38fd5ba45ea9c7d712f92b2486d2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000375-spnannex-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> ドジャース大谷翔平がサッカー日本代表を祝福！W杯出場決定に拍手の絵文字3連発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07e11e3b7e7daa35a9ca37109a42b0354cadb70c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-90039459-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> "ガソリン税引き下げ"も…参院選 岐阜選挙区に立憲民主党が新人の服部学氏を擁立「国民の負担減らしていく」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000375-spnannex-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> ドジャース大谷翔平がサッカー日本代表を祝福！W杯出場決定に拍手の絵文字3連発
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 23:52:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 00:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
