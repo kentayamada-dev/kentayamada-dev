@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a939bf3b975d3a9e63ad12308bc36c2a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/47be0740a7008cce8eb1f60b61f691ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0db0dded17efd6033daff39652df83e710ce56fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000136-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=278&ch=278&exp=10800&fmt=webp> 岩田明子氏　岸田前首相も10万円商品券配布に「野党は参院選挙までこの問題を引っ張り続けることで…」
+      <a href=https://news.yahoo.co.jp/articles/aad7d8d1491f49a8fdf52cab33e9a6c3df522dc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00029082-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 東京都心の桜　先がピンク色のつぼみも　21日から気温上昇　桜の開花・満開はいつ?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d688699e630990ed2fd54ea9a6e983c6ae75683d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-90020919-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 商品券問題が歴代総理に波及　岸田、菅、麻生各氏事務所は「適正」「適切」とコメント
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/85c4e1e8ebf090b45ee1bf8809e4d8bfc7a024f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010000-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】斎藤知事が取材に応じる　第三者委報告書が県の対応を「違法」と指摘　兵庫県
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f282a0d69d9460dac629c0a1651338c53c26f9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000133-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 古市憲寿氏　斎藤知事の第三者委報告書に「職員側からみればパワハラと思ったこともあるでしょうけど…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/26d76ef9f9d40b92389a26889ba9227a3acadcec>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-35230742-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=477&cy=0&cw=676&ch=676&exp=10800&fmt=webp> イスラエル軍、ガザで地上作戦を再開　主要地域を一部制圧
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/874358e009142be5ea26bedc73beac8882d1d8b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000345-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=677&ch=677&exp=10800&fmt=webp> 風間俊介、『白雪姫』“7人のこびと”おとぼけ役で声の出演「願いがかないました」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532873>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/faa8ca69c93c2dd54bd734f02441d2f2a5c9179cd4a9be9b7a3e436322178c71.jpg> 斎藤知事パワハラ 認定された10件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532877>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/d410556226474a820fff7db1d263784bb0d01f35c363307db68e806d4c0670d0.jpg> 車2台絡む事故で1台炎上 1人死亡
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/11488539ba48c8561a32871ee2c277bf9bbfd6fa1fc0945b29c23e747664ebc2.jpg> 工場の社員食堂でノロ 263人症状
+      <a href=https://news.yahoo.co.jp/pickup/6532881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/c47c2dce9987b6404a2f6bbf3598411a436d01cd257bf2e63670986e9e8d77e6.jpg> メガソーラー計画巡り 業者が虚偽
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/3f35a3f8539e9caf3f6502923326162327262bb470835fa8d0ef878c7dcc8900.jpg> 吉田輝星「150キロバンバン出す」
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/00b2eacf9d398a668c79a8ba96bf97dc51db68067e7787190222f52bd42a627a.jpg> 大谷の1号HR球 10歳少年がゲット
+      <a href=https://news.yahoo.co.jp/pickup/6532887>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/5d04d35b6459ad70f161c5c5a50bf2b06b0381e5722b68dff5d2e1506c7e8713.jpg> 中村アン 髪カットが大きな転機に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 11:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 11:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
