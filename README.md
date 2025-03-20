@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5ae7780a57a0808ae11645c685c380f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e90a05dd6cb44c607d88df15963164f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5facf10c24a5d4d8392f10d2c0c1e65b178d0d62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-90020979-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 「前向きな会談だった」“アメリカが原発所有”する案も『部分的攻撃停止』合意
+      <a href=https://news.yahoo.co.jp/articles/50076f0b09b3cb2d0040daea9dc508ca9ff0d52a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-07225768-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “遺族と加害者の30年”オウム真理教の元幹部から届いた「約30通の手紙」と交わした「約束」 仮谷清志さん拉致監禁事件【news23】
       </a>
     </td>
   </tr>
@@ -375,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8120b0ea450fabde9adcaa1d014c3ba40dc878ef>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-90020978-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=397&ch=397&exp=10800&fmt=webp> デモ拡大・支持率低下も…イスラエル軍の攻撃“激化”ガザへの地上作戦も再開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b42d6037bc2a19bbd83a641ca3f04536e73fa3f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00050102-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=310&ch=310&exp=10800&fmt=webp> 地下鉄サリン事件、アレフの被害賠償進まず…関連法人名義の多額の資産は差し押さえできず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f72fb337b1662b58fedd0f6209cc4886581d1ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000070-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 21世紀枠の壱岐　島ぐるみの熱気　スタンドで、PVで　球児に声援
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 01:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 01:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
