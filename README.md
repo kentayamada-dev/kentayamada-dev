@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a39e9756e1d4e66d8149e4a5b5de053.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e3fb287ed399f45d7c548faf129c0286.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36b9efd95ba8a60c8a713bf7176bc61d1ad8665b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> センバツ２０２５　１回戦　壱岐、確かな足跡　大応援団　声援を力に　／長崎
+      <a href=https://news.yahoo.co.jp/articles/13372a3e293c475da8324f1441125ccc7ea3850e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-03201219-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=554&ch=554&exp=10800&fmt=webp> 「プロ注目投手が相手でも、離島の高校でも点数が取れる」壱岐から甲子園、夢は正夢に　４万人驚かせた初回２点打
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7b101e73faf9a161346a25159645d426afea301b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00170368-sdigestw-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=461&ch=461&exp=10800&fmt=webp> 「アウェーの時とは別物だった」これが日本に０－５で敗れたチームなのか？ 久保建英も驚愕したバーレーンの変貌。特に驚異的だったのが…
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0577b02bb515547196d89c3e07b19b5c279c957f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000077-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=1183&ch=1183&exp=10800&fmt=webp> 「狙われたのは霞ヶ関!」強制捜査2日前の電話　小池聡記者が振り返る緊迫の当時
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11d8c59f219c9151a3d33e432a42604f69ac290c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-01999722-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大谷翔平も日本代表のW杯出場決定を“拍手”で祝福…JFAの投稿に反応
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4062734692e86c634f171e0d2745f00b1fa94c17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ゼレンスキー氏　“原発所有権”の議論否定　トランプ氏の電話会談後の発表と食い違い
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 05:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 06:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
