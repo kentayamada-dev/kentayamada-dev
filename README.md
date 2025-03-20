@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aaff60fb5cfd32aabe848cc1ce06ca05.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/44afa8e7ff0f6397d682f2f059598050.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/754090cdb51ee6c82e1dd7f38054caa8f4502265>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍、ガザ地区で局所的な地上作戦開始と発表　ハマス反発…再び戦闘が始まる恐れも
+      <a href=https://news.yahoo.co.jp/articles/e68dc35ff8bd0171331255bdc531f072190bbe35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-90018256-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 斎藤知事「パワハラ認定」第三者委報告に議会「知事の受け止め待ち」『躍動の会』は「想定より違法性言及」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb1c658b04c483424d5a88bb647f9c43dc37b296>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00010005-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 斎藤知事　第三者委がパワハラと認めなかった「5つの言動」は…全16件の評価を詳しく見る　10の言動をパワハラ認定して付箋投げは「断定しないが疑い残る」
+      <a href=https://news.yahoo.co.jp/articles/754090cdb51ee6c82e1dd7f38054caa8f4502265>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍、ガザ地区で局所的な地上作戦開始と発表　ハマス反発…再び戦闘が始まる恐れも
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532886>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/393b7dddde425bd02870f745da887ed2418babc0110c4df7fa4ad1f150eb6913.jpg> 夏日予想 東京は24日に桜開花か
+      <a href=https://news.yahoo.co.jp/pickup/6532891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/593e08887f208f1e99f3ccbe46443581ea5f17d789e67c1e74cbc8dd189fa284.jpg> 在日米軍の強化中止を検討 米報道
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532893>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「外国人1割時代」25年後に到来か
+      <a href=https://news.yahoo.co.jp/pickup/6532886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/393b7dddde425bd02870f745da887ed2418babc0110c4df7fa4ad1f150eb6913.jpg> 夏日予想 東京は24日に桜開花か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/eb10824815c41af6409fdd9f26dc26f3b0671a10e0b8157c206a48f897f45ba3.jpg> 「エノラ・ゲイ」写真 再び公開へ
+      <a href=https://news.yahoo.co.jp/pickup/6532893>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「外国人1割時代」25年後に到来か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 13:30:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 14:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
