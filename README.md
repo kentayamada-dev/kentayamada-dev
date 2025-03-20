@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/115ff5f084a974065ffa4a38c3922342.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ab04aeaa704fbee450131064467ea4f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e57a95e685fa0a4df6f6b3d5f1ef09f3beb5a9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-21800836-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 保護された“オウムの子どもたち”と向き合い続けた90日間 「はやくオウムにかえせ」“カルト教団の教え”に染まった「宗教2世」が綴った日記　次第に変化も【news23】
+      <a href=https://news.yahoo.co.jp/articles/1f7ba73bd6a96aa485d5c16d067c6b1dad125f59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カンボジア拠点の特殊詐欺グループ日本人の男 逃亡先のタイで拘束
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e68dc35ff8bd0171331255bdc531f072190bbe35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-90018256-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 斎藤知事「パワハラ認定」第三者委報告に議会「知事の受け止め待ち」『躍動の会』は「想定より違法性言及」
+      <a href=https://news.yahoo.co.jp/articles/ebb09da05a5af0fa62c42b95ab2375ce69f9149e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアが占領するウクライナ最大原発の運命は…トランプ大統領「米国が所有」提案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d180c1610adbf745ea371e2a4d08958cb5c09a6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000215-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=1061&ch=1061&exp=10800&fmt=webp> 【センバツ】「自分はどうなってもいいからベンチに…」頭部死球で交代の天理・石井が本部への直訴明かす
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/754090cdb51ee6c82e1dd7f38054caa8f4502265>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍、ガザ地区で局所的な地上作戦開始と発表　ハマス反発…再び戦闘が始まる恐れも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/119c11d05345b287c619239b2fd1df3d3d486fd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-08336339-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米ウクライナ首脳電話会談　エネルギー関連施設への攻撃停止で合意
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/db7cc8b1daf5580a94b7e64d17bb9d1f4fc4278e85b92912eca907efbca3580d.jpg> 速報センバツ 壱岐vs.東洋大姫路
+      <a href=https://news.yahoo.co.jp/pickup/6532906>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/bd50ede399e1b25b4297a4bdb3ed690120dfa52104bbc5a3edd225e1a76e37cb.jpg> 天理・捕手 顔に死球受け負傷交代
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/0eb92d3f3c40002d9fd74c8ac0bed29550e544055061c4de4ce36c9134ffe900.jpg> 元TBSアナ 難病の長女の成長語る
+      <a href=https://news.yahoo.co.jp/pickup/6532903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/9f594c95232b057066379749b7a18d1853b615de57427bc6afee40995436530e.jpg> 山里亮太 父親になり考え方変化
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 15:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 15:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
