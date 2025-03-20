@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/feb28dab8a62b4f7534707b421e09fde.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f4db1a28d204da25548dd66f9142871c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/970bee57d0ee6f2e9056f9d25e1a141ed3290304>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000029-ann-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル軍 ガザ地区の地上作戦を再開　紛争継続に反発の抗議デモも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/119c11d05345b287c619239b2fd1df3d3d486fd5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-08336339-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米ウクライナ首脳電話会談　エネルギー関連施設への攻撃停止で合意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/32a20eaa519bfac14fdba80b0fc6750d1b267873>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000008-friday-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 石破首相“商品券配布”で支持率暴落　「歴代の慣習→撤回」も透ける自民党の体質と「石破政権の行方」
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b9784f3eab84779654e7cfc23b71910f9212a34b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225605-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 在日米軍の機能強化計画、トランプ政権が中止検討か　経費削減の一環
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5f367355f9ec57a2d5c3fcfb9002425ac5fe74ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00064421-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=433&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「時間をかけて報告書を読む」第三者委の提出から一夜明け斎藤知事「反省すべきところは反省」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/498eb420e4ae12698929f67f4ed3a7050571a0f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000028-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏がウクライナの原発「所有」を提案　首脳協議で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a861af431458e13793487836ad6493c3f8c836a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-05131872-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 地下鉄サリン事件から30年　霞ケ関駅で慰霊式、駅員ら黙とう
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/255c7ab709e6a70cb45b70956f521c45ff080802>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-07225614-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル、ガザで地上部隊による作戦開始　イスラエル市民からも非難の声
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00064421-mbsnews-000-3-thumb.jpg?exp=10800&fmt=webp> 斎藤知事「県政前に進めるのが果たすべき責任」パワハラ認定・告発者さがし「違法」の報告書提出「ゆっくり時間をかけて読みたい」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/390493c496a9791df2d87a41976e780cc5463e8056c60876ae6ce6e418a2a327.jpg> イラン核交渉の期限は2カ月 報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532877>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/d410556226474a820fff7db1d263784bb0d01f35c363307db68e806d4c0670d0.jpg> 車2台絡む事故で1台炎上 1人死亡
       </a>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532875>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/7b34876d073c7204734f59dbca8db6e59d31ba268897d35df0b539908d281aa6.jpg> オウム後継団体 若者入信途絶えず
+      <a href=https://news.yahoo.co.jp/pickup/6532889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/966528a441f7fa021a3e8f9d077bba092de7f3f24366c2b862a04db9cfa43147.jpg> サリン工場 オウム拠点跡地の現在
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532876>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/eb10824815c41af6409fdd9f26dc26f3b0671a10e0b8157c206a48f897f45ba3.jpg> 「エノラ・ゲイ」写真 再び公開へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532881>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/c47c2dce9987b6404a2f6bbf3598411a436d01cd257bf2e63670986e9e8d77e6.jpg> メガソーラー計画巡り 業者が虚偽
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/19df97d976e3578c149c985bb649eb9e212b20aaf3ea28ff923ee362fd171757.jpg> 渡邊圭祐 学園祭では裏方で照明係
+      <a href=https://news.yahoo.co.jp/pickup/6532887>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/5d04d35b6459ad70f161c5c5a50bf2b06b0381e5722b68dff5d2e1506c7e8713.jpg> 中村アン 髪カットが大きな転機に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/20 12:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/20 12:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
