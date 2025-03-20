@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9707bd8bddac27420d23b71aa189a78c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e52ecd56dd5786638da174a72049013.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bcacf125dc2ae4c9d3ada40d6a150ab08963b41f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000031-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> イスラエル軍、地上作戦を拡大　ガザ最南部に展開、90人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c199bd269eee94046538d51ca8c998188474fdc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000149-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 交代ドンピシャ！鎌田大地が先制弾「すごくいいパスが来て、あとは決めるだけでした」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b36d487f0e0a11069cfb65aaed34066b5ca6cec6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-05391634-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 猛毒サリン「除染」に挑んだ自衛官の戦い　オウム真理教「地下鉄サリン事件」から30年
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac8a2e10b4b71f6b637f081f7fcd4281624b1b62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00010003-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 春の頂点に立つのは…？センバツ甲子園の優勝候補（4）「近畿最強」に”アクシデント”か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd32752bb5e9cfbb7e68e1b0cd416fb3d983b327>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00170377-sdigestw-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 「途轍もない傑物だ！」１Ｇ１Ａで日本代表を“世界最速突破”に導いた久保建英を米ESPN記者が激賞！「どんな場所にも彼がいた」【W杯予選】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/380adff7144749a459a4940c26541c792ff2cb3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-35230754-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> イスラエル、ガザ攻撃を継続　ハマスも反撃
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-05391634-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 猛毒サリン「除染」に挑んだ自衛官の戦い　オウム真理教「地下鉄サリン事件」から30年
       </a>
     </td>
   </tr>
@@ -395,11 +387,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6a4bc21179d57ddd710c5177aed70ffb2b726bdf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00050159-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 楽天モバイル不正接続、別の少年もプログラム提供受けて回線入手疑い…３・５万件のＩＤ使用か
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532957>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/d3de204022a8ac09870073e16efa5aae3fbb486179a34014b642a94938cbe7b9.jpg> ウ大統領 原発所有議論していない
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532950>
@@ -412,22 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532951>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/5/e15afc3c02eefbabc4cfccf32bb25b87cad6ad9d82d5ef9b9449d2eccb787790.jpg> インドネシア噴火 津波の有無調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532943>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/e32a480f29215b82c5a4b1e8fc5827cdc83e56ebcf8c8028bd3582f913ea755f.jpg> 小泉進次郎氏 首相退陣論をけん制
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532942>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/ffdadad1bbb78c7be98c3240ddf4221b5ecf04dc36a5d69d5849c4de36e3710a.jpg> SBG 米半導体設計会社を買収へ
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532958>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/9d39d1b61479df51161217db5946dbcca21097e5d22281f6be8c3996e0cfc3a7.jpg> 平祐奈が金髪に 色入るまで6時間
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 07:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 08:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
