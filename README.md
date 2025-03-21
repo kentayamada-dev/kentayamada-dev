@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e6332597eec8e5effc700c96a4045c9a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/38e0b41dbbd6cc8433fd5a57f4e01a75.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c1439ce3e4c27020b36ffa7b20e398decdfd4a1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】泉房穂さんがことし夏の参議院選挙に兵庫選挙区から無所属で出馬へ　前明石市長・元衆議院議員
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/92cdec8cb76ae7b94b3a2d768fdd255aaf7a84c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000143-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル軍、地上侵攻拡大　ハマスは「停戦継続」期待　ガザ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000143-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル国防相、支配地域の拡大指示　人質解放まで作戦継続
       </a>
     </td>
   </tr>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e37e18659453ec79c1b1a745dfe98f86c7c4c79f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-90021020-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=676&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> バス事故社長会見　60代男性が両足骨折
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cb029bdba0f44269c453e3f6372d13edb06950cb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00107258-soccerh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=668&ch=668&exp=10800&fmt=webp> 【最終予選・全試合スタメンの南野拓実が鎌田・久保につないだ勝利の布石（1）】南野が模索していた三笘を生かす役割とは……前半から意図した動きを見せ、鎌田大地の得点の布石にも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cee7e3dc857e92c421d1b2115a8a8ebd9bc23ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-03211225-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 吉永小百合、極めて異例　８０歳になった心境と決意を自ら語る　「大変な年齢」も現役続行を宣言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a69422f5acf29167500d78f3741f321889d3774>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-90006797-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> 30年経った今も信者をマインドコントロールか　オウム真理教の後継団体「アレフ」の実態
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533032>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/302cee322d6b282788f5f02db8f6c7960187d1469b42256455d06fbb987e31f1.jpg> 関東内陸など 22日「夏日」予想
+      <a href=https://news.yahoo.co.jp/pickup/6532985>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462708_1610462695_aflo_109260004.jpg> オンラインカジノ対策を閣議決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/71be6a394f0495194038e9349a24c9cfbfbc45190f6eed45211e4126d7f70d0b.jpg> 泉房穂氏 参院選に無所属で出馬へ
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/f6c199d22891f5b6a0580be2d93cb3465a3814c0a0d79c8297b1d00c80443553.jpg> ミュゼプラチナム休業 給料未払い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533027>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/24c53696ebce0e1a8c0743ea8367bf9d40912aa1f1d094ed9b67a30cf1a88243.jpg> 通販「夢グループ」に課徴金命令
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533033>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/7732db3fed3c3c8118be0389635ffcbd3d313ddefc74c3a9130c13f6f7951383.jpg> 中日まさか「9番DH」に投手・柳
+      <a href=https://news.yahoo.co.jp/pickup/6533037>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/9555f9288613965ba4b3e8a4815fd11834650dca3b3eae98a49f0a79250d2f9d.jpg> 異例 吉永小百合が自ら年齢に言及
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 21:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 21:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
