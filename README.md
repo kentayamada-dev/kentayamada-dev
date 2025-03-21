@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/F46GiK0grGg?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9e5cef3a47046b0d24bc513e1a43ed3b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b51f420ffc9c8fb27b86d3af04a6c905.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2ddf8848bde423799919659b39450e51b16116ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00338190-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メンタリストＤａｉＧｏ　弟・松丸亮吾の東大中退でネットの声に反論「他人の決断を批判する権利などない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/366952099e166fcb0cc04aeeaf645c158cfebcd8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-02514767-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【W杯アジア最終予選】日本は鎌田大地と久保建英のゴールで勝利しW杯出場決定　オーストラリアとサウジアラビアがし烈な2位争い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/82345749480d6e4140758ebbdbd20c123b87d276>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ａｎｄ」がそれほど重要？　ウクライナ前停戦会談控えてすでに互いに食い違う言葉
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38dd84a848f3bed7c4d9799cb9d58a80b7d7c9af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00010001-tvtokyos-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 最速W杯出場決定の裏側 森保監督と主将・遠藤航が語る「これからの日本代表」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94065813b6fbcee28d53fa4092b152b83edafbfe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-10169629-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=545&ch=545&exp=10800&fmt=webp> 杉田水脈氏の公認問題 立憲議員「自民党は差別を許す政党か？」に石破総理「私としては彼女の発言はとても賛成し得ない」
+      <a href=https://news.yahoo.co.jp/articles/62301cdaeff2c8091aad7e5a9075a57fd8798803>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000037-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 斎藤知事「議会閉会後に見解を説明」　第三者委の「違法」指摘受け
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/da84034b2d8cf1ead29b43cdb504b23b2f8e04fa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-16502574-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=717&ch=717&exp=10800&fmt=webp> ハマス、テルアヴィヴにロケット弾発射　イスラエルはガザ地上作戦を再開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8097e35fe3e3a020a2d57e47dbe75bb588b33f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050086-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 【証言　インタビュー全文】霞ヶ関駅助役だった夫、高橋シズヱさん「触れた時の冷たさ忘れられない」…裁判傍聴４５９回「被告を直接見る意義大きい」
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532993>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/bb49bbe2ddf9a4ba131f7a47a72c647cccaa9814771595f28d10ef9cf386b497.jpg> コンクリ遺体 殺人容疑で男再逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6533000>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/9842b67aba240012bc44368c324feb560692e2f450260a16cd5dc20b97c8de79.jpg> 首相 水脈氏の発言に強烈な違和感
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/99c7964a7fe8a053ba3c2d2f427406c0ed289e839d98dd427c497911a5915e00.jpg> 斎藤知事 議会閉会後に見解を説明
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532995>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 英ヒースロー空港閉鎖 大規模停電
+      <a href=https://news.yahoo.co.jp/pickup/6533004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/4200a2475f38aa6f72fdcc475c9c927270a7a0459a0dc96909ec9f0a6d71aecf.jpg> カンテレ調査 会食で「不快」複数
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532990>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/192b768a640ae1fffdd4b2f298fc83f8cec6d785dd28e1d82a340f2c4f2a8496.jpg> ミュゼプラチナム 全店を一時休業
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/54bf4c1b66f8531c5c0fe44425c76a124c42a3e6155314ad9cf22d775fad7fb9.jpg> 速報選抜 千葉黎明vs.智弁和歌山
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 15:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 16:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
