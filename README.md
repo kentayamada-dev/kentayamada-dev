@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/39ce40859b8c7702afeead876f522e48.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae835ec19aa85df59748e4f308e46d0e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/683f0ed53c06398b2803bcb77578fa88d4af7b30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「4月下旬まで」の停戦案検討か　ハマス、米提示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8c16715054bddeee2e4c5c1b0a92545583236372>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000011-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 英ヒースロー空港閉鎖で消防当局「事件性なし」配電設備の不具合か　混乱は続く見込み
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000011-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 英ヒースロー空港閉鎖で消防当局「事件性なし」配電設備の不具合か　混乱は続く見込み
       </a>
     </td>
   </tr>
@@ -394,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533047>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/4f7d81d1099937396571d8f6e76e4ca26ae05b71c6af910e662cf7e4171a45e4.jpg> 騒音トラブルか 殺人未遂疑い逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533053>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/38332f68e88f3359b05be138e40458b75895de147fa70c44a0c43bb8f2389b16.jpg> 4階から4歳男児が転落か 意識不明
       </a>
@@ -418,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/6f66fa391a5a78395ea8e9aae908e32c5dc1701018b5089d63bb0df445d21801.jpg> 「床の間」があるコンビニ 狙いは
+      <a href=https://news.yahoo.co.jp/pickup/6533038>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/f901221d0b80798a2ad66306558def1c1833bdaf1339f1f3b15125568ba58a01.jpg> 地図にない「謎の城」市も知らず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533038>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/f901221d0b80798a2ad66306558def1c1833bdaf1339f1f3b15125568ba58a01.jpg> 地図にない「謎の城」市も知らず
+      <a href=https://news.yahoo.co.jp/pickup/6533055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/14593a6bb31305dcd2420b862e92d597f5d5cc14aa61928fca8fd3de786742a7.jpg> MLB 2028年にも日本開催の可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533054>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/ad4bb0828ea8e67d3c100b136ae692c6b44ad54949b0d768618ec05474ee9576.jpg> 小笠原慎之介、マイナー降格
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 07:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 07:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
