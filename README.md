@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1528f6acd342f53bc8e6df4ca007dae2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/22d1cdc1f184475df5d1b66bba1c8726.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,14 +365,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fefb3383860f34c1d9707c55dacc737a2fcca66e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00170427-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=511&ch=511&exp=10800&fmt=webp> 「得失点えぐい」「２位争いはまだ混沌」日本のW杯出場が決定、グループC順位表に脚光「次のサウジは全力で勝点取りに来るよなー」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ac43ebc1abb4aefb101b31f1e9890de908cd9245>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00946468-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “安倍政権で商品券”証言に野党幹部「自民の体質の問題」国民・玉木氏「首相は歴代の対応含め政倫審で説明を」
       </a>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/92cdec8cb76ae7b94b3a2d768fdd255aaf7a84c5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000143-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル国防相、支配地域の拡大指示　人質解放まで作戦継続
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cb029bdba0f44269c453e3f6372d13edb06950cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00107258-soccerh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=668&ch=668&exp=10800&fmt=webp> 【最終予選・全試合スタメンの南野拓実が鎌田・久保につないだ勝利の布石（1）】南野が模索していた三笘を生かす役割とは……前半から意図した動きを見せ、鎌田大地の得点の布石にも
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 23:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 23:51:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
