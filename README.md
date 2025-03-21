@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/52844381f0f6838cd8cafd800f293859.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/059789bc82e6cdf3532aadb2baf97895.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/045f582589ed30359d34cf6ee034a83f8c7064df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=884&ch=884&exp=10800&fmt=webp> 4階の自宅トイレから転落か、4歳男児が意識不明の重体　愛知
+      <a href=https://news.yahoo.co.jp/articles/73988a673366e772390b2e2851e5b545ed7caabe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-21805248-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 4歳男児が4階の窓から転落か　複数箇所の骨折で搬送後に意識不明の重体に　愛知・豊橋市
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 02:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 03:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
