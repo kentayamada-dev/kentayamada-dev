@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f429db899f5c6a9587fff9c0c4dd726.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/81d0489b561fa818e1625477b51d5b24.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ef7c404328f57f6c9d371e5b8941efae1e1ff41f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000125-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=939&ch=939&exp=10800&fmt=webp> オンカジ利用自粛から復帰、オリックス・山岡の一問一答「野球ができないもどかしさ、申し訳なさあった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/acdc137bb9196d9d9f55e6441d3cc1cca615ebf9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00585557-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 遠藤航が「完全にオカン」　歓喜の輪に近づき…“ユニ脱ぎ”久保の頭叩き「ちゃんと叱られてる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00585557-soccermzw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 遠藤航が「完全にオカン」　歓喜の輪に近づき…“ユニ脱ぎ”久保の頭叩き「ちゃんと叱られてる」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a6ec1960b191de5fdd088aa3477892d48d3ac5dc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、イスラエルのガザ攻撃を「全面支持」 ホワイトハウス
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09f48f79300ee0abf1fb395d72764b470fef7350>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000176-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 女性警察官の制服、令和6年度でスカートを廃止　夏服はポロシャツを新採用　暑さ対策で通気性アップ
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532951>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/5/e15afc3c02eefbabc4cfccf32bb25b87cad6ad9d82d5ef9b9449d2eccb787790.jpg> インドネシア噴火 津波の有無調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532962>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/1b8e3ee8dddcdfa630469131a6eda32c6d80960476a14638f7965ff2325723cd.jpg> IOC新会長にアフリカ出身の女性
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/f38c672cdcad4ae24727e9842c0be10a8647982fbd9bdc276a5f7d5983575cd1.jpg> パトカーが追う車がひき逃げ 重傷
+      <a href=https://news.yahoo.co.jp/pickup/6532970>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/348b1ee84765f581fc90794361fa36d5320270bfacb613caf734b59b7ede3827.jpg> 警察官の制服変更 スカート廃止
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532966>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/1934197d8661130f2c1956d41160e754ba8cb439096171f159838016ebb566cf.jpg> ミュゼプラチナム 営業一時休止へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/1502e287dd4e7da7890fadb863a26f70e73b02d05d58e5af8050719dac79ab29.jpg> MLB開幕S 驚異の視聴率約30%
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/1d8c4d06bea436bdcac98f298a8512f7fe7d5f3367e809769c78f8f89ce3b60e.jpg> MLB開幕S 驚異の視聴率約30%
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 09:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 10:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
