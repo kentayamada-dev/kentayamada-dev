@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/44883d04f3b6af51b0ce64c3b5465c9d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/263c323dba604c9b175d03d5f6e58b26.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1439ce3e4c27020b36ffa7b20e398decdfd4a1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】泉房穂さんがことし夏の参議院選挙に兵庫選挙区から無所属で出馬へ　前明石市長・元衆議院議員
+      <a href=https://news.yahoo.co.jp/articles/fefb3383860f34c1d9707c55dacc737a2fcca66e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00170427-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=511&ch=511&exp=10800&fmt=webp> 「得失点えぐい」「２位争いはまだ混沌」日本のW杯出場が決定、グループC順位表に脚光「次のサウジは全力で勝点取りに来るよなー」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb029bdba0f44269c453e3f6372d13edb06950cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00107258-soccerh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=668&ch=668&exp=10800&fmt=webp> 【最終予選・全試合スタメンの南野拓実が鎌田・久保につないだ勝利の布石（1）】南野が模索していた三笘を生かす役割とは……前半から意図した動きを見せ、鎌田大地の得点の布石にも
+      <a href=https://news.yahoo.co.jp/articles/7832f35b9cecc167e32509c98528a742503eee14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000056-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=633&ch=633&exp=10800&fmt=webp> 「ローキックした」叔父、殺意は否定　大阪コンクリ遺体で再逮捕
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/9270a2a081d52883b4f3a0b9e07e8f006683d005b971392274b3967b779757b7.jpg> プーチン大統領の側近 北朝鮮入り
+      <a href=https://news.yahoo.co.jp/pickup/6533045>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/fa9fefb6906b75a7704f103815f91a86820618b5cfb62ade08b39dab3763e54e.jpg> 私費で商品券 首相「証明難しい」
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/d45a79b730214d9685defca0ad6f21327e8afed1d5434ebad073f043f9374891.jpg> 走行中の軽トラ荷台から転落 重体
+      <a href=https://news.yahoo.co.jp/pickup/6533047>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/4f7d81d1099937396571d8f6e76e4ca26ae05b71c6af910e662cf7e4171a45e4.jpg> 騒音トラブルか 殺人未遂疑い逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533019>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/a01a43b5087f2db3d7bb28355e8da39008ee7ad47fb026d80bdfcfb71d0efe9f.jpg> 電話で丸聞こえ 市職員が市民中傷
+      <a href=https://news.yahoo.co.jp/pickup/6533007>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/9a5fe17503b6f1f2f7fbc6245a61201d4c3a4114d64f5a9cb80d53fd52a28f34.jpg> 千葉県沖でイセエビ大漁 密漁者も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 22:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 22:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
