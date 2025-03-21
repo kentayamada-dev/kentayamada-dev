@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/26e4658d309f4c64afd1367162b2b5e0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a811eb743f69ad887e831a53c1e99940.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fa8c2123228f611fd339dfc64f24bcb4cd725cc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00050077-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=375&ch=375&exp=10800&fmt=webp> オリオールズ菅野智之がオープン戦初失点…６安打５失点「打たれるべくして打たれた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/63a10e5d52e656746212c4fb726346d7aea427f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00585576-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 英記者が指摘「期待外れ」　鮮烈弾の久保建英を絶賛「最高」…バーレーン戦先発11人を採点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9edda0325509216bfaa728d685e68a0def560f9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000002-nagasaki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=728&ch=728&exp=10800&fmt=webp> 壱岐の野球、聖地で体現！２点先行も初戦敗退　第９７回選抜高校野球大会第３日
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e802d9665453ad445cab97abc5b32c16f838f697>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-10169564-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=769&cy=0&cw=971&ch=971&exp=10800&fmt=webp> イスラエル軍、地上部隊がハマスの拠点を攻撃
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acdc137bb9196d9d9f55e6441d3cc1cca615ebf9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00585557-soccermzw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 遠藤航が「完全にオカン」　歓喜の輪に近づき…“ユニ脱ぎ”久保の頭叩き「ちゃんと叱られてる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/afbb9cd84f6eb2f65c1fac564c2fac53adabc1a7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00945978-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【地下鉄サリン事件から30年】猛毒のサリンで14人死亡・6300人以上負傷　霞ケ関駅で慰霊式　高橋シズヱさん「長い30年だった…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52be6b243ac3086e154d3973496db3e8d179332a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000016-ann-000-5-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー氏　トランプ氏との会談で“原発所有権”の議論「していない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffe7cd04342359857859387a9c0090597743062a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-04525368-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=394&ch=394&exp=10800&fmt=webp> テレビアニメ「ちいかわ」4⽉から約3ヶ⽉通常放送休止・人気話リバイバル放送へ 占いは放送時間変更・新たな仲間登場で全15パターン
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/1b8e3ee8dddcdfa630469131a6eda32c6d80960476a14638f7965ff2325723cd.jpg> IOC新会長にアフリカ出身の女性
+      <a href=https://news.yahoo.co.jp/pickup/6532975>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/acc3e4c0b1c4702c1549f510093da1f39939b1d45f7758bb10fbba800a2ff408.jpg> 斎藤知事 現時点で辞職否定
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/d78a7ff872c17f09604cca8b65069073cda40b7680a0ca6eef44a862222ab25d.jpg> オリ山岡が謝罪 ネットカジノ利用
+      <a href=https://news.yahoo.co.jp/pickup/6532977>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/0226eccea0b819ac6b45f3994435974f90a0e085ae3227793ee8116fc66603e5.jpg> 小笠原が大乱調 4回途中8失点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/d255af6de3175e8988ad6c7265139b25082fda94f22c5b2bd77ddd2b186b6642.jpg> ユニを投げた久保 たしなめた遠藤
+      <a href=https://news.yahoo.co.jp/pickup/6532961>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/506128bfc133efbd10e2fee7e2db689bc19696ff0abff7da1b136fac6efa7167.jpg> 甲子園に「ダブル主将」の波 背景
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 11:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 11:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
