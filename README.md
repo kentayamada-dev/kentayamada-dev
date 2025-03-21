@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b51f420ffc9c8fb27b86d3af04a6c905.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b90f10d6dff553bc139af41b6c740cbc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ff92f4653d5e424a7fef4b9c9998386c06083017>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00946177-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 安倍首相時代にも“商品券”配布か…自民・大岡氏「いただいたっていうのは私の記憶にある」　野党追及に首相「知る立場にない」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2ddf8848bde423799919659b39450e51b16116ab>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62301cdaeff2c8091aad7e5a9075a57fd8798803>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000037-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 斎藤知事「議会閉会後に見解を説明」　第三者委の「違法」指摘受け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da84034b2d8cf1ead29b43cdb504b23b2f8e04fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-16502574-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=717&ch=717&exp=10800&fmt=webp> ハマス、テルアヴィヴにロケット弾発射　イスラエルはガザ地上作戦を再開
+      <a href=https://news.yahoo.co.jp/articles/e0b29f933269515927bf3f47f342048aee4d88c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-33210704-nksports-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=937&ch=937&exp=10800&fmt=webp> 【契約更改アンケート】楽天３年連続で満足度最下位、戦術反映度も最下位　満足度１位はロッテ
       </a>
     </td>
   </tr>
@@ -434,8 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532989>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/fccceeeb19cc406f490305febf839188e79df11c2d5f80aa5c57dfe66a6e131b.jpg> ミキサー車にはねられ高校生重体
+      <a href=https://news.yahoo.co.jp/pickup/6533006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/0ccb5a602a28cdc1a018be8759f8d48177b6e8fdc0b1b3a2b9dbd5baa3822b09.jpg> 前捜査2課長 交際女性に事件情報
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/06f9ca538849f77702b406822390c4824668e9bbdf5fcf10244fbc62ddf998ad.jpg> 白血病で失明 絶望の淵から救われ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532999>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/12b8806dcdacf990359b1172fd42b15f075c5cf228ca0e2e3e820c62aa8271da.jpg> 旧NewJeansの独自活動禁止 韓国
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532990>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/192b768a640ae1fffdd4b2f298fc83f8cec6d785dd28e1d82a340f2c4f2a8496.jpg> ミュゼプラチナム 全店を一時休業
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532998>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/150eedbd12b05e2eb56fe35804ef8f867831e243dce8f0737306e371b95d6abb.jpg> SHELLY「ヒルナンデス」卒業へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 16:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 16:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
