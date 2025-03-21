@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/38e0b41dbbd6cc8433fd5a57f4e01a75.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/44883d04f3b6af51b0ce64c3b5465c9d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92cdec8cb76ae7b94b3a2d768fdd255aaf7a84c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000143-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル国防相、支配地域の拡大指示　人質解放まで作戦継続
+      <a href=https://news.yahoo.co.jp/articles/ac43ebc1abb4aefb101b31f1e9890de908cd9245>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00946468-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “安倍政権で商品券”証言に野党幹部「自民の体質の問題」国民・玉木氏「首相は歴代の対応含め政倫審で説明を」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f527a077af5ce52b7d08d09a6fd33d59b438d41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00946272-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=571&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【10万円商品券問題】自民議員が証言「約12年前にいただいた」安倍政権時も配布か…石破首相「あくまで私の判断」も野党「官房機密費では」猛追及
+      <a href=https://news.yahoo.co.jp/articles/92cdec8cb76ae7b94b3a2d768fdd255aaf7a84c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000143-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル国防相、支配地域の拡大指示　人質解放まで作戦継続
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462708_1610462695_aflo_109260004.jpg> オンラインカジノ対策を閣議決定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533043>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/71be6a394f0495194038e9349a24c9cfbfbc45190f6eed45211e4126d7f70d0b.jpg> 泉房穂氏 参院選に無所属で出馬へ
       </a>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533027>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/24c53696ebce0e1a8c0743ea8367bf9d40912aa1f1d094ed9b67a30cf1a88243.jpg> 通販「夢グループ」に課徴金命令
+      <a href=https://news.yahoo.co.jp/pickup/6533019>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/a01a43b5087f2db3d7bb28355e8da39008ee7ad47fb026d80bdfcfb71d0efe9f.jpg> 電話で丸聞こえ 市職員が市民中傷
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533038>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/f901221d0b80798a2ad66306558def1c1833bdaf1339f1f3b15125568ba58a01.jpg> 地図にない「謎の城」市も知らず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/408be5b8773054aacd1420bd217f4824cb56a24924fd96ddc29c6619610b1099.jpg> 趣味で市民プール 会社員が世界へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 21:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 22:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
