@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/263c323dba604c9b175d03d5f6e58b26.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/edbb1a592d4ec64994cf72acb9d0e83c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/afdc7eeab611963ec8ea5fb68756ea04afa45e1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000400-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松丸亮吾、実は3年前から「東大生」の肩書き外していた「経歴に依存する仕事をしても未来はない」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fefb3383860f34c1d9707c55dacc737a2fcca66e>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/92cdec8cb76ae7b94b3a2d768fdd255aaf7a84c5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000143-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル国防相、支配地域の拡大指示　人質解放まで作戦継続
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e37e18659453ec79c1b1a745dfe98f86c7c4c79f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-90021020-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=676&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> バス事故社長会見　60代男性が両足骨折
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/71be6a394f0495194038e9349a24c9cfbfbc45190f6eed45211e4126d7f70d0b.jpg> 泉房穂氏 参院選に無所属で出馬へ
+      <a href=https://news.yahoo.co.jp/pickup/6533051>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/2267f159cd4d6bf0aa6dc4c654c6111109f0c5f5be2d21ba0631fdefde150e8c.jpg> イスラエル国防相 支配地域拡大を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533034>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/50c7a3c81883ff25f70c6443a02d99ef332352584391fab9fedf37d17c2af9e1.jpg> 切断遺体 袋から10の肉片見つかる
+      <a href=https://news.yahoo.co.jp/pickup/6533049>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/f806afae819ffabcfcb892675b9a0a554de2b43ca865193a375317dbf141e095.jpg> 6歳殺害 市は生存中に住民票削除
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533007>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/9a5fe17503b6f1f2f7fbc6245a61201d4c3a4114d64f5a9cb80d53fd52a28f34.jpg> 千葉県沖でイセエビ大漁 密漁者も
+      <a href=https://news.yahoo.co.jp/pickup/6533050>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/e69d37cb04a3bb3d7ffe36767254c5b8723c53fd00f7eae7771fc0c65d89e4e0.jpg> 楽天証券で「詐欺」被害が相次ぐ
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533037>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/9555f9288613965ba4b3e8a4815fd11834650dca3b3eae98a49f0a79250d2f9d.jpg> 異例 吉永小百合が自ら年齢に言及
+      <a href=https://news.yahoo.co.jp/pickup/6533048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/5ca736ea44bc548f1911641df9198e07ddd8c73ea6540329bc7fc32f80793898.jpg> ネットカジノ プロ野球は罰金へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 22:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 23:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
