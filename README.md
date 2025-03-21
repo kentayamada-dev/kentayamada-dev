@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fbb197500cb716b613fd763dd79afd40.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/26e4658d309f4c64afd1367162b2b5e0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acdc137bb9196d9d9f55e6441d3cc1cca615ebf9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00585557-soccermzw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 遠藤航が「完全にオカン」　歓喜の輪に近づき…“ユニ脱ぎ”久保の頭叩き「ちゃんと叱られてる」
+      <a href=https://news.yahoo.co.jp/articles/e802d9665453ad445cab97abc5b32c16f838f697>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-10169564-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=769&cy=0&cw=971&ch=971&exp=10800&fmt=webp> イスラエル軍、地上部隊がハマスの拠点を攻撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6ec1960b191de5fdd088aa3477892d48d3ac5dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、イスラエルのガザ攻撃を「全面支持」 ホワイトハウス
+      <a href=https://news.yahoo.co.jp/articles/acdc137bb9196d9d9f55e6441d3cc1cca615ebf9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00585557-soccermzw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 遠藤航が「完全にオカン」　歓喜の輪に近づき…“ユニ脱ぎ”久保の頭叩き「ちゃんと叱られてる」
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9844296aa6c44f4ea6d775abb5771b9d834e3873>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00010001-agrinews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=569&ch=569&exp=10800&fmt=webp> 能登豪雨から半年　米生産再開、今年こそ　水田のゴミ・泥撤去に汗
+      <a href=https://news.yahoo.co.jp/articles/52be6b243ac3086e154d3973496db3e8d179332a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000016-ann-000-5-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー氏　トランプ氏との会談で“原発所有権”の議論「していない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52be6b243ac3086e154d3973496db3e8d179332a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000016-ann-000-5-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー氏　トランプ氏との会談で“原発所有権”の議論「していない」
+      <a href=https://news.yahoo.co.jp/articles/ffe7cd04342359857859387a9c0090597743062a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-04525368-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=394&ch=394&exp=10800&fmt=webp> テレビアニメ「ちいかわ」4⽉から約3ヶ⽉通常放送休止・人気話リバイバル放送へ 占いは放送時間変更・新たな仲間登場で全15パターン
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532957>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/d3de204022a8ac09870073e16efa5aae3fbb486179a34014b642a94938cbe7b9.jpg> ウ大統領 原発所有議論していない
+      <a href=https://news.yahoo.co.jp/pickup/6532974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/bbc8f84867aaf42bc9b21c68d89d5e04a9cd466c3adf15a2819fed976d14c7ad.jpg> 大規模噴火 日本に津波の影響なし
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/1d8c4d06bea436bdcac98f298a8512f7fe7d5f3367e809769c78f8f89ce3b60e.jpg> MLB開幕S 驚異の視聴率約30%
+      <a href=https://news.yahoo.co.jp/pickup/6532964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/d255af6de3175e8988ad6c7265139b25082fda94f22c5b2bd77ddd2b186b6642.jpg> ユニを投げた久保 たしなめた遠藤
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/d255af6de3175e8988ad6c7265139b25082fda94f22c5b2bd77ddd2b186b6642.jpg> ユニを投げた久保 たしなめた遠藤
+      <a href=https://news.yahoo.co.jp/pickup/6532973>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/62cc42dbf44ba1435487c1ff58d875d556224c0ad6974809bb7de2c6b4a577dd.jpg> ちいかわ 4月から通常放送休止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 10:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 11:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
