@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7efd4d4632ee3b89d3ac1c5586278802.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a73c4a2cf2d611687a6fff011fdbcfec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aabbf4cd11cee5f153ed4c1924b81c3c927309e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-07225854-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=593&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ぐじゃっと壊れるような音」 軽乗用車2台が正面衝突する事故　親子とみられる2人重体　岡山・吉備中央町
+      <a href=https://news.yahoo.co.jp/articles/10c61979c44987d7823484ae81186102fe5a5c1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-16055837-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ロシアは「不必要な要求をやめるべき」　ゼレンスキー氏がEUサミットで主張
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ca954869d52e99cf09791ea8fa56852ee0b0e97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-10169610-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=598&ch=598&exp=10800&fmt=webp> ソフトバンクグループ 米半導体関連企業を約1兆円で買収へ
+      <a href=https://news.yahoo.co.jp/articles/e9c6a0a25492d01d8bdc2d65371cb6ed7214aba9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-35230787-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 英ヒースロー空港で「大規模停電」、２１日終日閉鎖
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85c8ce823662de693f6eb33c2ea36fc29402468a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000050-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー氏　原発の米所有「議論せず」　トランプ氏と食い違い
+      <a href=https://news.yahoo.co.jp/articles/da84034b2d8cf1ead29b43cdb504b23b2f8e04fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-16502574-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=717&ch=717&exp=10800&fmt=webp> ハマス、テルアヴィヴにロケット弾発射　イスラエルはガザ地上作戦を再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da84034b2d8cf1ead29b43cdb504b23b2f8e04fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-16502574-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=717&ch=717&exp=10800&fmt=webp> ハマス、テルアヴィヴにロケット弾発射　イスラエルはガザ地上作戦を再開
+      <a href=https://news.yahoo.co.jp/articles/e8097e35fe3e3a020a2d57e47dbe75bb588b33f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050086-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 【証言　インタビュー全文】霞ヶ関駅助役だった夫、高橋シズヱさん「触れた時の冷たさ忘れられない」…裁判傍聴４５９回「被告を直接見る意義大きい」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532994>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/421a162a5b9f4f55ec4ef89abddcefeee790e952cdf973629ebff06e9f7a7e2f.jpg> 冤罪巡る国賠訴訟 国の責任認めず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532971>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/6df0bab5b79637d260d95dac48faf1dd20b94690e58b64c8e66f217622f4aaf7.jpg> 能登豪雨半年 今も泥出し作業続く
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/2338345cda1d347a953b273c8f7b4c81d59eecd1458eaf890b141c037e4ada20.jpg> テスラ株買え 米閣僚が異例の推薦
+      <a href=https://news.yahoo.co.jp/pickup/6532978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/5cea575651e26fa6af02802f38b5c28db5edc5f934557f96d53b421f3fb230d1.jpg> 家計の金融資産 過去最大2230兆円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/5cea575651e26fa6af02802f38b5c28db5edc5f934557f96d53b421f3fb230d1.jpg> 家計の金融資産 過去最大2230兆円
+      <a href=https://news.yahoo.co.jp/pickup/6532993>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/bb49bbe2ddf9a4ba131f7a47a72c647cccaa9814771595f28d10ef9cf386b497.jpg> コンクリ遺体 殺人容疑で男再逮捕
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532980>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/0226eccea0b819ac6b45f3994435974f90a0e085ae3227793ee8116fc66603e5.jpg> 小笠原またもKO 4回途中8失点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532986>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/318d5f9d04efb52afa0a1b754b50ad82f43c905db8935bd6c93e7bc4fc450a7c.jpg> 体重220キロの力士 減量宣言
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 14:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 14:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
