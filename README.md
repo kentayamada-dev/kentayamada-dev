@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/615eaf21fe36ff549efa9ccaa5d8a508.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/18a51cb8d03690d131237c70de7b61e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c8dd787c7649ee109c4fdaf5d27e2bb70a8f685>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00946029-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「すべての原発はウクライナ国家のもの」アメリカと原子力発電所の所有権を協議していないとゼレンスキー大統領否定　停戦協議巡っては24日に協議へ
+      <a href=https://news.yahoo.co.jp/articles/85c8ce823662de693f6eb33c2ea36fc29402468a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000050-ann-000-1-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー氏　原発の米所有「議論せず」　トランプ氏と食い違い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2870623ac3c12355aa6662c65e40409daaf1630>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00010000-edua-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【このニュースって何？】地下鉄サリン事件から30年 → 地下鉄サリン事件って何？
+      <a href=https://news.yahoo.co.jp/articles/967b597b5fd745d75b3eb2eb0b2d53f26a250a74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00005718-oabv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【大分】サッカー日本代表W杯出場決定！県内からも声援
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b25193451e4ff4c1a57d43f1c6284d616d324302>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-07225808-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> ハマスがイスラエルにロケット弾発射　双方が攻撃を再開し事実上「停戦崩壊」
+      <a href=https://news.yahoo.co.jp/articles/da84034b2d8cf1ead29b43cdb504b23b2f8e04fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-16502574-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=717&ch=717&exp=10800&fmt=webp> ハマス、テルアヴィヴにロケット弾発射　イスラエルはガザ地上作戦を再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95e6998246ac75884a216d0f74fb01618419d998>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00170392-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=458&ch=458&exp=10800&fmt=webp> 「凄まじい選手だ」日本で取材していたバーレーン人記者が脱帽した日本代表戦士は？ ０－２敗戦に落胆「我々は苦い経験をした」
+      <a href=https://news.yahoo.co.jp/articles/e8097e35fe3e3a020a2d57e47dbe75bb588b33f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050086-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 【証言　インタビュー全文】霞ヶ関駅助役だった夫、高橋シズヱさん「触れた時の冷たさ忘れられない」…裁判傍聴４５９回「被告を直接見る意義大きい」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/2338345cda1d347a953b273c8f7b4c81d59eecd1458eaf890b141c037e4ada20.jpg> テスラ株買え 米閣僚が異例の推薦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532976>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/5f96bf66c23dcc448d2f28f9039351d49520f16acb3d80d544353c8dc315865f.jpg> 政府 就活「オワハラ」防止を要請
       </a>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532982>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/c315003ec7587a2e7b12e7b501736c1b228a803d535420a3d9ed15169e420c7c.jpg> 車が正面衝突 子ども含む2人重体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/2338345cda1d347a953b273c8f7b4c81d59eecd1458eaf890b141c037e4ada20.jpg> テスラ株買え 米閣僚が異例の推薦
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 12:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 12:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
