@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e4201d3ffa4c542e2bda62bb3eaca019.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/053dc28306552e20ca86a447da5fe7db.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,30 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/045f582589ed30359d34cf6ee034a83f8c7064df>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=884&ch=884&exp=10800&fmt=webp> 4階の自宅トイレから転落か、4歳男児が意識不明の重体　愛知
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f46420fb17ab7fd74befd6619fc874216b7e5c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000005-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=1423&ch=1423&exp=10800&fmt=webp> ハマス、米の「ガザ停戦つなぎ案」を検討　エジプトも独自案提示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eec1b4a2b48587cab59d0d401c0553b884ebae6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00050147-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 石破首相、政倫審で弁明の意向…商品券問題で開催議決なら
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/afdc7eeab611963ec8ea5fb68756ea04afa45e1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000400-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松丸亮吾、実は3年前から「東大生」の肩書き外していた「経歴に依存する仕事をしても未来はない」
       </a>
     </td>
   </tr>
@@ -460,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 01:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 02:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
