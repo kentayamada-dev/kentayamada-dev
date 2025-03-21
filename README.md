@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/65baf4fac89afdfc0e05fd003c462c9c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e5abc0a8aa1dfa6a570202092425edaa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39547054cb8cb186669e8127a2a24a8fcffa3826>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00692106-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「羨望を抱く…」最速でのW杯進出を決めたサッカー日本代表、韓国メディアも思わず嫉妬？「格差広がる」【W杯アジア最終予選】
+      <a href=https://news.yahoo.co.jp/articles/15e24316d70769e2aa8da7f97ab44371bf497a3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00946280-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【慣習か】自民議員が証言「約12年前に頂いた」安倍政権時も配布か　「官房機密費ではないか」野党猛追及　“10万円商品券”問題さらに拡大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2811501f5c78c034a03c3a428133fb34588e548>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00010014-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【センバツ】天理・下坊投手「夏は甲子園で勝つ姿を見てもらいたい」　東洋大姫路は今大会近畿勢で初勝利！エース・阪下投手が降板も木下投手が力投
+      <a href=https://news.yahoo.co.jp/articles/39547054cb8cb186669e8127a2a24a8fcffa3826>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00692106-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「羨望を抱く…」最速でのW杯進出を決めたサッカー日本代表、韓国メディアも思わず嫉妬？「格差広がる」【W杯アジア最終予選】
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/9842b67aba240012bc44368c324feb560692e2f450260a16cd5dc20b97c8de79.jpg> 首相 水脈氏の発言に強烈な違和感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532996>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/a9c7f34df0421b68475917ab465a5265fd5dbdf9e57dcdb0631b2154c586e656.jpg> 関東に「春一番」吹かず 10年ぶり
       </a>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533024>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/4c1f2ae24c299887a1498b6ada0c56e86ef025cc413e56571c773527ece06eae.jpg> 車が正面衝突で20代死亡 1人重体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533027>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 通販「夢グループ」に課徴金命令
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 18:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 19:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
