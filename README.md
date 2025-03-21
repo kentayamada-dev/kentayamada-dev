@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d17e5d8af5e39cb5ef4cad3eec0675f0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/65baf4fac89afdfc0e05fd003c462c9c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b73741dd2e3ee1915ff44e7792770ae7b1082286>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-10169684-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=558&ch=558&exp=10800&fmt=webp> 国道で軽自動車が正面衝突 27歳女性死亡、未就学男児重体 岡山・吉備中央町
+      <a href=https://news.yahoo.co.jp/articles/9ec9a0db99093e04ad43c276a61ff881239406a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000060-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ロシア前国防相が北朝鮮に　金正恩氏と会談予定、訪ロ調整の可能性
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532996>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/a9c7f34df0421b68475917ab465a5265fd5dbdf9e57dcdb0631b2154c586e656.jpg> 関東に「春一番」吹かず 10年ぶり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533022>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/4b1898a241fa7d3ff6de6c7c8329787b3022d6c0286ed99382bcf5249baf4e3a.jpg> 植え込みに切断された遺体 大阪市
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/0ccb5a602a28cdc1a018be8759f8d48177b6e8fdc0b1b3a2b9dbd5baa3822b09.jpg> 前捜査2課長 交際女性に事件情報
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533019>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/a01a43b5087f2db3d7bb28355e8da39008ee7ad47fb026d80bdfcfb71d0efe9f.jpg> 電話で丸聞こえ 市職員が市民中傷
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533014>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/06f9ca538849f77702b406822390c4824668e9bbdf5fcf10244fbc62ddf998ad.jpg> 結婚後に白血病再発 失明した女性
+      <a href=https://news.yahoo.co.jp/pickup/6533025>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/0d9f6e160185c6284a97effa479e69a11efc849d576345dbe2a1bc197fc31b75.jpg> 子ども育てたくない若者52% 調査
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 18:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 18:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
