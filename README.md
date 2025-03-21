@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a811eb743f69ad887e831a53c1e99940.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/615eaf21fe36ff549efa9ccaa5d8a508.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa8c2123228f611fd339dfc64f24bcb4cd725cc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00050077-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=375&ch=375&exp=10800&fmt=webp> オリオールズ菅野智之がオープン戦初失点…６安打５失点「打たれるべくして打たれた」
+      <a href=https://news.yahoo.co.jp/articles/0c8dd787c7649ee109c4fdaf5d27e2bb70a8f685>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00946029-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「すべての原発はウクライナ国家のもの」アメリカと原子力発電所の所有権を協議していないとゼレンスキー大統領否定　停戦協議巡っては24日に協議へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63a10e5d52e656746212c4fb726346d7aea427f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00585576-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 英記者が指摘「期待外れ」　鮮烈弾の久保建英を絶賛「最高」…バーレーン戦先発11人を採点
+      <a href=https://news.yahoo.co.jp/articles/c2870623ac3c12355aa6662c65e40409daaf1630>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00010000-edua-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【このニュースって何？】地下鉄サリン事件から30年 → 地下鉄サリン事件って何？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9edda0325509216bfaa728d685e68a0def560f9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000002-nagasaki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=728&ch=728&exp=10800&fmt=webp> 壱岐の野球、聖地で体現！２点先行も初戦敗退　第９７回選抜高校野球大会第３日
+      <a href=https://news.yahoo.co.jp/articles/b25193451e4ff4c1a57d43f1c6284d616d324302>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-07225808-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> ハマスがイスラエルにロケット弾発射　双方が攻撃を再開し事実上「停戦崩壊」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e802d9665453ad445cab97abc5b32c16f838f697>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-10169564-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=769&cy=0&cw=971&ch=971&exp=10800&fmt=webp> イスラエル軍、地上部隊がハマスの拠点を攻撃
+      <a href=https://news.yahoo.co.jp/articles/95e6998246ac75884a216d0f74fb01618419d998>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00170392-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=458&ch=458&exp=10800&fmt=webp> 「凄まじい選手だ」日本で取材していたバーレーン人記者が脱帽した日本代表戦士は？ ０－２敗戦に落胆「我々は苦い経験をした」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/afbb9cd84f6eb2f65c1fac564c2fac53adabc1a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00945978-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【地下鉄サリン事件から30年】猛毒のサリンで14人死亡・6300人以上負傷　霞ケ関駅で慰霊式　高橋シズヱさん「長い30年だった…」
+      <a href=https://news.yahoo.co.jp/articles/c11d6345cc085acbfff5b79b318191d98cd2cc65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000050-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=485&ch=485&exp=10800&fmt=webp> 家計の金融資産、12月末は2230兆円で過去最高　株価回復＝日銀資金循環統計
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/bbc8f84867aaf42bc9b21c68d89d5e04a9cd466c3adf15a2819fed976d14c7ad.jpg> 大規模噴火 日本に津波の影響なし
+      <a href=https://news.yahoo.co.jp/pickup/6532968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/3fef5c3278d2c76b6767d3db9062a07a96c6f78bfff5d8a2b190d1dd2743a179.jpg> トランプ氏 教育省廃止へ大統領令
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/3fef5c3278d2c76b6767d3db9062a07a96c6f78bfff5d8a2b190d1dd2743a179.jpg> トランプ氏 教育省廃止へ大統領令
+      <a href=https://news.yahoo.co.jp/pickup/6532976>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/5f96bf66c23dcc448d2f28f9039351d49520f16acb3d80d544353c8dc315865f.jpg> 政府 就活「オワハラ」防止を要請
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/348b1ee84765f581fc90794361fa36d5320270bfacb613caf734b59b7ede3827.jpg> 警察官の制服変更 スカート廃止
+      <a href=https://news.yahoo.co.jp/pickup/6532982>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/c315003ec7587a2e7b12e7b501736c1b228a803d535420a3d9ed15169e420c7c.jpg> 車が正面衝突 子ども含む2人重体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/2338345cda1d347a953b273c8f7b4c81d59eecd1458eaf890b141c037e4ada20.jpg> テスラ株買え 米閣僚が異例の推薦
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532977>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/0226eccea0b819ac6b45f3994435974f90a0e085ae3227793ee8116fc66603e5.jpg> 小笠原が大乱調 4回途中8失点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/506128bfc133efbd10e2fee7e2db689bc19696ff0abff7da1b136fac6efa7167.jpg> 甲子園に「ダブル主将」の波 背景
+      <a href=https://news.yahoo.co.jp/pickup/6532980>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/0226eccea0b819ac6b45f3994435974f90a0e085ae3227793ee8116fc66603e5.jpg> 小笠原またもKO 4回途中8失点
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 11:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 12:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
