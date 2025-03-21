@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/F46GiK0grGg?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b6f5aee27c1af4271e1295b684128967.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9e5cef3a47046b0d24bc513e1a43ed3b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d441306b8cf10a468e10d8327430e73efde509d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000018-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ロンドンのヒースロー空港、変電所での大規模火災で閉鎖
+      <a href=https://news.yahoo.co.jp/articles/82345749480d6e4140758ebbdbd20c123b87d276>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ａｎｄ」がそれほど重要？　ウクライナ前停戦会談控えてすでに互いに食い違う言葉
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10c61979c44987d7823484ae81186102fe5a5c1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-16055837-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ロシアは「不必要な要求をやめるべき」　ゼレンスキー氏がEUサミットで主張
+      <a href=https://news.yahoo.co.jp/articles/38dd84a848f3bed7c4d9799cb9d58a80b7d7c9af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00010001-tvtokyos-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 最速W杯出場決定の裏側 森保監督と主将・遠藤航が語る「これからの日本代表」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/665192b6a788d8743b6724ccfc6884e1b0d55e8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00010014-footballc-000-1-view.jpg?pri=l&w=153&h=153&order=c2r&cx=43&cy=0&cw=153&ch=153&exp=10800&fmt=webp> まるでアトレティコのよう？ なぜ日本代表の攻撃は停滞したのか。超攻撃的3バックの今後の行方は【西部の目】
+      <a href=https://news.yahoo.co.jp/articles/94065813b6fbcee28d53fa4092b152b83edafbfe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-10169629-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=545&ch=545&exp=10800&fmt=webp> 杉田水脈氏の公認問題 立憲議員「自民党は差別を許す政党か？」に石破総理「私としては彼女の発言はとても賛成し得ない」
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e8097e35fe3e3a020a2d57e47dbe75bb588b33f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050086-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 【証言　インタビュー全文】霞ヶ関駅助役だった夫、高橋シズヱさん「触れた時の冷たさ忘れられない」…裁判傍聴４５９回「被告を直接見る意義大きい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050086-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 【証言　インタビュー全文】霞ヶ関駅助役だった夫、高橋シズヱさん「触れた時の冷たさ忘れられない」…裁判傍聴４５９回「被告を直接見る意義大きい」
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532994>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/421a162a5b9f4f55ec4ef89abddcefeee790e952cdf973629ebff06e9f7a7e2f.jpg> 冤罪巡る国賠訴訟 国の責任認めず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/5cea575651e26fa6af02802f38b5c28db5edc5f934557f96d53b421f3fb230d1.jpg> 家計の金融資産 過去最大2230兆円
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532998>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/150eedbd12b05e2eb56fe35804ef8f867831e243dce8f0737306e371b95d6abb.jpg> SHELLY「ヒルナンデス」卒業へ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 15:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 15:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
