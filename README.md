@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9e1b8959fa9b79a8004e92e0e04b7d38.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e6332597eec8e5effc700c96a4045c9a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f527a077af5ce52b7d08d09a6fd33d59b438d41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00946272-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=571&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【10万円商品券問題】自民議員が証言「約12年前にいただいた」安倍政権時も配布か…石破首相「あくまで私の判断」も野党「官房機密費では」猛追及
+      <a href=https://news.yahoo.co.jp/articles/92cdec8cb76ae7b94b3a2d768fdd255aaf7a84c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000143-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル軍、地上侵攻拡大　ハマスは「停戦継続」期待　ガザ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e00623598898fc042dc48c71f37058481eeeb20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-06932229-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 28万円分未施術の人も…ミュゼプラチナム一時休業へ　従業員「やめさせてくれない」給料の支払いにも遅れ
+      <a href=https://news.yahoo.co.jp/articles/3f527a077af5ce52b7d08d09a6fd33d59b438d41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00946272-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=571&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【10万円商品券問題】自民議員が証言「約12年前にいただいた」安倍政権時も配布か…石破首相「あくまで私の判断」も野党「官房機密費では」猛追及
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f214b23f4794f530d35a591e04e37b2a656665bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍、ガザ最南部ラファで地上作戦に着手　各地重要拠点に展開…死者590人超
+      <a href=https://news.yahoo.co.jp/articles/1cee7e3dc857e92c421d1b2115a8a8ebd9bc23ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-03211225-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 吉永小百合、極めて異例　８０歳になった心境と決意を自ら語る　「大変な年齢」も現役続行を宣言
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533017>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/ea17336fb8914a16ef27355ec18833623830e564bcd37559795664f02251f93c.jpg> 台湾政務顧問 岩崎元統幕長が就任
+      <a href=https://news.yahoo.co.jp/pickup/6533026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/9270a2a081d52883b4f3a0b9e07e8f006683d005b971392274b3967b779757b7.jpg> プーチン大統領の側近 北朝鮮入り
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533025>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/0d9f6e160185c6284a97effa479e69a11efc849d576345dbe2a1bc197fc31b75.jpg> 子ども育てたくない若者52% 調査
+      <a href=https://news.yahoo.co.jp/pickup/6533038>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/f901221d0b80798a2ad66306558def1c1833bdaf1339f1f3b15125568ba58a01.jpg> 地図にない「謎の城」市も知らず
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 20:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 21:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
