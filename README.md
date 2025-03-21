@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/YuJQatUEU38?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/F46GiK0grGg?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2bae47d012f4a0dfaf965ebe1adf7300.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f429db899f5c6a9587fff9c0c4dd726.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/acdc137bb9196d9d9f55e6441d3cc1cca615ebf9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00585557-soccermzw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 遠藤航が「完全にオカン」　歓喜の輪に近づき…“ユニ脱ぎ”久保の頭叩き「ちゃんと叱られてる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a6ec1960b191de5fdd088aa3477892d48d3ac5dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000001-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、イスラエルのガザ攻撃を「全面支持」 ホワイトハウス
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、イスラエルのガザ攻撃を「全面支持」 ホワイトハウス
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/09f48f79300ee0abf1fb395d72764b470fef7350>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250320-00000176-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 女性警察官の制服、令和6年度でスカートを廃止　夏服はポロシャツを新採用　暑さ対策で通気性アップ
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/52be6b243ac3086e154d3973496db3e8d179332a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000016-ann-000-5-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー氏　トランプ氏との会談で“原発所有権”の議論「していない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99a0d21959b9dd085a26b317019ae28e656d57cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00010006-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> W杯出場決定は通過点…主将・遠藤航「何を残せるかが日本代表の次の段階」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/478858bfd9aa036315e2e61936edaa65567fda72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-35230755-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ＩＯＣ新会長にコベントリー氏　初の女性・アフリカ出身
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/d255af6de3175e8988ad6c7265139b25082fda94f22c5b2bd77ddd2b186b6642.jpg> ユニを投げた久保 たしなめた遠藤
+      <a href=https://news.yahoo.co.jp/pickup/6532967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/1502e287dd4e7da7890fadb863a26f70e73b02d05d58e5af8050719dac79ab29.jpg> MLB開幕S 驚異の視聴率約30%
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/6c407fcbbc90f107ea6c43890c99ad78e709c7248c7f353f3534ce4478f94c20.jpg> NBA・セルティックスに買収報道
+      <a href=https://news.yahoo.co.jp/pickup/6532964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/d255af6de3175e8988ad6c7265139b25082fda94f22c5b2bd77ddd2b186b6642.jpg> ユニを投げた久保 たしなめた遠藤
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 09:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 09:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
