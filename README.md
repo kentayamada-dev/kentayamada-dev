@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/60a6f5cb482663631f24533783e30926.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4201d3ffa4c542e2bda62bb3eaca019.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/852c2d3b4c11b2d6ff5e2d5c6a64521c615a5984>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07226003-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル軍 ガザ北部から発射された飛翔体2発を迎撃　ハマスによるロケット弾攻撃か
+      <a href=https://news.yahoo.co.jp/articles/045f582589ed30359d34cf6ee034a83f8c7064df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=884&ch=884&exp=10800&fmt=webp> 4階の自宅トイレから転落か、4歳男児が意識不明の重体　愛知
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7927adac0038ffeb0284ba65700ae6edb9a8b508>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00946503-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 安倍政権でも「商品券的なもの」受領　自民・大岡氏「10万円くらいだった」
+      <a href=https://news.yahoo.co.jp/articles/0f46420fb17ab7fd74befd6619fc874216b7e5c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000005-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=1423&ch=1423&exp=10800&fmt=webp> ハマス、米の「ガザ停戦つなぎ案」を検討　エジプトも独自案提示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/392705fcd4810d70a694652ad4a7694ff23bfebc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-14847168-kbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=422&ch=422&exp=10800&fmt=webp> マンション騒音トラブルか“殺人未遂”４１歳男逮捕
+      <a href=https://news.yahoo.co.jp/articles/eec1b4a2b48587cab59d0d401c0553b884ebae6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00050147-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 石破首相、政倫審で弁明の意向…商品券問題で開催議決なら
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 01:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 01:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
