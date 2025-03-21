@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ab039e8a496552aafcc2aca5c168820.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e51f42f54fcb610681019cd829530a46.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d763dc8da3a146f5fcc27361d76864d7d0c22e06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07226006-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大阪市内の遊歩道の植え込みに男性切断遺体　死体遺棄事件として捜査　ポリ袋の中に約10の肉片と約20の骨のかけら　住民「死角になっている」【news23】
+      <a href=https://news.yahoo.co.jp/articles/44878ac0eee38ea60122e000570ddce958318a78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-01929478-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロンドンの変電所火災で大規模停電　原因は不明…空港が終日閉鎖も
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 04:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 05:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
