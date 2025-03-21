@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b90f10d6dff553bc139af41b6c740cbc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a14b5b96df47e8a030d37b62ab8662d4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff92f4653d5e424a7fef4b9c9998386c06083017>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00946177-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 安倍首相時代にも“商品券”配布か…自民・大岡氏「いただいたっていうのは私の記憶にある」　野党追及に首相「知る立場にない」
+      <a href=https://news.yahoo.co.jp/articles/5a8b64e27dfa8703fed2c471cb05d036f3b3e00e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-11625461-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 東大中退！松丸亮吾に実兄メンタリストDaiGOが独特エール「間違わずに生きてきたのかい？」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ddf8848bde423799919659b39450e51b16116ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00338190-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メンタリストＤａｉＧｏ　弟・松丸亮吾の東大中退でネットの声に反論「他人の決断を批判する権利などない」
+      <a href=https://news.yahoo.co.jp/articles/b4178633b62e8500c444b76afefbe2399c38a3ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00692100-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「アジア絶対のトップ」W杯出場を決めたサッカー日本代表、中国メディアは賞賛も早期突破で消化試合になることに不安を示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/366952099e166fcb0cc04aeeaf645c158cfebcd8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-02514767-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【W杯アジア最終予選】日本は鎌田大地と久保建英のゴールで勝利しW杯出場決定　オーストラリアとサウジアラビアがし烈な2位争い
+      <a href=https://news.yahoo.co.jp/articles/64faa0f30f17c3c79e738799cf610f32f8e04c92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00946174-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ガザ停戦合意“事実上崩壊”…イスラエルが地上作戦拡大、対するハマスも攻撃再開しロケット弾発射　イスラエル駐日大使は攻撃の正当性主張
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532994>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/421a162a5b9f4f55ec4ef89abddcefeee790e952cdf973629ebff06e9f7a7e2f.jpg> 冤罪巡る国賠訴訟 国の責任認めず
+      <a href=https://news.yahoo.co.jp/pickup/6532992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/42ea4c9aa726d17f67c090f59cc5ec6ee0b8fc2740841b8aae13fa9fc2ef93fc.jpg> 首都圏に富士山降灰時の対策 指針
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/99c7964a7fe8a053ba3c2d2f427406c0ed289e839d98dd427c497911a5915e00.jpg> 斎藤知事 議会閉会後に見解を説明
+      <a href=https://news.yahoo.co.jp/pickup/6533013>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/2fafbea69998a045ef65922d354124ebe680c2449f24f45a96f10b2f8914e465.jpg> TOB提案に買収防衛 ニデック遺憾
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/06f9ca538849f77702b406822390c4824668e9bbdf5fcf10244fbc62ddf998ad.jpg> 白血病で失明 絶望の淵から救われ
+      <a href=https://news.yahoo.co.jp/pickup/6533014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/06f9ca538849f77702b406822390c4824668e9bbdf5fcf10244fbc62ddf998ad.jpg> 結婚後に白血病再発 失明した女性
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/4200a2475f38aa6f72fdcc475c9c927270a7a0459a0dc96909ec9f0a6d71aecf.jpg> カンテレ調査 会食で「不快」複数
+      <a href=https://news.yahoo.co.jp/pickup/6533011>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/fdcff5616bda2f34bdae8fdf6d4ceea82d5858f91b132577fc29bb172be11074.jpg> 森保監督 メディアに異例のお願い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 16:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 17:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
