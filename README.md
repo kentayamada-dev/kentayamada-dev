@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/F46GiK0grGg?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b528ff6a2479a23e4a609c2a058bd5c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/907b30ffcbbec4ca769660505c4a5dbd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/769ce77df553b04fcf8919cf3e8de85e9080f845>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-90018274-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「女子高校生が道路に倒れている」ミキサー車と自転車が衝突　女子高校生が意識不明の重体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ca954869d52e99cf09791ea8fa56852ee0b0e97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-10169610-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=598&ch=598&exp=10800&fmt=webp> ソフトバンクグループ 米半導体関連企業を約1兆円で買収へ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/665192b6a788d8743b6724ccfc6884e1b0d55e8f>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/da84034b2d8cf1ead29b43cdb504b23b2f8e04fa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-16502574-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=717&ch=717&exp=10800&fmt=webp> ハマス、テルアヴィヴにロケット弾発射　イスラエルはガザ地上作戦を再開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8097e35fe3e3a020a2d57e47dbe75bb588b33f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250306-00050086-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 【証言　インタビュー全文】霞ヶ関駅助役だった夫、高橋シズヱさん「触れた時の冷たさ忘れられない」…裁判傍聴４５９回「被告を直接見る意義大きい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c11d6345cc085acbfff5b79b318191d98cd2cc65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000050-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=485&ch=485&exp=10800&fmt=webp> 家計の金融資産、12月末は2230兆円で過去最高　株価回復＝日銀資金循環統計
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532976>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/5f96bf66c23dcc448d2f28f9039351d49520f16acb3d80d544353c8dc315865f.jpg> 政府 就活「オワハラ」防止を要請
+      <a href=https://news.yahoo.co.jp/pickup/6532989>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/fccceeeb19cc406f490305febf839188e79df11c2d5f80aa5c57dfe66a6e131b.jpg> ミキサー車にはねられ高校生重体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/acc3e4c0b1c4702c1549f510093da1f39939b1d45f7758bb10fbba800a2ff408.jpg> 斎藤知事 現時点で辞職否定
+      <a href=https://news.yahoo.co.jp/pickup/6532984>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/0758779bae105a80559f356164844ec3e0c697d76925bfdc83e87521edb2233d.jpg> 感染性胃腸炎この10年で最多 なぜ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532982>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/c315003ec7587a2e7b12e7b501736c1b228a803d535420a3d9ed15169e420c7c.jpg> 車が正面衝突 子ども含む2人重体
+      <a href=https://news.yahoo.co.jp/pickup/6532990>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/192b768a640ae1fffdd4b2f298fc83f8cec6d785dd28e1d82a340f2c4f2a8496.jpg> ミュゼプラチナム 全店を一時休業
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 13:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 13:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
