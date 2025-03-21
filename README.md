@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/22d1cdc1f184475df5d1b66bba1c8726.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6461f0c235c32aa0d31264d06dba6a1e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7927adac0038ffeb0284ba65700ae6edb9a8b508>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00946503-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 安倍政権でも「商品券的なもの」受領　自民・大岡氏「10万円くらいだった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/392705fcd4810d70a694652ad4a7694ff23bfebc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-14847168-kbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=422&ch=422&exp=10800&fmt=webp> マンション騒音トラブルか“殺人未遂”４１歳男逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/afdc7eeab611963ec8ea5fb68756ea04afa45e1d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000400-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松丸亮吾、実は3年前から「東大生」の肩書き外していた「経歴に依存する仕事をしても未来はない」
       </a>
@@ -365,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac43ebc1abb4aefb101b31f1e9890de908cd9245>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00946468-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “安倍政権で商品券”証言に野党幹部「自民の体質の問題」国民・玉木氏「首相は歴代の対応含め政倫審で説明を」
+      <a href=https://news.yahoo.co.jp/articles/fefb3383860f34c1d9707c55dacc737a2fcca66e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00170427-sdigestw-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=511&ch=511&exp=10800&fmt=webp> 「得失点えぐい」「２位争いはまだ混沌」日本のW杯出場が決定、グループC順位表に脚光「次のサウジは全力で勝点取りに来るよなー」
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/92cdec8cb76ae7b94b3a2d768fdd255aaf7a84c5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000143-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル国防相、支配地域の拡大指示　人質解放まで作戦継続
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb029bdba0f44269c453e3f6372d13edb06950cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00107258-soccerh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=668&ch=668&exp=10800&fmt=webp> 【最終予選・全試合スタメンの南野拓実が鎌田・久保につないだ勝利の布石（1）】南野が模索していた三笘を生かす役割とは……前半から意図した動きを見せ、鎌田大地の得点の布石にも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7832f35b9cecc167e32509c98528a742503eee14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000056-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=633&ch=633&exp=10800&fmt=webp> 「ローキックした」叔父、殺意は否定　大阪コンクリ遺体で再逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 23:51:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 00:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
