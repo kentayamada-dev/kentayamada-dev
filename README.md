@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/F46GiK0grGg?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5e430a5ca7e60d9575e73b12abb474f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9e1b8959fa9b79a8004e92e0e04b7d38.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c86c9aefc3220b026255355e146931f9deeeb217>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00170423-sdigestw-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 森保ジャパンを苦しめたバーレーンのアシンメトリー守備。よく設計された戦術を“創造性の塊のような男”鎌田大地がぶち壊した【W杯予選】
+      <a href=https://news.yahoo.co.jp/articles/3f527a077af5ce52b7d08d09a6fd33d59b438d41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00946272-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=571&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【10万円商品券問題】自民議員が証言「約12年前にいただいた」安倍政権時も配布か…石破首相「あくまで私の判断」も野党「官房機密費では」猛追及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1e00623598898fc042dc48c71f37058481eeeb20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-06932229-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 28万円分未施術の人も…ミュゼプラチナム一時休業へ　従業員「やめさせてくれない」給料の支払いにも遅れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cb029bdba0f44269c453e3f6372d13edb06950cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00107258-soccerh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=668&ch=668&exp=10800&fmt=webp> 【最終予選・全試合スタメンの南野拓実が鎌田・久保につないだ勝利の布石（1）】南野が模索していた三笘を生かす役割とは……前半から意図した動きを見せ、鎌田大地の得点の布石にも
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac9acd7f057a7618cecd5c20c9b34cd1b020c726>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000090-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 大阪中心部の遊歩道で袋の中から“切断遺体”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60930b1f1891f84ec99c5acd84b0a92736e5eeac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000088-ann-000-3-thumb.jpg?exp=10800&fmt=webp> “商品券配布”で新証言　安倍元総理の時にも「受け取った」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a8b64e27dfa8703fed2c471cb05d036f3b3e00e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-11625461-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 東大中退！松丸亮吾に実兄メンタリストDaiGOが独特エール「間違わずに生きてきたのかい？」
+      <a href=https://news.yahoo.co.jp/articles/5a69422f5acf29167500d78f3741f321889d3774>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-90006797-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> 30年経った今も信者をマインドコントロールか　オウム真理教の後継団体「アレフ」の実態
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/fd4a391607d10c0a0c76704a450afcae9e2f1cc9da17fd17a3e277d706df99e4.jpg> 元参院議長・斎藤十朗氏死去 85歳
+      <a href=https://news.yahoo.co.jp/pickup/6533032>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/302cee322d6b282788f5f02db8f6c7960187d1469b42256455d06fbb987e31f1.jpg> 関東内陸など 22日「夏日」予想
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533024>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/4c1f2ae24c299887a1498b6ada0c56e86ef025cc413e56571c773527ece06eae.jpg> 車が正面衝突で20代死亡 1人重体
+      <a href=https://news.yahoo.co.jp/pickup/6533035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/d45a79b730214d9685defca0ad6f21327e8afed1d5434ebad073f043f9374891.jpg> 走行中の軽トラ荷台から転落 重体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533036>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/f6c199d22891f5b6a0580be2d93cb3465a3814c0a0d79c8297b1d00c80443553.jpg> ミュゼプラチナム休業 給料未払い
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533021>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/813fbced4a17d0576d09f80e18497c76e7fe08875ceca8c702cea9e6cc37c59c.jpg> SixTONESが札幌に 民泊チャンス
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533033>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/7732db3fed3c3c8118be0389635ffcbd3d313ddefc74c3a9130c13f6f7951383.jpg> 中日まさか「9番DH」に投手・柳
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 20:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 20:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
