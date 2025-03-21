@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/95f63c806e62a827bd8c56e96f25f1a5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d1044365a014ba63c84582b0c7e281a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/80a3318ecca422fcac8763ee4a48986805f47da2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00094025-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「最も厳しいグループで圧倒的な強さを見せた」日本代表に海外メディアの賛辞止まず！「欧州で通用する選手の増加に支えられ――」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b2796f6183f4485ff48428aa764f0c74af38ce4c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00253437-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1640&ch=1640&exp=10800&fmt=webp> 〈商品券問題〉支持率急落も「石破は生かさず殺さず」与野党、奇妙な”思惑”一致のウラ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0951aaf2c3062424908691edad6c212eff2f00a2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00946523-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 4歳男児が意識不明の重体　窓から転落の可能性　愛知・豊橋市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/26f8c3c6969fffa723ff822b27bb70be096f9380>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-06723795-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロンドン大規模停電　一時閉鎖のヒースロー空港再開
       </a>
     </td>
   </tr>
@@ -402,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/e69d37cb04a3bb3d7ffe36767254c5b8723c53fd00f7eae7771fc0c65d89e4e0.jpg> 楽天証券で「詐欺」被害が相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6533061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f309537eeca540dd9f716b99b445e018543a68d8d915f6857c45e1ddbee48992.jpg> 停電で閉鎖 英空港が一部再開
       </a>
     </td>
   </tr>
@@ -444,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 08:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 08:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
