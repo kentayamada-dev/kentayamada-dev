@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/907b30ffcbbec4ca769660505c4a5dbd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7efd4d4632ee3b89d3ac1c5586278802.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/769ce77df553b04fcf8919cf3e8de85e9080f845>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-90018274-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「女子高校生が道路に倒れている」ミキサー車と自転車が衝突　女子高校生が意識不明の重体
+      <a href=https://news.yahoo.co.jp/articles/aabbf4cd11cee5f153ed4c1924b81c3c927309e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-07225854-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=593&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ぐじゃっと壊れるような音」 軽乗用車2台が正面衝突する事故　親子とみられる2人重体　岡山・吉備中央町
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6532978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/5cea575651e26fa6af02802f38b5c28db5edc5f934557f96d53b421f3fb230d1.jpg> 家計の金融資産 過去最大2230兆円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6532989>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/fccceeeb19cc406f490305febf839188e79df11c2d5f80aa5c57dfe66a6e131b.jpg> ミキサー車にはねられ高校生重体
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532973>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/62cc42dbf44ba1435487c1ff58d875d556224c0ad6974809bb7de2c6b4a577dd.jpg> ちいかわ 4月から通常放送休止
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 13:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 14:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
