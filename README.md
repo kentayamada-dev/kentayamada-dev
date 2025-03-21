@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/F46GiK0grGg?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bcd62f68f884a130fbbebd676fcd90fc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cc03b2d23c27bc55fbf61fc683b12772.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a637bf60c8c8cd2b4a50364ba9a952b5f4bbc034>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07226007-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大阪の遊歩道でポリ袋に入った男性の切断遺体　死体遺棄事件として捜査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fd6df71051d75eb65d40cf7aa7feea5b5a84360>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000003-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> イスラエル軍、ガザ南部でも地上作戦　ハマス「死者数約600人に」
+      <a href=https://news.yahoo.co.jp/articles/d5547faa4a0f2549fee7b1a622972802644ff22d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07226012-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大規模停電で閉鎖の英ヒースロー空港　一部の便の運航が再開
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 06:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 06:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
