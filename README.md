@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fef8c03d6b1dd1317813ce82219e36ab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2bae47d012f4a0dfaf965ebe1adf7300.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a6ec1960b191de5fdd088aa3477892d48d3ac5dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000001-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、イスラエルのガザ攻撃を「全面支持」 ホワイトハウス
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/afbb9cd84f6eb2f65c1fac564c2fac53adabc1a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00945978-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【地下鉄サリン事件から30年】猛毒のサリンで14人死亡・6300人以上負傷　霞ケ関駅で慰霊式　高橋シズヱさん「長い30年だった…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/52be6b243ac3086e154d3973496db3e8d179332a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000016-ann-000-5-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー氏　トランプ氏との会談で“原発所有権”の議論「していない」
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef0f75367e0b6b5659874a749ad94e972ae96084>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-33210052-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=135&cw=1230&ch=1230&exp=10800&fmt=webp> 【日本代表】６勝１分けの勝ち点19で本大会出場決定／Ｗ杯アジア予選VTR
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcacf125dc2ae4c9d3ada40d6a150ab08963b41f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000031-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> イスラエル軍、地上作戦を拡大　ガザ最南部に展開、90人死亡
+      <a href=https://news.yahoo.co.jp/articles/99a0d21959b9dd085a26b317019ae28e656d57cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00010006-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> W杯出場決定は通過点…主将・遠藤航「何を残せるかが日本代表の次の段階」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/478858bfd9aa036315e2e61936edaa65567fda72>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-35230755-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ＩＯＣ新会長にコベントリー氏　初の女性・アフリカ出身
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b36d487f0e0a11069cfb65aaed34066b5ca6cec6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-05391634-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 猛毒サリン「除染」に挑んだ自衛官の戦い　オウム真理教「地下鉄サリン事件」から30年
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/20/55eb1421aaf8bfc5d0db9250d63c0f64d0b817a5dc508f9acd1a6561d7fbf416.jpg> サリン事件 職員語るあの日の混乱
+      <a href=https://news.yahoo.co.jp/pickup/6532951>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/5/e15afc3c02eefbabc4cfccf32bb25b87cad6ad9d82d5ef9b9449d2eccb787790.jpg> インドネシア噴火 津波の有無調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532951>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/5/e15afc3c02eefbabc4cfccf32bb25b87cad6ad9d82d5ef9b9449d2eccb787790.jpg> インドネシア噴火 津波の有無調査
+      <a href=https://news.yahoo.co.jp/pickup/6532962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/1b8e3ee8dddcdfa630469131a6eda32c6d80960476a14638f7965ff2325723cd.jpg> IOC新会長にアフリカ出身の女性
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/6c407fcbbc90f107ea6c43890c99ad78e709c7248c7f353f3534ce4478f94c20.jpg> NBA・セルティックスに買収報道
+      <a href=https://news.yahoo.co.jp/pickup/6532964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/d255af6de3175e8988ad6c7265139b25082fda94f22c5b2bd77ddd2b186b6642.jpg> ユニを投げた久保 たしなめた遠藤
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6532952>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/ea129dfa95c973c9127faf7c339a4bb9f16a7504bad4647717560901b2099b4a.jpg> W杯決定 本音漏らした三笘の重圧
+      <a href=https://news.yahoo.co.jp/pickup/6532953>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/6c407fcbbc90f107ea6c43890c99ad78e709c7248c7f353f3534ce4478f94c20.jpg> NBA・セルティックスに買収報道
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/21 08:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/21 09:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
