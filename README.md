@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae835ec19aa85df59748e4f308e46d0e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/95f63c806e62a827bd8c56e96f25f1a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/683f0ed53c06398b2803bcb77578fa88d4af7b30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「4月下旬まで」の停戦案検討か　ハマス、米提示
+      <a href=https://news.yahoo.co.jp/articles/0951aaf2c3062424908691edad6c212eff2f00a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00946523-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 4歳男児が意識不明の重体　窓から転落の可能性　愛知・豊橋市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c16715054bddeee2e4c5c1b0a92545583236372>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000011-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 英ヒースロー空港閉鎖で消防当局「事件性なし」配電設備の不具合か　混乱は続く見込み
+      <a href=https://news.yahoo.co.jp/articles/83405ee4dc41b9dfcd9c6bd6e3ef7659aac6bf5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ停戦へ「取り組んでいる」　米国務省報道官
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533049>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/f806afae819ffabcfcb892675b9a0a554de2b43ca865193a375317dbf141e095.jpg> 6歳殺害 市は生存中に住民票削除
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/38332f68e88f3359b05be138e40458b75895de147fa70c44a0c43bb8f2389b16.jpg> 4階から4歳男児が転落か 意識不明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/8747cb24cc591940c4f57afbe3e73264016df8dfaffd73a10bd3a09f7dc9106f.jpg> 4階から4歳男児が転落か 意識不明
       </a>
     </td>
   </tr>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533038>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/f901221d0b80798a2ad66306558def1c1833bdaf1339f1f3b15125568ba58a01.jpg> 地図にない「謎の城」市も知らず
+      <a href=https://news.yahoo.co.jp/pickup/6533060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/d3fc986355ef1bead684d8e38d757fbcb8f8a346460fd95ff509bf7e302af03b.jpg> 職場結婚で雇い止め 大学が撤回
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533058>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/359a1ff973522e2844b7c2d8e5b4a4bbaee8bae32e4b60d5b483cfce46985150.jpg> コメダ運営甘味処 関東で出店進む
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 07:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 08:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
