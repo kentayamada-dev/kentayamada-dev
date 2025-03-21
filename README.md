@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6461f0c235c32aa0d31264d06dba6a1e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/60a6f5cb482663631f24533783e30926.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/852c2d3b4c11b2d6ff5e2d5c6a64521c615a5984>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07226003-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル軍 ガザ北部から発射された飛翔体2発を迎撃　ハマスによるロケット弾攻撃か
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7927adac0038ffeb0284ba65700ae6edb9a8b508>
@@ -375,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/afdc7eeab611963ec8ea5fb68756ea04afa45e1d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000400-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松丸亮吾、実は3年前から「東大生」の肩書き外していた「経歴に依存する仕事をしても未来はない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fefb3383860f34c1d9707c55dacc737a2fcca66e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00170427-sdigestw-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=511&ch=511&exp=10800&fmt=webp> 「得失点えぐい」「２位争いはまだ混沌」日本のW杯出場が決定、グループC順位表に脚光「次のサウジは全力で勝点取りに来るよなー」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92cdec8cb76ae7b94b3a2d768fdd255aaf7a84c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250321-00000143-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル国防相、支配地域の拡大指示　人質解放まで作戦継続
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 00:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 01:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
