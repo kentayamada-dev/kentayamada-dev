@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1fb3a2758945fe8b5731b225d772c08.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cea48a594c5a89280c5b04c8e26d91f8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddebf749ee2f9995a2a95e95d96614df963760fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00010042-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=675&ch=675&exp=10800&fmt=webp> アニメ『るろうに剣心』第3期制作決定　剣心の決意描くスペシャルPVも
+      <a href=https://news.yahoo.co.jp/articles/997b10a60744313ad214647904a0a6bc3256ec43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07226085-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 旧統一教会への解散命令に関する判断 今月25日に示されるか　元信者ら会見「解散命令判断が示されても問題解決のスタートラインでしかない」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 23:52:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 00:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
