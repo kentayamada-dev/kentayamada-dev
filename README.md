@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/934c169a6a34ac8474e542e32514a6b3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/65934b10d65b81b4e05a1fde0ecf946e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6787a78ec73b8258a5a9932d12daba981bd8dfbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000003-hnrm-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=583&ch=583&exp=10800&fmt=webp> 《その場で従業員も目視》すき家「味噌汁にネズミ混入」騒動、1月21日朝の“修羅場”当該店舗は3月24日から一時閉店
+      <a href=https://news.yahoo.co.jp/articles/9686a1432e94ebc185d0cfe93d1ddbee8c8beb64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00946705-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 岩屋外相 中国・王毅外相と会談　中国軍の活動などに懸念伝達
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 03:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 03:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
