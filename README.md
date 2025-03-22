@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/617c377f01d984303ea951ce4f00fbd2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/03ab77f6f61ea4e0e71f1854520cf107.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95f01eeb1e2c7aedea6b43646dac6250e7620696>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-04527120-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=394&ch=394&exp=10800&fmt=webp> 「るろうに剣心」TVアニメ第3期決定 スペシャルPV公開
+      <a href=https://news.yahoo.co.jp/articles/c46a4733eabdff993a38ee905d2d7cdab56eed76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000161-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=1072&ch=1072&exp=10800&fmt=webp> ヤクルト・塩見泰隆が負傷交代　開幕戦に間に合わない可能性も
       </a>
     </td>
   </tr>
@@ -367,22 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/599a408c3d8109b44968ae84d5799b75cea966c8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07363945-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】西・東日本は晴れて初夏の陽気続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd37aa9b8020f61ad57ce5b792fafa5b6264b825>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000080-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ガザ情勢「悪化の一途」　イスラエル軍猛攻、物資欠乏　レバノン側でも応酬
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/938bc334124a8b8d91a599d56004db90c9b44db7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-21805902-mrov-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石川・七尾市の「のとじま水族館」が全面再開 地震乗り越え約1年3か月ぶりにイルカショー
       </a>
     </td>
   </tr>
@@ -418,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533124>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/ab734353b549ab438d02ef526eee3801a88681e347ea617c0f2a524b8b0cf83d.jpg> 米 移民50万人超を「追放」へ
+      <a href=https://news.yahoo.co.jp/pickup/6533139>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 首相発言巡る中国発表 外務省抗議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533094>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/09dca17dc41553c305d40f07bef99c644c46e2a588d7ce3ec133ef4d6a22ac5e.jpg> 米国でも高騰 卵の無料配布に行列
+      <a href=https://news.yahoo.co.jp/pickup/6533124>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/ab734353b549ab438d02ef526eee3801a88681e347ea617c0f2a524b8b0cf83d.jpg> 米 移民50万人超を「追放」へ
       </a>
     </td>
   </tr>
@@ -460,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 22:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 23:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
