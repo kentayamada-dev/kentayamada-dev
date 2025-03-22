@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa29c5dc6e999abe73a0d9cd6e70fa91.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fae7ade3b10d851e4188318fd7c1d87b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/599a408c3d8109b44968ae84d5799b75cea966c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07363945-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】西・東日本は晴れて初夏の陽気続く
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07363945-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【あすの天気】西・東日本は晴れて初夏の陽気続く
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fd37aa9b8020f61ad57ce5b792fafa5b6264b825>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000080-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ガザ情勢「悪化の一途」　イスラエル軍猛攻、物資欠乏　レバノン側でも応酬
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000080-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ガザ情勢「悪化の一途」　イスラエル軍猛攻、物資欠乏　レバノン側でも応酬
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a941d25c26f88858b7fb30d491804ba94844f049>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-33221737-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=1227&ch=1227&exp=10800&fmt=webp> 【ヤクルト】塩見泰隆が開幕１軍絶望的　左膝を痛め高津監督「ショックだね」山田、村上も離脱中
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-33221737-nksports-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=1227&ch=1227&exp=10800&fmt=webp> 【ヤクルト】塩見泰隆が開幕１軍絶望的　左膝を痛め高津監督「ショックだね」山田、村上も離脱中
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533122>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/323167dcf6dde2458ff62a5797c310d7549b2faa768b2d6c3af137d4ea587e55.jpg> 旧統一巡り 25日に解散命令判断か
+      <a href=https://news.yahoo.co.jp/pickup/6533136>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/87c003a15528778984068bb426437104b4524e3e3a9ee1cd1c7ff17570c09d2f.jpg> オウム中川元死刑囚 執行前に遺書
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/720cc9b6778eae149acb203bea17d67d8713c3ad59ef1455f9cffcbff6a75870.jpg> 詐欺拠点近くで邦人一時保護 タイ
       </a>
     </td>
   </tr>
@@ -410,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533128>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/fb1e531a11316e68daee99712016ac0997e78e5770d4bb760b5f6efa8c5eb850.jpg> 23日から 花粉・黄砂ダブルパンチ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533129>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/11c4fe7bfe3800f1550fccc0f65bb0af051d47569ceb3690d89106bed2bcb521.jpg> 時給インフレ 万博警備は2500円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/d83ad7cf97c73995849dfdcefadc04d8e451f93c5088aa9e1c1c808743c5269d.jpg> すき家 ネズミ混入を認めて謝罪
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533132>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f83a4f6a8c43f6bbac6ea25b5e2392041426e07c15291d114345422066c7030c.jpg> ヤクルト塩見 開幕1軍が絶望的
+      <a href=https://news.yahoo.co.jp/pickup/6533121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/d83ad7cf97c73995849dfdcefadc04d8e451f93c5088aa9e1c1c808743c5269d.jpg> すき家 ネズミ混入を認めて謝罪
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533133>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/4ed02411577d3a26a28f838a410174663068c96681aa5a884c39bfacdfdff685.jpg> 狩野英孝 活躍の秘訣は「ビビり」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 21:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 21:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
