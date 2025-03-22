@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/BQONc-EGHjA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/00fe27f44532580718722654032ea73c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0f3daf0c27c73ea3729774cc770b55b3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae239d9f89719239a1a434b4cddccb622575035d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-09759625-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【あすの天気】季節外れの初夏の陽気、夏日も続出　多雪地域は融雪進み雪崩などに注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cf7488b6f210b4e8f9be00607d46e1534bbaa78c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-03465424-ktk-000-2-thumb.jpg?exp=10800&fmt=webp> のとじま水族館全面再開　人気のイルカショーが復活
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7b87630b9a177bbbfc1b0fa583532298435adb1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-35230813-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 英ヒースロー空港、通常業務再開　大規模停電による混乱の翌日
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/618bebfbda41c3720a9cead18f09415510f46cbb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00946610-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相“商品券配布問題”で「そんなことで予算委員会の時間を使わないで」国民・玉木代表ら野党から「政倫審」での説明求める声相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad7b6fde2edae6564c809fb32cc5f4bd41165693>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00010003-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【23日(日)の天気】25℃以上の夏日エリア拡大　西～東日本は初夏の陽気続く　さくら開花する予想も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/852bba94c5251280cddffb305f8b69fd865755d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-04526917-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 爆笑問題・田中裕二「ウイニング競馬」新MCに就任 元ジャンポケ斉藤慎二の後任
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68568f4cd0b6452761290f9d0f3b6afab2b198c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000035-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=503&ch=503&exp=10800&fmt=webp> イルカもアシカも祝福　能登地震で被災「のとじま水族館」が完全復活
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533093>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/9153cfe4559cbff554d358f90ae237b10b8a28cec25c5e8c107e1186646acb0d.jpg> 中国人の日本での「爆入学」背景
+      <a href=https://news.yahoo.co.jp/pickup/6533119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/056195615cae583725c0b40de4b62e95359d5f590cd84cc7c8be1723ee6c0143.jpg> モリゾー・キッコロ 今も続く活躍
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 18:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 18:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
