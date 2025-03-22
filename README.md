@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9413d315f9d211b913aa3b3743c3e4dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4671e3f82338e7c829dd6d4896dc02e6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00be271b9d8c9426cfde605c35b060cea5bf8bfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00004606-itv-000-1-thumb.jpg?exp=10800&fmt=webp> 路上で女性を切り付け逃走した男(52)を殺人未遂容疑で逮捕  愛媛・松山市
+      <a href=https://news.yahoo.co.jp/articles/87f110798d14390c8f2e40cbb2787bf6cf1c994c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000046-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> イスラエル軍「レバノンからのロケット弾を迎撃」　ヒズボラの攻撃か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd0ed75cf71bc954de90523b2d84be8dcde7ade9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07226069-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】旧統一教会への解散命令に関する判断を25日に示すか　この日に裁判所に来るよう文科省と教団側に伝える
+      <a href=https://news.yahoo.co.jp/articles/00be271b9d8c9426cfde605c35b060cea5bf8bfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00004606-itv-000-2-thumb.jpg?exp=10800&fmt=webp> 路上で女性が切り付けられた事件 52歳の男を殺人未遂容疑で逮捕  愛媛・松山市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0916da5841ff05570e00952e71bc58f718ebd430>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000118-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=147&cw=707&ch=707&exp=10800&fmt=webp> アニメ「るろうに剣心」第3期制作決定、“スペシャルPV”も公開
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533108>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/70275dd4a3bc31779626603c1bfe5a9388f15202e322985fb471fc9e645b077e.jpg> 首相の商品券配布 法的問題を解説
+      <a href=https://news.yahoo.co.jp/pickup/6533124>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/ab734353b549ab438d02ef526eee3801a88681e347ea617c0f2a524b8b0cf83d.jpg> 米 移民50万人超を「追放」へ
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/76ac20bbd991f8cb3bc7e00f7d073493217f60a7aaab4c81b80d34d382726233.jpg> 農地に全裸の男性遺体 鹿児島
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533121>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/d83ad7cf97c73995849dfdcefadc04d8e451f93c5088aa9e1c1c808743c5269d.jpg> すき家 ネズミ混入を認めて謝罪
       </a>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/056195615cae583725c0b40de4b62e95359d5f590cd84cc7c8be1723ee6c0143.jpg> モリゾー・キッコロ 今も続く活躍
+      <a href=https://news.yahoo.co.jp/pickup/6533120>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/5e8e2fc7dd66fe98297b5b57a4243f8f974d53df580488833f21864eae7e5e72.jpg> 楽天証券で不正アクセス 被害証言
       </a>
     </td>
   </tr>
@@ -450,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533123>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f4e581828a3cf7248bfb366e801b82c2b20e5414ca1924abb23a3efdd5b15c5e.jpg> ゆたぼん アンチは4割に減った
+      <a href=https://news.yahoo.co.jp/pickup/6533126>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/1a347bead3048ec215c45519fb6b0ccbb3dcca773b9d77efe36f555b4ef05934.jpg> るろ剣 アニメの第3期制作が決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533125>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f4e581828a3cf7248bfb366e801b82c2b20e5414ca1924abb23a3efdd5b15c5e.jpg> ゆたぼん 夢はボクシングのプロ
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 19:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 20:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
