@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2cbe80be8edc4f1c931b70faf63c655f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/142fe4384a9694393775c33ce12d095d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c1db4439f57406361605b63dc10d08bff72ae6b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-10169796-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=814&ch=814&exp=10800&fmt=webp> 日中韓の外相会議を開催 “未来志向の協力”を確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8d047a8844106688fee00e432e7366e7c8359b04>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00050424-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「めいを殺してしまった」父親に打ち明けたか　殺人容疑で再逮捕の男　八尾・コンクリ詰め遺体
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/24896f14b61d75f730be4e95fb493fdef98dfce1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00050092-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 石川・七尾市「のとじま臨海公園水族館」全面再開…イルカショー復活に観客「元気でいてくれた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad909e9ffc4c35fe467daec31a64a31eb6c1047f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000005-kobenext-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=1039&ch=1039&exp=10800&fmt=webp> 泉房穂氏、24日に参院選立候補を正式表明　兵庫選挙区、午後に記者会見
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/7e05628d1a317429a61b0ce00757012044987942275ba95b0b8e87654b7a3230.jpg> 都心昼前に20℃超え 午後更に上昇
+      <a href=https://news.yahoo.co.jp/pickup/6533092>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/5221e03f1b876de71ad6ef5fc254a409f6571fb9657ec2d597c80ed203460e11.jpg> 日中韓外相 早期の首脳会談で一致
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533076>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/e59cf5f88e7e540738db20daf46ceeecd551c83099de2177dd9f90850136ae69.jpg> 米大統領 テスラ車放火は「テロ」
+      <a href=https://news.yahoo.co.jp/pickup/6533087>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/fabd070f991b2d9af5e2581e7551e960a4ea438a03e68b4fc5092de624fa6914.jpg> のとじま水族館再開 ショーに歓声
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533074>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/47e4f9c4f209c59b1b95ad03535480f3374e8bd73aa03d2f40d59cbf903ae699.jpg> ミュゼ休業 客感じた「店の変化」
+      <a href=https://news.yahoo.co.jp/pickup/6533075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/11fb006a7d717310706c1cdca860bb4b8821a8cf3588847e3a02804d1798f158.jpg> 顔に酸かけられた女性支援 印の店
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/11fb006a7d717310706c1cdca860bb4b8821a8cf3588847e3a02804d1798f158.jpg> 顔に酸かけられた女性支援 印の店
+      <a href=https://news.yahoo.co.jp/pickup/6533091>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/131cdd0e96d0d455d1d68389fdbc4a8f93a379152ce9390d8d2189fa4ff0010c.jpg> 東京グルメ「老舗の100年」を追跡
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 13:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 14:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
