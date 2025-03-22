@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/00850efa687c37921d48cb4668730dde.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ebbc29234b09d1964f5c1846b646ee9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64e4e8f04cf6f98518ea6f4a79622e33cc7881d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-21805335-rsk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 母親（27）死亡　3歳の息子が意識不明の重体　吉備中央町の正面衝突死亡事故で女を逮捕　対向車線に進入し対向車の女性を死亡させたなどの疑い【岡山】
+      <a href=https://news.yahoo.co.jp/articles/aa882f75035986e0901f488e85bad9d258030c92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-33220298-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=684&ch=684&exp=10800&fmt=webp> 田崎史郎氏「有罪とかにするのはなかなか難しいのでは」商品券問題受けた市民団体の告発に私見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d35ba1d062dea3084d8a633c97f74bfad35814ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00050084-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル国防相「ガザの一部を併合する」…人質解放巡りハマスへ圧力、制圧地域拡大を指示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/69c7756c0760287555423e2aa67207d07aaaa7d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-03221051-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=75&cw=951&ch=951&exp=10800&fmt=webp> 今田美桜、ＴＢＳ世界陸上アンバサダー就任「皆様と一緒に盛り上げられること、大変光栄に思います！」
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cac69d3a788808eeeb5a8aa6d5d56982079940ff>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-33220217-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=650&ch=650&exp=10800&fmt=webp> 泉房穂氏「動き始めることにした」参院選立候補への思い投稿　東国原英夫氏の激励Xに謝意も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4ec5a2283a995e11ce0d9bb7f5a27b329154e29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000023-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ハマス、米停戦案受け入れ検討　エジプトも暫定案提示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2796f6183f4485ff48428aa764f0c74af38ce4c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00253437-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1640&ch=1640&exp=10800&fmt=webp> 〈商品券問題〉支持率急落も「石破は生かさず殺さず」与野党、奇妙な”思惑”一致のウラ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f309537eeca540dd9f716b99b445e018543a68d8d915f6857c45e1ddbee48992.jpg> 停電で閉鎖 英空港が一部再開
+      <a href=https://news.yahoo.co.jp/pickup/6533071>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/86954505bb1245336c5bf728c2167420ba21fd306819bafd8eb55fd3e9e55425.jpg> 回線不正契約 少年Gの実態浮かぶ
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533066>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/cac0fe31a134f3080c8e87f8505c64b1f5eabd42d5a13fcde4d9b10dcf882d6f.jpg> 脊髄損傷 iPS細胞で運動機能改善
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/3b80c04e13e838efad85f08b721ad6dbf70ccb2afebb6450b4fe274ee4cff05e.jpg> 脊髄損傷 iPS細胞で運動機能改善
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533067>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/c57cf2b4c8d1370e8a795e2fbeb7263c8ab7f96db1279c00fcecd0d3a35bab73.jpg> 速報センバツ 高松商vs.早稲田実
+      <a href=https://news.yahoo.co.jp/pickup/6533077>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/1019e08ad4b4a96fe1da12bd6fb30b0a91aa66980989a9892d03671f411641fe.jpg> 伊東純也 代表離脱「きつかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533065>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/54388ecfd02998bd017d923cf9a956e42075092b0dcf83a69900fe32c66272c1.jpg> ダルビッシュ 開幕は離脱濃厚
+      <a href=https://news.yahoo.co.jp/pickup/6533080>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/2ce7d607c4306bc1d552c2e3453193493198b39404c3edfab8318f2c838cc1c9.jpg> 今田美桜 TBS世陸アンバサダーに
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 11:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 11:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
