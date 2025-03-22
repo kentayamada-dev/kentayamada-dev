@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ab6befd0dd96b52147e3f675df20bc7c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c516f94759342104be22bc0568ddf9f8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e82727e8b8f64428eb062e6133f588c65ecf8427>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-01627389-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> のとじま水族館が全面再開、地震後初のイルカショーに歓声　石川
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/18ec7fd029f0e19ef018bf59d32cc4d06719a231>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000080-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 不祥事降板のジャンポケ斉藤の後任には爆問・田中裕二　４月から「ウイニング競馬」メインＭＣ「我を忘れて馬券に集中しないように」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/45d77529f6235d2a62a98725566097e432826f5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 社説：自民の献金体質　歴代の悪弊にメスいれねば
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57005662ce28ab60a1850576e166a33fdfde0662>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00946587-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【恐怖】「ゴミ袋から肉の塊が…」大阪市の遊歩道で男性の切断遺体の一部発見　年齢や身元は不明で死亡日時や死因も特定できず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9504c2ef932124f4264a900f45b7298c2b04b801>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-21805242-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 安倍政権も商品券配布か「商品券的なものを受け取った」自民議員が証言　自民党の「慣習」? 国会で野党の追及続く【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b9263fd018183a54e1ed8bfa7889860302c2c58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00010002-wmap-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=500&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】本州で今年初の25℃超え夏日に　23日(日)はさらに夏日地点が増加予想
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24896f14b61d75f730be4e95fb493fdef98dfce1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00050092-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 石川・七尾市「のとじま臨海公園水族館」全面再開…イルカショー復活に観客「元気でいてくれた」
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/b20369d9b9d73c6a5f0808356214a6837148b786acf9f1299a2b6dcc6a008b12.jpg> イスラエル側 ガザ一部併合を示唆
+      <a href=https://news.yahoo.co.jp/pickup/6533106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/29f9cace56069593fae7920d225c1aee278febc0a30551736c00a96aae414b38.jpg> 正恩氏 露侵攻を「変わらず支持」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533079>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/9fec8221c3d63b30c9fccec9df096edf74e42c093d709f766d33e569a1f6bf11.jpg> 自民 都議選の候補者擁立に苦戦
+      <a href=https://news.yahoo.co.jp/pickup/6533107>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/94271eb48b0b1a860ba5779e37d9e7d6ee8a801c777d087fffd14a813170c4c4.jpg> 気温↑ 本州で今年初めての夏日
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533101>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/605dd9a8960d0a89fbed1009b358065b65b1ffbdb93289c2e2c4426c3343d291.jpg> 沙羅 表彰台届かずシーズン終了
+      <a href=https://news.yahoo.co.jp/pickup/6533109>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/ea32eb620336a948e7292649d73da68271519d088261471f1d65bb61f2c7493c.jpg> 爆問田中 ウイニング競馬MC就任
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 16:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 16:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
