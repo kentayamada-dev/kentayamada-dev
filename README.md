@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fe0844726575a91ba44b77867a8ab53a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9413d315f9d211b913aa3b3743c3e4dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ee5f142a2bec1cce952cab7cd7259fe8e18f43a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000050-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 【関東の天気】東京 桜の開花→見頃が今世紀最速　今年の見頃は長い！
+      <a href=https://news.yahoo.co.jp/articles/00be271b9d8c9426cfde605c35b060cea5bf8bfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00004606-itv-000-1-thumb.jpg?exp=10800&fmt=webp> 路上で女性を切り付け逃走した男(52)を殺人未遂容疑で逮捕  愛媛・松山市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cd0ed75cf71bc954de90523b2d84be8dcde7ade9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07226069-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】旧統一教会への解散命令に関する判断を25日に示すか　この日に裁判所に来るよう文科省と教団側に伝える
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/938bc334124a8b8d91a599d56004db90c9b44db7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-21805902-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 約1年3か月ぶりのイルカショーに沸く観客 のとじま水族館 全ての展示再開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b87630b9a177bbbfc1b0fa583532298435adb1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-35230813-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 英ヒースロー空港、通常業務再開　大規模停電による混乱の翌日
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-21805902-mrov-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石川・七尾市の「のとじま水族館」が全面再開 地震乗り越え約1年3か月ぶりにイルカショー
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533108>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/70275dd4a3bc31779626603c1bfe5a9388f15202e322985fb471fc9e645b077e.jpg> 首相の商品券配布 法的問題を解説
+      <a href=https://news.yahoo.co.jp/pickup/6533122>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/c6bb496092008c7427f371482b26501a6c0fc5c1a6ac2d9b13a6a1b66364b935.jpg> 旧統一巡り 25日に解散命令判断か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533103>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/c7747ebfec444d037181db7f3498db9a18cac132e0d85e0d1de644b0e6e72877.jpg> 政治系切り抜き動画 識者の見解
+      <a href=https://news.yahoo.co.jp/pickup/6533108>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/70275dd4a3bc31779626603c1bfe5a9388f15202e322985fb471fc9e645b077e.jpg> 首相の商品券配布 法的問題を解説
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533110>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/76ac20bbd991f8cb3bc7e00f7d073493217f60a7aaab4c81b80d34d382726233.jpg> 農地に全裸の男性遺体 鹿児島
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533117>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f309537eeca540dd9f716b99b445e018543a68d8d915f6857c45e1ddbee48992.jpg> 停電で閉鎖 英空港が全面再開
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533123>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f4e581828a3cf7248bfb366e801b82c2b20e5414ca1924abb23a3efdd5b15c5e.jpg> ゆたぼん アンチは4割に減った
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 19:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 19:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
