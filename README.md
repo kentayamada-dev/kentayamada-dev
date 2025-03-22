@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9fa01dbe000d2146ed96668c9bda0e9d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b988e1c0eda3cc3dce558436de655426.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/47e4f9c4f209c59b1b95ad03535480f3374e8bd73aa03d2f40d59cbf903ae699.jpg> ミュゼ休業 客感じた「店の変化」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533058>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/359a1ff973522e2844b7c2d8e5b4a4bbaee8bae32e4b60d5b483cfce46985150.jpg> コメダ運営甘味処 関東で出店進む
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533054>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/ad4bb0828ea8e67d3c100b136ae692c6b44ad54949b0d768618ec05474ee9576.jpg> 小笠原慎之介、マイナー降格
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 10:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 10:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
