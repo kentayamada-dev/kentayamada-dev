@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cbd9e1442362fcfd457236870122a0e4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb15bd408c44ca818f880ceeacb24b2c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9504c2ef932124f4264a900f45b7298c2b04b801>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-21805242-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 安倍政権も商品券配布か「商品券的なものを受け取った」自民議員が証言　自民党の「慣習」? 国会で野党の追及続く【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6dee8215d4da13f505e2520e93d7d6794b0ce533>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-03221110-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=204&cw=800&ch=800&exp=10800&fmt=webp> 「こち亀記念館」オープン　秋本治氏「ライバルは浅草花やしき」
       </a>
@@ -365,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d047a8844106688fee00e432e7366e7c8359b04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00050424-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「めいを殺してしまった」父親に打ち明けたか　殺人容疑で再逮捕の男　八尾・コンクリ詰め遺体
+      <a href=https://news.yahoo.co.jp/articles/24896f14b61d75f730be4e95fb493fdef98dfce1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00050092-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 石川・七尾市「のとじま臨海公園水族館」全面再開…イルカショー復活に観客「元気でいてくれた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24896f14b61d75f730be4e95fb493fdef98dfce1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00050092-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 石川・七尾市「のとじま臨海公園水族館」全面再開…イルカショー復活に観客「元気でいてくれた」
+      <a href=https://news.yahoo.co.jp/articles/47f95bb5190569228f089e5957176d2e9a5b8bab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00770226-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 吉永小百合「世界中のみんなで考えていかなければ」　2000人の観客の前で平和を祈る朗読を披露
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533092>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/5221e03f1b876de71ad6ef5fc254a409f6571fb9657ec2d597c80ed203460e11.jpg> 日中韓外相 早期の首脳会談で一致
+      <a href=https://news.yahoo.co.jp/pickup/6533079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/9fec8221c3d63b30c9fccec9df096edf74e42c093d709f766d33e569a1f6bf11.jpg> 自民 都議選の候補者擁立に苦戦
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533082>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f15ec459f29515fec71f2482dc70b55cac3eef9af1687fdb5ea2a2356e950e68.jpg> 中国EV ハンガリーに相次ぎ進出
+      <a href=https://news.yahoo.co.jp/pickup/6533102>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/7c6eff6df919a67ce34b63753a9b9e9df948a72b974d65e68d4913cf9440a5e5.jpg> まもなく万博 ホテル需給がひっ迫
       </a>
     </td>
   </tr>
@@ -426,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533095>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/131cdd0e96d0d455d1d68389fdbc4a8f93a379152ce9390d8d2189fa4ff0010c.jpg> 100年前グルメ本掲載 人気店の今
+      <a href=https://news.yahoo.co.jp/pickup/6533100>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/0d907e160dc114595bf2584abd32392fbc4f77b37415a0ef39c6d67a9e46c8a0.jpg> こち亀記念館 ライバルは花やしき
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533101>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/605dd9a8960d0a89fbed1009b358065b65b1ffbdb93289c2e2c4426c3343d291.jpg> 沙羅 表彰台届かずシーズン終了
       </a>
     </td>
   </tr>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533088>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/8a33fad4d0e58673e61ac0cf1642177d7a6af956e06f23119a9d612ea7fd8794.jpg> 清水みさと 夫・高橋とけんかない
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 15:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 15:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
