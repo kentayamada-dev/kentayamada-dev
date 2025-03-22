@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51dac0f70cbe1be5847b4792b7aa29cd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0937e4457550e0b4830e5da4ea09a287.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ad909e9ffc4c35fe467daec31a64a31eb6c1047f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000005-kobenext-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=1039&ch=1039&exp=10800&fmt=webp> 泉房穂氏、24日に参院選立候補を正式表明　兵庫選挙区、午後に記者会見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fa2f61c003b211d049720fcffb206c16eb6e5a9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07226024-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「人質解放しなければガザ一部を併合」イスラエル国防相が警告　ハマスはアメリカの提案含め協議を通じた停戦再開に前向き姿勢
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07226024-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「人質解放しなければガザ一部を併合」イスラエル国防相が警告　ハマスはアメリカの提案含め協議を通じた停戦再開に前向き姿勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/25e3e29d126988da968a5bb007e4a01ca2b48258>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00029103-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 東京都心　昼前に20℃超え　内陸は今年初25℃超えか　23日は夏日地点が更に増加
       </a>
     </td>
   </tr>
@@ -371,27 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47f95bb5190569228f089e5957176d2e9a5b8bab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00770226-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 吉永小百合「世界中のみんなで考えていかなければ」　2000人の観客の前で平和を祈る朗読を披露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69c7756c0760287555423e2aa67207d07aaaa7d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-03221051-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=75&cw=951&ch=951&exp=10800&fmt=webp> 今田美桜、ＴＢＳ世界陸上アンバサダー就任「皆様と一緒に盛り上げられること、大変光栄に思います！」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/7e05628d1a317429a61b0ce00757012044987942275ba95b0b8e87654b7a3230.jpg> 都心昼前に20℃超え 午後更に上昇
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533076>
@@ -402,24 +410,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533085>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/900aeab1bb63c3fa592fd9834f56599d8af345fa143f34c68f1b3eedd4ceae9f.jpg> コンクリ詰め遺体 しつけのため
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533071>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/86954505bb1245336c5bf728c2167420ba21fd306819bafd8eb55fd3e9e55425.jpg> 回線不正契約 少年Gの実態浮かぶ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533070>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/a35cbe634cc0db820d319adcf30c051a1c56f5fab012e3eb99285b3983e1842f.jpg> 対向車と衝突し母子3人死傷 逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533066>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/3b80c04e13e838efad85f08b721ad6dbf70ccb2afebb6450b4fe274ee4cff05e.jpg> 脊髄損傷 iPS細胞で運動機能改善
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533083>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/861bd2ec29b7c1def4acf841328f3588ee7c79909ff0163628c444d663c24693.jpg> ヘビー級元王者 フォアマン氏死去
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/a823675f946b17082da94408fb249d0d133dd0708e0a01dca4533714a3916d3c.jpg> ヘビー級元王者 フォアマン氏死去
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 12:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 12:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
