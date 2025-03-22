@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/BQONc-EGHjA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0937e4457550e0b4830e5da4ea09a287.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b23bdccfd59240afa7458214263eea71.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8d047a8844106688fee00e432e7366e7c8359b04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00050424-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「めいを殺してしまった」父親に打ち明けたか　殺人容疑で再逮捕の男　八尾・コンクリ詰め遺体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/24896f14b61d75f730be4e95fb493fdef98dfce1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00050092-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 石川・七尾市「のとじま臨海公園水族館」全面再開…イルカショー復活に観客「元気でいてくれた」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ad909e9ffc4c35fe467daec31a64a31eb6c1047f>
@@ -373,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25e3e29d126988da968a5bb007e4a01ca2b48258>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00029103-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 東京都心　昼前に20℃超え　内陸は今年初25℃超えか　23日は夏日地点が更に増加
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/332c08353647a00ca9696be74961eb5d5fb3eb34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-90021074-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “商品券配布”　自民議員「努力賞と思った」 安倍政権下でも　国会で追及続く
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-90021074-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “商品券配布”　自民議員「努力賞と思った」 安倍政権下でも　国会で追及続く
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 12:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 13:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
