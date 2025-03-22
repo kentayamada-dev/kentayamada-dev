@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/169a2a4c54de6dab7c627b187c0f4053.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7aa6446a22e434889501aab68997c709.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -386,6 +386,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533124>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/ab734353b549ab438d02ef526eee3801a88681e347ea617c0f2a524b8b0cf83d.jpg> 米 移民50万人超を「追放」へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533135>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/720cc9b6778eae149acb203bea17d67d8713c3ad59ef1455f9cffcbff6a75870.jpg> 詐欺拠点近くで邦人一時保護 タイ
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533124>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/ab734353b549ab438d02ef526eee3801a88681e347ea617c0f2a524b8b0cf83d.jpg> 米 移民50万人超を「追放」へ
+      <a href=https://news.yahoo.co.jp/pickup/6533144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/ab23d1e13fe42ea56ad30eb852d2e48b108e4c70bb3b377e24ced8a5c3fe46b8.jpg> 山中に女性遺体遺棄疑い 知人逮捕
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/d83ad7cf97c73995849dfdcefadc04d8e451f93c5088aa9e1c1c808743c5269d.jpg> すき家 ネズミ混入を認めて謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/1a347bead3048ec215c45519fb6b0ccbb3dcca773b9d77efe36f555b4ef05934.jpg> るろ剣 アニメの第3期制作が決定
+      <a href=https://news.yahoo.co.jp/pickup/6533142>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/d9a4925ab4cebc6211c28b74c14f702ec05a3f046237ac9aa1a01c18015affdd.jpg> 吉田正尚 開幕はマイナーが決定
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 07:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 07:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
