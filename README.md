@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fb15bd408c44ca818f880ceeacb24b2c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab6befd0dd96b52147e3f675df20bc7c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57005662ce28ab60a1850576e166a33fdfde0662>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00946587-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【恐怖】「ゴミ袋から肉の塊が…」大阪市の遊歩道で男性の切断遺体の一部発見　年齢や身元は不明で死亡日時や死因も特定できず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9504c2ef932124f4264a900f45b7298c2b04b801>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-21805242-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 安倍政権も商品券配布か「商品券的なものを受け取った」自民議員が証言　自民党の「慣習」? 国会で野党の追及続く【news23】
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6dee8215d4da13f505e2520e93d7d6794b0ce533>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-03221110-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=204&cw=800&ch=800&exp=10800&fmt=webp> 「こち亀記念館」オープン　秋本治氏「ライバルは浅草花やしき」
+      <a href=https://news.yahoo.co.jp/articles/4b9263fd018183a54e1ed8bfa7889860302c2c58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00010002-wmap-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=500&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】本州で今年初の25℃超え夏日に　23日(日)はさらに夏日地点が増加予想
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/24896f14b61d75f730be4e95fb493fdef98dfce1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00050092-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=359&ch=359&exp=10800&fmt=webp> 石川・七尾市「のとじま臨海公園水族館」全面再開…イルカショー復活に観客「元気でいてくれた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47f95bb5190569228f089e5957176d2e9a5b8bab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00770226-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 吉永小百合「世界中のみんなで考えていかなければ」　2000人の観客の前で平和を祈る朗読を披露
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533105>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「性犯罪マップ」賛否 法的問題は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533093>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/9153cfe4559cbff554d358f90ae237b10b8a28cec25c5e8c107e1186646acb0d.jpg> 中国人の日本での「爆入学」背景
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533100>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/0d907e160dc114595bf2584abd32392fbc4f77b37415a0ef39c6d67a9e46c8a0.jpg> こち亀記念館 ライバルは花やしき
+      <a href=https://news.yahoo.co.jp/pickup/6533098>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/429a5a40d0fa48e2f9da8780ee38d5248a54e84dc08aa405cccbd3a0a434e4f4.jpg> 文房具店に訪日客続々 人気の理由
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/e6c34ba976d3afc7e7233f2453557a07b08f554f00a6baebdd95f5b847d9691f.jpg> 元ギャルモデル がん宣告時の心境
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 15:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 16:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
