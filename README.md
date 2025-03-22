@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7aa6446a22e434889501aab68997c709.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24120d72b9dab36c00d5a55a204d8b80.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ed80d62b7924ce9ac8f9e3dc3e5943478dfcaf7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> イスラエル軍、レバノンに報復攻撃　2人死亡、8人ケガ　現地報道
+      <a href=https://news.yahoo.co.jp/articles/28d3989f455d301bed36b56d33ab509ae0860635>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】23日の天気 - 関東から西日本 初夏の陽気も　東京はさくら開花も間近（23日7時更新）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c26d2400bc754817eb79a52e80f1e38a7e01956>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010000-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 23日（日）の天気　西～東日本は初夏の陽気続く　関東もことし初の“夏日”予想　さくら前線スタートか
+      <a href=https://news.yahoo.co.jp/articles/ca4cb022bbf4067b7fc71fd96c6b151c6f171269>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> レバノンへの攻撃継続　イスラエルで大規模デモ
       </a>
     </td>
   </tr>
@@ -378,6 +378,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/af5423c67177e49a852516a40e63bc6353a82b4da69e8d7bee188ea794770f04.jpg> 水産物輸入再開 中国は時期示さず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533139>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/33eb4d5e2d2bebd9e65aff97aae3b34d03af60a681afd6d69469c4bafa9561e3.jpg> 首相発言巡る中国発表 外務省抗議
       </a>
@@ -386,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533124>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/ab734353b549ab438d02ef526eee3801a88681e347ea617c0f2a524b8b0cf83d.jpg> 米 移民50万人超を「追放」へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533135>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/720cc9b6778eae149acb203bea17d67d8713c3ad59ef1455f9cffcbff6a75870.jpg> 詐欺拠点近くで邦人一時保護 タイ
+      <a href=https://news.yahoo.co.jp/pickup/6533147>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/d505c76c867a593c4a128447cc2a71d4de7bd87e0ea01f1f42ef015017f0cdd4.jpg> 関東から西は初夏の陽気 夏日も
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533127>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/5e4b613d61c73dd6e360138809db655a0b3e2e0e7377c79e6cf99d89baad2f6b.jpg> クラス全員の成績 保護者に誤送信
+      <a href=https://news.yahoo.co.jp/pickup/6533142>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/d9a4925ab4cebc6211c28b74c14f702ec05a3f046237ac9aa1a01c18015affdd.jpg> 吉田正尚 開幕はマイナーが決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533142>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/d9a4925ab4cebc6211c28b74c14f702ec05a3f046237ac9aa1a01c18015affdd.jpg> 吉田正尚 開幕はマイナーが決定
+      <a href=https://news.yahoo.co.jp/pickup/6533148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/207c44297d7efd7733fb67183f874da2cae14a473b8eb5f152b99744bab7576b.jpg> 千賀健永の350万円絵画に買い手
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 07:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 08:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
