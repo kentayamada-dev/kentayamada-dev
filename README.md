@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/BQONc-EGHjA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9824a3ecd244a682425aa6e8c0740102.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/00fe27f44532580718722654032ea73c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/852bba94c5251280cddffb305f8b69fd865755d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-04526917-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 爆笑問題・田中裕二「ウイニング競馬」新MCに就任 元ジャンポケ斉藤慎二の後任
+      <a href=https://news.yahoo.co.jp/articles/618bebfbda41c3720a9cead18f09415510f46cbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00946610-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相“商品券配布問題”で「そんなことで予算委員会の時間を使わないで」国民・玉木代表ら野党から「政倫審」での説明求める声相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/211d03a176a2a4ed2155d29764042ad9384ecfd8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000042-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=493&ch=493&exp=10800&fmt=webp> 大阪・堂島川沿いの切断遺体は上半身の一部　頭部未発見、所持品なし
+      <a href=https://news.yahoo.co.jp/articles/ad7b6fde2edae6564c809fb32cc5f4bd41165693>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00010003-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【23日(日)の天気】25℃以上の夏日エリア拡大　西～東日本は初夏の陽気続く　さくら開花する予想も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/852bba94c5251280cddffb305f8b69fd865755d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-04526917-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 爆笑問題・田中裕二「ウイニング競馬」新MCに就任 元ジャンポケ斉藤慎二の後任
       </a>
     </td>
   </tr>
@@ -394,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533116>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/11562e3fc354b965c477ca69c1a17c77497be9900f69c9b9873cf18c33422997.jpg> 自民・小野寺氏 政府に不快感示す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533114>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/fdde83870d7c3c60c9c6ce8ad6611fc4d063aaf8951f620632db484c165ac22e.jpg> 小5の息子殺され10年 父親の決意
       </a>
@@ -403,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/c41c51bc68f96afe808ca0bf844ceb1566ca5196cc8665191385430071153e0f.jpg> 農地に全裸の男性遺体 鹿児島
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/76ac20bbd991f8cb3bc7e00f7d073493217f60a7aaab4c81b80d34d382726233.jpg> 農地に全裸の男性遺体 鹿児島
       </a>
     </td>
   </tr>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533109>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/ea32eb620336a948e7292649d73da68271519d088261471f1d65bb61f2c7493c.jpg> 爆問田中 ウイニング競馬MC就任
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 17:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 18:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
