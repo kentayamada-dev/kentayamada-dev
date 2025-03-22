@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/BQONc-EGHjA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/38c1a793cd08e55819094198957239c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5589b209a2332d5a6a66f4260f4cc6ee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89d66041177b4be1ba9b0e681b51ae3e919b40e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-07226104-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル軍ヒズボラ拠点に大規模空爆　中東情勢が再び緊迫化
+      <a href=https://news.yahoo.co.jp/articles/6c26d2400bc754817eb79a52e80f1e38a7e01956>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010000-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 23日（日）の天気　西～東日本は初夏の陽気続く　関東もことし初の“夏日”予想　さくら前線スタートか
       </a>
     </td>
   </tr>
@@ -370,8 +370,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533136>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/87c003a15528778984068bb426437104b4524e3e3a9ee1cd1c7ff17570c09d2f.jpg> オウム中川元死刑囚 執行前に遺書
+      <a href=https://news.yahoo.co.jp/pickup/6533139>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/33eb4d5e2d2bebd9e65aff97aae3b34d03af60a681afd6d69469c4bafa9561e3.jpg> 首相発言巡る中国発表 外務省抗議
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/13c910947236257fae096c08df4b880ea895d5d8c86c4c748d6bf0df22562bc6.jpg> 夜行バスが木に衝突 運転手死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533136>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/87c003a15528778984068bb426437104b4524e3e3a9ee1cd1c7ff17570c09d2f.jpg> オウム中川元死刑囚 執行前に遺書
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533139>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/33eb4d5e2d2bebd9e65aff97aae3b34d03af60a681afd6d69469c4bafa9561e3.jpg> 首相発言巡る中国発表 外務省抗議
+      <a href=https://news.yahoo.co.jp/pickup/6533141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/13c910947236257fae096c08df4b880ea895d5d8c86c4c748d6bf0df22562bc6.jpg> 夜行バスが木に衝突 運転手死亡
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 06:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 06:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
