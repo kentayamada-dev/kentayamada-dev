@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f3daf0c27c73ea3729774cc770b55b3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fe0844726575a91ba44b77867a8ab53a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae239d9f89719239a1a434b4cddccb622575035d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-09759625-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【あすの天気】季節外れの初夏の陽気、夏日も続出　多雪地域は融雪進み雪崩などに注意
+      <a href=https://news.yahoo.co.jp/articles/0ee5f142a2bec1cce952cab7cd7259fe8e18f43a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000050-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 【関東の天気】東京 桜の開花→見頃が今世紀最速　今年の見頃は長い！
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf7488b6f210b4e8f9be00607d46e1534bbaa78c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-03465424-ktk-000-2-thumb.jpg?exp=10800&fmt=webp> のとじま水族館全面再開　人気のイルカショーが復活
+      <a href=https://news.yahoo.co.jp/articles/938bc334124a8b8d91a599d56004db90c9b44db7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-21805902-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 約1年3か月ぶりのイルカショーに沸く観客 のとじま水族館 全ての展示再開
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533116>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/11562e3fc354b965c477ca69c1a17c77497be9900f69c9b9873cf18c33422997.jpg> 自民・小野寺氏 政府に不快感示す
+      <a href=https://news.yahoo.co.jp/pickup/6533103>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/c7747ebfec444d037181db7f3498db9a18cac132e0d85e0d1de644b0e6e72877.jpg> 政治系切り抜き動画 識者の見解
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533113>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f45323dd2913d417976633715ef9170a52b6af8f4ec737f0d4291d1a2ece63bd.jpg> 元二重スパイ「KGBの男」が死去
+      <a href=https://news.yahoo.co.jp/pickup/6533117>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f309537eeca540dd9f716b99b445e018543a68d8d915f6857c45e1ddbee48992.jpg> 停電で閉鎖 英空港が全面再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533102>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/7c6eff6df919a67ce34b63753a9b9e9df948a72b974d65e68d4913cf9440a5e5.jpg> まもなく万博 ホテル需給がひっ迫
+      <a href=https://news.yahoo.co.jp/pickup/6533121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/d83ad7cf97c73995849dfdcefadc04d8e451f93c5088aa9e1c1c808743c5269d.jpg> すき家 ネズミ混入を認めて謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 18:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 19:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
