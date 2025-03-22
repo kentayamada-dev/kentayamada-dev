@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/821ffa8e7a7330f1b7b4ed6218190c69.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1fb3a2758945fe8b5731b225d772c08.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ddebf749ee2f9995a2a95e95d96614df963760fa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00010042-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=675&ch=675&exp=10800&fmt=webp> アニメ『るろうに剣心』第3期制作決定　剣心の決意描くスペシャルPVも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc80ab335633b99451b9c95c23af631745b68ccf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000049-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=549&ch=549&exp=10800&fmt=webp> 日中外相会談　「戦略的互恵関係」推進で一致　水産物輸入再開求める
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533138>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> バスが林に突っ込む 20人超けが
+      <a href=https://news.yahoo.co.jp/pickup/6533140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/13c910947236257fae096c08df4b880ea895d5d8c86c4c748d6bf0df22562bc6.jpg> 夜行バスが林に衝突 運転手死亡
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 23:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 23:52:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
