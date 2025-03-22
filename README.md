@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f4d00490a17fe2f993456e1979b5befe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9824a3ecd244a682425aa6e8c0740102.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/406e2b4e7b4cdea2af3e234178bf87d5b6751791>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000068-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=658&ch=658&exp=10800&fmt=webp> ＜ウイニング競馬＞「爆笑問題」田中裕二がMCに　ゲスト出演で3連単的中
+      <a href=https://news.yahoo.co.jp/articles/852bba94c5251280cddffb305f8b69fd865755d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-04526917-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 爆笑問題・田中裕二「ウイニング競馬」新MCに就任 元ジャンポケ斉藤慎二の後任
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/211d03a176a2a4ed2155d29764042ad9384ecfd8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000042-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=493&ch=493&exp=10800&fmt=webp> 大阪・堂島川沿いの切断遺体は上半身の一部　頭部未発見、所持品なし
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/68568f4cd0b6452761290f9d0f3b6afab2b198c2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000035-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=503&ch=503&exp=10800&fmt=webp> イルカもアシカも祝福　能登地震で被災「のとじま水族館」が完全復活
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57005662ce28ab60a1850576e166a33fdfde0662>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00946587-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【恐怖】「ゴミ袋から肉の塊が…」大阪市の遊歩道で男性の切断遺体の一部発見　年齢や身元は不明で死亡日時や死因も特定できず
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533106>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/29f9cace56069593fae7920d225c1aee278febc0a30551736c00a96aae414b38.jpg> 正恩氏 露侵攻を「変わらず支持」
+      <a href=https://news.yahoo.co.jp/pickup/6533114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/fdde83870d7c3c60c9c6ce8ad6611fc4d063aaf8951f620632db484c165ac22e.jpg> 小5の息子殺され10年 父親の決意
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533110>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/c41c51bc68f96afe808ca0bf844ceb1566ca5196cc8665191385430071153e0f.jpg> 農地に全裸の男性遺体 鹿児島
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533113>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f45323dd2913d417976633715ef9170a52b6af8f4ec737f0d4291d1a2ece63bd.jpg> 元二重スパイ「KGBの男」が死去
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533098>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/429a5a40d0fa48e2f9da8780ee38d5248a54e84dc08aa405cccbd3a0a434e4f4.jpg> 文房具店に訪日客続々 人気の理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533111>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/970eee833df461b0f639306302fc5e0518382323aa9b700e892ac7d8defb301f.jpg> 武豊 JRAで初の通算2.5万回騎乗
+      <a href=https://news.yahoo.co.jp/pickup/6533115>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/1e30683463c44f56b2c26a0250211f0917e1b1c70815bfd9caba2beeb56faec6.jpg> 渡辺雄太 今季2度目の長期離脱へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 17:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 17:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
