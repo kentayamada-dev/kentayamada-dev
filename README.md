@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4671e3f82338e7c829dd6d4896dc02e6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/14e46f9ef92187244117cbeb39bbaaa1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00be271b9d8c9426cfde605c35b060cea5bf8bfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00004606-itv-000-2-thumb.jpg?exp=10800&fmt=webp> 路上で女性が切り付けられた事件 52歳の男を殺人未遂容疑で逮捕  愛媛・松山市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0916da5841ff05570e00952e71bc58f718ebd430>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000118-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=147&cw=707&ch=707&exp=10800&fmt=webp> アニメ「るろうに剣心」第3期制作決定、“スペシャルPV”も公開
+      <a href=https://news.yahoo.co.jp/articles/0ee5f142a2bec1cce952cab7cd7259fe8e18f43a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000050-ann-000-8-thumb.jpg?exp=10800&fmt=webp> 【関東の天気】東京 桜の開花→見頃が今世紀最速　今年の見頃は長い！
       </a>
     </td>
   </tr>
@@ -389,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/618bebfbda41c3720a9cead18f09415510f46cbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00946610-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相“商品券配布問題”で「そんなことで予算委員会の時間を使わないで」国民・玉木代表ら野党から「政倫審」での説明求める声相次ぐ
+      <a href=https://news.yahoo.co.jp/articles/ad7b6fde2edae6564c809fb32cc5f4bd41165693>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00010003-wmap-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【23日(日)の天気】25℃以上の夏日エリア拡大　西～東日本は初夏の陽気続く　さくら開花する予想も
       </a>
     </td>
   </tr>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/fdde83870d7c3c60c9c6ce8ad6611fc4d063aaf8951f620632db484c165ac22e.jpg> 小5の息子殺され10年 父親の決意
+      <a href=https://news.yahoo.co.jp/pickup/6533128>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/fb1e531a11316e68daee99712016ac0997e78e5770d4bb760b5f6efa8c5eb850.jpg> 23日から 花粉・黄砂ダブルパンチ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533120>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/5e8e2fc7dd66fe98297b5b57a4243f8f974d53df580488833f21864eae7e5e72.jpg> 楽天証券で不正アクセス 被害証言
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533120>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/5e8e2fc7dd66fe98297b5b57a4243f8f974d53df580488833f21864eae7e5e72.jpg> 楽天証券で不正アクセス 被害証言
+      <a href=https://news.yahoo.co.jp/pickup/6533127>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/5e4b613d61c73dd6e360138809db655a0b3e2e0e7377c79e6cf99d89baad2f6b.jpg> クラス全員の成績 保護者に誤送信
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f4e581828a3cf7248bfb366e801b82c2b20e5414ca1924abb23a3efdd5b15c5e.jpg> ゆたぼん 夢はボクシングのプロ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 20:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 20:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
