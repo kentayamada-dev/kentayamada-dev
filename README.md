@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/24120d72b9dab36c00d5a55a204d8b80.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5ae4de12c3f30bc2001363fdc077e4dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/28d3989f455d301bed36b56d33ab509ae0860635>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】23日の天気 - 関東から西日本 初夏の陽気も　東京はさくら開花も間近（23日7時更新）
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010000-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】23日の天気 - 関東から西日本 初夏の陽気も　東京はさくら開花も間近（23日7時更新）
       </a>
     </td>
   </tr>
@@ -386,24 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533139>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/33eb4d5e2d2bebd9e65aff97aae3b34d03af60a681afd6d69469c4bafa9561e3.jpg> 首相発言巡る中国発表 外務省抗議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533147>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/d505c76c867a593c4a128447cc2a71d4de7bd87e0ea01f1f42ef015017f0cdd4.jpg> 関東から西は初夏の陽気 夏日も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533136>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/87c003a15528778984068bb426437104b4524e3e3a9ee1cd1c7ff17570c09d2f.jpg> オウム中川元死刑囚 執行前に遺書
       </a>
     </td>
   </tr>
@@ -418,8 +402,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533152>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/a8389d221a6c45e64070c437b94a185bab66cf03c2314cffaacea1a01b055631.jpg> 横断歩道で高2が車にはねられ死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533144>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/ab23d1e13fe42ea56ad30eb852d2e48b108e4c70bb3b377e24ced8a5c3fe46b8.jpg> 山中に女性遺体遺棄疑い 知人逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533149>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/353312340269d269985d841a4eaebbdacc0dac767e67e5182ada68ad2dd2e70c.jpg> 予約殺到「ヌン活」ブーム続く
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 08:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 08:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
