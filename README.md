@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b988e1c0eda3cc3dce558436de655426.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/00850efa687c37921d48cb4668730dde.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4ec5a2283a995e11ce0d9bb7f5a27b329154e29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000023-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ハマス、米停戦案受け入れ検討　エジプトも暫定案提示
+      <a href=https://news.yahoo.co.jp/articles/64e4e8f04cf6f98518ea6f4a79622e33cc7881d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-21805335-rsk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 母親（27）死亡　3歳の息子が意識不明の重体　吉備中央町の正面衝突死亡事故で女を逮捕　対向車線に進入し対向車の女性を死亡させたなどの疑い【岡山】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12dff62152d362c10cc04603edd0a214513fe96e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-11625659-ksbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 吉備中央町の4人死傷事故　センターライン越えて正面衝突した疑いで女を逮捕　岡山
+      <a href=https://news.yahoo.co.jp/articles/cac69d3a788808eeeb5a8aa6d5d56982079940ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-33220217-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=650&ch=650&exp=10800&fmt=webp> 泉房穂氏「動き始めることにした」参院選立候補への思い投稿　東国原英夫氏の激励Xに謝意も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a4ec5a2283a995e11ce0d9bb7f5a27b329154e29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000023-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ハマス、米停戦案受け入れ検討　エジプトも暫定案提示
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b2796f6183f4485ff48428aa764f0c74af38ce4c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00253437-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1640&ch=1640&exp=10800&fmt=webp> 〈商品券問題〉支持率急落も「石破は生かさず殺さず」与野党、奇妙な”思惑”一致のウラ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0951aaf2c3062424908691edad6c212eff2f00a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00946523-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 4歳男児が意識不明の重体　窓から転落の可能性　愛知・豊橋市
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533066>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/cac0fe31a134f3080c8e87f8505c64b1f5eabd42d5a13fcde4d9b10dcf882d6f.jpg> 脊髄損傷 iPS細胞で運動機能改善
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533068>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/4d50057c33b9682dd60252e1732d775f83c3ef87d2692498d23a5c685a8cf9bd.jpg> 水俣病を「感染症」市が誤表記
       </a>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533074>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/47e4f9c4f209c59b1b95ad03535480f3374e8bd73aa03d2f40d59cbf903ae699.jpg> ミュゼ休業 客感じた「店の変化」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533058>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/359a1ff973522e2844b7c2d8e5b4a4bbaee8bae32e4b60d5b483cfce46985150.jpg> コメダ運営甘味処 関東で出店進む
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 10:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 11:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
