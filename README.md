@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9ebbc29234b09d1964f5c1846b646ee9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51dac0f70cbe1be5847b4792b7aa29cd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa882f75035986e0901f488e85bad9d258030c92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-33220298-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=684&ch=684&exp=10800&fmt=webp> 田崎史郎氏「有罪とかにするのはなかなか難しいのでは」商品券問題受けた市民団体の告発に私見
+      <a href=https://news.yahoo.co.jp/articles/fa2f61c003b211d049720fcffb206c16eb6e5a9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07226024-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「人質解放しなければガザ一部を併合」イスラエル国防相が警告　ハマスはアメリカの提案含め協議を通じた停戦再開に前向き姿勢
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d35ba1d062dea3084d8a633c97f74bfad35814ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00050084-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イスラエル国防相「ガザの一部を併合する」…人質解放巡りハマスへ圧力、制圧地域拡大を指示
+      <a href=https://news.yahoo.co.jp/articles/332c08353647a00ca9696be74961eb5d5fb3eb34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-90021074-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “商品券配布”　自民議員「努力賞と思った」 安倍政権下でも　国会で追及続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/47f95bb5190569228f089e5957176d2e9a5b8bab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00770226-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 吉永小百合「世界中のみんなで考えていかなければ」　2000人の観客の前で平和を祈る朗読を披露
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cac69d3a788808eeeb5a8aa6d5d56982079940ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-33220217-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=650&ch=650&exp=10800&fmt=webp> 泉房穂氏「動き始めることにした」参院選立候補への思い投稿　東国原英夫氏の激励Xに謝意も
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533069>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/3c99c6d9b67653b3c989e9fc75d010cca846241a07a50d2a2699a51888f45da2.jpg> ウの領土分割協定協議へ 米大統領
+      <a href=https://news.yahoo.co.jp/pickup/6533076>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/e59cf5f88e7e540738db20daf46ceeecd551c83099de2177dd9f90850136ae69.jpg> 米大統領 テスラ車放火は「テロ」
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533068>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/4d50057c33b9682dd60252e1732d775f83c3ef87d2692498d23a5c685a8cf9bd.jpg> 水俣病を「感染症」市が誤表記
+      <a href=https://news.yahoo.co.jp/pickup/6533074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/47e4f9c4f209c59b1b95ad03535480f3374e8bd73aa03d2f40d59cbf903ae699.jpg> ミュゼ休業 客感じた「店の変化」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533074>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/47e4f9c4f209c59b1b95ad03535480f3374e8bd73aa03d2f40d59cbf903ae699.jpg> ミュゼ休業 客感じた「店の変化」
+      <a href=https://news.yahoo.co.jp/pickup/6533083>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/861bd2ec29b7c1def4acf841328f3588ee7c79909ff0163628c444d663c24693.jpg> ヘビー級元王者 フォアマン氏死去
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533080>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/2ce7d607c4306bc1d552c2e3453193493198b39404c3edfab8318f2c838cc1c9.jpg> 今田美桜 TBS世陸アンバサダーに
+      <a href=https://news.yahoo.co.jp/pickup/6533081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/253119531b14a326a6426b13db0ce1e568e20a6e28ad0772bf0e8a15ddbe775e.jpg> 御上先生「官僚×教師」脚本背景
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 11:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 12:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
