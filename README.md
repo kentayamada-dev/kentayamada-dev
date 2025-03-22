@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/F46GiK0grGg?rel=0&html5=1&autoplay=1>
+      <a href=>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/07165cdebc67d46ea514b87cdf02793f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1b833cf0603b9962afd18a4bf5eba3c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fd218c877fc554f3d0b02bd779c0805477b68be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-10169763-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=611&cy=0&cw=894&ch=894&exp=10800&fmt=webp> ロンドン・ヒースロー空港閉鎖 火災に事件性はなし、配電設備の不具合か
+      <a href=https://news.yahoo.co.jp/articles/b753f2604c6a077579d7d01b2cfe0f01e5f030a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-35230805-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 英ヒースロー空港火災、「不審点なし」　複数の便が空港を離陸
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f0e7daf523d03386330f8f6ff4db33fe86da1d42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07226021-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=738&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル国防相 ガザの制圧地域拡大を軍に指示「人質解放を拒めば拒むほど多くの土地を失い併合される」 ハマスはアメリカの提案含め協議を通じた停戦再開に前向き姿勢
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83405ee4dc41b9dfcd9c6bd6e3ef7659aac6bf5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ガザ停戦へ「取り組んでいる」　米国務省報道官
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/8747cb24cc591940c4f57afbe3e73264016df8dfaffd73a10bd3a09f7dc9106f.jpg> 4階から4歳男児が転落か 意識不明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533061>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f309537eeca540dd9f716b99b445e018543a68d8d915f6857c45e1ddbee48992.jpg> 停電で閉鎖 英空港が一部再開
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/d3fc986355ef1bead684d8e38d757fbcb8f8a346460fd95ff509bf7e302af03b.jpg> 職場結婚で雇い止め 大学が撤回
+      <a href=https://news.yahoo.co.jp/pickup/6533068>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/4d50057c33b9682dd60252e1732d775f83c3ef87d2692498d23a5c685a8cf9bd.jpg> 水俣病を「感染症」市が誤表記
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533058>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/359a1ff973522e2844b7c2d8e5b4a4bbaee8bae32e4b60d5b483cfce46985150.jpg> コメダ運営甘味処 関東で出店進む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/c57cf2b4c8d1370e8a795e2fbeb7263c8ab7f96db1279c00fcecd0d3a35bab73.jpg> 速報センバツ 高松商vs.早稲田実
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 09:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 09:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
