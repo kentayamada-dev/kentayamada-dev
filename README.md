@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/142fe4384a9694393775c33ce12d095d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4ce3f581788d93610de99f241f2566f5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1db4439f57406361605b63dc10d08bff72ae6b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-10169796-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=814&ch=814&exp=10800&fmt=webp> 日中韓の外相会議を開催 “未来志向の協力”を確認
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8d047a8844106688fee00e432e7366e7c8359b04>
@@ -418,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/11fb006a7d717310706c1cdca860bb4b8821a8cf3588847e3a02804d1798f158.jpg> 顔に酸かけられた女性支援 印の店
+      <a href=https://news.yahoo.co.jp/pickup/6533093>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/9153cfe4559cbff554d358f90ae237b10b8a28cec25c5e8c107e1186646acb0d.jpg> 中国人の日本での「爆入学」背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533091>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/131cdd0e96d0d455d1d68389fdbc4a8f93a379152ce9390d8d2189fa4ff0010c.jpg> 東京グルメ「老舗の100年」を追跡
+      <a href=https://news.yahoo.co.jp/pickup/6533095>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/131cdd0e96d0d455d1d68389fdbc4a8f93a379152ce9390d8d2189fa4ff0010c.jpg> 100年前グルメ本掲載 人気店の今
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 14:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 14:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
