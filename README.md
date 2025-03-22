@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/BQONc-EGHjA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1b833cf0603b9962afd18a4bf5eba3c0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9fa01dbe000d2146ed96668c9bda0e9d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b753f2604c6a077579d7d01b2cfe0f01e5f030a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-35230805-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 英ヒースロー空港火災、「不審点なし」　複数の便が空港を離陸
+      <a href=https://news.yahoo.co.jp/articles/a4ec5a2283a995e11ce0d9bb7f5a27b329154e29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00000023-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ハマス、米停戦案受け入れ検討　エジプトも暫定案提示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0e7daf523d03386330f8f6ff4db33fe86da1d42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-07226021-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=738&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イスラエル国防相 ガザの制圧地域拡大を軍に指示「人質解放を拒めば拒むほど多くの土地を失い併合される」 ハマスはアメリカの提案含め協議を通じた停戦再開に前向き姿勢
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80a3318ecca422fcac8763ee4a48986805f47da2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-00094025-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「最も厳しいグループで圧倒的な強さを見せた」日本代表に海外メディアの賛辞止まず！「欧州で通用する選手の増加に支えられ――」
+      <a href=https://news.yahoo.co.jp/articles/12dff62152d362c10cc04603edd0a214513fe96e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250322-11625659-ksbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 吉備中央町の4人死傷事故　センターライン越えて正面衝突した疑いで女を逮捕　岡山
       </a>
     </td>
   </tr>
@@ -402,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533051>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/21/2267f159cd4d6bf0aa6dc4c654c6111109f0c5f5be2d21ba0631fdefde150e8c.jpg> イスラエル国防相 支配地域拡大を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533056>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/44fce175672d350cfaf2b275a9b032a3dcf70f04a3373c6010c40ffba1aff23f.jpg> 陸自隊員が船乗りに 異色の新部隊
+      <a href=https://news.yahoo.co.jp/pickup/6533069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/3c99c6d9b67653b3c989e9fc75d010cca846241a07a50d2a2699a51888f45da2.jpg> ウの領土分割協定協議へ 米大統領
       </a>
     </td>
   </tr>
@@ -420,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533061>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/f309537eeca540dd9f716b99b445e018543a68d8d915f6857c45e1ddbee48992.jpg> 停電で閉鎖 英空港が一部再開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/a35cbe634cc0db820d319adcf30c051a1c56f5fab012e3eb99285b3983e1842f.jpg> 対向車と衝突し母子3人死傷 逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/22 09:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/22 10:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
