@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/918a6f145f36d535f906c2aa8bbd32e6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9213ff459fbeb90617ad626a406cfda3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07fb6d5580950608cbdcb130696750c59967b04c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000119-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 自民・片山さつき氏　首相の新人商品券配布問題、自身は「私は新人時代があの小泉チルドレンという…」
+      <a href=https://news.yahoo.co.jp/articles/cc99dfa35d1fd8747397dcc1a8a155b5ff3e19e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000124-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 自民・片山さつき氏　首相の商品券問題「かつてどうだったかじゃなくて今これをやっちゃいけなかった」
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1337c61e93103b37dfe326fd6a0219c2c449a541>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-03231026-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 藤浪晋太郎、開幕メジャーならず　マイナーキャンプ行きをマリナーズ発表　２年ぶり昇格持ち越し
+      <a href=https://news.yahoo.co.jp/articles/accabe314c6e3a02079410474323bdabb78400ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000014-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ローマ教皇退院へ　一時容体深刻、2カ月は静養
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/13c910947236257fae096c08df4b880ea895d5d8c86c4c748d6bf0df22562bc6.jpg> 夜行バスが木に衝突 運転手死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533154>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/0529170f2957509688264149655230a887013224b3ebb3b0bd66213c5524d1a2.jpg> 手形・小切手 26年度末で全廃へ
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/207c44297d7efd7733fb67183f874da2cae14a473b8eb5f152b99744bab7576b.jpg> 千賀健永の350万円絵画に買い手
+      <a href=https://news.yahoo.co.jp/pickup/6533157>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/e17e8e95d58cb08dc0a1a0b165f6c74a8506a8591491228236cb9513d8a039d7.jpg> でか美ちゃん 両親に芸名伝えた日
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 09:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 09:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
