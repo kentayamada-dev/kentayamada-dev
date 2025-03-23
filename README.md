@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/BQONc-EGHjA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3843555a46702f4d16e41745de1f8559.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a5b8ab385351b378fb9bc25e9454e9e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c36295b075f0abd57471b8f9259182c05ad19262>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-90029341-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 三重県御浜町の夜行バスの事故　現場の道路にブレーキ痕なかったか　死亡した運転手に体調問題なし
+      <a href=https://news.yahoo.co.jp/articles/6a415255ea0398e329f97a4212e42e92f3527b18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00050072-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=70&cw=361&ch=361&exp=10800&fmt=webp> ヘリコプターが墜落、７０代と８０代の男性２人搬送…岐阜・郡上の田んぼ
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533155>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/db22e268ac281cad48e820e53d21035a268ca1de2cb15543f7ff3d12e2b958a2.jpg> 自民支持層「石破離れ」毎日調査
+      <a href=https://news.yahoo.co.jp/pickup/6533166>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/2086f13c78c8fd083efc75cf3238d827ee25b0d2f56cae84551ae1dec9709099.jpg> 歴史・台湾問題 中国が日本けん制
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/1f317e9e36c87bb8bce697f56e90c3711f720d1a0e438cf9ea98b90221a848a4.jpg> 米特使 ウがNATO加盟事実上断念
+      <a href=https://news.yahoo.co.jp/pickup/6533155>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/db22e268ac281cad48e820e53d21035a268ca1de2cb15543f7ff3d12e2b958a2.jpg> 自民支持層「石破離れ」毎日調査
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533170>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/f48a4ce0bf286a9cc87cac19d404c15d94d1457d0a950cce74028b5c24432a47.jpg> 人気のコナズ珈琲 狙いは女子会?
+      <a href=https://news.yahoo.co.jp/pickup/6533176>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/5cb874ea539140bf3c0b8526e8d23aab2df72d8c1d6b2f1268290c9a338efb2c.jpg> 岐阜でヘリコプター墜落 2人軽傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/1/65923765a66840fcd9418c25113f2e2b5aa8bb73b63a281e2700ba70ae144859.jpg> 速報選抜 二松学舎大付vs.花巻東
+      <a href=https://news.yahoo.co.jp/pickup/6533170>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/f48a4ce0bf286a9cc87cac19d404c15d94d1457d0a950cce74028b5c24432a47.jpg> 人気のコナズ珈琲 狙いは女子会?
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 13:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 13:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
