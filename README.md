@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/BQONc-EGHjA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d098eadac8cc572eccbbae180cdd132.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f3b701129d6a414417999f3ccd68828e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a415255ea0398e329f97a4212e42e92f3527b18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00050072-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=70&cw=361&ch=361&exp=10800&fmt=webp> ヘリコプターが墜落、７０代と８０代の男性２人搬送…岐阜・郡上の田んぼ
+      <a href=https://news.yahoo.co.jp/articles/fd84bfa40d30709159c23ac29cae0a19e1411e9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000019-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】岐阜・郡上市で「ヘリが墜落した」と通報　小型ヘリに乗る2人軽傷
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/bd7ead2571366d21871e83dadcb93296adae97e5d120930e51f44a92b46e2318.jpg> 夜行バス事故 ブレーキ痕なしか
+      <a href=https://news.yahoo.co.jp/pickup/6533174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/d9d1da1d8559b064f46e802ce960f77bdbba2e4ffb770d005f8c5406bf2005e0.jpg> 韓国で山火事が同時多発 4人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533168>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/fc7e42da969f3e59121d794d891863062be5b477235ef2c91f3538028870742b.jpg> パトカー追跡のバイクが事故 死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/5cb874ea539140bf3c0b8526e8d23aab2df72d8c1d6b2f1268290c9a338efb2c.jpg> 岐阜でヘリコプター墜落 2人軽傷
+      <a href=https://news.yahoo.co.jp/pickup/6533180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/5ab3b8e41a0d3bc52c3f5ea6333305853f23566f902cd0ea4c0af71d395db8bc.jpg> 車いすの人が踏切ではねられ死亡
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/1/65923765a66840fcd9418c25113f2e2b5aa8bb73b63a281e2700ba70ae144859.jpg> 12連敗の21世紀枠 出場校は不安も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533173>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/6202f2143c5f75c0f2db89301736ba3dce28aa0f7b28c0b1dbac337825ff5aeb.jpg> 藤田ニコル 今のSNSが大っ嫌い
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 14:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 14:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
