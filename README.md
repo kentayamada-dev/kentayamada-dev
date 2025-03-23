@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/35ce2104a63b21841242e7be7f3e5fa7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b73f04e32f04a11d6e3f85c9ddd8da4f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79814cf876b15c61687371be13bfeb7433f43cc9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000030-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 岡山市南区で山火事、鎮火の見通し立たず　愛媛・今治の山でも延焼中
+      <a href=https://news.yahoo.co.jp/articles/6e4f7b7b226358a31a145af879df441076dc93c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010003-wmapv-000-3-thumb.jpg?exp=10800&fmt=webp> 【動画】24日の天気 - 西～東日本 大気不安定　急な強い雨や雷雨に注意　東京など気温変化大きく（23日19時更新）
       </a>
     </td>
   </tr>
@@ -386,14 +386,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533210>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/8c9c6396597d977c5dc0e3750767ec892b7c37f62184033b06ef8f13d50ca267.jpg> トルコ・イスタンブール市長逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533216>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/175b1e0a7cc2957cd6a73d5f320b36679dd371a4047d872c2f6680940df79ae4.jpg> 愛媛・岡山で山火事相次ぐ 延焼中
       </a>
@@ -404,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533205>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/907b63b8fdb82015ea00f0e73ac0ccccbf5b542cf27fbc8a80f46629b9e88b71.jpg> 急行電車と接触 車の運転手が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533217>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/d4f1ddec53dd71dc934f7994acfc5eb18e4e34dba948dae38f06d9a2a97e3d9c.jpg> 袴田巌さんに歓声 ボクシング観戦
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 19:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 20:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
