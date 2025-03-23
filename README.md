@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/418a4d5aeecc2cea41ccfb9acbe72e42.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c81c5f19fff4d490cc5d99800a6da5e6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8af3c30680d8e55a6c6b4338e1b2a4015c098916>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010005-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京都心で25.6℃　今年初の夏日　高知でさくら開花　荒天や寒の戻りに注意　週の中ごろは黄砂飛来も
+      <a href=https://news.yahoo.co.jp/articles/943a7ac85f611c84cbc36d6b651d09d890baa0b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000217-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1118&ch=1118&exp=10800&fmt=webp> 【センバツ】花巻東・佐々木監督　戦略的に金属と木製バットを使い分ける理由説明「長打期待できる子は木」
       </a>
     </td>
   </tr>
@@ -366,15 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/78461239fe71b1ad3dfc114734711b860bc7d1f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000007-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏暗殺未遂後に「祈った」とプーチン氏 米特使に語る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c4abd6cee46fa76db238ee2a17fa51acb1e9423>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00029117-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 北陸　25日から今季初の本格的な黄砂飛来か　花粉も大量飛散　注意点や対策は
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000007-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏暗殺未遂後「友のため祈った」とプーチン氏 米特使に語る
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533170>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/f48a4ce0bf286a9cc87cac19d404c15d94d1457d0a950cce74028b5c24432a47.jpg> 人気のコナズ珈琲 狙いは女子会?
+      <a href=https://news.yahoo.co.jp/pickup/6533185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/726ef7c09522998c81e231f98b9dca6e39cfd72731b018ddcd75acc99d27826d.jpg> 43歳で退職 車中泊する男性の幸せ
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 15:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 15:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
