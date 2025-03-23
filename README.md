@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/BQONc-EGHjA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/454484970a02a439fa095e21082400eb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/476fa2e50de75f8088af3d5929551552.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5eae38395185030b33d28af592d5e963e329444>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000329-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 南港ストリートピアノ、異例の呼びかけ「練習は家でして」　一人よがりな演奏に苦情相次ぐ「『苦音』です」
+      <a href=https://news.yahoo.co.jp/articles/82a5d02056d86425589751a5cd4f50ce5a715121>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-33231901-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1335&ch=1335&exp=10800&fmt=webp> 大の里が大関初Ｖ「感慨深い」恩人高安と決定戦　師匠の「お前の貯金は尽きてる」指摘で稽古倍増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d2a15d5b481ccf6f3795b83ddf424fc3220d4975>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00050117-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> イスラエル軍がレバノンも空爆、ネタニヤフ首相「多数の標的を攻撃するよう指示」…ガザでは３０人死亡
       </a>
     </td>
   </tr>
@@ -386,24 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/175b1e0a7cc2957cd6a73d5f320b36679dd371a4047d872c2f6680940df79ae4.jpg> 愛媛・岡山で山火事相次ぐ 延焼中
+      <a href=https://news.yahoo.co.jp/pickup/6533207>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/36c34325b88bbbc8530cf2e75923e55887f0cfd59182409d17d819f285045ef9.jpg> 車と衝突 バイクの高校生が重体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533205>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/907b63b8fdb82015ea00f0e73ac0ccccbf5b542cf27fbc8a80f46629b9e88b71.jpg> 急行電車と接触 車の運転手が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533226>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/3bcb7ac982b7ebfda495d258ed574b58423290f669bb90da13f1913899c754d2.jpg> エレベーター事故 刻む16歳の言葉
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/b951579d0f80665f1c50ab089fa9255e897d19d4e2a1c24ae39145e28619e210.jpg> 病院10カ所目 がん告知にうれし涙
+      <a href=https://news.yahoo.co.jp/pickup/6533193>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/43818fd4c2d7f22fd4b025a29c65685ef619abb28c8d45a9ec67ce31f2cdbe2f.jpg> 楽天証券で不正取引が多発 対策は
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/395f81acac0da82c717dc25a83faee45b21df482b59002e9dfa16fa9941fb19c.jpg> DeNA桑原が死球受け苦悶 指骨折
+      <a href=https://news.yahoo.co.jp/pickup/6533227>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/b9291467957b9e4d8d8118052b7eed4afa0c25903423de9290c94f3f8f216762.jpg> 高安「あと一歩」NHKアナも絶叫
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 20:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 21:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
