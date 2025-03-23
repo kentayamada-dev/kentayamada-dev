@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d055788c3aa9ea68842df1f461fafcd1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4537507b91c876b1b85042717034ce34.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08da3695787591882b89055f7bcf13e7e50f9121>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00050129-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=355&ch=355&exp=10800&fmt=webp> ガザの死者５万人超、イスラエル軍の大規模空爆で急増…２３年１０月の戦闘開始から１年半で
+      <a href=https://news.yahoo.co.jp/articles/46d3e5ab0cea630ce004cb2ec2adbba243873297>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【福岡県知事選】初の“生え抜き知事”2期目へ　現職の服部誠太郎さん（70）が再選確実「きょうからがスタート」　推定投票率は31.34％と発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89a09310dd04a5ed29ff74be09c804d0d8470462>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000011-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=608&ch=608&exp=10800&fmt=webp> 「べらぼう」尾美としのりの“答え合わせ”シーン話題
+      <a href=https://news.yahoo.co.jp/articles/08da3695787591882b89055f7bcf13e7e50f9121>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00050129-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=355&ch=355&exp=10800&fmt=webp> ガザの死者５万人超、イスラエル軍の大規模空爆で急増…２３年１０月の戦闘開始から１年半で
       </a>
     </td>
   </tr>
@@ -386,24 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533199>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/b77ef79dffa3b438bf8879c77ff40c81331b9a964e8c2d7cf311f0a96a00244a.jpg> 保守派 伝統的家族観へのこだわり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/0d1be1bfa8fd20afe183931547b5497c16513c22c2e1af4ec12a58d436a6de01.jpg> 西～北日本 24日と25日は雷雨注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533207>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/36c34325b88bbbc8530cf2e75923e55887f0cfd59182409d17d819f285045ef9.jpg> 車と衝突 バイクの高校生が重体
+      <a href=https://news.yahoo.co.jp/pickup/6533231>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/91f44c93124e9d1a685109f241b78eaa9802278fd63184f8d21108545e345dc7.jpg> 2閣僚の個人献金 住所欄に事務所
       </a>
     </td>
   </tr>
@@ -418,8 +402,32 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/b5dcca54a2da8ce44798d44b8666bf6a69f8135e5cdfc814e2f4d37963cb8a58.jpg> ホスピス「医心館」で不正請求か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533224>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/69972832243600460ad9c3aa044c3dcf5a89ab24fcf61c0b3ccb0c82599d336c.jpg> ストリートピアノ巡る注意が物議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/726ef7c09522998c81e231f98b9dca6e39cfd72731b018ddcd75acc99d27826d.jpg> 43歳で退職 車中泊する男性の幸せ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533234>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/03e152012c0eab7afc544363922bb34466e900ceec49c42546af996bf2e0aea3.jpg> ゴルフで違反発覚 視聴者きっかけ
       </a>
     </td>
   </tr>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533230>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/4185d5e86520dd11b3ec2951ddd12a80572e707dbdc4d9049325ec336e70b5db.jpg> 「御上先生」が最終回 SNSの反応
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 22:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 23:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
