@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/18534802568ced4ed4e064ccc2b1aa0d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d055788c3aa9ea68842df1f461fafcd1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0721d219bc076bebc8fd8b616c004b4b304bb5a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010014-gkakutogi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=1045&ch=1045&exp=10800&fmt=webp> 【ONE】ロッタンが左フックで武尊に1RでTKO勝ち
+      <a href=https://news.yahoo.co.jp/articles/08da3695787591882b89055f7bcf13e7e50f9121>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00050129-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=355&ch=355&exp=10800&fmt=webp> ガザの死者５万人超、イスラエル軍の大規模空爆で急増…２３年１０月の戦闘開始から１年半で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08da3695787591882b89055f7bcf13e7e50f9121>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00050129-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=355&ch=355&exp=10800&fmt=webp> ガザの死者５万人超、イスラエル軍の大規模空爆で急増…２３年１０月の戦闘開始から１年半で
+      <a href=https://news.yahoo.co.jp/articles/89a09310dd04a5ed29ff74be09c804d0d8470462>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000011-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=608&ch=608&exp=10800&fmt=webp> 「べらぼう」尾美としのりの“答え合わせ”シーン話題
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/0d1be1bfa8fd20afe183931547b5497c16513c22c2e1af4ec12a58d436a6de01.jpg> 西～北日本 24日と25日は雷雨注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533207>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/36c34325b88bbbc8530cf2e75923e55887f0cfd59182409d17d819f285045ef9.jpg> 車と衝突 バイクの高校生が重体
       </a>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533229>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/68c4aaf177615ce2b519f4ff54f032df934cdb7dc9fdb6bd96d8d832b68c1f3e.jpg> すき家ネズミ混入 公表まで2カ月
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533193>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/43818fd4c2d7f22fd4b025a29c65685ef619abb28c8d45a9ec67ce31f2cdbe2f.jpg> 楽天証券で不正取引が多発 対策は
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 22:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 22:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
