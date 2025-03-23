@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea8060381675683d3f2d1bda1f323920.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd898ff0992d0f78e32915f0da951ee6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9262edb45ff27d664eae88e261f0e7fab873582f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-33232465-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1388&ch=1388&exp=10800&fmt=webp> 【ONE】敗れた武尊は「自分が弱かっただけ」去就は「冷静になって考えて、正式に発表したい」
+      <a href=https://news.yahoo.co.jp/articles/96afc841c12aecbf21ba4117b5f821e6aa18eaeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000174-dalv-000-2-thumb.jpg?exp=10800&fmt=webp> 武尊「自分が弱かっただけ」ストップに異議なし今後については「冷静になって考えて正式に発表したい」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 01:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 01:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
