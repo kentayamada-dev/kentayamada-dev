@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4eb241b987f445323de36b0af9bfba7b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/35ce2104a63b21841242e7be7f3e5fa7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bd599a70a9bfa928436d1da88a8ac749574dd6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00338447-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=396&cy=0&cw=804&ch=804&exp=10800&fmt=webp> 【ＯＮＥ】青木真也が秒殺勝利後に高梨将弘とクリスへ思い語る「格闘技って〝事故〟が起こるものだから…」
+      <a href=https://news.yahoo.co.jp/articles/79814cf876b15c61687371be13bfeb7433f43cc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000030-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 岡山市南区で山火事、鎮火の見通し立たず　愛媛・今治の山でも延焼中
       </a>
     </td>
   </tr>
@@ -370,16 +370,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533192>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/a7ce9b35518a6584304fade21f3821829a13a9f439b400f455b1bda27ca6cb67.jpg> ウの迎撃弾不足に拍車 米支援鈍化
+      <a href=https://news.yahoo.co.jp/pickup/6533206>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 石破内閣支持率が27%に急落 共同
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/e8dd263a66d65a01e42c79fe03ccede5f24f6985bec7a93cd1d16a91d1ce6574.jpg> 「マイナ免許証」24日から開始
+      <a href=https://news.yahoo.co.jp/pickup/6533202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/5d51903204dcd05bca77bed713a1c28c83165a4e638984fe78e33dc933f49842.jpg> イスラエル軍 ヒズボラ拠点を空爆
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533194>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/70fbf441b1da2e1c96a68566dce25da03ba73ba9140e9861dd5c1e68b073a547.jpg> 死体遺棄 電話で泣き叫んだ被害者
+      <a href=https://news.yahoo.co.jp/pickup/6533216>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/175b1e0a7cc2957cd6a73d5f320b36679dd371a4047d872c2f6680940df79ae4.jpg> 愛媛・岡山で山火事相次ぐ 延焼中
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/716232c46790b6186d53182f6f39ef175ef4f860456958c280a05965c1e99361.jpg> 衝撃 青木真也が53秒で一本勝ち
+      <a href=https://news.yahoo.co.jp/pickup/6533214>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/a60376fe39dce12bf9c1dea787c961b467ae61e00ff205dd27f0ae3cc28530b0.jpg> 巨人・丸 右足負傷で長期離脱へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/7839892ab37d674576c1aed7f385f07f83b094127a496d6a55197b2889ac3cf0.jpg> 高安35歳また優勝逃す 夢かなわず
+      <a href=https://news.yahoo.co.jp/pickup/6533213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/716232c46790b6186d53182f6f39ef175ef4f860456958c280a05965c1e99361.jpg> 衝撃 青木真也が53秒で一本勝ち
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 19:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 19:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
