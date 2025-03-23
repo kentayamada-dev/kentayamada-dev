@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1f716d21200d9e41581512c93a28e17a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4cbcfedc1afb8797fe3a5abc68f25401.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d91b2cc4d5828958e0201a6af1cd387f14f6d43b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010001-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 週半ばに大量の黄砂飛来か　九州～東北の広範囲で見通し悪化や健康影響に注意
+      <a href=https://news.yahoo.co.jp/articles/371c132eaa5e23bb8aea0cf779b801acadb270b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00029115-tenki-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日23日　近畿地方は黄砂が飛来する所も　花粉症の方は万全の対策を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ab1c7e8a3acd08e011f10933c4b6a580f572e10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000133-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 自民・片山さつき氏　首相の商品券問題で「何が政治的な利用で、何が政治的でないのかを話し合うことを…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/accabe314c6e3a02079410474323bdabb78400ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000014-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ローマ教皇退院へ　一時容体深刻、2カ月は静養
+      <a href=https://news.yahoo.co.jp/articles/573bab7352df08dfad4e97062bba3ea640489f95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010002-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】カブス・鈴木誠也が2打席連続アーチの活躍　チームは敗れる　今永は本国開幕の3戦目に先発予定
       </a>
     </td>
   </tr>
@@ -410,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533152>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/a8389d221a6c45e64070c437b94a185bab66cf03c2314cffaacea1a01b055631.jpg> 横断歩道で高2が車にはねられ死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 老後に資産形成 「シンニーア」増
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/896965f3066be994e0ec3925d782a855f3c80f448a77c22d18a3be3d9e4e8c8f.jpg> 空港の気象データ 酔ったまま観測
+      <a href=https://news.yahoo.co.jp/pickup/6533152>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/a8389d221a6c45e64070c437b94a185bab66cf03c2314cffaacea1a01b055631.jpg> 横断歩道で高2が車にはねられ死亡
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533157>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/e17e8e95d58cb08dc0a1a0b165f6c74a8506a8591491228236cb9513d8a039d7.jpg> でか美ちゃん 両親に芸名伝えた日
+      <a href=https://news.yahoo.co.jp/pickup/6533165>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/b20c49ed48005df3933874609bf9300528f83b5ab7f436290ebe1de7954119cf.jpg> 鈴木誠也が2打席連続アーチ OP戦
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 10:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 11:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
