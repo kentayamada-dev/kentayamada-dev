@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c12bf2bdeff3aba387ac4d7777a81c0e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2df2ef96f850395b1be23b7b1cf5fc67.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3902ae0c1ac87b14914d694aadd39256eb1cbe77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000021-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ウクライナはNATO加盟しないとほぼ認めた」米ウィトコフ特使が持論
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/32f916c7effad220c98dcfcaba7a953177bf5170>
@@ -378,8 +370,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/0310e7f063a51992ead2434e4581990fa55989e66af01cfcf507314f74d8d922.jpg> 岸田氏も政倫審出席を 立憲幹事長
+      <a href=https://news.yahoo.co.jp/pickup/6533192>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/a7ce9b35518a6584304fade21f3821829a13a9f439b400f455b1bda27ca6cb67.jpg> ウの迎撃弾不足に拍車 米支援鈍化
       </a>
     </td>
   </tr>
@@ -394,14 +386,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/5ab3b8e41a0d3bc52c3f5ea6333305853f23566f902cd0ea4c0af71d395db8bc.jpg> 車いすの人が踏切ではねられ死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533194>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/70fbf441b1da2e1c96a68566dce25da03ba73ba9140e9861dd5c1e68b073a547.jpg> 死体遺棄 電話で泣き叫んだ被害者
       </a>
@@ -410,16 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/726ef7c09522998c81e231f98b9dca6e39cfd72731b018ddcd75acc99d27826d.jpg> 43歳で退職 車中泊する男性の幸せ
+      <a href=https://news.yahoo.co.jp/pickup/6533197>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/8acd0302e75a97831fcfc02f4452e77db4693a4f3e046677a633a20a114f9efc.jpg> ライブ会場で痴漢被害 女性の憤り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/42f7e9203cf30889f9ea515778617e4a5fffabb940a72651221f643acd3d179d.jpg> アプリで野菜をプレゼント 狙い
+      <a href=https://news.yahoo.co.jp/pickup/6533189>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/b99414fd5eb7072525d88109a89336f13819f6f1a88e080725c49e242c1b5963.jpg> 春のパンまつり 担当語る噂の真相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533201>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/b951579d0f80665f1c50ab089fa9255e897d19d4e2a1c24ae39145e28619e210.jpg> 病院10カ所目 がん告知にうれし涙
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 17:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 17:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
