@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2c054306062452916e7f7fa0042a8e27.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c04628664f3229c0b9793ea439594d7f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96afc841c12aecbf21ba4117b5f821e6aa18eaeb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000174-dalv-000-2-thumb.jpg?exp=10800&fmt=webp> 武尊「自分が弱かっただけ」ストップに異議なし今後については「冷静になって考えて正式に発表したい」
+      <a href=https://news.yahoo.co.jp/articles/f3159e4b42f4ed1d5b9317c5db26b26406e07275>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00010000-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 現役続行か？引退か？武尊が予定外の会見で「冷静になってしっかり考えて、また正式に発表したい」【ONE172】
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 02:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 02:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
