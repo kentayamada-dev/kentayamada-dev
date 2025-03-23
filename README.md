@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4515a6b22cc2b49394c2d4204cc800f6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4eb241b987f445323de36b0af9bfba7b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ab78eaab96debcbf01ecdb0e852c3e8024e0c9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00946821-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> エルドアン大統領の“ライバル”イスタンブール市長を逮捕…次期大統領選の野党有力候補　「政治的弾圧」各地で大規模デモ続く　トルコ
+      <a href=https://news.yahoo.co.jp/articles/0bd599a70a9bfa928436d1da88a8ac749574dd6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00338447-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=396&cy=0&cw=804&ch=804&exp=10800&fmt=webp> 【ＯＮＥ】青木真也が秒殺勝利後に高梨将弘とクリスへ思い語る「格闘技って〝事故〟が起こるものだから…」
       </a>
     </td>
   </tr>
@@ -386,6 +386,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533210>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/8c9c6396597d977c5dc0e3750767ec892b7c37f62184033b06ef8f13d50ca267.jpg> トルコ・イスタンブール市長逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533194>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/70fbf441b1da2e1c96a68566dce25da03ba73ba9140e9861dd5c1e68b073a547.jpg> 死体遺棄 電話で泣き叫んだ被害者
       </a>
@@ -402,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533197>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/8acd0302e75a97831fcfc02f4452e77db4693a4f3e046677a633a20a114f9efc.jpg> ライブ会場で痴漢被害 女性の憤り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/2acf7eed16241cc74d2f57fa0583af48c85bc1bb4c429132eea56d0541a73f36.jpg> 沖縄の園プール 2カ月連続で凍る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533201>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/b951579d0f80665f1c50ab089fa9255e897d19d4e2a1c24ae39145e28619e210.jpg> 病院10カ所目 がん告知にうれし涙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/716232c46790b6186d53182f6f39ef175ef4f860456958c280a05965c1e99361.jpg> 衝撃 青木真也が53秒で一本勝ち
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 18:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 19:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
