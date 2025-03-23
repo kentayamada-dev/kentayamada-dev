@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/BQONc-EGHjA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b73f04e32f04a11d6e3f85c9ddd8da4f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/454484970a02a439fa095e21082400eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e4f7b7b226358a31a145af879df441076dc93c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010003-wmapv-000-3-thumb.jpg?exp=10800&fmt=webp> 【動画】24日の天気 - 西～東日本 大気不安定　急な強い雨や雷雨に注意　東京など気温変化大きく（23日19時更新）
+      <a href=https://news.yahoo.co.jp/articles/e5eae38395185030b33d28af592d5e963e329444>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000329-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 南港ストリートピアノ、異例の呼びかけ「練習は家でして」　一人よがりな演奏に苦情相次ぐ「『苦音』です」
       </a>
     </td>
   </tr>
@@ -370,16 +370,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533206>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 石破内閣支持率が27%に急落 共同
+      <a href=https://news.yahoo.co.jp/pickup/6533215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/6b1eb74ea9ea89e929d53faa4d84083d9e3da59d34702a3c5e49701cb439f204.jpg> 首相「反省」の日々 夜の会食自粛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/5d51903204dcd05bca77bed713a1c28c83165a4e638984fe78e33dc933f49842.jpg> イスラエル軍 ヒズボラ拠点を空爆
+      <a href=https://news.yahoo.co.jp/pickup/6533223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/4e14285123e9fd1c1b49bb971475b42484b27d2a79dbe67563fb4befec73bbbe.jpg> 福岡知事選 服部氏が再選確実
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533217>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/d4f1ddec53dd71dc934f7994acfc5eb18e4e34dba948dae38f06d9a2a97e3d9c.jpg> 袴田巌さんに歓声 ボクシング観戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533201>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/b951579d0f80665f1c50ab089fa9255e897d19d4e2a1c24ae39145e28619e210.jpg> 病院10カ所目 がん告知にうれし涙
       </a>
@@ -418,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533214>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/a60376fe39dce12bf9c1dea787c961b467ae61e00ff205dd27f0ae3cc28530b0.jpg> 巨人・丸 右足負傷で長期離脱へ
+      <a href=https://news.yahoo.co.jp/pickup/6533224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/69972832243600460ad9c3aa044c3dcf5a89ab24fcf61c0b3ccb0c82599d336c.jpg> ストリートピアノ巡る注意が物議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/716232c46790b6186d53182f6f39ef175ef4f860456958c280a05965c1e99361.jpg> 衝撃 青木真也が53秒で一本勝ち
+      <a href=https://news.yahoo.co.jp/pickup/6533225>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/395f81acac0da82c717dc25a83faee45b21df482b59002e9dfa16fa9941fb19c.jpg> DeNA桑原が死球受け苦悶 指骨折
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/e6e0be4e24d478c291091fb455fc0e58160be11c095707bc08818e0c06f13295.jpg> 広末涼子 2年ぶりに全国TV出演へ
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 20:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 20:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
