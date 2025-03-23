@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ff385197d7c1965e14360d40e3d4a74.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c961c57c5bafb0296b72fc70d2013fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28bdd91febda11ed72f3ab4346bc4a7098e903b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00087286-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=300&ch=300&exp=10800&fmt=webp> トランプと米国民がいまこそ噛み締めねばならない第二次世界大戦の引き金となった「ミュンヘンの宥和」の教訓
+      <a href=https://news.yahoo.co.jp/articles/8cde307aed07871a44af96a8ce99d59139c40113>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010005-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ヤンキース・ジャッジが待望のオープン戦初アーチ！　チームは9回表に一挙8失点で大逆転負け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/371c132eaa5e23bb8aea0cf779b801acadb270b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00029115-tenki-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日23日　近畿地方は黄砂が飛来する所も　花粉症の方は万全の対策を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/573bab7352df08dfad4e97062bba3ea640489f95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010002-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】カブス・鈴木誠也が2打席連続アーチの活躍　チームは敗れる　今永は本国開幕の3戦目に先発予定
+      <a href=https://news.yahoo.co.jp/articles/6c4abd6cee46fa76db238ee2a17fa51acb1e9423>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00029117-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 北陸　25日から今季初の本格的な黄砂飛来か　花粉も大量飛散　注意点や対策は
       </a>
     </td>
   </tr>
@@ -386,24 +378,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533155>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/db22e268ac281cad48e820e53d21035a268ca1de2cb15543f7ff3d12e2b958a2.jpg> 自民支持層「石破離れ」毎日調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533159>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/1f317e9e36c87bb8bce697f56e90c3711f720d1a0e438cf9ea98b90221a848a4.jpg> 米特使 ウがNATO加盟事実上断念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533158>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/80ca10a6423f04b2bfff81f8672f8808859851a71db2c0a31bcf7a32865b34a9.jpg> ローマ教皇が退院へ 一時命の危険
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/0529170f2957509688264149655230a887013224b3ebb3b0bd66213c5524d1a2.jpg> 手形・小切手 26年度末で全廃へ
       </a>
     </td>
   </tr>
@@ -426,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533152>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/a8389d221a6c45e64070c437b94a185bab66cf03c2314cffaacea1a01b055631.jpg> 横断歩道で高2が車にはねられ死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533149>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/353312340269d269985d841a4eaebbdacc0dac767e67e5182ada68ad2dd2e70c.jpg> 予約殺到「ヌン活」ブーム続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533149>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/353312340269d269985d841a4eaebbdacc0dac767e67e5182ada68ad2dd2e70c.jpg> 予約殺到「ヌン活」ブーム続く
+      <a href=https://news.yahoo.co.jp/pickup/6533169>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/1/65923765a66840fcd9418c25113f2e2b5aa8bb73b63a281e2700ba70ae144859.jpg> 速報選抜 二松学舎大付vs.花巻東
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533167>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/29ed586d88b125391a9fea2bb4381dfe3098be12e2fb0d2a5f8b41575fee6baa.jpg> SHIGEKIX 最初で最後の五輪後の今
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 11:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 12:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
