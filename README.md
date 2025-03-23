@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ae4de12c3f30bc2001363fdc077e4dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/918a6f145f36d535f906c2aa8bbd32e6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28d3989f455d301bed36b56d33ab509ae0860635>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010000-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】23日の天気 - 関東から西日本 初夏の陽気も　東京はさくら開花も間近（23日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/07fb6d5580950608cbdcb130696750c59967b04c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000119-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 自民・片山さつき氏　首相の新人商品券配布問題、自身は「私は新人時代があの小泉チルドレンという…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aa708bfc8a873d6c70ddba0797e5334a8d34252e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00029114-tenki-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 23日　東京都心は夏日か　九州～関東は晴れて初夏の陽気　北陸～北海道は空気冷たい
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1337c61e93103b37dfe326fd6a0219c2c449a541>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-03231026-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 藤浪晋太郎、開幕メジャーならず　マイナーキャンプ行きをマリナーズ発表　２年ぶり昇格持ち越し
       </a>
     </td>
   </tr>
@@ -366,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca4cb022bbf4067b7fc71fd96c6b151c6f171269>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> レバノンへの攻撃継続　イスラエルで大規模デモ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000018-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> レバノンへの攻撃継続　イスラエルで大規模デモ
       </a>
     </td>
   </tr>
@@ -394,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533150>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/8f7f14e42b0f676c5db07ccfa803a3d6023a4f92a827a2931656e57113547d5d.jpg> 家裁送致の少年にウェブ面接導入
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533141>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/22/13c910947236257fae096c08df4b880ea895d5d8c86c4c748d6bf0df22562bc6.jpg> 夜行バスが木に衝突 運転手死亡
       </a>
@@ -410,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533144>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/ab23d1e13fe42ea56ad30eb852d2e48b108e4c70bb3b377e24ced8a5c3fe46b8.jpg> 山中に女性遺体遺棄疑い 知人逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533149>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/353312340269d269985d841a4eaebbdacc0dac767e67e5182ada68ad2dd2e70c.jpg> 予約殺到「ヌン活」ブーム続く
       </a>
@@ -426,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533142>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/d9a4925ab4cebc6211c28b74c14f702ec05a3f046237ac9aa1a01c18015affdd.jpg> 吉田正尚 開幕はマイナーが決定
+      <a href=https://news.yahoo.co.jp/pickup/6533153>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/a1981a0a50c39223c36c523c5be206f0d0a22789eb858f8ab984da6d84948b4e.jpg> 藤浪晋太郎 マイナーキャンプ降格
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 08:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 09:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
