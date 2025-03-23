@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/BQONc-EGHjA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/acd74c866de37c51ebd5732bfacf640f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a99b59fe89bebec8e187b42b6475ae23.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/070e5ebacb0c2746c7110f4c5f2a07a371442590>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000003-gbr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=446&ch=446&exp=10800&fmt=webp> 【ONE】野杁がムエタイ世界王者をKO葬！見据えるスーパーボンとの王座統一戦「必ずKOします」
+      <a href=https://news.yahoo.co.jp/articles/15b59f13fddd539bb959db1a523060a4c46916e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000028-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=1778&ch=1778&exp=10800&fmt=webp> 武尊　まさかの８０秒ＫＯ負け　“ムエタイの伝説”ロッタンの強烈左フックを２発連続被弾し玉砕
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 05:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 05:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
