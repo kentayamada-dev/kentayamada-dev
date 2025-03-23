@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5bab94b09a7c1f9c1853926bb5af15cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/089a1c87e68dd72cdfd9e3742a169877.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -386,16 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533246>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ウ停戦 米は4/20めどに合意目指す
+      <a href=https://news.yahoo.co.jp/pickup/6533252>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/85d18dca3b0e728cc46e85c8fd18b29f8d9b88a1c43decae40503521f72c0981.jpg> ガザ死者5万人超 1.5万人超が子供
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533247>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 津波「避難困難」全国23万人 調査
+      <a href=https://news.yahoo.co.jp/pickup/6533255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/8e288e5ad3eae0794e7ce27d2c1558b28dbd583ff577c6736223c9ad576de5db.jpg> 郵便局長の局舎取得 2年で26局
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533244>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/bda886d83b3193487e61ec3c71e9652158d00ee03c6694112c8f59c03f79f53b.jpg> 武尊惨敗「KO」負けは約13年ぶり
+      <a href=https://news.yahoo.co.jp/pickup/6533258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/603973d2adc1532052aadec1ec572f1e1a9f9fde0473544a7724e8e913221702.jpg> エスコン無敗 新庄監督「強いね」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533234>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/03e152012c0eab7afc544363922bb34466e900ceec49c42546af996bf2e0aea3.jpg> ゴルフで違反発覚 視聴者きっかけ
+      <a href=https://news.yahoo.co.jp/pickup/6533244>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/bda886d83b3193487e61ec3c71e9652158d00ee03c6694112c8f59c03f79f53b.jpg> 武尊惨敗「KO」負けは約13年ぶり
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 08:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 08:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
