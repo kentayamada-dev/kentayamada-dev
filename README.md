@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2df2ef96f850395b1be23b7b1cf5fc67.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9123832c93e9e04ba0d47be491277466.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32f916c7effad220c98dcfcaba7a953177bf5170>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000062-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=422&ch=422&exp=10800&fmt=webp> アニメ「地獄先生ぬ～べ～」に藤原夏海、島袋美由利ら　最強ジャンプで新連載も始動
+      <a href=https://news.yahoo.co.jp/articles/f5b334f252860bd1bb004e3d135a17046fb629e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大の里3度目V、大関で初　決定戦制す、高安力尽きる
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/ca0c1a457c054c685aa30ce5e9650d4efcee7a372aba6453ba27e90b6450702a.jpg> サクラ開花発表 高知が全国トップ
+      <a href=https://news.yahoo.co.jp/pickup/6533198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/e8dd263a66d65a01e42c79fe03ccede5f24f6985bec7a93cd1d16a91d1ce6574.jpg> 「マイナ免許証」24日から開始
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533205>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/907b63b8fdb82015ea00f0e73ac0ccccbf5b542cf27fbc8a80f46629b9e88b71.jpg> 急行電車と接触 車の運転手が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533197>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/8acd0302e75a97831fcfc02f4452e77db4693a4f3e046677a633a20a114f9efc.jpg> ライブ会場で痴漢被害 女性の憤り
       </a>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533189>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/b99414fd5eb7072525d88109a89336f13819f6f1a88e080725c49e242c1b5963.jpg> 春のパンまつり 担当語る噂の真相
+      <a href=https://news.yahoo.co.jp/pickup/6533188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/2acf7eed16241cc74d2f57fa0583af48c85bc1bb4c429132eea56d0541a73f36.jpg> 沖縄の園プール 2カ月連続で凍る
       </a>
     </td>
   </tr>
@@ -424,19 +432,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533196>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/d5abcb3a7ecb4e4c8cd45ce40a56a39395c437c105c4cca4f96cd6f7c4c03e4f.jpg> ぬ～べ～4年ぶり新連載 5月開始
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 17:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 18:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
