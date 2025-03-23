@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4774c782c30ac42f15a273bed5d702c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b3692c712edecc520a7ddc307a97ff2e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3902ae0c1ac87b14914d694aadd39256eb1cbe77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000021-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ウクライナはNATO加盟しないとほぼ認めた」米ウィトコフ特使が持論
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000021-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ウクライナはNATO加盟しないとほぼ認めた」米ウィトコフ特使が持論
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/760877db14704950452356247baaacf402be3ca9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000014-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大会初の柵越えは二松学舎大付・永尾　「悪い流れの中で反撃の一発」
+      <a href=https://news.yahoo.co.jp/articles/efe6865a43aadb1180803cf91633cf137a4b6966>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00050430-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 泣き叫ぶ様子の電話から知人が通報　女性遺体を山中に遺棄した疑いで逮捕の男　事件直前にコンビニ駐車場で合流か　徳島
       </a>
     </td>
   </tr>
@@ -378,14 +378,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/c3a88f81f3d2e6b0965e237e8965e21e7ac30cf384c87bdd5e436be7fd08c6aa.jpg> 関東で夏日地点続出 都心も25℃超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533177>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/0310e7f063a51992ead2434e4581990fa55989e66af01cfcf507314f74d8d922.jpg> 岸田氏も政倫審出席を 立憲幹事長
       </a>
@@ -394,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/d9d1da1d8559b064f46e802ce960f77bdbba2e4ffb770d005f8c5406bf2005e0.jpg> 韓国で山火事が同時多発 4人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/ca0c1a457c054c685aa30ce5e9650d4efcee7a372aba6453ba27e90b6450702a.jpg> サクラ開花発表 高知が全国トップ
       </a>
     </td>
   </tr>
@@ -410,6 +402,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533194>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/70fbf441b1da2e1c96a68566dce25da03ba73ba9140e9861dd5c1e68b073a547.jpg> 死体遺棄 電話で泣き叫んだ被害者
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/a06d3d3e5c74c294e999c2bfc63e76f20666aa1f49ba669db28fe144fba40e2d.jpg> 児童が陳情 スケボー練習場整備へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533185>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/726ef7c09522998c81e231f98b9dca6e39cfd72731b018ddcd75acc99d27826d.jpg> 43歳で退職 車中泊する男性の幸せ
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533178>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/5c8a067c2429be901e942edd3a4ec0e66defb6d88bea3b3adaeefc1ef3e6af8a.jpg> 競馬メシ名物 物価高に抗うそば店
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/1/65923765a66840fcd9418c25113f2e2b5aa8bb73b63a281e2700ba70ae144859.jpg> 12連敗の21世紀枠 出場校は不安も
+      <a href=https://news.yahoo.co.jp/pickup/6533186>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/95d728e2c179a49e6113d0c3605c334655410503e72ffede50f99988a2d35e75.jpg> ようやく 選抜で今大会初の柵越え
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 16:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 16:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
