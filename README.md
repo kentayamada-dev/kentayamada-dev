@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1dccbe0ce19d05257963883b09abf202.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3843555a46702f4d16e41745de1f8559.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78461239fe71b1ad3dfc114734711b860bc7d1f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000007-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏暗殺未遂後に「祈った」とプーチン氏 米特使に語る
+      <a href=https://news.yahoo.co.jp/articles/c36295b075f0abd57471b8f9259182c05ad19262>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-90029341-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 三重県御浜町の夜行バスの事故　現場の道路にブレーキ痕なかったか　死亡した運転手に体調問題なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/650255640b4e38b3b31a2c21c760a2e1c42afe95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-90039505-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 事故につながる持病確認されず…道路脇の防風林に突っ込み死亡した大型バスの57歳運転手 経歴約20年のベテラン
+      <a href=https://news.yahoo.co.jp/articles/78461239fe71b1ad3dfc114734711b860bc7d1f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000007-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏暗殺未遂後に「祈った」とプーチン氏 米特使に語る
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/0ebed48cb54abc6110d02ab758eded1997bd72e43cc21e0088d13f0ab49dc9ac.jpg> 老後に資産形成 「シンニーア」増
+      <a href=https://news.yahoo.co.jp/pickup/6533168>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/fc7e42da969f3e59121d794d891863062be5b477235ef2c91f3538028870742b.jpg> パトカー追跡のバイクが事故 死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533168>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/fc7e42da969f3e59121d794d891863062be5b477235ef2c91f3538028870742b.jpg> パトカー追跡のバイクが事故 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533170>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/f48a4ce0bf286a9cc87cac19d404c15d94d1457d0a950cce74028b5c24432a47.jpg> 人気のコナズ珈琲 狙いは女子会?
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 12:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 13:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
