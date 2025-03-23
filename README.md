@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4cbcfedc1afb8797fe3a5abc68f25401.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0ff385197d7c1965e14360d40e3d4a74.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/28bdd91febda11ed72f3ab4346bc4a7098e903b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00087286-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=300&ch=300&exp=10800&fmt=webp> トランプと米国民がいまこそ噛み締めねばならない第二次世界大戦の引き金となった「ミュンヘンの宥和」の教訓
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/371c132eaa5e23bb8aea0cf779b801acadb270b8>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533152>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/a8389d221a6c45e64070c437b94a185bab66cf03c2314cffaacea1a01b055631.jpg> 横断歩道で高2が車にはねられ死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533168>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/fc7e42da969f3e59121d794d891863062be5b477235ef2c91f3538028870742b.jpg> パトカー追跡のバイクが事故 死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533162>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/8aaa3896504f3559626835cc2220a5df34e7d6ed281414b4e58f46e6e3202405.jpg> 大量の空き缶不法投棄 金沢の山中
+      <a href=https://news.yahoo.co.jp/pickup/6533152>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/a8389d221a6c45e64070c437b94a185bab66cf03c2314cffaacea1a01b055631.jpg> 横断歩道で高2が車にはねられ死亡
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 11:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 11:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
