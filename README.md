@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4537507b91c876b1b85042717034ce34.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ad5c63cb85e6776d8bb828b4bedf372.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46d3e5ab0cea630ce004cb2ec2adbba243873297>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【福岡県知事選】初の“生え抜き知事”2期目へ　現職の服部誠太郎さん（70）が再選確実「きょうからがスタート」　推定投票率は31.34％と発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08da3695787591882b89055f7bcf13e7e50f9121>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00050129-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=355&ch=355&exp=10800&fmt=webp> ガザの死者５万人超、イスラエル軍の大規模空爆で急増…２３年１０月の戦闘開始から１年半で
+      <a href=https://news.yahoo.co.jp/articles/4640d7141ba378b7f3ce0a7357074059236293ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-11626004-ksbv-000-30607199-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 岡山市の山林火災　住宅と倉庫合わせて5棟が焼損【23日午後9時30分現在】
       </a>
     </td>
   </tr>
@@ -378,14 +370,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/513a7ea96edcd2b3a5af91b079a7bd60b8e58903a88d10b27a4130e739d4d6d3.jpg> 自民幹事長 中国の王毅外相と面会
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533231>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/91f44c93124e9d1a685109f241b78eaa9802278fd63184f8d21108545e345dc7.jpg> 2閣僚の個人献金 住所欄に事務所
       </a>
@@ -394,8 +378,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533229>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/68c4aaf177615ce2b519f4ff54f032df934cdb7dc9fdb6bd96d8d832b68c1f3e.jpg> すき家ネズミ混入 公表まで2カ月
+      <a href=https://news.yahoo.co.jp/pickup/6533239>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/4e14285123e9fd1c1b49bb971475b42484b27d2a79dbe67563fb4befec73bbbe.jpg> 福岡知事選 服部誠太郎氏が再選
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533241>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/917ef158c61a4947f00434e258b174a4abede430dcbb5a647208ecfbbb684fc9.jpg> 岡山・愛媛で山林火災 自衛隊要請
       </a>
     </td>
   </tr>
@@ -410,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/69972832243600460ad9c3aa044c3dcf5a89ab24fcf61c0b3ccb0c82599d336c.jpg> ストリートピアノ巡る注意が物議
+      <a href=https://news.yahoo.co.jp/pickup/6533240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/49d9eddf590ad7545bcf88e0e9df448bb68ec3cc32dfe8f9faed1175389c9efe.jpg> クルド人の祭りで市議ら衝突 騒然
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/726ef7c09522998c81e231f98b9dca6e39cfd72731b018ddcd75acc99d27826d.jpg> 43歳で退職 車中泊する男性の幸せ
+      <a href=https://news.yahoo.co.jp/pickup/6533224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/69972832243600460ad9c3aa044c3dcf5a89ab24fcf61c0b3ccb0c82599d336c.jpg> ストリートピアノ巡る注意が物議
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 23:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 23:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
