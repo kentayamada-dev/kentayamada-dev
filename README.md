@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/494a698100c5c3d83c00fa48a0581b10.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fe8922737106078c547fdbc667b29521.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/168333c7ecc6b690e88e148793ab5c745bd7bd4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00946941-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【中継】岡山の大規模山火事延焼続く…山林70ha以上焼け、住宅など計5棟類焼　403世帯893人に避難指示　自衛隊に消火活動協力要請
+      <a href=https://news.yahoo.co.jp/articles/d7dc7d9650976044c5c46d99654c2b47a35d6bcd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00010001-gkakutogi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 【ONE】武尊をKOしたロッタン「1RにKO出来るとは考えていなかった」「1R、2Rは打ち合う試合を見せたいと思っていた」「自分のパンチに自分でも驚いている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c674e770b0b7b53745d729b12b4005cbac07437b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ONEで衝撃80秒KO敗戦の武尊は本当に限界なのか…「早すぎるストップ」論争には「文句はない。弱かっただけ」と終止符…「ロッタンと再戦したいが」進退についての明言は避ける
+      <a href=https://news.yahoo.co.jp/articles/0cfcce1831b1a588687ffc8b13904ebef9cf4446>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 米・ウクライナがサウジで協議、エネ施設・インフラ保護巡り
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533243>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/5e10b79baaae3e8ec7cb3b10e11705834d242f7e9c84d00bb4b71b8b8faf10c0.jpg> 中国首相 海外からの投資を歓迎
+      <a href=https://news.yahoo.co.jp/pickup/6533247>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 津波「避難困難」全国23万人 調査
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 06:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 07:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
