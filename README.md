@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b3692c712edecc520a7ddc307a97ff2e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c12bf2bdeff3aba387ac4d7777a81c0e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efe6865a43aadb1180803cf91633cf137a4b6966>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00050430-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 泣き叫ぶ様子の電話から知人が通報　女性遺体を山中に遺棄した疑いで逮捕の男　事件直前にコンビニ駐車場で合流か　徳島
+      <a href=https://news.yahoo.co.jp/articles/32f916c7effad220c98dcfcaba7a953177bf5170>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000062-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=422&ch=422&exp=10800&fmt=webp> アニメ「地獄先生ぬ～べ～」に藤原夏海、島袋美由利ら　最強ジャンプで新連載も始動
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533183>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/a06d3d3e5c74c294e999c2bfc63e76f20666aa1f49ba669db28fe144fba40e2d.jpg> 児童が陳情 スケボー練習場整備へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533185>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/726ef7c09522998c81e231f98b9dca6e39cfd72731b018ddcd75acc99d27826d.jpg> 43歳で退職 車中泊する男性の幸せ
       </a>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533186>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/95d728e2c179a49e6113d0c3605c334655410503e72ffede50f99988a2d35e75.jpg> ようやく 選抜で今大会初の柵越え
+      <a href=https://news.yahoo.co.jp/pickup/6533191>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/42f7e9203cf30889f9ea515778617e4a5fffabb940a72651221f643acd3d179d.jpg> アプリで野菜をプレゼント 狙い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533181>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/7f18a164ac9899027f618ec213c0a6c891f9f862a418e701144fa870b81addd9.jpg> 引退後に転職の壁 元アイドル語る
+      <a href=https://news.yahoo.co.jp/pickup/6533195>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/e99632938f78bc754fa00060abb28420ec7c86f7796d0a8e38191ea14cee822b.jpg> ヤクルト また主力アクシデントか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533196>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/d5abcb3a7ecb4e4c8cd45ce40a56a39395c437c105c4cca4f96cd6f7c4c03e4f.jpg> ぬ～べ～4年ぶり新連載 5月開始
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 16:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 17:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
