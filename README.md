@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/75bbcd2b0d1a55793b8dd31002c56caa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/acd74c866de37c51ebd5732bfacf640f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3159e4b42f4ed1d5b9317c5db26b26406e07275>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00010000-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 現役続行か？引退か？武尊が予定外の会見で「冷静になってしっかり考えて、また正式に発表したい」【ONE172】
+      <a href=https://news.yahoo.co.jp/articles/070e5ebacb0c2746c7110f4c5f2a07a371442590>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000003-gbr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=446&ch=446&exp=10800&fmt=webp> 【ONE】野杁がムエタイ世界王者をKO葬！見据えるスーパーボンとの王座統一戦「必ずKOします」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 04:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 05:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
