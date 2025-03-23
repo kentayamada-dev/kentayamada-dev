@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c81c5f19fff4d490cc5d99800a6da5e6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c4774c782c30ac42f15a273bed5d702c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/943a7ac85f611c84cbc36d6b651d09d890baa0b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000217-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1118&ch=1118&exp=10800&fmt=webp> 【センバツ】花巻東・佐々木監督　戦略的に金属と木製バットを使い分ける理由説明「長打期待できる子は木」
+      <a href=https://news.yahoo.co.jp/articles/3902ae0c1ac87b14914d694aadd39256eb1cbe77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000021-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ウクライナはNATO加盟しないとほぼ認めた」米ウィトコフ特使が持論
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78461239fe71b1ad3dfc114734711b860bc7d1f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000007-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=293&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏暗殺未遂後「友のため祈った」とプーチン氏 米特使に語る
+      <a href=https://news.yahoo.co.jp/articles/760877db14704950452356247baaacf402be3ca9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000014-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大会初の柵越えは二松学舎大付・永尾　「悪い流れの中で反撃の一発」
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533166>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/2086f13c78c8fd083efc75cf3238d827ee25b0d2f56cae84551ae1dec9709099.jpg> 歴史・台湾問題 中国が日本けん制
+      <a href=https://news.yahoo.co.jp/pickup/6533177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/0310e7f063a51992ead2434e4581990fa55989e66af01cfcf507314f74d8d922.jpg> 岸田氏も政倫審出席を 立憲幹事長
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533178>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/5c8a067c2429be901e942edd3a4ec0e66defb6d88bea3b3adaeefc1ef3e6af8a.jpg> 競馬メシ名物 物価高に抗うそば店
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533179>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/1/65923765a66840fcd9418c25113f2e2b5aa8bb73b63a281e2700ba70ae144859.jpg> 12連敗の21世紀枠 出場校は不安も
       </a>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/6202f2143c5f75c0f2db89301736ba3dce28aa0f7b28c0b1dbac337825ff5aeb.jpg> 藤田ニコル 今のSNSが大っ嫌い
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 15:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 16:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
