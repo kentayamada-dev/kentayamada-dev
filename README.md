@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f3b701129d6a414417999f3ccd68828e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/418a4d5aeecc2cea41ccfb9acbe72e42.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd84bfa40d30709159c23ac29cae0a19e1411e9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00000019-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】岐阜・郡上市で「ヘリが墜落した」と通報　小型ヘリに乗る2人軽傷
+      <a href=https://news.yahoo.co.jp/articles/8af3c30680d8e55a6c6b4338e1b2a4015c098916>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250323-00010005-wmap-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京都心で25.6℃　今年初の夏日　高知でさくら開花　荒天や寒の戻りに注意　週の中ごろは黄砂飛来も
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533166>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/2086f13c78c8fd083efc75cf3238d827ee25b0d2f56cae84551ae1dec9709099.jpg> 歴史・台湾問題 中国が日本けん制
+      <a href=https://news.yahoo.co.jp/pickup/6533182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/c3a88f81f3d2e6b0965e237e8965e21e7ac30cf384c87bdd5e436be7fd08c6aa.jpg> 関東で夏日地点続出 都心も25℃超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533155>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/db22e268ac281cad48e820e53d21035a268ca1de2cb15543f7ff3d12e2b958a2.jpg> 自民支持層「石破離れ」毎日調査
+      <a href=https://news.yahoo.co.jp/pickup/6533166>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/2086f13c78c8fd083efc75cf3238d827ee25b0d2f56cae84551ae1dec9709099.jpg> 歴史・台湾問題 中国が日本けん制
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/af7ba1591abe6b5c1a9ad929c630810e4e30f7a6aff8a5972aaaf5db8ff5659a.jpg> 負傷の西武・源田 1軍練習に参加
+      <a href=https://news.yahoo.co.jp/pickup/6533179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/1/65923765a66840fcd9418c25113f2e2b5aa8bb73b63a281e2700ba70ae144859.jpg> 12連敗の21世紀枠 出場校は不安も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/1/65923765a66840fcd9418c25113f2e2b5aa8bb73b63a281e2700ba70ae144859.jpg> 12連敗の21世紀枠 出場校は不安も
+      <a href=https://news.yahoo.co.jp/pickup/6533181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/7f18a164ac9899027f618ec213c0a6c891f9f862a418e701144fa870b81addd9.jpg> 引退後に転職の壁 元アイドル語る
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/23 14:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/23 15:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
