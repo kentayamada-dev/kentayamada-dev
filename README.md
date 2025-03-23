@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4de472d20b8e08e213576d18dfcc48c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5bab94b09a7c1f9c1853926bb5af15cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7dc7d9650976044c5c46d99654c2b47a35d6bcd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00010001-gkakutogi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 【ONE】武尊をKOしたロッタン「1RにKO出来るとは考えていなかった」「1R、2Rは打ち合う試合を見せたいと思っていた」「自分のパンチに自分でも驚いている」
+      <a href=https://news.yahoo.co.jp/articles/19cea532ef79d760f24c89e2d07896c73c5ffda6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 岡山・愛媛の山林火災、延焼拡大　夜通し消火、自衛隊がヘリで散水
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0cfcce1831b1a588687ffc8b13904ebef9cf4446>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 米・ウクライナがサウジで協議、エネ施設・インフラ保護巡り
+      <a href=https://news.yahoo.co.jp/articles/d7dc7d9650976044c5c46d99654c2b47a35d6bcd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00010001-gkakutogi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 【ONE】武尊をKOしたロッタン「1RにKO出来るとは考えていなかった」「1R、2Rは打ち合う試合を見せたいと思っていた」「自分のパンチに自分でも驚いている」
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533241>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/917ef158c61a4947f00434e258b174a4abede430dcbb5a647208ecfbbb684fc9.jpg> 岡山・愛媛で山林火災 自衛隊要請
+      <a href=https://news.yahoo.co.jp/pickup/6533253>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/a1a836f98d2953143423c2777c41ed65319135bd5dfb2e7f6a6c8b53410e1db9.jpg> 岡山・愛媛山火事 夜通し消火活動
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/23/49d9eddf590ad7545bcf88e0e9df448bb68ec3cc32dfe8f9faed1175389c9efe.jpg> クルド人の祭りで市議ら衝突 騒然
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533249>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「ジェネリック」表現 若者に話題
       </a>
@@ -440,11 +432,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533251>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/3378faff7d59391bcd219f76974ce5b88f981395a4f28099527c40dc1eedae2f.jpg> 「ミヤネ屋」新MCに西尾桃アナ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 07:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 08:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
