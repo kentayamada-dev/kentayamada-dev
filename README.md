@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eec03fc6ba99391787c84b7a146266e1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5d04afe97bb6084f8f85a448478f5166.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/34b5a4cad77d1ddabe2d113ea21d8dc280c262b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00050072-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=411&ch=411&exp=10800&fmt=webp> 西武観光バスの大宮営業所を捜索、夜行バスの防風林衝突で勤務体制・運行状況など調査へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e7463199a4e19365f943d743cf10c97e87d168df>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国首相の弾劾訴追を棄却、憲法裁が言い渡し　韓悳洙氏が大統領代行に復帰
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6bd35877e302109b8bc217130108f46a6e22b769>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00771190-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 武尊に衝撃KO勝ちのロッタン、妊娠中の22歳妻が「可愛いな」　試合後に控室でキス「奥さんわっか！」驚きの声
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00771190-encount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 武尊に衝撃KO勝ちのロッタン、妊娠中の22歳妻が「可愛いな」　試合後に控室でキス「奥さんわっか！」驚きの声
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/67ca042aea4526dea6b1bc567d6a8d4c75c810f7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> ガザの死者、5万人超え イスラエルは全域で地上作戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51681423874bd8693c091242f0b0011033fceeb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 陸海空自衛隊を一元指揮　統合作戦司令部が発足、米軍との連携強化も
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533254>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/6a947fe6e4267830f993bb3bc8bf118a47ec169deea8c6cf664cb67d01edcd8e.jpg> 脳死臓器移植 東大病院が体制強化
+      <a href=https://news.yahoo.co.jp/pickup/6533270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/a50728ad616a6a579c196abafaf2c0dfb39ace1807d2ea79e5b630ca41620b47.jpg> 韓国憲法裁 首相の弾劾訴追を棄却
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533272>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/99699e6e287c9f4610610541076d80a51c67bb65881a0c8d4c2df28cd43a2cdd.jpg> 夜行バス事故 運行会社に家宅捜索
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533261>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/cd6d3926f338a55eddea814326612812b03ffbb428f4a302ceff29f8af52d9fb.jpg> 速報センバツ 沖縄尚学vs.横浜
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533268>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/44536361f7395eaa30cf7fa8f17d2df8785794176b98f00a6ff923600bceacf1.jpg> NewJeansが活動休止宣言
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 11:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 11:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
