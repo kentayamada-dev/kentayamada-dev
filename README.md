@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a943ceffeb8ae425ea275dd5b5936a64.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/513e25a58ad183d062effc75aae65172.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04aecafaf4b75a5a5993db8e3b90746406722cbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00338542-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> 【センパツ】西日本短大付が初の８強　西村監督は２戦連続完投のエースに「大好きです」
+      <a href=https://news.yahoo.co.jp/articles/485e745950928124713eff561c4eb221366cfbd9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00865135-number-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 武尊“早すぎた1分20秒KO負け”はなぜ起きたのか？「先のことは考えてない」試合後の本音… SNSでは「限界論」も、本当に考えるべきキャリアの本質
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73ac93a87c298e9a3580d050af277c12d9da05aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 尹大統領、李在明民主党代表が共に生還すれば「本当の内戦」に…運命の週の４つのシナリオ（２）
+      <a href=https://news.yahoo.co.jp/articles/04ea270903329d595eef8fdf4828d616d1c29d44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000128-impkdw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=320&ch=320&exp=10800&fmt=webp> サトウのごはん、一部パックごはん終売。6月から値上げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfd0d007eae4fb5b9e763776f1d10676a6384d36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000212-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=788&ch=788&exp=10800&fmt=webp> 衝撃KO負けから一夜…武尊が心境「身体のダメージと自分と向き合って答えを」　ファンからはねぎらい続々
+      <a href=https://news.yahoo.co.jp/articles/5547a96bfd202d3a75c48e8ad6e3b24286f4a960>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国首相が大統領代行に復帰、憲法裁「非常戒厳」宣布の違憲性に踏み込まず弾劾訴追を棄却
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bce998ae329fe242eea984b0e89f1ef87af71df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00094111-thedigest-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「食べるのが怖い…」ドジャース・ベッツ、体調不良の原因は“不明”「食べるたびに吐いてしまう」11キロ減の“激痩せ”にファン騒然「めちゃくちゃ心配」
+      <a href=https://news.yahoo.co.jp/articles/19ceaf5c782f22095b18f8ecb697d39fa90f1b06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000034-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 西日本短大付、攻撃力満開　前々回Vの山梨学院に「重圧かけたい」
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533301>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/7a70e05aab69f36c2ffa921f0b772e2684e4962b2a500c0e6f50734a6ab6e383.jpg> トランプ氏の揺さぶり 各国に影響
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533291>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/53d66db20e8f5478fcb38b730a1cefc4b369bd545c476bbf0c6229cb89f90bfe.jpg> 「統合作戦司令部」防衛省に発足
       </a>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533274>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/5a82262aa46c6430e65228d47ef19fd5e5bb6415dea066247da3de7337f0ae2c.jpg> カナダ与党 反トランプで支持回復
+      <a href=https://news.yahoo.co.jp/pickup/6533306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/d7ae08f2c81c3f2f65c6f8c986746d5192d809ef2e08fe283e3bbbf500e70631.jpg> 車がはねた中2 頭の骨を折る重傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533293>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/f441f170eb3d51a872c09b473014d73ed75c75520f38d0a3e37d4c6c1591041e.jpg> 福岡刺殺 遺族が判決後に涙の訴え
+      <a href=https://news.yahoo.co.jp/pickup/6533305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/db1fa17cf30cf23b3527a9850b3d0afee826cb9e93a1e0a6a7167af5d1bef2ab.jpg> 機械式駐車場を巡り談合 排除命令
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/80c9997f1b0e7af30dfff79f8bcf12493537dcc44d073bf582a09b298acf380c.jpg> ベビーカー返却されず 水族館悩み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533288>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/a309651d759b724d8689983bb28d1f59dad7a8c41457d30fdd4cd97b7548ddc4.jpg> 土星の「環」 15年ぶり消失状態に
+      <a href=https://news.yahoo.co.jp/pickup/6533304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/0c767b1a823d6075abd3ddd3f4ba99ebd0d4622fd7658a29579f511d44673ae4.jpg> スタバ 紙のストローを順次廃止
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 17:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 17:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
