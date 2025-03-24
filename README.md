@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a79a9c51bcf01c8de84fa903369bd452.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93279bec3052d55d548e45f8c52d8930.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f164e267b3fd5ecc5f5b0efe6cc54b3bfe2db47a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000215-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 住民不安「燃え広がらないで」　岡山市と愛媛・今治市の山林火災
+      <a href=https://news.yahoo.co.jp/articles/869f427d5537f7c234d399b4fe377626ab010b01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00483820-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=392&ch=392&exp=10800&fmt=webp> 韓国大統領代行に復帰の首相　NSC開催
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1e49caf5e39f2d99880f612e061a4630c08e9bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 逮捕された78歳男「なぜぶつかったかはわからない」　女児1人死亡・1人重体　小学生の集団に軽トラックが後ろから突っ込む　
+      <a href=https://news.yahoo.co.jp/articles/06381afbfc9e247cbe4f52e42bb653951d6512f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-09929838-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 愛媛の山火事、延焼続く　2815人に避難指示　消防が夜を徹して消火活動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/014dce5bc288d34f494d1c188d51ca8e05c936b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-90031569-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 軽トラックが小学生4人の自転車の列に突っ込む 1人死亡1人重体　逮捕された男「なぜぶつかったかはわからない」　静岡・浜松市　　
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ebeb49652894b7141639e22aca7a888442c8eecb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-21807055-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 【山火事】大船渡山林火災　東日本大震災、今回と二重被災した男性の自宅再建　岩手
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1641079ed068f0e93a3cc78494bac64885a32cd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00050143-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 韓国首相、８７日ぶり大統領代行に復帰…弾劾訴追の棄却に「憲法裁の賢明な決定に感謝する」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/c9f1c37eb9dad428c629ffa58378717b0c8f00d6959609201b8a0740477f52f2.jpg> ガソリン補助4月以降も継続 方針
+      <a href=https://news.yahoo.co.jp/pickup/6533337>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/e4d6f21375c1dac10ce5caeb8b21b340116960b0394e6a145b3d4d74abd31a55.jpg> 備蓄米「必要ならさらなる対応」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533327>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/9cb197f3491da6a891809a16a8db9a7ea407e1cd6f2a862ba4f328efc61bbe52.jpg> 逃げると殺すぞ 空襲時の同調圧力
+      <a href=https://news.yahoo.co.jp/pickup/6533331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/c9f1c37eb9dad428c629ffa58378717b0c8f00d6959609201b8a0740477f52f2.jpg> ガソリン補助4月以降も継続 方針
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 21:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 22:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
