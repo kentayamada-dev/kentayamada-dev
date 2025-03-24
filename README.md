@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/32258c45f314b1d647f4b61d79cea3d1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc08701f287034777934cbbf3b478856.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e25a670946123b1b2b200cc05bb196a2f2b9e47e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-03241186-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=21&cy=0&cw=1042&ch=1042&exp=10800&fmt=webp> 森保ジャパン、４年前の“宿題”をやり遂げるため…W杯出場を決めても負けられない
+      <a href=https://news.yahoo.co.jp/articles/0b8ce743153c34e48fe03701ad64d3f449d50490>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00947525-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 軽トラが小学生の列に突っ込む事故で1人死亡　1人意識不明　静岡・浜松市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0fb27e5d003fc43afe6fe1a8301132ca33c6c49c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-07226438-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 愛媛・今治市の山林火災　焼損面積は約160ヘクタールに拡大　1300世帯余りに避難指示
       </a>
     </td>
   </tr>
@@ -378,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533356>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/aaa6d309a808675312e938bc089f929ab226d6fb00bfc3cb10d1f828a32ab2ac.jpg> ウ情勢を協議 米露が声明発表へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533347>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/d7305b5763c4ca2a12b6a23a4352f61c1433fc4af98fa6283a8640b7d895a418.jpg> 首相が夜会食再開 商品券巡り陳謝
       </a>
@@ -386,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/fb177f1041da3eb4a14ed5791be3eb92f6a515fad943e65f761a06677adbad60.jpg> ガザで巻き添え拡大 住民絶望の声
+      <a href=https://news.yahoo.co.jp/pickup/6533355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/9a219843759c736435e1c50cbc0cde66155fc979f4718235d3ca1d1d39fa148e.jpg> ガザ在住の朝日新聞通信員が死亡
       </a>
     </td>
   </tr>
@@ -426,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/1af99b8e16ad48ff259667d91159672c1a30300e668904c6cab0b5d761de6c52.jpg> 民泊に1人で予約→6人滞在 てん末
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533350>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/4efce85aab0119d508217cd691fa34da2cb1a0af64ffc51620b932c22a31ef5d.jpg> レスリング金・恒村友香子が出産
       </a>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 06:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 07:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
