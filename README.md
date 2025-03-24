@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/BQONc-EGHjA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e27d57fcc5b12d56c4f2bc75761cbff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d9eb9c98256d5a7b3b1d22f41406909f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a19ef649b3116c861a0aec21dcd74b49706190f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000047-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 韓悳洙大統領権限代行が職務復帰　「憲法裁の決定に感謝…急ぎの件から取り組む」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e8a4fbdf4eb9844e2a9b913e7e90e7a0ccdabfc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000071-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=1016&ch=1016&exp=10800&fmt=webp> 給与増へ官民比較見直しを提言　国家公務員のなり手不足解消へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6850cdb3bd6cb59157d5e7bda63a801da97507b3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00163636-crankinn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=488&ch=488&exp=10800&fmt=webp> まさかの1RKO負けの武尊、一夜明けSNS更新　今後は「自分と向き合って答えを出そうと」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3ece64a49cfbb1dc4fe078fa8604fe43827bfc3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-16597174-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=485&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カナダ、来月28日に総選挙へ　トランプ氏対応が大きな焦点に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d2e3d73276b4147540e40626760e9ed910c30c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国 非常戒厳めぐる韓悳洙（ハンドクス）首相 弾劾訴追を棄却 職務復帰へ 憲法裁判所
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533269>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/d7edcc135f7b95954335f10c8e3d01951c1b503417396277deb94461c5deaef9.jpg> 長射程弾 原則は日本主体で発射
+      <a href=https://news.yahoo.co.jp/pickup/6533279>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/063c4126f1fbbc6129dd4b475bff76e339580cd09fcea0ccee968ebdd6e84153.jpg> 首相面会の中国発表文に林氏 遺憾
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533267>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/67593a2329da408538fb7c323414fe53cf3bb9dbf8b6e04014f613a3534f1f89.jpg> 岡山・愛媛の山林火災 延焼拡大
+      <a href=https://news.yahoo.co.jp/pickup/6533269>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/d7edcc135f7b95954335f10c8e3d01951c1b503417396277deb94461c5deaef9.jpg> 長射程弾 原則は日本主体で発射
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/44536361f7395eaa30cf7fa8f17d2df8785794176b98f00a6ff923600bceacf1.jpg> NewJeansが活動休止宣言
+      <a href=https://news.yahoo.co.jp/pickup/6533280>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/cf438b5c23fbd337be592910aab3dff336f0c59f03218057f428d6fe73d37460.jpg> NewJeans活動休止「戻ってくる」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 13:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 13:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
