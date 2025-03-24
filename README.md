@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ef32130fec881bedab77c98989601e0b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a943ceffeb8ae425ea275dd5b5936a64.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2aec63e6d60bd472ba75bdb26c9276517e75b24c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000066-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=904&ch=904&exp=10800&fmt=webp> 西日本短大付は2試合3本塁打…柵越え一番乗りの佐藤仁は「4番の仕事できた」と笑顔【センバツ】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6477c1280224c7dac79df5fae99fc51a7e1e81d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000015-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=784&ch=784&exp=10800&fmt=webp> 韓国ガールズグループ「NewJeans」が活動休止宣言　ファン困惑「待って応援」「理解できない」
+      <a href=https://news.yahoo.co.jp/articles/04aecafaf4b75a5a5993db8e3b90746406722cbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00338542-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> 【センパツ】西日本短大付が初の８強　西村監督は２戦連続完投のエースに「大好きです」
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cfd0d007eae4fb5b9e763776f1d10676a6384d36>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000212-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=788&ch=788&exp=10800&fmt=webp> 衝撃KO負けから一夜…武尊が心境「身体のダメージと自分と向き合って答えを」　ファンからはねぎらい続々
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8bce998ae329fe242eea984b0e89f1ef87af71df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00094111-thedigest-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「食べるのが怖い…」ドジャース・ベッツ、体調不良の原因は“不明”「食べるたびに吐いてしまう」11キロ減の“激痩せ”にファン騒然「めちゃくちゃ心配」
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533294>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/94dfafa1dfef680b107ac5c0c45feade0399b4f778182ae32ba0b4488e012532.jpg> NewJeans活動中断 ADORコメント
+      <a href=https://news.yahoo.co.jp/pickup/6533302>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/43115c461fcaef4d8fff64b26b6643d5832db903fe022b957fe5c3d6ccaa19af.jpg> NPB ネットカジノで16人に制裁金
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533290>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/5a1361db960917a9747a5cfd1dd62327c1736673ae834576fcc57805ba6b07ad.jpg> 比嘉愛未 新たな所属事務所を発表
+      <a href=https://news.yahoo.co.jp/pickup/6533298>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/d5ec23b3ae3870bf485b7152cf166fe978ac007f0b6e3a078165c43d46422a94.jpg> 実写版の白雪姫 配役や描き方物議
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 16:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 17:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
