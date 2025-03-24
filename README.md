@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b67f3429d4d2fd57c6fe00b954fb4362.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3806a9177dd36d25e9107892eabef9d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,6 +359,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e0077e36223e33f70d63ca8235c2510ab0f2f09c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=653&ch=653&exp=10800&fmt=webp> 小2が死亡、姉が意識不明　浜松の軽トラ事故、78歳容疑者を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ef4affa7d6584b854b9b8b80558e3c4e1c788b28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000002-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1484&ch=1484&exp=10800&fmt=webp> エジプト、ガザ停戦に新提案　人質週5人解放で「第2段階」移行＝関係筋
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 00:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 01:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
