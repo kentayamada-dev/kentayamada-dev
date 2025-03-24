@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e150789eca99ed066701fa4f54e3785.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2bbbe13c56c995aa746484a675d3212d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3b0a5766deabc1d481c47f917af43c13135ffadf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00010002-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 第2段階に進める可能性は「初めからなかった」？　ガザの停戦が6週間で終わった理由
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c443d72c59b160adfa4ee9fa7a4898a7a6a81fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 西東京市の飲食店で男女が刺される　女性死亡　男性にも刺し傷　2人の間にトラブルか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2caf81e316aec195561a7272d795f7aeef64408f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国主要紙の朝刊ヘッドライン（3月25日）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eccbb48fb53fa3abdf53a8d3b375e5fd4bb2ff72>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-01724720-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 父は作曲家…ピアノ奏でる93kg巨漢4番　応援歌にも“こだわり”「雰囲気に合う」
       </a>
@@ -365,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41f37c89d040e466db8d912504f404dba4d23609>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000027-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=893&ch=893&exp=10800&fmt=webp> 元通訳の水原被告、出頭日が延期　米
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e971bfac148bbdbc23ee12a01e0df4107a617fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90039541-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 車を止めて路上に立つ…夕方の国道で71歳女性が乗用車にはねられ死亡 運転していた31歳男を現行犯逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fb27e5d003fc43afe6fe1a8301132ca33c6c49c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-07226438-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 愛媛・今治市の山林火災　焼損面積は約160ヘクタールに拡大　1300世帯余りに避難指示
+      <a href=https://news.yahoo.co.jp/articles/b7b5451f03f82b87db329765e74b0699216be874>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000001-at_s-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 浜松で小学女児4人死傷　自転車列に軽トラ突っ込む　78歳の男逮捕
       </a>
     </td>
   </tr>
@@ -410,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/469b0520b0f604717caaa005b94745e8254f3360dfc8b5bf16c2e8d7769d173f.jpg> 損保大手4社に業務改善命令
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533355>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/9a219843759c736435e1c50cbc0cde66155fc979f4718235d3ca1d1d39fa148e.jpg> ガザ在住の朝日新聞通信員が死亡
       </a>
@@ -418,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/e78b04d334a955a5fc6ff4b3ba5ee9eb19263acdf966447bf3fc185691803e6f.jpg> 児童4人に軽トラ突っ込む 小2死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533362>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/924471605abdc7eb307bc9360bc97a76924d78088af67cf8fa3da3d27ff48b72.jpg> 2人刺された状態で発見 女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/924471605abdc7eb307bc9360bc97a76924d78088af67cf8fa3da3d27ff48b72.jpg> 刺し傷のある男女発見 女性は死亡
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/0d0991fc1536ce47d792e20826229921f1f4087705554e9817a2cc1dfdcb90b0.jpg> 入学説明会で不合格知る 伝達ミス
+      <a href=https://news.yahoo.co.jp/pickup/6533363>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/46a1df14de2d1c5df1d1ad6e0b8bac5aa4998068073137a39ae65971f87b2bdb.jpg> 水原一平被告の出頭期限 延期
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 08:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 08:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
