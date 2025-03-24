@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0436e2b757a3c2605fa52d458f389483.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/30e663029737337f0eef6d18da2b01b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a490e6274fe0957276f6c2d4a9eba0714f4903a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-21809169-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「山火事は消えない」火を甘く見てはだめ!　岡山県でも発生した火災、岩手県大船渡市では未だに鎮火せず…なぜ山では火が消えないのか
+      <a href=https://news.yahoo.co.jp/articles/394b352844bb06bb7f92cc0f80542659ee846507>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00010004-sanyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 【詳報】岡山 山林焼失250ヘクタールに　民家など焼損 一時雨も鎮圧至らず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f56671d4d5df7409c2714a93730caf3a83d5f2f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-03241215-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> 笠りつ子の誤所からのプレーは「大会関係者からの指摘」で発覚　ＪＬＰＧＡが訂正発表
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/869f427d5537f7c234d399b4fe377626ab010b01>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00483820-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=392&ch=392&exp=10800&fmt=webp> 韓国大統領代行に復帰の首相　NSC開催
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f4c46335d0d5b91d4f2bd2414c09c86a7fdf59a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000069-ann-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> サトウ食品　パックごはん17商品の販売終了へ　コメの品薄で需要拡大し生産効率化
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/c9f1c37eb9dad428c629ffa58378717b0c8f00d6959609201b8a0740477f52f2.jpg> ガソリン補助4月以降も継続 方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/4d4ae580e804c71fde8df505d9c2304fe40f79f634faabf6eb3cf482ae224c39.jpg> 袴田巌さんへの刑事補償 2億円超
+      <a href=https://news.yahoo.co.jp/pickup/6533321>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/5e2016b16973839743be999beab1f129e991ff629d7b1edcf9f9d2a421dbdf33.jpg> 企業・団体献金案「3案」出そろう
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533334>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/e78b04d334a955a5fc6ff4b3ba5ee9eb19263acdf966447bf3fc185691803e6f.jpg> 児童に車突っ込む 1人死亡1人重体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533328>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/74a8b23b5d6f73bff8c73a55a0569a8206289aad958a12fc75f2ac17ec61222e.jpg> 詐欺拠点 今も邦人数十人が関与か
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533298>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/d5ec23b3ae3870bf485b7152cf166fe978ac007f0b6e3a078165c43d46422a94.jpg> 実写版の白雪姫 配役や描き方物議
+      <a href=https://news.yahoo.co.jp/pickup/6533346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/64f422599cb546f3eb6aa021e32c56d36324b3d21586045248679d4f08a82204.jpg> ゴルフ笠りつ子違反 指摘巡り訂正
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 22:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 23:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
