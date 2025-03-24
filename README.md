@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/44602590e98ae6730e24dff2c595c46a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f98b045c1ebb1768c0d4aaf21d4b97da.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b34bd4a4d4160f761929c7311340075c5c0705f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000020-ann-000-3-thumb.jpg?exp=10800&fmt=webp> アメリカ高官「ウクライナはNATO加盟を事実上断念」持論展開　ロシア寄り発言も
+      <a href=https://news.yahoo.co.jp/articles/51681423874bd8693c091242f0b0011033fceeb2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 陸海空自衛隊を一元指揮　統合作戦司令部が発足、米軍との連携強化も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e88e2ef42800027955f14d764a2d6a8cd267437>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00050038-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=393&ch=393&exp=10800&fmt=webp> ドジャースのアメリカ開幕戦、スネルが先発…第２戦は山本由伸で第３戦は佐々木朗希を予定
+      <a href=https://news.yahoo.co.jp/articles/6b34bd4a4d4160f761929c7311340075c5c0705f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000020-ann-000-3-thumb.jpg?exp=10800&fmt=webp> アメリカ高官「ウクライナはNATO加盟を事実上断念」持論展開　ロシア寄り発言も
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533253>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/a1a836f98d2953143423c2777c41ed65319135bd5dfb2e7f6a6c8b53410e1db9.jpg> 岡山・愛媛山火事 夜通し消火活動
+      <a href=https://news.yahoo.co.jp/pickup/6533267>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/67593a2329da408538fb7c323414fe53cf3bb9dbf8b6e04014f613a3534f1f89.jpg> 岡山・愛媛の山林火災 延焼拡大
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533249>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「ジェネリック」表現 若者に話題
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533266>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/d5a680ff1f831c908c1822da81064af00b60dd9ae5e500c6f73723bfdf10ed93.jpg> ド軍ベッツ 急きょスタメン外れる
       </a>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/44536361f7395eaa30cf7fa8f17d2df8785794176b98f00a6ff923600bceacf1.jpg> NewJeansが活動休止宣言
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 10:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 10:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
