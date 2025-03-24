@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5d04afe97bb6084f8f85a448478f5166.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/030561e10310f599533c245a289e0971.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34b5a4cad77d1ddabe2d113ea21d8dc280c262b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00050072-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=411&ch=411&exp=10800&fmt=webp> 西武観光バスの大宮営業所を捜索、夜行バスの防風林衝突で勤務体制・運行状況など調査へ
+      <a href=https://news.yahoo.co.jp/articles/057fabb0be43b4398e41d5b71ad6da0d8a4c012a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-33240378-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=1171&ch=1171&exp=10800&fmt=webp> ドジャース、帰国後初のオープン戦でエンゼルスに勝利　大谷翔平は２の０、ベッツ直前で出場回避
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7463199a4e19365f943d743cf10c97e87d168df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国首相の弾劾訴追を棄却、憲法裁が言い渡し　韓悳洙氏が大統領代行に復帰
+      <a href=https://news.yahoo.co.jp/articles/875d0d456a1599006ba72a65e728e6a4c29dc90d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-06723282-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】愛媛・今治市で山火事　1887人に避難指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bd35877e302109b8bc217130108f46a6e22b769>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00771190-encount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 武尊に衝撃KO勝ちのロッタン、妊娠中の22歳妻が「可愛いな」　試合後に控室でキス「奥さんわっか！」驚きの声
+      <a href=https://news.yahoo.co.jp/articles/769f5740435e16b40d4f220c24673270ec52d28f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00483752-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=299&ch=299&exp=10800&fmt=webp> 弾劾棄却　首相側「国政安定に大きな力」・国会側「尹氏弾劾へメッセージ」＝韓国
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7a07165aa4c164c5567792aceb1f9adef17e98bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000007-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=497&cy=0&cw=1051&ch=1051&exp=10800&fmt=webp> 対ロシア停戦めぐる米との協議「生産的だった」 ウクライナ
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533264>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/3d8ba251086a21b8d921f5fca8190273ddb8d9462f46ddfc2052c99fd8ac727b.jpg> マイナ免許証 アプリに一部不具合
+      <a href=https://news.yahoo.co.jp/pickup/6533271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/bd76344f6f37fee90644182b99fabdd987d0cf24763e095e3a07a8de970aad30.jpg> 普段着で設備故障 chocoZAP盲点
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/d5a680ff1f831c908c1822da81064af00b60dd9ae5e500c6f73723bfdf10ed93.jpg> ド軍ベッツ 急きょスタメン外れる
+      <a href=https://news.yahoo.co.jp/pickup/6533273>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/31d21ff62927da8765d12fc36fac6fdedda7f92ac0354ebc744db90bc1a67e50.jpg> 大谷翔平 トラウトと再会しハグ
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 11:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 12:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
