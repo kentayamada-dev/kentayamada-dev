@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/030561e10310f599533c245a289e0971.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/feb1567adbc63881f90c31acf868a64c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/057fabb0be43b4398e41d5b71ad6da0d8a4c012a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-33240378-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=1171&ch=1171&exp=10800&fmt=webp> ドジャース、帰国後初のオープン戦でエンゼルスに勝利　大谷翔平は２の０、ベッツ直前で出場回避
+      <a href=https://news.yahoo.co.jp/articles/0d2e3d73276b4147540e40626760e9ed910c30c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国 非常戒厳めぐる韓悳洙（ハンドクス）首相 弾劾訴追を棄却 職務復帰へ 憲法裁判所
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/875d0d456a1599006ba72a65e728e6a4c29dc90d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-06723282-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】愛媛・今治市で山火事　1887人に避難指示
+      <a href=https://news.yahoo.co.jp/articles/c5510e0e0003788a88d374bc2fc18e3f8ba4cb0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000031-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 岡山・愛媛 山火事 林官房長官「安全確保を最優先に行動を」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/769f5740435e16b40d4f220c24673270ec52d28f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00483752-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=299&ch=299&exp=10800&fmt=webp> 弾劾棄却　首相側「国政安定に大きな力」・国会側「尹氏弾劾へメッセージ」＝韓国
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a07165aa4c164c5567792aceb1f9adef17e98bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000007-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=497&cy=0&cw=1051&ch=1051&exp=10800&fmt=webp> 対ロシア停戦めぐる米との協議「生産的だった」 ウクライナ
+      <a href=https://news.yahoo.co.jp/articles/97d4877a0f2a406347659577d31eb6113f9a5ff1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「反トランプ」でカナダ与党の支持率急回復　2カ月強で野党との24ポイント差を逆転
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/bd76344f6f37fee90644182b99fabdd987d0cf24763e095e3a07a8de970aad30.jpg> 普段着で設備故障 chocoZAP盲点
+      <a href=https://news.yahoo.co.jp/pickup/6533276>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/bd76344f6f37fee90644182b99fabdd987d0cf24763e095e3a07a8de970aad30.jpg> チョコザップ 大量出店阻んだ誤算
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 12:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 12:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
