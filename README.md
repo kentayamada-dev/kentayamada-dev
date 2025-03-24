@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/33ddbc97cd0059a31de06d423017b971.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7bcd834d7b5b16cf833af356ec45807f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3b978985bbc4b65efa5ac8984443eca96845fc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-35230888-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 韓国憲法裁、首相の弾劾訴追を棄却　大統領の権限代行に復帰
+      <a href=https://news.yahoo.co.jp/articles/45c5e506340d1bb78e5a83e839aa07b5ec4d0794>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000049-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=611&ch=611&exp=10800&fmt=webp> 韓国憲法裁「国民への背信とは断定できない」　首相の弾劾訴追を棄却
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f51bf47512df2ba4cf5cb263d0042bed33f4a67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000097-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=661&ch=661&exp=10800&fmt=webp> 党本部と都道府県組織に受け取り手を限定　公明と国民民主が企業・団体献金の規制強化案
+      <a href=https://news.yahoo.co.jp/articles/8ee0d5a081be15fab635c92057461fa15f1a5324>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-11626332-ncctv-000-1-thumb.jpg?exp=10800&fmt=webp> 【長崎】十八親和銀行でまた不祥事…元行員が顧客から約9200万円着服
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/798fba908aa7fb1e349b7e3877c84d41b295e75e3bc5c413b4139f8a77d00af0.jpg> 児童4人巻き込む事故 1人心肺停止
+      <a href=https://news.yahoo.co.jp/pickup/6533329>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/e78b04d334a955a5fc6ff4b3ba5ee9eb19263acdf966447bf3fc185691803e6f.jpg> 児童4人に軽トラ突っ込む 1人死亡
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 20:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 20:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
