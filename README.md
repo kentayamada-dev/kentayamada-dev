@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a1eb108810e42487a264bad303e05656.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e150789eca99ed066701fa4f54e3785.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/eccbb48fb53fa3abdf53a8d3b375e5fd4bb2ff72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-01724720-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 父は作曲家…ピアノ奏でる93kg巨漢4番　応援歌にも“こだわり”「雰囲気に合う」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/41f37c89d040e466db8d912504f404dba4d23609>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000027-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=893&ch=893&exp=10800&fmt=webp> 元通訳の水原被告、出頭日が延期　米
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7e971bfac148bbdbc23ee12a01e0df4107a617fb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90039541-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 車を止めて路上に立つ…夕方の国道で71歳女性が乗用車にはねられ死亡 運転していた31歳男を現行犯逮捕
       </a>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0fb27e5d003fc43afe6fe1a8301132ca33c6c49c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-07226438-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 愛媛・今治市の山林火災　焼損面積は約160ヘクタールに拡大　1300世帯余りに避難指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80aac4f2a4f29ed036c482ec57e983e38f177341>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-03692589-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【高校野球】広島商は23年ぶり8強　横浜も13年ぶり　西日本短大付は2戦連続ランニングホームランを記録　25日は早稲田実と聖光学院が激突
       </a>
     </td>
   </tr>
@@ -402,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533347>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/d7305b5763c4ca2a12b6a23a4352f61c1433fc4af98fa6283a8640b7d895a418.jpg> 首相が夜会食再開 商品券巡り陳謝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533355>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/9a219843759c736435e1c50cbc0cde66155fc979f4718235d3ca1d1d39fa148e.jpg> ガザ在住の朝日新聞通信員が死亡
       </a>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533348>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/a99ac58c684fbbbd8ad98781b1d517f3c182cd0a3b3b634d779e1419ad33a132.jpg> ロードサービス高額請求 2社公表
+      <a href=https://news.yahoo.co.jp/pickup/6533362>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/924471605abdc7eb307bc9360bc97a76924d78088af67cf8fa3da3d27ff48b72.jpg> 2人刺された状態で発見 女性死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533360>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/9b95db118a6b17593066d900ca6286dc20bf6ae320bcf65b768f0d1e846ef693.jpg> JSTの博士課程支援 3割が中国籍
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 07:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 08:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
