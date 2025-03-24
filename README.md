@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d013ec57e511c6a5c309ff8ffb065620.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/428c57acf4f423054e774b31833ca566.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b00ae9727c63cfaa132791031ec22a5dc42301b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00947131-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京で桜の開花発表　去年より5日早く　この先も暖かい日続き一気に開花進む見込み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e447dd43d56f04218372ada125ebef879ae8a2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000016-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=465&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 韓国憲法裁、韓首相の弾劾棄却 大統領代行に復帰
+      <a href=https://news.yahoo.co.jp/articles/a25af41462eb55c686ca3d3491821225f1dd0780>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00483768-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=481&ch=481&exp=10800&fmt=webp> 韓国外交部　首相の弾劾棄却受け米日などに説明
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6850cdb3bd6cb59157d5e7bda63a801da97507b3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00163636-crankinn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=488&ch=488&exp=10800&fmt=webp> まさかの1RKO負けの武尊、一夜明けSNS更新　今後は「自分と向き合って答えを出そうと」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/89089acf758a814b23ac57e8e2feb0d8acb69333>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-90021183-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=739&ch=739&exp=10800&fmt=webp> 比嘉愛未、芸能事務所「コンテンツ・スリー」所属を発表「新しい挑戦をしてみたい」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533289>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/c042dccc76f4f6cc58c84e68a3b42462ef8a8587ef414a5d17ca21f34878475b.jpg> 東京の桜が開花 満開は29日の予想
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533276>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/bd76344f6f37fee90644182b99fabdd987d0cf24763e095e3a07a8de970aad30.jpg> チョコザップ 大量出店阻んだ誤算
       </a>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533286>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/a804838512c94c29473838b05f4615f85fdc2691352227ae2c7099e355d8779c.jpg> 速報選抜 東洋大姫路vs.広島商
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533285>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/ac4744a26d9121cf765d65af5010da41a8a76122bd6bf4904159b460ce0b7b91.jpg> ド軍ベッツ 体調不良の原因は不明
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533277>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/26df7eeffabf484b3200474420161285295b2f48c5cb2c8d32a0a4c6732fa267.jpg> 睡眠削った 安東弘樹語る管理職
+      <a href=https://news.yahoo.co.jp/pickup/6533290>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/5a1361db960917a9747a5cfd1dd62327c1736673ae834576fcc57805ba6b07ad.jpg> 比嘉愛未 新たな所属事務所を発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 14:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 15:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
