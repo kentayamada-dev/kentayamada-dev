@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/26fdce7d0b8654f6d9e039a47d22db35.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ef32130fec881bedab77c98989601e0b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2aec63e6d60bd472ba75bdb26c9276517e75b24c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000066-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=904&ch=904&exp=10800&fmt=webp> 西日本短大付は2試合3本塁打…柵越え一番乗りの佐藤仁は「4番の仕事できた」と笑顔【センバツ】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6477c1280224c7dac79df5fae99fc51a7e1e81d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000015-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=784&ch=784&exp=10800&fmt=webp> 韓国ガールズグループ「NewJeans」が活動休止宣言　ファン困惑「待って応援」「理解できない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/73ac93a87c298e9a3580d050af277c12d9da05aa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 尹大統領、李在明民主党代表が共に生還すれば「本当の内戦」に…運命の週の４つのシナリオ（２）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/279c6ea657cd8e8b158ec97a6b391459ee3f0b98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000051-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=934&ch=934&exp=10800&fmt=webp> 西日本短大付が春は初となる8強進出　2ラン放った4番佐藤仁を後押ししたのはクラシックの名曲
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d6b6bbea496051163a84ca229fbaeb124bb831c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000061-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=6&cw=647&ch=647&exp=10800&fmt=webp> ＮＪＺ活動暫定中断の意味は…ＡＤＯＲ「一方的宣言、残念」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533297>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> マルハニチロ社名変更へ Umiosに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533287>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/80c9997f1b0e7af30dfff79f8bcf12493537dcc44d073bf582a09b298acf380c.jpg> ベビーカー返却されず 水族館悩み
       </a>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533288>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/a309651d759b724d8689983bb28d1f59dad7a8c41457d30fdd4cd97b7548ddc4.jpg> 土星の「環」 15年ぶり消失状態に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533292>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/7c5c2845413951954ccddf1608fda71a6ef66b3a8527cf0ef35595356531dd52.jpg> 西日本短大付 またランニングHR
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 16:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 16:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
