@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/904cb03250b108ff2b906af70f8339d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/98828a58c982f88021c4731e0bd3fc89.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f11fcabbcabb942d533e5ea9b0a25696471f770b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-21808891-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 運転手の死因は“病死”  21人けがのバス事故   運転手は事故の前に亡くなっていたとみられる  三重・御浜町
+      <a href=https://news.yahoo.co.jp/articles/b02786654fdc32319c25fd4c52db80c8b2bfc5ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-08349662-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 【速報】児童4人の集団に車突っ込む、1人心肺停止　静岡・浜松市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c68ccfd75562caad90da6c4b6d9d77a78d7a4f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00003433-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=360&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 西日本短大付の安田が「キレキレスイング」でランニングホームラン、そのスタイルはヤクルト西川そっくり【25年センバツ・輝きを放った球児たち】
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a6a12abbced33b8820653af282f19568a438f4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00771377-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=800&ch=800&exp=10800&fmt=webp> KO負け直後の武尊、うなだれ涙も顔をあげた瞬間が話題　ONE代表の熱い言葉に「いい事言う」の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb99f71f41cfc41696603638143b9b745a0d2dbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00003432-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 【センバツ第7日】横浜が3番・阿部葉の豪快3ランで13年ぶり8強！西日本短大付は「2発」で初の8強！広島商が集中打で23年ぶり春8強
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00771377-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=800&ch=800&exp=10800&fmt=webp> KO負け直後の武尊、うなだれ涙も顔をあげた瞬間が話題　ONE代表の熱い言葉に「いい事言う」の声
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533312>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 小学生の集団に車がぶつかる 静岡
+      <a href=https://news.yahoo.co.jp/pickup/6533317>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/798fba908aa7fb1e349b7e3877c84d41b295e75e3bc5c413b4139f8a77d00af0.jpg> 児童4人巻き込む事故 1人心肺停止
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 18:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 19:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
