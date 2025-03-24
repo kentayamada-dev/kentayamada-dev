@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/98828a58c982f88021c4731e0bd3fc89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c57b6675ea4cd65860cd2a239e41fb3c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b02786654fdc32319c25fd4c52db80c8b2bfc5ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-08349662-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 【速報】児童4人の集団に車突っ込む、1人心肺停止　静岡・浜松市
+      <a href=https://news.yahoo.co.jp/articles/497a0993266fe24294ef359deebc54d5f6b96ca7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-33241144-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1305&ch=1305&exp=10800&fmt=webp> 【センバツ】西日本短大付・安田悠月「今までにない」チーム２戦ランニング弾など１試合６打点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c68ccfd75562caad90da6c4b6d9d77a78d7a4f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00003433-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=360&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 西日本短大付の安田が「キレキレスイング」でランニングホームラン、そのスタイルはヤクルト西川そっくり【25年センバツ・輝きを放った球児たち】
+      <a href=https://news.yahoo.co.jp/articles/341497ef648cfd0827ae582d6e77f2f4cde0f031>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00947372-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=483&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 公明・国民　企業団体献金で成案「規制強化案」を取りまとめ
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533301>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/7a70e05aab69f36c2ffa921f0b772e2684e4962b2a500c0e6f50734a6ab6e383.jpg> トランプ氏の揺さぶり 各国に影響
+      <a href=https://news.yahoo.co.jp/pickup/6533313>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/5cdcaf337806dce69a2b53a33040f56745952bfbc78ac3be00e222dee6c505bd.jpg> 国民民主、地方選で好調を維持
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 19:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 19:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
