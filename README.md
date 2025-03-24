@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f50c1178919e348933dcd51616bb22f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b67f3429d4d2fd57c6fe00b954fb4362.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87d12e522c3f141d73d8fecc10ffe54e25004c57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-03241219-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 川井友香子が第１子男児出産を公表「これからは、母としても成長していきたいと思います」夫は総合格闘家・恒村俊範
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/203aa5cf7c10e0afa355250be419bd9f9ca71ad4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00050210-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=348&ch=348&exp=10800&fmt=webp> 西日本短大付の４番佐藤２ラン、大歓声に「甲子園で打つホームランは特別」
+      <a href=https://news.yahoo.co.jp/articles/e0077e36223e33f70d63ca8235c2510ab0f2f09c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=653&ch=653&exp=10800&fmt=webp> 小2が死亡、姉が意識不明　浜松の軽トラ事故、78歳容疑者を逮捕
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533321>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/5e2016b16973839743be999beab1f129e991ff629d7b1edcf9f9d2a421dbdf33.jpg> 企業・団体献金案「3案」出そろう
+      <a href=https://news.yahoo.co.jp/pickup/6533340>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/fb177f1041da3eb4a14ed5791be3eb92f6a515fad943e65f761a06677adbad60.jpg> ガザで巻き添え拡大 住民絶望の声
       </a>
     </td>
   </tr>
@@ -418,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/e78b04d334a955a5fc6ff4b3ba5ee9eb19263acdf966447bf3fc185691803e6f.jpg> 児童に車突っ込む 1人死亡1人重体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/3711440f9871efd8d8af0a649a6be9f7c201bc8d22ee4351437ed72827aeca6c.jpg> 三重の夜行バス事故 運転手は病死
+      <a href=https://news.yahoo.co.jp/pickup/6533352>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/e78b04d334a955a5fc6ff4b3ba5ee9eb19263acdf966447bf3fc185691803e6f.jpg> 児童4人に軽トラ突っ込む 小2死亡
       </a>
     </td>
   </tr>
@@ -450,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/1af99b8e16ad48ff259667d91159672c1a30300e668904c6cab0b5d761de6c52.jpg> 民泊に1人で予約→6人滞在 てん末
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533350>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/4efce85aab0119d508217cd691fa34da2cb1a0af64ffc51620b932c22a31ef5d.jpg> レスリング金・恒村友香子が出産
       </a>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 23:52:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 00:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
