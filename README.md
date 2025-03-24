@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/428c57acf4f423054e774b31833ca566.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9681dcc6e272d2fa9773cf92673f84df.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/90ceeb5d5d9279545d00f9ac01113445ace7ae05>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000207-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=1104&ch=1104&exp=10800&fmt=webp> 【センバツ】西日本短大付・西村監督は「11得点は自信に」次戦・横浜戦は「精いっぱい挑んでいきたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d85555cd3de96ba8863d3800a7ce6575858b7f54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00947145-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】防衛省に「統合作戦司令部」が発足　3自衛隊を一元指揮　初代司令官に南雲空将　中谷防衛相「我が国の安全保障に極めて大きな意義」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a25af41462eb55c686ca3d3491821225f1dd0780>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00483768-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=481&ch=481&exp=10800&fmt=webp> 韓国外交部　首相の弾劾棄却受け米日などに説明
       </a>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6850cdb3bd6cb59157d5e7bda63a801da97507b3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00163636-crankinn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=488&ch=488&exp=10800&fmt=webp> まさかの1RKO負けの武尊、一夜明けSNS更新　今後は「自分と向き合って答えを出そうと」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89089acf758a814b23ac57e8e2feb0d8acb69333>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-90021183-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=739&ch=739&exp=10800&fmt=webp> 比嘉愛未、芸能事務所「コンテンツ・スリー」所属を発表「新しい挑戦をしてみたい」
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533275>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/e1adfb006a91d1cf72127cb3cd346e8868f2dd2dc7c734cd5cf58c628bedcd6c.jpg> 福岡刺殺 当時15歳の男に賠償命令
+      <a href=https://news.yahoo.co.jp/pickup/6533274>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/5a82262aa46c6430e65228d47ef19fd5e5bb6415dea066247da3de7337f0ae2c.jpg> カナダ与党 反トランプで支持回復
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533276>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/bd76344f6f37fee90644182b99fabdd987d0cf24763e095e3a07a8de970aad30.jpg> チョコザップ 大量出店阻んだ誤算
+      <a href=https://news.yahoo.co.jp/pickup/6533287>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/80c9997f1b0e7af30dfff79f8bcf12493537dcc44d073bf582a09b298acf380c.jpg> ベビーカー返却されず 水族館悩み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/80c9997f1b0e7af30dfff79f8bcf12493537dcc44d073bf582a09b298acf380c.jpg> ベビーカー返却されず 水族館悩み
+      <a href=https://news.yahoo.co.jp/pickup/6533288>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/a309651d759b724d8689983bb28d1f59dad7a8c41457d30fdd4cd97b7548ddc4.jpg> 土星の「環」 15年ぶり消失状態に
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 15:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 15:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
