@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93279bec3052d55d548e45f8c52d8930.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0436e2b757a3c2605fa52d458f389483.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a490e6274fe0957276f6c2d4a9eba0714f4903a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-21809169-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「山火事は消えない」火を甘く見てはだめ!　岡山県でも発生した火災、岩手県大船渡市では未だに鎮火せず…なぜ山では火が消えないのか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/869f427d5537f7c234d399b4fe377626ab010b01>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00483820-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=392&ch=392&exp=10800&fmt=webp> 韓国大統領代行に復帰の首相　NSC開催
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06381afbfc9e247cbe4f52e42bb653951d6512f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-09929838-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 愛媛の山火事、延焼続く　2815人に避難指示　消防が夜を徹して消火活動
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/014dce5bc288d34f494d1c188d51ca8e05c936b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-90031569-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 軽トラックが小学生4人の自転車の列に突っ込む 1人死亡1人重体　逮捕された男「なぜぶつかったかはわからない」　静岡・浜松市　　
+      <a href=https://news.yahoo.co.jp/articles/3f4c46335d0d5b91d4f2bd2414c09c86a7fdf59a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000069-ann-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> サトウ食品　パックごはん17商品の販売終了へ　コメの品薄で需要拡大し生産効率化
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/336c19dc54fc537e7ce2fe7d169b5c2c75f236253837cb9dda2668572b5dcb8e.jpg> サトウのごはん 一部を休・終売へ
+      <a href=https://news.yahoo.co.jp/pickup/6533342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/0d0991fc1536ce47d792e20826229921f1f4087705554e9817a2cc1dfdcb90b0.jpg> 入学説明会で不合格知る 伝達ミス
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/cc3bb80b83a4b8c9a14757ddc7c91aa2318add1891deb98c5122e90b1152ba48.jpg> 駅の券売機に裏コマンド? 狙い
+      <a href=https://news.yahoo.co.jp/pickup/6533298>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/d5ec23b3ae3870bf485b7152cf166fe978ac007f0b6e3a078165c43d46422a94.jpg> 実写版の白雪姫 配役や描き方物議
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 22:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 22:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
