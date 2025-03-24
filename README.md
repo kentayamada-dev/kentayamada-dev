@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3806a9177dd36d25e9107892eabef9d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e13227eab096e9ceee0054a5784a8d5e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0077e36223e33f70d63ca8235c2510ab0f2f09c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=653&ch=653&exp=10800&fmt=webp> 小2が死亡、姉が意識不明　浜松の軽トラ事故、78歳容疑者を逮捕
+      <a href=https://news.yahoo.co.jp/articles/dbaa161f5fc9c402b3311303cb041b6c26ff523a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-02155868-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 小学生4人に軽トラック突っ込む　1人死亡、1人意識不明　静岡・浜松市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c328f4b4e92bf9a9aedd6a52c033d4937f9a28ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90021219-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ヘリでの消火も強風が拒む…避難所にも煙が押し寄せる　岡山・愛媛で大規模山火事続く
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ef4affa7d6584b854b9b8b80558e3c4e1c788b28>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000002-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1484&ch=1484&exp=10800&fmt=webp> エジプト、ガザ停戦に新提案　人質週5人解放で「第2段階」移行＝関係筋
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6fe4166186cccc746bcd76d8be1416bba573380>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-05843627-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 愛媛・今治市の山火事、延焼続く　消防が夜を徹して消火活動
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/869f427d5537f7c234d399b4fe377626ab010b01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00483820-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=392&ch=392&exp=10800&fmt=webp> 韓国大統領代行に復帰の首相　NSC開催
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 01:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 01:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
