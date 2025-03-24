@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/BQONc-EGHjA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/417194bb5a463c3f88b5f7b691662f59.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/44602590e98ae6730e24dff2c595c46a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dac9e1d3f546ace53c31ea33fbda08644dfead25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-06999526-rnb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【愛媛】今治の山火事 一夜明けた今も延焼続く
+      <a href=https://news.yahoo.co.jp/articles/6b34bd4a4d4160f761929c7311340075c5c0705f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000020-ann-000-3-thumb.jpg?exp=10800&fmt=webp> アメリカ高官「ウクライナはNATO加盟を事実上断念」持論展開　ロシア寄り発言も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0e88e2ef42800027955f14d764a2d6a8cd267437>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00050038-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=393&ch=393&exp=10800&fmt=webp> ドジャースのアメリカ開幕戦、スネルが先発…第２戦は山本由伸で第３戦は佐々木朗希を予定
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533252>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/85d18dca3b0e728cc46e85c8fd18b29f8d9b88a1c43decae40503521f72c0981.jpg> ガザ死者5万人超 1.5万人超が子供
+      <a href=https://news.yahoo.co.jp/pickup/6533254>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/6a947fe6e4267830f993bb3bc8bf118a47ec169deea8c6cf664cb67d01edcd8e.jpg> 脳死臓器移植 東大病院が体制強化
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/9e9f3ea07f33028263cca624120ab27fd7ce115de55b432d7e79ca52d0f6625b.jpg> 急にガタン 乗客語る夜行バス事故
+      <a href=https://news.yahoo.co.jp/pickup/6533265>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/8135f4b727044ba6563343177e76cf652de88ff31e97840e290b150593741c53.jpg> 時代合わず 町と議員の懇親会中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533262>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/8135f4b727044ba6563343177e76cf652de88ff31e97840e290b150593741c53.jpg> 勤務外に自腹 町と議員懇親会中止
+      <a href=https://news.yahoo.co.jp/pickup/6533264>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/3d8ba251086a21b8d921f5fca8190273ddb8d9462f46ddfc2052c99fd8ac727b.jpg> マイナ免許証 アプリに一部不具合
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533261>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/cd6d3926f338a55eddea814326612812b03ffbb428f4a302ceff29f8af52d9fb.jpg> 速報センバツ 沖縄尚学vs.横浜
+      <a href=https://news.yahoo.co.jp/pickup/6533266>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/d5a680ff1f831c908c1822da81064af00b60dd9ae5e500c6f73723bfdf10ed93.jpg> ド軍ベッツ 急きょスタメン外れる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/3378faff7d59391bcd219f76974ce5b88f981395a4f28099527c40dc1eedae2f.jpg> 「ミヤネ屋」新MCに西尾桃アナ
+      <a href=https://news.yahoo.co.jp/pickup/6533261>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/cd6d3926f338a55eddea814326612812b03ffbb428f4a302ceff29f8af52d9fb.jpg> 速報センバツ 沖縄尚学vs.横浜
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 09:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 10:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
