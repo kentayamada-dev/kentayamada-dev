@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a28748fd96babb4719a41e7e784671c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/32258c45f314b1d647f4b61d79cea3d1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2d54bc4eb054be0dad62b919dad4a832e056276>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-21809255-rccv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「人だとは思わなかった」小学生の女の子（9）をひき逃げか　軽乗用車を運転の女（75）を逮捕　女の子は軽傷　広島
+      <a href=https://news.yahoo.co.jp/articles/e25a670946123b1b2b200cc05bb196a2f2b9e47e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-03241186-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=21&cy=0&cw=1042&ch=1042&exp=10800&fmt=webp> 森保ジャパン、４年前の“宿題”をやり遂げるため…W杯出場を決めても負けられない
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/80aac4f2a4f29ed036c482ec57e983e38f177341>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-03692589-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【高校野球】広島商は23年ぶり8強　横浜も13年ぶり　西日本短大付は2戦連続ランニングホームランを記録　25日は早稲田実と聖光学院が激突
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 06:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 06:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
