@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d981531a3a2f07b39a4e69b2aca4a08b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a79a9c51bcf01c8de84fa903369bd452.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f164e267b3fd5ecc5f5b0efe6cc54b3bfe2db47a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000215-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 住民不安「燃え広がらないで」　岡山市と愛媛・今治市の山林火災
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f1e49caf5e39f2d99880f612e061a4630c08e9bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 逮捕された78歳男「なぜぶつかったかはわからない」　女児1人死亡・1人重体　小学生の集団に軽トラックが後ろから突っ込む　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ebeb49652894b7141639e22aca7a888442c8eecb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-21807055-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 【山火事】大船渡山林火災　東日本大震災、今回と二重被災した男性の自宅再建　岩手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1641079ed068f0e93a3cc78494bac64885a32cd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00050143-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 韓国首相、８７日ぶり大統領代行に復帰…弾劾訴追の棄却に「憲法裁の賢明な決定に感謝する」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13191394df0ec101d17e53ade938e6683b6a4849>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000054-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=653&ch=653&exp=10800&fmt=webp> 軽トラックが女子小学生4人はねる　1人死亡、2人軽傷　浜松
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f68950d7ab16cfe7446918797b2cf4aff0c1a557>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-04436593-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 2県で山林火災　岡山で雨も白煙消えず　集落に炎迫り…愛媛では避難指示
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00050143-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 韓国首相、８７日ぶり大統領代行に復帰…弾劾訴追の棄却に「憲法裁の賢明な決定に感謝する」
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533330>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/09e68ee932e712def1b210bf65996f5e2f2ab2142263c05bbce7e65bba7d0054.jpg> 十八親和銀でまた着服 9200万円
+      <a href=https://news.yahoo.co.jp/pickup/6533307>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/336c19dc54fc537e7ce2fe7d169b5c2c75f236253837cb9dda2668572b5dcb8e.jpg> サトウのごはん 一部を休・終売へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/a940a1933450e5cecda0f0be5a125df5af72856a553289b2e80de0d37522920b.jpg> 「マイナ免許証」取得順番に注意
+      <a href=https://news.yahoo.co.jp/pickup/6533335>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/ac3c1afb8898bf69362e33817396ac9870492337eb1a2a48f24bcfae8a2b006b.jpg> スタバ「新ストロー」 客の反応は
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/0a420407869481dad6d31d6cbbdc4648ddc49458885437c05b4cf963303c264d.jpg> 森保J サウジ戦は先発入れ替えへ
+      <a href=https://news.yahoo.co.jp/pickup/6533336>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/cc3bb80b83a4b8c9a14757ddc7c91aa2318add1891deb98c5122e90b1152ba48.jpg> 駅の券売機に裏コマンド? 狙い
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 21:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 21:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
