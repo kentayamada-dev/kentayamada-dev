@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCU8JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9681dcc6e272d2fa9773cf92673f84df.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/26fdce7d0b8654f6d9e039a47d22db35.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90ceeb5d5d9279545d00f9ac01113445ace7ae05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000207-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=1104&ch=1104&exp=10800&fmt=webp> 【センバツ】西日本短大付・西村監督は「11得点は自信に」次戦・横浜戦は「精いっぱい挑んでいきたい」
+      <a href=https://news.yahoo.co.jp/articles/73ac93a87c298e9a3580d050af277c12d9da05aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 尹大統領、李在明民主党代表が共に生還すれば「本当の内戦」に…運命の週の４つのシナリオ（２）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d85555cd3de96ba8863d3800a7ce6575858b7f54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00947145-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】防衛省に「統合作戦司令部」が発足　3自衛隊を一元指揮　初代司令官に南雲空将　中谷防衛相「我が国の安全保障に極めて大きな意義」
+      <a href=https://news.yahoo.co.jp/articles/279c6ea657cd8e8b158ec97a6b391459ee3f0b98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000051-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=934&ch=934&exp=10800&fmt=webp> 西日本短大付が春は初となる8強進出　2ラン放った4番佐藤仁を後押ししたのはクラシックの名曲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a25af41462eb55c686ca3d3491821225f1dd0780>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00483768-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=481&ch=481&exp=10800&fmt=webp> 韓国外交部　首相の弾劾棄却受け米日などに説明
+      <a href=https://news.yahoo.co.jp/articles/3d6b6bbea496051163a84ca229fbaeb124bb831c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000061-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=6&cw=647&ch=647&exp=10800&fmt=webp> ＮＪＺ活動暫定中断の意味は…ＡＤＯＲ「一方的宣言、残念」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6850cdb3bd6cb59157d5e7bda63a801da97507b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00163636-crankinn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=488&ch=488&exp=10800&fmt=webp> まさかの1RKO負けの武尊、一夜明けSNS更新　今後は「自分と向き合って答えを出そうと」
+      <a href=https://news.yahoo.co.jp/articles/cfd0d007eae4fb5b9e763776f1d10676a6384d36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000212-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=788&ch=788&exp=10800&fmt=webp> 衝撃KO負けから一夜…武尊が心境「身体のダメージと自分と向き合って答えを」　ファンからはねぎらい続々
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533279>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/063c4126f1fbbc6129dd4b475bff76e339580cd09fcea0ccee968ebdd6e84153.jpg> 首相面会の中国発表文に林氏 遺憾
+      <a href=https://news.yahoo.co.jp/pickup/6533291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/53d66db20e8f5478fcb38b730a1cefc4b369bd545c476bbf0c6229cb89f90bfe.jpg> 「統合作戦司令部」防衛省に発足
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533282>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/6ebe9d0d75bc28ecc86c4ab1b4287f9fe40b26869ca4daf7870f620a8498423c.jpg> 国家公務員 給与比較の見直し提言
+      <a href=https://news.yahoo.co.jp/pickup/6533293>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/f441f170eb3d51a872c09b473014d73ed75c75520f38d0a3e37d4c6c1591041e.jpg> 福岡刺殺 遺族が判決後に涙の訴え
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533286>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/a804838512c94c29473838b05f4615f85fdc2691352227ae2c7099e355d8779c.jpg> 速報選抜 東洋大姫路vs.広島商
+      <a href=https://news.yahoo.co.jp/pickup/6533292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/7c5c2845413951954ccddf1608fda71a6ef66b3a8527cf0ef35595356531dd52.jpg> 西日本短大付 またランニングHR
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/ac4744a26d9121cf765d65af5010da41a8a76122bd6bf4904159b460ce0b7b91.jpg> ド軍ベッツ 体調不良の原因は不明
+      <a href=https://news.yahoo.co.jp/pickup/6533294>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/94dfafa1dfef680b107ac5c0c45feade0399b4f778182ae32ba0b4488e012532.jpg> NewJeans活動中断 ADORコメント
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 15:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 16:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
