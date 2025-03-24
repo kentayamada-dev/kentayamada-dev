@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b77a27a4be53b57502d562d6acf8e675.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/904cb03250b108ff2b906af70f8339d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4bd1971056363d5c7183d4cda80c482710aea05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-03241133-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 【センバツ】西日本短大付・安田悠月がチーム２試合連続となるランニング本塁打「走っていてとても気持ちよかったです」
+      <a href=https://news.yahoo.co.jp/articles/f11fcabbcabb942d533e5ea9b0a25696471f770b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-21808891-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 運転手の死因は“病死”  21人けがのバス事故   運転手は事故の前に亡くなっていたとみられる  三重・御浜町
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d8503d746d04ae647eae83924a328da2340cdee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> FC2創業者「犯罪意識薄く」　わいせつ動画初公判
+      <a href=https://news.yahoo.co.jp/articles/6a6a12abbced33b8820653af282f19568a438f4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00771377-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=800&ch=800&exp=10800&fmt=webp> KO負け直後の武尊、うなだれ涙も顔をあげた瞬間が話題　ONE代表の熱い言葉に「いい事言う」の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8a30765920aea70d5e162d485944debc0f483cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 岡山と愛媛の山林火災、続く消火　ヘリで散水、鎮火めど立たず
+      <a href=https://news.yahoo.co.jp/articles/bb99f71f41cfc41696603638143b9b745a0d2dbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00003432-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 【センバツ第7日】横浜が3番・阿部葉の豪快3ランで13年ぶり8強！西日本短大付は「2発」で初の8強！広島商が集中打で23年ぶり春8強
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5547a96bfd202d3a75c48e8ad6e3b24286f4a960>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国首相が大統領代行に復帰、憲法裁「非常戒厳」宣布の違憲性に踏み込まず弾劾訴追を棄却
+      <a href=https://news.yahoo.co.jp/articles/90db54bcb8ed0bde443dc908b95907b1b5f597c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00483806-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 韓国　きょうのニュース（3月24日）
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/d7ae08f2c81c3f2f65c6f8c986746d5192d809ef2e08fe283e3bbbf500e70631.jpg> 車がはねた中2 頭の骨を折る重傷
+      <a href=https://news.yahoo.co.jp/pickup/6533312>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 小学生の集団に車がぶつかる 静岡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533308>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/fe828b6a2f215152869ea66aa7bee3e3eeb25272687171472a0741043cc535fe.jpg> FC2創業者の公判 事実関係争わず
+      <a href=https://news.yahoo.co.jp/pickup/6533311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/3711440f9871efd8d8af0a649a6be9f7c201bc8d22ee4351437ed72827aeca6c.jpg> 三重の夜行バス事故 運転手は病死
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 18:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 18:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
