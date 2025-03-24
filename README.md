@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/30e663029737337f0eef6d18da2b01b5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/79f0efe15ee373e4102ad2f430baf2f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/394b352844bb06bb7f92cc0f80542659ee846507>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00010004-sanyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 【詳報】岡山 山林焼失250ヘクタールに　民家など焼損 一時雨も鎮圧至らず
+      <a href=https://news.yahoo.co.jp/articles/b6fe4166186cccc746bcd76d8be1416bba573380>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-05843627-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 愛媛・今治市の山火事、延焼続く　消防が夜を徹して消火活動
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533337>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/e4d6f21375c1dac10ce5caeb8b21b340116960b0394e6a145b3d4d74abd31a55.jpg> 備蓄米「必要ならさらなる対応」
+      <a href=https://news.yahoo.co.jp/pickup/6533347>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/d7305b5763c4ca2a12b6a23a4352f61c1433fc4af98fa6283a8640b7d895a418.jpg> 首相が夜会食再開 商品券巡り陳謝
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533328>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/74a8b23b5d6f73bff8c73a55a0569a8206289aad958a12fc75f2ac17ec61222e.jpg> 詐欺拠点 今も邦人数十人が関与か
+      <a href=https://news.yahoo.co.jp/pickup/6533342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/0d0991fc1536ce47d792e20826229921f1f4087705554e9817a2cc1dfdcb90b0.jpg> 入学説明会で不合格知る 伝達ミス
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/0d0991fc1536ce47d792e20826229921f1f4087705554e9817a2cc1dfdcb90b0.jpg> 入学説明会で不合格知る 伝達ミス
+      <a href=https://news.yahoo.co.jp/pickup/6533348>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/a99ac58c684fbbbd8ad98781b1d517f3c182cd0a3b3b634d779e1419ad33a132.jpg> ロードサービス高額請求 2社公表
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/1af99b8e16ad48ff259667d91159672c1a30300e668904c6cab0b5d761de6c52.jpg> 民泊に1人で予約→6人滞在 てん末
+      <a href=https://news.yahoo.co.jp/pickup/6533296>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/152f11a0be8f8cb02982635459163fc0a79ddc443e61159fdbf6dc4f69ef8105.jpg> 首相 ミャクミャク最近は愛おしい
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 23:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 23:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
