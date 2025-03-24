@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/feb1567adbc63881f90c31acf868a64c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e27d57fcc5b12d56c4f2bc75761cbff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6850cdb3bd6cb59157d5e7bda63a801da97507b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00163636-crankinn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=488&ch=488&exp=10800&fmt=webp> まさかの1RKO負けの武尊、一夜明けSNS更新　今後は「自分と向き合って答えを出そうと」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3ece64a49cfbb1dc4fe078fa8604fe43827bfc3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-16597174-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=485&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> カナダ、来月28日に総選挙へ　トランプ氏対応が大きな焦点に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0d2e3d73276b4147540e40626760e9ed910c30c8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国 非常戒厳めぐる韓悳洙（ハンドクス）首相 弾劾訴追を棄却 職務復帰へ 憲法裁判所
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5510e0e0003788a88d374bc2fc18e3f8ba4cb0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000031-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 岡山・愛媛 山火事 林官房長官「安全確保を最優先に行動を」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97d4877a0f2a406347659577d31eb6113f9a5ff1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「反トランプ」でカナダ与党の支持率急回復　2カ月強で野党との24ポイント差を逆転
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533267>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/67593a2329da408538fb7c323414fe53cf3bb9dbf8b6e04014f613a3534f1f89.jpg> 岡山・愛媛の山林火災 延焼拡大
+      <a href=https://news.yahoo.co.jp/pickup/6533269>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/d7edcc135f7b95954335f10c8e3d01951c1b503417396277deb94461c5deaef9.jpg> 長射程弾 原則は日本主体で発射
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/a50728ad616a6a579c196abafaf2c0dfb39ace1807d2ea79e5b630ca41620b47.jpg> 韓国憲法裁 首相の弾劾訴追を棄却
+      <a href=https://news.yahoo.co.jp/pickup/6533267>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/67593a2329da408538fb7c323414fe53cf3bb9dbf8b6e04014f613a3534f1f89.jpg> 岡山・愛媛の山林火災 延焼拡大
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533265>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/8135f4b727044ba6563343177e76cf652de88ff31e97840e290b150593741c53.jpg> 時代合わず 町と議員の懇親会中止
+      <a href=https://news.yahoo.co.jp/pickup/6533275>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/e1adfb006a91d1cf72127cb3cd346e8868f2dd2dc7c734cd5cf58c628bedcd6c.jpg> 福岡刺殺 当時15歳の男に賠償命令
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533273>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/31d21ff62927da8765d12fc36fac6fdedda7f92ac0354ebc744db90bc1a67e50.jpg> 大谷翔平 トラウトと再会しハグ
+      <a href=https://news.yahoo.co.jp/pickup/6533268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/44536361f7395eaa30cf7fa8f17d2df8785794176b98f00a6ff923600bceacf1.jpg> NewJeansが活動休止宣言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/44536361f7395eaa30cf7fa8f17d2df8785794176b98f00a6ff923600bceacf1.jpg> NewJeansが活動休止宣言
+      <a href=https://news.yahoo.co.jp/pickup/6533277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/26df7eeffabf484b3200474420161285295b2f48c5cb2c8d32a0a4c6732fa267.jpg> 睡眠削った 安東弘樹語る管理職
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 12:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 13:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
