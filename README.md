@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7bcd834d7b5b16cf833af356ec45807f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d981531a3a2f07b39a4e69b2aca4a08b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45c5e506340d1bb78e5a83e839aa07b5ec4d0794>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000049-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=611&ch=611&exp=10800&fmt=webp> 韓国憲法裁「国民への背信とは断定できない」　首相の弾劾訴追を棄却
+      <a href=https://news.yahoo.co.jp/articles/1641079ed068f0e93a3cc78494bac64885a32cd3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00050143-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 韓国首相、８７日ぶり大統領代行に復帰…弾劾訴追の棄却に「憲法裁の賢明な決定に感謝する」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/13191394df0ec101d17e53ade938e6683b6a4849>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00000054-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=653&ch=653&exp=10800&fmt=webp> 軽トラックが女子小学生4人はねる　1人死亡、2人軽傷　浜松
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f68950d7ab16cfe7446918797b2cf4aff0c1a557>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-04436593-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 2県で山林火災　岡山で雨も白煙消えず　集落に炎迫り…愛媛では避難指示
       </a>
     </td>
   </tr>
@@ -371,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ee0d5a081be15fab635c92057461fa15f1a5324>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-11626332-ncctv-000-1-thumb.jpg?exp=10800&fmt=webp> 【長崎】十八親和銀行でまた不祥事…元行員が顧客から約9200万円着服
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a6a12abbced33b8820653af282f19568a438f4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00771377-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=800&ch=800&exp=10800&fmt=webp> KO負け直後の武尊、うなだれ涙も顔をあげた瞬間が話題　ONE代表の熱い言葉に「いい事言う」の声
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/5cdcaf337806dce69a2b53a33040f56745952bfbc78ac3be00e222dee6c505bd.jpg> 国民民主、地方選で好調を維持
+      <a href=https://news.yahoo.co.jp/pickup/6533331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/c9f1c37eb9dad428c629ffa58378717b0c8f00d6959609201b8a0740477f52f2.jpg> ガソリン補助4月以降も継続 方針
       </a>
     </td>
   </tr>
@@ -410,32 +410,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/72434edc778dad8a53cbea45a1762701b97a9d67aec94d705ebdc54ad394f92e.jpg> 非核証明書ない米艦船 神戸に入港
+      <a href=https://news.yahoo.co.jp/pickup/6533325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/4d4ae580e804c71fde8df505d9c2304fe40f79f634faabf6eb3cf482ae224c39.jpg> 袴田巌さんへの刑事補償 2億円超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533329>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/e78b04d334a955a5fc6ff4b3ba5ee9eb19263acdf966447bf3fc185691803e6f.jpg> 児童4人に軽トラ突っ込む 1人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/e78b04d334a955a5fc6ff4b3ba5ee9eb19263acdf966447bf3fc185691803e6f.jpg> 児童に車突っ込む 1人死亡1人重体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/3711440f9871efd8d8af0a649a6be9f7c201bc8d22ee4351437ed72827aeca6c.jpg> 三重の夜行バス事故 運転手は病死
+      <a href=https://news.yahoo.co.jp/pickup/6533330>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/09e68ee932e712def1b210bf65996f5e2f2ab2142263c05bbce7e65bba7d0054.jpg> 十八親和銀でまた着服 9200万円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/336c19dc54fc537e7ce2fe7d169b5c2c75f236253837cb9dda2668572b5dcb8e.jpg> サトウのごはん 一部を休・終売へ
+      <a href=https://news.yahoo.co.jp/pickup/6533332>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/a940a1933450e5cecda0f0be5a125df5af72856a553289b2e80de0d37522920b.jpg> 「マイナ免許証」取得順番に注意
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/d8634d44b0aec19f611dbdcf1c23a8f0f7e222e44f00e9c73e310016c08d3a06.jpg> ベッツ体調不良「食べるの怖い」
+      <a href=https://news.yahoo.co.jp/pickup/6533303>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/0a420407869481dad6d31d6cbbdc4648ddc49458885437c05b4cf963303c264d.jpg> 森保J サウジ戦は先発入れ替えへ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 20:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 21:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
