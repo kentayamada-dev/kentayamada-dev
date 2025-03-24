@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/79f0efe15ee373e4102ad2f430baf2f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f50c1178919e348933dcd51616bb22f7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/87d12e522c3f141d73d8fecc10ffe54e25004c57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-03241219-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 川井友香子が第１子男児出産を公表「これからは、母としても成長していきたいと思います」夫は総合格闘家・恒村俊範
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/203aa5cf7c10e0afa355250be419bd9f9ca71ad4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00050210-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=348&ch=348&exp=10800&fmt=webp> 西日本短大付の４番佐藤２ラン、大歓声に「甲子園で打つホームランは特別」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b6fe4166186cccc746bcd76d8be1416bba573380>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-05843627-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 愛媛・今治市の山火事、延焼続く　消防が夜を徹して消火活動
       </a>
@@ -365,32 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f56671d4d5df7409c2714a93730caf3a83d5f2f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-03241215-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> 笠りつ子の誤所からのプレーは「大会関係者からの指摘」で発覚　ＪＬＰＧＡが訂正発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/869f427d5537f7c234d399b4fe377626ab010b01>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-00483820-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=392&ch=392&exp=10800&fmt=webp> 韓国大統領代行に復帰の首相　NSC開催
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebeb49652894b7141639e22aca7a888442c8eecb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-21807055-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 【山火事】大船渡山林火災　東日本大震災、今回と二重被災した男性の自宅再建　岩手
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43ced0a0c14ea504c28f257b923f729876cd5dd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250324-33241150-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1420&ch=1420&exp=10800&fmt=webp> 【センバツ】今度は柵越え！西日本短大付・佐藤仁が左越え２ラン　２試合連続ランニング弾に続く
       </a>
     </td>
   </tr>
@@ -418,8 +410,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533351>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> のと共栄信金、公的資金申請へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533334>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/e78b04d334a955a5fc6ff4b3ba5ee9eb19263acdf966447bf3fc185691803e6f.jpg> 児童に車突っ込む 1人死亡1人重体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/3711440f9871efd8d8af0a649a6be9f7c201bc8d22ee4351437ed72827aeca6c.jpg> 三重の夜行バス事故 運転手は病死
       </a>
     </td>
   </tr>
@@ -442,24 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533335>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/ac3c1afb8898bf69362e33817396ac9870492337eb1a2a48f24bcfae8a2b006b.jpg> スタバ「新ストロー」 客の反応は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533296>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/152f11a0be8f8cb02982635459163fc0a79ddc443e61159fdbf6dc4f69ef8105.jpg> 首相 ミャクミャク最近は愛おしい
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/64f422599cb546f3eb6aa021e32c56d36324b3d21586045248679d4f08a82204.jpg> ゴルフ笠りつ子違反 指摘巡り訂正
+      <a href=https://news.yahoo.co.jp/pickup/6533350>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/24/4efce85aab0119d508217cd691fa34da2cb1a0af64ffc51620b932c22a31ef5d.jpg> レスリング金・恒村友香子が出産
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/24 23:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/24 23:52:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
