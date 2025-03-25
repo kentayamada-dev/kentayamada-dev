@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62f15155a37dcba45c8171a6f1a56065.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b54eae0560f687d32255f3e07534ebc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1da174b08d1b573832df21c6f8b9c6a25ad79faa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050192-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=387&ch=387&exp=10800&fmt=webp> 旧統一教会に解散命令、裁判長「類例のない甚大な被害」…１５００人超・１９４億円の被害認定
+      <a href=https://news.yahoo.co.jp/articles/1dcbb4e89a13f96d10cbdc3480f5314751fceaa4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00482218-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=770&ch=770&exp=10800&fmt=webp> オーストラリアが敵地で勝ち切って2位死守！　元鹿島のセルジーニョもデビューの中国はストレートインの可能性消滅…【2026W杯アジア最終予選】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/faaa4456b4b9f34ffaaac957be483e9fe9e1c85e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00948192-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 東京地裁が「旧統一教会」に解散命令…民法上の不法行為で初　教団側は「悪質な団体ではないことは明白だ」と反論
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4db52cdc2b89382a9a6adb717ad736d74b9b494d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000137-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 笠りつ子　２打罰受けた誤所からのプレーを謝罪「私の認識不足と勘違い。深く反省」「今後はこれまで以上に真摯にゴルフに向き合っていきます」
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd675efc240746fcc751e360f7b1718803a497f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90021298-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【訃報】元「クレイジーケンバンド」の廣石惠一さん、脳出血のため６４歳で…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/437537c4100f43c8be91acfb6290efa8a1ae3af7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000145-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル、政権維持へ「終わりなき戦闘」　ハマス壊滅は非現実的　ガザ攻撃再開から1週間
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65e4ea3ff1978da9cfb0c31d3d4cdf4f47f33b94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90021259-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=675&ch=675&exp=10800&fmt=webp> どうなる？関税政策　トランプ大統領の狙いは…在日米軍予算“1600億円削減”報道も
       </a>
     </td>
   </tr>
@@ -403,15 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/5caa65669e3e276e1d117532990d438786cd7ba6196c3016ba2a5511bfad5e0e.jpg> 解散命令 旧統一教会が即時抗告へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533398>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/c855b956d662b170bc1e5a22978d2f6afe26d8b1dcc04fe6887fc9235a39601e.jpg> 解散命令は3例目 先例どうだった
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/67c5d6564d8a61c25ac287bdb06b5f3c40eaad22248a2b48aee6a67cd72056de.jpg> 解散命令 旧統一教会が即時抗告へ
       </a>
     </td>
   </tr>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533424>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/d66126df39823e2c150cd693c190f7912e95aafa50b7e29cf92932f91787e856.jpg> 備蓄米の本格販売は4月以降 全農
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533427>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/8d8797f2f0956dd247afb7de192128e11498091bccb72ae35dc68e9ae2d79a46.jpg> 小学生4人死傷 祖母「許せない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533420>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/1f87198baac531adf63bcbc209b8a2cf858bdb0cf847b27a1f189ded4eba794a.jpg> セブン 買収巡りカナダ大手に反論
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/c8823c0decfbc43525d1f9784f6d7b9cdff4b5e3ea7b40f582135cd2a819bbb6.jpg> 速報 森保ジャパンvs.サウジ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533422>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/f6c1488f60b2f9d14e9617de6f7a3a76e9940b5ddc0c08a75c48584a3a169a47.jpg> 元CRAZY KEN BAND 廣石氏死去
+      <a href=https://news.yahoo.co.jp/pickup/6533433>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/49a6c48172ec4c45d47eb114824b93b86d86c8e1cf0f453e67157f1e1f1a4c1a.jpg> 森保J サウジにゴールレスドロー
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 21:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 22:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
