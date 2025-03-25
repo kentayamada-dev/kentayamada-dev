@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c2c026ca80340e345d38b5fccad9198d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2125ebe1552c9a53fdb83aa7545b2a36.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1276b328ef6ed0a1f12c49c4866944b8f8697fb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90031572-sut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】小2の妹が死亡・小4の姉が重体　現場にブレーキ痕なし　小学生4人の列に高齢ドライバーの車が突っ込む　坂を下った勢いのまま事故か
+      <a href=https://news.yahoo.co.jp/articles/d21f54a3064a196a42ee38ea0992d50a77af33e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-07226446-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 炎が住宅地に迫る 愛媛・今治市の山林火災は延焼続く「夜はどうなるか不安だった」 1300世帯あまりに避難指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9dc1435bb3e041d3e2d3b58db590f00cdc68deaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00518895-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ベッツが復帰へ　ロバーツ監督「26日エンゼルス戦でプレーできると思う」と米報道、体重激減で欠場中
+      <a href=https://news.yahoo.co.jp/articles/5c37979146413971e5567fc28195594b3ddc6e76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000028-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「内乱罪撤回」言及せず…韓首相の棄却、尹大統領審判への影響は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/db30205972e142608cacf031568ee03e3e59af90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000064-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1412&ch=1412&exp=10800&fmt=webp> 目立ったブレーキ痕なし、浜松　小2女児死亡、姉は重体
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3b0a5766deabc1d481c47f917af43c13135ffadf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00010002-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 第2段階に進める可能性は「初めからなかった」？　ガザの停戦が6週間で終わった理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2caf81e316aec195561a7272d795f7aeef64408f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国主要紙の朝刊ヘッドライン（3月25日）
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/aaa6d309a808675312e938bc089f929ab226d6fb00bfc3cb10d1f828a32ab2ac.jpg> ウ情勢を協議 米露が声明発表へ
+      <a href=https://news.yahoo.co.jp/pickup/6533366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/b473f087d3a7c33eab45de08121688729df04b351edb06504a71dfba114b34cd.jpg> ロシアとウクライナ 攻撃の応酬
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 09:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 10:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
