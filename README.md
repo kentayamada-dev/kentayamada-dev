@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/43297c920c8a10e12e45b53063ff5445.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a8ddff57f0294557aad50f1c8a645c6c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80b3be7ecfdf658d93986d888443690963bf1ee1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-01614715-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “統一教会”解散命令受け発表のコメントを一部修正、改めて発表
+      <a href=https://news.yahoo.co.jp/articles/5cd9bed8c0c4ab61386cad7e697896499fbe6516>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050199-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=456&ch=456&exp=10800&fmt=webp> 浜松女児４人死傷、運転の男「意識が飛んだ」…父親「思い出はあるが今は思い出すのつらい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e894d4d13c4b5df344d59b74cd1c0337859e96af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00482216-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 選手採点＆寸評：日本代表 0-0 サウジアラビア代表【2026W杯アジア最終予選】
+      <a href=https://news.yahoo.co.jp/articles/61d44f58c8290ef3eaabab5ea27294eae20f362b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-33251556-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1341&ch=1341&exp=10800&fmt=webp> 【日本代表】前田大然が1トップ争いに名乗り　アジア最終予選初先発で持ち味の機動力で見せた
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/655ccb8b2651484462151b75e4acea575a63d89e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000022-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 旧統一教会に“解散命令”オウム真理教、明覚寺に次ぐ3件目『民法上の不法行為』では初　元オウム真理教幹部・上祐史浩氏は「名義変えてしまえば、ほかに何にも影響はない」と指摘
+      <a href=https://news.yahoo.co.jp/articles/5a6dfd826a1e4c2a10a5d06c66f66a06eba9f458>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-10170349-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=928&ch=928&exp=10800&fmt=webp> 旧統一教会、解散命令の“今後”は…財産の清算とは？ 高裁の判断は数カ月先？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4faab37a11ed1d47a836e66478448af335889be4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00947930-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 現場に目立ったブレーキ痕なし…78歳容疑者「なぜぶつかったかわからない」　小学生1人死亡・1人重体事故　静岡・浜松市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/890c5a3846db6d9ff0d47e381cbcbbb45cc090c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-21809599-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 【山火事】大船渡市の山林火災から1か月　地域の基幹産業「ワカメ」への影響は?　岩手
+      <a href=https://news.yahoo.co.jp/articles/9c07da00c00f9602d3b45cd7cddca070f831753e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000177-san-000-1-view.jpg?pri=l&w=192&h=119&exp=10800&fmt=webp> 両陛下「和」をちりばめご接遇、令和流の宮中晩餐会
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533435>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/0fd4658aa36b84305e3cb512177e31cb13322191011f6e9c1b4b88fc931bde84.jpg> 宗教2世 解散命令にあんどと懸念
+      <a href=https://news.yahoo.co.jp/pickup/6533436>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/0fd4658aa36b84305e3cb512177e31cb13322191011f6e9c1b4b88fc931bde84.jpg> 宗教2世 解散命令に感謝と懸念
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/1f87198baac531adf63bcbc209b8a2cf858bdb0cf847b27a1f189ded4eba794a.jpg> セブン 買収巡りカナダ大手に反論
+      <a href=https://news.yahoo.co.jp/pickup/6533434>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/a9f23bbdaeb196a591552f4a59553bcaaf06b0f2f387e5bcb02f8597abe65e12.jpg> 蝶を大量捕獲疑い 中米で邦人逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533429>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/b30371c577080f471e2e197dc2e40589a7dfabdbe3c6b783e40f2e18e45f2855.jpg> 余裕なくイライラ 空港のカスハラ
+      <a href=https://news.yahoo.co.jp/pickup/6533417>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/229a96e0e7c685c8ac47afebbcedd1edf68c009a6ef9591460aca31ca4d476aa.jpg> 免許証の持ち方が3通りに 注意点
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 22:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 23:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
