@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2dadc556b31b00da3b8fa7f10e58dea4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7590e0bc7689e75e9709a43067035592.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f12d27b96e9714cdf9a16dc7e49690f1cd262fef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00947917-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】旧統一教会に解散命令…東京地裁「根本的対策講じられていない」優遇措置は“不適切”　教団側は「法治国家としてあり得るのか」即時抗告を検討
+      <a href=https://news.yahoo.co.jp/articles/82ef96ab9ab9d51ff93622663d36e88dcdb2b4e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-21811313-tbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 専門家「今後も教団の動向に注意」旧統一教会に解散命令　仙台の教会は静観　宮城
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63fd268133e732a5e4477edecd0f6f1cffef4acf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 浜松4人死傷、車道外れて走行か　右カーブで十数mも
+      <a href=https://news.yahoo.co.jp/articles/6052556c6b4a735cb400e57842f4cb8bb067a751>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90031580-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 小学生に軽トラックが突っ込み1人死亡・1人重体　逮捕された男は近所の人に震えながら「わからん」と一言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/65e4ea3ff1978da9cfb0c31d3d4cdf4f47f33b94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90021259-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=675&ch=675&exp=10800&fmt=webp> どうなる？関税政策　トランプ大統領の狙いは…在日米軍予算“1600億円削減”報道も
       </a>
     </td>
   </tr>
@@ -381,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74b921e0f1353279b00bc05cb52606856d7d9368>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000045-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=916&ch=916&exp=10800&fmt=webp> テレビ朝日社長、改めて謝罪 「ナスD大冒険TV」社員のコンプラ違反
+      <a href=https://news.yahoo.co.jp/articles/7a85b186b8310a03f8a718c72cd5b46747b8967e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000100-zdn_m-000-1-view.jpg?pri=l&w=180&h=180&order=c2r&cx=30&cy=0&cw=180&ch=180&exp=10800&fmt=webp> 「マイナ免許証」運用開始！　早速発行してもらった（オンライン講習目当てなら注意点あり）
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/8e5d694c0cfa897d00d4aa1977134440689ed5f17e5717d61919029215516377.jpg> 首相「強力な物価高対策」を検討
+      <a href=https://news.yahoo.co.jp/pickup/6533389>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/f6666dd98c3fad779da4cec0fa5f6de390e8b79a905d1cb0481349303751897b.jpg> ポスター品位法案 特別委で可決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533389>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/f6666dd98c3fad779da4cec0fa5f6de390e8b79a905d1cb0481349303751897b.jpg> ポスター品位法案 特別委で可決
+      <a href=https://news.yahoo.co.jp/pickup/6533416>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/cf6e451141afc177efddae2b7ad0a2248ad672c14ca6d4b0d611181afb6a7647.jpg> 首切断事件 判決不服で父親が控訴
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533407>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/f71e0dc98e5cb48ac4765977412d8c103fd3bf64eab72910a499aa37118b1a1c.jpg> 札幌Dの社長退任へ 昨年度大赤字
+      <a href=https://news.yahoo.co.jp/pickup/6533412>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/67acc7e3e35b70bf8b9c8d1396691ca22f5c5fc7750551bab771d013ac6b7e2f.jpg> 新築マンション 価格高騰が続く訳
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 18:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 18:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
