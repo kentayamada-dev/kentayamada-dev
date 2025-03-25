@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f485f0eec5e16416313c3c2b131cca1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2003d239df9da5f656fcf6787175fac7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9adea71873f16ac7b06e3d40cbf4d9885c84cf1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000079-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=652&ch=652&exp=10800&fmt=webp> ロッテ　２軍本拠地の移転先、君津市に決定　３１自治体から応募、熟慮の末に決定
+      <a href=https://news.yahoo.co.jp/articles/b234ab4f8ab1de7450800423f2250eabc5d64f1b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000213-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=425&ch=425&exp=10800&fmt=webp> 紀藤正樹弁護士、旧統一教会への解散命令にコメント「本当に感無量です。ようやくここまで来ました」
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/31cf13f4b88efab3c8f7e3f209d6406e361943786ca89feaf1b7363b2894cb80.jpg> サムスン電子 韓CEOが急死
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533386>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/c5398cb67cc5506d9fc816ff239f7a892dee18153c009c4002028192944335b8.jpg> 258gで誕生の男児卒園 両親見守る
+      <a href=https://news.yahoo.co.jp/pickup/6533397>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/ee6e15da5051149010dfc8a4726de2301f926739425acf962f9b003e90a2b431.jpg> 住宅火災で男性死亡 放火の可能性
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533392>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/6fdf78231b586863bb27a0a4fab440b015532eb8a23952bc9d9b6f871309a4bf.jpg> 物議のストリートピアノ運営 謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/072d0f1748dc34ebc6f5860e404aafdf62a0a84414e823912ad194b467512f13.jpg> ロッテ2軍 移転候補に千葉・君津
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 15:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 16:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
