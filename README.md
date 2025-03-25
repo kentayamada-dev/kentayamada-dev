@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ecc3d71355608fec425b33224ea0bbea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e7596ae391459a92a22ad5f3b61176ec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a6ecb0193f27f0fa2061f8415a697b7fd2e6fc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-10170359-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 嘘だろ？前田大然、爆速過ぎて“ボールを追い越す”衝撃の瞬間！「ボールより速い男」「ボール置いてくな」自分の速さに戸惑う“珍プレー”が話題に
+      <a href=https://news.yahoo.co.jp/articles/3d033047572d10b85f16804526143f655c719a53>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010005-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=501&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「日本が強豪であることは事実だが…」サウジアラビア代表OBが引いて守っての日本代表戦ドローに苦言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06d1d688655aa8d4c36b01484a51b4b4738bf4ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 26日の朝刊（都内最終版）☆1
+      <a href=https://news.yahoo.co.jp/articles/716a307e8e9290e2e1dd88161ed9d7b8a61b6ff1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000003-at_s-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 浜松・児童4人死傷事故　軽トラック、減速せずに衝突か　自転車列の後方から
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a8426b1a75f45978389c412b071d58280b631593>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本政界を揺るがした旧統一教会、東京地裁が「解散命令」
       </a>
     </td>
   </tr>
@@ -379,19 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7080c48460fb17c46e63b18ae18d7bcb1da21918>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050008-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=412&ch=412&exp=10800&fmt=webp> 浜松女児４人死傷、姉妹とよく遊んだ女児「生きていてほしかった」と涙こぼす
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b8d576570b51b8a175bd0b8d6b82ec51adce8b6c6ac3f6c79a3834365eb8e521.jpg> 旧統一教会の「政界工作」未解明
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533441>
@@ -410,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b8d576570b51b8a175bd0b8d6b82ec51adce8b6c6ac3f6c79a3834365eb8e521.jpg> 旧統一教会の「政界工作」未解明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533447>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ccc4b6c7a2ab5ecf10006a6388aa4592e30f166db5d7c20820517124f4377255.jpg> 父「許せない」車突っ込み小2死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/08ad367b784de9326d4da8527a7ed3a15203732a7c6f4295b1800191b378b924.jpg> サムスン電子CEO急死 衝撃広がる
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e3b219e6a9925444d2ed04c7a297196fb41cfed02e9e9420ddffe138a954b229.jpg> テレビCMを中止 決断した元社長
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533443>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ff21c25756a8ec0b905d5694864fb74bf1cc61609198faa5329ca4d7a1ce6bd1.jpg> 伊東純也 サウジ守備シフトに驚き
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6342b8aa14893bc13200d7269bc3180d195b574fb03993f96d581ab58bcd8e72.jpg> 八代亜紀さんの未発表歌詞 発見
+      <a href=https://news.yahoo.co.jp/pickup/6533450>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/915c685237f89afbe8793f96fed7ca8edb65237d1778c9c92a7309efb1d53f03.jpg> ドラマやまとなでしこ 再注目の訳
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 07:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 08:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
