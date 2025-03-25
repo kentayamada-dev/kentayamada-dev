@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/er5qb1KP4os?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4868d8f147e1e66d6724e2fa1111af24.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94be5693a24a86b7165c389d63bf2f0c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6af5633d6af3f12db4182817b92d1dcd562103a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050058-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=456&ch=456&exp=10800&fmt=webp> 浜松の女児４人死傷事故、現場にブレーキ痕なし…７８歳容疑者「記憶がない」と供述
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c222ffe14c28664f41bc06463187861c9ff1e343>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90021254-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> アイドル系月刊誌「WiNK UP」が6月号をもって休刊
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/989f2c6847b5ed8a6a76af0f0c1f5ebd1357a076>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00010001-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> ガザ地区南部最大の病院攻撃　ハマスの活動拠点だと主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c393564492ce7e7f69ae33376b48378ccc76d78c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-07226456-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 運転手の男「事故当時の記憶がない」小学生の列に軽トラックが突っ込み4人が死傷　現場にブレーキ痕なし　静岡・浜松市
       </a>
     </td>
   </tr>
@@ -403,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/ce9722b25c3dc56d7c22f03b833b2eaf10f0badd75c32c2f9a09643e95eb6be1.jpg> 同性婚訴訟 5高裁が「違憲」判決
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/fb97d0c41b1dd327e333532aa8be06edbf810b4a17b84568c66bffe28d9ddb8f.jpg> 同性婚訴訟 5高裁が「違憲」判決
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533373>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/49900be682ca17c7ef21cde25f5708ccc88de09c9575718e36c1deb98c4d792d.jpg> 愛媛と岡山の山火事 消火活動続く
+      <a href=https://news.yahoo.co.jp/pickup/6533384>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/aa8ad4d3d68053d7b34f7d5d9d1f37ff1fc9b6533cbc7431dca99c5df53ecf6e.jpg> 天皇皇后両陛下 6年ぶり国賓接遇
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533379>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/e562eb3e232ee909184d8cf811d5ec84be3f75934177c1e4ea9c4b95186f7dd9.jpg> 大谷が練習ボール贈る 少年歓喜
+      <a href=https://news.yahoo.co.jp/pickup/6533386>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/c5398cb67cc5506d9fc816ff239f7a892dee18153c009c4002028192944335b8.jpg> 258gで誕生の男児卒園 両親見守る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533369>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/8d8d2321f1ee9165aa7e09e43b9b874427479f01ba2698bda3f717be0bc719c7.jpg> 体重11キロ減のド軍ベッツ 復帰へ
+      <a href=https://news.yahoo.co.jp/pickup/6533379>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/e562eb3e232ee909184d8cf811d5ec84be3f75934177c1e4ea9c4b95186f7dd9.jpg> 大谷が練習ボール贈る 少年歓喜
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 13:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 13:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
