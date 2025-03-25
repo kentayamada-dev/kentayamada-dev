@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/er5qb1KP4os?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9b8e1c68c22f8300b436c514246a7fe6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5410b555b00c013f1b7ae4c4533818c5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c86eacf5212fb5eaf557f609ec71828f04b138df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000028-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=627&ch=627&exp=10800&fmt=webp> 授かった愛娘　日本国籍持てず　同性婚「いつ認められるのか」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9904ccf268d66d894229651eb3dd28385a099d5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00483869-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国大統領代行　職務復帰後初の閣議「通商戦争で国益確保を」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9725f7aeab5aaa635f98122b6bba40f46b6b437a>
@@ -371,30 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c37979146413971e5567fc28195594b3ddc6e76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000028-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「内乱罪撤回」言及せず…韓首相の棄却、尹大統領審判への影響は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/059934090aefba914b32fb1d5c6b83d0a5da542a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90028114-tssv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 小学生の女子児童（９）ひき逃げか　女（７５）を逮捕　広島・海田町
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eccbb48fb53fa3abdf53a8d3b375e5fd4bb2ff72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-01724720-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 父は作曲家…ピアノ奏でる93kg巨漢4番　応援歌にも“こだわり”「雰囲気に合う」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/b473f087d3a7c33eab45de08121688729df04b351edb06504a71dfba114b34cd.jpg> ロシアとウクライナ 攻撃の応酬
+      <a href=https://news.yahoo.co.jp/pickup/6533378>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/c2bfdce6b34981c1583cf4a86fab8d6eb75edc9b23956a6b073622e7b400f7a6.jpg> 同性婚訴訟 5高裁が「違憲」判決
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533365>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/469b0520b0f604717caaa005b94745e8254f3360dfc8b5bf16c2e8d7769d173f.jpg> 損保大手4社に業務改善命令
+      <a href=https://news.yahoo.co.jp/pickup/6533366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/b473f087d3a7c33eab45de08121688729df04b351edb06504a71dfba114b34cd.jpg> ロシアとウクライナ 攻撃の応酬
       </a>
     </td>
   </tr>
@@ -450,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533369>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/8d8d2321f1ee9165aa7e09e43b9b874427479f01ba2698bda3f717be0bc719c7.jpg> 体重11キロ減のド軍ベッツ 復帰へ
+      <a href=https://news.yahoo.co.jp/pickup/6533370>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/bf26fd37dde76abea14af14ead21c6161ff5375882ee3e1d2a5ceb2c450eab3d.jpg> 速報選抜 エナジックvs智弁和歌山
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/bf26fd37dde76abea14af14ead21c6161ff5375882ee3e1d2a5ceb2c450eab3d.jpg> 速報選抜 エナジックvs智弁和歌山
+      <a href=https://news.yahoo.co.jp/pickup/6533369>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/8d8d2321f1ee9165aa7e09e43b9b874427479f01ba2698bda3f717be0bc719c7.jpg> 体重11キロ減のド軍ベッツ 復帰へ
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 11:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 11:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
