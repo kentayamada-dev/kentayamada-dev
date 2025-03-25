@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cfd67ca6837e6c3dce615d7c132dc684.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/62f15155a37dcba45c8171a6f1a56065.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71d1453f5da3efe0723e5af3fa0398162833688c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-08489152-knb-000-1-thumb.jpg?exp=10800&fmt=webp> ”統一教会”に解散命令　富山県内の元信者「被害者救済の一歩に」
+      <a href=https://news.yahoo.co.jp/articles/1da174b08d1b573832df21c6f8b9c6a25ad79faa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050192-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=387&ch=387&exp=10800&fmt=webp> 旧統一教会に解散命令、裁判長「類例のない甚大な被害」…１５００人超・１９４億円の被害認定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4faab37a11ed1d47a836e66478448af335889be4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00947930-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 現場に目立ったブレーキ痕なし…78歳容疑者「なぜぶつかったかわからない」　小学生1人死亡・1人重体事故　静岡・浜松市
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/437537c4100f43c8be91acfb6290efa8a1ae3af7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000145-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル、政権維持へ「終わりなき戦闘」　ハマス壊滅は非現実的　ガザ攻撃再開から1週間
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a423d74416ab8ab769596683562f97e9abb8a93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-21811146-sbsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「事故当時の記憶がない」趣旨の供述　浜松市の小学生4人死傷事故　現場にブレーキ痕なし　78歳の男を過失運転傷害の疑いで逮捕
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533411>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/df1519f6537b4d2a4aa7e9a1a4b1384ec64ed359e8b0e331fcc985092047c43b.jpg> 米高官 フーシ派攻撃計画を誤共有
+      <a href=https://news.yahoo.co.jp/pickup/6533426>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/4392d7809034ef9f203bec6e97dcc949ad355f5c319c0ce9b5bc05d68e05062a.jpg> ガザ傷病者2人 日本が受け入れへ
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533393>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/eef2d2b28d6761f94f3ccc8071ed7d1a6c76f5b65cd34cd26d45bff93b78dfab.jpg> SNS型投資詐欺 男性2.2億円被害
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533418>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/483070086e0a5f0fedde9713d60f56426ebddce9acbbc5e3f79eda68e634b47d.jpg> オリエンタルランド 社長交代へ
+      <a href=https://news.yahoo.co.jp/pickup/6533425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/08ad367b784de9326d4da8527a7ed3a15203732a7c6f4295b1800191b378b924.jpg> サムスン電子CEO急死 衝撃広がる
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533430>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/423a50b536a1aa892baf795c5dd9833316c682e06a90f7cbe6908d39351d2370.jpg> 韓国オーディション 批判受け説明
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 21:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 21:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
