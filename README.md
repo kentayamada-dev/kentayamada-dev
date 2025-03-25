@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b43014a3dc9a97544af6410ef126f9ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24d8ab1a4d270fd34ce22f6fe19b142b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9c4c242a720dd53ea3b1df135f7d6deb85bfa50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-07857459-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東京地裁が"統一教会”に解散命令　教団会長は「明らかに不当」と反論
+      <a href=https://news.yahoo.co.jp/articles/3d5b1bce7bdac030c8230c4dab5d8159ca675ea4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90021306-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 被害者「これからスタート」教団側は即時抗告へ…東京地裁が旧統一教会に“解散命令”
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/655ccb8b2651484462151b75e4acea575a63d89e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000022-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 旧統一教会に“解散命令”オウム真理教、明覚寺に次ぐ3件目『民法上の不法行為』では初　元オウム真理教幹部・上祐史浩氏は「名義変えてしまえば、ほかに何にも影響はない」と指摘
+      <a href=https://news.yahoo.co.jp/articles/80b3be7ecfdf658d93986d888443690963bf1ee1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-01614715-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “統一教会”解散命令受け発表のコメントを一部修正、改めて発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 02:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 02:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
