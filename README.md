@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7590e0bc7689e75e9709a43067035592.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d61cde9f95e28a5975dbf082ee9df13c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82ef96ab9ab9d51ff93622663d36e88dcdb2b4e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-21811313-tbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 専門家「今後も教団の動向に注意」旧統一教会に解散命令　仙台の教会は静観　宮城
+      <a href=https://news.yahoo.co.jp/articles/376c873ea25270a1d7a619ed831bccae66c61ae0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「大きな一歩」「感無量」　被害対策弁護団が会見　旧統一教会解散命令
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6052556c6b4a735cb400e57842f4cb8bb067a751>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90031580-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 小学生に軽トラックが突っ込み1人死亡・1人重体　逮捕された男は近所の人に震えながら「わからん」と一言
+      <a href=https://news.yahoo.co.jp/articles/59993efcddcea7444ba3d731a3099427e1a15e69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00053827-satvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=584&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 逮捕された男は「記憶がない」と話す　女子児童４人が死傷した事件　発生当時の様子が明らかに
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533389>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/f6666dd98c3fad779da4cec0fa5f6de390e8b79a905d1cb0481349303751897b.jpg> ポスター品位法案 特別委で可決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533416>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/cf6e451141afc177efddae2b7ad0a2248ad672c14ca6d4b0d611181afb6a7647.jpg> 首切断事件 判決不服で父親が控訴
       </a>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533405>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/2246b5cc83920045a00ff958b69df1884f9a543d98bb163ede7493f54b81d0b4.jpg> 手術後わいせつ 医師の無罪確定へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533415>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/7d9b98ed4b4d9f187ad3e570e245a30df3ee81e641e66b1bea7c2beaba333d86.jpg> 実質手取り増「第3の賃上げ」とは
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 18:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 19:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
