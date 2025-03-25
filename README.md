@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7999a8fec4fe00f5ee02a12e967fb878.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b1a2d7029f5dde8fb603034e146f9494.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a571d08a5ecab03883e93573797af7d3d3aa9bef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-07226645-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 旧統一教会に解散命令　教団は即時抗告する方針明らかに
+      <a href=https://news.yahoo.co.jp/articles/68de0483bdb99d741cd2b920819071bf4004f669>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00170641-sdigestw-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 「次のW杯でもサプライズを起こす」日本と引き分けたサウジの指揮官が森保Jに太鼓判！「アジア最高の代表チームだ」【W杯予選】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfe092567f5e04a4f2d6f21e230d4d998bdc890e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-02001340-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=334&ch=334&exp=10800&fmt=webp> インドネシア、前半の先制点を守りきりバーレーンに勝利！　3位サウジとの勝ち点差は1ポイント差に
+      <a href=https://news.yahoo.co.jp/articles/a571d08a5ecab03883e93573797af7d3d3aa9bef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-07226645-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 旧統一教会に解散命令　教団は即時抗告する方針明らかに
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 04:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 04:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
