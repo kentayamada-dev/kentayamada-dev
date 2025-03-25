@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a8ddff57f0294557aad50f1c8a645c6c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c181eb197bfb0c88186abea03bf1af9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5cd9bed8c0c4ab61386cad7e697896499fbe6516>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050199-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=456&ch=456&exp=10800&fmt=webp> 浜松女児４人死傷、運転の男「意識が飛んだ」…父親「思い出はあるが今は思い出すのつらい」
+      <a href=https://news.yahoo.co.jp/articles/233cc691d86169681e13352112620a3a609dd231>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00482225-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「アップを見て“5枚だな”って」守りに入ったサウジを崩せず0-0決着…途中出場の伊東純也「こんなに守るサウジは初めて」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61d44f58c8290ef3eaabab5ea27294eae20f362b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-33251556-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1341&ch=1341&exp=10800&fmt=webp> 【日本代表】前田大然が1トップ争いに名乗り　アジア最終予選初先発で持ち味の機動力で見せた
+      <a href=https://news.yahoo.co.jp/articles/5cd9bed8c0c4ab61386cad7e697896499fbe6516>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050199-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=456&ch=456&exp=10800&fmt=webp> 浜松女児４人死傷、運転の男「意識が飛んだ」…父親「思い出はあるが今は思い出すのつらい」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533424>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/d66126df39823e2c150cd693c190f7912e95aafa50b7e29cf92932f91787e856.jpg> 備蓄米の本格販売は4月以降 全農
+      <a href=https://news.yahoo.co.jp/pickup/6533438>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/70e1757e150797e744fb3377060af167b72f4f71b197026f838c9e96d5538fa3.jpg> 宮中晩さん会 愛子さまが初出席
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 23:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 23:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
