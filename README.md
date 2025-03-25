@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d61cde9f95e28a5975dbf082ee9df13c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/02ce62f816157468d68bbdeb00c0bfbb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/376c873ea25270a1d7a619ed831bccae66c61ae0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「大きな一歩」「感無量」　被害対策弁護団が会見　旧統一教会解散命令
+      <a href=https://news.yahoo.co.jp/articles/f273ee20cbe475989f9e99f7ba7b1aca7ad6d785>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-21811478-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 旧統一教会に解散命令　鹿児島県内の教団関係者は反発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59993efcddcea7444ba3d731a3099427e1a15e69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00053827-satvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=584&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 逮捕された男は「記憶がない」と話す　女子児童４人が死傷した事件　発生当時の様子が明らかに
+      <a href=https://news.yahoo.co.jp/articles/fc348a10dd8ea394a3c05267ddc094941e0075a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90031583-sut-000-2-thumb.jpg?exp=10800&fmt=webp> 【中継】小学生1人死亡・1人重体の事故　容疑者「事故当時の記憶がない」警察は家宅捜索で“お薬手帳”を押収
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/85bfddfd4ad5e6e71dd03aba0da5231a9a7a56e680e161bbb4f83bc76948123b.jpg> バレー元代表・中垣内氏 今は農家
+      <a href=https://news.yahoo.co.jp/pickup/6533418>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/483070086e0a5f0fedde9713d60f56426ebddce9acbbc5e3f79eda68e634b47d.jpg> オリエンタルランド 社長交代へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/5c3058dc13f0e425231c3e5a2d1a926f4908e1cf8679a5cc6f075b45a5d7cfc8.jpg> テレ朝社長 社員巡る騒動を謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6533406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/85bfddfd4ad5e6e71dd03aba0da5231a9a7a56e680e161bbb4f83bc76948123b.jpg> バレー元代表・中垣内氏 今は農家
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 19:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 19:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
