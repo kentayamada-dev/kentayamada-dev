@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c88accba948e57b03eac76bbfc29bb96.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b482d710d28a68d86df9891c6f0f1c55.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/817891906f503ca4828234c17faf797d6b98768e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-01384614-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 浜松・小学生4人死傷事故　現場にブレーキ痕なく…壁にぶつかり停止か
+      <a href=https://news.yahoo.co.jp/articles/989f2c6847b5ed8a6a76af0f0c1f5ebd1357a076>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00010001-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> ガザ地区南部最大の病院攻撃　ハマスの活動拠点だと主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c393564492ce7e7f69ae33376b48378ccc76d78c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-07226456-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 運転手の男「事故当時の記憶がない」小学生の列に軽トラックが突っ込み4人が死傷　現場にブレーキ痕なし　静岡・浜松市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2f0c186cfd69456430b257c1bf2b82bc465645a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000143-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=518&ch=518&exp=10800&fmt=webp> 新年度目前の春…人気番組でタレント卒業ラッシュ　濱口優が岸本理沙アナが相次ぐ発表　番組に「感謝」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d8c28e4723414e05a0172d6b9099d637a579438f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-07698657-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、自動車への関税「数日中に発表」
       </a>
     </td>
   </tr>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a93c81c7ed71720e4b93c1c1654556e1dbe87f40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00080048-chosun-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=573&ch=573&exp=10800&fmt=webp> 弾劾訴追の議決定足数、「大統領権限代行は151人」と認めた憲法裁に韓国法曹界から批判の声「巨大野党が政府を無力化できる判決」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46743f61b62e61343ab512fe27f4b42eda126d7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-01724021-fullcount-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、エ軍本拠地から“イジり”「ゲームキャラになった」　ビジョンに珍説明文
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9725f7aeab5aaa635f98122b6bba40f46b6b437a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050037-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、自動車２５％追加関税「数日中に発表」…相互関税「多くの国に小休止与えるかも」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a19a29ab8005235ed4522f68c5758c69b018e29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000033-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 朝日通信員ら攻撃受け死亡　イスラエル軍が自宅にミサイル　ガザ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00080048-chosun-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=573&ch=573&exp=10800&fmt=webp> 弾劾訴追の議決定足数、「大統領権限代行は151人」と認めた憲法裁に韓国法曹界から批判の声「巨大野党が政府を無力化できる判決」
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533373>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/c427be819bc94683ddd2071d5c9697e53640c50e9a6dd143c6e33c0e80216636.jpg> 愛媛と岡山の山火事 消火活動続く
+      <a href=https://news.yahoo.co.jp/pickup/6533376>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/33960c9651c539f6f90c5929d9c7fbb6e3f68c75228165bb127b240ab1675624.jpg> 米大統領 車関税「数日中に」発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/b473f087d3a7c33eab45de08121688729df04b351edb06504a71dfba114b34cd.jpg> ロシアとウクライナ 攻撃の応酬
+      <a href=https://news.yahoo.co.jp/pickup/6533373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/49900be682ca17c7ef21cde25f5708ccc88de09c9575718e36c1deb98c4d792d.jpg> 愛媛と岡山の山火事 消火活動続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/31cf13f4b88efab3c8f7e3f209d6406e361943786ca89feaf1b7363b2894cb80.jpg> サムスン電子 韓CEOが急死
       </a>
     </td>
   </tr>
@@ -428,22 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533377>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/d867a1a5c2c8e7f3df85a1b092d07116489620c5922bbbd1cee28e6158b1b644.jpg> 小学生4人死傷 ブレーキ痕なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/c6608a5c9fd38b363d1d251f1d9563cac74c54f16ca25f55a9b72fff8c040aff.jpg> 熊本市電同士が追突事故 6人搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/b2896d7ba69ad6da32304236b51ff758a8eb41260607b1ee98f19f248a782843.jpg> リクルート スキマバイト参入中止
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/60e35ab9e2d6e8fe31f6b49efd5352d77b3c3156fcda35206143e60e30588aa7.jpg> フジ岸本アナ退社へ 苦渋の決断
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 12:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 12:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
