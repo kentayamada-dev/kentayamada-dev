@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cca5b7eb1996ce028d3fdd7e644bfbc6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a6b4152350f19b825473f78b0bb65a06.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d4a760439492ed4dcbae50badf35e5d809a058e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00482233-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1412&ch=1412&exp=10800&fmt=webp> 「前半決めていれば違う展開に」先制点まであと一歩届かなかったFW前田大然、セルティックでのさらなる飛躍誓う「あそこを決められる力をもっとつけたい」
+      <a href=https://news.yahoo.co.jp/articles/80161f1ce544eb6bc738e5ed97c7a5d4afa6ae26>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000003-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=609&ch=609&exp=10800&fmt=webp> 鹿児島県民「当然」「被害者救済を」 一方で信者ら「国から否定された気分」…旧統一教会解散命令への県内反応
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a30e590d3370dca236e6b4a767a4c06b13c1239b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00077822-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 「私たちからすると、プロセスに不満はありますよ」旧統一教会関係団体トップが語った解散命令への“言い分”
+      <a href=https://news.yahoo.co.jp/articles/7080c48460fb17c46e63b18ae18d7bcb1da21918>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050008-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=412&ch=412&exp=10800&fmt=webp> 浜松女児４人死傷、姉妹とよく遊んだ女児「生きていてほしかった」と涙こぼす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6f7970f97a3f94a7eabdab2f9917505a6ea1742e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-10170358-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=527&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「今までの日本人のミドルとレベルが違う」久保建英、“欧州基準”の超絶30m級ブレ球ミドルにスタジアム騒然「あの位置からでも脅威」予想不能な“不規則軌道”でゴール急襲の瞬間
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/84817beacc7c2fe7c4761e091e5e86f680e5368a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948234-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 天皇皇后両陛下が6年ぶりに宮中晩餐会でブラジル大統領を歓迎　愛子さまもシャンパンで乾杯　初めて和食の前菜も
       </a>
     </td>
   </tr>
@@ -386,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/5fb2feaeebc6e134eff95376946dab185fbf236f1fe4353c9da9e5be695dca01.jpg> 旧統一教会に解散命令 今後の展開
+      <a href=https://news.yahoo.co.jp/pickup/6533445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6bd9d9c5f96f8fa2c1ee8495d677308000d20ba4c54a08f2dab96ba85930a57c.jpg> 80年前 沖縄の島に押し寄せた米軍
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533428>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/26c86b12474f84dd345e846fdf07d2fdfce8494a1ce60e455ad28717c9c3f76c.jpg> 打撃を 欧州で広がる米製品不買
+      <a href=https://news.yahoo.co.jp/pickup/6533446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b8d576570b51b8a175bd0b8d6b82ec51adce8b6c6ac3f6c79a3834365eb8e521.jpg> 旧統一教会の「政界工作」未解明
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 06:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 07:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
