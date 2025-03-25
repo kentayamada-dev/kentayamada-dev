@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/710d71e7888a9b0e55009ba24d59858e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cfd67ca6837e6c3dce615d7c132dc684.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e547227a9f3bb5b69140210e22e0f4d670c292a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000085-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 元2世信者「カルトの食い物にされてはいけない」　解散命令に安堵
+      <a href=https://news.yahoo.co.jp/articles/71d1453f5da3efe0723e5af3fa0398162833688c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-08489152-knb-000-1-thumb.jpg?exp=10800&fmt=webp> ”統一教会”に解散命令　富山県内の元信者「被害者救済の一歩に」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5dd6c2eed12465784a15b7269f49decbb24076d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000131-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=786&ch=786&exp=10800&fmt=webp> クレイジーケンバンドの元メンバー死去　６４歳　脳出血　「オメガトライブ」でも活躍
+      <a href=https://news.yahoo.co.jp/articles/fd675efc240746fcc751e360f7b1718803a497f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90021298-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【訃報】元「クレイジーケンバンド」の廣石惠一さん、脳出血のため６４歳で…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/437537c4100f43c8be91acfb6290efa8a1ae3af7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000145-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル、政権維持へ「終わりなき戦闘」　ハマス壊滅は非現実的　ガザ攻撃再開から1週間
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/65e4ea3ff1978da9cfb0c31d3d4cdf4f47f33b94>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90021259-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=675&ch=675&exp=10800&fmt=webp> どうなる？関税政策　トランプ大統領の狙いは…在日米軍予算“1600億円削減”報道も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d3d21c8c6827881c3d9fdc179dbbec6a29b86c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000060-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=488&cy=0&cw=595&ch=595&exp=10800&fmt=webp> 崩壊したガザ停戦、復活目指しエジプトが新案を提示　ロイター報道
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/39308dfe288b2ae4d0d4a87dcd0a33bbe7b42db44b3eae88d20744da8d76734c.jpg> 児童虐待相談が最多22万件 23年度
+      <a href=https://news.yahoo.co.jp/pickup/6533411>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/df1519f6537b4d2a4aa7e9a1a4b1384ec64ed359e8b0e331fcc985092047c43b.jpg> 米高官 フーシ派攻撃計画を誤共有
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/8d8797f2f0956dd247afb7de192128e11498091bccb72ae35dc68e9ae2d79a46.jpg> 小学生4人死傷 祖母「許せない」
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533393>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/eef2d2b28d6761f94f3ccc8071ed7d1a6c76f5b65cd34cd26d45bff93b78dfab.jpg> SNS型投資詐欺 男性2.2億円被害
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533415>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/7d9b98ed4b4d9f187ad3e570e245a30df3ee81e641e66b1bea7c2beaba333d86.jpg> 実質手取り増「第3の賃上げ」とは
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 20:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 21:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
