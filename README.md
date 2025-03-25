@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/146cadccb7ed5e54134db083e2176456.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cca5b7eb1996ce028d3fdd7e644bfbc6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1999374361eea7d5cb4a8f8c39b367dece4fa937>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00482231-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1412&ch=1412&exp=10800&fmt=webp> 「少しもったいなかった」POTMの久保建英はゴールレスドローに悔しさ、最終予選初の連続先発には手応え「1つ僕が成長した部分かな」
+      <a href=https://news.yahoo.co.jp/articles/8d4a760439492ed4dcbae50badf35e5d809a058e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00482233-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1412&ch=1412&exp=10800&fmt=webp> 「前半決めていれば違う展開に」先制点まであと一歩届かなかったFW前田大然、セルティックでのさらなる飛躍誓う「あそこを決められる力をもっとつけたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d220b4695c1b2e4c278a5fb76c30d2e8018f308>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000005-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=8&cy=0&cw=1184&ch=1184&exp=10800&fmt=webp> 旧統一教会解散命令、政界工作の「闇」未解明　野党「終わりでない」
+      <a href=https://news.yahoo.co.jp/articles/a30e590d3370dca236e6b4a767a4c06b13c1239b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00077822-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 「私たちからすると、プロセスに不満はありますよ」旧統一教会関係団体トップが語った解散命令への“言い分”
       </a>
     </td>
   </tr>
@@ -388,14 +388,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533440>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/5fb2feaeebc6e134eff95376946dab185fbf236f1fe4353c9da9e5be695dca01.jpg> 旧統一教会に解散命令 今後の展開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/8d8797f2f0956dd247afb7de192128e11498091bccb72ae35dc68e9ae2d79a46.jpg> 小学生4人死傷 祖母「許せない」
       </a>
     </td>
   </tr>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/49a6c48172ec4c45d47eb114824b93b86d86c8e1cf0f453e67157f1e1f1a4c1a.jpg> 森保J サウジにゴールレスドロー
+      <a href=https://news.yahoo.co.jp/pickup/6533443>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ff21c25756a8ec0b905d5694864fb74bf1cc61609198faa5329ca4d7a1ce6bd1.jpg> 伊東純也 サウジ守備シフトに驚き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533422>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/f6c1488f60b2f9d14e9617de6f7a3a76e9940b5ddc0c08a75c48584a3a169a47.jpg> 元CRAZY KEN BAND 廣石氏死去
+      <a href=https://news.yahoo.co.jp/pickup/6533444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6342b8aa14893bc13200d7269bc3180d195b574fb03993f96d581ab58bcd8e72.jpg> 八代亜紀さんの未発表歌詞 発見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533442>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ea1ecc72cf5f30f57356a986cdf311f2909815ac735b1badeccf47d89bb6dc52.jpg> Ado 目標は「やはりグラミー賞」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 06:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 06:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
