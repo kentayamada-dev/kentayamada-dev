@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1a6936e15bad76f844129d4ebb014f1e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f485f0eec5e16416313c3c2b131cca1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acf81c4e949c9e8d3ff2b4cc6160e21bd584341f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00080073-chosun-000-16-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 「代行」韓悳洙首相の弾劾棄却で9戦全敗の共に民主党は「代行の代行」崔相穆・副首相の弾劾訴追を撤回せよ【3月25日付社説】　
+      <a href=https://news.yahoo.co.jp/articles/f9adea71873f16ac7b06e3d40cbf4d9885c84cf1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000079-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=652&ch=652&exp=10800&fmt=webp> ロッテ　２軍本拠地の移転先、君津市に決定　３１自治体から応募、熟慮の末に決定
       </a>
     </td>
   </tr>
@@ -371,27 +371,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85dc85dca6489c142f47ef5d2be354f8598d43f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-01551035-okinawat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=305&ch=305&exp=10800&fmt=webp> 2億2千万円だまし取られる　沖縄の60代男性、SNS型投資詐欺で　県内で過去最高の被害額
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8c28e4723414e05a0172d6b9099d637a579438f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-07698657-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、自動車への関税「数日中に発表」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533395>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/2ee2942af0ac3d566381b486351474e5582c4e2984c8f35851cb5df5ef504c2e.jpg> 旧統一教会に解散命令 東京地裁
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533385>
@@ -404,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533372>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/8/1d10ee8060db02323ffaca3b538b4473850f4b6e2e890f3863e22a5d87ee0d0b.jpg> 親トランプ投稿 Xが優先拡散か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533384>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/aa8ad4d3d68053d7b34f7d5d9d1f37ff1fc9b6533cbc7431dca99c5df53ecf6e.jpg> 天皇皇后両陛下 6年ぶり国賓接遇
       </a>
     </td>
   </tr>
@@ -460,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 15:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 15:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
