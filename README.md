@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f4610a0c9faa4404357daeacada95245.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1a6936e15bad76f844129d4ebb014f1e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52ba68aad5a097bb866bfe8edb8517c1041a3bff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000403-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=939&ch=939&exp=10800&fmt=webp> 武尊「試合への準備も含めて全てが自分の実力」告白した野杁正明に謝罪の言葉も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/acf81c4e949c9e8d3ff2b4cc6160e21bd584341f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00080073-chosun-000-16-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 「代行」韓悳洙首相の弾劾棄却で9戦全敗の共に民主党は「代行の代行」崔相穆・副首相の弾劾訴追を撤回せよ【3月25日付社説】　
       </a>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6077c72c499568823a0d8a508df3b11b0bf5f9e1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90031578-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】「犯人は絶対許せない」小2の妹が死亡・小4の姉が重体の交通事故　祖母が苦しい胸の内「これから人生を頑張っていくはずだったのに…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/85dc85dca6489c142f47ef5d2be354f8598d43f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-01551035-okinawat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=305&ch=305&exp=10800&fmt=webp> 2億2千万円だまし取られる　沖縄の60代男性、SNS型投資詐欺で　県内で過去最高の被害額
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533385>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/e1047de780782eceb67fb462a6fb0903230f39ce6b302340927af9a2abc7347d.jpg> 列島上空に黄砂 あすにかけ注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533376>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/33960c9651c539f6f90c5929d9c7fbb6e3f68c75228165bb127b240ab1675624.jpg> 米大統領 車関税「数日中に」発表
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533392>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/6fdf78231b586863bb27a0a4fab440b015532eb8a23952bc9d9b6f871309a4bf.jpg> 物議のストリートピアノ運営 謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533391>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/1423473b0dfc95a8471e2a805059ff1b70db8f9ab04f0a10d260ea0666b0b5bd.jpg> KO負け武尊 2週間前に2カ所骨折
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/60e35ab9e2d6e8fe31f6b49efd5352d77b3c3156fcda35206143e60e30588aa7.jpg> フジ岸本アナ退社へ 苦渋の決断
+      <a href=https://news.yahoo.co.jp/pickup/6533390>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/a337b8d3d401610a4cdc943253e9f6edf4e234960664ac76844a3d54e625ae46.jpg> 秋田書店本社 工事現場に「刃牙」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 14:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 15:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
