@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b72074e1cc24b4e618d4db6bf41c248b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c2c026ca80340e345d38b5fccad9198d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a52b1235898e1608113c1f1ca8ebbd9496361136>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000012-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 西東京のスナックで30代女性が死亡、複数の刺し傷　男性も意識不明
+      <a href=https://news.yahoo.co.jp/articles/1276b328ef6ed0a1f12c49c4866944b8f8697fb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90031572-sut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】小2の妹が死亡・小4の姉が重体　現場にブレーキ痕なし　小学生4人の列に高齢ドライバーの車が突っ込む　坂を下った勢いのまま事故か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9dc1435bb3e041d3e2d3b58db590f00cdc68deaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00518895-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ベッツが復帰へ　ロバーツ監督「26日エンゼルス戦でプレーできると思う」と米報道、体重激減で欠場中
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7b5451f03f82b87db329765e74b0699216be874>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000001-at_s-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 浜松で小学女児4人死傷　自転車列に軽トラ突っ込む　78歳の男逮捕
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533357>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/236993d8251367877e2b2da18052b5386dd7ff84f9dc27b7cfe3ffc6c197704d.jpg> 75歳以上はATMの上限30万円 検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533365>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/469b0520b0f604717caaa005b94745e8254f3360dfc8b5bf16c2e8d7769d173f.jpg> 損保大手4社に業務改善命令
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533355>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/9a219843759c736435e1c50cbc0cde66155fc979f4718235d3ca1d1d39fa148e.jpg> ガザ在住の朝日新聞通信員が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533357>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/236993d8251367877e2b2da18052b5386dd7ff84f9dc27b7cfe3ffc6c197704d.jpg> 75歳以上はATMの上限30万円 検討
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/9b95db118a6b17593066d900ca6286dc20bf6ae320bcf65b768f0d1e846ef693.jpg> JSTの博士課程支援 3割が中国籍
+      <a href=https://news.yahoo.co.jp/pickup/6533367>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/b2896d7ba69ad6da32304236b51ff758a8eb41260607b1ee98f19f248a782843.jpg> リクルート スキマバイト参入中止
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533363>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/46a1df14de2d1c5df1d1ad6e0b8bac5aa4998068073137a39ae65971f87b2bdb.jpg> 水原一平被告の出頭期限 延期
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533370>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/bf26fd37dde76abea14af14ead21c6161ff5375882ee3e1d2a5ceb2c450eab3d.jpg> 速報選抜 エナジックvs智弁和歌山
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 09:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 09:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
