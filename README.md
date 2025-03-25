@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/er5qb1KP4os?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7596ae391459a92a22ad5f3b61176ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1fce8cc61e8dcd98caa52ea98790e581.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d033047572d10b85f16804526143f655c719a53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010005-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=501&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「日本が強豪であることは事実だが…」サウジアラビア代表OBが引いて守っての日本代表戦ドローに苦言
+      <a href=https://news.yahoo.co.jp/articles/99fcb05a17749b4f01d20a6b9ed13efd0281e81c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000009-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 日本高校教科書検定発表…「竹島は日本固有の領地」またたごり押し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f10a2359b3d633644268d28a9ba06ee4125f1488>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東京地裁、旧統一教会に解散命令…「献金による被害に根本的な対策を講じず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7b31c2602f65023168696be8628d7d0000865faa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010003-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=396&ch=396&exp=10800&fmt=webp> ボール保持率78%、12本ものシュートを放つがノーゴール……　日本代表、次の課題は引かれた相手への“プランB”か
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/716a307e8e9290e2e1dd88161ed9d7b8a61b6ff1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000003-at_s-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 浜松・児童4人死傷事故　軽トラック、減速せずに衝突か　自転車列の後方から
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8426b1a75f45978389c412b071d58280b631593>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本政界を揺るがした旧統一教会、東京地裁が「解散命令」
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533441>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/d62c5ac40fee184f594dfad70f509b3c82085425e955d2812bc4cde16f046097.jpg> 米 露ウと黒海の安全航行で合意
+      <a href=https://news.yahoo.co.jp/pickup/6533453>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/34e937dbbbd8d9e7569243b3a6290d4508422a05d84741f89f8f5748cffd3897.jpg> 高1教科書 生成AIの記述が急増
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/057c22dc091b097f462f48612d9155621b94a341d074ecdb27b123f2be3c0be3.jpg> お花見にも物価高 屋台の価格高騰
+      <a href=https://news.yahoo.co.jp/pickup/6533451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e3b219e6a9925444d2ed04c7a297196fb41cfed02e9e9420ddffe138a954b229.jpg> テレビCMを中止 決断した元社長
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e3b219e6a9925444d2ed04c7a297196fb41cfed02e9e9420ddffe138a954b229.jpg> テレビCMを中止 決断した元社長
+      <a href=https://news.yahoo.co.jp/pickup/6533452>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/0bbe7729e59de6054c6f0e1c1dde86f2fbbf616ebe9ac99201801467344718e8.jpg> 速報センバツ 花巻東vs.健大高崎
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 08:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 08:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
