@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b1a2d7029f5dde8fb603034e146f9494.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6a4850d2a35689f3d759386922573ea0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68de0483bdb99d741cd2b920819071bf4004f669>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00170641-sdigestw-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 「次のW杯でもサプライズを起こす」日本と引き分けたサウジの指揮官が森保Jに太鼓判！「アジア最高の代表チームだ」【W杯予選】
+      <a href=https://news.yahoo.co.jp/articles/ea3c9ba12f9eda119f5bf0d870f98262d74d4f65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000073-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日本代表　連続得点記録ストップ　森保監督「勝ちきるオプションを持つという課題を頂いた」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 04:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 05:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
