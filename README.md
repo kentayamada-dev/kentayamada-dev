@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/er5qb1KP4os?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b482d710d28a68d86df9891c6f0f1c55.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4868d8f147e1e66d6724e2fa1111af24.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c222ffe14c28664f41bc06463187861c9ff1e343>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90021254-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> アイドル系月刊誌「WiNK UP」が6月号をもって休刊
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/989f2c6847b5ed8a6a76af0f0c1f5ebd1357a076>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00010001-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> ガザ地区南部最大の病院攻撃　ハマスの活動拠点だと主張
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c393564492ce7e7f69ae33376b48378ccc76d78c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-07226456-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 運転手の男「事故当時の記憶がない」小学生の列に軽トラックが突っ込み4人が死傷　現場にブレーキ痕なし　静岡・浜松市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f0c186cfd69456430b257c1bf2b82bc465645a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000143-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=518&ch=518&exp=10800&fmt=webp> 新年度目前の春…人気番組でタレント卒業ラッシュ　濱口優が岸本理沙アナが相次ぐ発表　番組に「感謝」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 12:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 13:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
