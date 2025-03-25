@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b54eae0560f687d32255f3e07534ebc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/43297c920c8a10e12e45b53063ff5445.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1dcbb4e89a13f96d10cbdc3480f5314751fceaa4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00482218-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=770&ch=770&exp=10800&fmt=webp> オーストラリアが敵地で勝ち切って2位死守！　元鹿島のセルジーニョもデビューの中国はストレートインの可能性消滅…【2026W杯アジア最終予選】
+      <a href=https://news.yahoo.co.jp/articles/80b3be7ecfdf658d93986d888443690963bf1ee1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-01614715-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “統一教会”解散命令受け発表のコメントを一部修正、改めて発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/faaa4456b4b9f34ffaaac957be483e9fe9e1c85e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00948192-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 東京地裁が「旧統一教会」に解散命令…民法上の不法行為で初　教団側は「悪質な団体ではないことは明白だ」と反論
+      <a href=https://news.yahoo.co.jp/articles/e894d4d13c4b5df344d59b74cd1c0337859e96af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00482216-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 選手採点＆寸評：日本代表 0-0 サウジアラビア代表【2026W杯アジア最終予選】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4db52cdc2b89382a9a6adb717ad736d74b9b494d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000137-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 笠りつ子　２打罰受けた誤所からのプレーを謝罪「私の認識不足と勘違い。深く反省」「今後はこれまで以上に真摯にゴルフに向き合っていきます」
+      <a href=https://news.yahoo.co.jp/articles/655ccb8b2651484462151b75e4acea575a63d89e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000022-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 旧統一教会に“解散命令”オウム真理教、明覚寺に次ぐ3件目『民法上の不法行為』では初　元オウム真理教幹部・上祐史浩氏は「名義変えてしまえば、ほかに何にも影響はない」と指摘
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/437537c4100f43c8be91acfb6290efa8a1ae3af7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000145-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=800&ch=800&exp=10800&fmt=webp> イスラエル、政権維持へ「終わりなき戦闘」　ハマス壊滅は非現実的　ガザ攻撃再開から1週間
+      <a href=https://news.yahoo.co.jp/articles/890c5a3846db6d9ff0d47e381cbcbbb45cc090c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-21809599-ibciwatev-000-1-thumb.jpg?exp=10800&fmt=webp> 【山火事】大船渡市の山林火災から1か月　地域の基幹産業「ワカメ」への影響は?　岩手
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/67c5d6564d8a61c25ac287bdb06b5f3c40eaad22248a2b48aee6a67cd72056de.jpg> 解散命令 旧統一教会が即時抗告へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533426>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/4392d7809034ef9f203bec6e97dcc949ad355f5c319c0ce9b5bc05d68e05062a.jpg> ガザ傷病者2人 日本が受け入れへ
+      <a href=https://news.yahoo.co.jp/pickup/6533435>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/0fd4658aa36b84305e3cb512177e31cb13322191011f6e9c1b4b88fc931bde84.jpg> 宗教2世 解散命令にあんどと懸念
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/08ad367b784de9326d4da8527a7ed3a15203732a7c6f4295b1800191b378b924.jpg> サムスン電子CEO急死 衝撃広がる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533420>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/1f87198baac531adf63bcbc209b8a2cf858bdb0cf847b27a1f189ded4eba794a.jpg> セブン 買収巡りカナダ大手に反論
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/08ad367b784de9326d4da8527a7ed3a15203732a7c6f4295b1800191b378b924.jpg> サムスン電子CEO急死 衝撃広がる
+      <a href=https://news.yahoo.co.jp/pickup/6533429>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/b30371c577080f471e2e197dc2e40589a7dfabdbe3c6b783e40f2e18e45f2855.jpg> 余裕なくイライラ 空港のカスハラ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 22:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 22:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
