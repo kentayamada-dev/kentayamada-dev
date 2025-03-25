@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c75c2e6fe17fbbc65398a9f2277d7a03.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/650d3cbb57b3488f2d555e29c3225ba7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7dd6e95b4e4ca819646ff484b16fca99d34e6294>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00586303-soccermzw-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 伊東純也が“ベタ引き”サウジに驚き「こんなの初めて」　捨て身の5バックに「ビックリ」
+      <a href=https://news.yahoo.co.jp/articles/bfa9375acaff7f9541afc799f24cc56a785274f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-02001503-soccerk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 伊東純也、サウジの守備シフトに驚き隠せず「こんなに引いてくるのは初めてだったのでビックリしました」　
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5cd9bed8c0c4ab61386cad7e697896499fbe6516>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050199-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=456&ch=456&exp=10800&fmt=webp> 浜松女児４人死傷、運転の男「意識が飛んだ」…父親「思い出はあるが今は思い出すのつらい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050199-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=456&ch=456&exp=10800&fmt=webp> 浜松女児４人死傷、運転の男「意識が飛んだ」…父親「思い出はあるが今は思い出すのつらい」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533439>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/68603423a222a2be18e9c434163d1797dae0a8a626fb612b22a3da3400ed60a7.jpg> 交差点で車と衝突 7歳女児が重傷
+      <a href=https://news.yahoo.co.jp/pickup/6533428>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/26c86b12474f84dd345e846fdf07d2fdfce8494a1ce60e455ad28717c9c3f76c.jpg> 打撃を 欧州で広がる米製品不買
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533431>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/7377c923e42f4cdff71b494d2c6d6c166c85ff2551fb818bdd66d45b3086aeee.jpg> ゴルフ違反プレー 笠りつ子おわび
+      <a href=https://news.yahoo.co.jp/pickup/6533433>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/49a6c48172ec4c45d47eb114824b93b86d86c8e1cf0f453e67157f1e1f1a4c1a.jpg> 森保J サウジにゴールレスドロー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/49a6c48172ec4c45d47eb114824b93b86d86c8e1cf0f453e67157f1e1f1a4c1a.jpg> 森保J サウジにゴールレスドロー
+      <a href=https://news.yahoo.co.jp/pickup/6533422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/f6c1488f60b2f9d14e9617de6f7a3a76e9940b5ddc0c08a75c48584a3a169a47.jpg> 元CRAZY KEN BAND 廣石氏死去
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 23:52:28 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 00:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
