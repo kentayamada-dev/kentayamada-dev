@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ee63db2b2407f3cd1d860954f2bc61e2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/093352c94af7ef04af812311fdbafe8d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b9c4c242a720dd53ea3b1df135f7d6deb85bfa50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東京地裁が"統一教会”に解散命令　教団会長は「明らかに不当」と反論
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bfe092567f5e04a4f2d6f21e230d4d998bdc890e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-02001340-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=334&ch=334&exp=10800&fmt=webp> インドネシア、前半の先制点を守りきりバーレーンに勝利！　3位サウジとの勝ち点差は1ポイント差に
       </a>
@@ -365,24 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df3794a7f048661144cf900937fd2ace4844583c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050195-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=368&ch=368&exp=10800&fmt=webp> 旧統一教会が解散決定に反発、会長「信者や子どもたちへの心ない攻撃が深刻化する」…即時抗告へ
+      <a href=https://news.yahoo.co.jp/articles/655ccb8b2651484462151b75e4acea575a63d89e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000022-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 旧統一教会に“解散命令”オウム真理教、明覚寺に次ぐ3件目『民法上の不法行為』では初　元オウム真理教幹部・上祐史浩氏は「名義変えてしまえば、ほかに何にも影響はない」と指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5cd9bed8c0c4ab61386cad7e697896499fbe6516>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050199-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=456&ch=456&exp=10800&fmt=webp> 浜松女児４人死傷、運転の男「意識が飛んだ」…父親「思い出はあるが今は思い出すのつらい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/faaa4456b4b9f34ffaaac957be483e9fe9e1c85e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00948192-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 東京地裁が「旧統一教会」に解散命令…民法上の不法行為で初　教団側は「悪質な団体ではないことは明白だ」と反論
+      <a href=https://news.yahoo.co.jp/articles/a501c12a522ef815e93ec93a2e779408eb5d3729>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00338702-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 笠りつ子　２罰打ルール違反謝罪「私の認識不足と勘違いからこのような事態になり…」
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/5fb2feaeebc6e134eff95376946dab185fbf236f1fe4353c9da9e5be695dca01.jpg> 旧統一教会に解散命令 今後の展開
+      <a href=https://news.yahoo.co.jp/pickup/6533441>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/76b4df0e9f569a673ccc083122812c471103146d48ec351cad61e9b2d38d9dac.jpg> 米 露ウと黒海の安全航行で合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533438>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/70e1757e150797e744fb3377060af167b72f4f71b197026f838c9e96d5538fa3.jpg> 宮中晩さん会 愛子さまが初出席
+      <a href=https://news.yahoo.co.jp/pickup/6533440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/5fb2feaeebc6e134eff95376946dab185fbf236f1fe4353c9da9e5be695dca01.jpg> 旧統一教会に解散命令 今後の展開
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 01:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 01:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
