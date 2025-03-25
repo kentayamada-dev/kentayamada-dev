@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/94be5693a24a86b7165c389d63bf2f0c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9e28b3e132822a40db38162952ddd66.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6af5633d6af3f12db4182817b92d1dcd562103a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050058-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=456&ch=456&exp=10800&fmt=webp> 浜松の女児４人死傷事故、現場にブレーキ痕なし…７８歳容疑者「記憶がない」と供述
+      <a href=https://news.yahoo.co.jp/articles/6077c72c499568823a0d8a508df3b11b0bf5f9e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90031578-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】「犯人は絶対許せない」小2の妹が死亡・小4の姉が重体の交通事故　祖母が苦しい胸の内「これから人生を頑張っていくはずだったのに…」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533372>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/8/1d10ee8060db02323ffaca3b538b4473850f4b6e2e890f3863e22a5d87ee0d0b.jpg> 親トランプ投稿 Xが優先拡散か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533384>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/aa8ad4d3d68053d7b34f7d5d9d1f37ff1fc9b6533cbc7431dca99c5df53ecf6e.jpg> 天皇皇后両陛下 6年ぶり国賓接遇
       </a>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/d867a1a5c2c8e7f3df85a1b092d07116489620c5922bbbd1cee28e6158b1b644.jpg> 小学生4人死傷 ブレーキ痕なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533386>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/c5398cb67cc5506d9fc816ff239f7a892dee18153c009c4002028192944335b8.jpg> 258gで誕生の男児卒園 両親見守る
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533379>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/e562eb3e232ee909184d8cf811d5ec84be3f75934177c1e4ea9c4b95186f7dd9.jpg> 大谷が練習ボール贈る 少年歓喜
+      <a href=https://news.yahoo.co.jp/pickup/6533387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/8bbc6fb1f6cae3d48aaa3cb0335e1315c66791a6fa1a59678612453328101e4e.jpg> 創刊37年「WiNK UP」休刊発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 13:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 14:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
