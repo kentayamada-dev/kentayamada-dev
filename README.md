@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/650d3cbb57b3488f2d555e29c3225ba7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ee63db2b2407f3cd1d860954f2bc61e2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfa9375acaff7f9541afc799f24cc56a785274f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-02001503-soccerk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 伊東純也、サウジの守備シフトに驚き隠せず「こんなに引いてくるのは初めてだったのでビックリしました」　
+      <a href=https://news.yahoo.co.jp/articles/bfe092567f5e04a4f2d6f21e230d4d998bdc890e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-02001340-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=334&ch=334&exp=10800&fmt=webp> インドネシア、前半の先制点を守りきりバーレーンに勝利！　3位サウジとの勝ち点差は1ポイント差に
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 00:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 01:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
