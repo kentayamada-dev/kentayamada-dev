@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a6b4152350f19b825473f78b0bb65a06.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ecc3d71355608fec425b33224ea0bbea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80161f1ce544eb6bc738e5ed97c7a5d4afa6ae26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000003-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=609&ch=609&exp=10800&fmt=webp> 鹿児島県民「当然」「被害者救済を」 一方で信者ら「国から否定された気分」…旧統一教会解散命令への県内反応
+      <a href=https://news.yahoo.co.jp/articles/5a6ecb0193f27f0fa2061f8415a697b7fd2e6fc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-10170359-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 嘘だろ？前田大然、爆速過ぎて“ボールを追い越す”衝撃の瞬間！「ボールより速い男」「ボール置いてくな」自分の速さに戸惑う“珍プレー”が話題に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/06d1d688655aa8d4c36b01484a51b4b4738bf4ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 26日の朝刊（都内最終版）☆1
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5c2ab95dc0aea3797f547394f4ec79444657a992>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-10170361-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 東京地裁の解散命令を受け 旧統一教会が即時抗告へ「最後まで戦ってまいります」
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7080c48460fb17c46e63b18ae18d7bcb1da21918>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050008-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=412&ch=412&exp=10800&fmt=webp> 浜松女児４人死傷、姉妹とよく遊んだ女児「生きていてほしかった」と涙こぼす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f7970f97a3f94a7eabdab2f9917505a6ea1742e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-10170358-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=527&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「今までの日本人のミドルとレベルが違う」久保建英、“欧州基準”の超絶30m級ブレ球ミドルにスタジアム騒然「あの位置からでも脅威」予想不能な“不規則軌道”でゴール急襲の瞬間
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84817beacc7c2fe7c4761e091e5e86f680e5368a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948234-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 天皇皇后両陛下が6年ぶりに宮中晩餐会でブラジル大統領を歓迎　愛子さまもシャンパンで乾杯　初めて和食の前菜も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050008-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=412&ch=412&exp=10800&fmt=webp> 浜松女児４人死傷、姉妹とよく遊んだ女児「生きていてほしかった」と涙こぼす
       </a>
     </td>
   </tr>
@@ -395,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533441>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/76b4df0e9f569a673ccc083122812c471103146d48ec351cad61e9b2d38d9dac.jpg> 米 露ウと黒海の安全航行で合意
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/d62c5ac40fee184f594dfad70f509b3c82085425e955d2812bc4cde16f046097.jpg> 米 露ウと黒海の安全航行で合意
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533447>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ccc4b6c7a2ab5ecf10006a6388aa4592e30f166db5d7c20820517124f4377255.jpg> 父「許せない」車突っ込み小2死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533425>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/08ad367b784de9326d4da8527a7ed3a15203732a7c6f4295b1800191b378b924.jpg> サムスン電子CEO急死 衝撃広がる
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533434>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/a9f23bbdaeb196a591552f4a59553bcaaf06b0f2f387e5bcb02f8597abe65e12.jpg> 蝶を大量捕獲疑い 中米で邦人逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6533448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/057c22dc091b097f462f48612d9155621b94a341d074ecdb27b123f2be3c0be3.jpg> お花見にも物価高 屋台の価格高騰
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533442>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ea1ecc72cf5f30f57356a986cdf311f2909815ac735b1badeccf47d89bb6dc52.jpg> Ado 目標は「やはりグラミー賞」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 07:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 07:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
