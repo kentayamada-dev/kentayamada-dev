@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c773939d5f19f83d54a3909898be7e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/04fe27d4e2360448c9ffbddb575ca680.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc9846017e307f6170d10ca691f8de93b09f5ae2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000066-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1187&ch=1187&exp=10800&fmt=webp> センバツ　エナジックスポーツ・神谷監督、〝異例〟のサングラスとマスク姿に「変装しているわけじゃないですよ」
+      <a href=https://news.yahoo.co.jp/articles/1089854215837a90d84b6ae29c38e920bcd313f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-03977843-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=360&ch=360&exp=10800&fmt=webp> “統一教会”への解散命令受け林官房長官「今後も被害者などの支援に最大限取り組む」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6077c72c499568823a0d8a508df3b11b0bf5f9e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90031578-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】「犯人は絶対許せない」小2の妹が死亡・小4の姉が重体の交通事故　祖母が苦しい胸の内「これから人生を頑張っていくはずだったのに…」
+      <a href=https://news.yahoo.co.jp/articles/b668f994d20c4caf23033136c571c1e29f9049a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-06489448-sdt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【女児4人死傷軽トラ事故】一夜明け献花絶えぬ現場にブレーキ痕なし…警察は逮捕した男宅を家宅捜索(浜松市)
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9e34aebefb6a337fe1d39021ecfd0e05848d8613>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000096-jij-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=488&ch=488&exp=10800&fmt=webp> 医師の無罪確定へ　患者わいせつ、上告せず　東京高検
       </a>
     </td>
   </tr>
@@ -394,8 +402,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/8e5d694c0cfa897d00d4aa1977134440689ed5f17e5717d61919029215516377.jpg> 首相「強力な物価高対策」を検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533397>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/ee6e15da5051149010dfc8a4726de2301f926739425acf962f9b003e90a2b431.jpg> 住宅火災で男性死亡 放火の可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533405>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/2246b5cc83920045a00ff958b69df1884f9a543d98bb163ede7493f54b81d0b4.jpg> 手術後わいせつ 医師の無罪確定へ
       </a>
     </td>
   </tr>
@@ -424,27 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533391>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/1423473b0dfc95a8471e2a805059ff1b70db8f9ab04f0a10d260ea0666b0b5bd.jpg> KO負け武尊 2週間前に2カ所骨折
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533390>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/a337b8d3d401610a4cdc943253e9f6edf4e234960664ac76844a3d54e625ae46.jpg> 秋田書店本社 工事現場に「刃牙」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 16:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 17:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
