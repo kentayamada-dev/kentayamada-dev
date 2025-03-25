@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5410b555b00c013f1b7ae4c4533818c5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c88accba948e57b03eac76bbfc29bb96.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c86eacf5212fb5eaf557f609ec71828f04b138df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000028-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=627&ch=627&exp=10800&fmt=webp> 授かった愛娘　日本国籍持てず　同性婚「いつ認められるのか」
+      <a href=https://news.yahoo.co.jp/articles/817891906f503ca4828234c17faf797d6b98768e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-01384614-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 浜松・小学生4人死傷事故　現場にブレーキ痕なく…壁にぶつかり停止か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9904ccf268d66d894229651eb3dd28385a099d5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00483869-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国大統領代行　職務復帰後初の閣議「通商戦争で国益確保を」
+      <a href=https://news.yahoo.co.jp/articles/a93c81c7ed71720e4b93c1c1654556e1dbe87f40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00080048-chosun-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=573&ch=573&exp=10800&fmt=webp> 弾劾訴追の議決定足数、「大統領権限代行は151人」と認めた憲法裁に韓国法曹界から批判の声「巨大野党が政府を無力化できる判決」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/46743f61b62e61343ab512fe27f4b42eda126d7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-01724021-fullcount-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、エ軍本拠地から“イジり”「ゲームキャラになった」　ビジョンに珍説明文
       </a>
     </td>
   </tr>
@@ -374,15 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9725f7aeab5aaa635f98122b6bba40f46b6b437a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050037-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、自動車２５％追加関税「数日中に発表」…相互関税「多くの国に小休止与えるかも」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050037-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、自動車２５％追加関税「数日中に発表」…相互関税「多くの国に小休止与えるかも」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad3a49c6544479bc79895c1d7760d0e2a93f0885>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90031573-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】小2の妹が死亡・小4の姉が重体　小学生4人に高齢ドライバーの車が突っ込む　容疑者宅を家宅捜索　現場にブレーキ痕なく病気の可能性も視野に捜査
+      <a href=https://news.yahoo.co.jp/articles/4a19a29ab8005235ed4522f68c5758c69b018e29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000033-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 朝日通信員ら攻撃受け死亡　イスラエル軍が自宅にミサイル　ガザ
       </a>
     </td>
   </tr>
@@ -395,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/c2bfdce6b34981c1583cf4a86fab8d6eb75edc9b23956a6b073622e7b400f7a6.jpg> 同性婚訴訟 5高裁が「違憲」判決
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/ce9722b25c3dc56d7c22f03b833b2eaf10f0badd75c32c2f9a09643e95eb6be1.jpg> 同性婚訴訟 5高裁が「違憲」判決
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/bf26fd37dde76abea14af14ead21c6161ff5375882ee3e1d2a5ceb2c450eab3d.jpg> 速報選抜 エナジックvs智弁和歌山
+      <a href=https://news.yahoo.co.jp/pickup/6533379>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/e562eb3e232ee909184d8cf811d5ec84be3f75934177c1e4ea9c4b95186f7dd9.jpg> 大谷が練習ボール贈る 少年歓喜
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 11:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 12:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
