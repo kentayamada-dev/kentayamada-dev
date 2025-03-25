@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/01228501225768a68b95db6a24e45f99.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2dadc556b31b00da3b8fa7f10e58dea4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3dd16036f79ac4de6e8c296fe74332804ab5ee75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000048-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 乳腺外科医の無罪判決確定へ　検察が上告せず　手術後のわいせつ事件
+      <a href=https://news.yahoo.co.jp/articles/f12d27b96e9714cdf9a16dc7e49690f1cd262fef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00947917-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】旧統一教会に解散命令…東京地裁「根本的対策講じられていない」優遇措置は“不適切”　教団側は「法治国家としてあり得るのか」即時抗告を検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1ec56052059e55f57b7bf697709bf8d59a41cbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-10170276-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=779&ch=779&exp=10800&fmt=webp> 「看過できない程度の規模の被害が生じている」 旧統一教会に解散命令 東京地裁
+      <a href=https://news.yahoo.co.jp/articles/63fd268133e732a5e4477edecd0f6f1cffef4acf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 浜松4人死傷、車道外れて走行か　右カーブで十数mも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b668f994d20c4caf23033136c571c1e29f9049a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-06489448-sdt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【女児4人死傷軽トラ事故】一夜明け献花絶えぬ現場にブレーキ痕なし…警察は逮捕した男宅を家宅捜索(浜松市)
+      <a href=https://news.yahoo.co.jp/articles/6d3d21c8c6827881c3d9fdc179dbbec6a29b86c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000060-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=488&cy=0&cw=595&ch=595&exp=10800&fmt=webp> 崩壊したガザ停戦、復活目指しエジプトが新案を提示　ロイター報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/74b921e0f1353279b00bc05cb52606856d7d9368>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000045-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=916&ch=916&exp=10800&fmt=webp> テレビ朝日社長、改めて謝罪 「ナスD大冒険TV」社員のコンプラ違反
       </a>
     </td>
   </tr>
@@ -384,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533410>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/802ed98ea2cac3104576d3e42ec9d2dac7df5d1f326a23d493ec480337375ec2.jpg> 宮崎市山火事 一部地区に避難指示
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533400>
@@ -402,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533397>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/ee6e15da5051149010dfc8a4726de2301f926739425acf962f9b003e90a2b431.jpg> 住宅火災で男性死亡 放火の可能性
+      <a href=https://news.yahoo.co.jp/pickup/6533389>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/f6666dd98c3fad779da4cec0fa5f6de390e8b79a905d1cb0481349303751897b.jpg> ポスター品位法案 特別委で可決
       </a>
     </td>
   </tr>
@@ -418,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/6c9ac952ed5c2be0a5d2893b2b29949b99eaac79a993922778d88be337efb708.jpg> ロート製薬 ステマ違反で措置命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533407>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/f71e0dc98e5cb48ac4765977412d8c103fd3bf64eab72910a499aa37118b1a1c.jpg> 札幌Dの社長退任へ 昨年度大赤字
       </a>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533401>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02146035/title-1742831717404.jpeg?exp=10800> ベビーカー「借りパク」法的責任
+      <a href=https://news.yahoo.co.jp/pickup/6533406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/85bfddfd4ad5e6e71dd03aba0da5231a9a7a56e680e161bbb4f83bc76948123b.jpg> バレー元代表・中垣内氏 今は農家
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533392>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/6fdf78231b586863bb27a0a4fab440b015532eb8a23952bc9d9b6f871309a4bf.jpg> 物議のストリートピアノ運営 謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6533414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/5c3058dc13f0e425231c3e5a2d1a926f4908e1cf8679a5cc6f075b45a5d7cfc8.jpg> テレ朝社長 社員巡る騒動を謝罪
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 17:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 18:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
