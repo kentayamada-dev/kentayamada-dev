@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/er5qb1KP4os?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/36d85fc10f853e98535dd2ab74e89570.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9b8e1c68c22f8300b436c514246a7fe6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03d9b2a6cea51e9c04ec6753fd41bcd6f69e572d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000010-kumanichi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=694&cy=0&cw=1306&ch=1306&exp=10800&fmt=webp> 【速報】熊本市電同士が追突、7人搬送
+      <a href=https://news.yahoo.co.jp/articles/9725f7aeab5aaa635f98122b6bba40f46b6b437a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00050037-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ大統領、自動車２５％追加関税「数日中に発表」…相互関税「多くの国に小休止与えるかも」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ad3a49c6544479bc79895c1d7760d0e2a93f0885>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90031573-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】小2の妹が死亡・小4の姉が重体　小学生4人に高齢ドライバーの車が突っ込む　容疑者宅を家宅捜索　現場にブレーキ痕なく病気の可能性も視野に捜査
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db30205972e142608cacf031568ee03e3e59af90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000064-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1412&ch=1412&exp=10800&fmt=webp> 目立ったブレーキ痕なし、浜松　小2女児死亡、姉は重体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b0a5766deabc1d481c47f917af43c13135ffadf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00010002-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 第2段階に進める可能性は「初めからなかった」？　ガザの停戦が6週間で終わった理由
+      <a href=https://news.yahoo.co.jp/articles/059934090aefba914b32fb1d5c6b83d0a5da542a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90028114-tssv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 小学生の女子児童（９）ひき逃げか　女（７５）を逮捕　広島・海田町
       </a>
     </td>
   </tr>
@@ -410,8 +410,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/c427be819bc94683ddd2071d5c9697e53640c50e9a6dd143c6e33c0e80216636.jpg> 愛媛と岡山の山火事 消火活動続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533365>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/469b0520b0f604717caaa005b94745e8254f3360dfc8b5bf16c2e8d7769d173f.jpg> 損保大手4社に業務改善命令
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/d867a1a5c2c8e7f3df85a1b092d07116489620c5922bbbd1cee28e6158b1b644.jpg> 小学生4人死傷 ブレーキ痕なし
       </a>
     </td>
   </tr>
@@ -426,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/924471605abdc7eb307bc9360bc97a76924d78088af67cf8fa3da3d27ff48b72.jpg> 刺し傷のある男女発見 女性は死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533367>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/b2896d7ba69ad6da32304236b51ff758a8eb41260607b1ee98f19f248a782843.jpg> リクルート スキマバイト参入中止
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533363>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/46a1df14de2d1c5df1d1ad6e0b8bac5aa4998068073137a39ae65971f87b2bdb.jpg> 水原一平被告の出頭期限 延期
+      <a href=https://news.yahoo.co.jp/pickup/6533369>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/8d8d2321f1ee9165aa7e09e43b9b874427479f01ba2698bda3f717be0bc719c7.jpg> 体重11キロ減のド軍ベッツ 復帰へ
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533359>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/59f569b004d2adb428b9c8883193c7d74f212b4d96bf0640f647f2997e8704b1.jpg> フジ岸本理沙アナ 6月30日退社へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 10:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 11:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
