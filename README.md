@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/02ce62f816157468d68bbdeb00c0bfbb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b0e944cb00aec79fadfbf2cf4ad8d85f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f273ee20cbe475989f9e99f7ba7b1aca7ad6d785>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-21811478-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 旧統一教会に解散命令　鹿児島県内の教団関係者は反発
+      <a href=https://news.yahoo.co.jp/articles/6467eb5f0a97e20e37c99e5cb9a05a7bd3bdff06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-04648682-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=431&ch=431&exp=10800&fmt=webp> クレイジーケンバンド　元メンバーの廣石惠一さんが脳出血のため死去　64歳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc348a10dd8ea394a3c05267ddc094941e0075a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90031583-sut-000-2-thumb.jpg?exp=10800&fmt=webp> 【中継】小学生1人死亡・1人重体の事故　容疑者「事故当時の記憶がない」警察は家宅捜索で“お薬手帳”を押収
+      <a href=https://news.yahoo.co.jp/articles/d457113e830cfc03f07d376f21723b8f0fa362af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-90021272-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 小学生“姉妹”死傷　事故後に78歳男と「話した」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c145c6b87a10cf5a8234c326bebce4086083ea3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-07226634-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】旧統一教会が即時抗告へ　東京地裁の解散命令を不服として　記者会見で明らかに
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a85b186b8310a03f8a718c72cd5b46747b8967e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250325-00000100-zdn_m-000-1-view.jpg?pri=l&w=180&h=180&order=c2r&cx=30&cy=0&cw=180&ch=180&exp=10800&fmt=webp> 「マイナ免許証」運用開始！　早速発行してもらった（オンライン講習目当てなら注意点あり）
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533398>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/c855b956d662b170bc1e5a22978d2f6afe26d8b1dcc04fe6887fc9235a39601e.jpg> 解散命令は3例目 先例どうだった
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533410>
@@ -410,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/87ee5578045b1ba5e12e114b83da8298a8e2858ee1db3fc47f58d06f3c342003.jpg> 旧統一教会 解散命令受けコメント
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533416>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/cf6e451141afc177efddae2b7ad0a2248ad672c14ca6d4b0d611181afb6a7647.jpg> 首切断事件 判決不服で父親が控訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533405>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/2246b5cc83920045a00ff958b69df1884f9a543d98bb163ede7493f54b81d0b4.jpg> 手術後わいせつ 医師の無罪確定へ
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/85bfddfd4ad5e6e71dd03aba0da5231a9a7a56e680e161bbb4f83bc76948123b.jpg> バレー元代表・中垣内氏 今は農家
+      <a href=https://news.yahoo.co.jp/pickup/6533413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/c8823c0decfbc43525d1f9784f6d7b9cdff4b5e3ea7b40f582135cd2a819bbb6.jpg> 速報 森保ジャパンvs.サウジ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/25/f6c1488f60b2f9d14e9617de6f7a3a76e9940b5ddc0c08a75c48584a3a169a47.jpg> 元CRAZY KEN BAND 廣石氏死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/25 19:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/25 20:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
