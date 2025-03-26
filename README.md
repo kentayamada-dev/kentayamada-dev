@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be280f757bcc412ed3d620ed4d329271.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0e20df6c504dfdffd9f935cc0e9e5851.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7cafcc8ec2c78fea94e6cc4e31d6cad023dfa4ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000015-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=974&ch=974&exp=10800&fmt=webp> ベッツが復帰で、大谷、フリーマンと「MVPトリオ」揃う…エンゼルスとのOP戦最終戦
+      <a href=https://news.yahoo.co.jp/articles/661fa5aa560d72e781afaef2bbfab43391f3dfcf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010015-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「次のワールドカップだが…」サウジアラビア代表指揮官は日本代表をどう評価した？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae2d738b3c88f3d1324743038c18557e3ff512c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-33260268-nksports-000-3-view.jpg?pri=l&w=144&h=192&exp=10800&fmt=webp> 金子恵美氏「新しい時代の晩さん会」　ルラ大統領夫妻を歓迎の「平服」宮中晩さん会に注目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/35b374550b1faed0ac35331ffd7a88447a57f215>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-03261029-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=862&ch=862&exp=10800&fmt=webp> 大谷翔平、米開幕前ラストＯＰ戦で第１打席は左飛　最終調整は２、３打席を予定　再渡米後初安打なるか
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5308a1dd58416376afa27b51e8312ee7ecd4df3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948249-fnnprimev-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 天皇皇后両陛下がブラジル大統領を歓迎する宮中晩餐会を6年ぶりに開催　愛子さまもポルトガル語交え歓談　和食好きの大統領夫妻のため初めて和食の前菜も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/447af8e2b9a0a1f1d323906fe64f5509f20e7600>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-03261022-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「あくまで通過点に過ぎずまだまだ問題は山積」…旧統一教会「解散命令」に「モーニングショー」で取材を続けているジャーナリストが明言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b31c2602f65023168696be8628d7d0000865faa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010003-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=396&ch=396&exp=10800&fmt=webp> ボール保持率78%、12本ものシュートを放つがノーゴール……　日本代表、次の課題は引かれた相手への“プランB”か
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533447>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ccc4b6c7a2ab5ecf10006a6388aa4592e30f166db5d7c20820517124f4377255.jpg> 父「許せない」車突っ込み小2死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/c5ac080194e42442bcb7d4ae6a3727412978c692f8dc756e57173675909b5f3a.jpg> 旧統一に解散命令 他団体から賛否
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/af4ae3ee5a240bf5c7eb40e9afdd120c4cedf554b8a65cdf2d1afc657ca2538e.jpg> 体調不良で体重減 ベッツが復帰
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533456>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/bed97faeee73b83047aea49b3ff0af6950d4f771bc18910d69afb61436f42598.jpg> 大谷翔平ら トランプ氏と対面へ
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533450>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/915c685237f89afbe8793f96fed7ca8edb65237d1778c9c92a7309efb1d53f03.jpg> ドラマやまとなでしこ 再注目の訳
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 10:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 10:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
