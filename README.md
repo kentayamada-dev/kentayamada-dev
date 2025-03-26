@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd6d2ada41fad55bba074ee5263d3b48.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/12eb6bebc64014113fb6f05de2e49521.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a11340d641516ea33be258cecdfa3aea510f7b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010012-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=452&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 奥谷委員長「知事が謝罪したのは評価したい」一方、「一部違法とされた点認めなかったのは残念」斎藤知事がパワハラ認定で謝罪‥元県民局長への対応は「適切」と繰り返す」
+      <a href=https://news.yahoo.co.jp/articles/80a1a6125046f0c8d9ade94819b64476beb200b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-11627025-khbv-000-1-thumb.jpg?exp=10800&fmt=webp> 宮城・女川町などで観測史上最大の強風　各地で被害　交通機関も乱れる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61c468ef3a902ce5a3c2107f4d4876718ddd60ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-21813788-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 東北新幹線　運転再開は18時ごろ　山形新幹線・秋田新幹線は折り返し運転が続く
+      <a href=https://news.yahoo.co.jp/articles/2fff47272989de0ed19491afd573412316a0777f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000114-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 斎藤知事の告発者対応「反省し改善すべき」　維新・吉村代表　保護ルールの厳格化求める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c470ae4c03d34530421c017acb8d600354fa520>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010009-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【旧統一教会】元信者が語る「お金集めが宗教法人としての目的を逸脱している」解散命令が出ても教団は"解散"しない！？【解説】
+      <a href=https://news.yahoo.co.jp/articles/f2ea68518c4d94eb3128d8eeb23ccbfc7b08b548>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000003-tvh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 旧統一協会解散命令に道内の反応は
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/c27123a0fc01e3a313a76b8f177e2a5525a68a8d66c636dbbe962038d83c8d83.jpg> 東北新幹線 運転再開は18時ごろ
+      <a href=https://news.yahoo.co.jp/pickup/6533500>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/fe36c7be7228e621099be02b3eb04c263d5af5712b1dbb5f3a5a2acfae5da7bb.jpg> 個人献金 阿部文科相もずさん記載
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533496>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/c122e9fb174427688119855e58a4a9017139ee184e87a6bb59b7e7e78e430fd4.jpg> 不正取引の元裁判官に有罪判決
+      <a href=https://news.yahoo.co.jp/pickup/6533498>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/135082f234e313120d2906f0ff9b8a3a78be01059516dbd890a030f675c4557f.jpg> カナダ テスラ車を補助金対象外に
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533502>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/fbc563caf9ba819b3f9da358a9532d6c6d7521d14018d781caad412241a3fbfd.jpg> 俳優復帰の成宮寛貴 水谷豊に手紙
+      <a href=https://news.yahoo.co.jp/pickup/6533505>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/042d6445876f8b84bdb08dd7d6b25e218f8c3bcba249b854fe9f9299a84c4cb3.jpg> 智弁和 スタンドに1人だけの部員
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533494>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/44b6eca178280a7dd9e20a667f0dd0d5e7ff07cbf2e03c9831bec3cb6e476ee7.jpg> 新幹線運休 B'z稲葉らの公演延期
+      <a href=https://news.yahoo.co.jp/pickup/6533502>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/fbc563caf9ba819b3f9da358a9532d6c6d7521d14018d781caad412241a3fbfd.jpg> 俳優復帰の成宮寛貴 水谷豊に手紙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 17:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 18:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
