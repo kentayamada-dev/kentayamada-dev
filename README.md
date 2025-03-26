@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/196f8eadd7b44d9d97661544a9df055a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/879f892ec5fd35376554a1eefd504db6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c821df8906197c2c71b6b1cdb51a2dc2755390ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000190-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 古舘伊知郎　斎藤知事の第三者委パワハラ認定受け見解「ここまではっきり出てくるとは」「けじめを」
+      <a href=https://news.yahoo.co.jp/articles/c0af1073e4630460450e42c78320365e7a5474f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000063-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=771&ch=771&exp=10800&fmt=webp> 大谷翔平、トランプ米大統領と初対面へ、発言に注目… 安倍晋三元首相との会談ではルックス絶賛、ドジャース４月に表敬訪問
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4feab13d7676de8e8befb1e68d137d556544319f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010002-suntvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 斎藤知事 パワハラ認定した第三者委の報告書受け「反省し改め、県政を前に進める」／兵庫県
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/477c528704ebc3b1e7cc2d870341261cdd94e76e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948408-fnnprimev-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 宮中晩さん会初参加の愛子さま　装いに秘められた“心配り”「プリンセスの温かさ」歌手・マルシア明かす“聞き上手っぷり”
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533479>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/7048a1ea872df911ee87cc7596c6ef1f53376cc4f2d5db54f0df9e00491e3aab.jpg> ガザで負傷の2人 日本が受け入れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533489>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/cf1500b5343b51a0adfc422843268690e66cd02370785a630e6e9f1c1c4e3aa5.jpg> 黒海の安全航行 露は実施に条件
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533477>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/22bc0f13da5ea4bdf9fbc093f7267691b249fd16f466e0431faab48b7a2f308a.jpg> 旧統一教会 コメントのおわび削除
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533474>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/687bdd41a68c433104f21d4233fe999613d44ae830b669f38b29bdc08539d472.jpg> 児童死傷 過去にも事故と容疑者
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 15:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 15:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
