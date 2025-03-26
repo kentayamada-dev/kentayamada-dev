@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9faa1f9510c021096d9c94ef57a27a7f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7179a956662f93ad669b9f48c9761ffd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c88fe7511a316a1801aff85f15db4605349d5b7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東北新幹線、運転を全面再開　山形・秋田新幹線の一部区間も
+      <a href=https://news.yahoo.co.jp/articles/02f7bbd7e1b48f4ae7140e3aa84b2c77a9e32ea9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-02154284-tvi-000-1-thumb.jpg?exp=10800&fmt=webp> 【東北新幹線運転再開】強風の影響で7時間半以上運転見合わせ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9c9d1aee560ed4ac81bdc8a4b1226e0f092b831>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-07226818-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 告発者さがしは「適切」と正当化 斎藤知事がパワハラ「認定」については謝罪　兵庫県議会は26日に閉会
+      <a href=https://news.yahoo.co.jp/articles/1623d5869f1ea41705721fe127d7ac83005ceabd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90012446-ftb-000-1-thumb.jpg?exp=10800&fmt=webp> 「宗教の名を借りた金儲けでは」「仕方ない」旧統一教会解散命令への声　福井市の教団関係者「教団の方向性はまだ決まっていない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2ea68518c4d94eb3128d8eeb23ccbfc7b08b548>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000003-tvh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 旧統一協会解散命令に道内の反応は
+      <a href=https://news.yahoo.co.jp/articles/2f61a770961d30e864e40384954d9654e62a2baf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 斎藤知事、続投の姿勢強調　告発者対応「適切」の持論変えず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/099ec2e0ba483aba70f66f8b7f840be869a18c15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90021355-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> Juice＝Juiceの入江里咲とモーニング娘。'25の井上春華が体調不良、29日、30日の公演を欠席
+      <a href=https://news.yahoo.co.jp/articles/8777182631b9e6bc35001a1ba07badcb12768cba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90022635-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=530&ch=530&exp=10800&fmt=webp> また教員が不祥事…職場の忘年会、慰労会後に飲酒して車を運転、事故を起こす　中学校教諭（29）と高校教諭’（64）を懲戒免職
       </a>
     </td>
   </tr>
@@ -403,15 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/c7650bf00a3392ff9495254ead3c4307f39a599c95852854220232a6563a7339.jpg> 東北新幹線 全線で運転再開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533500>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/fe36c7be7228e621099be02b3eb04c263d5af5712b1dbb5f3a5a2acfae5da7bb.jpg> 個人献金 阿部文科相もずさん記載
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/0f313fcbc624837108da803f73674f13ed8a2188c8a321f3060b57105e1a36b6.jpg> 東北新幹線 全線で運転再開
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ee03ea7b962c8b1a49876878a9f32d690aea7df1671ae0130cd2204302f3bf1a.jpg> 施設で転落し骨折 難病の14歳死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533507>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/22b03c36d8779ac0022ff2364620b573d7c05b7c5266941e059d7e2c472fa2df.jpg> 火事でもない 愛知岐阜「煙たい」
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/9c6329a6ecd3334c835244e36912ff7a03bdf9bbf58212d68a146092b666d992.jpg> 斉藤慎二・元メンバーを在宅起訴
+      <a href=https://news.yahoo.co.jp/pickup/6533516>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6786704f66a4aeb81949e826a7f14ab43d9128b2be0fadf23bd9a3375c9e0062.jpg> 京都の「よーじや」新ロゴを発表
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533505>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/042d6445876f8b84bdb08dd7d6b25e218f8c3bcba249b854fe9f9299a84c4cb3.jpg> 智弁和 スタンドに1人だけの部員
+      <a href=https://news.yahoo.co.jp/pickup/6533513>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/26d499c085c0fdd481defaa00b1b5924d0245c84746a810027b97bb238a1ac4e.jpg> ハロプロアイドル 体調不良相次ぐ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 18:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 19:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
