@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
+      <a href=>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/12520341f0385da71841ffc26706dd6e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/196f8eadd7b44d9d97661544a9df055a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42b6065ae83f84a920660605f8a5bbb17c7bff62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010005-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】斎藤知事　元県民局長への対応は「適切だった」繰り返し懲戒処分は撤回せず　文書は「誹謗中傷性の高い文書」
+      <a href=https://news.yahoo.co.jp/articles/c821df8906197c2c71b6b1cdb51a2dc2755390ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000190-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=851&ch=851&exp=10800&fmt=webp> 古舘伊知郎　斎藤知事の第三者委パワハラ認定受け見解「ここまではっきり出てくるとは」「けじめを」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb12272094e444be784af139ce119a561e75f090>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00338774-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 完全復活ベッツに新たな難題　トランプ大統領からの招待を保留「家族と話し合う」
+      <a href=https://news.yahoo.co.jp/articles/5791146d4318591686ffaa6f7a1163ba3da888f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-10170436-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=641&ch=641&exp=10800&fmt=webp> 中谷防衛大臣、ガザで負傷のパレスチナ人女性2人受け入れを発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/803b5b129445334c19439bf979f5a8d2a3b8ad8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-05961768-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 関東～九州で記録的な暑さ　宮崎で30℃以上の真夏日　広範囲で黄砂も
+      <a href=https://news.yahoo.co.jp/articles/6bda0cbb99703b440c41cd7578df1ac11e167382>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-21811731-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=798&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 旧統一教会に解散命令　教団に名前決められた“祝福2世”や「両親が現役信者」もるすこさんの受け止めは―　教団の今後は?被害者への弁済は?【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5bdcebd7f839397220ae74603d9c9fc69115d2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 政府、傷病のパレスチナ人2人受け入れ発表　滞在費用は日本政府が負担　防衛相「十分な医療提供できるよう最善尽くす」
+      <a href=https://news.yahoo.co.jp/articles/0e6917e66b33bd773c16848af9c95004cb755c04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-16016596-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=575&ch=575&exp=10800&fmt=webp> 【解説】 停戦までの長くゆっくりとした道のり、成功の保証はなく……ウクライナとロシア
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e471b391a086b52219950e7155e391a476a25d33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-33260605-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=13&cw=1057&ch=1057&exp=10800&fmt=webp> 浜田敬子氏「自民は説明責任果たしてない」　旧統一教会への解散命令「政治は無視を続けてきた」
+      <a href=https://news.yahoo.co.jp/articles/477c528704ebc3b1e7cc2d870341261cdd94e76e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948408-fnnprimev-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 宮中晩さん会初参加の愛子さま　装いに秘められた“心配り”「プリンセスの温かさ」歌手・マルシア明かす“聞き上手っぷり”
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533484>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/cb3fed50cd0c65028fa08b353234ddccdb3191b7575cf7f58f40228a5042f41e.jpg> 今年初の30℃超 3月では26年ぶり
+      <a href=https://news.yahoo.co.jp/pickup/6533479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/7048a1ea872df911ee87cc7596c6ef1f53376cc4f2d5db54f0df9e00491e3aab.jpg> ガザで負傷の2人 日本が受け入れ
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533469>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東北新幹線 東京-盛岡で見合わせ
+      <a href=https://news.yahoo.co.jp/pickup/6533484>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/cb3fed50cd0c65028fa08b353234ddccdb3191b7575cf7f58f40228a5042f41e.jpg> 今年初の30℃超 3月では26年ぶり
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 14:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 15:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
