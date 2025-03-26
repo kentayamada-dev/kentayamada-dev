@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dfe6c60818d4331d7cb186da54438439.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ad5c221ce24b71ad988c7fed292d1344.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6c74ca2a32584c5cb0d23b3feffbbac98bec2e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000299-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　斎藤知事会見受け危機感「誰も斎藤さんたちの疑惑通報をしなくなる」「非民主国家」
+      <a href=https://news.yahoo.co.jp/articles/3133f592f92629da0e4ea8ab0417fd30fce5f076>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050190-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=442&ch=442&exp=10800&fmt=webp> 兵庫県の斎藤知事、県の対応「適切だった」と見解変えず…第三者委認定のパワハラは初めて認め謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fc283f3226782c29a3de38cbc50bc81f1309b83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000107-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=848&ch=848&exp=10800&fmt=webp> 浦和実の変則左腕・石戸颯汰、タイブレークも抑えて18イニング無失点「名前のある学校を倒してうれしい」【センバツ】
+      <a href=https://news.yahoo.co.jp/articles/cf2d607160f8ae07274da80943eb9f0041524613>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000130-nataliee-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 【イベントレポート】「ミッキー17」ポン・ジュノの言葉に町田啓太が感激「ラーメンを食べるたびに思い出す」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e38bfa1a501f720362bb5a681329ab9afe7c1d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00338814-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=991&ch=991&exp=10800&fmt=webp> とにかく明るい安村　韓国語バージョンの〝履いてますよ〟披露　ハリウッド進出オファーに「テンキューテンキュー」
+      <a href=https://news.yahoo.co.jp/articles/5136328115b5d119b11e85a2e32cff7120bac754>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000022-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=87&cw=729&ch=729&exp=10800&fmt=webp> 聖光学院監督　浦和実・石戸から「1点取りたかった…」　センバツ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54b31357753451a179f39c0e74c6220624b5b85d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90014590-akt-000-1-thumb.jpg?exp=10800&fmt=webp> 秋田新幹線こまちも運休や折り返し運転強いられる　強風による東北新幹線足止めの影響
+      <a href=https://news.yahoo.co.jp/articles/5f8b23933bd9b473d4169b0fd007bccc8bceea88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90008338-aab-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 東北新幹線が強風で運転を見合わせた影響で秋田新幹線にも影響が
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/1db1e120efd253bf86e747630cd291ad5021d752520cfe9f2c4b1969b4004e15.jpg> 15年半に及ぶ無免許運転 教師免職
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533522>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e9afe147aee35b343606d025d18cb0049d72977b138ea0576e83df2d50a69da6.jpg> 中2ら線路から7歳救助 直後に特急
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b53bdc2769ba9152b0d0bb600265f03f897d330ebd3273fd2584e96f1a881899.jpg> 星野源のエッセー 国語の教科書に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 20:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 21:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
