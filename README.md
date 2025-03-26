@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/er5qb1KP4os?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1fce8cc61e8dcd98caa52ea98790e581.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ceec9eca88549dbab92695cb04945623.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99fcb05a17749b4f01d20a6b9ed13efd0281e81c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000009-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 日本高校教科書検定発表…「竹島は日本固有の領地」またたごり押し
+      <a href=https://news.yahoo.co.jp/articles/442da8b2f6108f62ebb546a7ac5dfe0d6a113361>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000011-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 愛媛・今治の火災、建物被害拡大か　岡山・宮崎でも山林火災延焼続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4f1826e9942d74052866ef3d63668999c0084751>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-01725326-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=600&ch=600&exp=10800&fmt=webp> トランプ大統領とド軍の“因縁”「大失敗だ！」　采配猛批判も…ロバーツ監督「私は行く」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b31c2602f65023168696be8628d7d0000865faa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010003-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=396&ch=396&exp=10800&fmt=webp> ボール保持率78%、12本ものシュートを放つがノーゴール……　日本代表、次の課題は引かれた相手への“プランB”か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/716a307e8e9290e2e1dd88161ed9d7b8a61b6ff1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000003-at_s-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=682&ch=682&exp=10800&fmt=webp> 浜松・児童4人死傷事故　軽トラック、減速せずに衝突か　自転車列の後方から
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533452>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/0bbe7729e59de6054c6f0e1c1dde86f2fbbf616ebe9ac99201801467344718e8.jpg> 速報センバツ 花巻東vs.健大高崎
+      <a href=https://news.yahoo.co.jp/pickup/6533456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/bed97faeee73b83047aea49b3ff0af6950d4f771bc18910d69afb61436f42598.jpg> 大谷翔平ら トランプ氏と対面へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 08:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 09:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
