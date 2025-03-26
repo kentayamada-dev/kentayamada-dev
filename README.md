@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4382d59fbb27cfb296a517a7d9660302.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c28d3f9f6ebc1336269593ab1624b926.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,22 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3746b7f74feae8158efdd22ac3f664f5db3984aa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=1542&ch=1542&exp=10800&fmt=webp> ＥＵ制裁解除、ロシア軍のウクライナ「完全撤退」必要＝報道官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/362b7af5568a04ac314afcf3960c621328193b69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-08496189-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 兵庫・斎藤知事、パワハラ認め謝罪　告発者捜しについては「適切」との主張繰り返す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9a0c8634f57f8033ac1c10bac3e8104b096dcbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050223-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=254&ch=254&exp=10800&fmt=webp> 甲子園の「異様な雰囲気」を打ち破った浦和実のエース石戸颯汰、ピンチでも「平常心でいった」
       </a>
     </td>
   </tr>
@@ -452,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 02:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 03:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
