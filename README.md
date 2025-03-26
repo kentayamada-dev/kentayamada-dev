@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b740d8236fbafb9a2bf29baa89cc604.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/00900e9120fd2942050e50f15e45f8ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16875bea7cac9dbcc6939b631a86795de9d4eac6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000163-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 斎藤知事「不快な思いをさせた」とパワハラの見解改め謝罪も、自身の処分は明言せず
+      <a href=https://news.yahoo.co.jp/articles/65d3fa9e76f6f1776664ade10518e76804d33a02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> センバツ高校野球　浦和実業ベスト4進出／埼玉県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a60e19f6c36251aee45af0c520a65627929bee0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000024-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=492&ch=492&exp=10800&fmt=webp> 「甲子園の魔物」にも動じない　浦和実が延長で一挙8得点　センバツ
+      <a href=https://news.yahoo.co.jp/articles/16875bea7cac9dbcc6939b631a86795de9d4eac6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000163-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 斎藤知事「不快な思いをさせた」とパワハラの見解改め謝罪も、自身の処分は明言せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5a8e661c57d71eea17939e865c14e52f0c37f65b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000095-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ロシア、交渉の主導権を握り漂う自信　突きつける要求、米が譲歩姿勢
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/27fd20d71eddd6d4d53b94fb55faf6425df803c6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-07597692-rab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 7時間半に及んだ東北新幹線の運転見合わせ　計97本運休で7万6,500人の足に影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54b31357753451a179f39c0e74c6220624b5b85d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90014590-akt-000-1-thumb.jpg?exp=10800&fmt=webp> 秋田新幹線こまちも運休や折り返し運転強いられる　強風による東北新幹線足止めの影響
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533506>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6aeb5c495ef9bdc2dae5bf228e563bf5c57bfe1ea0aa8341f743f8804e324063.jpg> 政府放出の備蓄米 早くも店頭に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533520>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b0bb24c12bb98fc16935b9b7e41d4640b671e1b458d90dfdca73060750843578.jpg> 日産 ホンダとの再協議を排除せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533528>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b48c3a8972edb4205cdd13761e1c529c0c734d3606a1f9a0eda885706bd335ab.jpg> 兵庫県職員 知事に対し怒りあらわ
       </a>
     </td>
   </tr>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533534>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/28c9abbe572048c076d0af15a2125ebd6154a50b3e5b05d5fa4909b4d53f0073.jpg> 池に油圧ショベル転落 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533528>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b48c3a8972edb4205cdd13761e1c529c0c734d3606a1f9a0eda885706bd335ab.jpg> 兵庫県職員 知事に対し怒りあらわ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533544>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/f5ad5d0476b474f742427432b96d8c0c23e243b4bc2c8af039ea39f4b8fc4af9.jpg> 検査結果放置され人工肛門に 謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533509>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/205203e6e91abdff4a4f0f8de21853540c5ebddc610d3721b858ed923fdbf88e.jpg> 文芸春秋に賠償命令 公明党が勝訴
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 22:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 22:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
