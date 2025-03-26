@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2d3440af3a72819fab0ef468980056ac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6b740d8236fbafb9a2bf29baa89cc604.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a60e19f6c36251aee45af0c520a65627929bee0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000024-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=492&ch=492&exp=10800&fmt=webp> 「甲子園の魔物」にも動じない　浦和実が延長で一挙8得点　センバツ
+      <a href=https://news.yahoo.co.jp/articles/16875bea7cac9dbcc6939b631a86795de9d4eac6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000163-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 斎藤知事「不快な思いをさせた」とパワハラの見解改め謝罪も、自身の処分は明言せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d0d6225a86c0e85c59cf40926b7d7e24e9d55ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000022-kobenext-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=1101&ch=1101&exp=10800&fmt=webp> 斎藤知事が改めて違法性否定　告発文書問題に「誹謗中傷性高いという認識変わらない」
+      <a href=https://news.yahoo.co.jp/articles/3a60e19f6c36251aee45af0c520a65627929bee0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000024-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=492&ch=492&exp=10800&fmt=webp> 「甲子園の魔物」にも動じない　浦和実が延長で一挙8得点　センバツ
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22ac74997df105c8503ec72757578a72197b8943>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050192-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 愛媛と岡山の山林火災は４日目も延焼続く、今治市では消防団員１人けが…宮崎市は鎮圧状態に
+      <a href=https://news.yahoo.co.jp/articles/54b31357753451a179f39c0e74c6220624b5b85d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90014590-akt-000-1-thumb.jpg?exp=10800&fmt=webp> 秋田新幹線こまちも運休や折り返し運転強いられる　強風による東北新幹線足止めの影響
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/0ea7881b658b24f1e6715ca58a77f58ba34b3063be5ccba72a1cfa4ae41be630.jpg> 愛媛の山火事 住宅地に飛び火
+      <a href=https://news.yahoo.co.jp/pickup/6533541>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/297184bfad10e14fd5340085f2ff2ecae9ae6cba70628d279677d0369b3ef872.jpg> 物価高対策を打ち出し 与野党批判
       </a>
     </td>
   </tr>
@@ -418,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b0bb24c12bb98fc16935b9b7e41d4640b671e1b458d90dfdca73060750843578.jpg> 日産 ホンダとの再協議を排除せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533528>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b48c3a8972edb4205cdd13761e1c529c0c734d3606a1f9a0eda885706bd335ab.jpg> 兵庫県職員 知事に対し怒りあらわ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/0ea7881b658b24f1e6715ca58a77f58ba34b3063be5ccba72a1cfa4ae41be630.jpg> 愛媛の山火事 住宅地に飛び火
       </a>
     </td>
   </tr>
@@ -434,32 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533517>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ee03ea7b962c8b1a49876878a9f32d690aea7df1671ae0130cd2204302f3bf1a.jpg> 施設で転落し骨折 難病の14歳死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b2a09108189ce2371f0f1567f0aff8e7ba588ea96b5a8e51cf09c943e043771f.jpg> 水族館を移動 ゴマフアザラシ死ぬ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/1db1e120efd253bf86e747630cd291ad5021d752520cfe9f2c4b1969b4004e15.jpg> 15年半に及ぶ無免許運転 教師免職
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/9c6329a6ecd3334c835244e36912ff7a03bdf9bbf58212d68a146092b666d992.jpg> 斉藤慎二・元メンバーを在宅起訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533524>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/7e7c85c8e86930e44836c9e7c0fa78da3b95d30961235c0cab936a6be905d162.jpg> 浦和実 延長タイブレークで新記録
+      <a href=https://news.yahoo.co.jp/pickup/6533538>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6258187b343856754fcf1b66700d913ba6de4c3fd437c2d42670a90e168a29d9.jpg> 斉藤元メンバー 被害者とは初対面
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 21:31:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 22:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
