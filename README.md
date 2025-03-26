@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4577eada674d1a96952af9fb47ee8f56.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/79f1b0bcfc6ca50229c8a6b700952959.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab9701b8764d6de687fef703d65e4a5fe8ef1c3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948842-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> アーベル賞に京大・柏原正樹氏　日本人初「数学のノーベル賞」
+      <a href=https://news.yahoo.co.jp/articles/890f4c5307dcbdfab57ee7d50b01861825d9be29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948854-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカに輸入する全ての自動車に25％の関税へ　トランプ大統領発表　発動は4月2日
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f7bb93b9c0a96a1c53223bde19589542f2deaa5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-03261250-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=626&ch=626&exp=10800&fmt=webp> ミラクル止まらない浦和実、タイブレーク１イニング一挙８点は最多、２３年夏の土浦日大６点を上回る
+      <a href=https://news.yahoo.co.jp/articles/e5939277d10627315b7ef8f2d4d64993793ac662>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-01364455-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【高校野球】“大会最速155キロ”vs“3者連続三球三振”がベスト4で激突へ 快進撃の初出場・浦和実は名門・智辯和歌山と対戦＜センバツ9日目＞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ab9701b8764d6de687fef703d65e4a5fe8ef1c3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948842-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> アーベル賞に京大・柏原正樹氏　日本人初「数学のノーベル賞」
       </a>
     </td>
   </tr>
@@ -379,7 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/12a9ea5e375d51c826eb39930494fba43717b7b9a782e7e6ca9e9650442436dd.jpg> 米大統領 全ての輸入車に25%関税
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/6aa209189dbb32bef9c88467158e771e37684c4bf75369d3b9334c4ad33e8ee4.jpg> 米大統領 全ての輸入車に25%関税
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533541>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/297184bfad10e14fd5340085f2ff2ecae9ae6cba70628d279677d0369b3ef872.jpg> 物価高対策を打ち出し 与野党批判
+      <a href=https://news.yahoo.co.jp/pickup/6533554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/545152f551bacf5b7744361a6b2a96ccf3a4ca53d4ab14645753ea74bed18992.jpg> 山上被告 宗教学者と複数回面会
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/f5ad5d0476b474f742427432b96d8c0c23e243b4bc2c8af039ea39f4b8fc4af9.jpg> 検査結果放置され人工肛門に 謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6533555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/93367df402de926d0a6e110b42134fbc61098bee7135c1134a2d9cd8814a5c4b.jpg> きょうフジ取締役会 人事案決定へ
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 07:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 07:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
