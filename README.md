@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2dfc422bc435005c6518c3d40add2026.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4f878b6aad4846a56ea2219074089893.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30afc6f9afe7adb005e689ac223e34f1116bba1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010011-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ベッツは「家族と話し合うつもりだ」トランプ米大統領との面会は“拒否”も　19年レッドソックス時代は「行かないと決めたんだ」
+      <a href=https://news.yahoo.co.jp/articles/7b9c6f909c34bf7575c0762bba89e06c00d628d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-10170466-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=383&cy=0&cw=999&ch=999&exp=10800&fmt=webp> 斎藤知事がグロッキー？ 記者が“矛盾”を徹底追及「他人を罰した刃はなぜあなたに向かわない？」「ダブスタだ」「辞職以外に身の処し方があるか？」「一生真摯に受け止めてください」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f421bffa36360e1bd6035dc8ac7be9c833e254b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000070-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=500&ch=500&exp=10800&fmt=webp> INABA / SALASが本日の仙台公演を明日に延期、強風の影響で新幹線が運転見合わせ
+      <a href=https://news.yahoo.co.jp/articles/ffbe06170951044002c45c43f8f91e57a0a54e1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国最大野党の李在明代表　2審で逆転無罪　大統領選に弾み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e511d56e97e9578ac8921b504c215bc1d30f3a7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-04692875-ytv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】斎藤知事に維新・吉村代表「反省すべきところは反省して、県政を前に進めてほしい」と言及
+      <a href=https://news.yahoo.co.jp/articles/4bb6e2cea9c2419dcd7172f0ee70689c697d9322>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-06277275-rab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【続報】運転再開は午後6時ごろに変更　東北新幹線が強風で運転見合わせ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/431ee3e92d956f80fa47096ecd0ff3b42533100e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00338777-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【センバツ】横浜が１９年ぶり４強　奥村頼が３者連続３球三振「１球１球に魂を込めた」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5791146d4318591686ffaa6f7a1163ba3da888f1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-10170436-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=641&ch=641&exp=10800&fmt=webp> 中谷防衛大臣、ガザで負傷のパレスチナ人女性2人受け入れを発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bda0cbb99703b440c41cd7578df1ac11e167382>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-21811731-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=798&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 旧統一教会に解散命令　教団に名前決められた“祝福2世”や「両親が現役信者」もるすこさんの受け止めは―　教団の今後は?被害者への弁済は?【news23】
       </a>
     </td>
   </tr>
@@ -418,22 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/8a9bc56f6f78c800a44ccc89f38a09fc9ab7f36e0920e4c4482e8b25fad07a1b.jpg> 兵庫知事が続投表明 パワハラ認定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533490>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/3bcd35771fdec553c98233de1686bce7a11357591e9bafd948b68284f6bdb6f1.jpg> 東北新幹線 17時ごろ再開の見込み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533484>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/cb3fed50cd0c65028fa08b353234ddccdb3191b7575cf7f58f40228a5042f41e.jpg> 今年初の30℃超 3月では26年ぶり
       </a>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/22bc0f13da5ea4bdf9fbc093f7267691b249fd16f466e0431faab48b7a2f308a.jpg> 旧統一教会 コメントのおわび削除
+      <a href=https://news.yahoo.co.jp/pickup/6533485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/8a9bc56f6f78c800a44ccc89f38a09fc9ab7f36e0920e4c4482e8b25fad07a1b.jpg> 兵庫知事が続投表明 パワハラ認定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533501>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/c27123a0fc01e3a313a76b8f177e2a5525a68a8d66c636dbbe962038d83c8d83.jpg> 東北新幹線 運転再開は18時ごろ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533495>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/461737bd90207a611dfd3ca6c200603d9ad7cc52246919a44d5b9fd9f4190d55.jpg> 病院で有毒ガス 患者ら100人避難
       </a>
     </td>
   </tr>
@@ -451,15 +451,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ea77790e0156a02c39c3812e3f61d01960e3f2505418c4c18d78933b590ffef1.jpg> 斉藤慎二・元メンバーを在宅起訴
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/9c6329a6ecd3334c835244e36912ff7a03bdf9bbf58212d68a146092b666d992.jpg> 斉藤慎二・元メンバーを在宅起訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/0d63258dd7e7b0f4389615c6090ece63bbdad5f53ff00f4733bae7397007aba4.jpg> 地上波で異例 タテ型ドラマ逆輸入
+      <a href=https://news.yahoo.co.jp/pickup/6533494>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/44b6eca178280a7dd9e20a667f0dd0d5e7ff07cbf2e03c9831bec3cb6e476ee7.jpg> 新幹線運休 B'z稲葉らの公演延期
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 16:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 16:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
