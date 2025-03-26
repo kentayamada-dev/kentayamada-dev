@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae2f9202d5109ca7be5ca07fe0cd5445.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/88acd65ae84213362eb94b226f495edb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c84b21800558e0d4dbfe676b62e5bbd58680f743>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-07226868-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「強く抗告していくため」 旧統一教会が公式HPから「お詫び」文言を削除　東京地裁が解散命令
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4f848ceba997e0e10a468389b6695ccb2f3b1a3c>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d9a0c8634f57f8033ac1c10bac3e8104b096dcbf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050223-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=254&ch=254&exp=10800&fmt=webp> 甲子園の「異様な雰囲気」を打ち破った浦和実のエース石戸颯汰、ピンチでも「平常心でいった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e0cc03dfa3495fbd1a83c02bc792484726d2f422>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-10170502-abemav-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=393&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ふざけるな！」久保建英が“危険タックル”被害で悶絶…「タケ可哀想」「足裏は危ない」「大丈夫か？」ファンが激怒＆心配した瞬間【日本代表】
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533520>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b0bb24c12bb98fc16935b9b7e41d4640b671e1b458d90dfdca73060750843578.jpg> 日産 ホンダとの再協議を排除せず
+      <a href=https://news.yahoo.co.jp/pickup/6533543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e293ad3aa212acbe714e803d8f6ef79713e4fa3b064725e34108cc4b7fbb4bc2.jpg> ロシアが交渉の主導権 漂う満足感
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533528>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b48c3a8972edb4205cdd13761e1c529c0c734d3606a1f9a0eda885706bd335ab.jpg> 兵庫県職員 知事に対し怒りあらわ
       </a>
     </td>
   </tr>
@@ -434,24 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533509>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/205203e6e91abdff4a4f0f8de21853540c5ebddc610d3721b858ed923fdbf88e.jpg> 文芸春秋に賠償命令 公明党が勝訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533540>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b2a09108189ce2371f0f1567f0aff8e7ba588ea96b5a8e51cf09c943e043771f.jpg> 水族館を移動 ゴマフアザラシ死ぬ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533531>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6a25849b97a8f5f5f1773b2fa27e3871c561d9e7fab602eed3140f10c8ca31be.jpg> 卒アルのデジタル化 導入増える
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533548>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/155a65264b0b44c1d7bbb9743189e066293dc7ee6e1a59a45fa6c6a0fbc146d1.jpg> 若槻千夏 娘の卒業「泣きました」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 23:52:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 00:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
