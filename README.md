@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0e20df6c504dfdffd9f935cc0e9e5851.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/427847122aa606aa271d3fcadc71bcdf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57666133cccc6cb0944dcf1f3a5f94213debe584>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-04529779-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=143&cw=700&ch=700&exp=10800&fmt=webp> 原田泰造・FANTASTICS中島颯太ら出演「おっパン」映画化決定 続投キャスト＆コメント解禁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/78eb9c24c2ad0e8e41b622da900551b585a13430>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-33260290-nksports-000-3-view.jpg?pri=l&w=143&h=192&exp=10800&fmt=webp> 「天皇陛下が国民に近づいてきている」パックン　６年ぶりに開催の宮中晩さん会
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/adcc1802a4b70c2c8b249642fe5bf615bc9df355>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050066-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=334&ch=334&exp=10800&fmt=webp> 大谷翔平らドジャースの選手たちが、ホワイトハウスでトランプ大統領と対面へ…球団が発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/661fa5aa560d72e781afaef2bbfab43391f3dfcf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010015-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「次のワールドカップだが…」サウジアラビア代表指揮官は日本代表をどう評価した？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae2d738b3c88f3d1324743038c18557e3ff512c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-33260268-nksports-000-3-view.jpg?pri=l&w=144&h=192&exp=10800&fmt=webp> 金子恵美氏「新しい時代の晩さん会」　ルラ大統領夫妻を歓迎の「平服」宮中晩さん会に注目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35b374550b1faed0ac35331ffd7a88447a57f215>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-03261029-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=862&ch=862&exp=10800&fmt=webp> 大谷翔平、米開幕前ラストＯＰ戦で第１打席は左飛　最終調整は２、３打席を予定　再渡米後初安打なるか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23f2c6f42554fd43c887acc9b2a2f624dadb8873>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000014-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=129&cw=774&ch=774&exp=10800&fmt=webp> ドジャース、ホワイトハウス訪問も懸念される「火種」…トランプ大統領、過去にロバーツ監督の采配批判、ベッツは2019年同行拒否
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533455>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/a0eb56defbb8b1e368bca7d48b1519604dc974e857a9046b0cb3cd5c800cd21a.jpg> 愛媛の山火事 火の勢い収まらず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533453>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/34e937dbbbd8d9e7569243b3a6290d4508422a05d84741f89f8f5748cffd3897.jpg> 高1教科書 生成AIの記述が急増
+      <a href=https://news.yahoo.co.jp/pickup/6533465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/50619c0daa5aa05cc948d954b6d484e5350313b33fb5efe0e968ea4313520978.jpg> 愛媛・岡山の山火事 強風で勢い増
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e3b219e6a9925444d2ed04c7a297196fb41cfed02e9e9420ddffe138a954b229.jpg> テレビCMを中止 決断した元社長
+      <a href=https://news.yahoo.co.jp/pickup/6533461>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02147409/title-1742929064212.jpeg?exp=10800> ストリートピアノで物議 法的には
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/af4ae3ee5a240bf5c7eb40e9afdd120c4cedf554b8a65cdf2d1afc657ca2538e.jpg> 体調不良で体重減 ベッツが復帰
+      <a href=https://news.yahoo.co.jp/pickup/6533463>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/2df570d9a9cb3138c8e1d3d2245dafa1d2625fa9d2f3728c9d60877e45bb9162.jpg> 47人の集落 営業続く超多角経営店
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533454>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/f3e2979cf83c027e85c1867507b5c81b7e9bc9b36e40da23502ca8007a1f80d8.jpg> 腕相撲 親子そろって全国Vの快挙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 10:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 11:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
