@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2ed5bf7f52fbd4041d5d5cd006e35e89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b58c455a59ca457f7a486373569b2c3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b3a7bf7649643454475dee5b77392341ed1f4f9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000154-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 鈴木エイト氏　旧統一教会に解散命令で見解「あくまで通過点に過ぎず、まだまだ問題が山積していると思う」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b2fa3d3dedd5257ce4635fa20bc2c6d83eb042eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-01258269-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 児童4人死傷　逮捕の運転手が反省趣旨の供述　静岡・浜松市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/189d9df092bbb047b1bf70179e56c352dbda7349>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948282-fnnprimev-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 愛子さまが宮中晩さん会デビュー　ポルトガル語で「ありがとう」…アマゾンの動物について質問も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90988ade5187030387ff77a916b26758f204f76f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-09714795-sdt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 浜松で小学生4人死傷させた運転手の男が反省趣旨の供述（浜松市）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebffa36c975cb3e5ab8ab2e2efcccb41744ff83c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948322-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京地裁が司法判断 旧統一教会に「解散命令」  母親が“高額献金”した男性が胸中を語る【福岡発】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948282-fnnprimev-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 愛子さまが宮中晩さん会デビュー　ポルトガル語で「ありがとう」…アマゾンの動物について質問も
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/50619c0daa5aa05cc948d954b6d484e5350313b33fb5efe0e968ea4313520978.jpg> 愛媛・岡山の山火事 強風で勢い増
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533467>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/84afde34870ab2738f11987d2490b82b5cb4b12f2f00cf18a64667c2e420be44.jpg> 都心で夏日 観測史上初の3月3回目
       </a>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533471>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e452303fcb040d6e30717d55b8ff0ef31f64a3e015d8e43c721fd7cb177d978d.jpg> 不適切投稿 姫路市議に辞職勧告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/779dc5e1746f955cf040139c3b14ca0415ec42f1837b381eb2dddb16ea848b73.jpg> 公道に50台以上の放置車両 なぜ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 12:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 13:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
