@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/er5qb1KP4os?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ceec9eca88549dbab92695cb04945623.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2c6565d9ec50a43bd1ca9c4b351fca86.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/442da8b2f6108f62ebb546a7ac5dfe0d6a113361>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000011-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 愛媛・今治の火災、建物被害拡大か　岡山・宮崎でも山林火災延焼続く
+      <a href=https://news.yahoo.co.jp/articles/dc2bb4ad107d72b85a50b5b46d6899c509960900>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-10170383-abemav-000-1-view.jpg?pri=l&w=192&h=107&exp=10800&fmt=webp> 愛子さま、宮中晩さん会に初出席
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f1826e9942d74052866ef3d63668999c0084751>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-01725326-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=600&ch=600&exp=10800&fmt=webp> トランプ大統領とド軍の“因縁”「大失敗だ！」　采配猛批判も…ロバーツ監督「私は行く」
+      <a href=https://news.yahoo.co.jp/articles/bb93c18a2014ff46e1752ed745787e5d2f11110d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000035-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=666&ch=666&exp=10800&fmt=webp> ドジャース、大統領表敬訪問へ　4月7日にホワイトハウス
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2e01e6e54a529b96d844e36f791eeaae0de436db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00252942-sasahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=26&cw=741&ch=741&exp=10800&fmt=webp> 朝ドラ「おむすび」視聴率ワースト更新か　過去の名作と何が違ったのか…　視聴者を置き去りにした「ギャル」と「震災」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c2ab95dc0aea3797f547394f4ec79444657a992>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-10170361-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 東京地裁の解散命令を受け 旧統一教会が即時抗告へ「最後まで戦ってまいります」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b8d576570b51b8a175bd0b8d6b82ec51adce8b6c6ac3f6c79a3834365eb8e521.jpg> 旧統一教会の「政界工作」未解明
+      <a href=https://news.yahoo.co.jp/pickup/6533455>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/a0eb56defbb8b1e368bca7d48b1519604dc974e857a9046b0cb3cd5c800cd21a.jpg> 愛媛の山火事 火の勢い収まらず
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533443>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ff21c25756a8ec0b905d5694864fb74bf1cc61609198faa5329ca4d7a1ce6bd1.jpg> 伊東純也 サウジ守備シフトに驚き
+      <a href=https://news.yahoo.co.jp/pickup/6533458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/562d3e2de9e953e4e4a0b258cfe74dccb80070497ca317b0e99429d1de7793cd.jpg> おむすび朝ドラ視聴率最低か なぜ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 09:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 09:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
