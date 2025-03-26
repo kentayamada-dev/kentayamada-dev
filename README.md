@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/79f1b0bcfc6ca50229c8a6b700952959.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5a71fd3ea1273b3f4d3f3f285bf833af.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/890f4c5307dcbdfab57ee7d50b01861825d9be29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948854-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカに輸入する全ての自動車に25％の関税へ　トランプ大統領発表　発動は4月2日
+      <a href=https://news.yahoo.co.jp/articles/df934d7c4ba7a48c3f0127c191b82ce278319b9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-90018379-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=629&ch=629&exp=10800&fmt=webp> 斎藤知事　第三者委「違法」指摘に「真摯に受け止め」も「対応は適切だった」認識変えず　議会は厳しく批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1d32fadea15a7081e1e79ba1116df2c9900caa49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000219-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> トランプ米大統領が自動車25％関税発表「かつてなく繁栄へ」　日本製も対象、4月2日適用
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533538>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6258187b343856754fcf1b66700d913ba6de4c3fd437c2d42670a90e168a29d9.jpg> 斉藤元メンバー 被害者とは初対面
+      <a href=https://news.yahoo.co.jp/pickup/6533556>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/936852551d85324dc63e800c786e9b3f52f5a43b3f8132134e77d38b63654347.jpg> クラブW杯優勝賞金 最大190億円
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 07:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 08:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
