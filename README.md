@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/TUd7JORZeWo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d93101ece1a631923355a19cbee9a7c9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/12520341f0385da71841ffc26706dd6e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1695d6cc1b369c984b4a3e04345e28f3d60b590>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010004-mbsnews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=441&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「県政を前に進めることが重要」斎藤知事が続投を表明　パワハラ認定受け謝罪…一方で元県民局長への対応は「やむを得なく適切な対応」告発文書は「誹謗中傷性の高い文書」認識変わらず…第三者委は県の対応を違法と認定
+      <a href=https://news.yahoo.co.jp/articles/42b6065ae83f84a920660605f8a5bbb17c7bff62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010005-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】斎藤知事　元県民局長への対応は「適切だった」繰り返し懲戒処分は撤回せず　文書は「誹謗中傷性の高い文書」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb12272094e444be784af139ce119a561e75f090>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00338774-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 完全復活ベッツに新たな難題　トランプ大統領からの招待を保留「家族と話し合う」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/adcc1802a4b70c2c8b249642fe5bf615bc9df355>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050066-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=334&ch=334&exp=10800&fmt=webp> 大谷翔平らドジャースの選手たちが、ホワイトハウスでトランプ大統領と対面へ…球団が発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e0494b0c9e923258492c6538438a3dfa3f3515972d6a8c3b49d25fd091458625.jpg> 兵庫知事 パワハラ認定を受け謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6533485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/8a9bc56f6f78c800a44ccc89f38a09fc9ab7f36e0920e4c4482e8b25fad07a1b.jpg> 兵庫知事が続投表明 パワハラ認定
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/49f7ee5965b804855ef824b132d94433cd911169733502f8e12eae3984fc6455.jpg> LUUP、障害でサービス一時停止
+      <a href=https://news.yahoo.co.jp/pickup/6533487>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/0d63258dd7e7b0f4389615c6090ece63bbdad5f53ff00f4733bae7397007aba4.jpg> 地上波で異例 タテ型ドラマ逆輸入
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 14:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 14:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
