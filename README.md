@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/639d9804007b0f90256e3feafeae99b1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f41e4cf06f4314eea18965e79fdbd560.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37609f7dccd21183fc79555dd237325c55cda089>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000018-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=936&ch=936&exp=10800&fmt=webp> 【センバツ】浦和実　埼玉勢57年ぶりの初出場4強　甲子園史上最多延長1イニング8得点
+      <a href=https://news.yahoo.co.jp/articles/3f7bb93b9c0a96a1c53223bde19589542f2deaa5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-03261250-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=626&ch=626&exp=10800&fmt=webp> ミラクル止まらない浦和実、タイブレーク１イニング一挙８点は最多、２３年夏の土浦日大６点を上回る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27ba6d92c22658033c6edd32a9ef360ee89485af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高橋洋一・政治経済ホントのところ【米ロ首脳の電話会談】プーチン大統領の勝ち　北國新聞単独連載
+      <a href=https://news.yahoo.co.jp/articles/60019027347ef21a1e5e953497a34b3f120030ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-33261196-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> ジャングルポケット元メンバー斉藤慎二被告が在宅起訴　不同意性交と不同意わいせつ等の罪
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 05:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 06:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
