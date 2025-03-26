@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f41e4cf06f4314eea18965e79fdbd560.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/190be02b0c9469b1e65eb58a612b8acc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ab9701b8764d6de687fef703d65e4a5fe8ef1c3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948842-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> アーベル賞に京大・柏原正樹氏　日本人初「数学のノーベル賞」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3f7bb93b9c0a96a1c53223bde19589542f2deaa5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-03261250-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=626&ch=626&exp=10800&fmt=webp> ミラクル止まらない浦和実、タイブレーク１イニング一挙８点は最多、２３年夏の土浦日大６点を上回る
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60019027347ef21a1e5e953497a34b3f120030ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-33261196-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> ジャングルポケット元メンバー斉藤慎二被告が在宅起訴　不同意性交と不同意わいせつ等の罪
+      <a href=https://news.yahoo.co.jp/articles/8e7dc57758de096f480c13ecf6bc53b363c266a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-33261168-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1348&ch=1348&exp=10800&fmt=webp> 【こんな人】中島宏之、グラウンド離れればユーモラスな一面　後輩から「兄貴分」として頼られる
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533528>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b48c3a8972edb4205cdd13761e1c529c0c734d3606a1f9a0eda885706bd335ab.jpg> 兵庫県職員 知事に対し怒りあらわ
+      <a href=https://news.yahoo.co.jp/pickup/6533546>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e183fc9030c7f8d1e687be41e2c696f020c16ebf2dd178fe4d3177ba77df1c33.jpg> アーベル賞に柏原正樹氏 日本人初
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533546>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e183fc9030c7f8d1e687be41e2c696f020c16ebf2dd178fe4d3177ba77df1c33.jpg> アーベル賞に柏原正樹氏 日本人初
+      <a href=https://news.yahoo.co.jp/pickup/6533550>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/5e356f0c20153eaecf3e421608f21e1e1241debd6b3980a6685882f7e4fbe4fc.jpg> ホンダ 中国にEV専用工場を新設
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533548>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/155a65264b0b44c1d7bbb9743189e066293dc7ee6e1a59a45fa6c6a0fbc146d1.jpg> 若槻千夏 娘の卒業「泣きました」
+      <a href=https://news.yahoo.co.jp/pickup/6533549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/c954fd75e9591ca1f7ec4da1ce2aa8cf6b17d95379a4db7238b5ea970ffccb59.jpg> 前中日・中島宏之が現役引退
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 06:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 06:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
