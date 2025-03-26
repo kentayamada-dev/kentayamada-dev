@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b2ce03f5084a666a2a07ecea008d830.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ca8f23e2d61488fab3431c85984cb00c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/722dc46240a2e070bc5bf868ed0c7466ad8865f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948697-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 東北新幹線は午後6時10分に運転再開　強風の影響で東京-盛岡間の上下線で運転見合わせ
+      <a href=https://news.yahoo.co.jp/articles/69ad65492b27dffd4c2d47c07060db462b8b31f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00003528-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=313&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 快進撃続く浦和実に指揮官驚き「すごいことをやってくれた」、決勝タイムリー・橋口も周囲からの祝福やまず「凄く貴重な経験」【センバツ】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ce1657ed3bb3d963fd5c38cae4e04e63b4f41df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948678-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=426&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “パワハラ”認め謝罪した斎藤知事　告発文書の対応「適切だった」と改めて主張　告発者の処分撤回も否定　安藤優子さんは「矛盾あるのでは。理解できない」
+      <a href=https://news.yahoo.co.jp/articles/6e38bfa1a501f720362bb5a681329ab9afe7c1d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00338814-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=991&ch=991&exp=10800&fmt=webp> とにかく明るい安村　韓国語バージョンの〝履いてますよ〟披露　ハリウッド進出オファーに「テンキューテンキュー」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d2b1d0fe76c631953c851c874cc699158e7278dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-03978413-ytv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【独白】兵庫県の現役職員「裏切られた、斎藤知事の下で働くのは“危険”」「真摯という言葉が軽すぎ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/54b31357753451a179f39c0e74c6220624b5b85d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90014590-akt-000-1-thumb.jpg?exp=10800&fmt=webp> 秋田新幹線こまちも運休や折り返し運転強いられる　強風による東北新幹線足止めの影響
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71ff2a184f942b7b69087ca26f569fedd1d093b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-21813000-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “ゴーンの呪縛”から日産を解放できるのか?「Car Lover」エスピノーサ次期社長が語る立て直し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c554182dcc315ec2cdf44031065c36adddcdc84d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00338803-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ロバーツ監督がトランプ大統領と和解か　ホワイトハウス訪問へ「気が変わった」＝韓国報道
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/0f313fcbc624837108da803f73674f13ed8a2188c8a321f3060b57105e1a36b6.jpg> 東北新幹線 全線で運転再開
+      <a href=https://news.yahoo.co.jp/pickup/6533511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/9ef69de5aa0c775e6d27229a5d36ac7c0d23d5208d6d6ea025cbac5833769fa0.jpg> パワハラ巡る知事見解 県議が批判
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533497>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/5e3aa69de3fc9a95a34cc1d8636a5a836a06ed47704cabf7feb29744da0664bb.jpg> 韓国の最大野党代表に逆転無罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533511>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/9ef69de5aa0c775e6d27229a5d36ac7c0d23d5208d6d6ea025cbac5833769fa0.jpg> パワハラ巡る知事見解 県議が批判
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e9afe147aee35b343606d025d18cb0049d72977b138ea0576e83df2d50a69da6.jpg> 中2ら線路から7歳救助 直後に特急
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533516>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6786704f66a4aeb81949e826a7f14ab43d9128b2be0fadf23bd9a3375c9e0062.jpg> 京都の「よーじや」新ロゴを発表
       </a>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533519>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6585934addcba1d3aa65c805b9ed0348ac91c3e3191b80977adce8285ff58fc9.jpg> TBS ダウンタウン番組の変更なし
+      <a href=https://news.yahoo.co.jp/pickup/6533524>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/7e7c85c8e86930e44836c9e7c0fa78da3b95d30961235c0cab936a6be905d162.jpg> 浦和実 延長タイブレークで新記録
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533513>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/26d499c085c0fdd481defaa00b1b5924d0245c84746a810027b97bb238a1ac4e.jpg> ハロプロアイドル 体調不良相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6533525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/9c0d6a5df8c7006f41ff1a8ddf4b00d5e447d938a3e09be1e091c993376a2650.jpg> ポン・ジュノ監督 安村にハハハハ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 19:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 20:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
