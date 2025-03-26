@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zb2tXTkDHAA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/52b18a189576cf518292f3cd071fd941.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2ed5bf7f52fbd4041d5d5cd006e35e89.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b6810f4c83ad4060e7e95a8624cf63dfefbbe8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00053871-satvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 女子児童４人が死傷した事故　運転していた男は容疑を認め反省の供述　
+      <a href=https://news.yahoo.co.jp/articles/189d9df092bbb047b1bf70179e56c352dbda7349>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948282-fnnprimev-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 愛子さまが宮中晩さん会デビュー　ポルトガル語で「ありがとう」…アマゾンの動物について質問も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbf197a9bb92c85dcd2500219a35a75ab0a54e29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90021318-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 旧統一教会が解散確定なら清算　財産隠しも？「700億円あるのでは」「時間との勝負」
+      <a href=https://news.yahoo.co.jp/articles/90988ade5187030387ff77a916b26758f204f76f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-09714795-sdt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 浜松で小学生4人死傷させた運転手の男が反省趣旨の供述（浜松市）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8712c0f0f4b34daf6cca7744885da54a956ae442>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000020-asahi-000-1-view.jpg?pri=l&w=171&h=192&exp=10800&fmt=webp> 6年ぶり宮中晩餐会、愛子さまも出席　ブラジルのルラ大統領夫妻と
+      <a href=https://news.yahoo.co.jp/articles/ebffa36c975cb3e5ab8ab2e2efcccb41744ff83c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948322-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京地裁が司法判断 旧統一教会に「解散命令」  母親が“高額献金”した男性が胸中を語る【福岡発】
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/661fa5aa560d72e781afaef2bbfab43391f3dfcf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010015-footballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「次のワールドカップだが…」サウジアラビア代表指揮官は日本代表をどう評価した？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010015-footballc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「次のワールドカップだが…」サウジアラビア代表指揮官は日本代表をどう評価した？
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533461>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02147409/title-1742929064212.jpeg?exp=10800> ストリートピアノで物議 法的には
+      <a href=https://news.yahoo.co.jp/pickup/6533475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/4d29db1467eda6c2264c3675baf4af5b473bb7c3a9feb24880d8b7e8d16821a9.jpg> 県立高校長 修学旅行先で娘と観光
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 12:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 12:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
