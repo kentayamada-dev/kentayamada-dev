@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/00900e9120fd2942050e50f15e45f8ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b2ad276df486f7552e45f646d2c4ee26.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65d3fa9e76f6f1776664ade10518e76804d33a02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> センバツ高校野球　浦和実業ベスト4進出／埼玉県
+      <a href=https://news.yahoo.co.jp/articles/c1d703ff4b0afd8c89744a944a35d014721ab75f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000093-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 東北新幹線　強風による7時間半の運転見合わせ　約7万6500人に影響
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d9a0c8634f57f8033ac1c10bac3e8104b096dcbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050223-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=254&ch=254&exp=10800&fmt=webp> 甲子園の「異様な雰囲気」を打ち破った浦和実のエース石戸颯汰、ピンチでも「平常心でいった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/54d8006e5fde3a34b9369cd904a5b4c025fb3dab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-07226880-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=437&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本人として初　京都大学の柏原正樹・特任教授が“数学のノーベル賞”＝アーベル賞を受賞 「D加群」理論を確立したことが評価
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a8e661c57d71eea17939e865c14e52f0c37f65b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000095-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ロシア、交渉の主導権を握り漂う自信　突きつける要求、米が譲歩姿勢
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27fd20d71eddd6d4d53b94fb55faf6425df803c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-07597692-rab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 7時間半に及んだ東北新幹線の運転見合わせ　計97本運休で7万6,500人の足に影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1623d5869f1ea41705721fe127d7ac83005ceabd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90012446-ftb-000-3-thumb.jpg?exp=10800&fmt=webp> 「宗教の名を借りた金儲けでは」「仕方ない」旧統一教会解散命令へ厳しい声　福井市の教団関係者「教団の方向性はまだ決まっていない」
+      <a href=https://news.yahoo.co.jp/articles/07e84c18b1a98b9612a76c7937f202702e8d3bee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000089-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 宗教2世支援の法整備を主張、当事者ら　旧統一教会の解散命令受けて
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533528>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/b48c3a8972edb4205cdd13761e1c529c0c734d3606a1f9a0eda885706bd335ab.jpg> 兵庫県職員 知事に対し怒りあらわ
+      <a href=https://news.yahoo.co.jp/pickup/6533544>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/f5ad5d0476b474f742427432b96d8c0c23e243b4bc2c8af039ea39f4b8fc4af9.jpg> 検査結果放置され人工肛門に 謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/f5ad5d0476b474f742427432b96d8c0c23e243b4bc2c8af039ea39f4b8fc4af9.jpg> 検査結果放置され人工肛門に 謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6533542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/dafce086e86b7b20beac2fa567d380270deb8720d74dbb701c97bc6d8a4b6b3b.jpg> 宮城で強風 倒木で電柱が真っ二つ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 22:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 23:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
