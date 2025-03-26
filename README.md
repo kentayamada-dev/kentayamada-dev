@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c30635ae11dcb5a170b7514353e80656.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4382d59fbb27cfb296a517a7d9660302.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3746b7f74feae8158efdd22ac3f664f5db3984aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=1542&ch=1542&exp=10800&fmt=webp> ＥＵ制裁解除、ロシア軍のウクライナ「完全撤退」必要＝報道官
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/362b7af5568a04ac314afcf3960c621328193b69>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-08496189-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 兵庫・斎藤知事、パワハラ認め謝罪　告発者捜しについては「適切」との主張繰り返す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca41afb81cd93bd299aff58f16531e13c83d9532>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010041-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=396&ch=396&exp=10800&fmt=webp> 日本が本気でW杯制覇を目指すなら、守備的なサウジアラビアにも勝たないといけない「プランAが上手くいかなかった場合に、別プランを見つけ出す必要」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f848ceba997e0e10a468389b6695ccb2f3b1a3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-08234432-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “数学のノーベル賞”アーベル賞に京大の柏原正樹特任教授　日本人の受賞は初
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1d703ff4b0afd8c89744a944a35d014721ab75f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000093-ann-000-10-thumb.jpg?exp=10800&fmt=webp> 東北新幹線　強風による7時間半の運転見合わせ　約7万6500人に影響
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 02:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 02:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
