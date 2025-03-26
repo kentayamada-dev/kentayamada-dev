@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ad5c221ce24b71ad988c7fed292d1344.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2d3440af3a72819fab0ef468980056ac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3133f592f92629da0e4ea8ab0417fd30fce5f076>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050190-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=442&ch=442&exp=10800&fmt=webp> 兵庫県の斎藤知事、県の対応「適切だった」と見解変えず…第三者委認定のパワハラは初めて認め謝罪
+      <a href=https://news.yahoo.co.jp/articles/3a60e19f6c36251aee45af0c520a65627929bee0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000024-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=492&ch=492&exp=10800&fmt=webp> 「甲子園の魔物」にも動じない　浦和実が延長で一挙8得点　センバツ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf2d607160f8ae07274da80943eb9f0041524613>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000130-nataliee-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 【イベントレポート】「ミッキー17」ポン・ジュノの言葉に町田啓太が感激「ラーメンを食べるたびに思い出す」
+      <a href=https://news.yahoo.co.jp/articles/1d0d6225a86c0e85c59cf40926b7d7e24e9d55ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000022-kobenext-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=1101&ch=1101&exp=10800&fmt=webp> 斎藤知事が改めて違法性否定　告発文書問題に「誹謗中傷性高いという認識変わらない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5136328115b5d119b11e85a2e32cff7120bac754>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000022-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=87&cw=729&ch=729&exp=10800&fmt=webp> 聖光学院監督　浦和実・石戸から「1点取りたかった…」　センバツ
+      <a href=https://news.yahoo.co.jp/articles/27fd20d71eddd6d4d53b94fb55faf6425df803c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-07597692-rab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 7時間半に及んだ東北新幹線の運転見合わせ　計97本運休で7万6,500人の足に影響
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f8b23933bd9b473d4169b0fd007bccc8bceea88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90008338-aab-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 東北新幹線が強風で運転を見合わせた影響で秋田新幹線にも影響が
+      <a href=https://news.yahoo.co.jp/articles/22ac74997df105c8503ec72757578a72197b8943>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050192-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 愛媛と岡山の山林火災は４日目も延焼続く、今治市では消防団員１人けが…宮崎市は鎮圧状態に
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533497>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/5e3aa69de3fc9a95a34cc1d8636a5a836a06ed47704cabf7feb29744da0664bb.jpg> 韓国の最大野党代表に逆転無罪
+      <a href=https://news.yahoo.co.jp/pickup/6533536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/0ea7881b658b24f1e6715ca58a77f58ba34b3063be5ccba72a1cfa4ae41be630.jpg> 愛媛の山火事 住宅地に飛び火
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/28c9abbe572048c076d0af15a2125ebd6154a50b3e5b05d5fa4909b4d53f0073.jpg> 池に油圧ショベル転落 男性死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533517>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ee03ea7b962c8b1a49876878a9f32d690aea7df1671ae0130cd2204302f3bf1a.jpg> 施設で転落し骨折 難病の14歳死亡
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e9afe147aee35b343606d025d18cb0049d72977b138ea0576e83df2d50a69da6.jpg> 中2ら線路から7歳救助 直後に特急
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533516>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6786704f66a4aeb81949e826a7f14ab43d9128b2be0fadf23bd9a3375c9e0062.jpg> 京都の「よーじや」新ロゴを発表
+      <a href=https://news.yahoo.co.jp/pickup/6533492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/9c6329a6ecd3334c835244e36912ff7a03bdf9bbf58212d68a146092b666d992.jpg> 斉藤慎二・元メンバーを在宅起訴
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 21:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 21:31:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
