@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bf1cab3ab1da96bc26ea76eb5735390b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bd6d2ada41fad55bba074ee5263d3b48.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83cebe4565f9b3292526fb1ba11cf4245e82e0d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-07226810-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東北新幹線運転再開の見込みは当初より1時間遅い午後6時ごろ　強風の影響で複数の架線にビニールなどの飛来物
+      <a href=https://news.yahoo.co.jp/articles/5a11340d641516ea33be258cecdfa3aea510f7b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010012-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=452&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 奥谷委員長「知事が謝罪したのは評価したい」一方、「一部違法とされた点認めなかったのは残念」斎藤知事がパワハラ認定で謝罪‥元県民局長への対応は「適切」と繰り返す」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94a742797eb36233bb698f241f146c2ba66a298c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-01577615-ytv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】兵庫県議ら「この期に及んで…馬耳東風、糠に釘」「自身で処分判断されるべき」斎藤知事を批判　“パワハラ”謝罪も県の初動対応「適切な判断」と見解繰り返す
+      <a href=https://news.yahoo.co.jp/articles/61c468ef3a902ce5a3c2107f4d4876718ddd60ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-21813788-tuy-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 東北新幹線　運転再開は18時ごろ　山形新幹線・秋田新幹線は折り返し運転が続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7c470ae4c03d34530421c017acb8d600354fa520>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010009-mbsnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【旧統一教会】元信者が語る「お金集めが宗教法人としての目的を逸脱している」解散命令が出ても教団は"解散"しない！？【解説】
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5791146d4318591686ffaa6f7a1163ba3da888f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-10170436-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=641&ch=641&exp=10800&fmt=webp> 中谷防衛大臣、ガザで負傷のパレスチナ人女性2人受け入れを発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533489>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/cf1500b5343b51a0adfc422843268690e66cd02370785a630e6e9f1c1c4e3aa5.jpg> 黒海の安全航行 露は実施に条件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533488>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/65cf4c60ac7e970149de88d82e7cfa6d64b8bf6f662f13cffc1c3afd21646ce0.jpg> 韓国山火事 消火中ヘリ墜落で死亡
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/8a9bc56f6f78c800a44ccc89f38a09fc9ab7f36e0920e4c4482e8b25fad07a1b.jpg> 兵庫知事が続投表明 パワハラ認定
+      <a href=https://news.yahoo.co.jp/pickup/6533496>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/c122e9fb174427688119855e58a4a9017139ee184e87a6bb59b7e7e78e430fd4.jpg> 不正取引の元裁判官に有罪判決
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533504>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/35874ed4296526f0502727b0fdaa7531225cb8da80afdc799f03f6f9acbfd2bc.jpg> 中学生で子宮全摘 移植に「希望」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533492>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/9c6329a6ecd3334c835244e36912ff7a03bdf9bbf58212d68a146092b666d992.jpg> 斉藤慎二・元メンバーを在宅起訴
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533493>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/627bf7f94f99a7e8981613a6f8bb644894572cf7187c413b583c98d7ee185033.jpg> 選抜4強の横浜 3者連続3球三振
+      <a href=https://news.yahoo.co.jp/pickup/6533502>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/fbc563caf9ba819b3f9da358a9532d6c6d7521d14018d781caad412241a3fbfd.jpg> 俳優復帰の成宮寛貴 水谷豊に手紙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 17:01:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 17:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
