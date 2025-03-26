@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0450b1a6898006fc7878256506e772f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/52b18a189576cf518292f3cd071fd941.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9b6810f4c83ad4060e7e95a8624cf63dfefbbe8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00053871-satvv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 女子児童４人が死傷した事故　運転していた男は容疑を認め反省の供述　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bbf197a9bb92c85dcd2500219a35a75ab0a54e29>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90021318-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 旧統一教会が解散確定なら清算　財産隠しも？「700億円あるのでは」「時間との勝負」
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67da63b5c623e5086f991cb1068f6a922b78ceb8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-08833893-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 東北新幹線　強風により東京・盛岡駅間の上下線で運転見合わせ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78eb9c24c2ad0e8e41b622da900551b585a13430>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-33260290-nksports-000-4-view.jpg?pri=l&w=143&h=192&exp=10800&fmt=webp> 「天皇陛下が国民に近づいてきている」パックン　６年ぶりに開催の宮中晩さん会
+      <a href=https://news.yahoo.co.jp/articles/8712c0f0f4b34daf6cca7744885da54a956ae442>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000020-asahi-000-1-view.jpg?pri=l&w=171&h=192&exp=10800&fmt=webp> 6年ぶり宮中晩餐会、愛子さまも出席　ブラジルのルラ大統領夫妻と
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/adcc1802a4b70c2c8b249642fe5bf615bc9df355>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050066-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=334&ch=334&exp=10800&fmt=webp> 大谷翔平らドジャースの選手たちが、ホワイトハウスでトランプ大統領と対面へ…球団が発表
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050066-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=334&ch=334&exp=10800&fmt=webp> 大谷翔平らドジャースの選手たちが、ホワイトハウスでトランプ大統領と対面へ…球団が発表
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533469>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東北新幹線 東京-盛岡で見合わせ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533465>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/50619c0daa5aa05cc948d954b6d484e5350313b33fb5efe0e968ea4313520978.jpg> 愛媛・岡山の山火事 強風で勢い増
       </a>
@@ -410,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/c5ac080194e42442bcb7d4ae6a3727412978c692f8dc756e57173675909b5f3a.jpg> 旧統一に解散命令 他団体から賛否
+      <a href=https://news.yahoo.co.jp/pickup/6533467>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/84afde34870ab2738f11987d2490b82b5cb4b12f2f00cf18a64667c2e420be44.jpg> 都心で夏日 観測史上初の3月3回目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/423067f22b4d42b93d831f8eeddcb9d9c4e3019fda4d93076d71bae54caa9897.jpg> 中国BYD、昨年売上高16兆円
+      <a href=https://news.yahoo.co.jp/pickup/6533474>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/687bdd41a68c433104f21d4233fe999613d44ae830b669f38b29bdc08539d472.jpg> 児童死傷 過去にも事故と容疑者
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e452303fcb040d6e30717d55b8ff0ef31f64a3e015d8e43c721fd7cb177d978d.jpg> 不適切投稿 姫路市議に辞職勧告
       </a>
     </td>
   </tr>
@@ -434,24 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533463>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/2df570d9a9cb3138c8e1d3d2245dafa1d2625fa9d2f3728c9d60877e45bb9162.jpg> 47人の集落 営業続く超多角経営店
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533466>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/a9dcef5975840e4ff3bddb129b799543e04350a12750972e330dac757a5bae71.jpg> 選抜最速の155km 健大高崎・石垣
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/bed97faeee73b83047aea49b3ff0af6950d4f771bc18910d69afb61436f42598.jpg> 大谷翔平ら トランプ氏と対面へ
+      <a href=https://news.yahoo.co.jp/pickup/6533468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/df3a33ced99de7ca269e64a128018ba8883156cda848ffd072a1c32c49855ec3.jpg> ABEMA「恋ステ」突然の配信終了
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 11:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 12:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
