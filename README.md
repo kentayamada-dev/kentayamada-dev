@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7179a956662f93ad669b9f48c9761ffd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6b2ce03f5084a666a2a07ecea008d830.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02f7bbd7e1b48f4ae7140e3aa84b2c77a9e32ea9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-02154284-tvi-000-1-thumb.jpg?exp=10800&fmt=webp> 【東北新幹線運転再開】強風の影響で7時間半以上運転見合わせ
+      <a href=https://news.yahoo.co.jp/articles/722dc46240a2e070bc5bf868ed0c7466ad8865f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948697-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 東北新幹線は午後6時10分に運転再開　強風の影響で東京-盛岡間の上下線で運転見合わせ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9ce1657ed3bb3d963fd5c38cae4e04e63b4f41df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948678-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=426&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “パワハラ”認め謝罪した斎藤知事　告発文書の対応「適切だった」と改めて主張　告発者の処分撤回も否定　安藤優子さんは「矛盾あるのでは。理解できない」
       </a>
     </td>
   </tr>
@@ -366,31 +374,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1623d5869f1ea41705721fe127d7ac83005ceabd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90012446-ftb-000-1-thumb.jpg?exp=10800&fmt=webp> 「宗教の名を借りた金儲けでは」「仕方ない」旧統一教会解散命令への声　福井市の教団関係者「教団の方向性はまだ決まっていない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90012446-ftb-000-2-thumb.jpg?exp=10800&fmt=webp> 「宗教の名を借りた金儲けでは」「仕方ない」旧統一教会解散命令へ厳しい声　福井市の教団関係者「教団の方向性はまだ決まっていない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f61a770961d30e864e40384954d9654e62a2baf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 斎藤知事、続投の姿勢強調　告発者対応「適切」の持論変えず
+      <a href=https://news.yahoo.co.jp/articles/71ff2a184f942b7b69087ca26f569fedd1d093b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-21813000-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “ゴーンの呪縛”から日産を解放できるのか?「Car Lover」エスピノーサ次期社長が語る立て直し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8777182631b9e6bc35001a1ba07badcb12768cba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-90022635-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=530&ch=530&exp=10800&fmt=webp> また教員が不祥事…職場の忘年会、慰労会後に飲酒して車を運転、事故を起こす　中学校教諭（29）と高校教諭’（64）を懲戒免職
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/431ee3e92d956f80fa47096ecd0ff3b42533100e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00338777-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【センバツ】横浜が１９年ぶり４強　奥村頼が３者連続３球三振「１球１球に魂を込めた」
+      <a href=https://news.yahoo.co.jp/articles/c554182dcc315ec2cdf44031065c36adddcdc84d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00338803-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ロバーツ監督がトランプ大統領と和解か　ホワイトハウス訪問へ「気が変わった」＝韓国報道
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/135082f234e313120d2906f0ff9b8a3a78be01059516dbd890a030f675c4557f.jpg> カナダ テスラ車を補助金対象外に
+      <a href=https://news.yahoo.co.jp/pickup/6533497>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/5e3aa69de3fc9a95a34cc1d8636a5a836a06ed47704cabf7feb29744da0664bb.jpg> 韓国の最大野党代表に逆転無罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/461737bd90207a611dfd3ca6c200603d9ad7cc52246919a44d5b9fd9f4190d55.jpg> 病院で有毒ガス 患者ら100人避難
+      <a href=https://news.yahoo.co.jp/pickup/6533511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/9ef69de5aa0c775e6d27229a5d36ac7c0d23d5208d6d6ea025cbac5833769fa0.jpg> パワハラ巡る知事見解 県議が批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/836cc12b78fa9b533149c55873d897d4a0e4e6c435841f2b21cebfc2341c5c88.jpg> 脱税 晴海フラッグで差し押さえ
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533507>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/22b03c36d8779ac0022ff2364620b573d7c05b7c5266941e059d7e2c472fa2df.jpg> 火事でもない 愛知岐阜「煙たい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533516>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6786704f66a4aeb81949e826a7f14ab43d9128b2be0fadf23bd9a3375c9e0062.jpg> 京都の「よーじや」新ロゴを発表
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533512>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/68053471e07898ff3736db50cae56c64c8ced48615b3220145baa765ed38aff1.jpg> 異例 サッカーUAE監督が電撃解任
+      <a href=https://news.yahoo.co.jp/pickup/6533519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6585934addcba1d3aa65c805b9ed0348ac91c3e3191b80977adce8285ff58fc9.jpg> TBS ダウンタウン番組の変更なし
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 19:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 19:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
