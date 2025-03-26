@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zb2tXTkDHAA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2125e01592aa5d35f8d694335be377b2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/011c520b70831cfe9d3fa61786bf0263.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3746b7f74feae8158efdd22ac3f664f5db3984aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=1542&ch=1542&exp=10800&fmt=webp> ＥＵ制裁解除、ロシア軍のウクライナ「完全撤退」必要＝報道官
+      <a href=https://news.yahoo.co.jp/articles/98b807d5028270818157388c44316b146c551a80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-07226876-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 愛媛・今治市の山林火災 発生5日目 400ヘクタール超を焼損　鎮圧のめど立たず
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 04:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 05:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
