@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b58c455a59ca457f7a486373569b2c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/87f44f566759f40f147818f4ccfb7ab9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e7ae14c93addcc2539117ec85f70ae191324b8d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】斎藤知事が記者会見　第三者委の“パワハラ”認定＆告発者の処分“違法・無効”指摘に見解表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/853dbef0b67e37dc7a8843d5240f12f817038c67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000010-ascii-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=401&ch=401&exp=10800&fmt=webp> LUUP、障害でサービス一時停止　復旧目途立たず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b3a7bf7649643454475dee5b77392341ed1f4f9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000154-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 鈴木エイト氏　旧統一教会に解散命令で見解「あくまで通過点に過ぎず、まだまだ問題が山積していると思う」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000154-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 鈴木エイト氏　旧統一教会に解散命令で見解「あくまで通過点に過ぎず、まだまだ問題が山積していると思う」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2fa3d3dedd5257ce4635fa20bc2c6d83eb042eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-01258269-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 児童4人死傷　逮捕の運転手が反省趣旨の供述　静岡・浜松市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/189d9df092bbb047b1bf70179e56c352dbda7349>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948282-fnnprimev-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 愛子さまが宮中晩さん会デビュー　ポルトガル語で「ありがとう」…アマゾンの動物について質問も
+      <a href=https://news.yahoo.co.jp/articles/a85e652812e5b7ba3cbf56a4592f64243dfe798d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-07226710-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 政府 ガザの戦闘での負傷者を「自衛隊中央病院」で受け入れ発表　パレスチナ人女性1人が治療中
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/adcc1802a4b70c2c8b249642fe5bf615bc9df355>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050066-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=334&ch=334&exp=10800&fmt=webp> 大谷翔平らドジャースの選手たちが、ホワイトハウスでトランプ大統領と対面へ…球団が発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/661fa5aa560d72e781afaef2bbfab43391f3dfcf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010015-footballc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「次のワールドカップだが…」サウジアラビア代表指揮官は日本代表をどう評価した？
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533474>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/687bdd41a68c433104f21d4233fe999613d44ae830b669f38b29bdc08539d472.jpg> 児童死傷 過去にも事故と容疑者
+      <a href=https://news.yahoo.co.jp/pickup/6533477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/22bc0f13da5ea4bdf9fbc093f7267691b249fd16f466e0431faab48b7a2f308a.jpg> 旧統一教会 コメントのおわび削除
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/e452303fcb040d6e30717d55b8ff0ef31f64a3e015d8e43c721fd7cb177d978d.jpg> 不適切投稿 姫路市議に辞職勧告
+      <a href=https://news.yahoo.co.jp/pickup/6533474>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/687bdd41a68c433104f21d4233fe999613d44ae830b669f38b29bdc08539d472.jpg> 児童死傷 過去にも事故と容疑者
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533475>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/4d29db1467eda6c2264c3675baf4af5b473bb7c3a9feb24880d8b7e8d16821a9.jpg> 県立高校長 修学旅行先で娘と観光
+      <a href=https://news.yahoo.co.jp/pickup/6533478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/49f7ee5965b804855ef824b132d94433cd911169733502f8e12eae3984fc6455.jpg> LUUP、障害でサービス一時停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533472>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/8bb5c94cd0387f403c4186089d7e5e84b5dd9f78ebe8575024185102abbeeb08.jpg> 4度おじぎ 森保監督のルーティン
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/f250eac535428c6aa847c4f78ea5f2dea0419e7583dd321db4169c83abd8b89c.jpg> 原田泰造主演「おっパン」映画化
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 13:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 13:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
