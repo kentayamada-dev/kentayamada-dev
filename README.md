@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a71fd3ea1273b3f4d3f3f285bf833af.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3dde7d5f88c4ec3edef7f5fc0ff33bd5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df934d7c4ba7a48c3f0127c191b82ce278319b9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-90018379-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=629&ch=629&exp=10800&fmt=webp> 斎藤知事　第三者委「違法」指摘に「真摯に受け止め」も「対応は適切だった」認識変えず　議会は厳しく批判
+      <a href=https://news.yahoo.co.jp/articles/52ce7c88661d8abb9b175360937fcde51b9aef2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000012-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ大統領　自動車関税25％に引き上げへ　日本からの輸入車も対象
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d32fadea15a7081e1e79ba1116df2c9900caa49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000219-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> トランプ米大統領が自動車25％関税発表「かつてなく繁栄へ」　日本製も対象、4月2日適用
+      <a href=https://news.yahoo.co.jp/articles/a9a815bef4579e69683f81d499e1c0280078d1a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00010001-nikkey-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 《ブラジル》日伯首脳会談＝両首脳2年ごとに相互訪問で合意＝戦略的グローバル提携行動計画発表＝協力プロジェクト80案件署名
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/df934d7c4ba7a48c3f0127c191b82ce278319b9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-90018379-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=629&ch=629&exp=10800&fmt=webp> 斎藤知事　第三者委「違法」指摘に「真摯に受け止め」も「対応は適切だった」認識変えず　議会は厳しく批判
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533552>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/e778d9c741f1c6fa79297b6375e82170980c9cf6b370596b92a765e1cf4138ba.jpg> 友田オレ 来年のR-1は「出ない」
+      <a href=https://news.yahoo.co.jp/pickup/6533558>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/c149d2b6085a0648306ef4faa62282f4b28bcd4d236670c2c4960bdcfd409ac2.jpg> 「チ。」舞台化 窪田正孝ら出演
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 08:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 08:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
