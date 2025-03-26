@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0202d2c59e84593ea4e2fd1c7d636ba8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c30635ae11dcb5a170b7514353e80656.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/362b7af5568a04ac314afcf3960c621328193b69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-08496189-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 兵庫・斎藤知事、パワハラ認め謝罪　告発者捜しについては「適切」との主張繰り返す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ca41afb81cd93bd299aff58f16531e13c83d9532>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00010041-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=396&ch=396&exp=10800&fmt=webp> 日本が本気でW杯制覇を目指すなら、守備的なサウジアラビアにも勝たないといけない「プランAが上手くいかなかった場合に、別プランを見つけ出す必要」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4f848ceba997e0e10a468389b6695ccb2f3b1a3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “数学のノーベル賞”アーベル賞に京大の柏原正樹特任教授　日本人の受賞は初
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-08234432-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “数学のノーベル賞”アーベル賞に京大の柏原正樹特任教授　日本人の受賞は初
       </a>
     </td>
   </tr>
@@ -375,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d9a0c8634f57f8033ac1c10bac3e8104b096dcbf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00050223-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=254&ch=254&exp=10800&fmt=webp> 甲子園の「異様な雰囲気」を打ち破った浦和実のエース石戸颯汰、ピンチでも「平常心でいった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16875bea7cac9dbcc6939b631a86795de9d4eac6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000163-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 斎藤知事「不快な思いをさせた」とパワハラの見解改め謝罪も、自身の処分は明言せず
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 01:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 02:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
