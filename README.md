@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/er5qb1KP4os?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2c6565d9ec50a43bd1ca9c4b351fca86.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/be280f757bcc412ed3d620ed4d329271.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc2bb4ad107d72b85a50b5b46d6899c509960900>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-10170383-abemav-000-1-view.jpg?pri=l&w=192&h=107&exp=10800&fmt=webp> 愛子さま、宮中晩さん会に初出席
+      <a href=https://news.yahoo.co.jp/articles/7cafcc8ec2c78fea94e6cc4e31d6cad023dfa4ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000015-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=974&ch=974&exp=10800&fmt=webp> ベッツが復帰で、大谷、フリーマンと「MVPトリオ」揃う…エンゼルスとのOP戦最終戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb93c18a2014ff46e1752ed745787e5d2f11110d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000035-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=666&ch=666&exp=10800&fmt=webp> ドジャース、大統領表敬訪問へ　4月7日にホワイトハウス
+      <a href=https://news.yahoo.co.jp/articles/23f2c6f42554fd43c887acc9b2a2f624dadb8873>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00000014-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=129&cw=774&ch=774&exp=10800&fmt=webp> ドジャース、ホワイトハウス訪問も懸念される「火種」…トランプ大統領、過去にロバーツ監督の采配批判、ベッツは2019年同行拒否
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e01e6e54a529b96d844e36f791eeaae0de436db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00252942-sasahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=26&cw=741&ch=741&exp=10800&fmt=webp> 朝ドラ「おむすび」視聴率ワースト更新か　過去の名作と何が違ったのか…　視聴者を置き去りにした「ギャル」と「震災」
+      <a href=https://news.yahoo.co.jp/articles/b5308a1dd58416376afa27b51e8312ee7ecd4df3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-00948249-fnnprimev-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 天皇皇后両陛下がブラジル大統領を歓迎する宮中晩餐会を6年ぶりに開催　愛子さまもポルトガル語交え歓談　和食好きの大統領夫妻のため初めて和食の前菜も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f10a2359b3d633644268d28a9ba06ee4125f1488>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東京地裁、旧統一教会に解散命令…「献金による被害に根本的な対策を講じず」
+      <a href=https://news.yahoo.co.jp/articles/447af8e2b9a0a1f1d323906fe64f5509f20e7600>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250326-03261022-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「あくまで通過点に過ぎずまだまだ問題は山積」…旧統一教会「解散命令」に「モーニングショー」で取材を続けているジャーナリストが明言
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/6bd9d9c5f96f8fa2c1ee8495d677308000d20ba4c54a08f2dab96ba85930a57c.jpg> 80年前 沖縄の島に押し寄せた米軍
+      <a href=https://news.yahoo.co.jp/pickup/6533447>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ccc4b6c7a2ab5ecf10006a6388aa4592e30f166db5d7c20820517124f4377255.jpg> 父「許せない」車突っ込み小2死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533447>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/ccc4b6c7a2ab5ecf10006a6388aa4592e30f166db5d7c20820517124f4377255.jpg> 父「許せない」車突っ込み小2死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/26/423067f22b4d42b93d831f8eeddcb9d9c4e3019fda4d93076d71bae54caa9897.jpg> 中国BYD、昨年売上高16兆円
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/26 09:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/26 10:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
