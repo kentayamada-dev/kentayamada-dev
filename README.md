@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e8a88d4020df9806170850be7cda641.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cab4e082f6257b2c3bc484f1fee655b8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02176e022c1ec4c8e2e9204cac65518d06bf9552>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000344-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=1196&ch=1196&exp=10800&fmt=webp> 日テレ「月曜から夜ふかし」が24日の放送内容を謝罪
+      <a href=https://news.yahoo.co.jp/articles/ef60c572413fd3e037c197026025fe143f700b57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00036121-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「悪意しかない」『月曜から夜ふかし』が歪曲演出を謝罪、“カラス回”前週の“痴漢発言”も問題視
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533624>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/debba1187bc098b50f68e82c984117942a6f2e9b4dd2d4aee562117945eabd48.jpg> 愛媛の山火事「恵みの雨」に期待
+      <a href=https://news.yahoo.co.jp/pickup/6533613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/3e95ba9002be5e7879825ffd53377181956a3a8f97fe17a610511f584cc5f824.jpg> 米政権 保護主義に歯止めかからず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533615>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 引き取り手ない遺体4.2万人 推計
+      <a href=https://news.yahoo.co.jp/pickup/6533602>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/42207cb6334a9a8a3f01e14b92917cc689cc7655446882db24434e49f9c5ab47.jpg> スーダン国軍 首都奪還を表明
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f4a23c4e6234a390875e09291d43ad6fabd37c105ad49cbfac9908564021d677.jpg> シャトレーゼに勧告 下請法違反
+      <a href=https://news.yahoo.co.jp/pickup/6533633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/fcce6bd4f4006bef7c0d16fd951470e8cbc8b47ab05697598010deb2f91d1f4f.jpg> がん死去 動植物園に9千万円寄付
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/4001c29d08456dae8f4c0001062cb5998c32a4549b7b81ea3aa246a3bb9510a3.jpg> 混入の公表当初控える すき家謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6533599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f4a23c4e6234a390875e09291d43ad6fabd37c105ad49cbfac9908564021d677.jpg> シャトレーゼに勧告 下請法違反
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 21:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 21:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
