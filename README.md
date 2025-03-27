@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec472919f15f5b1e33a45a607dc4304f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/43c1bc5a5dbfc96909f2157f47e9cf81.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ec9b5108c63310ad1a87a75cec887ca820a029d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-90021473-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 黄金時代築くも…“フジ文化”の象徴　フジHD・日枝氏が取締役退任へ
+      <a href=https://news.yahoo.co.jp/articles/c7b5a6c7df943b582f293046d8aa316a7b4c5b8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-07227139-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> フジテレビ　日枝久相談役含む22人の取締役の退任決定　新体制では取締役の数を半分にして3割を女性に
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 04:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 04:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
