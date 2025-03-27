@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zb2tXTkDHAA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b8b67b804b00a2e7dafeba499e391c9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b9bea006d6003db6ef5731f073e7b6f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e267665f9abc8fea385e85d9046971672a546a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000152-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　斎藤知事、告発対応は“当時の判断としては適切”に「公益通報かどうかは第三者が判断し…」
+      <a href=https://news.yahoo.co.jp/articles/7c4a14c0db1e90ddec21556e9997d1f099124704>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00080106-chosun-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=261&ch=261&exp=10800&fmt=webp> JYPエンタが5億ウォン寄付、山火事支援で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfb32389dc9a524c4fcd255c0cc651658d4c3605>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050072-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=370&ch=370&exp=10800&fmt=webp> 犬を追いかけた小４女児がはねられて死亡、警報機や遮断機ない４種踏切「廃止が望ましい」…事故から１年で運輸安全委が報告書
+      <a href=https://news.yahoo.co.jp/articles/b6fcf0866ca8e2d6c894485a7abe9ad75b50466f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-02757313-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> “数学のノーベル賞”「アーベル賞」に京大の柏原正樹特任教授「驚くべき定理を証明」日本人の受賞は初『D加群理論』確立
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d48b7642c1b8afd74c683dd3d16bad0e5d7c709d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-10170583-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=994&ch=994&exp=10800&fmt=webp> 「トランプ大統領と会ってほっとされたかもしれないが、結果は全然ですね。しっかりやってください」「日米貿易協定違反ではないか」自動車関税10倍めぐり辻元議員が石破総理を追及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ded172614759029dbce889637589504ff95f4fa8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00010005-yomosaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=666&ch=666&exp=10800&fmt=webp> 「すぐに判断するのではなく言動見守る」「謝罪は評価する」…兵庫県知事会見、県議ら受け止め
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a75678bbca4dd74f16a313719fa371e774620c30>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050070-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシアへの制裁緩和は「時期尚早」、マクロン仏大統領とゼレンスキー氏がパリで会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1aac162ce5d896a92d07c4baa25cb55070b1da2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-01972521-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ大統領、輸入車に25％の追加関税　来月3日から　日本も対象
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2b0f254a482f98b1ff9c9e38a997f6aaf2b01b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=530&ch=530&exp=10800&fmt=webp> フランスがウクライナに追加軍事支援3200億円　27日に30カ国会議
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533559>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/5133768e4efbd273b4b0876481ba6db0f797f30f32560d3f477ef299ab219373.jpg> 日・ブラジル首脳 相互訪問で合意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533562>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/7fbce09b23265cda6ffa31b6d7398905fcfdcd787777dbe6dff529b4c724473e.jpg> 正恩氏 AI自爆ドローン試験を視察
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533575>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/c12dca596bea911f1f6041bcb8b1266ed285ffcc58e470ce2aa5f6a46b626451.jpg> 「ジブリ風」画像生成 SNS投稿増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533572>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/2127f6f2b0e41010f7474c4cf37c242ab1d3e1c49ab9773b270e72bf38498477.jpg> バド元代表・大堀彩さん 結婚発表
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 11:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 12:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
