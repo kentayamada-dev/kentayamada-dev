@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zb2tXTkDHAA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f76ebd520bb17b7c6e61b7322e9c2a56.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec44996bd1341ac683c5138e748c151b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e1cbaa23e515fdf05dfdd88d17052613bfd8e21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 共同研究者に感謝　アーベル賞受賞の柏原氏
+      <a href=https://news.yahoo.co.jp/articles/2a884c8ccda1c91c4bb16f2913eb0e2940576a93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050162-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> フジテレビ問題で、ＨＤ株主の男性が経営陣１５人に２３３億円の損害賠償を求めて東京地裁に提訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52240f4018942c3af7f4009ebf5730507d3e94a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000011-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《冷蔵庫から…》「すき家」広報部が明かす“味噌汁にネズミ混入”の全貌　「本能的に高温の物体を避けます」鍋で煮込まれていた可能性を完全否定
+      <a href=https://news.yahoo.co.jp/articles/cb8cb71abc03eee5ce61374f58e9f17bef96910b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 斎藤知事、「うそ八百」撤回せず　発言から1年、告発者処分も維持
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/adbb504a912366b71a5c5c2ea7d4c4f415eef293>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-07227031-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=528&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理「非常に遺憾」　アメリカ・トランプ大統領が自動車に追加関税25％と発表
+      <a href=https://news.yahoo.co.jp/articles/f73aea3c36e4b0dac5cd9f2dc4ae3f9327a84b39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 柏原氏「研究高く評価された」　アーベル賞受賞記者会見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1891995b30511a44cc8d5c2030695fcc067fd11a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000071-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> フジテレビの日枝久取締役相談役が退任　フジ・メディアHDも6月に　在任期間40年超
+      <a href=https://news.yahoo.co.jp/articles/15e6012722ab82f3bda496c33a456da4d022015b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00949194-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破首相　米自動車追加関税「非常に遺憾」　岩屋外相に日本除外の交渉継続を指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e38953c9ba1d8d3da2a07ff7f9f4aaa945530d8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-10170607-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=973&ch=973&exp=10800&fmt=webp> ゼレンスキー氏 仏大統領と会見 ロシア制裁を継続・強化するよう訴え
+      <a href=https://news.yahoo.co.jp/articles/144f71d96e2c1336329474d8f55787e641de1c3d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-33270535-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=1003&ch=1003&exp=10800&fmt=webp> 読売テレビ、ダウンタウン２人への対応明暗分かれる「まずは体調」「視聴者に受け入れられるか」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533573>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f0eb1a6dfc95b486b97cf8756880a074b847d658b7f09ed0c0c0c9ad741df966.jpg> EU対露制裁 解除は完全撤退条件
+      <a href=https://news.yahoo.co.jp/pickup/6533603>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/83dd50ebed58f76cf9eae462bdb29ad68a7b846c70066e29f0ba028554b559db.jpg> 米自動車関税 日系メーカー驚がく
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533595>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/15c3d7b64c43f614d27b4ed46796de50002efaee1b345721177bc2d9fc7b82d3.jpg> 物議のストリートピアノ 撤去発表
+      <a href=https://news.yahoo.co.jp/pickup/6533604>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/4199d78d9c1d27739df652e1cbc9d87faccf4c115d5b87fbfcf48b948b483735.jpg> 映画監督の篠田正浩さん死去 94歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 16:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 17:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
