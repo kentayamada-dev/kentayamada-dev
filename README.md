@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/691f609243a10f46b155d8ec2b9ea65a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0df8b94ddc26b419b9f00239df922e35.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49ce5849488165277f9a41862b079e17ae42b5f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-90018400-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 「通報したら潰される」斎藤知事の姿勢に職員から不安の声　知事は「指摘受け止め」ても処分撤回せず
+      <a href=https://news.yahoo.co.jp/articles/f094b4cf1fa8ffac99feb316ae8700128e988c28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-90019835-ebc-000-1-thumb.jpg?exp=10800&fmt=webp> 懸命の消火活動で守られた今治の「道の駅」２６日ぶりに営業を再開「早く鎮火に向かって欲しい」　【愛媛】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9303218a21a8c5d75f04c466e9a644d6185f6697>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000025-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 斎藤元彦知事「真摯に受け止め」繰り返すばかり　詰め寄る記者「不誠実にもほどがある」「自身に処分ないのか」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3915a3f8d36c1f7cd2d55b42cc7d39fb7bb0d0d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-03723621-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 株主男性「包み隠さず対処してほしかった」フジ親会社の当時の経営陣らに約233億円賠償求め提訴　中居氏問題の対応めぐり
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbe7ee88014c1e4f4b407170be208822cfe65b94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00949335-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 愛媛山火事「鎮圧の背中が見えてきた」今治市では28日朝にかけてまとまった雨が降る見込み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aece9400cd08366ba2e02db326002f29ef6edaf5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050173-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=363&ch=363&exp=10800&fmt=webp> 自動車への２５％の追加関税、米に適用除外を申し入れ…石破首相は関係閣僚に交渉強化を指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77948ec62f0eae00cd344e1c3937c14eda6310f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000068-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=534&ch=534&exp=10800&fmt=webp> フジHD株主が現旧経営陣15人を提訴　広告減少、233億円賠償求め
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533620>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/455cde033423cdb7f929493587999e0914eefb96ae81e8be56cf9045dfd67ff9.jpg> F1角田裕毅 レッドブル昇格
+      <a href=https://news.yahoo.co.jp/pickup/6533616>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 脳死状態の人にブタ肝臓移植 中国
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533623>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/1ff72625d33448b92f5ac3c97dfbe8fa1f58d422ab79c701712185eaf032a3d7.jpg> ホラン千秋 涙で「Nスタ」卒業
+      <a href=https://news.yahoo.co.jp/pickup/6533626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/a34da396e93a76fa70ccf993e520ad6df62b9e193e8f21acefef11fecfafca7e.jpg> 声優・川浪葉子さん死去 67歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 19:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 20:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
