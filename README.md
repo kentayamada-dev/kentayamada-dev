@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/43c1bc5a5dbfc96909f2157f47e9cf81.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0a9d1a808284947cf3abdcfe03416986.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7b5a6c7df943b582f293046d8aa316a7b4c5b8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-07227139-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> フジテレビ　日枝久相談役含む22人の取締役の退任決定　新体制では取締役の数を半分にして3割を女性に
+      <a href=https://news.yahoo.co.jp/articles/a3919fa5395290c7d7d495fc72e443f825a64c90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000071-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=1196&ch=1196&exp=10800&fmt=webp> 日本テレビが謝罪　「月曜から夜ふかし」が意図的編集　“中国ではカラス食べる”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07ddcd32550b1b802eaa3ecd48732d83124adfc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-90021474-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏「自動車25％関税」日本メーカーに“逆風”…アメリカ経済に“逆効果”も？
+      <a href=https://news.yahoo.co.jp/articles/4150fc549723d90083d3f75f69e66f63a14af27a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000068-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ君臨42年、日枝帝国やっと終焉　31日第三者委報告書前に経営刷新　説明責任果たさず幕引きへ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 04:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 05:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
