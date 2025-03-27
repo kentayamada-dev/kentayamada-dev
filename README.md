@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3327d9ae21a92f21aba6e49742671018.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2b598c4a33fcf1f4a921ecdcf3690421.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16b0badaaba1eef6b605b50ac24892ff9c48f3e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000124-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　斎藤知事に「告発を組織をあげて…最悪の権力行使。民主国家では絶対に許してはならない」
+      <a href=https://news.yahoo.co.jp/articles/c1a44caadf3ca25cf0b06c410473da68e9405643>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000045-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=722&ch=722&exp=10800&fmt=webp> 玉川徹氏　斎藤知事の姿勢をフジテレビになぞらえる「第三者委員会の調査結果を受け入れないとなったらどうなるか」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4c72274fc2b3729e06ddf8ae0890707efa46702e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948867-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=720&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本人初!アーベル賞に京大・柏原正樹氏（78）が選出　「数学のノーベル賞」と称され賞金約1億700万円　「まさに真の数学的な先見者」アカデミー称賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c1c8811a55f9ebf46496b63b0bbc97688d0e589d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドジャース、JTBなどと契約　球場内の優先入場や広告を実施
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9b19058e48cd00adc9a8a5ecca09a99cd1e24f69>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 輸入車への25%関税を発表 トランプ氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9a815bef4579e69683f81d499e1c0280078d1a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00010001-nikkey-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 《ブラジル》日伯首脳会談＝両首脳2年ごとに相互訪問で合意＝戦略的グローバル提携行動計画発表＝協力プロジェクト80案件署名
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab9701b8764d6de687fef703d65e4a5fe8ef1c3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948842-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> アーベル賞に京大・柏原正樹氏　日本人初「数学のノーベル賞」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533557>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/d231729d5b5dc1adf594a646c5cf0ff834c04920d3826a17336dd11c5697c5c6.jpg> 立憲・国民・連合 基本政策合意へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533554>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/545152f551bacf5b7744361a6b2a96ccf3a4ca53d4ab14645753ea74bed18992.jpg> 山上被告 宗教学者と複数回面会
       </a>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533550>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/5e356f0c20153eaecf3e421608f21e1e1241debd6b3980a6685882f7e4fbe4fc.jpg> ホンダ 中国にEV専用工場を新設
+      <a href=https://news.yahoo.co.jp/pickup/6533561>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/68d6295056ec123c622f188e2de08e36cde5c036cbedf2fddda50f8f8aee5399.jpg> 市民から集めた写真8年分 誤削除
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/93367df402de926d0a6e110b42134fbc61098bee7135c1134a2d9cd8814a5c4b.jpg> きょうフジ取締役会 人事案決定へ
+      <a href=https://news.yahoo.co.jp/pickup/6533565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/76c474837d03a8b04c96dd781129ccb55c24692462f3830c2053055867a70808.jpg> ド軍JTB契約 特典で1時間前入場
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/c149d2b6085a0648306ef4faa62282f4b28bcd4d236670c2c4960bdcfd409ac2.jpg> 「チ。」舞台化 窪田正孝ら出演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 09:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 09:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
