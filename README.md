@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zb2tXTkDHAA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b244caa582b291089cca7b19823c576c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb0efeb6f5b37caa516adee8584b4d91.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6699521d2700a766223b2932c0c12a8f8cbf178a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000278-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=1002&ch=1002&exp=10800&fmt=webp> 日枝久氏　現在も腰椎圧迫骨折で入院中　フジ相談役＆フジサンケイG代表を辞任
+      <a href=https://news.yahoo.co.jp/articles/dbc61e043d64796f63cfc558c1f52254740500e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000293-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=889&ch=889&exp=10800&fmt=webp> フジ社長　日枝久氏が人事に与えた影響を否定「影響力は全くなく発表できた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8bc2923826f305c9d0ae404a5ea6b2b8d0f95edd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00064593-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「５０年を超える研究全体が高く評価された」京大・柏原特任教授が日本人初“数学のノーベル賞”を受賞「正直言って非常にビックリ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/77cbc5a76cadaa65737e4301287695b5fe70f2a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000110-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=756&ch=756&exp=10800&fmt=webp> フジテレビ取締役　女性比率3割に引き上げ、平均年齢は67・3歳から59・5歳へ若返り
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a884c8ccda1c91c4bb16f2913eb0e2940576a93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050162-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> フジテレビ問題で、ＨＤ株主の男性が経営陣１５人に２３３億円の損害賠償を求めて東京地裁に提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f73aea3c36e4b0dac5cd9f2dc4ae3f9327a84b39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000159-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=313&cw=1726&ch=1726&exp=10800&fmt=webp> 柏原氏「研究高く評価された」　アーベル賞受賞記者会見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e6d57c0bb25007b36e4d07d8e84626007a2b5795>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000063-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> トランプ米政権、保護主義に歯止めかからず　「解放の日」と誇示も…成算見えぬ関税戦争
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000063-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> トランプ米政権、保護主義に歯止めかからず　「解放の日」と誇示も…成算見えぬ関税戦争
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/037c4e5c28d25ce58f65ff290f3d0ef3b1371cbcf6426d163b890fc919428ddb.jpg> 物価高対策 公明代表が発言陳謝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533603>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/83dd50ebed58f76cf9eae462bdb29ad68a7b846c70066e29f0ba028554b559db.jpg> 米自動車関税 日系メーカー驚がく
       </a>
@@ -418,8 +410,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/037c4e5c28d25ce58f65ff290f3d0ef3b1371cbcf6426d163b890fc919428ddb.jpg> 物価高対策 公明代表が発言陳謝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533611>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 解体現場でCO中毒か 1人心肺停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/af3f6f642c68f562e3dfbcedc6fd3d96f6e050bb63554d416e24de3d5e81a4d3.jpg> フジ 取締役12人が27日付で退任
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533604>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/4199d78d9c1d27739df652e1cbc9d87faccf4c115d5b87fbfcf48b948b483735.jpg> 映画監督の篠田正浩さん死去 94歳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533608>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/1e707990a8f5fb964cfb01a751699c3573f640d0972c900aa6b401df5f749538.jpg> ダウンタウンDX 週替りMCで進行
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 17:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 18:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
