@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6cf8dc2ce36310cfd23fce0610159bab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/333996f9a5c5365e02304851137c2611.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8cf264ac0f8372080cee116cc6ea8ecda456714>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000168-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=796&ch=796&exp=10800&fmt=webp> フジテレビ広告急減、報告書待たず人事改革　「透明性高い会社」も信頼回復は調査報告後に
+      <a href=https://news.yahoo.co.jp/articles/9ab68f5aa8488dee3e07066571dea47870297020>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050198-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=347&ch=347&exp=10800&fmt=webp> フジテレビ新経営陣、過半数が社外取締役…平均年齢５９・５歳に若返り
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533637>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/8189899edd3f9b97e35da943a34cc2ebb4a5570827a46c80bed44c52ee985a32.jpg> 万博ガイド 未完成のイラスト掲載
+      <a href=https://news.yahoo.co.jp/pickup/6533627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/dfb9bae0366b5f5a58ed65785499b60620e45c9b3f8bfc6a44e33550ceb5a22f.jpg> 遠藤周作 未発表の冊子発見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/fcce6bd4f4006bef7c0d16fd951470e8cbc8b47ab05697598010deb2f91d1f4f.jpg> がん死去 動植物園に9千万円寄付
+      <a href=https://news.yahoo.co.jp/pickup/6533643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/66e0fd8887504ccb50c93bd67983483294b04d2788b40a5c602c6f73cbd593a9.jpg> ムツゴロウ 世界の絶滅危惧種に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 23:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 23:52:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
