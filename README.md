@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/899ab9512e91984797c2a9d822ad67f6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ab8ef50f82d68dda631090cf3714441.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6248617985d57351c824e36206827a890e3d771b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-10170610-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=558&ch=558&exp=10800&fmt=webp> フジ株主が経営陣に233億円賠償求め提訴 中居トラブル対応で
+      <a href=https://news.yahoo.co.jp/articles/b3b5a8c8e3ce122ed8ccd626e14ee6f7de6f2b80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000035-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 日枝久氏、フジと親会社の取締役相談役退任　幹部複数も　刷新狙いか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/94aa4b42600ff02ac44c5ad004589cca29bc6e68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000431-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=791&ch=791&exp=10800&fmt=webp> 日枝久、フジ取締役相談役を退任　経営体制見直しで「女性取締役比率を3割以上」など実行へ
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/822a4c1134b7b508585843cf0cdad6b9b18d1456>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050154-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 京大の柏原特任教授「５０年を超える研究全体が高く評価された」…「数学のノーベル賞」で喜び語る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f7796349d928e1104d7f1a37fa37ed1eb86200e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000118-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1826&ch=1826&exp=10800&fmt=webp> 高知銀行頭取に河合氏　地銀で初の女性トップ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050154-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 京大の柏原特任教授「５０年を超える研究全体が高く評価された」…「数学のノーベル賞」で喜び語る
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533580>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/d15a2c6bec9226501a157dc300f1419509284ba41dc93b8d41b2059ac77be904.jpg> 米の自動車関税 日本除外を求める
+      <a href=https://news.yahoo.co.jp/pickup/6533598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/8dbb2ec99dffac9950f6da18086793720642d873e870b63b73f986514a608435.jpg> フジ 日枝取締役相談役が退任へ
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533585>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/11d3915d83d2d99921cc3afbc0b24ba4c2f82c20f9bd46d3433c17835e3964b6.jpg> 愛媛岡山の山火事 鎮圧めど立たず
+      <a href=https://news.yahoo.co.jp/pickup/6533594>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/130a7b15f16729c0adac9dce7dccadb515ec58486a78f59bfbe7e341577bc2a3.jpg> 広瀬めぐみ元参院議員に有罪判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/51cd6e44c84141d70a2cffe2cbe2ece92e3e8e752ad9fc8298649ab462aecf3e.jpg> 高知銀行に女性頭取 地銀で全国初
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533592>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/447b8f34a383ae53a001c00cd7f5182a3feb231a6f9abbeb950db4f90d34b51c.jpg> フジ株主 233億円の賠償求め提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533593>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/ced545b3bb5ce30f05785931226bf06f8665c819dd580b76a74ff7abf319c286.jpg> 上越市30.0℃ 本州で今年初真夏日
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 15:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 16:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
