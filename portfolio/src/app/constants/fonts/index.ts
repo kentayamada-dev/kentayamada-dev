@@ -14,4 +14,4 @@ const robotoMono = Roboto_Mono({
 
 const fonts = `${notoSansJP.variable} ${robotoMono.variable}`;
 
-export { fonts };
+export { fonts, notoSansJP };

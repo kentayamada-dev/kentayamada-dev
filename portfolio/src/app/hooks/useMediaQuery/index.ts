@@ -1,13 +1,14 @@
 import { useEffect } from 'react';
-import type { UseMediaQueryType } from './types';
 
-const useMediaQuery: UseMediaQueryType = (props) => {
+const useMediaQuery = (callback: () => void): void => {
   useEffect(() => {
-    const mediaQueryList = window.matchMedia(props.query);
+    const styles = getComputedStyle(document.documentElement);
+    const breakpointMd = styles.getPropertyValue('--breakpoint-md');
+    const mediaQueryList = window.matchMedia(`(min-width: ${breakpointMd})`);
 
     const handleMediaQueryChange = (event: MediaQueryListEvent): void => {
       if (event.matches) {
-        props.callback();
+        callback();
       }
     };
 
@@ -16,7 +17,7 @@ const useMediaQuery: UseMediaQueryType = (props) => {
     return (): void => {
       mediaQueryList.removeEventListener('change', handleMediaQueryChange);
     };
-  }, [props.query, props.callback]);
+  }, []);
 };
 
 export { useMediaQuery };

@@ -30,6 +30,12 @@ const tseslintRule = addPrefixRule(tseslintPrefix, {
       'selector': 'typeAlias',
       'format': ['PascalCase'],
       'suffix': ['Type', 'Props', 'Params']
+    },
+    {
+      'selector': ['variable', 'typeProperty'],
+      'types': ['boolean'],
+      'format': ['camelCase', 'PascalCase'],
+      'prefix': ['is', 'has']
     }
   ],
   'no-restricted-imports': [

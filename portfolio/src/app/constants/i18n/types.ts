@@ -19,7 +19,6 @@ type DictionaryType = {
     recommend: string;
     toc: string;
   };
-  backToHome: string;
   calculator: {
     buyPrice: string;
     buyRate: string;
@@ -34,6 +33,7 @@ type DictionaryType = {
   labels: {
     closeSidePanelLabel: string;
     githubLinkLabel: string;
+    homeLinkLabel: string;
     localeSwitcherLabel: string;
     openSidePanelLabel: string;
     storybookLinkLabel: string;

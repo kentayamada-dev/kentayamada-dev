@@ -1,6 +1,6 @@
 import type { LocaleKeyType } from '@/constants/i18n/types';
 
-const getDateString = (utcTime: Date, lang: LocaleKeyType): string => {
+const getDateString = (utcTime: Date, locale: LocaleKeyType): string => {
   const date = new Date(utcTime);
   const currentYear = new Date().getFullYear();
   const year = date.getFullYear();
@@ -11,7 +11,7 @@ const getDateString = (utcTime: Date, lang: LocaleKeyType): string => {
 
   const options: Intl.DateTimeFormatOptions = { day: 'numeric', month: 'short' } as const;
 
-  return date.toLocaleDateString(lang, options);
+  return date.toLocaleDateString(locale, options);
 };
 
 export { getDateString };

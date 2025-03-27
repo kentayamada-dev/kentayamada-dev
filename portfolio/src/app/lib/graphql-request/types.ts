@@ -16,7 +16,7 @@ import type {
 
 type GetContentByLocaleType<T> = (locale: LocaleKeyType) => Promise<DeepReadonlyType<T>>;
 
-type GetContentBySlugType<T> = (locale: LocaleKeyType, slug: string, onNotFound: () => never) => Promise<DeepReadonlyType<T>>;
+type GetContentBySlugType<T> = (locale: LocaleKeyType, slug: string) => Promise<DeepReadonlyType<T>>;
 
 type GetSlugsType = () => Promise<DeepReadonlyType<SlugsType>>;
 
@@ -24,7 +24,7 @@ type GetSitemapType = () => Promise<DeepReadonlyType<SitemapType>>;
 
 type GetProjectsType = () => Promise<DeepReadonlyType<ProjectItemsType>>;
 
-type GetMetadataType = (locale: LocaleKeyType, id: string, onNotFound: () => never) => Promise<DeepReadonlyType<MetadataType>>;
+type GetMetadataType = (locale: LocaleKeyType, id: string) => Promise<DeepReadonlyType<MetadataType>>;
 
 type GetArticlesType = GetContentByLocaleType<ArticlesType>;
 
@@ -32,7 +32,7 @@ type GetCareersType = GetContentByLocaleType<CareersType>;
 
 type GetUtilitiesType = GetContentByLocaleType<UtilitiesType>;
 
-type GetAboutType = (locale: LocaleKeyType, onNotFound: () => never) => Promise<DeepReadonlyType<AboutType>>;
+type GetAboutType = (locale: LocaleKeyType) => Promise<DeepReadonlyType<AboutType>>;
 
 type GetArticleBySlugType = GetContentBySlugType<ArticleType>;
 

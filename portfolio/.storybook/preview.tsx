@@ -1,44 +1,9 @@
 import React from 'react';
 import { withThemeByClassName } from '@storybook/addon-themes';
 import { Preview, ReactRenderer } from '@storybook/react';
-import { Noto_Sans_JP } from 'next/font/google';
+import { customViewports, viewportKeys } from '../src/app/lib/storybook';
+import { notoSansJP } from '../src/app/constants/fonts';
 import '../src/app/globals.css';
-
-const notoSansJP = Noto_Sans_JP({
-  display: 'swap',
-  subsets: ['latin'],
-  variable: '--font-noto-sans-jp'
-});
-
-const customViewports = {
-  iPhone14ProMax: {
-    name: 'iPhone 14 Pro Max',
-    styles: {
-      width: '430px',
-      height: '932px'
-    }
-  },
-  iPadAir: {
-    name: 'iPad Air',
-    styles: {
-      width: '820px',
-      height: '1180px'
-    }
-  },
-  fullHd: {
-    name: 'Full HD',
-    styles: {
-      width: '1920px',
-      height: '1080px'
-    }
-  }
-} as const;
-
-type ViewportKey = keyof typeof customViewports;
-
-const viewportKeys: { [K in ViewportKey]: K } = Object.fromEntries(Object.keys(customViewports).map((key) => [key, key])) as {
-  [K in ViewportKey]: K;
-};
 
 const preview: Preview = {
   parameters: {
@@ -49,14 +14,7 @@ const preview: Preview = {
       }
     },
     layout: 'fullscreen',
-    viewport: { viewports: customViewports, defaultViewport: viewportKeys.iPadAir },
-    options: {
-      storySort: {
-        method: 'alphabetical',
-        order: ['Icons', 'Atoms', 'Molecules', 'Templates'],
-        includeNames: true
-      }
-    }
+    viewport: { viewports: customViewports, defaultViewport: viewportKeys.iPadAir }
   },
   decorators: [
     (Story) => {

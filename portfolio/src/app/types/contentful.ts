@@ -75,7 +75,7 @@ type ArticlesType = {
     url: string;
   };
   slug: string;
-  sys: { publishedAt: string };
+  sys: { firstPublishedAt: string; publishedAt: string };
   title: string;
 }[];
 
@@ -124,10 +124,12 @@ type SitemapItemsType = {
 }[];
 
 type ProjectItemsType = {
+  createdAt: string;
   description: string;
-  forkCount: number;
+  forkCount: string;
   name: string;
-  stargazerCount: number;
+  stargazerCount: string;
+  updatedAt: string;
   url: string;
 }[];
 

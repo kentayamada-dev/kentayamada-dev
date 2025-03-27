@@ -2,7 +2,6 @@
   "myName": "山田 健太",
   "siteName": "山田健太のポートフォリオ",
   "faq": "FAQ",
-  "backToHome": "ホームに戻る",
   "utilities": "ユーティリティ",
   "projects": "プロジェクト",
   "labels": {
@@ -11,7 +10,8 @@
     "openSidePanelLabel": "サイドパネルを開く",
     "closeSidePanelLabel": "サイドパネルを閉じる",
     "storybookLinkLabel": "Storybookを開く",
-    "githubLinkLabel": "GitHubを開く"
+    "githubLinkLabel": "GitHubを開く",
+    "homeLinkLabel": "ホームへ行く"
   },
   "about": {
     "career": "経歴",

@@ -34,7 +34,7 @@ type AsyncJSXElementType = Promise<JSXElementType>;
 type AsyncMetadataType = Promise<Metadata>;
 
 type LayoutGenerateStaticParams = {
-  lang: LocaleKeyType;
+  locale: LocaleKeyType;
   slug: string[];
 };
 

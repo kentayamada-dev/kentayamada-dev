@@ -1,4 +1,5 @@
 import { gql } from 'graphql-request';
+import { throwColoredError } from '@/utils';
 import { apiRequest } from './client';
 import type {
   GetAboutType,
@@ -50,6 +51,8 @@ const getProjects: GetProjectsType = async () => {
               url
               stargazerCount
               forkCount
+              createdAt
+              updatedAt
             }
           }
         }
@@ -130,7 +133,7 @@ const getUtilitySlugs: GetSlugsType = async () => {
   return utilitySlugs;
 };
 
-const getMetadata: GetMetadataType = async (locale, id, onNotFound) => {
+const getMetadata: GetMetadataType = async (locale, id) => {
   const query = gql`
     query Query($where: MetaDataFilter!, $locale: String!) {
       metaDataCollection(where: $where, locale: $locale) {
@@ -160,7 +163,7 @@ const getMetadata: GetMetadataType = async (locale, id, onNotFound) => {
   ).metaDataCollection.items;
 
   if (!metadata) {
-    return onNotFound();
+    return throwColoredError('metadata is empty', 'red');
   }
 
   return metadata;
@@ -175,6 +178,7 @@ const getArticles: GetArticlesType = async (locale) => {
           slug
           sys {
             publishedAt
+            firstPublishedAt
           }
           coverImage {
             url
@@ -253,7 +257,7 @@ const getUtilities: GetUtilitiesType = async (locale) => {
   return articles;
 };
 
-const getAbout: GetAboutType = async (locale, onNotFound) => {
+const getAbout: GetAboutType = async (locale) => {
   const query = gql`
     query Query($locale: String!) {
       aboutCollection(locale: $locale) {
@@ -276,13 +280,13 @@ const getAbout: GetAboutType = async (locale, onNotFound) => {
   ).aboutCollection.items;
 
   if (!about) {
-    return onNotFound();
+    return throwColoredError('about is empty', 'red');
   }
 
   return about;
 };
 
-const getArticleBySlug: GetArticleBySlugType = async (locale, slug, onNotFound) => {
+const getArticleBySlug: GetArticleBySlugType = async (locale, slug) => {
   const query = gql`
     query Query($where: ArticleFilter!, $locale: String!) {
       articleCollection(where: $where, locale: $locale) {
@@ -313,13 +317,13 @@ const getArticleBySlug: GetArticleBySlugType = async (locale, slug, onNotFound) 
   ).articleCollection.items;
 
   if (!article) {
-    return onNotFound();
+    return throwColoredError('article is empty', 'red');
   }
 
   return article;
 };
 
-const getUtilityBySlug: GetUtilityBySlugType = async (locale, slug, onNotFound) => {
+const getUtilityBySlug: GetUtilityBySlugType = async (locale, slug) => {
   const query = gql`
     query Query($where: UtilityFilter, $locale: String) {
       utilityCollection(where: $where, locale: $locale) {
@@ -350,7 +354,7 @@ const getUtilityBySlug: GetUtilityBySlugType = async (locale, slug, onNotFound) 
   ).utilityCollection.items;
 
   if (!utility) {
-    return onNotFound();
+    return throwColoredError('utility is empty', 'red');
   }
 
   return utility;

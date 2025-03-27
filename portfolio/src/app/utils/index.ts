@@ -7,3 +7,4 @@ export { getTypedKey } from './getTypedKey';
 export { getYouTubeVideoId } from './getYouTubeVideoId';
 export { isPathStartingWith } from './isPathStartingWith';
 export { mapObjectByKeyValue } from './mapObjectByKeyValue';
+export { throwColoredError } from './throwColoredError';

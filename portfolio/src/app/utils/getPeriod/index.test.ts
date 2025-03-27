@@ -2,51 +2,48 @@ import { describe, expect, it } from 'vitest';
 import { getPeriod } from '.';
 
 describe('getPeriod', () => {
-  it('should return the correct period when both startDate and endDate are provided', () => {
+  const PRESENT_LABEL = 'Present';
+  const ERROR_MESSAGE = 'Both start and end dates must be midnight in UTC.';
+
+  it('should return "2020 — 2021" for valid midnight UTC start and end dates', () => {
     expect.assertions(1);
 
-    const startDate = new Date(2015, 0, 1);
-    const endDate = new Date(2020, 11, 31);
-    const result = getPeriod(startDate, endDate, 'Present');
-
-    expect(result).toBe('2015 — 2020');
-  });
-
-  it('should use the presentLabel when endDate is null', () => {
-    expect.assertions(1);
-
-    const startDate = new Date(2010, 0, 1);
-    const result = getPeriod(startDate, null, 'Present');
-
-    expect(result).toBe('2010 — Present');
-  });
-
-  it('should handle edge cases with the same year for startDate and endDate', () => {
-    expect.assertions(1);
-
-    const startDate = new Date(2023, 0, 1);
-    const endDate = new Date(2023, 11, 31);
-    const result = getPeriod(startDate, endDate, 'Present');
-
-    expect(result).toBe('2023 — 2023');
-  });
-
-  it('should handle leap years correctly', () => {
-    expect.assertions(1);
-
-    const startDate = new Date(2020, 1, 29);
-    const endDate = new Date(2021, 1, 28);
-    const result = getPeriod(startDate, endDate, 'Present');
+    const startDate = new Date('2020-01-01T00:00:00.000Z');
+    const endDate = new Date('2021-01-01T00:00:00.000Z');
+    const result = getPeriod(startDate, endDate, PRESENT_LABEL);
 
     expect(result).toBe('2020 — 2021');
   });
 
-  it('should work with different present labels', () => {
+  it('should return "2020 — Present" when the end date is 1000-01-01T00:00:00.000Z', () => {
     expect.assertions(1);
 
-    const startDate = new Date(2018, 0, 1);
-    const result = getPeriod(startDate, null, 'Now');
+    const startDate = new Date('2020-01-01T00:00:00.000Z');
+    const endDate = new Date('1000-01-01T00:00:00.000Z');
+    const result = getPeriod(startDate, endDate, PRESENT_LABEL);
 
-    expect(result).toBe('2018 — Now');
+    expect(result).toBe('2020 — Present');
+  });
+
+  it('should throw an error if the start date is not midnight UTC', () => {
+    expect.assertions(1);
+
+    const startDate = new Date('2020-01-01T03:00:00.000Z');
+    const endDate = new Date('2021-01-01T00:00:00.000Z');
+
+    expect(() => {
+      return getPeriod(startDate, endDate, PRESENT_LABEL);
+    }).toThrow(ERROR_MESSAGE);
+  });
+
+  it('should throw an error if the end date is not midnight UTC', () => {
+    expect.assertions(1);
+
+    const startDate = new Date('2020-01-01T00:00:00.000Z');
+    const endDate = new Date('2021-01-01T05:00:00.000Z');
+
+    expect(() => {
+      return getPeriod(startDate, endDate, PRESENT_LABEL);
+    }).toThrow(ERROR_MESSAGE);
   });
 });

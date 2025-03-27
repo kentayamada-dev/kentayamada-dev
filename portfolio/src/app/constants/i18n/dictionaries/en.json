@@ -2,7 +2,6 @@
   "myName": "Kenta Yamada",
   "siteName": "Kenta Yamada's Portfolio",
   "faq": "FAQ",
-  "backToHome": "Back to Home",
   "utilities": "Utilities",
   "projects": "Projects",
   "labels": {
@@ -11,7 +10,8 @@
     "openSidePanelLabel": "Open Side Panel",
     "closeSidePanelLabel": "Close Side Panel",
     "storybookLinkLabel": "Open Storybook",
-    "githubLinkLabel": "Open GitHub"
+    "githubLinkLabel": "Open GitHub",
+    "homeLinkLabel": "Go to Home"
   },
   "about": {
     "career": "Career",

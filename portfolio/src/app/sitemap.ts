@@ -17,21 +17,21 @@ const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
     };
   };
 
-  const staticPaths = arrayOfLocales.flatMap((lang) => {
+  const staticPaths = arrayOfLocales.flatMap((locale) => {
     return Object.values(navigationItems).map((item) => {
-      return createSitemapEntry(`${envServer.SITE_URL}/${lang}${item.href}`);
+      return createSitemapEntry(`${envServer.SITE_URL}/${locale}${item.href}`);
     });
   });
 
-  const articlePaths = arrayOfLocales.flatMap((lang) => {
+  const articlePaths = arrayOfLocales.flatMap((locale) => {
     return articleItems.map((article) => {
-      return createSitemapEntry(`${envServer.SITE_URL}/${lang}${navigationItems.articles.href}/${article.slug}`, article.sys.publishedAt);
+      return createSitemapEntry(`${envServer.SITE_URL}/${locale}${navigationItems.articles.href}/${article.slug}`, article.sys.publishedAt);
     });
   });
 
-  const utilityPaths = arrayOfLocales.flatMap((lang) => {
+  const utilityPaths = arrayOfLocales.flatMap((locale) => {
     return utilityItems.map((utility) => {
-      return createSitemapEntry(`${envServer.SITE_URL}/${lang}${navigationItems.utilities.href}/${utility.slug}`, utility.sys.publishedAt);
+      return createSitemapEntry(`${envServer.SITE_URL}/${locale}${navigationItems.utilities.href}/${utility.slug}`, utility.sys.publishedAt);
     });
   });
 

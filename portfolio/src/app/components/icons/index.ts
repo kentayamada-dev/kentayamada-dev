@@ -1,5 +1,7 @@
 export { ArticleIcon } from './articleIcon';
 export { ChevronDownIcon } from './chevronDownIcon';
+export { ClockHistoryIcon } from './clockHistoryIcon';
+export { ClockIcon } from './clockIcon';
 export { ComputerIcon } from './computerIcon';
 export { CrossIcon } from './crossIcon';
 export { ForksIcon } from './forksIcon';

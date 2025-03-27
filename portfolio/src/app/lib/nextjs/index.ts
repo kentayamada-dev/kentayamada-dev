@@ -49,7 +49,7 @@ const getTitle = (title: string, myName: string, enableAutoTitlePrefix = true): 
 const getMetadataObject = (
   type: OpenGraphType,
   path: string,
-  lang: LocaleKeyType,
+  locale: LocaleKeyType,
   description: string,
   title: string,
   coverImage: {
@@ -60,24 +60,24 @@ const getMetadataObject = (
   publishedTime: Date,
   enableAutoTitlePrefix = true
 ): Metadata => {
-  const dict = dictionaries[lang];
+  const dict = dictionaries[locale];
   const commonMetadata = getCommonMetadata(dict.myName, dict.siteName, description, getTitle(title, dict.myName, enableAutoTitlePrefix), coverImage);
 
   return {
     ...commonMetadata,
     openGraph: {
       ...commonMetadata.openGraph,
-      authors: [dictionaries[lang].myName],
+      authors: [dictionaries[locale].myName],
       modifiedTime: modifiedTime.toISOString(),
       publishedTime: publishedTime.toISOString(),
       type,
-      url: `${envServer.SITE_URL}/${lang}${path}`
+      url: `${envServer.SITE_URL}/${locale}${path}`
     }
   };
 };
 
 const getNotFoundMetadataObject = (
-  lang: LocaleKeyType,
+  locale: LocaleKeyType,
   description: string,
   title: string,
   coverImage: {
@@ -85,7 +85,7 @@ const getNotFoundMetadataObject = (
     url: string;
   }
 ): Metadata => {
-  const dict = dictionaries[lang];
+  const dict = dictionaries[locale];
 
   return getCommonMetadata(dict.myName, dict.siteName, description, getTitle(title, dict.myName), coverImage);
 };
