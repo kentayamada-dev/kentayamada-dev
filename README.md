@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0a409bb3de2888b8c3d9e52f8ffdb928.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/186d26f8c286847de34509767e321c37.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd786d93e30de0635169153817aaf20f08ee6f90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-07226968-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=494&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 政府が“台湾有事”念頭に沖縄県の離島から約12万人の「住民避難計画」公表　九州・山口に避難を想定
+      <a href=https://news.yahoo.co.jp/articles/06e98ec35cb5809bd217b52000f40751459c8097>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-10170596-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 日本政府「極めて遺憾」総理が資金繰り対策など指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e672e380800c163eba26e1df9106b03be835e4dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-04141675-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 武藤経産相「日本除外を強く申し入れ」米・全輸入車25％追加関税を受け
+      <a href=https://news.yahoo.co.jp/articles/ce1cded5b410447d3672b1417d9e3ced555d1b69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00010015-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=878&ch=878&exp=10800&fmt=webp> 株主がフジ・メディアHD現旧経営陣に約233億円の損害賠償求め提訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33cff9ee495a28f15ba694441f0ff1be7877c067>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948974-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジテレビとフジ・メディアHDが定例の取締役会を開催へ　第三者委員会の報告書公表が今月末に迫る　清水社長「異なる文化を持ち込めることができる人を登用したい」
+      <a href=https://news.yahoo.co.jp/articles/b8c321c838c74faf43ac16c10ca0ee825534ed45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-27003174-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー氏、アメリカにはロシアの圧力に「強く立ち向かってほしい」　BBC国際編集長の質問に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f8039d303b51f1b3aa1f3e1e094f7d2c8dfd345b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000410-oric-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=956&ch=956&exp=10800&fmt=webp> GACKT、新幹線トラブル見舞われたファンへの対応発表　27日からの4公演で振替「お席のご用意できる限り」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/220246ccb330ba7382cd48897092b5f40beac8dd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948956-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「制裁解除はあくまで次のステップ」ロシアの停戦合意条件にゼレンスキー氏主張 　マクロン大統領とゼレンスキー大統領が会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6fcf0866ca8e2d6c894485a7abe9ad75b50466f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-02757313-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> “数学のノーベル賞”「アーベル賞」に京大の柏原正樹特任教授「驚くべき定理を証明」日本人の受賞は初『D加群理論』確立
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/cb07e479596a917932b58ff7bfcd15936ab94fda9844153898c1e09418e739b5.jpg> 9歳死亡 第4種踏切は廃止望ましい
+      <a href=https://news.yahoo.co.jp/pickup/6533585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/11d3915d83d2d99921cc3afbc0b24ba4c2f82c20f9bd46d3433c17835e3964b6.jpg> 愛媛岡山の山火事 鎮圧めど立たず
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/8e6f96880744825e95b52b5dcf78a49390ee5d727ebcab4ee3b5b8373b1c42b2.jpg> 「ワンピース」深夜枠に移動 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6533590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/eb673c8b3ba02b3fc25bc1f7ab593c57af5d552ea948621bb7ffa154d2357192.jpg> GACKT 新幹線遅延受け対応発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 14:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 14:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
