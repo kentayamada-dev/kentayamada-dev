@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/afab325078c979d3e55583ea04b86420.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f026f76188c521510d28e69929ef01b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c59d683034f2d8605759ef53713f637ebcb83b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-07226923-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=489&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理「あらゆる選択肢が検討対象」 アメリカ・トランプ大統領が自動車関税25％と発表
+      <a href=https://news.yahoo.co.jp/articles/30708efc749f8e1658469892369286cb19cb08c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕下げ幅縮小＝ファーストリテ切り返す、自動車弱い（27日前場中盤）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c62158d6f60487689635388b4816206182c75491>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-33270129-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=190&cw=783&ch=783&exp=10800&fmt=webp> 玉川徹氏、兵庫・斎藤元彦知事の会見発言「組織論としてあり得ない」「知事を続けたい」痛烈批判
+      <a href=https://news.yahoo.co.jp/articles/11fdef9e0d9343baa93b0e22803d5423bbded1ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 死亡の女児、犬追い進入か　危険な第4種踏切「廃止を」　運輸安全委
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fec1a844ab938e4f5c77d5ca0a71ec433221f46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-33270145-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=936&ch=936&exp=10800&fmt=webp> ドジャースがJTBとパートナーシップ契約、優先入場が可能に　東京エレクトロンも契約
+      <a href=https://news.yahoo.co.jp/articles/2121cb20b3c3e46e587b4a5111c38975c51bf8c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000137-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=278&ch=278&exp=10800&fmt=webp> 岩田明子氏　斎藤知事の会見に「“真摯に”という言葉をよく使ってらっしゃるんだけれども響いてこない」
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/e3ace23d2fc47d5eaa47bb77b6785946b8311f9f54d162e9318ce3a626070412.jpg> 米大統領 全ての輸入車に25%関税
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533567>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f438d4fa9fa41b3fe5bd9a71e73622c91b925620762f1311aeb929ef5e7674a6.jpg> カナダ 米の輸入車関税に報復意向
       </a>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533554>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/545152f551bacf5b7744361a6b2a96ccf3a4ca53d4ab14645753ea74bed18992.jpg> 山上被告 宗教学者と複数回面会
+      <a href=https://news.yahoo.co.jp/pickup/6533562>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/7fbce09b23265cda6ffa31b6d7398905fcfdcd787777dbe6dff529b4c724473e.jpg> 正恩氏 AI自爆ドローン試験を視察
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/cb07e479596a917932b58ff7bfcd15936ab94fda9844153898c1e09418e739b5.jpg> 9歳死亡 第4種踏切は廃止望ましい
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533568>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/a6ae1f33ec74d3b90639908e125c89b3d5b3204978fc17865b4542af2ddb5fa9.jpg> 退職検討 強まる「転勤NG」の訳
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/c954fd75e9591ca1f7ec4da1ce2aa8cf6b17d95379a4db7238b5ea970ffccb59.jpg> 前中日・中島宏之が現役引退
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533563>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/77da1884704cde7105854b6d5f7128f943a2d8376ad710c563528031bcfa4fd3.jpg> NHK首藤アナ おはよう日本を卒業
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 10:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 10:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
