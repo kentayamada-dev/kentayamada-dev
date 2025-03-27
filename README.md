@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f026f76188c521510d28e69929ef01b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/48160b2909344b8fd83cfb266c387b94.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30708efc749f8e1658469892369286cb19cb08c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕下げ幅縮小＝ファーストリテ切り返す、自動車弱い（27日前場中盤）
+      <a href=https://news.yahoo.co.jp/articles/1aac162ce5d896a92d07c4baa25cb55070b1da2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-01972521-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ大統領、輸入車に25％の追加関税　来月3日から　日本も対象
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8796539a29b74b3780b5c61154ab0122ff00affd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000010-fminpo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=590&ch=590&exp=10800&fmt=webp> 第９７回センバツ高校野球　聖光４強ならず　延長１０回タイブレーク　浦和実（埼玉）に４―１２
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/24c86f467ea38933e7b0ddfd1f21e44c4f4e621c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000142-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 古市憲寿氏　パワハラ認定の斎藤知事の問題「7項目中6項目は…どう切り取るかで全然変わってくる」
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/11fdef9e0d9343baa93b0e22803d5423bbded1ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 死亡の女児、犬追い進入か　危険な第4種踏切「廃止を」　運輸安全委
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2121cb20b3c3e46e587b4a5111c38975c51bf8c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000137-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=278&ch=278&exp=10800&fmt=webp> 岩田明子氏　斎藤知事の会見に「“真摯に”という言葉をよく使ってらっしゃるんだけれども響いてこない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/213f0fd3b0a73ea9680bf5c21868ec2cc7321265>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-01725862-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 甲子園の雰囲気に「おかしくなる」　初出場の指揮官が吐露した“困惑と後悔”「何で…」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000033-jij-000-16-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 死亡の女児、犬追い進入か　危険な第4種踏切「廃止を」　運輸安全委
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533561>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/68d6295056ec123c622f188e2de08e36cde5c036cbedf2fddda50f8f8aee5399.jpg> 市民から集めた写真8年分 誤削除
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533565>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/76c474837d03a8b04c96dd781129ccb55c24692462f3830c2053055867a70808.jpg> ド軍JTB契約 特典で1時間前入場
+      <a href=https://news.yahoo.co.jp/pickup/6533572>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/2127f6f2b0e41010f7474c4cf37c242ab1d3e1c49ab9773b270e72bf38498477.jpg> バド元代表・大堀彩さん 結婚発表
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/8e6f96880744825e95b52b5dcf78a49390ee5d727ebcab4ee3b5b8373b1c42b2.jpg> 「ワンピース」深夜枠に移動 なぜ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 10:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 11:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
