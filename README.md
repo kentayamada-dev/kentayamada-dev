@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3dde7d5f88c4ec3edef7f5fc0ff33bd5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3327d9ae21a92f21aba6e49742671018.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52ce7c88661d8abb9b175360937fcde51b9aef2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000012-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ大統領　自動車関税25％に引き上げへ　日本からの輸入車も対象
+      <a href=https://news.yahoo.co.jp/articles/16b0badaaba1eef6b605b50ac24892ff9c48f3e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000124-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　斎藤知事に「告発を組織をあげて…最悪の権力行使。民主国家では絶対に許してはならない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/94903b2e4c197360bf458d42ae77070da3f65706>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00010002-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 福島・聖光4強ならず　選抜高校野球、浦和実（埼玉）に延長で涙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9b19058e48cd00adc9a8a5ecca09a99cd1e24f69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 輸入車への25%関税を発表 トランプ氏
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a9a815bef4579e69683f81d499e1c0280078d1a1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00010001-nikkey-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 《ブラジル》日伯首脳会談＝両首脳2年ごとに相互訪問で合意＝戦略的グローバル提携行動計画発表＝協力プロジェクト80案件署名
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df934d7c4ba7a48c3f0127c191b82ce278319b9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-90018379-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=629&ch=629&exp=10800&fmt=webp> 斎藤知事　第三者委「違法」指摘に「真摯に受け止め」も「対応は適切だった」認識変えず　議会は厳しく批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5939277d10627315b7ef8f2d4d64993793ac662>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-01364455-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【高校野球】“大会最速155キロ”vs“3者連続三球三振”がベスト4で激突へ 快進撃の初出場・浦和実は名門・智辯和歌山と対戦＜センバツ9日目＞
       </a>
     </td>
   </tr>
@@ -403,15 +403,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/6aa209189dbb32bef9c88467158e771e37684c4bf75369d3b9334c4ad33e8ee4.jpg> 米大統領 全ての輸入車に25%関税
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/e3ace23d2fc47d5eaa47bb77b6785946b8311f9f54d162e9318ce3a626070412.jpg> 米大統領 全ての輸入車に25%関税
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533551>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/420f0f10f0857ebf11690cff6ee36e32925f48c5c3f7735abbf0dbc5185d8c95.jpg> 被害拡大 山火事「飛び火」の危険
+      <a href=https://news.yahoo.co.jp/pickup/6533560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/dc8a118807586d4ba0e3a755cf6ad1b50270fa5a20ddb53a709ba836af450213.jpg> 日本の戦争検証 有識者会議設置へ
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533556>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/936852551d85324dc63e800c786e9b3f52f5a43b3f8132134e77d38b63654347.jpg> クラブW杯優勝賞金 最大190億円
+      <a href=https://news.yahoo.co.jp/pickup/6533549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/c954fd75e9591ca1f7ec4da1ce2aa8cf6b17d95379a4db7238b5ea970ffccb59.jpg> 前中日・中島宏之が現役引退
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/c954fd75e9591ca1f7ec4da1ce2aa8cf6b17d95379a4db7238b5ea970ffccb59.jpg> 前中日・中島宏之が現役引退
+      <a href=https://news.yahoo.co.jp/pickup/6533563>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/77da1884704cde7105854b6d5f7128f943a2d8376ad710c563528031bcfa4fd3.jpg> NHK首藤アナ おはよう日本を卒業
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 08:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 09:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
