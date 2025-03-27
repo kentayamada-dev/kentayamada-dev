@@ -4,7 +4,7 @@ import type { NotFoundType } from './types';
 
 const NotFound: NotFoundType = (props) => {
   return (
-    <div className='flex flex-col items-center px-5'>
+    <main className='flex flex-col items-center px-5'>
       <span className='w-52 sm:w-96'>
         <NotFoundAnimation />
       </span>
@@ -16,7 +16,7 @@ const NotFound: NotFoundType = (props) => {
       >
         {props.label}
       </Link>
-    </div>
+    </main>
   );
 };
 
