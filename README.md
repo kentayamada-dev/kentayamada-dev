@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2352029b437cc8dc05e6150e537d3d91.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aeaa5a79b1ab78e333985224c888c785.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7b442ea4d74816974f835608dfc61c74c857e030>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000011-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「あらゆる手段講じる」カナダ首相が米国の追加関税に“対抗”検討　トランプ氏は警告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ab4449022cfa80ffe86b5e2b32ea4842bfa997e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 紅海沿い人気リゾート地で観光客を乗せた潜水艇が沈没 6人死亡 エジプト
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-10170746-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 紅海沿い人気リゾート地で観光客を乗せた潜水艇が沈没 6人死亡 エジプト
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3b4e0fa1e5aa314f57b6fd24fae206120eab90f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米関税対抗へ「あらゆる手段」　報復、来週に決定　カーニー加首相
+      <a href=https://news.yahoo.co.jp/articles/aa1788598c45b045a69a1b2ac895a663e294e673>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00050026-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=314&ch=314&exp=10800&fmt=webp> フジの「ドン」語らず退場…１２年連続視聴率トップの立役者、一方で社内有望株を次々排除のワンマン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b622e5bb23382d9c0fdfa72dba4cf61d2f7a5c73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000018-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=804&ch=804&exp=10800&fmt=webp> 40年以上、取締役在任　退任の日枝氏、グループに強い影響力
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55f5f3dbecc09ff97459a76214381713b6d9bc0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010000-eigach-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=200&ch=200&exp=10800&fmt=webp> 最も演技が上手い旧ジャニーズ出身俳優は？ 史上最高の逸材（1）鬼気迫る芝居に海外も注目...けた外れの才能
+      <a href=https://news.yahoo.co.jp/articles/a205cb72ab2150d8276a8676efc9abf10c3ec8b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00867789-toyo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 「本当に影響がなくなるか甚だ疑問」・・・投資家は納得せず？フジテレビ日枝久取締役相談役(87)退任でもくすぶる火種
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/0f3b323dcf846be270307faf57cac8ce540bcdf69ae03127cb6965fe2a6e00df.jpg> コロナで従業員死亡 店に賠償命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533652>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/575a44833eba568bf5f1e62a14307eb580a6ddbc1d1968c489ae818fb6d07e4e.jpg> 凍結口座への強制執行 無効判決
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533649>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/9f9f4c2a6717473cbe8a4c3413551f43c8856325567405cd6934529fa0203c0b.jpg> フジ日枝氏退任 疑問と期待の声
+      <a href=https://news.yahoo.co.jp/pickup/6533659>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a1daf6276fede119411814e0e1fd62db636a5415234e2740a31a057070604fc1.jpg> フジの「ドン」理由語らず退場
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/cb5e02967a8b2a6b97d8520899476e8ce929f7fb686d1b054c2b507120a0d84d.jpg> 二宮和也 映画「8番出口」で主演
+      <a href=https://news.yahoo.co.jp/pickup/6533660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/da6b56d3e7f8afb591a2bb818ab9f0ea490b39bddc55f48dfa56a2af927bfcef.jpg> 「おむすび」が最終回 SNSの反応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/849231c0c8b3f2a3d4110b814bfb7695ccf60ea88233dd1e123f1b5f838607e2.jpg> NHK「おげんさん」8年の歴史に幕
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 08:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 08:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
