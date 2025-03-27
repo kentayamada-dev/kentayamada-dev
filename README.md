@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fb1db2fcde2dc8f59aea64a8f55e6f69.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/edd4cf2218f92128621cea26a190c102.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d10a265e4fc2a8f5eec1f325d2a2f99c5de9ade>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000044-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 日本政府「極めて遺憾」　石破総理「あらゆる選択肢検討」 資金繰り対策など3点指示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c1ba64f6dbe917a640d025007428856e6554bee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050092-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 愛媛、岡山の山林火災で延焼続く…今治市で新たに住宅２棟の被害確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7cf46d08e672cf77a97ef63d65244a01cb610041>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-90021414-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 兵庫・斎藤知事、初めてパワハラを認め謝罪「真摯に受け止め」　辞職は否定
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/220246ccb330ba7382cd48897092b5f40beac8dd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948956-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「制裁解除はあくまで次のステップ」ロシアの停戦合意条件にゼレンスキー氏主張 　マクロン大統領とゼレンスキー大統領が会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef74de8e1faa51e385991e6e4a32feba9307dcde>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000101-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1655&ch=1655&exp=10800&fmt=webp> 車25％関税「極めて遺憾」　官房長官、政府挙げて対応
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c4a14c0db1e90ddec21556e9997d1f099124704>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00080106-chosun-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=261&ch=261&exp=10800&fmt=webp> JYPエンタが5億ウォン寄付、山火事支援で
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533564>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/9d409ec098894d35ccb41824dc9fb557dfb32061a795e8c3262f26ed2b6a36c3.jpg> 企業献金巡る議論 進次郎氏の主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533579>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/3f25ea46a50646753ee734a5971b0f44a75537c8918cc5a317d0bf915fe2aca7.jpg> 韓国で山火事26人死亡 30人重軽傷
       </a>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533570>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/cb07e479596a917932b58ff7bfcd15936ab94fda9844153898c1e09418e739b5.jpg> 9歳死亡 第4種踏切は廃止望ましい
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/2d09ade70f9070648d0886792b9e1c4b51ba8e8dde2c190cc4c34bb090911507.jpg> 関東は明日夏日 週末は真冬の寒さ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 12:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 13:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
