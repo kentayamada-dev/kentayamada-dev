@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/48160b2909344b8fd83cfb266c387b94.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b3e429f65f92e901321f468293765a9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1aac162ce5d896a92d07c4baa25cb55070b1da2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-01972521-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ大統領、輸入車に25％の追加関税　来月3日から　日本も対象
+      <a href=https://news.yahoo.co.jp/articles/822a4c1134b7b508585843cf0cdad6b9b18d1456>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050154-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 京大の柏原特任教授「５０年を超える研究全体が高く評価された」…「数学のノーベル賞」で喜び語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8796539a29b74b3780b5c61154ab0122ff00affd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000010-fminpo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=590&ch=590&exp=10800&fmt=webp> 第９７回センバツ高校野球　聖光４強ならず　延長１０回タイブレーク　浦和実（埼玉）に４―１２
+      <a href=https://news.yahoo.co.jp/articles/0b9ec20cf41b3762c6d7221e49c591818e6d99fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00949100-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> フジテレビ親会社の新旧経営陣にあわせて約233億円求め提訴　個人株主が株主代表訴訟
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24c86f467ea38933e7b0ddfd1f21e44c4f4e621c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000142-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 古市憲寿氏　パワハラ認定の斎藤知事の問題「7項目中6項目は…どう切り取るかで全然変わってくる」
+      <a href=https://news.yahoo.co.jp/articles/fbe9f5e7fe5a0490f49fc66db8b1c94a5f0e75d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000056-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】元参議院議員の広瀬めぐみ被告に執行猶予付き有罪判決　秘書給与詐取の罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11fdef9e0d9343baa93b0e22803d5423bbded1ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000033-jij-000-16-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 死亡の女児、犬追い進入か　危険な第4種踏切「廃止を」　運輸安全委
+      <a href=https://news.yahoo.co.jp/articles/ec469dd14cae7c4b6268d4db16e67a5e0221d640>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000022-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 米自動車関税は「大きな影響」 日本政府、「遺憾」表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c72274fc2b3729e06ddf8ae0890707efa46702e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948867-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=720&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本人初!アーベル賞に京大・柏原正樹氏（78）が選出　「数学のノーベル賞」と称され賞金約1億700万円　「まさに真の数学的な先見者」アカデミー称賛
+      <a href=https://news.yahoo.co.jp/articles/220246ccb330ba7382cd48897092b5f40beac8dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948956-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「制裁解除はあくまで次のステップ」ロシアの停戦合意条件にゼレンスキー氏主張 　マクロン大統領とゼレンスキー大統領が会談
       </a>
     </td>
   </tr>
@@ -402,64 +402,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533567>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f438d4fa9fa41b3fe5bd9a71e73622c91b925620762f1311aeb929ef5e7674a6.jpg> カナダ 米の輸入車関税に報復意向
+      <a href=https://news.yahoo.co.jp/pickup/6533580>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/d15a2c6bec9226501a157dc300f1419509284ba41dc93b8d41b2059ac77be904.jpg> 米の自動車関税 日本除外を求める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533557>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/d231729d5b5dc1adf594a646c5cf0ff834c04920d3826a17336dd11c5697c5c6.jpg> 立憲・国民・連合 基本政策合意へ
+      <a href=https://news.yahoo.co.jp/pickup/6533577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/b385237bd3eb6a96ce05aa6a73c2a2eebf7779f55778bdbd304401b26ef04a35.jpg> 交通事故死傷者 歩行中は7歳最多
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533562>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/7fbce09b23265cda6ffa31b6d7398905fcfdcd787777dbe6dff529b4c724473e.jpg> 正恩氏 AI自爆ドローン試験を視察
+      <a href=https://news.yahoo.co.jp/pickup/6533585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/11d3915d83d2d99921cc3afbc0b24ba4c2f82c20f9bd46d3433c17835e3964b6.jpg> 愛媛岡山の山火事 鎮圧めど立たず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/cb07e479596a917932b58ff7bfcd15936ab94fda9844153898c1e09418e739b5.jpg> 9歳死亡 第4種踏切は廃止望ましい
+      <a href=https://news.yahoo.co.jp/pickup/6533592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/447b8f34a383ae53a001c00cd7f5182a3feb231a6f9abbeb950db4f90d34b51c.jpg> フジ株主 233億円の賠償求め提訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/a6ae1f33ec74d3b90639908e125c89b3d5b3204978fc17865b4542af2ddb5fa9.jpg> 退職検討 強まる「転勤NG」の訳
+      <a href=https://news.yahoo.co.jp/pickup/6533593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/ced545b3bb5ce30f05785931226bf06f8665c819dd580b76a74ff7abf319c286.jpg> 上越市30.0℃ 本州で今年初真夏日
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533572>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/2127f6f2b0e41010f7474c4cf37c242ab1d3e1c49ab9773b270e72bf38498477.jpg> バド元代表・大堀彩さん 結婚発表
+      <a href=https://news.yahoo.co.jp/pickup/6533582>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/853b10e72cebf40ae9468327ed87d466aaa37eae4289283bff5d5d25c6bfbf1f.jpg> 旧海軍壕で「戦争賛美」商品 撤去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533563>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/77da1884704cde7105854b6d5f7128f943a2d8376ad710c563528031bcfa4fd3.jpg> NHK首藤アナ おはよう日本を卒業
+      <a href=https://news.yahoo.co.jp/pickup/6533591>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/d5406293a1fb85dfac9105d62bf39b549ee8da25ed4252683d2363afeb30d363.jpg> 田中将 2軍戦で空振り三振苦笑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/8e6f96880744825e95b52b5dcf78a49390ee5d727ebcab4ee3b5b8373b1c42b2.jpg> 「ワンピース」深夜枠に移動 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6533590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/eb673c8b3ba02b3fc25bc1f7ab593c57af5d552ea948621bb7ffa154d2357192.jpg> GACKT 新幹線遅延受け対応発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 11:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 15:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
