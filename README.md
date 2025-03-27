@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f41e44370c6a601cbd8c8f08cae228c0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/636f688f66213516420f3e7c8ba8ca1a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e6e45040d50a419759ae7720bee1a6a2611fe6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00338975-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 〝日枝降ろし〟が形成された―― フジ２トップの認識に局員不安「本当に改革できるのか」
+      <a href=https://news.yahoo.co.jp/articles/cbbdb86438ebdedebfc0fa926486a72bebc9ceaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-03281016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「取締役の在任期間が４１年にわたっていた日枝取締役相談役が退任」…フジ「めざましテレビ」報道　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ed72a4c27b7d75912a02f79042c55da785416dc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-07227161-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 紅海で観光用の潜水艦が沈没　6人死亡 29人けが　エジプト
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/864bdfe54960a177dfdbcc1245a02a78bb5af023>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000005-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1545&ch=1545&exp=10800&fmt=webp> フジ経営陣大刷新　日枝氏退任　金光社長「新たなフジの第一歩」フジサンケイグループ代表も辞任へ
       </a>
     </td>
   </tr>
@@ -378,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/45d1636bf2e829f1c2709d1702da2e3e15876a606c2a114ef2c53dbaacde5605.jpg> 異例 ガザで連日の反ハマスデモ
+      <a href=https://news.yahoo.co.jp/pickup/6533650>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/70f3953c2290ca4a78c473fba8e525a6e547ac71c641808cb4767455c9a6fde8.jpg> 高浜1号機 60年目までの運転認可
       </a>
     </td>
   </tr>
@@ -402,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/66e0fd8887504ccb50c93bd67983483294b04d2788b40a5c602c6f73cbd593a9.jpg> ムツゴロウ 世界の絶滅危惧種に
+      <a href=https://news.yahoo.co.jp/pickup/6533649>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/9f9f4c2a6717473cbe8a4c3413551f43c8856325567405cd6934529fa0203c0b.jpg> フジ日枝氏退任 疑問と期待の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/06daa8298438ec3ac088c052f018d0de35e42b148222b4b4391aa651c6ac5237.jpg> 物価高で 炒飯にも「1000円の壁」
+      <a href=https://news.yahoo.co.jp/pickup/6533643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/66e0fd8887504ccb50c93bd67983483294b04d2788b40a5c602c6f73cbd593a9.jpg> ムツゴロウ 世界の絶滅危惧種に
       </a>
     </td>
   </tr>
@@ -436,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 06:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 06:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
