@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aad43a9aebc6d26d893c5aad4ba7b314.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6cf8dc2ce36310cfd23fce0610159bab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80e56bc7a99a3bcc3e980ad7038e06f937c15287>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050199-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ２５％追加関税発表、トランプ大統領「アメリカの自動車事業はかつてないほど繁栄する」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c291790b8af7772a68c1c1f174f470149ae1f25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-21817460-rsk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 【岡山・山林火災】発生から5日目　夜から降り出した激しい雨は「恵みの雨」となるか　消防団員「もうクタクタ。これで鎮圧状態になれば」【27日午後9時現在】
+      <a href=https://news.yahoo.co.jp/articles/e24fc1f548d191d60504c6ef7a28fcf25de68eca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ続落、33ドル安＝ナスダックも安い（27日午前）
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a8cf264ac0f8372080cee116cc6ea8ecda456714>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000168-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=796&ch=796&exp=10800&fmt=webp> フジテレビ広告急減、報告書待たず人事改革　「透明性高い会社」も信頼回復は調査報告後に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d64d746dc1f280a68db7313fa9499aac7f31271b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ハマスは出ていけ」ガザで異例の「反ハマス」デモ　イスラエル軍は幹部を相次ぎ殺害
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533635>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/e65dc05f26ea61cf40027fff8e5403ad04c545e4807bb04177defccb4d6cbc50.jpg> 首相 戦後80年談話を見送る方針
+      <a href=https://news.yahoo.co.jp/pickup/6533645>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/64b58b220e455f498bee3bbe17c18a4516f5f3e62e65374d4cc0271c0e0ccaf4.jpg> 山林火災 消防団「もうクタクタ」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533640>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/25/dd6d5359badde6f0a2315eee2d0c646857dc4c16495722aac0365d7f1fffc6b0.jpg> 紅海で潜水艦沈没 観光客6人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533644>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/0f3b323dcf846be270307faf57cac8ce540bcdf69ae03127cb6965fe2a6e00df.jpg> コロナで従業員死亡 店に賠償命令
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533639>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/2b391cac3e3bb62141ca32e8ac1174c412011fa430d326adfe4ccc07f24dd608.jpg> フジ 成功体験にとらわれていた
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f4a23c4e6234a390875e09291d43ad6fabd37c105ad49cbfac9908564021d677.jpg> シャトレーゼに勧告 下請法違反
+      <a href=https://news.yahoo.co.jp/pickup/6533637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/8189899edd3f9b97e35da943a34cc2ebb4a5570827a46c80bed44c52ee985a32.jpg> 万博ガイド 未完成のイラスト掲載
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533638>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/eceae3be10e6973c184070f599ae91ded0a3f030a322d54b35789467374d6565.jpg> 平野歩夢が骨折 世界選手権を棄権
+      <a href=https://news.yahoo.co.jp/pickup/6533647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/e9f95254a75c2c14dd2d389897ec2bffb33be480c602c6d907e90bf4747fd30d.jpg> 「メトロイド」新作2025年発売
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 23:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 23:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
