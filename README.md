@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/abbce436d773004212fa4a0a2f4ec667.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/16fba7fce628a93e78f717f12692199a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d739c5f2939716e7363008ed4aac2bb2aee1b634>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00772931-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「日枝さんにどうしても目がいってしまう」“日枝おろし”加速にフジの誤算　トップに40年…異常な長期体制の弊害
+      <a href=https://news.yahoo.co.jp/articles/376468e504bbe62b305e14e2bdc9947e2943d7aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050181-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 「第２次トランプ政権の大規模な混乱と無能ぶりが露呈した」…米情報漏えい、欧州で批判と懸念
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533602>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/42207cb6334a9a8a3f01e14b92917cc689cc7655446882db24434e49f9c5ab47.jpg> スーダン国軍 首都奪還を表明
+      <a href=https://news.yahoo.co.jp/pickup/6533635>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/e65dc05f26ea61cf40027fff8e5403ad04c545e4807bb04177defccb4d6cbc50.jpg> 首相 戦後80年談話を見送る方針
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533629>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/28b08389c701e676f90c8f93c4a3ad277489f24889213de3531f7d0ffd5d8b22.jpg> 尼僧が性被害訴え 僧侶を「免職」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533639>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/2b391cac3e3bb62141ca32e8ac1174c412011fa430d326adfe4ccc07f24dd608.jpg> フジ 成功体験にとらわれていた
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/a34da396e93a76fa70ccf993e520ad6df62b9e193e8f21acefef11fecfafca7e.jpg> 声優・川浪葉子さん死去 67歳
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 22:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 22:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
