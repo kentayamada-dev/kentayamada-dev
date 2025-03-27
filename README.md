@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c7cd90005fe6824a8730e31340685992.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d86eb86c668a91888173d5ad275646e1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07ddcd32550b1b802eaa3ecd48732d83124adfc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-90021474-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏「自動車25％関税」日本メーカーに“逆風”…アメリカ経済に“逆効果”も？
+      <a href=https://news.yahoo.co.jp/articles/b46d479976b84344cd658ea38ad76d271f48324d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000003-jij-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米25％車関税で摩擦激化　各国猛反発、報復の恐れ　コスト高、価格に跳ね返り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a70290192f50873bc5235c08f7f28a6749c6ca7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050213-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=293&ch=293&exp=10800&fmt=webp> ムツゴロウが新たに絶滅危惧種に…国際自然保護連合がレッドリスト公表
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ab68f5aa8488dee3e07066571dea47870297020>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050198-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=347&ch=347&exp=10800&fmt=webp> フジテレビ新経営陣、過半数が「社外取締役」…平均年齢５９・５歳に若返り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d64d746dc1f280a68db7313fa9499aac7f31271b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ハマスは出ていけ」ガザで異例の「反ハマス」デモ　イスラエル軍は幹部を相次ぎ殺害
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050198-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=347&ch=347&exp=10800&fmt=webp> フジテレビ新経営陣、過半数が「社外取締役」…平均年齢５９・５歳に若返り
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 01:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 01:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
