@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3b9bea006d6003db6ef5731f073e7b6f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb1db2fcde2dc8f59aea64a8f55e6f69.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7cf46d08e672cf77a97ef63d65244a01cb610041>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-90021414-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 兵庫・斎藤知事、初めてパワハラを認め謝罪「真摯に受け止め」　辞職は否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/220246ccb330ba7382cd48897092b5f40beac8dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948956-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「制裁解除はあくまで次のステップ」ロシアの停戦合意条件にゼレンスキー氏主張 　マクロン大統領とゼレンスキー大統領が会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ef74de8e1faa51e385991e6e4a32feba9307dcde>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000101-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1655&ch=1655&exp=10800&fmt=webp> 車25％関税「極めて遺憾」　官房長官、政府挙げて対応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c4a14c0db1e90ddec21556e9997d1f099124704>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00080106-chosun-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=261&ch=261&exp=10800&fmt=webp> JYPエンタが5億ウォン寄付、山火事支援で
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00080106-chosun-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=261&ch=261&exp=10800&fmt=webp> JYPエンタが5億ウォン寄付、山火事支援で
       </a>
     </td>
   </tr>
@@ -366,31 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b6fcf0866ca8e2d6c894485a7abe9ad75b50466f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-02757313-ytv-000-1-thumb.jpg?exp=10800&fmt=webp> “数学のノーベル賞”「アーベル賞」に京大の柏原正樹特任教授「驚くべき定理を証明」日本人の受賞は初『D加群理論』確立
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d48b7642c1b8afd74c683dd3d16bad0e5d7c709d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-10170583-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=994&ch=994&exp=10800&fmt=webp> 「トランプ大統領と会ってほっとされたかもしれないが、結果は全然ですね。しっかりやってください」「日米貿易協定違反ではないか」自動車関税10倍めぐり辻元議員が石破総理を追及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ded172614759029dbce889637589504ff95f4fa8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00010005-yomosaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=666&ch=666&exp=10800&fmt=webp> 「すぐに判断するのではなく言動見守る」「謝罪は評価する」…兵庫県知事会見、県議ら受け止め
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a75678bbca4dd74f16a313719fa371e774620c30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050070-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシアへの制裁緩和は「時期尚早」、マクロン仏大統領とゼレンスキー氏がパリで会談
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-02757313-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> “数学のノーベル賞”「アーベル賞」に京大の柏原正樹特任教授「驚くべき定理を証明」日本人の受賞は初『D加群理論』確立
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533559>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/5133768e4efbd273b4b0876481ba6db0f797f30f32560d3f477ef299ab219373.jpg> 日・ブラジル首脳 相互訪問で合意
+      <a href=https://news.yahoo.co.jp/pickup/6533564>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/9d409ec098894d35ccb41824dc9fb557dfb32061a795e8c3262f26ed2b6a36c3.jpg> 企業献金巡る議論 進次郎氏の主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/3f25ea46a50646753ee734a5971b0f44a75537c8918cc5a317d0bf915fe2aca7.jpg> 韓国で山火事26人死亡 30人重軽傷
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533572>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/2127f6f2b0e41010f7474c4cf37c242ab1d3e1c49ab9773b270e72bf38498477.jpg> バド元代表・大堀彩さん 結婚発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533571>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/8e6f96880744825e95b52b5dcf78a49390ee5d727ebcab4ee3b5b8373b1c42b2.jpg> 「ワンピース」深夜枠に移動 なぜ
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 12:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 12:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
