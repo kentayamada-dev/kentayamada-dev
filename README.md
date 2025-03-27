@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b3e429f65f92e901321f468293765a9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/899ab9512e91984797c2a9d822ad67f6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6248617985d57351c824e36206827a890e3d771b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-10170610-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=558&ch=558&exp=10800&fmt=webp> フジ株主が経営陣に233億円賠償求め提訴 中居トラブル対応で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e38953c9ba1d8d3da2a07ff7f9f4aaa945530d8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-10170607-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=973&ch=973&exp=10800&fmt=webp> ゼレンスキー氏 仏大統領と会見 ロシア制裁を継続・強化するよう訴え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/822a4c1134b7b508585843cf0cdad6b9b18d1456>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050154-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 京大の柏原特任教授「５０年を超える研究全体が高く評価された」…「数学のノーベル賞」で喜び語る
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050154-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 京大の柏原特任教授「５０年を超える研究全体が高く評価された」…「数学のノーベル賞」で喜び語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b9ec20cf41b3762c6d7221e49c591818e6d99fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00949100-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> フジテレビ親会社の新旧経営陣にあわせて約233億円求め提訴　個人株主が株主代表訴訟
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbe9f5e7fe5a0490f49fc66db8b1c94a5f0e75d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000056-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】元参議院議員の広瀬めぐみ被告に執行猶予付き有罪判決　秘書給与詐取の罪
+      <a href=https://news.yahoo.co.jp/articles/5f7796349d928e1104d7f1a37fa37ed1eb86200e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000118-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1826&ch=1826&exp=10800&fmt=webp> 高知銀行頭取に河合氏　地銀で初の女性トップ
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ec469dd14cae7c4b6268d4db16e67a5e0221d640>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000022-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 米自動車関税は「大きな影響」 日本政府、「遺憾」表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/220246ccb330ba7382cd48897092b5f40beac8dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948956-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「制裁解除はあくまで次のステップ」ロシアの停戦合意条件にゼレンスキー氏主張 　マクロン大統領とゼレンスキー大統領が会談
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533577>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/b385237bd3eb6a96ce05aa6a73c2a2eebf7779f55778bdbd304401b26ef04a35.jpg> 交通事故死傷者 歩行中は7歳最多
+      <a href=https://news.yahoo.co.jp/pickup/6533573>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f0eb1a6dfc95b486b97cf8756880a074b847d658b7f09ed0c0c0c9ad741df966.jpg> EU対露制裁 解除は完全撤退条件
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/853b10e72cebf40ae9468327ed87d466aaa37eae4289283bff5d5d25c6bfbf1f.jpg> 旧海軍壕で「戦争賛美」商品 撤去
+      <a href=https://news.yahoo.co.jp/pickup/6533595>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/15c3d7b64c43f614d27b4ed46796de50002efaee1b345721177bc2d9fc7b82d3.jpg> 物議のストリートピアノ 撤去発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 15:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 15:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
