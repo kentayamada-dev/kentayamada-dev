@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2bb826769e5b54808df25196e0f0967f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec472919f15f5b1e33a45a607dc4304f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3633d51d14899b9bd63570af8b98421aa00f4d9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00949538-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 紅海のリゾート地で潜水艦沈没、観光客6人死亡　エジプト
+      <a href=https://news.yahoo.co.jp/articles/7ec9b5108c63310ad1a87a75cec887ca820a029d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-90021473-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 黄金時代築くも…“フジ文化”の象徴　フジHD・日枝氏が取締役退任へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b46d479976b84344cd658ea38ad76d271f48324d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000003-jij-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米25％車関税で摩擦激化　各国猛反発、報復の恐れ　コスト高、価格に跳ね返り
+      <a href=https://news.yahoo.co.jp/articles/07ddcd32550b1b802eaa3ecd48732d83124adfc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-90021474-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏「自動車25％関税」日本メーカーに“逆風”…アメリカ経済に“逆効果”も？
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 03:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 04:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
