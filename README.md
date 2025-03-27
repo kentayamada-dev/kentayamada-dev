@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/16fba7fce628a93e78f717f12692199a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aad43a9aebc6d26d893c5aad4ba7b314.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/376468e504bbe62b305e14e2bdc9947e2943d7aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050181-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 「第２次トランプ政権の大規模な混乱と無能ぶりが露呈した」…米情報漏えい、欧州で批判と懸念
+      <a href=https://news.yahoo.co.jp/articles/80e56bc7a99a3bcc3e980ad7038e06f937c15287>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050199-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ２５％追加関税発表、トランプ大統領「アメリカの自動車事業はかつてないほど繁栄する」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c291790b8af7772a68c1c1f174f470149ae1f25>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-21817460-rsk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 【岡山・山林火災】発生から5日目　夜から降り出した激しい雨は「恵みの雨」となるか　消防団員「もうクタクタ。これで鎮圧状態になれば」【27日午後9時現在】
       </a>
     </td>
   </tr>
@@ -387,27 +395,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aece9400cd08366ba2e02db326002f29ef6edaf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050173-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=363&ch=363&exp=10800&fmt=webp> 自動車への２５％の追加関税、米に適用除外を申し入れ…石破首相は関係閣僚に交渉強化を指示
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/3e95ba9002be5e7879825ffd53377181956a3a8f97fe17a610511f584cc5f824.jpg> 米政権 保護主義に歯止めかからず
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533635>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/28b08389c701e676f90c8f93c4a3ad277489f24889213de3531f7d0ffd5d8b22.jpg> 尼僧が性被害訴え 僧侶を「免職」
+      <a href=https://news.yahoo.co.jp/pickup/6533641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/c02d9de6b2b42e6a2a1bec51bdffa33752bd27688b4ec0899a2609db4d8f8362.jpg> トランプ氏 支持基盤に亀裂走る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533644>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/0f3b323dcf846be270307faf57cac8ce540bcdf69ae03127cb6965fe2a6e00df.jpg> コロナで従業員死亡 店に賠償命令
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 22:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 23:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
