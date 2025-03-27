@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec44996bd1341ac683c5138e748c151b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b244caa582b291089cca7b19823c576c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6699521d2700a766223b2932c0c12a8f8cbf178a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000278-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=33&cy=0&cw=1002&ch=1002&exp=10800&fmt=webp> 日枝久氏　現在も腰椎圧迫骨折で入院中　フジ相談役＆フジサンケイG代表を辞任
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4a3e4df20b3e8819849f48f2103ae6d92aa2d4e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000037-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「すぐに辞任すべきとは思わない」古市憲寿氏、斎藤知事のパワハラ認定も「民意」の“重さ”指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2a884c8ccda1c91c4bb16f2913eb0e2940576a93>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050162-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> フジテレビ問題で、ＨＤ株主の男性が経営陣１５人に２３３億円の損害賠償を求めて東京地裁に提訴
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb8cb71abc03eee5ce61374f58e9f17bef96910b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 斎藤知事、「うそ八百」撤回せず　発言から1年、告発者処分も維持
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f73aea3c36e4b0dac5cd9f2dc4ae3f9327a84b39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 柏原氏「研究高く評価された」　アーベル賞受賞記者会見
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000159-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=313&cw=1726&ch=1726&exp=10800&fmt=webp> 柏原氏「研究高く評価された」　アーベル賞受賞記者会見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15e6012722ab82f3bda496c33a456da4d022015b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00949194-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破首相　米自動車追加関税「非常に遺憾」　岩屋外相に日本除外の交渉継続を指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/144f71d96e2c1336329474d8f55787e641de1c3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-33270535-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=1003&ch=1003&exp=10800&fmt=webp> 読売テレビ、ダウンタウン２人への対応明暗分かれる「まずは体調」「視聴者に受け入れられるか」
+      <a href=https://news.yahoo.co.jp/articles/e6d57c0bb25007b36e4d07d8e84626007a2b5795>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000063-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> トランプ米政権、保護主義に歯止めかからず　「解放の日」と誇示も…成算見えぬ関税戦争
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/037c4e5c28d25ce58f65ff290f3d0ef3b1371cbcf6426d163b890fc919428ddb.jpg> 物価高対策 公明代表が発言陳謝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533603>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/83dd50ebed58f76cf9eae462bdb29ad68a7b846c70066e29f0ba028554b559db.jpg> 米自動車関税 日系メーカー驚がく
       </a>
@@ -410,32 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533589>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/258f9d00827384ed50ba33578bd7e3ea652c7015764a1e8faaf82e5e890fc3b7.jpg> 台湾有事念頭 沖縄の避難計画公表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533594>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/130a7b15f16729c0adac9dce7dccadb515ec58486a78f59bfbe7e341577bc2a3.jpg> 広瀬めぐみ元参院議員に有罪判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/8dbb2ec99dffac9950f6da18086793720642d873e870b63b73f986514a608435.jpg> フジ 日枝取締役相談役が退任へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/51cd6e44c84141d70a2cffe2cbe2ece92e3e8e752ad9fc8298649ab462aecf3e.jpg> 高知銀行に女性頭取 地銀で全国初
+      <a href=https://news.yahoo.co.jp/pickup/6533611>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 解体現場でCO中毒か 1人心肺停止
       </a>
     </td>
   </tr>
@@ -450,6 +434,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533601>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/4001c29d08456dae8f4c0001062cb5998c32a4549b7b81ea3aa246a3bb9510a3.jpg> ネズミ混入 すき家が調査結果報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/c30ede52b6210791265dcbec273b067e643fad38408740e1ccab8fcb075346b7.jpg> アウトドア専門店「山渓」が破産
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533604>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/4199d78d9c1d27739df652e1cbc9d87faccf4c115d5b87fbfcf48b948b483735.jpg> 映画監督の篠田正浩さん死去 94歳
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533590>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/eb673c8b3ba02b3fc25bc1f7ab593c57af5d552ea948621bb7ffa154d2357192.jpg> GACKT 新幹線遅延受け対応発表
+      <a href=https://news.yahoo.co.jp/pickup/6533608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/1e707990a8f5fb964cfb01a751699c3573f640d0972c900aa6b401df5f749538.jpg> ダウンタウンDX 週替りMCで進行
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 17:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 17:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
