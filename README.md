@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cab4e082f6257b2c3bc484f1fee655b8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/abbce436d773004212fa4a0a2f4ec667.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef60c572413fd3e037c197026025fe143f700b57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00036121-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「悪意しかない」『月曜から夜ふかし』が歪曲演出を謝罪、“カラス回”前週の“痴漢発言”も問題視
+      <a href=https://news.yahoo.co.jp/articles/d739c5f2939716e7363008ed4aac2bb2aee1b634>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00772931-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「日枝さんにどうしても目がいってしまう」“日枝おろし”加速にフジの誤算　トップに40年…異常な長期体制の弊害
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/fcce6bd4f4006bef7c0d16fd951470e8cbc8b47ab05697598010deb2f91d1f4f.jpg> がん死去 動植物園に9千万円寄付
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533599>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f4a23c4e6234a390875e09291d43ad6fabd37c105ad49cbfac9908564021d677.jpg> シャトレーゼに勧告 下請法違反
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533616>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 脳死状態の人にブタ肝臓移植 中国
+      <a href=https://news.yahoo.co.jp/pickup/6533633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/fcce6bd4f4006bef7c0d16fd951470e8cbc8b47ab05697598010deb2f91d1f4f.jpg> がん死去 動植物園に9千万円寄付
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533638>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/eceae3be10e6973c184070f599ae91ded0a3f030a322d54b35789467374d6565.jpg> 平野歩夢が骨折 世界選手権を棄権
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 21:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 22:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
