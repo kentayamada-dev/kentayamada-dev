@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fdc2b8ed01d1e4838d71f87177ff4826.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e8a88d4020df9806170850be7cda641.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e6b8118c6b8a11c1ce6d4569cddd215370894be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-01548415-kyt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=558&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 数学の最高峰「アーベル賞」の京都大・柏原特任教授が会見　趣味はインド古典音楽「非常に数学的」
+      <a href=https://news.yahoo.co.jp/articles/02176e022c1ec4c8e2e9204cac65518d06bf9552>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000344-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=1196&ch=1196&exp=10800&fmt=webp> 日テレ「月曜から夜ふかし」が24日の放送内容を謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9303218a21a8c5d75f04c466e9a644d6185f6697>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000025-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 斎藤元彦知事「真摯に受け止め」繰り返すばかり　詰め寄る記者「不誠実にもほどがある」「自身に処分ないのか」
+      <a href=https://news.yahoo.co.jp/articles/a8cf264ac0f8372080cee116cc6ea8ecda456714>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000168-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=796&ch=796&exp=10800&fmt=webp> フジテレビ広告急減、報告書待たず人事改革　「透明性高い会社」も信頼回復は調査報告後に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3915a3f8d36c1f7cd2d55b42cc7d39fb7bb0d0d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-03723621-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 株主男性「包み隠さず対処してほしかった」フジ親会社の当時の経営陣らに約233億円賠償求め提訴　中居氏問題の対応めぐり
+      <a href=https://news.yahoo.co.jp/articles/d04177aaba12f38055b5e8af4e34abfbe3a64b0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050507-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 斎藤知事の対応に職員落胆「この期に及んで・・・」　「嘘八百」「公務員失格」発言から１年　第三者委の違法指摘にも「対応は適切だった」対応続ける
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/707bac1b934ede5c8fc290e18867af41da633fef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000136-it_nlab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=442&ch=442&exp=10800&fmt=webp> すき家、みそ汁に「ネズミ」混入の写真が拡散　「当初ホームページ等での公表を控えた」ことを謝罪
+      <a href=https://news.yahoo.co.jp/articles/14ea2f29ae880c652152fe9d3958daa35d596cdc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000161-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 「多くの共同研究者に恵まれた」　日本人初アーベル賞の京大・柏原氏が会見で謙虚に喜び
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533614>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/4528f9c74b098b38c8bd7714f8d08cbd248d8cb1c82502454b65ca2853f319c9.jpg> 退任の日枝氏 人事に圧倒的影響力
+      <a href=https://news.yahoo.co.jp/pickup/6533599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f4a23c4e6234a390875e09291d43ad6fabd37c105ad49cbfac9908564021d677.jpg> シャトレーゼに勧告 下請法違反
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/a34da396e93a76fa70ccf993e520ad6df62b9e193e8f21acefef11fecfafca7e.jpg> 声優・川浪葉子さん死去 67歳
+      <a href=https://news.yahoo.co.jp/pickup/6533632>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f5fd7dbec0e47e77c24609532d69fa981b17cd019615c9f49333b701b80efdc0.jpg> 日テレ 月曜から夜ふかし巡り謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533619>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/0e3b700fc9a1399a310892673927c5dcd5b109344b7f386e311801f872b45675.jpg> 夫死去 岩下志麻の舞台挨拶が中止
+      <a href=https://news.yahoo.co.jp/pickup/6533626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/a34da396e93a76fa70ccf993e520ad6df62b9e193e8f21acefef11fecfafca7e.jpg> 声優・川浪葉子さん死去 67歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 20:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 21:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
