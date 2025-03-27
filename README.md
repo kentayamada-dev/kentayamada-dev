@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5274cb319e4ec61715d87793063151b2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/691f609243a10f46b155d8ec2b9ea65a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/49ce5849488165277f9a41862b079e17ae42b5f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-90018400-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 「通報したら潰される」斎藤知事の姿勢に職員から不安の声　知事は「指摘受け止め」ても処分撤回せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6c947459d27f04d48d23a38c42f3ab3331d2f356>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00949347-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=426&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本人初の快挙!“数学のノーベル賞”「アーベル賞」を受賞　京大・柏原正樹特任教授「びっくりした」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bbe7ee88014c1e4f4b407170be208822cfe65b94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00949335-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 愛媛山火事「鎮圧の背中が見えてきた」今治市では28日朝にかけてまとまった雨が降る見込み
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aece9400cd08366ba2e02db326002f29ef6edaf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050173-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=363&ch=363&exp=10800&fmt=webp> 自動車への２５％の追加関税、米に適用除外を申し入れ…石破首相は関係閣僚に交渉強化を指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6dece57689220fee3d4e6aae62d1cc6f4ba9c28d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000056-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「新たな創造を」つるかめ算から数学者へ　アーベル賞の柏原氏が会見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f970edf8eb8e9857e65b91fdec4bf8c7985f09f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-01439159-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 【映像】観光バスがトラックに追突、別のトラックなどにも…第二京阪トンネル内で多重事故　11人ケガ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9959528db1ef3eafadf077d685768c650852d089>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000131-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 斎藤知事「ｎｅｗｓ２３」小川彩佳アナが「ただただ理解に苦しむ」厳しく批判　カンテレは兵庫県民アンケ「知事続投６８、辞任３２」と
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050173-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=363&ch=363&exp=10800&fmt=webp> 自動車への２５％の追加関税、米に適用除外を申し入れ…石破首相は関係閣僚に交渉強化を指示
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/83dd50ebed58f76cf9eae462bdb29ad68a7b846c70066e29f0ba028554b559db.jpg> 米自動車関税 日系メーカー驚がく
+      <a href=https://news.yahoo.co.jp/pickup/6533624>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/debba1187bc098b50f68e82c984117942a6f2e9b4dd2d4aee562117945eabd48.jpg> 愛媛の山火事「恵みの雨」に期待
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/79dd457d3c1188d434a8165f178ffedfc12a7a3f91a5e9ca84db7e88ee33990e.jpg> 4台絡む多重事故で11人けが 大阪
+      <a href=https://news.yahoo.co.jp/pickup/6533603>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/83dd50ebed58f76cf9eae462bdb29ad68a7b846c70066e29f0ba028554b559db.jpg> 米自動車関税 日系メーカー驚がく
       </a>
     </td>
   </tr>
@@ -428,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533614>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/4528f9c74b098b38c8bd7714f8d08cbd248d8cb1c82502454b65ca2853f319c9.jpg> 退任の日枝氏 人事に圧倒的影響力
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533609>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/6d793b6d180a72458583bc4419d02b9f897ae7215975d232a58040763c3b693f.jpg> 万博公式ガイドブック 複数誤記載
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533623>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/1ff72625d33448b92f5ac3c97dfbe8fa1f58d422ab79c701712185eaf032a3d7.jpg> ホラン千秋 涙で「Nスタ」卒業
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533619>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/0e3b700fc9a1399a310892673927c5dcd5b109344b7f386e311801f872b45675.jpg> 夫死去 岩下志麻の舞台挨拶が中止
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 19:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 19:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
