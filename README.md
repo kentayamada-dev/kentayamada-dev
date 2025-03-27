@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/186d26f8c286847de34509767e321c37.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b3e429f65f92e901321f468293765a9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06e98ec35cb5809bd217b52000f40751459c8097>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-10170596-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 日本政府「極めて遺憾」総理が資金繰り対策など指示
+      <a href=https://news.yahoo.co.jp/articles/822a4c1134b7b508585843cf0cdad6b9b18d1456>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050154-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 京大の柏原特任教授「５０年を超える研究全体が高く評価された」…「数学のノーベル賞」で喜び語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce1cded5b410447d3672b1417d9e3ced555d1b69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00010015-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=878&ch=878&exp=10800&fmt=webp> 株主がフジ・メディアHD現旧経営陣に約233億円の損害賠償求め提訴
+      <a href=https://news.yahoo.co.jp/articles/0b9ec20cf41b3762c6d7221e49c591818e6d99fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00949100-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> フジテレビ親会社の新旧経営陣にあわせて約233億円求め提訴　個人株主が株主代表訴訟
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8c321c838c74faf43ac16c10ca0ee825534ed45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-27003174-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> ゼレンスキー氏、アメリカにはロシアの圧力に「強く立ち向かってほしい」　BBC国際編集長の質問に
+      <a href=https://news.yahoo.co.jp/articles/fbe9f5e7fe5a0490f49fc66db8b1c94a5f0e75d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000056-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】元参議院議員の広瀬めぐみ被告に執行猶予付き有罪判決　秘書給与詐取の罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8039d303b51f1b3aa1f3e1e094f7d2c8dfd345b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000410-oric-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=956&ch=956&exp=10800&fmt=webp> GACKT、新幹線トラブル見舞われたファンへの対応発表　27日からの4公演で振替「お席のご用意できる限り」
+      <a href=https://news.yahoo.co.jp/articles/ec469dd14cae7c4b6268d4db16e67a5e0221d640>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000022-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 米自動車関税は「大きな影響」 日本政府、「遺憾」表明
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533586>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> フジ取締役会 焦点に日枝氏の去就
+      <a href=https://news.yahoo.co.jp/pickup/6533592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/447b8f34a383ae53a001c00cd7f5182a3feb231a6f9abbeb950db4f90d34b51c.jpg> フジ株主 233億円の賠償求め提訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/2d09ade70f9070648d0886792b9e1c4b51ba8e8dde2c190cc4c34bb090911507.jpg> 関東は明日夏日 週末は真冬の寒さ
+      <a href=https://news.yahoo.co.jp/pickup/6533593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/ced545b3bb5ce30f05785931226bf06f8665c819dd580b76a74ff7abf319c286.jpg> 上越市30.0℃ 本州で今年初真夏日
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/3539d80f4e5c0f4a29be8b8d000e5bddab56f95dd9f2423276ddf660e3205ea7.jpg> 約50校から勧誘 エースなぜ横浜に
+      <a href=https://news.yahoo.co.jp/pickup/6533591>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/d5406293a1fb85dfac9105d62bf39b549ee8da25ed4252683d2363afeb30d363.jpg> 田中将 2軍戦で空振り三振苦笑い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 14:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 15:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
