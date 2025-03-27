@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/853cf92dddf4c1025ea9df5e05480c7e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0a409bb3de2888b8c3d9e52f8ffdb928.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c791964158e491aa33c6083ba610b4db31ef041>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000082-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=378&cy=0&cw=1445&ch=1445&exp=10800&fmt=webp> 米関税、国内産業・雇用への影響精査し資金繰りなど万全期す＝経産相
+      <a href=https://news.yahoo.co.jp/articles/cd786d93e30de0635169153817aaf20f08ee6f90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-07226968-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=494&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 政府が“台湾有事”念頭に沖縄県の離島から約12万人の「住民避難計画」公表　九州・山口に避難を想定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c1ba64f6dbe917a640d025007428856e6554bee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050092-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 愛媛、岡山の山林火災で延焼続く…今治市で新たに住宅２棟の被害確認
+      <a href=https://news.yahoo.co.jp/articles/e672e380800c163eba26e1df9106b03be835e4dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-04141675-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 武藤経産相「日本除外を強く申し入れ」米・全輸入車25％追加関税を受け
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/dc22f8a3030c375c972cc62fce3cd04ffd408db2e0a4239e3a3b665922a90a26.jpg> 「物価高対策」発言 首相が陳謝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/3f25ea46a50646753ee734a5971b0f44a75537c8918cc5a317d0bf915fe2aca7.jpg> 韓国で山火事26人死亡 30人重軽傷
+      <a href=https://news.yahoo.co.jp/pickup/6533580>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/d15a2c6bec9226501a157dc300f1419509284ba41dc93b8d41b2059ac77be904.jpg> 米の自動車関税 日本除外を求める
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533570>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/cb07e479596a917932b58ff7bfcd15936ab94fda9844153898c1e09418e739b5.jpg> 9歳死亡 第4種踏切は廃止望ましい
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533586>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> フジ取締役会 焦点に日枝氏の去就
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 13:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 14:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
