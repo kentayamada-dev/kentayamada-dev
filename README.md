@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f556c5c49ae1a17b676d9b4e230cdad6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2352029b437cc8dc05e6150e537d3d91.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b622e5bb23382d9c0fdfa72dba4cf61d2f7a5c73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 40年以上、取締役在任　退任の日枝氏、グループに強い影響力
+      <a href=https://news.yahoo.co.jp/articles/9ab4449022cfa80ffe86b5e2b32ea4842bfa997e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 紅海沿い人気リゾート地で観光客を乗せた潜水艇が沈没 6人死亡 エジプト
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/747c4713b86653fe470c974353ade27c8bd24e15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-35231054-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 観光潜水艇が沈没、ロシア人乗客ら６人死亡　エジプト
+      <a href=https://news.yahoo.co.jp/articles/c3b4e0fa1e5aa314f57b6fd24fae206120eab90f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米関税対抗へ「あらゆる手段」　報復、来週に決定　カーニー加首相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b622e5bb23382d9c0fdfa72dba4cf61d2f7a5c73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000018-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=804&ch=804&exp=10800&fmt=webp> 40年以上、取締役在任　退任の日枝氏、グループに強い影響力
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533650>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/70f3953c2290ca4a78c473fba8e525a6e547ac71c641808cb4767455c9a6fde8.jpg> 高浜1号機 60年目までの運転認可
+      <a href=https://news.yahoo.co.jp/pickup/6533657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/9e34c92b82251a05a4f6904873cdf66dc10e7b91712f74221b4dea000ba7978f.jpg> 米情報漏洩 バンス氏が欧州に反感
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f5fd7dbec0e47e77c24609532d69fa981b17cd019615c9f49333b701b80efdc0.jpg> 日テレ 月曜から夜ふかし巡り謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6533654>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/cb5e02967a8b2a6b97d8520899476e8ce929f7fb686d1b054c2b507120a0d84d.jpg> 二宮和也 映画「8番出口」で主演
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 07:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 08:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
