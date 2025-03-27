@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zb2tXTkDHAA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eb0efeb6f5b37caa516adee8584b4d91.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4027c504da279c4bf6900cfdb0ec514b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbc61e043d64796f63cfc558c1f52254740500e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000293-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=889&ch=889&exp=10800&fmt=webp> フジ社長　日枝久氏が人事に与えた影響を否定「影響力は全くなく発表できた」
+      <a href=https://news.yahoo.co.jp/articles/56bcc1355cbb467da9047818f70110bec0484868>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000128-zdn_mkt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=393&ch=393&exp=10800&fmt=webp> 日枝久氏、フジHDの取締役を退任　新役員の平均年齢は71.2歳→61.6歳に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bc2923826f305c9d0ae404a5ea6b2b8d0f95edd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00064593-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「５０年を超える研究全体が高く評価された」京大・柏原特任教授が日本人初“数学のノーベル賞”を受賞「正直言って非常にビックリ」
+      <a href=https://news.yahoo.co.jp/articles/ecfa809511ebb4feaf424708524d3ba5f924f81b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 映画監督の篠田正浩さん死去　94歳、「心中天網島」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77cbc5a76cadaa65737e4301287695b5fe70f2a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000110-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=756&ch=756&exp=10800&fmt=webp> フジテレビ取締役　女性比率3割に引き上げ、平均年齢は67・3歳から59・5歳へ若返り
+      <a href=https://news.yahoo.co.jp/articles/4ef984bc78df9a14d6b6030b44435805b31ded6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-90018397-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=426&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “数学のノーベル賞”「アーベル賞」日本人初の受賞　京大・柏原正樹特任教授「びっくりした」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c60a1eceab7873ff01f7c0b1cf17b1ff6b3d4a9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-11627333-maidonans-000-30627715-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 日本車にも25％関税を正式表明　トランプ政権の“例外なし”明言に広がる混乱と、日本政府の苦しい立場
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4a3e4df20b3e8819849f48f2103ae6d92aa2d4e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000037-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「すぐに辞任すべきとは思わない」古市憲寿氏、斎藤知事のパワハラ認定も「民意」の“重さ”指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6d57c0bb25007b36e4d07d8e84626007a2b5795>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000063-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> トランプ米政権、保護主義に歯止めかからず　「解放の日」と誇示も…成算見えぬ関税戦争
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000037-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「すぐに辞任すべきとは思わない」古市憲寿氏、斎藤知事のパワハラ認定も「民意」の“重さ”指摘
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/af3f6f642c68f562e3dfbcedc6fd3d96f6e050bb63554d416e24de3d5e81a4d3.jpg> フジ 取締役12人が27日付で退任
+      <a href=https://news.yahoo.co.jp/pickup/6533618>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/58aa6843f758c17fed6be2b9d1186e5c66ce44d8ed01fe7ae23bc87fc7d38c5e.jpg> 懲戒免職の教職員名を公表へ 青森
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f4a23c4e6234a390875e09291d43ad6fabd37c105ad49cbfac9908564021d677.jpg> シャトレーゼに勧告 下請法違反
+      <a href=https://news.yahoo.co.jp/pickup/6533614>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/4528f9c74b098b38c8bd7714f8d08cbd248d8cb1c82502454b65ca2853f319c9.jpg> 退任の日枝氏 人事に圧倒的影響力
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/1e707990a8f5fb964cfb01a751699c3573f640d0972c900aa6b401df5f749538.jpg> ダウンタウンDX 週替りMCで進行
+      <a href=https://news.yahoo.co.jp/pickup/6533619>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/0e3b700fc9a1399a310892673927c5dcd5b109344b7f386e311801f872b45675.jpg> 夫死去 岩下志麻の舞台挨拶が中止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 18:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 18:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
