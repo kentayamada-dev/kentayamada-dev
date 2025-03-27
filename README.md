@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3576da46306feec73c5f85c39810183a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f556c5c49ae1a17b676d9b4e230cdad6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b622e5bb23382d9c0fdfa72dba4cf61d2f7a5c73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 40年以上、取締役在任　退任の日枝氏、グループに強い影響力
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/747c4713b86653fe470c974353ade27c8bd24e15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-35231054-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 観光潜水艇が沈没、ロシア人乗客ら６人死亡　エジプト
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-35231054-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 観光潜水艇が沈没、ロシア人乗客ら６人死亡　エジプト
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe5678a9567befcc108cd3ad7dbbfe7acfe6ddbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00949553-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 信頼回復に向けフジテレビが新たな役員体制に移行　取締役22人から10人に減らすなど　日枝久（87）取締役相談役は退任
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/864bdfe54960a177dfdbcc1245a02a78bb5af023>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000005-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1545&ch=1545&exp=10800&fmt=webp> フジ経営陣大刷新　日枝氏退任　金光社長「新たなフジの第一歩」フジサンケイグループ代表も辞任へ
+      <a href=https://news.yahoo.co.jp/articles/55f5f3dbecc09ff97459a76214381713b6d9bc0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010000-eigach-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=200&ch=200&exp=10800&fmt=webp> 最も演技が上手い旧ジャニーズ出身俳優は？ 史上最高の逸材（1）鬼気迫る芝居に海外も注目...けた外れの才能
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 07:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 07:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
