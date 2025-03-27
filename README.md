@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0df8b94ddc26b419b9f00239df922e35.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fdc2b8ed01d1e4838d71f87177ff4826.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f094b4cf1fa8ffac99feb316ae8700128e988c28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-90019835-ebc-000-1-thumb.jpg?exp=10800&fmt=webp> 懸命の消火活動で守られた今治の「道の駅」２６日ぶりに営業を再開「早く鎮火に向かって欲しい」　【愛媛】
+      <a href=https://news.yahoo.co.jp/articles/3e6b8118c6b8a11c1ce6d4569cddd215370894be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-01548415-kyt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=558&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 数学の最高峰「アーベル賞」の京都大・柏原特任教授が会見　趣味はインド古典音楽「非常に数学的」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9303218a21a8c5d75f04c466e9a644d6185f6697>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000025-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 斎藤元彦知事「真摯に受け止め」繰り返すばかり　詰め寄る記者「不誠実にもほどがある」「自身に処分ないのか」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000025-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 斎藤元彦知事「真摯に受け止め」繰り返すばかり　詰め寄る記者「不誠実にもほどがある」「自身に処分ないのか」
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c947459d27f04d48d23a38c42f3ab3331d2f356>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00949347-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=426&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本人初の快挙!“数学のノーベル賞”「アーベル賞」を受賞　京大・柏原正樹特任教授「びっくりした」
+      <a href=https://news.yahoo.co.jp/articles/707bac1b934ede5c8fc290e18867af41da633fef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000136-it_nlab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=442&ch=442&exp=10800&fmt=webp> すき家、みそ汁に「ネズミ」混入の写真が拡散　「当初ホームページ等での公表を控えた」ことを謝罪
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/83dd50ebed58f76cf9eae462bdb29ad68a7b846c70066e29f0ba028554b559db.jpg> 米自動車関税 日系メーカー驚がく
+      <a href=https://news.yahoo.co.jp/pickup/6533629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/28b08389c701e676f90c8f93c4a3ad277489f24889213de3531f7d0ffd5d8b22.jpg> 尼僧が性被害訴え 僧侶を「免職」
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533601>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/4001c29d08456dae8f4c0001062cb5998c32a4549b7b81ea3aa246a3bb9510a3.jpg> ネズミ混入 すき家が調査結果報告
+      <a href=https://news.yahoo.co.jp/pickup/6533630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/4001c29d08456dae8f4c0001062cb5998c32a4549b7b81ea3aa246a3bb9510a3.jpg> 混入の公表当初控える すき家謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 20:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 20:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
