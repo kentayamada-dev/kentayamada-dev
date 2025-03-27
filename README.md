@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2b598c4a33fcf1f4a921ecdcf3690421.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/afab325078c979d3e55583ea04b86420.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1a44caadf3ca25cf0b06c410473da68e9405643>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000045-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=722&ch=722&exp=10800&fmt=webp> 玉川徹氏　斎藤知事の姿勢をフジテレビになぞらえる「第三者委員会の調査結果を受け入れないとなったらどうなるか」
+      <a href=https://news.yahoo.co.jp/articles/8c59d683034f2d8605759ef53713f637ebcb83b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-07226923-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=489&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理「あらゆる選択肢が検討対象」 アメリカ・トランプ大統領が自動車関税25％と発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c62158d6f60487689635388b4816206182c75491>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-33270129-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=190&cw=783&ch=783&exp=10800&fmt=webp> 玉川徹氏、兵庫・斎藤元彦知事の会見発言「組織論としてあり得ない」「知事を続けたい」痛烈批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3fec1a844ab938e4f5c77d5ca0a71ec433221f46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-33270145-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=936&ch=936&exp=10800&fmt=webp> ドジャースがJTBとパートナーシップ契約、優先入場が可能に　東京エレクトロンも契約
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/213f0fd3b0a73ea9680bf5c21868ec2cc7321265>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-01725862-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 甲子園の雰囲気に「おかしくなる」　初出場の指揮官が吐露した“困惑と後悔”「何で…」
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4c72274fc2b3729e06ddf8ae0890707efa46702e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948867-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=720&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本人初!アーベル賞に京大・柏原正樹氏（78）が選出　「数学のノーベル賞」と称され賞金約1億700万円　「まさに真の数学的な先見者」アカデミー称賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1c8811a55f9ebf46496b63b0bbc97688d0e589d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドジャース、JTBなどと契約　球場内の優先入場や広告を実施
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94903b2e4c197360bf458d42ae77070da3f65706>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00010002-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 福島・聖光4強ならず　選抜高校野球、浦和実（埼玉）に延長で涙
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b19058e48cd00adc9a8a5ecca09a99cd1e24f69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 輸入車への25%関税を発表 トランプ氏
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533560>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/dc8a118807586d4ba0e3a755cf6ad1b50270fa5a20ddb53a709ba836af450213.jpg> 日本の戦争検証 有識者会議設置へ
+      <a href=https://news.yahoo.co.jp/pickup/6533567>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f438d4fa9fa41b3fe5bd9a71e73622c91b925620762f1311aeb929ef5e7674a6.jpg> カナダ 米の輸入車関税に報復意向
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 09:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 10:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
