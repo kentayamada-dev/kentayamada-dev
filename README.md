@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zb2tXTkDHAA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ab8ef50f82d68dda631090cf3714441.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f76ebd520bb17b7c6e61b7322e9c2a56.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3b5a8c8e3ce122ed8ccd626e14ee6f7de6f2b80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000035-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 日枝久氏、フジと親会社の取締役相談役退任　幹部複数も　刷新狙いか
+      <a href=https://news.yahoo.co.jp/articles/0e1cbaa23e515fdf05dfdd88d17052613bfd8e21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 共同研究者に感謝　アーベル賞受賞の柏原氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94aa4b42600ff02ac44c5ad004589cca29bc6e68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000431-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=791&ch=791&exp=10800&fmt=webp> 日枝久、フジ取締役相談役を退任　経営体制見直しで「女性取締役比率を3割以上」など実行へ
+      <a href=https://news.yahoo.co.jp/articles/52240f4018942c3af7f4009ebf5730507d3e94a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000011-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《冷蔵庫から…》「すき家」広報部が明かす“味噌汁にネズミ混入”の全貌　「本能的に高温の物体を避けます」鍋で煮込まれていた可能性を完全否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/adbb504a912366b71a5c5c2ea7d4c4f415eef293>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-07227031-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=528&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】石破総理「非常に遺憾」　アメリカ・トランプ大統領が自動車に追加関税25％と発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1891995b30511a44cc8d5c2030695fcc067fd11a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000071-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> フジテレビの日枝久取締役相談役が退任　フジ・メディアHDも6月に　在任期間40年超
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/822a4c1134b7b508585843cf0cdad6b9b18d1456>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050154-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 京大の柏原特任教授「５０年を超える研究全体が高く評価された」…「数学のノーベル賞」で喜び語る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec469dd14cae7c4b6268d4db16e67a5e0221d640>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000022-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 米自動車関税は「大きな影響」 日本政府、「遺憾」表明
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/8dbb2ec99dffac9950f6da18086793720642d873e870b63b73f986514a608435.jpg> フジ 日枝取締役相談役が退任へ
+      <a href=https://news.yahoo.co.jp/pickup/6533573>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f0eb1a6dfc95b486b97cf8756880a074b847d658b7f09ed0c0c0c9ad741df966.jpg> EU対露制裁 解除は完全撤退条件
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533573>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f0eb1a6dfc95b486b97cf8756880a074b847d658b7f09ed0c0c0c9ad741df966.jpg> EU対露制裁 解除は完全撤退条件
+      <a href=https://news.yahoo.co.jp/pickup/6533589>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/258f9d00827384ed50ba33578bd7e3ea652c7015764a1e8faaf82e5e890fc3b7.jpg> 台湾有事念頭 沖縄の避難計画公表
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/8dbb2ec99dffac9950f6da18086793720642d873e870b63b73f986514a608435.jpg> フジ 日枝取締役相談役が退任へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533596>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/51cd6e44c84141d70a2cffe2cbe2ece92e3e8e752ad9fc8298649ab462aecf3e.jpg> 高知銀行に女性頭取 地銀で全国初
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/447b8f34a383ae53a001c00cd7f5182a3feb231a6f9abbeb950db4f90d34b51c.jpg> フジ株主 233億円の賠償求め提訴
+      <a href=https://news.yahoo.co.jp/pickup/6533599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f4a23c4e6234a390875e09291d43ad6fabd37c105ad49cbfac9908564021d677.jpg> シャトレーゼに勧告 下請法違反
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533595>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/15c3d7b64c43f614d27b4ed46796de50002efaee1b345721177bc2d9fc7b82d3.jpg> 物議のストリートピアノ 撤去発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/d5406293a1fb85dfac9105d62bf39b549ee8da25ed4252683d2363afeb30d363.jpg> 田中将 2軍戦で空振り三振苦笑い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 16:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 16:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
