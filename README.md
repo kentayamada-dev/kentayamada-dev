@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e388fd943c7a87c19013584c51e1c3ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0a933f61b7b08e5607b35dcfa79165ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15ef0b704179aafe35367afcced1cef829ec6c1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-03361995-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日枝取締役相談役の退任など…フジが大規模な経営陣の刷新を決定
+      <a href=https://news.yahoo.co.jp/articles/3633d51d14899b9bd63570af8b98421aa00f4d9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00949538-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 紅海のリゾート地で潜水艦沈没、観光客6人死亡　エジプト
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b46d479976b84344cd658ea38ad76d271f48324d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000003-jij-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米25％車関税で摩擦激化　各国猛反発、報復の恐れ　コスト高、価格に跳ね返り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/154216e95c11d99539a44ec2bcbaf8dc9e756ad7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000105-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> エジプトの紅海沿い人気リゾート地ハルガダで観光用の潜水艦が沈没　ロシア人6人死亡
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 02:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 03:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
