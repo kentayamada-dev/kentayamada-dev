@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/636f688f66213516420f3e7c8ba8ca1a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3576da46306feec73c5f85c39810183a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbbdb86438ebdedebfc0fa926486a72bebc9ceaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-03281016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「取締役の在任期間が４１年にわたっていた日枝取締役相談役が退任」…フジ「めざましテレビ」報道　
+      <a href=https://news.yahoo.co.jp/articles/747c4713b86653fe470c974353ade27c8bd24e15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-35231054-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 観光潜水艇が沈没、ロシア人乗客ら６人死亡　エジプト
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed72a4c27b7d75912a02f79042c55da785416dc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-07227161-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 紅海で観光用の潜水艦が沈没　6人死亡 29人けが　エジプト
+      <a href=https://news.yahoo.co.jp/articles/fe5678a9567befcc108cd3ad7dbbfe7acfe6ddbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00949553-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 信頼回復に向けフジテレビが新たな役員体制に移行　取締役22人から10人に減らすなど　日枝久（87）取締役相談役は退任
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/25/dd6d5359badde6f0a2315eee2d0c646857dc4c16495722aac0365d7f1fffc6b0.jpg> 紅海で潜水艦沈没 観光客6人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/654d6a50cfeaed697ee9922e2eb9b375c775eedfcba18c007291cbcce4f2f84b.jpg> 首相補佐官・矢田稚子氏が退任へ
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/575a44833eba568bf5f1e62a14307eb580a6ddbc1d1968c489ae818fb6d07e4e.jpg> 凍結口座への強制執行 無効判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533649>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/9f9f4c2a6717473cbe8a4c3413551f43c8856325567405cd6934529fa0203c0b.jpg> フジ日枝氏退任 疑問と期待の声
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/66e0fd8887504ccb50c93bd67983483294b04d2788b40a5c602c6f73cbd593a9.jpg> ムツゴロウ 世界の絶滅危惧種に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/e9f95254a75c2c14dd2d389897ec2bffb33be480c602c6d907e90bf4747fd30d.jpg> 「メトロイド」新作2025年発売
+      <a href=https://news.yahoo.co.jp/pickup/6533651>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/5f991edab799a0ff44eea36fc3b17a1124e22c73f2b5ee99d1b7c1298bffbfe6.jpg> トモダチコレクション 2026年発売
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 06:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 07:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
