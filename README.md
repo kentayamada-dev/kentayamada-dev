@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/edd4cf2218f92128621cea26a190c102.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/853cf92dddf4c1025ea9df5e05480c7e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d10a265e4fc2a8f5eec1f325d2a2f99c5de9ade>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000044-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 日本政府「極めて遺憾」　石破総理「あらゆる選択肢検討」 資金繰り対策など3点指示
+      <a href=https://news.yahoo.co.jp/articles/7c791964158e491aa33c6083ba610b4db31ef041>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000082-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=378&cy=0&cw=1445&ch=1445&exp=10800&fmt=webp> 米関税、国内産業・雇用への影響精査し資金繰りなど万全期す＝経産相
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7cf46d08e672cf77a97ef63d65244a01cb610041>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-90021414-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=232&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 兵庫・斎藤知事、初めてパワハラを認め謝罪「真摯に受け止め」　辞職は否定
+      <a href=https://news.yahoo.co.jp/articles/33cff9ee495a28f15ba694441f0ff1be7877c067>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00948974-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジテレビとフジ・メディアHDが定例の取締役会を開催へ　第三者委員会の報告書公表が今月末に迫る　清水社長「異なる文化を持ち込めることができる人を登用したい」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/b385237bd3eb6a96ce05aa6a73c2a2eebf7779f55778bdbd304401b26ef04a35.jpg> 交通事故死傷者 歩行中は7歳最多
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533570>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/cb07e479596a917932b58ff7bfcd15936ab94fda9844153898c1e09418e739b5.jpg> 9歳死亡 第4種踏切は廃止望ましい
       </a>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/a6ae1f33ec74d3b90639908e125c89b3d5b3204978fc17865b4542af2ddb5fa9.jpg> 退職検討 強まる「転勤NG」の訳
+      <a href=https://news.yahoo.co.jp/pickup/6533582>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/853b10e72cebf40ae9468327ed87d466aaa37eae4289283bff5d5d25c6bfbf1f.jpg> 旧海軍壕で「戦争賛美」商品 撤去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533576>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/maedatsunehiko/02148159/title-1742980302222.jpeg?exp=10800> 斉藤元メンバー在宅起訴 今後は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/c12dca596bea911f1f6041bcb8b1266ed285ffcc58e470ce2aa5f6a46b626451.jpg> 「ジブリ風」画像生成 SNS投稿増
+      <a href=https://news.yahoo.co.jp/pickup/6533587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/3539d80f4e5c0f4a29be8b8d000e5bddab56f95dd9f2423276ddf660e3205ea7.jpg> 約50校から勧誘 エースなぜ横浜に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 13:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/27 13:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
