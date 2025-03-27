@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zb2tXTkDHAA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/333996f9a5c5365e02304851137c2611.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/27426dbecb6242d3ce8e5758e962614c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e24fc1f548d191d60504c6ef7a28fcf25de68eca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ続落、33ドル安＝ナスダックも安い（27日午前）
+      <a href=https://news.yahoo.co.jp/articles/e75d2f9c3113a49dfc789284c0c1e3cc5039d991>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00949526-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏 輸入車に関税25％ 日本も対象　石破首相「あらゆる選択肢を検討」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ab68f5aa8488dee3e07066571dea47870297020>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050198-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=347&ch=347&exp=10800&fmt=webp> フジテレビ新経営陣、過半数が社外取締役…平均年齢５９・５歳に若返り
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050198-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=347&ch=347&exp=10800&fmt=webp> フジテレビ新経営陣、過半数が「社外取締役」…平均年齢５９・５歳に若返り
       </a>
     </td>
   </tr>
@@ -381,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d04177aaba12f38055b5e8af4e34abfbe3a64b0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00050507-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 斎藤知事の対応に職員落胆「この期に及んで・・・」　「嘘八百」「公務員失格」発言から１年　第三者委の違法指摘にも「対応は適切だった」対応続ける
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14ea2f29ae880c652152fe9d3958daa35d596cdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000161-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 「多くの共同研究者に恵まれた」　日本人初アーベル賞の京大・柏原氏が会見で謙虚に喜び
+      <a href=https://news.yahoo.co.jp/articles/4919a1f524060096cb2f379cb8e3a77042500a29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-90019844-ebc-000-2-thumb.jpg?exp=10800&fmt=webp> 今治・山火事　発生から５日目も鎮圧のめど立たず「恵みの雨」に期待　中村知事も鎮圧に期待【愛媛】
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/c02d9de6b2b42e6a2a1bec51bdffa33752bd27688b4ec0899a2609db4d8f8362.jpg> トランプ氏 支持基盤に亀裂走る
+      <a href=https://news.yahoo.co.jp/pickup/6533646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/45d1636bf2e829f1c2709d1702da2e3e15876a606c2a114ef2c53dbaacde5605.jpg> 異例 ガザで連日の反ハマスデモ
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/dfb9bae0366b5f5a58ed65785499b60620e45c9b3f8bfc6a44e33550ceb5a22f.jpg> 遠藤周作 未発表の冊子発見
+      <a href=https://news.yahoo.co.jp/pickup/6533643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/66e0fd8887504ccb50c93bd67983483294b04d2788b40a5c602c6f73cbd593a9.jpg> ムツゴロウ 世界の絶滅危惧種に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/66e0fd8887504ccb50c93bd67983483294b04d2788b40a5c602c6f73cbd593a9.jpg> ムツゴロウ 世界の絶滅危惧種に
+      <a href=https://news.yahoo.co.jp/pickup/6533631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/06daa8298438ec3ac088c052f018d0de35e42b148222b4b4391aa651c6ac5237.jpg> 物価高で 炒飯にも「1000円の壁」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/27 23:52:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 00:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
