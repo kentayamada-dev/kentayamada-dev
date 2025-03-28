@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/96a73ec67388a0d27020f41f6314e544.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1c538f8854dd6bbbfa776c0ed4f5ad43.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec32725825324ecc75917424e9305f44f5bb26d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平「シンプルにストライクを振っていくことを考えていた」本拠地での一発を振り返る
+      <a href=https://news.yahoo.co.jp/articles/dd39e9b135cacf5b54449b41bf679537c02fa469>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-08551386-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル軍、レバノン首都ベイルート南部を空爆　ヒズボラとの停戦発効後初
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58786c1efe00524be4134b524a471178b38756a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-06718487-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル軍、レバノン首都ベイルート郊外を空爆　ヒズボラの無人機倉庫を攻撃
+      <a href=https://news.yahoo.co.jp/articles/dcd7e5d7a427d5b9aaba517838ffd21e359ebcad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000013-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷　時差ボケに苦しみながらも新バットで連弾　トム・ハンクスも歓喜！Wシリーズ連覇へロケットスタート
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 01:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 02:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
