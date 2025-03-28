@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c1dc94c6b0b6e5a3ab6f96f58001863.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/420bf0e82fe3016da10fecf4da2e8937.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/242321ba575909da4c53d1ba446f00beee791e11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000105-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> イスラエル軍、ベイルート近郊空爆　首都攻撃はヒズボラとの停戦後初
+      <a href=https://news.yahoo.co.jp/articles/23fa43276abdcc8295df4c9a433e584cd4b040f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00050009-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> イスラエル軍、レバノン首都ベイルート南部を空爆…ヒズボラとの停戦発効後初めて
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/193358daab7743097a61948c10934da42c5621e1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000191-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=1049&ch=1049&exp=10800&fmt=webp> ドジャース・大谷翔平が〝黄金弾〟　米国開幕戦もショータイム　日本開幕戦に続いて2戦連発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f03bc752a55df74f35015849fd7139e394631118>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000154-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=331&ch=331&exp=10800&fmt=webp> LINEヤフー、写真誤表示で「開発者の理解が不十分」と謝罪　「信頼が大きく損なわれた」と総務省
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 00:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 01:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
