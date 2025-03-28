@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d29a01c5cd3c459eb5b3a16cc63d4c2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3701b489229f9c58a8893e11a035c7ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1626f619eeee904534a3c3b39bd47fc14f0fe96b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000029-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 岡山の山火事で鎮圧宣言　過去最大級の焼失面積565ヘクタール
+      <a href=https://news.yahoo.co.jp/articles/a726817726fbefeb3bd527868b00594b183d92ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-10008377-jsportsv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 大谷翔平、高々と上がった本塁打でトム・ハンクスら、セレブの度肝を抜く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a99797adeed17f07f3ab431ab8a74dccb0a99e87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-01726728-fullcount-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が試合直後にインスタ更新　大はしゃぎする超大物俳優も…まとめた開幕戦での名場面
+      <a href=https://news.yahoo.co.jp/articles/98ab18606872ae93a1c3e3951fe71151a3160dd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-07227222-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】岡山県南部の山林火災　岡山市が“鎮圧”を発表　午後1時すぎ　岡山市「引き続き鎮火に向けた警戒をしていく」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/65412e5238667bcfad17d41af02fd7c7eb94f99c3151f3a23b6fc7c3608e8f76.jpg> 保津川下り転覆 事故当時の映像
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533681>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/ac15819deb05990c032c53e3149297f36aa5fe295063441566c21eca6b12d190.jpg> 日本語能力試験 SNSで情報漏れか
       </a>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/8f377b1247235e5c483c3bf4240363160c686cb362d693ed788ace8f3355c8b0.jpg> 谷原章介 あいさつ途中で番組終了
+      <a href=https://news.yahoo.co.jp/pickup/6533690>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/b952435f2fc56a2ce191e45724752235a81c8b6756b10d8542e925b32d0f6df4.jpg> 速報選抜 智弁和歌山vs.浦和実
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533685>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a573fdffdb03453eb50517a4e7fe3d30586325febecffcee1cf35f60d20581f7.jpg> おむすび最終回 出演者らのX投稿
+      <a href=https://news.yahoo.co.jp/pickup/6533689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/bdebf48b4540125d0181a9d23dd5232bd990b673c31ed69342a3dcb0e4594a77.jpg> センバツ 横浜が19年ぶり決勝進出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/8f377b1247235e5c483c3bf4240363160c686cb362d693ed788ace8f3355c8b0.jpg> 谷原章介 あいさつ途中で番組終了
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 13:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 14:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
