@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c683a098fbc70e549c72ef92b0490c99.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da009394ad9135d6fb4942854da5226c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/520762cb10a8319d131dcd3917c43409e6baeeef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000009-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ミャンマー地震、軍事政権が異例の国際支援を要請　死者144人
+      <a href=https://news.yahoo.co.jp/articles/e6a42a7871db1a5fc2f506d91210689297bee745>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-33290102-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=1147&ch=1147&exp=10800&fmt=webp> 大谷翔平「１番DH」で、３試合連続３号なるか　先発投手は開幕戦以来の登板となる山本由伸
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e85719982b1f97071430a8190f7c835821b1a4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000134-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> ドジャース4連勝なるか　3戦連発期待の大谷は「1番・DH」で先発　2勝目かけ由伸が先発
+      <a href=https://news.yahoo.co.jp/articles/520762cb10a8319d131dcd3917c43409e6baeeef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000009-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ミャンマー地震、軍事政権が異例の国際支援を要請　死者144人
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/104fa79315da6c86a8130ec15cd488e8d1c056d7c8db408075e207c2ccc81894.jpg> イスラエル レバノン首都を空爆
+      <a href=https://news.yahoo.co.jp/pickup/6533760>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/399608075967222d51ab20eeee831677878c00949446e36babc1db56dda0f755.jpg> 旧統一 資産移譲先に傘下宗教法人
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533749>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/d0d987148f0f2c86f265e419290d1ef2fb195d462c58e80099dc4eafebb4e306.jpg> ガチャガチャで外貨使われる 被害
+      <a href=https://news.yahoo.co.jp/pickup/6533757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/37c7db30de7ff7b34688eb63fdeb2a537c01dc0bac20e3151b4c79a0a305dc62.jpg> 母も父も亡くし 高校で得た安らぎ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 08:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 08:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
