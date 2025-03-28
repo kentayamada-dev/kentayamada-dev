@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1676147e5d3e6bd93a8a7e486277c684.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/32c437693f2a91635f9838659197978b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2782b8921894cc4690b3bb39a31b363a889d3a99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00050196-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=487&ch=487&exp=10800&fmt=webp> 「苦手」投手からの先制打、主砲が見せたチームの成長…智弁和歌山が７年ぶりの決勝進出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f03bc752a55df74f35015849fd7139e394631118>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000154-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=331&ch=331&exp=10800&fmt=webp> LINEヤフー、写真誤表示で「開発者の理解が不十分」と謝罪　「信頼が大きく損なわれた」と総務省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/77e597d6cd2135020e257c864c76a3764edaf169>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> レバノン首都南郊攻撃　ヒズボラ標的、停戦後初　イスラエル軍
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a32d127ca8c769ec1f465970c8ec1a936019b2d2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00519811-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 同僚は衝撃「右に引っ張るのと同じ」「どうやって…」　大谷、逆風無関係の2号HRで証言された異様さ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a607e1b3de00eaab42c4321d3fbec69c7f3fe908>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> LINEヤフーに行政指導　写真を誤表示　総務省
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe7639f5fb166f55dba1df2dc2a24a496d3287bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000149-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 屋内退避、3日後に「継続判断」　原発事故対応巡り報告書　規制委
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d12918c16e278cdc132c9900ea0eee3613e3a423>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-33281419-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1356&ch=1356&exp=10800&fmt=webp> 【センバツ】智弁和歌山２本柱が２戦連続完封リレー　右すねに打球直撃の渡辺颯人「目が覚めた」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/176910f8174ac61810cc0501c7da240544456dd2eb238048edf51a6f00074739.jpg> 原発巡る屋内退避 規制委が報告書
+      <a href=https://news.yahoo.co.jp/pickup/6533735>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/c4fb2224323c7ec018cc3ab066559ec7d1e0d307c4fb0254d65075bde1c354e2.jpg> 東京 過去最大9兆円超の予算成立
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/c4fb2224323c7ec018cc3ab066559ec7d1e0d307c4fb0254d65075bde1c354e2.jpg> 東京 過去最大9兆円超の予算成立
+      <a href=https://news.yahoo.co.jp/pickup/6533737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/176910f8174ac61810cc0501c7da240544456dd2eb238048edf51a6f00074739.jpg> 原発巡る屋内退避 規制委が報告書
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533720>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/e184f4debf9691ce5dcca0ed643a3ea5eea69c6c490ad8bcf53fbfff179692bb.jpg> 4/1から居場所を失い不安な方へ
+      <a href=https://news.yahoo.co.jp/pickup/6533739>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/1c1cf5417f124175e379fccef11883db04201342c7536f2c27399005433b7783.jpg> 通勤手当「報酬」に首相が違和感
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533724>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/d9fc6bb99a27bf64810a4625277b8bc9a515274e8bebb1577c5f28bcb5157060.jpg> トラックにひかれ 94歳女性死亡
       </a>
     </td>
   </tr>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/537cfe0fb912de00f0583c1af5e4bf6ed28cd43e97a5944c18dea1db6f2023f3.jpg> イチロー氏 妻が見守るなか始球式
+      <a href=https://news.yahoo.co.jp/pickup/6533720>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/e184f4debf9691ce5dcca0ed643a3ea5eea69c6c490ad8bcf53fbfff179692bb.jpg> 4/1から居場所を失い不安な方へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533734>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/840ee4913a565d99fd4d9b154ddda60a3e60c798145f4d204e12b1fde42746af.jpg> コロッケが再入院 3公演中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/fad39961b9a69aa64289fe834c310db50d34c9ad794d6993a74be4d2d5b17d0d.jpg> 谷原章介 あいさつ途中で番組終了
+      <a href=https://news.yahoo.co.jp/pickup/6533740>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/075b7c1f75bb733a5daa8acd163766e8075ee14c665b783e9330f2d1d96cbd81.jpg> 「夜ふかし」の編集 総務相が苦言
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 21:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 22:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
