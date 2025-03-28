@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c538f8854dd6bbbfa776c0ed4f5ad43.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b1eb121f30ea125aba0429e432e9f173.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd39e9b135cacf5b54449b41bf679537c02fa469>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-08551386-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル軍、レバノン首都ベイルート南部を空爆　ヒズボラとの停戦発効後初
+      <a href=https://news.yahoo.co.jp/articles/ce4b518a08b1f07a7f7ef8e8b411eccb21267a77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000001-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=726&ch=726&exp=10800&fmt=webp> 大谷翔平  黄金ユニで米国開幕弾　日本での驚弾に続き２戦連発→試合後に「時差ぼけ」まさかの告白
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dcd7e5d7a427d5b9aaba517838ffd21e359ebcad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000013-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷　時差ボケに苦しみながらも新バットで連弾　トム・ハンクスも歓喜！Wシリーズ連覇へロケットスタート
+      <a href=https://news.yahoo.co.jp/articles/dd39e9b135cacf5b54449b41bf679537c02fa469>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-08551386-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> イスラエル軍、レバノン首都ベイルート南部を空爆　ヒズボラとの停戦発効後初
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 02:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 02:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
