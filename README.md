@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f8f1874454a4457933ce1d8b80c1dd41.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/090764c3acc23aae67850f4ccd977c22.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8c9f92ed5d9c9229db2acc8f435c1ee06944f3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-33280922-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 【データ】大谷翔平、早くも２号ソロ　大リーグ移籍後チーム３試合目での２号は自己最速
+      <a href=https://news.yahoo.co.jp/articles/0a79893ecbed0ea1ee1c5f3e8242d06f0ca045ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010018-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平の本拠地初アーチに超大物俳優らも大喜び！「表情が全てを物語っている」 米メディア注目「至極当然の反応だ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/808ac1aee43deda8edb2984b51d2c20946b7950e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010002-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 週末の天気　土曜は関東で冷たい雨　さくら見頃も花冷えに　日曜は北陸以北の日本海側を中心に雨や雪
+      <a href=https://news.yahoo.co.jp/articles/0b694f5eefd56d5b336d07c2276b933f977ca6ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00029194-tenki-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 29日(土)は関東で急激に気温低下　真冬の寒さ戻る　30日(日)にかけて山で雪も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e78858e52729d4e1f00fd21406f3afc1271ce23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00003624-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 智弁和歌山が変則左腕・石戸を攻略！4番・福元は「悔しい思いをもって、やって来た」と4安打！横浜との決勝へ【25年センバツ】
+      <a href=https://news.yahoo.co.jp/articles/9e9771f926d026dfaa2d3550b95afba97d5908a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00003611-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 横浜VS智弁和歌山の決勝に！横浜打線が石垣を攻略、智弁和歌山打線が石戸を攻略して、頂上決戦へ【センバツ第10日】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cde7ac6e5f755a83a8e4efd9501d321c1bfa42f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-04585271-mmt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【続報】トラックにひかれ90代女性が死亡「音に気付いて後ろを確認したら女性が倒れていた」
+      <a href=https://news.yahoo.co.jp/articles/0b54395e48813f4b203b5112a244302374d0349b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000104-reut-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1450&ch=1450&exp=10800&fmt=webp> 日経平均は大幅続落、トランプ関税政策への警戒感が継続
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533707>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ミャンマー中部でM7.7の地震
+      <a href=https://news.yahoo.co.jp/pickup/6533710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/4769020271d06720532ca4865b9099d1253b81063dc3a35a507f8dee652d26ea.jpg> 東京株は大幅続落 米政策を警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/d9fc6bb99a27bf64810a4625277b8bc9a515274e8bebb1577c5f28bcb5157060.jpg> トラックにはねられ 90代女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/68047a016fd76abcae0335282a2325081ed63e07fe17b6a4ae221816f5ab0543.jpg> ミャンマー中部でM7.7の地震
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533705>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/af16080910269c0a4dd626f91434850f0d563efb8148bc8af099c478447ac293.jpg> 名画にスープ 環境団体活動停止へ
+      <a href=https://news.yahoo.co.jp/pickup/6533711>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/e39b8976d81c51530b4db9555866d790d5014c597e46fb35ed6ac2a4ff9e9921.jpg> 中孝介容疑者逮捕 わいせつ疑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533706>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanokikuno/02149158/title-1743054729994.jpeg?exp=10800> 蛍光灯→LED交換で発火も 注意点
+      <a href=https://news.yahoo.co.jp/pickup/6533705>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/af16080910269c0a4dd626f91434850f0d563efb8148bc8af099c478447ac293.jpg> 名画にスープ 環境団体活動停止へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 16:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 17:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
