@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zb2tXTkDHAA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/669bc622bdc028d0ea3cfaacd226f2ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/58775ca237a73c7be89b36603dd7c570.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef78d3c5840da05dd34e9b03424b10c0ba5939c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000011-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 恵みの雨か、炎や煙は目視できず　今治の山火事　岡山も降雨
+      <a href=https://news.yahoo.co.jp/articles/cbdc6691e74b338daed3f43affa91231fe9d10b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010000-sanyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=414&ch=414&exp=10800&fmt=webp> 【岡山・山林火災6日目】前夜に雨 消防が朝から現場を確認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3eb04573e08c076e9756f4cfda213cd26b5d97be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000009-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=468&ch=468&exp=10800&fmt=webp> トランプ政権の自動車関税　米ビッグ3は株価下落、「唯一の勝者」は
+      <a href=https://news.yahoo.co.jp/articles/d5bc0f1f875eb8650602db12d9003f5a98b929b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000043-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=1524&ch=1524&exp=10800&fmt=webp> フジＨＤ株急伸、日枝取締役が退任　仕切り直しの一歩の思惑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/096957b8b306f79ff702be8bb23b4eaa81b020e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-03281041-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「本当に日枝相談役が自分の意志として自分からやめますって言ったのか」…フジテレビ・日枝久氏「退任」を巡り「めざまし８」元同局解説委員が疑問
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a205cb72ab2150d8276a8676efc9abf10c3ec8b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00867789-toyo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 「本当に影響がなくなるか甚だ疑問」・・・投資家は納得せず？フジテレビ日枝久取締役相談役(87)退任でもくすぶる火種
+      <a href=https://news.yahoo.co.jp/articles/5f0be89821387023266e8fd2d493317165ede9c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000005-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 米の輸入車25％追加関税で国内車産業13兆円の打撃予測［新聞ウォッチ］
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533645>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/64b58b220e455f498bee3bbe17c18a4516f5f3e62e65374d4cc0271c0e0ccaf4.jpg> 山林火災 消防団「もうクタクタ」
+      <a href=https://news.yahoo.co.jp/pickup/6533664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/9b1445095ae147874cf1670d47beb7eb6e2ba852ebf7ee44647e1ff9b169ded9.jpg> 愛媛岡山の山火事 雨で鎮圧へ期待
       </a>
     </td>
   </tr>
@@ -410,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533653>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/654d6a50cfeaed697ee9922e2eb9b375c775eedfcba18c007291cbcce4f2f84b.jpg> 首相補佐官・矢田稚子氏が退任へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/575a44833eba568bf5f1e62a14307eb580a6ddbc1d1968c489ae818fb6d07e4e.jpg> 凍結口座への強制執行 無効判決
+      <a href=https://news.yahoo.co.jp/pickup/6533662>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/1e271313e7b33a076fde923eb136b8bbb6175677012fc28e098cf92248ddf3a9.jpg> 米関税 フェラーリ最大10%値上げ
       </a>
     </td>
   </tr>
@@ -428,6 +412,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533659>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a1daf6276fede119411814e0e1fd62db636a5415234e2740a31a057070604fc1.jpg> フジの「ドン」理由語らず退場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/2d5a8dc7f84c4ad311e21ce2c23376e88c8934f72707a3e7f9662fb9ac0f6b82.jpg> 廃止の路線バス 沿線3高校9割利用
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533655>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/f7847d7b250b3f654dc3a648edc19f3b0761b1295728bcaa50c3b672df8cd4ee.jpg> 新種の恐竜 ナマケモノとの共通点
       </a>
     </td>
   </tr>
@@ -448,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533658>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/849231c0c8b3f2a3d4110b814bfb7695ccf60ea88233dd1e123f1b5f838607e2.jpg> NHK「おげんさん」8年の歴史に幕
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 09:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 09:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
