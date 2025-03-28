@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/21409c0880840184d0bd2a45378a76df.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/669a3f20a01df3a653cbe927df80a48b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d09f8ed2c281f55f32ee9a7bac3032b49075e435>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00050068-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大谷翔平が東京ドームでの１発に続いて本拠地開幕戦もホームラン…打球は左翼スタンドに飛び込む
+      <a href=https://news.yahoo.co.jp/articles/469c167a86466a4b74edcc18c13ba75e74d11daa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000022-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】ドジャース・大谷翔平が本拠地ドジャースタジアムの開幕戦でホームラン
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5d808dc35371dd8f471945e232ea56342a9cd14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00077948-bunshun-000-1-view.jpg?pri=l&w=190&h=192&exp=10800&fmt=webp> 《退任へ》「俺が知らない奴は局長にしない」総資産13億、中居正広問題の裏では…日枝久氏（87）が“フジテレビの天皇”になるまで
+      <a href=https://news.yahoo.co.jp/articles/0831a78e5ac218bf22ab347df06f19d4de7cb83c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00067963-gonline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=720&ch=720&exp=10800&fmt=webp> なぜ「今」、トランプ大統領は関税を強化するのか？【解説：東京海上アセットマネジメント】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae73df1db8d03519d82df2aa7e15e2297179df57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000038-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=326&cy=0&cw=1549&ch=1549&exp=10800&fmt=webp> 加藤金融相、株主総会前の有報開示を要請　全上場企業に
+      <a href=https://news.yahoo.co.jp/articles/e45ffc061be4a671b7a2c8cb4e9e6b04fe31a815>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> チャットGPT新機能で有名アニメに作風似た画像…SNS投稿相次ぐ　著作権巡る問題指摘
       </a>
     </td>
   </tr>
@@ -395,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533670>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米の車関税 財務相「極めて遺憾」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/212d4c1a75699a76bee93fc687ca8000f3d00813c96075c0afae402ed3d38b94.jpg> 米の車関税 財務相「極めて遺憾」
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533655>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/f7847d7b250b3f654dc3a648edc19f3b0761b1295728bcaa50c3b672df8cd4ee.jpg> 新種の恐竜 ナマケモノとの共通点
+      <a href=https://news.yahoo.co.jp/pickup/6533672>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/46232451a9d8b33e38b34f03d127245d3de457d4f5fa45b49a2b823b786c73d7.jpg> ジブリ風画像生成 著作権問題浮上
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/f3bdb624fd57bcabef116cde1c91b0d0fd70ce57d5702e1025b4a6aca9f96fb5.jpg> 岡田武史氏 リーダー像の変化語る
+      <a href=https://news.yahoo.co.jp/pickup/6533674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/5033485030e38a195c318c1df12160ad2f2fa4471636a72c035050550d162950.jpg> 大谷翔平 米開幕戦で豪快アーチ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 10:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 11:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
