@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ff2f3f34b248034e420c163e7779736.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f8f1874454a4457933ce1d8b80c1dd41.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f077d0d019c713dfb2053c6d1ad3467a72b8acf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-01726732-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の一発にスポンサーが“超速反応”　3分後に積み上がった2枚目「一枚一枚大切に」
+      <a href=https://news.yahoo.co.jp/articles/a8c9f92ed5d9c9229db2acc8f435c1ee06944f3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-33280922-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 【データ】大谷翔平、早くも２号ソロ　大リーグ移籍後チーム３試合目での２号は自己最速
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1ccd7803a91515db0dd894fb58821cb40fd54e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000070-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=1018&ch=1018&exp=10800&fmt=webp> 智弁和歌山、初出場の浦和実を破り５度目のセンバツ決勝進出 横浜と1994年以来の対決へ
+      <a href=https://news.yahoo.co.jp/articles/808ac1aee43deda8edb2984b51d2c20946b7950e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010002-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 週末の天気　土曜は関東で冷たい雨　さくら見頃も花冷えに　日曜は北陸以北の日本海側を中心に雨や雪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fac4be461887362a5e7811e2a0f04943abbb19c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-05545476-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=360&ch=360&exp=10800&fmt=webp> メジャー殿堂入りのイチロー氏が開幕戦で始球式　ファンも驚きの約135キロの速球　チームメートだったマリナーズ指揮官とバッテリー
+      <a href=https://news.yahoo.co.jp/articles/9e78858e52729d4e1f00fd21406f3afc1271ce23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00003624-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 智弁和歌山が変則左腕・石戸を攻略！4番・福元は「悔しい思いをもって、やって来た」と4安打！横浜との決勝へ【25年センバツ】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d71566b63cc0992c0c07a3c4b4f707957e32daec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】花冷えの週末　真冬並みの寒さも　今年のさくらは長く楽しめる？
+      <a href=https://news.yahoo.co.jp/articles/cde7ac6e5f755a83a8e4efd9501d321c1bfa42f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-04585271-mmt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【続報】トラックにひかれ90代女性が死亡「音に気付いて後ろを確認したら女性が倒れていた」
       </a>
     </td>
   </tr>
@@ -402,40 +402,40 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533692>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/d3db29086b8c597b205cafaccf4e32b96030ef29e09af40d42b0db2e3b1e5136.jpg> 三井住友・あいおい損保 合併へ
+      <a href=https://news.yahoo.co.jp/pickup/6533707>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ミャンマー中部でM7.7の地震
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533701>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/0877119bdc57289dfdc849b21a96cbfb531c66b57491229f6b4ea2f15d3f8467.jpg> 4tトラックが90代はねる 意識不明
+      <a href=https://news.yahoo.co.jp/pickup/6533709>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/d9fc6bb99a27bf64810a4625277b8bc9a515274e8bebb1577c5f28bcb5157060.jpg> トラックにはねられ 90代女性死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533697>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a8b495198cedfe303d8cb3dc9197bef959cd30df92644eeab30d452cec27e91c.jpg> 結婚式場運営アルカディア 破産
+      <a href=https://news.yahoo.co.jp/pickup/6533698>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ゴルフ教室「坂田塾」運営が破産
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533684>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/cd46c28978f38fe704696165eee4f6cb0f218e9cabca5fd11ad93a35d8f887d8.jpg> 「タイミー営業」が物議 識者指摘
+      <a href=https://news.yahoo.co.jp/pickup/6533705>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/af16080910269c0a4dd626f91434850f0d563efb8148bc8af099c478447ac293.jpg> 名画にスープ 環境団体活動停止へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/829d9aa77e6028bdcf86cafc54c01d54eef4a2985d344fc93bfd99ba59767db7.jpg> 智弁和歌山 浦和実に勝ち決勝進出
+      <a href=https://news.yahoo.co.jp/pickup/6533706>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanokikuno/02149158/title-1743054729994.jpeg?exp=10800> 蛍光灯→LED交換で発火も 注意点
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 16:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 16:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
