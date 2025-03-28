@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6X4acHfBASI?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b3afbdb98a8139c60860e488f9fb4dd1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/010bdeb79605ffdf99109ee8dd1e27f3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff652b269847bd1be99354757cbf235f00575139>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-04532005-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=176&cw=700&ch=700&exp=10800&fmt=webp> 日テレ「月曜から夜ふかし」中国出身女性巡る拡散・誹謗中傷に警告「責任は、すべて日本テレビにあります」
+      <a href=https://news.yahoo.co.jp/articles/60d26cb2e90bc7e35363eaf846c1d70c33aa80a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-07227335-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> プーチン大統領 ウクライナ暫定統治導入の議論求める 選挙実施が必要と主張 ゼレンスキー氏排除狙う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/54ed7beaf2ecbd57cd6faab56c0c23bfb7cb77cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-90025686-oxv-000-1-thumb.jpg?exp=10800&fmt=webp> ごみ回収に訪れたトラックにはねられ９４歳女性死亡 バック中「音がして後ろを見たら倒れていた」〈宮城〉
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/62557514ffc5018ea89fa79b9eceebccf66447af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-01596586-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平の第1号第2号が2試合連続なのはもはや当たり前　過去に何度も達成していた　では開幕3戦連続はあったのか振り返る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eee633809d2628d316b0d673bb6daefb37cee293>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 国連暫定統治に言及　ウクライナ大統領排除狙いか　プーチン氏
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-01596586-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平の第1号第2号が2試合連続なのはもはや当たり前　過去に何度も達成していた　では開幕3戦連続はあったのか振り返る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 18:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 19:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
