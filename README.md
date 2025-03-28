@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6X4acHfBASI?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/49963e4aee397758f5e1536419ae33b9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0ff2f3f34b248034e420c163e7779736.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6f077d0d019c713dfb2053c6d1ad3467a72b8acf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-01726732-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の一発にスポンサーが“超速反応”　3分後に積み上がった2枚目「一枚一枚大切に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d1ccd7803a91515db0dd894fb58821cb40fd54e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000070-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=1018&ch=1018&exp=10800&fmt=webp> 智弁和歌山、初出場の浦和実を破り５度目のセンバツ決勝進出 横浜と1994年以来の対決へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fac4be461887362a5e7811e2a0f04943abbb19c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-05545476-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=360&ch=360&exp=10800&fmt=webp> メジャー殿堂入りのイチロー氏が開幕戦で始球式　ファンも驚きの約135キロの速球　チームメートだったマリナーズ指揮官とバッテリー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d71566b63cc0992c0c07a3c4b4f707957e32daec>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】花冷えの週末　真冬並みの寒さも　今年のさくらは長く楽しめる？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5c99e6d5cd2bf3cc3fc79bd11ed632b9fa00199>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-10170813-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=802&ch=802&exp=10800&fmt=webp> 2号ホームラインも！大谷翔平、28日の全打席まとめ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9461c01f8bbeb5624eb170010bc6152482dcfc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00094325-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「サラッと135km/h」「すげぇ51歳だ」イチローの“剛速球”始球式にファン衝撃！ フル装備のユニ姿にも称賛「最高だ。飽きないよ」
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/e705244745daa9442970f5f32426ebcb42c22634600c100bf4da7b387c8d529e.jpg> 油井飛行士 7月にも2度目の宇宙へ
+      <a href=https://news.yahoo.co.jp/pickup/6533703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/829d9aa77e6028bdcf86cafc54c01d54eef4a2985d344fc93bfd99ba59767db7.jpg> 智弁和歌山 浦和実に勝ち決勝進出
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 15:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 16:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
