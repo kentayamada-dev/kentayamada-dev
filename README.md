@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/32c437693f2a91635f9838659197978b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9b326e8ab74c4e2865064fc08ddd7381.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/193358daab7743097a61948c10934da42c5621e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000191-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=1049&ch=1049&exp=10800&fmt=webp> ドジャース・大谷翔平が〝黄金弾〟　米国開幕戦もショータイム　日本開幕戦に続いて2戦連発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2782b8921894cc4690b3bb39a31b363a889d3a99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00050196-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=487&ch=487&exp=10800&fmt=webp> 「苦手」投手からの先制打、主砲が見せたチームの成長…智弁和歌山が７年ぶりの決勝進出
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00050196-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=487&ch=487&exp=10800&fmt=webp> 「苦手」投手からの先制打、主砲が見せたチームの成長…智弁和歌山が７年ぶりの決勝進出
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77e597d6cd2135020e257c864c76a3764edaf169>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> レバノン首都南郊攻撃　ヒズボラ標的、停戦後初　イスラエル軍
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a32d127ca8c769ec1f465970c8ec1a936019b2d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00519811-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 同僚は衝撃「右に引っ張るのと同じ」「どうやって…」　大谷、逆風無関係の2号HRで証言された異様さ
+      <a href=https://news.yahoo.co.jp/articles/b0d809c84f330259ff1425fae9cd692372048e08>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-21820031-mrov-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 市営住宅の家賃を最大で月5万4,200円過大徴収 50年近く続いた可能性 金沢市
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3c7e3fbe3d110d588e0f5e6c8502e4cabd35e403>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000079-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=360&ch=360&exp=10800&fmt=webp> プーチン大統領　ウクライナは国連などの暫定統治と大統領選実施が必要　要求引き上げ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000079-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=360&ch=360&exp=10800&fmt=webp> プーチン大統領　ウクライナは国連などの暫定統治と大統領選実施が必要　要求引き上げ
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/104fa79315da6c86a8130ec15cd488e8d1c056d7c8db408075e207c2ccc81894.jpg> イスラエル レバノン首都を空爆
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533735>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/c4fb2224323c7ec018cc3ab066559ec7d1e0d307c4fb0254d65075bde1c354e2.jpg> 東京 過去最大9兆円超の予算成立
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/176910f8174ac61810cc0501c7da240544456dd2eb238048edf51a6f00074739.jpg> 原発巡る屋内退避 規制委が報告書
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533728>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/13bc5054527677e16bd5744a4cd077b1592cf62029359fc8184fe8d8b1112fba.jpg> M7.7地震 タイで80人超が不明
+      <a href=https://news.yahoo.co.jp/pickup/6533742>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/0932aabf9d9b6a0ed377b77b7a155727426352c078153894bafc9fa3bb448173.jpg> タイでビル崩壊 長周期地震動か
       </a>
     </td>
   </tr>
@@ -428,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533739>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/1c1cf5417f124175e379fccef11883db04201342c7536f2c27399005433b7783.jpg> 通勤手当「報酬」に首相が違和感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533724>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/d9fc6bb99a27bf64810a4625277b8bc9a515274e8bebb1577c5f28bcb5157060.jpg> トラックにひかれ 94歳女性死亡
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533734>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/840ee4913a565d99fd4d9b154ddda60a3e60c798145f4d204e12b1fde42746af.jpg> コロッケが再入院 3公演中止
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 22:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 22:32:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
