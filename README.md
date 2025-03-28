@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6X4acHfBASI?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/58775ca237a73c7be89b36603dd7c570.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ac35b4feee553b369b5c55c55d3683b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cbdc6691e74b338daed3f43affa91231fe9d10b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010000-sanyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=414&ch=414&exp=10800&fmt=webp> 【岡山・山林火災6日目】前夜に雨 消防が朝から現場を確認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5bc0f1f875eb8650602db12d9003f5a98b929b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000043-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=1524&ch=1524&exp=10800&fmt=webp> フジＨＤ株急伸、日枝取締役が退任　仕切り直しの一歩の思惑
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010000-sanyo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=414&ch=414&exp=10800&fmt=webp> 【岡山・山林火災6日目】前夜に雨 消防が朝から現場を確認
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5f0be89821387023266e8fd2d493317165ede9c9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000005-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 米の輸入車25％追加関税で国内車産業13兆円の打撃予測［新聞ウォッチ］
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a41736ce3df00150191e040926ac3ac3d96758f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010004-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> キケ・ヘルナンデスも嘔吐の症状　ド軍で病気が蔓延の恐れも「ベッツと同じではないことを願う」米開幕戦欠場
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/2d5a8dc7f84c4ad311e21ce2c23376e88c8934f72707a3e7f9662fb9ac0f6b82.jpg> 廃止の路線バス 沿線3高校9割利用
+      <a href=https://news.yahoo.co.jp/pickup/6533655>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/f7847d7b250b3f654dc3a648edc19f3b0761b1295728bcaa50c3b672df8cd4ee.jpg> 新種の恐竜 ナマケモノとの共通点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533655>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/f7847d7b250b3f654dc3a648edc19f3b0761b1295728bcaa50c3b672df8cd4ee.jpg> 新種の恐竜 ナマケモノとの共通点
+      <a href=https://news.yahoo.co.jp/pickup/6533668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/fb8174deca84857501acd184739ff0ee988504a40a288990a98dbe75962bb09e.jpg> リオ金 土性沙羅さん市職員退職へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 09:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 10:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
