@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e5910e13251aefa6196f4bb1204e97cf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e8990826794a45c528333bf09053cb9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3f38847d9c7cd592371174eacd32422e495ce67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー中部地震、少なくとも144人死亡　隣国タイでビル倒壊…多数の不明者
+      <a href=https://news.yahoo.co.jp/articles/5e85719982b1f97071430a8190f7c835821b1a4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000134-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> ドジャース4連勝なるか　3戦連発期待の大谷は「1番・DH」で先発　2勝目かけ由伸が先発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eabe8df33a2ad3acbc2f0b01dd78551a34f2136d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00519879-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「お父さんと仕事に行くみたいね」　大谷、日本で叶わなかったデコピン同行出勤が米国でも人気
+      <a href=https://news.yahoo.co.jp/articles/d3f38847d9c7cd592371174eacd32422e495ce67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー中部地震、少なくとも144人死亡　隣国タイでビル倒壊…多数の不明者
       </a>
     </td>
   </tr>
@@ -379,7 +379,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533748>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/d487672d4ce75649613bba16ad6f274968972631325ee127419be30f0a5e3fd8.jpg> ミャンマー大地震 死者140人超
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/8389477b5b8bc74b8d17cb4610d8b9285f48c937726a84398a5820e95fa7fc33.jpg> ミャンマー大地震 死者140人超
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 06:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 07:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
