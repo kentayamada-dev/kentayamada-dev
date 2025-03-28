@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ac35b4feee553b369b5c55c55d3683b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/21409c0880840184d0bd2a45378a76df.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbdc6691e74b338daed3f43affa91231fe9d10b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010000-sanyo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=414&ch=414&exp=10800&fmt=webp> 【岡山・山林火災6日目】前夜に雨 消防が朝から現場を確認
+      <a href=https://news.yahoo.co.jp/articles/d09f8ed2c281f55f32ee9a7bac3032b49075e435>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00050068-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大谷翔平が東京ドームでの１発に続いて本拠地開幕戦もホームラン…打球は左翼スタンドに飛び込む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f0be89821387023266e8fd2d493317165ede9c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000005-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 米の輸入車25％追加関税で国内車産業13兆円の打撃予測［新聞ウォッチ］
+      <a href=https://news.yahoo.co.jp/articles/9bf86507cb8ef5877936a5f8d106512ec5778a5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 群馬・中之条町の山林火災　鎮火を確認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a41736ce3df00150191e040926ac3ac3d96758f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010004-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> キケ・ヘルナンデスも嘔吐の症状　ド軍で病気が蔓延の恐れも「ベッツと同じではないことを願う」米開幕戦欠場
+      <a href=https://news.yahoo.co.jp/articles/f5d808dc35371dd8f471945e232ea56342a9cd14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00077948-bunshun-000-1-view.jpg?pri=l&w=190&h=192&exp=10800&fmt=webp> 《退任へ》「俺が知らない奴は局長にしない」総資産13億、中居正広問題の裏では…日枝久氏（87）が“フジテレビの天皇”になるまで
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae73df1db8d03519d82df2aa7e15e2297179df57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000038-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=326&cy=0&cw=1549&ch=1549&exp=10800&fmt=webp> 加藤金融相、株主総会前の有報開示を要請　全上場企業に
       </a>
     </td>
   </tr>
@@ -386,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533664>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/9b1445095ae147874cf1670d47beb7eb6e2ba852ebf7ee44647e1ff9b169ded9.jpg> 愛媛岡山の山火事 雨で鎮圧へ期待
+      <a href=https://news.yahoo.co.jp/pickup/6533670>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米の車関税 財務相「極めて遺憾」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/9e34c92b82251a05a4f6904873cdf66dc10e7b91712f74221b4dea000ba7978f.jpg> 米情報漏洩 バンス氏が欧州に反感
+      <a href=https://news.yahoo.co.jp/pickup/6533664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/9b1445095ae147874cf1670d47beb7eb6e2ba852ebf7ee44647e1ff9b169ded9.jpg> 愛媛岡山の山火事 雨で鎮圧へ期待
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533668>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/fb8174deca84857501acd184739ff0ee988504a40a288990a98dbe75962bb09e.jpg> リオ金 土性沙羅さん市職員退職へ
+      <a href=https://news.yahoo.co.jp/pickup/6533667>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/f3bdb624fd57bcabef116cde1c91b0d0fd70ce57d5702e1025b4a6aca9f96fb5.jpg> 岡田武史氏 リーダー像の変化語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/90367b5ad1246ac99d2521a6d711966a78ea9261f5bcd42d112ef61b9dbd2535.jpg> ド軍 ベッツに続きキケも体調不良
+      <a href=https://news.yahoo.co.jp/pickup/6533668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/fb8174deca84857501acd184739ff0ee988504a40a288990a98dbe75962bb09e.jpg> リオ金 土性沙羅さん市職員退職へ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 10:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 10:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
