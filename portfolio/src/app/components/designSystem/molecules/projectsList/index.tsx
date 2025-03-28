@@ -11,7 +11,7 @@ const ProjectsList: ProjectsListType = (props) => {
 
         return (
           <Link className='bg-primary group hover-primary flex h-72 flex-col rounded-lg p-5' href={url} key={name}>
-            <h3 className='text-primary line-clamp-2 text-2xl font-bold'>{name}</h3>
+            <h2 className='text-primary line-clamp-2 text-2xl font-bold'>{name}</h2>
             <p className='text-primary mt-2 line-clamp-5 text-sm'>{description}</p>
             <div className='mt-auto'>
               <div className='text-secondary flex justify-between space-x-5 text-base font-semibold'>

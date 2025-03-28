@@ -9,6 +9,7 @@ const YoutubeEmbed: YoutubeEmbedType = (props) => {
       height='400'
       referrerPolicy='strict-origin-when-cross-origin'
       src={`https://www.youtube-nocookie.com/embed/${props.videoId}`}
+      title={props.title}
       width='100%'
     />
   );

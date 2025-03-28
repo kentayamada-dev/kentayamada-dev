@@ -3,6 +3,7 @@ import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
   args: {
+    title: 'Youtube',
     videoId: '3KtWfp0UopM'
   },
   component: YoutubeEmbed

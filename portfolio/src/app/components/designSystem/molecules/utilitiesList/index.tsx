@@ -20,7 +20,7 @@ const UtilitiesList: UtilitiesListType = (props) => {
                 }}
               />
             </div>
-            <h3 className='line-clamp-2 text-lg font-semibold text-slate-900 dark:text-slate-200'>{title}</h3>
+            <h2 className='line-clamp-2 text-lg font-semibold text-slate-900 dark:text-slate-200'>{title}</h2>
             <p className='mt-2 line-clamp-4 text-sm text-slate-600 dark:text-slate-400'>{subtitle}</p>
           </Link>
         );
