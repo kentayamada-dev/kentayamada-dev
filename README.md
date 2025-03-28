@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6X4acHfBASI?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e858eac6d7f3302b1ec682087ce83418.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/20b4df6914bd4753abec6af23b45d5cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/298e5023597f3af3f8a6c981b161907dbc518eaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-33280521-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=782&ch=782&exp=10800&fmt=webp> ２号ソロの大谷翔平、帰国後の時差ボケ明かす「ちょうど試合が始まったぐらいが一番眠気がある」
+      <a href=https://news.yahoo.co.jp/articles/b63f93f481d0dac61c1ce2f092264aa71114b5b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00078128-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ関税は「テスラに追い風」も、GMとフォードには「逆風」に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24fb2e16b186bd2920b1eeca86fd6ae72eff1fec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-21814812-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=574&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “りくりゅう”ペアが2大会ぶり2度目の金 ! 四大陸と2冠達成【フィギュア世界選手権】
+      <a href=https://news.yahoo.co.jp/articles/ab2673d4ecea80d12e6197c2086fc90f880aeeef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-05475318-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ベッツ復活！」体調不良で11キロ減のド軍・ベッツが本拠地開幕戦で今季初ヒット　大谷翔平を3塁に進ますナイスプレー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9bf86507cb8ef5877936a5f8d106512ec5778a5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000001-gtv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 群馬・中之条町の山林火災　鎮火を確認
+      <a href=https://news.yahoo.co.jp/articles/1e05d8b89ccef459fd6785042c4b2a03f28b8b24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00949602-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「恵みの雨」山林火災の岡山で避難指示解除　焼失面積は過去最大の約565ha　愛媛・今治市でも“残り火”ないか調べ消火活動進める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0831a78e5ac218bf22ab347df06f19d4de7cb83c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00067963-gonline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=720&ch=720&exp=10800&fmt=webp> なぜ「今」、トランプ大統領は関税を強化するのか？【解説：東京海上アセットマネジメント】
+      <a href=https://news.yahoo.co.jp/articles/6422c5d013bde9e30c09d0bf8d5ee45299f66236>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000069-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=866&ch=866&exp=10800&fmt=webp> フィギュア　「りくりゅう」ペアが２大会ぶり世界選手権王者に
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533664>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/9b1445095ae147874cf1670d47beb7eb6e2ba852ebf7ee44647e1ff9b169ded9.jpg> 愛媛岡山の山火事 雨で鎮圧へ期待
+      <a href=https://news.yahoo.co.jp/pickup/6533665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/47af3d0b7e8f837b38376616f56a65e750c863badcf0187cea0445e1b66b04a3.jpg> 米厚生省 さらに職員1万人削減へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/947eccebe6ac71130b3ec4b23e1e1d288250381db86b484e71397f0007dcb981.jpg> 東京株 一時800円以上値下がり
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533659>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a1daf6276fede119411814e0e1fd62db636a5415234e2740a31a057070604fc1.jpg> フジの「ドン」理由語らず退場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533672>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/46232451a9d8b33e38b34f03d127245d3de457d4f5fa45b49a2b823b786c73d7.jpg> ジブリ風画像生成 著作権問題浮上
       </a>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/525a8c073dd32fe90f4386525c27a28ca6572fbd74a8ca33a817158d39eabc0a.jpg> りくりゅう 2年ぶり世界選手権V
+      <a href=https://news.yahoo.co.jp/pickup/6533673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a14836afe3538dbfc8cfdb92e483b33fb829edbee505d10ae5a87c6f9e8f5d07.jpg> 速報センバツ 横浜vs.健大高崎
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 11:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 12:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
