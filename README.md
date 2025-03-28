@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/010bdeb79605ffdf99109ee8dd1e27f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/98e751cbd4022dc4025c34a62d4efe30.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6297acb1afb19657194a9e07c79c77504a62ba9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000085-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=80&cw=480&ch=480&exp=10800&fmt=webp> LINEヤフーに行政指導　アルバム誤表示「通信の秘密」漏洩と判断
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d12918c16e278cdc132c9900ea0eee3613e3a423>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-33281419-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1356&ch=1356&exp=10800&fmt=webp> 【センバツ】智弁和歌山２本柱が２戦連続完封リレー　右すねに打球直撃の渡辺颯人「目が覚めた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/60d26cb2e90bc7e35363eaf846c1d70c33aa80a7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-07227335-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> プーチン大統領 ウクライナ暫定統治導入の議論求める 選挙実施が必要と主張 ゼレンスキー氏排除狙う
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/54ed7beaf2ecbd57cd6faab56c0c23bfb7cb77cd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-90025686-oxv-000-1-thumb.jpg?exp=10800&fmt=webp> ごみ回収に訪れたトラックにはねられ９４歳女性死亡 バック中「音がして後ろを見たら倒れていた」〈宮城〉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/698f70acdf0bc3b763476cab8b8b57738b5d9450>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00029196-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 東京は明日29日は気温急降下　北日本や関東山沿いで雪　来週初めは全国的に花冷えに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cc949a4e543310f9ff23a9e9c0c6020817b782f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000070-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「あの時は…」1994年以来Vへ、決勝挑む智弁和歌山　高嶋仁の目
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533698>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ゴルフ教室「坂田塾」運営が破産
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533720>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/e184f4debf9691ce5dcca0ed643a3ea5eea69c6c490ad8bcf53fbfff179692bb.jpg> 4/1から居場所を失い不安な方へ
       </a>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533702>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/86f90356f1f4141c041c2c1b46b524a00350d76c65f30f3ae59f1e1a0008d800.jpg> 始球式135キロ イチロー氏に歓声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533719>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/68eac9ce1e81813a9b151a576e2bac143ebb29aba3528b9dd2a9d0f8ec4d1adc.jpg> 夜ふかしで「捏造」なぜ 識者視点
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 19:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 19:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
