@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6X4acHfBASI?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fb76f461059211ac8af1e6235ec75973.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/49963e4aee397758f5e1536419ae33b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c86ce1d098e066c7e8c72d4a1b359deb08989874>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-10170808-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 新年度予算案、31日に成立へ 与野党が採決で合意
+      <a href=https://news.yahoo.co.jp/articles/d71566b63cc0992c0c07a3c4b4f707957e32daec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】花冷えの週末　真冬並みの寒さも　今年のさくらは長く楽しめる？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0430c7ae676d20ed17c2f6d1a516291217f1cac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000096-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＭＬＢ＝大谷が米開幕戦で第2号、菊池は初の開幕投手も黒星
+      <a href=https://news.yahoo.co.jp/articles/d5c99e6d5cd2bf3cc3fc79bd11ed632b9fa00199>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-10170813-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=802&ch=802&exp=10800&fmt=webp> 2号ホームラインも！大谷翔平、28日の全打席まとめ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/620711dc5997ba7ed4bcaf8ab9378f4ea71f71cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-21818515-tuliptv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【寒の戻り】日本海側の広い範囲で雪か雨…29日30日は冷え込み厳しく“冬に逆戻り” 【雨と風 シミュレーション】関東は “冷たい雨” で厳しい冷え込み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b63f93f481d0dac61c1ce2f092264aa71114b5b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00078128-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ関税は「テスラに追い風」も、GMとフォードには「逆風」に
+      <a href=https://news.yahoo.co.jp/articles/d9461c01f8bbeb5624eb170010bc6152482dcfc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00094325-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「サラッと135km/h」「すげぇ51歳だ」イチローの“剛速球”始球式にファン衝撃！ フル装備のユニ姿にも称賛「最高だ。飽きないよ」
       </a>
     </td>
   </tr>
@@ -394,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533700>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/b312624372d6e97faadc4ef4705b04fc985d4ee83ae007650c3a7d1f7d0aff33.jpg> 25年度予算案 31日に成立の方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533692>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/d3db29086b8c597b205cafaccf4e32b96030ef29e09af40d42b0db2e3b1e5136.jpg> 三井住友・あいおい損保 合併へ
       </a>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/e70708f4d20089dddb192aa05c8d924f3489d71a61924683202dc397d3b87da3.jpg> 東京株 一時900円以上値下がり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a588cd76006d0f7298f016310b54891e1c3376132e99aab729709b9c97e86846.jpg> 真冬へ逆戻り 関東は花冷えの週末
+      <a href=https://news.yahoo.co.jp/pickup/6533701>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/0877119bdc57289dfdc849b21a96cbfb531c66b57491229f6b4ea2f15d3f8467.jpg> 4tトラックが90代はねる 意識不明
       </a>
     </td>
   </tr>
@@ -426,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533680>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/ad255e7fd976aa80b336a0c42e1507d73b0e45885c4b4fab4f86bdc284bbc76a.jpg> 登山に「入山料」徴収経緯や背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533684>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/cd46c28978f38fe704696165eee4f6cb0f218e9cabca5fd11ad93a35d8f887d8.jpg> 「タイミー営業」が物議 識者指摘
       </a>
@@ -442,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533696>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/034be98911d282525072aaaa4256a9c7c4eaf7b0498a05cb8c68f8a57129b0ca.jpg> Eテレ「パッコロリン」放送終了
+      <a href=https://news.yahoo.co.jp/pickup/6533691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/e705244745daa9442970f5f32426ebcb42c22634600c100bf4da7b387c8d529e.jpg> 油井飛行士 7月にも2度目の宇宙へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533702>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/86f90356f1f4141c041c2c1b46b524a00350d76c65f30f3ae59f1e1a0008d800.jpg> 始球式135キロ イチロー氏に歓声
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 15:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 15:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
