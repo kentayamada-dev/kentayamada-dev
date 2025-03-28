@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aeb2208d7fb4cbc456c7da8f5f73bf13.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c1dc94c6b0b6e5a3ab6f96f58001863.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -379,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4ccb212e182f3f452a956791bb3ed2e8c616e36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-90031638-sut-000-1-thumb.jpg?exp=10800&fmt=webp> 全国で2番目の暑さ　来週は冬に逆戻り【静岡・ただいま天気　3/28】
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -418,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533749>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/d0d987148f0f2c86f265e419290d1ef2fb195d462c58e80099dc4eafebb4e306.jpg> ガチャガチャで外貨使われる 被害
+      <a href=https://news.yahoo.co.jp/pickup/6533750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/2193fd5abeb6c449733c04bd6364a0f7f70a47522a55ef3f83459e5ca7b28055.jpg> 園児けが 保育士を傷害罪で起訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533732>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/4982c23632247fcecc399ddebb575d6c2876dafe170694294ca880acd5aa1eb6.jpg> 中孝介容疑者の逮捕 事務所が謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6533749>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/d0d987148f0f2c86f265e419290d1ef2fb195d462c58e80099dc4eafebb4e306.jpg> ガチャガチャで外貨使われる 被害
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 23:52:33 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 00:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
