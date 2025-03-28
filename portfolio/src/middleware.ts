@@ -19,7 +19,7 @@ const getLocale = (acceptLanguage: string | null, cookieLocale: string | null): 
 
 // eslint-disable-next-line import/group-exports
 export const config: MiddlewareConfig = {
-  matcher: ['/((?!api|_next/static|_next/image|favicon.ico|robots.txt|sitemap.xml).*)']
+  matcher: ['/((?!api|_next/static|_next/image|favicon.ico|robots.txt|sitemap.xml|apple-icon.png).*)']
 };
 
 // eslint-disable-next-line import/group-exports
