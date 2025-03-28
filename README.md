@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/090764c3acc23aae67850f4ccd977c22.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/25fcd7bf09b2ed1cc43f8293ac4631ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a79893ecbed0ea1ee1c5f3e8242d06f0ca045ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010018-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平の本拠地初アーチに超大物俳優らも大喜び！「表情が全てを物語っている」 米メディア注目「至極当然の反応だ」
+      <a href=https://news.yahoo.co.jp/articles/7209d9be0fb3061b1ac77117ce6f1656f3b55727>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【天気】寒の戻りで全国的に気温ダウン　関東は冷たい雨＆真冬並みの寒さに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b694f5eefd56d5b336d07c2276b933f977ca6ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00029194-tenki-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 29日(土)は関東で急激に気温低下　真冬の寒さ戻る　30日(日)にかけて山で雪も
+      <a href=https://news.yahoo.co.jp/articles/f5809e55101f94b71dc9446fa422a2e7fad56eba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-33280974-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=1402&ch=1402&exp=10800&fmt=webp> １号T・ヘルナンデスの３番起用にロバーツ監督「『テオスカー税』がある」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/45e3e4b18368f5d87e41beb5a7d78e85dc313e10>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000025-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> プーチン氏、ウクライナ「暫定政権」構想を提案
       </a>
     </td>
   </tr>
@@ -381,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b54395e48813f4b203b5112a244302374d0349b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000104-reut-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1450&ch=1450&exp=10800&fmt=webp> 日経平均は大幅続落、トランプ関税政策への警戒感が継続
+      <a href=https://news.yahoo.co.jp/articles/52573455d2a08a521ef41990d66e1b91048d9bba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000156-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=504&cy=0&cw=1386&ch=1386&exp=10800&fmt=webp> 再審制度見直し、法制審に諮問　証拠開示在り方など議論本格化
       </a>
     </td>
   </tr>
@@ -394,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533700>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/b312624372d6e97faadc4ef4705b04fc985d4ee83ae007650c3a7d1f7d0aff33.jpg> 25年度予算案 31日に成立の方針
+      <a href=https://news.yahoo.co.jp/pickup/6533712>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/02398c329ff18656de3875b76ff91230d69222df15a129912a69eb083ba5d2e4.jpg> 露 ウクライナ暫定統治案を示す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533713>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/93241608cccc2f8bb9e7f0ac383148a9d5ef59d3b4414389207260a0b49ff82b.jpg> 日本郵政 増田寛也氏が社長退任へ
       </a>
     </td>
   </tr>
@@ -434,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533705>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/af16080910269c0a4dd626f91434850f0d563efb8148bc8af099c478447ac293.jpg> 名画にスープ 環境団体活動停止へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533702>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/86f90356f1f4141c041c2c1b46b524a00350d76c65f30f3ae59f1e1a0008d800.jpg> 始球式135キロ イチロー氏に歓声
       </a>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 17:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 17:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
