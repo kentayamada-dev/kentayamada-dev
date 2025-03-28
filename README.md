@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/80ac4e08e02e5f280abb69ddfa09b259.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/406a5b9c5e333c7df6314f2445234004.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f00e8776f0ace146e8abb6415b43e04db3589cc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-21820090-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=607&ch=607&exp=10800&fmt=webp> 【コロッケ】緊急入院 “膝以外にも治療が必要” 　松平健さんとの3月〜4月の公演は中止に　 “払い戻しは詳細が決まり次第お知らせ”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a607e1b3de00eaab42c4321d3fbec69c7f3fe908>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> LINEヤフーに行政指導　写真を誤表示　総務省
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fd11fc1ddc7d490006a53a5037452e29c1872c3c>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ff0545fa65d29342a63eee7ce18fa29e1e6e3ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00949934-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> LINEヤフーに行政指導「アルバム」に見知らぬ他人の画像“誤表示”で　被害は国内外13万人超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d12918c16e278cdc132c9900ea0eee3613e3a423>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-33281419-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1356&ch=1356&exp=10800&fmt=webp> 【センバツ】智弁和歌山２本柱が２戦連続完封リレー　右すねに打球直撃の渡辺颯人「目が覚めた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9786e96bea9babba97095b2e039c47964473fded>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010268-pinzuba-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 『夜ふかし』“捏造放送”＆人気キャラテーマ曲歌手が逮捕のW窮地　日テレエースと桁外れ視聴率の特別感
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533735>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/c4fb2224323c7ec018cc3ab066559ec7d1e0d307c4fb0254d65075bde1c354e2.jpg> 東京 過去最大9兆円超の予算成立
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533728>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/13bc5054527677e16bd5744a4cd077b1592cf62029359fc8184fe8d8b1112fba.jpg> M7.7地震 タイで80人超が不明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533727>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/62071fdb790620b126ad24e471bd5fdeb275b099ee5d01d7fbe0de8fa194597d.jpg> 大阪ガス子会社が不適切表示 謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533723>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/b2967a045440bde3437c7e2e89e61db07e43a6d15cb8b667639676c23b39cf5d.jpg> 写真誤表示 LINEヤフーに行政指導
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533729>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/ddfa621e40a319ee8786216a84b77b8b40fa756af22e69a38deb7e268fd5feab.jpg> つば九郎の人形 開幕戦ベンチ入り
+      <a href=https://news.yahoo.co.jp/pickup/6533733>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/537cfe0fb912de00f0583c1af5e4bf6ed28cd43e97a5944c18dea1db6f2023f3.jpg> イチロー氏 妻が見守るなか始球式
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533734>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/840ee4913a565d99fd4d9b154ddda60a3e60c798145f4d204e12b1fde42746af.jpg> コロッケが再入院 3公演中止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 20:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 21:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
