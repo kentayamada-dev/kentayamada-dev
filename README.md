@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d29a01c5cd3c459eb5b3a16cc63d4c2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb76f461059211ac8af1e6235ec75973.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1626f619eeee904534a3c3b39bd47fc14f0fe96b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000029-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=440&ch=440&exp=10800&fmt=webp> 岡山の山火事で鎮圧宣言　過去最大級の焼失面積565ヘクタール
+      <a href=https://news.yahoo.co.jp/articles/c86ce1d098e066c7e8c72d4a1b359deb08989874>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-10170808-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 新年度予算案、31日に成立へ 与野党が採決で合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a99797adeed17f07f3ab431ab8a74dccb0a99e87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-01726728-fullcount-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が試合直後にインスタ更新　大はしゃぎする超大物俳優も…まとめた開幕戦での名場面
+      <a href=https://news.yahoo.co.jp/articles/a0430c7ae676d20ed17c2f6d1a516291217f1cac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000096-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＭＬＢ＝大谷が米開幕戦で第2号、菊池は初の開幕投手も黒星
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a9df8a9fe99eba7a3e5f05853a748662df106fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-07227200-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> きょう（28日）の天気　東京の最高気温は24℃　あすは急降下で10℃予想と花冷えに　週末にかけて寒暖差かなり大
+      <a href=https://news.yahoo.co.jp/articles/620711dc5997ba7ed4bcaf8ab9378f4ea71f71cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-21818515-tuliptv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【寒の戻り】日本海側の広い範囲で雪か雨…29日30日は冷え込み厳しく“冬に逆戻り” 【雨と風 シミュレーション】関東は “冷たい雨” で厳しい冷え込み
       </a>
     </td>
   </tr>
@@ -394,40 +394,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533687>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/c13142bea4c1e634f288551a5b393fc72353a4a6f8a5a99a7d3f0cdd227aa90b.jpg> 岡山市の山火事「鎮圧」と発表
+      <a href=https://news.yahoo.co.jp/pickup/6533692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/d3db29086b8c597b205cafaccf4e32b96030ef29e09af40d42b0db2e3b1e5136.jpg> 三井住友・あいおい損保 合併へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/89df8666d02d100d5354b8e0ccd5bc6b7fb01592c51017f468c059f4fab38451.jpg> 昨年の小中高生自殺者数 過去最多
+      <a href=https://news.yahoo.co.jp/pickup/6533694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/e70708f4d20089dddb192aa05c8d924f3489d71a61924683202dc397d3b87da3.jpg> 東京株 一時900円以上値下がり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/65412e5238667bcfad17d41af02fd7c7eb94f99c3151f3a23b6fc7c3608e8f76.jpg> 保津川下り転覆 事故当時の映像
+      <a href=https://news.yahoo.co.jp/pickup/6533688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a588cd76006d0f7298f016310b54891e1c3376132e99aab729709b9c97e86846.jpg> 真冬へ逆戻り 関東は花冷えの週末
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533681>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/ac15819deb05990c032c53e3149297f36aa5fe295063441566c21eca6b12d190.jpg> 日本語能力試験 SNSで情報漏れか
+      <a href=https://news.yahoo.co.jp/pickup/6533697>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a8b495198cedfe303d8cb3dc9197bef959cd30df92644eeab30d452cec27e91c.jpg> 結婚式場運営アルカディア 破産
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533678>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/83134a5cb6c18b167f6d320061e5b5867a2f61019df44b1657d6de971fb94e94.jpg> 宮内庁 公式YouTubeで動画配信へ
+      <a href=https://news.yahoo.co.jp/pickup/6533680>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/ad255e7fd976aa80b336a0c42e1507d73b0e45885c4b4fab4f86bdc284bbc76a.jpg> 登山に「入山料」徴収経緯や背景
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/8f377b1247235e5c483c3bf4240363160c686cb362d693ed788ace8f3355c8b0.jpg> 谷原章介 あいさつ途中で番組終了
+      <a href=https://news.yahoo.co.jp/pickup/6533696>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/034be98911d282525072aaaa4256a9c7c4eaf7b0498a05cb8c68f8a57129b0ca.jpg> Eテレ「パッコロリン」放送終了
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533685>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a573fdffdb03453eb50517a4e7fe3d30586325febecffcee1cf35f60d20581f7.jpg> おむすび最終回 出演者らのX投稿
+      <a href=https://news.yahoo.co.jp/pickup/6533686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/fad39961b9a69aa64289fe834c310db50d34c9ad794d6993a74be4d2d5b17d0d.jpg> 谷原章介 あいさつ途中で番組終了
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 13:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 15:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
