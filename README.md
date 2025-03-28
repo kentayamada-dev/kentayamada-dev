@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/25fcd7bf09b2ed1cc43f8293ac4631ba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/66fc488014f81d8499a07736cc3bb30c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7209d9be0fb3061b1ac77117ce6f1656f3b55727>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【天気】寒の戻りで全国的に気温ダウン　関東は冷たい雨＆真冬並みの寒さに
+      <a href=https://news.yahoo.co.jp/articles/45665f94c7fcd751694a8e3341e80c66855c69bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-01726907-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷スポンサーの珍企画が話題　HR直後の反応にX興味津々「一体どこまで積み上がるか」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5809e55101f94b71dc9446fa422a2e7fad56eba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-33280974-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=1402&ch=1402&exp=10800&fmt=webp> １号T・ヘルナンデスの３番起用にロバーツ監督「『テオスカー税』がある」
+      <a href=https://news.yahoo.co.jp/articles/055a924ddba3a55dc84c7faae334c4ae62965cec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマーでM7.7の地震　マンダレーで大学の建物倒壊　隣国タイでもビル倒壊…行方不明者多数
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/411a53009dbcb14b4f657506ba99491181eba6f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-21819350-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 季節は “5か月逆戻り” 関東で急激に気温低下…真冬の寒さに戻る　山沿いでは雪も【 雨と風 シミュレーション】
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9e9771f926d026dfaa2d3550b95afba97d5908a1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00003611-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 横浜VS智弁和歌山の決勝に！横浜打線が石垣を攻略、智弁和歌山打線が石戸を攻略して、頂上決戦へ【センバツ第10日】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52573455d2a08a521ef41990d66e1b91048d9bba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000156-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=504&cy=0&cw=1386&ch=1386&exp=10800&fmt=webp> 再審制度見直し、法制審に諮問　証拠開示在り方など議論本格化
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533710>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/4769020271d06720532ca4865b9099d1253b81063dc3a35a507f8dee652d26ea.jpg> 東京株は大幅続落 米政策を警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/68047a016fd76abcae0335282a2325081ed63e07fe17b6a4ae221816f5ab0543.jpg> ミャンマー中部でM7.7の地震
+      <a href=https://news.yahoo.co.jp/pickup/6533718>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/3c77e63ddbe99c99a4ea7342a07606d3a695dd7020b6cee2d1e92a9fb17cecf6.jpg> 地震 バンコクで40人超生き埋めか
       </a>
     </td>
   </tr>
@@ -442,8 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/c23b407c8f21c3693dc86ca6af9669c9efc0412e471b1ee8234a2bad560adf00.jpg> 山火事 SNSで根拠ない情報広がる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533711>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/e39b8976d81c51530b4db9555866d790d5014c597e46fb35ed6ac2a4ff9e9921.jpg> 中孝介容疑者逮捕 わいせつ疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533717>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/baf34a9057f85ea7f389b8829342c25cdb10783f490971b1ebea807d5302be22.jpg> 資格停止 競歩池田が不服申し立て
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/fad39961b9a69aa64289fe834c310db50d34c9ad794d6993a74be4d2d5b17d0d.jpg> 谷原章介 あいさつ途中で番組終了
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 17:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 18:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
