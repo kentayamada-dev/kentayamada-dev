@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7e52bc58ff5e5ffc2d4e95640effbbca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80ac4e08e02e5f280abb69ddfa09b259.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3191fe5ee37215d74214c5d01dd8542d5e843581>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010004-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ドジャース大谷翔平 2試合連発2号本塁打含む4打数2安打の活躍 東京シリーズからの3連勝に大きく貢献
+      <a href=https://news.yahoo.co.jp/articles/fd11fc1ddc7d490006a53a5037452e29c1872c3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-90022088-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手がホーム開幕戦でＨＲ　ファンも大興奮の一発　2試合連続アーチで3連勝
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/237c68f89276c5bcbe615a4a70dba83b982eb04d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000086-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大阪ガス、子会社がエネファーム不適切な販売　4年間で919件
+      <a href=https://news.yahoo.co.jp/articles/d12918c16e278cdc132c9900ea0eee3613e3a423>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-33281419-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1356&ch=1356&exp=10800&fmt=webp> 【センバツ】智弁和歌山２本柱が２戦連続完封リレー　右すねに打球直撃の渡辺颯人「目が覚めた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d12918c16e278cdc132c9900ea0eee3613e3a423>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-33281419-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1356&ch=1356&exp=10800&fmt=webp> 【センバツ】智弁和歌山２本柱が２戦連続完封リレー　右すねに打球直撃の渡辺颯人「目が覚めた」
+      <a href=https://news.yahoo.co.jp/articles/9786e96bea9babba97095b2e039c47964473fded>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00010268-pinzuba-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=676&ch=676&exp=10800&fmt=webp> 『夜ふかし』“捏造放送”＆人気キャラテーマ曲歌手が逮捕のW窮地　日テレエースと桁外れ視聴率の特別感
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533718>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/3c77e63ddbe99c99a4ea7342a07606d3a695dd7020b6cee2d1e92a9fb17cecf6.jpg> 地震 バンコクで40人超生き埋めか
+      <a href=https://news.yahoo.co.jp/pickup/6533728>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/13bc5054527677e16bd5744a4cd077b1592cf62029359fc8184fe8d8b1112fba.jpg> M7.7地震 タイで80人超が不明
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533721>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/8ba0cef8a050d27ca3cf1ce7e1fa245c99d21ad8bbf2d4073ad5f1d2615ce534.jpg> 市街地にヒグマ 今年は頻発恐れも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533720>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/e184f4debf9691ce5dcca0ed643a3ea5eea69c6c490ad8bcf53fbfff179692bb.jpg> 4/1から居場所を失い不安な方へ
       </a>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533711>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/e39b8976d81c51530b4db9555866d790d5014c597e46fb35ed6ac2a4ff9e9921.jpg> 中孝介容疑者逮捕 わいせつ疑い
+      <a href=https://news.yahoo.co.jp/pickup/6533732>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/4982c23632247fcecc399ddebb575d6c2876dafe170694294ca880acd5aa1eb6.jpg> 中孝介容疑者の逮捕 事務所が謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533702>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/86f90356f1f4141c041c2c1b46b524a00350d76c65f30f3ae59f1e1a0008d800.jpg> 始球式135キロ イチロー氏に歓声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533719>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/68eac9ce1e81813a9b151a576e2bac143ebb29aba3528b9dd2a9d0f8ec4d1adc.jpg> 夜ふかしで「捏造」なぜ 識者視点
+      <a href=https://news.yahoo.co.jp/pickup/6533729>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/ddfa621e40a319ee8786216a84b77b8b40fa756af22e69a38deb7e268fd5feab.jpg> つば九郎の人形 開幕戦ベンチ入り
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 20:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 20:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
