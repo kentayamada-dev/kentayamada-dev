@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3701b489229f9c58a8893e11a035c7ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ced552c577ba0c6197465c936c63e319.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a726817726fbefeb3bd527868b00594b183d92ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-10008377-jsportsv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 大谷翔平、高々と上がった本塁打でトム・ハンクスら、セレブの度肝を抜く
+      <a href=https://news.yahoo.co.jp/articles/13f748e137678d414d13e563aab1e76da6684410>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「悲しみと喪失の思い」　夫の篠田正浩監督死去に　岩下志麻さん
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98ab18606872ae93a1c3e3951fe71151a3160dd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-07227222-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】岡山県南部の山林火災　岡山市が“鎮圧”を発表　午後1時すぎ　岡山市「引き続き鎮火に向けた警戒をしていく」
+      <a href=https://news.yahoo.co.jp/articles/620711dc5997ba7ed4bcaf8ab9378f4ea71f71cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-21818515-tuliptv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【寒の戻り】日本海側の広い範囲で雪か雨…29日30日は冷え込み厳しく“冬に逆戻り” 【雨と風 シミュレーション】関東は “冷たい雨” で厳しい冷え込み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a9df8a9fe99eba7a3e5f05853a748662df106fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-07227200-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> きょう（28日）の天気　東京の最高気温は24℃　あすは急降下で10℃予想と花冷えに　週末にかけて寒暖差かなり大
+      <a href=https://news.yahoo.co.jp/articles/5737b8050df0a6c25ba4959005871f1c8a8f0df2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000203-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブスが今季初勝利　日本開幕S連敗も今季初2桁安打＆得点と打線爆発　鈴木誠也は12打席目で初安打
       </a>
     </td>
   </tr>
@@ -394,24 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533687>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/c13142bea4c1e634f288551a5b393fc72353a4a6f8a5a99a7d3f0cdd227aa90b.jpg> 岡山市の山火事「鎮圧」と発表
+      <a href=https://news.yahoo.co.jp/pickup/6533692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/d3db29086b8c597b205cafaccf4e32b96030ef29e09af40d42b0db2e3b1e5136.jpg> 三井住友・あいおい損保 合併へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/89df8666d02d100d5354b8e0ccd5bc6b7fb01592c51017f468c059f4fab38451.jpg> 昨年の小中高生自殺者数 過去最多
+      <a href=https://news.yahoo.co.jp/pickup/6533694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/e70708f4d20089dddb192aa05c8d924f3489d71a61924683202dc397d3b87da3.jpg> 東京株 一時900円以上値下がり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533681>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/ac15819deb05990c032c53e3149297f36aa5fe295063441566c21eca6b12d190.jpg> 日本語能力試験 SNSで情報漏れか
+      <a href=https://news.yahoo.co.jp/pickup/6533688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a588cd76006d0f7298f016310b54891e1c3376132e99aab729709b9c97e86846.jpg> 真冬へ逆戻り 関東は花冷えの週末
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/bdebf48b4540125d0181a9d23dd5232bd990b673c31ed69342a3dcb0e4594a77.jpg> センバツ 横浜が19年ぶり決勝進出
+      <a href=https://news.yahoo.co.jp/pickup/6533693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/3baaa58424efee2bf0cef498f11dcadddcc77040340246da4c5b4fb9ef39f9f7.jpg> 夫死去 岩下志麻「悲しみと喪失」
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/8f377b1247235e5c483c3bf4240363160c686cb362d693ed788ace8f3355c8b0.jpg> 谷原章介 あいさつ途中で番組終了
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/fad39961b9a69aa64289fe834c310db50d34c9ad794d6993a74be4d2d5b17d0d.jpg> 谷原章介 あいさつ途中で番組終了
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 14:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 14:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
