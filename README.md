@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/66fc488014f81d8499a07736cc3bb30c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b3afbdb98a8139c60860e488f9fb4dd1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45665f94c7fcd751694a8e3341e80c66855c69bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-01726907-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷スポンサーの珍企画が話題　HR直後の反応にX興味津々「一体どこまで積み上がるか」
+      <a href=https://news.yahoo.co.jp/articles/ff652b269847bd1be99354757cbf235f00575139>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-04532005-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=176&cw=700&ch=700&exp=10800&fmt=webp> 日テレ「月曜から夜ふかし」中国出身女性巡る拡散・誹謗中傷に警告「責任は、すべて日本テレビにあります」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/055a924ddba3a55dc84c7faae334c4ae62965cec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマーでM7.7の地震　マンダレーで大学の建物倒壊　隣国タイでもビル倒壊…行方不明者多数
+      <a href=https://news.yahoo.co.jp/articles/698f70acdf0bc3b763476cab8b8b57738b5d9450>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00029196-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 東京は明日29日は気温急降下　北日本や関東山沿いで雪　来週初めは全国的に花冷えに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/411a53009dbcb14b4f657506ba99491181eba6f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-21819350-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 季節は “5か月逆戻り” 関東で急激に気温低下…真冬の寒さに戻る　山沿いでは雪も【 雨と風 シミュレーション】
+      <a href=https://news.yahoo.co.jp/articles/3cc949a4e543310f9ff23a9e9c0c6020817b782f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000070-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「あの時は…」1994年以来Vへ、決勝挑む智弁和歌山　高嶋仁の目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45e3e4b18368f5d87e41beb5a7d78e85dc313e10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000025-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> プーチン氏、ウクライナ「暫定政権」構想を提案
+      <a href=https://news.yahoo.co.jp/articles/62557514ffc5018ea89fa79b9eceebccf66447af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-01596586-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平の第1号第2号が2試合連続なのはもはや当たり前　過去に何度も達成していた　では開幕3戦連続はあったのか振り返る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e9771f926d026dfaa2d3550b95afba97d5908a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00003611-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 横浜VS智弁和歌山の決勝に！横浜打線が石垣を攻略、智弁和歌山打線が石戸を攻略して、頂上決戦へ【センバツ第10日】
+      <a href=https://news.yahoo.co.jp/articles/eee633809d2628d316b0d673bb6daefb37cee293>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 国連暫定統治に言及　ウクライナ大統領排除狙いか　プーチン氏
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533713>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/93241608cccc2f8bb9e7f0ac383148a9d5ef59d3b4414389207260a0b49ff82b.jpg> 日本郵政 増田寛也氏が社長退任へ
+      <a href=https://news.yahoo.co.jp/pickup/6533714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/518a6b779ba42a15ab720d461c9c886e294fd8afbdfdbc61d94c937d180da7d2.jpg> 再審制度見直しへ 法制審に諮問
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533720>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/e184f4debf9691ce5dcca0ed643a3ea5eea69c6c490ad8bcf53fbfff179692bb.jpg> 4/1から居場所を失い不安な方へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533716>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/c23b407c8f21c3693dc86ca6af9669c9efc0412e471b1ee8234a2bad560adf00.jpg> 山火事 SNSで根拠ない情報広がる
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533717>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/baf34a9057f85ea7f389b8829342c25cdb10783f490971b1ebea807d5302be22.jpg> 資格停止 競歩池田が不服申し立て
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533702>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/86f90356f1f4141c041c2c1b46b524a00350d76c65f30f3ae59f1e1a0008d800.jpg> 始球式135キロ イチロー氏に歓声
+      <a href=https://news.yahoo.co.jp/pickup/6533719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/68eac9ce1e81813a9b151a576e2bac143ebb29aba3528b9dd2a9d0f8ec4d1adc.jpg> 夜ふかしで「捏造」なぜ 識者視点
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 18:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 18:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
