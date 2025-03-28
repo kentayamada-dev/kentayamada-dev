@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/420bf0e82fe3016da10fecf4da2e8937.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/96a73ec67388a0d27020f41f6314e544.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23fa43276abdcc8295df4c9a433e584cd4b040f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00050009-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> イスラエル軍、レバノン首都ベイルート南部を空爆…ヒズボラとの停戦発効後初めて
+      <a href=https://news.yahoo.co.jp/articles/ec32725825324ecc75917424e9305f44f5bb26d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平「シンプルにストライクを振っていくことを考えていた」本拠地での一発を振り返る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/193358daab7743097a61948c10934da42c5621e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000191-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=1049&ch=1049&exp=10800&fmt=webp> ドジャース・大谷翔平が〝黄金弾〟　米国開幕戦もショータイム　日本開幕戦に続いて2戦連発
+      <a href=https://news.yahoo.co.jp/articles/58786c1efe00524be4134b524a471178b38756a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-06718487-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエル軍、レバノン首都ベイルート郊外を空爆　ヒズボラの無人機倉庫を攻撃
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 01:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 01:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
