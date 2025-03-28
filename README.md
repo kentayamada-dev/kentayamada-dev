@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20b4df6914bd4753abec6af23b45d5cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/68320961c6aaef134a2dab225f984071.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8807bad733f1e64adaf332170846f131483f7b9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-03281108-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平が逆方向に弾丸アーチ　ド軍指揮官も、同僚も驚がく「右バッターが引っ張ったかのよう」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f5ea53429f10f359a17c1de05cff515fca3bd6db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-90025746-ohk-000-1-thumb.jpg?exp=10800&fmt=webp> 「やっと…」待望の雨に住民は安ど…岡山市南区の山林火災６日目　消防は鎮圧に向け現場を確認中【岡山】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d11f7fbb9aeb98703e7a1aa5f11a8b209f73130d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-90018414-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 【独自入手】事故直後の映像　保津川下り舟転覆事故から2年　死亡した船頭2名の慰霊式　乗客19人ケガ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b63f93f481d0dac61c1ce2f092264aa71114b5b5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00078128-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ関税は「テスラに追い風」も、GMとフォードには「逆風」に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab2673d4ecea80d12e6197c2086fc90f880aeeef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-05475318-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ベッツ復活！」体調不良で11キロ減のド軍・ベッツが本拠地開幕戦で今季初ヒット　大谷翔平を3塁に進ますナイスプレー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e05d8b89ccef459fd6785042c4b2a03f28b8b24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00949602-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「恵みの雨」山林火災の岡山で避難指示解除　焼失面積は過去最大の約565ha　愛媛・今治市でも“残り火”ないか調べ消火活動進める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6422c5d013bde9e30c09d0bf8d5ee45299f66236>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000069-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=866&ch=866&exp=10800&fmt=webp> フィギュア　「りくりゅう」ペアが２大会ぶり世界選手権王者に
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533672>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/46232451a9d8b33e38b34f03d127245d3de457d4f5fa45b49a2b823b786c73d7.jpg> ジブリ風画像生成 著作権問題浮上
+      <a href=https://news.yahoo.co.jp/pickup/6533682>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/65412e5238667bcfad17d41af02fd7c7eb94f99c3151f3a23b6fc7c3608e8f76.jpg> 保津川下り転覆 事故当時の映像
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a14836afe3538dbfc8cfdb92e483b33fb829edbee505d10ae5a87c6f9e8f5d07.jpg> 速報センバツ 横浜vs.健大高崎
+      <a href=https://news.yahoo.co.jp/pickup/6533672>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/46232451a9d8b33e38b34f03d127245d3de457d4f5fa45b49a2b823b786c73d7.jpg> ジブリ風画像生成 著作権問題浮上
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533676>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a4903cb6d82efe74ca8988b8b62878a09a9c978af6214834097f67c5b1ed98e0.jpg> 平祐奈 20歳と25歳とでは全然違う
+      <a href=https://news.yahoo.co.jp/pickup/6533668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/fb8174deca84857501acd184739ff0ee988504a40a288990a98dbe75962bb09e.jpg> リオ金 土性沙羅さん市職員退職へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 12:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 12:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
