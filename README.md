@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/378ce155054671c7aa214535ce94b8d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c683a098fbc70e549c72ef92b0490c99.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e85719982b1f97071430a8190f7c835821b1a4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000134-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> ドジャース4連勝なるか　3戦連発期待の大谷は「1番・DH」で先発　2勝目かけ由伸が先発
+      <a href=https://news.yahoo.co.jp/articles/520762cb10a8319d131dcd3917c43409e6baeeef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000009-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ミャンマー地震、軍事政権が異例の国際支援を要請　死者144人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3f38847d9c7cd592371174eacd32422e495ce67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー中部地震、少なくとも144人死亡　隣国タイでビル倒壊…多数の不明者
+      <a href=https://news.yahoo.co.jp/articles/5e85719982b1f97071430a8190f7c835821b1a4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000134-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> ドジャース4連勝なるか　3戦連発期待の大谷は「1番・DH」で先発　2勝目かけ由伸が先発
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533739>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/1c1cf5417f124175e379fccef11883db04201342c7536f2c27399005433b7783.jpg> 通勤手当「報酬」に首相が違和感
+      <a href=https://news.yahoo.co.jp/pickup/6533752>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/74bb7ced26a7164e57a50a69fac7f11de160c0f1011d73e822596bf3727a0345.jpg> 母死亡の車事故 重体の3歳が死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533752>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/74bb7ced26a7164e57a50a69fac7f11de160c0f1011d73e822596bf3727a0345.jpg> 母死亡の車事故 重体の3歳が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/a15cf1f9b34653209ad15c6fbb0d5ab3d0747066f1dc405a5df33bfd9c5a7dee.jpg> いじめ対策で教室録画 市教委検討
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/528069693b3447a6ec25d67506b445467664fcdc79879df3f67a27d0339cbec4.jpg> 大江アナ テレ東退社を涙で報告
+      <a href=https://news.yahoo.co.jp/pickup/6533755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/cccffcefd6aab11b80b08e21a5f3e9fce11b5296b62039801314b4d3adcac756.jpg> 元競泳代表 今井月氏がTBS入社へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/075b7c1f75bb733a5daa8acd163766e8075ee14c665b783e9330f2d1d96cbd81.jpg> 「夜ふかし」の編集 総務相が苦言
+      <a href=https://news.yahoo.co.jp/pickup/6533753>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/528069693b3447a6ec25d67506b445467664fcdc79879df3f67a27d0339cbec4.jpg> 大江アナ テレ東退社を涙で報告
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 07:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 08:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
