@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/406a5b9c5e333c7df6314f2445234004.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1676147e5d3e6bd93a8a7e486277c684.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f00e8776f0ace146e8abb6415b43e04db3589cc9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-21820090-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=607&ch=607&exp=10800&fmt=webp> 【コロッケ】緊急入院 “膝以外にも治療が必要” 　松平健さんとの3月〜4月の公演は中止に　 “払い戻しは詳細が決まり次第お知らせ”
+      <a href=https://news.yahoo.co.jp/articles/a32d127ca8c769ec1f465970c8ec1a936019b2d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00519811-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 同僚は衝撃「右に引っ張るのと同じ」「どうやって…」　大谷、逆風無関係の2号HRで証言された異様さ
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd11fc1ddc7d490006a53a5037452e29c1872c3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-90022088-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手がホーム開幕戦でＨＲ　ファンも大興奮の一発　2試合連続アーチで3連勝
+      <a href=https://news.yahoo.co.jp/articles/fe7639f5fb166f55dba1df2dc2a24a496d3287bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000149-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 屋内退避、3日後に「継続判断」　原発事故対応巡り報告書　規制委
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/02398c329ff18656de3875b76ff91230d69222df15a129912a69eb083ba5d2e4.jpg> 露 ウクライナ暫定統治案を示す
+      <a href=https://news.yahoo.co.jp/pickup/6533737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/176910f8174ac61810cc0501c7da240544456dd2eb238048edf51a6f00074739.jpg> 原発巡る屋内退避 規制委が報告書
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533728>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/13bc5054527677e16bd5744a4cd077b1592cf62029359fc8184fe8d8b1112fba.jpg> M7.7地震 タイで80人超が不明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533721>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/8ba0cef8a050d27ca3cf1ce7e1fa245c99d21ad8bbf2d4073ad5f1d2615ce534.jpg> 市街地にヒグマ 今年は頻発恐れも
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/fad39961b9a69aa64289fe834c310db50d34c9ad794d6993a74be4d2d5b17d0d.jpg> 谷原章介 あいさつ途中で番組終了
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 21:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 21:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
