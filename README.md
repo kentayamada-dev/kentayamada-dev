@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/958f9c65762f88c41a2a40987cbd9ffa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c2322311b59033db4b6890d9a2625079.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07baa1fcceb2ea019ad1d121a6f3f558d999347d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00094355-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「どうやったら人類が打てるの？」大谷翔平が放った“衝撃２号ソロ”に歴戦の解説陣も絶句！「超人界のトップ」「逆方向へのあの飛距離は…」
+      <a href=https://news.yahoo.co.jp/articles/a0c83f3a2aaaadb9c62448f40479a544eeef71f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-03281247-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1191&ch=1191&exp=10800&fmt=webp> シーズン１０８発ペース！大谷翔平が無双状態突入「試合が始まった時が一番眠気がある」のに米開幕戦で逆方向へ豪快弾
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 04:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 05:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
