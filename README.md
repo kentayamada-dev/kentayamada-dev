@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6X4acHfBASI?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/11ce1216d2ac7c16fdadd5a28eecdb66.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e5910e13251aefa6196f4bb1204e97cf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d9ebea9ade7db9b0b69d1ad5b4ab6dc677bd254>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-10170931-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=347&cy=0&cw=988&ch=988&exp=10800&fmt=webp> 「これがホームランになるのか」大谷翔平、今年は開幕からエンジン全開 “衝撃の逆方向弾”に現地記者も驚嘆「今年は早くも…」
+      <a href=https://news.yahoo.co.jp/articles/d3f38847d9c7cd592371174eacd32422e495ce67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー中部地震、少なくとも144人死亡　隣国タイでビル倒壊…多数の不明者
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f5ed77f15bf2e01cecab5537beeef1155ee5ba4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-90021549-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 巨大断層にズレ？メカニズムは…ミャンマーでM7.7　バンコクでは建設中のビル倒壊
+      <a href=https://news.yahoo.co.jp/articles/eabe8df33a2ad3acbc2f0b01dd78551a34f2136d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00519879-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「お父さんと仕事に行くみたいね」　大谷、日本で叶わなかったデコピン同行出勤が米国でも人気
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 06:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 06:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
