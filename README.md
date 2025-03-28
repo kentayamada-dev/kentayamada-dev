@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6X4acHfBASI?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/669a3f20a01df3a653cbe927df80a48b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e858eac6d7f3302b1ec682087ce83418.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/469c167a86466a4b74edcc18c13ba75e74d11daa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000022-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】ドジャース・大谷翔平が本拠地ドジャースタジアムの開幕戦でホームラン
+      <a href=https://news.yahoo.co.jp/articles/298e5023597f3af3f8a6c981b161907dbc518eaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-33280521-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=782&ch=782&exp=10800&fmt=webp> ２号ソロの大谷翔平、帰国後の時差ボケ明かす「ちょうど試合が始まったぐらいが一番眠気がある」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/24fb2e16b186bd2920b1eeca86fd6ae72eff1fec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-21814812-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=574&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “りくりゅう”ペアが2大会ぶり2度目の金 ! 四大陸と2冠達成【フィギュア世界選手権】
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9bf86507cb8ef5877936a5f8d106512ec5778a5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 群馬・中之条町の山林火災　鎮火を確認
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000001-gtv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 群馬・中之条町の山林火災　鎮火を確認
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0831a78e5ac218bf22ab347df06f19d4de7cb83c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00067963-gonline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=720&ch=720&exp=10800&fmt=webp> なぜ「今」、トランプ大統領は関税を強化するのか？【解説：東京海上アセットマネジメント】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e45ffc061be4a671b7a2c8cb4e9e6b04fe31a815>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> チャットGPT新機能で有名アニメに作風似た画像…SNS投稿相次ぐ　著作権巡る問題指摘
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533662>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/1e271313e7b33a076fde923eb136b8bbb6175677012fc28e098cf92248ddf3a9.jpg> 米関税 フェラーリ最大10%値上げ
+      <a href=https://news.yahoo.co.jp/pickup/6533675>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/44628f4dec0dd7391a1f438776c2090c34b5a5719f4a165e475af0d65eb7c5e0.jpg> 矢田稚子・首相補佐官の退任決定
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/525a8c073dd32fe90f4386525c27a28ca6572fbd74a8ca33a817158d39eabc0a.jpg> りくりゅう 2年ぶり世界選手権V
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533674>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/5033485030e38a195c318c1df12160ad2f2fa4471636a72c035050550d162950.jpg> 大谷翔平 米開幕戦で豪快アーチ
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533668>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/fb8174deca84857501acd184739ff0ee988504a40a288990a98dbe75962bb09e.jpg> リオ金 土性沙羅さん市職員退職へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533660>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/da6b56d3e7f8afb591a2bb818ab9f0ea490b39bddc55f48dfa56a2af927bfcef.jpg> 「おむすび」が最終回 SNSの反応
+      <a href=https://news.yahoo.co.jp/pickup/6533676>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a4903cb6d82efe74ca8988b8b62878a09a9c978af6214834097f67c5b1ed98e0.jpg> 平祐奈 20歳と25歳とでは全然違う
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 11:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 11:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
