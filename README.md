@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb0Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aeaa5a79b1ab78e333985224c888c785.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/669bc622bdc028d0ea3cfaacd226f2ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b442ea4d74816974f835608dfc61c74c857e030>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000011-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「あらゆる手段講じる」カナダ首相が米国の追加関税に“対抗”検討　トランプ氏は警告
+      <a href=https://news.yahoo.co.jp/articles/ef78d3c5840da05dd34e9b03424b10c0ba5939c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000011-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 恵みの雨か、炎や煙は目視できず　今治の山火事　岡山も降雨
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ab4449022cfa80ffe86b5e2b32ea4842bfa997e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-10170746-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 紅海沿い人気リゾート地で観光客を乗せた潜水艇が沈没 6人死亡 エジプト
+      <a href=https://news.yahoo.co.jp/articles/3eb04573e08c076e9756f4cfda213cd26b5d97be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000009-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=468&ch=468&exp=10800&fmt=webp> トランプ政権の自動車関税　米ビッグ3は株価下落、「唯一の勝者」は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa1788598c45b045a69a1b2ac895a663e294e673>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00050026-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=314&ch=314&exp=10800&fmt=webp> フジの「ドン」語らず退場…１２年連続視聴率トップの立役者、一方で社内有望株を次々排除のワンマン
+      <a href=https://news.yahoo.co.jp/articles/096957b8b306f79ff702be8bb23b4eaa81b020e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-03281041-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「本当に日枝相談役が自分の意志として自分からやめますって言ったのか」…フジテレビ・日枝久氏「退任」を巡り「めざまし８」元同局解説委員が疑問
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533651>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/5f991edab799a0ff44eea36fc3b17a1124e22c73f2b5ee99d1b7c1298bffbfe6.jpg> トモダチコレクション 2026年発売
+      <a href=https://news.yahoo.co.jp/pickup/6533661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/90367b5ad1246ac99d2521a6d711966a78ea9261f5bcd42d112ef61b9dbd2535.jpg> ド軍 ベッツに続きキケも体調不良
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 08:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 09:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
