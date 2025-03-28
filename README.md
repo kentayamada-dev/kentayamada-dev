@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zb2tXTkDHAA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6X4acHfBASI?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e388fd943c7a87c19013584c51e1c3ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/20b4df6914bd4753abec6af23b45d5cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15ef0b704179aafe35367afcced1cef829ec6c1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-03361995-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日枝取締役相談役の退任など…フジが大規模な経営陣の刷新を決定
+      <a href=https://news.yahoo.co.jp/articles/b63f93f481d0dac61c1ce2f092264aa71114b5b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00078128-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ関税は「テスラに追い風」も、GMとフォードには「逆風」に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b46d479976b84344cd658ea38ad76d271f48324d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000003-jij-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米25％車関税で摩擦激化　各国猛反発、報復の恐れ　コスト高、価格に跳ね返り
+      <a href=https://news.yahoo.co.jp/articles/ab2673d4ecea80d12e6197c2086fc90f880aeeef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-05475318-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ベッツ復活！」体調不良で11キロ減のド軍・ベッツが本拠地開幕戦で今季初ヒット　大谷翔平を3塁に進ますナイスプレー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/154216e95c11d99539a44ec2bcbaf8dc9e756ad7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250327-00000105-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> エジプトの紅海沿い人気リゾート地ハルガダで観光用の潜水艦が沈没　ロシア人6人死亡
+      <a href=https://news.yahoo.co.jp/articles/1e05d8b89ccef459fd6785042c4b2a03f28b8b24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00949602-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「恵みの雨」山林火災の岡山で避難指示解除　焼失面積は過去最大の約565ha　愛媛・今治市でも“残り火”ないか調べ消火活動進める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6422c5d013bde9e30c09d0bf8d5ee45299f66236>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250328-00000069-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=866&ch=866&exp=10800&fmt=webp> フィギュア　「りくりゅう」ペアが２大会ぶり世界選手権王者に
       </a>
     </td>
   </tr>
@@ -386,64 +394,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533645>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/64b58b220e455f498bee3bbe17c18a4516f5f3e62e65374d4cc0271c0e0ccaf4.jpg> 山林火災 消防団「もうクタクタ」
+      <a href=https://news.yahoo.co.jp/pickup/6533670>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/212d4c1a75699a76bee93fc687ca8000f3d00813c96075c0afae402ed3d38b94.jpg> 米の車関税 財務相「極めて遺憾」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/45d1636bf2e829f1c2709d1702da2e3e15876a606c2a114ef2c53dbaacde5605.jpg> 異例 ガザで連日の反ハマスデモ
+      <a href=https://news.yahoo.co.jp/pickup/6533665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/47af3d0b7e8f837b38376616f56a65e750c863badcf0187cea0445e1b66b04a3.jpg> 米厚生省 さらに職員1万人削減へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/25/dd6d5359badde6f0a2315eee2d0c646857dc4c16495722aac0365d7f1fffc6b0.jpg> 紅海で潜水艦沈没 観光客6人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/947eccebe6ac71130b3ec4b23e1e1d288250381db86b484e71397f0007dcb981.jpg> 東京株 一時800円以上値下がり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/0f3b323dcf846be270307faf57cac8ce540bcdf69ae03127cb6965fe2a6e00df.jpg> コロナで従業員死亡 店に賠償命令
+      <a href=https://news.yahoo.co.jp/pickup/6533675>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/44628f4dec0dd7391a1f438776c2090c34b5a5719f4a165e475af0d65eb7c5e0.jpg> 矢田稚子・首相補佐官の退任決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/66e0fd8887504ccb50c93bd67983483294b04d2788b40a5c602c6f73cbd593a9.jpg> ムツゴロウ 世界の絶滅危惧種に
+      <a href=https://news.yahoo.co.jp/pickup/6533672>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/46232451a9d8b33e38b34f03d127245d3de457d4f5fa45b49a2b823b786c73d7.jpg> ジブリ風画像生成 著作権問題浮上
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/06daa8298438ec3ac088c052f018d0de35e42b148222b4b4391aa651c6ac5237.jpg> 物価高で 炒飯にも「1000円の壁」
+      <a href=https://news.yahoo.co.jp/pickup/6533673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a14836afe3538dbfc8cfdb92e483b33fb829edbee505d10ae5a87c6f9e8f5d07.jpg> 速報センバツ 横浜vs.健大高崎
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/e9f95254a75c2c14dd2d389897ec2bffb33be480c602c6d907e90bf4747fd30d.jpg> 「メトロイド」新作2025年発売
+      <a href=https://news.yahoo.co.jp/pickup/6533674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/5033485030e38a195c318c1df12160ad2f2fa4471636a72c035050550d162950.jpg> 大谷翔平 米開幕戦で豪快アーチ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/f5fd7dbec0e47e77c24609532d69fa981b17cd019615c9f49333b701b80efdc0.jpg> 日テレ 月曜から夜ふかし巡り謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6533676>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/28/a4903cb6d82efe74ca8988b8b62878a09a9c978af6214834097f67c5b1ed98e0.jpg> 平祐奈 20歳と25歳とでは全然違う
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/28 02:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/28 12:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
