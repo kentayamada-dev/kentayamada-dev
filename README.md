@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a91669f0ee3becad40e8bb4ff2632c41.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e8faeee23d994d68ca19bd854984c1f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4dd330b16e4056d6f3010b83558e632617229a8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-02724932-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震、1600人以上死亡　タイ・バンコクのビル倒壊現場、20人超える生体反応…救助活動続く
+      <a href=https://news.yahoo.co.jp/articles/35dd368ace5ce2de99a884b11f7e5d28a4fb683d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00950364-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震 死者1600人超に　3408人が負傷
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 01:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 01:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
