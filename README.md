@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a834c02631c5259d51fbcc2b1b411a63.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8c922377f3cc5b732012e5b77da1f6aa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe7836d43a77d448e3f4938709173953a12b7d81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000047-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 大地震のミャンマー 死者1000人超　建物は倒壊　大規模火災も 救出は難航
+      <a href=https://news.yahoo.co.jp/articles/a23e6cdc96ec2c130f5c16cb289b7d3cb14db40a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-11628389-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=461&ch=461&exp=10800&fmt=webp> 「またネプリーグが犠牲となったか…」今年2回目のネプ受難　31日放送回が延期に…フジ会見の影響で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/434cc8d62c2802c71954eb3b48b40d6ec96693cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-90008116-sakuranbo-000-1-thumb.jpg?exp=10800&fmt=webp> 高畠町官製談合事件・町職員と業者を起訴
+      <a href=https://news.yahoo.co.jp/articles/fe7836d43a77d448e3f4938709173953a12b7d81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000047-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 大地震のミャンマー 死者1000人超　建物は倒壊　大規模火災も 救出は難航
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/7c7da4776b5d946b5eb573cd6c9cb8d8902afc9c3bdd0f7ef2b02d066cb15d36.jpg> ミャンマー地震 日本人2人が負傷
+      <a href=https://news.yahoo.co.jp/pickup/6533809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/8c08cf7673817fa64fcbf2d6849289b62ba1d6bb8517a350e7c6b6c7cc6afce4.jpg> ミャンマー地震に支援表明相次ぐ
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533818>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博の空飛ぶ車デモ飛行 3陣営に
+      <a href=https://news.yahoo.co.jp/pickup/6533825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/a65b2867226c0ec341ec3b4e36a396374025681cadd510a7c3930486e30318eb.jpg> 町長を再逮捕 別工事でも談合疑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533815>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/772ef0719cabcdf7d834aa93d3889f319711b4bcbc4d57393c669828f44bdf74.jpg> 約1億円詐取疑い 都職員を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6533818>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博の空飛ぶ車デモ飛行 3陣営に
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533813>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/e71fc6ec55e8bfc12f4c3201b603d670aec86570923ffa7435eac4c670f9f31c.jpg> フジ 31日のネプリーグ放送延期
+      <a href=https://news.yahoo.co.jp/pickup/6533827>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/b010d04c1ac42706408b4cd91cae77cd64baa0a42cb4898a0cabff3a5a7b5049.jpg> フジ4h超の枠 自社の会見中継再び
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533805>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/625543ce8992d4b81e759884043e8f8a6d4b25db3e1f484cc847cb2a12812d3e.jpg> 一ノ瀬ワタル 会見中ズボン破れる
+      <a href=https://news.yahoo.co.jp/pickup/6533790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/50a08879ffa3d629a8a84a7c1fd4fbbff74e2acba3bcd7ae678ddf518f04c2c6.jpg> 原田龍二 不倫騒動と家族関係語る
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 18:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 19:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
