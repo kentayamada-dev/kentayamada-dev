@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9109f7b2e04a3894d5126d7e2d2d4320.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eaea35066d78aab3101b6fc455711120.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -378,6 +378,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/a971a42f4bb92409498c3a16fdab75269bdc35c2178a4c6cf5c3931432a337fd.jpg> ミャンマー 地震の死者1600人超
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533846>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/05670b9a78d01dce01984b4b28164fb613fa7644ec94e3c8f95c6d2a9d118893.jpg> 政府 ミャンマーに救援物資供与へ
       </a>
@@ -410,22 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533839>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/6512c861624a66ce20d0d903975bd7c70366acc5236677163b677fc26b9a862f.jpg> 数百棟が施工不備か 市が会社調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533808>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/c011a9514d9cecc40184ed02fa10732271d2af59df40c20640189a6748acbfb6.jpg> 倉庫の米尽きる フードバンクSOS
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533847>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/f13e0a77dab91be36b1230c7d994ce7be6a4e954041ffc3173913da5354eb79d.jpg> まるで「少年野球ガチャ」悩む親
       </a>
@@ -440,11 +432,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533848>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/39081b70820488305293f0afb5c85e5eb77b64efe4a2c088ad4970cc9cd70078.jpg> 志村けんさん没後5年 惜しむ声
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 23:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 23:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
