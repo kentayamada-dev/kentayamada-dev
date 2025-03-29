@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6bcde1a5c30e75cd7992aff2b8a03414.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a834c02631c5259d51fbcc2b1b411a63.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d57201da70111556ca9819a79237acc68b931c62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-07227426-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　軍事政権は死者1007人と発表　日本人2人も負傷　被害の全容把握や人道支援は困難な状態
+      <a href=https://news.yahoo.co.jp/articles/fe7836d43a77d448e3f4938709173953a12b7d81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000047-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 大地震のミャンマー 死者1000人超　建物は倒壊　大規模火災も 救出は難航
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6e12a2704966b74b1cf7272bc302ab9d7db213f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000001-senbatsuf-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 接戦に強い横浜優位か　智弁和歌山も主軸好調　センバツ決勝見どころ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d88d5bdcd2630c363cbce3c9de7fef14b3aa9b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00094368-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=348&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「まだ十分強いと知らしめた」サヨナラ弾放ったベッツの“完全復活”に米メディア驚き「ムーキーは９キロ痩せたって言われたけど関係なかったね！」
+      <a href=https://news.yahoo.co.jp/articles/434cc8d62c2802c71954eb3b48b40d6ec96693cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-90008116-sakuranbo-000-1-thumb.jpg?exp=10800&fmt=webp> 高畠町官製談合事件・町職員と業者を起訴
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/6796b0ba7ac86912a57f611471fcac3b1941a698bc5b6a83b9a53f17850f0657.jpg> すき家 一部店舗を4/4まで閉店へ
+      <a href=https://news.yahoo.co.jp/pickup/6533824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/6796b0ba7ac86912a57f611471fcac3b1941a698bc5b6a83b9a53f17850f0657.jpg> すき家一部除く全店4/4まで閉店へ
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/8926c0b3ff87c450f527f89de9c6eab1eeafc98be56f7d2fcc8170c732f67b72.jpg> 夜中泣いたことも ベッツ復活2HR
+      <a href=https://news.yahoo.co.jp/pickup/6533820>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/a1556f7920cca61bc4a30676745c7c2c93d4ada9f497c13de100965204a783e9.jpg> 桜「高齢化」倒木懸念で祭り中止
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 18:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 18:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
