@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GV8fe3oLnZ0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/747b885a14f0341405210359a74283cd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ffcfca43bd3284855fa50149481a888.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2e72dedcecfa9044951a810d84a8edddd999f16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-33291060-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=26&cw=1448&ch=1448&exp=10800&fmt=webp> フジテレビが31日「FNN緊急特報　第三者委員会が調査報告」放送「ネプリーグSP」は延期
+      <a href=https://news.yahoo.co.jp/articles/2d88d5bdcd2630c363cbce3c9de7fef14b3aa9b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00094368-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=348&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「まだ十分強いと知らしめた」サヨナラ弾放ったベッツの“完全復活”に米メディア驚き「ムーキーは９キロ痩せたって言われたけど関係なかったね！」
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/786faf62163aa1f4a0e832c09f6c85ae87b4b47f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000058-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=886&ch=886&exp=10800&fmt=webp> ミャンマー大地震の死者千人超える　国営メディア　日本人も2人負傷、さらに被害拡大も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e209c79c5948d4c448b0cf219b14b0576549b97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000037-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 世耕氏、参考人招致は「会派と相談して判断」　自民裏金事件巡り
       </a>
     </td>
   </tr>
@@ -394,24 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/03739bbf91594ec58e90cbfcca88427709f65c7f6df53facef0fffa627333633.jpg> 地震 ミャンマーで死者1000人超
+      <a href=https://news.yahoo.co.jp/pickup/6533784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/6cb84285991289f1387ab6b0e5d05b68b62b78c06c41f4b935a1a12ac98e0ac8.jpg> ミャンマー地震 断層ずれ動いたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533799>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/1f3f07b14c0e2723ea9181be3b524f01aa3fa5b2aa8aaf910b3d4f2b46ade117.jpg> ディズニーのDEI施策 米当局調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 授業手いっぱい 小3テスト未返却
+      <a href=https://news.yahoo.co.jp/pickup/6533815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/772ef0719cabcdf7d834aa93d3889f319711b4bcbc4d57393c669828f44bdf74.jpg> 約1億円詐取疑い 都職員を逮捕
       </a>
     </td>
   </tr>
@@ -420,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533810>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/50212bce9109fbd0f8dc0abb7a68560c00547c9ef58194b2a79bb94ac158f969.jpg> クレカのサイン決済 原則廃止の訳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/da7fbb744ff88503826e10a7552b77dbaaa80a08b9a5acc87aef5036f571a7e9.jpg> 結合双生児を宿した母 つないだ命
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 16:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 17:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
