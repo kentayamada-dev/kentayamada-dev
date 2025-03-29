@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/40a854ab9e480dda8840e7eabe890095.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/79cbf6259a876b066a61e2a0957a405e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6e0087178bb26d9698a790fdf20f84e1dc3e95e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-03291057-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1177&ch=1177&exp=10800&fmt=webp> 大谷翔平、昨季同僚右腕との初回第１打席はストレート四球　開幕から４試合連続出塁
+      <a href=https://news.yahoo.co.jp/articles/9e4f6641e38c70201e77c3fc44911bfa5680be17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-09271514-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマーM7.7地震「144人以上死亡」と軍事政権が発表　タイ・バンコクでビル倒壊…101人の捜索続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1f236173e9dc47b1077d37e6a56438f82c71e9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-15957310-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ミャンマー中部地震、死者150人超に　ミャンマーと隣国タイで多数の死傷者
+      <a href=https://news.yahoo.co.jp/articles/2083ee0dd1b1b908e697170851aa8468284cc7e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000029-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=915&ch=915&exp=10800&fmt=webp> 大谷翔平、第1打席は四球、開幕4戦連続出塁、昨季は同僚、WS制覇貢献の右腕・フラーティと対戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6419915cf98b21ed7e0270679b4a7ad9ee0b4a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00010001-newswitch-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=518&ch=518&exp=10800&fmt=webp> 日本、利益吹き飛ぶ…米追加関税が自動車に迫る決断
+      <a href=https://news.yahoo.co.jp/articles/9d51e2d88f99140c6bccbdb8a24ee86d0a351f14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-90021552-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ミャンマー大地震 死者140人超　タイで高層ビル倒壊、117人行方不明
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/7262be75470ef2cbb5d632ff81f503a73cd8c19c3b5b8e41bbe0b49dca7d14b4.jpg> 夏日から一転 関東で真冬並み寒さ
+      <a href=https://news.yahoo.co.jp/pickup/6533785>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/af926ffd17e9abbc8ff7e212a30f7442df7256a0403b0e9173eab25f2ad77473.jpg> 地震ミャンマーとタイ150人超死亡
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/7e911a11a74d705ee40164537f341179c6d4e0c62a8c7ad955a54c5324812442.jpg> DFアウベス氏 性的暴行巡り無罪
+      <a href=https://news.yahoo.co.jp/pickup/6533776>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/9b0022f5721575b0c354ec7acfce1b1815055c9893f35e1707a7eb5f648f232f.jpg> 学校の清掃委託 抵抗持つ教職員も
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 11:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 12:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
