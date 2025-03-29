@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/192dbec3ed6ff6057f49882dc56bb25b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a91669f0ee3becad40e8bb4ff2632c41.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c7fc224a6a44925080fc27a2002cbb412a5a44a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010000-piaeigat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 吉沢亮主演『ババンババンバンバンパイア』新たな公開日が決定　板垣李光人と肩を寄せあう場面写真も公開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad1e40ea43f3def0001d680f00bcc964b0fbdf08>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000057-ann-000-5-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者1000人超に　タイのビル倒壊現場は9人死亡
+      <a href=https://news.yahoo.co.jp/articles/4dd330b16e4056d6f3010b83558e632617229a8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-02724932-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震、1600人以上死亡　タイ・バンコクのビル倒壊現場、20人超える生体反応…救助活動続く
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/4228011a13ed4223af472b775d989a44ccd1ad1970d79955c7eb09896bf7f056.jpg> 延期の吉沢亮主演映画 4月に公開
+      <a href=https://news.yahoo.co.jp/pickup/6533834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/93a2e8c4ee3992b73910a31d28fbb269813b589fd04e493f9d7435c14da61a3f.jpg> 坂本花織 涙ぼろぼろ流し取材対応
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 00:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 01:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
