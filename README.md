@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aefb146c1c23635c0218290071575884.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/609ffa6ac244cd155fd30482a0fac279.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b67005874b5add19483e4c95a77e384d4a5ef2fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00050132-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=377&ch=377&exp=10800&fmt=webp> ミャンマー地震、エネルギーは能登地震の２倍か…２０世紀以降にＭ７超級を繰り返す
+      <a href=https://news.yahoo.co.jp/articles/47dc6bc8d020c06e6550a80529b41eb3ded116f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000058-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> 「両親と連絡取れない」　在日ミャンマー人、地震被害に不安募る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72275ff5118a626bac489d5e0e4d195ad11adc0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-10171072-abema-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=724&ch=724&exp=10800&fmt=webp> YA-MAN、タオル投入の衝撃TKO負け 剛腕ミゲールに3度のダウン喫する
+      <a href=https://news.yahoo.co.jp/articles/cebce869cfbb2f1d1a55bcdb3b9d34ec9c9922b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00773687-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【RISE】「自分は出られるとは思ってます」衝撃TKO負けYA-MAN、5.4朝倉未来との再戦に意欲「ダメージはない」強調
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/7ac8f15d8a391cbab227901413c77e3163d0b6bd2f8f359ea6ed5946f8e35ee8.jpg> 石破首相 日米同盟の強化呼びかけ
+      <a href=https://news.yahoo.co.jp/pickup/6533830>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/5112dad4a0786a77ff6231cedbabaf42364d876adce73cf1d2dc77053ba4395e.jpg> タイ倒壊ビルで妻行方不明 夫は涙
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533821>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/228776a2a33665a7b8ff178b9fe49cab53730965c967beb6ed7a69af378b2b27.jpg> 「令和の百姓一揆」苦しむ農家ら
+      <a href=https://news.yahoo.co.jp/pickup/6533834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/93a2e8c4ee3992b73910a31d28fbb269813b589fd04e493f9d7435c14da61a3f.jpg> 坂本花織 涙ぼろぼろ流し取材対応
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/93a2e8c4ee3992b73910a31d28fbb269813b589fd04e493f9d7435c14da61a3f.jpg> 坂本花織 涙ぼろぼろ流し取材対応
+      <a href=https://news.yahoo.co.jp/pickup/6533835>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/2fd634c58339a333277b7d66be12a4fb67d1ac3b47b77b2104a7f608ff346a60.jpg> 新庄監督 大ピンチで選手笑わす
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 20:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 21:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
