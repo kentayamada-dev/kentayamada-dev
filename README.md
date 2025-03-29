@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3f7060f581ae4e1b06917f08a3d80290.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/778668b27c29a9353cf7b9c1fb4ab65e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7286362d1bb11df5f9165f8825a043fc32bbf651>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000017-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=977&ch=977&exp=10800&fmt=webp> 大谷翔平、昨季「世界一」同僚フラハティと対戦…山本由伸先発試合で３戦連続弾出るか
+      <a href=https://news.yahoo.co.jp/articles/63e2fe7f3b21d4375fadbbafe6ea34701efde8b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=535&ch=535&exp=10800&fmt=webp> タイのビル倒壊現場、救助続く　100人不明　がれき多く作業難航
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ef0c575e1ba1f31c2260bcfacb587adea90a1af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000001-cnippou-000-2-view.jpg?pri=l&w=183&h=183&order=c2r&cx=46&cy=0&cw=183&ch=183&exp=10800&fmt=webp> 東南アジアを襲った地震の恐怖、ミャンマーでＭ７．７の地震…軍政トップ「少なくとも１４４人死亡」
+      <a href=https://news.yahoo.co.jp/articles/366c71a5e998d3c50a8e1b10e4be5f87a5e57946>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00010001-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=925&ch=925&exp=10800&fmt=webp> 大谷翔平「1番DH」で3戦連発なるか　山本は控え捕手とのコンビで開幕2連勝狙う
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66db199b30167c30a2dd96211086121f6f5a22cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00950167-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 事故の遺族らが要望書提出　危険運転致死傷罪見直しに向け
+      <a href=https://news.yahoo.co.jp/articles/aba8b0d6ee2c6bdfe44661fb21c03765f38f4b87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-03281273-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 今田美桜、「生きていく上で大事にしていることは、自分を好きでいること」…３１日スタートの朝ドラ「あんぱん」でヒロイン演じる
       </a>
     </td>
   </tr>
@@ -386,24 +386,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533774>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/7262be75470ef2cbb5d632ff81f503a73cd8c19c3b5b8e41bbe0b49dca7d14b4.jpg> 夏日から一転 関東で真冬並み寒さ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533760>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/399608075967222d51ab20eeee831677878c00949446e36babc1db56dda0f755.jpg> 旧統一 資産移譲先に傘下宗教法人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533761>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/3f262bc08c3f56fc1d3f3ab7250645f2c57077dfb6aa8aa5282fdd722b22a25b.jpg> ミャンマー 地震で困窮に追い打ち
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/13c12961704e11ea2b9e41748cab58397f0647a1b3d645d6278ee7e00fc7b7b3.jpg> 不具合 ホンダ車220万台を米調査
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/37c7db30de7ff7b34688eb63fdeb2a537c01dc0bac20e3151b4c79a0a305dc62.jpg> 母も父も亡くし 高校で得た安らぎ
+      <a href=https://news.yahoo.co.jp/pickup/6533768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/13c12961704e11ea2b9e41748cab58397f0647a1b3d645d6278ee7e00fc7b7b3.jpg> 不具合 ホンダ車220万台を米調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533770>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/79288d33f617ef3c67625a4b1424b82510cd72414473ad4194c4c83e182988f4.jpg> マスク氏のAI企業がX社を買収
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/82855b22dfef2a6b1a3aaf711765cdec8cac7b80339f48559c01ae2ae4161601.jpg> ズムサタ終了 羽鳥アナらエール
+      <a href=https://news.yahoo.co.jp/pickup/6533775>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/85941cba2d908081a731200fb0913dd17226555068912dedae24d50baf94ddc8.jpg> 今田美桜 北村匠海に「安心感」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 10:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 10:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
