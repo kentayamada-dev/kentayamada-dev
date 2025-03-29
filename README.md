@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GV8fe3oLnZ0?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f115dddef4972e899c2d0bbfab9469e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1a0d701f4f624c16cfaaf91f3aee04be.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c4890cc2c6c508540f5a47f33d8bd1edd1b8e14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010003-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=800&ch=800&exp=10800&fmt=webp> YA-MANがトリンダーデに3つのダウンを奪われOFGマッチで初黒星。5・4朝倉未来戦は事実上消滅【RISE】
+      <a href=https://news.yahoo.co.jp/articles/b17fb011c76d22732256e247975551ce019ce22b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=700&ch=700&exp=10800&fmt=webp> 大谷翔平　サヨナラ呼んだ４戦連続安打　ベッツ延長十回劇弾　ド軍４４年ぶり開幕４連勝　
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 02:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 02:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
