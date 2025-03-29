@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8c922377f3cc5b732012e5b77da1f6aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/13eeb0823396f0a520c8597469d67c33.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a23e6cdc96ec2c130f5c16cb289b7d3cb14db40a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-11628389-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=461&ch=461&exp=10800&fmt=webp> 「またネプリーグが犠牲となったか…」今年2回目のネプ受難　31日放送回が延期に…フジ会見の影響で
+      <a href=https://news.yahoo.co.jp/articles/242e9a0e7bf89b48196658ec59770d51f1187e22>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000052-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 住宅1軒が全焼 焼け跡から3人の遺体　秋田・にかほ市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe7836d43a77d448e3f4938709173953a12b7d81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000047-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 大地震のミャンマー 死者1000人超　建物は倒壊　大規模火災も 救出は難航
+      <a href=https://news.yahoo.co.jp/articles/b5df30676fffdd18922e0d936820a66562845c81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000049-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 震源から1000キロ離れたビルが倒壊　「長周期地震動」の影響か
       </a>
     </td>
   </tr>
@@ -378,16 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/8c08cf7673817fa64fcbf2d6849289b62ba1d6bb8517a350e7c6b6c7cc6afce4.jpg> ミャンマー地震に支援表明相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6533829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/7ac8f15d8a391cbab227901413c77e3163d0b6bd2f8f359ea6ed5946f8e35ee8.jpg> 石破首相 日米同盟の強化呼びかけ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533816>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/cbe6387e1fd6ceb753c7493fd0f6400f889c1c78ef1897347297d6930558b9d8.jpg> 岸田氏 危機感示し石破政権に要望
+      <a href=https://news.yahoo.co.jp/pickup/6533809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/8c08cf7673817fa64fcbf2d6849289b62ba1d6bb8517a350e7c6b6c7cc6afce4.jpg> ミャンマー地震に支援表明相次ぐ
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533818>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博の空飛ぶ車デモ飛行 3陣営に
+      <a href=https://news.yahoo.co.jp/pickup/6533821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/228776a2a33665a7b8ff178b9fe49cab53730965c967beb6ed7a69af378b2b27.jpg> 「令和の百姓一揆」苦しむ農家ら
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 19:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 19:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
