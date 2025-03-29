@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GV8fe3oLnZ0?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6e2457a92bb8b14830789a1723f64558.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6bcde1a5c30e75cd7992aff2b8a03414.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be3fcfe44ae67d30d01ca92e31b4fbf878fb863d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000042-ann-000-3-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者1007人に　震源近くのマンダレーで日本人2人けが
+      <a href=https://news.yahoo.co.jp/articles/d57201da70111556ca9819a79237acc68b931c62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-07227426-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　軍事政権は死者1007人と発表　日本人2人も負傷　被害の全容把握や人道支援は困難な状態
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f6e12a2704966b74b1cf7272bc302ab9d7db213f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000001-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 接戦に強い横浜優位か　智弁和歌山も主軸好調　センバツ決勝見どころ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000001-senbatsuf-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 接戦に強い横浜優位か　智弁和歌山も主軸好調　センバツ決勝見どころ
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/6796b0ba7ac86912a57f611471fcac3b1941a698bc5b6a83b9a53f17850f0657.jpg> すき家 一部店舗を4/4まで閉店へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533818>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博の空飛ぶ車デモ飛行 3陣営に
       </a>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533815>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/772ef0719cabcdf7d834aa93d3889f319711b4bcbc4d57393c669828f44bdf74.jpg> 約1億円詐取疑い 都職員を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/da7fbb744ff88503826e10a7552b77dbaaa80a08b9a5acc87aef5036f571a7e9.jpg> 結合双生児を宿した母 つないだ命
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 17:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 18:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
