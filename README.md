@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/75d6eafa7afc7ab0b0b2cbbb0975a6c7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/038a0c1d6bf930dc81e3eba923e96114.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9a26dc558ceee593a78191cc16392fea0680d25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-33290182-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 鷲見玲奈「幸せでした！」3年間担当した「ズムサタ」最終回、番組ラストで感慨表情
+      <a href=https://news.yahoo.co.jp/articles/3fe3931a1c91a60a307e7d9de4b04f0a7e9eace8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00519900-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷2号で映った超大物俳優の直筆スコアカード判明　「ガチ勢だ」「野球愛が凄い」日本人驚き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85c56656e543d27b568b755d1f652f23bfe71da6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-01727225-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は確信してないのに…即諦めた“敵軍”　絶望の5秒間が「恐ろしくて見れない」
+      <a href=https://news.yahoo.co.jp/articles/6ef0c575e1ba1f31c2260bcfacb587adea90a1af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000001-cnippou-000-1-view.jpg?pri=l&w=183&h=183&order=c2r&cx=46&cy=0&cw=183&ch=183&exp=10800&fmt=webp> 東南アジアを襲った地震の恐怖、ミャンマーでＭ７．７の地震…軍政トップ「少なくとも１４４人死亡」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d0a3d8f0424e7e449433d05318ded76b4683ace>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-10170967-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=670&ch=670&exp=10800&fmt=webp> ミャンマー地震 144人死亡 タイで8人死亡 約100人行方不明
+      <a href=https://news.yahoo.co.jp/articles/beb72d3b09360ea394104bdaa717cdb63df0435b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000014-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=507&ch=507&exp=10800&fmt=webp> バンス米副大統領がグリーンランド訪問　防衛への「投資」示唆
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533754>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/ea0a83d21bb05455bad3c25a203b4112ec7f9ec6cd19ba6c1abdd576a08e008e.jpg> 寝台列車カシオペア 完全引退へ
+      <a href=https://news.yahoo.co.jp/pickup/6533757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/37c7db30de7ff7b34688eb63fdeb2a537c01dc0bac20e3151b4c79a0a305dc62.jpg> 母も父も亡くし 高校で得た安らぎ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/37c7db30de7ff7b34688eb63fdeb2a537c01dc0bac20e3151b4c79a0a305dc62.jpg> 母も父も亡くし 高校で得た安らぎ
+      <a href=https://news.yahoo.co.jp/pickup/6533772>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/909cc7fcd213c18dc0d68c594f147378bfb63a687ae553f050913bfb214ce173.jpg> 清宮幸太郎のHRをAI予測「鳥肌」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533763>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/82855b22dfef2a6b1a3aaf711765cdec8cac7b80339f48559c01ae2ae4161601.jpg> ズムサタ最終回 羽鳥アナらエール
+      <a href=https://news.yahoo.co.jp/pickup/6533767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/82855b22dfef2a6b1a3aaf711765cdec8cac7b80339f48559c01ae2ae4161601.jpg> ズムサタ終了 羽鳥アナらエール
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 09:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 09:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
