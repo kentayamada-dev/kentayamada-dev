@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c92f487cbc8c12ac5589bdf8ad42140d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9109f7b2e04a3894d5126d7e2d2d4320.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2c296d5ce00b3d19aa15920ac9be032eec7defba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00050148-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=376&ch=376&exp=10800&fmt=webp> バンコクのビル倒壊、がれきの下で１５人生存か…夫不明で泣きじゃくる女性「連絡取れない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00050148-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=376&ch=376&exp=10800&fmt=webp> バンコクのビル倒壊、がれきの下で１５人生存か…夫不明で泣きじゃくる女性「連絡取れない」
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533830>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/5112dad4a0786a77ff6231cedbabaf42364d876adce73cf1d2dc77053ba4395e.jpg> タイ倒壊ビルで妻行方不明 夫は涙
+      <a href=https://news.yahoo.co.jp/pickup/6533846>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/05670b9a78d01dce01984b4b28164fb613fa7644ec94e3c8f95c6d2a9d118893.jpg> 政府 ミャンマーに救援物資供与へ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 22:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 23:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
