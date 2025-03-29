@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a9b499bda80d741d6b3e4556bd2962b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b506e4b65fef7aa8f65a8e8c9bf6619d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cd6d1e5c0bde86f05a3809417fd1ffb8a53f595>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-03291304-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1043&ch=1043&exp=10800&fmt=webp> 「夜中に泣いたこともあった」ドジャース・ベッツが１１キロ減の体調不良から復活サヨナラ弾　大谷翔平ら出迎え
+      <a href=https://news.yahoo.co.jp/articles/592e5474c7b70f292593f50015b55ef40ccb5e81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】ミャンマー 民主派組織が軍との“2週間の戦闘一時停止”を発表 大地震受け「人道支援活動のため」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35dd368ace5ce2de99a884b11f7e5d28a4fb683d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00950364-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震 死者1600人超に　3408人が負傷
+      <a href=https://news.yahoo.co.jp/articles/9cd6d1e5c0bde86f05a3809417fd1ffb8a53f595>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-03291304-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1043&ch=1043&exp=10800&fmt=webp> 「夜中に泣いたこともあった」ドジャース・ベッツが１１キロ減の体調不良から復活サヨナラ弾　大谷翔平ら出迎え
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 04:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 05:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
