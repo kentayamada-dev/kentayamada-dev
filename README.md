@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6X4acHfBASI?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GV8fe3oLnZ0?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1f1d6be4e2cb5bac91ba253402716541.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/40a854ab9e480dda8840e7eabe890095.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e6d96b440cbe28dcea148fb48bbd07127789d33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00950187-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=785&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ビルがドミノのように…」ミャンマー地震で死者150人超に100人以上と連絡取れず　これまでに日本人の被害確認されず
+      <a href=https://news.yahoo.co.jp/articles/d6e0087178bb26d9698a790fdf20f84e1dc3e95e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-03291057-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1177&ch=1177&exp=10800&fmt=webp> 大谷翔平、昨季同僚右腕との初回第１打席はストレート四球　開幕から４試合連続出塁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6aeb5efc8f571b035ab64ea86026b82124cc409>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=600&ch=600&exp=10800&fmt=webp> スタメン発表 ドジャース山本由伸先発＆大谷翔平1番起用で無傷の4連勝なるか
+      <a href=https://news.yahoo.co.jp/articles/d1f236173e9dc47b1077d37e6a56438f82c71e9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-15957310-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ミャンマー中部地震、死者150人超に　ミャンマーと隣国タイで多数の死傷者
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aba8b0d6ee2c6bdfe44661fb21c03765f38f4b87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-03281273-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=864&ch=864&exp=10800&fmt=webp> 今田美桜、「生きていく上で大事にしていることは、自分を好きでいること」…３１日スタートの朝ドラ「あんぱん」でヒロイン演じる
+      <a href=https://news.yahoo.co.jp/articles/e6419915cf98b21ed7e0270679b4a7ad9ee0b4a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00010001-newswitch-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=518&ch=518&exp=10800&fmt=webp> 日本、利益吹き飛ぶ…米追加関税が自動車に迫る決断
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533771>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/3ba7ab0ab2769fb233d71fd2a74c566a950413b529d7558291df9136ba32b597.jpg> 職員が溺死 消防学校の過酷な訓練
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/13c12961704e11ea2b9e41748cab58397f0647a1b3d645d6278ee7e00fc7b7b3.jpg> 不具合 ホンダ車220万台を米調査
+      <a href=https://news.yahoo.co.jp/pickup/6533782>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/919003e670ced4ff51337d46198b691f439483a29537aadbf51f00309722d44e.jpg> トランプ氏車値上げをけん制 報道
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/7e911a11a74d705ee40164537f341179c6d4e0c62a8c7ad955a54c5324812442.jpg> DFアウベス氏 性的暴行巡り無罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533777>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/f3e454107c7b44c411a8752a9d14d819964803b8b02f76b252397e1ed0bb0bdd.jpg> 九州の「男尊女卑やゆ」識者見解
       </a>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533772>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/909cc7fcd213c18dc0d68c594f147378bfb63a687ae553f050913bfb214ce173.jpg> 清宮幸太郎のHRをAI予測「鳥肌」
+      <a href=https://news.yahoo.co.jp/pickup/6533780>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/3583ab10c76b59aab33ee576f25e5e49d4f20b36fec476f45a6fafcb498a1dee.jpg> 坂本花織 会心演技も4連覇届かず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533775>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/85941cba2d908081a731200fb0913dd17226555068912dedae24d50baf94ddc8.jpg> 今田美桜 北村匠海に「安心感」
+      <a href=https://news.yahoo.co.jp/pickup/6533779>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> タイで撮影中 向井康二ら無事報告
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 11:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 11:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
