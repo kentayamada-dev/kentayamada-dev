@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/778668b27c29a9353cf7b9c1fb4ab65e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1f1d6be4e2cb5bac91ba253402716541.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63e2fe7f3b21d4375fadbbafe6ea34701efde8b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000021-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=535&ch=535&exp=10800&fmt=webp> タイのビル倒壊現場、救助続く　100人不明　がれき多く作業難航
+      <a href=https://news.yahoo.co.jp/articles/8e6d96b440cbe28dcea148fb48bbd07127789d33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00950187-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=785&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ビルがドミノのように…」ミャンマー地震で死者150人超に100人以上と連絡取れず　これまでに日本人の被害確認されず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/366c71a5e998d3c50a8e1b10e4be5f87a5e57946>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00010001-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=925&ch=925&exp=10800&fmt=webp> 大谷翔平「1番DH」で3戦連発なるか　山本は控え捕手とのコンビで開幕2連勝狙う
+      <a href=https://news.yahoo.co.jp/articles/f6aeb5efc8f571b035ab64ea86026b82124cc409>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=600&ch=600&exp=10800&fmt=webp> スタメン発表 ドジャース山本由伸先発＆大谷翔平1番起用で無傷の4連勝なるか
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533760>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/399608075967222d51ab20eeee831677878c00949446e36babc1db56dda0f755.jpg> 旧統一 資産移譲先に傘下宗教法人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533752>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/74bb7ced26a7164e57a50a69fac7f11de160c0f1011d73e822596bf3727a0345.jpg> 母死亡の車事故 重体の3歳が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533762>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/d867f21533ca5d82dae37520a44c4b791e1179ceb210b6f17b11fe79b068db1c.jpg> 企業献金見直し 自民と公・国に溝
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533777>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/f3e454107c7b44c411a8752a9d14d819964803b8b02f76b252397e1ed0bb0bdd.jpg> 九州の「男尊女卑やゆ」識者見解
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533772>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/909cc7fcd213c18dc0d68c594f147378bfb63a687ae553f050913bfb214ce173.jpg> 清宮幸太郎のHRをAI予測「鳥肌」
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 10:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 11:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
