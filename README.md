@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/01315bbc5d6bd3945f2d57960d3a7719.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/822cf866ec674648726f3d7c53370b0b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f62281994b7cf27a97c61a7bd2a41e4e5b4f9d1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-09139699-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 霧島連山・新燃岳　噴火警戒レベル3に　気象庁が会見
+      <a href=https://news.yahoo.co.jp/articles/db4d793442f85e2f0e6976ccb9bf40c6c747b42a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー大地震の死者1600人超・負傷者3400人以上に、多数の建物が倒壊するなど甚大な被害 各地で救助活動続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a1cdf788db1f4bc5f4500d76453c7ac2e5998fc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-90027485-umk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】気象庁が新燃岳の噴火警戒レベルを３に引き上げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c4e6b79602f56349834b466098ab3ceaf0717257>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000124-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ヤンキースが先頭からの3連続含む、1試合9本塁打の球団新記録　ジャッジは3本で、試合も20対9で大勝
       </a>
     </td>
   </tr>
@@ -371,27 +387,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e24654888315d729e67ff7f60cc91916f4be8275>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000004-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ミャンマー地震救助に遅れ　市民多数がれきの下に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533855>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/903d405c5235d5d3608543757b1fbb501808d2e4be0da33224268b19e3e1b4e0.jpg> 新燃岳、噴火警戒レベル3に
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533850>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/98b55198ae9ca37202a7411eb57875e7ec808b9dacb4b7c735f89553edc7d2c3.jpg> 立憲 参院選の蓮舫氏擁立巡り波紋
+      <a href=https://news.yahoo.co.jp/pickup/6533855>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/903d405c5235d5d3608543757b1fbb501808d2e4be0da33224268b19e3e1b4e0.jpg> 新燃岳、噴火警戒レベル3に
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/93a2e8c4ee3992b73910a31d28fbb269813b589fd04e493f9d7435c14da61a3f.jpg> 坂本花織 涙ぼろぼろ流し取材対応
+      <a href=https://news.yahoo.co.jp/pickup/6533856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/570c26ba93f55693685812106d74428bbd740e2e3200454d90ef2fb72f65995d.jpg> ヤンキース 衝撃の「3球3HR」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533858>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/c8c049b19b82ca36dc4d62c36747b5fc2bda302791c22120e0867852025e0fa4.jpg> 圧巻 巨人キャベッジ開幕2戦HR
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 07:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 07:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
