@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/00b8a028ccc128269812af60c3efe660.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c92f487cbc8c12ac5589bdf8ad42140d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6c9f2a0fa3e99cb2cf1aa829fbb810756fcd92b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000059-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=853&ch=853&exp=10800&fmt=webp> ミャンマー地震で死者1007人　日本人2人けが　保育施設も倒壊
+      <a href=https://news.yahoo.co.jp/articles/2c296d5ce00b3d19aa15920ac9be032eec7defba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00050148-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=376&ch=376&exp=10800&fmt=webp> バンコクのビル倒壊、がれきの下で１５人生存か…夫不明で泣きじゃくる女性「連絡取れない」
       </a>
     </td>
   </tr>
@@ -380,14 +380,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533830>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/5112dad4a0786a77ff6231cedbabaf42364d876adce73cf1d2dc77053ba4395e.jpg> タイ倒壊ビルで妻行方不明 夫は涙
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533833>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/c5a2fcf8783d7ef424d246e70d6d4c9783aa6e6e710f8dc800b41383ebee57cb.jpg> 30日 西日本は冬のような寒さ
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533837>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/526a35e66190bf1f09d27d9a509fe33ec63fdf2cf4c9ab9a54ea92cff45b96f0.jpg> YA-MAN 3度ダウン衝撃TKO負け
+      <a href=https://news.yahoo.co.jp/pickup/6533808>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/c011a9514d9cecc40184ed02fa10732271d2af59df40c20640189a6748acbfb6.jpg> 倉庫の米尽きる フードバンクSOS
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533847>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/f13e0a77dab91be36b1230c7d994ce7be6a4e954041ffc3173913da5354eb79d.jpg> まるで「少年野球ガチャ」悩む親
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 22:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 22:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
