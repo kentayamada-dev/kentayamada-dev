@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/da009394ad9135d6fb4942854da5226c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/75d6eafa7afc7ab0b0b2cbbb0975a6c7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6a42a7871db1a5fc2f506d91210689297bee745>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-33290102-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=1147&ch=1147&exp=10800&fmt=webp> 大谷翔平「１番DH」で、３試合連続３号なるか　先発投手は開幕戦以来の登板となる山本由伸
+      <a href=https://news.yahoo.co.jp/articles/b9a26dc558ceee593a78191cc16392fea0680d25>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-33290182-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 鷲見玲奈「幸せでした！」3年間担当した「ズムサタ」最終回、番組ラストで感慨表情
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/520762cb10a8319d131dcd3917c43409e6baeeef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000009-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ミャンマー地震、軍事政権が異例の国際支援を要請　死者144人
+      <a href=https://news.yahoo.co.jp/articles/85c56656e543d27b568b755d1f652f23bfe71da6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-01727225-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は確信してないのに…即諦めた“敵軍”　絶望の5秒間が「恐ろしくて見れない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0d0a3d8f0424e7e449433d05318ded76b4683ace>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-10170967-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=670&ch=670&exp=10800&fmt=webp> ミャンマー地震 144人死亡 タイで8人死亡 約100人行方不明
       </a>
     </td>
   </tr>
@@ -378,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533748>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/8389477b5b8bc74b8d17cb4610d8b9285f48c937726a84398a5820e95fa7fc33.jpg> ミャンマー大地震 死者140人超
+      <a href=https://news.yahoo.co.jp/pickup/6533760>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/399608075967222d51ab20eeee831677878c00949446e36babc1db56dda0f755.jpg> 旧統一 資産移譲先に傘下宗教法人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533760>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/399608075967222d51ab20eeee831677878c00949446e36babc1db56dda0f755.jpg> 旧統一 資産移譲先に傘下宗教法人
+      <a href=https://news.yahoo.co.jp/pickup/6533761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/3f262bc08c3f56fc1d3f3ab7250645f2c57077dfb6aa8aa5282fdd722b22a25b.jpg> ミャンマー 地震で困窮に追い打ち
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/528069693b3447a6ec25d67506b445467664fcdc79879df3f67a27d0339cbec4.jpg> 大江アナ テレ東退社を涙で報告
+      <a href=https://news.yahoo.co.jp/pickup/6533763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/82855b22dfef2a6b1a3aaf711765cdec8cac7b80339f48559c01ae2ae4161601.jpg> ズムサタ最終回 羽鳥アナらエール
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 08:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 09:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
