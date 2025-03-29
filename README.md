@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4700cd7885f203e6dd9705a5b860e1dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5ea1645beac1fe4016ee26b7eefb283f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c9cab5e6b2edf563e0a1362c5ccd7d94ab30a5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-33300068-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ヤンキース新記録、９本塁打で大勝　先頭打者から３者連続初球ホームランは史上初の快挙
+      <a href=https://news.yahoo.co.jp/articles/7fbda5756fbecc37010bb92ce508b2eec51d3ec7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00050012-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=8&cw=484&ch=484&exp=10800&fmt=webp> 霧島連山の新燃岳、噴火警戒レベル３に引き上げ…１８年６月以来・気象庁が警戒呼びかけ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/544d7a188ec743aa6169e4c67dd60869f2726c96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 霧島連山・新燃岳　噴火警戒レベル3に引き上げ　火口から約4キロの範囲で大きな噴石など警戒呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/3c9cab5e6b2edf563e0a1362c5ccd7d94ab30a5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-33300068-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ヤンキース新記録、９本塁打で大勝　先頭打者から３者連続初球ホームランは史上初の快挙
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/db4d793442f85e2f0e6976ccb9bf40c6c747b42a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-07227458-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー大地震の死者1600人超・負傷者3400人以上に、多数の建物が倒壊するなど甚大な被害 各地で救助活動続く
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-07227458-jnn-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー大地震の死者1600人超・負傷者3400人以上に、多数の建物が倒壊するなど甚大な被害 各地で救助活動続く
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533847>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/f13e0a77dab91be36b1230c7d994ce7be6a4e954041ffc3173913da5354eb79d.jpg> まるで「少年野球ガチャ」悩む親
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533856>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/570c26ba93f55693685812106d74428bbd740e2e3200454d90ef2fb72f65995d.jpg> ヤンキース 衝撃の「3球3HR」
       </a>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533862>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/584582e41c53bdf03acd775f2c7fcf0dd6678905908cbdfb0b6adf3d86040186.jpg> 松嶋尚美 子育てと介護が重なる今
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 08:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 08:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
