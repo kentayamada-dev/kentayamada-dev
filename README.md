@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7251ba802623be45a536b31913bb19e6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/01315bbc5d6bd3945f2d57960d3a7719.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8ca718f61e647a163499d5a9d2f746dfbf39ae6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010003-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 世界女王の肩書を明け渡した坂本花織。「鳥肌が立った」とISUが賛辞した“美しい一枚”【フィギュア世界選手権】
+      <a href=https://news.yahoo.co.jp/articles/f62281994b7cf27a97c61a7bd2a41e4e5b4f9d1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-09139699-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 霧島連山・新燃岳　噴火警戒レベル3に　気象庁が会見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7799e22241508c3c077684f71b7579095a0d137>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00029209-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 週前半は全国的に寒の戻り　関東は31日～3日まで冷たい雨で冬の寒さも　2週間天気
       </a>
     </td>
   </tr>
@@ -378,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533853>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_33.png> 霧島山、噴火警戒レベル3に
+      <a href=https://news.yahoo.co.jp/pickup/6533855>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/903d405c5235d5d3608543757b1fbb501808d2e4be0da33224268b19e3e1b4e0.jpg> 新燃岳、噴火警戒レベル3に
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 06:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 07:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
