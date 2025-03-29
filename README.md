@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/609ffa6ac244cd155fd30482a0fac279.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3f091caa44fbd1779202e4d11239080d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47dc6bc8d020c06e6550a80529b41eb3ded116f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000058-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> 「両親と連絡取れない」　在日ミャンマー人、地震被害に不安募る
+      <a href=https://news.yahoo.co.jp/articles/d6c9f2a0fa3e99cb2cf1aa829fbb810756fcd92b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000059-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=853&ch=853&exp=10800&fmt=webp> ミャンマー地震で死者1007人　日本人2人けが　保育施設も倒壊
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cebce869cfbb2f1d1a55bcdb3b9d34ec9c9922b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00773687-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【RISE】「自分は出られるとは思ってます」衝撃TKO負けYA-MAN、5.4朝倉未来との再戦に意欲「ダメージはない」強調
+      <a href=https://news.yahoo.co.jp/articles/90d7b3aec2c7d048808c35ae037aeb3d6fe2a601>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-90028182-tssv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 福山市で労災死亡事故　屋根の補修作業中に屋根が破れて落下　岡山市の自営業・男性（52）死亡
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/6796b0ba7ac86912a57f611471fcac3b1941a698bc5b6a83b9a53f17850f0657.jpg> すき家一部除く全店4/4まで閉店へ
+      <a href=https://news.yahoo.co.jp/pickup/6533836>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/98b55198ae9ca37202a7411eb57875e7ec808b9dacb4b7c735f89553edc7d2c3.jpg> 立憲 参院選の蓮舫氏擁立巡り波紋
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533839>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/6512c861624a66ce20d0d903975bd7c70366acc5236677163b677fc26b9a862f.jpg> 数百棟が施工不備か 市が会社調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533834>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/93a2e8c4ee3992b73910a31d28fbb269813b589fd04e493f9d7435c14da61a3f.jpg> 坂本花織 涙ぼろぼろ流し取材対応
       </a>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533827>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/b010d04c1ac42706408b4cd91cae77cd64baa0a42cb4898a0cabff3a5a7b5049.jpg> フジ4h超の枠 自社の会見中継再び
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 21:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 21:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
