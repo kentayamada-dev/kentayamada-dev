@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9753c4a5a8e8b0cf1650040ecd5eb12.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dad2699ec0208d50a2e6e9053ad3831e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c357ff4d09124a927e3e979ee3a29cc30e485ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-04532695-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 上白石萌歌、撮影現場は「実家のような空気」間宮祥太朗「お姉ちゃんもいるってこと？」【イグナイト】
+      <a href=https://news.yahoo.co.jp/articles/df603b9987cd7df9c654462e845e217ce8096cef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-04532754-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 永野芽郁、最近のニュースは“ひとりでお花見”「悪いですかぁ！？」【キャスター】
       </a>
     </td>
   </tr>
@@ -373,8 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fcdb63154adf95c0bd6fa9719388c972caa82875>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-10171013-abemav-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=829&ch=829&exp=10800&fmt=webp> ミャンマー地震、死者1000人超に 2376人けが 30人が行方不明
+      <a href=https://news.yahoo.co.jp/articles/786faf62163aa1f4a0e832c09f6c85ae87b4b47f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000058-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=886&ch=886&exp=10800&fmt=webp> ミャンマー大地震の死者千人超える　国営メディア　日本人も2人負傷、さらに被害拡大も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8e209c79c5948d4c448b0cf219b14b0576549b97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000037-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 世耕氏、参考人招致は「会派と相談して判断」　自民裏金事件巡り
       </a>
     </td>
   </tr>
@@ -386,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/03739bbf91594ec58e90cbfcca88427709f65c7f6df53facef0fffa627333633.jpg> 地震 ミャンマーで死者1000人超
+      <a href=https://news.yahoo.co.jp/pickup/6533811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/3e243f16015623bf1bb99db95691746539cee00eb874836a98a879e990f1a23b.jpg> ミャンマー地震 日本人2人が負傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533797>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/ec5c89884d2cb10dbfb01e2f4e1b0da571f099b067a7cf4280761f95d5002212.jpg> 石破首相 硫黄島で慰霊式典に参列
+      <a href=https://news.yahoo.co.jp/pickup/6533803>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/03739bbf91594ec58e90cbfcca88427709f65c7f6df53facef0fffa627333633.jpg> 地震 ミャンマーで死者1000人超
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533802>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/c0c2d859b3651b71de79a745b2a9001fa0253a7959c6e3c5fe94a3e3552e3143.jpg> ME:IのCOCORO 活動休止を発表
+      <a href=https://news.yahoo.co.jp/pickup/6533805>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/625543ce8992d4b81e759884043e8f8a6d4b25db3e1f484cc847cb2a12812d3e.jpg> 一ノ瀬ワタル 会見中ズボン破れる
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 15:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 16:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
