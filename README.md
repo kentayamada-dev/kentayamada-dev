@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b6d9e3e5f22b2ede4bbe9efc5c1ca36.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9753c4a5a8e8b0cf1650040ecd5eb12.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08a49d231e6f3d9cf095963f168ee1815a6d14e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00003639-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 横浜左打線VS智弁和歌山・右腕の渡邉に注目！右腕を攻略してきた「秋の王者」の1回の攻撃がハイライト【25年センバツ決勝見どころ】
+      <a href=https://news.yahoo.co.jp/articles/4c357ff4d09124a927e3e979ee3a29cc30e485ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-04532695-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 上白石萌歌、撮影現場は「実家のような空気」間宮祥太朗「お姉ちゃんもいるってこと？」【イグナイト】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b46d51739de4c6818fdece9cb2662e246e82fca0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-02913355-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=161&cw=640&ch=640&exp=10800&fmt=webp> ME:I・COCORO　当面の間「活動を休止」　最年長メンバー　体調不良が続く
+      <a href=https://news.yahoo.co.jp/articles/08a49d231e6f3d9cf095963f168ee1815a6d14e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00003639-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 横浜左打線VS智弁和歌山・右腕の渡邉に注目！右腕を攻略してきた「秋の王者」の1回の攻撃がハイライト【25年センバツ決勝見どころ】
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533766>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/d15d5e98c1f8e0b3c574b68a896eb369b584c082df76ef52ed078e718da0b9ba.jpg> 米副大統領 グリーンランド初訪問
+      <a href=https://news.yahoo.co.jp/pickup/6533799>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/1f3f07b14c0e2723ea9181be3b524f01aa3fa5b2aa8aaf910b3d4f2b46ade117.jpg> ディズニーのDEI施策 米当局調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533796>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/3725144b80e5ffb58cd2c4e6ee4cdbf81f001aa3e025750d4678efcaf8a36b83.jpg> AIが記事作成 人間の役割は
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533789>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/64cb4e531aaae8123faf4f683ddb7ee0fb357b570343c24c433a2fe753132e88.jpg> ソニー撤退 ブルーレイ先行き不安
+      <a href=https://news.yahoo.co.jp/pickup/6533801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/108a5c8a904a684de3c84bfa1de352b81d9a8762fbf8f70bbcc45faa571291f0.jpg> ド軍ベッツ大暴れ 1号&2号決勝弾
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/108a5c8a904a684de3c84bfa1de352b81d9a8762fbf8f70bbcc45faa571291f0.jpg> ド軍ベッツ大暴れ 1号&2号決勝弾
+      <a href=https://news.yahoo.co.jp/pickup/6533807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/03358580cee27b0b5895e9cd3ed201db2d4e9a704a5be7598f7d45417c1be289.jpg> 声優・岩田光央&愛河里花子が離婚
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533794>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/a7a8c145d15fd5110f6a599fd6886aa85bac31b7302c4d5b5101d6c23b0c1db3.jpg> 元俳優 五十嵐隼士さん結婚明かす
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 15:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 15:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
