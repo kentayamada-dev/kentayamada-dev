@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eaea35066d78aab3101b6fc455711120.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/304474a8542af30390998f6bdeba99b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c296d5ce00b3d19aa15920ac9be032eec7defba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00050148-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=376&ch=376&exp=10800&fmt=webp> バンコクのビル倒壊、がれきの下で１５人生存か…夫不明で泣きじゃくる女性「連絡取れない」
+      <a href=https://news.yahoo.co.jp/articles/ad1e40ea43f3def0001d680f00bcc964b0fbdf08>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000057-ann-000-5-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者1000人超に　タイのビル倒壊現場は9人死亡
       </a>
     </td>
   </tr>
@@ -386,14 +386,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533846>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/05670b9a78d01dce01984b4b28164fb613fa7644ec94e3c8f95c6d2a9d118893.jpg> 政府 ミャンマーに救援物資供与へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533836>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/98b55198ae9ca37202a7411eb57875e7ec808b9dacb4b7c735f89553edc7d2c3.jpg> 立憲 参院選の蓮舫氏擁立巡り波紋
       </a>
@@ -410,8 +402,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/549a19a4f21f6fe4f0e983b872aa382b41cddd0cdc97f1eaf7ae2011b065d367.jpg> 全国で山火事頻発 春先は特に警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533844>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/eae1de0ec8473153bc5a10e8452d26a73d42648c03348604ca89bceda035ca0f.jpg> すき家 ゴキブリの一部混入が発覚
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/4908173296c846b40d48b95d91fb56ea779cbd0ae1964ff3e5ef6306091a3d4f.jpg> 線路を行き来「勝手踏切」の実態
       </a>
     </td>
   </tr>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/39081b70820488305293f0afb5c85e5eb77b64efe4a2c088ad4970cc9cd70078.jpg> 志村けんさん没後5年 惜しむ声
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 23:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 23:52:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
