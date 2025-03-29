@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/13eeb0823396f0a520c8597469d67c33.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/505c9cadcc2ec51b3bac2d617ef7f68d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/242e9a0e7bf89b48196658ec59770d51f1187e22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000052-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 住宅1軒が全焼 焼け跡から3人の遺体　秋田・にかほ市
+      <a href=https://news.yahoo.co.jp/articles/b5df30676fffdd18922e0d936820a66562845c81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000049-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 震源から1000キロ離れたビルが倒壊　「長周期地震動」の影響か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5df30676fffdd18922e0d936820a66562845c81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000049-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 震源から1000キロ離れたビルが倒壊　「長周期地震動」の影響か
+      <a href=https://news.yahoo.co.jp/articles/125a7f7ddc66cfc4bad5295040d16d515977276a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00029206-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=577&ch=577&exp=10800&fmt=webp> 来週前半まで全国的に寒の戻り　30日は西日本で冬の寒さ　1日は関東で真冬の寒さ
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/8c08cf7673817fa64fcbf2d6849289b62ba1d6bb8517a350e7c6b6c7cc6afce4.jpg> ミャンマー地震に支援表明相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6533833>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/c5a2fcf8783d7ef424d246e70d6d4c9783aa6e6e710f8dc800b41383ebee57cb.jpg> 30日 西日本は冬のような寒さ
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/a65b2867226c0ec341ec3b4e36a396374025681cadd510a7c3930486e30318eb.jpg> 町長を再逮捕 別工事でも談合疑い
+      <a href=https://news.yahoo.co.jp/pickup/6533831>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/931d233639b23d7d61ba14c579e372957918515c143ed8bc0c1bcf6db7c50304.jpg> 住宅全焼し3遺体見つかる 親子か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533832>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/ca46ac46140be5c738494a2bde5461e970e8a6487dd8f1d6dbe3c3241519d549.jpg> トレイルラン中に滑落か 男性死亡
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533821>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/228776a2a33665a7b8ff178b9fe49cab53730965c967beb6ed7a69af378b2b27.jpg> 「令和の百姓一揆」苦しむ農家ら
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533820>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/a1556f7920cca61bc4a30676745c7c2c93d4ada9f497c13de100965204a783e9.jpg> 桜「高齢化」倒木懸念で祭り中止
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 19:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 20:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
