@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/79cbf6259a876b066a61e2a0957a405e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b552bf354e04ff3e99b0ee7336b2d804.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e4f6641e38c70201e77c3fc44911bfa5680be17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-09271514-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマーM7.7地震「144人以上死亡」と軍事政権が発表　タイ・バンコクでビル倒壊…101人の捜索続く
+      <a href=https://news.yahoo.co.jp/articles/6e59542de5067a1df98f95ca1fed034ed43e2e9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000027-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=503&ch=503&exp=10800&fmt=webp> 参考人招致議決の自民・世耕氏「事前に打診ない」も「重く受け止め」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2083ee0dd1b1b908e697170851aa8468284cc7e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000029-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=915&ch=915&exp=10800&fmt=webp> 大谷翔平、第1打席は四球、開幕4戦連続出塁、昨季は同僚、WS制覇貢献の右腕・フラーティと対戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d51e2d88f99140c6bccbdb8a24ee86d0a351f14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-90021552-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ミャンマー大地震 死者140人超　タイで高層ビル倒壊、117人行方不明
+      <a href=https://news.yahoo.co.jp/articles/e8038575bb7e4c1abde9f787c3c6e3b3dc113c04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00050058-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=409&ch=409&exp=10800&fmt=webp> ミャンマー地震、大学で火災…バンコクでは「妻がまだ中に」「どうか早く助けて」家族ら無事祈る
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533762>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/d867f21533ca5d82dae37520a44c4b791e1179ceb210b6f17b11fe79b068db1c.jpg> 企業献金見直し 自民と公・国に溝
+      <a href=https://news.yahoo.co.jp/pickup/6533786>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/00ebe5e61e1e78e8dda11fb7450468effca59b49908a5e88ba4734dd28a3b255.jpg> 世耕氏 自身の参考人招致に言及
       </a>
     </td>
   </tr>
@@ -404,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533782>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/919003e670ced4ff51337d46198b691f439483a29537aadbf51f00309722d44e.jpg> トランプ氏車値上げをけん制 報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/79288d33f617ef3c67625a4b1424b82510cd72414473ad4194c4c83e182988f4.jpg> マスク氏のAI企業がX社を買収
       </a>
     </td>
   </tr>
@@ -428,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533777>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/f3e454107c7b44c411a8752a9d14d819964803b8b02f76b252397e1ed0bb0bdd.jpg> 九州の「男尊女卑やゆ」識者見解
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533789>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/64cb4e531aaae8123faf4f683ddb7ee0fb357b570343c24c433a2fe753132e88.jpg> ソニー撤退 ブルーレイ先行き不安
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 12:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 12:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
