@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9f35dffb93cce7d70fd1e5de32fc0eaa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b333a8c35d2d8efd1c3840f45fc98183.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/401cb9e75ac45c68827eaa2d294cb780d6e259c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00950227-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ミャンマー大地震】被害さらに拡大見通し…がれき多くタイ・バンコクのビル倒壊現場の救助活動難航　これまでに日本人被害確認されず
+      <a href=https://news.yahoo.co.jp/articles/908ce245015371f6a237792f35345900c3a61dad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00339143-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が延長１０回に右前打放ち４打数１安打１得点　ベッツの３ランで劇的サヨナラ勝ち
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2d0a3d5f2cc361f752cb9ddd98d102f0d6332b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000037-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1069&ch=1069&exp=10800&fmt=webp> 石破首相、硫黄島訪問　「戦没者の尊い犠牲の上に平和享受」　日米合同慰霊式
+      <a href=https://news.yahoo.co.jp/articles/fcdb63154adf95c0bd6fa9719388c972caa82875>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー地震、死者1000人超に 2376人けが 30人が行方不明
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/ddcba06934e5ac03ae1a2f5142e89f1554054bdee509d07373c9dbe54999f9f8.jpg> 飲酒事故で3児亡くす 母親の19年
+      <a href=https://news.yahoo.co.jp/pickup/6533800>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 小3のテスト未返却 成績再評価へ
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533787>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/623ba05dca1be494a7e29c7fbd2e714c0ec9139e220d92d07b1558899f5675b9.jpg> 前日死球 田口がキャベッジに謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6533801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/108a5c8a904a684de3c84bfa1de352b81d9a8762fbf8f70bbcc45faa571291f0.jpg> ド軍ベッツ大暴れ 1号&2号決勝弾
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 14:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 14:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
