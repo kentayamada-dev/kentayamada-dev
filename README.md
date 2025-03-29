@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a4d659babf4a1f905baf140eef96841e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9f35dffb93cce7d70fd1e5de32fc0eaa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c11524f7c0a95b75dfcc5090479df4f5006cb01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-10170998-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=827&ch=827&exp=10800&fmt=webp> ミャンマー大地震 死者144人に 建設中のビル倒壊で捜索続く
+      <a href=https://news.yahoo.co.jp/articles/401cb9e75ac45c68827eaa2d294cb780d6e259c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00950227-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ミャンマー大地震】被害さらに拡大見通し…がれき多くタイ・バンコクのビル倒壊現場の救助活動難航　これまでに日本人被害確認されず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e59542de5067a1df98f95ca1fed034ed43e2e9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000027-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=503&ch=503&exp=10800&fmt=webp> 参考人招致議決の自民・世耕氏「事前に打診ない」も「重く受け止め」
+      <a href=https://news.yahoo.co.jp/articles/b2d0a3d5f2cc361f752cb9ddd98d102f0d6332b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000037-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1069&ch=1069&exp=10800&fmt=webp> 石破首相、硫黄島訪問　「戦没者の尊い犠牲の上に平和享受」　日米合同慰霊式
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533786>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/00ebe5e61e1e78e8dda11fb7450468effca59b49908a5e88ba4734dd28a3b255.jpg> 世耕氏 自身の参考人招致に言及
+      <a href=https://news.yahoo.co.jp/pickup/6533797>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/ec5c89884d2cb10dbfb01e2f4e1b0da571f099b067a7cf4280761f95d5002212.jpg> 石破首相 硫黄島で慰霊式典に参列
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533782>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/919003e670ced4ff51337d46198b691f439483a29537aadbf51f00309722d44e.jpg> トランプ氏車値上げをけん制 報道
+      <a href=https://news.yahoo.co.jp/pickup/6533766>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/d15d5e98c1f8e0b3c574b68a896eb369b584c082df76ef52ed078e718da0b9ba.jpg> 米副大統領 グリーンランド初訪問
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 13:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 14:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
