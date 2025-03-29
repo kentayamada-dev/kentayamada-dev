@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b506e4b65fef7aa8f65a8e8c9bf6619d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bb810a5b920d419bd14eb5ee7fca16bd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/592e5474c7b70f292593f50015b55ef40ccb5e81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】ミャンマー 民主派組織が軍との“2週間の戦闘一時停止”を発表 大地震受け「人道支援活動のため」
+      <a href=https://news.yahoo.co.jp/articles/e24654888315d729e67ff7f60cc91916f4be8275>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000004-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ミャンマー地震救助に遅れ　市民多数がれきの下に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cd6d1e5c0bde86f05a3809417fd1ffb8a53f595>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-03291304-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1043&ch=1043&exp=10800&fmt=webp> 「夜中に泣いたこともあった」ドジャース・ベッツが１１キロ減の体調不良から復活サヨナラ弾　大谷翔平ら出迎え
+      <a href=https://news.yahoo.co.jp/articles/4a31f7c0b9e9c979a5094721d5b9157f2384c38f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000003-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 坂本花織　４連覇ならず涙「今までで一番悔しかった」　ＳＰ５位もレベル４連発で挽回２位「この悔しさはきっと必要な経験」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 05:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 05:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
