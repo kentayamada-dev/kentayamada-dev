@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/038a0c1d6bf930dc81e3eba923e96114.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3f7060f581ae4e1b06917f08a3d80290.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fe3931a1c91a60a307e7d9de4b04f0a7e9eace8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00519900-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷2号で映った超大物俳優の直筆スコアカード判明　「ガチ勢だ」「野球愛が凄い」日本人驚き
+      <a href=https://news.yahoo.co.jp/articles/7286362d1bb11df5f9165f8825a043fc32bbf651>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000017-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=977&ch=977&exp=10800&fmt=webp> 大谷翔平、昨季「世界一」同僚フラハティと対戦…山本由伸先発試合で３戦連続弾出るか
       </a>
     </td>
   </tr>
@@ -366,15 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6ef0c575e1ba1f31c2260bcfacb587adea90a1af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000001-cnippou-000-1-view.jpg?pri=l&w=183&h=183&order=c2r&cx=46&cy=0&cw=183&ch=183&exp=10800&fmt=webp> 東南アジアを襲った地震の恐怖、ミャンマーでＭ７．７の地震…軍政トップ「少なくとも１４４人死亡」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000001-cnippou-000-2-view.jpg?pri=l&w=183&h=183&order=c2r&cx=46&cy=0&cw=183&ch=183&exp=10800&fmt=webp> 東南アジアを襲った地震の恐怖、ミャンマーでＭ７．７の地震…軍政トップ「少なくとも１４４人死亡」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/beb72d3b09360ea394104bdaa717cdb63df0435b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000014-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=507&ch=507&exp=10800&fmt=webp> バンス米副大統領がグリーンランド訪問　防衛への「投資」示唆
+      <a href=https://news.yahoo.co.jp/articles/66db199b30167c30a2dd96211086121f6f5a22cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00950167-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 事故の遺族らが要望書提出　危険運転致死傷罪見直しに向け
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/13c12961704e11ea2b9e41748cab58397f0647a1b3d645d6278ee7e00fc7b7b3.jpg> 不具合 ホンダ車220万台を米調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533752>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/74bb7ced26a7164e57a50a69fac7f11de160c0f1011d73e822596bf3727a0345.jpg> 母死亡の車事故 重体の3歳が死亡
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/a15cf1f9b34653209ad15c6fbb0d5ab3d0747066f1dc405a5df33bfd9c5a7dee.jpg> いじめ対策で教室録画 市教委検討
+      <a href=https://news.yahoo.co.jp/pickup/6533771>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/3ba7ab0ab2769fb233d71fd2a74c566a950413b529d7558291df9136ba32b597.jpg> 職員が溺死 消防学校の過酷な訓練
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533755>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/cccffcefd6aab11b80b08e21a5f3e9fce11b5296b62039801314b4d3adcac756.jpg> 元競泳代表 今井月氏がTBS入社へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533767>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/82855b22dfef2a6b1a3aaf711765cdec8cac7b80339f48559c01ae2ae4161601.jpg> ズムサタ終了 羽鳥アナらエール
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 09:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 10:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
