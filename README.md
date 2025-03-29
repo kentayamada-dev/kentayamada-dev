@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b552bf354e04ff3e99b0ee7336b2d804.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa8d5c677f3988d46cefa936f056ff48.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533777>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/f3e454107c7b44c411a8752a9d14d819964803b8b02f76b252397e1ed0bb0bdd.jpg> 九州の「男尊女卑やゆ」識者見解
+      <a href=https://news.yahoo.co.jp/pickup/6533789>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/64cb4e531aaae8123faf4f683ddb7ee0fb357b570343c24c433a2fe753132e88.jpg> ソニー撤退 ブルーレイ先行き不安
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533789>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/64cb4e531aaae8123faf4f683ddb7ee0fb357b570343c24c433a2fe753132e88.jpg> ソニー撤退 ブルーレイ先行き不安
+      <a href=https://news.yahoo.co.jp/pickup/6533787>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/623ba05dca1be494a7e29c7fbd2e714c0ec9139e220d92d07b1558899f5675b9.jpg> 前日死球 田口がキャベッジに謝罪
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 12:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 13:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
