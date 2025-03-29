@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ffcfca43bd3284855fa50149481a888.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e2457a92bb8b14830789a1723f64558.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d88d5bdcd2630c363cbce3c9de7fef14b3aa9b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00094368-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=348&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「まだ十分強いと知らしめた」サヨナラ弾放ったベッツの“完全復活”に米メディア驚き「ムーキーは９キロ痩せたって言われたけど関係なかったね！」
+      <a href=https://news.yahoo.co.jp/articles/be3fcfe44ae67d30d01ca92e31b4fbf878fb863d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000042-ann-000-3-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者1007人に　震源近くのマンダレーで日本人2人けが
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/786faf62163aa1f4a0e832c09f6c85ae87b4b47f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000058-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=886&ch=886&exp=10800&fmt=webp> ミャンマー大地震の死者千人超える　国営メディア　日本人も2人負傷、さらに被害拡大も
+      <a href=https://news.yahoo.co.jp/articles/f6e12a2704966b74b1cf7272bc302ab9d7db213f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000001-senbatsuf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 接戦に強い横浜優位か　智弁和歌山も主軸好調　センバツ決勝見どころ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d88d5bdcd2630c363cbce3c9de7fef14b3aa9b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00094368-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=348&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「まだ十分強いと知らしめた」サヨナラ弾放ったベッツの“完全復活”に米メディア驚き「ムーキーは９キロ痩せたって言われたけど関係なかったね！」
       </a>
     </td>
   </tr>
@@ -379,15 +387,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/3e243f16015623bf1bb99db95691746539cee00eb874836a98a879e990f1a23b.jpg> ミャンマー地震 日本人2人が負傷
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/7c7da4776b5d946b5eb573cd6c9cb8d8902afc9c3bdd0f7ef2b02d066cb15d36.jpg> ミャンマー地震 日本人2人が負傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/6cb84285991289f1387ab6b0e5d05b68b62b78c06c41f4b935a1a12ac98e0ac8.jpg> ミャンマー地震 断層ずれ動いたか
+      <a href=https://news.yahoo.co.jp/pickup/6533816>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/cbe6387e1fd6ceb753c7493fd0f6400f889c1c78ef1897347297d6930558b9d8.jpg> 岸田氏 危機感示し石破政権に要望
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533818>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博の空飛ぶ車デモ飛行 3陣営に
       </a>
     </td>
   </tr>
@@ -402,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533810>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/50212bce9109fbd0f8dc0abb7a68560c00547c9ef58194b2a79bb94ac158f969.jpg> クレカのサイン決済 原則廃止の訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533814>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/da7fbb744ff88503826e10a7552b77dbaaa80a08b9a5acc87aef5036f571a7e9.jpg> 結合双生児を宿した母 つないだ命
       </a>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533806>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/f03264af3c8de1af047425f3e2caeefa638a5002a5f7c5b0f47841c075ae2e5f.jpg> 大谷に優勝リング贈呈 満面の笑み
+      <a href=https://news.yahoo.co.jp/pickup/6533817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/8926c0b3ff87c450f527f89de9c6eab1eeafc98be56f7d2fcc8170c732f67b72.jpg> 夜中泣いたことも ベッツ復活2HR
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 17:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 17:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
