@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/304474a8542af30390998f6bdeba99b0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/192dbec3ed6ff6057f49882dc56bb25b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6c7fc224a6a44925080fc27a2002cbb412a5a44a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010000-piaeigat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 吉沢亮主演『ババンババンバンバンパイア』新たな公開日が決定　板垣李光人と肩を寄せあう場面写真も公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ad1e40ea43f3def0001d680f00bcc964b0fbdf08>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000057-ann-000-5-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者1000人超に　タイのビル倒壊現場は9人死亡
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1321f179e79c6980682ca81c9520ce51407a4c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000116-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=1344&ch=1344&exp=10800&fmt=webp> すき家、害虫混入で全店一時閉店　4月4日まで、衛生対策で
+      <a href=https://news.yahoo.co.jp/articles/6b0625e053e66492a85413fb456cbcecce1c09c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-33292396-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=9&cw=277&ch=277&exp=10800&fmt=webp> 【RISE】YA－MANは計３度ダウンし壮絶KO負けも「ダメージない。５月４日は出られる」
       </a>
     </td>
   </tr>
@@ -379,7 +387,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/a971a42f4bb92409498c3a16fdab75269bdc35c2178a4c6cf5c3931432a337fd.jpg> ミャンマー 地震の死者1600人超
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/22d85d05d5118c05b944d85524444ac8c9ee1c0c67db755b8961109fcf4cb27b.jpg> ミャンマー 地震の死者1600人超
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/10d8ed8382a0c9c42b8502e6a3d729a929f4ab443335c6fd767d50f8a4c50456.jpg> ミャンマー地震 被害拡大した背景
       </a>
     </td>
   </tr>
@@ -394,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533842>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 工場の屋根破れ落下 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/331d1d03a513aa523b5ddf28565ad1d10a458b55951fe33dc8cc6a0d769cc806.jpg> 機密協議の会合に妻を同伴 米長官
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533822>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/549a19a4f21f6fe4f0e983b872aa382b41cddd0cdc97f1eaf7ae2011b065d367.jpg> 全国で山火事頻発 春先は特に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6533832>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/ca46ac46140be5c738494a2bde5461e970e8a6487dd8f1d6dbe3c3241519d549.jpg> トレイルラン中に滑落か 男性死亡
       </a>
     </td>
   </tr>
@@ -418,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533841>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/4908173296c846b40d48b95d91fb56ea779cbd0ae1964ff3e5ef6306091a3d4f.jpg> 線路を行き来「勝手踏切」の実態
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533847>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/f13e0a77dab91be36b1230c7d994ce7be6a4e954041ffc3173913da5354eb79d.jpg> まるで「少年野球ガチャ」悩む親
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/93a2e8c4ee3992b73910a31d28fbb269813b589fd04e493f9d7435c14da61a3f.jpg> 坂本花織 涙ぼろぼろ流し取材対応
+      <a href=https://news.yahoo.co.jp/pickup/6533852>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/4228011a13ed4223af472b775d989a44ccd1ad1970d79955c7eb09896bf7f056.jpg> 延期の吉沢亮主演映画 4月に公開
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 23:52:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 00:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
