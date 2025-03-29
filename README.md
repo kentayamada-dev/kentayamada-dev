@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/505c9cadcc2ec51b3bac2d617ef7f68d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aefb146c1c23635c0218290071575884.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5df30676fffdd18922e0d936820a66562845c81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000049-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 震源から1000キロ離れたビルが倒壊　「長周期地震動」の影響か
+      <a href=https://news.yahoo.co.jp/articles/b67005874b5add19483e4c95a77e384d4a5ef2fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00050132-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=377&ch=377&exp=10800&fmt=webp> ミャンマー地震、エネルギーは能登地震の２倍か…２０世紀以降にＭ７超級を繰り返す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/125a7f7ddc66cfc4bad5295040d16d515977276a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00029206-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=577&ch=577&exp=10800&fmt=webp> 来週前半まで全国的に寒の戻り　30日は西日本で冬の寒さ　1日は関東で真冬の寒さ
+      <a href=https://news.yahoo.co.jp/articles/72275ff5118a626bac489d5e0e4d195ad11adc0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-10171072-abema-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=724&ch=724&exp=10800&fmt=webp> YA-MAN、タオル投入の衝撃TKO負け 剛腕ミゲールに3度のダウン喫する
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533827>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/b010d04c1ac42706408b4cd91cae77cd64baa0a42cb4898a0cabff3a5a7b5049.jpg> フジ4h超の枠 自社の会見中継再び
+      <a href=https://news.yahoo.co.jp/pickup/6533834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/93a2e8c4ee3992b73910a31d28fbb269813b589fd04e493f9d7435c14da61a3f.jpg> 坂本花織 涙ぼろぼろ流し取材対応
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533790>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/50a08879ffa3d629a8a84a7c1fd4fbbff74e2acba3bcd7ae678ddf518f04c2c6.jpg> 原田龍二 不倫騒動と家族関係語る
+      <a href=https://news.yahoo.co.jp/pickup/6533827>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/b010d04c1ac42706408b4cd91cae77cd64baa0a42cb4898a0cabff3a5a7b5049.jpg> フジ4h超の枠 自社の会見中継再び
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 20:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 20:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
