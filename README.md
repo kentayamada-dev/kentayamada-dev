@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GV8fe3oLnZ0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e8faeee23d994d68ca19bd854984c1f0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f115dddef4972e899c2d0bbfab9469e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35dd368ace5ce2de99a884b11f7e5d28a4fb683d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00950364-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震 死者1600人超に　3408人が負傷
+      <a href=https://news.yahoo.co.jp/articles/2c4890cc2c6c508540f5a47f33d8bd1edd1b8e14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010003-theadline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=800&ch=800&exp=10800&fmt=webp> YA-MANがトリンダーデに3つのダウンを奪われOFGマッチで初黒星。5・4朝倉未来戦は事実上消滅【RISE】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b0625e053e66492a85413fb456cbcecce1c09c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-33292396-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=9&cw=277&ch=277&exp=10800&fmt=webp> 【RISE】YA－MANは計３度ダウンし壮絶KO負けも「ダメージない。５月４日は出られる」
+      <a href=https://news.yahoo.co.jp/articles/35dd368ace5ce2de99a884b11f7e5d28a4fb683d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00950364-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震 死者1600人超に　3408人が負傷
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 01:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 02:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
