@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa8d5c677f3988d46cefa936f056ff48.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a4d659babf4a1f905baf140eef96841e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e59542de5067a1df98f95ca1fed034ed43e2e9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000027-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=503&ch=503&exp=10800&fmt=webp> 参考人招致議決の自民・世耕氏「事前に打診ない」も「重く受け止め」
+      <a href=https://news.yahoo.co.jp/articles/0c11524f7c0a95b75dfcc5090479df4f5006cb01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-10170998-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=827&ch=827&exp=10800&fmt=webp> ミャンマー大地震 死者144人に 建設中のビル倒壊で捜索続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8038575bb7e4c1abde9f787c3c6e3b3dc113c04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00050058-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=409&ch=409&exp=10800&fmt=webp> ミャンマー地震、大学で火災…バンコクでは「妻がまだ中に」「どうか早く助けて」家族ら無事祈る
+      <a href=https://news.yahoo.co.jp/articles/6e59542de5067a1df98f95ca1fed034ed43e2e9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250329-00000027-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=503&ch=503&exp=10800&fmt=webp> 参考人招致議決の自民・世耕氏「事前に打診ない」も「重く受け止め」
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533785>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/af926ffd17e9abbc8ff7e212a30f7442df7256a0403b0e9173eab25f2ad77473.jpg> 地震ミャンマーとタイ150人超死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/11c4872cf9d1b5d043516f2cb051e55a161ebe93c90f547bfc47cb3f445622d9.jpg> 地震 ミャンマーで死者690人超
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533776>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/9b0022f5721575b0c354ec7acfce1b1815055c9893f35e1707a7eb5f648f232f.jpg> 学校の清掃委託 抵抗持つ教職員も
+      <a href=https://news.yahoo.co.jp/pickup/6533773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/ddcba06934e5ac03ae1a2f5142e89f1554054bdee509d07373c9dbe54999f9f8.jpg> 飲酒事故で3児亡くす 母親の19年
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533780>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/3583ab10c76b59aab33ee576f25e5e49d4f20b36fec476f45a6fafcb498a1dee.jpg> 坂本花織 会心演技も4連覇届かず
+      <a href=https://news.yahoo.co.jp/pickup/6533779>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> タイで撮影中 向井康二ら無事報告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533779>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> タイで撮影中 向井康二ら無事報告
+      <a href=https://news.yahoo.co.jp/pickup/6533794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/a7a8c145d15fd5110f6a599fd6886aa85bac31b7302c4d5b5101d6c23b0c1db3.jpg> 元俳優 五十嵐隼士さん結婚明かす
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/29 13:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/29 13:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
