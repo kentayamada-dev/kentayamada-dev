@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GV8fe3oLnZ0?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ed5b212a1a6978997fc97972350afb1d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b2a828b739acb80169e966e3045573cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48127bb0a55c6d9f07c3873ab1c6ae9ae365be7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-01160151-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=743&ch=743&exp=10800&fmt=webp> 【センバツ決勝】横浜が１９年ぶり４度目の優勝　智弁和歌山に１１－４で勝利
+      <a href=https://news.yahoo.co.jp/articles/8bb5396229b905ac48c7730d9c64f78d45d2c6da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000120-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1679&ch=1679&exp=10800&fmt=webp> １球リリーフの横浜・片山を村田監督が称賛「よく流れを持ってきてきてくれて、よく踏ん張ってくれて。あれが大きな勝敗を分けたかな」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/857888b03fbefce5d9944cb65c60f01760517fde>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-07227481-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=447&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米 ヘグセス国防長官「中国共産党に対し日米は固く結束する」 在日米軍再編開始を発表
+      <a href=https://news.yahoo.co.jp/articles/c095dec555a708558321512c434ca02ef7f189e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00520382-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 女子ゴルフ史上最大差の逆転劇が…29位→2位で超猛追・小祝さくらが潔く勝者称賛「仕方ない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aaeb4d52945516c8ed035b5f20bd6baa2ff67b38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-10171137-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=984&ch=984&exp=10800&fmt=webp> ミャンマー大地震 死者1600人超 ロシアや中国など各国から支援
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fcc3da7338f92bab3e0f8439c374461684d6cee5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-08441434-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「わんちゃんもファンのようです」大谷翔平が球場の警備犬と握手　32日ぶりのブルペン前に“ほっこり1シーン”
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e56eedc0d8da0a76d478a32c4646b2a9f587e1b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000029-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=140&cw=1060&ch=1060&exp=10800&fmt=webp> ドジャース・大谷翔平の第4打席は前田健太と対戦　四球で出塁＆今季初盗塁決める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fd22a71c16b25486b2eb8a42c3824468a0e6bce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000021-ann-000-8-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者1600人超　各国から支援　救助活動続く
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/b2f09cb6f4b5fccf4b3be0ee982b6c3a70e10700d6c2821513fab190ad15fe2d.jpg> 横浜が選抜優勝 19年ぶり4度目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533892>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/5e210e3804c1dbd1ab46e22c30d7a6eeceb8fea2a79ad4101061af333afd10f1.jpg> ミャンマー地震 路上で避難生活
+      <a href=https://news.yahoo.co.jp/pickup/6533905>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/8942b1bc669da7242ace52464d2c652280be73cb67c9468e508ec724bd311554.jpg> ミャンマー地震 空港の管制塔倒壊
       </a>
     </td>
   </tr>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533910>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 民間機が墜落 搭乗の4人意識あり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533898>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/c06a8d2bd880c53aadf32100a328d1083b36d7e053e4a4e4b52d6dfc424a41c9.jpg> 浜松4人死傷事故 小4姉の意識回復
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533912>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/3cb283179133b240632c95aeec38739943b273bc06726f5215ecf1d585dedbcd.jpg> 奈良市議 採決で隣席のボタン押す
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533890>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/23d7ff44b319e13fda6b03fca7563c68696aac8419ad99d319605fc13f97b71c.jpg> 群馬が躍進 移住希望地1位の理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/55757a81bf65241aff28b144b51bb73a5653f2e481477c348eb30a8e9c031502.jpg> 突然がん告知 三上洋さんの気付き
+      <a href=https://news.yahoo.co.jp/pickup/6533909>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/ce187d8059dad27c3a67c691077bcd0e796806357d9719790038e3dfba4d95ff.jpg> 横浜が選抜優勝 19年ぶり4度目
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 15:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 15:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
