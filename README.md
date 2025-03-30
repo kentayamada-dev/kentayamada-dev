@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1bee3bbd353c56bb5912c781bd98efc6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e75fb67fa4f9abacb9e43bc9893e1934.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b97dfda36d0e582ce5bb39ab10d0493590c2c765>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000019-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=634&ch=634&exp=10800&fmt=webp> ドジャース・朗希　本拠地初登板も制球難で2回途中降板「自分の中で信じ切れるものがなかった」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2d48516072f4a2e7c920dd68f53aa9d875ed3ed6>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1a4fd514e2637f0c3c397a1cd9cd666fc1c09870>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-03301284-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 横浜高野球部ＯＢの上地雄輔「ただ『頑張れー』と思ってただけ」後輩のセンバツＶを祝福「俺も誰かの背中を押せるよう」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-03301284-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 横浜高野球部ＯＢの上地雄輔「ただ『頑張れー』と思ってただけ」後輩のセンバツＶを祝福「俺も誰かの背中を押せるよう」
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 01:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 01:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
