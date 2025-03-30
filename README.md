@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8a1e69f4cf4fcfccb4dd69533a7db1e6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2e2eb421dd0528a190df6720672e4318.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/879c118074c0b0adaaf1b0293a8763aca5f47303>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-21821673-mbcnewsv-000-2-thumb.jpg?exp=10800&fmt=webp> 新燃岳の噴火警戒レベル3に引き上げ　4キロ圏内通行止めで観光客から心配の声「何事もなければいい」　鹿児島
+      <a href=https://news.yahoo.co.jp/articles/0ed4f91c9665b483948a3fb35a13de946c8bb3c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-90027488-umk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 霧島連山・新燃岳　噴火警戒レベル「３」に引き上げ　周辺4ｋｍの道路・登山道を規制
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fa2109401e7614d1e32817029093c3b37cc4353>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000032-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 横浜の片山、期待に応えた1球リリーフ　背番号18「今は誇り」
+      <a href=https://news.yahoo.co.jp/articles/43f0bb48cc7fcaa6865ab4da2e224006ddac337e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> センバツ決勝　横浜が19年ぶり4度目の優勝　智弁和歌山を11対4で破る
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bca5231dd626b820a5a283a2bbe7d3659faba70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-18261146-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 日本人1人と連絡とれず　ミャンマー地震、死者約1700人に
+      <a href=https://news.yahoo.co.jp/articles/c790f7dbbd396769b15a7aee47f6225b3abfbfa0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000017-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ミャンマー地震、インフラ被災で遅れる支援　死者1万人超えの推計も
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533924>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/4f1487376a47aeb8d5489bfda37c91c2f8ccf884a71870d1262de869a29367ee.jpg> 自民県議が国民から出馬へ 参院選
+      <a href=https://news.yahoo.co.jp/pickup/6533933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/de2f9b081e88e90652890e3c595b0638f3b3e263ca63fdf70f4354bac0bbb3db.jpg> 岸和田市長選 立花氏は立候補せず
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533916>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/6c15ab9d59b12188ac95fa9e033fb2c92bf6bf6a6b145bfedb99f57225cf7c1f.jpg> ダイソーがベトナムに拠点置く訳
+      <a href=https://news.yahoo.co.jp/pickup/6533935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/3ee58721c679b74cd0a82057792c4167d721095a2dc24d1f688e646d0f561e0a.jpg> 専業主婦の「ひきこもり」なぜ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 18:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 19:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
