@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/539a2a7714a4387636e57bf5c9a50ba7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/638101427dcc715528a2d2569e78ed30.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54b014a4f0c1b8e79fbc345f2ff7202a5c95202f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00094397-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=809&ch=809&exp=10800&fmt=webp> 「MLBの打者は佐々木の２番目の球種を無視する」２戦続けて制球難の佐々木朗希に米記者苦言「ストライクはわずか32球」「最も注目すべきは...」
+      <a href=https://news.yahoo.co.jp/articles/25f141f04f59e116dd2e71baaf8a4cf8b904f44b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010003-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】 佐々木朗希の米国デビューは1.2回2失点　制球に苦しむ　大谷は今季初盗塁　前田も初登板
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/982357394474a527127e75afb02cd16e58f5d8cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-90027486-umk-000-1-thumb.jpg?exp=10800&fmt=webp> 【空撮映像】噴煙を上げる新燃岳　7年ぶり噴火警戒レベル「３」周辺4キロの道路や登山道を規制
+      <a href=https://news.yahoo.co.jp/articles/2e56eedc0d8da0a76d478a32c4646b2a9f587e1b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000029-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=140&cw=1060&ch=1060&exp=10800&fmt=webp> ドジャース・大谷翔平の第4打席は前田健太と対戦　四球で出塁＆今季初盗塁決める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/34c1b074dd78c339bbe97b1cadcc16701dc86732>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-05429965-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 霧島連山新燃岳　噴火警戒レベルを入山規制に引き上げ　2018年以来のレベル3　大きな噴石などに注意
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8fd22a71c16b25486b2eb8a42c3824468a0e6bce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000021-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者1600人超　各国から支援　救助活動続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/924dfc248981bce7998a8ec4fdaa9caf4e0688f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000025-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平の第3打席は申告敬遠　続くT・ヘルナンデスの二塁打で一気に生還
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000021-ann-000-7-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者1600人超　各国から支援　救助活動続く
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533878>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/227b991785b82c43ad5bdb3ef92be74e87f0cc155cd510cca6aeac5de7d1ce16.jpg> 高速道路で降車か はねられ死亡
+      <a href=https://news.yahoo.co.jp/pickup/6533883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/df27a833d3437cef006fb92d67bfeb995b4e1dfa14eccac927f2eca6332c3ab5.jpg> WHO、予算5分の1を削減方針
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 12:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 13:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
