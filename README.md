@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GV8fe3oLnZ0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2c88451da73e8745171f8939c6e6e75b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bedfba8e6fd8a8cb047e351790356301.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dec68586cd87304d1ef4bd098448bc4201d24421>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000077-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 工藤遥加、日本選手では約9年ぶりの30歳代以上の初優勝【女子ゴルフ】
+      <a href=https://news.yahoo.co.jp/articles/9f9bdc134e7aef43d98dc545c3f9e10efd9d62f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00094409-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「シンプルに技術不足」制球難を露呈した佐々木朗希。米データサイトが突き付けた厳しい現実「すべてを物語っている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c405b1a4144210d40434a69adc4f06d35a79b10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000022-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 強力打線の激突、速球の精度の差が明暗分ける　横浜が智弁和歌山下す
+      <a href=https://news.yahoo.co.jp/articles/dcc14763f74a237ad52c8c1ea4d74a9d860c0611>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000086-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=439&cy=0&cw=1698&ch=1698&exp=10800&fmt=webp> 横浜11―4智弁和歌山　六回に一挙6点、13安打で大勝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de1bb89b3bd197c9307f70b2de1e40c42b4e3da0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00050044-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ２試合連続押し出しの佐々木朗希「シンプルに技術不足」…二回二死で降板、目に涙ため試合見つめる
+      <a href=https://news.yahoo.co.jp/articles/e87da77d675a9ea52b029de7a7d17bd2ab488ba4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-10171138-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=424&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 中谷防衛大臣、来日中の米国防長官と対面で初会談
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533910>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 民間機が墜落 搭乗の4人意識あり
+      <a href=https://news.yahoo.co.jp/pickup/6533920>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 民間機が墜落 搭乗の4人けがなし
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533912>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/3cb283179133b240632c95aeec38739943b273bc06726f5215ecf1d585dedbcd.jpg> 奈良市議 採決で隣席のボタン押す
+      <a href=https://news.yahoo.co.jp/pickup/6533915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/7afff3f4a47e7aa61beb009d24238df2cdd9bc61b2fb99869770a3973a098f04.jpg> 昨季11連敗の高橋光成 6失点降板
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 16:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 16:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
