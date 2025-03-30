@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GV8fe3oLnZ0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/957116edfade40b9b572e149e4db5ec8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/87ba54f83b1ecd5936695877b98e3c28.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ce30cecb8b86221a1e357b2216335cc95cf64fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00339318-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【センバツ】横浜19年ぶり優勝のウラに「80歳の元さん」　おじいちゃん孝行の終着駅は〝全国１強〟
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/08caa0cc394d87ef24fa99677280c4cc8b128e06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-07227539-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者は約1700人に 懸命な救助活動続く　タイでも被害拡大、ビル崩壊現場では78人が安否不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ef00cea449310e5217b2ac0f49e12379679f3efc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-03311004-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=918&ch=918&exp=10800&fmt=webp> 【日本ハム】レイエス猛打賞＆激走　新庄監督「たぶんあの１０００万円ぐらいするネックレスのおかげ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c4d438474a597379947935f93e40ce106bd0a798>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=367&cw=1466&ch=1466&exp=10800&fmt=webp> 「佐々木朗希は今すぐスターになれないが…」米メディアが指摘した大乱調の4つの論点…ロバーツ監督に登板後ベンチ裏から引き戻されたこと、制球難、3キロ低下の平均球速、スプリット不調
       </a>
@@ -365,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1688295a4202b1c089fab7ba75c3662151676ccc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-03301310-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 無念の昨夏、午前４時まで「優勝ノート」書き込んだ…センバツＶ横浜監督は涌井の元女房役、考え抜いた名采配光った
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2bb96349a6fd45b9a991bc993e4f6ed1fa83066>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 迫る72時間、懸命の捜索　ミャンマー地震、依然多数不明　タイのビル崩壊現場でも
+      <a href=https://news.yahoo.co.jp/articles/2a5a38b0d8a9d0ded99f44d61cdbf05de9558f8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-03311019-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=245&cw=696&ch=696&exp=10800&fmt=webp> 菅野智之、メジャーデビュー戦はアクシデントで緊急降板　ファンはエール「通用する！」「心底応援している」
       </a>
     </td>
   </tr>
@@ -394,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/84c8e91b920be0118333e59b24827b856b6b792a1c0d83340f30df3c217777d8.jpg> ミャンマー地震 義援金詐欺に注意
+      <a href=https://news.yahoo.co.jp/pickup/6533968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/04639ce95addd41543650018e7f59f618a705bae09d3ff0d0e40b56ba483a43b.jpg> ミャンマー地震 迫る「72時間」
       </a>
     </td>
   </tr>
@@ -418,8 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/d815a3c6e038c18ae5bb6b1854e3a322db90411abfdccc4da37b7971faebdf9f.jpg> 日本の軽トラ 米国で駆け込み需要
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533962>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/4651a487a338f834534031b0d9925e1bb243ef12952fc0686c4102c7bb020bb9.jpg> 野沢温泉村長に元スキーW杯選手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/4e5fb3cad52bc41b184ec781098052a886e78fe3b07c0df3c1b6d2cf179638da.jpg> 菅野智之がMLBデビュー 緊急降板
       </a>
     </td>
   </tr>
@@ -432,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533960>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/7e4c6b6cb4a943d2af83167af89c83207439340560b0e1f8867bc619562ae54c.jpg> 小嶋陽菜 年齢への批判はスルー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/243530478555a0b5fd008e5cafdc80227030f2f45cbaec9ea5111454209fd1cd.jpg> 感謝祭TVer配信 江頭は全カット
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 06:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 06:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
