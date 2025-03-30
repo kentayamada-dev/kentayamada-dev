@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/56b35a9c1061368fda305b2b72a3884d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7518eb96602ccf50b2c54472872dc557.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/faf7aec348b10006ee4679234dacccf51d1bf8a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01727988-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 爪が割れ胃腸炎も発症「動けない状態」　152キロ右腕、“苦境”乗り越え掴んだ日本一
+      <a href=https://news.yahoo.co.jp/articles/8e4e7c973898d22dc1556892282cca2166eded9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33310092-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 【センバツ】V横浜の20連勝相手校とスコアは　伝説の松坂世代44連勝＆過去の甲子園決勝も公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a1a222be89b4f43ba9d0adc362415776c3cc77fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000009-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=420&ch=420&exp=10800&fmt=webp> 「どれくらい亡くなったか分からない」…寺院も病院も崩壊、号泣のミャンマー（２）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/49e6aac59b3234adc6ee667bc7fe79be7c6741f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010003-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=360&ch=360&exp=10800&fmt=webp> 藤浪晋太郎、マイナー初登板で暴投勝ち越し点許す　制球に苦しみ1回1失点　最速159キロ
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b81aa0527fb63b1a1394bf6343dc152beb015496>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01728454-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 新庄監督も絶賛「簡単に打ちますね」　135キロ巨漢助っ人の走＆打…来日2年目で得た“思考”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0e4af9620e7630b33697e30944e65548ee90550>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-10171202-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=781&ch=781&exp=10800&fmt=webp> ミャンマー大地震 約1700人死亡 「72時間」迫る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4d438474a597379947935f93e40ce106bd0a798>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010000-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=4&cw=1466&ch=1466&exp=10800&fmt=webp> 「佐々木朗希は今すぐスターになれないが…」米メディアが指摘した大乱調の4つの論点…ロバーツ監督に登板後ベンチ裏から引き戻されたこと、制球難、3キロ低下の平均球速、スプリット不調
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533958>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/45a10158aac35772568a5d77e7b0f40ba9bc75811428099bd62bfea6898e6786.jpg> 米から防衛費増要求なく 政府安ど
+      <a href=https://news.yahoo.co.jp/pickup/6533968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/04639ce95addd41543650018e7f59f618a705bae09d3ff0d0e40b56ba483a43b.jpg> ミャンマー地震 迫る「72時間」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/04639ce95addd41543650018e7f59f618a705bae09d3ff0d0e40b56ba483a43b.jpg> ミャンマー地震 迫る「72時間」
+      <a href=https://news.yahoo.co.jp/pickup/6533973>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/8ca36063bdaa6b10285b1b364806bd7eec23ae6e7bd64303316d043eeb479fd5.jpg> 修繕談合疑い コンサル業者も調査
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 08:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 08:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
