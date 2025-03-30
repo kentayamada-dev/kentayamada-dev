@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac50a30b10a73a4060cb49fae39cbfb9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/957116edfade40b9b572e149e4db5ec8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f4b5411430a47bf9be352a10917e66f9bd3f69e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00339333-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木朗希の“四球地獄”は「成長痛」 巨大戦力ドジャース選んで正解「我慢する余裕ある」と米報道
+      <a href=https://news.yahoo.co.jp/articles/c4d438474a597379947935f93e40ce106bd0a798>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=367&cw=1466&ch=1466&exp=10800&fmt=webp> 「佐々木朗希は今すぐスターになれないが…」米メディアが指摘した大乱調の4つの論点…ロバーツ監督に登板後ベンチ裏から引き戻されたこと、制球難、3キロ低下の平均球速、スプリット不調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02de473db9338310e9f3a3ae1646a67c525d55a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-08158443-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者は約1700人に　日本人1人と連絡取れず…インフラも大打撃
+      <a href=https://news.yahoo.co.jp/articles/1688295a4202b1c089fab7ba75c3662151676ccc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-03301310-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 無念の昨夏、午前４時まで「優勝ノート」書き込んだ…センバツＶ横浜監督は涌井の元女房役、考え抜いた名采配光った
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1a1a589fa7791ef68a27f67d901ea115e75b008>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000076-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=260&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 【センバツ】横浜　19年ぶり4度目のセンバツ優勝！公式戦20連勝で史上初2度目の秋春連覇
+      <a href=https://news.yahoo.co.jp/articles/f2bb96349a6fd45b9a991bc993e4f6ed1fa83066>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 迫る72時間、懸命の捜索　ミャンマー地震、依然多数不明　タイのビル崩壊現場でも
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 05:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 06:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
