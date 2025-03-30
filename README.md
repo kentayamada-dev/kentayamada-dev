@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97e538eda7edc720c60db2c16017c615.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8831eaf3acdcad8abfb315b06ec45a0a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7af1fb74b10f48596d5071fcb0f2743d8044661>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000051-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=438&ch=438&exp=10800&fmt=webp> W杯出場の元スキー選手初当選　20年ぶり村長選、長野・野沢温泉村
+      <a href=https://news.yahoo.co.jp/articles/1a4fd514e2637f0c3c397a1cd9cd666fc1c09870>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-03301284-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 横浜高野球部ＯＢの上地雄輔「ただ『頑張れー』と思ってただけ」後輩のセンバツＶを祝福「俺も誰かの背中を押せるよう」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d817319dc16f1ce2a5555d1a1343ef14004c6ef4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010044-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=1003&ch=1003&exp=10800&fmt=webp> 目標は〝横浜一強時代〟選抜V右腕・織田翔希インタビュー　ファミレスの所作に成長に感じた成長の跡
+      <a href=https://news.yahoo.co.jp/articles/47450b7f588dc148cb9d82f47d7e631ed63b96f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000160-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=994&ch=994&exp=10800&fmt=webp> 日本ハム・野村佑希、連発＆6打点に「『ファイターズの4番です』と言えるように。ボスを日本一にできるように」63年ぶりの開幕3戦3勝
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/665aa0b19ec5327725cad210e98de45696062b141607ba900fe3d09088d5b9a7.jpg> 選抜決勝 勝負分けた「1球継投」
+      <a href=https://news.yahoo.co.jp/pickup/6533963>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/c515f66936f110aae2d79fddcfbf066990cbe85c619a97afa763fa83b12acc4e.jpg> 新庄監督ズバズバ起用的中 3連勝
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 23:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 23:51:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
