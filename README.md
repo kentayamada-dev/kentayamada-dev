@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/73e3469ab1a4a63ea0eb66d38c92880e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4980be1b0bf724750211339d220164fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/286d93336d9bcc114bd81cc79cb57ec9d7bad3df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00339338-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 喜劇俳優・芦屋小雁さん死去　91歳　2018年に認知症公表後もさまざまな活動
+      <a href=https://news.yahoo.co.jp/articles/0472692b20ed8179032992d99854d5822ef7b4c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 大谷翔平　無安打も今季初盗塁　５戦連続得点！昨季得点王が早くもトップ浮上　ド軍４４年ぶり開幕５連勝
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 04:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 04:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
