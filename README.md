@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/489a7ebef43a449b7ea6ec9e9ea3e45e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ae03e9d6f2d7835ffdf654efa2e8932.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d4961e5409fe5fcec015bed36745a402c89ac6fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000179-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=981&ch=981&exp=10800&fmt=webp> 大谷翔平の第2打席は左飛　3ボールから積極性見せるも2打席凡退　佐々木は2回途中2失点で降板
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/127b2233a50d0b5e0673a9c49d9e2fa4e3507e78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010000-afpbbnewsv-000-3-thumb.jpg?exp=10800&fmt=webp> ミャンマー地震、死者1644人に 犠牲者大幅増の可能性
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c2bf0d70d185b4792353ae41277c7a817c67e6e3>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ce40f44a8bbaa1993fe63d888573bc05d1f359b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000001-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ミャンマー地震、死者1644人に 犠牲者大幅増の可能性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ae8046564a9d02c192ea8493171a7b32768ad3fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00520014-theanswer-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 日本はまだ少数派も…選んだ「卵子凍結」　34歳、出産の選択を残して競技生活に集中　費用は「45万円くらい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a08f2f3a800894a97e897d15805885205e09819a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00029210-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日30日　日本海側は冷たい雨や雪　晴れる太平洋側も北風強まる　防寒を
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00520014-theanswer-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 日本はまだ少数派も…選んだ「卵子凍結」　34歳、出産の選択を残して競技生活に集中　費用は「45万円くらい」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/153e2f3e0f7df24ef63bb1b90cca2090420966728b3231d1b3b0015e593a4305.jpg> 自民17議員の政治団体 商品券購入
+      <a href=https://news.yahoo.co.jp/pickup/6533869>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/6d5aa0396b7167d43a353d10753d27d1c3111eba50d75127e8d7dbdddb31ecb9.jpg> ガザ停戦案 双方の駆け引き続く
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533872>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/6ed53ed1a66f167faf5476205acce258fd3553ce09bec4fe14de154c00f6ba7f.jpg> 卵子凍結を選択 34歳プロランナー
+      <a href=https://news.yahoo.co.jp/pickup/6533882>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/12c311306e58fc46a0b8da3cfac14b13bcdd090a230d7f3b96f3ce343e9fe369.jpg> 朗希の目に涙 本拠地で2回途中KO
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/2baf61290097ddbe421cdfe48ea7c15aa6682986b07b91c6df2c48c88e58dc39.jpg> 町田GK谷 まさかのオウンゴール
+      <a href=https://news.yahoo.co.jp/pickup/6533872>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/6ed53ed1a66f167faf5476205acce258fd3553ce09bec4fe14de154c00f6ba7f.jpg> 卵子凍結を選択 34歳プロランナー
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 11:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 11:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
