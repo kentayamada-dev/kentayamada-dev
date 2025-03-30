@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/49b94e6b16dd08ef245dfed6a18dd29a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eee35c6fa694b395618ba36c870405b6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42f1ccfff88526d52f99c566a3ec34477dfa7c18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-33301796-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=1115&ch=1115&exp=10800&fmt=webp> 【センバツ】“シン横浜”春の甲子園制す「小倉ノート」伝統引き継ぎ「村田ノート」で新たな歴史
+      <a href=https://news.yahoo.co.jp/articles/c47684a39379f2252f8f0b4a6c51ac67a99857ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000026-senbatsuf-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=987&ch=987&exp=10800&fmt=webp> 勝負分けた1球継投　大胆かつ緻密な「令和の横浜」　センバツ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f9d07f5e1c003a4d222ed86cfc2919ce767cd78f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー地震は過去100年で最大、各国が救助隊や支援物資　民主派は停戦発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/752d7c9384b1beb0a670f028c52f6c939ddb517c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000013-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=1257&ch=1257&exp=10800&fmt=webp> 〈詳報〉7年ぶりの噴火警戒レベル3　霧島連山・新燃岳に気象庁が機動調査班派遣　鹿児島県は火口から半径4km以内を立ち入り規制
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2aa8adfa2b628f2b5f046418b1f0c9d1ef4c9369>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000048-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=601&ch=601&exp=10800&fmt=webp> ミャンマー地震　民主派が2週間の武力闘争停止を発表　救助を優先
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22835c53b0c97856a7dd88a4e4f347e00ffe5b8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-07291679-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 霧島連山新燃岳　噴火警戒レベルを入山規制の3に引き上げ　おおむね4キロ範囲で大きな噴石などに警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ccb4d706def9f160b312d964d1b0cf0cd4b57bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-33301150-nksports-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1463&ch=1463&exp=10800&fmt=webp> ロバーツ監督、降板後の佐々木朗希をベンチに呼び戻す「彼と少し話したかっただけ」成長願い熱弁
+      <a href=https://news.yahoo.co.jp/articles/620686e07d8799b5bbd6008ec48aad935db2b33c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-02754555-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「何回見ても泣ける」ドジャースが元同僚へチャンピオンリング授与式　フリーマンも熱い抱擁
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/64cf093cc1d001cbb836f2cfab289ae16ebc4ca469546869908a32e447ccf7cd.jpg> ミャンマー国軍 地震後も国内空爆
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533945>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/34034baa025286afe5ec4a5d74a9343433dd78bfdbccf080e834d74453bcd665.jpg> 日中韓 自由貿易を強化で合意
       </a>
@@ -418,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533942>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/6dfecd33366c4356a5bf084e66c1077248ea617ba21e6d7d9af03bb90c34e2fd.jpg> 金沢にテロ犯の記念館 計画に波紋
+      <a href=https://news.yahoo.co.jp/pickup/6533947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/5292895740d3a6bcfd666f187337686efacf7d0f8bc1564407262bd479dcc360.jpg> 立憲 ガソリン減税法案の提出検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/3ee58721c679b74cd0a82057792c4167d721095a2dc24d1f688e646d0f561e0a.jpg> 専業主婦の「ひきこもり」なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6533952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/dac699d44d69e674bcd258715814f027ae117d1c3761aa37169fdf381a0b072d.jpg> 浜松事故 妹の安否を何度も聞く姉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/6dfecd33366c4356a5bf084e66c1077248ea617ba21e6d7d9af03bb90c34e2fd.jpg> 金沢にテロ犯の記念館 計画に波紋
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 21:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 21:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
