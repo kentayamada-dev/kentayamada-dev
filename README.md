@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5655d40c9525edc585258ad2bf337c9a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4ffdde466a772dfc7c03cef877ed783.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0978a931541a4f085303810f928070c3ffe00780>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00003702-hbnippon-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=840&ch=840&exp=10800&fmt=webp> 横浜が19年ぶり4回目の優勝！4安打2盗塁、好守備の阿部葉は「横浜一強に繋がる」【25年センバツ】
+      <a href=https://news.yahoo.co.jp/articles/70286aa95fdb7beb4b7b98619909a7caa9f2d547>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-03301194-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 【センバツ】「大輔の１球」　横浜・片山が好救援で１９年ぶりＶに貢献「野球をやっていてよかった」
       </a>
     </td>
   </tr>
@@ -373,24 +373,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a3887056f0422872b2055b836422e52c437b5b57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-02312924-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 【ロッテ】昨季リーグ王者から開幕3連勝　4点差をひっくり返す　ソトが2試合連続HR　救援陣が無失点リレー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0bca5231dd626b820a5a283a2bbe7d3659faba70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 空港の管制塔が倒壊…被害拡大　ミャンマー地震、死者約1700人に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本人1人と連絡とれず　ミャンマー地震、死者約1700人に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86546d4a2bb9c2a411367c1001343a3a945b52a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000128-dal-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1862&ch=1862&exp=10800&fmt=webp> 宝塚音楽学校　元巨人・林昌範氏と亀井京子アナの長女が合格　１７３センチで男役志望、２度目の挑戦で夢への切符　「本当にうれしいです」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34c1b074dd78c339bbe97b1cadcc16701dc86732>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-05429965-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 霧島連山新燃岳　噴火警戒レベルを入山規制に引き上げ　2018年以来のレベル3　大きな噴石などに注意
+      <a href=https://news.yahoo.co.jp/articles/1532c3e789ab5507369dd2eaeca4b424bdcf364d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00029215-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日31日の朝は強い冷え込み　関東～九州の通勤は冬コートで　寒さいつまで?
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533898>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/c06a8d2bd880c53aadf32100a328d1083b36d7e053e4a4e4b52d6dfc424a41c9.jpg> 浜松4人死傷事故 小4姉の意識回復
+      <a href=https://news.yahoo.co.jp/pickup/6533928>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/9351003b1ab723867db1c6eb0e632a0fbcb21d4974a2085ef4cd4fc812cd0c34.jpg> 署で10代の警官流血 体の下に拳銃
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 17:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 17:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
