@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2692137e03462cb4f655bb68ed8c6634.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f24543e9073480a82e564dc083d7a435.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1e30105c4836e13a2c878339324c6d12711e89bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 史上初「3球3本塁打」　ヤンキース、開始直後に―米大リーグ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a202fe6984e45785bc5af51f5ff297d84fa0e840>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000004-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=424&ch=424&exp=10800&fmt=webp> 【速報】霧島連山・新燃岳の噴火警戒レベル3(入山規制)に引き上げ　火山性地震が急増、地殻変動も確認　鹿児島地方気象台
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2591616b5b18097765e576b8a6d2487f99396a3c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-10171096-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=671&ch=671&exp=10800&fmt=webp> ミャンマー大地震 死者1600人超 各地からボランティア団体が参加
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2423dfe3d0037dfd3483760c5af2bc6fc1c7f7f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-10171095-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 新燃岳、噴火警戒レベル3「入山規制」に引き上げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a48c7b162985c3b3ce8e199eac6399a66b91a7fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-03301029-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ヤンキースのジャッジが３発！「５バレル」で自身２度目メジャー記録…いい当たりの指標「バレル」とは
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533865>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/153e2f3e0f7df24ef63bb1b90cca2090420966728b3231d1b3b0015e593a4305.jpg> 自民17議員の政治団体 商品券購入
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533855>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/903d405c5235d5d3608543757b1fbb501808d2e4be0da33224268b19e3e1b4e0.jpg> 新燃岳、噴火警戒レベル3に
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/dcd8af2dfdc39142ec4571da204d0bea6e8c14e21208aefeff52b4e1a165d6aa.jpg> 松本梨香 海外オファー殺到の今
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533862>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/584582e41c53bdf03acd775f2c7fcf0dd6678905908cbdfb0b6adf3d86040186.jpg> 松嶋尚美 子育てと介護が重なる今
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 09:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 09:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
