@@ -1,3 +1,4 @@
+import { copyRightStory } from '@/components/designSystem/atoms';
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { Header } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
@@ -5,9 +6,8 @@ import type { Meta, StoryObj } from '@storybook/react';
 const meta = {
   argTypes: { locale: { control: 'select', options: arrayOfLocales } },
   args: {
-    authorName: 'John Doe',
     locale: defaultLocale,
-    year: 2024
+    ...copyRightStory.args
   },
   component: Header
 } satisfies Meta<typeof Header>;

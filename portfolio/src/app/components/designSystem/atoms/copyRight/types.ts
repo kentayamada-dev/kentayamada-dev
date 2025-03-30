@@ -2,6 +2,7 @@ import type { ComponentType } from '@/types/components';
 
 type CopyRightProps = {
   authorName: string;
+  href: string;
   year: number;
 };
 

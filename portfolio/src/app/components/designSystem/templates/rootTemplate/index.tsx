@@ -5,9 +5,9 @@ import type { RootTemplateType } from './types';
 const RootTemplate: RootTemplateType = (props) => {
   return (
     <>
-      <Header authorName={props.authorName} locale={props.locale} year={props.year} />
+      <Header authorName={props.authorName} href={props.href} locale={props.locale} year={props.year} />
       {props.children}
-      <Footer authorName={props.authorName} year={props.year} />
+      <Footer authorName={props.authorName} href={props.href} year={props.year} />
     </>
   );
 };

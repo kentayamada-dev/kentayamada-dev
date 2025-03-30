@@ -14,7 +14,7 @@ const Header: HeaderType = (props) => {
   return (
     <header className='border-primary sticky top-0 z-10 flex justify-between border-b bg-white/75 px-4 py-4 backdrop-blur-sm md:px-8 dark:bg-slate-900/75'>
       <span className='flex items-center'>
-        <SidePanelWrapper authorName={props.authorName} locale={props.locale} year={props.year} />
+        <SidePanelWrapper authorName={props.authorName} href={props.href} locale={props.locale} year={props.year} />
         <Link aria-label={homeLinkLabel} className='text-slate-900 dark:fill-white dark:text-white' href={`/${props.locale}`}>
           <Logo isJapanese={props.locale === 'ja'} />
         </Link>

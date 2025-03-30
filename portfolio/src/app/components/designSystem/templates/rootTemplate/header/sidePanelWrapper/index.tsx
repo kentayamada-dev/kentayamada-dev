@@ -28,6 +28,7 @@ const SidePanelWrapper: SidePanelWrapperType = (props) => {
       authorName={props.authorName}
       currentPathname={pathnameWithoutLocale}
       handleToggle={handleToggle}
+      href={props.href}
       isOpened={isOpened}
       items={navigationItems}
       locale={props.locale}

@@ -25,7 +25,7 @@ const Layout: LayoutPageType = async (props) => {
     <html className={fonts} lang={locale} suppressHydrationWarning>
       <body>
         <Providers>
-          <RootTemplate authorName={myName} locale={locale} year={currentYear}>
+          <RootTemplate authorName={myName} href='https://github.com/kentayamada-dev' locale={locale} year={currentYear}>
             {props.children}
           </RootTemplate>
         </Providers>

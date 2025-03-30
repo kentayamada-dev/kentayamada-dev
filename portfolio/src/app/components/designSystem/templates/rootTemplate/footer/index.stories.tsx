@@ -1,11 +1,11 @@
+import { copyRightStory } from '@/components/designSystem/atoms';
 import { Footer } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
 
 const meta = {
   args: {
-    authorName: 'John Doe',
-    year: 2024
+    ...copyRightStory.args
   },
   component: Footer,
   decorators: [

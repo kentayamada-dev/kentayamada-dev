@@ -9,3 +9,4 @@ export type { ListItemProps } from './listItem/types';
 export { Logo } from './logo';
 export { NotFoundAnimation } from './notFoundAnimation';
 export { YoutubeEmbed } from './youtubeEmbed';
+export { default as copyRightStory } from './copyRight/index.stories';

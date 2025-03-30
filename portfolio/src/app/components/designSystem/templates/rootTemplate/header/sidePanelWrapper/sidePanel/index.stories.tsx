@@ -1,4 +1,5 @@
 import { fn } from '@storybook/test';
+import { copyRightStory } from '@/components/designSystem/atoms';
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { mapObjectByKeyValue } from '@/utils';
@@ -19,13 +20,12 @@ const meta = {
     locale: { control: 'select', options: arrayOfLocales }
   },
   args: {
-    authorName: 'John Doe',
     currentPathname: navigationItems.home.href,
     handleToggle: fn(),
     isOpened: true,
     items: navigationItems,
     locale: defaultLocale,
-    year: 2024
+    ...copyRightStory.args
   },
   component: SidePanel
 } satisfies Meta<typeof SidePanel>;
