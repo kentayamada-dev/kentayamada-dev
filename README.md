@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ee8fafe883ae647529ef59c18f2f7caf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/68f7932902d033fc64eeca1be0293790.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c3dc14f53b37670d4c78f4315123767f24b909a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000068-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 流れ渡さず集中打　全員野球で「横浜1強」―高校野球
+      <a href=https://news.yahoo.co.jp/articles/2aa8adfa2b628f2b5f046418b1f0c9d1ef4c9369>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000048-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=601&ch=601&exp=10800&fmt=webp> ミャンマー地震　民主派が2週間の武力闘争停止を発表　救助を優先
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97cf2abeeecbee1d0a2a503e98c2340fd5d9766a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000042-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=449&ch=449&exp=10800&fmt=webp> 内戦下を襲った地震、民主派は一時停戦を宣言　国軍側の対応は不透明
+      <a href=https://news.yahoo.co.jp/articles/9ea8bf19f625678083386a9795af5a481eea3a7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-33301808-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=57&cw=1199&ch=1199&exp=10800&fmt=webp> バイエルン伊藤洋輝が長期離脱へ　再び右足中足骨骨折　日本代表でＷ杯最終予選２試合フル出場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dc578cc687e082eeb4b64139443395217f0c5c34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000137-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=903&ch=903&exp=10800&fmt=webp> 横浜が19年ぶりの優勝、鳴りやまぬ「白雲なびく」　選抜高校野球
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/22835c53b0c97856a7dd88a4e4f347e00ffe5b8b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-07291679-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 霧島連山新燃岳　噴火警戒レベルを入山規制の3に引き上げ　おおむね4キロ範囲で大きな噴石などに警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62b4496283f129791d083ebfedfd7beffde7ce6d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010024-goal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「復帰したばかりなのに…」　伊藤洋輝の再離脱にバイエルンSDも傷心。「元気を出して、ヒロキ。我々は味方」とエールも
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/5ad282277cbe45abf8ec8aff3f1ce006694cde5ecf96257f10ea8b3ba951065b.jpg> 40代のJR西社員が副市長に 抱負
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533942>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/6dfecd33366c4356a5bf084e66c1077248ea617ba21e6d7d9af03bb90c34e2fd.jpg> 金沢にテロ犯の記念館 計画に波紋
       </a>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533935>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/3ee58721c679b74cd0a82057792c4167d721095a2dc24d1f688e646d0f561e0a.jpg> 専業主婦の「ひきこもり」なぜ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/09bf88c0b7cd7530dd849ccd4834307f82e627c43f97057b2477de93511e4fdc.jpg> ポッカ「コーン茶」販売倍増 なぜ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 20:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 20:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
