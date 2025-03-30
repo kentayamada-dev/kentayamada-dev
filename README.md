@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b2a828b739acb80169e966e3045573cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2c88451da73e8745171f8939c6e6e75b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bb5396229b905ac48c7730d9c64f78d45d2c6da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000120-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1679&ch=1679&exp=10800&fmt=webp> １球リリーフの横浜・片山を村田監督が称賛「よく流れを持ってきてきてくれて、よく踏ん張ってくれて。あれが大きな勝敗を分けたかな」
+      <a href=https://news.yahoo.co.jp/articles/dec68586cd87304d1ef4bd098448bc4201d24421>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000077-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 工藤遥加、日本選手では約9年ぶりの30歳代以上の初優勝【女子ゴルフ】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c095dec555a708558321512c434ca02ef7f189e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00520382-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 女子ゴルフ史上最大差の逆転劇が…29位→2位で超猛追・小祝さくらが潔く勝者称賛「仕方ない」
+      <a href=https://news.yahoo.co.jp/articles/3c405b1a4144210d40434a69adc4f06d35a79b10>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000022-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 強力打線の激突、速球の精度の差が明暗分ける　横浜が智弁和歌山下す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/de1bb89b3bd197c9307f70b2de1e40c42b4e3da0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00050044-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ２試合連続押し出しの佐々木朗希「シンプルに技術不足」…二回二死で降板、目に涙ため試合見つめる
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aaeb4d52945516c8ed035b5f20bd6baa2ff67b38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-10171137-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=984&ch=984&exp=10800&fmt=webp> ミャンマー大地震 死者1600人超 ロシアや中国など各国から支援
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-10171137-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=984&ch=984&exp=10800&fmt=webp> ミャンマー大地震 死者1600人超 ロシアや中国など各国から支援
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b710f12be5e104f8f93f7af88cbf5ae9fdb55a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-21821503-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=484&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 佐々木朗希 「自分の中で信じ切れるものがなかった」本拠地初登板で大きな壁、指揮官は「これはプロセスだ」成長に期待
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533905>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/8942b1bc669da7242ace52464d2c652280be73cb67c9468e508ec724bd311554.jpg> ミャンマー地震 空港の管制塔倒壊
+      <a href=https://news.yahoo.co.jp/pickup/6533914>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/43f8b6085dcdff465202254e7f1dfae994a5ad0609d050525ae16206527c8849.jpg> ミャンマー  邦人1人と連絡とれず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533906>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/967acd12aef720aeb23bf71a23ec601d6da9e273192765f4ad9a507dfb13e695.jpg> 日米防衛相 指揮統制の向上を確認
+      <a href=https://news.yahoo.co.jp/pickup/6533903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/b67edd5571bec2cd3b704947059edf7d1cf829a22fa6fa22638da7ed826c2ec1.jpg> 家帰りたい ケア児支える小児科医
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533910>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 民間機が墜落 搭乗の4人意識あり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533913>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/4e11ef731b57e845af9f10f51390d942db71d1c5fbd7e380b4a8f1015a392892.jpg> 都営バスと車が衝突 13人負傷
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533907>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/988530795db67db52c3e13110e5d93f8efb10287e269df9b4a19ac10d0b4071c.jpg> 東京で桜が満開 お花見日和はいつ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/ce187d8059dad27c3a67c691077bcd0e796806357d9719790038e3dfba4d95ff.jpg> 横浜が選抜優勝 19年ぶり4度目
+      <a href=https://news.yahoo.co.jp/pickup/6533911>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/38004ae4123ed2ffe92bc581586867120ae8a926ad79888abbfd91bf0b9c1237.jpg> 工藤公康氏の長女 国内ツアー初V
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 15:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 16:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
