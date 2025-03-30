@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/68f7932902d033fc64eeca1be0293790.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/49b94e6b16dd08ef245dfed6a18dd29a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/42f1ccfff88526d52f99c566a3ec34477dfa7c18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-33301796-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=1115&ch=1115&exp=10800&fmt=webp> 【センバツ】“シン横浜”春の甲子園制す「小倉ノート」伝統引き継ぎ「村田ノート」で新たな歴史
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a8ac326a2d44242a2438badd78bc5aaeea4bdb5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00050545-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=418&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 官製談合疑いの忠岡町長に大阪維新の会が除名処分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2aa8adfa2b628f2b5f046418b1f0c9d1ef4c9369>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000048-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=601&ch=601&exp=10800&fmt=webp> ミャンマー地震　民主派が2週間の武力闘争停止を発表　救助を優先
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ea8bf19f625678083386a9795af5a481eea3a7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-33301808-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=57&cw=1199&ch=1199&exp=10800&fmt=webp> バイエルン伊藤洋輝が長期離脱へ　再び右足中足骨骨折　日本代表でＷ杯最終予選２試合フル出場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc578cc687e082eeb4b64139443395217f0c5c34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000137-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=903&ch=903&exp=10800&fmt=webp> 横浜が19年ぶりの優勝、鳴りやまぬ「白雲なびく」　選抜高校野球
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3358cadc59b4fc2220d0e52dfe891d4c70c0629>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-05181764-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「シンプルに技術不足」佐々木朗希　本拠地初登板は本来のパフォーマンス出せず「いろんな要素はある」
+      <a href=https://news.yahoo.co.jp/articles/1ccb4d706def9f160b312d964d1b0cf0cd4b57bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-33301150-nksports-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1463&ch=1463&exp=10800&fmt=webp> ロバーツ監督、降板後の佐々木朗希をベンチに呼び戻す「彼と少し話したかっただけ」成長願い熱弁
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533934>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/d697b9b2f3c15e2b2a2224f6eebd3857654cfee3e0f6a40ce2dd4faaf19f7d7e.jpg> 小泉氏「強力な物価高対策」必要
+      <a href=https://news.yahoo.co.jp/pickup/6533945>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/34034baa025286afe5ec4a5d74a9343433dd78bfdbccf080e834d74453bcd665.jpg> 日中韓 自由貿易を強化で合意
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/09bf88c0b7cd7530dd849ccd4834307f82e627c43f97057b2477de93511e4fdc.jpg> ポッカ「コーン茶」販売倍増 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6533948>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/48d3dbdae93c7b33149c63ba7589123aeace7cb470c8b5a3acaa76be7a90564d.jpg> 都心にトラクター30台 農家らデモ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/18cf54c22c16223093db04278d5e43faad1663c7efcc420f50ddd9c9e5ae244d.jpg> 即完売10万円うまい棒 なぜ作った
+      <a href=https://news.yahoo.co.jp/pickup/6533946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/09bf88c0b7cd7530dd849ccd4834307f82e627c43f97057b2477de93511e4fdc.jpg> ポッカ「コーン茶」販売倍増 なぜ
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/243530478555a0b5fd008e5cafdc80227030f2f45cbaec9ea5111454209fd1cd.jpg> 感謝祭TVer配信 江頭は全カット
+      <a href=https://news.yahoo.co.jp/pickup/6533949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/3691eb1db2c224e866a66b3d7ab975efe1b74aa909cf6c386d0b2fca5f48c438.jpg> 見栄晴 がんでも死ぬ気しなかった
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 20:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 21:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
