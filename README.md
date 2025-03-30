@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GV8fe3oLnZ0?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c609121b98619cc884b06e6c19dd25f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8a1e69f4cf4fcfccb4dd69533a7db1e6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd8ba9b136d7fa4d894d7d39ed3893579466a6bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00094416-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 【2025センバツ・今日のMVP】横浜のセンター阿部が決勝で八面六臂の大活躍。名実ともに高校No.1外野手を襲名！＜SLUGGER＞
+      <a href=https://news.yahoo.co.jp/articles/879c118074c0b0adaaf1b0293a8763aca5f47303>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-21821673-mbcnewsv-000-2-thumb.jpg?exp=10800&fmt=webp> 新燃岳の噴火警戒レベル3に引き上げ　4キロ圏内通行止めで観光客から心配の声「何事もなければいい」　鹿児島
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9fa2109401e7614d1e32817029093c3b37cc4353>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000032-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 横浜の片山、期待に応えた1球リリーフ　背番号18「今は誇り」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8ec4cf39c8501bbf9dc91be085a8476a81cc391b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00050540-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> Ｎ党・立花孝志氏は立候補見送り　岸和田市長選告示　失職の前市長ら４人の争いに
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3887056f0422872b2055b836422e52c437b5b57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-02312924-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 【ロッテ】昨季リーグ王者から開幕3連勝　4点差をひっくり返す　ソトが2試合連続HR　救援陣が無失点リレー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0bca5231dd626b820a5a283a2bbe7d3659faba70>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-18261146-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 日本人1人と連絡とれず　ミャンマー地震、死者約1700人に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1532c3e789ab5507369dd2eaeca4b424bdcf364d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00029215-tenki-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日31日の朝は強い冷え込み　関東～九州の通勤は冬コートで　寒さいつまで?
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/43f8b6085dcdff465202254e7f1dfae994a5ad0609d050525ae16206527c8849.jpg> ミャンマー  邦人1人と連絡とれず
+      <a href=https://news.yahoo.co.jp/pickup/6533918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/a8427e23b1756fa3a6560c3aad07f04e31f0f03e945836ada6f6176748303c0a.jpg> 米長官 中国抑止に日本は不可欠
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/53f48eed7aa922d478cb2a211f5e2e266c45dba4f62028735c5485281e9c85c9.jpg> 民間機が墜落 搭乗の4人けがなし
+      <a href=https://news.yahoo.co.jp/pickup/6533932>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/f9763a5e4f3d16a8730f7b8c08d462ed294765392e4edba1e6d769c6276f131c.jpg> 虐待隠ぺい 精神科病院を行政指導
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 18:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 18:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
