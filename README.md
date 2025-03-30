@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/867ec3010261c5e8c06feda8011ed5dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/489a7ebef43a449b7ea6ec9e9ea3e45e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f0788181004481fc3c7eeb7db87ed45502381d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000027-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=855&ch=855&exp=10800&fmt=webp> 大谷、ブルペン投球を再開　投打「二刀流」へ前進
+      <a href=https://news.yahoo.co.jp/articles/c2bf0d70d185b4792353ae41277c7a817c67e6e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドジャースの大谷、ブルペン投球再開　米大リーグ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddaff49e460fe4fde467030a945b770bc1d4c99e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】霧島連山・新燃岳、噴火警戒レベル「３」に引き上げ
+      <a href=https://news.yahoo.co.jp/articles/3a2ff8f78d9f5a5bb8df73ee97a658039387a90e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新燃岳、入山規制に　噴火警戒レベル3に引き上げ　気象庁
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ae8046564a9d02c192ea8493171a7b32768ad3fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00520014-theanswer-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 日本はまだ少数派も…選んだ「卵子凍結」　34歳、出産の選択を残して競技生活に集中　費用は「45万円くらい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00520014-theanswer-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 日本はまだ少数派も…選んだ「卵子凍結」　34歳、出産の選択を残して競技生活に集中　費用は「45万円くらい」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/f1e2b05db9b63a3a2109d843bf79159af987c40fc423e4136a00d5a542f0c0b6.jpg> ミャンマー民主派 戦闘を一時停止
+      <a href=https://news.yahoo.co.jp/pickup/6533880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/045a1bcb6e1c27207d4f54411c256afc4047b00b132cbe1f5cc1da3ff86e83f3.jpg> ミャンマー地震 犠牲者は大幅増か
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/196d43ada641ca486dcf6793db1fa4e9a2095ef2ea4675919786eab3bc9cbd0b.jpg> 車3台が絡む事故 1人死亡2人けが
+      <a href=https://news.yahoo.co.jp/pickup/6533878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/227b991785b82c43ad5bdb3ef92be74e87f0cc155cd510cca6aeac5de7d1ce16.jpg> 高速道路で降車か はねられ死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/ff20476f835e6a1969818f4d082939f4a4bf4140787d59d35eccc08e8b5d89ce.jpg> 無念 タワマン並ぶ街で町内会解散
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533873>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/02369e60adf26e038139336aeaf52c1a4a98772fef3ff8da282d300cf67dfb2b.jpg> 大谷翔平 32日ぶりブルペンで投球
+      <a href=https://news.yahoo.co.jp/pickup/6533872>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/6ed53ed1a66f167faf5476205acce258fd3553ce09bec4fe14de154c00f6ba7f.jpg> 卵子凍結を選択 34歳プロランナー
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/dcd8af2dfdc39142ec4571da204d0bea6e8c14e21208aefeff52b4e1a165d6aa.jpg> 松本梨香 海外オファー殺到の今
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 10:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 11:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
