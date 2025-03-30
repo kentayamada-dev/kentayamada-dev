@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ebd0163878d2bcdf1b472b2b1567e3de.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/867ec3010261c5e8c06feda8011ed5dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3f0788181004481fc3c7eeb7db87ed45502381d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000027-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=855&ch=855&exp=10800&fmt=webp> 大谷、ブルペン投球を再開　投打「二刀流」へ前進
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000027-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=855&ch=855&exp=10800&fmt=webp> 大谷、ブルペン投球を再開　投打「二刀流」へ前進
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ae8046564a9d02c192ea8493171a7b32768ad3fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00520014-theanswer-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 日本はまだ少数派も…選んだ「卵子凍結」　34歳、出産の選択を残して競技生活に集中　費用は「45万円くらい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00520014-theanswer-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 日本はまだ少数派も…選んだ「卵子凍結」　34歳、出産の選択を残して競技生活に集中　費用は「45万円くらい」
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/2baf61290097ddbe421cdfe48ea7c15aa6682986b07b91c6df2c48c88e58dc39.jpg> 町田GK谷 まさかのオウンゴール
+      <a href=https://news.yahoo.co.jp/pickup/6533873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/02369e60adf26e038139336aeaf52c1a4a98772fef3ff8da282d300cf67dfb2b.jpg> 大谷翔平 32日ぶりブルペンで投球
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533856>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/570c26ba93f55693685812106d74428bbd740e2e3200454d90ef2fb72f65995d.jpg> ヤンキース 衝撃の「3球3HR」
+      <a href=https://news.yahoo.co.jp/pickup/6533871>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/2baf61290097ddbe421cdfe48ea7c15aa6682986b07b91c6df2c48c88e58dc39.jpg> 町田GK谷 まさかのオウンゴール
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 10:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 10:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
