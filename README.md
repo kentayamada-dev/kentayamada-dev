@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2558460b9a5198ca368c29f23b643ce6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1bee3bbd353c56bb5912c781bd98efc6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d48516072f4a2e7c920dd68f53aa9d875ed3ed6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-07227538-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　被害の大きいマンダレーなどで懸命な救助活動続く　タイでも被害拡大、国内で死者18人、負傷者33人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ce4809ca4657c8a583fb3da4bae59b78993c8d76>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-21821802-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=424&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 20年ぶりの選挙戦…野沢温泉村長選は43歳の新人上野雄大氏が初当選…元スキー選手　5期目を目指した前村長破る　長野県
       </a>
@@ -367,30 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1a4fd514e2637f0c3c397a1cd9cd666fc1c09870>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-03301284-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 横浜高野球部ＯＢの上地雄輔「ただ『頑張れー』と思ってただけ」後輩のセンバツＶを祝福「俺も誰かの背中を押せるよう」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/109b00e89ce46801af051bd3ebaae358b3c0ecfb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-33302363-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=1266&ch=1266&exp=10800&fmt=webp> 「すき家」一部店舗休業、牛丼インフルエンサーまさかのピンチも…エールや情報続々と寄せられる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e6f792d10a7a472cb78698d00479e2bde940730>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010015-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希 乱調で2回途中降板「信じ切れるものがなかった」ベンチで涙ぐむ場面は「そんなことはないと思う」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9d07f5e1c003a4d222ed86cfc2919ce767cd78f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー地震は過去100年で最大、各国が救助隊や支援物資　民主派は停戦発表
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 00:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 01:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
