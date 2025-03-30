@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/70db87f0eb661340eb31912017d5963a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a1a9b67eb2a07d1737a05566463d846d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4aeabcd154947ff01454f33abb7e0cb797d15880>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000214-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 前田健太「完全に力みました」大谷翔平にストレートの四球で「きちんと勝負したかった。申し訳ない」
+      <a href=https://news.yahoo.co.jp/articles/d1d273efcb94c0123bcc5cc84d22e0deaf3f6acb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000223-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=776&ch=776&exp=10800&fmt=webp> 【前田健太と一問一答】中継ぎは「全球、勝負球のつもりで」大谷との対戦は「力んでしまい」四球
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac004eea7829c0860cb62a1206fec665fb3ade42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000213-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=796&ch=796&exp=10800&fmt=webp> ド軍指揮官　佐々木朗希を次回も先発させる意向「次に備えさせたい」ローテ通りなら4月6日フィリーズ戦
+      <a href=https://news.yahoo.co.jp/articles/ce57fd57284c4f270e0dc7e8a7e8ecf2380e89ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000038-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=968&ch=968&exp=10800&fmt=webp> 一問一答　ドジャース・佐々木朗希は4四球と乱れた制球に「自分の中で信じ切れるものがなかった」
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8fd22a71c16b25486b2eb8a42c3824468a0e6bce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000021-ann-000-7-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者1600人超　各国から支援　救助活動続く
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000021-ann-000-8-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者1600人超　各国から支援　救助活動続く
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533879>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/ff20476f835e6a1969818f4d082939f4a4bf4140787d59d35eccc08e8b5d89ce.jpg> 無念 タワマン並ぶ街で町内会解散
+      <a href=https://news.yahoo.co.jp/pickup/6533898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/c06a8d2bd880c53aadf32100a328d1083b36d7e053e4a4e4b52d6dfc424a41c9.jpg> 浜松4人死傷事故 小4姉の意識回復
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/b4694e69749da1c052c87e64ae87d7216c2f3aab05f2b30e0cd19529e2007a53.jpg> 春先注意? 車に飛び石なぜ起きる
+      <a href=https://news.yahoo.co.jp/pickup/6533890>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/23d7ff44b319e13fda6b03fca7563c68696aac8419ad99d319605fc13f97b71c.jpg> 群馬が躍進 移住希望地1位の理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533882>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/12c311306e58fc46a0b8da3cfac14b13bcdd090a230d7f3b96f3ce343e9fe369.jpg> 朗希の目に涙 本拠地で2回途中KO
+      <a href=https://news.yahoo.co.jp/pickup/6533897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/c06869af81779cbaeeddaeaf66bac6134257a317d34734f6f63f6f5a5eea9db7.jpg> 朗希2回途中KOも ド軍開幕5連勝
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 13:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 14:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
