@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ea1645beac1fe4016ee26b7eefb283f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2692137e03462cb4f655bb68ed8c6634.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fbda5756fbecc37010bb92ce508b2eec51d3ec7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00050012-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=8&cw=484&ch=484&exp=10800&fmt=webp> 霧島連山の新燃岳、噴火警戒レベル３に引き上げ…１８年６月以来・気象庁が警戒呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/2591616b5b18097765e576b8a6d2487f99396a3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-10171096-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=671&ch=671&exp=10800&fmt=webp> ミャンマー大地震 死者1600人超 各地からボランティア団体が参加
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c9cab5e6b2edf563e0a1362c5ccd7d94ab30a5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-33300068-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ヤンキース新記録、９本塁打で大勝　先頭打者から３者連続初球ホームランは史上初の快挙
+      <a href=https://news.yahoo.co.jp/articles/2423dfe3d0037dfd3483760c5af2bc6fc1c7f7f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-10171095-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 新燃岳、噴火警戒レベル3「入山規制」に引き上げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a48c7b162985c3b3ce8e199eac6399a66b91a7fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-03301029-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ヤンキースのジャッジが３発！「５バレル」で自身２度目メジャー記録…いい当たりの指標「バレル」とは
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db4d793442f85e2f0e6976ccb9bf40c6c747b42a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-07227458-jnn-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー大地震の死者1600人超・負傷者3400人以上に、多数の建物が倒壊するなど甚大な被害 各地で救助活動続く
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/22d85d05d5118c05b944d85524444ac8c9ee1c0c67db755b8961109fcf4cb27b.jpg> ミャンマー 地震の死者1600人超
+      <a href=https://news.yahoo.co.jp/pickup/6533860>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ミャンマー民主派 戦闘を一時停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533860>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ミャンマー民主派 戦闘を一時停止
+      <a href=https://news.yahoo.co.jp/pickup/6533865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/153e2f3e0f7df24ef63bb1b90cca2090420966728b3231d1b3b0015e593a4305.jpg> 自民17議員の政治団体 商品券購入
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533844>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/29/eae1de0ec8473153bc5a10e8452d26a73d42648c03348604ca89bceda035ca0f.jpg> すき家 ゴキブリの一部混入が発覚
+      <a href=https://news.yahoo.co.jp/pickup/6533867>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/92619cae7313d6041d998dd16305f823d341273dc9d49192c0121cb21ea82bf3.jpg> スーパーに並んだ備蓄米 表示なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533864>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/196d43ada641ca486dcf6793db1fa4e9a2095ef2ea4675919786eab3bc9cbd0b.jpg> 車3台が絡む事故 1人死亡2人けが
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533858>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/c8c049b19b82ca36dc4d62c36747b5fc2bda302791c22120e0867852025e0fa4.jpg> 圧巻 巨人キャベッジ開幕2戦HR
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533862>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/584582e41c53bdf03acd775f2c7fcf0dd6678905908cbdfb0b6adf3d86040186.jpg> 松嶋尚美 子育てと介護が重なる今
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 08:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 09:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
