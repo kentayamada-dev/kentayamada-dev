@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/19b0b75a1ed497911054e44d2e0a2cb1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/73e3469ab1a4a63ea0eb66d38c92880e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce4809ca4657c8a583fb3da4bae59b78993c8d76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-21821802-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=424&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 20年ぶりの選挙戦…野沢温泉村長選は43歳の新人上野雄大氏が初当選…元スキー選手　5期目を目指した前村長破る　長野県
+      <a href=https://news.yahoo.co.jp/articles/286d93336d9bcc114bd81cc79cb57ec9d7bad3df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00339338-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 喜劇俳優・芦屋小雁さん死去　91歳　2018年に認知症公表後もさまざまな活動
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 03:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 04:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
