@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f0facf5bcebbb67adf5351ec192919d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/539a2a7714a4387636e57bf5c9a50ba7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5feb1a1d1d37972f4da09fb6d34d8f1e144328a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000188-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=888&ch=888&exp=10800&fmt=webp> 佐々木朗希の制球難示すチャート表　米メディアが公開「チャートは全てを物語っている」
+      <a href=https://news.yahoo.co.jp/articles/54b014a4f0c1b8e79fbc345f2ff7202a5c95202f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00094397-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=809&ch=809&exp=10800&fmt=webp> 「MLBの打者は佐々木の２番目の球種を無視する」２戦続けて制球難の佐々木朗希に米記者苦言「ストライクはわずか32球」「最も注目すべきは...」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/982357394474a527127e75afb02cd16e58f5d8cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-90027486-umk-000-1-thumb.jpg?exp=10800&fmt=webp> 【空撮映像】噴煙を上げる新燃岳　7年ぶり噴火警戒レベル「３」周辺4キロの道路や登山道を規制
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8fd22a71c16b25486b2eb8a42c3824468a0e6bce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000021-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者1600人超　各国から支援　救助活動続く
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/924dfc248981bce7998a8ec4fdaa9caf4e0688f9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000025-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平の第3打席は申告敬遠　続くT・ヘルナンデスの二塁打で一気に生還
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a09b5c1a5dd242058f82654377174349f8c6541>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-21821380-mrt-000-1-thumb.jpg?exp=10800&fmt=webp> 霧島山・新燃岳　噴火警戒レベル「3」（入山規制）に引き上げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92a7e0e34847d30beb8f441315ed3b69de444e78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-07227471-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 1644人死亡、日本人2人含む3400人以上負傷　ミャンマー大地震　民主派組織は人道支援で戦闘の一時停止発表
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/27/36466157d543401af75794fce27250587b4e2963cc1937ba7edae8195989a8fc.jpg> 速報選抜決勝 横浜vs.智弁和歌山
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533880>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/f8bcdfc9d13cf181b9080f7561e346413df86bd040a5fbf91ec1ae58f0bd1851.jpg> 250円のモーニング 続ける理由
+      <a href=https://news.yahoo.co.jp/pickup/6533888>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/b4694e69749da1c052c87e64ae87d7216c2f3aab05f2b30e0cd19529e2007a53.jpg> 春先注意? 車に飛び石なぜ起きる
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533882>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/12c311306e58fc46a0b8da3cfac14b13bcdd090a230d7f3b96f3ce343e9fe369.jpg> 朗希の目に涙 本拠地で2回途中KO
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533872>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/6ed53ed1a66f167faf5476205acce258fd3553ce09bec4fe14de154c00f6ba7f.jpg> 卵子凍結を選択 34歳プロランナー
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 12:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 12:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
