@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GV8fe3oLnZ0?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/87ba54f83b1ecd5936695877b98e3c28.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3eeb7db24c7a29f5e083f9cba11cad79.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ce30cecb8b86221a1e357b2216335cc95cf64fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00339318-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【センバツ】横浜19年ぶり優勝のウラに「80歳の元さん」　おじいちゃん孝行の終着駅は〝全国１強〟
+      <a href=https://news.yahoo.co.jp/articles/0429be79c47ec14ae57f5e9cd2b2940304936162>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010003-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=1853&ch=1853&exp=10800&fmt=webp> センバツ優勝の横浜2年生エース織田翔希はOB松坂大輔氏を超える怪物なのか…2026年のドラフト候補逸材が揃った大会
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08caa0cc394d87ef24fa99677280c4cc8b128e06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-07227539-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者は約1700人に 懸命な救助活動続く　タイでも被害拡大、ビル崩壊現場では78人が安否不明
+      <a href=https://news.yahoo.co.jp/articles/eeda336e623131157d4cd317e4a53c0d0ddc84ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00050013-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=351&ch=351&exp=10800&fmt=webp> ミャンマー地震、迫る「７２時間」に焦り…資機材不足に加え道路や空港損壊・余震で進まぬ救出活動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/866080d7a27606637a1ff4f136ec4f24ff7ee3d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010002-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 氷川きよし、小室哲哉コラボ曲が『ゲゲゲの鬼太郎 私の愛した歴代ゲゲゲ』EDに　配信＆CDリリースも
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c4d438474a597379947935f93e40ce106bd0a798>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=367&cw=1466&ch=1466&exp=10800&fmt=webp> 「佐々木朗希は今すぐスターになれないが…」米メディアが指摘した大乱調の4つの論点…ロバーツ監督に登板後ベンチ裏から引き戻されたこと、制球難、3キロ低下の平均球速、スプリット不調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a5a38b0d8a9d0ded99f44d61cdbf05de9558f8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-03311019-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=245&cw=696&ch=696&exp=10800&fmt=webp> 菅野智之、メジャーデビュー戦はアクシデントで緊急降板　ファンはエール「通用する！」「心底応援している」
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533963>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/c515f66936f110aae2d79fddcfbf066990cbe85c619a97afa763fa83b12acc4e.jpg> 新庄監督ズバズバ起用的中 3連勝
+      <a href=https://news.yahoo.co.jp/pickup/6533969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/03a6369a99e8aa810018d9347a568dc85b091bdeb66e54d4460bb50f80c169a0.jpg> 氷川きよし アニメ曲で高速ラップ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 06:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 07:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
