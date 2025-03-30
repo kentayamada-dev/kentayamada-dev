@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GV8fe3oLnZ0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e4ffdde466a772dfc7c03cef877ed783.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c609121b98619cc884b06e6c19dd25f3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70286aa95fdb7beb4b7b98619909a7caa9f2d547>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-03301194-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 【センバツ】「大輔の１球」　横浜・片山が好救援で１９年ぶりＶに貢献「野球をやっていてよかった」
+      <a href=https://news.yahoo.co.jp/articles/fd8ba9b136d7fa4d894d7d39ed3893579466a6bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00094416-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 【2025センバツ・今日のMVP】横浜のセンター阿部が決勝で八面六臂の大活躍。名実ともに高校No.1外野手を襲名！＜SLUGGER＞
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0bca5231dd626b820a5a283a2bbe7d3659faba70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本人1人と連絡とれず　ミャンマー地震、死者約1700人に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-18261146-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 日本人1人と連絡とれず　ミャンマー地震、死者約1700人に
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1532c3e789ab5507369dd2eaeca4b424bdcf364d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00029215-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日31日の朝は強い冷え込み　関東～九州の通勤は冬コートで　寒さいつまで?
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00029215-tenki-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日31日の朝は強い冷え込み　関東～九州の通勤は冬コートで　寒さいつまで?
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/b67edd5571bec2cd3b704947059edf7d1cf829a22fa6fa22638da7ed826c2ec1.jpg> 家帰りたい ケア児支える小児科医
+      <a href=https://news.yahoo.co.jp/pickup/6533924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/4f1487376a47aeb8d5489bfda37c91c2f8ccf884a71870d1262de869a29367ee.jpg> 自民県議が国民から出馬へ 参院選
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533913>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/4e11ef731b57e845af9f10f51390d942db71d1c5fbd7e380b4a8f1015a392892.jpg> 都営バスと車が衝突 13人負傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533928>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/9351003b1ab723867db1c6eb0e632a0fbcb21d4974a2085ef4cd4fc812cd0c34.jpg> 署で10代の警官流血 体の下に拳銃
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533911>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/38004ae4123ed2ffe92bc581586867120ae8a926ad79888abbfd91bf0b9c1237.jpg> 工藤公康氏の長女 国内ツアー初V
+      <a href=https://news.yahoo.co.jp/pickup/6533916>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/6c15ab9d59b12188ac95fa9e033fb2c92bf6bf6a6b145bfedb99f57225cf7c1f.jpg> ダイソーがベトナムに拠点置く訳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/a45c6ac2c16140440a4e19f517a87aa6f8b26bb090860396f3fca3315cfddeac.jpg> SB まさかの珍事で勝ち越し許す
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 17:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 18:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
