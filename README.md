@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GV8fe3oLnZ0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2e2eb421dd0528a190df6720672e4318.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cefb2a7ba4fee4a700d92de590f96cfd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ed4f91c9665b483948a3fb35a13de946c8bb3c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-90027488-umk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 霧島連山・新燃岳　噴火警戒レベル「３」に引き上げ　周辺4ｋｍの道路・登山道を規制
+      <a href=https://news.yahoo.co.jp/articles/b1376e511fd48604252b4c546264d30aa942e181>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00339295-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【センバツ】横浜19年ぶり４度目Ｖ！　秋春連覇で公式戦20連勝も…村田監督「春はまだ通過点」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43f0bb48cc7fcaa6865ab4da2e224006ddac337e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> センバツ決勝　横浜が19年ぶり4度目の優勝　智弁和歌山を11対4で破る
+      <a href=https://news.yahoo.co.jp/articles/22835c53b0c97856a7dd88a4e4f347e00ffe5b8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-07291679-kytnews-000-1-thumb.jpg?exp=10800&fmt=webp> 霧島連山新燃岳　噴火警戒レベルを入山規制の3に引き上げ　おおむね4キロ範囲で大きな噴石などに警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ec4cf39c8501bbf9dc91be085a8476a81cc391b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00050540-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> Ｎ党・立花孝志氏は立候補見送り　岸和田市長選告示　失職の前市長ら４人の争いに
+      <a href=https://news.yahoo.co.jp/articles/1ccb4d706def9f160b312d964d1b0cf0cd4b57bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-33301150-nksports-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1463&ch=1463&exp=10800&fmt=webp> 降板後の佐々木朗希をベンチに呼び戻す　ロバーツ監督「彼と少し話したかっただけ」成長願い熱弁
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533932>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/f9763a5e4f3d16a8730f7b8c08d462ed294765392e4edba1e6d769c6276f131c.jpg> 虐待隠ぺい 精神科病院を行政指導
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533928>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/9351003b1ab723867db1c6eb0e632a0fbcb21d4974a2085ef4cd4fc812cd0c34.jpg> 署で10代の警官流血 体の下に拳銃
       </a>
@@ -442,8 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/a45c6ac2c16140440a4e19f517a87aa6f8b26bb090860396f3fca3315cfddeac.jpg> SB まさかの珍事で勝ち越し許す
+      <a href=https://news.yahoo.co.jp/pickup/6533931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/5ad282277cbe45abf8ec8aff3f1ce006694cde5ecf96257f10ea8b3ba951065b.jpg> 40代のJR西社員が副市長に 抱負
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/18cf54c22c16223093db04278d5e43faad1663c7efcc420f50ddd9c9e5ae244d.jpg> 即完売10万円うまい棒 なぜ作った
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/001582e78ea79b56a4214708925462a95da2d72fa5002086639fd4713810e06f.jpg> 佐々木朗希の行動に物議 監督擁護
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533919>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/32ae44985c66b4659b46c9854ff2b31c2650fbfcba5d9fb84842b0b51ccd4fe6.jpg> 父は元巨人・母はアナ 宝塚に合格
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 19:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 19:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
