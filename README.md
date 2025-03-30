@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8fd67e6626c9b3e3c606089de87c4670.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac50a30b10a73a4060cb49fae39cbfb9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0472692b20ed8179032992d99854d5822ef7b4c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 大谷翔平　無安打も今季初盗塁　５戦連続得点！昨季得点王が早くもトップ浮上　ド軍４４年ぶり開幕５連勝
+      <a href=https://news.yahoo.co.jp/articles/5f4b5411430a47bf9be352a10917e66f9bd3f69e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00339333-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木朗希の“四球地獄”は「成長痛」 巨大戦力ドジャース選んで正解「我慢する余裕ある」と米報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/02de473db9338310e9f3a3ae1646a67c525d55a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-08158443-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　死者は約1700人に　日本人1人と連絡取れず…インフラも大打撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c1a1a589fa7791ef68a27f67d901ea115e75b008>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000076-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=260&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 【センバツ】横浜　19年ぶり4度目のセンバツ優勝！公式戦20連勝で史上初2度目の秋春連覇
       </a>
     </td>
   </tr>
@@ -436,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 05:00:07 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 05:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
