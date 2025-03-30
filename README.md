@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f24543e9073480a82e564dc083d7a435.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ebd0163878d2bcdf1b472b2b1567e3de.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e30105c4836e13a2c878339324c6d12711e89bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 史上初「3球3本塁打」　ヤンキース、開始直後に―米大リーグ
+      <a href=https://news.yahoo.co.jp/articles/3f0788181004481fc3c7eeb7db87ed45502381d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000027-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=855&ch=855&exp=10800&fmt=webp> 大谷、ブルペン投球を再開　投打「二刀流」へ前進
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a202fe6984e45785bc5af51f5ff297d84fa0e840>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000004-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=424&ch=424&exp=10800&fmt=webp> 【速報】霧島連山・新燃岳の噴火警戒レベル3(入山規制)に引き上げ　火山性地震が急増、地殻変動も確認　鹿児島地方気象台
+      <a href=https://news.yahoo.co.jp/articles/ddaff49e460fe4fde467030a945b770bc1d4c99e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】霧島連山・新燃岳、噴火警戒レベル「３」に引き上げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2591616b5b18097765e576b8a6d2487f99396a3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-10171096-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=671&ch=671&exp=10800&fmt=webp> ミャンマー大地震 死者1600人超 各地からボランティア団体が参加
+      <a href=https://news.yahoo.co.jp/articles/8ce40f44a8bbaa1993fe63d888573bc05d1f359b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000001-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ミャンマー地震、死者1644人に 犠牲者大幅増の可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae8046564a9d02c192ea8493171a7b32768ad3fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00520014-theanswer-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 日本はまだ少数派も…選んだ「卵子凍結」　34歳、出産の選択を残して競技生活に集中　費用は「45万円くらい」
       </a>
     </td>
   </tr>
@@ -395,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533860>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ミャンマー民主派 戦闘を一時停止
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/f1e2b05db9b63a3a2109d843bf79159af987c40fc423e4136a00d5a542f0c0b6.jpg> ミャンマー民主派 戦闘を一時停止
       </a>
     </td>
   </tr>
@@ -426,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/605cc9c7e08c32b364edf95876c25f574620a08fb87fd75d1c583550836d9e44.jpg> 小さな村に大手チェーン 続々進出
+      <a href=https://news.yahoo.co.jp/pickup/6533866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/f8bcdfc9d13cf181b9080f7561e346413df86bd040a5fbf91ec1ae58f0bd1851.jpg> 250円のモーニング 続ける理由
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533871>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/2baf61290097ddbe421cdfe48ea7c15aa6682986b07b91c6df2c48c88e58dc39.jpg> 町田GK谷 まさかのオウンゴール
       </a>
     </td>
   </tr>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533862>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/584582e41c53bdf03acd775f2c7fcf0dd6678905908cbdfb0b6adf3d86040186.jpg> 松嶋尚美 子育てと介護が重なる今
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 09:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 10:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
