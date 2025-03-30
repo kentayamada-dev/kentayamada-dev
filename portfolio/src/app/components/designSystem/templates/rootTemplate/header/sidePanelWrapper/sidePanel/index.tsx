@@ -55,7 +55,7 @@ const SidePanel: SidePanelType = (props) => {
             <LinkItem href='/storybook' icon={StorybookIcon} title='Storybook' />
             <LinkItem href='https://github.com/kentayamada-dev/kentayamada-dev/tree/main/portfolio' icon={StyledGithubIcon} title='GitHub' />
             <div className='mt-5'>
-              <CopyRight authorName={props.authorName} href={props.href} year={props.year} />
+              <CopyRight author={props.author} copyrightYear={props.copyrightYear} homepageUrl={props.homepageUrl} />
             </div>
           </div>
         </DialogPanel>

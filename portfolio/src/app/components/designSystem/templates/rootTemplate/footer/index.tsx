@@ -4,7 +4,7 @@ import type { FooterType } from './types';
 const Footer: FooterType = (props) => {
   return (
     <footer className='border-primary mt-auto border-t p-3'>
-      <CopyRight authorName={props.authorName} href={props.href} year={props.year} />
+      <CopyRight author={props.author} copyrightYear={props.copyrightYear} homepageUrl={props.homepageUrl} />
     </footer>
   );
 };

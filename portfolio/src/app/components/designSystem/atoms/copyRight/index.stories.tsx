@@ -3,9 +3,9 @@ import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
   args: {
-    authorName: 'John Doe',
-    href: 'http://www.example.com',
-    year: 2024
+    author: 'John Doe',
+    copyrightYear: 2024,
+    homepageUrl: 'http://www.example.com'
   },
   component: CopyRight
 } satisfies Meta<typeof CopyRight>;

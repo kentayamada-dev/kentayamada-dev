@@ -3,7 +3,7 @@ import { Article } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
-  argTypes: { locale: { control: 'select', options: arrayOfLocales } },
+  argTypes: { createdAt: { control: 'date' }, locale: { control: 'select', options: arrayOfLocales }, updatedAt: { control: 'date' } },
   args: {
     articleTitle: 'Article Title',
     content: (

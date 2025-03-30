@@ -25,14 +25,14 @@ const SidePanelWrapper: SidePanelWrapperType = (props) => {
 
   return (
     <SidePanel
-      authorName={props.authorName}
+      author={props.author}
+      copyrightYear={props.copyrightYear}
       currentPathname={pathnameWithoutLocale}
       handleToggle={handleToggle}
-      href={props.href}
+      homepageUrl={props.homepageUrl}
       isOpened={isOpened}
       items={navigationItems}
       locale={props.locale}
-      year={props.year}
     />
   );
 };

@@ -20,12 +20,13 @@ const Layout: LayoutPageType = async (props) => {
   const currentYear = new Date().getFullYear();
   const { locale } = await props.params;
   const { myName } = dictionaries[locale];
+  const homepageUrl = `/${locale}`;
 
   return (
     <html className={fonts} lang={locale} suppressHydrationWarning>
       <body>
         <Providers>
-          <RootTemplate authorName={myName} href='https://github.com/kentayamada-dev' locale={locale} year={currentYear}>
+          <RootTemplate author={myName} copyrightYear={currentYear} homepageUrl={homepageUrl} locale={locale}>
             {props.children}
           </RootTemplate>
         </Providers>
