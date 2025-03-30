@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eee35c6fa694b395618ba36c870405b6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/02317c5337216022a352a90871b55f42.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7e6f792d10a7a472cb78698d00479e2bde940730>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010015-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希 乱調で2回途中降板「信じ切れるものがなかった」ベンチで涙ぐむ場面は「そんなことはないと思う」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c47684a39379f2252f8f0b4a6c51ac67a99857ff>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/752d7c9384b1beb0a670f028c52f6c939ddb517c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000013-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=1257&ch=1257&exp=10800&fmt=webp> 〈詳報〉7年ぶりの噴火警戒レベル3　霧島連山・新燃岳に気象庁が機動調査班派遣　鹿児島県は火口から半径4km以内を立ち入り規制
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000013-minami-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=1257&ch=1257&exp=10800&fmt=webp> 〈詳報〉7年ぶりの噴火警戒レベル3　霧島連山・新燃岳に気象庁が機動調査班派遣　鹿児島県は火口から半径4km以内を立ち入り規制
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a8ac326a2d44242a2438badd78bc5aaeea4bdb5d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00050545-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=418&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 官製談合疑いの忠岡町長に大阪維新の会が除名処分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/620686e07d8799b5bbd6008ec48aad935db2b33c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-02754555-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「何回見ても泣ける」ドジャースが元同僚へチャンピオンリング授与式　フリーマンも熱い抱擁
       </a>
     </td>
   </tr>
@@ -426,6 +426,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/41e54ec6ea3aaf3c787a7c78bdc966aa15618891f32b329006c18dd543706217.jpg> 談合疑い忠岡町長 大阪維新が除名
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533953>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/56ceb89d4b3329da72b41a14c71e8d2b9f38873e581ccc958b5a366eb57734e2.jpg> 入学しない確約 車いす中3に要求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533942>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/6dfecd33366c4356a5bf084e66c1077248ea617ba21e6d7d9af03bb90c34e2fd.jpg> 金沢にテロ犯の記念館 計画に波紋
       </a>
@@ -434,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533948>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/48d3dbdae93c7b33149c63ba7589123aeace7cb470c8b5a3acaa76be7a90564d.jpg> 都心にトラクター30台 農家らデモ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/09bf88c0b7cd7530dd849ccd4834307f82e627c43f97057b2477de93511e4fdc.jpg> ポッカ「コーン茶」販売倍増 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6533951>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/9a77c20d85a6ef3be522fc03a464818cbfe958172dc8f9c5954b990888aef7f5.jpg> 娘が初優勝 工藤公康さん「ホッ」
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/3691eb1db2c224e866a66b3d7ab975efe1b74aa909cf6c386d0b2fca5f48c438.jpg> 見栄晴 がんでも死ぬ気しなかった
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 21:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 22:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
