@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/86afd4c54fef74091e2531ce959cde51.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/56b35a9c1061368fda305b2b72a3884d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/faf7aec348b10006ee4679234dacccf51d1bf8a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01727988-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 爪が割れ胃腸炎も発症「動けない状態」　152キロ右腕、“苦境”乗り越え掴んだ日本一
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b81aa0527fb63b1a1394bf6343dc152beb015496>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01728454-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 新庄監督も絶賛「簡単に打ちますね」　135キロ巨漢助っ人の走＆打…来日2年目で得た“思考”
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01728454-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 新庄監督も絶賛「簡単に打ちますね」　135キロ巨漢助っ人の走＆打…来日2年目で得た“思考”
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e0e4af9620e7630b33697e30944e65548ee90550>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-10171202-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=781&ch=781&exp=10800&fmt=webp> ミャンマー大地震 約1700人死亡 「72時間」迫る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e964fec3aa044f5bdad5c63642dc968427534410>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000001-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 大阪桐蔭「一強」時代についに“翳り”が？　激戦区でライバルの大阪学院・辻盛監督、履正社の岡田元監督の評価「正直、怖さはないです」「これまで頭を越えていた打球が捕られたりも」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-10171202-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=781&ch=781&exp=10800&fmt=webp> ミャンマー大地震 約1700人死亡 「72時間」迫る
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533972>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/2ee9dad38f78e315b40501042b113a8367eda8fd81bf3915ace4feaec8b0f826.jpg> 元ロッテ袴田英利さん 2月に急死
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533964>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/4e5fb3cad52bc41b184ec781098052a886e78fe3b07c0df3c1b6d2cf179638da.jpg> 菅野智之がMLBデビュー 緊急降板
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/03a6369a99e8aa810018d9347a568dc85b091bdeb66e54d4460bb50f80c169a0.jpg> 氷川きよし アニメ曲で高速ラップ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 07:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 08:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
