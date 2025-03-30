@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8831eaf3acdcad8abfb315b06ec45a0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2558460b9a5198ca368c29f23b643ce6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ce4809ca4657c8a583fb3da4bae59b78993c8d76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-21821802-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=424&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 20年ぶりの選挙戦…野沢温泉村長選は43歳の新人上野雄大氏が初当選…元スキー選手　5期目を目指した前村長破る　長野県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1a4fd514e2637f0c3c397a1cd9cd666fc1c09870>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-03301284-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 横浜高野球部ＯＢの上地雄輔「ただ『頑張れー』と思ってただけ」後輩のセンバツＶを祝福「俺も誰かの背中を押せるよう」
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47450b7f588dc148cb9d82f47d7e631ed63b96f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000160-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=994&ch=994&exp=10800&fmt=webp> 日本ハム・野村佑希、連発＆6打点に「『ファイターズの4番です』と言えるように。ボスを日本一にできるように」63年ぶりの開幕3戦3勝
+      <a href=https://news.yahoo.co.jp/articles/109b00e89ce46801af051bd3ebaae358b3c0ecfb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-33302363-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=1266&ch=1266&exp=10800&fmt=webp> 「すき家」一部店舗休業、牛丼インフルエンサーまさかのピンチも…エールや情報続々と寄せられる
       </a>
     </td>
   </tr>
@@ -387,27 +395,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/752d7c9384b1beb0a670f028c52f6c939ddb517c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000013-minami-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=1257&ch=1257&exp=10800&fmt=webp> 〈詳報〉7年ぶりの噴火警戒レベル3　霧島連山・新燃岳に気象庁が機動調査班派遣　鹿児島県は火口から半径4km以内を立ち入り規制
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533959>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トンガ沖でM7.0 日本に津波なし
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533958>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/c771a5db6e0d0641ae95fe5eae15f13f29c2931bbe034ec9304ee75e124c1222.jpg> 警察庁長官銃撃事件 いまも残る謎
+      <a href=https://news.yahoo.co.jp/pickup/6533930>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/84c8e91b920be0118333e59b24827b856b6b792a1c0d83340f30df3c217777d8.jpg> ミャンマー地震 義援金詐欺に注意
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/4651a487a338f834534031b0d9925e1bb243ef12952fc0686c4102c7bb020bb9.jpg> 野沢温泉村長に元スキーW杯選手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533963>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/c515f66936f110aae2d79fddcfbf066990cbe85c619a97afa763fa83b12acc4e.jpg> 新庄監督ズバズバ起用的中 3連勝
       </a>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/573e1b302fccbe527c9946fe68aa205a0074ef8331400baaece489a60e474aea.jpg> 喜劇俳優の芦屋小雁さん死去 91歳
+      <a href=https://news.yahoo.co.jp/pickup/6533960>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/7e4c6b6cb4a943d2af83167af89c83207439340560b0e1f8867bc619562ae54c.jpg> 小嶋陽菜 年齢への批判はスルー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/8955c857c0b0854f9011e8ae413737ea7a59a12c03f5e8426be57e4072c72b8d.jpg> 行列 東野コメント中に最終回終了
+      <a href=https://news.yahoo.co.jp/pickup/6533923>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/243530478555a0b5fd008e5cafdc80227030f2f45cbaec9ea5111454209fd1cd.jpg> 感謝祭TVer配信 江頭は全カット
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 23:51:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 00:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
