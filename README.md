@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a4c84d4d040ede65988a38046d3d306e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/97e538eda7edc720c60db2c16017c615.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f7af1fb74b10f48596d5071fcb0f2743d8044661>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000051-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=438&ch=438&exp=10800&fmt=webp> W杯出場の元スキー選手初当選　20年ぶり村長選、長野・野沢温泉村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d817319dc16f1ce2a5555d1a1343ef14004c6ef4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010044-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=1003&ch=1003&exp=10800&fmt=webp> 目標は〝横浜一強時代〟選抜V右腕・織田翔希インタビュー　ファミレスの所作に成長に感じた成長の跡
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7e6f792d10a7a472cb78698d00479e2bde940730>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010015-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希 乱調で2回途中降板「信じ切れるものがなかった」ベンチで涙ぐむ場面は「そんなことはないと思う」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29c68fdb2fd55c5131801c08dd4c1ae733ea35ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00050082-yom-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 芦屋小雁さん死去…兄の芦屋雁之助さん没後、「裸の大将」引き継ぐ
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533955>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/6853b97b0fe041b969e0a5a205cc3c4eca193a930fab3cd27811af49b490d116.jpg> タイのビル倒壊 作業員語る当時
+      <a href=https://news.yahoo.co.jp/pickup/6533958>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/45a10158aac35772568a5d77e7b0f40ba9bc75811428099bd62bfea6898e6786.jpg> 米から防衛費増要求なく 政府安ど
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/c771a5db6e0d0641ae95fe5eae15f13f29c2931bbe034ec9304ee75e124c1222.jpg> 警察庁長官銃撃事件 いまも残る謎
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/8/8/1d10ee8060db02323ffaca3b538b4473850f4b6e2e890f3863e22a5d87ee0d0b.jpg> 都が誤投稿 Xに「氾濫危険情報」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533954>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/665aa0b19ec5327725cad210e98de45696062b141607ba900fe3d09088d5b9a7.jpg> 選抜決勝 勝負分けた「1球継投」
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/001582e78ea79b56a4214708925462a95da2d72fa5002086639fd4713810e06f.jpg> 佐々木朗希の行動に物議 監督擁護
+      <a href=https://news.yahoo.co.jp/pickup/6533961>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/573e1b302fccbe527c9946fe68aa205a0074ef8331400baaece489a60e474aea.jpg> 喜劇俳優の芦屋小雁さん死去 91歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 23:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 23:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
