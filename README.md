@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ae03e9d6f2d7835ffdf654efa2e8932.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f0facf5bcebbb67adf5351ec192919d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4961e5409fe5fcec015bed36745a402c89ac6fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000179-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=981&ch=981&exp=10800&fmt=webp> 大谷翔平の第2打席は左飛　3ボールから積極性見せるも2打席凡退　佐々木は2回途中2失点で降板
+      <a href=https://news.yahoo.co.jp/articles/5feb1a1d1d37972f4da09fb6d34d8f1e144328a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000188-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=888&ch=888&exp=10800&fmt=webp> 佐々木朗希の制球難示すチャート表　米メディアが公開「チャートは全てを物語っている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/127b2233a50d0b5e0673a9c49d9e2fa4e3507e78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00010000-afpbbnewsv-000-3-thumb.jpg?exp=10800&fmt=webp> ミャンマー地震、死者1644人に 犠牲者大幅増の可能性
+      <a href=https://news.yahoo.co.jp/articles/924dfc248981bce7998a8ec4fdaa9caf4e0688f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00000025-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平の第3打席は申告敬遠　続くT・ヘルナンデスの二塁打で一気に生還
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2bf0d70d185b4792353ae41277c7a817c67e6e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドジャースの大谷、ブルペン投球再開　米大リーグ
+      <a href=https://news.yahoo.co.jp/articles/1a09b5c1a5dd242058f82654377174349f8c6541>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-21821380-mrt-000-1-thumb.jpg?exp=10800&fmt=webp> 霧島山・新燃岳　噴火警戒レベル「3」（入山規制）に引き上げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a2ff8f78d9f5a5bb8df73ee97a658039387a90e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新燃岳、入山規制に　噴火警戒レベル3に引き上げ　気象庁
+      <a href=https://news.yahoo.co.jp/articles/92a7e0e34847d30beb8f441315ed3b69de444e78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-07227471-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 1644人死亡、日本人2人含む3400人以上負傷　ミャンマー大地震　民主派組織は人道支援で戦闘の一時停止発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae8046564a9d02c192ea8493171a7b32768ad3fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-00520014-theanswer-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 日本はまだ少数派も…選んだ「卵子凍結」　34歳、出産の選択を残して競技生活に集中　費用は「45万円くらい」
+      <a href=https://news.yahoo.co.jp/articles/b255cbfdea1ca6ebd3d4956f8a7dfa789f7f6b45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250330-10171100-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=829&ch=829&exp=10800&fmt=webp> マスク氏に抗議 世界各地で数百件のデモ
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533869>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/6d5aa0396b7167d43a353d10753d27d1c3111eba50d75127e8d7dbdddb31ecb9.jpg> ガザ停戦案 双方の駆け引き続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/92619cae7313d6041d998dd16305f823d341273dc9d49192c0121cb21ea82bf3.jpg> スーパーに並んだ備蓄米 表示なし
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/222aa492b101b6447cc9775925314b00ecf97a54e3f0f3298fe45607d45ff1f6.jpg> ワイドナ最終回 東野「力尽きた」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/30 11:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/30 12:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
