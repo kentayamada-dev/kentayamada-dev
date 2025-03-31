@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6f77331fabf13f288b59230923df603a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b3a8a06a0f8b0525f870d02cdbf4967d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7aa1fac8ed0011e978008ede54f3329821d0cf50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-07227577-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> フジテレビ問題　きょう第三者委員会の調査結果公表　その後、フジテレビ・清水社長が再発防止策など説明
+      <a href=https://news.yahoo.co.jp/articles/5ee7258570ea122fac91916bbf5c149e8688a712>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90049719-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 道央自動車道・常盤トンネル内で20人以上の外国人が乗った観光バスとワンボックスカーが衝突＿複数人が病院へ搬送されたが全員意識あり_一部区間で通行止め
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d14bab85956e4c43b2adf433b4671125bcdeda5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00950625-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【ミャンマー大地震】迫る「72時間」第2の都市マンダレーで日本人1人と連絡取れず…これまで約1700人死亡　タイ・バンコクのビル倒壊でも11人死亡
+      <a href=https://news.yahoo.co.jp/articles/e4eb7ec00e51aa41beabf7f9680bf0a9189f0447>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000030-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ関税「リスク深刻」 日経平均 一時1500円超の急落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cae1868a07700aff2b969bcc01e78478a90ffefe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-07227588-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日経平均株価 一時1500円超下落　米・トランプ政権の動きが市場の警戒感高め 約半年ぶりの安値に
+      <a href=https://news.yahoo.co.jp/articles/393e726a63a650e3926cd5a1048c5c3a17b66133>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-06814347-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【中継】ミャンマー大地震　1700人死亡　発生から72時間迫る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/918e487037d98c9888e4eaccd6dc9822b7c67807>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000031-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=647&ch=647&exp=10800&fmt=webp> 韓国警察、ＢＴＳのＪＩＮさんに「無理やりキス」日本人女性の捜査中止決定…出頭要請に応じず　
+      <a href=https://news.yahoo.co.jp/articles/108ab60acfeb1c0939af0c0bf246871ebf48cc56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000025-ann-000-3-thumb.jpg?exp=10800&fmt=webp> フジ第三者委報告書公表へ　社員関与の有無などが焦点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a127dc285870751cb643e8502b1a458576bde5d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01728387-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=600&ch=600&exp=10800&fmt=webp> カウント途中の“決断”は「奇策じゃないです」　甲子園騒然…敵将も驚き「想定してない」
+      <a href=https://news.yahoo.co.jp/articles/6535f3512f8a86926642c4ac97473893a5f878cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000001-baseballo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=665&ch=665&exp=10800&fmt=webp> 【センバツ】横浜が公式戦無敗の20連勝で頂点へ　名門復活の始まりは昨年5月チームに投じた“劇薬”
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/cfecdc2e2dbcacd7a91d9818e4ab7c14f59ebc55bd25ce12442cd09944e0cca1.jpg> 東京株、一時1500円超の下落
+      <a href=https://news.yahoo.co.jp/pickup/6533997>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/ce186049891402e8c8d267ed91f6c2cdfe183cb0c4b6231fc43de0957748759a.jpg> 南海トラフの新想定 死者29.8万人
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 12:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 12:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
