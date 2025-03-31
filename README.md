@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3021965d829afac81294f9273202b06e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7feefc5b04a5f2973c0553be7299a829.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9ac5504f39c4e8d37ff755ae418b8968965a7a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00950982-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジ社長　第三者委の調査終了受け「被害女性におわびの意伝えたい」　報告書指摘のハラスメントには「事実確認と厳正な処分」
+      <a href=https://news.yahoo.co.jp/articles/b77d0e61c1f4a230febb626f19c22bdef6bdc193>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-05544596-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「全社的にハラスメント被害がまん延していた」フジテレビ第三者委員会
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55d857e047d1f8235239c9f058262ccde494a7b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00339473-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＴＢＳ「オールスター感謝祭」が〝暴走〟江頭２：５０に謝罪　永野芽郁、アンミカへも「ご迷惑をお掛けした」
+      <a href=https://news.yahoo.co.jp/articles/e94f5ae5255a8e9671655625040927cac7fc566f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010023-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1463&ch=1463&exp=10800&fmt=webp> 永野芽郁、江頭騒動の終結を宣言「この話はもう２度としません」悪質コメには「対処法考える」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 01:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 02:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
