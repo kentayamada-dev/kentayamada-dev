@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1dfcf13309f9e3c7ec9b5a29e4f6d33.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e2de0244663bd3fc502997c116937ac1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec3fff2dec43a0fce58bb287610a90c6d38ede63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-03311235-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=899&ch=899&exp=10800&fmt=webp> フジ元編成幹部社員は「非常に問題が多かった」清水社長が認識示す
+      <a href=https://news.yahoo.co.jp/articles/53f3c19ff0505b832a840824644fadb11277bc59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00050180-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ミャンマー地震の死者１万人超える可能性、倒壊建物から妊婦ら３人救出…「７２時間」過ぎ救助続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d3f8ec6d552abfd06f3d69f770dcf07d2efa146>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33311509-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=1450&ch=1450&exp=10800&fmt=webp> 社員Ｂ氏は「厳正に処分するつもり」フジ清水社長が回答「結構問題が多かった社員だと認識」
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52a3f1c9b89fe7e46db3d9e63848909fe99f1b98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-02245263-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震、死者1700人超　発生から72時間経過…懸命な救助続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee9f0c58a0837948e9c3907b849ae74b8a65b343>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> コメ価格高騰、小規模業者による生産者からの直接買い付けが影響か
+      <a href=https://news.yahoo.co.jp/articles/75f3cea89929b1b6c9d52f84b8e209e4bc5410d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00164141-crankinn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=488&ch=488&exp=10800&fmt=webp> 窪田正孝、スターダストプロモーション退所を報告「約19年間支えていただき心から感謝」
       </a>
     </td>
   </tr>
@@ -392,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/d46b6a17d27189facb9e03829f11bd97eb94fd2c309e7a14728bf5a6ef3a78fe.jpg> ミャンマー地震 死者2000人超
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534058>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534051>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/752584748b0d05d0bf52fa2e823c24ff9c558b9e8b9d8ca2de372ee383889faa.jpg> 気温は40度超 ミャンマー救助難航
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/e8d86c890ab2ef58b0be919cf9fc3cedaa82e0d2657458c383226128130a268b.jpg> 予算成立 石破首相「熟議の国会」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534057>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/68e76dd3fef2fb935d5a28e0a7058590188e41a2f418e62688422cf4bdefa478.jpg> 都の内密出産 慈恵病院は「失望」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/57ed161e4e830140e8aedb5b525753f25dc698ad11b71f3de3705dc5878ffb44.jpg> ハイジャック実行犯ら 都を提訴
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/45535a3b8b0c5b86bc7113cc6864382afd5422e65845079b0bd07eb0028c4696.jpg> 亀梨 日テレ社長に直接あいさつ
+      <a href=https://news.yahoo.co.jp/pickup/6534065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b0fd6304774219787495fc17cbd2b5e1ebbebd3e0458a7258a60475e9fdbf5fb.jpg> 3/31 芸能界では続々と事務所退所
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 21:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 22:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
