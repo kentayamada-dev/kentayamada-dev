@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6100d28e0db0d2a5f2fbba51118085c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8a3415b8d2485a648bddb01ec36633dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed656a42f3a953201a14e03944b7452a7d9beee6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-35231171-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 衛星画像が見せつけるミャンマー地震の惨状、寺院の倒壊や橋の寸断
+      <a href=https://news.yahoo.co.jp/articles/ad5ba99b971364c4f01f0d8a706a64f0c8b597c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-03311094-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=763&ch=763&exp=10800&fmt=webp> フジ会見は今回も厳戒態勢　手荷物検査実施　午後５時開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5a52e048536fb94dfefc9482e0e002f646ab9c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-03311085-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=763&ch=763&exp=10800&fmt=webp> フジテレビ問題の経過、きょう夕方から会見
+      <a href=https://news.yahoo.co.jp/articles/e8162f37cc95dddd876318fb1d59205f08fe827b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-10171267-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=584&cy=0&cw=772&ch=772&exp=10800&fmt=webp> ミャンマー地震 迫る“72時間” 在住日本人1人と連絡取れず
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4eb7ec00e51aa41beabf7f9680bf0a9189f0447>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000030-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ関税「リスク深刻」 日経平均 一時1500円超の急落
+      <a href=https://news.yahoo.co.jp/articles/5ee7258570ea122fac91916bbf5c149e8688a712>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90049719-hokkaibunv-000-7-thumb.jpg?exp=10800&fmt=webp> 道央自動車道・常磐トンネル内で20人以上の外国人が乗った観光バスとワンボックスカーが衝突＿複数人が病院へ搬送されたが全員意識あり_一部区間で通行止め
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/330e611bde526c1c09be1bfa7e3498e91b122d2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000052-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=364&cy=0&cw=1472&ch=1472&exp=10800&fmt=webp> ラピダスに追加支援8025億円　経産省、次世代半導体を国産化へ
+      <a href=https://news.yahoo.co.jp/articles/e4eb7ec00e51aa41beabf7f9680bf0a9189f0447>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000030-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ関税「リスク深刻」 日経平均 一時1500円超の急落
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534001>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/a2f7547bcff254962089413f4ed6604b19f643569be233b13223b087eee922f2.jpg> 高速で観光バス横転 10人超けがか
+      <a href=https://news.yahoo.co.jp/pickup/6534003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/9545069c7bc413389492c5c5889f1928feaecec8acbb2dedd267304f103d238d.jpg> gooニュース サービス終了を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 14:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 14:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
