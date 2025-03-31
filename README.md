@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7835eb215c275b62a4e9cdeb038e020.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e283771ce8e49adb69a403e4314b2d1f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16138595523cf431316247bf661f0600537c42f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00050178-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=424&ch=424&exp=10800&fmt=webp> 中居正広氏から「業務の延長線上」で性暴力、女性の被害認定…フジ第三者委「全社的にハラスメント蔓延」
+      <a href=https://news.yahoo.co.jp/articles/f7f3fe0ef5afe2a8dd1ebea6e5fd38e080e1fe11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33311409-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=1433&ch=1433&exp=10800&fmt=webp> フジ清水社長、中居氏トラブル被害女性に「コンタクト取りたい」早期の謝罪を行いたい考え示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6ed4bf4179ee6c38467ac3f314106e663987759>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-04928411-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【解説】都内で“赤ちゃんポスト”開始　東京で始まるとどうなる？　熊本との違いは？
+      <a href=https://news.yahoo.co.jp/articles/52a3f1c9b89fe7e46db3d9e63848909fe99f1b98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-02245263-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震、死者1700人超　発生から72時間経過…懸命な救助続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/008350c59a663fcea1263ca7a98740e99263cf67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00339432-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 乱調降板→自主退散→涙で猛批判の佐々木朗希に米ファンの応援続々「信じる」「すぐになじむ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b152f5199b0c4457f294ce523cfe6967e6e6e2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90021696-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 崩壊建物に日本人も　ミャンマー大地震“発生72時間”捜索続く
+      <a href=https://news.yahoo.co.jp/articles/ee9f0c58a0837948e9c3907b849ae74b8a65b343>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> コメ価格高騰、小規模業者による生産者からの直接買い付けが影響か
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534057>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/68e76dd3fef2fb935d5a28e0a7058590188e41a2f418e62688422cf4bdefa478.jpg> 都の内密出産 慈恵病院は「失望」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534054>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b59b1f9316606509c4da70432cb19afdfe5b47b449a49a2cfee56b7a72b6669f.jpg> がん患者支援の市議 乳がんで死去
       </a>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534045>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b1514734fec6b2c94220da48e93046ed64e49cb91437bf6a81d78530abaff3ec.jpg> 長妻怜央と井上小百合 結婚&妊娠
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 20:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 21:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
