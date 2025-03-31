@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e925f2b13f1e743a70e16b703886bb95.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1799066a278db5cb9467750f735c702a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6aa14ad424d31eb98969655654a3772c8ca1c839>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-10171401-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=820&ch=820&exp=10800&fmt=webp> 第三者委の調査結果うけ フジ社長「自己認識の甘さを思い知った」 スポンサーは再発防止策見極めへ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-10171401-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=820&ch=820&exp=10800&fmt=webp> 第三者委の調査結果うけ フジ社長「自己認識の甘さを思い知った」 スポンサーは再発防止策見極めへ
       </a>
     </td>
   </tr>
@@ -366,15 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/af43a9e5b622d55c05b80efcb5b6f1076330b23e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-10171402-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=819&ch=819&exp=10800&fmt=webp> ミャンマー大地震 2000人超死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d4bb7a807863827e6e5cfaf5dc21588f9fbf167>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 事前避難で津波死者減少　時間差でM8地震、初想定　南海トラフ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-10171402-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=819&ch=819&exp=10800&fmt=webp> ミャンマー大地震 2000人超死亡
       </a>
     </td>
   </tr>
@@ -387,6 +379,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/60a212df8882a167dda386f99bd1aafda47c77b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00010000-jij-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「らしさ」忘れた石破首相　発足半年、窮地の政権【解説委員室から】
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534067>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/d46b6a17d27189facb9e03829f11bd97eb94fd2c309e7a14728bf5a6ef3a78fe.jpg> ミャンマー地震 死者2000人超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534068>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b647ba012851c821bb94594e6402bd92565a1923860e0cd2a73610cb01e184e0.jpg> 予算成立後 後半国会も難題が山積
+      <a href=https://news.yahoo.co.jp/pickup/6534087>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/0279f49510d9d9936bb796da6a1bf9a2e45c1fb639c20276da1ce6f4ea1dfbd7.jpg> 南海トラフ想定 浸水域は3割拡大
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534076>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/fe40c8eab28f6766f7c92033fb08bebfb95986fcba68c8e252375c3942ec2795.jpg> 中居氏と女性 明かされたやりとり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534089>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/436885b59625358c8d7184b0bd880bdf03c5940aca6a3d11106577763b84aa5a.jpg> 9歳はねられ重体 74歳の男逮捕
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 07:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 08:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
