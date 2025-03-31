@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7518eb96602ccf50b2c54472872dc557.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1a9e7a12481a12fb36ee352988b694f5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/65f7a29ebb39a13bb07e256f2dd1f4a8a6e79e41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000120-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> オ軍正捕手ラッチマン「安定したところだった」菅野のけいれん悔やむも「楽しみ」今後もバッテリー熱望
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5bdb794ec11acdc21a7dc4cf546ccf31de4f060c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00774552-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ問題・第三者委員会報告の注目5ポイント…女性とのトラブルを認識後、中居正広氏を起用し続けた「真の理由」など
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8e4e7c973898d22dc1556892282cca2166eded9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33310092-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 【センバツ】V横浜の20連勝相手校とスコアは　伝説の松坂世代44連勝＆過去の甲子園決勝も公開
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33310092-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 【センバツ】V横浜の20連勝相手校とスコアは　伝説の松坂世代44連勝＆過去の甲子園決勝も公開
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49e6aac59b3234adc6ee667bc7fe79be7c6741f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010003-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=360&ch=360&exp=10800&fmt=webp> 藤浪晋太郎、マイナー初登板で暴投勝ち越し点許す　制球に苦しみ1回1失点　最速159キロ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b81aa0527fb63b1a1394bf6343dc152beb015496>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01728454-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 新庄監督も絶賛「簡単に打ちますね」　135キロ巨漢助っ人の走＆打…来日2年目で得た“思考”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3185c31fcae95ea8b3899ef3a7b06732516a85da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000002-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1757&ch=1757&exp=10800&fmt=webp> えびちゅう卒業＆芸能界引退…小林歌穂が胸中激白　活動１１年に「浦島太郎みたいな気持ち」
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/04639ce95addd41543650018e7f59f618a705bae09d3ff0d0e40b56ba483a43b.jpg> ミャンマー地震 迫る「72時間」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533973>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/8ca36063bdaa6b10285b1b364806bd7eec23ae6e7bd64303316d043eeb479fd5.jpg> 修繕談合疑い コンサル業者も調査
       </a>
@@ -418,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/30/56ceb89d4b3329da72b41a14c71e8d2b9f38873e581ccc958b5a366eb57734e2.jpg> 入学しない確約 車いす中3に要求
+      <a href=https://news.yahoo.co.jp/pickup/6533968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/04639ce95addd41543650018e7f59f618a705bae09d3ff0d0e40b56ba483a43b.jpg> ミャンマー地震 迫る「72時間」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/d815a3c6e038c18ae5bb6b1854e3a322db90411abfdccc4da37b7971faebdf9f.jpg> 日本の軽トラ 米国で駆け込み需要
+      <a href=https://news.yahoo.co.jp/pickup/6533978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/56f8206a2c268daa528bf6ccaf6c58b9196e4657151e6b212d2b679471a8ab0f.jpg> 西・東日本で桜が見頃に 寒さ戻る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533980>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 入学前に和式便器慣れて 識者訴え
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 08:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 09:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
