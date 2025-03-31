@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1f54f0be07ee6760013cb62bf84961a9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/47bb53de14a88daf82daf9e0384e9bc9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ccc011b057d8da7564d68768c2eaff80d64f1a02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90018636-ktn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 最低制限価格の決定後、2時間以内に漏らしたか…佐々・官製談合事件で町長らを3人を送検【長崎】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e664a742d30268a41d7699ea331a55d8254d1657>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33310669-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=83&cw=1334&ch=1334&exp=10800&fmt=webp> 日本テレビ社長「月曜から夜ふかし」で謝罪　事実と違う「中国ではカラスを食べる」意図的に編集
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a939078331af7011713ce4ffd25d0c04076f825f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000046-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=420&ch=420&exp=10800&fmt=webp> 原爆３３４発分が爆発した威力…在ミャンマー韓国人の９０％が暮らすヤンゴン、余震の恐怖
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d0bdd2c6dc01c8738af108adff68c78a43d8b988>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000193-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジテレビ会見　受付時刻には報道陣100人がズラリ　金属探知機も登場…厳戒態勢　木村拓也アナも列に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f68c8dfd2f30b2daec618e3380dcab140e46cc47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010002-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 国際救助隊が捜索活動を開始　震源地に近いマンダレーで  
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c885376d4d06273e3a57b7b0870fb80d67966fc1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90018473-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】吉村代表「もう一度引き締めて大阪のために頑張っていきたい」維新首長で問題相次ぐと記者に問われ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3169c710efba294e4b6b4c6a7896b583c7393d9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00626021-raditopi-000-1-view.jpg?pri=l&w=192&h=144&exp=10800&fmt=webp> 神戸のファンタジスタ、現役引退を発表　サッカー元日本代表MF森岡亮太「幸せなサッカー人生歩めた」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/bdb8ae7a69b0f489278eaa6122d3bf3009560c839f788e4207ff1d52b93b1f8c.jpg> 相互関税「全ての国」トランプ氏
+      <a href=https://news.yahoo.co.jp/pickup/6534016>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 企業献金5万円超で公開に 自公国
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533997>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/ce186049891402e8c8d267ed91f6c2cdfe183cb0c4b6231fc43de0957748759a.jpg> 南海トラフの新想定 死者29.8万人
+      <a href=https://news.yahoo.co.jp/pickup/6534004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/bdb8ae7a69b0f489278eaa6122d3bf3009560c839f788e4207ff1d52b93b1f8c.jpg> 相互関税「全ての国」トランプ氏
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533999>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> BTSのJINさんにキス疑い 捜査中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534012>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/ac724726f0795d69019a55f8e7cb6f6d7c501f3f41f40cb638e8376fe4ecd06a.jpg> 日ハムに勧告 試合撮影の投稿巡り
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534005>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/2c4f3ee15a4da43236168ef3fae5e9254d96d45d926573138dcac795fc2431a2.jpg> 窪田正孝 スターダスト退所を発表
+      <a href=https://news.yahoo.co.jp/pickup/6534019>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/12907b84149cf016b78ca9d5f8fc4a1c5f54a6afa0d60bf2750d6ef4a86e1ebe.jpg> 月曜から夜ふかし 街頭取材を中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/fe9e4c6efa6778941712936178dc16ab04daf8b4f3b21c2ed14e34badd15e0ee.jpg> 松本と浜田 万博アンバサダー辞退
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 15:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 15:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
