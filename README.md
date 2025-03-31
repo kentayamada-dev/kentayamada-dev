@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9e2d5588245ea34a080d4ddf2b728055.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a21048b05f70315b2a4e9fa668ee8b55.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd7e3101b1c12c0710b2a67673e24bf09851886d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33311660-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=3&cw=528&ch=528&exp=10800&fmt=webp> 元KAT－TUN赤西仁、グループ解散日に感謝つづる「“KAT－TUN”いっぱいありがとう」
+      <a href=https://news.yahoo.co.jp/articles/a730943fe49c31ca2daf71d6a68a911b1a461daf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00950970-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=463&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「”中居氏トラブル”が『どのようなものだったか』によって、フジテレビの対応が評価できる　重要なのは事実認定　雰囲気で攻めるのはよくない」と橋下氏　フジテレビ問題で第三者委報告書公表を前に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/763cc334241df64dc7decd54e2f16d3b579ef36d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「フジの今後の対応が試される」英ファンドが指摘　第三者委の調査報告書発表受け
+      <a href=https://news.yahoo.co.jp/articles/b348205d2eb94f128e62c21d5f687df10ab0c3e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000074-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=425&ch=425&exp=10800&fmt=webp> 地震発生72時間、救助中断「なぜ助けない」悲痛な叫び　ミャンマー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53f3c19ff0505b832a840824644fadb11277bc59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00050180-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ミャンマー地震の死者１万人超える可能性、倒壊建物から妊婦ら３人救出…「７２時間」過ぎ救助続く
+      <a href=https://news.yahoo.co.jp/articles/a53b7dd00a288f8d7033eb20bd63372eacc8f481>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000166-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=1029&ch=1029&exp=10800&fmt=webp> フジ被害女子アナ　入院費等支払いを中居氏に求む→中居氏は贈与税にならない金額にと希望【削除→復元されたメール】
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534058>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/97f79484287a248cd6d28a0d0f8643b91e7fa2ce357965df6124ad8562095e7c.jpg> フジ社長謝罪 つらい思いをさせた
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534063>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/3987a8661c8d471b4d71834354245ef2199a760d9089089f6e8f76eb8af235b6.jpg> 中居氏らの会合 フジの経費で精算
       </a>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534066>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/8b230fd38c52d88a86f1b644b375812dd4596ea84d7bd7f3af23754a38d43551.jpg> 救急車を10代女性が運転 盗難被害
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534060>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/57ed161e4e830140e8aedb5b525753f25dc698ad11b71f3de3705dc5878ffb44.jpg> ハイジャック実行犯ら 都を提訴
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534069>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/220cecf9c0c14222fab472cadd73608b8c76b4cbc43c0fb7648dabc08d507f68.jpg> KAT-TUN解散 中丸と3人で生配信
+      <a href=https://news.yahoo.co.jp/pickup/6534075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/220cecf9c0c14222fab472cadd73608b8c76b4cbc43c0fb7648dabc08d507f68.jpg> KAT-TUN生配信 涙で深々お辞儀
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 23:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 23:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
