@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b623107e997c53e5e186bbe88a8c7da4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/587b6965b0d18ae5c6936589a53b6e48.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/714b0bca3c19e06dfd904ffec79a94f734c70359>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000421-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=799&ch=799&exp=10800&fmt=webp> フジ第三者委員会、女性は中居氏とのやり取りで「精神的に逃げ道を塞がれた」　「業務の延長線上」における性暴力と認定
+      <a href=https://news.yahoo.co.jp/articles/fa0c020a14d69d360365c550a109e84fa37c8c6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00050154-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=29&cy=0&cw=443&ch=443&exp=10800&fmt=webp> フジ第三者委、役員指名「日枝久氏のブラックボックス化」…人権・カスハラ対応の遅れ指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32097f288571536d266a60df9eb7fcd7549b6870>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-07227660-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震「発生後72時間」経過　ミャンマー第二の都市マンダレーの街並みは“一変”
+      <a href=https://news.yahoo.co.jp/articles/15313947f2ae1c1a8fa47bce30e3b62ec197e334>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日経平均1500円超安　7カ月半ぶり安値水準　“トランプ関税”を警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e28589310cce11315237a526276481591c40e223>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01218292-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【中継】ミャンマー大地震　約1700人死亡　発生から72時間経過
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cea2ac91fafa7b64f78b79bbbe07a78ff8a97bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-08519168-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【ソフトバンク】近藤健介の登録を抹消　ここまで打率.333の主力がチームを離脱　35年ぶりの開幕カード3連敗に続き苦難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4eb7ec00e51aa41beabf7f9680bf0a9189f0447>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000030-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ関税「リスク深刻」 日経平均 一時1500円超の急落
+      <a href=https://news.yahoo.co.jp/articles/9fb081231b054ae64e0d3d8ce625b387dc28eb84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00950771-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「小型のバスがドーンとぶつかって」トンネル内で観光バスとワンボックスカーが衝突、23人搬送　バスには20人以上の観光客　路面凍結していたか　北海道　
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a6693a9ddee9330596744801d42f5a1afe69ae2b666ee3189abf9cc0ec49ee4a.jpg> 中継 フジ第三者委員会が会見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534024>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/c2aa2cff8bbdeaa4d88c0dc6165593ddbe614e3bf519784e219b7ea1eee892bf.jpg> 業務延長上の性暴力 フジ第三者委
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534016>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 企業献金5万円超で公開に 自公国
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/51be30e66220abedaea2693723667b9d2356cc5799291ed71390984c27427431.jpg> ラピダス支援に8025億円 経産省
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534030>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/0b1bdcd3204edabeaabc5ddef2dfc1db96282ca9efc6a43c05e911587cda316e.jpg> 観光バスが車と衝突 20人超搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534020>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b71decbcc91ed5ea8c7801890c6562cc5a09dd0f9c7c857878c52381941f7bdc.jpg> 大麻「使用」疑いで逮捕 警視庁初
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534009>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/2526b27d69f31caedde4141c83fb9264fd6e17f6bf5654567d8c35df8d7eb7ae.jpg> 皇治選手 当て逃げ疑いで書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6534011>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/67acbdaa7ac56df2f9a8a7b258fb8066311c3fe05f24cc3df8b5d0b5b13dec94.jpg> 元日本代表MF森岡亮太が現役引退
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 16:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 17:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
