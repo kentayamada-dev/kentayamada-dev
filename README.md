@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b03738ad27b8ee8fe77f20947af869d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e925f2b13f1e743a70e16b703886bb95.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7878077bfbd1169d9c1c89a6bb5a11792584c8e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011003-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=1064&ch=1064&exp=10800&fmt=webp> フジ第三者委の報告で明らかになった５つのポイント　社員の直接関与はなし、対応は「性暴力への理解を欠く」
+      <a href=https://news.yahoo.co.jp/articles/6aa14ad424d31eb98969655654a3772c8ca1c839>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-10171401-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=820&ch=820&exp=10800&fmt=webp> 第三者委の調査結果うけ フジ社長「自己認識の甘さを思い知った」 スポンサーは再発防止策見極めへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a6670536b17ea4477de1ab4d153c9f618ae5ac6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000095-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=740&ch=740&exp=10800&fmt=webp> 永野芽郁「この話はもう二度としません」エガちゃん“大暴れ騒動”後の誹謗中傷に「対処の方法考えます」
+      <a href=https://news.yahoo.co.jp/articles/af43a9e5b622d55c05b80efcb5b6f1076330b23e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-10171402-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=819&ch=819&exp=10800&fmt=webp> ミャンマー大地震 2000人超死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b445d17c0d9341ad67335832b8e9c5adaa5e4acd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00950992-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震で死者2056人・負傷者3900人　救助活動続く
+      <a href=https://news.yahoo.co.jp/articles/2d4bb7a807863827e6e5cfaf5dc21588f9fbf167>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 事前避難で津波死者減少　時間差でM8地震、初想定　南海トラフ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b3bd9159b900d2c1e27d0053ecd0cd1b151a218>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-07227793-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東日本や東北は冷たい雨や雪　関東は北風冷たく真冬並みの寒さ　沿岸部は激しい雨も
+      <a href=https://news.yahoo.co.jp/articles/7daf946be5629bb8036653d3afa9c8095d345589>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00036188-jprime-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「TBSにも責任がある」永野芽郁退席の放送事故、江頭への賛否以上に矛先が向いたキャスティング
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534079>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/93be63c361fab202e245c54a0121db3f9d09d8d468fd70cadffde992b3414840.jpg> 反町理氏は番組欠席 本人が申し出
+      <a href=https://news.yahoo.co.jp/pickup/6534085>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/6706de71dd0759b232af8c8bc420e8d7cb1f8e6b5a62eaef58b4395a2ff8fff2.jpg> 永野芽郁 江頭2:50の騒動に言及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534078>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/aef4b4327576cebfdf923aeaefeab4daf8f6bba4183464917c76d05ba4e3a6c9.jpg> 江頭2:50の出演巡りTBS番組謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6534079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/93be63c361fab202e245c54a0121db3f9d09d8d468fd70cadffde992b3414840.jpg> 反町理氏は番組欠席 本人が申し出
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 07:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 07:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
