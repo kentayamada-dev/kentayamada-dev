@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9ceefe5445b2de905c3528493a9e6c9f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9e2d5588245ea34a080d4ddf2b728055.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6644757e5d0c1780f34efed16690c55a0a54a0f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000301-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 別れと門出の3月31日…KAT-TUNは3人で涙のお別れ生配信　石原さとみ産休入り、フジアナ3人退社
+      <a href=https://news.yahoo.co.jp/articles/bd7e3101b1c12c0710b2a67673e24bf09851886d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33311660-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=3&cw=528&ch=528&exp=10800&fmt=webp> 元KAT－TUN赤西仁、グループ解散日に感謝つづる「“KAT－TUN”いっぱいありがとう」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/763cc334241df64dc7decd54e2f16d3b579ef36d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「フジの今後の対応が試される」英ファンドが指摘　第三者委の調査報告書発表受け
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/53f3c19ff0505b832a840824644fadb11277bc59>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00050180-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ミャンマー地震の死者１万人超える可能性、倒壊建物から妊婦ら３人救出…「７２時間」過ぎ救助続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d3f8ec6d552abfd06f3d69f770dcf07d2efa146>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33311509-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=1450&ch=1450&exp=10800&fmt=webp> 社員Ｂ氏は「厳正に処分するつもり」フジ清水社長が回答「結構問題が多かった社員だと認識」
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534068>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b647ba012851c821bb94594e6402bd92565a1923860e0cd2a73610cb01e184e0.jpg> 予算成立後 後半国会も難題が山積
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534067>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/d46b6a17d27189facb9e03829f11bd97eb94fd2c309e7a14728bf5a6ef3a78fe.jpg> ミャンマー地震 死者2000人超
       </a>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534058>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/97f79484287a248cd6d28a0d0f8643b91e7fa2ce357965df6124ad8562095e7c.jpg> フジ社長謝罪 つらい思いをさせた
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/024d42105cd94b60d12e88cd322780b68b73a64ad0b255532fc0578c82057c7e.jpg> 中居氏の出演継続 2次加害と認定
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534054>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b59b1f9316606509c4da70432cb19afdfe5b47b449a49a2cfee56b7a72b6669f.jpg> がん患者支援の市議 乳がんで死去
+      <a href=https://news.yahoo.co.jp/pickup/6534069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/220cecf9c0c14222fab472cadd73608b8c76b4cbc43c0fb7648dabc08d507f68.jpg> KAT-TUN解散 中丸と3人で生配信
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 22:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 23:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
