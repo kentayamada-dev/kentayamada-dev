@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/658635cda0b853a60126b7266928f8b6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ed2ad6f7a44da0bedda5efef6bf9ddcc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a3cc79bd5d57517cb787f106157840baa7e4728>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00775049-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ女性アナらが参加した外資系ホテルでの“セクハラ会合”　高額なスイートルーム代はフジが経費処理
+      <a href=https://news.yahoo.co.jp/articles/725522c686e32f992a040111c3a1e4b81cf2955f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010002-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】1日の天気 - 新年度スタートは暖かい服装で　東京も冷たい雨で8℃予想（31日18時更新）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0aff8d47bca8a4857ea257474564c25257f1ec7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-07227696-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　40℃の炎天下で懸命の捜索　 軍政支配で困窮の市民生活に追い打ち 周辺国から“即時停戦”求める声も　マンダレーの現場から
+      <a href=https://news.yahoo.co.jp/articles/2c9dd1ee56c52ca0488e68cbc0cc027955d2f822>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー地震、救出急ぐ　72時間経過、不明者多数
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/191be147f19ec2a45edcdcc705cfe488146f15cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000059-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 「セクハラに寛容な企業体質」第三者委が会見　日枝氏らの責任は？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ae2127b7d64533b418b1222af04403fcc8246c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010004-tvkv-000-1-thumb.jpg?exp=10800&fmt=webp> センバツ優勝から一夜明け　村田監督「夏勝ってこそ本物。切り替えて」
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6e0d7e26c1ea090939767e56ff603820b0b63596>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00339415-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 制球難に苦しむドジャース・佐々木朗希　その「残念な態度」に韓国メディア「子供じみている」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95e0ac9b5d762f1aab8faf78a3e0ad755569ea08>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00865234-number-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「“早打ち嫌い”は皆無」「2ストライクから継投いくぞ」横浜20連勝でセンバツ優勝＋秋春連覇…自信の背景に根拠あり「飛んだ瞬間に捕れる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09a1ec245f3f9232ee62cac89c580ebcab6a0d34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00094443-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ３試合で球団新15本！ ヤンキースのアーチ量産“魚雷バット”がブームに？ 「自分のモデルが作れるのかメーカーに聞いてみたい」メジャーリーガーが強い関心
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/600afee19a3467137d96ad5640a745cf4dcef66252ef66c0fb3cf34f7baddf1b.jpg> 企業団体献金 与野党合意得られず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534018>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/95be32212011dd86e600cf163848c047b6d5c5b64c251c6dc5fd4dcc23eebfe8.jpg> トランプ氏 ゼレンスキー氏に警告
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534031>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/5af6773fd899fdc2808fdceb2d24d16724139e777ee47e0f82cfa8aaa051d950.jpg> 皇治選手が当て逃げ疑い 公式謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6534007>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/37e9e3bf3b1e26afa5719d0ede0b29d32d8d23b5c6a9d87ae458801bdb651f62.jpg> すき家が一時閉店 害虫などの対策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534047>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b52d4d2d9e5e6911d596dfc200ac87808c13efb9b17429175b318d35d8443cf8.jpg> 隣室に侵入疑い 吉沢亮さん不起訴
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 18:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 19:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
