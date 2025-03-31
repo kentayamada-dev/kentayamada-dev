@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f52b78c7c7460ca5b40a00054695f3dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/905feb8397d80eb0569c66262852800f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/55d857e047d1f8235239c9f058262ccde494a7b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00339473-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＴＢＳ「オールスター感謝祭」が〝暴走〟江頭２：５０に謝罪　永野芽郁、アンミカへも「ご迷惑をお掛けした」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5ea6680fb71c04fb17dc9f2864bd1135ef64a587>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-90021725-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 地震発生後に空爆…続く内戦で支援に“課題”ミャンマー地震死者2000人超
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cbdb684836c25cb912c886b86187fe9d96e5e1ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000314-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ・堤礼実アナ「改革実現のためにどう行動していくべきか…明確に落とし込む必要があると感じる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9afec4c160f493c0e6a1448ce81a5568aa6c66fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010001-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> TBS「オールスター感謝祭」公式Ｘが江頭2：50、永野芽郁らに謝罪「ご迷惑を」視聴者にも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b348205d2eb94f128e62c21d5f687df10ab0c3e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000074-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=425&ch=425&exp=10800&fmt=webp> 地震発生72時間、救助中断「なぜ助けない」悲痛な叫び　ミャンマー
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000314-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ・堤礼実アナ「改革実現のためにどう行動していくべきか…明確に落とし込む必要があると感じる」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 00:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 01:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
