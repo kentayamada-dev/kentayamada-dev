@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a4db8aee27cbae0430a733db5d1d7788.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4cce3c9c72044077a0d43155b8fb053b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61345a2e8b354bd3391c71e1dd8933d82bbfb2db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-11628806-ncctv-000-1-thumb.jpg?exp=10800&fmt=webp> 【長崎】佐々町発注の公共工事巡る官製談合事件 別の工事でも談合か…町長・古庄容疑者を再逮捕・送検
+      <a href=https://news.yahoo.co.jp/articles/5b152f5199b0c4457f294ce523cfe6967e6e6e2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90021696-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 崩壊建物に日本人も　ミャンマー大地震“発生72時間”捜索続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37512a34118566626700a1c950bb434b2bfe1b7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000053-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ミャンマー人労働者も安否分からず　焦り募る家族ら　タイの倒壊ビル
+      <a href=https://news.yahoo.co.jp/articles/61345a2e8b354bd3391c71e1dd8933d82bbfb2db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-11628806-ncctv-000-1-thumb.jpg?exp=10800&fmt=webp> 【長崎】佐々町発注の公共工事巡る官製談合事件 別の工事でも談合か…町長・古庄容疑者を再逮捕・送検
       </a>
     </td>
   </tr>
@@ -382,15 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/73bbbd66728afd55e74ea31f0d3a890a36bcbc27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000017-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 高校野球の進学先に異変...？「大阪桐蔭」離れの事態なのか　伸び悩んで出場機会を得られないよりは
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000017-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 高校野球の進学先に異変...？「大阪桐蔭」離れの事態なのか　伸び悩んで出場機会を得られないよりは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/725522c686e32f992a040111c3a1e4b81cf2955f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010002-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】1日の天気 - 新年度スタートは暖かい服装で　東京も冷たい雨で8℃予想（31日18時更新）
+      <a href=https://news.yahoo.co.jp/articles/fbf8517a220927da10968375092de65ca4fce5ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000063-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=696&ch=696&exp=10800&fmt=webp> 日本テレビ社長、31日解散の『KAT―TUN』亀梨和也の来訪を報告「思い出話に花が咲き、とても良いミーティングでした」
       </a>
     </td>
   </tr>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534046>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a6693a9ddee9330596744801d42f5a1afe69ae2b666ee3189abf9cc0ec49ee4a.jpg> 中継 第三者委の報告受けフジ会見
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534043>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534028>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/16553dc74dad58841c168e3e8fa46267b149104e392b7733a2b6e92be2e4e610.jpg> 日野自動車をNZの3社が集団提訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534037>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/ea7a8b47576dbfaa159c4b1da408578144468308eaea9ec8e267b33490ee659a.jpg> 南海トラフ 経済被害292兆円想定
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/7661fca42548bbdc4593af320a5529ce4b72c438e83cccdc61aa00ae88a53de8.jpg> 近藤健介アクシデント 腰痛で離脱
+      <a href=https://news.yahoo.co.jp/pickup/6534040>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/aa06bc3f9117e2934d9f51d0fea0040c32090afe3d238c34cfc8aaed36117151.jpg> 好調のヤ軍で「魚雷バット」流行
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 19:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 20:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
