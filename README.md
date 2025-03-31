@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0e2a6ce68ffec577aefd6ec46a80d1b0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6b03738ad27b8ee8fe77f20947af869d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7878077bfbd1169d9c1c89a6bb5a11792584c8e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011003-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=1064&ch=1064&exp=10800&fmt=webp> フジ第三者委の報告で明らかになった５つのポイント　社員の直接関与はなし、対応は「性暴力への理解を欠く」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6a6670536b17ea4477de1ab4d153c9f618ae5ac6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000095-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=740&ch=740&exp=10800&fmt=webp> 永野芽郁「この話はもう二度としません」エガちゃん“大暴れ騒動”後の誹謗中傷に「対処の方法考えます」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b445d17c0d9341ad67335832b8e9c5adaa5e4acd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00950992-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震で死者2056人・負傷者3900人　救助活動続く
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee46d20c2f99970db4e8533c5fe57256cc9e950a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011002-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ報道局編集長、反町氏のハラスメント行為に「衝撃的」「悔しい気持ち」今後は日枝氏の説明責任を追及するとも…
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44b7c54a2db4791b8aa64e1782fcd543d4b7a04f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00339464-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 江頭２：５０の〝放送事故〟を目撃した那須川天心「みそぎマッチいつでもやります」
+      <a href=https://news.yahoo.co.jp/articles/2b3bd9159b900d2c1e27d0053ecd0cd1b151a218>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-07227793-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東日本や東北は冷たい雨や雪　関東は北風冷たく真冬並みの寒さ　沿岸部は激しい雨も
       </a>
     </td>
   </tr>
@@ -386,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534068>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b647ba012851c821bb94594e6402bd92565a1923860e0cd2a73610cb01e184e0.jpg> 予算成立後 後半国会も難題が山積
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534067>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/d46b6a17d27189facb9e03829f11bd97eb94fd2c309e7a14728bf5a6ef3a78fe.jpg> ミャンマー地震 死者2000人超
       </a>
@@ -402,8 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534063>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/3987a8661c8d471b4d71834354245ef2199a760d9089089f6e8f76eb8af235b6.jpg> 中居氏らの会合 フジの経費で精算
+      <a href=https://news.yahoo.co.jp/pickup/6534068>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b647ba012851c821bb94594e6402bd92565a1923860e0cd2a73610cb01e184e0.jpg> 予算成立後 後半国会も難題が山積
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534083>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/873d751b2bbb7cc1745372120c824d2928c5f66e891605aa5204279990a18c02.jpg> 山沿い中心に雪 関東真冬並み寒さ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/5023f60b4aaa4a3161b5b4156fb8e1c7ebf36b5a160b0ca5fb28832013ffddc5.jpg> タイの倒壊ビル 仕様書従って工事
       </a>
     </td>
   </tr>
@@ -418,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534056>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/731ca797b06c9d51cd12dfc376fd86749ae7293f4a7b195bf4579422ad1dc426.jpg> 大手5行 住宅ローン変動金利上げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534066>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/8b230fd38c52d88a86f1b644b375812dd4596ea84d7bd7f3af23754a38d43551.jpg> 救急車を10代女性が運転 盗難被害
+      <a href=https://news.yahoo.co.jp/pickup/6534080>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/5f0d29560ce968a75c7f0bc59e92003ccb97a07c3c0a4f0df610d0872ca83429.jpg> 朗希 米メディアが手のひら返し
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 06:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 07:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
