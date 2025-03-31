@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/17616b8f017d3aa7a23ff406fcfcef37.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/135c2f7180f704683dbb8802a640cab8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39c64cc7d35016505c4bd40273d459b23987b9db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000064-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=620&ch=620&exp=10800&fmt=webp> 中居氏の番組打ち切りは「女性救済の重要な要素」　フジ第三者委
+      <a href=https://news.yahoo.co.jp/articles/7495a9533fe7b6546182b710dea16c7deaaf5b95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自公国、企業献金公開「5万円超」　与野党、3月末の結論先送り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/433738e5a96be03a4fd07aab6acde7064c4e417f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-04534391-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 7ORDER長妻怜央＆井上小百合、結婚発表 第1子妊娠も報告
+      <a href=https://news.yahoo.co.jp/articles/768c0203f771997b2578d36df1ccf2c264c6d1fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000072-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=1597&ch=1597&exp=10800&fmt=webp> 「社内セクハラに寛容な企業体質」　フジ第三者委員長が指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e28589310cce11315237a526276481591c40e223>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01218292-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【中継】ミャンマー大地震　約1700人死亡　発生から72時間経過
+      <a href=https://news.yahoo.co.jp/articles/6e0d7e26c1ea090939767e56ff603820b0b63596>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00339415-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 制球難に苦しむドジャース・佐々木朗希　その「残念な態度」に韓国メディア「子供じみている」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/95e0ac9b5d762f1aab8faf78a3e0ad755569ea08>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00865234-number-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「“早打ち嫌い”は皆無」「2ストライクから継投いくぞ」横浜20連勝でセンバツ優勝＋秋春連覇…自信の背景に根拠あり「飛んだ瞬間に捕れる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b0a1e4af7b76fdb819aa9153bd8a0fdec068ce0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000067-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 気温40度超、難航する救助活動　ミャンマー地震の倒壊現場
       </a>
     </td>
   </tr>
@@ -402,24 +418,32 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534032>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/db69550f733a3739dab9e8d0d30742182f4d8948efcab0a5448e27c82a7c6303.jpg> 中居氏からの見舞金 口封じと指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/600afee19a3467137d96ad5640a745cf4dcef66252ef66c0fb3cf34f7baddf1b.jpg> 企業団体献金 与野党合意得られず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534018>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/95be32212011dd86e600cf163848c047b6d5c5b64c251c6dc5fd4dcc23eebfe8.jpg> トランプ氏 ゼレンスキー氏に警告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534021>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/731ca797b06c9d51cd12dfc376fd86749ae7293f4a7b195bf4579422ad1dc426.jpg> 住宅ローン金利 引き上げ相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534030>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/0b1bdcd3204edabeaabc5ddef2dfc1db96282ca9efc6a43c05e911587cda316e.jpg> 観光バスが車と衝突 20人超搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534020>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b71decbcc91ed5ea8c7801890c6562cc5a09dd0f9c7c857878c52381941f7bdc.jpg> 大麻「使用」疑いで逮捕 警視庁初
       </a>
     </td>
   </tr>
@@ -440,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534015>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/fe9e4c6efa6778941712936178dc16ab04daf8b4f3b21c2ed14e34badd15e0ee.jpg> 松本と浜田 万博アンバサダー辞退
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 17:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 18:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
