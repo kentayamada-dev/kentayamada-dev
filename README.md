@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/61db22a02b7866cce200525ef1da71cd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/34a42cd58e89579ba726481f4da9c68d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e36d3284e2ed36b6b17d09551618e19b0edd7668>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90021659-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=525&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ミャンマー地震1700人死亡　日本人1人と連絡取れず　倒壊ビル中国企業が施工か
+      <a href=https://news.yahoo.co.jp/articles/0e28c5cc2a8a98771e9a548aa10c8adf6dcd9240>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00050065-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=310&ch=310&exp=10800&fmt=webp> ミャンマー地震、迫る「発生７２時間」…３０人以上閉じ込めの幼稚園は資機材不足で中に入れず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ac527b9a3f599c537cb04741e8abaf4d27a89282>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-03311046-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=874&ch=874&exp=10800&fmt=webp> バイエルンの伊藤洋輝が右足の中足骨骨折で離脱「今シーズンはプレーできませんが…必ず戻ってきます」自身のＳＮＳで説明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c07d0508b028195ab17f90f723c6c7419ea4eb9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000047-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=572&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 25年度予算、31日夕方に成立　参院可決後に衆院同意
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a127dc285870751cb643e8502b1a458576bde5d9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01728387-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=600&ch=600&exp=10800&fmt=webp> カウント途中の“決断”は「奇策じゃないです」　甲子園騒然…敵将も驚き「想定してない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d055cd542d2e817b8757a99982bdfe8515074c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33310335-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1408&ch=1408&exp=10800&fmt=webp> 藤浪晋太郎が初登板、暴投で１回１失点　最速は159キロ　マリナーズ傘下3Aタコマ所属
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b81aa0527fb63b1a1394bf6343dc152beb015496>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01728454-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 新庄監督も絶賛「簡単に打ちますね」　135キロ巨漢助っ人の走＆打…来日2年目で得た“思考”
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533980>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 入学前に和式便器慣れて 識者訴え
+      <a href=https://news.yahoo.co.jp/pickup/6533990>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/03a2be8905094e4e26198882c1c2c173348f2937cc5b34cf098992eff9b10dbd.jpg> はしか巡る誤情報が後絶たず 注意
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533983>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/6b1446e1a64352267bf29087b3503647cb242c8ccba5ff3c11d680c2cebeaaee.jpg> 今日をもって解散 KAT-TUN軌跡
+      <a href=https://news.yahoo.co.jp/pickup/6533991>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/6f43d1d3b304c26e77e10a6175de2c5b21f8f708e4206a56cf8358caebd5d316.jpg> アイナ「WACK」を退所 10年所属
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 10:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 11:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
