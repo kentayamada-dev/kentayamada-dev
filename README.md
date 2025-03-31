@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c9cf93d0e8a4d1c12c8f94ad3e2cb858.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0e2a6ce68ffec577aefd6ec46a80d1b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36918343782556d0a77f3f6c168e5900e5e2aaf1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-07968231-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 中居氏が関わった“類似事案”も認定　ハラスメントまん延…フジテレビ第三者委員会が報告書　スポンサーからも厳しい声
+      <a href=https://news.yahoo.co.jp/articles/b445d17c0d9341ad67335832b8e9c5adaa5e4acd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00950992-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震で死者2056人・負傷者3900人　救助活動続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d55c892ce1af7201f89a3bcad1c50ff493c2ef0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-06518384-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー地震…死者2000人超　タイ・バンコクのビル倒壊、中国企業の従業員が隠蔽工作か
+      <a href=https://news.yahoo.co.jp/articles/ee46d20c2f99970db4e8533c5fe57256cc9e950a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011002-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ報道局編集長、反町氏のハラスメント行為に「衝撃的」「悔しい気持ち」今後は日枝氏の説明責任を追及するとも…
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534078>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/aef4b4327576cebfdf923aeaefeab4daf8f6bba4183464917c76d05ba4e3a6c9.jpg> 江頭2:50の出演巡りTBS番組謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6534079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/93be63c361fab202e245c54a0121db3f9d09d8d468fd70cadffde992b3414840.jpg> 反町理氏は番組欠席 本人が申し出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534065>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b0fd6304774219787495fc17cbd2b5e1ebbebd3e0458a7258a60475e9fdbf5fb.jpg> 3/31 芸能界では続々と事務所退所
+      <a href=https://news.yahoo.co.jp/pickup/6534078>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/aef4b4327576cebfdf923aeaefeab4daf8f6bba4183464917c76d05ba4e3a6c9.jpg> 江頭2:50の出演巡りTBS番組謝罪
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 06:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 06:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
