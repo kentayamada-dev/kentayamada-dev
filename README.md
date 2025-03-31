@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c85959c9e482f668c1db30424860ab42.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6f77331fabf13f288b59230923df603a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af34d4691ce4a5183309e60ea105ba11a19d5f38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00339366-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【おむすび】全話平均視聴率１３・１％　「ウェルかめ」下回り歴代ワースト
+      <a href=https://news.yahoo.co.jp/articles/7aa1fac8ed0011e978008ede54f3329821d0cf50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-07227577-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> フジテレビ問題　きょう第三者委員会の調査結果公表　その後、フジテレビ・清水社長が再発防止策など説明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0959faceaf212125e0dd996338b0f9c06c3f91e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000028-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=539&ch=539&exp=10800&fmt=webp> フジ第三者委が午後に調査結果公表　中居氏問題、社員の関与が焦点
+      <a href=https://news.yahoo.co.jp/articles/4d14bab85956e4c43b2adf433b4671125bcdeda5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00950625-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【ミャンマー大地震】迫る「72時間」第2の都市マンダレーで日本人1人と連絡取れず…これまで約1700人死亡　タイ・バンコクのビル倒壊でも11人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5166792c86253745d520c2e58708d1f59b7fbfb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-35231162-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=322&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ミャンマー地震の死者１７００人超、バンコクでもビル倒壊　まだ多数ががれきの下敷きに
+      <a href=https://news.yahoo.co.jp/articles/cae1868a07700aff2b969bcc01e78478a90ffefe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-07227588-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日経平均株価 一時1500円超下落　米・トランプ政権の動きが市場の警戒感高め 約半年ぶりの安値に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac527b9a3f599c537cb04741e8abaf4d27a89282>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-03311046-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=874&ch=874&exp=10800&fmt=webp> バイエルンの伊藤洋輝が右足の中足骨骨折で離脱「今シーズンはプレーできませんが…必ず戻ってきます」自身のＳＮＳで説明
+      <a href=https://news.yahoo.co.jp/articles/918e487037d98c9888e4eaccd6dc9822b7c67807>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000031-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=647&ch=647&exp=10800&fmt=webp> 韓国警察、ＢＴＳのＪＩＮさんに「無理やりキス」日本人女性の捜査中止決定…出頭要請に応じず　
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533993>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/48e5c7d7f04c4c70073514c1be79325a2d149389f6f4c2e0f11fb195f555d782.jpg> 愛媛の山火事 今治市が鎮圧を宣言
+      <a href=https://news.yahoo.co.jp/pickup/6533992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/d258b304a8cfc4ca1574093fcfdd482bca29cc636f08a3e622d65019b9187fdd.jpg> 2025年度予算案 参院予算委で可決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533992>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/d258b304a8cfc4ca1574093fcfdd482bca29cc636f08a3e622d65019b9187fdd.jpg> 2025年度予算案 参院予算委で可決
+      <a href=https://news.yahoo.co.jp/pickup/6533993>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/48e5c7d7f04c4c70073514c1be79325a2d149389f6f4c2e0f11fb195f555d782.jpg> 愛媛の山火事 今治市が鎮圧を宣言
       </a>
     </td>
   </tr>
@@ -426,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533982>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/5255bd591cb9990640e6113f82bd383e436e36f388d59d847e80fb2e5259d53a.jpg> フジ第三者委調査 5つの注目点
+      <a href=https://news.yahoo.co.jp/pickup/6533996>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/c8c580c5848bd769ca08ca320389e98db9de7085508cecde5f7469d7bec22766.jpg> 墨田区に「赤ちゃんポスト」設置
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533990>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/03a2be8905094e4e26198882c1c2c173348f2937cc5b34cf098992eff9b10dbd.jpg> はしか巡る誤情報が後絶たず 注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/6d721b20d95ff0cc9b3bb9a96d2dbf1e70e1e3f2fcffbdff121773b064472ea7.jpg> 藤浪 マイナーで暴投し悔しい表情
+      <a href=https://news.yahoo.co.jp/pickup/6533999>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> BTSのJINさんにキス疑い 捜査中止
       </a>
     </td>
   </tr>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/6f43d1d3b304c26e77e10a6175de2c5b21f8f708e4206a56cf8358caebd5d316.jpg> アイナ「WACK」を退所 10年所属
+      <a href=https://news.yahoo.co.jp/pickup/6533995>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/16c479ea1c444af82ec17cdf9afc6a2319c1873e19af5c226bbd294a0564c0ac.jpg> おむすび視聴率  朝ドラ最低13.1%
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6533994>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/7d30e62795d7c685f9e0e1bc5ff6f54ef38abdec198dc0d651e69099bd98aeca.jpg> 男性ブランコ・浦井のりひろ結婚
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 11:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 12:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
