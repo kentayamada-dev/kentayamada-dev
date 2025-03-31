@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1f17633af9bb4a4dcb1832d4f251230f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bba169fb1f72868b98895425af86490a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc341110a7e91c61873140bb3ec9a70087cac6c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-33311619-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=10&cw=1353&ch=1353&exp=10800&fmt=webp> デーブ・スペクター、フジ第三者委報告「守秘義務がブラックホールに」「清水社長の会見は合格」
+      <a href=https://news.yahoo.co.jp/articles/ab9ae6effd08b3f55a4208ae0b47c5544aad194b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000003-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=114&cw=1973&ch=1973&exp=10800&fmt=webp> 「企業の体なしてない」　第三者委報告書に業界衝撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7a3b00747eac393de96863b725f2ab430429893>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-07227784-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震 死者2000人超　JICA調査チームが到着　現地では人手不足で救助活動が難航
+      <a href=https://news.yahoo.co.jp/articles/44b7c54a2db4791b8aa64e1782fcd543d4b7a04f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00339464-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 江頭２：５０の〝放送事故〟を目撃した那須川天心「みそぎマッチいつでもやります」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1feaf2418ac747d37d84f093985f2afc64cce94f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00339483-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 永野芽郁　江頭２：５０との〝TBS感謝祭騒動〟説明「ただただ涙が出てしまった。それが結果的に…」
+      <a href=https://news.yahoo.co.jp/articles/781f8f780dd80ffbca2652b40925e32d868b1e93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー大地震の死者2000人超　発生72時間経過…救助活動は難航
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 05:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 05:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
