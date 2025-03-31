@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d05dec1b819b8fa8cf203ee6edb06d7a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b623107e997c53e5e186bbe88a8c7da4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c986b5f7008a687d486f567f824ec432b9909a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000412-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=799&ch=799&exp=10800&fmt=webp> フジ第三者委員会、中居正広氏の性暴力を認定　守秘義務解除に「応じなかった」
+      <a href=https://news.yahoo.co.jp/articles/714b0bca3c19e06dfd904ffec79a94f734c70359>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000421-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=799&ch=799&exp=10800&fmt=webp> フジ第三者委員会、女性は中居氏とのやり取りで「精神的に逃げ道を塞がれた」　「業務の延長線上」における性暴力と認定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63bf878033ab1d8e785612b7aae7bf04277b8f42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-25836187-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「食べるものが……」　被災したミャンマー首都の様子、BBCビルマ語が取材
+      <a href=https://news.yahoo.co.jp/articles/32097f288571536d266a60df9eb7fcd7549b6870>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-07227660-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震「発生後72時間」経過　ミャンマー第二の都市マンダレーの街並みは“一変”
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/66e4e9e2ef7cddadabe6e3e7f9322948dfcae527d9e4183f046414d1bb276fd5.jpg> 女性は中居氏から性暴力 第三者委
+      <a href=https://news.yahoo.co.jp/pickup/6534024>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/c2aa2cff8bbdeaa4d88c0dc6165593ddbe614e3bf519784e219b7ea1eee892bf.jpg> 業務延長上の性暴力 フジ第三者委
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534020>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b71decbcc91ed5ea8c7801890c6562cc5a09dd0f9c7c857878c52381941f7bdc.jpg> 大麻「使用」疑いで逮捕 警視庁初
+      <a href=https://news.yahoo.co.jp/pickup/6534021>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/731ca797b06c9d51cd12dfc376fd86749ae7293f4a7b195bf4579422ad1dc426.jpg> 住宅ローン金利 引き上げ相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/9545069c7bc413389492c5c5889f1928feaecec8acbb2dedd267304f103d238d.jpg> gooニュース サービス終了を発表
+      <a href=https://news.yahoo.co.jp/pickup/6534020>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b71decbcc91ed5ea8c7801890c6562cc5a09dd0f9c7c857878c52381941f7bdc.jpg> 大麻「使用」疑いで逮捕 警視庁初
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 16:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 16:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
