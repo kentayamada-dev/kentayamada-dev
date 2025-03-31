@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2caa6acc857a7bf55487d476eb68b1a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6100d28e0db0d2a5f2fbba51118085c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e7b5c7c6daacf76bd0ec9674881046ca395c193>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90021671-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 迫る72時間の壁　緊迫の救出活動で奇跡…わずかな隙間に人　ミャンマーでM7.7の大地震
+      <a href=https://news.yahoo.co.jp/articles/ed656a42f3a953201a14e03944b7452a7d9beee6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-35231171-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 衛星画像が見せつけるミャンマー地震の惨状、寺院の倒壊や橋の寸断
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d5a52e048536fb94dfefc9482e0e002f646ab9c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-03311085-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=763&ch=763&exp=10800&fmt=webp> フジテレビ問題の経過、きょう夕方から会見
       </a>
     </td>
   </tr>
@@ -373,14 +381,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/641d98033969c1c9e3783436fb64e017d8541cf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00135310-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 窪田正孝（36） 19年所属の事務所から退所を発表　今後はフリーに「変化し続ける時代の中で新たな挑戦を…」と決意明かす 【コメント全文】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e4eb7ec00e51aa41beabf7f9680bf0a9189f0447>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000030-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ関税「リスク深刻」 日経平均 一時1500円超の急落
       </a>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7aa1fac8ed0011e978008ede54f3329821d0cf50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-07227577-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> フジテレビ問題　きょう第三者委員会の調査結果公表　その後、フジテレビ・清水社長が再発防止策など説明
+      <a href=https://news.yahoo.co.jp/articles/330e611bde526c1c09be1bfa7e3498e91b122d2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000052-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=364&cy=0&cw=1472&ch=1472&exp=10800&fmt=webp> ラピダスに追加支援8025億円　経産省、次世代半導体を国産化へ
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533996>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/c8c580c5848bd769ca08ca320389e98db9de7085508cecde5f7469d7bec22766.jpg> 墨田区に「赤ちゃんポスト」設置
+      <a href=https://news.yahoo.co.jp/pickup/6534006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/51be30e66220abedaea2693723667b9d2356cc5799291ed71390984c27427431.jpg> ラピダス支援に8025億円 経産省
       </a>
     </td>
   </tr>
@@ -436,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534001>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/a2f7547bcff254962089413f4ed6604b19f643569be233b13223b087eee922f2.jpg> 高速で観光バス横転 10人超けがか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/2526b27d69f31caedde4141c83fb9264fd6e17f6bf5654567d8c35df8d7eb7ae.jpg> 皇治選手 当て逃げ疑いで書類送検
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533995>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/16c479ea1c444af82ec17cdf9afc6a2319c1873e19af5c226bbd294a0564c0ac.jpg> おむすび視聴率  朝ドラ最低13.1%
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 13:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 14:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
