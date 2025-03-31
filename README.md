@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8a3415b8d2485a648bddb01ec36633dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1f54f0be07ee6760013cb62bf84961a9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad5ba99b971364c4f01f0d8a706a64f0c8b597c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-03311094-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=763&ch=763&exp=10800&fmt=webp> フジ会見は今回も厳戒態勢　手荷物検査実施　午後５時開始
+      <a href=https://news.yahoo.co.jp/articles/d0bdd2c6dc01c8738af108adff68c78a43d8b988>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000193-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジテレビ会見　受付時刻には報道陣100人がズラリ　金属探知機も登場…厳戒態勢　木村拓也アナも列に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8162f37cc95dddd876318fb1d59205f08fe827b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-10171267-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=584&cy=0&cw=772&ch=772&exp=10800&fmt=webp> ミャンマー地震 迫る“72時間” 在住日本人1人と連絡取れず
+      <a href=https://news.yahoo.co.jp/articles/f68c8dfd2f30b2daec618e3380dcab140e46cc47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010002-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 国際救助隊が捜索活動を開始　震源地に近いマンダレーで  
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ee7258570ea122fac91916bbf5c149e8688a712>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90049719-hokkaibunv-000-7-thumb.jpg?exp=10800&fmt=webp> 道央自動車道・常磐トンネル内で20人以上の外国人が乗った観光バスとワンボックスカーが衝突＿複数人が病院へ搬送されたが全員意識あり_一部区間で通行止め
+      <a href=https://news.yahoo.co.jp/articles/3169c710efba294e4b6b4c6a7896b583c7393d9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00626021-raditopi-000-1-view.jpg?pri=l&w=192&h=144&exp=10800&fmt=webp> 神戸のファンタジスタ、現役引退を発表　サッカー元日本代表MF森岡亮太「幸せなサッカー人生歩めた」
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534004>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/bdb8ae7a69b0f489278eaa6122d3bf3009560c839f788e4207ff1d52b93b1f8c.jpg> 相互関税「全ての国」トランプ氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533989>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b98dedb072399433cebfb0e669336f7edba7bf49f51316f257b620a831d46560.jpg> ブチャの英雄「忘れない」解放3年
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/ac724726f0795d69019a55f8e7cb6f6d7c501f3f41f40cb638e8376fe4ecd06a.jpg> 日ハムに勧告 試合撮影の投稿巡り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534005>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/2c4f3ee15a4da43236168ef3fae5e9254d96d45d926573138dcac795fc2431a2.jpg> 窪田正孝 スターダスト退所を発表
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 14:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 15:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
