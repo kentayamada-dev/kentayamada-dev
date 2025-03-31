@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e2de0244663bd3fc502997c116937ac1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ceefe5445b2de905c3528493a9e6c9f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6644757e5d0c1780f34efed16690c55a0a54a0f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000301-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 別れと門出の3月31日…KAT-TUNは3人で涙のお別れ生配信　石原さとみ産休入り、フジアナ3人退社
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/53f3c19ff0505b832a840824644fadb11277bc59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00050180-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ミャンマー地震の死者１万人超える可能性、倒壊建物から妊婦ら３人救出…「７２時間」過ぎ救助続く
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00050180-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ミャンマー地震の死者１万人超える可能性、倒壊建物から妊婦ら３人救出…「７２時間」過ぎ救助続く
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/63c2c7805cd0a7daa936ce64330e5be54db35217>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01160499-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=863&ch=863&exp=10800&fmt=webp> 優勝飾った横浜、朝に再び甲子園訪問　村田浩明監督「夏に全力で戦える体制つくる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75f3cea89929b1b6c9d52f84b8e209e4bc5410d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00164141-crankinn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=488&ch=488&exp=10800&fmt=webp> 窪田正孝、スターダストプロモーション退所を報告「約19年間支えていただき心から感謝」
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534046>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a6693a9ddee9330596744801d42f5a1afe69ae2b666ee3189abf9cc0ec49ee4a.jpg> 中継 第三者委の報告受けフジ会見
+      <a href=https://news.yahoo.co.jp/pickup/6534063>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/3987a8661c8d471b4d71834354245ef2199a760d9089089f6e8f76eb8af235b6.jpg> 中居氏らの会合 フジの経費で精算
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534057>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/68e76dd3fef2fb935d5a28e0a7058590188e41a2f418e62688422cf4bdefa478.jpg> 都の内密出産 慈恵病院は「失望」
+      <a href=https://news.yahoo.co.jp/pickup/6534062>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/5ecdc81a6deef6f77b4056a2dd843076d2c66cb8dd3b297b0e92994d583f021f.jpg> 農協通さずコメ直接買い 44万t増
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 22:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 22:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
