@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b3a8a06a0f8b0525f870d02cdbf4967d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f592860e407dede5656cae2f9ed3d17.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ee7258570ea122fac91916bbf5c149e8688a712>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90049719-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 道央自動車道・常盤トンネル内で20人以上の外国人が乗った観光バスとワンボックスカーが衝突＿複数人が病院へ搬送されたが全員意識あり_一部区間で通行止め
+      <a href=https://news.yahoo.co.jp/articles/28433ab241e051a6849794fa7fa1d7cbfb238b3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000029-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1139&ch=1139&exp=10800&fmt=webp> 窪田正孝、所属事務所を退所 「もっと視野を広げ内観し、自身を高めてみたい」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e4eb7ec00e51aa41beabf7f9680bf0a9189f0447>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000030-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ関税「リスク深刻」 日経平均 一時1500円超の急落
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000030-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ関税「リスク深刻」 日経平均 一時1500円超の急落
       </a>
     </td>
   </tr>
@@ -374,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/393e726a63a650e3926cd5a1048c5c3a17b66133>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-06814347-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【中継】ミャンマー大地震　1700人死亡　発生から72時間迫る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/108ab60acfeb1c0939af0c0bf246871ebf48cc56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000025-ann-000-3-thumb.jpg?exp=10800&fmt=webp> フジ第三者委報告書公表へ　社員関与の有無などが焦点
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-06814347-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【中継】ミャンマー大地震　1700人死亡　発生から72時間迫る
       </a>
     </td>
   </tr>
@@ -391,6 +383,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6535f3512f8a86926642c4ac97473893a5f878cf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000001-baseballo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=665&ch=665&exp=10800&fmt=webp> 【センバツ】横浜が公式戦無敗の20連勝で頂点へ　名門復活の始まりは昨年5月チームに投じた“劇薬”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7aa1fac8ed0011e978008ede54f3329821d0cf50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-07227577-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> フジテレビ問題　きょう第三者委員会の調査結果公表　その後、フジテレビ・清水社長が再発防止策など説明
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533993>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/48e5c7d7f04c4c70073514c1be79325a2d149389f6f4c2e0f11fb195f555d782.jpg> 愛媛の山火事 今治市が鎮圧を宣言
+      <a href=https://news.yahoo.co.jp/pickup/6533989>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b98dedb072399433cebfb0e669336f7edba7bf49f51316f257b620a831d46560.jpg> ブチャの英雄「忘れない」解放3年
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534001>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/a2f7547bcff254962089413f4ed6604b19f643569be233b13223b087eee922f2.jpg> 高速で観光バス横転 10人超けがか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533999>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> BTSのJINさんにキス疑い 捜査中止
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533986>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/f41732f296a154ad2b32515f7f3853f4d4054aff7aa74cd181bac5a2c73cd017.jpg> 菅野 もうちょっと投げたかった
+      <a href=https://news.yahoo.co.jp/pickup/6534005>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/2c4f3ee15a4da43236168ef3fae5e9254d96d45d926573138dcac795fc2431a2.jpg> 窪田正孝 スターダスト退所を発表
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533994>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/7d30e62795d7c685f9e0e1bc5ff6f54ef38abdec198dc0d651e69099bd98aeca.jpg> 男性ブランコ・浦井のりひろ結婚
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 12:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 13:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
