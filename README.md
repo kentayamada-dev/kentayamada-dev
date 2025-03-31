@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8c03f7fb6a09bb240f1d56a319539782.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/621c288ce4792f89b3b778c48055bdbd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3be5d16efc2fecd3b4b0d2e3bd14302e74768cde>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー地震の死者1700人、1万人を超えるとの見方も　国際的な支援活動が本格化
+      <a href=https://news.yahoo.co.jp/articles/7ddf589b8e8fd42c54c53cee044d5699991a4777>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01728636-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希は「泣いていたのか？」　KO直後に同僚の横で“呆然”、佇まいに米注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c7de208bbaaf00f5487c22aec139c61521815ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000022-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=1077&ch=1077&exp=10800&fmt=webp> 菅野、初登板は2失点黒星　鈴木は1号2ラン―米大リーグ
+      <a href=https://news.yahoo.co.jp/articles/3be5d16efc2fecd3b4b0d2e3bd14302e74768cde>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー地震の死者1700人、1万人を超えるとの見方も　国際的な支援活動が本格化
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49e6aac59b3234adc6ee667bc7fe79be7c6741f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010003-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=360&ch=360&exp=10800&fmt=webp> 藤浪晋太郎、マイナー初登板で暴投勝ち越し点許す　制球に苦しみ1回1失点　最速159キロ
+      <a href=https://news.yahoo.co.jp/articles/b81aa0527fb63b1a1394bf6343dc152beb015496>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01728454-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 新庄監督も絶賛「簡単に打ちますね」　135キロ巨漢助っ人の走＆打…来日2年目で得た“思考”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b81aa0527fb63b1a1394bf6343dc152beb015496>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01728454-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 新庄監督も絶賛「簡単に打ちますね」　135キロ巨漢助っ人の走＆打…来日2年目で得た“思考”
+      <a href=https://news.yahoo.co.jp/articles/5f48bfac1effb37f2bca6e819d49a2f63bacec6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 亀梨和也　きょう3月31日をもって事務所を退所へ　ごくせん、修二と彰　デビュー前から活躍
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6533985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/82825ae3a763b42bcff15f8d726cefe1e15ead3a39ca37d46f39486e3ec6d24c.jpg> 東京株、一時1500円超の下落
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/cfecdc2e2dbcacd7a91d9818e4ab7c14f59ebc55bd25ce12442cd09944e0cca1.jpg> 東京株、一時1500円超の下落
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533981>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/f41732f296a154ad2b32515f7f3853f4d4054aff7aa74cd181bac5a2c73cd017.jpg> 無念降板も菅野「次につながる」
+      <a href=https://news.yahoo.co.jp/pickup/6533986>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/f41732f296a154ad2b32515f7f3853f4d4054aff7aa74cd181bac5a2c73cd017.jpg> 菅野 もうちょっと投げたかった
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/35dc5525031c7ba231fb80758b7a2d69769897e7383322e2b44e8344b3ad23ca.jpg> エビ中・小林歌穂が芸能界引退へ
+      <a href=https://news.yahoo.co.jp/pickup/6533983>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/6b1446e1a64352267bf29087b3503647cb242c8ccba5ff3c11d680c2cebeaaee.jpg> 今日をもって解散 KAT-TUN軌跡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 09:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 10:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
