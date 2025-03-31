@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/47bb53de14a88daf82daf9e0384e9bc9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d05dec1b819b8fa8cf203ee6edb06d7a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1c986b5f7008a687d486f567f824ec432b9909a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000412-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=799&ch=799&exp=10800&fmt=webp> フジ第三者委員会、中居正広氏の性暴力を認定　守秘義務解除に「応じなかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/63bf878033ab1d8e785612b7aae7bf04277b8f42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-25836187-bbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「食べるものが……」　被災したミャンマー首都の様子、BBCビルマ語が取材
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ccc011b057d8da7564d68768c2eaff80d64f1a02>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90018636-ktn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 最低制限価格の決定後、2時間以内に漏らしたか…佐々・官製談合事件で町長らを3人を送検【長崎】
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e664a742d30268a41d7699ea331a55d8254d1657>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33310669-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=83&cw=1334&ch=1334&exp=10800&fmt=webp> 日本テレビ社長「月曜から夜ふかし」で謝罪　事実と違う「中国ではカラスを食べる」意図的に編集
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a939078331af7011713ce4ffd25d0c04076f825f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000046-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=420&ch=420&exp=10800&fmt=webp> 原爆３３４発分が爆発した威力…在ミャンマー韓国人の９０％が暮らすヤンゴン、余震の恐怖
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0bdd2c6dc01c8738af108adff68c78a43d8b988>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000193-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジテレビ会見　受付時刻には報道陣100人がズラリ　金属探知機も登場…厳戒態勢　木村拓也アナも列に
+      <a href=https://news.yahoo.co.jp/articles/3cea2ac91fafa7b64f78b79bbbe07a78ff8a97bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-08519168-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【ソフトバンク】近藤健介の登録を抹消　ここまで打率.333の主力がチームを離脱　35年ぶりの開幕カード3連敗に続き苦難
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/66e4e9e2ef7cddadabe6e3e7f9322948dfcae527d9e4183f046414d1bb276fd5.jpg> 女性は中居氏から性暴力 第三者委
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534016>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 企業献金5万円超で公開に 自公国
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/bdb8ae7a69b0f489278eaa6122d3bf3009560c839f788e4207ff1d52b93b1f8c.jpg> 相互関税「全ての国」トランプ氏
+      <a href=https://news.yahoo.co.jp/pickup/6534006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/51be30e66220abedaea2693723667b9d2356cc5799291ed71390984c27427431.jpg> ラピダス支援に8025億円 経産省
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/51be30e66220abedaea2693723667b9d2356cc5799291ed71390984c27427431.jpg> ラピダス支援に8025億円 経産省
+      <a href=https://news.yahoo.co.jp/pickup/6534020>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b71decbcc91ed5ea8c7801890c6562cc5a09dd0f9c7c857878c52381941f7bdc.jpg> 大麻「使用」疑いで逮捕 警視庁初
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534009>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/2526b27d69f31caedde4141c83fb9264fd6e17f6bf5654567d8c35df8d7eb7ae.jpg> 皇治選手 当て逃げ疑いで書類送検
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534012>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/ac724726f0795d69019a55f8e7cb6f6d7c501f3f41f40cb638e8376fe4ecd06a.jpg> 日ハムに勧告 試合撮影の投稿巡り
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 15:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 16:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
