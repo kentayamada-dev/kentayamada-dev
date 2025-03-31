@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GV8fe3oLnZ0?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1a9e7a12481a12fb36ee352988b694f5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8c03f7fb6a09bb240f1d56a319539782.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65f7a29ebb39a13bb07e256f2dd1f4a8a6e79e41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000120-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> オ軍正捕手ラッチマン「安定したところだった」菅野のけいれん悔やむも「楽しみ」今後もバッテリー熱望
+      <a href=https://news.yahoo.co.jp/articles/3be5d16efc2fecd3b4b0d2e3bd14302e74768cde>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー地震の死者1700人、1万人を超えるとの見方も　国際的な支援活動が本格化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bdb794ec11acdc21a7dc4cf546ccf31de4f060c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00774552-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ問題・第三者委員会報告の注目5ポイント…女性とのトラブルを認識後、中居正広氏を起用し続けた「真の理由」など
+      <a href=https://news.yahoo.co.jp/articles/0c7de208bbaaf00f5487c22aec139c61521815ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000022-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=1077&ch=1077&exp=10800&fmt=webp> 菅野、初登板は2失点黒星　鈴木は1号2ラン―米大リーグ
       </a>
     </td>
   </tr>
@@ -374,15 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8e4e7c973898d22dc1556892282cca2166eded9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33310092-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 【センバツ】V横浜の20連勝相手校とスコアは　伝説の松坂世代44連勝＆過去の甲子園決勝も公開
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33310092-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 【センバツ】V横浜の20連勝相手校とスコアは　伝説の松坂世代44連勝＆過去の甲子園決勝も公開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1a222be89b4f43ba9d0adc362415776c3cc77fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000009-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=420&ch=420&exp=10800&fmt=webp> 「どれくらい亡くなったか分からない」…寺院も病院も崩壊、号泣のミャンマー（２）
+      <a href=https://news.yahoo.co.jp/articles/49e6aac59b3234adc6ee667bc7fe79be7c6741f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010003-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=360&ch=360&exp=10800&fmt=webp> 藤浪晋太郎、マイナー初登板で暴投勝ち越し点許す　制球に苦しみ1回1失点　最速159キロ
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533973>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/8ca36063bdaa6b10285b1b364806bd7eec23ae6e7bd64303316d043eeb479fd5.jpg> 修繕談合疑い コンサル業者も調査
+      <a href=https://news.yahoo.co.jp/pickup/6533985>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/82825ae3a763b42bcff15f8d726cefe1e15ead3a39ca37d46f39486e3ec6d24c.jpg> 東京株、一時1500円超の下落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/04639ce95addd41543650018e7f59f618a705bae09d3ff0d0e40b56ba483a43b.jpg> ミャンマー地震 迫る「72時間」
+      <a href=https://news.yahoo.co.jp/pickup/6533973>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/8ca36063bdaa6b10285b1b364806bd7eec23ae6e7bd64303316d043eeb479fd5.jpg> 修繕談合疑い コンサル業者も調査
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533972>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/2ee9dad38f78e315b40501042b113a8367eda8fd81bf3915ace4feaec8b0f826.jpg> 元ロッテ袴田英利さん 2月に急死
+      <a href=https://news.yahoo.co.jp/pickup/6533981>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/f41732f296a154ad2b32515f7f3853f4d4054aff7aa74cd181bac5a2c73cd017.jpg> 無念降板も菅野「次につながる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/4e5fb3cad52bc41b184ec781098052a886e78fe3b07c0df3c1b6d2cf179638da.jpg> 菅野智之がMLBデビュー 緊急降板
+      <a href=https://news.yahoo.co.jp/pickup/6533972>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/2ee9dad38f78e315b40501042b113a8367eda8fd81bf3915ace4feaec8b0f826.jpg> 元ロッテ袴田英利さん 2月に急死
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 09:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 09:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
