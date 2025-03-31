@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1799066a278db5cb9467750f735c702a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/279d625d21617760a08d68041e63b84c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6aa14ad424d31eb98969655654a3772c8ca1c839>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-10171401-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=820&ch=820&exp=10800&fmt=webp> 第三者委の調査結果うけ フジ社長「自己認識の甘さを思い知った」 スポンサーは再発防止策見極めへ
+      <a href=https://news.yahoo.co.jp/articles/f0d28c4791ef8e7f4b9f65ebe167e029e8e96788>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00775191-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 有名ドラマPだったカンテレ社長の進退が焦点…元フジ専務、中居正広氏の女性アナへの性暴力を「プライベートな問題」と即断
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af43a9e5b622d55c05b80efcb5b6f1076330b23e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-10171402-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=819&ch=819&exp=10800&fmt=webp> ミャンマー大地震 2000人超死亡
+      <a href=https://news.yahoo.co.jp/articles/72358c3f62f78727d906ddf761be67008b18f21d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050006-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 石破内閣半年、側近不在で目立つ場当たり的な意思決定…日米首脳会談で一定の成果も商品券問題で「貯金消し飛んだ」
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60a212df8882a167dda386f99bd1aafda47c77b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00010000-jij-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「らしさ」忘れた石破首相　発足半年、窮地の政権【解説委員室から】
+      <a href=https://news.yahoo.co.jp/articles/f231fcde8a91215395576e02cfee95c7a3a7b939>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050025-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=98&cw=305&ch=305&exp=10800&fmt=webp> ミャンマー国軍、地震後も少数民族へ空爆継続…医師不足は医療従事者弾圧の結果
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534081>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/5023f60b4aaa4a3161b5b4156fb8e1c7ebf36b5a160b0ca5fb28832013ffddc5.jpg> タイの倒壊ビル 仕様書従って工事
+      <a href=https://news.yahoo.co.jp/pickup/6534086>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/b759cbf417f5a6b91641828b264e0851f521caf9a52f05d02dd3386a2dcf90c6.jpg> 仏極右政党・ルペン氏に有罪判決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534076>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/fe40c8eab28f6766f7c92033fb08bebfb95986fcba68c8e252375c3942ec2795.jpg> 中居氏と女性 明かされたやりとり
+      <a href=https://news.yahoo.co.jp/pickup/6534082>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/99149c81bc4ced41919f04b66cc28d26e64a809e36aa9c46be4f36869872c536.jpg> フジ社長 関係者を厳正に処分する
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 08:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 08:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
