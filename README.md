@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4cce3c9c72044077a0d43155b8fb053b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7835eb215c275b62a4e9cdeb038e020.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/16138595523cf431316247bf661f0600537c42f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00050178-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=424&ch=424&exp=10800&fmt=webp> 中居正広氏から「業務の延長線上」で性暴力、女性の被害認定…フジ第三者委「全社的にハラスメント蔓延」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e6ed4bf4179ee6c38467ac3f314106e663987759>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-04928411-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【解説】都内で“赤ちゃんポスト”開始　東京で始まるとどうなる？　熊本との違いは？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/008350c59a663fcea1263ca7a98740e99263cf67>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00339432-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 乱調降板→自主退散→涙で猛批判の佐々木朗希に米ファンの応援続々「信じる」「すぐになじむ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5b152f5199b0c4457f294ce523cfe6967e6e6e2d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90021696-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 崩壊建物に日本人も　ミャンマー大地震“発生72時間”捜索続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61345a2e8b354bd3391c71e1dd8933d82bbfb2db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-11628806-ncctv-000-1-thumb.jpg?exp=10800&fmt=webp> 【長崎】佐々町発注の公共工事巡る官製談合事件 別の工事でも談合か…町長・古庄容疑者を再逮捕・送検
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/812a6f20ebb7ddb72978200f9b5dde07e20af330>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33311203-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=1151&ch=1151&exp=10800&fmt=webp> フジ第三者委員会、トラブル把握時の港氏ら３人の対応は「被害者ケア・救済の観点からも不十分」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbf8517a220927da10968375092de65ca4fce5ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000063-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=696&ch=696&exp=10800&fmt=webp> 日本テレビ社長、31日解散の『KAT―TUN』亀梨和也の来訪を報告「思い出話に花が咲き、とても良いミーティングでした」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/69f15b719305c5d824114e4ee0dcc329ea49bb0e9677498c7b016853e7f218bc.jpg> フジ 女性置き去りにする類似事案
+      <a href=https://news.yahoo.co.jp/pickup/6534046>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a6693a9ddee9330596744801d42f5a1afe69ae2b666ee3189abf9cc0ec49ee4a.jpg> 中継 第三者委の報告受けフジ会見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534042>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/4b2785cc3ec09100df3c7b346175b6db3dfb7ac9dbcb0e80b47b903b31cff339.jpg> 2025年度予算が成立 2度の修正
+      <a href=https://news.yahoo.co.jp/pickup/6534049>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/ddcb065c2d894f7418551939b909f89b4d4b082ab64d9ea6ee4b56ba9b760e5e.jpg> 中居氏巡り被害女性「逆らえず」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/95be32212011dd86e600cf163848c047b6d5c5b64c251c6dc5fd4dcc23eebfe8.jpg> トランプ氏 ゼレンスキー氏に警告
+      <a href=https://news.yahoo.co.jp/pickup/6534053>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/e8d86c890ab2ef58b0be919cf9fc3cedaa82e0d2657458c383226128130a268b.jpg> 予算成立 石破首相「熟議の国会」
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534037>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/ea7a8b47576dbfaa159c4b1da408578144468308eaea9ec8e267b33490ee659a.jpg> 南海トラフ 経済被害292兆円想定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534047>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/0e2674c7ac36eca6a761be2d651747b27aba3f4622c00d0aaa6320a483d06d1e.jpg> 隣室に侵入疑い 吉沢亮さん不起訴
+      <a href=https://news.yahoo.co.jp/pickup/6534054>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b59b1f9316606509c4da70432cb19afdfe5b47b449a49a2cfee56b7a72b6669f.jpg> がん患者支援の市議 乳がんで死去
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534040>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/aa06bc3f9117e2934d9f51d0fea0040c32090afe3d238c34cfc8aaed36117151.jpg> 好調のヤ軍で「魚雷バット」流行
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534052>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/45535a3b8b0c5b86bc7113cc6864382afd5422e65845079b0bd07eb0028c4696.jpg> 亀梨 日テレ社長に直接あいさつ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 20:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 20:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
