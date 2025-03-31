@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8025a9133b7e6e26e16f03f892ef1978.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1f17633af9bb4a4dcb1832d4f251230f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7a3b00747eac393de96863b725f2ab430429893>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-07227784-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震 死者2000人超　JICA調査チームが到着　現地では人手不足で救助活動が難航
+      <a href=https://news.yahoo.co.jp/articles/fc341110a7e91c61873140bb3ec9a70087cac6c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-33311619-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=10&cw=1353&ch=1353&exp=10800&fmt=webp> デーブ・スペクター、フジ第三者委報告「守秘義務がブラックホールに」「清水社長の会見は合格」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b932f8bd3cedac22b1474bfa295afad58a9ec145>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-07227772-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 中居氏と元女性アナウンサーのトラブル「業務の延長線上の性暴力」 フジテレビ第三者委が認定
+      <a href=https://news.yahoo.co.jp/articles/b7a3b00747eac393de96863b725f2ab430429893>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-07227784-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震 死者2000人超　JICA調査チームが到着　現地では人手不足で救助活動が難航
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 04:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 05:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
