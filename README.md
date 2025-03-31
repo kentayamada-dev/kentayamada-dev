@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62277871ba07ba8d556177a3c1fd3d57.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4ded2561654662aaa8161af8b9c37bdd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b77d0e61c1f4a230febb626f19c22bdef6bdc193>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-05544596-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「全社的にハラスメント被害がまん延していた」フジテレビ第三者委員会
+      <a href=https://news.yahoo.co.jp/articles/2a418c79a4ad6199fb60fae8d4b4f59915a1b069>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-90021727-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 第三者委「業務の延長線上の性暴力」年齢・容姿で“接待要員”に…フジ社長が謝罪
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 02:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 03:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
