@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ed2ad6f7a44da0bedda5efef6bf9ddcc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a4db8aee27cbae0430a733db5d1d7788.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/61345a2e8b354bd3391c71e1dd8933d82bbfb2db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-11628806-ncctv-000-1-thumb.jpg?exp=10800&fmt=webp> 【長崎】佐々町発注の公共工事巡る官製談合事件 別の工事でも談合か…町長・古庄容疑者を再逮捕・送検
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37512a34118566626700a1c950bb434b2bfe1b7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000053-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ミャンマー人労働者も安否分からず　焦り募る家族ら　タイの倒壊ビル
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/812a6f20ebb7ddb72978200f9b5dde07e20af330>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-33311203-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=1151&ch=1151&exp=10800&fmt=webp> フジ第三者委員会、トラブル把握時の港氏ら３人の対応は「被害者ケア・救済の観点からも不十分」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/73bbbd66728afd55e74ea31f0d3a890a36bcbc27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000017-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 高校野球の進学先に異変...？「大阪桐蔭」離れの事態なのか　伸び悩んで出場機会を得られないよりは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/725522c686e32f992a040111c3a1e4b81cf2955f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010002-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】1日の天気 - 新年度スタートは暖かい服装で　東京も冷たい雨で8℃予想（31日18時更新）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c9dd1ee56c52ca0488e68cbc0cc027955d2f822>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー地震、救出急ぐ　72時間経過、不明者多数
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/191be147f19ec2a45edcdcc705cfe488146f15cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000059-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 「セクハラに寛容な企業体質」第三者委が会見　日枝氏らの責任は？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ae2127b7d64533b418b1222af04403fcc8246c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00010004-tvkv-000-1-thumb.jpg?exp=10800&fmt=webp> センバツ優勝から一夜明け　村田監督「夏勝ってこそ本物。切り替えて」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e0d7e26c1ea090939767e56ff603820b0b63596>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00339415-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 制球難に苦しむドジャース・佐々木朗希　その「残念な態度」に韓国メディア「子供じみている」
       </a>
     </td>
   </tr>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534046>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a6693a9ddee9330596744801d42f5a1afe69ae2b666ee3189abf9cc0ec49ee4a.jpg> 中継 第三者委の報告受けフジ会見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/69f15b719305c5d824114e4ee0dcc329ea49bb0e9677498c7b016853e7f218bc.jpg> フジ 女性置き去りにする類似事案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534042>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/4b2785cc3ec09100df3c7b346175b6db3dfb7ac9dbcb0e80b47b903b31cff339.jpg> 2025年度予算が成立 2度の修正
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a6693a9ddee9330596744801d42f5a1afe69ae2b666ee3189abf9cc0ec49ee4a.jpg> 中継 フジ第三者委員会が会見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534032>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/db69550f733a3739dab9e8d0d30742182f4d8948efcab0a5448e27c82a7c6303.jpg> 中居氏からの見舞金 口封じと指摘
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534038>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/059d05904f8733ebbb06fbd7b944b160a84254891d32a4e48d21b2381d0b8f10.jpg> 飲食料品 4月は値上げラッシュ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534007>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/37e9e3bf3b1e26afa5719d0ede0b29d32d8d23b5c6a9d87ae458801bdb651f62.jpg> すき家が一時閉店 害虫などの対策
+      <a href=https://news.yahoo.co.jp/pickup/6534037>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/ea7a8b47576dbfaa159c4b1da408578144468308eaea9ec8e267b33490ee659a.jpg> 南海トラフ 経済被害292兆円想定
       </a>
     </td>
   </tr>
@@ -451,7 +443,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534047>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b52d4d2d9e5e6911d596dfc200ac87808c13efb9b17429175b318d35d8443cf8.jpg> 隣室に侵入疑い 吉沢亮さん不起訴
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/0e2674c7ac36eca6a761be2d651747b27aba3f4622c00d0aaa6320a483d06d1e.jpg> 隣室に侵入疑い 吉沢亮さん不起訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534022>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/7661fca42548bbdc4593af320a5529ce4b72c438e83cccdc61aa00ae88a53de8.jpg> 近藤健介アクシデント 腰痛で離脱
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 19:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 19:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
