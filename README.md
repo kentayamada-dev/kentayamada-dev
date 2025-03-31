@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f592860e407dede5656cae2f9ed3d17.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2caa6acc857a7bf55487d476eb68b1a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28433ab241e051a6849794fa7fa1d7cbfb238b3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000029-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1139&ch=1139&exp=10800&fmt=webp> 窪田正孝、所属事務所を退所 「もっと視野を広げ内観し、自身を高めてみたい」
+      <a href=https://news.yahoo.co.jp/articles/3e7b5c7c6daacf76bd0ec9674881046ca395c193>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90021671-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 迫る72時間の壁　緊迫の救出活動で奇跡…わずかな隙間に人　ミャンマーでM7.7の大地震
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c885376d4d06273e3a57b7b0870fb80d67966fc1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-90018473-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】吉村代表「もう一度引き締めて大阪のために頑張っていきたい」維新首長で問題相次ぐと記者に問われ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/641d98033969c1c9e3783436fb64e017d8541cf4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00135310-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 窪田正孝（36） 19年所属の事務所から退所を発表　今後はフリーに「変化し続ける時代の中で新たな挑戦を…」と決意明かす 【コメント全文】
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e4eb7ec00e51aa41beabf7f9680bf0a9189f0447>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000030-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ関税「リスク深刻」 日経平均 一時1500円超の急落
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/393e726a63a650e3926cd5a1048c5c3a17b66133>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-06814347-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【中継】ミャンマー大地震　1700人死亡　発生から72時間迫る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6535f3512f8a86926642c4ac97473893a5f878cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000001-baseballo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=665&ch=665&exp=10800&fmt=webp> 【センバツ】横浜が公式戦無敗の20連勝で頂点へ　名門復活の始まりは昨年5月チームに投じた“劇薬”
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6533992>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/d258b304a8cfc4ca1574093fcfdd482bca29cc636f08a3e622d65019b9187fdd.jpg> 2025年度予算案 参院予算委で可決
+      <a href=https://news.yahoo.co.jp/pickup/6534004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/bdb8ae7a69b0f489278eaa6122d3bf3009560c839f788e4207ff1d52b93b1f8c.jpg> 相互関税「全ての国」トランプ氏
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 13:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 13:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
