@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bba169fb1f72868b98895425af86490a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9cf93d0e8a4d1c12c8f94ad3e2cb858.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab9ae6effd08b3f55a4208ae0b47c5544aad194b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000003-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=114&cw=1973&ch=1973&exp=10800&fmt=webp> 「企業の体なしてない」　第三者委報告書に業界衝撃
+      <a href=https://news.yahoo.co.jp/articles/36918343782556d0a77f3f6c168e5900e5e2aaf1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-07968231-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 中居氏が関わった“類似事案”も認定　ハラスメントまん延…フジテレビ第三者委員会が報告書　スポンサーからも厳しい声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d55c892ce1af7201f89a3bcad1c50ff493c2ef0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-06518384-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー地震…死者2000人超　タイ・バンコクのビル倒壊、中国企業の従業員が隠蔽工作か
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/44b7c54a2db4791b8aa64e1782fcd543d4b7a04f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00339464-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 江頭２：５０の〝放送事故〟を目撃した那須川天心「みそぎマッチいつでもやります」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/781f8f780dd80ffbca2652b40925e32d868b1e93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー大地震の死者2000人超　発生72時間経過…救助活動は難航
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 05:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 06:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
