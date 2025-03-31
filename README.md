@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a21048b05f70315b2a4e9fa668ee8b55.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7bc2dd54477d53609e5203f0e7f0d7ce.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a730943fe49c31ca2daf71d6a68a911b1a461daf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00950970-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=463&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「”中居氏トラブル”が『どのようなものだったか』によって、フジテレビの対応が評価できる　重要なのは事実認定　雰囲気で攻めるのはよくない」と橋下氏　フジテレビ問題で第三者委報告書公表を前に
+      <a href=https://news.yahoo.co.jp/articles/b4d3cbe34ebd02e96a66a52d60534b0953b0643b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000312-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大多亮・関西テレビ社長コメント　被害女性に「寄り添うことができず…」第三者委員会「思慮浅い判断」に
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a53b7dd00a288f8d7033eb20bd63372eacc8f481>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000166-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=1029&ch=1029&exp=10800&fmt=webp> フジ被害女子アナ　入院費等支払いを中居氏に求む→中居氏は贈与税にならない金額にと希望【削除→復元されたメール】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63c2c7805cd0a7daa936ce64330e5be54db35217>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-01160499-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=863&ch=863&exp=10800&fmt=webp> 優勝飾った横浜、朝に再び甲子園訪問　村田浩明監督「夏に全力で戦える体制つくる」
       </a>
     </td>
   </tr>
@@ -410,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534071>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/75bbc904ace2006deffd33bfef8ff50fc173df0b13e9d5a55e2499896b156dc1.jpg> フジ業務延長の性暴力 厳しい指弾
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534063>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/3987a8661c8d471b4d71834354245ef2199a760d9089089f6e8f76eb8af235b6.jpg> 中居氏らの会合 フジの経費で精算
       </a>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534062>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/5ecdc81a6deef6f77b4056a2dd843076d2c66cb8dd3b297b0e92994d583f021f.jpg> 農協通さずコメ直接買い 44万t増
+      <a href=https://news.yahoo.co.jp/pickup/6534056>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/731ca797b06c9d51cd12dfc376fd86749ae7293f4a7b195bf4579422ad1dc426.jpg> 大手5行 住宅ローン変動金利上げ
       </a>
     </td>
   </tr>
@@ -428,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534066>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/8b230fd38c52d88a86f1b644b375812dd4596ea84d7bd7f3af23754a38d43551.jpg> 救急車を10代女性が運転 盗難被害
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/57ed161e4e830140e8aedb5b525753f25dc698ad11b71f3de3705dc5878ffb44.jpg> ハイジャック実行犯ら 都を提訴
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 23:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 23:51:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
