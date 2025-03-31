@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7bc2dd54477d53609e5203f0e7f0d7ce.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f52b78c7c7460ca5b40a00054695f3dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4d3cbe34ebd02e96a66a52d60534b0953b0643b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000312-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大多亮・関西テレビ社長コメント　被害女性に「寄り添うことができず…」第三者委員会「思慮浅い判断」に
+      <a href=https://news.yahoo.co.jp/articles/cbdb684836c25cb912c886b86187fe9d96e5e1ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000314-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ・堤礼実アナ「改革実現のためにどう行動していくべきか…明確に落とし込む必要があると感じる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9afec4c160f493c0e6a1448ce81a5568aa6c66fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010001-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> TBS「オールスター感謝祭」公式Ｘが江頭2：50、永野芽郁らに謝罪「ご迷惑を」視聴者にも
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b348205d2eb94f128e62c21d5f687df10ab0c3e3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000074-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=425&ch=425&exp=10800&fmt=webp> 地震発生72時間、救助中断「なぜ助けない」悲痛な叫び　ミャンマー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a53b7dd00a288f8d7033eb20bd63372eacc8f481>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000166-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=1029&ch=1029&exp=10800&fmt=webp> フジ被害女子アナ　入院費等支払いを中居氏に求む→中居氏は贈与税にならない金額にと希望【削除→復元されたメール】
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534071>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/75bbc904ace2006deffd33bfef8ff50fc173df0b13e9d5a55e2499896b156dc1.jpg> フジ業務延長の性暴力 厳しい指弾
+      <a href=https://news.yahoo.co.jp/pickup/6534063>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/3987a8661c8d471b4d71834354245ef2199a760d9089089f6e8f76eb8af235b6.jpg> 中居氏らの会合 フジの経費で精算
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534063>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/3987a8661c8d471b4d71834354245ef2199a760d9089089f6e8f76eb8af235b6.jpg> 中居氏らの会合 フジの経費で精算
+      <a href=https://news.yahoo.co.jp/pickup/6534076>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/fe40c8eab28f6766f7c92033fb08bebfb95986fcba68c8e252375c3942ec2795.jpg> 中居氏と女性 明かされたやりとり
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/220cecf9c0c14222fab472cadd73608b8c76b4cbc43c0fb7648dabc08d507f68.jpg> KAT-TUN生配信 涙で深々お辞儀
+      <a href=https://news.yahoo.co.jp/pickup/6534078>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/aef4b4327576cebfdf923aeaefeab4daf8f6bba4183464917c76d05ba4e3a6c9.jpg> 江頭2:50の出演巡りTBS番組謝罪
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 23:51:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 00:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
