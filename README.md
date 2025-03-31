@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/135c2f7180f704683dbb8802a640cab8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/658635cda0b853a60126b7266928f8b6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7495a9533fe7b6546182b710dea16c7deaaf5b95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自公国、企業献金公開「5万円超」　与野党、3月末の結論先送り
+      <a href=https://news.yahoo.co.jp/articles/4a3cc79bd5d57517cb787f106157840baa7e4728>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00775049-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ女性アナらが参加した外資系ホテルでの“セクハラ会合”　高額なスイートルーム代はフジが経費処理
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/768c0203f771997b2578d36df1ccf2c264c6d1fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000072-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=1597&ch=1597&exp=10800&fmt=webp> 「社内セクハラに寛容な企業体質」　フジ第三者委員長が指摘
+      <a href=https://news.yahoo.co.jp/articles/f0aff8d47bca8a4857ea257474564c25257f1ec7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-07227696-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震　40℃の炎天下で懸命の捜索　 軍政支配で困窮の市民生活に追い打ち 周辺国から“即時停戦”求める声も　マンダレーの現場から
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6e0d7e26c1ea090939767e56ff603820b0b63596>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00339415-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 制球難に苦しむドジャース・佐々木朗希　その「残念な態度」に韓国メディア「子供じみている」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00339415-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 制球難に苦しむドジャース・佐々木朗希　その「残念な態度」に韓国メディア「子供じみている」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0a1e4af7b76fdb819aa9153bd8a0fdec068ce0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00000067-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 気温40度超、難航する救助活動　ミャンマー地震の倒壊現場
+      <a href=https://news.yahoo.co.jp/articles/09a1ec245f3f9232ee62cac89c580ebcab6a0d34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250331-00094443-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ３試合で球団新15本！ ヤンキースのアーチ量産“魚雷バット”がブームに？ 「自分のモデルが作れるのかメーカーに聞いてみたい」メジャーリーガーが強い関心
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a6693a9ddee9330596744801d42f5a1afe69ae2b666ee3189abf9cc0ec49ee4a.jpg> 中継 フジ第三者委員会が会見
+      <a href=https://news.yahoo.co.jp/pickup/6534042>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/4b2785cc3ec09100df3c7b346175b6db3dfb7ac9dbcb0e80b47b903b31cff339.jpg> 2025年度予算が成立 2度の修正
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534024>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/289dfefa1406c9c6a5ed2c5839e9ce39548fabc8114b4094590339819749eb6a.jpg> 業務延長上の性暴力 フジ第三者委
+      <a href=https://news.yahoo.co.jp/pickup/6534026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/a6693a9ddee9330596744801d42f5a1afe69ae2b666ee3189abf9cc0ec49ee4a.jpg> 中継 フジ第三者委員会が会見
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534021>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/731ca797b06c9d51cd12dfc376fd86749ae7293f4a7b195bf4579422ad1dc426.jpg> 住宅ローン金利 引き上げ相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6534038>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/059d05904f8733ebbb06fbd7b944b160a84254891d32a4e48d21b2381d0b8f10.jpg> 飲食料品 4月は値上げラッシュ
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534019>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/12907b84149cf016b78ca9d5f8fc4a1c5f54a6afa0d60bf2750d6ef4a86e1ebe.jpg> 月曜から夜ふかし 街頭取材を中止
+      <a href=https://news.yahoo.co.jp/pickup/6534045>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/3/31/b1514734fec6b2c94220da48e93046ed64e49cb91437bf6a81d78530abaff3ec.jpg> 長妻怜央と井上小百合 結婚&妊娠
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/03/31 18:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/03/31 18:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
