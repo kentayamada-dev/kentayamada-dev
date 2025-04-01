@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/279d625d21617760a08d68041e63b84c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d9adbd373cdb1ac0660e4b6ab5ab547e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0d28c4791ef8e7f4b9f65ebe167e029e8e96788>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00775191-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 有名ドラマPだったカンテレ社長の進退が焦点…元フジ専務、中居正広氏の女性アナへの性暴力を「プライベートな問題」と即断
+      <a href=https://news.yahoo.co.jp/articles/e319a6abb49b4f52ce62a93bed36250d3cd55023>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-01352494-jspa-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=607&ch=607&exp=10800&fmt=webp> 江頭2:50暴走にネット真っ二つ！問題が“TVバラエティの限界”のあらわれであるワケ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72358c3f62f78727d906ddf761be67008b18f21d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050006-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 石破内閣半年、側近不在で目立つ場当たり的な意思決定…日米首脳会談で一定の成果も商品券問題で「貯金消し飛んだ」
+      <a href=https://news.yahoo.co.jp/articles/b90bf33ed472b345de46124464f657753e9b5537>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00125156-phileweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=470&ch=470&exp=10800&fmt=webp> アップル、iOS 18.4など配信開始。日本語でApple Intelligenceが利用可能に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7daf946be5629bb8036653d3afa9c8095d345589>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00036188-jprime-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「TBSにも責任がある」永野芽郁退席の放送事故、江頭への賛否以上に矛先が向いたキャスティング
+      <a href=https://news.yahoo.co.jp/articles/6aa14ad424d31eb98969655654a3772c8ca1c839>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-10171401-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=820&ch=820&exp=10800&fmt=webp> 第三者委の調査結果うけ フジ社長「自己認識の甘さを思い知った」 スポンサーは再発防止策見極めへ
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f231fcde8a91215395576e02cfee95c7a3a7b939>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050025-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=98&cw=305&ch=305&exp=10800&fmt=webp> ミャンマー国軍、地震後も少数民族へ空爆継続…医師不足は医療従事者弾圧の結果
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050025-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=98&cw=305&ch=305&exp=10800&fmt=webp> ミャンマー国軍、地震後も少数民族へ空爆継続…医師不足は医療従事者弾圧の結果
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534087>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/0279f49510d9d9936bb796da6a1bf9a2e45c1fb639c20276da1ce6f4ea1dfbd7.jpg> 南海トラフ想定 浸水域は3割拡大
+      <a href=https://news.yahoo.co.jp/pickup/6534088>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/4111122f6ff2f555a801e8bedd6d82d97333e364248980dedddf54fce4b2c2f7.jpg> 忘れた「石破氏らしさ」政権半年
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534083>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/873d751b2bbb7cc1745372120c824d2928c5f66e891605aa5204279990a18c02.jpg> 山沿い中心に雪 関東真冬並み寒さ
+      <a href=https://news.yahoo.co.jp/pickup/6534092>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/ee37dfae1179c2289966f186f1e479a9e99bf7aeb8fd92d8565896dcb533718e.jpg> ミャンマー国軍 空爆継続の情報
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534089>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/436885b59625358c8d7184b0bd880bdf03c5940aca6a3d11106577763b84aa5a.jpg> 9歳はねられ重体 74歳の男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6534091>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/8c07b2a2fbe5405ceb896cb8d98bb4e9e3fee4552913c1d523cf425b90563590.jpg> 厚利少売「珈琲系」カフェの特徴
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 08:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 09:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
