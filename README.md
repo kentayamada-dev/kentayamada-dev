@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f222157d4d18bdeea6edd59b25d826bb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c8505a66f8696b2ad1e462b7e139a60d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/edd72ea064b1624755e6c3bc6de01c2b149d0cb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 上半身に多数の刺し傷　東京の女子高生遺体　愛知県警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ec675408fabc0667abdc126d4fb351726e11bc6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-04011284-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居正広氏「性暴力認定」から一夜　被害者の元フジアナが初のコメント「被害は一生消えることはない」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e4f6a92f1a6796ab1883a8207402d5f9d63f538f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951534-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震“死者3000人超え”見通し 被害全容は　日本政府は医師ら32人派遣　被災者支援へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b99aa90c8e0f87a139b2fdd06bd36d58ad1d557>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 「仲間意識」を悪用　オンラインゲームに潜む犯罪の“わな”　対策は
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534165>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/188c2e4d13856dcd0659a9bce8fc39f6cff8717456536bb6435f975029d9292b.jpg> 関テレ社長 入社式でフジ問題謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/f198d01f07ca92e34ccb0bd6fae72ab779b80ccc2d11bef1c1a206fb47b17bf1.jpg> BSフジ 反町理氏の出演見合わせ
+      <a href=https://news.yahoo.co.jp/pickup/6534174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/98940bb63630390a7bac43417948d35108950335af964bf783a79ec515ab2e78.jpg> 「ライス販売停止」投稿巡り謝罪
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534172>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/4f7767a3b240399197fcc856ce0e9bd6efa6cc5782e03dea2dd232c6402aed94.jpg> 巨人・坂本勇人 2.4億円申告漏れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/f1dced04beefe0a64ea78e1e0a189a2b49f626dc38834e8c70efe8bb5dc5f01b.jpg> 中日 代走の上林が「神の手」走塁
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 06:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 07:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
