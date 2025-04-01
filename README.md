@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f3226628f06cbbd642a100d948af648.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b762cf243f85a2124ac4bea38d1fbc31.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bb04785b654674b97d176c5dbab3dd9979b986f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00339554-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=800&ch=800&exp=10800&fmt=webp> セクハラ＆パワハラ認定の反町理キャスター　BSフジの報道番組出演を当面見合わせ「事実確認し厳正に対処」
+      <a href=https://news.yahoo.co.jp/articles/9a47005d28fa03725ce6ab328ed22541cb8f184e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011244-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 松岡茉優　２２年間在籍した所属事務所を退所、３０歳で今後の人生考え「浮かんできたのは挑戦したい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0ff61d4403a36cbedf862de71c6946825a48cc3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-90019300-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 国内医療機関で２例目　東京の病院『赤ちゃんポスト』受け入れ　慈恵病院 蓮田理事長「失望した」【熊本】
+      <a href=https://news.yahoo.co.jp/articles/cd9080c4f355aacc8c3e93b0149a7dc9899fe1c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000069-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 永野芽郁“号泣騒動”の『オールスター感謝祭』TBS局内で「江頭2：50起用はミスではない」と言われる理由
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0493459525ce7bc9ac364e7790b596cc97f4f5b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000125-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 被災者850万人、過酷な環境　死者2700人超に　ミャンマー地震
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000125-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 被災者850万人、過酷な環境　死者2700人超に　ミャンマー地震
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a42ef9b2adaee9551804671b1921c556b57c1d8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-17047716-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=579&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> イスラエル、ガザ南部ラファなどの住民に避難命令　攻撃再開から最大規模
+      <a href=https://news.yahoo.co.jp/articles/cd226c679c2aef38fc235bd21a5d1d0b117606d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-01274541-shincho-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「望月衣塑子記者を完封」フジ会見で前回と打って変わりフリー記者たちが大人しかったワケ「ロボットみたいな清水社長を攻めあぐねていた」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/6f59944d14705bc88599217eb229f335fc0f41507fb95f036ef982f6cf47d675.jpg> ミャンマー地震 死者2700人超
+      <a href=https://news.yahoo.co.jp/pickup/6534139>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/eb3a512b4e2188b7b4923b7b096f43bfbd7db8bdb735192e33bdee1d4c78758e.jpg> 政府 ミャンマーへ医師ら32人派遣
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534147>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/dbb6494d06c3a029eed69d887ac12fe418c5f139948279983be2ea379394c87b.jpg> 遺体取り違えて引き渡し 県警謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6534156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/977e7dfa518e658570422de5c60eca40d56904dc09e4213633d4d7bd69d7677a.jpg> 山林火災 幹が焦げた樹に桜咲く
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/f198d01f07ca92e34ccb0bd6fae72ab779b80ccc2d11bef1c1a206fb47b17bf1.jpg> BSフジ 反町理氏の出演見合わせ
+      <a href=https://news.yahoo.co.jp/pickup/6534158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/2ed0274536cc41750e111a0ca81ce5f4515140b9a5a9e5e8f8fa63fe935227de.jpg> 百日せき急増 昨年の患者数上回る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534160>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/e54e7451e0d926ccea1873eb1cdf9dbf36ee64aed434a1567c58f91884a7b79c.jpg> フジ会見 会場で起きていたこと
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/de567210211ebfe460bcddf8217e568ff413681c0e50e61735bfef0332e52af3.jpg> 歌手のmilet 活動休止を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 21:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 21:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
