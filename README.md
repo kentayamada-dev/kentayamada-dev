@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c439e560da427acbfd545f8605dbc98.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f222157d4d18bdeea6edd59b25d826bb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b6b0557135965226db5ba85ff23ca4b6f4705fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 90時間経過、女性を救出　続く捜索、諦める家族も　ミャンマー地震
+      <a href=https://news.yahoo.co.jp/articles/9ec675408fabc0667abdc126d4fb351726e11bc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-04011284-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居正広氏「性暴力認定」から一夜　被害者の元フジアナが初のコメント「被害は一生消えることはない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4359440ca9c55c6ac6888cfe0b16a847eb742fac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-02693776-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> クローゼットに女子高校生“遺体”　21歳男逮捕　出会いのきっかけは「オンラインゲーム」か
+      <a href=https://news.yahoo.co.jp/articles/e4f6a92f1a6796ab1883a8207402d5f9d63f538f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951534-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震“死者3000人超え”見通し 被害全容は　日本政府は医師ら32人派遣　被災者支援へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4b99aa90c8e0f87a139b2fdd06bd36d58ad1d557>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000000-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 「仲間意識」を悪用　オンラインゲームに潜む犯罪の“わな”　対策は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d6f25739141fec3ce7459cb31e7fddfb3bdf5ede>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-34020033-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=17&cw=442&ch=442&exp=10800&fmt=webp> 太田光、暴走江頭にツッコミ「TBS出禁、あいつは本当に成長しない」普段は「誰とも…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/225bb66dc4189eb1118061d20c721abb49a0a565>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000003-ann-000-15-thumb.jpg?exp=10800&fmt=webp> 巨人・坂本選手 2.4億円の申告漏れ 追徴税額1億円か
       </a>
     </td>
   </tr>
@@ -388,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534167>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/bbefa2614dda9cfb22cca175be24de20d155532b783b1df6778ea8ea43e886e1.jpg> プーチン大統領 中国外相と会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534158>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/2ed0274536cc41750e111a0ca81ce5f4515140b9a5a9e5e8f8fa63fe935227de.jpg> 百日せき急増 昨年の患者数上回る
       </a>
     </td>
   </tr>
@@ -434,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534172>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/4f7767a3b240399197fcc856ce0e9bd6efa6cc5782e03dea2dd232c6402aed94.jpg> 巨人・坂本勇人 2.4億円申告漏れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534171>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/76cbea87d1f9dd507137650a1f6f7f7c4476d102b7803b09cf12059e890be39f.jpg> miletが一時休養 SNSなどは継続
       </a>
@@ -444,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 06:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 06:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
