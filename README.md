@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac1f753b64eb09084155745e9c474d0c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7c8d3bb491d9c9f05bd3b4ce3dd97c2c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8686ba1b1f20d89ba5b2a55f3e94b829b457a6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000068-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 大谷翔平が暗黙の了解を破った？　６点リードの六回に二盗　２試合連続盗塁も報復死球を心配する声
+      <a href=https://news.yahoo.co.jp/articles/9bfff071fb461fd5b190e6f193b15d7003ebc84d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000073-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 大谷翔平　「５０－５０」モードで２戦連続盗塁成功　積極果敢走塁もロバート監督「心配ない」
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/969937ac50243642fbc1a956a58c2741b13fcd8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000020-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 江頭2:50　永野芽郁への“暴走”が物議…それでも“大炎上”防いだ「その後の対応」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000020-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 江頭2:50　永野芽郁への“暴走”が物議…それでも“大炎上”防いだ「その後の対応」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 15:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 15:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
