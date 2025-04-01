@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/148afdfec9d0b758b36ee719b3d62a15.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/face89cae45fc43442a7c3db279ff4b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/187fdd4559acb14aa163e3c0e89764b60cd1da6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000108-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=916&ch=916&exp=10800&fmt=webp> GACKT　エガちゃん“大暴れ騒動”で長文見解「うーん、よくわからんが。江頭さんは昔からあの芸風…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3af6d0ef8ab13746ad62d7b98d3b6bd2750632a0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000004-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《先輩女性アナ・F氏に同情の声》「名誉回復してあげないと可哀想ではない?」アナウンス室部長として奔走　“一管理職の職責を超える&#8221;心労も
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9499cbe098fb29a8f4abc44bb89695466746839>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-04021006-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1059&ch=1059&exp=10800&fmt=webp> 大谷翔平、ドジャース“新記録”の開幕７連勝へ　ブレーブス戦「１番・ＤＨ」先発　４戦ぶり３号出るか
+      <a href=https://news.yahoo.co.jp/articles/77d0588d5044d76d49455e897f6b208df201bb56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000019-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 局面転換へ物価対策訴え　参院選控え、忍耐続く石破首相
       </a>
     </td>
   </tr>
@@ -379,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4f6a92f1a6796ab1883a8207402d5f9d63f538f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951534-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震“死者3000人超え”見通し 被害全容は　日本政府は医師ら32人派遣　被災者支援へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6f25739141fec3ce7459cb31e7fddfb3bdf5ede>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-34020033-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=17&cw=442&ch=442&exp=10800&fmt=webp> 太田光、暴走江頭にツッコミ「TBS出禁、あいつは本当に成長しない」普段は「誰とも…」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534170>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/fc9cc34e8d09004c0cbca382fe8d3de1a0ce075df1551c8cdff07b18d954f22a.jpg> ミャンマー被災地 病院パンク状態
+      <a href=https://news.yahoo.co.jp/pickup/6534179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/56aec04ac0de6afd651abf79059193aad0500e15f0c4d165a1727592dff883cc.jpg> 石破首相 参院選に向け続く難路
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534167>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/bbefa2614dda9cfb22cca175be24de20d155532b783b1df6778ea8ea43e886e1.jpg> プーチン大統領 中国外相と会談
+      <a href=https://news.yahoo.co.jp/pickup/6534178>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/91d836b94f3972d36bc632ebb46c0d6e856a569372a47c7eef77b01621ae8f80.jpg> 中国が軍事演習 25隻が台湾を囲む
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/4fcafcffe7e2767abd42a1ba9ee1899e623b330e9aa9c32dbac37ce5ace5344b.jpg> マスク氏 3年ぶり長者番付世界一
+      <a href=https://news.yahoo.co.jp/pickup/6534174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/98940bb63630390a7bac43417948d35108950335af964bf783a79ec515ab2e78.jpg> 「ライス販売停止」投稿巡り謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/98940bb63630390a7bac43417948d35108950335af964bf783a79ec515ab2e78.jpg> 「ライス販売停止」投稿巡り謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6534180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/18957f95ee2179d786cee09e0b8c13f28315bfe18cf2f11a61f2534ce55f6f6b.jpg> フグ肝臓 鮮魚店から客が持ち帰る
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/f1dced04beefe0a64ea78e1e0a189a2b49f626dc38834e8c70efe8bb5dc5f01b.jpg> 中日 代走の上林が「神の手」走塁
+      <a href=https://news.yahoo.co.jp/pickup/6534181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/b239ed712685dec43ef3cd4c889eee80b214804e33dda02b889c1f41ee8a276c.jpg> 池江璃花子 競泳代表の主将に就任
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 07:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 08:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
