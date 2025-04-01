@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2373be60e85898c19a9277a2ae0c11a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea19da76ad0075f40749dc861d89d69a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/424dbbc1ff9f1ce49677c5e9fdf7353b03316b5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90021815-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 元アナウンサー「やり切れない」第三者委の報告受けコメント　スポンサーの反応は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f89c29c643cbf24858594c30fbbb1fac7e0cf063>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-01648189-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 愛知クローゼット遺体　都内の女子高校生と身元特定　死因は出血性ショックか
       </a>
@@ -365,24 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5436cb455cb22c45bc2210a6f401a46f9bec748>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228020-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> プーチン大統領　5月の対ドイツ戦勝記念日式典　習主席は「メインゲスト」 首脳会談も実施へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/335d1ac4686f7cf405d901c8eb2bb5b87ab494c7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-07228015-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 70人以上が安否不明の崩壊ビル内部に6人分の人影　バンコク高層ビル　アメリカ救助隊が調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56648b617be3e091dfb9044e7774b9a1fe75e790>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00951509-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> BSフジ 反町理氏の出演見合わせ　報告書で「重要なハラスメント事案」
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 02:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 03:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
