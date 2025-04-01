@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e16aa5f5958eeea709184e9bfa20e0a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a8a52a7736986ff337d53d339a91c1cc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e319a6abb49b4f52ce62a93bed36250d3cd55023>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-01352494-jspa-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=607&ch=607&exp=10800&fmt=webp> 江頭2:50暴走にネット真っ二つ！問題が“TVバラエティの限界”のあらわれであるワケ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-01352494-jspa-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=607&ch=607&exp=10800&fmt=webp> 江頭2:50暴走にネット真っ二つ！問題が“TVバラエティの限界”のあらわれであるワケ
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534102>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/4d8057325301fca7248914d79fd2af6f168cac8d96e95511aa45806448befcce.jpg> 備蓄米を転売か 7事業者に違約金
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534096>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/4ff7e8480bc6cbd314a77d9598cd9a237d2eca7ecca812a0b42896c708977f59.jpg> フジCM再開にスポンサー依然慎重
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534091>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/8c07b2a2fbe5405ceb896cb8d98bb4e9e3fee4552913c1d523cf425b90563590.jpg> 厚利少売「珈琲系」カフェの特徴
+      <a href=https://news.yahoo.co.jp/pickup/6534094>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/5e1c56f1798a5ed18da5909ddc658eeb62aafd6e36b72e42216d162733abb78b.jpg> Apple独自の生成AI 日本語に対応
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534090>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/d86cb3426c46d8f90ded44173b733d7a185bbd2610e60e628667ae863ca215cc.jpg> SBに打撃 近藤健介が腰を手術へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534080>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/5f0d29560ce968a75c7f0bc59e92003ccb97a07c3c0a4f0df610d0872ca83429.jpg> 朗希 米メディアが手のひら返し
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 09:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 10:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
