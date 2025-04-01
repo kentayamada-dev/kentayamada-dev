@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2db24b0cb8dce6a1f4ed6f2e23682957.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5a277125d7410b56aa08c5a5a9a8a2ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b847ec80fd090158aacaf49a7bfe275b1405ebc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050159-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=27&cw=350&ch=350&exp=10800&fmt=webp> ＢＳフジ反町理キャスター、プライムニュースの出演を当面見合わせ…第三者委報告書でセクハラ・パワハラ指摘
+      <a href=https://news.yahoo.co.jp/articles/fb19f877fe0d04f9404bfe0a067b89f14b76ae61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34011274-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ハラスメント認定…フジ反町理氏「プライムニュース」当面の出演見合わせを発表「厳正に対処」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0687201f278144adb9f1036d0bb4502886e874c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00775561-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 松岡茉優が22年間在籍の所属事務所を退所「自分と向き合って視野を広げていきたい」
+      <a href=https://news.yahoo.co.jp/articles/cae8b65f1a49980930c2512ea40c302ffd3b16de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-09643774-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=97&cw=292&ch=292&exp=10800&fmt=webp> 松岡茉優　約20年所属した事務所を退所し独立　30歳になり「浮かんできたのは挑戦したい、でした」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59fcbf08b6e4825f26db689882174448dc6a0cb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000095-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米関税、企業支援に「万全期す」　消費減税否定、商品券で陳謝　石破首相会見
+      <a href=https://news.yahoo.co.jp/articles/88d2869274a2abfa7f40df6889a6bd07eab8723c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-09513739-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 石破首相、商品券配布問題を改めて陳謝　コメ高騰「必要あればさらなる対応」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/89bd751382a50f75e5cae2d9fa4ce9932c4601e261a9d51205d36480ad3a69b3.jpg> 単独テロ犯対策部署を新設 警視庁
+      <a href=https://news.yahoo.co.jp/pickup/6534154>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/3daf9d1a5ac6ea097f64b39e7034ec092e2d8c1066aa6e803486a5dcefda779c.jpg> 空き家に人の頭蓋骨か 杉並区
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534149>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/ddf669e43c834ff72492ba62f52d491d14f0388bf19abc8eb206bd7e29ff92ea.jpg> 羽生善治氏 将棋連盟会長を退任へ
+      <a href=https://news.yahoo.co.jp/pickup/6534151>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/f198d01f07ca92e34ccb0bd6fae72ab779b80ccc2d11bef1c1a206fb47b17bf1.jpg> BSフジ 反町理氏の出演見合わせ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 20:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 20:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
