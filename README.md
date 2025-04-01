@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a277125d7410b56aa08c5a5a9a8a2ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f3226628f06cbbd642a100d948af648.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb19f877fe0d04f9404bfe0a067b89f14b76ae61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34011274-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ハラスメント認定…フジ反町理氏「プライムニュース」当面の出演見合わせを発表「厳正に対処」
+      <a href=https://news.yahoo.co.jp/articles/8bb04785b654674b97d176c5dbab3dd9979b986f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00339554-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=800&ch=800&exp=10800&fmt=webp> セクハラ＆パワハラ認定の反町理キャスター　BSフジの報道番組出演を当面見合わせ「事実確認し厳正に対処」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cae8b65f1a49980930c2512ea40c302ffd3b16de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-09643774-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=97&cw=292&ch=292&exp=10800&fmt=webp> 松岡茉優　約20年所属した事務所を退所し独立　30歳になり「浮かんできたのは挑戦したい、でした」
+      <a href=https://news.yahoo.co.jp/articles/e0ff61d4403a36cbedf862de71c6946825a48cc3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-90019300-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 国内医療機関で２例目　東京の病院『赤ちゃんポスト』受け入れ　慈恵病院 蓮田理事長「失望した」【熊本】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0493459525ce7bc9ac364e7790b596cc97f4f5b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000125-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 被災者850万人、過酷な環境　死者2700人超に　ミャンマー地震
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a42ef9b2adaee9551804671b1921c556b57c1d8e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-17047716-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=579&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> イスラエル、ガザ南部ラファなどの住民に避難命令　攻撃再開から最大規模
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88d2869274a2abfa7f40df6889a6bd07eab8723c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-09513739-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 石破首相、商品券配布問題を改めて陳謝　コメ高騰「必要あればさらなる対応」
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/3daf9d1a5ac6ea097f64b39e7034ec092e2d8c1066aa6e803486a5dcefda779c.jpg> 空き家に人の頭蓋骨か 杉並区
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/66b633b9edd3f009f0ef795f1582edfdf73cc084b208b8a06cddcc883302ad34.jpg> 空き家に人の頭蓋骨か 杉並区
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/f198d01f07ca92e34ccb0bd6fae72ab779b80ccc2d11bef1c1a206fb47b17bf1.jpg> BSフジ 反町理氏の出演見合わせ
+      <a href=https://news.yahoo.co.jp/pickup/6534153>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/816a5384c19f2d17d0a97fa40812cd7c1d9af9037db12114e8384b1491395cc6.jpg> 都で開始の赤ちゃんポスト 課題は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534140>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/e20f959196a95fee2981a59a3d56f4c6bf0fe44d4122922b309f2e6fbb42e04a.jpg> ファン死亡事故 韓国プロ野球中止
+      <a href=https://news.yahoo.co.jp/pickup/6534151>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/f198d01f07ca92e34ccb0bd6fae72ab779b80ccc2d11bef1c1a206fb47b17bf1.jpg> BSフジ 反町理氏の出演見合わせ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 20:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 21:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
