@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/14397f26af88330dad5b07c62a2726b1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c439e560da427acbfd545f8605dbc98.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19887533e122b283a5e45d49f0b6e6e18a93e072>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「あんなに素晴らしいとは知らなかった」ド軍サイ・ヤング賞左腕が日本の街を絶賛「ちょっとショックだった」
+      <a href=https://news.yahoo.co.jp/articles/0b6b0557135965226db5ba85ff23ca4b6f4705fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 90時間経過、女性を救出　続く捜索、諦める家族も　ミャンマー地震
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4359440ca9c55c6ac6888cfe0b16a847eb742fac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-02693776-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> クローゼットに女子高校生“遺体”　21歳男逮捕　出会いのきっかけは「オンラインゲーム」か
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 05:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 06:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
