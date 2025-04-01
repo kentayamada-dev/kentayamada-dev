@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a80a62649ba1acefb3bdc70e39c14a37.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1bfe116cd1d9901502a8914ee85c7e3a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f828bd5f6cec8572086013ac80fbe6cadf1dfcd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00951194-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「ミカタプロジェクト」全国に展開表明…アメリカ・トランプ大統領の追加関税に対応強化　食料品の消費税引き下げは否定「社会保障支える重要財源」
+      <a href=https://news.yahoo.co.jp/articles/99b0cef403a1dbf37c34329e22ce803dfd24a645>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010769-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 【全文】中居正広氏トラブル、被害女性がコメント発表「改めてやり切れない気持ち」性暴力と認定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b0cf7af76fbd3f270ae9f6c41d50dc6d95af85f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000052-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 被害女性「失ったもの戻らない」　中居正広氏問題でコメント全文
+      <a href=https://news.yahoo.co.jp/articles/a3c6bf04553261373fbb4826eaf3729f72044335>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011119-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=133&cw=954&ch=954&exp=10800&fmt=webp> シーズン１６２勝ペース？！　ドジャース指揮官「それはさすがに無理（笑）」…１９８１年以来４４年ぶりの開幕６連勝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/88d2869274a2abfa7f40df6889a6bd07eab8723c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-09513739-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相、商品券配布問題を改めて陳謝　コメ高騰「必要あればさらなる対応」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4b29e47658790195b07315b84bafd71db04ef1ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000033-jisin-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「感覚がおかしい」中居正広氏　性暴力後に被害者女性退職で漏らした“4文字”にSNS衝撃
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ddbfc1b6f12dd858165a1d1d9d2df874cbf2416e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011094-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> タレント福田彩乃、１６年間所属「アミューズ」退所を報告　今後は「個人として活動」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1b90dd8c7a8b6fe6ecce1d7ae4b6e93bc326d4c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010581-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=999&ch=999&exp=10800&fmt=webp> ドジャース開幕6連勝「いい選手多くフレディやムーキーが欠場してもカバーできる」ロバーツ監督
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/969937ac50243642fbc1a956a58c2741b13fcd8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000020-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 江頭2:50　永野芽郁への“暴走”が物議…それでも“大炎上”防いだ「その後の対応」
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534132>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/33599bd8f1cdc10fbcc764f587ade2c5e6ab023ca17fbf6507e4d8466d46e32c.jpg> 米外食フーターズ 米破産法を申請
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534108>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/4d4bee41f4974d7238841262313740047e0e82c9a6af8d1373706bb38f8ace3b.jpg> 水原一平被告 出頭期限は5月12日
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534120>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/09389c37873d22bd330ac282efa0f2732b0ea4bb876de50736a2675cee44379d.jpg> 三浦透子と有元キイチが結婚発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 16:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 17:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
