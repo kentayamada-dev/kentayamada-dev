@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bdd9d6e9324080efd4d4ea3e2dfe48ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/52b32cca0e46e5c0b2185dfe13736f1e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/46bef918093fc962c1fde3bd0f8867dbae32f6584e48d35bf27956431a7b7e7d.jpg> 中露外相会談 首脳外交へ地ならし
+      <a href=https://news.yahoo.co.jp/pickup/6534167>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/bbefa2614dda9cfb22cca175be24de20d155532b783b1df6778ea8ea43e886e1.jpg> プーチン大統領 中国外相と会談
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534163>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/678a6074d4314123a9e28b83732059eb3474a6a92107f051a2c34377e6ffdcbc.jpg> 三菱UFJ銀 貸金庫サービス継続へ
+      <a href=https://news.yahoo.co.jp/pickup/6534158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/2ed0274536cc41750e111a0ca81ce5f4515140b9a5a9e5e8f8fa63fe935227de.jpg> 百日せき急増 昨年の患者数上回る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534158>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/2ed0274536cc41750e111a0ca81ce5f4515140b9a5a9e5e8f8fa63fe935227de.jpg> 百日せき急増 昨年の患者数上回る
+      <a href=https://news.yahoo.co.jp/pickup/6534165>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/188c2e4d13856dcd0659a9bce8fc39f6cff8717456536bb6435f975029d9292b.jpg> 関テレ社長 入社式でフジ問題謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 23:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 23:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
