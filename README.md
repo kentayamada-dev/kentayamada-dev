@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/936e5ac75c0ff8ba73c68bd2422caaaa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8b7a82a9dfdf3d32dfb801241a977b1d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59fcbf08b6e4825f26db689882174448dc6a0cb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000095-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=786&ch=786&exp=10800&fmt=webp> 米関税、企業支援に「万全期す」　消費減税否定、商品券で陳謝　石破首相会見
+      <a href=https://news.yahoo.co.jp/articles/a42ef9b2adaee9551804671b1921c556b57c1d8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-17047716-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=579&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> イスラエル、ガザ南部ラファなどの住民に避難命令　攻撃再開以来最大規模
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/384930ea9af1b9874304e00b8db6da98c69aae77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-21825406-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報・全文掲載】中居さんとトラブルの元女性アナウンサー側がコメント　フジ第三者委「業務の延長線上における性暴力だった」受け
+      <a href=https://news.yahoo.co.jp/articles/11ae7c5013010856aa8c3629750d7c2e78b1f070>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00094504-thedigest-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「ドジャースは止められない」LA移転後最長タイ、44年ぶりの開幕６連勝に地元記者も興奮！ 強すぎる世界一軍団は「162勝０敗に近づく」と期待も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/467fc0f7f0171290a7e3e57556030fc2b640f0e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050138-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> イスラエル軍がガザの２５％占領計画、地上侵攻拡大で「最大限の圧力」…米報道
+      <a href=https://news.yahoo.co.jp/articles/99b0cef403a1dbf37c34329e22ce803dfd24a645>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010769-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 【全文】中居正広氏トラブル、被害女性がコメント発表「改めてやり切れない気持ち」性暴力と認定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c9228be35c50f55220a782ab20ef79cbcf516f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04535248-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 福田彩乃、16年所属のアミューズ退所 今後は個人で活動「これからは家族との時間を最優先に」
+      <a href=https://news.yahoo.co.jp/articles/a3c6bf04553261373fbb4826eaf3729f72044335>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011119-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=133&cw=954&ch=954&exp=10800&fmt=webp> シーズン１６２勝ペース？！　ドジャース指揮官「それはさすがに無理（笑）」…１９８１年以来４４年ぶりの開幕６連勝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7bcc8669509f7ab87bbd672d2e525bd2481cc6d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-05423244-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平が2年連続のユニホーム売上1位　在籍2年目の山本由伸も10位とランクイン　WS制覇のドジャースからは計6選手がトップ20入り
+      <a href=https://news.yahoo.co.jp/articles/88d2869274a2abfa7f40df6889a6bd07eab8723c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-09513739-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 石破首相、商品券配布問題を改めて陳謝　コメ高騰「必要あればさらなる対応」
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/e81c3486f9fbbe661e43768d1370976e1a3389500769f58ea5eaeba6d6f4446f.jpg> 全国初のカスハラ防止条例 施行
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534132>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/33599bd8f1cdc10fbcc764f587ade2c5e6ab023ca17fbf6507e4d8466d46e32c.jpg> 米外食フーターズ 米破産法を申請
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534108>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/4d4bee41f4974d7238841262313740047e0e82c9a6af8d1373706bb38f8ace3b.jpg> 水原一平被告 出頭期限は5月12日
+      <a href=https://news.yahoo.co.jp/pickup/6534140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/e20f959196a95fee2981a59a3d56f4c6bf0fe44d4122922b309f2e6fbb42e04a.jpg> ファン死亡事故 韓国プロ野球中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534138>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/04602f357ad336d3087c51a51ed3ba069c877335a4150888f5443ae86b01f496.jpg> ドジャース 44年ぶりの開幕6連勝
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 17:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 18:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
