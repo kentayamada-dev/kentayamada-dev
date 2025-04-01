@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/face89cae45fc43442a7c3db279ff4b9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f51a086460fff0e57f8c448371edd2e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/187fdd4559acb14aa163e3c0e89764b60cd1da6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000108-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=916&ch=916&exp=10800&fmt=webp> GACKT　エガちゃん“大暴れ騒動”で長文見解「うーん、よくわからんが。江頭さんは昔からあの芸風…」
+      <a href=https://news.yahoo.co.jp/articles/b20446845d82bf0a4a5ba83e099be3484d4eea9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228047-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> クローゼットの遺体 行方不明の16歳女子高校生と判明　逮捕の男「トラブルになって複数刺した」　愛知・一宮市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3af6d0ef8ab13746ad62d7b98d3b6bd2750632a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000004-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《先輩女性アナ・F氏に同情の声》「名誉回復してあげないと可哀想ではない?」アナウンス室部長として奔走　“一管理職の職責を超える&#8221;心労も
+      <a href=https://news.yahoo.co.jp/articles/187fdd4559acb14aa163e3c0e89764b60cd1da6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000108-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=916&ch=916&exp=10800&fmt=webp> GACKT　エガちゃん“大暴れ騒動”で長文見解「うーん、よくわからんが。江頭さんは昔からあの芸風…」
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/77d0588d5044d76d49455e897f6b208df201bb56>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000019-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 局面転換へ物価対策訴え　参院選控え、忍耐続く石破首相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edd72ea064b1624755e6c3bc6de01c2b149d0cb0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 上半身に多数の刺し傷　東京の女子高生遺体　愛知県警
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 08:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 08:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
