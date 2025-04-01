@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93316152e3869561c6ed2e182e7d9f41.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0ded0f7455e4966e2fd62ed663474583.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,14 +365,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd9080c4f355aacc8c3e93b0149a7dc9899fe1c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000069-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 永野芽郁“号泣騒動”の『オールスター感謝祭』TBS局内で「江頭2：50起用はミスではない」と言われる理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0493459525ce7bc9ac364e7790b596cc97f4f5b7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000125-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 被災者850万人、過酷な環境　死者2700人超に　ミャンマー地震
       </a>
@@ -381,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3e35606cd4263f1a37f61c508639f85f6b741c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00094509-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「世界的な人気」大谷翔平がユニホーム売り上げで18か月首位キープ「かつてない勢いに乗っている」ドジャースはトップ20に６選手も…「テオとエドマンはどこ？」
+      <a href=https://news.yahoo.co.jp/articles/11c980f8d48eaba032db844ddcbfd12033eab23a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00007257-eat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 宇和島で殺人事件・現場近くのこども園では見守り【愛媛】
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534156>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/977e7dfa518e658570422de5c60eca40d56904dc09e4213633d4d7bd69d7677a.jpg> 山林火災 幹が焦げた樹に桜咲く
+      <a href=https://news.yahoo.co.jp/pickup/6534163>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/678a6074d4314123a9e28b83732059eb3474a6a92107f051a2c34377e6ffdcbc.jpg> 三菱UFJ銀 貸金庫サービス継続へ
       </a>
     </td>
   </tr>
@@ -451,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534160>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/e54e7451e0d926ccea1873eb1cdf9dbf36ee64aed434a1567c58f91884a7b79c.jpg> フジ会見 会場で起きていたこと
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/b0b0bf87ab986e08e202433435670ab45a735f84588600bfa45da72ff5621153.jpg> フジ会見 会場で起きていたこと
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 22:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 22:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
