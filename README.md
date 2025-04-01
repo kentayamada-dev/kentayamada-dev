@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/53a08e6d5ae1c9568fd077b1799c9a0b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/61bb846a07db3eaf16a5cecf8f07b701.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04a8c01066537c72e3512ecf913df3c3f7634b95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010341-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 食品の消費税減税に否定的　石破首相「適当ではない」　予算委の「一概に否定せず」発言は後退
+      <a href=https://news.yahoo.co.jp/articles/a4ad74950921bf3dbe75b724f8652e31682fa36b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010302-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> “ケチ”だったはずの石破首相「自分を見失ったところがあった」商品券配布をあらためて謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/299950411db366439e398cf6516b65846b2927e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00010001-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 石破政権の苦境が際立った予算成立　商品券配布、高額医療…「タイタニック号みたい」自民党内に閉塞感
+      <a href=https://news.yahoo.co.jp/articles/f181d5bfec1e786a9dce7d06878b0f5c7276359a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00010008-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ヤ軍ジャッジが話題の「魚雷バット」に“NO”　使用しない理由を明かす　「数シーズン僕がやってきたことが…」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534102>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/4d8057325301fca7248914d79fd2af6f168cac8d96e95511aa45806448befcce.jpg> 備蓄米を転売か 7事業者に違約金
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534107>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/580e7c1c1595a3b2fe386a032d58ad33d9e01cd2d66ea6752bdabd29d0bb45bc.jpg> 遺棄の遺体は16歳高校生か 愛知
       </a>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534117>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/28f1733c480c85872f47b0e9538eb42028e465e9f220353e2e21b9234627dc76.jpg> 魚雷バット クレイジーとド軍監督
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534112>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/bf8ad31729d5622282ef933a774e96b1883d9e28cac0ca83166e845c748adb29.jpg> 関西ジュニア Lil かんさい解散
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 13:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 13:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
