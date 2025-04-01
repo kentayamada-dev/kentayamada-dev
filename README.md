@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/823dfe2eb7d2500615c48f28da418453.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c1b137681860ce7376925de814790f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/075cf08b790b276222b9d7e24441434612d55013>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000476-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=799&ch=799&exp=10800&fmt=webp> フジ第三者委報告受け女性がコメント発表　安堵の気持ちの一方で「被害は一生消えることはない」
+      <a href=https://news.yahoo.co.jp/articles/c9dd792ae7a5345b08b588dd248f99110232b13f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011193-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=322&ch=322&exp=10800&fmt=webp> 出水麻衣アナ、フジ問題被害女性の言葉に「やっぱり重いなと私は感じました」生放送で言及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b265fde67a7a95d5b2815c52aaaebc9581679d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000064-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 霊安室の遺体を取り違えて引き渡し、火葬後に発覚　埼玉県警が謝罪
+      <a href=https://news.yahoo.co.jp/articles/3f444d6eb3f170d7938b5b674e4f561ccb1bb867>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本将棋連盟の羽生善治会長　任期満了で退任へ
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88d2869274a2abfa7f40df6889a6bd07eab8723c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-09513739-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 石破首相、商品券配布問題を改めて陳謝　コメ高騰「必要あればさらなる対応」
+      <a href=https://news.yahoo.co.jp/articles/59fcbf08b6e4825f26db689882174448dc6a0cb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000095-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米関税、企業支援に「万全期す」　消費減税否定、商品券で陳謝　石破首相会見
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534133>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/201ba5f176134bb7b2c9d4cb68c62ee5a3e8e7fac634f0bca24af27e26398926.jpg> 首相 同日選・連立拡大「考えず」
+      <a href=https://news.yahoo.co.jp/pickup/6534146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/6f59944d14705bc88599217eb229f335fc0f41507fb95f036ef982f6cf47d675.jpg> ミャンマー地震 死者2700人超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534136>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/e2f3730c243bc20c042d050b243dc8404e8bfe774caada4b8ff15db8fbd3ecae.jpg> タイ 倒壊ビル内に約70人の姿確認
+      <a href=https://news.yahoo.co.jp/pickup/6534145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/89bd751382a50f75e5cae2d9fa4ce9932c4601e261a9d51205d36480ad3a69b3.jpg> 単独テロ犯対策部署を新設 警視庁
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534134>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 山野ホール 劇場用途はNGと判明
+      <a href=https://news.yahoo.co.jp/pickup/6534149>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/ddf669e43c834ff72492ba62f52d491d14f0388bf19abc8eb206bd7e29ff92ea.jpg> 羽生善治氏 将棋連盟会長を退任へ
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534138>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/04602f357ad336d3087c51a51ed3ba069c877335a4150888f5443ae86b01f496.jpg> ドジャース 44年ぶりの開幕6連勝
+      <a href=https://news.yahoo.co.jp/pickup/6534144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/cb9626267e5ded69f55b61fa760f926082a43fe6c495c7e6ca3a0655fb292cfb.jpg> 新年度 タレントの所属変更が続々
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 19:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 19:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
