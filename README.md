@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/61bb846a07db3eaf16a5cecf8f07b701.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/84358f99b1d9b030e3989a81c44eee7c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74c68104f5bbed04a7c42819ad0ccabd8f1c6737>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00775326-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジの出直し、CMスポンサー離れの今後は？　楽天「再開の予定なし」、ローソン「未定」…社長は「願うばかり」
+      <a href=https://news.yahoo.co.jp/articles/3c91a5241604de9a2ae39001d04a7198af05a020>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-05473478-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 中居正広さんとトラブルの元女性アナウンサーがコメント発表 「見解が示され、ほっとしたというのが正直な気持ち」…第三者委員会の報告書の公表受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4ad74950921bf3dbe75b724f8652e31682fa36b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010302-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> “ケチ”だったはずの石破首相「自分を見失ったところがあった」商品券配布をあらためて謝罪
+      <a href=https://news.yahoo.co.jp/articles/969937ac50243642fbc1a956a58c2741b13fcd8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000020-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 江頭2:50　永野芽郁への“暴走”が物議…それでも“大炎上”防いだ「その後の対応」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f181d5bfec1e786a9dce7d06878b0f5c7276359a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00010008-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=480&ch=480&exp=10800&fmt=webp> ヤ軍ジャッジが話題の「魚雷バット」に“NO”　使用しない理由を明かす　「数シーズン僕がやってきたことが…」
+      <a href=https://news.yahoo.co.jp/articles/299950411db366439e398cf6516b65846b2927e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00010001-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 石破政権の苦境が際立った予算成立　商品券配布、高額医療…「タイタニック号みたい」自民党内に閉塞感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b2856c471d3d49f2dcef7089e280ca185ac6963>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000020-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=476&ch=476&exp=10800&fmt=webp> 永野芽郁、”江頭騒動”の涙の真相を語る「生理現象として…ただびっくりしただけ」、SNS上の誹謗中傷には「いろいろと対処の方法を考えます」
+      <a href=https://news.yahoo.co.jp/articles/8ed70ba3869431d1fb8f8a38ecf006ab6429e949>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00951039-fnnprimev-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 【待望】宮内庁公式YouTubeチャンネルがスタート!登録者は既に4700人超　陛下の記者会見なども今後配信予定
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534116>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/ace1f47f0694fd4071ffd5abf7995863a45d7fcd24f405ac53f3304a835d69d7.jpg> 首相 食料品の消費税減税を否定
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/51b5056e821c124081dba2b74e28f6518392b970c6520f9b1497516b15b4ee63.jpg> 首相 食料品の消費税減税を否定
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/580e7c1c1595a3b2fe386a032d58ad33d9e01cd2d66ea6752bdabd29d0bb45bc.jpg> 遺棄の遺体は16歳高校生か 愛知
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534115>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/1a94a60e7bc85bbdfb7d3023bc83fd9572a513f02ea716fae2122414a1746ffa.jpg> フジ 「必要な対応検討」と総務相
       </a>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/d20823b404c37fcd429510b9a145d8f641c9128ffe361cc055b5519367100f99.jpg> 宮内庁YouTube 1.5hで5千人登録
+      <a href=https://news.yahoo.co.jp/pickup/6534123>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/515ba165686929e29f0c154c94ee9e16d623eeb1ab899cd374526eda7f39de7c.jpg> 中居氏とトラブル 女性がコメント
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534124>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/d44dc5213fbd9190298ddf4f302758a6f17c6566a3c994626fab72c9de226997.jpg> 名古屋で「車が暴走」7人けがか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534107>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/580e7c1c1595a3b2fe386a032d58ad33d9e01cd2d66ea6752bdabd29d0bb45bc.jpg> 遺棄の遺体は16歳高校生か 愛知
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534112>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/bf8ad31729d5622282ef933a774e96b1883d9e28cac0ca83166e845c748adb29.jpg> 関西ジュニア Lil かんさい解散
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/2eb1d135bbd6d13f2f321c6051dc6967e1f236ad60ee6d035cc983ee9a895274.jpg> あんぱん初回視聴率 高知は26.2%
+      <a href=https://news.yahoo.co.jp/pickup/6534120>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/09389c37873d22bd330ac282efa0f2732b0ea4bb876de50736a2675cee44379d.jpg> 三浦透子と有元キイチが結婚発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 13:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 14:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
