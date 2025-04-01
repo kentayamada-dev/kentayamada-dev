@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd9cb69d71ab1d2c32794dc06796626d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/14397f26af88330dad5b07c62a2726b1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d4018ed075a3f4e1b0b634b43384d790dd789de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000001-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 大谷翔平　６戦連続出塁＆得点“５０－５０”モードで２戦連続盗塁成功　ドジャース４４年ぶり開幕６連勝
+      <a href=https://news.yahoo.co.jp/articles/19887533e122b283a5e45d49f0b6e6e18a93e072>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「あんなに素晴らしいとは知らなかった」ド軍サイ・ヤング賞左腕が日本の街を絶賛「ちょっとショックだった」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 05:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 05:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
