@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c8d3bb491d9c9f05bd3b4ce3dd97c2c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2149ac8f57d68ba8e2b691333f99262c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9bfff071fb461fd5b190e6f193b15d7003ebc84d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000073-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 大谷翔平　「５０－５０」モードで２戦連続盗塁成功　積極果敢走塁もロバート監督「心配ない」
+      <a href=https://news.yahoo.co.jp/articles/4bfa3b1ce6112fa704b09be01400f8f1ac9ccc14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-90039652-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 乳幼児や10歳位の女の子も被害に…名古屋の中心部で「車が暴走」歩行者7人がはねられる 運転の70代女を現行犯逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb38b75154f278e22995f2cf86ba1b13be930745>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000058-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=983&ch=983&exp=10800&fmt=webp> ロバーツ監督はMVPトリオに依存しない打線に「層の厚さを物語っている」「他の選手で補える」
+      <a href=https://news.yahoo.co.jp/articles/10662910cb4586b9c5f16134cf0e4e0eb543335e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー地震「入域困難」　内戦が阻む被害把握・救援活動　軍政批判の火種にも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df04d697ac68db1341d314229bb61063f20b6fb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-90021770-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 被害女性の元フジテレビアナウンサーがコメント発表「ほっとしたというのが…」「やり切れない気持ちにも…」
+      <a href=https://news.yahoo.co.jp/articles/14dc0946d887b820afb407ec37c265eaf135bc4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00775432-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居正広氏から性暴力を受けた元女性アナ「被害は一生消えることはなく」　対応を誤った大多亮氏は謝罪
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/f9332fce50d866f0b24186b9c8f47d1d64460e517afd6dadaba62a205bee2600.jpg> 名古屋で「車が暴走」7人がけが
+      <a href=https://news.yahoo.co.jp/pickup/6534128>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/0dec27d515d76203f0eec7e46bd6f04c7c4a8d65c55cf19bdf48b88d1615f67a.jpg> 乳児含む7人けが 70代運転手逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534127>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/0b353863e67000d6a51c7c022b939c2be732cdbed411ef8ac0e007ae80c415a9.jpg> 「時給10円」コメ農家訴える窮状
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534119>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/0b1dcb0471ca92bfadcc25fb8c26df7009461ab330e37a5a39b679ef07d58dc6.jpg> 焼肉店倒産が23年度から倍増 最多
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/2338b4dcae5abd04e9552d4b1f2c5a27bfd254324e6f3d6ce17d1d7098d8e1f1.jpg> 大谷 新フォームで2試合連続盗塁
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 15:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 16:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
