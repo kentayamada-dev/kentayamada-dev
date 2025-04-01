@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c2f341052ab11aa6f061408853e8ceed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac1f753b64eb09084155745e9c474d0c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e3277f37336ce34dc2f96d527748f21d489cd72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000032-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=791&ch=791&exp=10800&fmt=webp> 大谷翔平、『新走法』盗塁にドジャース・ロバーツ監督「心配していない」「左手をついていないし、いいタイミングでスタートした」
+      <a href=https://news.yahoo.co.jp/articles/e8686ba1b1f20d89ba5b2a55f3e94b829b457a6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000068-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 大谷翔平が暗黙の了解を破った？　６点リードの六回に二盗　２試合連続盗塁も報復死球を心配する声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/985d1215616159035fc4cbdeab8769b59133bd3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-10171458-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=816&ch=816&exp=10800&fmt=webp> 石破総理大臣 “トランプ関税”対応強化へ
+      <a href=https://news.yahoo.co.jp/articles/cb38b75154f278e22995f2cf86ba1b13be930745>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000058-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=983&ch=983&exp=10800&fmt=webp> ロバーツ監督はMVPトリオに依存しない打線に「層の厚さを物語っている」「他の選手で補える」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e1d1c8cdafadc44059653890f570f6457f50c49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000045-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】元フジテレビのアナウンサーの女性コメント全文　調査報告書を受けて公表
+      <a href=https://news.yahoo.co.jp/articles/df04d697ac68db1341d314229bb61063f20b6fb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-90021770-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 被害女性の元フジテレビアナウンサーがコメント発表「ほっとしたというのが…」「やり切れない気持ちにも…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/25a1fe75fc4981e3b84e271fe6bfba1c276ee0ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-06779619-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破首相会見「自分を見失っておった」商品券問題を陳謝、物価高対策など強調
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/969937ac50243642fbc1a956a58c2741b13fcd8f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000020-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 江頭2:50　永野芽郁への“暴走”が物議…それでも“大炎上”防いだ「その後の対応」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c0301568d4307d43209d0b47448d6472ac9b5d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011023-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平がユニホーム売り上げ１位…ドジャース６選手がトップ２０
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534115>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/1a94a60e7bc85bbdfb7d3023bc83fd9572a513f02ea716fae2122414a1746ffa.jpg> フジ 「必要な対応検討」と総務相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534123>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/515ba165686929e29f0c154c94ee9e16d623eeb1ab899cd374526eda7f39de7c.jpg> 中居氏とトラブル 女性がコメント
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/580e7c1c1595a3b2fe386a032d58ad33d9e01cd2d66ea6752bdabd29d0bb45bc.jpg> 遺棄の遺体は16歳高校生か 愛知
+      <a href=https://news.yahoo.co.jp/pickup/6534119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/0b1dcb0471ca92bfadcc25fb8c26df7009461ab330e37a5a39b679ef07d58dc6.jpg> 焼肉店倒産が23年度から倍増 最多
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534125>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/2338b4dcae5abd04e9552d4b1f2c5a27bfd254324e6f3d6ce17d1d7098d8e1f1.jpg> 大谷 新フォームで2試合連続盗塁
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 14:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 15:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
