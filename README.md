@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2149ac8f57d68ba8e2b691333f99262c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a80a62649ba1acefb3bdc70e39c14a37.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bfa3b1ce6112fa704b09be01400f8f1ac9ccc14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-90039652-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 乳幼児や10歳位の女の子も被害に…名古屋の中心部で「車が暴走」歩行者7人がはねられる 運転の70代女を現行犯逮捕
+      <a href=https://news.yahoo.co.jp/articles/6f828bd5f6cec8572086013ac80fbe6cadf1dfcd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00951194-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「ミカタプロジェクト」全国に展開表明…アメリカ・トランプ大統領の追加関税に対応強化　食料品の消費税引き下げは否定「社会保障支える重要財源」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10662910cb4586b9c5f16134cf0e4e0eb543335e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー地震「入域困難」　内戦が阻む被害把握・救援活動　軍政批判の火種にも
+      <a href=https://news.yahoo.co.jp/articles/7b0cf7af76fbd3f270ae9f6c41d50dc6d95af85f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000052-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 被害女性「失ったもの戻らない」　中居正広氏問題でコメント全文
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14dc0946d887b820afb407ec37c265eaf135bc4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00775432-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居正広氏から性暴力を受けた元女性アナ「被害は一生消えることはなく」　対応を誤った大多亮氏は謝罪
+      <a href=https://news.yahoo.co.jp/articles/ddbfc1b6f12dd858165a1d1d9d2df874cbf2416e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011094-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> タレント福田彩乃、１６年間所属「アミューズ」退所を報告　今後は「個人として活動」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25a1fe75fc4981e3b84e271fe6bfba1c276ee0ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-06779619-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破首相会見「自分を見失っておった」商品券問題を陳謝、物価高対策など強調
+      <a href=https://news.yahoo.co.jp/articles/a1b90dd8c7a8b6fe6ecce1d7ae4b6e93bc326d4c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010581-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=999&ch=999&exp=10800&fmt=webp> ドジャース開幕6連勝「いい選手多くフレディやムーキーが欠場してもカバーできる」ロバーツ監督
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534116>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/51b5056e821c124081dba2b74e28f6518392b970c6520f9b1497516b15b4ee63.jpg> 首相 食料品の消費税減税を否定
+      <a href=https://news.yahoo.co.jp/pickup/6534121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/c55b5bd884fed032a9c3a114df59547d7b7a5dff3ad47433fa049a58b63ed81d.jpg> 中国軍 台湾周辺で軍事演習を開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/c55b5bd884fed032a9c3a114df59547d7b7a5dff3ad47433fa049a58b63ed81d.jpg> 中国軍 台湾周辺で軍事演習を開始
+      <a href=https://news.yahoo.co.jp/pickup/6534127>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/0b353863e67000d6a51c7c022b939c2be732cdbed411ef8ac0e007ae80c415a9.jpg> 「時給10円」コメ農家訴える窮状
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534127>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/0b353863e67000d6a51c7c022b939c2be732cdbed411ef8ac0e007ae80c415a9.jpg> 「時給10円」コメ農家訴える窮状
+      <a href=https://news.yahoo.co.jp/pickup/6534129>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/e81c3486f9fbbe661e43768d1370976e1a3389500769f58ea5eaeba6d6f4446f.jpg> 全国初のカスハラ防止条例 施行
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/0b1dcb0471ca92bfadcc25fb8c26df7009461ab330e37a5a39b679ef07d58dc6.jpg> 焼肉店倒産が23年度から倍増 最多
+      <a href=https://news.yahoo.co.jp/pickup/6534108>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/4d4bee41f4974d7238841262313740047e0e82c9a6af8d1373706bb38f8ace3b.jpg> 水原一平被告 出頭期限は5月12日
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534117>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/28f1733c480c85872f47b0e9538eb42028e465e9f220353e2e21b9234627dc76.jpg> 魚雷バット クレイジーとド軍監督
+      <a href=https://news.yahoo.co.jp/pickup/6534131>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/be789e780fa55323741eba668d1332a7a749ecd8c284b072e5e366f2d9c35721.jpg> 福田彩乃 アミューズ退所を報告
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 16:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 16:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
