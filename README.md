@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4c1b137681860ce7376925de814790f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2db24b0cb8dce6a1f4ed6f2e23682957.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9dd792ae7a5345b08b588dd248f99110232b13f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011193-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=322&ch=322&exp=10800&fmt=webp> 出水麻衣アナ、フジ問題被害女性の言葉に「やっぱり重いなと私は感じました」生放送で言及
+      <a href=https://news.yahoo.co.jp/articles/9b847ec80fd090158aacaf49a7bfe275b1405ebc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050159-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=27&cw=350&ch=350&exp=10800&fmt=webp> ＢＳフジ反町理キャスター、プライムニュースの出演を当面見合わせ…第三者委報告書でセクハラ・パワハラ指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f444d6eb3f170d7938b5b674e4f561ccb1bb867>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本将棋連盟の羽生善治会長　任期満了で退任へ
+      <a href=https://news.yahoo.co.jp/articles/b0687201f278144adb9f1036d0bb4502886e874c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00775561-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 松岡茉優が22年間在籍の所属事務所を退所「自分と向き合って視野を広げていきたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b3e35606cd4263f1a37f61c508639f85f6b741c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00094509-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「世界的な人気」大谷翔平がユニホーム売り上げで18か月首位キープ「かつてない勢いに乗っている」ドジャースはトップ20に６選手も…「テオとエドマンはどこ？」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a42ef9b2adaee9551804671b1921c556b57c1d8e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-17047716-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=579&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> イスラエル、ガザ南部ラファなどの住民に避難命令　攻撃再開から最大規模
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5307e9ed6415081653af3fc246f23b9a29907d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010778-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=380&cy=0&cw=1054&ch=1054&exp=10800&fmt=webp> ドジャースに死角なし　44年ぶり開幕６連勝　フリーマン欠場、大谷翔平無安打でも打線機能
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/89bd751382a50f75e5cae2d9fa4ce9932c4601e261a9d51205d36480ad3a69b3.jpg> 単独テロ犯対策部署を新設 警視庁
+      <a href=https://news.yahoo.co.jp/pickup/6534148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/70e230601eda28da8236a4ebb07fbeac6494de9736fee9103f7ba7c451059f28.jpg> 森友文書 開示決定通知を発出へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534137>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/64dca7a37bb977e94af5f166a171534cf1ad50b13600416da32a26d83bddaffe.jpg> 季節逆戻り 真冬並み寒さいつまで
+      <a href=https://news.yahoo.co.jp/pickup/6534145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/89bd751382a50f75e5cae2d9fa4ce9932c4601e261a9d51205d36480ad3a69b3.jpg> 単独テロ犯対策部署を新設 警視庁
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534144>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/cb9626267e5ded69f55b61fa760f926082a43fe6c495c7e6ca3a0655fb292cfb.jpg> 新年度 タレントの所属変更が続々
+      <a href=https://news.yahoo.co.jp/pickup/6534150>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/32118544d88d59ac8ea0fa4cc7849d6b26f1e5cb9468e1386f4cfc3f3fcaebd7.jpg> 松岡茉優 22年間所属の事務所退所
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 19:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 20:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
