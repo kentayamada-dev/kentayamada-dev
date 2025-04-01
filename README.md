@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ded0f7455e4966e2fd62ed663474583.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bdd9d6e9324080efd4d4ea3e2dfe48ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57bf53f04b584b8b5e82dcc3286927fc804d4853>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-05664263-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 愛知クローゼット遺体　都内の女子高校生と特定　逮捕の男「複数回刺した」殺害ほのめかす
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-05664263-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 愛知クローゼット遺体　都内の女子高校生と特定　逮捕の男「複数回刺した」殺害ほのめかす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d770d0889a9a1f0f2b1d431c84ab9be5f9a725e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-21827352-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジテレビにスポンサーは戻ってくる?企業は慎重姿勢　弁護士に聞いたスポンサーとの向き合い方【Nスタ解説】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/841502c53e71f5a3d69ce76d84a0222a282cd1bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000088-mai-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=582&ch=582&exp=10800&fmt=webp> フジ部長「無邪気な連絡してみましょうか」　中居氏との連絡明らかに
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0493459525ce7bc9ac364e7790b596cc97f4f5b7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000125-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 被災者850万人、過酷な環境　死者2700人超に　ミャンマー地震
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11c980f8d48eaba032db844ddcbfd12033eab23a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00007257-eat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 宇和島で殺人事件・現場近くのこども園では見守り【愛媛】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd226c679c2aef38fc235bd21a5d1d0b117606d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-01274541-shincho-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「望月衣塑子記者を完封」フジ会見で前回と打って変わりフリー記者たちが大人しかったワケ「ロボットみたいな清水社長を攻めあぐねていた」
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/f8696acf63f6e33f663d76ab18d0f3fb0f2d11d03a1b8cdaf42b55583c6cab62.jpg> ロシア 定期徴兵を16万人まで拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/e5ea21b1f54aade46287f69944672fc3b59042c59001d49b80e960a411b3579e.jpg> ネットカジノ 自民が規制強化案
+      <a href=https://news.yahoo.co.jp/pickup/6534164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/46bef918093fc962c1fde3bd0f8867dbae32f6584e48d35bf27956431a7b7e7d.jpg> 中露外相会談 首脳外交へ地ならし
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534166>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/a6a5ea2ceed19c818b224c3b7dd3f2fa8c012c5dfdb458374bb407554c5d2358.jpg> 中日 4年ぶり勝利の岩崎翔が涙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534143>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/de567210211ebfe460bcddf8217e568ff413681c0e50e61735bfef0332e52af3.jpg> 歌手のmilet 活動休止を発表
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 22:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 23:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
