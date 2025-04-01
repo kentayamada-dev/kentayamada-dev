@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3ba6659963df2e1164f4b7bb251d5f56.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6027f98dfb3d1239f1026e4b60051d92.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8d08af72d1e02600aa177c660f052a80b694e1a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04535499-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 亀梨和也、公式X開設 新写真公開にファン歓喜「待ってました」「ビジュ良すぎる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04535499-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 亀梨和也、公式X開設 新写真公開にファン歓喜「待ってました」「ビジュ良すぎる」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 00:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 01:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
