@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b762cf243f85a2124ac4bea38d1fbc31.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93316152e3869561c6ed2e182e7d9f41.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a47005d28fa03725ce6ab328ed22541cb8f184e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011244-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 松岡茉優　２２年間在籍した所属事務所を退所、３０歳で今後の人生考え「浮かんできたのは挑戦したい」
+      <a href=https://news.yahoo.co.jp/articles/57bf53f04b584b8b5e82dcc3286927fc804d4853>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-05664263-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 愛知クローゼット遺体　都内の女子高校生と特定　逮捕の男「複数回刺した」殺害ほのめかす
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/70e230601eda28da8236a4ebb07fbeac6494de9736fee9103f7ba7c451059f28.jpg> 森友文書 開示決定通知を発出へ
+      <a href=https://news.yahoo.co.jp/pickup/6534161>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/f8696acf63f6e33f663d76ab18d0f3fb0f2d11d03a1b8cdaf42b55583c6cab62.jpg> ロシア 定期徴兵を16万人まで拡大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/66b633b9edd3f009f0ef795f1582edfdf73cc084b208b8a06cddcc883302ad34.jpg> 空き家に人の頭蓋骨か 杉並区
+      <a href=https://news.yahoo.co.jp/pickup/6534159>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/e5ea21b1f54aade46287f69944672fc3b59042c59001d49b80e960a411b3579e.jpg> ネットカジノ 自民が規制強化案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534162>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/640552e9045bebceae2d021be2964aed22f92f2de4c734a0917ed186b23f707d.jpg> 女性遺棄疑い もめ事にと男供述
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534156>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/977e7dfa518e658570422de5c60eca40d56904dc09e4213633d4d7bd69d7677a.jpg> 山林火災 幹が焦げた樹に桜咲く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/816a5384c19f2d17d0a97fa40812cd7c1d9af9037db12114e8384b1491395cc6.jpg> 都で開始の赤ちゃんポスト 課題は
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534150>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/32118544d88d59ac8ea0fa4cc7849d6b26f1e5cb9468e1386f4cfc3f3fcaebd7.jpg> 松岡茉優 22年間所属の事務所退所
+      <a href=https://news.yahoo.co.jp/pickup/6534143>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/de567210211ebfe460bcddf8217e568ff413681c0e50e61735bfef0332e52af3.jpg> 歌手のmilet 活動休止を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 21:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 22:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
