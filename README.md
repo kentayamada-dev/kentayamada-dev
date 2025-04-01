@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1bfe116cd1d9901502a8914ee85c7e3a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/936e5ac75c0ff8ba73c68bd2422caaaa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99b0cef403a1dbf37c34329e22ce803dfd24a645>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010769-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 【全文】中居正広氏トラブル、被害女性がコメント発表「改めてやり切れない気持ち」性暴力と認定
+      <a href=https://news.yahoo.co.jp/articles/59fcbf08b6e4825f26db689882174448dc6a0cb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000095-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=786&ch=786&exp=10800&fmt=webp> 米関税、企業支援に「万全期す」　消費減税否定、商品券で陳謝　石破首相会見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3c6bf04553261373fbb4826eaf3729f72044335>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011119-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=133&cw=954&ch=954&exp=10800&fmt=webp> シーズン１６２勝ペース？！　ドジャース指揮官「それはさすがに無理（笑）」…１９８１年以来４４年ぶりの開幕６連勝
+      <a href=https://news.yahoo.co.jp/articles/384930ea9af1b9874304e00b8db6da98c69aae77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-21825406-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報・全文掲載】中居さんとトラブルの元女性アナウンサー側がコメント　フジ第三者委「業務の延長線上における性暴力だった」受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88d2869274a2abfa7f40df6889a6bd07eab8723c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-09513739-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相、商品券配布問題を改めて陳謝　コメ高騰「必要あればさらなる対応」
+      <a href=https://news.yahoo.co.jp/articles/467fc0f7f0171290a7e3e57556030fc2b640f0e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050138-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> イスラエル軍がガザの２５％占領計画、地上侵攻拡大で「最大限の圧力」…米報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b29e47658790195b07315b84bafd71db04ef1ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000033-jisin-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「感覚がおかしい」中居正広氏　性暴力後に被害者女性退職で漏らした“4文字”にSNS衝撃
+      <a href=https://news.yahoo.co.jp/articles/7c9228be35c50f55220a782ab20ef79cbcf516f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04535248-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 福田彩乃、16年所属のアミューズ退所 今後は個人で活動「これからは家族との時間を最優先に」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddbfc1b6f12dd858165a1d1d9d2df874cbf2416e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011094-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> タレント福田彩乃、１６年間所属「アミューズ」退所を報告　今後は「個人として活動」
+      <a href=https://news.yahoo.co.jp/articles/7bcc8669509f7ab87bbd672d2e525bd2481cc6d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-05423244-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平が2年連続のユニホーム売上1位　在籍2年目の山本由伸も10位とランクイン　WS制覇のドジャースからは計6選手がトップ20入り
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/c55b5bd884fed032a9c3a114df59547d7b7a5dff3ad47433fa049a58b63ed81d.jpg> 中国軍 台湾周辺で軍事演習を開始
+      <a href=https://news.yahoo.co.jp/pickup/6534133>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/201ba5f176134bb7b2c9d4cb68c62ee5a3e8e7fac634f0bca24af27e26398926.jpg> 首相 同日選・連立拡大「考えず」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534123>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/515ba165686929e29f0c154c94ee9e16d623eeb1ab899cd374526eda7f39de7c.jpg> 中居氏とトラブル 女性がコメント
+      <a href=https://news.yahoo.co.jp/pickup/6534137>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/64dca7a37bb977e94af5f166a171534cf1ad50b13600416da32a26d83bddaffe.jpg> 季節逆戻り 真冬並み寒さいつまで
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 17:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 17:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
