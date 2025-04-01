@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae9d42352b6fbc5d688e0fc53b8af88b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/afb7ac8b8592ec2e87c0bc3a8014ea38.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9928170de091e63da7dcebac367308aac1e72768>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 民家クローゼットに女性遺体　遺棄容疑で21歳男逮捕　愛知県警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/21edc3c362f8b4b49a6da853eaae763947038b8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00950983-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 内戦続くミャンマーで大地震…発生から72時間経過し民主派が“戦闘停止”宣言　軍事政権下で支援の行き渡りに懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2b42da28e746a54bcf89fc079e3e2d62f9f405e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04534963-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 永野芽郁、江頭2：50に追いかけられ涙「オールスター感謝祭」でのアクシデントに言及「びっくりして涙が出ただけ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8c0301568d4307d43209d0b47448d6472ac9b5d2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011023-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平がユニホーム売り上げ１位…ドジャース６選手がトップ２０
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55d67873cf3455e9390afca0a6c1aae9bb071a0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000022-ann-000-4-thumb.jpg?exp=10800&fmt=webp> クローゼットから遺体　行方不明の10代女性か　21歳男逮捕　愛知
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/161c9f9386eff48b10b9cee5f9942a15c1d8378c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04534936-mdpr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=466&ch=466&exp=10800&fmt=webp> TBS「オールスター感謝祭」江頭2：50・永野芽郁らに謝罪「番組として適切ではない点があったと判断」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94e0a3e3e365ea3ee6b002e2c132a890cfdbf628>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> タイ当局、地震で倒壊のビル調査 数十人が依然不明
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534105>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/a32e3cf64e3c439c05686eba1ed8266d3b9a2591cd0d6fda6fa9516e5aec877b.jpg> 中継 石破首相が記者会見
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/e62ea3141846a28afacb56869964b999e2b1b358a9ecbec7c2893c13e88d7e23.png> 中継 石破首相が記者会見
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/613f6b7f0477f20df119fc9772f0da0ce80b8fc28e608310c00d36bf02bbfda0.jpg> フジHD株一時7%高 報告書を評価
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534104>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/8e6c5c792cda2f57d690b4717eec07fa591e4e32725b1dc04f0127002aa88ca7.jpg> 自宅に女性遺体を遺棄疑い 男逮捕
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/4ff7e8480bc6cbd314a77d9598cd9a237d2eca7ecca812a0b42896c708977f59.jpg> フジCM再開にスポンサー依然慎重
+      <a href=https://news.yahoo.co.jp/pickup/6534101>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/35a1964f792c921ecaf902121be4ffdbc940f595a42a00e043a1460b20555abe.jpg> 大谷ユニ売り上げ 18カ月連続1位
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534098>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/738620f0300fcfb38960050b9a25714234aa07042079e772adaacd520b16dd27.jpg> 元NHKアナ中川安奈 ホリプロ所属
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 11:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 11:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
