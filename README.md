@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6027f98dfb3d1239f1026e4b60051d92.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3bc8603ac9094e44cb2230a731f5e55f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a18fae2a9cac2016630efa1d06301383cdbcfd01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000002-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=445&ch=445&exp=10800&fmt=webp> プーチン氏、中国外相と会談　戦勝80年式典に向け、習氏訪ロを準備
+      <a href=https://news.yahoo.co.jp/articles/728bc25ab745347ef5fe2f97b910d12cff406215>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90021814-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 接点は“オンラインゲーム”か…遺体は行方不明の女子高校生　愛知・クローゼット遺棄
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86215d1b269afe7c5269f514ea6d019c75a4ed76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000105-ann-000-4-thumb.jpg?exp=10800&fmt=webp> クローゼットに遺体　行方不明の女子高校生と判明　愛知・一宮市
+      <a href=https://news.yahoo.co.jp/articles/a5436cb455cb22c45bc2210a6f401a46f9bec748>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228020-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> プーチン大統領　5月の対ドイツ戦勝記念日式典　習主席は「メインゲスト」 首脳会談も実施へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/335d1ac4686f7cf405d901c8eb2bb5b87ab494c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-07228015-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 70人以上が安否不明の崩壊ビル内部に6人分の人影　バンコク高層ビル　アメリカ救助隊が調査
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/56648b617be3e091dfb9044e7774b9a1fe75e790>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00951509-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> BSフジ 反町理氏の出演見合わせ　報告書で「重要なハラスメント事案」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/426e3cd6792b420173db42d3ea071f33a9c2c0af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050210-yom-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ミャンマー地震、被災者治療がパンク状態…病院敷地外に簡易ベッド１００床…死者２７１９人に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 01:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 01:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
