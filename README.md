@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ff7322a7a5b0caa048245b8c9d50ae1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4aa22b6ff56b89ff13c32811a37f31ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/456060794b5ddbaa4ecd6e5b255671e4244feb02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04328175-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 冒頭は“おわび”　予算成立受け石破首相が会見
+      <a href=https://news.yahoo.co.jp/articles/a4ad74950921bf3dbe75b724f8652e31682fa36b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010302-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> “ケチ”だったはずの石破首相「自分を見失ったところがあった」商品券配布をあらためて謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a892a1d8fe8ce9d7c7da3950fcfae8069c97383c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00093883-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中居正広氏をかばい、女性アナを置き去りに…フジテレビが「視聴率をとれる番組」のために支払った大きな代償
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8bd4811114e2036c39fbc880871fcf8ecb90f795>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00010005-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ガザの砂地に埋められた医療従事者15人の遺体発見、付近からは押しつぶされた救急車も　イスラエル軍は明確な回答避ける
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9437e040478d23d990735205821b2ecbcf5c3b35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-07269138-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> フジテレビのスポンサー各社、CM再開に慎重姿勢　第三者委報告うけ
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534106>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/613f6b7f0477f20df119fc9772f0da0ce80b8fc28e608310c00d36bf02bbfda0.jpg> フジHD株一時7%高 報告書を評価
+      <a href=https://news.yahoo.co.jp/pickup/6534115>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/1a94a60e7bc85bbdfb7d3023bc83fd9572a513f02ea716fae2122414a1746ffa.jpg> フジ 「必要な対応検討」と総務相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534111>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/35a1964f792c921ecaf902121be4ffdbc940f595a42a00e043a1460b20555abe.jpg> ユニ売り上げ1位は大谷 由伸10位
+      <a href=https://news.yahoo.co.jp/pickup/6534112>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/bf8ad31729d5622282ef933a774e96b1883d9e28cac0ca83166e845c748adb29.jpg> 関西ジュニア Lil かんさい解散
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 12:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 12:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
