@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/84852a5f4c9e9521c2e9a2fa553d8a3c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae9d42352b6fbc5d688e0fc53b8af88b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8c0301568d4307d43209d0b47448d6472ac9b5d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011023-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平がユニホーム売り上げ１位…ドジャース６選手がトップ２０
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/55d67873cf3455e9390afca0a6c1aae9bb071a0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000022-ann-000-4-thumb.jpg?exp=10800&fmt=webp> クローゼットから遺体　行方不明の10代女性か　21歳男逮捕　愛知
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/161c9f9386eff48b10b9cee5f9942a15c1d8378c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04534936-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 「オールスター感謝祭」江頭2：50・永野芽郁らに謝罪「番組として適切ではない点があったと判断」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04534936-mdpr-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=466&ch=466&exp=10800&fmt=webp> TBS「オールスター感謝祭」江頭2：50・永野芽郁らに謝罪「番組として適切ではない点があったと判断」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63c5649db81368181febf5d32cacad6dd666a436>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011020-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カージナルスのヌートバー、開幕戦以来の３戦ぶり先頭打者２号…飛距離１１１メートルのギリギリ弾
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee031968996c7305a63d923487fd0df5b8347dfd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000037-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> イスラエルが人質解放・停戦延長を提案、ガザ南部で本格作戦へ
+      <a href=https://news.yahoo.co.jp/articles/94e0a3e3e365ea3ee6b002e2c132a890cfdbf628>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000001-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> タイ当局、地震で倒壊のビル調査 数十人が依然不明
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f231fcde8a91215395576e02cfee95c7a3a7b939>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050025-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=98&cw=305&ch=305&exp=10800&fmt=webp> ミャンマー国軍、地震後も少数民族へ空爆継続…医師不足は医療従事者弾圧の結果
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534105>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/a32e3cf64e3c439c05686eba1ed8266d3b9a2591cd0d6fda6fa9516e5aec877b.jpg> 中継 石破首相が記者会見
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534097>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534099>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/06db497e800c65aec8b2b8f103dce0a96c1d47d44878dfdcb7d15b8248ec3e75.jpg> 大企業製造業 景況感4期ぶり悪化
+      <a href=https://news.yahoo.co.jp/pickup/6534103>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/3bfa6443d4d3fbffc648ff5b5c5d45d6190f4aa770dbbf9db491666877eaff73.jpg> OpenAIが400億ドル調達 SBG主導
       </a>
     </td>
   </tr>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/8e6c5c792cda2f57d690b4717eec07fa591e4e32725b1dc04f0127002aa88ca7.jpg> 自宅に女性遺体を遺棄疑い 男逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534096>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/4ff7e8480bc6cbd314a77d9598cd9a237d2eca7ecca812a0b42896c708977f59.jpg> フジCM再開にスポンサー依然慎重
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534094>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/5e1c56f1798a5ed18da5909ddc658eeb62aafd6e36b72e42216d162733abb78b.jpg> Apple独自の生成AI 日本語に対応
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534100>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/80b6d3f24b414b5f623cee3ffe05214eb1b23bbaff4c24c1531ec5a258ea8544.jpg> ヌートバー好調 先頭打者HRで2号
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 10:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 11:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
