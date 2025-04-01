@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c8505a66f8696b2ad1e462b7e139a60d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/148afdfec9d0b758b36ee719b3d62a15.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edd72ea064b1624755e6c3bc6de01c2b149d0cb0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 上半身に多数の刺し傷　東京の女子高生遺体　愛知県警
+      <a href=https://news.yahoo.co.jp/articles/3af6d0ef8ab13746ad62d7b98d3b6bd2750632a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000004-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《先輩女性アナ・F氏に同情の声》「名誉回復してあげないと可哀想ではない?」アナウンス室部長として奔走　“一管理職の職責を超える&#8221;心労も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ec675408fabc0667abdc126d4fb351726e11bc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-04011284-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 中居正広氏「性暴力認定」から一夜　被害者の元フジアナが初のコメント「被害は一生消えることはない」
+      <a href=https://news.yahoo.co.jp/articles/e9499cbe098fb29a8f4abc44bb89695466746839>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-04021006-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1059&ch=1059&exp=10800&fmt=webp> 大谷翔平、ドジャース“新記録”の開幕７連勝へ　ブレーブス戦「１番・ＤＨ」先発　４戦ぶり３号出るか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/edd72ea064b1624755e6c3bc6de01c2b149d0cb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 上半身に多数の刺し傷　東京の女子高生遺体　愛知県警
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d6f25739141fec3ce7459cb31e7fddfb3bdf5ede>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-34020033-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=17&cw=442&ch=442&exp=10800&fmt=webp> 太田光、暴走江頭にツッコミ「TBS出禁、あいつは本当に成長しない」普段は「誰とも…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/225bb66dc4189eb1118061d20c721abb49a0a565>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000003-ann-000-15-thumb.jpg?exp=10800&fmt=webp> 巨人・坂本選手 2.4億円の申告漏れ 追徴税額1億円か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-34020033-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=17&cw=442&ch=442&exp=10800&fmt=webp> 太田光、暴走江頭にツッコミ「TBS出禁、あいつは本当に成長しない」普段は「誰とも…」
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534168>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/c361a3a9d3117720b88dc23671cfddfada95432e0cab80f9a6c59c6bd746da67.jpg> 公立中学の制服 無償化ひろがる
+      <a href=https://news.yahoo.co.jp/pickup/6534177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/113546ee061da3dbd8a61ffe80f599d64cb2f33771075581a46c89179b52824b.jpg> 16歳遺棄 死因は出血性ショック
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534176>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/62b01021882964903b04ae1163405185c7b1bba533d958c3395d194aefe340f8.jpg> 備蓄米の納入巡り違約金 転売否定
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534171>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/76cbea87d1f9dd507137650a1f6f7f7c4476d102b7803b09cf12059e890be39f.jpg> miletが一時休養 SNSなどは継続
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 07:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 07:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
