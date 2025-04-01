@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/afb7ac8b8592ec2e87c0bc3a8014ea38.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5ff7322a7a5b0caa048245b8c9d50ae1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9928170de091e63da7dcebac367308aac1e72768>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 民家クローゼットに女性遺体　遺棄容疑で21歳男逮捕　愛知県警
+      <a href=https://news.yahoo.co.jp/articles/456060794b5ddbaa4ecd6e5b255671e4244feb02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04328175-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 冒頭は“おわび”　予算成立受け石破首相が会見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21edc3c362f8b4b49a6da853eaae763947038b8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00950983-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 内戦続くミャンマーで大地震…発生から72時間経過し民主派が“戦闘停止”宣言　軍事政権下で支援の行き渡りに懸念
+      <a href=https://news.yahoo.co.jp/articles/8bd4811114e2036c39fbc880871fcf8ecb90f795>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00010005-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ガザの砂地に埋められた医療従事者15人の遺体発見、付近からは押しつぶされた救急車も　イスラエル軍は明確な回答避ける
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b42da28e746a54bcf89fc079e3e2d62f9f405e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04534963-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 永野芽郁、江頭2：50に追いかけられ涙「オールスター感謝祭」でのアクシデントに言及「びっくりして涙が出ただけ」
+      <a href=https://news.yahoo.co.jp/articles/9437e040478d23d990735205821b2ecbcf5c3b35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-07269138-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> フジテレビのスポンサー各社、CM再開に慎重姿勢　第三者委報告うけ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/42b006fe20d80e05b6b77c76b700c6cefb415a92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000015-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=733&ch=733&exp=10800&fmt=webp> 関西ジュニアグループ「Lilかんさい」が解散、「歩みはここで一区切り」今後はそれぞれ個人活動へ
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6aa14ad424d31eb98969655654a3772c8ca1c839>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-10171401-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=820&ch=820&exp=10800&fmt=webp> 第三者委の調査結果うけ フジ社長「自己認識の甘さを思い知った」 スポンサーは再発防止策見極めへ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534105>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/e62ea3141846a28afacb56869964b999e2b1b358a9ecbec7c2893c13e88d7e23.png> 中継 石破首相が記者会見
+      <a href=https://news.yahoo.co.jp/pickup/6534109>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/3d1477d08ae166e8a60ac0969d78c2cf113d079b66808efe136258a58352bd84.jpg> 首相 会見冒頭で商品券配布を謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534097>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/ce4f4b35b01e51fc14026bfa1333fdba1e5482d84dfa53fcbe0a0474e384fae9.jpg> トランプ氏 米朝「意思疎通ある」
+      <a href=https://news.yahoo.co.jp/pickup/6534095>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/b91540cb348d8b1270cb86af872d434f96d23d12d21effe465aa304689c02a2d.jpg> ガザ砂地に救助隊15人の遺体 国連
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534107>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/580e7c1c1595a3b2fe386a032d58ad33d9e01cd2d66ea6752bdabd29d0bb45bc.jpg> 遺棄の遺体は16歳高校生か 愛知
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534106>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/613f6b7f0477f20df119fc9772f0da0ce80b8fc28e608310c00d36bf02bbfda0.jpg> フジHD株一時7%高 報告書を評価
       </a>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/8e6c5c792cda2f57d690b4717eec07fa591e4e32725b1dc04f0127002aa88ca7.jpg> 自宅に女性遺体を遺棄疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6534111>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/35a1964f792c921ecaf902121be4ffdbc940f595a42a00e043a1460b20555abe.jpg> ユニ売り上げ1位は大谷 由伸10位
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534101>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/35a1964f792c921ecaf902121be4ffdbc940f595a42a00e043a1460b20555abe.jpg> 大谷ユニ売り上げ 18カ月連続1位
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534090>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/d86cb3426c46d8f90ded44173b733d7a185bbd2610e60e628667ae863ca215cc.jpg> SBに打撃 近藤健介が腰を手術へ
+      <a href=https://news.yahoo.co.jp/pickup/6534110>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/2eb1d135bbd6d13f2f321c6051dc6967e1f236ad60ee6d035cc983ee9a895274.jpg> あんぱん初回視聴率 高知は26.2%
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 11:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 12:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
