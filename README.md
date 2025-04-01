@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a8a52a7736986ff337d53d339a91c1cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/84852a5f4c9e9521c2e9a2fa553d8a3c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/161c9f9386eff48b10b9cee5f9942a15c1d8378c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04534936-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 「オールスター感謝祭」江頭2：50・永野芽郁らに謝罪「番組として適切ではない点があったと判断」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/63c5649db81368181febf5d32cacad6dd666a436>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011020-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カージナルスのヌートバー、開幕戦以来の３戦ぶり先頭打者２号…飛距離１１１メートルのギリギリ弾
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ee031968996c7305a63d923487fd0df5b8347dfd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000037-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> イスラエルが人質解放・停戦延長を提案、ガザ南部で本格作戦へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3142e1e1fd6e1f7cdaab0adb9c0246b94b0a7a67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04011009-sph-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 中川安奈アナが「ホリプロ」所属を報告　今後はタレント活動も「とってもワクワク」３月末でＮＨＫ退職
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e319a6abb49b4f52ce62a93bed36250d3cd55023>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-01352494-jspa-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=607&ch=607&exp=10800&fmt=webp> 江頭2:50暴走にネット真っ二つ！問題が“TVバラエティの限界”のあらわれであるワケ
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534097>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/ce4f4b35b01e51fc14026bfa1333fdba1e5482d84dfa53fcbe0a0474e384fae9.jpg> トランプ氏 米朝「意思疎通ある」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534092>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/ee37dfae1179c2289966f186f1e479a9e99bf7aeb8fd92d8565896dcb533718e.jpg> ミャンマー国軍 空爆継続の情報
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534100>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/80b6d3f24b414b5f623cee3ffe05214eb1b23bbaff4c24c1531ec5a258ea8544.jpg> ヌートバー好調 先頭打者HRで2号
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534090>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/d86cb3426c46d8f90ded44173b733d7a185bbd2610e60e628667ae863ca215cc.jpg> SBに打撃 近藤健介が腰を手術へ
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534085>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/6706de71dd0759b232af8c8bc420e8d7cb1f8e6b5a62eaef58b4395a2ff8fff2.jpg> 永野芽郁 江頭2:50の騒動に言及
+      <a href=https://news.yahoo.co.jp/pickup/6534098>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/738620f0300fcfb38960050b9a25714234aa07042079e772adaacd520b16dd27.jpg> 元NHKアナ中川安奈 ホリプロ所属
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 10:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 10:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
