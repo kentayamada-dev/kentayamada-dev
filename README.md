@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4aa22b6ff56b89ff13c32811a37f31ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/53a08e6d5ae1c9568fd077b1799c9a0b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4ad74950921bf3dbe75b724f8652e31682fa36b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010302-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> “ケチ”だったはずの石破首相「自分を見失ったところがあった」商品券配布をあらためて謝罪
+      <a href=https://news.yahoo.co.jp/articles/74c68104f5bbed04a7c42819ad0ccabd8f1c6737>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00775326-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=299&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジの出直し、CMスポンサー離れの今後は？　楽天「再開の予定なし」、ローソン「未定」…社長は「願うばかり」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a892a1d8fe8ce9d7c7da3950fcfae8069c97383c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00093883-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中居正広氏をかばい、女性アナを置き去りに…フジテレビが「視聴率をとれる番組」のために支払った大きな代償
+      <a href=https://news.yahoo.co.jp/articles/04a8c01066537c72e3512ecf913df3c3f7634b95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-34010341-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 食品の消費税減税に否定的　石破首相「適当ではない」　予算委の「一概に否定せず」発言は後退
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bd4811114e2036c39fbc880871fcf8ecb90f795>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00010005-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ガザの砂地に埋められた医療従事者15人の遺体発見、付近からは押しつぶされた救急車も　イスラエル軍は明確な回答避ける
+      <a href=https://news.yahoo.co.jp/articles/299950411db366439e398cf6516b65846b2927e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00010001-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 石破政権の苦境が際立った予算成立　商品券配布、高額医療…「タイタニック号みたい」自民党内に閉塞感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42b006fe20d80e05b6b77c76b700c6cefb415a92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000015-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=733&ch=733&exp=10800&fmt=webp> 関西ジュニアグループ「Lilかんさい」が解散、「歩みはここで一区切り」今後はそれぞれ個人活動へ
+      <a href=https://news.yahoo.co.jp/articles/4b2856c471d3d49f2dcef7089e280ca185ac6963>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000020-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=476&ch=476&exp=10800&fmt=webp> 永野芽郁、”江頭騒動”の涙の真相を語る「生理現象として…ただびっくりしただけ」、SNS上の誹謗中傷には「いろいろと対処の方法を考えます」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534109>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/3d1477d08ae166e8a60ac0969d78c2cf113d079b66808efe136258a58352bd84.jpg> 首相 会見冒頭で商品券配布を謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6534116>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/ace1f47f0694fd4071ffd5abf7995863a45d7fcd24f405ac53f3304a835d69d7.jpg> 首相 食料品の消費税減税を否定
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534095>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/b91540cb348d8b1270cb86af872d434f96d23d12d21effe465aa304689c02a2d.jpg> ガザ砂地に救助隊15人の遺体 国連
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534103>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/3bfa6443d4d3fbffc648ff5b5c5d45d6190f4aa770dbbf9db491666877eaff73.jpg> OpenAIが400億ドル調達 SBG主導
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/d20823b404c37fcd429510b9a145d8f641c9128ffe361cc055b5519367100f99.jpg> 宮内庁YouTube 1.5hで5千人登録
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534112>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/bf8ad31729d5622282ef933a774e96b1883d9e28cac0ca83166e845c748adb29.jpg> 関西ジュニア Lil かんさい解散
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 12:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 13:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
