@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c2970de3f6b713ecc2253895a7561cd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd9cb69d71ab1d2c32794dc06796626d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f89c29c643cbf24858594c30fbbb1fac7e0cf063>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-01648189-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 愛知クローゼット遺体　都内の女子高校生と身元特定　死因は出血性ショックか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/335d1ac4686f7cf405d901c8eb2bb5b87ab494c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-07228015-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 70人以上が安否不明の崩壊ビル内部に6人分の人影　バンコク高層ビル　アメリカ救助隊が調査
+      <a href=https://news.yahoo.co.jp/articles/9d4018ed075a3f4e1b0b634b43384d790dd789de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000001-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 大谷翔平　６戦連続出塁＆得点“５０－５０”モードで２戦連続盗塁成功　ドジャース４４年ぶり開幕６連勝
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 04:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 05:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
