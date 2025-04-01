@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e0f65d22b8e0deed113d279ac3d40a6e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3ba6659963df2e1164f4b7bb251d5f56.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a18fae2a9cac2016630efa1d06301383cdbcfd01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000002-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=445&ch=445&exp=10800&fmt=webp> プーチン氏、中国外相と会談　戦勝80年式典に向け、習氏訪ロを準備
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/86215d1b269afe7c5269f514ea6d019c75a4ed76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000105-ann-000-4-thumb.jpg?exp=10800&fmt=webp> クローゼットに遺体　行方不明の女子高校生と判明　愛知・一宮市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/56648b617be3e091dfb9044e7774b9a1fe75e790>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00951509-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> BSフジ 反町理氏の出演見合わせ　報告書で「重要なハラスメント事案」
       </a>
@@ -366,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/426e3cd6792b420173db42d3ea071f33a9c2c0af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050210-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ミャンマー地震、被災者治療がパンク状態…病院敷地外に簡易ベッド１００床…死者２７１９人に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050210-yom-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ミャンマー地震、被災者治療がパンク状態…病院敷地外に簡易ベッド１００床…死者２７１９人に
       </a>
     </td>
   </tr>
@@ -379,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57bf53f04b584b8b5e82dcc3286927fc804d4853>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-05664263-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 愛知クローゼット遺体　都内の女子高校生と特定　逮捕の男「複数回刺した」殺害ほのめかす
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534139>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/eb3a512b4e2188b7b4923b7b096f43bfbd7db8bdb735192e33bdee1d4c78758e.jpg> 政府 ミャンマーへ医師ら32人派遣
+      <a href=https://news.yahoo.co.jp/pickup/6534170>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/fc9cc34e8d09004c0cbca382fe8d3de1a0ce075df1551c8cdff07b18d954f22a.jpg> ミャンマー被災地 病院パンク状態
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534166>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/a6a5ea2ceed19c818b224c3b7dd3f2fa8c012c5dfdb458374bb407554c5d2358.jpg> 中日 4年ぶり勝利の岩崎翔が涙
+      <a href=https://news.yahoo.co.jp/pickup/6534171>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/76cbea87d1f9dd507137650a1f6f7f7c4476d102b7803b09cf12059e890be39f.jpg> miletが一時休養 SNSなどは継続
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 23:52:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 00:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
