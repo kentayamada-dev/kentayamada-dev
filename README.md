@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/52b32cca0e46e5c0b2185dfe13736f1e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e0f65d22b8e0deed113d279ac3d40a6e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/56648b617be3e091dfb9044e7774b9a1fe75e790>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00951509-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> BSフジ 反町理氏の出演見合わせ　報告書で「重要なハラスメント事案」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/426e3cd6792b420173db42d3ea071f33a9c2c0af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00050210-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ミャンマー地震、被災者治療がパンク状態…病院敷地外に簡易ベッド１００床…死者２７１９人に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8d08af72d1e02600aa177c660f052a80b694e1a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-04535499-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 亀梨和也、公式X開設 新写真公開にファン歓喜「待ってました」「ビジュ良すぎる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/57bf53f04b584b8b5e82dcc3286927fc804d4853>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-05664263-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 愛知クローゼット遺体　都内の女子高校生と特定　逮捕の男「複数回刺した」殺害ほのめかす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d770d0889a9a1f0f2b1d431c84ab9be5f9a725e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-21827352-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジテレビにスポンサーは戻ってくる?企業は慎重姿勢　弁護士に聞いたスポンサーとの向き合い方【Nスタ解説】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/841502c53e71f5a3d69ce76d84a0222a282cd1bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000088-mai-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=582&ch=582&exp=10800&fmt=webp> フジ部長「無邪気な連絡してみましょうか」　中居氏との連絡明らかに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0493459525ce7bc9ac364e7790b596cc97f4f5b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000125-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 被災者850万人、過酷な環境　死者2700人超に　ミャンマー地震
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534162>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/640552e9045bebceae2d021be2964aed22f92f2de4c734a0917ed186b23f707d.jpg> 女性遺棄疑い もめ事にと男供述
+      <a href=https://news.yahoo.co.jp/pickup/6534158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/2ed0274536cc41750e111a0ca81ce5f4515140b9a5a9e5e8f8fa63fe935227de.jpg> 百日せき急増 昨年の患者数上回る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534158>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/2ed0274536cc41750e111a0ca81ce5f4515140b9a5a9e5e8f8fa63fe935227de.jpg> 百日せき急増 昨年の患者数上回る
+      <a href=https://news.yahoo.co.jp/pickup/6534168>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/c361a3a9d3117720b88dc23671cfddfada95432e0cab80f9a6c59c6bd746da67.jpg> 公立中学の制服 無償化ひろがる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534169>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/4fcafcffe7e2767abd42a1ba9ee1899e623b330e9aa9c32dbac37ce5ace5344b.jpg> マスク氏 3年ぶり長者番付世界一
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534160>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/b0b0bf87ab986e08e202433435670ab45a735f84588600bfa45da72ff5621153.jpg> フジ会見 会場で起きていたこと
+      <a href=https://news.yahoo.co.jp/pickup/6534151>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/f198d01f07ca92e34ccb0bd6fae72ab779b80ccc2d11bef1c1a206fb47b17bf1.jpg> BSフジ 反町理氏の出演見合わせ
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/de567210211ebfe460bcddf8217e568ff413681c0e50e61735bfef0332e52af3.jpg> 歌手のmilet 活動休止を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 23:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 23:52:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
