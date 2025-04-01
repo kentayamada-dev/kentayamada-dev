@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/54be15d2c548f2d293ce5d87fd2199cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/823dfe2eb7d2500615c48f28da418453.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f63c3aa19a305cafd9ede810ff1d8b93da99b12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000064-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=842&ch=842&exp=10800&fmt=webp> 【フジテレビ問題】『性暴力』被害の女性、「初めて知った事実も多く…」　第三者委員会の報告書の公表に「ほっとした」【コメント全文】
+      <a href=https://news.yahoo.co.jp/articles/075cf08b790b276222b9d7e24441434612d55013>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000476-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=799&ch=799&exp=10800&fmt=webp> フジ第三者委報告受け女性がコメント発表　安堵の気持ちの一方で「被害は一生消えることはない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/442e044b31473e2377a64f2bc9ba0b0a4325983c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000101-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=79&cw=858&ch=858&exp=10800&fmt=webp> 警視庁公安部に「ローンオフェンダー」専従課が発足　全国初、元首相銃撃事件など踏まえ
+      <a href=https://news.yahoo.co.jp/articles/3b265fde67a7a95d5b2815c52aaaebc9581679d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000064-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 霊安室の遺体を取り違えて引き渡し、火葬後に発覚　埼玉県警が謝罪
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a42ef9b2adaee9551804671b1921c556b57c1d8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-17047716-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=579&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> イスラエル、ガザ南部ラファなどの住民に避難命令　攻撃再開以来最大規模
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-17047716-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=579&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> イスラエル、ガザ南部ラファなどの住民に避難命令　攻撃再開から最大規模
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59fcbf08b6e4825f26db689882174448dc6a0cb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-00000095-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米関税、企業支援に「万全期す」　消費減税否定、商品券で陳謝　石破首相会見
+      <a href=https://news.yahoo.co.jp/articles/88d2869274a2abfa7f40df6889a6bd07eab8723c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250401-09513739-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 石破首相、商品券配布問題を改めて陳謝　コメ高騰「必要あればさらなる対応」
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534127>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/0b353863e67000d6a51c7c022b939c2be732cdbed411ef8ac0e007ae80c415a9.jpg> 「時給10円」コメ農家訴える窮状
+      <a href=https://news.yahoo.co.jp/pickup/6534147>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/dbb6494d06c3a029eed69d887ac12fe418c5f139948279983be2ea379394c87b.jpg> 遺体取り違えて引き渡し 県警謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534132>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/1/33599bd8f1cdc10fbcc764f587ade2c5e6ab023ca17fbf6507e4d8466d46e32c.jpg> 米外食フーターズ 米破産法を申請
+      <a href=https://news.yahoo.co.jp/pickup/6534134>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 山野ホール 劇場用途はNGと判明
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/01 18:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/01 19:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
