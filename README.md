@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f4f54e069e1ef38bf620d938beaa8e64.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b09f9b557e5baf7f79cfd4ae61f92544.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/daa978eed9dbd971df973a9e8c4daa71c6cb0a77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000123-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=523&cy=0&cw=1677&ch=1677&exp=10800&fmt=webp> 米俳優バル・キルマーさん死去　「トップガン」のアイスマン役
+      <a href=https://news.yahoo.co.jp/articles/3e02fe067d6e298b84e8cdcc502fc1ef4403f28e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-01192588-sp_ctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ゲームで口論になり刺した」　女子高校生“クローゼット遺棄” 　男(21)との接点はオンラインゲーム　愛知・一宮市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b02fb159c3bea56b45cbbce4b2a3b159cc89d0f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 民放連、フジを厳重注意　遠藤龍之介氏、会長辞任
+      <a href=https://news.yahoo.co.jp/articles/ef2c62d5c2377a5b36cf13bcb64da712fde2aaae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951809-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「国民に寄り添った対応」求める…食料品などの値上げめぐり自民党・松山参院幹事長が石破首相に直談判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bc19b1952a5e136b1853e9dd7d01c3a33dd56012>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000071-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=794&ch=794&exp=10800&fmt=webp> 【フジテレビ問題】フジ社長、「当分の間、自社の役職員が民放連の理事、副会長、専門委員会委員長に就任することを自粛したい」民放連が了承
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c00381a865bb16ad40d66f845cf3fa9f583d80bb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー大地震　地殻変動は長さ400キロ　最大6メートルの“ずれ”確認　国土地理院
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32a486e68b0cefb1e184986b8ad8ea6e96d5e8b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000121-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=98&cw=1530&ch=1530&exp=10800&fmt=webp> 死亡女子高校生装い、発覚逃れか　成り済ましてメッセージを送信
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/36652b9870b617f1fb77a978c4d816d060c72732b68014034e61387f36e2adc6.jpg> 首相 謝罪と反省繰り返した会見
+      <a href=https://news.yahoo.co.jp/pickup/6534232>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/a7b37402a19d53fcf29fada12582c4a3926f48a5a360185a2c7c341a06869f20.jpg> イスラエル、ガザ広範囲を制圧へ
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534233>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/c7d4b34708d0dc8b82e86c35e7aa4856792648df52ed48ecf41d53203afbe2ed.jpg> 血を流した高齢女性死亡 息子逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534215>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/1b5bce352214f5cd61cdcb7a5a8336745e4c1de289c3dcda1298dbc812be02d7.jpg> 転勤NG広がる 最大100万円手当も
+      <a href=https://news.yahoo.co.jp/pickup/6534240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/582e7aff5e53d1d7132e35b18fde7ae74737558ff27c3928a7c6cb262537209b.jpg> 17歳殺害事件25年 父「自首して」
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534235>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/2996aacf3f2f741f8b22adb2a4c2a9cc7830543dee59678a90c02743956c26ca.jpg> フジテレビに厳重注意 民放連
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534225>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/ca43d15ee0f82d9c1f3255181713f1c55353c92354a18d9aafe875a1a79c9895.jpg> サーティワン 1さじ試食続ける訳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 17:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 18:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
