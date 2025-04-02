@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1781600aa23b689e24e49cb735b223b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a883ec8a68915ac4a2f3518a2809280.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fd31067156aa0671321a9ef73d5c07a78343acd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-04031037-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス鈴木誠也が今季初の２本塁打＆３安打の大暴れ　１試合５打点は渡米後自己最多
+      <a href=https://news.yahoo.co.jp/articles/e6855808943f048b5a06bf4f59f526ac040f80fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000132-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> カブス・鈴木誠也　2試合連発の3号3ラン＆2打席連発の4号ソロ　好調持続で量産態勢に突入
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1d006e68b0f41fa14a49da64ea0a986228dc31dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏が「相互関税」発表、日本には24％　市場が閉鎖的　世界経済への打撃懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9c64eefd454cd8782e574a1b9381abbf4f38fa0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000061-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=627&ch=627&exp=10800&fmt=webp> Switch 2のローンチタイトルは18種類　「マリオカート」「スト6」「龍が如く０」など
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b2c7aefb58e8e7ce9a1b107b2660d3bd99a26e9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー大地震で地表に最大6mのずれ、断層破壊は400Km以上　国土地理院解析
       </a>
     </td>
   </tr>
@@ -367,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/816ec2ba2cb54793bfb2d52a852fd1833ca68e3f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-21830565-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 大隅半島東方沖で地震 鹿屋市などで最大震度2 津波の心配なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28da69818c882c8ee32af445ec5a412c926cddfa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000024-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 日本の税率24％、トランプ大統領が「相互関税」発表　コメに言及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/175e29526e61372fd6863bb04b496443d5a075d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00062900-otakulab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> Switch 2、気になる「価格」「転売対策」どうなった？徹底した販売方針に日本ゲーマーから早くも高評価
       </a>
     </td>
   </tr>
@@ -404,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534280>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ecb1a7239bbb0d4a83abcdd8a3126655e22d8381fa97524c2f13993e00ff88b4.jpg> ミャンマー地震 死者3000人超に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0a123f4914523eeed1e76f2a4ebb078381f5b23f3a6aa88238dc885418f07636.jpg> マスク氏退任に米大統領同意 報道
       </a>
     </td>
   </tr>
@@ -434,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534254>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/c21d4f08454359d5937a0a7c31068a7edc31b11eb175444930e940e268d31442.jpg> 迷惑行為の画像拡散 くら寿司声明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534279>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ca0f75486902833aedf2ebdb02b2acb8c88db1796559aa645e130babd7e3238b.jpg> 転売対策? Switch2に国内専用機
       </a>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 07:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 07:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
