@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a6a084227e973695846ae52204f3b99b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6b80d44db243686e3da669bf916a67df.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e6950b1dcd72ec23eebcf6b9d31b7012630780f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90006872-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> 「女性と口論になり複数回刺した」　女子高生の遺体には後頭部や背中などに多数の刺し傷　愛知・一宮市　
+      <a href=https://news.yahoo.co.jp/articles/bfd2ba65d5a327c9142868b102b0fffbe255f30c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951828-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=404&ch=404&exp=10800&fmt=webp> 「ゲームのことで口論になり刺した」逮捕の男（21）　クローゼットに“女子高生遺体”…「フォートナイト」で知り合ったか　愛知・一宮市
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ccf4bdf5dd45b2350b858f4776e69fd6295176c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-03376283-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 3日から自動車関税発動へ　日本車に“駆け込み需要”　アメリカでも混乱が…
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-03376283-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 3日から自動車関税発動へ　日本車に“駆け込み需要”　アメリカでも混乱が…
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea8d710c89f227b46dfc5b6e556e0cfa65cb70dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00339656-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【フィギュア】世界選手権銅・千葉百音は先輩から進化のヒントを吸収「立ち振る舞いを学びたい」
+      <a href=https://news.yahoo.co.jp/articles/f27fa6f22fb778ed74dedfa4b3e60061019425d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000047-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 船井電機会長の原田元環境相、新会社設立へ　元従業員の雇用の受け皿
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d8c97c667c881982ae502b71bd023a999dbd5eca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228195-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=716&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー大地震　断層沿い400キロ以上にわたり、最大6ｍ、地面が水平方向にずれる地殻変動を確認　国土地理院
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228195-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=716&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー大地震　断層沿い400キロ以上にわたり、最大6ｍ、地面が水平方向にずれる地殻変動を確認　国土地理院
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534232>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/a7b37402a19d53fcf29fada12582c4a3926f48a5a360185a2c7c341a06869f20.jpg> イスラエル、ガザ広範囲を制圧へ
+      <a href=https://news.yahoo.co.jp/pickup/6534241>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/f4ceb0302b8b1330a238ae11cf0f019afcd87a92b6e408fd2270f442bdc82f7e.jpg> 物価高巡り首相に直談判 自民幹部
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/335b100d4da519ff8fe89e14ea35eb70e0ece79e045b2a91a905cd7a0dadc1a1.jpg> 高校生遺棄 刺し傷など20カ所以上
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534242>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/f0c54e7e51f90e59220f5ae62dc23e2ce6f28418d100b43f2c2e1dbc322b15dc.jpg> 車にはねられ12歳が意識不明 兵庫
       </a>
@@ -434,32 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534229>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/9e33eba33f9cacecd59c8aa84997327a31a1e6200bf2c5285b6dc6c2341ca2bb.jpg> 米国産とのブレンド米発売 イオン
+      <a href=https://news.yahoo.co.jp/pickup/6534246>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/413d32876037c01ca26fe88e4850861b63310dfff1b9826a0ad216901ded4923.jpg> フジCMの停止継続 キリンHD発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534238>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/a198ded9404448a48cf694f463f2013efbcf829e7b48bb883bf87e113c5d7106.jpg> 写ルンです 富士フが約44%値上げ
+      <a href=https://news.yahoo.co.jp/pickup/6534249>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/24ec9f81f41099227d2d8f4f334476463300b339ec1d53c9a5a1d101d6a60ef7.jpg> 船井電機 会長ら新会社を設立へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/2996aacf3f2f741f8b22adb2a4c2a9cc7830543dee59678a90c02743956c26ca.jpg> フジテレビに厳重注意 民放連
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/ca43d15ee0f82d9c1f3255181713f1c55353c92354a18d9aafe875a1a79c9895.jpg> サーティワン 1さじ試食続ける訳
+      <a href=https://news.yahoo.co.jp/pickup/6534219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/df3b78773baa366b6d5bd005cc84b9e36f1309536141197e847c786c9cd08e7a.jpg> 俳優ヴァル・キルマー氏死去 米紙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 19:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 19:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
