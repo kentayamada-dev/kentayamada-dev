@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/71e2f60a4659ec0d59e3f4e04ff26a08.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec187c5fddb6aafaca54350e1d12e996.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c80691a939a7fb51ad6c7d2f2b152607c7f9999f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000068-ann-000-2-thumb.jpg?exp=10800&fmt=webp> フジCM再開「今後検討」サントリー新浪会長が言及
+      <a href=https://news.yahoo.co.jp/articles/4607a88f610d69d4a56d977ab421bf32e1c054ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000025-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「ネトゲの知り合いに会いに行く」と家を出た女子高生が殺害…増える“オンラインゲームがきっかけの事件”に警察やゲーム会社も注意喚起
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/231d4e0844d1e39932205e147c978ad6ff7fc39b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00050115-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 新浪剛史氏、フジ第三者委報告を評価「非常に明確」…サントリーＨＤとして「ＣＭ再開も検討」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d8c97c667c881982ae502b71bd023a999dbd5eca>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228195-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=716&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマーM7.7大地震で長さ400キロ以上にわたる断層の動き確認　最大6ｍのずれも　国土地理院
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5ddaff1793e403f3f7cfbc390a9b391df8ff657>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000334-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=849&ch=849&exp=10800&fmt=webp> くら寿司「皿返却口に使用済み避妊具」の迷惑行為に声明　実行者が謝罪も「厳正な対応を行う予定」
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534252>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 課長死亡 町議会に経緯調査要請へ
+      <a href=https://news.yahoo.co.jp/pickup/6534258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/3aa6e98cc7ed535330fbfdea7ab16a6f66da56b72aaff125c6dc6fe139879850.jpg> フジCM再開巡り同友会新浪氏言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534257>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/27a54b2926d5bc7c7652dd7181e13969d8366d5493fb71a54ef842afef18b2e8.jpg> KADOKAWA 育休社員同僚に手当
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/df3b78773baa366b6d5bd005cc84b9e36f1309536141197e847c786c9cd08e7a.jpg> 俳優ヴァル・キルマー氏死去 米紙
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 21:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 21:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
