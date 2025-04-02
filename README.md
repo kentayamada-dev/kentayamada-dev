@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c3617d66dfe190486906d3d3b6fd0f3a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/38998a8d8c1f2a014bbd460747cb290b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/70aae30f08ea98e30505a1a89baeb2cce9a6793d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000045-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=866&ch=866&exp=10800&fmt=webp> ＧＡＣＫＴ、江頭＆永野芽郁問題をド正論で斬る「誰が悪いというのならバラエティ見なきゃ良い」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000045-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=866&ch=866&exp=10800&fmt=webp> ＧＡＣＫＴ、江頭＆永野芽郁問題をド正論で斬る「誰が悪いというのならバラエティ見なきゃ良い」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/11351014eabc4ab7bcc6e88621c07e7b8001c2f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000036-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1518&ch=1518&exp=10800&fmt=webp> 遺体背部に刺し傷十数カ所、愛知　女子高生執拗に襲ったか、男送検
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000036-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1518&ch=1518&exp=10800&fmt=webp> 遺体背部に刺し傷十数カ所、愛知　女子高生執拗に襲ったか、男送検
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/113546ee061da3dbd8a61ffe80f599d64cb2f33771075581a46c89179b52824b.jpg> 16歳遺棄 死因は出血性ショック
+      <a href=https://news.yahoo.co.jp/pickup/6534189>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/14f712eb9b96925e11c76a8b273305e7d35deeb53b1db30eccb1cdac4bc642c9.jpg> 米保険CEO殺害事件 死刑求刑へ
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/98940bb63630390a7bac43417948d35108950335af964bf783a79ec515ab2e78.jpg> 「ライス販売停止」投稿巡り謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6534180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/18957f95ee2179d786cee09e0b8c13f28315bfe18cf2f11a61f2534ce55f6f6b.jpg> フグ肝臓 鮮魚店から客が持ち帰る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/18957f95ee2179d786cee09e0b8c13f28315bfe18cf2f11a61f2534ce55f6f6b.jpg> フグ肝臓 鮮魚店から客が持ち帰る
+      <a href=https://news.yahoo.co.jp/pickup/6534190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/a339aae38202f477e149160b16489c00ddc62acaa023cacbc46db7da90fe19c3.jpg> プレミアL 半自動オフサイド導入
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 09:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 10:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
