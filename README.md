@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/e-mliu9q5W4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5421d7db7b4938a5ae6afd4a7cfd9009.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c9293eb337cd102eba9af61e357411f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52c01c857cfc051e829175b8f5760e12c5c1e36f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00038736-famitsu-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=548&cy=0&cw=707&ch=707&exp=10800&fmt=webp> 『ポケモンコロシアム』『ポケモンXD 闇の旋風ダーク・ルギア』など今後追加されるゲームキューブタイトルがチラ見せ。Switch2向けのNintendo Switchオンラインの新特典としてプレイ可能
+      <a href=https://news.yahoo.co.jp/articles/b6d634aa788e3a8af15ce5cc42cd50c258b52976>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228250-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 約8年ぶり新機種「Nintendo Switch 2」6月5日発売 「マリオカート ワールド」の映像も公開
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7f54f90657af0ea0198c22746a178ed3b6e60fbf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90021894-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏が重視 “相互関税”とは…日本への影響は　発動前夜“トランプ関税”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45c8bd4ad36f5a751ddf46da89ed2e5b2325c170>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90021895-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「日本一体で支援を」緊急援助隊が現地に到着　ミャンマー大地震発生6日目
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 04:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 04:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
