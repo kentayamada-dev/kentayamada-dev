@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5bc47f40376ca13e145399a01a6e2f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b7486f32c4b5b12c9235cc9b174c685c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82949109f3e5df68e2f6ab7ace1962da6d76ad9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000019-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 中国軍が台湾で2日連続の軍事演習　東シナ海で実弾射撃訓練も
+      <a href=https://news.yahoo.co.jp/articles/027b1bf7ff6d27c22ed4348ca11bd83291bd8266>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010012-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=460&ch=460&exp=10800&fmt=webp> ミャンマー地震めぐり日本政府 約9億円の緊急無償支援協力
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ee335306241f0291a5b567b6da5bd9e057dcfa7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228084-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中国軍がきょうも台湾周辺で軍事演習　中国国営テレビ、頼清徳総統を名指しし「独立を謀る言動への反撃だ」とけん制
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78ade34fd5e733fda6a5f9733d6bf2844fdc20e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> タイでも邦人1人負傷　日本政府、9億円支援　ミャンマー地震
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ac6732004358260375fa950de10cb83a27650a60>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90021829-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “トランプ相互関税”秒読み　追加関税に上乗せか　専門家「日本は報復に出られない」
       </a>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534204>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/8c46956c25378fafc2439c36c954ab6e63d19b82c83e57c2d28ef9df44636bd1.jpg> 森友文書 財務省が遺族に4日開示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534203>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/8f78cb593e96012458c3d333a4569093b423973a764a5d1b45a7265f041dbc80.jpg> ミャンマー地震 邦人負傷者3人に
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534210>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/f856237b46f3320065642b6a3edd8324667ae6118771183dc674c29cd4c16348.jpg> 中国軍 台湾周辺で連日の軍事演習
+      <a href=https://news.yahoo.co.jp/pickup/6534211>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/ca647fb9b81b1148e9b30fbc337ea4ab2a808255be0ec977f7443e280405d1ae.jpg> トヨタ 国内初のEV専用ライン
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534195>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/24fc57c4f4dfe56073650ac8233de5fe11dccda99d2ba28d083c5ccc03aa5182.jpg> 朝比奈彩 第2子妊娠を報告
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 13:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 13:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
