@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3afd01d738f0d7870ab7b13780820d3d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6a7940d01d869aed14ee6c120587fddc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/12394a1a351863e055dcca302f88646a30e36b15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010000-anntd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 中居氏の性暴力「業務の延長線上」フジ ハラスメント蔓延 類似事案も複数確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ccd1b904035d376d767b5f66ba355d1229d0b544>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 電柱の変圧器落下し直撃　作業員の死亡確認　東京・文京区
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6fb43d1cc1486d26e220c43876d7370545ac5ed1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、相互関税発表　3日早朝演説で　複数案浮上、日本への対応焦点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/54b3d86ac513eaf554a7f4a9eb9d17418458ea2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本救助隊、ミャンマー入り　武装勢力は1カ月停戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6f79e4920ef345a3bdab3661210861b9e379c5ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951716-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「ネットゲームの知人に会う」クローゼットに16歳女子高校生遺体　オンラインゲーム起因の犯罪増加　被害の8割が小・中学生「心理的ハードルが低い」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3bbc64ec054ad51f395c1ba9773b7995f5974fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=535&ch=535&exp=10800&fmt=webp> トランプ氏、相互関税を日本時間3日早朝発表　案に「最悪」と指摘も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/da08fa9d02b29c0c3fd487c05fe209d6b042f0f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000043-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ミャンマー地震で日本政府　約9億円の緊急無償資金協力
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a129dbd50361cc6c3fee2f56496c5322c6fd59fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951602-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「ネットゲームのことで口論に」江口真先容疑者（21）が殺害ほのめかす　女子高校生の遺体を自宅クローゼットに放置　愛知・一宮市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21a872cee90d2ad3dbc062344cedf5476b51e1fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-34020388-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=16&cw=246&ch=246&exp=10800&fmt=webp> 「学んでないんですかねフジは」解説委員のハラスメントめぐる対応に元放送作家チクリ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951716-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「ネットゲームの知人に会う」クローゼットに16歳女子高校生遺体　オンラインゲーム起因の犯罪増加　被害の8割が小・中学生「心理的ハードルが低い」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/36652b9870b617f1fb77a978c4d816d060c72732b68014034e61387f36e2adc6.jpg> 首相 謝罪と反省繰り返した会見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534212>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/e255678f3a714322c8b61f9537b495168ee7e0225febf37d340bfcaec8d7855b.jpg> カルテル EUが車15社に制裁金
       </a>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/b9d2f105882b158a99c1905dde4b85e11dca7ed3ec0a787830758ebcafcb6d00.jpg> 電柱から変圧器落下か 作業員重体
+      <a href=https://news.yahoo.co.jp/pickup/6534226>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/c5e9cca712dff5806cb891b167ac4ec2fb60065971282818686cdceb6105ba58.jpg> 300kgの変圧器が落下 作業員死亡
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534221>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/505f591e2cbe9a24ae08a2bebec3900707ea23b7cae410e380681b08a64c0242.jpg> 10代女性タレント脅迫疑い 男逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/cf0364a8b9cf922b43ed5c93e1c992edb3f795c7c31dd5b165bf9bbe38692282.jpg> 「いつの間にか富裕層」増加 分析
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 15:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 16:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
