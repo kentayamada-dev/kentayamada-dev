@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e45dee047df0cb74b70488f4a982c83a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7ffb97a85db403dd1b0a2d73d946a96c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/609ff607b3c7fae065f9ad509562e9b47989aebb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00038658-famitsu-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=720&ch=720&exp=10800&fmt=webp> Nintendo Switch 2発売ソフト一覧。ローンチソフトから発売日未定ソフトまで、発表されたタイトルをこちらでチェック【Nintendo Direct】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00038658-famitsu-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=720&ch=720&exp=10800&fmt=webp> Nintendo Switch 2発売ソフト一覧。ローンチソフトから発売日未定ソフトまで、発表されたタイトルをこちらでチェック【Nintendo Direct】
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 01:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 01:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
