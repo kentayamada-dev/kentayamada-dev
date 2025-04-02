@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ed7c5c31ba05ec688d805f0f7c8f968b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d793f7aec14432550122738fd39583db.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30e944ae176af01b64d4152db7babc09389b3720>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ上昇に転じる、284ドル高＝ナスダックも高い（2日午後）
+      <a href=https://news.yahoo.co.jp/articles/52c01c857cfc051e829175b8f5760e12c5c1e36f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00038736-famitsu-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=548&cy=0&cw=707&ch=707&exp=10800&fmt=webp> 『ポケモンコロシアム』『ポケモンXD 闇の旋風ダーク・ルギア』などのゲームキューブタイトルがチラ見せ。Switch2向けのNintendo Switchオンライン＋追加パックの新特典でプレイ可能
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7f54f90657af0ea0198c22746a178ed3b6e60fbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90021894-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏が重視 “相互関税”とは…日本への影響は　発動前夜“トランプ関税”
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/45c8bd4ad36f5a751ddf46da89ed2e5b2325c170>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90021895-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「日本一体で支援を」緊急援助隊が現地に到着　ミャンマー大地震発生6日目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08c7a013980fa9b1967bf0c8c0f93d08a221cd9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00038734-famitsu-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=575&ch=575&exp=10800&fmt=webp> 【Switch 2】USBカメラやJoy-Con2、『マリオカート』で使えるハンドルなど周辺機器まとめ【値段・発売日・スペック】
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 02:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 03:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
