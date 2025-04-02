@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bbf8a4ab37f8cda0815ba7dab479653a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/504e76860dcd56f7636f8d828c9d26d7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9df78edcb7f724ce2ea5b63184ada43053d0402a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010007-goal-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 柏などで活躍のレアンドロ・ドミンゲス、41歳で逝去。精巣がんとの闘病の末
+      <a href=https://news.yahoo.co.jp/articles/473c33114c09b357e5d572eca5470df249383855>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-08323763-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> 「オンラインゲームで口論になり、包丁で刺した」　女子高校生の遺体を自宅クローゼットに遺棄か　愛知・一宮市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/205020566f2c7e6905c95f6f7305efcdc6c5b84e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-02421394-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フリーマンは前日に続きスタメン外れる　ドジャース打線は大谷を除き右打者を並べ昨季サイ・ヤング賞エース左腕と対戦
+      <a href=https://news.yahoo.co.jp/articles/57e6e685b7d0f7a123d14d4043183246f5fb983a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-21827542-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 被害のフジ元女性アナがコメント「初めて知った事実も多くやり切れない」報道キャスター・元編成幹部もハラスメント　多くの企業はCM放映再開に慎重【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ce0d0c8245b55aafcbe4b686726d2f62679ff2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90029505-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=391&ch=391&exp=10800&fmt=webp> 女子高校生の遺体が見つかった事件　逮捕された男「女性と口論になって複数回刺した」と供述
+      <a href=https://news.yahoo.co.jp/articles/d3dc24b53a5a219c08b79b93847b54da03b35057>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951588-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ政権「相互関税」詳細発表へ　「非関税障壁」で日本経済への影響も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9412e0fc378aebe583bdb60caee05588afdf8b79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010001-reutv-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税「解放の日」迫る、何が起こるのか？
+      <a href=https://news.yahoo.co.jp/articles/18bcf6eb208604dffc01f54262b5df22f8396fe4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 政府、ミャンマーに約9億円の無償資金協力
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd7c0105404c22fb0424c8cd5644a622416409f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000117-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=715&ch=715&exp=10800&fmt=webp> フィフィ　フジ・反町理キャスター、第三者委がハラスメント認定にひと言「他局はどうなんだろうね」
+      <a href=https://news.yahoo.co.jp/articles/26c97f5d1f35cfb87487b178a3d8bc32dd130d02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000016-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 森友関連文書、財務省が4日に開示へ　元職員の妻側に
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534199>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/b7b0d04eb0353cdd2ddae786c0f12dc0d85484b13dc54a81c7349adf5faf8dbb.jpg> ノースサファリ 運営の社長辞任
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534192>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/439fa241d50dc4842bf8432de28ac840b3d95b34ca68564aac5537667d6a41c3.jpg> 民間から佐賀県庁 転職者語る魅力
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534186>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 今夏もカメムシ発生増か 高温影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/9e3f08065437677aa199671636f3bbd72681f1c199ede41c088027068edc2699.jpg> 「Switch2」詳細発表へ 注目点は
+      <a href=https://news.yahoo.co.jp/pickup/6534200>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/6d89e0c6d0ab2307456ebf18b7aeda1cf550c4844f6ad6b9301ec4e12e6e2b47.jpg> ビッグマック何個分 鉄道運賃比較
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 11:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 12:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
