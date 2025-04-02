@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec187c5fddb6aafaca54350e1d12e996.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9e0f225d48e902e0aead1c89f302c9f7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37817429bcdcb76697dffcf4c5b5c9e5d62c2e68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 林官房長官「措置の見直し強く求めていく」　米が相互関税を発表へ
+      <a href=https://news.yahoo.co.jp/articles/3af0a0d9de3a2bb99fb562d0afd9f851ffa41880>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90039679-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京と愛知 接点は“ゲーム”…遺体で発見の女子高校生を「刺した」と供述 21歳男について知人「銃で争うゲーム好きだった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/887e91f4add89d16d18194be60fdca8c28e1a32b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-05198137-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> クローゼットに女子高校生遺体　逮捕の男「ゲームで口論になり包丁で刺した」
+      <a href=https://news.yahoo.co.jp/articles/37817429bcdcb76697dffcf4c5b5c9e5d62c2e68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 林官房長官「措置の見直し強く求めていく」　米が相互関税を発表へ
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/a9373fdf7dd5896f657b80b8becbd72b6ee181a1bf479213048a30e85f5df4d2.jpg> 4人やけどの作業事故 1人が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6534259>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/f88648e3c3678ab917c541ebd2c42b7cdbb0bef80cf3fcac96711450ce46f051.jpg> 16歳遺棄疑い ゲームでもめたと男
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 21:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 22:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
