@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c3bc9f0c3953316b4c0f301205bff83.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4f19ffee25d78c749597b3385ab45815.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1183b8b0be7cc8aca33318aaeeee84738d5f871e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000011-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 男の自室で女子高校生殺害か　遺体運んだ形跡なく
+      <a href=https://news.yahoo.co.jp/articles/175e29526e61372fd6863bb04b496443d5a075d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00062900-otakulab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> Switch 2、気になる「価格」「転売対策」どうなった？徹底した販売方針に日本ゲーマーから早くも高評価
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6d634aa788e3a8af15ce5cc42cd50c258b52976>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228250-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 約8年ぶり新機種「Nintendo Switch 2」6月5日発売 「マリオカート ワールド」の映像も公開
+      <a href=https://news.yahoo.co.jp/articles/4301d35b1d09f2cbe9817c61aeb46d4d19e69476>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-35231293-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=806&ch=806&exp=10800&fmt=webp> トランプ米大統領、相互関税導入を発表　自動車への２５％は３日発効
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/267ad780e5c704ef24da3671de04c347f90ade72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010000-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】滋賀県長浜市の住宅の冷凍庫から女性とみられる遺体が発見　男3人を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/85a3670820210095fd7018821caae9bd0d86ca84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-01729742-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 鈴木誠也、今季初の1試合2発　3号3ラン＆4号ソロ…驚異の4戦4発量産
       </a>
     </td>
   </tr>
@@ -378,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534265>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/6bf798f5e13adf4511dc292a3a1131ac9a7cb2a453093e9b01b8b19723d4a7d1.jpg> 旧安倍派議員 3日に処分が満了
+      <a href=https://news.yahoo.co.jp/pickup/6534276>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/1530946c60cc1cc7c1300088484ba9e8f5302c1f3f93f9c808da9533fea0bc23.jpg> 米相互関税発表 日本には24%追加
       </a>
     </td>
   </tr>
@@ -410,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/40f59f5f75a0db7f136423f452bed7bdea1ed93abac533a77441d1c11b0b74a8.jpg> 吉本所属6人書類送検へ 賭博疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534254>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/c21d4f08454359d5937a0a7c31068a7edc31b11eb175444930e940e268d31442.jpg> 迷惑行為の画像拡散 くら寿司声明
       </a>
@@ -426,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/4005c4362448c92e0360ae957ab783894a7c3b66d38d3a7bca725ab7618e3dab.jpg> 「マリオカート」新作を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534267>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/6b765e98478527cdfabe95868feeadca5aa4ca7cddba1e4d34212783ad9f1ddc.jpg> 広島二俣が交代「歯折れている」
+      <a href=https://news.yahoo.co.jp/pickup/6534278>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/a7ac832d63442a1695e2462afd55328a493924028f83d4e54ebc89d686413a85.jpg> 鈴木誠也 2打席連続ホームラン
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 05:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 06:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
