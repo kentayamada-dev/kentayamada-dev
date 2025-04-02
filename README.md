@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7ffb97a85db403dd1b0a2d73d946a96c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/873a8ace378cc4841b7e4f005cf8261a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/609ff607b3c7fae065f9ad509562e9b47989aebb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00038658-famitsu-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=720&ch=720&exp=10800&fmt=webp> Nintendo Switch 2発売ソフト一覧。ローンチソフトから発売日未定ソフトまで、発表されたタイトルをこちらでチェック【Nintendo Direct】
+      <a href=https://news.yahoo.co.jp/articles/f92cfdeef7f473f32cb60a5fe8b04425c8692ebf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000003-gamespav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=450&ch=450&exp=10800&fmt=webp> ニンテンドースイッチ2版『サイバーパンク2077 アルティメットエディション』発表！本体と同日発売決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/798f2c321b0ac1c9806f31c0a37c80564ac50e1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-05473475-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 女子高校生遺体遺棄　遺体に十数か所の刺し傷　愛知・一宮市
       </a>
     </td>
   </tr>
@@ -367,30 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/094c57ced5b8678a22cf3dd24707ff587b85e952>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90021957-kts-000-2-thumb.jpg?exp=10800&fmt=webp> 大隅半島東方沖震源　Ｍ６．０の地震　大隅で震度４
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84d08ab213d3f3235d5b4941ba408892f0383952>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00050141-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=413&ch=413&exp=10800&fmt=webp> ミャンマー地震、内戦が救援活動の足かせに…停戦発表も戦闘停止見通せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20f5e67179c85aaa74e657a52504384b06d13da9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ続落、165ドル安＝ナスダックも安い（2日午前）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59dd16242fb11519b96e6a27cb78124984e21463>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-04021227-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 民放連がフジテレビに厳重注意　「人権意識向上の取り組みへの協力」などを要請
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 01:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 02:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
