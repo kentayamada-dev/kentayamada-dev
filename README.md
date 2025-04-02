@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea34e186ea16f1ff01fa2cf7122ccb4c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3afd01d738f0d7870ab7b13780820d3d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6f79e4920ef345a3bdab3661210861b9e379c5ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951716-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「ネットゲームの知人に会う」クローゼットに16歳女子高校生遺体　オンラインゲーム起因の犯罪増加　被害の8割が小・中学生「心理的ハードルが低い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f3bbc64ec054ad51f395c1ba9773b7995f5974fe>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=535&ch=535&exp=10800&fmt=webp> トランプ氏、相互関税を日本時間3日早朝発表　案に「最悪」と指摘も
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/da08fa9d02b29c0c3fd487c05fe209d6b042f0f1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000043-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ミャンマー地震で日本政府　約9億円の緊急無償資金協力
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03b95d54ecedc15af9d813da653bcf267986bf11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-10171619-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 「おどしじゃねぇぞ」10代女性タレントにSNSで脅迫し業務妨害か 24歳ファンの男逮捕
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/ca647fb9b81b1148e9b30fbc337ea4ab2a808255be0ec977f7443e280405d1ae.jpg> トヨタ 国内初のEV専用ライン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/b914d75558de52459fcec3a55933787851b33bc0a6bcd65c1a5de359f877b6a0.jpg> 電柱から変圧器落下か 作業員重体
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/b9d2f105882b158a99c1905dde4b85e11dca7ed3ec0a787830758ebcafcb6d00.jpg> 電柱から変圧器落下か 作業員重体
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/455c69d921713bf7b4acb3a6f38878873e16d6c380edf7408b9d08a136e5ee79.jpg> 入社式にきんに君 直筆サインに涙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534219>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/df3b78773baa366b6d5bd005cc84b9e36f1309536141197e847c786c9cd08e7a.jpg> 俳優ヴァル・キルマー氏死去 米紙
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 15:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 15:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
