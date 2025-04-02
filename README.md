@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9e0f225d48e902e0aead1c89f302c9f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f01c8d1ca8b38aefd7a911450e3b38d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/112ffd44c76ff45189a8edbe2bd20703068d69bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、149円台前半（2日朝）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/940dc300907baf39e991339e4182640eb2fdc2a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000422-spnannex-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=664&ch=664&exp=10800&fmt=webp> 任天堂「Switch2」6月5日に発売　新機能が続々　マリオカート新作などソフト情報も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3af0a0d9de3a2bb99fb562d0afd9f851ffa41880>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90039679-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京と愛知 接点は“ゲーム”…遺体で発見の女子高校生を「刺した」と供述 21歳男について知人「銃で争うゲーム好きだった」
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37817429bcdcb76697dffcf4c5b5c9e5d62c2e68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 林官房長官「措置の見直し強く求めていく」　米が相互関税を発表へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4607a88f610d69d4a56d977ab421bf32e1c054ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000025-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「ネトゲの知り合いに会いに行く」と家を出た女子高生が殺害…増える“オンラインゲームがきっかけの事件”に警察やゲーム会社も注意喚起
+      <a href=https://news.yahoo.co.jp/articles/bda819545a69ebe475f6e8053a229463cdc384eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000098-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 内戦で手薄な医療直撃　傷病者対応困難に　ミャンマー地震
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/231d4e0844d1e39932205e147c978ad6ff7fc39b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00050115-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 新浪剛史氏、フジ第三者委報告を評価「非常に明確」…サントリーＨＤとして「ＣＭ再開も検討」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8c97c667c881982ae502b71bd023a999dbd5eca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228195-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=716&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマーM7.7大地震で長さ400キロ以上にわたる断層の動き確認　最大6ｍのずれも　国土地理院
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534230>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/a4f933ebe6bf0f5d9597273889188d8d3f88416fda8dd46f97051a680ad91efe.jpg> 米新車販売数 関税にらみ日本車増
+      <a href=https://news.yahoo.co.jp/pickup/6534243>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/c1e48e4a0bda198f8764c40dee1bed8fc14a8f47eb6ba2027136028ec062f2d8.jpg> ミャンマー 断層が最大6mの横ずれ
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534258>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/3aa6e98cc7ed535330fbfdea7ab16a6f66da56b72aaff125c6dc6fe139879850.jpg> フジCM再開巡り同友会新浪氏言及
+      <a href=https://news.yahoo.co.jp/pickup/6534266>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/3e1fc524f891681b4208542f00c226db816d617e8a68b96d2e62fe68613503d2.jpg> 死を覚悟し買った山 今年も桜色に
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534255>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/6519dce33b5283a96a97de0b3fd1188fb5f6ff4b947b0be6b83abd5fe9ea5339.jpg> はやぶさ2が異常検知 詳細確認中
+      <a href=https://news.yahoo.co.jp/pickup/6534263>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/00f199a5ead14ac37520409b9ecc77eba5ff39f8937d981b000d9ad8024273ed.jpg> 「Switch2」詳細発表 SNSの反応
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534248>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/66b710f4dc17e427e9de9d0efc3f120161d0aa676f419ae9397d7343a8be5846.jpg> つば九郎へ 神宮に「2896」人文字
+      <a href=https://news.yahoo.co.jp/pickup/6534267>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/6b765e98478527cdfabe95868feeadca5aa4ca7cddba1e4d34212783ad9f1ddc.jpg> 広島二俣が交代「歯折れている」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 22:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 22:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
