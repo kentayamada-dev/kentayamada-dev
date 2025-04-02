@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/e-mliu9q5W4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/504e76860dcd56f7636f8d828c9d26d7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e177be1c4f01d2ad464bd307d2f16af3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/473c33114c09b357e5d572eca5470df249383855>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-08323763-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> 「オンラインゲームで口論になり、包丁で刺した」　女子高校生の遺体を自宅クローゼットに遺棄か　愛知・一宮市
+      <a href=https://news.yahoo.co.jp/articles/0acf1b2134a1fa2b0c38dcebab2578228f46691b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-34020380-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「信用はできないよ！」ITジャーナリスト警告　家族より信頼築きやすいネットゲームの“仲間”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/78790aaab84743b3db5e9d60a67ac5d75564510e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-34020349-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=1111&ch=1111&exp=10800&fmt=webp> 【ソフトバンク】近藤健介がヘルニア手術、競技復帰まで２～３カ月　3月31日に登録抹消
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/78ade34fd5e733fda6a5f9733d6bf2844fdc20e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> タイでも邦人1人負傷　日本政府、9億円支援　ミャンマー地震
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ac6732004358260375fa950de10cb83a27650a60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90021829-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “トランプ相互関税”秒読み　追加関税に上乗せか　専門家「日本は報復に出られない」
       </a>
     </td>
   </tr>
@@ -371,30 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3dc24b53a5a219c08b79b93847b54da03b35057>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951588-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ政権「相互関税」詳細発表へ　「非関税障壁」で日本経済への影響も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18bcf6eb208604dffc01f54262b5df22f8396fe4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 政府、ミャンマーに約9億円の無償資金協力
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26c97f5d1f35cfb87487b178a3d8bc32dd130d02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000016-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 森友関連文書、財務省が4日に開示へ　元職員の妻側に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534194>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 中国軍 台湾周辺で再び軍事演習
+      <a href=https://news.yahoo.co.jp/pickup/6534203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/8f78cb593e96012458c3d333a4569093b423973a764a5d1b45a7265f041dbc80.jpg> ミャンマー地震 邦人負傷者3人に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534193>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/b58ed5c53f1acc9c0812a40a6ab28fcae3e7af8e39b466d28a4b7d110b10d6d0.jpg> トランプ関税「解放の日」影響は
+      <a href=https://news.yahoo.co.jp/pickup/6534194>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 中国軍 台湾周辺で再び軍事演習
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 12:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 12:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
