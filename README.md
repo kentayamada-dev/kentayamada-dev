@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4f19ffee25d78c749597b3385ab45815.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1781600aa23b689e24e49cb735b223b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3fd31067156aa0671321a9ef73d5c07a78343acd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-04031037-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス鈴木誠也が今季初の２本塁打＆３安打の大暴れ　１試合５打点は渡米後自己最多
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/816ec2ba2cb54793bfb2d52a852fd1833ca68e3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-21830565-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 大隅半島東方沖で地震 鹿屋市などで最大震度2 津波の心配なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/28da69818c882c8ee32af445ec5a412c926cddfa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000024-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 日本の税率24％、トランプ大統領が「相互関税」発表　コメに言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/175e29526e61372fd6863bb04b496443d5a075d4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00062900-otakulab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> Switch 2、気になる「価格」「転売対策」どうなった？徹底した販売方針に日本ゲーマーから早くも高評価
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4301d35b1d09f2cbe9817c61aeb46d4d19e69476>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-35231293-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=806&ch=806&exp=10800&fmt=webp> トランプ米大統領、相互関税導入を発表　自動車への２５％は３日発効
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/267ad780e5c704ef24da3671de04c347f90ade72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010000-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】滋賀県長浜市の住宅の冷凍庫から女性とみられる遺体が発見　男3人を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85a3670820210095fd7018821caae9bd0d86ca84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-01729742-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 鈴木誠也、今季初の1試合2発　3号3ラン＆4号ソロ…驚異の4戦4発量産
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534274>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/e81586a39c611310e4af269355cf854fe44146863305e2853a14cd45169d5a68.jpg> ミャンマー軍政が一時停戦を発表
+      <a href=https://news.yahoo.co.jp/pickup/6534280>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ecb1a7239bbb0d4a83abcdd8a3126655e22d8381fa97524c2f13993e00ff88b4.jpg> ミャンマー地震 死者3000人超に
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534273>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/0910461564437a73cac04383fe839b856b878a898d87d99917e4ee5db1e46f3c.jpg> 「Switch2」価格は4万9980円
+      <a href=https://news.yahoo.co.jp/pickup/6534279>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ca0f75486902833aedf2ebdb02b2acb8c88db1796559aa645e130babd7e3238b.jpg> 転売対策? Switch2に国内専用機
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534278>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/a7ac832d63442a1695e2462afd55328a493924028f83d4e54ebc89d686413a85.jpg> 鈴木誠也 2打席連続ホームラン
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3c42e58ebc8b4ea9726521ca59005ffe4d1b1b031b287b8ee8f6b7028240b122.jpg> 鈴木誠也 2打席連続ホームラン
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 06:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 07:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
