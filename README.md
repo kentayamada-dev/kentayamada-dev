@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b09f9b557e5baf7f79cfd4ae61f92544.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b4ce0f4989e0b78ff975da7c9809e890.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e02fe067d6e298b84e8cdcc502fc1ef4403f28e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-01192588-sp_ctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ゲームで口論になり刺した」　女子高校生“クローゼット遺棄” 　男(21)との接点はオンラインゲーム　愛知・一宮市
+      <a href=https://news.yahoo.co.jp/articles/e31bf54d8e94874adfa5bab9f7fad4f299f935ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「オンラインゲーム巡り口論」　逮捕の男供述、女子高生遺体　愛知県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef2c62d5c2377a5b36cf13bcb64da712fde2aaae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951809-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「国民に寄り添った対応」求める…食料品などの値上げめぐり自民党・松山参院幹事長が石破首相に直談判
+      <a href=https://news.yahoo.co.jp/articles/d8c97c667c881982ae502b71bd023a999dbd5eca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228195-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=716&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー大地震　断層沿い400キロ以上にわたり、最大6ｍ、地面が水平方向にずれる地殻変動を確認　国土地理院
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc19b1952a5e136b1853e9dd7d01c3a33dd56012>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000071-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=794&ch=794&exp=10800&fmt=webp> 【フジテレビ問題】フジ社長、「当分の間、自社の役職員が民放連の理事、副会長、専門委員会委員長に就任することを自粛したい」民放連が了承
+      <a href=https://news.yahoo.co.jp/articles/b630cb33a6dc10c0800259f98b5dd6448385e170>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-21829861-tbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 【トランプ関税】経済への間接的な影響を懸念　専門家“景気悪化の可能性”を指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c00381a865bb16ad40d66f845cf3fa9f583d80bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー大地震　地殻変動は長さ400キロ　最大6メートルの“ずれ”確認　国土地理院
+      <a href=https://news.yahoo.co.jp/articles/311ed814292a1e28b367363596d71f73741452f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010021-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 民放連がフジテレビに厳重注意「人権意識に著しく欠けた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80e55c8fc1a5ba11e859fc7a87b0e734344d70ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00253466-sasahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ氏が仕掛ける関税政策は成功しない？　経済学者「アメリカの貿易赤字は、24年よりも拡大」指摘のワケ
+      <a href=https://news.yahoo.co.jp/articles/ed418a1686d50bddb02d77ee4d22dd26e57ad440>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90018523-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】歩行者の12歳男子中学生が軽自動車にはねられ意識不明の重体　運転の22歳女は現行犯逮捕
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534227>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/2fdbc758aba1175ffd21a07d26e26f79bb9f91526ab684ef3f28c2baa5d0a0a5.jpg> 日米過去にCIA東京支局の公表反対
+      <a href=https://news.yahoo.co.jp/pickup/6534239>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/6111fec111a9d8c73797ec1e9b8c7ec9c931e4cd6b323ebe2dc176a23855b492.jpg> 不登校生包む「自由すぎる」学校
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534226>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/c5e9cca712dff5806cb891b167ac4ec2fb60065971282818686cdceb6105ba58.jpg> 300kgの変圧器が落下 作業員死亡
+      <a href=https://news.yahoo.co.jp/pickup/6534234>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/08db20489821df5ba57f960e5b6d442556f3f8f5f8bcc691e7e5961dce191f8c.jpg> 消える私立短大 45校が募集停止へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/f0c54e7e51f90e59220f5ae62dc23e2ce6f28418d100b43f2c2e1dbc322b15dc.jpg> 車にはねられ12歳が意識不明 兵庫
       </a>
     </td>
   </tr>
@@ -428,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534240>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/582e7aff5e53d1d7132e35b18fde7ae74737558ff27c3928a7c6cb262537209b.jpg> 17歳殺害事件25年 父「自首して」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534238>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/a198ded9404448a48cf694f463f2013efbcf829e7b48bb883bf87e113c5d7106.jpg> 写ルンです 富士フが約44%値上げ
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534236>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/1db848dd4b5d9a6d583d67a0badc25eb6d6c823e760e5aa43838032bd38f0d1a.jpg> トップガン公式 キルマー氏を追悼
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/455c69d921713bf7b4acb3a6f38878873e16d6c380edf7408b9d08a136e5ee79.jpg> 入社式にきんに君 直筆サインに涙
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 18:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 18:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
