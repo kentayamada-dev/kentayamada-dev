@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f01c8d1ca8b38aefd7a911450e3b38d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24258758ca22862e8ec5cb61de9422fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/112ffd44c76ff45189a8edbe2bd20703068d69bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、149円台前半（2日朝）
+      <a href=https://news.yahoo.co.jp/articles/181f6d1560c3349ce8bc17d6275dd8f337d9f05b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000509-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 『カービィのエアライダー』発売決定　『エアライド』以来、22年ぶり新作【ニンダイ】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/940dc300907baf39e991339e4182640eb2fdc2a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000422-spnannex-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=664&ch=664&exp=10800&fmt=webp> 任天堂「Switch2」6月5日に発売　新機能が続々　マリオカート新作などソフト情報も
+      <a href=https://news.yahoo.co.jp/articles/112ffd44c76ff45189a8edbe2bd20703068d69bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、149円台前半（2日朝）
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534257>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/27a54b2926d5bc7c7652dd7181e13969d8366d5493fb71a54ef842afef18b2e8.jpg> KADOKAWA 育休社員同僚に手当
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534254>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/c21d4f08454359d5937a0a7c31068a7edc31b11eb175444930e940e268d31442.jpg> 迷惑行為の画像拡散 くら寿司声明
       </a>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/3a0174d3092601f041dafe5316f0213b3ced3c36c9ce46e5f90a88881589d8b8.jpg> 「マリオカート」新作を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534267>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/6b765e98478527cdfabe95868feeadca5aa4ca7cddba1e4d34212783ad9f1ddc.jpg> 広島二俣が交代「歯折れている」
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 22:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 23:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
