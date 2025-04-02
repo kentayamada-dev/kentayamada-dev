@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/065b602f032d0c49047cc5c34824da7f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8993adaaa64e27b9fd67c9938987721a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1baebca8847a8b3da5dd5d21bf1b68ec891d2eef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00125178-phileweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=648&ch=648&exp=10800&fmt=webp> 「Nintendo Switch 2」抽選販売の応募条件、「Switchソフトのプレイ時間が50時間以上」など
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dce0d5d3d04b917c7ecbf32f0d5f8d2360da11b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-21830405-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「1分ほどの横揺れが…」大隅半島東方沖で地震　鹿屋市などで最大震度4　鹿児島
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/20f5e67179c85aaa74e657a52504384b06d13da9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ続落、165ドル安＝ナスダックも安い（2日午前）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a3f66f46d13c35655c764ed17224cdad1fc8f76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000193-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 6月5日発売の任天堂「スイッチ2」の価格は4万9980円、画面サイズ7・9インチに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0ebb2f358285f8d7d0075a1cf34e1ef6c3b02aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000056-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 宮崎市や鹿児島県鹿屋市などで震度４　津波の心配はなし　気象庁
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534269>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/9c9d33dcd5f054800382e0314db55bf175de28a7740769bdddf8c9dfc7c4b473.jpg> テスラ EV販売台数が13%減
+      <a href=https://news.yahoo.co.jp/pickup/6534259>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/f88648e3c3678ab917c541ebd2c42b7cdbb0bef80cf3fcac96711450ce46f051.jpg> 16歳遺棄疑い ゲームでもめたと男
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/00f199a5ead14ac37520409b9ecc77eba5ff39f8937d981b000d9ad8024273ed.jpg> 「Switch2」詳細発表 SNSの反応
+      <a href=https://news.yahoo.co.jp/pickup/6534273>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/0910461564437a73cac04383fe839b856b878a898d87d99917e4ee5db1e46f3c.jpg> 「Switch2」価格は4万9980円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534273>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/0910461564437a73cac04383fe839b856b878a898d87d99917e4ee5db1e46f3c.jpg> 「Switch2」価格は4万9980円
+      <a href=https://news.yahoo.co.jp/pickup/6534268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/4005c4362448c92e0360ae957ab783894a7c3b66d38d3a7bca725ab7618e3dab.jpg> 「マリオカート」新作を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 23:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 23:52:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
