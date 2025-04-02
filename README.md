@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/24258758ca22862e8ec5cb61de9422fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/065b602f032d0c49047cc5c34824da7f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/181f6d1560c3349ce8bc17d6275dd8f337d9f05b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000509-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=551&ch=551&exp=10800&fmt=webp> 『カービィのエアライダー』発売決定　『エアライド』以来、22年ぶり新作【ニンダイ】
+      <a href=https://news.yahoo.co.jp/articles/20f5e67179c85aaa74e657a52504384b06d13da9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ続落、165ドル安＝ナスダックも安い（2日午前）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/112ffd44c76ff45189a8edbe2bd20703068d69bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、149円台前半（2日朝）
+      <a href=https://news.yahoo.co.jp/articles/6a3f66f46d13c35655c764ed17224cdad1fc8f76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000193-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 6月5日発売の任天堂「スイッチ2」の価格は4万9980円、画面サイズ7・9インチに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3af0a0d9de3a2bb99fb562d0afd9f851ffa41880>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90039679-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京と愛知 接点は“ゲーム”…遺体で発見の女子高校生を「刺した」と供述 21歳男について知人「銃で争うゲーム好きだった」
+      <a href=https://news.yahoo.co.jp/articles/e0ebb2f358285f8d7d0075a1cf34e1ef6c3b02aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000056-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 宮崎市や鹿児島県鹿屋市などで震度４　津波の心配はなし　気象庁
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534253>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/86053e16c0bc962d969ed5203af7c7119a916e0875f738bec612897fdc898073.jpg> 「トランプ流」共和党からも異論
+      <a href=https://news.yahoo.co.jp/pickup/6534271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/cfbe8518d3e800e656a0adec03465f70fc8b1d1b09911ba6de1c34dd4f3be621.jpg> 宮崎と鹿児島で震度4 津波なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534265>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/6bf798f5e13adf4511dc292a3a1131ac9a7cb2a453093e9b01b8b19723d4a7d1.jpg> 旧安倍派議員 3日に処分が満了
       </a>
     </td>
   </tr>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/f88648e3c3678ab917c541ebd2c42b7cdbb0bef80cf3fcac96711450ce46f051.jpg> 16歳遺棄疑い ゲームでもめたと男
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/3e1fc524f891681b4208542f00c226db816d617e8a68b96d2e62fe68613503d2.jpg> 死を覚悟し買った山 今年も桜色に
+      <a href=https://news.yahoo.co.jp/pickup/6534269>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/9c9d33dcd5f054800382e0314db55bf175de28a7740769bdddf8c9dfc7c4b473.jpg> テスラ EV販売台数が13%減
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/3a0174d3092601f041dafe5316f0213b3ced3c36c9ce46e5f90a88881589d8b8.jpg> 「マリオカート」新作を発表
+      <a href=https://news.yahoo.co.jp/pickup/6534273>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/0910461564437a73cac04383fe839b856b878a898d87d99917e4ee5db1e46f3c.jpg> 「Switch2」価格は4万9980円
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 23:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 23:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
