@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b7b200015f5d19398da26119a2a8b13.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f4f54e069e1ef38bf620d938beaa8e64.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/542173a759287e647862847c8bf0b6a41412710b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90029513-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 女子高校生の遺体を遺棄したとして逮捕された男　事件後にDM、生きてるようにに見せかけか
+      <a href=https://news.yahoo.co.jp/articles/daa978eed9dbd971df973a9e8c4daa71c6cb0a77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000123-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=523&cy=0&cw=1677&ch=1677&exp=10800&fmt=webp> 米俳優バル・キルマーさん死去　「トップガン」のアイスマン役
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b02fb159c3bea56b45cbbce4b2a3b159cc89d0f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 民放連、フジを厳重注意　遠藤龍之介氏、会長辞任
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c00381a865bb16ad40d66f845cf3fa9f583d80bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー大地震　地殻変動は長さ400キロ　最大6メートルの“ずれ”確認　国土地理院
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/32a486e68b0cefb1e184986b8ad8ea6e96d5e8b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000121-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=98&cw=1530&ch=1530&exp=10800&fmt=webp> 死亡女子高校生装い、発覚逃れか　成り済ましてメッセージを送信
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/80e55c8fc1a5ba11e859fc7a87b0e734344d70ac>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00253466-sasahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ氏が仕掛ける関税政策は成功しない？　経済学者「アメリカの貿易赤字は、24年よりも拡大」指摘のワケ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/431e01e018a20db97c25a47343e8d79ba2919a85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000035-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【フジテレビ問題】中居正広「性暴力」認定の第三者委報告書に記された“セクハラキャスター”と元秘書室長の“悪質さ”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/faa84f105a0f90fa11d9c081b20a63225d661ca6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000037-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米俳優ヴァル・キルマーさん死去　65歳、映画「トップガン」に出演
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54b3d86ac513eaf554a7f4a9eb9d17418458ea2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本救助隊、ミャンマー入り　武装勢力は1カ月停戦
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534205>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/85846ab836bf5104d5a596176ef0deacbf40c4d61f9840402da4cba8ab07a185.jpg> 米安保補佐官が公務でGmail 米紙
+      <a href=https://news.yahoo.co.jp/pickup/6534227>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/2fdbc758aba1175ffd21a07d26e26f79bb9f91526ab684ef3f28c2baa5d0a0a5.jpg> 日米過去にCIA東京支局の公表反対
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534231>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/2ae40df1c6a6edf0d05cb013a6d90914d2b79a96dc01c8372629117b11d51e04.jpg> 民放連 遠藤会長の辞任を発表
+      <a href=https://news.yahoo.co.jp/pickup/6534235>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/2996aacf3f2f741f8b22adb2a4c2a9cc7830543dee59678a90c02743956c26ca.jpg> フジテレビに厳重注意 民放連
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/1db848dd4b5d9a6d583d67a0badc25eb6d6c823e760e5aa43838032bd38f0d1a.jpg> トップガン公式 キルマー氏を追悼
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/df3b78773baa366b6d5bd005cc84b9e36f1309536141197e847c786c9cd08e7a.jpg> 俳優ヴァル・キルマー氏死去 米紙
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 17:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 17:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
