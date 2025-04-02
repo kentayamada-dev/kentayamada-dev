@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6eabb3ded5295042d6be479148f92be2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bbf8a4ab37f8cda0815ba7dab479653a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9412e0fc378aebe583bdb60caee05588afdf8b79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010001-reutv-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税「解放の日」迫る、何が起こるのか？
+      <a href=https://news.yahoo.co.jp/articles/9df78edcb7f724ce2ea5b63184ada43053d0402a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010007-goal-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 柏などで活躍のレアンドロ・ドミンゲス、41歳で逝去。精巣がんとの闘病の末
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11351014eabc4ab7bcc6e88621c07e7b8001c2f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000036-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1518&ch=1518&exp=10800&fmt=webp> 遺体背部に刺し傷十数カ所、愛知　女子高生執拗に襲ったか、男送検
+      <a href=https://news.yahoo.co.jp/articles/205020566f2c7e6905c95f6f7305efcdc6c5b84e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-02421394-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フリーマンは前日に続きスタメン外れる　ドジャース打線は大谷を除き右打者を並べ昨季サイ・ヤング賞エース左腕と対戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0ce0d0c8245b55aafcbe4b686726d2f62679ff2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90029505-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=391&ch=391&exp=10800&fmt=webp> 女子高校生の遺体が見つかった事件　逮捕された男「女性と口論になって複数回刺した」と供述
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9412e0fc378aebe583bdb60caee05588afdf8b79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010001-reutv-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税「解放の日」迫る、何が起こるのか？
       </a>
     </td>
   </tr>
@@ -386,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534194>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 中国軍 台湾周辺で再び軍事演習
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534193>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/b58ed5c53f1acc9c0812a40a6ab28fcae3e7af8e39b466d28a4b7d110b10d6d0.jpg> トランプ関税「解放の日」影響は
       </a>
@@ -394,32 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534183>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/c7510d32e3dde7fd40ed653d1974c8162201ade94039dda2534a105a0d7bf9bd.jpg> 公取委「対GAFA」の新部署発足
+      <a href=https://news.yahoo.co.jp/pickup/6534202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/9918610b27a9a20488eeb043c5f2926cb624dd84d9382b554d84ca315fe1b86e.jpg> 誤って拳銃持ち入国 検査すり抜け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/9f1b14d273a57dfa54766efb364551903c8853ab401c4037f16e33b5b6528b7d.jpg> ミャンマー 軍政に募る不満と怒り
+      <a href=https://news.yahoo.co.jp/pickup/6534192>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/439fa241d50dc4842bf8432de28ac840b3d95b34ca68564aac5537667d6a41c3.jpg> 民間から佐賀県庁 転職者語る魅力
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/be8638e7a22dc7cefa800581242e6c0890f9e58b4df3570a1a5a866dfcf48dca.jpg> メルセデス 安価モデル米撤退検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534189>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/14f712eb9b96925e11c76a8b273305e7d35deeb53b1db30eccb1cdac4bc642c9.jpg> 米保険CEO殺害事件 死刑求刑へ
+      <a href=https://news.yahoo.co.jp/pickup/6534186>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 今夏もカメムシ発生増か 高温影響
       </a>
     </td>
   </tr>
@@ -434,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/18957f95ee2179d786cee09e0b8c13f28315bfe18cf2f11a61f2534ce55f6f6b.jpg> フグ肝臓 鮮魚店から客が持ち帰る
+      <a href=https://news.yahoo.co.jp/pickup/6534201>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/7b4fbb4137d3a9e1507c83e6d769153455fbc7e8fc768b674bc4de6cf2424532.jpg> 2011年JでMVP レアンドロ氏死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/a339aae38202f477e149160b16489c00ddc62acaa023cacbc46db7da90fe19c3.jpg> プレミアL 半自動オフサイド導入
+      <a href=https://news.yahoo.co.jp/pickup/6534195>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/24fc57c4f4dfe56073650ac8233de5fe11dccda99d2ba28d083c5ccc03aa5182.jpg> 朝比奈彩 第2子妊娠を報告
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 10:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 11:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
