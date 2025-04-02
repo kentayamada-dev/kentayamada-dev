@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a883ec8a68915ac4a2f3518a2809280.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ca13144dab3ce1402c39d87ad07f06ab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e6855808943f048b5a06bf4f59f526ac040f80fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000132-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> カブス・鈴木誠也　2試合連発の3号3ラン＆2打席連発の4号ソロ　好調持続で量産態勢に突入
+      <a href=https://news.yahoo.co.jp/articles/ada0526992fb1a09ceb1efeb9c5813050f1fd17a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000007-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> トランプ発関税で「貿易世界大戦」…韓国、「半導体・自動車」直撃弾を憂慮
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d006e68b0f41fa14a49da64ea0a986228dc31dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏が「相互関税」発表、日本には24％　市場が閉鎖的　世界経済への打撃懸念
+      <a href=https://news.yahoo.co.jp/articles/24bbac6997c8f3019aa1ed059ac1f274e1409fa5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000010-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ミャンマー軍事政権が停戦発表　地震で22日まで　死者3000人超
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2c7aefb58e8e7ce9a1b107b2660d3bd99a26e9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ミャンマー大地震で地表に最大6mのずれ、断層破壊は400Km以上　国土地理院解析
+      <a href=https://news.yahoo.co.jp/articles/816ec2ba2cb54793bfb2d52a852fd1833ca68e3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-21830565-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 大隅半島東方沖で地震 鹿屋市などで最大震度2 津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/816ec2ba2cb54793bfb2d52a852fd1833ca68e3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-21830565-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 大隅半島東方沖で地震 鹿屋市などで最大震度2 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/c9b2fa5a5837d2ab547e121829f34c4ff3d3ad9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> アマゾンもTikTok買収提案　土壇場で滑り込み　米紙
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0a123f4914523eeed1e76f2a4ebb078381f5b23f3a6aa88238dc885418f07636.jpg> マスク氏退任に米大統領同意 報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534247>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/996787c7047d23f163538e1c3b8a697240604b6c4ac903bb755863898f082eca.jpg> 自爆型の攻撃用無人機 陸自初導入
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/f88648e3c3678ab917c541ebd2c42b7cdbb0bef80cf3fcac96711450ce46f051.jpg> 16歳遺棄疑い ゲームでもめたと男
+      <a href=https://news.yahoo.co.jp/pickup/6534281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0a123f4914523eeed1e76f2a4ebb078381f5b23f3a6aa88238dc885418f07636.jpg> マスク氏退任に米大統領同意 報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534284>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/830e4d419a8dbda93e62a332ec39f16a8d7699f7d2f4b26206a07d6c6171cee0.jpg> 冷凍庫に死体遺棄疑い 男3人逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 07:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 08:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
