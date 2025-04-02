@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f1ea23992ae0098f41f716b570a9eb3e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b7b200015f5d19398da26119a2a8b13.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/542173a759287e647862847c8bf0b6a41412710b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90029513-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 女子高校生の遺体を遺棄したとして逮捕された男　事件後にDM、生きてるようにに見せかけか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/80e55c8fc1a5ba11e859fc7a87b0e734344d70ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00253466-sasahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ氏が仕掛ける関税政策は成功しない？　経済学者「アメリカの貿易赤字は、24年よりも拡大」指摘のワケ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/431e01e018a20db97c25a47343e8d79ba2919a85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000035-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【フジテレビ問題】中居正広「性暴力」認定の第三者委報告書に記された“セクハラキャスター”と元秘書室長の“悪質さ”
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000035-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【フジテレビ問題】中居正広「性暴力」認定の第三者委報告書に記された“セクハラキャスター”と元秘書室長の“悪質さ”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75070677fbb550b4dccd551519ad6b788e1bafea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951776-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 300kgの変圧器が頭に直撃…54歳作業員死亡　電柱取り付けのためクレーンで持ち上げられていたものが落下　東京・文京区
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6be8518d71bd3edcbff1d41a0a20cd860ae317fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000005-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《16歳女子高生の遺体を隠し…》「6人家族だけど、共働きのご両親が不在がちで…」江口真先容疑者（21）が実家クローゼットに死体を遺棄できた理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fb43d1cc1486d26e220c43876d7370545ac5ed1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000056-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ氏、相互関税発表　3日早朝演説で　複数案浮上、日本への対応焦点
+      <a href=https://news.yahoo.co.jp/articles/faa84f105a0f90fa11d9c081b20a63225d661ca6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000037-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米俳優ヴァル・キルマーさん死去　65歳、映画「トップガン」に出演
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534222>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/ba2e66d34b29bbb83d4f9770a77ca635579cb236b4757df9aa68ce679cdd45b5.jpg> ミャンマーに約9億円の資金協力へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534205>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/85846ab836bf5104d5a596176ef0deacbf40c4d61f9840402da4cba8ab07a185.jpg> 米安保補佐官が公務でGmail 米紙
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/505f591e2cbe9a24ae08a2bebec3900707ea23b7cae410e380681b08a64c0242.jpg> 10代女性タレント脅迫疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6534233>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/c7d4b34708d0dc8b82e86c35e7aa4856792648df52ed48ecf41d53203afbe2ed.jpg> 血を流した高齢女性死亡 息子逮捕
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534215>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/1b5bce352214f5cd61cdcb7a5a8336745e4c1de289c3dcda1298dbc812be02d7.jpg> 転勤NG広がる 最大100万円手当も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534231>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/2ae40df1c6a6edf0d05cb013a6d90914d2b79a96dc01c8372629117b11d51e04.jpg> 民放連 遠藤会長の辞任を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 16:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 17:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
