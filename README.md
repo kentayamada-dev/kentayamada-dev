@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f51a086460fff0e57f8c448371edd2e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7ff77181ffc5c35bb36281cf15214a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b20446845d82bf0a4a5ba83e099be3484d4eea9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228047-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> クローゼットの遺体 行方不明の16歳女子高校生と判明　逮捕の男「トラブルになって複数刺した」　愛知・一宮市
+      <a href=https://news.yahoo.co.jp/articles/dd7c0105404c22fb0424c8cd5644a622416409f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000117-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=715&ch=715&exp=10800&fmt=webp> フィフィ　フジ・反町理キャスター、第三者委がハラスメント認定にひと言「他局はどうなんだろうね」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/23b1278c1076c13f7e2fb073d8924ce015a5d0bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951548-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【判明】“クローゼット遺体”は都内在住の女子高校生・加藤和華さん（16）「ゲームで知り合った男性に会う」と行方不明に…死体遺棄容疑で21歳男逮捕　愛知
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/113546ee061da3dbd8a61ffe80f599d64cb2f33771075581a46c89179b52824b.jpg> 16歳遺棄 死因は出血性ショック
+      <a href=https://news.yahoo.co.jp/pickup/6534182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/be8638e7a22dc7cefa800581242e6c0890f9e58b4df3570a1a5a866dfcf48dca.jpg> メルセデス 安価モデル米撤退検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/62b01021882964903b04ae1163405185c7b1bba533d958c3395d194aefe340f8.jpg> 備蓄米の納入巡り違約金 転売否定
+      <a href=https://news.yahoo.co.jp/pickup/6534177>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/113546ee061da3dbd8a61ffe80f599d64cb2f33771075581a46c89179b52824b.jpg> 16歳遺棄 死因は出血性ショック
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 08:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 09:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
