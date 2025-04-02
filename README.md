@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/968e4b0706cca7c1272754fc8c478e68.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7c3bc9f0c3953316b4c0f301205bff83.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6d634aa788e3a8af15ce5cc42cd50c258b52976>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228250-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 約8年ぶり新機種「Nintendo Switch 2」6月5日発売 「マリオカート ワールド」の映像も公開
+      <a href=https://news.yahoo.co.jp/articles/1183b8b0be7cc8aca33318aaeeee84738d5f871e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000011-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 男の自室で女子高校生殺害か　遺体運んだ形跡なく
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/798f2c321b0ac1c9806f31c0a37c80564ac50e1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-05473475-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 女子高校生遺体遺棄　遺体に十数か所の刺し傷　愛知・一宮市
+      <a href=https://news.yahoo.co.jp/articles/b6d634aa788e3a8af15ce5cc42cd50c258b52976>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228250-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 約8年ぶり新機種「Nintendo Switch 2」6月5日発売 「マリオカート ワールド」の映像も公開
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 05:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 05:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
