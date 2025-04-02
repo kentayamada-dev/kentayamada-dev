@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8993adaaa64e27b9fd67c9938987721a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/779f6898f0d6b05983403d4a8f555790.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1baebca8847a8b3da5dd5d21bf1b68ec891d2eef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00125178-phileweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=648&ch=648&exp=10800&fmt=webp> 「Nintendo Switch 2」抽選販売の応募条件、「Switchソフトのプレイ時間が50時間以上」など
+      <a href=https://news.yahoo.co.jp/articles/094c57ced5b8678a22cf3dd24707ff587b85e952>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90021957-kts-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 大隅半島東方沖震源　Ｍ６．０の地震　大隅で震度４
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dce0d5d3d04b917c7ecbf32f0d5f8d2360da11b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-21830405-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「1分ほどの横揺れが…」大隅半島東方沖で地震　鹿屋市などで最大震度4　鹿児島
+      <a href=https://news.yahoo.co.jp/articles/39a9d20f14d290728710d0913fe3c2a3a11bc548>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000055-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=442&ch=442&exp=10800&fmt=webp> 「Nintendo Switch 2」は転売を絶対許さない？　日本では国内専用機を提供　抽選販売にも参加条件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c61674e8b7e98a8e638baaedb578aa83fc7b3d7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 経済同友会代表幹事「フジCM出稿再開を検討すべき段階」
       </a>
     </td>
   </tr>
@@ -387,27 +395,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/231d4e0844d1e39932205e147c978ad6ff7fc39b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00050115-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 新浪剛史氏、フジ第三者委報告を評価「非常に明確」…サントリーＨＤとして「ＣＭ再開も検討」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/cfbe8518d3e800e656a0adec03465f70fc8b1d1b09911ba6de1c34dd4f3be621.jpg> 宮崎と鹿児島で震度4 津波なし
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534265>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534243>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/c1e48e4a0bda198f8764c40dee1bed8fc14a8f47eb6ba2027136028ec062f2d8.jpg> ミャンマー 断層が最大6mの横ずれ
+      <a href=https://news.yahoo.co.jp/pickup/6534274>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/e81586a39c611310e4af269355cf854fe44146863305e2853a14cd45169d5a68.jpg> ミャンマー軍政が一時停戦を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534247>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/996787c7047d23f163538e1c3b8a697240604b6c4ac903bb755863898f082eca.jpg> 自爆型の攻撃用無人機 陸自初導入
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 23:52:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 00:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
