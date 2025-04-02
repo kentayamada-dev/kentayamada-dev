@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/896dbae97ca08c9fb5b4bdbf96d8b406.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea34e186ea16f1ff01fa2cf7122ccb4c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f3bbc64ec054ad51f395c1ba9773b7995f5974fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=535&ch=535&exp=10800&fmt=webp> トランプ氏、相互関税を日本時間3日早朝発表　案に「最悪」と指摘も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/da08fa9d02b29c0c3fd487c05fe209d6b042f0f1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000043-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ミャンマー地震で日本政府　約9億円の緊急無償資金協力
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/03b95d54ecedc15af9d813da653bcf267986bf11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-10171619-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 「おどしじゃねぇぞ」10代女性タレントにSNSで脅迫し業務妨害か 24歳ファンの男逮捕
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-10171619-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 「おどしじゃねぇぞ」10代女性タレントにSNSで脅迫し業務妨害か 24歳ファンの男逮捕
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac6732004358260375fa950de10cb83a27650a60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90021829-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “トランプ相互関税”秒読み　追加関税に上乗せか　専門家「日本は報復に出られない」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/8c46956c25378fafc2439c36c954ab6e63d19b82c83e57c2d28ef9df44636bd1.jpg> 森友文書 財務省が遺族に4日開示
+      <a href=https://news.yahoo.co.jp/pickup/6534222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/ba2e66d34b29bbb83d4f9770a77ca635579cb236b4757df9aa68ce679cdd45b5.jpg> ミャンマーに約9億円の資金協力へ
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/505f591e2cbe9a24ae08a2bebec3900707ea23b7cae410e380681b08a64c0242.jpg> 10代女性タレント脅迫疑い 男逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534209>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/cf0364a8b9cf922b43ed5c93e1c992edb3f795c7c31dd5b165bf9bbe38692282.jpg> 「いつの間にか富裕層」増加 分析
       </a>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/7a2a0134fccaa392b42f4dbfc123fdac5ef88e576046b917adfff5a22d905f77.jpg> SB近藤健介 腰の手術が無事終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534219>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/df3b78773baa366b6d5bd005cc84b9e36f1309536141197e847c786c9cd08e7a.jpg> 俳優ヴァル・キルマー氏死去 米紙
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 14:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 15:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
