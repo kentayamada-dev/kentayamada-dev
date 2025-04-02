@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b4ce0f4989e0b78ff975da7c9809e890.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a6a084227e973695846ae52204f3b99b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e31bf54d8e94874adfa5bab9f7fad4f299f935ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「オンラインゲーム巡り口論」　逮捕の男供述、女子高生遺体　愛知県警
+      <a href=https://news.yahoo.co.jp/articles/9e6950b1dcd72ec23eebcf6b9d31b7012630780f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90006872-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> 「女性と口論になり複数回刺した」　女子高生の遺体には後頭部や背中などに多数の刺し傷　愛知・一宮市　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ccf4bdf5dd45b2350b858f4776e69fd6295176c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-03376283-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 3日から自動車関税発動へ　日本車に“駆け込み需要”　アメリカでも混乱が…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c80691a939a7fb51ad6c7d2f2b152607c7f9999f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000068-ann-000-2-thumb.jpg?exp=10800&fmt=webp> フジCM再開「今後検討」サントリー新浪会長が言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ea8d710c89f227b46dfc5b6e556e0cfa65cb70dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00339656-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 【フィギュア】世界選手権銅・千葉百音は先輩から進化のヒントを吸収「立ち振る舞いを学びたい」
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d8c97c667c881982ae502b71bd023a999dbd5eca>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228195-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=716&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー大地震　断層沿い400キロ以上にわたり、最大6ｍ、地面が水平方向にずれる地殻変動を確認　国土地理院
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b630cb33a6dc10c0800259f98b5dd6448385e170>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-21829861-tbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 【トランプ関税】経済への間接的な影響を懸念　専門家“景気悪化の可能性”を指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/311ed814292a1e28b367363596d71f73741452f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010021-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 民放連がフジテレビに厳重注意「人権意識に著しく欠けた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed418a1686d50bddb02d77ee4d22dd26e57ad440>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-90018523-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】歩行者の12歳男子中学生が軽自動車にはねられ意識不明の重体　運転の22歳女は現行犯逮捕
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/582e7aff5e53d1d7132e35b18fde7ae74737558ff27c3928a7c6cb262537209b.jpg> 17歳殺害事件25年 父「自首して」
+      <a href=https://news.yahoo.co.jp/pickup/6534229>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/9e33eba33f9cacecd59c8aa84997327a31a1e6200bf2c5285b6dc6c2341ca2bb.jpg> 米国産とのブレンド米発売 イオン
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 18:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 19:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
