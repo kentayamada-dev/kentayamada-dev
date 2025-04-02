@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b7486f32c4b5b12c9235cc9b174c685c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94e885da734fbe8da917831ac6870b90.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/027b1bf7ff6d27c22ed4348ca11bd83291bd8266>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010012-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=460&ch=460&exp=10800&fmt=webp> ミャンマー地震めぐり日本政府 約9億円の緊急無償支援協力
+      <a href=https://news.yahoo.co.jp/articles/9c02a7d128ca96ccf5bf5ba864bc1c8606c80fb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00050078-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 大谷翔平３試合ぶり安打…ドジャース開幕７連勝、前年ＷＳ覇者では９２年ぶり２チーム目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee335306241f0291a5b567b6da5bd9e057dcfa7e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228084-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中国軍がきょうも台湾周辺で軍事演習　中国国営テレビ、頼清徳総統を名指しし「独立を謀る言動への反撃だ」とけん制
+      <a href=https://news.yahoo.co.jp/articles/027b1bf7ff6d27c22ed4348ca11bd83291bd8266>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010012-annd-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=460&ch=460&exp=10800&fmt=webp> ミャンマー地震めぐり日本政府 約9億円の緊急無償資金協力
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534203>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/8f78cb593e96012458c3d333a4569093b423973a764a5d1b45a7265f041dbc80.jpg> ミャンマー地震 邦人負傷者3人に
+      <a href=https://news.yahoo.co.jp/pickup/6534212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/e255678f3a714322c8b61f9537b495168ee7e0225febf37d340bfcaec8d7855b.jpg> カルテル EUが車15社に制裁金
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/9918610b27a9a20488eeb043c5f2926cb624dd84d9382b554d84ca315fe1b86e.jpg> 誤って拳銃持ち入国 検査すり抜け
+      <a href=https://news.yahoo.co.jp/pickup/6534216>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/b914d75558de52459fcec3a55933787851b33bc0a6bcd65c1a5de359f877b6a0.jpg> 電柱から変圧器落下か 作業員重体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534199>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/b7b0d04eb0353cdd2ddae786c0f12dc0d85484b13dc54a81c7349adf5faf8dbb.jpg> ノースサファリ 運営の社長辞任
+      <a href=https://news.yahoo.co.jp/pickup/6534202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/9918610b27a9a20488eeb043c5f2926cb624dd84d9382b554d84ca315fe1b86e.jpg> 誤って拳銃持ち入国 検査すり抜け
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534207>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/11a4decfc67dfca33d4c026004fe001e8ea6c9b8151bf33cf20d048ee940859b.jpg> 鈴木誠也2号 136m特大アーチ
+      <a href=https://news.yahoo.co.jp/pickup/6534217>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/29f3358627a4f6284c4c4a42f3047e031053264a3d3b58ed4fb8add56140cfef.jpg> ドジャース 歴史的な開幕7連勝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/7b4fbb4137d3a9e1507c83e6d769153455fbc7e8fc768b674bc4de6cf2424532.jpg> 2011年JでMVP レアンドロ氏死去
+      <a href=https://news.yahoo.co.jp/pickup/6534208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/7a2a0134fccaa392b42f4dbfc123fdac5ef88e576046b917adfff5a22d905f77.jpg> SB近藤健介 腰の手術が無事終了
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 13:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 14:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
