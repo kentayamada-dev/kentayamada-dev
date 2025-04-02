@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/e-mliu9q5W4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b80d44db243686e3da669bf916a67df.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b53aea9752ce254de3bba76f974e4a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfd2ba65d5a327c9142868b102b0fffbe255f30c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00951828-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=404&ch=404&exp=10800&fmt=webp> 「ゲームのことで口論になり刺した」逮捕の男（21）　クローゼットに“女子高生遺体”…「フォートナイト」で知り合ったか　愛知・一宮市
+      <a href=https://news.yahoo.co.jp/articles/4d97e7a575f8cf8b65c08091f9b859d6e7ce6f6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-21829408-cbcv-000-2-thumb.jpg?exp=10800&fmt=webp> 容疑者の男「ゲームを巡ってトラブルになった」 女子高校生遺体で発見…SNSの犯罪やトラブル 名古屋の若者は?専門家は警鐘を鳴らす
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d8c97c667c881982ae502b71bd023a999dbd5eca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228195-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=716&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー大地震　断層沿い400キロ以上にわたり、最大6ｍ、地面が水平方向にずれる地殻変動を確認　国土地理院
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-07228195-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=716&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマーM7.7大地震で長さ400キロ以上にわたる断層の動き確認　最大6ｍのずれも　国土地理院
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/f0c54e7e51f90e59220f5ae62dc23e2ce6f28418d100b43f2c2e1dbc322b15dc.jpg> 車にはねられ12歳が意識不明 兵庫
+      <a href=https://news.yahoo.co.jp/pickup/6534251>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/a9373fdf7dd5896f657b80b8becbd72b6ee181a1bf479213048a30e85f5df4d2.jpg> 4人やけどの作業事故 1人が死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 19:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 20:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
