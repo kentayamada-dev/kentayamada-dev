@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/825351769fa0f975a6568446c876fc68.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/71e2f60a4659ec0d59e3f4e04ff26a08.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4607a88f610d69d4a56d977ab421bf32e1c054ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000025-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「ネトゲの知り合いに会いに行く」と家を出た女子高生が殺害…増える“オンラインゲームがきっかけの事件”に警察やゲーム会社も注意喚起
+      <a href=https://news.yahoo.co.jp/articles/37817429bcdcb76697dffcf4c5b5c9e5d62c2e68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 林官房長官「措置の見直し強く求めていく」　米が相互関税を発表へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26b19b46e99fa181a0b4a290981a479b26dc3ec5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 船井電機会長、新会社設立へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ccf4bdf5dd45b2350b858f4776e69fd6295176c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-03376283-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 3日から自動車関税発動へ　日本車に“駆け込み需要”　アメリカでも混乱が…
+      <a href=https://news.yahoo.co.jp/articles/887e91f4add89d16d18194be60fdca8c28e1a32b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-05198137-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> クローゼットに女子高校生遺体　逮捕の男「ゲームで口論になり包丁で刺した」
       </a>
     </td>
   </tr>
@@ -395,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d5ddaff1793e403f3f7cfbc390a9b391df8ff657>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000334-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=849&ch=849&exp=10800&fmt=webp> くら寿司「皿返却口に使用済み避妊具」の迷惑行為に声明　実行者が謝罪も「厳正な対応を行う予定」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534241>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/f4ceb0302b8b1330a238ae11cf0f019afcd87a92b6e408fd2270f442bdc82f7e.jpg> 物価高巡り首相に直談判 自民幹部
+      <a href=https://news.yahoo.co.jp/pickup/6534253>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/86053e16c0bc962d969ed5203af7c7119a916e0875f738bec612897fdc898073.jpg> 「トランプ流」共和党からも異論
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/413d32876037c01ca26fe88e4850861b63310dfff1b9826a0ad216901ded4923.jpg> フジCMの停止継続 キリンHD発表
+      <a href=https://news.yahoo.co.jp/pickup/6534254>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/c21d4f08454359d5937a0a7c31068a7edc31b11eb175444930e940e268d31442.jpg> 迷惑行為の画像拡散 くら寿司声明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534249>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/24ec9f81f41099227d2d8f4f334476463300b339ec1d53c9a5a1d101d6a60ef7.jpg> 船井電機 会長ら新会社を設立へ
+      <a href=https://news.yahoo.co.jp/pickup/6534255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/6519dce33b5283a96a97de0b3fd1188fb5f6ff4b947b0be6b83abd5fe9ea5339.jpg> はやぶさ2が異常検知 詳細確認中
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 20:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 21:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
