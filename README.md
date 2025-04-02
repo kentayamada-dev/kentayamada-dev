@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/779f6898f0d6b05983403d4a8f555790.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e45dee047df0cb74b70488f4a982c83a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/609ff607b3c7fae065f9ad509562e9b47989aebb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00038658-famitsu-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=720&ch=720&exp=10800&fmt=webp> Nintendo Switch 2発売ソフト一覧。ローンチソフトから発売日未定ソフトまで、発表されたタイトルをこちらでチェック【Nintendo Direct】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/094c57ced5b8678a22cf3dd24707ff587b85e952>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90021957-kts-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 大隅半島東方沖震源　Ｍ６．０の地震　大隅で震度４
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90021957-kts-000-2-thumb.jpg?exp=10800&fmt=webp> 大隅半島東方沖震源　Ｍ６．０の地震　大隅で震度４
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39a9d20f14d290728710d0913fe3c2a3a11bc548>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000055-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=442&ch=442&exp=10800&fmt=webp> 「Nintendo Switch 2」は転売を絶対許さない？　日本では国内専用機を提供　抽選販売にも参加条件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c61674e8b7e98a8e638baaedb578aa83fc7b3d7e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 経済同友会代表幹事「フジCM出稿再開を検討すべき段階」
+      <a href=https://news.yahoo.co.jp/articles/84d08ab213d3f3235d5b4941ba408892f0383952>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00050141-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=413&ch=413&exp=10800&fmt=webp> ミャンマー地震、内戦が救援活動の足かせに…停戦発表も戦闘停止見通せず
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bda819545a69ebe475f6e8053a229463cdc384eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000098-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 内戦で手薄な医療直撃　傷病者対応困難に　ミャンマー地震
+      <a href=https://news.yahoo.co.jp/articles/59dd16242fb11519b96e6a27cb78124984e21463>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-04021227-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 民放連がフジテレビに厳重注意　「人権意識向上の取り組みへの協力」などを要請
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 00:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 01:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
