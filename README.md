@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/e-mliu9q5W4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ca13144dab3ce1402c39d87ad07f06ab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dd6e10cca5914ee4ca608f8b2606de8c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ada0526992fb1a09ceb1efeb9c5813050f1fd17a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000007-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=304&ch=304&exp=10800&fmt=webp> トランプ発関税で「貿易世界大戦」…韓国、「半導体・自動車」直撃弾を憂慮
+      <a href=https://news.yahoo.co.jp/articles/40dcba5a00f567c7028098ebd188c98ead772eed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 映像：トランプ米大統領の相互関税、一律10％に　日本への上乗せは24％
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f10f6d7f74dd97cff3d7d3722ccf7dc7bdc064f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-04031047-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1122&ch=1122&exp=10800&fmt=webp> 大谷翔平、４日ぶりのブルペンで直球＆ツーシーム１５球　山本由伸、佐々木朗希と日本人“そろい踏み”
       </a>
     </td>
   </tr>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1cff4dff064f7355fb45e6f66b8bc43ec379090e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-10484296-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=683&ch=683&exp=10800&fmt=webp> ドジャース、2023年盗塁王ルイーズを獲得　アスレチックスからDFAの26歳外野手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9c64eefd454cd8782e574a1b9381abbf4f38fa0b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000061-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=627&ch=627&exp=10800&fmt=webp> Switch 2のローンチタイトルは18種類　「マリオカート」「スト6」「龍が如く０」など
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/816ec2ba2cb54793bfb2d52a852fd1833ca68e3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-21830565-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 大隅半島東方沖で地震 鹿屋市などで最大震度2 津波の心配なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9b2fa5a5837d2ab547e121829f34c4ff3d3ad9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> アマゾンもTikTok買収提案　土壇場で滑り込み　米紙
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534280>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ecb1a7239bbb0d4a83abcdd8a3126655e22d8381fa97524c2f13993e00ff88b4.jpg> ミャンマー地震 死者3000人超に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534247>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/996787c7047d23f163538e1c3b8a697240604b6c4ac903bb755863898f082eca.jpg> 自爆型の攻撃用無人機 陸自初導入
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534279>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ca0f75486902833aedf2ebdb02b2acb8c88db1796559aa645e130babd7e3238b.jpg> 転売対策? Switch2に国内専用機
+      <a href=https://news.yahoo.co.jp/pickup/6534285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/9e22ca4738ef86579f7455cf9e2ded0d722964b1cc1f8e490f726bbd93c6992a.jpg> 「月の石」大阪万博で再び展示へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534289>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e15f539d4d54eabe3c8b48c60f1fe7d30934734187a38ec21fa9966c2233ec95.jpg> ド軍 2023年の盗塁王を電撃獲得
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 08:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 08:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
