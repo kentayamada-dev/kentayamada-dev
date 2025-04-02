@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/94e885da734fbe8da917831ac6870b90.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/896dbae97ca08c9fb5b4bdbf96d8b406.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c02a7d128ca96ccf5bf5ba864bc1c8606c80fb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00050078-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 大谷翔平３試合ぶり安打…ドジャース開幕７連勝、前年ＷＳ覇者では９２年ぶり２チーム目
+      <a href=https://news.yahoo.co.jp/articles/da08fa9d02b29c0c3fd487c05fe209d6b042f0f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000043-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ミャンマー地震で日本政府　約9億円の緊急無償資金協力
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/027b1bf7ff6d27c22ed4348ca11bd83291bd8266>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010012-annd-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=460&ch=460&exp=10800&fmt=webp> ミャンマー地震めぐり日本政府 約9億円の緊急無償資金協力
+      <a href=https://news.yahoo.co.jp/articles/03b95d54ecedc15af9d813da653bcf267986bf11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-10171619-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 「おどしじゃねぇぞ」10代女性タレントにSNSで脅迫し業務妨害か 24歳ファンの男逮捕
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/9918610b27a9a20488eeb043c5f2926cb624dd84d9382b554d84ca315fe1b86e.jpg> 誤って拳銃持ち入国 検査すり抜け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534209>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/cf0364a8b9cf922b43ed5c93e1c992edb3f795c7c31dd5b165bf9bbe38692282.jpg> 「いつの間にか富裕層」増加 分析
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/df3b78773baa366b6d5bd005cc84b9e36f1309536141197e847c786c9cd08e7a.jpg> 俳優ヴァル・キルマー氏死去 米紙
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 14:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 14:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
