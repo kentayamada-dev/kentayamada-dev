@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/M6269KzBQPw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/e-mliu9q5W4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/38998a8d8c1f2a014bbd460747cb290b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6eabb3ded5295042d6be479148f92be2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70aae30f08ea98e30505a1a89baeb2cce9a6793d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000045-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=866&ch=866&exp=10800&fmt=webp> ＧＡＣＫＴ、江頭＆永野芽郁問題をド正論で斬る「誰が悪いというのならバラエティ見なきゃ良い」
+      <a href=https://news.yahoo.co.jp/articles/9412e0fc378aebe583bdb60caee05588afdf8b79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00010001-reutv-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税「解放の日」迫る、何が起こるのか？
       </a>
     </td>
   </tr>
@@ -374,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd7c0105404c22fb0424c8cd5644a622416409f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000117-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=715&ch=715&exp=10800&fmt=webp> フィフィ　フジ・反町理キャスター、第三者委がハラスメント認定にひと言「他局はどうなんだろうね」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77d0588d5044d76d49455e897f6b208df201bb56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000019-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 局面転換へ物価対策訴え　参院選控え、忍耐続く石破首相
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250402-00000117-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=715&ch=715&exp=10800&fmt=webp> フィフィ　フジ・反町理キャスター、第三者委がハラスメント認定にひと言「他局はどうなんだろうね」
       </a>
     </td>
   </tr>
@@ -394,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/56aec04ac0de6afd651abf79059193aad0500e15f0c4d165a1727592dff883cc.jpg> 石破首相 参院選に向け続く難路
+      <a href=https://news.yahoo.co.jp/pickup/6534193>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/b58ed5c53f1acc9c0812a40a6ab28fcae3e7af8e39b466d28a4b7d110b10d6d0.jpg> トランプ関税「解放の日」影響は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534178>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/a80c2646be1a71245b416eb882327f833ec073c10b0a5fcd1ca5aed46f9a254b.jpg> 中国が軍事演習 25隻が台湾を囲む
+      <a href=https://news.yahoo.co.jp/pickup/6534183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/2/c7510d32e3dde7fd40ed653d1974c8162201ade94039dda2534a105a0d7bf9bd.jpg> 公取委「対GAFA」の新部署発足
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/02 10:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/02 10:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
