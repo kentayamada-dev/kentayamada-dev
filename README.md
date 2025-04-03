@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/801ec926bbd9f19d6340e71d13a38e27.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ad4786deaf2a4b1b206581a01798d359.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0633afc6bf34215267a50dfef7d63c2aad6fa2cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-04031240-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=645&ch=645&exp=10800&fmt=webp> 大谷翔平フィーバーはケタ違い…ボブルヘッドデーは試合５時間前に３００人が行列、ビジネスの場にも
+      <a href=https://news.yahoo.co.jp/articles/96ac13e42e8fee49b83b30641aaf6608a2be4f01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000086-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=834&ch=834&exp=10800&fmt=webp> ドジャース・大谷　サヨナラ3号ソロで開幕8連勝「いい夜だった」前年世界一チーム史上初の快挙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d4f0dcbbad60257c73dce99188664f91be694f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228519-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> NY株も急落…衝撃の“トランプ関税” 日本は「24％」も根拠は“不明”　企業からは不安の声「景気冷え込む」「アメリカ以外の販路拡大検討」【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c408f0bb27b45d55a3a5e69805d7858f6b7c28e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-90018553-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> ”空飛ぶクルマ”が大阪・関西万博の開幕日にデモ運航へ
+      <a href=https://news.yahoo.co.jp/articles/c4b968efed47a41825794ab7d4a1754928e72c74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000001-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 【速報】NYダウ　一時1600ドル超下落　トランプ政権「相互関税」による景気悪化懸念で
       </a>
     </td>
   </tr>
@@ -389,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33150a04cf24cd3aac75a5fa66997c179ae15fa0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000167-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 米議会、トランプ相互関税で賛否両論　不公平解消への期待と物価上昇への批判
+      <a href=https://news.yahoo.co.jp/articles/2625f91fe46e8f16c33e7d5a5a5c8c9e3a093c86>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00050158-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 相互関税、マクロン氏「欧州企業が米国に投資する意味ない」…仏企業に停止呼びかけ
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 01:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 01:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
