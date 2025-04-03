@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8317b8d278cc588c85d75d963eeb824b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/62a5fea4e791d178353ddc8d0d6bfa26.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e281227b4767cc45071e36e8bacf61817a1d173>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00952463-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=571&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 観客から「打てよ」のリクエスト…大谷翔平選手が自身の昨季MVP記念“ボブルヘッドデー”に劇的3号サヨナラホームラン　ドジャースは8連勝
+      <a href=https://news.yahoo.co.jp/articles/a0d9ad6c541d52cf53984679da922fc8e4f5b8ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34031216-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=431&cy=0&cw=1069&ch=1069&exp=10800&fmt=webp> メジャー初勝利ドライヤーと大谷翔平の不思議な縁　一生忘れない記念球ゲット／Nobu’ｓ Eye
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ef2333c4f7e180a1e62601ade3d034cb2147bbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-06856379-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【トランプ関税】福岡の企業からも不安の声「購買意欲は低下してしまう」「影響は計り知れない」県は相談窓口を開設
+      <a href=https://news.yahoo.co.jp/articles/f952d6b8e406578f427262be7e8a1384215099be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00064742-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 中学校の入学式を前に事故…１２歳の男子生徒が軽乗用車にはねられ意識不明の重体　車運転の６２歳を現行犯逮捕　和歌山・紀の川市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b5b0e3eb742b5e1a974edb70829591a6ede7cce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000027-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=446&ch=446&exp=10800&fmt=webp> 「スイッチ2」ひとまとめ！ 価格・発売日・性能から新機能「Cボタン」まで─対応のmicroSD EXPRESSカードや「キーカード」は要確認
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/811618365c4159ff52fc6abbaa5429009726e2cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00128497-futaman-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 「スイッチ2」は「スイッチ」と何が違う?任天堂の新ハード「現行機との徹底比較」で見えるもの
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bc3160254b77c7eea4f8b4c052fcb63af290eb3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000040-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=381&ch=381&exp=10800&fmt=webp> 香川・坂出の病院駐車場で小中学生3人がはねられ搬送　打撲など軽傷
+      <a href=https://news.yahoo.co.jp/articles/e4b18170f011c46f3fe092a32395a35989460bb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-04921392-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 武藤経産相「相互関税」米商務長官に適用除外を要請
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/04cb2ce8916b93edfd26300855354ee123be9e3b7675dbb8b2a208d296697c39.jpg> 無人島も対象 米国の相互関税
+      <a href=https://news.yahoo.co.jp/pickup/6534360>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/7aa5458abe582e00fc55566796db13d0cce9712da93f2d64b5d6a317e0cfde25.jpg> 報復関税は「正直難しい」経産相
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534348>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 旧安倍派幹部3人 処分満了で声明
+      <a href=https://news.yahoo.co.jp/pickup/6534362>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ae533f78d08217d24f33b16f64f0490441075b45a7d34073936181f2e8fb46a5.jpg> 横断歩道ではねられ12歳重体 逮捕
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3fed47038e9737a69b5882970a77a6bcd2dc1424296a64c86a925b10d19959e2.jpg> 速報 田中将大が巨人で初先発
+      <a href=https://news.yahoo.co.jp/pickup/6534347>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/1282b3e93a1d9913f540a5f5c37debd4ab96c0927f7b7ce3863f10c8a16e8d0d.jpg> フジテレビに「厳重注意」総務省
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/6cdc20c7bb939cfe7b1637ffd4a87dee694f4c8fd8504583f8208ea1a6a274b6.jpg> 元乃木坂46の1期生 結婚ラッシュ
+      <a href=https://news.yahoo.co.jp/pickup/6534340>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3fed47038e9737a69b5882970a77a6bcd2dc1424296a64c86a925b10d19959e2.jpg> 速報 田中将大が巨人で初先発
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 19:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 19:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
