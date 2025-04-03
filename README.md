@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c514986b4bc0a25daf49ec18deacf88.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c4ee163cd9c9db7e71526286cc7f5507.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/916deef699a40b95d99225e769a8a00fb740efaa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000370-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=201&cw=605&ch=605&exp=10800&fmt=webp> デコピンに「最優秀“犬”」の特製クッキー　SNSは「異論なし！」「デコピン君もMVP級の活躍」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4ca1cf7295f1124e54c8453b8f8d4a4895a829b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000127-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=673&ch=673&exp=10800&fmt=webp> 国民民主・玉木代表　“トランプ関税”9日発動「それまでに石破総理はアメリカに行って直接交渉すべき」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/627bb75b5113628ed2ba99d846135192c8849578>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米株大幅下落、５年ぶりの下げ幅　相互関税で景気後退懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bb55976741f676e8a6c658054c7a57ef1856bd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-01730687-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平を祝福するベッツ＆ロハスが“謎行動”　ファン発見のポーズ「今年流行りそう」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b8cf1c0edead3df559f086451af4c863e8aecc4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本車の販売減懸念　雇用5万人減の試算も　トランプ関税
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534373>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0cae7d39f41a55f5a3776e72cb150f4ada267365bb6fe406cac8ae94c6f55e77.jpg> 高市氏 米関税巡る政府対応を批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534372>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/efe6bac64b67bf2aba15977d7a19ae46d511616f9c7d9b1d4a1837f221e54e01.jpg> 16歳遺体「会った翌日に刺した」
+      <a href=https://news.yahoo.co.jp/pickup/6534388>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/afd44932bcc0eb914eb3d1495a01a127ca7e3a782dbd12906d9135703b37ca4c.jpg> 尹氏の弾劾審判宣告へ 暴動に警戒
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534385>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e29b971d7ad8cb4ec74feafbdced13dc28ff2f85f944f887978867b5fcf91cc6.jpg> 万博ボラ採用者に不採用通知 謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/606ea23478756e7a82dff89d211106ad48d6c66595c4e0fd1a2d441657944afa.jpg> 欧米車大手 米で900人一時解雇へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 07:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 08:00:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
