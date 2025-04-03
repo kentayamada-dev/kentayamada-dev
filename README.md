@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/e-mliu9q5W4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dd6e10cca5914ee4ca608f8b2606de8c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3ac218dd6b40fe1b1d3bc5f6d78a5c31.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40dcba5a00f567c7028098ebd188c98ead772eed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 映像：トランプ米大統領の相互関税、一律10％に　日本への上乗せは24％
+      <a href=https://news.yahoo.co.jp/articles/35ad08e7bb96ad4214ccc01c913082778de009dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-01730311-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャースはなぜ“戦力外”の元盗塁王を獲得した？　首脳陣の見解、十八番以外の“素質”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6bfc8e433388d08d19e0324736679051173aa8ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ政権が相互関税を発表：24％の追加関税で日本のGDPは0.59％低下
       </a>
     </td>
   </tr>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/66343cc53049ed48bfb3b0179a0aac0fde430ac5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000060-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=393&ch=393&exp=10800&fmt=webp> 「Switch 2、安すぎ？」――価格設定にSNS騒然　国内版と多言語版の“2万円差”にも反応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/24bbac6997c8f3019aa1ed059ac1f274e1409fa5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000010-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ミャンマー軍事政権が停戦発表　地震で22日まで　死者3000人超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cff4dff064f7355fb45e6f66b8bc43ec379090e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-10484296-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=683&ch=683&exp=10800&fmt=webp> ドジャース、2023年盗塁王ルイーズを獲得　アスレチックスからDFAの26歳外野手
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c64eefd454cd8782e574a1b9381abbf4f38fa0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000061-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=627&ch=627&exp=10800&fmt=webp> Switch 2のローンチタイトルは18種類　「マリオカート」「スト6」「龍が如く０」など
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534276>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/1530946c60cc1cc7c1300088484ba9e8f5302c1f3f93f9c808da9533fea0bc23.jpg> 米相互関税発表 日本には24%追加
+      <a href=https://news.yahoo.co.jp/pickup/6534296>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/390fbea2ab2aef5634ab5f3ceb2c450347e184a68cd9844e6e6979e3ff609de6.jpg> 相互関税 日本の追加分は9日発動
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534280>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ecb1a7239bbb0d4a83abcdd8a3126655e22d8381fa97524c2f13993e00ff88b4.jpg> ミャンマー地震 死者3000人超に
+      <a href=https://news.yahoo.co.jp/pickup/6534288>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0315513eadbb8dfe3edfbd90abf3ba7bf1bccadb14642a397a203142b493ce06.jpg> 中国無人機 南西諸島周辺で飛行増
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534289>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e15f539d4d54eabe3c8b48c60f1fe7d30934734187a38ec21fa9966c2233ec95.jpg> ド軍 2023年の盗塁王を電撃獲得
+      <a href=https://news.yahoo.co.jp/pickup/6534294>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/9c9e3545e8c49b5cca21c0d258dc3ccd0a3d0625c915d457dfbd02705d403273.jpg> Switch2どう進化 既存機種と比較
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534278>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3c42e58ebc8b4ea9726521ca59005ffe4d1b1b031b287b8ee8f6b7028240b122.jpg> 鈴木誠也 2打席連続ホームラン
+      <a href=https://news.yahoo.co.jp/pickup/6534289>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e15f539d4d54eabe3c8b48c60f1fe7d30934734187a38ec21fa9966c2233ec95.jpg> ド軍 2023年の盗塁王を電撃獲得
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 08:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 09:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
