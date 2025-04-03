@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6de3055484efbe561c46114b254715df.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dffc227dbd9b9347c74cf4041dd08b0f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31bbaaafceba709e53b213731d51555fbc496eda>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000048-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=1183&ch=1183&exp=10800&fmt=webp> 反撃２ランのドジャース・エドマン、大谷翔平のサヨナラ弾「みんな思っていた」… ロバーツ監督も「予感」あり、「翔平は翔平だった」
+      <a href=https://news.yahoo.co.jp/articles/5a7f927acae9b99aae55f5dad899cb398b3fc33e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000053-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=904&ch=904&exp=10800&fmt=webp> 大谷翔平ボブルヘッド人形に、デコピンも目を細める…劇的サヨナラ弾直後に最新“ツーショット”公開…ファン歓喜「うれしそう」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/118d2826bf2b99caf6905ef3f8c16d915ff2d0ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000046-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=923&ch=923&exp=10800&fmt=webp> 「ネットで『グレー』信じた」賭け金5千万円超の吉本タレントも　賭博容疑で6人書類送検
+      <a href=https://news.yahoo.co.jp/articles/7849f3436e4954e7ce14a63f4b2c86e1b3ca83b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000097-zdn_m-000-2-view.jpg?pri=l&w=180&h=180&order=c2r&cx=0&cy=0&cw=180&ch=180&exp=10800&fmt=webp> Nintendo Switch 2で使える「microSD Express」って何？　今までのmicroSDとの違いは“接続方法”と“スピード”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f417277c349a4ee237d22fa52a746cf866daa3ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000045-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 中国、米国に報復措置を検討　相互関税は「断固として反対」
+      <a href=https://news.yahoo.co.jp/articles/eb8155b840b176f84071e94391a1e7be40ac474d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000232-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=710&ch=710&exp=10800&fmt=webp> 所属タレント6人が書類送検　吉本興業が謝罪「研修の実施等、会社全体で再発防止に取り組む」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/987876a396ed9e148105e5daf5a199fee672b6a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000023-impgmw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800&fmt=webp> Switch2に採用された「microSD Expressカード」って何？ 通常の「microSDカード」との違いを解説
+      <a href=https://news.yahoo.co.jp/articles/3070d0c99a5bfec5a0d78682965cfdf208dad6c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000077-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 中国、米に関税の即時撤回を要求　「対抗措置」宣言
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/7ef36f694a0669682eb180d1ca8ac601d2793c2c72bcf0568c8aded2cc56214a.jpg> EU首脳 米関税に解決策模索の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534316>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/d701c2feb07fef0531c5726928e7222a7b6a36d738a7b7a66f4b150ba9eb6696.jpg> 中国 米相互関税に「対抗措置」
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534314>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/99cfae9091288b9d1a5fe50ea6ae685492e6c0f9f49566b385ed830c7bf0a790.jpg> 日産 中南米での生産体制を縮小へ
+      <a href=https://news.yahoo.co.jp/pickup/6534323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/a92178371bc01ea7ce5b5d90018c2b3e96abf33ad2ba05b7b60cf1e02aac4a43.jpg> 陸自レンジャー 年度内の育成中止
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534329>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ec7db19085ecc9f441908e14f591a3e276a383dd70d8979c308118e742e5778c.jpg> 吉本芸人ら書類送検 給料前借りも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/12dbdd3d55db058f31f017b27e21b0ba31fe781d24d80bbe00190ccb0db8eab3.jpg> フジテレビを行政指導へ 総務省
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 14:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 14:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
