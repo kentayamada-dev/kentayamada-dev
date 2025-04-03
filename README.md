@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/efa8503ab4f10afc12d3146035f771e2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4daf8d39838999d57bd3ffafe846968c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4350c262dcb79e8f4574ac6c0aa021d60f455482>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000071-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=812&ch=812&exp=10800&fmt=webp> 大谷翔平の劇的サヨナラ弾、ドジャース先発・スネル「みんな結果は分かっていた」... スターではなく「スーパーマン」
+      <a href=https://news.yahoo.co.jp/articles/dff53d896f49f8ae799d5e521056df66386a4e16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34030927-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1391&ch=1391&exp=10800&fmt=webp> 大谷翔平劇的サヨナラ弾「いい夜だった」史上初！前年覇者の開幕８連勝　歴史的ロケットスタート
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6965ecba55674708e8f828835bd74a9d8938351e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000111-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=352&ch=352&exp=10800&fmt=webp> Nintendo Switch 2向け「microSD Expressカード」、早くも“売り切れ”か　256GBは9580円→1万7700円に高騰
+      <a href=https://news.yahoo.co.jp/articles/551abf0b484f9c9af8d2743d461522086b6405f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-16310389-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏の相互関税は「世界経済にとって大打撃」　各国から非難相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cea8591e2029c2d6cb417af54f423720dd3223c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010023-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=878&ch=878&exp=10800&fmt=webp> フジ親会社の大株主に旧村上ファンド系
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/811618365c4159ff52fc6abbaa5429009726e2cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00128497-futaman-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 「スイッチ2」は「スイッチ」と何が違う?新ハードのポイントを現行機と徹底比較!
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ddeb0ef8eb3000772da75ff18d0d24758ef22688>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000056-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自民・安倍派幹部ら処分期間終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fcaf3def98ae40ba5ebc090e8294d9568165579b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「応じる用意がある」EUがトランプ関税に報復警告　欧州委長、対話も呼びかけ、各国も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31b4cee1f5016dd12d1ad1124a645483b12b6f57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000053-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フジ問題　株主の米ファンドが留任取締役の交代要求
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/5feb65de2522fe59c00f176c7f5c4684d592c714facfd5e008767c006238c3c5.jpg> 東京株が急落 終値3万4735円
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e0ac2bb650f4ebcf80c5f30e70001c85fb568a4681b01e27af6ec01ef0bff427.jpg> 東京株が急落 終値3万4735円
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534345>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/b625a7423d9b1c1cf4be02e5b48bc21620e2b0227c932b17301db7a952e2ab84.jpg> コメ巡る米発言 理解不能と農水相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/793f31e59e03c665e7a8f7fc24b55417a7e7103a64649f7f65204693171961b1.jpg> 滋賀の雑木林に遺体 殺人で捜査
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534341>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/068bb8101430b5e0d86081a7765c11396db56aafd30f3c35440fdf0e4da515d0.jpg> 「街の洋菓子店」の倒産 過去最多
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/fcf05c1532a741a9b82c4a21fb9670cffae0471332b1d9b046766075b1b4d08f.jpg> Switch2 発表されなかったこと
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 17:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 17:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
