@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2b447ceb499afb403dfe9305ef8b09b1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8317b8d278cc588c85d75d963eeb824b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4e281227b4767cc45071e36e8bacf61817a1d173>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00952463-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=571&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 観客から「打てよ」のリクエスト…大谷翔平選手が自身の昨季MVP記念“ボブルヘッドデー”に劇的3号サヨナラホームラン　ドジャースは8連勝
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0ef2333c4f7e180a1e62601ade3d034cb2147bbf>
@@ -373,14 +381,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9e23e41cc9cd2ba275b02b4c3921a7a46c96030>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34031223-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 有名コメンテーター「英語で聞き取れたらスゴい」大谷翔平への観客の声援→サヨナラ弾ホメちぎる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/811618365c4159ff52fc6abbaa5429009726e2cb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00128497-futaman-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 「スイッチ2」は「スイッチ」と何が違う?任天堂の新ハード「現行機との徹底比較」で見えるもの
       </a>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddeb0ef8eb3000772da75ff18d0d24758ef22688>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000056-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自民・安倍派幹部ら処分期間終了
+      <a href=https://news.yahoo.co.jp/articles/5bc3160254b77c7eea4f8b4c052fcb63af290eb3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000040-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=381&ch=381&exp=10800&fmt=webp> 香川・坂出の病院駐車場で小中学生3人がはねられ搬送　打撲など軽傷
       </a>
     </td>
   </tr>
@@ -410,6 +410,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/04cb2ce8916b93edfd26300855354ee123be9e3b7675dbb8b2a208d296697c39.jpg> 無人島も対象 米国の相互関税
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534353>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/6067fda855e4e09b1ae25ebe308624fb20ca5189bfb7584f775f29d2e106c118.jpg> 米経済界 トランプ関税に失望の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534348>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 旧安倍派幹部3人 処分満了で声明
       </a>
@@ -418,32 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/b625a7423d9b1c1cf4be02e5b48bc21620e2b0227c932b17301db7a952e2ab84.jpg> コメ巡る米発言 理解不能と農水相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/cbca0187731f877beaa2dcd5bc70b6c864885867a1af1286d6f42c75c117e798.jpg> 卒業式で返事した 場面緘黙の少女
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/abce3f66603ce4e850a47360e8c5bcba4a1de4e03f36461819bf113f3e6009c7.jpg> 免許証 マイナと「2枚持ち」7万人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/fcf05c1532a741a9b82c4a21fb9670cffae0471332b1d9b046766075b1b4d08f.jpg> Switch2 発表されなかったこと
+      <a href=https://news.yahoo.co.jp/pickup/6534357>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/c0721e9065cc072efdf52ec4823b9c0239146408b4c96e8cc76833b592d9c065.jpg> 駐車場で小中学生3人はねられけが
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534340>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3fed47038e9737a69b5882970a77a6bcd2dc1424296a64c86a925b10d19959e2.jpg> 速報 田中将大が巨人で初先発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534356>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/6cdc20c7bb939cfe7b1637ffd4a87dee694f4c8fd8504583f8208ea1a6a274b6.jpg> 元乃木坂46の1期生 結婚ラッシュ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 18:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 19:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
