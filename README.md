@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7587f682b54f4bc3c6238cdb115e33d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c1ba14972cd1a1f70fddce0ae7e8e6e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bbd9d72c2414a537852a9184105ad21c538bf44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00952704-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> NYダウ一時1700ドル超下落…トランプ氏は“良い影響もたらす”と強調
+      <a href=https://news.yahoo.co.jp/articles/854858a23172eaa9f974638789a9064d1137b048>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（3日）ダウ1679ドル安、ドル対円で6カ月ぶり安値・利回り大幅低下
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/632f900ebe2f69dc55d1f734e5016ea7e9b26019>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228540-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> NYダウ “トランプ関税ショック”で急落　一時1700ドル以上の値下がりに
+      <a href=https://news.yahoo.co.jp/articles/ebfe9b891863c18454f1eccfd1f25625e8d694ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国に対する相互関税26%…トランプ大統領、貿易秩序を破壊
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2bc1774d3684a758dba066897beef4e0c3fa0be7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国、関税策の影響広がる　経営環境激変で対応不可避
+      <a href=https://news.yahoo.co.jp/articles/3d58d2a0cf665799a679aeeca2478046b4283b05>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00521479-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 劇的弾・大谷翔平を出迎えた“謎ポーズ”　喜ぶベッツの動きに日本人爆笑「おもろい」「CMのやつか」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0923b25bc5e0c807b9a3d96725bc3c6c0e98c073>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-10171920-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=437&cy=0&cw=800&ch=800&exp=10800&fmt=webp> めっちゃ楽しそう…！ 大谷翔平、ベンチではしゃぎまくる「テンション高っ」「最高すぎる」 同僚のアーチで見せた“ほっこりシーン”
+      <a href=https://news.yahoo.co.jp/articles/65dff273a96ac08b539162068e20c23b9bb6b561>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00050205-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=39&cw=422&ch=422&exp=10800&fmt=webp> 関税分「吸収不可能」、国内自動車勢は利益２割減見込み…「価格上げなくてすむ会社はない」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534374>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/aa21d6e8543d807305b997e622faaabe607c75b6230298b572e5f56089694eef.jpg> 万博の空飛ぶ車 飛ばない期間あり
+      <a href=https://news.yahoo.co.jp/pickup/6534383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/b0fdb6d197f540f46048f28957d7b4a499d8654ae533a2ca49feda5de3b4438d.jpg> 入社直後に退職代行を依頼 なぜ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 06:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 07:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
