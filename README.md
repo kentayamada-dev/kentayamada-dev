@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/901827cd8b0605cdf74c8dcc94611194.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/663b91356fbab52e33e112db031c21ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/358380d08b81e2f22c17706175ed0539bec30b6d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000031-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> EU各国首脳、批判と解決策模索の声　トランプ政権「相互関税」受け
+      <a href=https://news.yahoo.co.jp/articles/7b20faa323df9eeded1aef45974824b60dbe7d34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000002-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=556&ch=556&exp=10800&fmt=webp> やっぱり盛り沢山の「Nintendo Switch 2」新情報、「転売対策」トレンド入りでファン感心
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8d26abbab787318b2779840b9caea376fa1516dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228296-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=433&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ・トランプ大統領 相互関税 EUに20%、イタリアのメローニ首相「誤った措置で誰の利益にもならない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4e2399de9da6a13cf7e6d7536a82216a062f5415>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00050063-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 「トクリュウ」摘発１万人超す…４割は闇バイト応募者、「使い捨て」にされる
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e885884c98ec034338e80ebcba29cf2513ede27a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00078251-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> Switch 2の価格は約5万円　初代から5割増、ネットで不満続出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68f93fd8792b957b8ca0535c72ae766ce3959085>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-04654492-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】奈良・橿原 4歳女児暴行死　母親の交際相手の男性の無罪確定　奈良地検が控訴せず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e41685fc87c2a6846ec177d4dc771183288db317e583212afc6ebee9b55e8270.jpg> 東京株、一時1600円超の急落
+      <a href=https://news.yahoo.co.jp/pickup/6534308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e9ad044deb0ae88857f6744f7f0ec46a0d1b10c3328fbee12dac77a6b89bfc94.jpg> 大麻巡り中学生26人摘発 過去最多
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534288>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0315513eadbb8dfe3edfbd90abf3ba7bf1bccadb14642a397a203142b493ce06.jpg> 中国無人機 南西諸島周辺で飛行増
+      <a href=https://news.yahoo.co.jp/pickup/6534300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e41685fc87c2a6846ec177d4dc771183288db317e583212afc6ebee9b55e8270.jpg> 東京株、一時1600円超の急落
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0a773ad6c32117d307073e109d72836a3b5f2adf3fb3999d684ceaf9a90259fd.jpg> 永島聖羅と市川知宏 結婚を発表
+      <a href=https://news.yahoo.co.jp/pickup/6534304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/9d4c28e2b93b934a85ad04941a070dfb3ebedcff624ad8a87fa50b8226df82ee.jpg> 新庄監督 敵チームへの演出に言及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534297>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/b7aced2c5af3dd194413d5f8575204d311a43ad6a400ba2a92cf47d35ebd62ef.jpg> フジ 小学生発言の編集巡り謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6534306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0a773ad6c32117d307073e109d72836a3b5f2adf3fb3999d684ceaf9a90259fd.jpg> 永島聖羅と市川知宏 結婚を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 11:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 11:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
