@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6227eba095f3ad47e650d6d4950cf548.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c5b4afbfc1230dca714d4701588dd0bf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03c847420fae84bbdc7b02aff5215218e9ca864f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00038843-famitsu-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 『Drag x Drive（ドラッグ アンド ドライブ）』はSwitch2の力を見せる任天堂の“挑戦＆お手本”タイトル。マウス操作＆振動を通じて“遊び”の体験を手に実感させる【Switch2体験会】
+      <a href=https://news.yahoo.co.jp/articles/62a3ce2565befcdb3605805c65b69b0a3f406b8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34031902-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=620&ch=620&exp=10800&fmt=webp> 【中日】９安打も３併殺が響き巨人に連敗…借金２も井上監督「粘り強くやるものは見えた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6592640699fda2c27d8ac3c8067cd36318019b30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00339816-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【中日】好機に３併殺で巨人に連敗　田中将に日米通算１９８勝目をプレゼント
+      <a href=https://news.yahoo.co.jp/articles/b223e3987c3119885057d22b60559bf2e7e7844c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000032-impgmw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800&fmt=webp> 「Nintendo Switch 2 のひみつ展」最速試遊レポ。60fpsと120fpsを見分けるミニゲームが難しい！ Switch2の様々な隠された機能を万博感覚で楽しめる
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7eb1c0b7cb3012f2f3fe60a286dfb4ab6a6a52ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000115-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=776&ch=776&exp=10800&fmt=webp> トランプ関税、世界を圧迫　米経済に不況リスク
+      <a href=https://news.yahoo.co.jp/articles/33150a04cf24cd3aac75a5fa66997c179ae15fa0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000167-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 米議会、トランプ相互関税で賛否両論　不公平解消への期待と物価上昇への批判
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3b6d2cb0a343730fcfa11a20d2d4d4fda027b9efedf06cd2d73222370b057a5a.jpg> 尹氏巡る宣告 傍聴席の倍率4819倍
+      <a href=https://news.yahoo.co.jp/pickup/6534377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/f7e75b41fe39d36ec4f73b7dec354c2ab241220e28d30e16fb8ce1c96e675752.jpg> 一時1ドル145円台 約半年ぶり水準
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534368>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/de169a9585e00c8147779dc288df726ac994278766abe447306e8799be776523.jpg> ハンガリー ICCからの脱退を表明
+      <a href=https://news.yahoo.co.jp/pickup/6534371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3b6d2cb0a343730fcfa11a20d2d4d4fda027b9efedf06cd2d73222370b057a5a.jpg> 尹氏巡る宣告 傍聴席の倍率4819倍
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 22:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 22:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
