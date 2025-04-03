@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a78eafa6f608e6c44e345eb132e2d2d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6de3055484efbe561c46114b254715df.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed67947fbca05d59e16bce3a659e91bb65ba7f43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000217-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 【大谷翔平と一問一答】サヨナラ弾直前の「打てよ」の声の主は？「誰かはわからないですが…」
+      <a href=https://news.yahoo.co.jp/articles/31bbaaafceba709e53b213731d51555fbc496eda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000048-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=1183&ch=1183&exp=10800&fmt=webp> 反撃２ランのドジャース・エドマン、大谷翔平のサヨナラ弾「みんな思っていた」… ロバーツ監督も「予感」あり、「翔平は翔平だった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/118d2826bf2b99caf6905ef3f8c16d915ff2d0ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000046-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=923&ch=923&exp=10800&fmt=webp> 「ネットで『グレー』信じた」賭け金5千万円超の吉本タレントも　賭博容疑で6人書類送検
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f417277c349a4ee237d22fa52a746cf866daa3ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000045-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 中国、米国に報復措置を検討　相互関税は「断固として反対」　
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000045-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 中国、米国に報復措置を検討　相互関税は「断固として反対」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bd282068c8b07ddc3f1c5c41ee88df87830d697b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228307-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “戦闘停止”発表も軍が救援活動を制限か　ミャンマー大地震 死者3000人超える　戦闘地域周辺は孤立状態
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f57bc60bb08a5f7a886e85cb8921875f9abdd4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000018-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=369&ch=369&exp=10800&fmt=webp> 大麻絡む摘発人数、過去2番目　コカイン摘発も急増、若者乱用目立つ
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534329>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ec7db19085ecc9f441908e14f591a3e276a383dd70d8979c308118e742e5778c.jpg> 吉本芸人ら書類送検 給料前借りも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534325>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/12dbdd3d55db058f31f017b27e21b0ba31fe781d24d80bbe00190ccb0db8eab3.jpg> フジテレビを行政指導へ 総務省
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534318>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/bcbe5f2fc860151ad77efe7b341c20d31a0205b608b337aab3619c6d408fa9ca.jpg> 「セリ」人気上昇 鍋やラーメンも
+      <a href=https://news.yahoo.co.jp/pickup/6534320>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/7a9fb4372555ee1f110353e70a7734115003a68394f4b704a5286198c092ebc8.jpg> 7匹→203匹 希少な魚が謎の急繁殖
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0a773ad6c32117d307073e109d72836a3b5f2adf3fb3999d684ceaf9a90259fd.jpg> 永島聖羅と市川知宏 結婚を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 13:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 14:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
