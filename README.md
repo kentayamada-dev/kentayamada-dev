@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4daf8d39838999d57bd3ffafe846968c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e94548a4e82f67ac6917ca156ce8ad2a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dff53d896f49f8ae799d5e521056df66386a4e16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34030927-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1391&ch=1391&exp=10800&fmt=webp> 大谷翔平劇的サヨナラ弾「いい夜だった」史上初！前年覇者の開幕８連勝　歴史的ロケットスタート
+      <a href=https://news.yahoo.co.jp/articles/61b28f3176d4ed3a90a9d289aba9e2433478c523>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34031192-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=548&cy=0&cw=952&ch=952&exp=10800&fmt=webp> 【データ】ドジャース開幕８連勝は70年ぶり３度目、55年はWシリーズＶも40年はナ２位
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5968f1b79fbda59d885132e3e24c59db36e0e836>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-10171871-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=546&ch=546&exp=10800&fmt=webp> フジ親会社の大株主に旧村上ファンド系
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cea8591e2029c2d6cb417af54f423720dd3223c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010023-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=878&ch=878&exp=10800&fmt=webp> フジ親会社の大株主に旧村上ファンド系
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/811618365c4159ff52fc6abbaa5429009726e2cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00128497-futaman-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 「スイッチ2」は「スイッチ」と何が違う?新ハードのポイントを現行機と徹底比較!
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00128497-futaman-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 「スイッチ2」は「スイッチ」と何が違う?任天堂の新ハード「現行機との徹底比較」で見えるもの
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/9ae76c309410fd0f0d77e16c6e74a04c36836bd29d9349338fab62c1239e3e68.jpg> 「トランプ関税」巡る各国の反応
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e0ac2bb650f4ebcf80c5f30e70001c85fb568a4681b01e27af6ec01ef0bff427.jpg> 東京株が急落 終値3万4735円
+      <a href=https://news.yahoo.co.jp/pickup/6534350>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/019fd8bdbfcb7c7dc657c915ea3ae23669da16b3dae20a234b14d05aced9148e.jpg> 米国の関税 世界の株式市場に激震
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534345>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/b625a7423d9b1c1cf4be02e5b48bc21620e2b0227c932b17301db7a952e2ab84.jpg> コメ巡る米発言 理解不能と農水相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534352>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/cbca0187731f877beaa2dcd5bc70b6c864885867a1af1286d6f42c75c117e798.jpg> 卒業式で返事した 場面緘黙の少女
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 17:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 18:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
