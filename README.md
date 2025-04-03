@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c46e12e943c3f830b489c5b7948c7ea5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5ad17d2fea2683899ce8e69206598027.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1e745107c69bee4aa2fb0331135643fb9477891>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00776548-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=58&cw=800&ch=800&exp=10800&fmt=webp> オンカジに最高5000万円　先輩芸人は驚愕「だいぶ若手の子」「どこから持ってきたのか」
+      <a href=https://news.yahoo.co.jp/articles/fc94c515293f3c15159eb65bab877239d5ab87e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-10171825-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=985&ch=985&exp=10800&fmt=webp> 米「相互関税」に対し、EUと中国が“報復措置”を警告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/573e724ceca21c9c24aa4c4bf4ba3aa82768279f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-21831919-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 サヨナラ弾に「なに打ったかわかっていない、それくらい自然に反応できてる」HR量産モードへ
+      <a href=https://news.yahoo.co.jp/articles/336d53614a463b508a367c1982f4a77f0000c447>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-21832020-jnn-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=454&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 吉本興業が謝罪　「ご迷惑・ご心配をお掛けしたこと、お詫び申し上げます」「再発防止に取り組んでまいります」　所属タレントのオンラインカジノ問題で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce480f258ed0b9821b16355ac453367c55c0a2cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米相互関税、日本に24％　一律10％、国別に上乗せ　5日から発動・トランプ政権
+      <a href=https://news.yahoo.co.jp/articles/eaa8f438641cb1a50ced68a538d35bcef526f199>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010011-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=651&ch=651&exp=10800&fmt=webp> 大谷翔平、観客のある“一言”を聞く→サヨナラホームラン打つ。「ボブルヘッドデーで決めるとこがスターだわ」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0dc6956776d996cd0a9d93cd783990ba94f261cce03e7904eb40f8dabab098a7.jpg> 米、輸入自動車への25%関税を発動
+      <a href=https://news.yahoo.co.jp/pickup/6534334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/9ae76c309410fd0f0d77e16c6e74a04c36836bd29d9349338fab62c1239e3e68.jpg> 「トランプ関税」巡る各国の反応
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534336>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/5feb65de2522fe59c00f176c7f5c4684d592c714facfd5e008767c006238c3c5.jpg> 東京株が急落 終値3万4735円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534323>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/a92178371bc01ea7ce5b5d90018c2b3e96abf33ad2ba05b7b60cf1e02aac4a43.jpg> 陸自レンジャー 年度内の育成中止
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534320>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/7a9fb4372555ee1f110353e70a7734115003a68394f4b704a5286198c092ebc8.jpg> 7匹→203匹 希少な魚が謎の急繁殖
+      <a href=https://news.yahoo.co.jp/pickup/6534329>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ec7db19085ecc9f441908e14f591a3e276a383dd70d8979c308118e742e5778c.jpg> 吉本芸人ら書類送検 給料前借りも
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/510e3caa1c1b3492cc45628c7a1992f5097d7c317b6a9e38a2fb9b919fb60194.jpg> 6人書類送検 吉本興業が謝罪
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 15:31:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 16:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
