@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/feae96ea0796c15e3f3c4eb17b57b0d1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c46e12e943c3f830b489c5b7948c7ea5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f207d798e4e41f81a82db4dea95cc301fd5bd30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-04031120-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=923&ch=923&exp=10800&fmt=webp> マンシーが話題の「魚雷」から自身のバットで２失策“帳消し”の同点打…大谷翔平のサヨナラ弾には「彼がここで決めると思った」
+      <a href=https://news.yahoo.co.jp/articles/b1e745107c69bee4aa2fb0331135643fb9477891>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00776548-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=58&cw=800&ch=800&exp=10800&fmt=webp> オンカジに最高5000万円　先輩芸人は驚愕「だいぶ若手の子」「どこから持ってきたのか」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10d9457207d99a4d2dbf1fe072559149889537f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34030788-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 令和ロマンくるまは「オンカジ」書類送検に名前なし「復帰して」「ぼちぼち劇場から」Ｘの声
+      <a href=https://news.yahoo.co.jp/articles/573e724ceca21c9c24aa4c4bf4ba3aa82768279f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-21831919-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 サヨナラ弾に「なに打ったかわかっていない、それくらい自然に反応できてる」HR量産モードへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61b3436a77c23d5a145015dc80a2f13ec32cb377>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000083-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 情報ＢＯＸ：世界が震撼、トランプ大統領が打ち出した相互関税とは
+      <a href=https://news.yahoo.co.jp/articles/ce480f258ed0b9821b16355ac453367c55c0a2cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米相互関税、日本に24％　一律10％、国別に上乗せ　5日から発動・トランプ政権
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7849f3436e4954e7ce14a63f4b2c86e1b3ca83b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000097-zdn_m-000-2-view.jpg?pri=l&w=180&h=180&order=c2r&cx=0&cy=0&cw=180&ch=180&exp=10800&fmt=webp> Nintendo Switch 2で使える「microSD Express」って何？　今までのmicroSDとの違いは“接続方法”と“スピード”
+      <a href=https://news.yahoo.co.jp/articles/37ddcd7167b938da40355e457c0a3a0af59c5049>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000009-ignjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> Nintendo Switch 2の名称、最初は「Super Nintendo Switch」という案も存在したことが判明 10周ぐらい回って「2」に着地
       </a>
     </td>
   </tr>
@@ -426,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/8383bd7e1b6acfacd6df47364bdd3cb32858ba4c40ff65764f174a542af1265a.jpg> トクリュウ摘発1万人超 実行役9割
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534323>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/a92178371bc01ea7ce5b5d90018c2b3e96abf33ad2ba05b7b60cf1e02aac4a43.jpg> 陸自レンジャー 年度内の育成中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534329>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ec7db19085ecc9f441908e14f591a3e276a383dd70d8979c308118e742e5778c.jpg> 吉本芸人ら書類送検 給料前借りも
       </a>
     </td>
   </tr>
@@ -458,8 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534324>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/13e2299895fb1ce6131d72c0af852bd266da70909e8059070d592599e1181b56.jpg> 大谷が劇的サヨナラ弾 開幕8連勝
+      <a href=https://news.yahoo.co.jp/pickup/6534333>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/299a34aa5fd4a62f18438e780481c86cadddabd04d944f130bf1147a06291d2b.jpg> ロッテ石川柊太が危険球退場 騒然
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534330>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/b36fe1f932a5b174a8e86763aba922b82c329b23a230a50538a86c154154bf0c.jpg> 大谷HR「観客に打てと言われた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/510e3caa1c1b3492cc45628c7a1992f5097d7c317b6a9e38a2fb9b919fb60194.jpg> 6人書類送検 吉本興業が謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 15:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 15:31:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
