@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5c1ba14972cd1a1f70fddce0ae7e8e6e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c514986b4bc0a25daf49ec18deacf88.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/854858a23172eaa9f974638789a9064d1137b048>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（3日）ダウ1679ドル安、ドル対円で6カ月ぶり安値・利回り大幅低下
+      <a href=https://news.yahoo.co.jp/articles/627bb75b5113628ed2ba99d846135192c8849578>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米株大幅下落、５年ぶりの下げ幅　相互関税で景気後退懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebfe9b891863c18454f1eccfd1f25625e8d694ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国に対する相互関税26%…トランプ大統領、貿易秩序を破壊
+      <a href=https://news.yahoo.co.jp/articles/0bb55976741f676e8a6c658054c7a57ef1856bd5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-01730687-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平を祝福するベッツ＆ロハスが“謎行動”　ファン発見のポーズ「今年流行りそう」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d58d2a0cf665799a679aeeca2478046b4283b05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00521479-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 劇的弾・大谷翔平を出迎えた“謎ポーズ”　喜ぶベッツの動きに日本人爆笑「おもろい」「CMのやつか」
+      <a href=https://news.yahoo.co.jp/articles/8b8cf1c0edead3df559f086451af4c863e8aecc4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本車の販売減懸念　雇用5万人減の試算も　トランプ関税
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65dff273a96ac08b539162068e20c23b9bb6b561>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00050205-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=39&cw=422&ch=422&exp=10800&fmt=webp> 関税分「吸収不可能」、国内自動車勢は利益２割減見込み…「価格上げなくてすむ会社はない」
+      <a href=https://news.yahoo.co.jp/articles/c66751becc9f972d39ee6847154ac6cfb3d9971c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-02288663-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=339&ch=339&exp=10800&fmt=webp> B'z　約30年ぶり　ルパン三世完全新作の主題歌　書き下ろす　松本孝弘「お気に入りのキャラクターは峰不二子」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534385>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e29b971d7ad8cb4ec74feafbdced13dc28ff2f85f944f887978867b5fcf91cc6.jpg> 万博ボラ採用者に不採用通知 謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534383>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/b0fdb6d197f540f46048f28957d7b4a499d8654ae533a2ca49feda5de3b4438d.jpg> 入社直後に退職代行を依頼 なぜ
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/f53d91112ef8815b7606eea90ca456569bd1283770456b0f7bc68834ee97eeab.jpg> 岡田結実 直筆文書で結婚報告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/b26fd66358ac03d8b5022fbb1c89084434df4698834be41d3258210cb615007e.jpg> 石橋貴明が食道がん公表 活動休止
+      <a href=https://news.yahoo.co.jp/pickup/6534384>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/5c8d4b6078a7c896d01d6290904f7d3839cdab742b632fa2a44ba5348543e7e7.jpg> ルパン映画公開へ B'zが主題歌
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 07:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 07:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
