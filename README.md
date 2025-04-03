@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3ac218dd6b40fe1b1d3bc5f6d78a5c31.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f06d3457b8153f544907004f1997b1a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e885884c98ec034338e80ebcba29cf2513ede27a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00078251-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> Switch 2の価格は約5万円　初代から5割増、ネットで不満続出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0536ec17013e76fe01546d20f1cf80319f8e3d9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34030232-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=29&cy=0&cw=1471&ch=1471&exp=10800&fmt=webp> ドジャース日本人トリオがブルペン調整　首振り人形が配布される大谷翔平は速球中心に15球
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ebb1158dd098683abe9efb91a103e7dc87bbca96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000043-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=1648&ch=1648&exp=10800&fmt=webp> 焦点:トランプ関税で世界経済は一段と地盤沈下か、国際経済システム転換点へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/35ad08e7bb96ad4214ccc01c913082778de009dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-01730311-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャースはなぜ“戦力外”の元盗塁王を獲得した？　首脳陣の見解、十八番以外の“素質”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bfc8e433388d08d19e0324736679051173aa8ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ政権が相互関税を発表：24％の追加関税で日本のGDPは0.59％低下
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f10f6d7f74dd97cff3d7d3722ccf7dc7bdc064f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-04031047-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1122&ch=1122&exp=10800&fmt=webp> 大谷翔平、４日ぶりのブルペンで直球＆ツーシーム１５球　山本由伸、佐々木朗希と日本人“そろい踏み”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66343cc53049ed48bfb3b0179a0aac0fde430ac5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000060-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=393&ch=393&exp=10800&fmt=webp> 「Switch 2、安すぎ？」――価格設定にSNS騒然　国内版と多言語版の“2万円差”にも反応
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-01730311-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャースはなぜ“戦力外”の元盗塁王を獲得した？　首脳陣の見解、十八番以外の“素質”
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534296>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/390fbea2ab2aef5634ab5f3ceb2c450347e184a68cd9844e6e6979e3ff609de6.jpg> 相互関税 日本の追加分は9日発動
+      <a href=https://news.yahoo.co.jp/pickup/6534300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e41685fc87c2a6846ec177d4dc771183288db317e583212afc6ebee9b55e8270.jpg> 東京株、一時1600円超の急落
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534277>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/40f59f5f75a0db7f136423f452bed7bdea1ed93abac533a77441d1c11b0b74a8.jpg> 吉本所属6人書類送検へ 賭博疑い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534285>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/9e22ca4738ef86579f7455cf9e2ded0d722964b1cc1f8e490f726bbd93c6992a.jpg> 「月の石」大阪万博で再び展示へ
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534297>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/b7aced2c5af3dd194413d5f8575204d311a43ad6a400ba2a92cf47d35ebd62ef.jpg> フジ 小学生発言の編集巡り謝罪
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 09:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 09:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
