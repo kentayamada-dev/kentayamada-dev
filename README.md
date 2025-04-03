@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d5b157c006ff8e99d3549c4b59ba02b5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6227eba095f3ad47e650d6d4950cf548.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/03c847420fae84bbdc7b02aff5215218e9ca864f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00038843-famitsu-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 『Drag x Drive（ドラッグ アンド ドライブ）』はSwitch2の力を見せる任天堂の“挑戦＆お手本”タイトル。マウス操作＆振動を通じて“遊び”の体験を手に実感させる【Switch2体験会】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6592640699fda2c27d8ac3c8067cd36318019b30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00339816-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【中日】好機に３併殺で巨人に連敗　田中将に日米通算１９８勝目をプレゼント
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fec15c71624a7e9589876df1fe2cc7324284daa2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010005-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=600&ch=600&exp=10800&fmt=webp> サヨナラ弾の大谷翔平「ボブルヘッドデーなんだからホームラン打てよと言われた（笑）打ててよかった」
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6281c0e5943b1e1b18c1cbb53c586e6bc4a8966>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000012-ignjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> Switch 2のパッケージ版ソフトには一部「キーカード」と呼ばれる仕組みが導入 パッケージ版だが、ゲームのダウンロードが必要
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33150a04cf24cd3aac75a5fa66997c179ae15fa0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000167-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 米議会、トランプ相互関税で賛否両論　不公平解消への期待と物価上昇への批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6017fc766af91d0d2d2c65b356a9e4fa2506e28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 逮捕状出ているイスラエルのネタニヤフ首相訪問直後、ハンガリーがICC脱退
+      <a href=https://news.yahoo.co.jp/articles/7eb1c0b7cb3012f2f3fe60a286dfb4ab6a6a52ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000115-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=776&ch=776&exp=10800&fmt=webp> トランプ関税、世界を圧迫　米経済に不況リスク
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534365>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/5ed48cffbc7137ca02970972c641e748995025936f2dc4704f30ebc7c8b12fe5.jpg> 日本産業界 米関税に困惑と怒り
+      <a href=https://news.yahoo.co.jp/pickup/6534371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3b6d2cb0a343730fcfa11a20d2d4d4fda027b9efedf06cd2d73222370b057a5a.jpg> 尹氏巡る宣告 傍聴席の倍率4819倍
       </a>
     </td>
   </tr>
@@ -427,23 +427,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534372>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 16歳遺体「会った翌日に刺した」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/efe6bac64b67bf2aba15977d7a19ae46d511616f9c7d9b1d4a1837f221e54e01.jpg> 16歳遺体「会った翌日に刺した」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/f9431984f2aa8c43d2f358cb35045dee58a8f171933069a3bec9e2a8f97195f9.jpg> クマに襲われ ハンター顔にけが
+      <a href=https://news.yahoo.co.jp/pickup/6534375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/667b34d978b7b76b476cb66dbdfea3b0bf86c357a3a7e3dcfc3714a538ecfafa.jpg> すき家24h営業取りやめ ほぼ全店
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/4e63471b0a2dfba4196dbf65821d27b4031320f44f500c30cc45f2d30a182207.jpg> 田中将大 勝利投手の権利持ち降板
+      <a href=https://news.yahoo.co.jp/pickup/6534376>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/cf93076a7c36b0a6541ec04c5089684bf60120c02c1450954fc0ec08a53fa5a6.jpg> 巨人・田中将大 586日ぶり勝利
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 21:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 22:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
