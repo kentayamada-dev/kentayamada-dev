@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4ee163cd9c9db7e71526286cc7f5507.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ee4b9c318216080a4b6746ecfeadac0f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/916deef699a40b95d99225e769a8a00fb740efaa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000370-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=201&cw=605&ch=605&exp=10800&fmt=webp> デコピンに「最優秀“犬”」の特製クッキー　SNSは「異論なし！」「デコピン君もMVP級の活躍」
+      <a href=https://news.yahoo.co.jp/articles/4e56f0a5d320a87e60b7abaf0cf2c12da88e8c84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-01730875-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=600&ch=600&exp=10800&fmt=webp> デコピンに女性記者が“キュン”「OMG」　大谷翔平だけに見せる表情が「完全に虜」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7b96793ffcd439ca340e1e2a8054bfb021d3900a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00078283-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプの関税計算式に「経済的合理性なし」「信じがたいほど愚か」と専門家酷評
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4ca1cf7295f1124e54c8453b8f8d4a4895a829b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000127-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=673&ch=673&exp=10800&fmt=webp> 国民民主・玉木代表　“トランプ関税”9日発動「それまでに石破総理はアメリカに行って直接交渉すべき」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/627bb75b5113628ed2ba99d846135192c8849578>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米株大幅下落、５年ぶりの下げ幅　相互関税で景気後退懸念
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/667b34d978b7b76b476cb66dbdfea3b0bf86c357a3a7e3dcfc3714a538ecfafa.jpg> すき家24h営業取りやめ ほぼ全店
+      <a href=https://news.yahoo.co.jp/pickup/6534386>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/848a9d48675fccfdb6224a2a102520ad0174d2a8a4dfab80a987c18c836286cb.jpg> マーさんのために Gリリーフ一丸
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 08:00:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 08:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
