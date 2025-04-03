@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c5b4afbfc1230dca714d4701588dd0bf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e810223894537705ba9177d695063a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62a3ce2565befcdb3605805c65b69b0a3f406b8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34031902-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=620&ch=620&exp=10800&fmt=webp> 【中日】９安打も３併殺が響き巨人に連敗…借金２も井上監督「粘り強くやるものは見えた」
+      <a href=https://news.yahoo.co.jp/articles/cdc311a574abd7e3dcf312c9796529924957eccb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34031884-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1369&ch=1369&exp=10800&fmt=webp> 【巨人】586日ぶり復活星の田中将大「２人して存在感出せた」幼なじみの盟友坂本の援護受け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0941f03d7e1df572d3e9f19e453bf32c8ec96f1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00952664-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】ドジャース開幕8連勝!大谷翔平9回裏劇的サヨナラホームラン　ヒーローインタビューで話した「マンシー」も新型“魚雷型”バットを?
       </a>
     </td>
   </tr>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fec15c71624a7e9589876df1fe2cc7324284daa2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010005-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=600&ch=600&exp=10800&fmt=webp> サヨナラ弾の大谷翔平「ボブルヘッドデーなんだからホームラン打てよと言われた（笑）打ててよかった」
+      <a href=https://news.yahoo.co.jp/articles/72d90f03d0da858e78ffb201f6a3f0d9b581e626>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000090-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 総務省、フジテレビを行政指導　大臣名での厳重注意は異例
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b03228058051796c13bd9de07817142cddd9725>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-10171874-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=984&ch=984&exp=10800&fmt=webp> フジ株主の米ファンド 留任取締役の交代要求
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534363>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米関税巡り 与野党党首が会談へ
+      <a href=https://news.yahoo.co.jp/pickup/6534380>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/96955cabedb27fb685bd3f81283c3425a7bad5f65c3498943992786399a96e34.jpg> NYダウ 一時1200ドル超の下落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/f7e75b41fe39d36ec4f73b7dec354c2ab241220e28d30e16fb8ce1c96e675752.jpg> 一時1ドル145円台 約半年ぶり水準
+      <a href=https://news.yahoo.co.jp/pickup/6534373>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0cae7d39f41a55f5a3776e72cb150f4ada267365bb6fe406cac8ae94c6f55e77.jpg> 高市氏 米関税巡る政府対応を批判
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 22:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 23:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
