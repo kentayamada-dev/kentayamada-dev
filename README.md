@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e810223894537705ba9177d695063a0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/950ac5c1d9435109b453c1dd152d19fa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cdc311a574abd7e3dcf312c9796529924957eccb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34031884-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1369&ch=1369&exp=10800&fmt=webp> 【巨人】586日ぶり復活星の田中将大「２人して存在感出せた」幼なじみの盟友坂本の援護受け
+      <a href=https://news.yahoo.co.jp/articles/7034438edac6b0be87faa16a787caeecdd94116b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-01523415-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 『Nintendo Switch 2 』体験会を取材　マイクも内蔵　本体の変化や進化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e0472663bf0fd2ce7d6d9d881008f0580dec12a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-04031270-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=883&ch=883&exp=10800&fmt=webp> マーさんのために！リリーフ陣一丸で逃げ切った　船迫大雅「とにかくマーさんの勝ちを消さないようにと」
       </a>
     </td>
   </tr>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b223e3987c3119885057d22b60559bf2e7e7844c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000032-impgmw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800&fmt=webp> 「Nintendo Switch 2 のひみつ展」最速試遊レポ。60fpsと120fpsを見分けるミニゲームが難しい！ Switch2の様々な隠された機能を万博感覚で楽しめる
+      <a href=https://news.yahoo.co.jp/articles/564b1f1fa1f8b7b010463b6a26c8ebf74980af34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90022153-nmit-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 自動車に追加関税発動　岩手県内経済への影響懸念　トランプ政権「相互関税」の発表も
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/72d90f03d0da858e78ffb201f6a3f0d9b581e626>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000090-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 総務省、フジテレビを行政指導　大臣名での厳重注意は異例
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33150a04cf24cd3aac75a5fa66997c179ae15fa0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000167-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 米議会、トランプ相互関税で賛否両論　不公平解消への期待と物価上昇への批判
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534376>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/cf93076a7c36b0a6541ec04c5089684bf60120c02c1450954fc0ec08a53fa5a6.jpg> 巨人・田中将大 586日ぶり勝利
+      <a href=https://news.yahoo.co.jp/pickup/6534378>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/6d5095eb988b72d863ef3374bdd4478fe10e4087e885359b2488f162f13e3117.jpg> 田中将大が白星「最高のチーム」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 23:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 23:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
