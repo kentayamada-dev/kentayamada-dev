@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b954e87aa4ac3eb34fb7f150334261a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f1ee19b99a080c94e00497417f90de02.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7a739ef6321aba01181372b94dce580165563e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000476-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=957&ch=957&exp=10800&fmt=webp> 石橋貴明、食道がん公表に反響　SNSに応援の声続々「しっかり治してくれよ!!!魂ぃ!!」「帝京魂で乗り越えて下さい」
+      <a href=https://news.yahoo.co.jp/articles/33150a04cf24cd3aac75a5fa66997c179ae15fa0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000167-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 米議会、トランプ相互関税で賛否両論　不公平解消への期待と物価上昇への批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a21838d620238c21227b374b8bb4ec114b20b61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90022143-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手がサヨナラ弾で開幕8連勝　“ボブルヘッドデー”に花添える
+      <a href=https://news.yahoo.co.jp/articles/d9cbe00ad064685cc991df92930d7f9d1cc45893>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-10171905-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=307&cy=0&cw=994&ch=994&exp=10800&fmt=webp> 「打つぞ…打つぞ…」大谷翔平が打席に立った瞬間、“異様な雰囲気”に…「やってくれそう」から“初球サヨナラ弾で歓喜爆発”の一部始終
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a6017fc766af91d0d2d2c65b356a9e4fa2506e28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 逮捕状出ているイスラエルのネタニヤフ首相訪問直後、ハンガリーがICC脱退
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3b03228058051796c13bd9de07817142cddd9725>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-10171874-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=984&ch=984&exp=10800&fmt=webp> フジ株主の米ファンド 留任取締役の交代要求
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e4b18170f011c46f3fe092a32395a35989460bb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-04921392-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 武藤経産相「相互関税」米商務長官に適用除外を要請
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/6067fda855e4e09b1ae25ebe308624fb20ca5189bfb7584f775f29d2e106c118.jpg> 米経済界 トランプ関税に失望の声
+      <a href=https://news.yahoo.co.jp/pickup/6534368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/de169a9585e00c8147779dc288df726ac994278766abe447306e8799be776523.jpg> ハンガリー ICCからの脱退を表明
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534367>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/b26fd66358ac03d8b5022fbb1c89084434df4698834be41d3258210cb615007e.jpg> 石橋貴明が食道がん公表 活動休止
+      <a href=https://news.yahoo.co.jp/pickup/6534361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/f53d91112ef8815b7606eea90ca456569bd1283770456b0f7bc68834ee97eeab.jpg> 岡田結実 直筆文書で結婚報告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534355>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/cdf7c53d6f7a5ffee0a7251034081b8eada878a9a60887e9e427a35fd6341df4.jpg> 俳優・岡田結実 結婚を発表
+      <a href=https://news.yahoo.co.jp/pickup/6534367>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/b26fd66358ac03d8b5022fbb1c89084434df4698834be41d3258210cb615007e.jpg> 石橋貴明が食道がん公表 活動休止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 20:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 21:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
