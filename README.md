@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dffc227dbd9b9347c74cf4041dd08b0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/feae96ea0796c15e3f3c4eb17b57b0d1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a7f927acae9b99aae55f5dad899cb398b3fc33e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000053-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=904&ch=904&exp=10800&fmt=webp> 大谷翔平ボブルヘッド人形に、デコピンも目を細める…劇的サヨナラ弾直後に最新“ツーショット”公開…ファン歓喜「うれしそう」
+      <a href=https://news.yahoo.co.jp/articles/8f207d798e4e41f81a82db4dea95cc301fd5bd30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-04031120-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=923&ch=923&exp=10800&fmt=webp> マンシーが話題の「魚雷」から自身のバットで２失策“帳消し”の同点打…大谷翔平のサヨナラ弾には「彼がここで決めると思った」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/10d9457207d99a4d2dbf1fe072559149889537f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34030788-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=1060&ch=1060&exp=10800&fmt=webp> 令和ロマンくるまは「オンカジ」書類送検に名前なし「復帰して」「ぼちぼち劇場から」Ｘの声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/61b3436a77c23d5a145015dc80a2f13ec32cb377>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000083-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 情報ＢＯＸ：世界が震撼、トランプ大統領が打ち出した相互関税とは
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7849f3436e4954e7ce14a63f4b2c86e1b3ca83b5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000097-zdn_m-000-2-view.jpg?pri=l&w=180&h=180&order=c2r&cx=0&cy=0&cw=180&ch=180&exp=10800&fmt=webp> Nintendo Switch 2で使える「microSD Express」って何？　今までのmicroSDとの違いは“接続方法”と“スピード”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb8155b840b176f84071e94391a1e7be40ac474d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000232-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=710&ch=710&exp=10800&fmt=webp> 所属タレント6人が書類送検　吉本興業が謝罪「研修の実施等、会社全体で再発防止に取り組む」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3070d0c99a5bfec5a0d78682965cfdf208dad6c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000077-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 中国、米に関税の即時撤回を要求　「対抗措置」宣言
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534332>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3a4ee84c708a576610c98adafd7dda3b9707b06104fa1d9ef18dd04d7392c59b.jpg> 米の関税措置巡り 首相「不本意」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534326>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0dc6956776d996cd0a9d93cd783990ba94f261cce03e7904eb40f8dabab098a7.jpg> 米、輸入自動車への25%関税を発動
       </a>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534312>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/7ef36f694a0669682eb180d1ca8ac601d2793c2c72bcf0568c8aded2cc56214a.jpg> EU首脳 米関税に解決策模索の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534316>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/d701c2feb07fef0531c5726928e7222a7b6a36d738a7b7a66f4b150ba9eb6696.jpg> 中国 米相互関税に「対抗措置」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 14:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 15:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
