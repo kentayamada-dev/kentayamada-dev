@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5c8bb42bbb24e573802c92a2fac8e812.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/73153de66336b33accfb29ef76fe7c56.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f32ad551814168288f2d58511b07499af81c5b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-90021982-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 日本『24％』根拠は「いい加減な計算式」トランプ氏“衝撃相互関税”の行方は
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-90021982-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 日本『24％』根拠は「いい加減な計算式」トランプ氏“衝撃相互関税”の行方は
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 02:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 03:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
