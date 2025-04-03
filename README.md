@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ad17d2fea2683899ce8e69206598027.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e9e83923f0aee6108cc41edbe5098c8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc94c515293f3c15159eb65bab877239d5ab87e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-10171825-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=985&ch=985&exp=10800&fmt=webp> 米「相互関税」に対し、EUと中国が“報復措置”を警告
+      <a href=https://news.yahoo.co.jp/articles/50681ffa30f82ec45fb6e83638a1ccdfede52644>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-09729936-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> オンラインカジノで賭博か　吉本タレント6人書類送検…給料前借りした人も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/336d53614a463b508a367c1982f4a77f0000c447>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-21832020-jnn-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=454&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 吉本興業が謝罪　「ご迷惑・ご心配をお掛けしたこと、お詫び申し上げます」「再発防止に取り組んでまいります」　所属タレントのオンラインカジノ問題で
+      <a href=https://news.yahoo.co.jp/articles/6965ecba55674708e8f828835bd74a9d8938351e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000111-zdn_m-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=352&ch=352&exp=10800&fmt=webp> Nintendo Switch 2向け「microSD Expressカード」、早くも“売り切れ”か　256GBは9580円→1万7700円に高騰
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eaa8f438641cb1a50ced68a538d35bcef526f199>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010011-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=651&ch=651&exp=10800&fmt=webp> 大谷翔平、観客のある“一言”を聞く→サヨナラホームラン打つ。「ボブルヘッドデーで決めるとこがスターだわ」
+      <a href=https://news.yahoo.co.jp/articles/c8b3677f787ddcfd5d047f2621b74e2c454d5731>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-01729632-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平のサヨナラ弾の“呼び水”　不調のマンシーが試合後に語った想い「粋なこと」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37ddcd7167b938da40355e457c0a3a0af59c5049>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000009-ignjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> Nintendo Switch 2の名称、最初は「Super Nintendo Switch」という案も存在したことが判明 10周ぐらい回って「2」に着地
+      <a href=https://news.yahoo.co.jp/articles/fcaf3def98ae40ba5ebc090e8294d9568165579b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「応じる用意がある」EUがトランプ関税に報復警告　欧州委長、対話も呼びかけ、各国も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd282068c8b07ddc3f1c5c41ee88df87830d697b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228307-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “戦闘停止”発表も軍が救援活動を制限か　ミャンマー大地震 死者3000人超える　戦闘地域周辺は孤立状態
+      <a href=https://news.yahoo.co.jp/articles/31b4cee1f5016dd12d1ad1124a645483b12b6f57>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000053-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フジ問題　株主の米ファンドが留任取締役の交代要求
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3a4ee84c708a576610c98adafd7dda3b9707b06104fa1d9ef18dd04d7392c59b.jpg> 米の関税措置巡り 首相「不本意」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534334>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/9ae76c309410fd0f0d77e16c6e74a04c36836bd29d9349338fab62c1239e3e68.jpg> 「トランプ関税」巡る各国の反応
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534312>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/7ef36f694a0669682eb180d1ca8ac601d2793c2c72bcf0568c8aded2cc56214a.jpg> EU首脳 米関税に解決策模索の声
+      <a href=https://news.yahoo.co.jp/pickup/6534332>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3a4ee84c708a576610c98adafd7dda3b9707b06104fa1d9ef18dd04d7392c59b.jpg> 米の関税措置巡り 首相「不本意」
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/a92178371bc01ea7ce5b5d90018c2b3e96abf33ad2ba05b7b60cf1e02aac4a43.jpg> 陸自レンジャー 年度内の育成中止
+      <a href=https://news.yahoo.co.jp/pickup/6534338>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/5b1463474d54388463be30953b04e7ee9a56ec01fc4f3b7ffdfdb8789cb227ee.jpg> 米株主 フジHD経営陣の交代要求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534339>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/38d54f8bfe3ad6814f6f20b71948c6f97df0079cb0373ca58b1313b81f1293ec.jpg> 車と衝突の邦人観光客が死亡 台湾
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/299a34aa5fd4a62f18438e780481c86cadddabd04d944f130bf1147a06291d2b.jpg> ロッテ石川柊太が危険球退場 騒然
+      <a href=https://news.yahoo.co.jp/pickup/6534342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/f64c14f72a78eb40dd12c6bc204bc27529244f97836ca0ce94b0d52b36ba3d8b.jpg> 安土城下町の石垣か 湖岸で初発見
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 16:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 16:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
