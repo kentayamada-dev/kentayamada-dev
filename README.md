@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ba87a967f49b0881ec043793dd63ad73.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dad5f4021bb7d96cb36a45e4ce7987b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1bc375b2b246ecaaa67ea6940867f694272d1246>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ急落、1679ドル安＝相互関税で景気後退リスク（3日）
+      <a href=https://news.yahoo.co.jp/articles/632f900ebe2f69dc55d1f734e5016ea7e9b26019>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228540-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> NYダウ “トランプ関税ショック”で急落　一時1700ドル以上の値下がりに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5751486e856ddc4e214f6ece1e42962af307d556>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000005-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> カナダ、米国製自動車に25％の報復関税　カーニー首相「不当だ」
+      <a href=https://news.yahoo.co.jp/articles/2bc1774d3684a758dba066897beef4e0c3fa0be7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国、関税策の影響広がる　経営環境激変で対応不可避
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/674795bd68f6fa1aeb0d04843f3650ddc0740d07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1562&ch=1562&exp=10800&fmt=webp> 大谷翔平「素晴らしいゲーム見てもらい選手冥利に尽きる」【一問一答】
+      <a href=https://news.yahoo.co.jp/articles/0923b25bc5e0c807b9a3d96725bc3c6c0e98c073>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-10171920-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=437&cy=0&cw=800&ch=800&exp=10800&fmt=webp> めっちゃ楽しそう…！ 大谷翔平、ベンチではしゃぎまくる「テンション高っ」「最高すぎる」 同僚のアーチで見せた“ほっこりシーン”
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 05:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 06:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
