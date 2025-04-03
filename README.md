@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f1ee19b99a080c94e00497417f90de02.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d5b157c006ff8e99d3549c4b59ba02b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fec15c71624a7e9589876df1fe2cc7324284daa2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010005-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=600&ch=600&exp=10800&fmt=webp> サヨナラ弾の大谷翔平「ボブルヘッドデーなんだからホームラン打てよと言われた（笑）打ててよかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f6281c0e5943b1e1b18c1cbb53c586e6bc4a8966>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000012-ignjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> Switch 2のパッケージ版ソフトには一部「キーカード」と呼ばれる仕組みが導入 パッケージ版だが、ゲームのダウンロードが必要
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/33150a04cf24cd3aac75a5fa66997c179ae15fa0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000167-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> 米議会、トランプ相互関税で賛否両論　不公平解消への期待と物価上昇への批判
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9cbe00ad064685cc991df92930d7f9d1cc45893>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-10171905-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=307&cy=0&cw=994&ch=994&exp=10800&fmt=webp> 「打つぞ…打つぞ…」大谷翔平が打席に立った瞬間、“異様な雰囲気”に…「やってくれそう」から“初球サヨナラ弾で歓喜爆発”の一部始終
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a6017fc766af91d0d2d2c65b356a9e4fa2506e28>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 逮捕状出ているイスラエルのネタニヤフ首相訪問直後、ハンガリーがICC脱退
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b5b0e3eb742b5e1a974edb70829591a6ede7cce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000027-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=446&ch=446&exp=10800&fmt=webp> 「スイッチ2」ひとまとめ！ 価格・発売日・性能から新機能「Cボタン」まで─対応のmicroSD EXPRESSカードや「キーカード」は要確認
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/7aa5458abe582e00fc55566796db13d0cce9712da93f2d64b5d6a317e0cfde25.jpg> 報復関税は「正直難しい」経産相
+      <a href=https://news.yahoo.co.jp/pickup/6534363>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 米関税巡り 与野党党首が会談へ
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/f9431984f2aa8c43d2f358cb35045dee58a8f171933069a3bec9e2a8f97195f9.jpg> クマに襲われ ハンター顔にけが
+      <a href=https://news.yahoo.co.jp/pickup/6534372>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 16歳遺体「会った翌日に刺した」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534362>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ae533f78d08217d24f33b16f64f0490441075b45a7d34073936181f2e8fb46a5.jpg> 横断歩道ではねられ12歳重体 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6534364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/f9431984f2aa8c43d2f358cb35045dee58a8f171933069a3bec9e2a8f97195f9.jpg> クマに襲われ ハンター顔にけが
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 21:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 21:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
