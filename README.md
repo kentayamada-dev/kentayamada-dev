@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e94548a4e82f67ac6917ca156ce8ad2a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2b447ceb499afb403dfe9305ef8b09b1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61b28f3176d4ed3a90a9d289aba9e2433478c523>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34031192-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=548&cy=0&cw=952&ch=952&exp=10800&fmt=webp> 【データ】ドジャース開幕８連勝は70年ぶり３度目、55年はWシリーズＶも40年はナ２位
+      <a href=https://news.yahoo.co.jp/articles/0ef2333c4f7e180a1e62601ade3d034cb2147bbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-06856379-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【トランプ関税】福岡の企業からも不安の声「購買意欲は低下してしまう」「影響は計り知れない」県は相談窓口を開設
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5968f1b79fbda59d885132e3e24c59db36e0e836>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-10171871-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=546&ch=546&exp=10800&fmt=webp> フジ親会社の大株主に旧村上ファンド系
+      <a href=https://news.yahoo.co.jp/articles/3b03228058051796c13bd9de07817142cddd9725>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-10171874-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=984&ch=984&exp=10800&fmt=webp> フジ株主の米ファンド 留任取締役の交代要求
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/551abf0b484f9c9af8d2743d461522086b6405f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-16310389-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏の相互関税は「世界経済にとって大打撃」　各国から非難相次ぐ
+      <a href=https://news.yahoo.co.jp/articles/e9e23e41cc9cd2ba275b02b4c3921a7a46c96030>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34031223-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 有名コメンテーター「英語で聞き取れたらスゴい」大谷翔平への観客の声援→サヨナラ弾ホメちぎる
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534348>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 旧安倍派幹部3人 処分満了で声明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534345>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/b625a7423d9b1c1cf4be02e5b48bc21620e2b0227c932b17301db7a952e2ab84.jpg> コメ巡る米発言 理解不能と農水相
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534339>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/38d54f8bfe3ad6814f6f20b71948c6f97df0079cb0373ca58b1313b81f1293ec.jpg> 車と衝突の邦人観光客が死亡 台湾
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534341>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/068bb8101430b5e0d86081a7765c11396db56aafd30f3c35440fdf0e4da515d0.jpg> 「街の洋菓子店」の倒産 過去最多
+      <a href=https://news.yahoo.co.jp/pickup/6534354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/abce3f66603ce4e850a47360e8c5bcba4a1de4e03f36461819bf113f3e6009c7.jpg> 免許証 マイナと「2枚持ち」7万人
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534343>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/6f1f01cb815db63ac08bf7582fd8e93fd0202c166a6660839686e37f91df1143.jpg> 森保氏「サッカー界の大谷」要望
+      <a href=https://news.yahoo.co.jp/pickup/6534340>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3fed47038e9737a69b5882970a77a6bcd2dc1424296a64c86a925b10d19959e2.jpg> 速報 田中将大が巨人で初先発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534330>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/b36fe1f932a5b174a8e86763aba922b82c329b23a230a50538a86c154154bf0c.jpg> 大谷HR「観客に打てと言われた」
+      <a href=https://news.yahoo.co.jp/pickup/6534355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/cdf7c53d6f7a5ffee0a7251034081b8eada878a9a60887e9e427a35fd6341df4.jpg> 俳優・岡田結実 結婚を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 18:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 18:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
