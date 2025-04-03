@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6586e32200f8bc301af8a8dfb1ad67bb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dd4a5920bba258cdfc8e97db8a87140a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/828484c4549e0f0c4542f1607b6d0f1c67688103>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000065-it_nlab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=332&ch=332&exp=10800&fmt=webp> ニンテンドースイッチ2、詳細が明らかに　価格や新機能、予約方法など8つのポイント
+      <a href=https://news.yahoo.co.jp/articles/bd282068c8b07ddc3f1c5c41ee88df87830d697b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228307-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “戦闘停止”発表も軍が救援活動を制限か　ミャンマー大地震 死者3000人超える　戦闘地域周辺は孤立状態
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6c6cb666cc2f7ec0d4ca87366a167bff070cbde>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00952187-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ミャンマー大地震の死者3000人超に…351人が安否不明　軍事政権も民主派組織などとの一時停戦を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40f40dcf10e5ba2376de0b1df9cefff6467fedf8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000022-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=879&ch=879&exp=10800&fmt=webp> 「世界が振り回されている」　山形県知事が懸念　県内に自動車関連産業多く　トランプ関税
+      <a href=https://news.yahoo.co.jp/articles/45d30078e18eaceda6a3ebd4cc38f9a7f90328f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000387-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「Switch 2」購入できる？抽選販売に願う声　応募条件に「俺、買えるかな？」「絶対ほしいけど…」
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1f57bc60bb08a5f7a886e85cb8921875f9abdd4a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000018-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=369&ch=369&exp=10800&fmt=webp> 大麻絡む摘発人数、過去2番目　コカイン摘発も急増、若者乱用目立つ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e48e42a6aaf722c7369f7b74a6f1fdd456d6edf4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228312-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】トランプ政権の相互関税「34%」に中国「対抗措置をとる」と反発
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e9ad044deb0ae88857f6744f7f0ec46a0d1b10c3328fbee12dac77a6b89bfc94.jpg> 24年大麻巡り中学生26人摘発 最多
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e41685fc87c2a6846ec177d4dc771183288db317e583212afc6ebee9b55e8270.jpg> 東京株、一時1600円超の急落
+      <a href=https://news.yahoo.co.jp/pickup/6534317>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/8957d962a1b2ba49db181217467320f4691fe97a4f27874bc1662e5e0b4d1b91.jpg> 米に関税措置見直すよう要請 林氏
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534310>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/fc33f2a99dd78ee121ba8c69d89ce487f6360e5572e86195f34ab4625cc68318.jpg> 退任報道 マスク氏はフェイク主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534313>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e9ad044deb0ae88857f6744f7f0ec46a0d1b10c3328fbee12dac77a6b89bfc94.jpg> 24年大麻巡り中学生26人摘発 最多
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3be077d5bcd9e8ba1cda7d1919512207b0e120bdd4e120a78dc08b53723ba600.jpg> ラーメン店の倒産 減少も高水準
+      <a href=https://news.yahoo.co.jp/pickup/6534287>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/a7b2f6b0824fdbf644fef36d9d76d354e59696f9f459c38cd5dec5fc3bd1ca34.jpg> TikTok米事業買収 Amazonが提案
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 12:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 12:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
