@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/caecf9806c24a53de84e24dac215e322.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5a78eafa6f608e6c44e345eb132e2d2d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30990449e92b911ee51c43d11edac892bc986390>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010012-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「何てことだ！」大谷翔平、規格外の第3号サヨナラホームラン！　米メディアも衝撃「まったく不条理な…」
+      <a href=https://news.yahoo.co.jp/articles/ed67947fbca05d59e16bce3a659e91bb65ba7f43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000217-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 【大谷翔平と一問一答】サヨナラ弾直前の「打てよ」の声の主は？「誰かはわからないですが…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/259b1564694f66b003f95921885849eaaa7f5581>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000012-giz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=539&ch=539&exp=10800&fmt=webp> 「Nintendo Switch 2」の発表配信でわかったことまとめ
+      <a href=https://news.yahoo.co.jp/articles/f417277c349a4ee237d22fa52a746cf866daa3ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000045-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 中国、米国に報復措置を検討　相互関税は「断固として反対」　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/987876a396ed9e148105e5daf5a199fee672b6a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000023-impgmw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800&fmt=webp> Switch2に採用された「microSD Expressカード」って何？ 通常の「microSDカード」との違いを解説
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e48e42a6aaf722c7369f7b74a6f1fdd456d6edf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228312-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】トランプ政権の相互関税「34%」に中国「対抗措置をとる」と反発
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/8957d962a1b2ba49db181217467320f4691fe97a4f27874bc1662e5e0b4d1b91.jpg> 米に関税措置見直すよう要請 林氏
+      <a href=https://news.yahoo.co.jp/pickup/6534326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0dc6956776d996cd0a9d93cd783990ba94f261cce03e7904eb40f8dabab098a7.jpg> 米、輸入自動車への25%関税を発動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534316>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/d701c2feb07fef0531c5726928e7222a7b6a36d738a7b7a66f4b150ba9eb6696.jpg> 中国 米相互関税に「対抗措置」
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534325>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/12dbdd3d55db058f31f017b27e21b0ba31fe781d24d80bbe00190ccb0db8eab3.jpg> フジテレビを行政指導へ 総務省
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/762d2416ee0a10307c593f1057d6e965f9e38de88158af27bf980f0e6dfdaaca.jpg> 吉本所属6人書類送検 賭博疑い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 13:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 13:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
