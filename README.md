@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/e-mliu9q5W4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6d8dc8fb78b8ba79f56ab49d10ad5fea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/801ec926bbd9f19d6340e71d13a38e27.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0633afc6bf34215267a50dfef7d63c2aad6fa2cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-04031240-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=645&ch=645&exp=10800&fmt=webp> 大谷翔平フィーバーはケタ違い…ボブルヘッドデーは試合５時間前に３００人が行列、ビジネスの場にも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d4f0dcbbad60257c73dce99188664f91be694f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228519-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> NY株も急落…衝撃の“トランプ関税” 日本は「24％」も根拠は“不明”　企業からは不安の声「景気冷え込む」「アメリカ以外の販路拡大検討」【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c408f0bb27b45d55a3a5e69805d7858f6b7c28e7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-90018553-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> ”空飛ぶクルマ”が大阪・関西万博の開幕日にデモ運航へ
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14ce37b3e6e3af88b8ddfb30f970f878f7b2cae5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米国株式市場・寄り付き＝急落、ダウ1300ドル超安　トランプ関税で景気後退懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e34786e94d9a49fc925680d3b6dc1e43f63e893>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00038864-famitsu-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> “ゲームキューブ Nintendo Classics”はゲームごとにボタン設定を変更可能。“いまの時代に合った操作”に自らカスタムできる【Switch2体験会】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67b1dc3afa0adb7336d66359101c28319cd3f7ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010008-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平 ドジャースを開幕8連勝に導く3号サヨナラアーチに「自分にとって特別。いい夜だった」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 00:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 01:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
