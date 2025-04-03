@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7de7be979685177a2c84b1e95ecc4f4b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/901827cd8b0605cdf74c8dcc94611194.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/358380d08b81e2f22c17706175ed0539bec30b6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000031-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> EU各国首脳、批判と解決策模索の声　トランプ政権「相互関税」受け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6b6ef25487d54b9ead8aa8256d979a62aa8504c1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000002-economist-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=94&cw=613&ch=613&exp=10800&fmt=webp> ミャンマー中部でM7.7　プレート衝突の断層動く大地震　鎌田浩毅
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92ffb9ddc2e75236eff2dadc2a6e8253ace0f252>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-21830776-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=661&ch=661&exp=10800&fmt=webp> 【俳優・市川知宏　＆　元乃木坂46・永島聖羅】　結婚を発表　「感謝を忘れることなく、互いを尊重し支え合い、 一つ一つのお仕事に真摯に向き合い精進して参ります」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51c5b640709a59b45649935b3769e53eaeab792d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34030325-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=115&cw=954&ch=954&exp=10800&fmt=webp> 「石破政権から危機感伝わらず」小沢一郎氏、トランプ関税への政府対応批判「打つ手無し」とも
       </a>
     </td>
   </tr>
@@ -389,8 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66343cc53049ed48bfb3b0179a0aac0fde430ac5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000060-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=393&ch=393&exp=10800&fmt=webp> 「Switch 2、安すぎ？」――価格設定にSNS騒然　国内版と多言語版の“2万円差”にも反応
+      <a href=https://news.yahoo.co.jp/articles/e885884c98ec034338e80ebcba29cf2513ede27a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00078251-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> Switch 2の価格は約5万円　初代から5割増、ネットで不満続出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/68f93fd8792b957b8ca0535c72ae766ce3959085>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-04654492-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】奈良・橿原 4歳女児暴行死　母親の交際相手の男性の無罪確定　奈良地検が控訴せず
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534307>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/fbb0a55d3bf27b6a0ac1f91f667fde65ca37123757a94c96a445cca94bc92be8.jpg> 奈良の4歳死亡 男性の無罪確定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534303>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/762d2416ee0a10307c593f1057d6e965f9e38de88158af27bf980f0e6dfdaaca.jpg> 吉本所属6人書類送検 賭博疑い
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534294>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/9c9e3545e8c49b5cca21c0d258dc3ccd0a3d0625c915d457dfbd02705d403273.jpg> Switch2どう進化 既存機種と比較
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534305>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0a773ad6c32117d307073e109d72836a3b5f2adf3fb3999d684ceaf9a90259fd.jpg> 元乃木坂・永島聖羅が結婚発表
+      <a href=https://news.yahoo.co.jp/pickup/6534306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0a773ad6c32117d307073e109d72836a3b5f2adf3fb3999d684ceaf9a90259fd.jpg> 永島聖羅と市川知宏 結婚を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 10:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 11:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
