@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/e-mliu9q5W4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/j9_ncNO7ws4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dad5f4021bb7d96cb36a45e4ce7987b5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7587f682b54f4bc3c6238cdb115e33d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5bbd9d72c2414a537852a9184105ad21c538bf44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00952704-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> NYダウ一時1700ドル超下落…トランプ氏は“良い影響もたらす”と強調
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/632f900ebe2f69dc55d1f734e5016ea7e9b26019>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228540-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> NYダウ “トランプ関税ショック”で急落　一時1700ドル以上の値下がりに
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228540-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> NYダウ “トランプ関税ショック”で急落　一時1700ドル以上の値下がりに
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534381>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/161da2183d4fa8098a90e12a560a763bed80b3f511a1ccfb720100d2ea206eb8.jpg> NY株大幅反落 一時1500ドル超安
+      <a href=https://news.yahoo.co.jp/pickup/6534382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/621a63efb7954b2f57c7e529e826987711505cba00ab0296d8660bbe38a98576.jpg> NY株終値1679ドル安 米関税巡り
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 06:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 06:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
