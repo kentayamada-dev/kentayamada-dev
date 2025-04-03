@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/94707bb3587ace1e51738d7ca63bb310.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c8bb42bbb24e573802c92a2fac8e812.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96ac13e42e8fee49b83b30641aaf6608a2be4f01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000086-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=834&ch=834&exp=10800&fmt=webp> ドジャース・大谷　サヨナラ3号ソロで開幕8連勝「いい夜だった」前年世界一チーム史上初の快挙
+      <a href=https://news.yahoo.co.jp/articles/0f32ad551814168288f2d58511b07499af81c5b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-90021982-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 日本『24％』根拠は「いい加減な計算式」トランプ氏“衝撃相互関税”の行方は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4b968efed47a41825794ab7d4a1754928e72c74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000001-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 【速報】NYダウ　一時1600ドル超下落　トランプ政権「相互関税」による景気悪化懸念で
+      <a href=https://news.yahoo.co.jp/articles/636a503957533a053aba467f10988550a54de453>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000010-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米ハイテク・小売株が大幅安、トランプ関税でコスト増大の懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d35eacb081d595af2bb4fce22e0fceed528ef04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00952679-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米“相互関税”日本には24％…石破首相「極めて残念であり不本意」関係閣僚に対策指示
+      <a href=https://news.yahoo.co.jp/articles/674795bd68f6fa1aeb0d04843f3650ddc0740d07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1562&ch=1562&exp=10800&fmt=webp> 大谷翔平「素晴らしいゲーム見てもらい選手冥利に尽きる」【一問一答】
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 02:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 02:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
