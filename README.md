@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f06d3457b8153f544907004f1997b1a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6a315d5db2afaf4877f809b2411ed134.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/846d458a4369f6e08488827edd19c1a621d0a313>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90021904-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ大統領「日本に24％の相互関税」　自動車関税も…輸出企業は危機感
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b82a27a499de9a7c3369ef55a75d237faccff6b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00050060-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 大谷翔平が二刀流復帰に向け直球とツーシームを計１５球…佐々木朗希、山本由伸もブルペン入り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e885884c98ec034338e80ebcba29cf2513ede27a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00078251-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> Switch 2の価格は約5万円　初代から5割増、ネットで不満続出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0536ec17013e76fe01546d20f1cf80319f8e3d9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34030232-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=29&cy=0&cw=1471&ch=1471&exp=10800&fmt=webp> ドジャース日本人トリオがブルペン調整　首振り人形が配布される大谷翔平は速球中心に15球
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebb1158dd098683abe9efb91a103e7dc87bbca96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000043-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=1648&ch=1648&exp=10800&fmt=webp> 焦点:トランプ関税で世界経済は一段と地盤沈下か、国際経済システム転換点へ
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/24bbac6997c8f3019aa1ed059ac1f274e1409fa5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000010-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ミャンマー軍事政権が停戦発表　地震で22日まで　死者3000人超
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000010-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ミャンマー軍事政権が停戦発表　地震で22日まで　死者3000人超
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534284>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/830e4d419a8dbda93e62a332ec39f16a8d7699f7d2f4b26206a07d6c6171cee0.jpg> 冷凍庫に死体遺棄疑い 男3人逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6534290>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/f4e5a4cda2976b3f8fe0a1eae50d18b63c1291e93cefee49431d8199d3042be7.jpg> 過労自殺 遺族が東和銀行と和解
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 09:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 10:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
