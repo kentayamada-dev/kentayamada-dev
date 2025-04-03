@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/73153de66336b33accfb29ef76fe7c56.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e73893712bb6839ba1e8006cc62f376b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f32ad551814168288f2d58511b07499af81c5b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-90021982-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 日本『24％』根拠は「いい加減な計算式」トランプ氏“衝撃相互関税”の行方は
+      <a href=https://news.yahoo.co.jp/articles/c834ecc712dd18b791fb1d3944559373dc5cada7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000012-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=1561&ch=1561&exp=10800&fmt=webp> カナダ首相、米に対する限定的な対抗措置発表　トランプ氏の行動「悲劇」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 03:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 03:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
