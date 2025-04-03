@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d06ad056f715feea98079fb34d97b18.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b954e87aa4ac3eb34fb7f150334261a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a21838d620238c21227b374b8bb4ec114b20b61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90022143-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手がサヨナラ弾で開幕8連勝　“ボブルヘッドデー”に花添える
+      <a href=https://news.yahoo.co.jp/articles/d7a739ef6321aba01181372b94dce580165563e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000476-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=957&ch=957&exp=10800&fmt=webp> 石橋貴明、食道がん公表に反響　SNSに応援の声続々「しっかり治してくれよ!!!魂ぃ!!」「帝京魂で乗り越えて下さい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/411f4a68cf6ab38b58143e8f4e080df64b66a45f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00050149-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=365&ch=365&exp=10800&fmt=webp> 北海道美唄市の山中、ヒグマに７０代ハンターが襲われ負傷…今年初の人身被害
+      <a href=https://news.yahoo.co.jp/articles/6a21838d620238c21227b374b8bb4ec114b20b61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90022143-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手がサヨナラ弾で開幕8連勝　“ボブルヘッドデー”に花添える
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/6067fda855e4e09b1ae25ebe308624fb20ca5189bfb7584f775f29d2e106c118.jpg> 米経済界 トランプ関税に失望の声
+      <a href=https://news.yahoo.co.jp/pickup/6534365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/5ed48cffbc7137ca02970972c641e748995025936f2dc4704f30ebc7c8b12fe5.jpg> 日本産業界 米関税に困惑と怒り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534358>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/7cfacd2391f3d6825a1f9ea5137836a8dc502365a644cb8380d1be79b0f3f4ff.jpg> 中国・習指導部 不透明な動き続く
+      <a href=https://news.yahoo.co.jp/pickup/6534353>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/6067fda855e4e09b1ae25ebe308624fb20ca5189bfb7584f775f29d2e106c118.jpg> 米経済界 トランプ関税に失望の声
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534357>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/c0721e9065cc072efdf52ec4823b9c0239146408b4c96e8cc76833b592d9c065.jpg> 駐車場で小中学生3人はねられけが
+      <a href=https://news.yahoo.co.jp/pickup/6534366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/4e63471b0a2dfba4196dbf65821d27b4031320f44f500c30cc45f2d30a182207.jpg> 田中将大 勝利投手の権利持ち降板
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/8b287f64a55d30bd37be782adbc43b88e0a650e5147dab9c3cca875547480546.jpg> 速報 田中将大が巨人で初先発
+      <a href=https://news.yahoo.co.jp/pickup/6534367>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/b26fd66358ac03d8b5022fbb1c89084434df4698834be41d3258210cb615007e.jpg> 石橋貴明が食道がん公表 活動休止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 20:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 20:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
