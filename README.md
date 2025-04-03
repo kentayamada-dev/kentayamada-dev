@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6a315d5db2afaf4877f809b2411ed134.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7de7be979685177a2c84b1e95ecc4f4b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/846d458a4369f6e08488827edd19c1a621d0a313>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90021904-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ大統領「日本に24％の相互関税」　自動車関税も…輸出企業は危機感
+      <a href=https://news.yahoo.co.jp/articles/6b6ef25487d54b9ead8aa8256d979a62aa8504c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000002-economist-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=94&cw=613&ch=613&exp=10800&fmt=webp> ミャンマー中部でM7.7　プレート衝突の断層動く大地震　鎌田浩毅
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/92ffb9ddc2e75236eff2dadc2a6e8253ace0f252>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-21830776-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=661&ch=661&exp=10800&fmt=webp> 【俳優・市川知宏　＆　元乃木坂46・永島聖羅】　結婚を発表　「感謝を忘れることなく、互いを尊重し支え合い、 一つ一つのお仕事に真摯に向き合い精進して参ります」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/51c5b640709a59b45649935b3769e53eaeab792d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34030325-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=115&cw=954&ch=954&exp=10800&fmt=webp> 「石破政権から危機感伝わらず」小沢一郎氏、トランプ関税への政府対応批判「打つ手無し」とも
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e885884c98ec034338e80ebcba29cf2513ede27a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00078251-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> Switch 2の価格は約5万円　初代から5割増、ネットで不満続出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35ad08e7bb96ad4214ccc01c913082778de009dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-01730311-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャースはなぜ“戦力外”の元盗塁王を獲得した？　首脳陣の見解、十八番以外の“素質”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24bbac6997c8f3019aa1ed059ac1f274e1409fa5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000010-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ミャンマー軍事政権が停戦発表　地震で22日まで　死者3000人超
+      <a href=https://news.yahoo.co.jp/articles/66343cc53049ed48bfb3b0179a0aac0fde430ac5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000060-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=393&ch=393&exp=10800&fmt=webp> 「Switch 2、安すぎ？」――価格設定にSNS騒然　国内版と多言語版の“2万円差”にも反応
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0a123f4914523eeed1e76f2a4ebb078381f5b23f3a6aa88238dc885418f07636.jpg> マスク氏退任に米大統領同意 報道
+      <a href=https://news.yahoo.co.jp/pickup/6534302>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/12b81973eaac4a66f498e0f4dc44c4359cb6886fe36aed3e988ca51cda62055e.jpg> 米大統領 相互関税絡め安倍氏称賛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534290>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/f4e5a4cda2976b3f8fe0a1eae50d18b63c1291e93cefee49431d8199d3042be7.jpg> 過労自殺 遺族が東和銀行と和解
+      <a href=https://news.yahoo.co.jp/pickup/6534303>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/762d2416ee0a10307c593f1057d6e965f9e38de88158af27bf980f0e6dfdaaca.jpg> 吉本所属6人書類送検 賭博疑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/9e22ca4738ef86579f7455cf9e2ded0d722964b1cc1f8e490f726bbd93c6992a.jpg> 「月の石」大阪万博で再び展示へ
+      <a href=https://news.yahoo.co.jp/pickup/6534301>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/05b6c5f5fca2c588602f5e34c96b23e03092f87f0f03d3b2e95bb1a8950b756c.jpg> 「警察官かたる詐欺」急増 注意点
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534289>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e15f539d4d54eabe3c8b48c60f1fe7d30934734187a38ec21fa9966c2233ec95.jpg> ド軍 2023年の盗塁王を電撃獲得
+      <a href=https://news.yahoo.co.jp/pickup/6534305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/0a773ad6c32117d307073e109d72836a3b5f2adf3fb3999d684ceaf9a90259fd.jpg> 元乃木坂・永島聖羅が結婚発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 10:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 10:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
