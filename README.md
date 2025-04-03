@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ad4786deaf2a4b1b206581a01798d359.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94707bb3587ace1e51738d7ca63bb310.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e34786e94d9a49fc925680d3b6dc1e43f63e893>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00038864-famitsu-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> “ゲームキューブ Nintendo Classics”はゲームごとにボタン設定を変更可能。“いまの時代に合った操作”に自らカスタムできる【Switch2体験会】
+      <a href=https://news.yahoo.co.jp/articles/3d35eacb081d595af2bb4fce22e0fceed528ef04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00952679-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米“相互関税”日本には24％…石破首相「極めて残念であり不本意」関係閣僚に対策指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2625f91fe46e8f16c33e7d5a5a5c8c9e3a093c86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00050158-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 相互関税、マクロン氏「欧州企業が米国に投資する意味ない」…仏企業に停止呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/2e34786e94d9a49fc925680d3b6dc1e43f63e893>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00038864-famitsu-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> “ゲームキューブ Nintendo Classics”はゲームごとにボタン設定を変更可能。“いまの時代に合った操作”に自らカスタムできる【Switch2体験会】
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 01:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 02:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
