@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dd4a5920bba258cdfc8e97db8a87140a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/caecf9806c24a53de84e24dac215e322.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd282068c8b07ddc3f1c5c41ee88df87830d697b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228307-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “戦闘停止”発表も軍が救援活動を制限か　ミャンマー大地震 死者3000人超える　戦闘地域周辺は孤立状態
+      <a href=https://news.yahoo.co.jp/articles/30990449e92b911ee51c43d11edac892bc986390>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00010012-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「何てことだ！」大谷翔平、規格外の第3号サヨナラホームラン！　米メディアも衝撃「まったく不条理な…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45d30078e18eaceda6a3ebd4cc38f9a7f90328f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000387-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「Switch 2」購入できる？抽選販売に願う声　応募条件に「俺、買えるかな？」「絶対ほしいけど…」
+      <a href=https://news.yahoo.co.jp/articles/259b1564694f66b003f95921885849eaaa7f5581>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000012-giz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=539&ch=539&exp=10800&fmt=webp> 「Nintendo Switch 2」の発表配信でわかったことまとめ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bd282068c8b07ddc3f1c5c41ee88df87830d697b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228307-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “戦闘停止”発表も軍が救援活動を制限か　ミャンマー大地震 死者3000人超える　戦闘地域周辺は孤立状態
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e48e42a6aaf722c7369f7b74a6f1fdd456d6edf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228312-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】トランプ政権の相互関税「34%」に中国「対抗措置をとる」と反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b82a27a499de9a7c3369ef55a75d237faccff6b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00050060-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 大谷翔平が二刀流復帰に向け直球とツーシームを計１５球…佐々木朗希、山本由伸もブルペン入り
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-07228312-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】トランプ政権の相互関税「34%」に中国「対抗措置をとる」と反発
       </a>
     </td>
   </tr>
@@ -410,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/fc33f2a99dd78ee121ba8c69d89ce487f6360e5572e86195f34ab4625cc68318.jpg> 退任報道 マスク氏はフェイク主張
+      <a href=https://news.yahoo.co.jp/pickup/6534311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/8383bd7e1b6acfacd6df47364bdd3cb32858ba4c40ff65764f174a542af1265a.jpg> トクリュウ摘発1万人超 実行役9割
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/e9ad044deb0ae88857f6744f7f0ec46a0d1b10c3328fbee12dac77a6b89bfc94.jpg> 24年大麻巡り中学生26人摘発 最多
+      <a href=https://news.yahoo.co.jp/pickup/6534314>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/99cfae9091288b9d1a5fe50ea6ae685492e6c0f9f49566b385ed830c7bf0a790.jpg> 日産 中南米での生産体制を縮小へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/fbb0a55d3bf27b6a0ac1f91f667fde65ca37123757a94c96a445cca94bc92be8.jpg> 奈良の4歳死亡 男性の無罪確定
+      <a href=https://news.yahoo.co.jp/pickup/6534325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/12dbdd3d55db058f31f017b27e21b0ba31fe781d24d80bbe00190ccb0db8eab3.jpg> フジテレビを行政指導へ 総務省
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/a7b2f6b0824fdbf644fef36d9d76d354e59696f9f459c38cd5dec5fc3bd1ca34.jpg> TikTok米事業買収 Amazonが提案
+      <a href=https://news.yahoo.co.jp/pickup/6534318>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/bcbe5f2fc860151ad77efe7b341c20d31a0205b608b337aab3619c6d408fa9ca.jpg> 「セリ」人気上昇 鍋やラーメンも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/9d4c28e2b93b934a85ad04941a070dfb3ebedcff624ad8a87fa50b8226df82ee.jpg> 新庄監督 敵チームへの演出に言及
+      <a href=https://news.yahoo.co.jp/pickup/6534324>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/13e2299895fb1ce6131d72c0af852bd266da70909e8059070d592599e1181b56.jpg> 大谷が劇的サヨナラ弾 開幕8連勝
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 12:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 13:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
