@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62a5fea4e791d178353ddc8d0d6bfa26.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1d06ad056f715feea98079fb34d97b18.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0d9ad6c541d52cf53984679da922fc8e4f5b8ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-34031216-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=431&cy=0&cw=1069&ch=1069&exp=10800&fmt=webp> メジャー初勝利ドライヤーと大谷翔平の不思議な縁　一生忘れない記念球ゲット／Nobu’ｓ Eye
+      <a href=https://news.yahoo.co.jp/articles/6a21838d620238c21227b374b8bb4ec114b20b61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-90022143-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手がサヨナラ弾で開幕8連勝　“ボブルヘッドデー”に花添える
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f952d6b8e406578f427262be7e8a1384215099be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00064742-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 中学校の入学式を前に事故…１２歳の男子生徒が軽乗用車にはねられ意識不明の重体　車運転の６２歳を現行犯逮捕　和歌山・紀の川市
+      <a href=https://news.yahoo.co.jp/articles/411f4a68cf6ab38b58143e8f4e080df64b66a45f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00050149-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=365&ch=365&exp=10800&fmt=webp> 北海道美唄市の山中、ヒグマに７０代ハンターが襲われ負傷…今年初の人身被害
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534350>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/019fd8bdbfcb7c7dc657c915ea3ae23669da16b3dae20a234b14d05aced9148e.jpg> 米国の関税 世界の株式市場に激震
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534360>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/7aa5458abe582e00fc55566796db13d0cce9712da93f2d64b5d6a317e0cfde25.jpg> 報復関税は「正直難しい」経産相
       </a>
@@ -420,6 +412,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534353>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/6067fda855e4e09b1ae25ebe308624fb20ca5189bfb7584f775f29d2e106c118.jpg> 米経済界 トランプ関税に失望の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534358>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/7cfacd2391f3d6825a1f9ea5137836a8dc502365a644cb8380d1be79b0f3f4ff.jpg> 中国・習指導部 不透明な動き続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/f9431984f2aa8c43d2f358cb35045dee58a8f171933069a3bec9e2a8f97195f9.jpg> クマに襲われ ハンター顔にけが
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534347>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/1282b3e93a1d9913f540a5f5c37debd4ab96c0927f7b7ce3863f10c8a16e8d0d.jpg> フジテレビに「厳重注意」総務省
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3fed47038e9737a69b5882970a77a6bcd2dc1424296a64c86a925b10d19959e2.jpg> 速報 田中将大が巨人で初先発
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/8b287f64a55d30bd37be782adbc43b88e0a650e5147dab9c3cca875547480546.jpg> 速報 田中将大が巨人で初先発
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 19:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 20:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
