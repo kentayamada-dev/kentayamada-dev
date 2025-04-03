@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e9e83923f0aee6108cc41edbe5098c8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/efa8503ab4f10afc12d3146035f771e2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50681ffa30f82ec45fb6e83638a1ccdfede52644>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-09729936-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> オンラインカジノで賭博か　吉本タレント6人書類送検…給料前借りした人も
+      <a href=https://news.yahoo.co.jp/articles/4350c262dcb79e8f4574ac6c0aa021d60f455482>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000071-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=812&ch=812&exp=10800&fmt=webp> 大谷翔平の劇的サヨナラ弾、ドジャース先発・スネル「みんな結果は分かっていた」... スターではなく「スーパーマン」
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8b3677f787ddcfd5d047f2621b74e2c454d5731>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-01729632-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平のサヨナラ弾の“呼び水”　不調のマンシーが試合後に語った想い「粋なこと」
+      <a href=https://news.yahoo.co.jp/articles/ddeb0ef8eb3000772da75ff18d0d24758ef22688>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000056-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自民・安倍派幹部ら処分期間終了
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/31b4cee1f5016dd12d1ad1124a645483b12b6f57>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000053-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フジ問題　株主の米ファンドが留任取締役の交代要求
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250403-00000053-ann-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フジ問題　株主の米ファンドが留任取締役の交代要求
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/3a4ee84c708a576610c98adafd7dda3b9707b06104fa1d9ef18dd04d7392c59b.jpg> 米の関税措置巡り 首相「不本意」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534336>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/5feb65de2522fe59c00f176c7f5c4684d592c714facfd5e008767c006238c3c5.jpg> 東京株が急落 終値3万4735円
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/5b1463474d54388463be30953b04e7ee9a56ec01fc4f3b7ffdfdb8789cb227ee.jpg> 米株主 フジHD経営陣の交代要求
+      <a href=https://news.yahoo.co.jp/pickup/6534345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/b625a7423d9b1c1cf4be02e5b48bc21620e2b0227c932b17301db7a952e2ab84.jpg> コメ巡る米発言 理解不能と農水相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534344>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/793f31e59e03c665e7a8f7fc24b55417a7e7103a64649f7f65204693171961b1.jpg> 滋賀の雑木林に遺体 殺人で捜査
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534329>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/ec7db19085ecc9f441908e14f591a3e276a383dd70d8979c308118e742e5778c.jpg> 吉本芸人ら書類送検 給料前借りも
+      <a href=https://news.yahoo.co.jp/pickup/6534341>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/068bb8101430b5e0d86081a7765c11396db56aafd30f3c35440fdf0e4da515d0.jpg> 「街の洋菓子店」の倒産 過去最多
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/f64c14f72a78eb40dd12c6bc204bc27529244f97836ca0ce94b0d52b36ba3d8b.jpg> 安土城下町の石垣か 湖岸で初発見
+      <a href=https://news.yahoo.co.jp/pickup/6534343>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/6f1f01cb815db63ac08bf7582fd8e93fd0202c166a6660839686e37f91df1143.jpg> 森保氏「サッカー界の大谷」要望
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/03 16:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/03 17:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
