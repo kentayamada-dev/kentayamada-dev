@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7736d12d878a1f491fcb3431550e0eba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fee43abc3a8d39d4c1b22b7965de4021.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7084c7abf778f31d5ad8a44d3a54ae095f09ec21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228788-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> iPhone価格4割上昇の試算も…“トランプ関税”で世界同時株安 中国は34％「報復関税」発表　日本はトランプ大統領との電話会談で打開策を模索【news23】
+      <a href=https://news.yahoo.co.jp/articles/7acb5890663afa72d662abed6c490ee59a22b95e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ大幅続落、一時1900ドル安で4万ドル割れ（4日午後1時26分）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/61bf5b169517c86875a66454c01d2fc00b20072a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔欧州株式〕軒並み大幅下落＝英独4．95％安、仏4．26％安（4日）
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/33eb36206a78984db06d6a13d607175a929bc47a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228780-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> NYダウ 一時1700ドルあまり急落 “トランプ関税”中国「報復関税」発表
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228780-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> NYダウ 一時1700ドルあまり急落 “トランプ関税”中国「報復関税」発表
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5fbc74abb8e243fe5f68c8c21e23f58f0e793835>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953240-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「主導権を握っている」　中国がアメリカに34％“報復関税”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/830622d346248663a637654e2d1a70175f450f75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ続落、一時1300ドル安で4万ドル割れ＝ナスダック急落（4日午前）
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 02:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 03:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
