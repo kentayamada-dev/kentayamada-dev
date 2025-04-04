@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2b56b8ebad1866dd0732c090c7ed5ebf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2bfd9c30c6890e1216eba824a9ef1fc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c63cd201de2f5e913478fefaa18d55c7e1ab234>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00952916-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 韓国・尹大統領「皆さんの期待に応えられずとても残念。申し訳ありません」罷免され失職　弾劾賛成派「国民の勝利を見せることができて涙が出そう。本当に幸せ」
+      <a href=https://news.yahoo.co.jp/articles/babe9e469853591f569bf44e98c8209f27e497d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000055-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 遺体は、岐阜の64歳女性と判明　滋賀・米原の雑木林で見つかる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a79761da7c13ee926bca93d3d7996de17086c37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000084-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=899&ch=899&exp=10800&fmt=webp> 児童への性的搾取で111人を国内で摘発　シンガポールなどと国際共同捜査に警察庁初参加
+      <a href=https://news.yahoo.co.jp/articles/deca4726643afce20845a19ab2c149bf796c6bb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-09646345-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「皆様の期待に添えず申し訳ない」韓国・尹錫悦大統領が失職　憲法裁判所が罷免妥当の判断
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96282fa0501534c1a4bc93016d0b0cbe56845a7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228649-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 一時1400円超下落　日経平均株価約8か月ぶりに3万4000円割れ “トランプ関税”想定より厳しい内容で　市場の緊張続く
+      <a href=https://news.yahoo.co.jp/articles/e475265d4242e801b140a2137fe85345a9104f2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000024-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1362&ch=1362&exp=10800&fmt=webp> トランプ関税、米国民の財布を直撃か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5534d3c74dc45086d1f32e0944853dbc45d5dd60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000096-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1387&ch=1387&exp=10800&fmt=webp> 日経平均は大幅続落、8カ月ぶり3万4000円割れ　トランプ関税に懸念
+      <a href=https://news.yahoo.co.jp/articles/b0d1ed9ef6ae9e5f95e966b5338704f63394eda7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、146円台前半＝米相互関税への懸念継続（4日午後5時）
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534431>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/3dd64dd4360f7b8d7aa4e12e2576a6acf8f5b344b70d8d75b14065059a29d56f.jpg> 罷免の尹氏「残念で申し訳ない」
+      <a href=https://news.yahoo.co.jp/pickup/6534446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f4fa821aa5629f664509388c9c4b33db23a4b6b334c12755cfdc4f4c64595d2e.jpg> 米関税 首相が閣僚会議の設置表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/ccbe02f039d5e52c078170290547b31bec1f7ab181524bf980f36cc4eb5c4cbc.jpg> 森友文書を遺族に開示 2000P超
+      <a href=https://news.yahoo.co.jp/pickup/6534431>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/3dd64dd4360f7b8d7aa4e12e2576a6acf8f5b344b70d8d75b14065059a29d56f.jpg> 罷免の尹氏「残念で申し訳ない」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534436>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/7e5b0009ab53fe26a6357fe30239f2d17aba1c966934480324d4c9f369580eef.jpg> 湖池屋「ポテチ」など一部を減量
+      <a href=https://news.yahoo.co.jp/pickup/6534447>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/9889273b40beacd3629c5a9cd9de69bfa58e873fb785eea586b7cf5e551c33c0.jpg> 福岡中心部で汚水あふれる 市清掃
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 17:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 18:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
