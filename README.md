@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/843c8a71d87674ea3a3cd1f598c3ab26.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2491866c245e11719487a18aa1181cb0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/54beb2b4681e74986c0352da5e99731b89c99290>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228611-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “森友文書” 財務省 赤木俊夫さんの妻・雅子さんに一部開示 約2000ページ分
+      <a href=https://news.yahoo.co.jp/articles/e228d59257e14e4c25a11b5b28e61975d568e07d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「やっとスタートライン」と元職員の妻
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08a06b76626c7effa7903d1dfcb63f455bb4e467>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000045-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=424&ch=424&exp=10800&fmt=webp> ７２年の血盟から「最悪侵害国」になった韓国…米ＦＴＡ国で最高の税率
+      <a href=https://news.yahoo.co.jp/articles/4a8e6ae096aae6866fed955e513113388af22750>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-02086200-wwdjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> プラダの「ヴェルサーチェ」「ジミー チュウ」買収が大詰め？　取引額は2400億円規模と情報筋
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b85c98ecdd926e3d6280fb37a3b13ea661d59fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000066-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 相互関税、景気悪化避けられず　米株式市場動揺、高値から10％下落
+      <a href=https://news.yahoo.co.jp/articles/ba2d7e25253a0fb29abbfe3de2769eabea17469f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕下値模索＝一時1300円超安（4日後場中盤）
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534422>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/aee40f3d6bc7eb5a23b0c0200ce2e390fe0f8f8961ef2d19a1e2176625d24388.jpg> 東京株、一時1300円超下落
+      <a href=https://news.yahoo.co.jp/pickup/6534424>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/61b876d0db585be028f16e4c5c02948b72e6567225c4dc614a9eb209eabd4155.jpg> 東京株、一時1400円超下落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/ce2633a012fb5ff5d08a146847333501f509a8cfab8d51dfbff10ce03c373ca9.jpg> 韓国・尹大統領の「罷免」決定
+      <a href=https://news.yahoo.co.jp/pickup/6534425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/9c33781d40ef492250fd24a75a199eca9e5bb57ca9ef714904fc1bd573819b9b.jpg> 尹氏の罷免 市民の喜びと悲嘆交錯
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534412>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/7a2273969e8077772254de1421f21a5cd9176bc5d95c2394bf5c08470f6c7946.jpg> 米国のiPhone価格 関税で上昇か
+      <a href=https://news.yahoo.co.jp/pickup/6534405>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/23bf90546baeefce756b43500da0ecfcbb516c998942ce6397e9d294ed38600e.jpg> ド軍フリーマン 10日間IL入り
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 14:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 14:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
