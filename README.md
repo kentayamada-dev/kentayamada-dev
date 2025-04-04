@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a781fddbc3d61c29f583836001edaf9a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/62300299ceb78a2e63035d6a1297ab45.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fbce50f08557f71ede9c2ff98b6ddda5dbe18c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000080-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=849&ch=849&exp=10800&fmt=webp> 韓国大統領失職、日本は尹錫悦氏の「全否定」に警戒すべきだ　奥薗秀樹・静岡県立大教授
+      <a href=https://news.yahoo.co.jp/articles/cbd014b508dde5dcb9e79249a43aa8c7f996e759>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 歴代韓国大統領で判断分かれる弾劾審判　尹氏の罷免は朴氏に続き2人目、盧氏は棄却
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be2509481b5f54a8011c0f00887ba81b78630084>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050144-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=298&ch=298&exp=10800&fmt=webp> 日経平均株価、終値は９５５円安…一時１４００円を超える下落
+      <a href=https://news.yahoo.co.jp/articles/96282fa0501534c1a4bc93016d0b0cbe56845a7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228649-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 一時1400円超下落　日経平均株価約8か月ぶりに3万4000円割れ “トランプ関税”想定より厳しい内容で　市場の緊張続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0d51e612b375fcab6a70b08e9534159f232f1dbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000155-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=1524&ch=1524&exp=10800&fmt=webp> 東証、1週間の下げ幅3339円　関税懸念、日米欧で売り一色に
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5fb0163e488dafde59ad3957b9b205f30122ea0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228593-jnn-000-11-thumb.jpg?exp=10800&fmt=webp> 【速報】日経平均株価　下落幅が1400円以上に拡大
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/9c33781d40ef492250fd24a75a199eca9e5bb57ca9ef714904fc1bd573819b9b.jpg> 尹氏の罷免 市民の喜びと悲嘆交錯
+      <a href=https://news.yahoo.co.jp/pickup/6534431>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/3dd64dd4360f7b8d7aa4e12e2576a6acf8f5b344b70d8d75b14065059a29d56f.jpg> 罷免の尹氏「残念で申し訳ない」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 16:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 16:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
