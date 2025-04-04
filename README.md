@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2bfd9c30c6890e1216eba824a9ef1fc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e73a07d2d3b357b5a2461f63ed695d15.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/babe9e469853591f569bf44e98c8209f27e497d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000055-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 遺体は、岐阜の64歳女性と判明　滋賀・米原の雑木林で見つかる
+      <a href=https://news.yahoo.co.jp/articles/c5dbe090bd330bf5a814ee495f898997902f0542>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東京マーケット・サマリー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/deca4726643afce20845a19ab2c149bf796c6bb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-09646345-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「皆様の期待に添えず申し訳ない」韓国・尹錫悦大統領が失職　憲法裁判所が罷免妥当の判断
+      <a href=https://news.yahoo.co.jp/articles/ea0ace5a9be0c3a6644cee57989aa3d461cf7245>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228709-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 韓国・ユン大統領の罷免決定から6時間 ソウル市内は大きな混乱なし　ユン大統領に公邸退去の動き見られず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e475265d4242e801b140a2137fe85345a9104f2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000024-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=343&cy=0&cw=1362&ch=1362&exp=10800&fmt=webp> トランプ関税、米国民の財布を直撃か
+      <a href=https://news.yahoo.co.jp/articles/7b340a063d3589fcc26f57522ff91182a2adee78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000111-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> アイフォーン上級モデル33万円超えも　トランプ関税発動、米国で幅広い値上げか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0d1ed9ef6ae9e5f95e966b5338704f63394eda7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、146円台前半＝米相互関税への懸念継続（4日午後5時）
+      <a href=https://news.yahoo.co.jp/articles/6831e257c4174c0318215fe9e031a669234ac2f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000099-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=827&ch=827&exp=10800&fmt=webp> 日産、米工場の減産見直し　トランプ関税で生産体制維持
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0d51e612b375fcab6a70b08e9534159f232f1dbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000155-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=1524&ch=1524&exp=10800&fmt=webp> 東証、1週間の下げ幅3339円　関税懸念、日米欧で売り一色に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000155-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=1524&ch=1524&exp=10800&fmt=webp> 東証、1週間で3300円超安　関税懸念、3万4000円割れ
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534431>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/3dd64dd4360f7b8d7aa4e12e2576a6acf8f5b344b70d8d75b14065059a29d56f.jpg> 罷免の尹氏「残念で申し訳ない」
+      <a href=https://news.yahoo.co.jp/pickup/6534445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f3279ab4e5a5717715ca6db254028e18379a29cfa96a4f58a9296e6929b65b67.jpg> 土日は突然の雨注意 花見は雨具を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534439>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/3d95803bb335b21b5b26fe494d3b64863d518c68013f08501b9a4f462539a243.jpg> 関テレ社長 被害女性に寄り添えず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f2a8595752488f85d85f39c0d1a684035b8ae9dc9d8ab115eb53bf7e13130e18.jpg> 解体工事現場の足場崩落 1人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6534448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/c03d5c91159c8905a9bdbacff7ff2e4203f658d4c7e1fee633a7fc928f32c9c7.jpg> 滋賀の雑木林に女性遺体 身元判明
       </a>
     </td>
   </tr>
@@ -435,7 +427,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534441>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> コメ自主回収 基準値超カドミウム
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/308739a65a5904991fe92eb1018fb2b51e08cc3ae71a0ed9dc756f8f73a6df31.jpg> コメ自主回収 基準値超カドミウム
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/ad98aa8252f380c5dd6c96fefe66eaaf14b4e6ce06275377c2dd597411bcda6a.jpg> マイナカードで障害 手続きに支障
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 18:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 18:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
