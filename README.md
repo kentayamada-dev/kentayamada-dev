@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/j9_ncNO7ws4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eb91f8ec215de7cf6175a7593227e69b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c2e7d2d2e1cc60e9f2ae88475f8e57b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4825c4b0adf5f304a4055fbcae97b0b71c71f460>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000025-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=374&ch=374&exp=10800&fmt=webp> ニューヨーク証券市場、米相互関税の衝撃に「パニック」…５年ぶりの最悪の日
+      <a href=https://news.yahoo.co.jp/articles/8fe014d0cdad78dfe3cd734be5eb90cdf481344b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000029-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「トランプ関税直撃弾」ビッグテック時価総額１兆ドル蒸発…アップル９．２％↓
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/354860d23b2ffe9300cbc14cc6858c8f913e2708>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-01730253-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平ゆえに起こる“高額取引”　サヨナラHRで強きの出品も…通常版で73万円の衝撃
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/38df279542e3b3dfc56a2c06c2d164b70d58b505>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000019-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 関税パニックで市場では「災害」の声も…トランプ氏「とても上手くいっている」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3849d0ad3ba9ca9ddbeaaedf2393b46a2407edc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-04041033-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=27&cw=1009&ch=1009&exp=10800&fmt=webp> 「モーニングショー」羽鳥慎一アナ、大谷翔平の開幕からの快進撃に「去年はシーズン開幕の時にちょっと精神的なことが…」
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/afd44932bcc0eb914eb3d1495a01a127ca7e3a782dbd12906d9135703b37ca4c.jpg> 尹氏の弾劾審判宣告へ 暴動に警戒
+      <a href=https://news.yahoo.co.jp/pickup/6534389>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/7bfd5454db25393333498676c80b5d997cdcdf6f86662e84e23b033acfc91ad6.jpg> 後発医薬品の制度巡り 維新が提案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/da9b228a0efa0e8cd9d24a87bbb6b3e33e02f140a32b0768f63fcd53bdcd958c.jpg> 五輪談合7社に計30億円課徴金方針
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534393>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> パワハラ受け25歳娘自殺 父の涙
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534385>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e29b971d7ad8cb4ec74feafbdced13dc28ff2f85f944f887978867b5fcf91cc6.jpg> 万博ボラ採用者に不採用通知 謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 10:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 10:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
