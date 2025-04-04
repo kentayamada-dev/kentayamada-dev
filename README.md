@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/j9_ncNO7ws4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c2e7d2d2e1cc60e9f2ae88475f8e57b0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e270fce2b742f2fcc7c4e95cceea2833.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/26b9d651bc6cf51234926716a685eb8dce564134>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00339872-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャー・スタジアム職員を苦しめる〝大谷翔平関税〟　グッズの割り引きがないなんて…
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7c5c36c42dce94e6560f0135c9ba50d45754ee86>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050049-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏「株価は上昇し、国は急成長するだろう」…ひどい経済の「手術は完了した」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8fe014d0cdad78dfe3cd734be5eb90cdf481344b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000029-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「トランプ関税直撃弾」ビッグテック時価総額１兆ドル蒸発…アップル９．２％↓
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/354860d23b2ffe9300cbc14cc6858c8f913e2708>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-01730253-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平ゆえに起こる“高額取引”　サヨナラHRで強きの出品も…通常版で73万円の衝撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38df279542e3b3dfc56a2c06c2d164b70d58b505>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000019-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 関税パニックで市場では「災害」の声も…トランプ氏「とても上手くいっている」
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534390>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/48bcdc69b830b5b6ca949cfe3a0eb23b86444bfc7d94e95d40bf680390f40659.jpg> 米関税 政府・与党は経済対策検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/41d2106d598d1e70d7d1b6d5743118ff6592447aabbdb700aa19a53ee3ad6797.jpg> トランプ氏強気 関税で好景気に
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534396>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/2e0acc674051dad71fee70b05dadf97b60784e319f3f12f8fc4aef46995549b4.jpg> 東大新学部トップ 外国人教授方針
+      <a href=https://news.yahoo.co.jp/pickup/6534404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/9f1b15d12a8a7d3c930460fbb988639f9edf85da7263e6fbfef3cc22376f94b7.jpg> ゲーム仕様巡り 実在の神社が抗議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/606ea23478756e7a82dff89d211106ad48d6c66595c4e0fd1a2d441657944afa.jpg> 欧米車大手 米で900人一時解雇へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534386>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/848a9d48675fccfdb6224a2a102520ad0174d2a8a4dfab80a987c18c836286cb.jpg> マーさんのために Gリリーフ一丸
+      <a href=https://news.yahoo.co.jp/pickup/6534403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/855724a57c0d81279afba73f778e4dd33129810addefd13f1f8856d18d25e811.jpg> 石橋公表 食道がん症状を医師解説
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 10:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 11:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
