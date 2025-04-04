@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/92824ee89b7f22fea12a96cea6aca8f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b0895b692c84155fd51fd587939f574b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f055ece2098dadd9d873af1e2e970ae76504d3fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953264-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> NYダウ2200ドル超安　FRB議長「先行き不透明」　利下げ時期など見極め
+      <a href=https://news.yahoo.co.jp/articles/41414b48d4dae6eb730d7b7fb023ed1c98eba1fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172127-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> パプアニューギニアでM7.2の地震 日本への津波の影響なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/344cc489d8d5d5e8e022d63cbc3b0424df689813>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050029-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=319&ch=319&exp=10800&fmt=webp> ＮＹ原油急落、一時４年ぶり安値…世界的な景気悪化への懸念から
+      <a href=https://news.yahoo.co.jp/articles/f055ece2098dadd9d873af1e2e970ae76504d3fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953264-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> NYダウ2200ドル超安　FRB議長「先行き不透明」　利下げ時期など見極め
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b025b4a80d8667034a475e7534ad3a4bc035355f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34040909-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 木梨憲武、食道がん公表の石橋貴明へ「次のライブに向けてスタンバイしてください」エール送る
+      <a href=https://news.yahoo.co.jp/articles/e1aea86e2ddf130918870fc5ac19124e1c323549>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ大幅続落、2200ドル超安＝4万ドル割れ（4日）☆差替
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534491>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/517d557152a1d34fe5d7798a136b4610bd41edbbbc9f4f4009c8495f89b2a076.jpg> ニューギニア付近震源 M7.2地震
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534490>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/0f86bbc526522d035e7407ee2e9c9567efd04c5456f608e79dd05bce6e8c686a.jpg> 旧BIGMOTOR 再建へ社内の苦闘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534489>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/b901f6164cf7544619514dbf4dfeca897d8b3f30eb8a2ac98ea40f76a752f6e1.jpg> 首都圏の私大 入学までの費用高騰
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534462>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/537f09ad4196cd022634ee6c85da2a569e845ec8cbdb752b0f1b7982b1ba456c.jpg> 社長辞任の関テレ 経営面で大打撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e4548c8e8ff956c207546cb207bf64faeb06c68f0c59c10b635dd08b486c8c6d.jpg> たこ焼き1個80→90円 初日の客3人
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 08:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 08:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
