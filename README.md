@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ab217f7b7bbac1f1bc1b297818659be8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ad4dee8815998390135503acd882c68d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6c4ef60b7bdaff986457aa58d1c47838ffc17cb8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000127-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 【フジ】被害女性なぜ中居氏自宅で２人きり？　調査委報告で浮かび上がった生々しい中居氏のストーリー〈当日メール〉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/646b647109f589ea7f0e78aa9a9925d16b8e5a3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000090-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=253&cw=851&ch=851&exp=10800&fmt=webp> 韓国憲法裁、戒厳令は「重大な違法行為」と断罪　尹大統領罷免
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000090-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=253&cw=851&ch=851&exp=10800&fmt=webp> 韓国憲法裁、戒厳令は「重大な違法行為」と断罪　尹大統領罷免
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/191471f68f665f05e3d0d91552ecc21d2730886d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000343-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大多社長辞任のカンテレ　経営面で大打撃　4月は前年比9億円減収見通し　63社がCM出稿見合わせ　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1cc4c4ca09720e98a5247faaac9053e112eb5b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000116-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＥＵは米国の関税に報復すべきではない＝仏財務相
+      <a href=https://news.yahoo.co.jp/articles/7b4e727c6b77dd5a7d0756b46f55091ef0bc8bbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050174-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=335&ch=335&exp=10800&fmt=webp> アメリカでのｉＰｈｏｎｅ価格、最大４３％値上がりの可能性…「トランプ関税」のコスト転嫁で
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534464>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/b53ebd65f6c700a7f526bab6f3e495807c9a01d98d2c8414e2aeb4e6d19d2f23.jpg> 刃物を持った男が立てこもり 静岡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534461>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e194ae6c8974244c90a298959e939b2b1eb16e8d9aaf51150f52b4e9fee2530f.jpg> 世界最小で生まれた男児 小学生に
       </a>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534452>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f87eaae87dda393912c68246c57e44e0b71053737a5b83ca69ac590020db7098.jpg> RIP SLYME 5人で活動再開へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 20:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 21:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
