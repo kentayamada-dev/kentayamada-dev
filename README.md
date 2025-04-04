@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cbd5f8bd9b5b647b3e5f66ff49ad0272.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/76aad41041b1b3e93c717d988b84323c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a1faaa0e84ee2d97cc07ce2135de04a4a5c5d03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-04041276-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=800&ch=800&exp=10800&fmt=webp> レスリング東京五輪金の乙黒拓斗が現役引退「大好きなレスリングを嫌いになるまでやれたので悔いはない」
+      <a href=https://news.yahoo.co.jp/articles/514b62b0a95f3b6def481646837e9912e266fe40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00339943-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【レスリング】東京五輪金・乙黒拓斗が引退表明　海外ファンからも「ありがとうレジェンド」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d69b9c84749f8bdf32b935eb38e406b77deb24f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00953177-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=480&ch=480&exp=10800&fmt=webp> フジテレビ元専務・関西テレビ大多亮社長が辞任「彼女の心情の変化にアプローチできなかった」　中居氏には「コメントもない」
       </a>
     </td>
   </tr>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/96ebfcbbe5c96c1e8a2be174e02b2b9a617198c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国による報復関税受け　円高が加速　一時1ドル＝144円台に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e8466ad58a96ccb3c5976699d846fa14f27635c8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00010010-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【木村幹コラム】ユン韓国大統領がついに罷免、勝利したのは誰なのか?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/536535a24b97af2fcc6867b2f941024be2bc478b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-34041296-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=326&ch=326&exp=10800&fmt=webp> 古市憲寿氏　中居正広氏に「中居さん目線でしゃべってもらわないと終わらない気がする」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b4e727c6b77dd5a7d0756b46f55091ef0bc8bbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050174-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=335&ch=335&exp=10800&fmt=webp> アメリカでのｉＰｈｏｎｅ価格、最大４３％値上がりの可能性…「トランプ関税」のコスト転嫁で
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/cd87907316d66e7d203211c163d8992e8424021a12a3df960ebe44f8e3ba2c57.jpg> 中国 米からの輸入品に34%の関税
+      <a href=https://news.yahoo.co.jp/pickup/6534472>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/6885f120af1c46734cf69aeca6596631061e5241aa5084ccac06f98206c2b2fd.jpg> 一時1ドル144円台 米中関税応酬で
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534470>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/92e3226f00f21ec7791aead9feb887a958bb45f7382fcd3aace8b128035c47c2.jpg> 静岡で立てこもり事件 男を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6534471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/1f2650adce6b5b4b281d4ac014858367716b10dcf0603cc276f82227d2305b54.jpg> 立花氏襲撃 警視庁が署幹部指導
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/1f2650adce6b5b4b281d4ac014858367716b10dcf0603cc276f82227d2305b54.jpg> 立花氏襲撃 警視庁が署幹部指導
+      <a href=https://news.yahoo.co.jp/pickup/6534461>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e194ae6c8974244c90a298959e939b2b1eb16e8d9aaf51150f52b4e9fee2530f.jpg> 世界最小で生まれた男児 小学生に
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/b1cd5c126c7f7f3c5aa29e11607c877441f0c9bcc973f1080d42511205fa86c4.jpg> レスリング乙黒拓斗 引退を発表
+      <a href=https://news.yahoo.co.jp/pickup/6534473>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f2529d28c3c53018495fb018a99640a35fd2c544fe7d5a597ed083a51acefcc0.jpg> 青学で箱根2連覇 太田蒼生が結婚
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 22:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 22:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
