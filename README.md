@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/54d25ad014da88b574ea8ac8733a6c7a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cbd5f8bd9b5b647b3e5f66ff49ad0272.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de453e090779829792cbd1f043684ba2717eae2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-90031720-sut-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 東伊豆町の立てこもりと見られる事案で住居・職業等不詳の男を逮捕　逮捕とほぼ同時刻には「男性が首から出血している」と警察から消防に連絡
+      <a href=https://news.yahoo.co.jp/articles/8a1faaa0e84ee2d97cc07ce2135de04a4a5c5d03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-04041276-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=265&cy=0&cw=800&ch=800&exp=10800&fmt=webp> レスリング東京五輪金の乙黒拓斗が現役引退「大好きなレスリングを嫌いになるまでやれたので悔いはない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44e73063517986f19030409f4f9ef4cf11c50f2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000101-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=1165&ch=1165&exp=10800&fmt=webp> トランプ関税「先行きが読めない」　世界同時株安、経済界は戦々恐々
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e8466ad58a96ccb3c5976699d846fa14f27635c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00010010-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【木村幹コラム】ユン韓国大統領がついに罷免、勝利したのは誰なのか?
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/536535a24b97af2fcc6867b2f941024be2bc478b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-34041296-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=326&ch=326&exp=10800&fmt=webp> 古市憲寿氏　中居正広氏に「中居さん目線でしゃべってもらわないと終わらない気がする」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b68bb7235ca21e624d23745002ab9270c889672d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000093-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=99&cw=520&ch=520&exp=10800&fmt=webp> 韓国大統領罷免は「順当な判断」　民主化の成果　静岡県立大教授
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-34041296-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=326&ch=326&exp=10800&fmt=webp> 古市憲寿氏　中居正広氏に「中居さん目線でしゃべってもらわないと終わらない気がする」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b4e727c6b77dd5a7d0756b46f55091ef0bc8bbb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050174-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=335&ch=335&exp=10800&fmt=webp> アメリカでのｉＰｈｏｎｅ価格、最大４３％値上がりの可能性…「トランプ関税」のコスト転嫁で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/982520cc87e1fb2e52ba0d359ce77427892708c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07812187-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【解説】“トランプ関税”影響どこまで…日本企業はどう対応？
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534466>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/92e3226f00f21ec7791aead9feb887a958bb45f7382fcd3aace8b128035c47c2.jpg> 静岡・東伊豆町で立てこもり
+      <a href=https://news.yahoo.co.jp/pickup/6534470>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/92e3226f00f21ec7791aead9feb887a958bb45f7382fcd3aace8b128035c47c2.jpg> 静岡で立てこもり事件 男を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534461>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e194ae6c8974244c90a298959e939b2b1eb16e8d9aaf51150f52b4e9fee2530f.jpg> 世界最小で生まれた男児 小学生に
+      <a href=https://news.yahoo.co.jp/pickup/6534471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/1f2650adce6b5b4b281d4ac014858367716b10dcf0603cc276f82227d2305b54.jpg> 立花氏襲撃 警視庁が署幹部指導
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/bce9f2caab28bf6edcdbe5d6d3d746faa12037f422e1bcfa96a2bb91dfc2eeca.jpg> 店トイレに生理用品 Xに中傷届く
+      <a href=https://news.yahoo.co.jp/pickup/6534468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e4548c8e8ff956c207546cb207bf64faeb06c68f0c59c10b635dd08b486c8c6d.jpg> たこ焼き1個80→90円 初日の客3人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/0b854ece62e312b891716b935f929248a6f76ceed0090dd1e954d7596b78298e.jpg> 結婚の岡田結実に 風間俊介が祝儀
+      <a href=https://news.yahoo.co.jp/pickup/6534467>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/b1cd5c126c7f7f3c5aa29e11607c877441f0c9bcc973f1080d42511205fa86c4.jpg> レスリング乙黒拓斗 引退を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 21:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 22:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
