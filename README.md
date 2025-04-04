@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e73a07d2d3b357b5a2461f63ed695d15.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/005055ab078f9a92ce68b4d29efbb18f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5dbe090bd330bf5a814ee495f898997902f0542>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東京マーケット・サマリー
+      <a href=https://news.yahoo.co.jp/articles/0096a8539a5eba36cacf5a5bd048091b648fe5e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “トランプ関税”で与野党会談　石破首相「言うなれば国難」　立憲・野田代表「トランプ氏と直談判を」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea0ace5a9be0c3a6644cee57989aa3d461cf7245>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228709-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 韓国・ユン大統領の罷免決定から6時間 ソウル市内は大きな混乱なし　ユン大統領に公邸退去の動き見られず
+      <a href=https://news.yahoo.co.jp/articles/0a2ebc8481d6a749c7e19ec4bdd87bce7389564e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000002-jij_graph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=571&ch=571&exp=10800&fmt=webp> 【図解】東京株、3万4000円割れ＝金利急低下、円は上伸―米相互関税で市場混乱続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4e63f7935481a9e70cb670bedcb3fc11fe339123>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00010003-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「野党代表は早く大統領選に臨みたい」　韓国・尹大統領の罷免決定　今後の情勢どうなる？【専門家解説】
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b340a063d3589fcc26f57522ff91182a2adee78>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000111-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> アイフォーン上級モデル33万円超えも　トランプ関税発動、米国で幅広い値上げか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6831e257c4174c0318215fe9e031a669234ac2f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000099-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=827&ch=827&exp=10800&fmt=webp> 日産、米工場の減産見直し　トランプ関税で生産体制維持
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534443>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/47e57c98b606db42eb0358066c5e5705f770770118618e441560a08c1523f751.jpg> F1日本GP 芝生が突然燃えて中断
+      <a href=https://news.yahoo.co.jp/pickup/6534411>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/6f0f4f05764441a63794de4b20353c52c27c1712d22163d526278098e5cfd85f.jpg> 石橋貴明がん公表 木梨がエール
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534438>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/3b6862130f96b851b94cdf7fedc2dd0aef6475025051c2a2a774d28c1cc7c957.jpg> 岡田結実が結婚 父・圭右が祝福
+      <a href=https://news.yahoo.co.jp/pickup/6534452>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f87eaae87dda393912c68246c57e44e0b71053737a5b83ca69ac590020db7098.jpg> RIP SLYME 5人で活動再開へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 18:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 19:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
