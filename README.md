@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/613e893c7e11a1347e5fe7358d015e3a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2b56b8ebad1866dd0732c090c7ed5ebf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/117aba445f030a08268030ff5d1efe0d2c8a0394>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050615-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 中居氏への怒りについて問われると…「今となってはコメントもないです」　フジテレビ元専務・大多亮氏が関テレ社長を辞任　なぜこのタイミングで？第三者委報告書の受け止めは？　記者から質問相次ぐ
+      <a href=https://news.yahoo.co.jp/articles/6c63cd201de2f5e913478fefaa18d55c7e1ab234>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00952916-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 韓国・尹大統領「皆さんの期待に応えられずとても残念。申し訳ありません」罷免され失職　弾劾賛成派「国民の勝利を見せることができて涙が出そう。本当に幸せ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c63cd201de2f5e913478fefaa18d55c7e1ab234>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00952916-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 韓国・尹大統領「皆さんの期待に応えられずとても残念。申し訳ありません」罷免され失職　弾劾賛成派「国民の勝利を見せることができて涙が出そう。本当に幸せ」
+      <a href=https://news.yahoo.co.jp/articles/4a79761da7c13ee926bca93d3d7996de17086c37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000084-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=899&ch=899&exp=10800&fmt=webp> 児童への性的搾取で111人を国内で摘発　シンガポールなどと国際共同捜査に警察庁初参加
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d51e612b375fcab6a70b08e9534159f232f1dbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000155-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=1524&ch=1524&exp=10800&fmt=webp> 東証、1週間の下げ幅3339円　関税懸念、日米欧で売り一色に
+      <a href=https://news.yahoo.co.jp/articles/5534d3c74dc45086d1f32e0944853dbc45d5dd60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000096-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1387&ch=1387&exp=10800&fmt=webp> 日経平均は大幅続落、8カ月ぶり3万4000円割れ　トランプ関税に懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19bf2c50074765f342e837e3d714cf64a805b11f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000092-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> アングル：トランプ関税は「全方位封じ込め」、内需主導への転換急務の中国
+      <a href=https://news.yahoo.co.jp/articles/0d51e612b375fcab6a70b08e9534159f232f1dbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000155-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=1524&ch=1524&exp=10800&fmt=webp> 東証、1週間の下げ幅3339円　関税懸念、日米欧で売り一色に
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/722badbbd1c1f5e45e5dcf1069ac1e98dc005f654c396fad5a22545c1c717af0.jpg> 東証終値955円安 世界で株安連鎖
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534426>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f8a96fa7293252dbf8e4a796968509480ac4826cca198a868a0e757bd5375849.jpg> 関西テレビの大多亮社長が辞任
+      <a href=https://news.yahoo.co.jp/pickup/6534439>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/3d95803bb335b21b5b26fe494d3b64863d518c68013f08501b9a4f462539a243.jpg> 関テレ社長 被害女性に寄り添えず
       </a>
     </td>
   </tr>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534429>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanigashirakazuki/02158323/title-1743695571486.jpeg?exp=10800> すき家24H営業取りやめ 識者指摘
+      <a href=https://news.yahoo.co.jp/pickup/6534441>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> コメ自主回収 基準値超カドミウム
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534405>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/23bf90546baeefce756b43500da0ecfcbb516c998942ce6397e9d294ed38600e.jpg> ド軍フリーマン 10日間IL入り
+      <a href=https://news.yahoo.co.jp/pickup/6534436>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/7e5b0009ab53fe26a6357fe30239f2d17aba1c966934480324d4c9f369580eef.jpg> 湖池屋「ポテチ」など一部を減量
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534443>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/47e57c98b606db42eb0358066c5e5705f770770118618e441560a08c1523f751.jpg> F1日本GP 芝生が突然燃えて中断
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 17:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 17:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
