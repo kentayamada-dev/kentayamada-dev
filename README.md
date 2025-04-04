@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9fa2193e2e23f518ddced9a86b2bf92.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/843c8a71d87674ea3a3cd1f598c3ab26.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/491ed65d0e4159d04e42251275ddd57ef0214f25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ関税による株安の連鎖：関税撤回にはかなり高いハードル
+      <a href=https://news.yahoo.co.jp/articles/54beb2b4681e74986c0352da5e99731b89c99290>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228611-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “森友文書” 財務省 赤木俊夫さんの妻・雅子さんに一部開示 約2000ページ分
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/08a06b76626c7effa7903d1dfcb63f455bb4e467>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000045-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=424&ch=424&exp=10800&fmt=webp> ７２年の血盟から「最悪侵害国」になった韓国…米ＦＴＡ国で最高の税率
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b85c98ecdd926e3d6280fb37a3b13ea661d59fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000066-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 相互関税、景気悪化避けられず　米株式市場動揺、高値から10％下落
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04ad4cbd50de40c745be42e8999806a564073c3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-04511318-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大阪で高速バスがトラックに追突　6人けが　阪神高速湾岸線
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5fb0163e488dafde59ad3957b9b205f30122ea0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228593-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> 【速報】日経平均株価　下落幅が1200円以上に拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d5762e48039bdc3d1ae3330cca099f1543df134b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-01730019-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が本当にやりやがった…　目の前で起きた現実、米実況が大絶叫「なんてことだ！」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-01730019-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が本当にやりやがった…　目の前で起きた現実、米実況が大絶叫「なんてことだ！」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534417>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/bed44952a7402fc2eed78a065b1d65d05b1988a48ab1d425ca3fc552228c8bba.jpg> 東京株、一時1200円超下落
+      <a href=https://news.yahoo.co.jp/pickup/6534422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/aee40f3d6bc7eb5a23b0c0200ce2e390fe0f8f8961ef2d19a1e2176625d24388.jpg> 東京株、一時1300円超下落
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534409>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/ce2633a012fb5ff5d08a146847333501f509a8cfab8d51dfbff10ce03c373ca9.jpg> 韓国・尹大統領の「罷免」決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534419>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/2740c4c576267cbbe71647ad40a4be0f734e81791cdb9fd77e398b2bd69c5de0.jpg> ガソリン価格引き下げ合意 自公国
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534410>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/53434e14ad9becd894b033baed260738a5bf4bcd6deb00294d4c83baa6e64e04.jpg> セルフGSでノズル差し発車 注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534411>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/6f0f4f05764441a63794de4b20353c52c27c1712d22163d526278098e5cfd85f.jpg> 石橋貴明がん公表 木梨がエール
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 13:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 14:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
