@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/76aad41041b1b3e93c717d988b84323c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/72c84a49a8b1a43e309934244688803f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/514b62b0a95f3b6def481646837e9912e266fe40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00339943-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【レスリング】東京五輪金・乙黒拓斗が引退表明　海外ファンからも「ありがとうレジェンド」
+      <a href=https://news.yahoo.co.jp/articles/38760694a027427f4270e48c6ad11858530ecdb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-08455763-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> NYダウ、一時1200ドル以上値を下げる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/48eb4ace8b695bac348d0601e8a4afb99fd23ead>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-04041294-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=32&cw=701&ch=701&exp=10800&fmt=webp> 【ソフトバンク】開幕６試合不発、打率０割８分の山川穂高が最終打席の右飛で復調に手応え
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d69b9c84749f8bdf32b935eb38e406b77deb24f6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00953177-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=480&ch=480&exp=10800&fmt=webp> フジテレビ元専務・関西テレビ大多亮社長が辞任「彼女の心情の変化にアプローチできなかった」　中居氏には「コメントもない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44e73063517986f19030409f4f9ef4cf11c50f2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000101-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=1165&ch=1165&exp=10800&fmt=webp> トランプ関税「先行きが読めない」　世界同時株安、経済界は戦々恐々
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/9da5dfa8ee3df3bb9cf05c54195ffaf14582de1727ef3c3dc4dd5d32b0e7cb59.jpg> コロナワクチン健康被害9千件認定
+      <a href=https://news.yahoo.co.jp/pickup/6534468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e4548c8e8ff956c207546cb207bf64faeb06c68f0c59c10b635dd08b486c8c6d.jpg> たこ焼き1個80→90円 初日の客3人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e4548c8e8ff956c207546cb207bf64faeb06c68f0c59c10b635dd08b486c8c6d.jpg> たこ焼き1個80→90円 初日の客3人
+      <a href=https://news.yahoo.co.jp/pickup/6534476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e3f45ee4184950fccc39c6625c6e8da3461e20d0a239f9493256e037876a9c5c.jpg> ソフトB、4272日ぶり単独最下位
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 22:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 23:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
