@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/j9_ncNO7ws4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f608f800055a50b1604716e51eb347db.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/03892d0b152ecd923499bb16c7622630.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68aa95fe925d3333ee70f8144bf2e08099e45c91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ大幅続落、一時1700ドル安で4万ドル割れ（4日午前10時50分）
+      <a href=https://news.yahoo.co.jp/articles/3396c54aec0d67d857c5172387a72d3f8b7ffbc1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-08311134-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 次の韓国大統領は？　“非常戒厳”尹大統領が失職で…歓声と悲鳴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a092f79eb26bac781173288fd1a8e74582e0bfa6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-03539433-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【トランプ関税ショック】中国が米国からの輸入品に34％の追加関税を課す対抗措置…米中“報復合戦”に危機感
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc7a5a99bc38fbe6c4e908163f509c865b964d5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-10172099-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=983&ch=983&exp=10800&fmt=webp> NYダウ大幅続落 一時1200ドル超値下がり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2897141467fdcc233b484c1d442195c56a95efcd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050224-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=345&ch=345&exp=10800&fmt=webp> 尹錫悦・韓国大統領を罷免に追い込んだ戒厳令とは何だったのか…閣議５分、そのまま国民向けＴＶ演説へ
+      <a href=https://news.yahoo.co.jp/articles/59a14a7ae0433117c3b42f5023517ef858ed270a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000097-ann-000-3-thumb.jpg?exp=10800&fmt=webp> NYダウ 大幅続落 一時1200ドル超値下がり
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 01:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 02:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
