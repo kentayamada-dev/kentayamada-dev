@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62300299ceb78a2e63035d6a1297ab45.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/613e893c7e11a1347e5fe7358d015e3a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbd014b508dde5dcb9e79249a43aa8c7f996e759>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 歴代韓国大統領で判断分かれる弾劾審判　尹氏の罷免は朴氏に続き2人目、盧氏は棄却
+      <a href=https://news.yahoo.co.jp/articles/117aba445f030a08268030ff5d1efe0d2c8a0394>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050615-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 中居氏への怒りについて問われると…「今となってはコメントもないです」　フジテレビ元専務・大多亮氏が関テレ社長を辞任　なぜこのタイミングで？第三者委報告書の受け止めは？　記者から質問相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6c63cd201de2f5e913478fefaa18d55c7e1ab234>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00952916-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 韓国・尹大統領「皆さんの期待に応えられずとても残念。申し訳ありません」罷免され失職　弾劾賛成派「国民の勝利を見せることができて涙が出そう。本当に幸せ」
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0d51e612b375fcab6a70b08e9534159f232f1dbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000155-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=1524&ch=1524&exp=10800&fmt=webp> 東証、1週間の下げ幅3339円　関税懸念、日米欧で売り一色に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000155-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=1524&ch=1524&exp=10800&fmt=webp> 東証、1週間の下げ幅3339円　関税懸念、日米欧で売り一色に
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/19bf2c50074765f342e837e3d714cf64a805b11f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000092-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> アングル：トランプ関税は「全方位封じ込め」、内需主導への転換急務の中国
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82179de1b52deb9a92325c54b9a1cedc81020af4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228612-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 旧イトーヨーカドー拝島店の解体現場で足場が幅35mにわたり崩落　作業員5人が転落してうち1人救急搬送　東京・昭島市
       </a>
     </td>
   </tr>
@@ -435,15 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/59be3e54210205fe17f0e4c9ece4dddf6d198cbc55dfbf0dc96494f42aab6cd3.jpg> 解体工事現場の足場崩落 1人搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/7cf65e9a594427d5185b7ee1362162f360b50dbabd25fac0bc61a0d3f42bdca4.jpg> トラックと高速バス衝突 数人けが
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f2a8595752488f85d85f39c0d1a684035b8ae9dc9d8ab115eb53bf7e13130e18.jpg> 解体工事現場の足場崩落 1人搬送
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534438>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/3b6862130f96b851b94cdf7fedc2dd0aef6475025051c2a2a774d28c1cc7c957.jpg> 岡田結実が結婚 父・圭右が祝福
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 16:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 17:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
