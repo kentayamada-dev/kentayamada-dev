@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/j9_ncNO7ws4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/005055ab078f9a92ce68b4d29efbb18f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c51802a67b2bb690c1ace4975531f30.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0096a8539a5eba36cacf5a5bd048091b648fe5e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “トランプ関税”で与野党会談　石破首相「言うなれば国難」　立憲・野田代表「トランプ氏と直談判を」
+      <a href=https://news.yahoo.co.jp/articles/b0720cd3c155a869f193b827df42f1d1f1822a7e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 阪神、NPBへ意見書提出へ　3日のDeNA戦の判定で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a2ebc8481d6a749c7e19ec4bdd87bce7389564e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000002-jij_graph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=571&ch=571&exp=10800&fmt=webp> 【図解】東京株、3万4000円割れ＝金利急低下、円は上伸―米相互関税で市場混乱続く
+      <a href=https://news.yahoo.co.jp/articles/9ccaf35fe2cf3ef28969dc38e716092dfc65b326>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-21835215-rkkv-000-1-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”で「がく然」…想定より影響大 自動車・半導体の懸念　TSMC工場運営・JASM社長の方針は?
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b340a063d3589fcc26f57522ff91182a2adee78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000111-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> アイフォーン上級モデル33万円超えも　トランプ関税発動、米国で幅広い値上げか
+      <a href=https://news.yahoo.co.jp/articles/c5dbe090bd330bf5a814ee495f898997902f0542>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東京マーケット・サマリー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d51e612b375fcab6a70b08e9534159f232f1dbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000155-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=1524&ch=1524&exp=10800&fmt=webp> 東証、1週間で3300円超安　関税懸念、3万4000円割れ
+      <a href=https://news.yahoo.co.jp/articles/7b340a063d3589fcc26f57522ff91182a2adee78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000111-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> アイフォーン上級モデル33万円超えも　トランプ関税発動、米国で幅広い値上げか
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534455>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/06f4d641ffc3bbea2751f619804456f5646bba7b96c90aaec8973605814870fb.jpg> 「エヴァ聖地」不法侵入が相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534451>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/ad98aa8252f380c5dd6c96fefe66eaaf14b4e6ce06275377c2dd597411bcda6a.jpg> マイナカードで障害 手続きに支障
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534447>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/9889273b40beacd3629c5a9cd9de69bfa58e873fb785eea586b7cf5e551c33c0.jpg> 福岡中心部で汚水あふれる 市清掃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534411>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/6f0f4f05764441a63794de4b20353c52c27c1712d22163d526278098e5cfd85f.jpg> 石橋貴明がん公表 木梨がエール
+      <a href=https://news.yahoo.co.jp/pickup/6534444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/c5415dd84a84e1ef66bfb264b005513d346b78373502d510f41c4adeff107d3b.jpg> 性犯罪マップ 運営団体に行政指導
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 19:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 19:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
