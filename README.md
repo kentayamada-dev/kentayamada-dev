@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aab75373b1722f45377830d3b3b921d6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b88dfe0f0f77c09869ae8b1240314cc6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/478bce214f9c6fb9b891a0e2d004727b7a140258>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-04041031-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「モーニングショー」玉川徹氏、「業界で１番早い」大谷翔平の今季本塁打数を算出し自画自賛　長嶋一茂は「普通しない」とチクリ
+      <a href=https://news.yahoo.co.jp/articles/1c4acab89186a8c42a3207bc6c3094edfeb7a671>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、146円台前半＝米相互関税への懸念で続落（4日午前9時）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b8c58c98835122df16c4d50b2d14388e446f5e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「米国の関税終わらせるため戦う」カナダ首相、米からの輸入車に25％の報復関税を表明
+      <a href=https://news.yahoo.co.jp/articles/38df279542e3b3dfc56a2c06c2d164b70d58b505>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000019-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 関税パニックで市場では「災害」の声も…トランプ氏「とても上手くいっている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc3dae9f24ade5456a72830ebabbc8626e01fc20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000020-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ関税直撃　東証一時1600円↓
+      <a href=https://news.yahoo.co.jp/articles/3849d0ad3ba9ca9ddbeaaedf2393b46a2407edc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-04041033-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=27&cw=1009&ch=1009&exp=10800&fmt=webp> 「モーニングショー」羽鳥慎一アナ、大谷翔平の開幕からの快進撃に「去年はシーズン開幕の時にちょっと精神的なことが…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c66751becc9f972d39ee6847154ac6cfb3d9971c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-02288663-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=339&ch=339&exp=10800&fmt=webp> B'z　約30年ぶり　ルパン三世完全新作の主題歌　書き下ろす　松本孝弘「お気に入りのキャラクターは峰不二子」
+      <a href=https://news.yahoo.co.jp/articles/4e1bcc43f8c833ac1853add3601767052d66774d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-02079958-sspa-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=1181&ch=1181&exp=10800&fmt=webp> 入社前に退職代行から連絡が！「もう笑うしかない」人事担当者が明かす若者の“入社前逃亡”への怒り
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/606ea23478756e7a82dff89d211106ad48d6c66595c4e0fd1a2d441657944afa.jpg> 欧米車大手 米で900人一時解雇へ
+      <a href=https://news.yahoo.co.jp/pickup/6534396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/2e0acc674051dad71fee70b05dadf97b60784e319f3f12f8fc4aef46995549b4.jpg> 東大新学部トップ 外国人教授方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/b0fdb6d197f540f46048f28957d7b4a499d8654ae533a2ca49feda5de3b4438d.jpg> 入社直後に退職代行を依頼 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6534387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/606ea23478756e7a82dff89d211106ad48d6c66595c4e0fd1a2d441657944afa.jpg> 欧米車大手 米で900人一時解雇へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 09:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 09:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
