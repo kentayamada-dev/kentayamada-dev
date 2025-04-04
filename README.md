@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4ffca9817302c52d9a08155bb2f659c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cfa0e8a81fcb08d27a9b4fb34380b1b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ebc6c72210fe3add3a8e0b571d4e0ea8dcf532b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00064756-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 冷凍庫から見つかった女性の遺体…凍っていて司法解剖まで１週間ほどかかる見込み　目立った外傷は確認されず　滋賀・長浜市
+      <a href=https://news.yahoo.co.jp/articles/2bd4b99492733a10e6655ed82ea19d25ccfa7909>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00952826-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=36&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【何が】冷凍庫から“女性とみられる遺体”　裁判所事務官が死体遺棄で逮捕…容疑者親子の“不自然な”暮らしぶり　滋賀・長浜市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5fb0163e488dafde59ad3957b9b205f30122ea0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07228593-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】日経平均株価　下落幅が1200円以上に拡大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/954b263f9d030497f2714d93761aca68809484e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000006-ascii-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=267&ch=267&exp=10800&fmt=webp> アップル「iPhone 16」シリーズ、最大43％値上がりか　相互関税で
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d5762e48039bdc3d1ae3330cca099f1543df134b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-01730019-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が本当にやりやがった…　目の前で起きた現実、米実況が大絶叫「なんてことだ！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e256f96c6555d5cdf644f5a7645a0025ec4cbbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000173-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジ「サン！シャイン」3日連続で中居氏巡るフジ問題“スルー”、他局情報番組は自戒込め行政指導を報道
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-01730019-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が本当にやりやがった…　目の前で起きた現実、米実況が大絶叫「なんてことだ！」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/706030eb9ecdfa2e2545dad71da3962e60d915b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00078285-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「トランプ関税」は米消費市場を直撃、iPhoneは40％高騰か　値上げ不可避の商品一覧
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/ce2633a012fb5ff5d08a146847333501f509a8cfab8d51dfbff10ce03c373ca9.jpg> 韓国・尹大統領の「罷免」決定
+      <a href=https://news.yahoo.co.jp/pickup/6534417>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/fb6f67736e42009ed1905ff01fcd54fc3eb5fa54fc0883d2e0616068b9606f43.jpg> 東京株、一時1200円超下落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/41d2106d598d1e70d7d1b6d5743118ff6592447aabbdb700aa19a53ee3ad6797.jpg> トランプ氏強気 関税で好景気に
+      <a href=https://news.yahoo.co.jp/pickup/6534409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/ce2633a012fb5ff5d08a146847333501f509a8cfab8d51dfbff10ce03c373ca9.jpg> 韓国・尹大統領の「罷免」決定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 12:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 13:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
