@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dcb8fc74f0f45fefa8743ced3273bf50.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/741ba798d544f8e9385e44c7b4279477.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48b431eb6cd27cc7a16ad0a10c62fdb6b6503674>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00010001-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=687&ch=687&exp=10800&fmt=webp> 韓国の尹大統領を罷免　憲法裁「戒厳令は違法」　次期大統領選、6月有力視
+      <a href=https://news.yahoo.co.jp/articles/243d4bcec835c58e9e7fab2f0c0cd463c368b2b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-34040295-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=1139&ch=1139&exp=10800&fmt=webp> MLB公式がデコピンショット公開「手に入れて興奮してる」大谷翔平の記念グッズとパシャリ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a83e29a689e2892b7d845d3cdcd6a424aca48b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-01730880-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の「配慮すごい」　副収入100億円も納得…自覚する“広告塔”の立場
+      <a href=https://news.yahoo.co.jp/articles/5c32727b230b2a1d21c29cff41b4987b76c708b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000101-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=361&cy=0&cw=1458&ch=1458&exp=10800&fmt=webp> 東証、午前終値917円安　日米欧で株安が連鎖
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c5c36c42dce94e6560f0135c9ba50d45754ee86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050049-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏「株価は上昇し、国は急成長するだろう」…ひどい経済の「手術は完了した」
+      <a href=https://news.yahoo.co.jp/articles/a508064bc6ebbea533186dd71c0ed3756c2d869e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00952767-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が株価下落は一時的なものとの認識示し「非常に活気のある、素晴らしい国になる」「我々は主導権を握っている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fe014d0cdad78dfe3cd734be5eb90cdf481344b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000029-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「トランプ関税直撃弾」ビッグテック時価総額１兆ドル蒸発…アップル９．２％↓
+      <a href=https://news.yahoo.co.jp/articles/9c2d713a6532777a0185de1a7c8b39d64d0e0306>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000023-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1023&ch=1023&exp=10800&fmt=webp> 木梨憲武、食道がん公表の相方・石橋貴明にエール「次のライブに向けてスタンバイして！」　36年ぶり東京ドーム公演に意欲も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/01b40849a1730897cf9d803360235a53502a8fca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000036-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=900&ch=900&exp=10800&fmt=webp> フジテレビ行政指導、村上総務相「非常に重たい問題」　猛省促す
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534397>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/73038a3e67493fb55c02987297edf72d843afbed12f330072f5350f465b1d43c.jpg> マスク氏、数カ月で政権離脱へ
+      <a href=https://news.yahoo.co.jp/pickup/6534404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/9f1b15d12a8a7d3c930460fbb988639f9edf85da7263e6fbfef3cc22376f94b7.jpg> ゲーム仕様巡り 実在の神社が抗議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/9f1b15d12a8a7d3c930460fbb988639f9edf85da7263e6fbfef3cc22376f94b7.jpg> ゲーム仕様巡り 実在の神社が抗議
+      <a href=https://news.yahoo.co.jp/pickup/6534410>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/53434e14ad9becd894b033baed260738a5bf4bcd6deb00294d4c83baa6e64e04.jpg> セルフGSでノズル差し発車 注意
       </a>
     </td>
   </tr>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534407>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/54aa7d9d0f13ec34cf7645afd594c722a0641a421c0eee2758fdc9b21e23207d.jpg> 木梨憲武 がん公表の石橋にエール
+      <a href=https://news.yahoo.co.jp/pickup/6534411>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/6f0f4f05764441a63794de4b20353c52c27c1712d22163d526278098e5cfd85f.jpg> 石橋貴明がん公表 木梨がエール
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 11:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 12:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
