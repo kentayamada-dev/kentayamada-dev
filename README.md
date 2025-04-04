@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c95a3ee5ed948e8a8a6d473d29867733.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab217f7b7bbac1f1bc1b297818659be8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/646b647109f589ea7f0e78aa9a9925d16b8e5a3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000090-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=253&cw=851&ch=851&exp=10800&fmt=webp> 韓国憲法裁、戒厳令は「重大な違法行為」と断罪　尹大統領罷免
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/191471f68f665f05e3d0d91552ecc21d2730886d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000343-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大多社長辞任のカンテレ　経営面で大打撃　4月は前年比9億円減収見通し　63社がCM出稿見合わせ　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b1cc4c4ca09720e98a5247faaac9053e112eb5b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000116-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＥＵは米国の関税に報復すべきではない＝仏財務相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/982520cc87e1fb2e52ba0d359ce77427892708c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07812187-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】“トランプ関税”影響どこまで…日本企業はどう対応？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ced35472338b541ed7dcd6fe926c09b6f22379d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050160-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=334&ch=334&exp=10800&fmt=webp> 尹錫悦大統領「期待に応えられず申し訳ない」…裁判官全員一致で罷免、次期大統領選は６月３日有力か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbda7be2d5ba243d24f4b514e79cdc33c4601239>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-61758921-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 脱中国の企業戦略損ねるトランプ関税、製造業の米国回帰は不透明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3eff36cf66b685166ca818e6b77fa29e5d23b6b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000073-ann-000-4-thumb.jpg?exp=10800&fmt=webp> “トランプショック”世界同時株安 日本も一時1400円超下落　石破総理 新たな対策は？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07812187-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【解説】“トランプ関税”影響どこまで…日本企業はどう対応？
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534449>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f00b19408ae0d3c79e3bbd7ab06d8abf8ec3bb9029d99f95a20e75c45dfd981d.jpg> 日産 米国の減産計画を一部撤回
+      <a href=https://news.yahoo.co.jp/pickup/6534462>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/537f09ad4196cd022634ee6c85da2a569e845ec8cbdb752b0f1b7982b1ba456c.jpg> 社長辞任の関テレ 経営面で大打撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/c03d5c91159c8905a9bdbacff7ff2e4203f658d4c7e1fee633a7fc928f32c9c7.jpg> 滋賀の雑木林に女性遺体 身元判明
+      <a href=https://news.yahoo.co.jp/pickup/6534461>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e194ae6c8974244c90a298959e939b2b1eb16e8d9aaf51150f52b4e9fee2530f.jpg> 世界最小で生まれた男児 小学生に
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/c5415dd84a84e1ef66bfb264b005513d346b78373502d510f41c4adeff107d3b.jpg> 性犯罪マップ 運営団体に行政指導
+      <a href=https://news.yahoo.co.jp/pickup/6534458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/bce9f2caab28bf6edcdbe5d6d3d746faa12037f422e1bcfa96a2bb91dfc2eeca.jpg> 店トイレに生理用品 Xに中傷届く
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 20:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 20:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
