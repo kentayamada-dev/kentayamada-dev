@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c33db0995400eaa247bb47060262492.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8d050e9e65a2607f3a432af4d7457a52.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba2a0f9403026993e677dcd839893ef1a38998d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（4日）株続落、利回り低下　ドル反発
+      <a href=https://news.yahoo.co.jp/articles/344cc489d8d5d5e8e022d63cbc3b0424df689813>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050029-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=319&ch=319&exp=10800&fmt=webp> ＮＹ原油急落、一時４年ぶり安値…世界的な景気悪化への懸念から
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b79b0c44eb5c9ecca83819134a7d1adda44b70e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34041067-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=164&cw=1074&ch=1074&exp=10800&fmt=webp> カンテレ大多亮社長辞任　中居氏「性暴力」認定事案当時のフジ専務　自身も女性アナ会食を多数開催
+      <a href=https://news.yahoo.co.jp/articles/45014ddb1014b016a3ebba6d9dafa3c3c03457eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172109-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 中国が米国に34％の報復関税 NYダウ一時2200ドル超下落
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7208f00d0bf679fc979b6c16774508cdb2e1695>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000022-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 任天堂スイッチ2、米で予約延期　関税見極め、発売日は変更せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ba2a0f9403026993e677dcd839893ef1a38998d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（4日）株続落、利回り低下　ドル反発
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1dd56347819e3ce560f4eaa8abc6c6f0ecf7231c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000007-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 中国 米国に34％の報復関税 NYダウは急落
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abb3287d05d58bf03c49110804823b02e49b7295>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NYダウ急落、2200ドル超安　下げ幅史上3番目　貿易戦争懸念、動揺収まらず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534482>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/730c24e8e8ec952f2bc6f645faf949495faa6767be3cc1890c192235f4272c90.jpg> NY株続落 下げ幅一時2100ドル超
+      <a href=https://news.yahoo.co.jp/pickup/6534485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/724287695f08a916edf6a07ef54e0e4e77fb471eb70d76da0e57f1c831d40195.jpg> NY株急落 下げ幅史上3番目
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534455>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/06f4d641ffc3bbea2751f619804456f5646bba7b96c90aaec8973605814870fb.jpg> 「エヴァ聖地」不法侵入が相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6534468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e4548c8e8ff956c207546cb207bf64faeb06c68f0c59c10b635dd08b486c8c6d.jpg> たこ焼き1個80→90円 初日の客3人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e4548c8e8ff956c207546cb207bf64faeb06c68f0c59c10b635dd08b486c8c6d.jpg> たこ焼き1個80→90円 初日の客3人
+      <a href=https://news.yahoo.co.jp/pickup/6534487>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/2119a9c81f09e9d8fd3960691e6897312914325b15f24adac1406ce33e20aff5.jpg> Switch2 米国での予約受付を延期
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 07:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 07:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
