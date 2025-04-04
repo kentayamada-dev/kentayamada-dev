@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ad4dee8815998390135503acd882c68d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/54d25ad014da88b574ea8ac8733a6c7a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c4ef60b7bdaff986457aa58d1c47838ffc17cb8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000127-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 【フジ】被害女性なぜ中居氏自宅で２人きり？　調査委報告で浮かび上がった生々しい中居氏のストーリー〈当日メール〉
+      <a href=https://news.yahoo.co.jp/articles/de453e090779829792cbd1f043684ba2717eae2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-90031720-sut-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 東伊豆町の立てこもりと見られる事案で住居・職業等不詳の男を逮捕　逮捕とほぼ同時刻には「男性が首から出血している」と警察から消防に連絡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/646b647109f589ea7f0e78aa9a9925d16b8e5a3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000090-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=253&cw=851&ch=851&exp=10800&fmt=webp> 韓国憲法裁、戒厳令は「重大な違法行為」と断罪　尹大統領罷免
+      <a href=https://news.yahoo.co.jp/articles/536535a24b97af2fcc6867b2f941024be2bc478b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-34041296-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=326&ch=326&exp=10800&fmt=webp> 古市憲寿氏　中居正広氏に「中居さん目線でしゃべってもらわないと終わらない気がする」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b68bb7235ca21e624d23745002ab9270c889672d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000093-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=99&cw=520&ch=520&exp=10800&fmt=webp> 韓国大統領罷免は「順当な判断」　民主化の成果　静岡県立大教授
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21b629ccb5f76f607138d09f1334a66eca887e26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-05374594-tsb-000-2-thumb.jpg?exp=10800&fmt=webp> 体重258グラムで誕生“世界で最も小さい男の子”小学１年生に…体重は１３キロほどに「給食の時間」が楽しみ【長野】
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f3279ab4e5a5717715ca6db254028e18379a29cfa96a4f58a9296e6929b65b67.jpg> 土日は突然の雨注意 花見は雨具を
+      <a href=https://news.yahoo.co.jp/pickup/6534442>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/38beec4002fe0e1bd30f434dfe4088b0ff9ab29b05e93985a3b33625882a0bd1.jpg> 国際連携で児童ポルノ摘発 警察庁
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/b53ebd65f6c700a7f526bab6f3e495807c9a01d98d2c8414e2aeb4e6d19d2f23.jpg> 刃物を持った男が立てこもり 静岡
+      <a href=https://news.yahoo.co.jp/pickup/6534466>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/92e3226f00f21ec7791aead9feb887a958bb45f7382fcd3aace8b128035c47c2.jpg> 静岡・東伊豆町で立てこもり
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534455>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/06f4d641ffc3bbea2751f619804456f5646bba7b96c90aaec8973605814870fb.jpg> 「エヴァ聖地」不法侵入が相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6534460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/9da5dfa8ee3df3bb9cf05c54195ffaf14582de1727ef3c3dc4dd5d32b0e7cb59.jpg> コロナワクチン健康被害9千件認定
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534454>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/832f63537c8abb09c05b5a7d267b37c400a9cc11a82f5f4697f3be7c5c9660db.jpg> 阪神 判定巡りNPBに意見書提出へ
+      <a href=https://news.yahoo.co.jp/pickup/6534465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/0b854ece62e312b891716b935f929248a6f76ceed0090dd1e954d7596b78298e.jpg> 結婚の岡田結実に 風間俊介が祝儀
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 21:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 21:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
