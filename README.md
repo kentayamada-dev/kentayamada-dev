@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/j9_ncNO7ws4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c51802a67b2bb690c1ace4975531f30.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c95a3ee5ed948e8a8a6d473d29867733.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0720cd3c155a869f193b827df42f1d1f1822a7e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 阪神、NPBへ意見書提出へ　3日のDeNA戦の判定で
+      <a href=https://news.yahoo.co.jp/articles/982520cc87e1fb2e52ba0d359ce77427892708c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-07812187-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】“トランプ関税”影響どこまで…日本企業はどう対応？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ccaf35fe2cf3ef28969dc38e716092dfc65b326>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-21835215-rkkv-000-1-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”で「がく然」…想定より影響大 自動車・半導体の懸念　TSMC工場運営・JASM社長の方針は?
+      <a href=https://news.yahoo.co.jp/articles/8ced35472338b541ed7dcd6fe926c09b6f22379d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050160-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=334&ch=334&exp=10800&fmt=webp> 尹錫悦大統領「期待に応えられず申し訳ない」…裁判官全員一致で罷免、次期大統領選は６月３日有力か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e63f7935481a9e70cb670bedcb3fc11fe339123>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00010003-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「野党代表は早く大統領選に臨みたい」　韓国・尹大統領の罷免決定　今後の情勢どうなる？【専門家解説】
+      <a href=https://news.yahoo.co.jp/articles/bbda7be2d5ba243d24f4b514e79cdc33c4601239>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-61758921-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 脱中国の企業戦略損ねるトランプ関税、製造業の米国回帰は不透明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5dbe090bd330bf5a814ee495f898997902f0542>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東京マーケット・サマリー
+      <a href=https://news.yahoo.co.jp/articles/3eff36cf66b685166ca818e6b77fa29e5d23b6b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000073-ann-000-4-thumb.jpg?exp=10800&fmt=webp> “トランプショック”世界同時株安 日本も一時1400円超下落　石破総理 新たな対策は？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b340a063d3589fcc26f57522ff91182a2adee78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000111-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=927&ch=927&exp=10800&fmt=webp> アイフォーン上級モデル33万円超えも　トランプ関税発動、米国で幅広い値上げか
+      <a href=https://news.yahoo.co.jp/articles/21b629ccb5f76f607138d09f1334a66eca887e26>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-05374594-tsb-000-2-thumb.jpg?exp=10800&fmt=webp> 体重258グラムで誕生“世界で最も小さい男の子”小学１年生に…体重は１３キロほどに「給食の時間」が楽しみ【長野】
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f4fa821aa5629f664509388c9c4b33db23a4b6b334c12755cfdc4f4c64595d2e.jpg> 米関税 首相が閣僚会議の設置表明
+      <a href=https://news.yahoo.co.jp/pickup/6534457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/cd87907316d66e7d203211c163d8992e8424021a12a3df960ebe44f8e3ba2c57.jpg> 中国 米からの輸入品に34%の関税
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/c03d5c91159c8905a9bdbacff7ff2e4203f658d4c7e1fee633a7fc928f32c9c7.jpg> 滋賀の雑木林に女性遺体 身元判明
+      <a href=https://news.yahoo.co.jp/pickup/6534449>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f00b19408ae0d3c79e3bbd7ab06d8abf8ec3bb9029d99f95a20e75c45dfd981d.jpg> 日産 米国の減産計画を一部撤回
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534441>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/308739a65a5904991fe92eb1018fb2b51e08cc3ae71a0ed9dc756f8f73a6df31.jpg> コメ自主回収 基準値超カドミウム
+      <a href=https://news.yahoo.co.jp/pickup/6534448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/c03d5c91159c8905a9bdbacff7ff2e4203f658d4c7e1fee633a7fc928f32c9c7.jpg> 滋賀の雑木林に女性遺体 身元判明
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/ad98aa8252f380c5dd6c96fefe66eaaf14b4e6ce06275377c2dd597411bcda6a.jpg> マイナカードで障害 手続きに支障
+      <a href=https://news.yahoo.co.jp/pickup/6534444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/c5415dd84a84e1ef66bfb264b005513d346b78373502d510f41c4adeff107d3b.jpg> 性犯罪マップ 運営団体に行政指導
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/c5415dd84a84e1ef66bfb264b005513d346b78373502d510f41c4adeff107d3b.jpg> 性犯罪マップ 運営団体に行政指導
+      <a href=https://news.yahoo.co.jp/pickup/6534454>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/832f63537c8abb09c05b5a7d267b37c400a9cc11a82f5f4697f3be7c5c9660db.jpg> 阪神 判定巡りNPBに意見書提出へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 19:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 20:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
