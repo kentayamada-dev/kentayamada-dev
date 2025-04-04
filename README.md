@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e270fce2b742f2fcc7c4e95cceea2833.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dcb8fc74f0f45fefa8743ced3273bf50.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26b9d651bc6cf51234926716a685eb8dce564134>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00339872-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャー・スタジアム職員を苦しめる〝大谷翔平関税〟　グッズの割り引きがないなんて…
+      <a href=https://news.yahoo.co.jp/articles/48b431eb6cd27cc7a16ad0a10c62fdb6b6503674>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00010001-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=687&ch=687&exp=10800&fmt=webp> 韓国の尹大統領を罷免　憲法裁「戒厳令は違法」　次期大統領選、6月有力視
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0a83e29a689e2892b7d845d3cdcd6a424aca48b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-01730880-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の「配慮すごい」　副収入100億円も納得…自覚する“広告塔”の立場
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c5c36c42dce94e6560f0135c9ba50d45754ee86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050049-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏「株価は上昇し、国は急成長するだろう」…ひどい経済の「手術は完了した」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050049-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏「株価は上昇し、国は急成長するだろう」…ひどい経済の「手術は完了した」
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e1bcc43f8c833ac1853add3601767052d66774d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-02079958-sspa-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=1181&ch=1181&exp=10800&fmt=webp> 入社前に退職代行から連絡が！「もう笑うしかない」人事担当者が明かす若者の“入社前逃亡”への怒り
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534390>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/48bcdc69b830b5b6ca949cfe3a0eb23b86444bfc7d94e95d40bf680390f40659.jpg> 米関税 政府・与党は経済対策検討
+      <a href=https://news.yahoo.co.jp/pickup/6534409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/ce2633a012fb5ff5d08a146847333501f509a8cfab8d51dfbff10ce03c373ca9.jpg> 韓国・尹大統領の「罷免」決定
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534393>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> パワハラ受け25歳娘自殺 父の涙
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534404>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/9f1b15d12a8a7d3c930460fbb988639f9edf85da7263e6fbfef3cc22376f94b7.jpg> ゲーム仕様巡り 実在の神社が抗議
       </a>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534407>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/54aa7d9d0f13ec34cf7645afd594c722a0641a421c0eee2758fdc9b21e23207d.jpg> 木梨憲武 がん公表の石橋にエール
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 11:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 11:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
