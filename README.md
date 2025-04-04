@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c7c3d097bf78a95ff827bcd384853f21.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1c33db0995400eaa247bb47060262492.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ba2a0f9403026993e677dcd839893ef1a38998d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（4日）株続落、利回り低下　ドル反発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1b79b0c44eb5c9ecca83819134a7d1adda44b70e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34041067-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=164&cw=1074&ch=1074&exp=10800&fmt=webp> カンテレ大多亮社長辞任　中居氏「性暴力」認定事案当時のフジ専務　自身も女性アナ会食を多数開催
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c0e3179636b2ebe308c3b966f073638f05e0af95>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-21835739-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 青森県で最大震度3の地震　青森県・八戸市
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25de3373ffc13d96b171d525cf98c8f91917ac4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000005-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=468&ch=468&exp=10800&fmt=webp> NYダウ、2231.07ドル安　トランプ関税で史上3番目の下落幅
+      <a href=https://news.yahoo.co.jp/articles/1dd56347819e3ce560f4eaa8abc6c6f0ecf7231c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000007-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 中国 米国に34％の報復関税 NYダウは急落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/238acd1117796eb6ad92a0353d295baedae70d2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-03416532-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 元フジ専務　関西テレビ社長が辞任を発表　中居氏に「コメントもない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/280abacbb1f175f4a585044ba382325a74938edf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228798-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> NY株価 終値2200ドル超安　2日続けて大幅下落
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61bf5b169517c86875a66454c01d2fc00b20072a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔欧州株式〕軒並み大幅下落＝英独4．95％安、仏4．26％安（4日）
+      <a href=https://news.yahoo.co.jp/articles/abb3287d05d58bf03c49110804823b02e49b7295>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NYダウ急落、2200ドル超安　下げ幅史上3番目　貿易戦争懸念、動揺収まらず
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 06:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 07:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
