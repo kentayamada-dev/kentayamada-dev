@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/j9_ncNO7ws4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8d050e9e65a2607f3a432af4d7457a52.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/92824ee89b7f22fea12a96cea6aca8f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f055ece2098dadd9d873af1e2e970ae76504d3fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953264-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> NYダウ2200ドル超安　FRB議長「先行き不透明」　利下げ時期など見極め
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/344cc489d8d5d5e8e022d63cbc3b0424df689813>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050029-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=319&ch=319&exp=10800&fmt=webp> ＮＹ原油急落、一時４年ぶり安値…世界的な景気悪化への懸念から
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45014ddb1014b016a3ebba6d9dafa3c3c03457eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172109-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 中国が米国に34％の報復関税 NYダウ一時2200ドル超下落
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7208f00d0bf679fc979b6c16774508cdb2e1695>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000022-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 任天堂スイッチ2、米で予約延期　関税見極め、発売日は変更せず
       </a>
     </td>
   </tr>
@@ -391,6 +383,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c0e3179636b2ebe308c3b966f073638f05e0af95>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-21835739-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 青森県で最大震度3の地震　青森県・八戸市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b025b4a80d8667034a475e7534ad3a4bc035355f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34040909-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 木梨憲武、食道がん公表の石橋貴明へ「次のライブに向けてスタンバイしてください」エール送る
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534483>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/9d376597fbf4226e8a598fe5e590a6deeee92df64532668ecfffb5172b4402d5.jpg> 北海道で震度4 津波の心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6534489>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/b901f6164cf7544619514dbf4dfeca897d8b3f30eb8a2ac98ea40f76a752f6e1.jpg> 首都圏の私大 入学までの費用高騰
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f2529d28c3c53018495fb018a99640a35fd2c544fe7d5a597ed083a51acefcc0.jpg> 青学で箱根2連覇 太田蒼生が結婚
+      <a href=https://news.yahoo.co.jp/pickup/6534488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/9bd678c3f5dbbbd9728efa40bbce6e71db513484aeb2b91891cc3b1eddbfcaba.jpg> 木梨「びっくり」石橋がん公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/c64e8134566e0f503a3b8dab3168a929b7eadba8fbcb3235b60caacb28631d37.jpg> RIP SLYME再集結 活動は1年限定
+      <a href=https://news.yahoo.co.jp/pickup/6534486>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/824a46f23bde3eb17d2e46b6988088f9a26377dc32bea105ee67e6fcb2512e38.jpg> ミヤネ屋MC西尾アナ 趣味ゲーム
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 07:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 08:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
