@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ee4b9c318216080a4b6746ecfeadac0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aab75373b1722f45377830d3b3b921d6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e56f0a5d320a87e60b7abaf0cf2c12da88e8c84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-01730875-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=600&ch=600&exp=10800&fmt=webp> デコピンに女性記者が“キュン”「OMG」　大谷翔平だけに見せる表情が「完全に虜」
+      <a href=https://news.yahoo.co.jp/articles/478bce214f9c6fb9b891a0e2d004727b7a140258>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-04041031-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「モーニングショー」玉川徹氏、「業界で１番早い」大谷翔平の今季本塁打数を算出し自画自賛　長嶋一茂は「普通しない」とチクリ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b96793ffcd439ca340e1e2a8054bfb021d3900a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00078283-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプの関税計算式に「経済的合理性なし」「信じがたいほど愚か」と専門家酷評
+      <a href=https://news.yahoo.co.jp/articles/9b8c58c98835122df16c4d50b2d14388e446f5e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「米国の関税終わらせるため戦う」カナダ首相、米からの輸入車に25％の報復関税を表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4ca1cf7295f1124e54c8453b8f8d4a4895a829b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000127-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=673&ch=673&exp=10800&fmt=webp> 国民民主・玉木代表　“トランプ関税”9日発動「それまでに石破総理はアメリカに行って直接交渉すべき」
+      <a href=https://news.yahoo.co.jp/articles/fc3dae9f24ade5456a72830ebabbc8626e01fc20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000020-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ関税直撃　東証一時1600円↓
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/621a63efb7954b2f57c7e529e826987711505cba00ab0296d8660bbe38a98576.jpg> NY株終値1679ドル安 米関税巡り
+      <a href=https://news.yahoo.co.jp/pickup/6534390>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/48bcdc69b830b5b6ca949cfe3a0eb23b86444bfc7d94e95d40bf680390f40659.jpg> 米関税 政府・与党は経済対策検討
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534388>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/afd44932bcc0eb914eb3d1495a01a127ca7e3a782dbd12906d9135703b37ca4c.jpg> 尹氏の弾劾審判宣告へ 暴動に警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534393>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> パワハラ受け25歳娘自殺 父の涙
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534379>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/3/a530e28b18a43cab33748f2b154b9753d8e31abf75ca677753968a5dc2162e40.jpg> 前歯8本損傷 広島二俣が強行出場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534384>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/5c8d4b6078a7c896d01d6290904f7d3839cdab742b632fa2a44ba5348543e7e7.jpg> ルパン映画公開へ B'zが主題歌
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 08:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 09:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
