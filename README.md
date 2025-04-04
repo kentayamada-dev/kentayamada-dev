@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/45dfab6da925153b59587500f33a8994.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f96df0972e58803a04ae800f568c51b6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/625795443856fc3571eceb64416c2ab848077363>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000323-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=941&ch=941&exp=10800&fmt=webp> フジ問題で実名記載の大多亮氏、「ほんとかいな？」質問に「全くない。ゼロです」 語気強めた場面
+      <a href=https://news.yahoo.co.jp/articles/9f3ea3ddf3ae7e9bc4c03f9fee257945687f302e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00339976-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大多亮社長　カンテレ社員の反感買った〝フジ方式〟の象徴「ＢＩＧ　ＭＡＮＹ賞」驚きの意味
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b27c5e17f591ff99a0a2a580e8e93d99aef385e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00339978-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 石橋貴明は「体力オバケ」 徹夜麻雀のあとロケ直行も　食道がん公表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3add8731bd0a73341741d415cdbfdd0becea6370>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050028-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ＮＹダウ終値、２２３１ドル安の３万８３１４ドル…８か月ぶりに４万ドルを割り込む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/280abacbb1f175f4a585044ba382325a74938edf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228798-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】NY株価 終値2200ドル超安　2日続けて大幅下落
       </a>
     </td>
   </tr>
@@ -367,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3c8356c69549fa25fcdeb61d7a284657a92c9a4e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000002-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 北海道福島町で震度4　津波の心配はなし　気象庁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abb3287d05d58bf03c49110804823b02e49b7295>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NYダウ急落、一時2100ドル安　中国報復で貿易戦争懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7084c7abf778f31d5ad8a44d3a54ae095f09ec21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228788-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> iPhone価格4割上昇の試算も…“トランプ関税”で世界同時株安 中国は34％「報復関税」発表　日本はトランプ大統領との電話会談で打開策を模索【news23】
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 05:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 05:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
