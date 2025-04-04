@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/j9_ncNO7ws4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/077be57b4a5c212bf7c2b8466a17a404.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ba0061e091b92261eed125ac498f74cf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/59a14a7ae0433117c3b42f5023517ef858ed270a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000097-ann-000-2-thumb.jpg?exp=10800&fmt=webp> NYダウ 大幅続落 一時1200ドル超値下がり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2897141467fdcc233b484c1d442195c56a95efcd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050224-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=345&ch=345&exp=10800&fmt=webp> 尹錫悦・韓国大統領を罷免に追い込んだ戒厳令とは何だったのか…閣議５分、そのまま国民向けＴＶ演説へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050224-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=345&ch=345&exp=10800&fmt=webp> 尹錫悦・韓国大統領を罷免に追い込んだ戒厳令とは何だったのか…閣議５分、そのまま国民向けＴＶ演説へ
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f26f8e3b406055be7d3436fe6077cd7f5725e937>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NY株、一時4万ドル割れ　中国報復関税で景気懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f9cd176b76afe838e1aa7adc726bb7c6cd02682>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000084-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> NYダウ1300ドル超下落、4万ドル割れ　中国報復関税に懸念
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e730859bab9c97c26fa43c231e33bffb4f35831671d0563e65d2edfafedda09f.jpg> 部活動改革 残業50%減った中学校
+      <a href=https://news.yahoo.co.jp/pickup/6534471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/1f2650adce6b5b4b281d4ac014858367716b10dcf0603cc276f82227d2305b54.jpg> 立花氏襲撃 警視庁が署幹部指導
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 23:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 23:52:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
