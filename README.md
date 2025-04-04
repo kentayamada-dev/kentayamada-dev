@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/03892d0b152ecd923499bb16c7622630.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7736d12d878a1f491fcb3431550e0eba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3396c54aec0d67d857c5172387a72d3f8b7ffbc1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-08311134-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 次の韓国大統領は？　“非常戒厳”尹大統領が失職で…歓声と悲鳴
+      <a href=https://news.yahoo.co.jp/articles/7084c7abf778f31d5ad8a44d3a54ae095f09ec21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228788-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> iPhone価格4割上昇の試算も…“トランプ関税”で世界同時株安 中国は34％「報復関税」発表　日本はトランプ大統領との電話会談で打開策を模索【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a092f79eb26bac781173288fd1a8e74582e0bfa6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-03539433-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【トランプ関税ショック】中国が米国からの輸入品に34％の追加関税を課す対抗措置…米中“報復合戦”に危機感
+      <a href=https://news.yahoo.co.jp/articles/d6cf50c9ecb2b15b2eba0f1c50ca2f0afb4a9a59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-90022049-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「壊された日常取り戻したい」“原動力”となった若者たちは…韓国・尹大統領が罷免に
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59a14a7ae0433117c3b42f5023517ef858ed270a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000097-ann-000-3-thumb.jpg?exp=10800&fmt=webp> NYダウ 大幅続落 一時1200ドル超値下がり
+      <a href=https://news.yahoo.co.jp/articles/5fbc74abb8e243fe5f68c8c21e23f58f0e793835>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953240-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「主導権を握っている」　中国がアメリカに34％“報復関税”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d69b9c84749f8bdf32b935eb38e406b77deb24f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00953177-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=480&ch=480&exp=10800&fmt=webp> フジテレビ元専務・関西テレビ大多亮社長が辞任「彼女の心情の変化にアプローチできなかった」　中居氏には「コメントもない」
+      <a href=https://news.yahoo.co.jp/articles/830622d346248663a637654e2d1a70175f450f75>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ続落、一時1300ドル安で4万ドル割れ＝ナスダック急落（4日午前）
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534481>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> NYダウ 2日連続で大幅下落
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/ed66a7b1e758f761651b160cd15104b0036256b99ca579aace83a172e6d031cd.jpg> NYダウ 2日連続で大幅下落
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 02:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 02:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
