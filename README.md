@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b88dfe0f0f77c09869ae8b1240314cc6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb91f8ec215de7cf6175a7593227e69b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c4acab89186a8c42a3207bc6c3094edfeb7a671>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、146円台前半＝米相互関税への懸念で続落（4日午前9時）
+      <a href=https://news.yahoo.co.jp/articles/4825c4b0adf5f304a4055fbcae97b0b71c71f460>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000025-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=374&ch=374&exp=10800&fmt=webp> ニューヨーク証券市場、米相互関税の衝撃に「パニック」…５年ぶりの最悪の日
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534397>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/73038a3e67493fb55c02987297edf72d843afbed12f330072f5350f465b1d43c.jpg> マスク氏、数カ月で政権離脱へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534393>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> パワハラ受け25歳娘自殺 父の涙
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534384>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/5c8d4b6078a7c896d01d6290904f7d3839cdab742b632fa2a44ba5348543e7e7.jpg> ルパン映画公開へ B'zが主題歌
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 09:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 10:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
