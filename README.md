@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/j9_ncNO7ws4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ba0061e091b92261eed125ac498f74cf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f63fcf0965ae4fa475ad727b5ba908f3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59a14a7ae0433117c3b42f5023517ef858ed270a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000097-ann-000-2-thumb.jpg?exp=10800&fmt=webp> NYダウ 大幅続落 一時1200ドル超値下がり
+      <a href=https://news.yahoo.co.jp/articles/68aa95fe925d3333ee70f8144bf2e08099e45c91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ大幅続落、一時1700ドル安で4万ドル割れ（4日午前10時50分）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/33eb36206a78984db06d6a13d607175a929bc47a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228780-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> NYダウ 一時1700ドルあまり急落 “トランプ関税”中国「報復関税」発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cc7a5a99bc38fbe6c4e908163f509c865b964d5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-10172099-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=983&ch=983&exp=10800&fmt=webp> NYダウ大幅続落 一時1200ドル超値下がり
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f26f8e3b406055be7d3436fe6077cd7f5725e937>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NY株、一時4万ドル割れ　中国報復関税で景気懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d69b9c84749f8bdf32b935eb38e406b77deb24f6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00953177-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=480&ch=480&exp=10800&fmt=webp> フジテレビ元専務・関西テレビ大多亮社長が辞任「彼女の心情の変化にアプローチできなかった」　中居氏には「コメントもない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96ebfcbbe5c96c1e8a2be174e02b2b9a617198c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国による報復関税受け　円高が加速　一時1ドル＝144円台に
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534479>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/701d1e6d242374008c0552844a8a04302ba5e05bf256cab3ec8ddfa33e9341da.jpg> NYダウ 一時1200ドル超す下落
+      <a href=https://news.yahoo.co.jp/pickup/6534481>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> NYダウ 2日連続で大幅下落
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534461>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e194ae6c8974244c90a298959e939b2b1eb16e8d9aaf51150f52b4e9fee2530f.jpg> 世界最小で生まれた男児 小学生に
+      <a href=https://news.yahoo.co.jp/pickup/6534455>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/06f4d641ffc3bbea2751f619804456f5646bba7b96c90aaec8973605814870fb.jpg> 「エヴァ聖地」不法侵入が相次ぐ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 23:52:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 00:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
