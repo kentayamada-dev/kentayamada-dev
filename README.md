@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fec8af3bc1acf03fb4c6a22da9ee6ac7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/45dfab6da925153b59587500f33a8994.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abb3287d05d58bf03c49110804823b02e49b7295>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NYダウ急落、一時2100ドル安　中国報復で貿易戦争懸念
+      <a href=https://news.yahoo.co.jp/articles/625795443856fc3571eceb64416c2ab848077363>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000323-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=3&cy=0&cw=941&ch=941&exp=10800&fmt=webp> フジ問題で実名記載の大多亮氏、「ほんとかいな？」質問に「全くない。ゼロです」 語気強めた場面
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61bf5b169517c86875a66454c01d2fc00b20072a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔欧州株式〕軒並み大幅下落＝英独4．95％安、仏4．26％安（4日）
+      <a href=https://news.yahoo.co.jp/articles/3c8356c69549fa25fcdeb61d7a284657a92c9a4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000002-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 北海道福島町で震度4　津波の心配はなし　気象庁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/abb3287d05d58bf03c49110804823b02e49b7295>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NYダウ急落、一時2100ドル安　中国報復で貿易戦争懸念
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534483>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/9d376597fbf4226e8a598fe5e590a6deeee92df64532668ecfffb5172b4402d5.jpg> 北海道で震度4 津波の心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6534453>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/671d56585b3efe43e5e9d940403e328741c2b218361105b75ce3a7c9f0487d9d.jpg> 首相 トランプ氏との電話会談調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534453>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/671d56585b3efe43e5e9d940403e328741c2b218361105b75ce3a7c9f0487d9d.jpg> 首相 トランプ氏との電話会談調整
+      <a href=https://news.yahoo.co.jp/pickup/6534483>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/9d376597fbf4226e8a598fe5e590a6deeee92df64532668ecfffb5172b4402d5.jpg> 北海道で震度4 津波の心配なし
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 04:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 05:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
