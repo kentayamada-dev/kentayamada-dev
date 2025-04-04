@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/741ba798d544f8e9385e44c7b4279477.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4ffca9817302c52d9a08155bb2f659c3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/243d4bcec835c58e9e7fab2f0c0cd463c368b2b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-34040295-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=1139&ch=1139&exp=10800&fmt=webp> MLB公式がデコピンショット公開「手に入れて興奮してる」大谷翔平の記念グッズとパシャリ
+      <a href=https://news.yahoo.co.jp/articles/4ebc6c72210fe3add3a8e0b571d4e0ea8dcf532b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00064756-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 冷凍庫から見つかった女性の遺体…凍っていて司法解剖まで１週間ほどかかる見込み　目立った外傷は確認されず　滋賀・長浜市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c32727b230b2a1d21c29cff41b4987b76c708b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000101-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=361&cy=0&cw=1458&ch=1458&exp=10800&fmt=webp> 東証、午前終値917円安　日米欧で株安が連鎖
+      <a href=https://news.yahoo.co.jp/articles/d5762e48039bdc3d1ae3330cca099f1543df134b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-01730019-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が本当にやりやがった…　目の前で起きた現実、米実況が大絶叫「なんてことだ！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a508064bc6ebbea533186dd71c0ed3756c2d869e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00952767-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が株価下落は一時的なものとの認識示し「非常に活気のある、素晴らしい国になる」「我々は主導権を握っている」
+      <a href=https://news.yahoo.co.jp/articles/0e256f96c6555d5cdf644f5a7645a0025ec4cbbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000173-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジ「サン！シャイン」3日連続で中居氏巡るフジ問題“スルー”、他局情報番組は自戒込め行政指導を報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c2d713a6532777a0185de1a7c8b39d64d0e0306>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000023-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1023&ch=1023&exp=10800&fmt=webp> 木梨憲武、食道がん公表の相方・石橋貴明にエール「次のライブに向けてスタンバイして！」　36年ぶり東京ドーム公演に意欲も
+      <a href=https://news.yahoo.co.jp/articles/3c12a39fe950ae4ab59d980c3c160e297ca34d94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕3万4000円割れ＝相互関税で警戒感（4日前場）☆差替
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01b40849a1730897cf9d803360235a53502a8fca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000036-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=900&ch=900&exp=10800&fmt=webp> フジテレビ行政指導、村上総務相「非常に重たい問題」　猛省促す
+      <a href=https://news.yahoo.co.jp/articles/706030eb9ecdfa2e2545dad71da3962e60d915b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00078285-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「トランプ関税」は米消費市場を直撃、iPhoneは40％高騰か　値上げ不可避の商品一覧
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534389>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/7bfd5454db25393333498676c80b5d997cdcdf6f86662e84e23b033acfc91ad6.jpg> 後発医薬品の制度巡り 維新が提案
+      <a href=https://news.yahoo.co.jp/pickup/6534413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/d286b0a9ea408f68ba8eae7036a646e1506d68ae9d54779f4639ddd092798c10.jpg> 冷凍庫から発見遺体 容疑者の妻か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/da9b228a0efa0e8cd9d24a87bbb6b3e33e02f140a32b0768f63fcd53bdcd958c.jpg> 五輪談合7社に計30億円課徴金方針
+      <a href=https://news.yahoo.co.jp/pickup/6534412>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/7a2273969e8077772254de1421f21a5cd9176bc5d95c2394bf5c08470f6c7946.jpg> 米国のiPhone価格 関税で上昇か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 12:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 12:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
