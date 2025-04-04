@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/72c84a49a8b1a43e309934244688803f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/077be57b4a5c212bf7c2b8466a17a404.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38760694a027427f4270e48c6ad11858530ecdb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-08455763-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> NYダウ、一時1200ドル以上値を下げる
+      <a href=https://news.yahoo.co.jp/articles/2897141467fdcc233b484c1d442195c56a95efcd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00050224-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=345&ch=345&exp=10800&fmt=webp> 尹錫悦・韓国大統領を罷免に追い込んだ戒厳令とは何だったのか…閣議５分、そのまま国民向けＴＶ演説へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48eb4ace8b695bac348d0601e8a4afb99fd23ead>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-04041294-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=32&cw=701&ch=701&exp=10800&fmt=webp> 【ソフトバンク】開幕６試合不発、打率０割８分の山川穂高が最終打席の右飛で復調に手応え
+      <a href=https://news.yahoo.co.jp/articles/f26f8e3b406055be7d3436fe6077cd7f5725e937>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NY株、一時4万ドル割れ　中国報復関税で景気懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3f9cd176b76afe838e1aa7adc726bb7c6cd02682>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00000084-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> NYダウ1300ドル超下落、4万ドル割れ　中国報復関税に懸念
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8466ad58a96ccb3c5976699d846fa14f27635c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250404-00010010-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【木村幹コラム】ユン韓国大統領がついに罷免、勝利したのは誰なのか?
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534472>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/6885f120af1c46734cf69aeca6596631061e5241aa5084ccac06f98206c2b2fd.jpg> 一時1ドル144円台 米中関税応酬で
+      <a href=https://news.yahoo.co.jp/pickup/6534479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/701d1e6d242374008c0552844a8a04302ba5e05bf256cab3ec8ddfa33e9341da.jpg> NYダウ 一時1200ドル超す下落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534442>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/38beec4002fe0e1bd30f434dfe4088b0ff9ab29b05e93985a3b33625882a0bd1.jpg> 国際連携で児童ポルノ摘発 警察庁
+      <a href=https://news.yahoo.co.jp/pickup/6534453>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/671d56585b3efe43e5e9d940403e328741c2b218361105b75ce3a7c9f0487d9d.jpg> 首相 トランプ氏との電話会談調整
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/1f2650adce6b5b4b281d4ac014858367716b10dcf0603cc276f82227d2305b54.jpg> 立花氏襲撃 警視庁が署幹部指導
+      <a href=https://news.yahoo.co.jp/pickup/6534477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e730859bab9c97c26fa43c231e33bffb4f35831671d0563e65d2edfafedda09f.jpg> 部活動改革 残業50%減った中学校
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534476>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/e3f45ee4184950fccc39c6625c6e8da3461e20d0a239f9493256e037876a9c5c.jpg> ソフトB、4272日ぶり単独最下位
+      <a href=https://news.yahoo.co.jp/pickup/6534473>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f2529d28c3c53018495fb018a99640a35fd2c544fe7d5a597ed083a51acefcc0.jpg> 青学で箱根2連覇 太田蒼生が結婚
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/f2529d28c3c53018495fb018a99640a35fd2c544fe7d5a597ed083a51acefcc0.jpg> 青学で箱根2連覇 太田蒼生が結婚
+      <a href=https://news.yahoo.co.jp/pickup/6534480>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/4/c64e8134566e0f503a3b8dab3168a929b7eadba8fbcb3235b60caacb28631d37.jpg> RIP SLYME再集結 活動は1年限定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/04 23:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/04 23:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
