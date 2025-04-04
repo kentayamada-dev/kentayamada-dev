@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f96df0972e58803a04ae800f568c51b6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c7c3d097bf78a95ff827bcd384853f21.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f3ea3ddf3ae7e9bc4c03f9fee257945687f302e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00339976-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大多亮社長　カンテレ社員の反感買った〝フジ方式〟の象徴「ＢＩＧ　ＭＡＮＹ賞」驚きの意味
+      <a href=https://news.yahoo.co.jp/articles/c0e3179636b2ebe308c3b966f073638f05e0af95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-21835739-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 青森県で最大震度3の地震　青森県・八戸市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b27c5e17f591ff99a0a2a580e8e93d99aef385e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00339978-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 石橋貴明は「体力オバケ」 徹夜麻雀のあとロケ直行も　食道がん公表
+      <a href=https://news.yahoo.co.jp/articles/25de3373ffc13d96b171d525cf98c8f91917ac4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000005-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=468&ch=468&exp=10800&fmt=webp> NYダウ、2231.07ドル安　トランプ関税で史上3番目の下落幅
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3add8731bd0a73341741d415cdbfdd0becea6370>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050028-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ＮＹダウ終値、２２３１ドル安の３万８３１４ドル…８か月ぶりに４万ドルを割り込む
+      <a href=https://news.yahoo.co.jp/articles/238acd1117796eb6ad92a0353d295baedae70d2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-03416532-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 元フジ専務　関西テレビ社長が辞任を発表　中居氏に「コメントもない」
       </a>
     </td>
   </tr>
@@ -382,15 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/280abacbb1f175f4a585044ba382325a74938edf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228798-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】NY株価 終値2200ドル超安　2日続けて大幅下落
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228798-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> NY株価 終値2200ドル超安　2日続けて大幅下落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c8356c69549fa25fcdeb61d7a284657a92c9a4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000002-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 北海道福島町で震度4　津波の心配はなし　気象庁
+      <a href=https://news.yahoo.co.jp/articles/61bf5b169517c86875a66454c01d2fc00b20072a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔欧州株式〕軒並み大幅下落＝英独4．95％安、仏4．26％安（4日）
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 05:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 06:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
