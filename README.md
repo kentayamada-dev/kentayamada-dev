@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9434b6fe1442d57d3c0e356a6e3d56a9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1c5f46d0ffa5e3804c6e5f224ab208d8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2cb9b0f1f27fca62b96fc3bc46d73c325ce91e08>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00080025-chosun-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 憲法裁判所も批判した共に民主党の専横と横暴【4月5日付社説】　尹大統領罷免
+      <a href=https://news.yahoo.co.jp/articles/68731b3ae4e0d198fc39af8df825244ca684a3b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228827-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 中央自動車道で観光バス2台が絡む追突事故　48人がけが　2台のバスは河口湖行きのバスツアー　東京・八王子市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db9fe2286757d498b7047e40fca35d7ca4dcdd30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953344-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中央自動車道下り小仏トンネル付近で観光バス2台が追突し乗客ら47人負傷　乗客は外国人観光客　事故の影響で一部通行止めに　東京・八王子市
+      <a href=https://news.yahoo.co.jp/articles/ed53e37ec245476ff00b178e1108f53187ee08ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00080036-chosun-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=531&ch=531&exp=10800&fmt=webp> 落ち着いていた韓国国民、今後は国の正常化と危機克服を【4月5日付社説】　尹大統領罷免
       </a>
     </td>
   </tr>
@@ -427,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534533>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/8b5fec1e6f47625d3e76e58bd16ee92410aea14c52c4af37d990295e1850db71.jpg> 中央道で観光バス追突 40人超けが
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/3c5a2d9fafeeb59d16960a746120be9fdf3f92abdcf3d4e1a6a65787f3edf0e3.jpg> 中央道で観光バス追突 40人超けが
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 14:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 15:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
