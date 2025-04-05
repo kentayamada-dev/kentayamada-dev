@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f9b7b5df6943fbb2b6a50af8b95f5c0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/76e39845a7d46c97a40aa50513dcb89d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82deb2d9a73aa2eec93417b97a4e4beb3b9b3754>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-90022096-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=461&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 渡辺直美、米大手エージェンシー＆一流コメディアンのマネジメント会社と契約！
+      <a href=https://news.yahoo.co.jp/articles/d576749960d403a0fc5703b010b0a1a10c3448fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34051764-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=1169&ch=1169&exp=10800&fmt=webp> 【ソフトバンク】屈辱の最下位に王会長が起爆剤に指名したバッター「彼が打てば盛り上がる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fe3e485c47b15505e9a007fbd5390b5b5b12e3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010040-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 開幕から1勝6敗…ソフトバンク投手陣に目立つ2ストライク後の痛打【#好球筆打】
+      <a href=https://news.yahoo.co.jp/articles/9ce8e27c5edee54c1ea55d4ea89c77fa6789e04b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000181-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 渡辺直美　米大手エージェンシー「ＵＴＡ」と契約　ハリソン・フォード、ジョニー・デップらと同門に　米業界誌が独占報道で注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2336f2e9624efe44f3c55de311609c2cd3a9767e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-03852432-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 石破首相　米相互関税への「報復関税」には否定的　トランプ大統領との電話会談「来週中にはやりたい」
+      <a href=https://news.yahoo.co.jp/articles/f224b70161781d88acde6e26ee600461a8b823a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050116-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=447&ch=447&exp=10800&fmt=webp> トランプ関税、インドはすでに交渉…貿易協定で商工省「数日中に前進できると期待している」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534550>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/dd64c4a967a021f29370075872eefa8e4fdee24516654601f9f2dd593e244253.jpg> 露の攻撃 ウで子供含む18人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6534570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/6becf143fff2bee938f113729486f480d757ec8f290a3d8ac06374a82ae20d86.jpg> 露攻撃 ウで子ども含む19人死亡
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 19:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 20:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
