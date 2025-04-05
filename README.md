@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/68b0d56af4e4c8b25cc87abe3ad1bbde.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e99b1e2f3712b642bb0a1dd456049d0a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/80ccfbb0170d4e957101f3b2c04e0f4fde38b1ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010007-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=561&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「厳しいアウェーで発揮された」佐々木朗希が“偉大な投手”となる片鱗見せる　メジャー初勝利ならずも「これからもっと良くなる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cc515bad0c1120564d65163837b081a6a539f6de>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010016-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=658&ch=658&exp=10800&fmt=webp> 救援陣炎上で今季2度目の3連敗…ソフトバンク、本拠地では白星なしの5連敗　小久保監督「これより下はないでしょうからね」
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/daa7d600023d0ca2f55486b4cc51683939d33278>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-34052018-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=1133&ch=1133&exp=10800&fmt=webp> 鶴嶋乃愛、TGCin万博オフショット公開「リボン可愛い」「天女！綺麗すぎる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-34052018-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=1133&ch=1133&exp=10800&fmt=webp> 鶴嶋乃愛、TGCin万博オフショット公開「リボン可愛い」「天女！綺麗すぎる」
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/bfafdc335b4976a9039ee2996c717f75f9b8ee852a60662045b7c36ffbf17068.jpg> 五輪金の永瀬 初戦で失神一本負け
+      <a href=https://news.yahoo.co.jp/pickup/6534591>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6bb64777b46c5cfc97d7b194695b05bfc105079243696cc4c1eda145ea69a0d4.jpg> 朗希 勝ち星目前も5回途中で降板
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 07:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 07:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
