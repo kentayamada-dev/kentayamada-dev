@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/26319a4d97e6eee5a4196dcac34d5f44.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da7872b5397ca23ac29649ed7116d507.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66079239fb46709a3c06ef4ddce8c01bef027bbe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00340066-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ソフトバンク】本拠地でいまだ未勝利… 小久保監督「これより下はない。あとは上がるだけ」
+      <a href=https://news.yahoo.co.jp/articles/3884a7901ebf0cd16056e051f689a46381d07d68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000086-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=740&ch=740&exp=10800&fmt=webp> 二大経済大国、貿易戦争激化へ　中国報復、米農産物に打撃　トランプ関税
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c4c4e117dca56b593966c1224ebcca7f6d7f79c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000085-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 景気不安、世界で拡大　相互関税で株価急落　トランプ氏「政策変えない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/49652eef575cfaa764c9197e85ad077aff348df5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34051885-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1163&ch=1163&exp=10800&fmt=webp> 【ソフトバンク】初の屈辱…開幕７戦１勝　本拠地ため息「最少失点でいかないと」小久保監督
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e8c374c99761dd9559e48a65a53e7357c1e5c65a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010010-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=1116&ch=1116&exp=10800&fmt=webp> 渡辺直美、米エージェンシー「UTA」と契約　国際的な活躍の場を拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f224b70161781d88acde6e26ee600461a8b823a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050116-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=447&ch=447&exp=10800&fmt=webp> トランプ関税、インドはすでに交渉…貿易協定で商工省「数日中に前進できると期待している」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc630a8435bcc83393bca94cbfea980d6bb66444>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228842-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「週明けも株価下落の可能性ある」　きょう“トランプ関税”一部発動
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534561>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/42f5c2686199f676729ba8205a26790514c61a48fa76dc2773ccdb884abee451.jpg> 車が柱に衝突し2人重体 10代か
+      <a href=https://news.yahoo.co.jp/pickup/6534534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/b557e11509885c951b8c6ee31c2a34d5fbec64def3b22cffbedac5cfb05366c6.jpg> 大学無償化 制度悪用を識者懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534559>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/8b49c12c602849feba2b2227e9c6c2688008890901fba44676e2abf4699293f3.jpg> AIが東大理科3類「合格水準」
+      <a href=https://news.yahoo.co.jp/pickup/6534573>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/a21357e77b4ffdb766f18cd2f6b5c5da3a4920a15a4b87b01cd696e85a43008b.jpg> 収穫体験でキス PTSD苦しんだ娘
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534563>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/4866d94b533a445c67867c55e0812f343f313dbac2d40ca5575459b2c2b5a054.jpg> ママは「生ききる」34歳でALSに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/df2335ab611ec91d1f3a50081808897226fba20448c66aa2e1dcc119cd149322.jpg> 重度障害ある小4 寝たまま本塁打
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534564>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/fff023971fb1c0c0332c292ab10030b0e46464c8a94f7ac4e3794892bf20fce3.jpg> 渡辺直美 米エージェンシーと契約
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 20:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 21:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
