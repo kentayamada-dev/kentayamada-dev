@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c445646508da9ab528c769d87ab2ea00.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd7c05b118e95ed1bac8da63cb658b48.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e57f26e47f33f6fc2562847a35526874602a0a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000036-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 山本由伸「少し焦ってしまった」初回に先制点献上の送球エラーを悔やむ「ベースの上を狙って一歩踏み込めばよかった」
+      <a href=https://news.yahoo.co.jp/articles/5e273ff77c2299b113a37b36808907d637b879b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34050387-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1093&ch=1093&exp=10800&fmt=webp> 大谷翔平刺したリアルミュート「盗塁は驚いた。ムーキーが打席にいたから」連続成功38で止まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4f3040f424bd7355a3b11201828f9ce1b7d427ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00087378-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=300&ch=300&exp=10800&fmt=webp> トランプショックはいつまで続く？S&P500・ナスダックと並んで下落したビットコイン、上昇に転じるのは今年後半か
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e609ad28ca6d81d53a19d8f010998b713926becf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、世界株安でも平日ゴルフ　「失敗するのは弱いやつ」と自身の関税政策を擁護
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45014ddb1014b016a3ebba6d9dafa3c3c03457eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172109-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 中国が米国に34％の報復関税 NYダウ一時2200ドル超下落
+      <a href=https://news.yahoo.co.jp/articles/ce162497b34a6d9e6288f6610040713b7a56d7c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-21835915-utyv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京オリンピックで金　レスリングの乙黒拓斗選手（笛吹市出身）が引退「たくさん応援してもらい幸せなレスリング人生でした」　
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534504>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/2be973dc3bc3624431cb1d2b273353de71dd25dad402ebd273760fcb469b1bd3.jpg> 世界同時株安 米の相互関税巡り
+      <a href=https://news.yahoo.co.jp/pickup/6534514>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/dcde46d67a1e94af968e24e55d0a22e2299e525491ed27137eaddfbcd01a5aca.jpg> FRB議長 米関税は「予想上回る」
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534500>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/a6ae1f33ec74d3b90639908e125c89b3d5b3204978fc17865b4542af2ddb5fa9.jpg> 「経営コンサル」の倒産 過去最多
+      <a href=https://news.yahoo.co.jp/pickup/6534519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/4613cb05771a56fe89884a7aa290e0489b3d9fee6aed5837d0d8b917d72ef9f3.jpg> 証券口座の乗っ取り被害拡大 注意
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534509>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/1b4d93a605a77a987e09109d952eba0a0cb035a8f07823a8f11f1d98693fec5b.jpg> 1億円当せん者来ず 松戸の売り場
+      <a href=https://news.yahoo.co.jp/pickup/6534518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/8e0780ed6151056239e76d496df52c9aba9778f0a7260d29d74d3d9ca0c2ac53.jpg> モス業績好調 薄れつつある割高感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534503>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/afd48178a25335f1a38136a228623d24ab74c961c7df169baeb1c2e242288795.jpg> トイレに生理用品なし 市が見解
+      <a href=https://news.yahoo.co.jp/pickup/6534513>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/2fcfb21accb924aca4426fcf3424d2a464ed66335eac0793882d3c2fc062118f.jpg> 拒食症の女性 食べる動画に反響
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 11:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 12:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
