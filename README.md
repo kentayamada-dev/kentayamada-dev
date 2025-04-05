@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c5f46d0ffa5e3804c6e5f224ab208d8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8d0da4528ff7e542b4bfd3e7ce06e227.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68731b3ae4e0d198fc39af8df825244ca684a3b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228827-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 中央自動車道で観光バス2台が絡む追突事故　48人がけが　2台のバスは河口湖行きのバスツアー　東京・八王子市
+      <a href=https://news.yahoo.co.jp/articles/a5fab69ba70934240400c66b2e15eb11ac92af6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000043-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 中央道で観光バス同士が衝突　けが人は47人に 河口湖に向かう途中
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6102e8cec13b31c5e93b55d449139c5ac46c02cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050084-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ウクライナ中南部にミサイル攻撃、１４人死亡…ゼレンスキー氏「ロシアは停戦を望んでいない」
+      <a href=https://news.yahoo.co.jp/articles/fd5cb0a0aa61daf1eff4e63f7fe5d036f5d32d1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010025-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 球団新人の開幕連続試合安打に並ぶか　西武ドラ2渡部聖弥は5番　隅田知一郎ようやく今季初先発　ソフトバンク戦スタメン発表
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534513>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/2fcfb21accb924aca4426fcf3424d2a464ed66335eac0793882d3c2fc062118f.jpg> 拒食症の女性 食べる動画に反響
+      <a href=https://news.yahoo.co.jp/pickup/6534539>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/42a0e78f92e53456f54959f73342efd4e80f649fe338a3e96883f099d2a862fa.jpg> 英警察 R・ブランドさんを訴追
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 15:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 15:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
