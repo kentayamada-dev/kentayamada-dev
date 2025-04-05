@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ba97590d94558e7953db8f5afc357b29.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8db78ba44ae23586909ba866649d33fb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2fb11e3ba4a255108bc59c5171efb07de67b89f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010051-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=1929&ch=1929&exp=10800&fmt=webp> 西武打線は貧打を〝卒業〟できたのか…連日の集中打でソフトバンクに快勝　ドラ2ルーキー渡部聖弥は球団新人記録で打率・478
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/14df9d03fbf63c991390b492385d03d5f7c61447>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-02951727-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 渡辺直美、アメリカでハリウッド俳優らが所属する大手エージェンシー＆マネジメント会社と契約　　
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3884a7901ebf0cd16056e051f689a46381d07d68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000086-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=740&ch=740&exp=10800&fmt=webp> 二大経済大国、貿易戦争激化へ　中国報復、米農産物に打撃　トランプ関税
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000086-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=740&ch=740&exp=10800&fmt=webp> 二大経済大国、貿易戦争激化へ　中国報復、米農産物に打撃　トランプ関税
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2c4c4e117dca56b593966c1224ebcca7f6d7f79c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000085-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 景気不安、世界で拡大　相互関税で株価急落　トランプ氏「政策変えない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49652eef575cfaa764c9197e85ad077aff348df5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34051885-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1163&ch=1163&exp=10800&fmt=webp> 【ソフトバンク】初の屈辱…開幕７戦１勝　本拠地ため息「最少失点でいかないと」小久保監督
       </a>
     </td>
   </tr>
@@ -410,22 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/6becf143fff2bee938f113729486f480d757ec8f290a3d8ac06374a82ae20d86.jpg> 露攻撃 ウで子ども含む19人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534534>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/b557e11509885c951b8c6ee31c2a34d5fbec64def3b22cffbedac5cfb05366c6.jpg> 大学無償化 制度悪用を識者懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534573>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/a21357e77b4ffdb766f18cd2f6b5c5da3a4920a15a4b87b01cd696e85a43008b.jpg> 収穫体験でキス PTSD苦しんだ娘
       </a>
@@ -436,6 +420,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534569>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/df2335ab611ec91d1f3a50081808897226fba20448c66aa2e1dcc119cd149322.jpg> 重度障害ある小4 寝たまま本塁打
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534576>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/142cef2a5c19af202bfd19622170b20777a6b55324232ae5c1bca652e8ccb11c.jpg> 中居氏やり取りを復元 どんな調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/880f85b3d9f0807f346056ef535ee00daef260e851d2a78b6ee6d79901751494.jpg> 笑顔要求はカスハラ?企業に変化
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 21:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 22:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
