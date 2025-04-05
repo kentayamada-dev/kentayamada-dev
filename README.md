@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c419e3238e7126cf0a02a0268af9f118.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a9c2774aecc035835a6d71eb45967b0d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/566f89e250c826d589017844ab6e552269bf7684>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-04051392-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「Ｎキャス」出演弁護士、フジ第三者委調査で威力のデータ復元は「専門業者に頼みますと億単位でお金が…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/add2011f608fff894359984764fdf18a41566c97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000422-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=415&ch=415&exp=10800&fmt=webp> 『ワンピース』新たなフランキーの声に反響　矢尾一樹→木村昴に声優交代で「かっこいいアニキだ」
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 03:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 04:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
