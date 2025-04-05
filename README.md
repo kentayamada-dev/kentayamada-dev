@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e99b1e2f3712b642bb0a1dd456049d0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dd51f5487fc9e4e36c44091e5b745dd9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80ccfbb0170d4e957101f3b2c04e0f4fde38b1ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010007-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=561&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「厳しいアウェーで発揮された」佐々木朗希が“偉大な投手”となる片鱗見せる　メジャー初勝利ならずも「これからもっと良くなる」
+      <a href=https://news.yahoo.co.jp/articles/119cebdf106c87dddda13226a7e9ba69543994e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ETCシステム障害　東名高速など一部インターで利用できず渋滞　スマートインターも閉鎖　復旧めど立たず　ネクスコ中日本
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/00f97cf95267e4cadccb35b06f53ffe5e12d9f20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> アングル：飲み代は上昇、雇用は減少　トランプ関税で米欧の酒類業界に激震
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534589>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/0af70233f6d09b8f980adbd60d6292827b80e4a4cbc861a03fd2cb521877d077.jpg> 中央自動車道 ETCにシステム障害
+      <a href=https://news.yahoo.co.jp/pickup/6534594>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7819a8d4fc0bf28be54df7d46bccc4a619d6fe41f592118418f3d921456d3158.jpg> ETCレーン一部閉鎖 東名や中央道
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534573>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/a21357e77b4ffdb766f18cd2f6b5c5da3a4920a15a4b87b01cd696e85a43008b.jpg> 収穫体験でキス PTSD苦しんだ娘
+      <a href=https://news.yahoo.co.jp/pickup/6534592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/cfc0c455f03c2e7b7007c143bd4bc9e2fd34398a387037fc66613eb7cbf0588a.jpg> 英ジャガー 米国への輸出一時停止
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6bb64777b46c5cfc97d7b194695b05bfc105079243696cc4c1eda145ea69a0d4.jpg> 朗希 勝ち星目前も5回途中で降板
+      <a href=https://news.yahoo.co.jp/pickup/6534596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6bb64777b46c5cfc97d7b194695b05bfc105079243696cc4c1eda145ea69a0d4.jpg> 佐々木朗希 勝ち星目前で降板
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/b06a0845ed6fb4e8fa43875c27a22f322fedd8d636b5d68155add16804c3ed98.jpg> ワンピ 新フランキーの声お披露目
+      <a href=https://news.yahoo.co.jp/pickup/6534590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/31c4c28d2ec0350c031e92124887c7f1fbb96b04c1f37eb9dd058a323d4c85b7.jpg> 日本馬 ドバイでG1の2レース制覇
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 07:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 08:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
