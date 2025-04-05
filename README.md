@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/sqK5M3PSQtM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ef507ef3e6774773a28ff32531590c4e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/acb12d28f098dabb85c31b8715839920.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e2289221bc89d33d0d80f2622df7b1af490a669>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-03437515-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大谷翔平がついに盗塁失敗　昨シーズンから継続の連続盗塁成功は「38」でストップ　ドジャースは9戦目で初黒星
+      <a href=https://news.yahoo.co.jp/articles/fd5cb0a0aa61daf1eff4e63f7fe5d036f5d32d1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010025-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 球団新人の開幕連続試合安打に並ぶか　西武ドラ2渡部聖弥は5番　隅田知一郎ようやく今季初先発　ソフトバンク戦スタメン発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a24ebf23093a401c66d08392b0123c4b353f4b73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000362-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=763&ch=763&exp=10800&fmt=webp> 秋野暢子、所属事務所退社を報告「長年お世話になりました『しまだプロダクション』を円満退社いたしました」
+      <a href=https://news.yahoo.co.jp/articles/954f09b7ddc819003f018efc27e76aefa1dbe80f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172162-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 米FRB議長「先行きが非常に不確実だ」相互関税の影響に警戒感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15a2d212a043bce85fd619b6eb1160882c502f37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000029-ann-000-7-thumb.jpg?exp=10800&fmt=webp> ダウ平均株価2200ドル以上急落　中国の“報復関税”受け
+      <a href=https://news.yahoo.co.jp/articles/c4ea172612a6b35d47cebd9179926a93c14c5e06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米相互関税の第1弾「世界に10%」発動　NY株は史上3番目の急落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb58a900530409d087fa8d2679d225c603245402>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953301-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ニューヨーク株式市場が急落し前日比2200ドル超値を下げる　“トランプ関税”への中国の報復措置発表うけ　トランプ大統領「金利を下げる絶好のタイミングだ」
+      <a href=https://news.yahoo.co.jp/articles/1b80e970ee20356cd516b1378cbcede25fe713fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-02747481-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 中央道で観光バス2台が絡む事故、47人ケガ　全員命に別条なし
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/dcde46d67a1e94af968e24e55d0a22e2299e525491ed27137eaddfbcd01a5aca.jpg> FRB議長 米関税は「予想上回る」
+      <a href=https://news.yahoo.co.jp/pickup/6534532>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/07bc36ab5d2c59ac3038e120d301a03de3e583cf43013aed99979f8ca3215b43.jpg> 米相互関税の第1弾 世界に10%発動
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 13:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 13:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
