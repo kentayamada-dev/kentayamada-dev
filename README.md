@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6399c70988ae75629c3b935acd3c5fdd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/101e7062b19d5bca05ad6c9885affff1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ce41c23c5050ad0100b9bbc3d64f47b8ceec2fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00340091-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 三谷幸喜氏　フジテレビ第三者委員会報告に「一人が反省すれば済む問題ではない気がする」
+      <a href=https://news.yahoo.co.jp/articles/566f89e250c826d589017844ab6e552269bf7684>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-04051392-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「Ｎキャス」出演弁護士、フジ第三者委調査で威力のデータ復元は「専門業者に頼みますと億単位でお金が…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a62af8f77731679b0aff181a4ab52743d2c07174>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00340090-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ソフトバンク】12球団ワースト防御率、失点数…倉野チーフ投手コーチ「危機感は常にある」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/add2011f608fff894359984764fdf18a41566c97>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000422-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=415&ch=415&exp=10800&fmt=webp> 『ワンピース』新たなフランキーの声に反響　矢尾一樹→木村昴に声優交代で「かっこいいアニキだ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fb11e3ba4a255108bc59c5171efb07de67b89f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010051-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=1929&ch=1929&exp=10800&fmt=webp> 西武打線は貧打を〝卒業〟できたのか…連日の集中打でソフトバンクに快勝　ドラ2ルーキー渡部聖弥は球団新人記録で打率・478
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/ab462fcfdab3826a46c86bf8d8fd48b0f55988047667a1e29c9bbe9fce1ce0e1.jpg> 通学路に潜む死角 親子で確認を
+      <a href=https://news.yahoo.co.jp/pickup/6534588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/22f8ced05a8c6a9cadbed805f683671c2fc4ed19ad14bb32d98face31a4c91fd.jpg> 10代が5人乗る車が柱衝突 2人重体
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534576>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/142cef2a5c19af202bfd19622170b20777a6b55324232ae5c1bca652e8ccb11c.jpg> 中居氏やり取りを復元 どんな調査
+      <a href=https://news.yahoo.co.jp/pickup/6534563>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/4866d94b533a445c67867c55e0812f343f313dbac2d40ca5575459b2c2b5a054.jpg> ママは「生ききる」34歳でALSに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/bfafdc335b4976a9039ee2996c717f75f9b8ee852a60662045b7c36ffbf17068.jpg> 五輪金の永瀬 初戦で失神一本負け
+      <a href=https://news.yahoo.co.jp/pickup/6534576>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/142cef2a5c19af202bfd19622170b20777a6b55324232ae5c1bca652e8ccb11c.jpg> 中居氏やり取りを復元 どんな調査
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 23:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 23:52:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
