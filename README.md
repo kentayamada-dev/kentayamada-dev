@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8db78ba44ae23586909ba866649d33fb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d0b52c592c01668f8dcaca169f61d575.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cc6a75091b30e46413638a40cce9542c3bbfdba6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010009-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=479&ch=479&exp=10800&fmt=webp> トランプ関税の根拠になる「計算式」が物議。識者は「恥ずかしい」と反応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2fb11e3ba4a255108bc59c5171efb07de67b89f7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010051-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=1929&ch=1929&exp=10800&fmt=webp> 西武打線は貧打を〝卒業〟できたのか…連日の集中打でソフトバンクに快勝　ドラ2ルーキー渡部聖弥は球団新人記録で打率・478
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/14df9d03fbf63c991390b492385d03d5f7c61447>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-02951727-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 渡辺直美、アメリカでハリウッド俳優らが所属する大手エージェンシー＆マネジメント会社と契約　　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3884a7901ebf0cd16056e051f689a46381d07d68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000086-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=740&ch=740&exp=10800&fmt=webp> 二大経済大国、貿易戦争激化へ　中国報復、米農産物に打撃　トランプ関税
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/624dc67b59d48a4c2111b2f0cd520f2f76b811688b1c265c8656d8674d72bc29.jpg> 週明けの東京株も下落か 混乱続く
+      <a href=https://news.yahoo.co.jp/pickup/6534578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/926d3d8e733393b9a344edf076bc51222eb6fe1b29903746664871adbc2514fc.jpg> 米中貿易戦争 激化に懸念強まる
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534575>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/9da642e9382d27f5ac500c2b9a07e063f8afdd7ce6ce7da453f7e35e7d0313d3.jpg> 関税 米自動車大手3社にも重荷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534574>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/c33bbde88bbdc5218846e9e9342a07c8f1110cf033d0a9c76f4795d9e0eb685b.jpg> 万博予行演習 入場1時間半待ちも
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/880f85b3d9f0807f346056ef535ee00daef260e851d2a78b6ee6d79901751494.jpg> 笑顔要求はカスハラ?企業に変化
+      <a href=https://news.yahoo.co.jp/pickup/6534579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/bfafdc335b4976a9039ee2996c717f75f9b8ee852a60662045b7c36ffbf17068.jpg> 五輪金の永瀬 初戦で失神一本負け
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534572>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/80d69c6868ecc8cdea2549eca9300ae5c63736f510e161b5f1f42d081ba2af94.jpg> 日テレ・徳島えりかアナ 育休復帰
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 22:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 22:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
