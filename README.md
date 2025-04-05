@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1593dd77fd0a8c90e2e43104844ccdee.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7c104c30ff59eaa845cbe59eeed633ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2336f2e9624efe44f3c55de311609c2cd3a9767e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-03852432-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破首相　米相互関税への「報復関税」には否定的　トランプ大統領との電話会談「来週中にはやりたい」
+      <a href=https://news.yahoo.co.jp/articles/15413d2c674934be37cd733e68362ce11c63bd94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010019-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=480&ch=480&exp=10800&fmt=webp> どうしたソフトバンク…開幕から2度目の3連敗で借金5　西武に大敗と投壊止まらず　注目される「攻守の大きな穴」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d2c48b8f21094af40ff633b503c7c282ea56b0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34051363-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1163&ch=1163&exp=10800&fmt=webp> 【ソフトバンク】開幕７戦で１勝だけ…早くも「借金５」抱えるも「これより下はない」小久保監督
+      <a href=https://news.yahoo.co.jp/articles/0bb25d5fb56116c6cca47460e1420e70449fd295>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 社説：韓国大統領の罷免　混乱収拾へ与野党は協力を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2336f2e9624efe44f3c55de311609c2cd3a9767e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-03852432-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破首相　米相互関税への「報復関税」には否定的　トランプ大統領との電話会談「来週中にはやりたい」
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534556>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/f2b6496b472bf07f7f609d3649f27283785c74844d2069c7c6ce9e39287feef2.jpg> 都市と地方「2地域居住」促進へ
+      <a href=https://news.yahoo.co.jp/pickup/6534561>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/42f5c2686199f676729ba8205a26790514c61a48fa76dc2773ccdb884abee451.jpg> 車が柱に衝突し2人重体 10代か
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/00e69536caf2dc88b08838404c86387a0c65d4f4cf94e5b86beba45699b7f75f.jpg> 阿部詩が国内復帰戦V 男子は波乱
+      <a href=https://news.yahoo.co.jp/pickup/6534559>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/8b49c12c602849feba2b2227e9c6c2688008890901fba44676e2abf4699293f3.jpg> AIが東大理科3類「合格水準」
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 18:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 18:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
