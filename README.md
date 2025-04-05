@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/03f2d80db3ca35450e6f09b3ab9b1dd2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a3ab2de4ad84ae6220041a31f59553c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49a0ea17e0eda00ff1a4f4c09b85e344797da9ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172207-abemad-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=1324&ch=1324&exp=10800&fmt=webp> 美脚スラリ！22キロ減で話題のしなこ、とびきり笑顔に「いつもと雰囲気が違う」「めちゃかわ」ファン歓喜
+      <a href=https://news.yahoo.co.jp/articles/71f1c1c74e7697086484e31b0bbb56913ee4ba0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172213-abemad-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=802&ch=802&exp=10800&fmt=webp> 「なこなこチャンネル」終了のなごみ、美脚際立つミニスカ＆ハイソックス姿に絶賛の声「やっぱスタイル良い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/616ddf6d0d987ecebbc1f5cae893e8d5c70723fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-01659154-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 苦しむ王者...ソフトバンクが今季2度目の3連敗　リリーフ陣が誤算
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c31aea83b05b17e59e6963dc4a7697260252262a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-39755473-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 米銀行株指数、２日間の下げはコロナ禍初期以降で最大－貿易戦争懸念
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed53e37ec245476ff00b178e1108f53187ee08ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00080036-chosun-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=531&ch=531&exp=10800&fmt=webp> 落ち着いていた韓国国民、今後は国の正常化と危機克服を【4月5日付社説】　尹大統領罷免
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8f0bcffe5953e42b4f67ac4d9b384c0906969c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「相互関税」10％分が発効　日本への税率は9日に24％、トランプ氏「政策変わらない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0527df97756498f792cbbe08e7866168e721660>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000036-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=1112&ch=1112&exp=10800&fmt=webp> トランプ政権、10％の一律関税を発動　全世界の幅広い商品が対象
+      <a href=https://news.yahoo.co.jp/articles/393bd005275e762f70be5404e7d62b6843521ea1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中居氏と女性トラブル「業務の延長線上の性暴力」 フジ第三者委が認定　港元社長「テラスハウスのようになったら…」中居氏メールに「見たら削除して」【news23】
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534525>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/40cbd2876524492292769b33705671e7ea83a3e0f76476cde3662cbfc5e5d116.jpg> 米が最貧国に50%関税「衝撃的」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534539>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/42a0e78f92e53456f54959f73342efd4e80f649fe338a3e96883f099d2a862fa.jpg> 英警察 R・ブランドさんを訴追
+      <a href=https://news.yahoo.co.jp/pickup/6534555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/edcbfb1b8af916756f697c8a8d4a3442c0769ff3b3ecc42ec681c2d28d32c8bd.jpg> 中国・習体制から脱出 100万人超
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534557>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/0c0880333f500e65d323da8881bfe5c353ba138f760c1ecad55b2b35a9aea1c7.jpg> 藤原紀香がランウェイに どよめき
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534552>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/a58ded103bd8c1a9756f7c65361a551ac4158babf4c25d242cadf6211fca52d7.jpg> 袴田彩会アナウンサー 結婚を発表
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 17:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 17:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
