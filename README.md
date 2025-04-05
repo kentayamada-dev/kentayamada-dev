@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd7c05b118e95ed1bac8da63cb658b48.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/af12445653258e9b956b9f7a7637a611.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e273ff77c2299b113a37b36808907d637b879b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34050387-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1093&ch=1093&exp=10800&fmt=webp> 大谷翔平刺したリアルミュート「盗塁は驚いた。ムーキーが打席にいたから」連続成功38で止まる
+      <a href=https://news.yahoo.co.jp/articles/a24ebf23093a401c66d08392b0123c4b353f4b73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000362-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=763&ch=763&exp=10800&fmt=webp> 秋野暢子、所属事務所退社を報告「長年お世話になりました『しまだプロダクション』を円満退社いたしました」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f3040f424bd7355a3b11201828f9ce1b7d427ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00087378-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=300&ch=300&exp=10800&fmt=webp> トランプショックはいつまで続く？S&P500・ナスダックと並んで下落したビットコイン、上昇に転じるのは今年後半か
+      <a href=https://news.yahoo.co.jp/articles/15a2d212a043bce85fd619b6eb1160882c502f37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000029-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ダウ平均株価2200ドル以上急落　中国の“報復関税”受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a6ccc0f6dad742bac3154f625c57b04994190c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050045-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ダウ平均株価は大幅続落、史上３番目の２２３１ドル安…２日間でトヨタ時価総額の２５倍相当が失われる
+      <a href=https://news.yahoo.co.jp/articles/eb58a900530409d087fa8d2679d225c603245402>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953301-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ニューヨーク株式市場が急落し前日比2200ドル超値を下げる　“トランプ関税”への中国の報復措置発表うけ　トランプ大統領「金利を下げる絶好のタイミングだ」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534515>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/970e086d1d6c60cc1f04e5fb42ac2560b31abb268060712bf3046bd4b0143bb9.jpg> 軍事化する熊本空港 住民の不安
+      <a href=https://news.yahoo.co.jp/pickup/6534521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/40b797efaefa27cad753584fc767fa14f2df7bdf2c42c113f17dd7d339d78a52.jpg> 中央道バス追突 下り一部通行止め
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534516>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/a22810edf378541cb16ffab32d24fc7a89f15b5f8b58f2a0cd17385f5530cc16.jpg> 神田橋-西銀座JCT 10年通行止め
+      <a href=https://news.yahoo.co.jp/pickup/6534524>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/41afe54d4e76834545d3e01bf4ab5e52bb51319430fbb4ff3fd690ee83e5f3bd.jpg> ガードレール破り車転落 18歳死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 12:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 12:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
