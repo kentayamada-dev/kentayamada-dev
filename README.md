@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bec24c16915180df299eca729d12b650.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/40addc070d700a01386de6742ccf6e6e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c914bca02263a7f43d37af8870a46796e6cc6ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000080-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 阿部詩、国内復帰戦で初優勝「ロス五輪への第一歩に繋がったかな。もっともっと強くなりたい」／柔道
+      <a href=https://news.yahoo.co.jp/articles/466d69dbe5d6fe49dcdbd2869ec29ab33b3ef1a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34051019-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 元東北放送のフリーアナ34歳袴田彩会が結婚、野球好きで里崎チャンネルに出演、姉は元グラドル
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7022e71e27caf9660dace5562d121a5751709075>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000044-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破総理、トランプ米大統領との電話会談「来週に」
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd5cb0a0aa61daf1eff4e63f7fe5d036f5d32d1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010025-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 球団新人の開幕連続試合安打に並ぶか　西武ドラ2渡部聖弥は5番　隅田知一郎ようやく今季初先発　ソフトバンク戦スタメン発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/954f09b7ddc819003f018efc27e76aefa1dbe80f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172162-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 米FRB議長「先行きが非常に不確実だ」相互関税の影響に警戒感
+      <a href=https://news.yahoo.co.jp/articles/a0527df97756498f792cbbe08e7866168e721660>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000036-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=1112&ch=1112&exp=10800&fmt=webp> トランプ政権、10％の一律関税を発動　全世界の幅広い商品が対象
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534532>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/07bc36ab5d2c59ac3038e120d301a03de3e583cf43013aed99979f8ca3215b43.jpg> 米相互関税の第1弾 世界に10%発動
+      <a href=https://news.yahoo.co.jp/pickup/6534545>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/4a47d67367691b4742094bea8ba99f9faa4f438cbadc2a12f1cb01fb18666a5b.jpg> イスラエル首相 7日に訪米か
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534524>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/41afe54d4e76834545d3e01bf4ab5e52bb51319430fbb4ff3fd690ee83e5f3bd.jpg> ガードレール破り車転落 18歳死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534539>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/42a0e78f92e53456f54959f73342efd4e80f649fe338a3e96883f099d2a862fa.jpg> 英警察 R・ブランドさんを訴追
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534541>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/59cb7be61840a7f03a1dd71d09a9560a0865f7a7cdc984d58af771a05de13db7.jpg> ミュゼ休業で給料未払い 従業員涙
+      <a href=https://news.yahoo.co.jp/pickup/6534548>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/59cb7be61840a7f03a1dd71d09a9560a0865f7a7cdc984d58af771a05de13db7.jpg> 退職届受理されず ミュゼの従業員
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534544>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/00e69536caf2dc88b08838404c86387a0c65d4f4cf94e5b86beba45699b7f75f.jpg> 阿部詩が国内復帰戦V 男子は波乱
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/dbccce3ce84966767d193d41cf998867ec1a6fba2bdc7d7dcd43863fca8553de.jpg> アンヌ遙香 新たな名前で活動の訳
+      <a href=https://news.yahoo.co.jp/pickup/6534552>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/a58ded103bd8c1a9756f7c65361a551ac4158babf4c25d242cadf6211fca52d7.jpg> 袴田彩会アナウンサー 結婚を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 16:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 16:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
