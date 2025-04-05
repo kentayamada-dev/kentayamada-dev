@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/76e39845a7d46c97a40aa50513dcb89d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/26319a4d97e6eee5a4196dcac34d5f44.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d576749960d403a0fc5703b010b0a1a10c3448fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34051764-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=1169&ch=1169&exp=10800&fmt=webp> 【ソフトバンク】屈辱の最下位に王会長が起爆剤に指名したバッター「彼が打てば盛り上がる」
+      <a href=https://news.yahoo.co.jp/articles/66079239fb46709a3c06ef4ddce8c01bef027bbe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00340066-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ソフトバンク】本拠地でいまだ未勝利… 小久保監督「これより下はない。あとは上がるだけ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ce8e27c5edee54c1ea55d4ea89c77fa6789e04b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000181-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 渡辺直美　米大手エージェンシー「ＵＴＡ」と契約　ハリソン・フォード、ジョニー・デップらと同門に　米業界誌が独占報道で注目
+      <a href=https://news.yahoo.co.jp/articles/e8c374c99761dd9559e48a65a53e7357c1e5c65a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010010-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=1116&ch=1116&exp=10800&fmt=webp> 渡辺直美、米エージェンシー「UTA」と契約　国際的な活躍の場を拡大
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f224b70161781d88acde6e26ee600461a8b823a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050116-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=447&ch=447&exp=10800&fmt=webp> トランプ関税、インドはすでに交渉…貿易協定で商工省「数日中に前進できると期待している」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050116-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=447&ch=447&exp=10800&fmt=webp> トランプ関税、インドはすでに交渉…貿易協定で商工省「数日中に前進できると期待している」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534551>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/92fcbb96944c568f4d3e101657935f916087151cfefa123776037d97fea2fbaf.jpg> 米国と電話会談 来週目指すと首相
+      <a href=https://news.yahoo.co.jp/pickup/6534571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/624dc67b59d48a4c2111b2f0cd520f2f76b811688b1c265c8656d8674d72bc29.jpg> 週明けの東京株も下落か 混乱続く
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534570>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/6becf143fff2bee938f113729486f480d757ec8f290a3d8ac06374a82ae20d86.jpg> 露攻撃 ウで子ども含む19人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/edcbfb1b8af916756f697c8a8d4a3442c0769ff3b3ecc42ec681c2d28d32c8bd.jpg> 中国・習体制から脱出 100万人超
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534572>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/80d69c6868ecc8cdea2549eca9300ae5c63736f510e161b5f1f42d081ba2af94.jpg> 日テレ・徳島えりかアナ 育休復帰
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534564>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/fff023971fb1c0c0332c292ab10030b0e46464c8a94f7ac4e3794892bf20fce3.jpg> 渡辺直美 米エージェンシーと契約
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 20:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 20:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
