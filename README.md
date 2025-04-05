@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5881bb840622db09bb3a3798e3ca5f19.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/68b0d56af4e4c8b25cc87abe3ad1bbde.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -386,16 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/96edb245de423a4057d802b8c0ceb5e245dc55eff5654405bcdc07c1d8940ad0.jpg> 死臭立ちこめる ミャンマー被災地
+      <a href=https://news.yahoo.co.jp/pickup/6534589>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/0af70233f6d09b8f980adbd60d6292827b80e4a4cbc861a03fd2cb521877d077.jpg> 中央自動車道 ETCにシステム障害
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/0e9cd6554e3f7e69578045c57e57e5b9db650cadd767aa6a90acddd7e601474c.jpg> ガザ 立ち入り禁止地域などが65%
+      <a href=https://news.yahoo.co.jp/pickup/6534583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/96edb245de423a4057d802b8c0ceb5e245dc55eff5654405bcdc07c1d8940ad0.jpg> 死臭立ちこめる ミャンマー被災地
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 06:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 07:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
