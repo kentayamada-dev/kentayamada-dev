@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8d0da4528ff7e542b4bfd3e7ce06e227.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bec24c16915180df299eca729d12b650.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5fab69ba70934240400c66b2e15eb11ac92af6d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000043-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 中央道で観光バス同士が衝突　けが人は47人に 河口湖に向かう途中
+      <a href=https://news.yahoo.co.jp/articles/4c914bca02263a7f43d37af8870a46796e6cc6ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000080-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 阿部詩、国内復帰戦で初優勝「ロス五輪への第一歩に繋がったかな。もっともっと強くなりたい」／柔道
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534533>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/3c5a2d9fafeeb59d16960a746120be9fdf3f92abdcf3d4e1a6a65787f3edf0e3.jpg> 中央道で観光バス追突 40人超けが
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534524>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/41afe54d4e76834545d3e01bf4ab5e52bb51319430fbb4ff3fd690ee83e5f3bd.jpg> ガードレール破り車転落 18歳死亡
       </a>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534539>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/42a0e78f92e53456f54959f73342efd4e80f649fe338a3e96883f099d2a862fa.jpg> 英警察 R・ブランドさんを訴追
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534541>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/59cb7be61840a7f03a1dd71d09a9560a0865f7a7cdc984d58af771a05de13db7.jpg> ミュゼ休業で給料未払い 従業員涙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 15:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 16:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
