@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/40addc070d700a01386de6742ccf6e6e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/03f2d80db3ca35450e6f09b3ab9b1dd2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/466d69dbe5d6fe49dcdbd2869ec29ab33b3ef1a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34051019-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 元東北放送のフリーアナ34歳袴田彩会が結婚、野球好きで里崎チャンネルに出演、姉は元グラドル
+      <a href=https://news.yahoo.co.jp/articles/49a0ea17e0eda00ff1a4f4c09b85e344797da9ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172207-abemad-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=1324&ch=1324&exp=10800&fmt=webp> 美脚スラリ！22キロ減で話題のしなこ、とびきり笑顔に「いつもと雰囲気が違う」「めちゃかわ」ファン歓喜
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/44305c637b8694a63425f899fa362f53c6b5ef59f0e96893e6ff212d842605ce.jpg> 罷免の尹氏 5つの争点で「完敗」
+      <a href=https://news.yahoo.co.jp/pickup/6534551>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/92fcbb96944c568f4d3e101657935f916087151cfefa123776037d97fea2fbaf.jpg> 米国と電話会談 来週目指すと首相
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/00e69536caf2dc88b08838404c86387a0c65d4f4cf94e5b86beba45699b7f75f.jpg> 阿部詩が国内復帰戦V 男子は波乱
+      <a href=https://news.yahoo.co.jp/pickup/6534547>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/b7425ad60440a81676c5ae47ab62b93dfb55243fd320ae0d4e3bf64235019666.jpg> 施設脱走のイルカ 20km先で発見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/cd827d1563d4290339cb1cbfbc225020138e87c276907216d0034a38e154d7e2.jpg> 8回に盗塁死 大谷に監督が苦言
+      <a href=https://news.yahoo.co.jp/pickup/6534544>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/00e69536caf2dc88b08838404c86387a0c65d4f4cf94e5b86beba45699b7f75f.jpg> 阿部詩が国内復帰戦V 男子は波乱
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 16:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 17:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
