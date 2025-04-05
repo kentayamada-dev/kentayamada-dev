@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/sqK5M3PSQtM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/acb12d28f098dabb85c31b8715839920.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/acdd8685d8ddcf0ebdcdbac0e48b4efe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd5cb0a0aa61daf1eff4e63f7fe5d036f5d32d1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010025-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 球団新人の開幕連続試合安打に並ぶか　西武ドラ2渡部聖弥は5番　隅田知一郎ようやく今季初先発　ソフトバンク戦スタメン発表
+      <a href=https://news.yahoo.co.jp/articles/f8f0bcffe5953e42b4f67ac4d9b384c0906969c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「相互関税」10％分が発効　日本への税率は9日に24％、トランプ氏「政策変わらない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ca485e8212b4d36bd02ec2ff2a5729ed2eccb8fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000026-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 中央道でバス同士の事故、47人けが　小仏トンネル付近　通行止めも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6102e8cec13b31c5e93b55d449139c5ac46c02cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050084-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ウクライナ中南部にミサイル攻撃、１４人死亡…ゼレンスキー氏「ロシアは停戦を望んでいない」
       </a>
     </td>
   </tr>
@@ -366,31 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/954f09b7ddc819003f018efc27e76aefa1dbe80f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172162-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 米FRB議長「先行きが非常に不確実だ」相互関税の影響に警戒感
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172162-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=984&ch=984&exp=10800&fmt=webp> 米FRB議長「先行きが非常に不確実だ」相互関税の影響に警戒感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4ea172612a6b35d47cebd9179926a93c14c5e06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米相互関税の第1弾「世界に10%」発動　NY株は史上3番目の急落
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b80e970ee20356cd516b1378cbcede25fe713fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-02747481-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 中央道で観光バス2台が絡む事故、47人ケガ　全員命に別条なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c197f5cf46fed524a0789a83770a00156b22ad7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-15957865-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ロシアのミサイル攻撃で子供含む18人死亡、ゼレンスキー氏の出身地で
+      <a href=https://news.yahoo.co.jp/articles/16417df63896da242ebd925a44da6329d456aca3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000021-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 尹氏の大統領罷免、一面全面で伝える韓国紙　朝鮮中央通信も報じる
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534520>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/57f22a556613f469258546ae1a61edcb7d398e8a160cd020e1fb5eae230dca5f.jpg> 米政策称賛を否定 バフェット氏側
+      <a href=https://news.yahoo.co.jp/pickup/6534525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/40cbd2876524492292769b33705671e7ea83a3e0f76476cde3662cbfc5e5d116.jpg> 米が最貧国に50%関税「衝撃的」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534533>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/8b5fec1e6f47625d3e76e58bd16ee92410aea14c52c4af37d990295e1850db71.jpg> 中央道で観光バス追突 40人超けが
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/8e0780ed6151056239e76d496df52c9aba9778f0a7260d29d74d3d9ca0c2ac53.jpg> モス業績好調 薄れつつある割高感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534513>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/2fcfb21accb924aca4426fcf3424d2a464ed66335eac0793882d3c2fc062118f.jpg> 拒食症の女性 食べる動画に反響
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 13:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 14:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
