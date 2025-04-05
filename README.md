@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b84524e19d17c97bfef31e8a17c47b1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6399c70988ae75629c3b935acd3c5fdd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a47c3676459fbd3c5a7542200a7de3de347215de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-04051383-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 三谷幸喜氏、フジテレビ問題に私見「フジテレビだけが反省すれば済む問題ではないような気がする」
+      <a href=https://news.yahoo.co.jp/articles/4ce41c23c5050ad0100b9bbc3d64f47b8ceec2fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00340091-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 三谷幸喜氏　フジテレビ第三者委員会報告に「一人が反省すれば済む問題ではない気がする」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/add2011f608fff894359984764fdf18a41566c97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000422-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=415&ch=415&exp=10800&fmt=webp> 『ワンピース』新たなフランキーの声に反響　矢尾一樹→木村昴に声優交代で「かっこいいアニキだ」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2fb11e3ba4a255108bc59c5171efb07de67b89f7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010051-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=1929&ch=1929&exp=10800&fmt=webp> 西武打線は貧打を〝卒業〟できたのか…連日の集中打でソフトバンクに快勝　ドラ2ルーキー渡部聖弥は球団新人記録で打率・478
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14df9d03fbf63c991390b492385d03d5f7c61447>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-02951727-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 渡辺直美、アメリカでハリウッド俳優らが所属する大手エージェンシー＆マネジメント会社と契約　　
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/0e9cd6554e3f7e69578045c57e57e5b9db650cadd767aa6a90acddd7e601474c.jpg> ガザ 立ち入り禁止地域などが65%
+      <a href=https://news.yahoo.co.jp/pickup/6534583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/96edb245de423a4057d802b8c0ceb5e245dc55eff5654405bcdc07c1d8940ad0.jpg> 死臭立ちこめる ミャンマー被災地
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534558>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/ab462fcfdab3826a46c86bf8d8fd48b0f55988047667a1e29c9bbe9fce1ce0e1.jpg> 通学路に潜む死角 親子で確認を
       </a>
     </td>
   </tr>
@@ -404,22 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534573>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/a21357e77b4ffdb766f18cd2f6b5c5da3a4920a15a4b87b01cd696e85a43008b.jpg> 収穫体験でキス PTSD苦しんだ娘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/df2335ab611ec91d1f3a50081808897226fba20448c66aa2e1dcc119cd149322.jpg> 重度障害ある小4 寝たまま本塁打
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/2c24a37123ab67776275c2cfcf549e704f2547cd7b842f3910f3a2fd6140ff21.jpg> 行方不明者探す 地道な捜索に密着
       </a>
     </td>
   </tr>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/b06a0845ed6fb4e8fa43875c27a22f322fedd8d636b5d68155add16804c3ed98.jpg> ワンピ 新フランキーの声お披露目
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 23:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 23:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
