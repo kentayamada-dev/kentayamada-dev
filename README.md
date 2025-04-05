@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/09949e9cb0edf589a9711c0c6b17396e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f9b7b5df6943fbb2b6a50af8b95f5c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fef658d4283ed537322f87ab056b4470869ec53d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00903525-lmaga-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 中条あやみとウエンツ瑛士、大阪・万博会場の大屋根リングに驚き「車で行かなきゃいけない規模」
+      <a href=https://news.yahoo.co.jp/articles/82deb2d9a73aa2eec93417b97a4e4beb3b9b3754>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-90022096-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=461&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 渡辺直美、米大手エージェンシー＆一流コメディアンのマネジメント会社と契約！
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15413d2c674934be37cd733e68362ce11c63bd94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010019-cocokara-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=480&ch=480&exp=10800&fmt=webp> どうしたソフトバンク…開幕から2度目の3連敗で借金5　西武に大敗と投壊止まらず　注目される「攻守の大きな穴」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bb25d5fb56116c6cca47460e1420e70449fd295>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 社説：韓国大統領の罷免　混乱収拾へ与野党は協力を
+      <a href=https://news.yahoo.co.jp/articles/1fe3e485c47b15505e9a007fbd5390b5b5b12e3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010040-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 開幕から1勝6敗…ソフトバンク投手陣に目立つ2ストライク後の痛打【#好球筆打】
       </a>
     </td>
   </tr>
@@ -382,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2336f2e9624efe44f3c55de311609c2cd3a9767e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-03852432-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破首相　米相互関税への「報復関税」には否定的　トランプ大統領との電話会談「来週中にはやりたい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-03852432-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 石破首相　米相互関税への「報復関税」には否定的　トランプ大統領との電話会談「来週中にはやりたい」
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/4a47d67367691b4742094bea8ba99f9faa4f438cbadc2a12f1cb01fb18666a5b.jpg> イスラエル首相 7日に訪米か
+      <a href=https://news.yahoo.co.jp/pickup/6534550>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/dd64c4a967a021f29370075872eefa8e4fdee24516654601f9f2dd593e244253.jpg> 露の攻撃 ウで子供含む18人死亡
       </a>
     </td>
   </tr>
@@ -450,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534564>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/fff023971fb1c0c0332c292ab10030b0e46464c8a94f7ac4e3794892bf20fce3.jpg> 渡辺直美 米エージェンシーと契約
+      <a href=https://news.yahoo.co.jp/pickup/6534565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/6b93bcc5f14dc3ca6f45153c6947aafe2ad927422819f8f087edc2dcf8d20eb4.jpg> DeNA山崎 1球で敗戦投手に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534557>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/0c0880333f500e65d323da8881bfe5c353ba138f760c1ecad55b2b35a9aea1c7.jpg> 藤原紀香がランウェイに どよめき
+      <a href=https://news.yahoo.co.jp/pickup/6534564>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/fff023971fb1c0c0332c292ab10030b0e46464c8a94f7ac4e3794892bf20fce3.jpg> 渡辺直美 米エージェンシーと契約
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 19:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 19:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
