@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c0cee65ba48e2d2c50d74572f66be8fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e5a855a61e0b6128e53d17723723a7d8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/24a3bbfd5f5d885aa33d28b9840eb4981dc1e8ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953286-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー大統領の故郷クリビーリフにロシアがミサイル攻撃　子供6人含む14人死亡50人超負傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3e29da903b7df5b99fb8aabb2d4608f336b253c7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953279-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> NYマーケット大幅続落　ダウ3万8314ドル86セント　ナスダック1万5587.79
       </a>
@@ -365,32 +373,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b181b1085d2572d4382e5b1537f321359ee556b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-35231399-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ロシア、ウクライナ大統領の故郷にミサイル攻撃　１６人死亡とウクライナ当局
+      <a href=https://news.yahoo.co.jp/articles/4e104e21499844abb16ac3a3fd5b1cef795bfc06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010000-jfactc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=670&ch=670&exp=10800&fmt=webp> 石破首相が食品の消費税を0%にする方針? ネット掲示板のタイトル【ファクトチェック】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4938f18e3477bacd150b7b93109385f9cc80c08>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-35231398-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＮＹダウ２２３１ドル下落、調整局面入り　関税合戦が市場を揺るがす
+      <a href=https://news.yahoo.co.jp/articles/45014ddb1014b016a3ebba6d9dafa3c3c03457eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172109-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 中国が米国に34％の報復関税 NYダウ一時2200ドル超下落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f45938f362b189c31a439ee7d0b777d9175f2570>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010019-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 「今はとにかくどんな場面でも投げたい」　ソフトバンク松本晴が見せるマウンドへの〝欲〟
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba2a0f9403026993e677dcd839893ef1a38998d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（4日）株続落、利回り低下　ドル反発
+      <a href=https://news.yahoo.co.jp/articles/1dd56347819e3ce560f4eaa8abc6c6f0ecf7231c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000007-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 中国 米国に34％の報復関税 NYダウは急落
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/464cdc3febde095789cc96c269a225d677de5a39e4e3d9951e43b0a08b8e8cb9.jpg> トランプ氏、政策変えずと投稿
+      <a href=https://news.yahoo.co.jp/pickup/6534504>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/2be973dc3bc3624431cb1d2b273353de71dd25dad402ebd273760fcb469b1bd3.jpg> 世界同時株安 米の相互関税巡り
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 10:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 10:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
