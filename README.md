@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/af12445653258e9b956b9f7a7637a611.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ef507ef3e6774773a28ff32531590c4e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1e2289221bc89d33d0d80f2622df7b1af490a669>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-03437515-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大谷翔平がついに盗塁失敗　昨シーズンから継続の連続盗塁成功は「38」でストップ　ドジャースは9戦目で初黒星
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a24ebf23093a401c66d08392b0123c4b353f4b73>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000362-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=46&cy=0&cw=763&ch=763&exp=10800&fmt=webp> 秋野暢子、所属事務所退社を報告「長年お世話になりました『しまだプロダクション』を円満退社いたしました」
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/15a2d212a043bce85fd619b6eb1160882c502f37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000029-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ダウ平均株価2200ドル以上急落　中国の“報復関税”受け
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000029-ann-000-7-thumb.jpg?exp=10800&fmt=webp> ダウ平均株価2200ドル以上急落　中国の“報復関税”受け
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce162497b34a6d9e6288f6610040713b7a56d7c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-21835915-utyv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東京オリンピックで金　レスリングの乙黒拓斗選手（笛吹市出身）が引退「たくさん応援してもらい幸せなレスリング人生でした」　
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534510>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/9efbb0e370fbeffb50829aad08632a5ed1510d4a9517391209d61156173ecd9f.jpg> 消費減税 与党内にも期待する声
+      <a href=https://news.yahoo.co.jp/pickup/6534520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/57f22a556613f469258546ae1a61edcb7d398e8a160cd020e1fb5eae230dca5f.jpg> 米政策称賛を否定 バフェット氏側
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534521>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/40b797efaefa27cad753584fc767fa14f2df7bdf2c42c113f17dd7d339d78a52.jpg> 中央道バス追突 下り一部通行止め
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534519>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/4613cb05771a56fe89884a7aa290e0489b3d9fee6aed5837d0d8b917d72ef9f3.jpg> 証券口座の乗っ取り被害拡大 注意
+      <a href=https://news.yahoo.co.jp/pickup/6534497>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/faa7faac8f1def340d7fdf3bbea2a515168ef19ee8806911fccb9bf00fbfadab.jpg> 高速船浸水隠し 海保が立件へ調整
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534524>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/41afe54d4e76834545d3e01bf4ab5e52bb51319430fbb4ff3fd690ee83e5f3bd.jpg> ガードレール破り車転落 18歳死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/4613cb05771a56fe89884a7aa290e0489b3d9fee6aed5837d0d8b917d72ef9f3.jpg> 証券口座の乗っ取り被害拡大 注意
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534511>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/1eb6300f277ce3f3623ed0595b0c2e8f66689c81eac335782eb896524de45449.jpg> 大谷が痛恨の盗塁失敗 ド軍は黒星
+      <a href=https://news.yahoo.co.jp/pickup/6534529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/cd827d1563d4290339cb1cbfbc225020138e87c276907216d0034a38e154d7e2.jpg> 8回に盗塁死 大谷に監督が苦言
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 12:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 13:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
