@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/j9_ncNO7ws4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a49b2bf3c76782f75393ba3d4d9143c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c0cee65ba48e2d2c50d74572f66be8fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a28420e80f52426c27c27961d9e0d5c58aa1fbd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000003-hbcv-000-3-thumb.jpg?exp=10800&fmt=webp> 5日未明　北海道で最大震度4のやや強い地震　北海道・福島町
+      <a href=https://news.yahoo.co.jp/articles/3e29da903b7df5b99fb8aabb2d4608f336b253c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953279-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> NYマーケット大幅続落　ダウ3万8314ドル86セント　ナスダック1万5587.79
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e3d3ccbb1bde27dca0a4940e413a41d8fa97fd7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-04051046-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=92&cw=1086&ch=1086&exp=10800&fmt=webp> 「旅サラダ」神田正輝の後任「初出演」にネット絶賛…「人選が絶妙でスタッフ有能過ぎる！！」「土曜の朝に何たる眼福！！」
+      <a href=https://news.yahoo.co.jp/articles/b181b1085d2572d4382e5b1537f321359ee556b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-35231399-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ロシア、ウクライナ大統領の故郷にミサイル攻撃　１６人死亡とウクライナ当局
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f055ece2098dadd9d873af1e2e970ae76504d3fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953264-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> NYダウ2200ドル超安　FRB議長「先行き不透明」　利下げ時期など見極め
+      <a href=https://news.yahoo.co.jp/articles/d4938f18e3477bacd150b7b93109385f9cc80c08>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-35231398-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＮＹダウ２２３１ドル下落、調整局面入り　関税合戦が市場を揺るがす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f45938f362b189c31a439ee7d0b777d9175f2570>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010019-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 「今はとにかくどんな場面でも投げたい」　ソフトバンク松本晴が見せるマウンドへの〝欲〟
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ba2a0f9403026993e677dcd839893ef1a38998d2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（4日）株続落、利回り低下　ドル反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1aea86e2ddf130918870fc5ac19124e1c323549>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ大幅続落、2200ドル超安＝4万ドル割れ（4日）☆差替
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/ecd01fab354ed5004256ba7713ed0bac1669074812d5c8bc4a97c5fdbffc877a.jpg> 住吉会 本部事務所に移転の動き
+      <a href=https://news.yahoo.co.jp/pickup/6534500>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/a6ae1f33ec74d3b90639908e125c89b3d5b3204978fc17865b4542af2ddb5fa9.jpg> 「経営コンサル」の倒産 過去最多
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/dee8df17efb84451205642a922da37a16762c0ea87b6e5e13203347a646ad2aa.jpg> 自閉スペクトラム症 中学生の奮闘
+      <a href=https://news.yahoo.co.jp/pickup/6534505>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/6829f1960da6cf2fd1039a423117d597190c73869cc00e0d9448a880f61fd341.jpg> 悠仁さま 筑波大の入学式に臨む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534503>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/afd48178a25335f1a38136a228623d24ab74c961c7df169baeb1c2e242288795.jpg> トイレに生理用品なし 市が見解
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534502>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/53c7b41e4efa9f3edf08a98c06bfcd7b176efcdd3bf6939704e4e4e5b611c1e9.jpg> 藤木直人「ワクワク」旅サラダMC
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 09:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 10:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
