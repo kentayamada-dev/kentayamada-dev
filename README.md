@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/09775af227e05434efdf800cc56a75e9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5881bb840622db09bb3a3798e3ca5f19.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bdb96f247bff3ff7e8646fcb85efadd049e68193>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-04051378-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1028&ch=1028&exp=10800&fmt=webp> 阿部詩　パリ五輪号泣敗戦から「自分を取り戻す第一歩」復活Ｖ「必ずもう一度、世界一に」
+      <a href=https://news.yahoo.co.jp/articles/cc515bad0c1120564d65163837b081a6a539f6de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010016-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=658&ch=658&exp=10800&fmt=webp> 救援陣炎上で今季2度目の3連敗…ソフトバンク、本拠地では白星なしの5連敗　小久保監督「これより下はないでしょうからね」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/daa7d600023d0ca2f55486b4cc51683939d33278>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-34052018-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=1133&ch=1133&exp=10800&fmt=webp> 鶴嶋乃愛、TGCin万博オフショット公開「リボン可愛い」「天女！綺麗すぎる」
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 06:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 06:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
