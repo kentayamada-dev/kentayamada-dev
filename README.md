@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a3ab2de4ad84ae6220041a31f59553c0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1593dd77fd0a8c90e2e43104844ccdee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2336f2e9624efe44f3c55de311609c2cd3a9767e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-03852432-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破首相　米相互関税への「報復関税」には否定的　トランプ大統領との電話会談「来週中にはやりたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d2c48b8f21094af40ff633b503c7c282ea56b0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-34051363-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1163&ch=1163&exp=10800&fmt=webp> 【ソフトバンク】開幕７戦で１勝だけ…早くも「借金５」抱えるも「これより下はない」小久保監督
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bc630a8435bcc83393bca94cbfea980d6bb66444>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-07228842-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「週明けも株価下落の可能性ある」　きょう“トランプ関税”一部発動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/71f1c1c74e7697086484e31b0bbb56913ee4ba0c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172213-abemad-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=802&ch=802&exp=10800&fmt=webp> 「なこなこチャンネル」終了のなごみ、美脚際立つミニスカ＆ハイソックス姿に絶賛の声「やっぱスタイル良い」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/616ddf6d0d987ecebbc1f5cae893e8d5c70723fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-01659154-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 苦しむ王者...ソフトバンクが今季2度目の3連敗　リリーフ陣が誤算
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c31aea83b05b17e59e6963dc4a7697260252262a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-39755473-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 米銀行株指数、２日間の下げはコロナ禍初期以降で最大－貿易戦争懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7022e71e27caf9660dace5562d121a5751709075>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000044-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破総理、トランプ米大統領との電話会談「来週に」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/393bd005275e762f70be5404e7d62b6843521ea1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中居氏と女性トラブル「業務の延長線上の性暴力」 フジ第三者委が認定　港元社長「テラスハウスのようになったら…」中居氏メールに「見たら削除して」【news23】
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534548>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/59cb7be61840a7f03a1dd71d09a9560a0865f7a7cdc984d58af771a05de13db7.jpg> 退職届受理されず ミュゼの従業員
+      <a href=https://news.yahoo.co.jp/pickup/6534556>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/f2b6496b472bf07f7f609d3649f27283785c74844d2069c7c6ce9e39287feef2.jpg> 都市と地方「2地域居住」促進へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/b7425ad60440a81676c5ae47ab62b93dfb55243fd320ae0d4e3bf64235019666.jpg> 施設脱走のイルカ 20km先で発見
+      <a href=https://news.yahoo.co.jp/pickup/6534548>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/59cb7be61840a7f03a1dd71d09a9560a0865f7a7cdc984d58af771a05de13db7.jpg> 退職届受理されず ミュゼの従業員
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 17:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 18:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
