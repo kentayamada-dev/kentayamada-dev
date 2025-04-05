@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/j9_ncNO7ws4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac5efe3d54a4ebe91fceeb283c9532f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a49b2bf3c76782f75393ba3d4d9143c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a28420e80f52426c27c27961d9e0d5c58aa1fbd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000003-hbcv-000-2-thumb.jpg?exp=10800&fmt=webp> 5日未明　北海道で最大震度4のやや強い地震　北海道・福島町
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000003-hbcv-000-3-thumb.jpg?exp=10800&fmt=webp> 5日未明　北海道で最大震度4のやや強い地震　北海道・福島町
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41414b48d4dae6eb730d7b7fb023ed1c98eba1fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172127-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> パプアニューギニアでM7.2の地震 日本への津波の影響なし
+      <a href=https://news.yahoo.co.jp/articles/5e3d3ccbb1bde27dca0a4940e413a41d8fa97fd7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-04051046-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=92&cw=1086&ch=1086&exp=10800&fmt=webp> 「旅サラダ」神田正輝の後任「初出演」にネット絶賛…「人選が絶妙でスタッフ有能過ぎる！！」「土曜の朝に何たる眼福！！」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/724287695f08a916edf6a07ef54e0e4e77fb471eb70d76da0e57f1c831d40195.jpg> NY株急落 下げ幅史上3番目
+      <a href=https://news.yahoo.co.jp/pickup/6534499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/dd64c4a967a021f29370075872eefa8e4fdee24516654601f9f2dd593e244253.jpg> 露の攻撃 ウで子供含む14人死亡
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534490>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/0f86bbc526522d035e7407ee2e9c9567efd04c5456f608e79dd05bce6e8c686a.jpg> 旧BIGMOTOR 再建へ社内の苦闘
+      <a href=https://news.yahoo.co.jp/pickup/6534492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/ecd01fab354ed5004256ba7713ed0bac1669074812d5c8bc4a97c5fdbffc877a.jpg> 住吉会 本部事務所に移転の動き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534501>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/dee8df17efb84451205642a922da37a16762c0ea87b6e5e13203347a646ad2aa.jpg> 自閉スペクトラム症 中学生の奮闘
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/9bd678c3f5dbbbd9728efa40bbce6e71db513484aeb2b91891cc3b1eddbfcaba.jpg> 木梨「びっくり」石橋がん公表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534486>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/824a46f23bde3eb17d2e46b6988088f9a26377dc32bea105ee67e6fcb2512e38.jpg> ミヤネ屋MC西尾アナ 趣味ゲーム
+      <a href=https://news.yahoo.co.jp/pickup/6534502>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/53c7b41e4efa9f3edf08a98c06bfcd7b176efcdd3bf6939704e4e4e5b611c1e9.jpg> 藤木直人「ワクワク」旅サラダMC
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 09:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 09:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
