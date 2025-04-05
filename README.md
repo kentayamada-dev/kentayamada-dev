@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/423cefd253bed1cf7c014d878a3bce3c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/09775af227e05434efdf800cc56a75e9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65de59a6a8b81e6859c297fa136a82ab28e44d2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000008-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=1502&ch=1502&exp=10800&fmt=webp> 阿部詩　国内復帰戦Ｖで「ロス五輪の道の第一歩」　こん身の大内刈り一本でパリの悪夢払拭
+      <a href=https://news.yahoo.co.jp/articles/bdb96f247bff3ff7e8646fcb85efadd049e68193>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-04051378-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1028&ch=1028&exp=10800&fmt=webp> 阿部詩　パリ五輪号泣敗戦から「自分を取り戻す第一歩」復活Ｖ「必ずもう一度、世界一に」
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 05:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 06:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
