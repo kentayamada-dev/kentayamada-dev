@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/j9_ncNO7ws4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e5a855a61e0b6128e53d17723723a7d8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e881f26c8912e0f8e9f015d5038b701.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5c9ad5eef7dc83122af25ee5fd664327813458ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000129-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=945&ch=945&exp=10800&fmt=webp> フィリーズ指揮官　ドジャースの足を止めたリアルミュートの強肩を絶賛「2つの送球がゲームを変えた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/29defd70db8a3cd1be1a0e1f0c1920cade875204>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-16596962-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 中国が報復関税を発表、米株式市場はパンデミック以来の大幅安に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/24a3bbfd5f5d885aa33d28b9840eb4981dc1e8ae>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953286-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー大統領の故郷クリビーリフにロシアがミサイル攻撃　子供6人含む14人死亡50人超負傷
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e29da903b7df5b99fb8aabb2d4608f336b253c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953279-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> NYマーケット大幅続落　ダウ3万8314ドル86セント　ナスダック1万5587.79
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e104e21499844abb16ac3a3fd5b1cef795bfc06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00010000-jfactc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=670&ch=670&exp=10800&fmt=webp> 石破首相が食品の消費税を0%にする方針? ネット掲示板のタイトル【ファクトチェック】
+      <a href=https://news.yahoo.co.jp/articles/344cc489d8d5d5e8e022d63cbc3b0424df689813>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050029-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=319&ch=319&exp=10800&fmt=webp> ＮＹ原油急落、一時４年ぶり安値…世界的な景気悪化への懸念から
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/45014ddb1014b016a3ebba6d9dafa3c3c03457eb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-10172109-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 中国が米国に34％の報復関税 NYダウ一時2200ドル超下落
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1dd56347819e3ce560f4eaa8abc6c6f0ecf7231c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000007-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 中国 米国に34％の報復関税 NYダウは急落
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534491>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/517d557152a1d34fe5d7798a136b4610bd41edbbbc9f4f4009c8495f89b2a076.jpg> ニューギニア付近震源 M7.2地震
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534500>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/a6ae1f33ec74d3b90639908e125c89b3d5b3204978fc17865b4542af2ddb5fa9.jpg> 「経営コンサル」の倒産 過去最多
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534505>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/6829f1960da6cf2fd1039a423117d597190c73869cc00e0d9448a880f61fd341.jpg> 悠仁さま 筑波大の入学式に臨む
+      <a href=https://news.yahoo.co.jp/pickup/6534512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/a22810edf378541cb16ffab32d24fc7a89f15b5f8b58f2a0cd17385f5530cc16.jpg> 東京高速道路「KK線」歴史に幕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534509>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/1b4d93a605a77a987e09109d952eba0a0cb035a8f07823a8f11f1d98693fec5b.jpg> 1億円当せん者来ず 松戸の売り場
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/2119a9c81f09e9d8fd3960691e6897312914325b15f24adac1406ce33e20aff5.jpg> Switch2 米国での予約受付を延期
+      <a href=https://news.yahoo.co.jp/pickup/6534511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/1eb6300f277ce3f3623ed0595b0c2e8f66689c81eac335782eb896524de45449.jpg> 大谷が痛恨の盗塁失敗 ド軍は黒星
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 10:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 11:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
