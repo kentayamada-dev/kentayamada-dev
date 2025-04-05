@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/sqK5M3PSQtM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e881f26c8912e0f8e9f015d5038b701.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c445646508da9ab528c769d87ab2ea00.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c9ad5eef7dc83122af25ee5fd664327813458ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000129-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=945&ch=945&exp=10800&fmt=webp> フィリーズ指揮官　ドジャースの足を止めたリアルミュートの強肩を絶賛「2つの送球がゲームを変えた」
+      <a href=https://news.yahoo.co.jp/articles/5e57f26e47f33f6fc2562847a35526874602a0a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00000036-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 山本由伸「少し焦ってしまった」初回に先制点献上の送球エラーを悔やむ「ベースの上を狙って一歩踏み込めばよかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29defd70db8a3cd1be1a0e1f0c1920cade875204>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-16596962-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 中国が報復関税を発表、米株式市場はパンデミック以来の大幅安に
+      <a href=https://news.yahoo.co.jp/articles/9a6ccc0f6dad742bac3154f625c57b04994190c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050045-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ダウ平均株価は大幅続落、史上３番目の２２３１ドル安…２日間でトヨタ時価総額の２５倍相当が失われる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24a3bbfd5f5d885aa33d28b9840eb4981dc1e8ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00953286-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー大統領の故郷クリビーリフにロシアがミサイル攻撃　子供6人含む14人死亡50人超負傷
+      <a href=https://news.yahoo.co.jp/articles/2c197f5cf46fed524a0789a83770a00156b22ad7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-15957865-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ロシアのミサイル攻撃で子供含む18人死亡、ゼレンスキー氏の出身地で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/344cc489d8d5d5e8e022d63cbc3b0424df689813>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250405-00050029-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=319&ch=319&exp=10800&fmt=webp> ＮＹ原油急落、一時４年ぶり安値…世界的な景気悪化への懸念から
+      <a href=https://news.yahoo.co.jp/articles/e609ad28ca6d81d53a19d8f010998b713926becf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、世界株安でも平日ゴルフ　「失敗するのは弱いやつ」と自身の関税政策を擁護
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/dd64c4a967a021f29370075872eefa8e4fdee24516654601f9f2dd593e244253.jpg> 露の攻撃 ウで子供含む14人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6534510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/9efbb0e370fbeffb50829aad08632a5ed1510d4a9517391209d61156173ecd9f.jpg> 消費減税 与党内にも期待する声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/970e086d1d6c60cc1f04e5fb42ac2560b31abb268060712bf3046bd4b0143bb9.jpg> 軍事化する熊本空港 住民の不安
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534512>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/a22810edf378541cb16ffab32d24fc7a89f15b5f8b58f2a0cd17385f5530cc16.jpg> 東京高速道路「KK線」歴史に幕
+      <a href=https://news.yahoo.co.jp/pickup/6534516>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/a22810edf378541cb16ffab32d24fc7a89f15b5f8b58f2a0cd17385f5530cc16.jpg> 神田橋-西銀座JCT 10年通行止め
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534494>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/6baad64f8e5809fc57911fbed6d473eee4e2c722f153c22c6c05707c34154d5c.jpg> 高濃度うどん排水処理 不可欠な訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534511>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/1eb6300f277ce3f3623ed0595b0c2e8f66689c81eac335782eb896524de45449.jpg> 大谷が痛恨の盗塁失敗 ド軍は黒星
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/05 11:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/05 11:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
