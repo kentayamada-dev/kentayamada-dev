@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9faf7b218619d0af0e6b665de8b7947b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a4d5f8ff36e6011bf1b9039327441890.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/535528a8a14fe43b42d3046d90965b13c3b063f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-34070092-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=35&cw=282&ch=282&exp=10800&fmt=webp> 宝井美琴「全然動いてないよー」ETC障害で高速道路出口に延々と続く車列を報告
+      <a href=https://news.yahoo.co.jp/articles/cc92a95ebbc964f07c6e76a27cf366c5fa329cc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-21837354-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=810&ch=810&exp=10800&fmt=webp> ETCの大規模システム障害の影響 長野県内にも・計8都県でETC利用できず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d32b75a6e673183cb3467802c0627895049ece8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-10172349-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 医療搬送用ヘリが不時着水 3人死亡 長崎の対馬沖
+      <a href=https://news.yahoo.co.jp/articles/99e9966cd6631c6ba854f5a0fd0f25e84af4fd82>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00050024-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=308&ch=308&exp=10800&fmt=webp> 患者搬送ヘリ事故、心肺停止だった医師と患者家族男性の死亡確認…死者３人に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/94e925c32bcc33db94aa3618918369f463d90cba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米主要株価指数先物が大幅安で始まる、週明けの波乱示唆
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/d404cd5b0e3d823d457f0cf66c310a134cca814a56613bd8f40f3edea4b8f0a1.jpg> 日曜日の夜に 首相と財務相ら会談
+      <a href=https://news.yahoo.co.jp/pickup/6534703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f3ed96d1e52493d5c25a86f679bf1ccf62d186d152dea28dfb5ac7557fb66aed.jpg> 世界同時株安 連鎖続くかが焦点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/307671a599fc7c5bc4cd4c0708864700f71baf8bed1ccca0048a39cdfa9162ae.jpg> 岸和田市長選 新人・佐野氏が当選
+      <a href=https://news.yahoo.co.jp/pickup/6534700>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/a87a73e9df1e6e22e8192511081091deb2cc1272a3f1ca026cd5124ecc564a71.jpg> ガザ1.7万人孤児 栄養失調も深刻
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 07:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 08:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
