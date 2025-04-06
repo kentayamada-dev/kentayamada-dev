@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e1f4435400f413dd1e99ec1f21f1a3b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4f69d586cd2d3c457470fcb6d9dd7dbb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7232f89a7bf7f35ccc0dfaa65eac01626c3c0ea9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-90024977-tncv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】転覆のヘリ発見　搭乗の6人全員救助　2人意識不明　対馬から福岡の病院に向かう途中に消息不明に
+      <a href=https://news.yahoo.co.jp/articles/d7f953b653331cec55e58726db0e2ebf0d59608b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-10172320-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=1235&ch=1235&exp=10800&fmt=webp> 佐々木朗希、157.8キロ豪速球に強打者が憮然 判定に不満顔も「最後の2つはストライクだった」圧巻“8球勝負”の一部始終
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fdeda81578f5efc7f5b934cc193fa1310332177>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-34061926-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=549&ch=549&exp=10800&fmt=webp> 「ETC障害」Ｘトレンド入り…不満続々「無料にして」「高速になってない」「渋滞はまった」
+      <a href=https://news.yahoo.co.jp/articles/a05ddd4964f20ebcd57a619ff8a41368a924fb40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 消息不明の医療搬送用ヘリ、長崎県の海上で発見　搭乗者全員救助も患者ら3人が心肺停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7d64c1eb8e0f117cf052f791667c0da6bd649c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-10172302-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=1235&ch=1235&exp=10800&fmt=webp> ロウキ任せろ！ド軍伏兵、佐々木朗希援護弾もツッコミ殺到！？ 話題の“大谷ポーズ”に注目「キケはピース」
+      <a href=https://news.yahoo.co.jp/articles/1fbd3a3dfef73ddb133aaaec209037ec5a06da8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050093-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=339&ch=339&exp=10800&fmt=webp> ＥＴＣシステム障害、事故も相次ぐ…春休み最後の日曜に打撃「お笑いライブ間に合わない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a3e0a3a420820d89507105d36167c39670fb5f89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-01732445-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=600&ch=600&exp=10800&fmt=webp> わずか3日…大谷グッズ発売が話題「商魂たくましい」　米企業が「仕事早すぎ」
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/487a4427b98f3a51b48a9591496667a0c21a5727>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-34060564-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1205&ch=1205&exp=10800&fmt=webp> 佐々木朗希「技術あってのメンタル」メジャー初勝利お預けもスタイル取り戻し　伸びしろたっぷり
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534672>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6ac1d361fd16b9c54f1de9cb6a309ed3ba466d9093f4b2ef13da49d9cb1bfcc3.jpg> 台湾有事想定 日米演習の概要判明
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534673>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534669>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d40802e32da1e0269ab0890d7fd0b14fe6e764bea6809ba88efc271ec6ddb6e9.jpg> 医療用ヘリコプター転覆 患者搭乗
+      <a href=https://news.yahoo.co.jp/pickup/6534648>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/e0c551a9b7bb67af2c26da8f4a4f0a2de49696d646cde72132438886e5d46b01.jpg> カナダ 検査巡り訪米予定者に警告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534675>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/79ca6e14b5fb0c9aaf67b010b4917363c848fc0fce1bbda486a13c47bcb3ec24.jpg> 秋田知事選 鈴木健太氏が当選確実
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/50e572903224529e373b8d11950d5dacf7d69b57448adfa34551a695031a5d42.jpg> 教員280人合格204人辞退 高知苦心
+      <a href=https://news.yahoo.co.jp/pickup/6534680>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/b620ac61cec4143a427a684ece0d60bd1d32a2b00700de9584e015675dad8c4c.jpg> 転覆のヘリ発見 6人全員を救助
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534670>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/bbf8b75dd2c9de3723f6c289790867d17360a773b713968ea3e6e2ba0714e9e0.jpg> 朗希気合 捕手にカモンレッツゴー
+      <a href=https://news.yahoo.co.jp/pickup/6534677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/c17cb130c61dce2accbd03f8cd901897b37adb973a8785ae2d42d1609aed40f9.jpg> 監督パワハラ報道 J1町田訴訟示唆
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 20:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 21:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
