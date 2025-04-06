@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/75327897895358435053c53ad5ac658f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c7219ae1c9f4e71e6fed86ecae318986.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52044a373ef0405f3bc5c1f61a938f387eeb1841>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-04440660-saga-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=314&ch=314&exp=10800&fmt=webp> 医療搬送用ヘリ、長崎県対馬沖で発見　3人心肺停止　佐賀航空が運航「情報収集に当たっている」
+      <a href=https://news.yahoo.co.jp/articles/500a168f4533a2bd4dc221db7d99a84ab4d3fe4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-90019572-sagatv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ヘリ消息不明　搬送中の８０代患者の死亡確認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68ff08e813e1829d3e1cd5bd9815c3d32e1848fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ関税による株価大幅下落の連鎖が続く：中国が34％の報復関税を発表
+      <a href=https://news.yahoo.co.jp/articles/c9ddd8dfb01f8f81d2081bde3aad0ced05d15815>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000041-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 【トランプ関税で世界同時株安】経済に鈍化リスク“中国は報復措置“貿易戦争の回避は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/de97035f0f54a02618c7830631ae2ffb6db483bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000110-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ドジャース・佐々木朗希、メジャー初勝利お預けもフォーム修正で真価発揮「安定して投げられたのは自信になった」
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/90052da62f677a6f745529af2e1d7c4ea52c68c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000048-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=566&ch=566&exp=10800&fmt=webp> 未曽有のETC大規模障害　状況わからず足止め、高速道路を歩く人も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf3723ee5960173c37f6628ba9f40e830ab19a33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-10008436-jsportsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 佐々木朗希、好投。現地メディアは「未来のスターの素質を垣間見せる」と伝える
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000048-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=566&ch=566&exp=10800&fmt=webp> 未曽有のETC大規模障害　状況わからず足止め、高速道路を歩く人も
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534676>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/a1e83497e6ae7c4773b9d74bb91b357c6f183c9c1f6da1f8c664c1112bbe60ae.jpg> 地銀装う自動音声電話 各地で被害
+      <a href=https://news.yahoo.co.jp/pickup/6534685>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 夢洲駅に客滞留 雑踏事故懸念の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d572d42000bd729fcfe36942c3d7f2707f15e93e52b66f50af8a88152345ff14.jpg> 医療用ヘリコプター転覆 患者死亡
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534680>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/ec94aececf15a24ec716c264e6b84663b973b960a7a9722f80ba0dc3ae5a298b.jpg> 転覆のヘリ発見 6人全員を救助
+      <a href=https://news.yahoo.co.jp/pickup/6534635>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/33fe6f73a10d8327b584e170d21e19590e55d9be9898c4e4e8d141a836600427.jpg> 「特設公衆電話」10年超で10倍増
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534674>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/72479b9226551cbda56fc0e4362d48a64260b20353ec744fc0e95a81290d103c.jpg> サブウェイ4/1ネタ巡り 広報驚き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/3c879bb2a009f514b0a7194dbe0857c5a135c34f74c95e28b0f7b9baa61d7cbb.jpg> 衝撃の13K 進学校にプロ注目選手
+      <a href=https://news.yahoo.co.jp/pickup/6534688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6550d76694f62768a59b8a38a7133dc0dfed9e8017ae144e37256f2fff2a903f.jpg> モウリーニョ監督が奇行 処分決定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 22:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 22:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
