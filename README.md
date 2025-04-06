@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/sqK5M3PSQtM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d0d36eecd10c20efe9350f8d87323516.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9d41480519772ad11b0061866feff9d4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/163065b100bd8abe14f0bb9c5a44ef16d063a371>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-10172283-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=858&ch=858&exp=10800&fmt=webp> イーロン・マスク氏「米欧間の関税が将来的にゼロになることを望んでいる」
+      <a href=https://news.yahoo.co.jp/articles/23092f5add709a9b3919de7c049be1a43b42adeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010011-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 佐々木朗希は「60％がゾーン内に入っていた」課題の“制球力”が改善　勝ち投手の権利目前で降板も次こそメジャー初勝利を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee7093af5c5bdc51c04fc6dd1d40a7a81c1cc2aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-07228886-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 料金所付近の渋滞はやや解消　ETCにシステム障害　中央道や圏央道の料金所で専用レーンが利用できず【6日午後3時現在】
+      <a href=https://news.yahoo.co.jp/articles/41066be2daf55e41ae78759ab9b8b052934ac977>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00777964-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「これは大変そうだ」ETCシステム障害で大渋滞の出口　歌手が映像公開…「もう今日は無料開放」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/163065b100bd8abe14f0bb9c5a44ef16d063a371>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-10172283-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=858&ch=858&exp=10800&fmt=webp> イーロン・マスク氏「米欧間の関税が将来的にゼロになることを望んでいる」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37a70e17b6cd391173174b17f8db2bb3d08382bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00094710-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「かなりポジティブだ」ド軍ロバーツ監督、佐々木朗希の変貌した姿を評価。初勝利目前で降板も「必要なことをすべてやった」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/9cde0b45c29f192fcafcf9afb319ac014cd0f553475c9ddf3562ed64bc9d8bfa.jpg> 兵庫知事選 メディア不信の背景
+      <a href=https://news.yahoo.co.jp/pickup/6534633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/fb8d3b5d871b72440a3c47ce3b672ec52bba95a25c306b53c1559c94085d71cb.jpg> 能登「震災語り部観光列車」出発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534642>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/3a0c6a184cea6e4b289cbd28a673a1cfb6bee656f838ef37577938471cd69132.jpg> 兵庫県議2人に中傷メール 1万件超
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534638>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/5541cf2dd21081e75b544cd25062512d5d05a48d815b72cd2fdd13b5a90b5151.jpg> 市議専用枠に長期間駐車 厚遇指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534619>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/8d05534acb7d1e54cb9feab4dbe8e051a98ee57287a0bd5b16d7b2ce5cd7beb2.jpg> 高1で自殺図り両足失う 女性思い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 15:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 16:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
