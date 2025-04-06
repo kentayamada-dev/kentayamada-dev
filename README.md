@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/704d8ac26dbf400c5ef149115c63b59c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/56ead3b81c3cb09bddb09e7ac7dd3e4e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/469b6c8fff444f9fa3c1968a2d041dcf05614be2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000013-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 東名や中央道などでETC障害　7都県の料金所、一部で閉鎖も
+      <a href=https://news.yahoo.co.jp/articles/e825e05ac21a6005acb72beec4be81958e7aa949>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-21836809-sbsv-000-1-thumb.jpg?exp=10800&fmt=webp> 東名・新東名などでETCシステム障害…一部料金所で使用できない状態続き混雑も復旧のめど立たず=中日本高速道路
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534618>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/973b2bbb0914d3b403a9f5d704051a24e5ab70b235c993e489a76b637506b360.jpg> マスク氏 米欧間の関税ゼロを望む
+      <a href=https://news.yahoo.co.jp/pickup/6534620>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/8a7f44682e69b20dff0653cc7704133bf8775f743fc452d303f1480dbb3e99c3.jpg> 尹氏罷免 各党が大統領選モードに
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/f7ed16fe6590f9f276fa96cf45e081a6a0502ff4e1d985ad68b7c72247f53dc6.jpg> 万博が直前リハ 海外館の参加4割
+      <a href=https://news.yahoo.co.jp/pickup/6534618>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/973b2bbb0914d3b403a9f5d704051a24e5ab70b235c993e489a76b637506b360.jpg> マスク氏 米欧間の関税ゼロを望む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/9f136d13e7dbaadc03606b0b368649979aa6c87b70dd4b483595ef827b36a591.jpg> ペヤング50年 やきそば584種生む
+      <a href=https://news.yahoo.co.jp/pickup/6534617>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/41c3e7dc0aa459f4eb12dca8f3a6c2057eb106367dc715f7a852c4eaba16b7f8.jpg> 「天神ビッグバン」佳境 街が変貌
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 11:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 12:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
