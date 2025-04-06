@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1aff16ccf12a0072d2f693d57cda0efb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/23babeb99419c3e9a7889dd8783f2072.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5e7ffa2f7be4ff9d64307c67ea65e4d66047692>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000019-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=654&ch=654&exp=10800&fmt=webp> ETC障害でレーンを開放　精算は後日各自で　中日本高速道路
+      <a href=https://news.yahoo.co.jp/articles/d971410f0a800d97470c1c1270ba6a9e66dcaac8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010014-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=1122&ch=1122&exp=10800&fmt=webp> 「さぁ行こう」――ド軍女房役を確信させた佐々木朗希の“言葉”　KO劇から前進した怪物の成長「シンプルに嬉しかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79672fe3f21b81410fbedcd2d8a849a455c04ecf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010012-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「ササキは確かに見せた」佐々木朗希、5回途中降板も復活の狼煙　フィリーズ打線は「注目新人に手こずり続けた」
+      <a href=https://news.yahoo.co.jp/articles/46aafcc0d2f911fe0f4ae2fa6334a11f0835c1aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-21837063-sbsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】入り口で通行券を受け取り、出口は開放、後日清算に…　東名・新東名などでETCシステム障害　復旧のめど立たず=中日本高速道路
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9aca519674a210db791fda4e121db4c2bd659455>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000116-kstylens-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=431&ch=431&exp=10800&fmt=webp> SEVENTEEN、メキシコ音楽フェスにヘッドライナーとして登場！「絶対に忘れられない」
+      <a href=https://news.yahoo.co.jp/articles/37852fd68a3d6094aa33de30b57b97d7e0e0f238>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-04061172-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=772&ch=772&exp=10800&fmt=webp> 柔道で異例の優勝者なし　女子７０キロ級決勝で両者反則負け　田中「負けた感じしない」…全日本選抜体重別
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/c4f8c8ee057030b0f7546cde9fa4444549605146462ba59bfbf10a349636264c.jpg> 花粉 7日は東京など広く大量飛散
+      <a href=https://news.yahoo.co.jp/pickup/6534646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/fa234140fbd3f5a09d83f10ccae0970da82a0a381328bad8232e28dda38e7896.jpg> 関税巡り米大統領 国民は耐え抜け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/fa234140fbd3f5a09d83f10ccae0970da82a0a381328bad8232e28dda38e7896.jpg> 関税巡り米大統領 国民は耐え抜け
+      <a href=https://news.yahoo.co.jp/pickup/6534651>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/46875e657f6d1ad04fbd45f55f521b24bf52b6050bad556893ddb10e0113e319.jpg> ガソリン値下げ幅 1L10円軸に検討
       </a>
     </td>
   </tr>
@@ -434,6 +434,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d9e5ae260c26d4ed77d50b5da11cc65f3d2a75f46cb9803e4b7db5a81d44bb2e.jpg> AIで落とし物返却率3倍 京王電鉄
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/07902d7cfc703535cd07fd306d15e6525cb77a16d134bba5265cbf3aca03a5c3.jpg> 12歳YouTuber進学しない宣言の訳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534632>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/142f16cd567060ddf5fff8f35184e1bac4cfeae478967daf48bfddfd0189e779.jpg> 親は岸谷五朗と香 負け知った受験
       </a>
@@ -442,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534645>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/9ae96df8e17e62156673805da7353fbb51ac6af659465bdcd37a904955e77a31.jpg> 柔道決勝で両者反則負け 優勝なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534639>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/4246c88090dd60ede4860107ef4be8f3ec5e683762a08e8d1a22dcf60e086e3f.jpg> 勝利目前で朗希降板の訳 監督説明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/fd9f3a97b91fd2318a6e56fbed75b4559073686db2ed579c7d2d46ff8af829f5.jpg> XG「日本初」コーチェラトリ抜擢
+      <a href=https://news.yahoo.co.jp/pickup/6534652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/c1b024298255eb4b1c80a3a81c3847481c67dd9e68d4ca5df8cb0433eabe1bdd.jpg> NewJeans 「NJZ」名の使用断念か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 17:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 17:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
