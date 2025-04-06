@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa37b97d42b3ced7a09c72607719f0fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/809bf9375344e98050ff084df8789e29.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/973f505795f71d23775406055287d835a18efc02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 医療搬送用ヘリが対馬東方沖で不時着水　患者ら３人死亡
+      <a href=https://news.yahoo.co.jp/articles/c274216f20c38c1694837c6e9cebeee08be01ee5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-07228960-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 患者や医師ら3人の死亡確認　長崎・壱岐沖の医療搬送用ヘリ事故
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0524d1abab424a6d6b16a553233d09d12d3376b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-21837336-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> システムの改造作業が原因か 中央道や東名高速などのETCが利用できない障害が拡大 復旧のめど立たず
+      <a href=https://news.yahoo.co.jp/articles/801b6677bd82764760b7193d0366828c2a3e6bd5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00953712-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 料金後払いに…ETC障害復旧めど立たず「午前4時現在、計17路線106カ所」　“深夜割引改定”システム改造作業原因か　NEXCO中日本
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a405977bf02348764170e5006373b36888fc6ae7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00137195-wedge-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「700％関税」なんて大間違い！それでも巧みなアメリカのディール、トランプ相互関税で日本のコメ輸出はどうなる？
+      <a href=https://news.yahoo.co.jp/articles/3a7dde8faab274a99f2147131a28b020f4002759>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ関税策の修正を催促する株価急落とFRBの早期金融緩和の可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fd59ae4c61195ba236213586362f76597bb1ba68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-02846813-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 不明のヘリコプター海上で発見　患者ら3人死亡　長崎・対馬沖
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b4feec5366b4033c45fab68f88a4ea7549d692f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000111-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=993&ch=993&exp=10800&fmt=webp> T・ヘルナンデスが2本塁打でポーズ　大谷CMからドジャース浸透「コスメデコルテ・セレブレーション」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/42bfb8d3195dcb399466ec4393f7120c21e8183468a430bc2fd0a826c75c5acf.jpg> 日曜日の夜に 首相と財務相ら会談
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/d404cd5b0e3d823d457f0cf66c310a134cca814a56613bd8f40f3edea4b8f0a1.jpg> 日曜日の夜に 首相と財務相ら会談
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d8b42b5af78112944cf97d9545c13c864db6e33081060c0486bee8d2e601c86f.jpg> 医療用ヘリコプター転覆 患者死亡
+      <a href=https://news.yahoo.co.jp/pickup/6534695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/96780d9fd107c485e4195c9316f5a48e02b7e4b4bd8ac4ab0c54e2ea11cfcbd4.jpg> 医療ヘリ事故 救助された3人死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 06:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 06:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
