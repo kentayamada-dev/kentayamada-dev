@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ff271362d655cb079ebdacc1e39b52b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1aff16ccf12a0072d2f693d57cda0efb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e5e7ffa2f7be4ff9d64307c67ea65e4d66047692>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000019-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=654&ch=654&exp=10800&fmt=webp> ETC障害でレーンを開放　精算は後日各自で　中日本高速道路
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000019-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=654&ch=654&exp=10800&fmt=webp> ETC障害でレーンを開放　精算は後日各自で　中日本高速道路
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/fb8d3b5d871b72440a3c47ce3b672ec52bba95a25c306b53c1559c94085d71cb.jpg> 能登「震災語り部観光列車」出発
+      <a href=https://news.yahoo.co.jp/pickup/6534646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/fa234140fbd3f5a09d83f10ccae0970da82a0a381328bad8232e28dda38e7896.jpg> 関税巡り米大統領 国民は耐え抜け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534642>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/3a0c6a184cea6e4b289cbd28a673a1cfb6bee656f838ef37577938471cd69132.jpg> 兵庫県議2人に中傷メール 1万件超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534625>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7836d2b4d3a8a33e952f35d81bbdef610bbe3f1fae9b15bb4dec6730542f4b01.jpg> アイス購入も注意 女性1人暮らし
+      <a href=https://news.yahoo.co.jp/pickup/6534649>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 2カ月勾留に黙秘 釈放直後に死亡
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/fd9f3a97b91fd2318a6e56fbed75b4559073686db2ed579c7d2d46ff8af829f5.jpg> XG「日本初」コーチェラトリ抜擢
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 16:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 17:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
