@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/343e61430dffd29fded1e2461ac52596.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/704d8ac26dbf400c5ef149115c63b59c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8276841bba3e7c1a55a675c8d465b25be311f72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010009-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1404&ch=1404&exp=10800&fmt=webp> 「涙を浮かべた投手とは違った」初勝利まであと3つも評価は上々 無念の降板となった佐々木朗希を米絶賛「アンチを黙らせた」
+      <a href=https://news.yahoo.co.jp/articles/469b6c8fff444f9fa3c1968a2d041dcf05614be2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000013-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 東名や中央道などでETC障害　7都県の料金所、一部で閉鎖も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9be40e9fbd1be157909abbcfb066dd4ccc20aa17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-21836723-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=883&ch=883&exp=10800&fmt=webp> 菅野智之 メジャー初勝利で連敗ストップ「そういう役割を果たせたのは僕自身は嬉しい」指揮官も「今日が菅野の本当の姿」と絶賛
+      <a href=https://news.yahoo.co.jp/articles/3b1fb0acea4c0a8ea986ef7783881f7799745a31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-10172254-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=565&cy=0&cw=1235&ch=1235&exp=10800&fmt=webp> 佐々木朗希が思わず雄叫び！ ド軍主砲のビッグプレーに“口あんぐり”…ベンチの一幕に「こんなに喜んでる姿を見て胸熱」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b01012419c664ca5c7988c201c22588cff1cf02b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000014-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 中央道や東名高速など　システム障害で一部のETCレーン閉鎖　復旧めど立たず
+      <a href=https://news.yahoo.co.jp/articles/bc82815b32bd4bee893004b5b0bf7302c8964e37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010002-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=493&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】 オリオールズ・菅野がメジャー初勝利　6球種を駆使してロイヤルズ打線翻弄　4シームが機能
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f06af6031c65cb35f41b8212922f81d786aedc60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000169-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=861&ch=861&exp=10800&fmt=webp> ワトソンさん「翔平みたいにウインクもしなきゃダメよ」マンシーに新セレブレーションのアドバイス
+      <a href=https://news.yahoo.co.jp/articles/809116746cd6f8d56871d1d62c0430e67f67784a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000011-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=991&ch=991&exp=10800&fmt=webp> 大谷翔平CM発祥の新セレブレーションがド軍ナインに定着　披露したキケ「これからも続けていく」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534593>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6823550ca187b5d098eb2f4b25f268f9ec0c0c1dc6f8ec56a7b541021f15f599.jpg> 「トランプは退陣を」米各地デモ
+      <a href=https://news.yahoo.co.jp/pickup/6534618>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/973b2bbb0914d3b403a9f5d704051a24e5ab70b235c993e489a76b637506b360.jpg> マスク氏 米欧間の関税ゼロを望む
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6d3693fb5896ea0640592432cec164fd16e56ffd36949f7150cd7e315da1b387.jpg> 「売るコメない」米屋の廃業増加
+      <a href=https://news.yahoo.co.jp/pickup/6534613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/9f136d13e7dbaadc03606b0b368649979aa6c87b70dd4b483595ef827b36a591.jpg> ペヤング50年 やきそば584種生む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534614>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/3c17a9a8c6197c37a7566a168699ec4743f97c35b9b33962fd7448241c04ddc3.jpg> 松井秀喜氏「魚雷バット」に私見
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534610>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6fefb5637de9b853ccf0cd274da25868bd375a945543c98c8c8fd85bed5b8f83.jpg> 大谷CMポーズ ドジャースで流行
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534602>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/57a4a034711ec9593f1441b0c603ae370c18c647a00161f8b9d533ee605b0b17.jpg> 朗希「技術あってのメンタル」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 11:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 11:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
