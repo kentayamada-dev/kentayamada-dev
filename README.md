@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a77b2833e647b0b25da3b0bf04a9bac5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d2fd1e542ef6bb39c55a1ac98744aa24.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/851b7d7fcd0774dc6edcb5f2e60d01ab434c1050>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-01732212-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が「いじられまくっとる」　同僚が続々模倣…浸透するポーズは「経済効果ヤバそう」
+      <a href=https://news.yahoo.co.jp/articles/9b99754ee8b311bae65431cff32ec90d094e9fda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000367-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 高橋優、広島公演中止を発表　喉の不良を訴え「回復が見込めず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7eeb92fcae3d72f29b4459af4b484abcf0ce80c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00340117-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平のＣＭポーズがチームの新ポーズに確定「こんな宣伝はおカネで買えない」＝米報道
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5d1673c0a201a22b1b9c5f3892a4aa5c2bdd0a90>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東名や中央道でETC障害　NEXCO中日本エリア
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b526f58d2089d45b4a1458e644c915ad0e63264>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-90022129-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=507&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 高橋優、「のどの不良」のため広島公演中止「治療にあたりましたが回復が見込めず」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534621>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ETC障害 東名など料金所で渋滞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534620>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/8a7f44682e69b20dff0653cc7704133bf8775f743fc452d303f1480dbb3e99c3.jpg> 尹氏罷免 各党が大統領選モードに
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534621>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ETC障害 東名など料金所で渋滞
+      <a href=https://news.yahoo.co.jp/pickup/6534606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7b27533d5a24c0bc307ddc7a50dfbc6add40408d42410b57ff890905fd4204a6.jpg> 救急受診巡るAI助言 解釈誤る恐れ
       </a>
     </td>
   </tr>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/5f5f03496494e4ec7460d7311ccb1ea4ebbb1c5c824bcb612c4844b75c574d32.jpg> J1町田 監督のパワハラ報道を否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534614>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/3c17a9a8c6197c37a7566a168699ec4743f97c35b9b33962fd7448241c04ddc3.jpg> 松井秀喜氏「魚雷バット」に私見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534628>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d3521df03f6760ebd53962c3722566c708775cd835fd41e719f93ffbc638e4ad.jpg> 高橋優 ライブ当日に公演中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/85e7072b34e97f6febe67cbc18d9e8d79170ff1278c1f8029f4fe5d6a8d1dc14.jpg> ランジャタイ伊藤幸司が活動再開
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 13:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 14:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
