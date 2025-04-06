@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9ca9c56e743eea4153ea69b01db37101.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa37b97d42b3ced7a09c72607719f0fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd59ae4c61195ba236213586362f76597bb1ba68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-02846813-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 不明のヘリコプター海上で発見　患者ら3人死亡　長崎・対馬沖
+      <a href=https://news.yahoo.co.jp/articles/973f505795f71d23775406055287d835a18efc02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 医療搬送用ヘリが対馬東方沖で不時着水　患者ら３人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4063b87944f53cd6e5672515cd86ffeb6203ba61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000011-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ETC障害、復旧作業続く　7都県高速でトラブル
+      <a href=https://news.yahoo.co.jp/articles/0524d1abab424a6d6b16a553233d09d12d3376b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-21837336-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> システムの改造作業が原因か 中央道や東名高速などのETCが利用できない障害が拡大 復旧のめど立たず
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b4feec5366b4033c45fab68f88a4ea7549d692f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000111-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=993&ch=993&exp=10800&fmt=webp> T・ヘルナンデスが2本塁打でポーズ　大谷CMからドジャース浸透「コスメデコルテ・セレブレーション」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000111-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=993&ch=993&exp=10800&fmt=webp> T・ヘルナンデスが2本塁打でポーズ　大谷CMからドジャース浸透「コスメデコルテ・セレブレーション」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 05:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 06:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
