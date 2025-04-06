@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97c250ba36426b68a1b44fb9ca7daedd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/16e1f03274ee570e8718070420a388d5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75eca9ba4a6c628c30a231f033610537a5828f8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000035-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=100&cw=600&ch=600&exp=10800&fmt=webp> ETC障害、システム復旧までは「後払い」　割引も適用　中日本高速
+      <a href=https://news.yahoo.co.jp/articles/64a2926c9d142f72011f6d5df595b89439456f8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000037-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 対馬沖で転覆のドクターヘリ発見　機長ら3人、低体温症疑いで病院搬送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58ab30a34877e8191932c45fa35d0768a487a6c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-90024974-tncv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 医療搬送用ヘリが消息不明　対馬から福岡の病院へ救急搬送中に　医師や患者など6人搭乗　海保などの捜索続く
+      <a href=https://news.yahoo.co.jp/articles/75eca9ba4a6c628c30a231f033610537a5828f8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000035-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=100&cw=600&ch=600&exp=10800&fmt=webp> ETC障害、システム復旧までは「後払い」　割引も適用　中日本高速
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d7f4d183f00871a0702945458662ae06609acdac09c17881182c2a327e024501.jpg> ETC障害で事故も 1都6県で混乱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534651>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/46875e657f6d1ad04fbd45f55f521b24bf52b6050bad556893ddb10e0113e319.jpg> ガソリン値下げ幅 1L10円軸に検討
+      <a href=https://news.yahoo.co.jp/pickup/6534665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/dbc7ddad0d402ed9ce0438c8aea0d058faf2f1e95c1e7f7cb3d21920db804bbe.jpg> ETC障害 システム改造が関係か
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d40802e32da1e0269ab0890d7fd0b14fe6e764bea6809ba88efc271ec6ddb6e9.jpg> 医療用ヘリが消息絶った模様 長崎
+      <a href=https://news.yahoo.co.jp/pickup/6534669>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d40802e32da1e0269ab0890d7fd0b14fe6e764bea6809ba88efc271ec6ddb6e9.jpg> 医療用ヘリコプター転覆 患者搭乗
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534659>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/4fad6a35de91db62e42c423b7df9d3c4c70bdface3a49bded33757cf4dc55b2f.jpg> 万博リハ最終日も行列 改善検討
+      <a href=https://news.yahoo.co.jp/pickup/6534666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/39eff264dd1418b3696add1a3b664ecc158c92b18c95cdb006ea30ad07f8e25d.jpg> 美瑛「青い池」まで200m クマ足跡
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534653>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/07902d7cfc703535cd07fd306d15e6525cb77a16d134bba5265cbf3aca03a5c3.jpg> 12歳YouTuber進学しない宣言の訳
+      <a href=https://news.yahoo.co.jp/pickup/6534625>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7836d2b4d3a8a33e952f35d81bbdef610bbe3f1fae9b15bb4dec6730542f4b01.jpg> アイス購入も注意 女性1人暮らし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/23e534713bc4b7d2e6d40a4c66209c1571316de485b2a061659da295be82ae90.jpg> ほっこり カープ通訳お立ち台反響
+      <a href=https://news.yahoo.co.jp/pickup/6534668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/1aea0a3acd23c7f6bd4c03a5e9f5c1c75fe6273b7611477bcca99aa8c2904f13.jpg> 朝倉未来が喫煙所開設 知事が感謝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534670>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/bbf8b75dd2c9de3723f6c289790867d17360a773b713968ea3e6e2ba0714e9e0.jpg> 朗希気合 捕手にカモンレッツゴー
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 19:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 20:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
