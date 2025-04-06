@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/427fa23945f792b45d6f4a9471ef2119.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/97827f46d003c9569bc46904c45a097a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ba077c920abffc418b99beaf9752031b552d273>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-02938623-sdt-000-1-thumb.jpg?exp=10800&fmt=webp> 【静岡県内でも】東名・新東名でETCのシステム障害　県内でも一部で影響
+      <a href=https://news.yahoo.co.jp/articles/345c30bc6520a95f950d67a542fbc57e210adaa3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00482666-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「パワハラは事実無根」町田が黒田剛監督を巡る報道に声明「極めて悪質な記事」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/baa4a109c36043ec65ad4cf414e0655367b4adff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050015-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=375&ch=375&exp=10800&fmt=webp> アメリカ相互関税、一律１０％の第１弾発動…景気悪化恐れ、ＥＵは報復の可能性示唆
+      <a href=https://news.yahoo.co.jp/articles/184de885aa57cbc6c1f4be65f66029db7abcde33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-90029554-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> ネクスコ中日本の高速道路でETCが使えない障害　原因不明で復旧のめど立たず　出口で渋滞発生も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5df8336f20f3d2978cbe9987251736135eb5aed8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-35231416-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=676&ch=676&exp=10800&fmt=webp> マスク氏、米欧間で「関税ゼロの状況」望む　ナバロ大統領顧問を批判
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf91acc6f8f316211cb5446da082cb6c96c29c39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-02005234-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 町田、黒田剛監督に関する報道に声明を発表「パワハラは事実無根」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/809116746cd6f8d56871d1d62c0430e67f67784a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000011-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=991&ch=991&exp=10800&fmt=webp> 大谷翔平CM発祥の新セレブレーションがド軍ナインに定着　披露したキケ「これからも続けていく」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000011-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=991&ch=991&exp=10800&fmt=webp> 大谷翔平CM発祥の新セレブレーションがド軍ナインに定着　披露したキケ「これからも続けていく」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534618>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7b996c27666d54afa56e619c2b2437666a07deccc0da722352111c7853135474.jpg> マスク氏 米欧間の関税ゼロを望む
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534619>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/8d05534acb7d1e54cb9feab4dbe8e051a98ee57287a0bd5b16d7b2ce5cd7beb2.jpg> 高1で自殺図り両足失う 女性思い
       </a>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/41c3e7dc0aa459f4eb12dca8f3a6c2057eb106367dc715f7a852c4eaba16b7f8.jpg> 「天神ビッグバン」佳境 街が変貌
+      <a href=https://news.yahoo.co.jp/pickup/6534625>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7836d2b4d3a8a33e952f35d81bbdef610bbe3f1fae9b15bb4dec6730542f4b01.jpg> アイス購入も注意 女性1人暮らし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534624>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/615d84516b97a5b6abec8875f6c44d9622c8b75d5059694daa44f53cee3cfbd6.jpg> 母が安楽死 仏門入ったスイス女性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/5f5f03496494e4ec7460d7311ccb1ea4ebbb1c5c824bcb612c4844b75c574d32.jpg> J1町田 監督のパワハラ報道を否定
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534614>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/3c17a9a8c6197c37a7566a168699ec4743f97c35b9b33962fd7448241c04ddc3.jpg> 松井秀喜氏「魚雷バット」に私見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6fefb5637de9b853ccf0cd274da25868bd375a945543c98c8c8fd85bed5b8f83.jpg> 大谷CMポーズ ドジャースで流行
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 12:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 13:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
