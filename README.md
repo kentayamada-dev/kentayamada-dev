@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/161b5fc4ca15b262f20c57f1ca76561b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93997a9f10393cfa17b6b495c6400967.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/caeeaacf0880638bde2ea102a307286e7122cf7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-11630343-ncctv-000-1-thumb.jpg?exp=10800&fmt=webp> 【長崎】長崎・対馬東方沖でヘリ転覆、患者女性１人が死亡、家族と医師２人心肺停止
+      <a href=https://news.yahoo.co.jp/articles/13f17299a84815e9db671a1becf8eed7ce2fbdae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000042-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 長崎・対馬沖で医療搬送用ヘリが不時着水　搭乗者全員を救助 うち3人心肺停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b00d5b717a8d94814435c7a32ece62b6bfb5e9a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-04061311-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1112&ch=1112&exp=10800&fmt=webp> 髙橋尚成氏、佐々木朗希は高めの直球うまく使えれば球数減る　好投もまだ物足りない
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc85b324ee436e8d88be636cf3b0fcde9693bb68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010011-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> リードしている場面で降板 佐々木朗希の好投にドジャース監督がコメント「次回は80球目安」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c626bce4f0b1ccad044399bbdc10deda606bb18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000115-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=41&cw=1119&ch=1119&exp=10800&fmt=webp> ドジャースで大谷翔平発祥の新セレブレーションが定着　あのCMがきっかけ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000115-sanspo-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=41&cw=1119&ch=1119&exp=10800&fmt=webp> MLB　ドジャースで大谷翔平発祥の新セレブレーションが定着　あのCMがきっかけ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 23:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 23:52:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
