@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/768f3b1364da3b513399c613427914a6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/75327897895358435053c53ad5ac658f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52044a373ef0405f3bc5c1f61a938f387eeb1841>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-04440660-saga-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=314&ch=314&exp=10800&fmt=webp> 医療搬送用ヘリ、長崎県対馬沖で発見　3人心肺停止　佐賀航空が運航「情報収集に当たっている」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/68ff08e813e1829d3e1cd5bd9815c3d32e1848fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ関税による株価大幅下落の連鎖が続く：中国が34％の報復関税を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/90052da62f677a6f745529af2e1d7c4ea52c68c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000048-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=566&ch=566&exp=10800&fmt=webp> 未曾有のETC大規模障害　状況わからず足止め、高速道路を歩く人も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000048-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=566&ch=566&exp=10800&fmt=webp> 未曽有のETC大規模障害　状況わからず足止め、高速道路を歩く人も
       </a>
     </td>
   </tr>
@@ -379,27 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10e1f2ebde5efc222728d1c3d986ba16235c0d68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000030-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=364&ch=364&exp=10800&fmt=webp> ETC障害「復旧まで長引きやすい」　関係者、システムの複雑さ指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ca93c397d307608b3dc2a583437b65c337694a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050634-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> パビリオン「予約なし」は長い待ち時間も…万博「テストラン」最終日　運営上の課題を洗い出し　開幕日の入場予約者数は１２万人超
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534681>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 個人献金 野党6党首もずさん記載
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534672>
@@ -427,15 +435,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534680>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/b620ac61cec4143a427a684ece0d60bd1d32a2b00700de9584e015675dad8c4c.jpg> 転覆のヘリ発見 6人全員を救助
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/ec94aececf15a24ec716c264e6b84663b973b960a7a9722f80ba0dc3ae5a298b.jpg> 転覆のヘリ発見 6人全員を救助
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534625>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7836d2b4d3a8a33e952f35d81bbdef610bbe3f1fae9b15bb4dec6730542f4b01.jpg> アイス購入も注意 女性1人暮らし
+      <a href=https://news.yahoo.co.jp/pickup/6534654>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/50e572903224529e373b8d11950d5dacf7d69b57448adfa34551a695031a5d42.jpg> 教員280人合格204人辞退 高知苦心
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/c17cb130c61dce2accbd03f8cd901897b37adb973a8785ae2d42d1609aed40f9.jpg> 監督パワハラ報道 J1町田訴訟示唆
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 21:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 22:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
