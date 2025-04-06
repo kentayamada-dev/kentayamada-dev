@@ -165,7 +165,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
+        <img src=https://i.gyazo.com/be31d2381b009319c785c23a206ae859.png alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -325,12 +325,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
+        <img src=https://i.gyazo.com/10f02589cdbb34f32646ad7ff74686a0.png alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
+        <img src=https://i.gyazo.com/06a1addd8ef9ffae4cd2f3de81466e3f.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b6eace87161b0ddcc7429c658f473a91.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7c9d64e4f519a86e3c2757f76fe65d83.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6924907b2ad859351e1d19dcf03eafd8311d1828>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-04061047-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1147&ch=1147&exp=10800&fmt=webp> 佐々木朗希、前回屈辱の２回途中ＫＯから５回途中１失点の好投「もちろんメンタル的に不安になることもあった」
+      <a href=https://news.yahoo.co.jp/articles/3c44160f2bbbbc66cd197eeea6df8e238c871507>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-01732071-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希の“魔球”に同僚衝撃　認める高い修正能力…成長を「待ち望んでいた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c418000e8277a8e190da659ccf8e874659fbd776>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050012-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=72&cw=356&ch=356&exp=10800&fmt=webp> 大阪万博「テストラン」、入場に１時間以上待った人も…「並ばない万博」へ課題露呈
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3f87005770dfd50d109a50e62c3f988ff8e5e8f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-34060283-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> メジャー初勝利の菅野智之を監督絶賛「全ての球が良かった」89球中、ストライク59球
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e56d2baea7c045f1fd01f235ef7b1c9e1d2e897>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-04061044-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=800&ch=800&exp=10800&fmt=webp> オリオールズ菅野智之がメジャー初勝利「まずはホッとしてます」…６回途中１失点で笑顔
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/00f97cf95267e4cadccb35b06f53ffe5e12d9f20>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000000-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> アングル：飲み代は上昇、雇用は減少　トランプ関税で米欧の酒類業界に激震
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc515bad0c1120564d65163837b081a6a539f6de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010016-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=658&ch=658&exp=10800&fmt=webp> 救援陣炎上で今季2度目の3連敗…ソフトバンク、本拠地では白星なしの5連敗　小久保監督「これより下はないでしょうからね」
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534597>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/8d6017a6eb1f6084a785157797ea1b96c93ac9559a84052ab3397721894f2346.jpg> 広く傘の出番 局地的な雷雨に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/96edb245de423a4057d802b8c0ceb5e245dc55eff5654405bcdc07c1d8940ad0.jpg> 死臭立ちこめる ミャンマー被災地
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6bb64777b46c5cfc97d7b194695b05bfc105079243696cc4c1eda145ea69a0d4.jpg> 佐々木朗希 勝ち星目前で降板
+      <a href=https://news.yahoo.co.jp/pickup/6534595>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/9874e4d1f44c48b95f471b13cd75fd7a8477fca40880087c0b049afcd57615d6.jpg> 不都合な偉人の痕跡「消す」中国
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534590>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/31c4c28d2ec0350c031e92124887c7f1fbb96b04c1f37eb9dd058a323d4c85b7.jpg> 日本馬 ドバイでG1の2レース制覇
+      <a href=https://news.yahoo.co.jp/pickup/6534598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/8bba21570e11ea995338b4f09dad200d2593b5b21bb752ce66386f01e1261e0b.jpg> スペースX周辺「市」に 住民投票
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6bb64777b46c5cfc97d7b194695b05bfc105079243696cc4c1eda145ea69a0d4.jpg> 佐々木朗希 勝ち星目前で降板
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 09:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 09:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
