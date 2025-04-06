@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c7219ae1c9f4e71e6fed86ecae318986.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9870de93f22e830e71fb809aa021907.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/500a168f4533a2bd4dc221db7d99a84ab4d3fe4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-90019572-sagatv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ヘリ消息不明　搬送中の８０代患者の死亡確認
+      <a href=https://news.yahoo.co.jp/articles/ad7529bb809409c6b95a83c204dd5ec62f8c1ffb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-21837262-nbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 海上保安部、海中にある機体の写真公開　上下逆さま【長崎・壱岐沖の医療搬送用ヘリ事故】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9ddd8dfb01f8f81d2081bde3aad0ced05d15815>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000041-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 【トランプ関税で世界同時株安】経済に鈍化リスク“中国は報復措置“貿易戦争の回避は
+      <a href=https://news.yahoo.co.jp/articles/7c626bce4f0b1ccad044399bbdc10deda606bb18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000115-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=41&cw=1119&ch=1119&exp=10800&fmt=webp> MLB　ドジャースで大谷翔平発祥の新セレブレーションが定着　あのCMがきっかけ
       </a>
     </td>
   </tr>
@@ -374,7 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/de97035f0f54a02618c7830631ae2ffb6db483bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000110-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ドジャース・佐々木朗希、メジャー初勝利お預けもフォーム修正で真価発揮「安定して投げられたのは自信になった」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000110-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ドジャース・佐々木朗希、メジャー初勝利お預けもフォーム修正で真価発揮「安定して投げられたのは自信になった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c2eb380d8f64c0bc51b333bbb5de51a7d8545f61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000038-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「市場や投資家の動向に注意し適切な対応を」石破総理が加藤財務大臣に指示
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f58c9f6c41918b270647ea75ebb31d156572bef4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00522553-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「翔平みたいにウインクできるか…」　“大谷CMポーズ”に米実況席のイジり炸裂「私も契約結びたい」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534681>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 個人献金 野党6党首もずさん記載
+      <a href=https://news.yahoo.co.jp/pickup/6534690>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/42bfb8d3195dcb399466ec4393f7120c21e8183468a430bc2fd0a826c75c5acf.jpg> 日曜日の夜に 首相と財務相ら会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534672>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6ac1d361fd16b9c54f1de9cb6a309ed3ba466d9093f4b2ef13da49d9cb1bfcc3.jpg> 台湾有事想定 日米演習の概要判明
+      <a href=https://news.yahoo.co.jp/pickup/6534691>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 台湾総統 米への報復関税計画なし
       </a>
     </td>
   </tr>
@@ -427,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d572d42000bd729fcfe36942c3d7f2707f15e93e52b66f50af8a88152345ff14.jpg> 医療用ヘリコプター転覆 患者死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d8b42b5af78112944cf97d9545c13c864db6e33081060c0486bee8d2e601c86f.jpg> 医療用ヘリコプター転覆 患者死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 22:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 23:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
