@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f1e5d823ff82c668d28b18b13a9d80ba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a551d5ada4ca46ef41d5aee65aed253c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62726a15dc26b0153c475f4b177ded100554997a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04071018-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=850&ch=850&exp=10800&fmt=webp> 佐々木朗希、課題の制球力向上のきっかけは“ロッテ時代の映像”…投手コーチも絶賛「彼自身が気付いたことなんだ」
+      <a href=https://news.yahoo.co.jp/articles/de98b68c1a5c5b7e906eea415f2f802e880b360d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000003-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=556&ch=556&exp=10800&fmt=webp> 東名高速・中央自動車道のETCで大規模障害　NEXCO中日本の会見詳報
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27a1459ddc0cb0c0df5a91beaf45a744c4be9d12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-21837329-nbcv-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】34歳男性医師、68歳男性も死亡　死者3人に　長崎・壱岐沖の医療搬送用ヘリ事故
+      <a href=https://news.yahoo.co.jp/articles/46440509517406773c26643ddef1a172c556bc09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 医療ヘリ事故、死亡3人に　海保が原因究明急ぐ、長崎
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/62726a15dc26b0153c475f4b177ded100554997a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04071018-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=850&ch=850&exp=10800&fmt=webp> 佐々木朗希、課題の制球力向上のきっかけは“ロッテ時代の映像”…投手コーチも絶賛「彼自身が気付いたことなんだ」
       </a>
     </td>
   </tr>
@@ -374,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b4feec5366b4033c45fab68f88a4ea7549d692f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000111-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=993&ch=993&exp=10800&fmt=webp> T・ヘルナンデスが2本塁打　大谷CMからドジャースに浸透「コスメデコルテ・セレブレーション」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11f43da7ab18a076816beb398ba3705ca7e6f89c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-21837309-sbsv-000-1-thumb.jpg?exp=10800&fmt=webp> 「復旧のメドは立っていない」原因はシステムの改修作業か　ETCトラブル受け、中日本高速が会見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00b0cf861d58cbd1e02a91ca7a2112d5996e9c24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000001-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=1036&cy=0&cw=988&ch=988&exp=10800&fmt=webp> ＜ONE PIECEカードゲーム＞豪華作家陣がルフィ、エース、サボを描き下ろし！　「ジャンプ」応募者全員サービス
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000111-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=993&ch=993&exp=10800&fmt=webp> T・ヘルナンデスが2本塁打でポーズ　大谷CMからドジャース浸透「コスメデコルテ・セレブレーション」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 04:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 05:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
