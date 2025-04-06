@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2325158a0042c4b6f9526dda898db30f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/230c920e3f6aa6115ac1e887ef33f661.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cab7169d850d82283f0772169209a165f910a0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-90039738-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=644&ch=644&exp=10800&fmt=webp> レーン開放し“後払い”に…東名や新東名等でETCにシステム障害 夕方になっても復旧せず NEXCO中日本が会見へ
+      <a href=https://news.yahoo.co.jp/articles/487a4427b98f3a51b48a9591496667a0c21a5727>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-34060564-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1205&ch=1205&exp=10800&fmt=webp> 佐々木朗希「技術あってのメンタル」メジャー初勝利お預けもスタイル取り戻し　伸びしろたっぷり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e99e0db2000280bdafcacaa9666ceba0e4282d6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000024-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ETC障害、システム改造作業が関係か　ネクスコ中日本が謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a175c585ba1120be27bd157e7514f53232ecca6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00953621-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イーロン・マスク氏「最終的にはアメリカとヨーロッパが関税ゼロの状況望ましい」イタリア右派政党の党大会で発言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/06ca2521d8ce902a21d0f402f82427423c93da89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-21837160-utyv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> NEXCO中日本で設備障害　山梨県内でもETC利用できず
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e6ee5b2273e1cb660c8ff1f954492a9655e93487>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-01732281-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“決めポーズ”を美人レポーター解説　放送席も興味津々「なるほど！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e916b3d07dd49b605c28ac9603ab94da1417f89b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-07228909-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 専用レーンを“開放”して対応 ETCのシステム障害で「利用できない状態」続く　中央道＝東京・高井戸ICから山梨・小淵沢IC間、圏央道＝高尾山IC、八王子西IC【6日午後5時現在】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1db100161cfaefaa0c39142bd77753a1c55d967d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-07228887-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏に「アドバイスした」とも　イーロン・マスク氏「ヨーロッパとアメリカのゼロ関税が望ましい」 イタリア“極右政党”の党大会で発言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd712b1ed1eb60de172fa1cb337fc2a6d201071c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00094718-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 「天才ルーキーが実力を証明」「批判者を黙らせた」佐々木朗希の規格外な才能に専門メディアも改めて納得「能力に疑問が持たれていたが…」
       </a>
     </td>
   </tr>
@@ -427,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534661>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 医療用ヘリが消息絶った模様 長崎
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d40802e32da1e0269ab0890d7fd0b14fe6e764bea6809ba88efc271ec6ddb6e9.jpg> 医療用ヘリが消息絶った模様 長崎
       </a>
     </td>
   </tr>
@@ -435,7 +435,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/11cbbbf74fae2047a273fd9c82ab5671c1a4d903f919d82d46cfd2a3aabb7d64.jpg> 異常な量の水流出 水圧管路が破断
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/557e856c6c7f8af11524e3c08d19ad0f70f91da1377f32155c9afb5bb422b45f.jpg> 異常な量の水流出 水圧管路が破断
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534659>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/4fad6a35de91db62e42c423b7df9d3c4c70bdface3a49bded33757cf4dc55b2f.jpg> 万博リハ最終日も行列 改善検討
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/c1b024298255eb4b1c80a3a81c3847481c67dd9e68d4ca5df8cb0433eabe1bdd.jpg> NewJeans 「NJZ」名の使用断念か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 18:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 19:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
