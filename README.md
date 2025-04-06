@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3b202e4522bedff76ba7ee856975a4e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f613577fbc37f9670dfd8e79046cc00.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfdb41ebe49b85478b353f3d5c50f253d9354b22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-01732044-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 菅野智之は「最高の先発投手」　初勝利を米メディア称賛「いいじゃないか」
+      <a href=https://news.yahoo.co.jp/articles/5d78b50160cc720249fd6be27aeaed0365263d6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000009-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=494&ch=494&exp=10800&fmt=webp> 「不安があっても技術があれば関係ない」　佐々木朗希、収穫の68球
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57c114c268777438f29bc4f9e46d03ed9b74844f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00340105-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木朗希が初勝利目前の５回途中１失点で無念の降板　ハーパーからスプリットで空振り三振
+      <a href=https://news.yahoo.co.jp/articles/b01012419c664ca5c7988c201c22588cff1cf02b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000014-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 中央道や東名高速など　システム障害で一部のETCレーン閉鎖　復旧めど立たず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9a83183c90ea224b8159c752c25c97f12a9defb8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00340107-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=800&ch=800&exp=10800&fmt=webp> オリオールズ・菅野智之がＭＬＢ初勝利　気温７度に「もう寒いところで投げたくない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f06af6031c65cb35f41b8212922f81d786aedc60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000169-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=861&ch=861&exp=10800&fmt=webp> ワトソンさん「翔平みたいにウインクもしなきゃダメよ」マンシーに新セレブレーションのアドバイス
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c418000e8277a8e190da659ccf8e874659fbd776>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050012-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=72&cw=356&ch=356&exp=10800&fmt=webp> 大阪万博「テストラン」、入場に１時間以上待った人も…「並ばない万博」へ課題露呈
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c4359e057588377221c8012b252ee231e610fed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00777672-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「あの心くん？」16歳になった天才子役の近影にネット驚愕　「なんだこの色気は」「時の流れ怖い」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00f97cf95267e4cadccb35b06f53ffe5e12d9f20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000000-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> アングル：飲み代は上昇、雇用は減少　トランプ関税で米欧の酒類業界に激震
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050012-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=72&cw=356&ch=356&exp=10800&fmt=webp> 大阪万博「テストラン」、入場に１時間以上待った人も…「並ばない万博」へ課題露呈
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534594>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7819a8d4fc0bf28be54df7d46bccc4a619d6fe41f592118418f3d921456d3158.jpg> ETCレーン一部閉鎖 東名や中央道
+      <a href=https://news.yahoo.co.jp/pickup/6534611>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東名などETC障害 復旧めど立たず
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6bb64777b46c5cfc97d7b194695b05bfc105079243696cc4c1eda145ea69a0d4.jpg> 佐々木朗希 勝ち星目前で降板
+      <a href=https://news.yahoo.co.jp/pickup/6534610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6fefb5637de9b853ccf0cd274da25868bd375a945543c98c8c8fd85bed5b8f83.jpg> 大谷CMポーズ ドジャースで流行
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/1012c0bea8461fa7ed35242868a31687f82f4ebf9fc4198c6bee66e2319d9149.jpg> 菅野智之メジャー初勝利 制球抜群
+      <a href=https://news.yahoo.co.jp/pickup/6534602>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/57a4a034711ec9593f1441b0c603ae370c18c647a00161f8b9d533ee605b0b17.jpg> 朗希「技術あってのメンタル」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 10:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 10:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
