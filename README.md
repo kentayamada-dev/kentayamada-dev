@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5419cf68316f214b4c02f1a97955970c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86eb094159d85bbd8c5749c5d6e636eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc3457bdc9a9eedf86254c122c8cdfa40f251526>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-01313578-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 前回悔し涙を浮かべた佐々木朗希が4回1失点と健闘　指揮官も「彼の自信も見えた」と称賛　「次回は80球目安だ」着実な成長を見守る
+      <a href=https://news.yahoo.co.jp/articles/c3d601edc33e56227999a6fb1ea9fd349d69639d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中央道などでシステム障害　1都6県、90か所以上のETC利用できず（午後2時）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d045e193c629bca997de1b30f8d3b716313785d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000016-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> マスク氏、米欧関税「ゼロ望む」　移動の自由拡大も助言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2b71e34420f9a98b01f88cfc2b6edb9a566b68ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-08855663-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 仲間も舌を巻く佐々木朗希の成長「私たちはこれを待っていた」決め球のスプリットには「打者は打てないよなぁ」と感嘆
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7eeb92fcae3d72f29b4459af4b484abcf0ce80c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00340117-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平のＣＭポーズがチームの新ポーズに確定「こんな宣伝はおカネで買えない」＝米報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d1673c0a201a22b1b9c5f3892a4aa5c2bdd0a90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東名や中央道でETC障害　NEXCO中日本エリア
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/325eab44a8919821a91bab85a757a2a2ddefd0eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-90022122-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 報復関税を牽制するトランプ氏に…中国「経済的いじめに反対」　米中の貿易摩擦が激化
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00340117-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平のＣＭポーズがチームの新ポーズに確定「こんな宣伝はおカネで買えない」＝米報道
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7b27533d5a24c0bc307ddc7a50dfbc6add40408d42410b57ff890905fd4204a6.jpg> 救急受診巡るAI助言 解釈誤る恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6534630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/9cde0b45c29f192fcafcf9afb319ac014cd0f553475c9ddf3562ed64bc9d8bfa.jpg> 兵庫知事選 メディア不信の背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/9cde0b45c29f192fcafcf9afb319ac014cd0f553475c9ddf3562ed64bc9d8bfa.jpg> 兵庫知事選 メディア不信の背景
+      <a href=https://news.yahoo.co.jp/pickup/6534634>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d6ee7a52f4730f1d3fa31c2697208ef5ec8a6d58caab22f2cb7330a0b142b900.jpg> 赤ちゃん遺体を遺棄疑い 16歳逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 14:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 15:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
