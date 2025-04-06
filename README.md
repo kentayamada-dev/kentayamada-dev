@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f819418bcde00b0612d51444604be936.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/71d1828c14662d53f119b07538af662c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e499ecc755dfb18b4275a0eebecae70547f8a5cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-01731811-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希は「時間がかかる」　ロバーツ監督が明かした育成プラン…次回登板は13日
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/81336b804e8455a1019b3c8944be61b010acb81a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】長崎・対馬沖で医療搬送用ヘリが不時着水　搭乗6人のうち3人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ec5d9426da0d422e11048a13b2c0dcd07678dff4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04071009-sph-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=780&ch=780&exp=10800&fmt=webp> ドジャースがＴ・ヘルナンデスの２ランで先制　チーム内で流行中の大谷翔平ＣＭの“デコルテポーズ”も披露
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/11f43da7ab18a076816beb398ba3705ca7e6f89c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-21837309-sbsv-000-1-thumb.jpg?exp=10800&fmt=webp> 「復旧のメドは立っていない」原因はシステムの改修作業か　ETCトラブル受け、中日本高速が会見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/203eed41a822d370062eecf9cc176b26246e3813>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000062-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=925&ch=925&exp=10800&fmt=webp> ドジャース・佐々木朗希「レッツゴー！」不安論調一掃！収穫の5回途中1失点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d613f8a440e6cc283375a877b63e05337e5b52aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000059-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ドジャース　大谷流コーセーCMモチーフの「コスメデコルテ・セレブレーション」拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d4c5b006a1a76cad10cefc2916f13195f042114>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-90024981-tncv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=562&ch=562&exp=10800&fmt=webp> 【続報】ヘリの航跡　離陸から約13分後に動かなくなる　無線の呼びかけにも応答せず　運航会社は不時着水との見方　福岡の病院へ搬送中
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 03:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 03:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
