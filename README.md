@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9870de93f22e830e71fb809aa021907.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/161b5fc4ca15b262f20c57f1ca76561b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad7529bb809409c6b95a83c204dd5ec62f8c1ffb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-21837262-nbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 海上保安部、海中にある機体の写真公開　上下逆さま【長崎・壱岐沖の医療搬送用ヘリ事故】
+      <a href=https://news.yahoo.co.jp/articles/caeeaacf0880638bde2ea102a307286e7122cf7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-11630343-ncctv-000-1-thumb.jpg?exp=10800&fmt=webp> 【長崎】長崎・対馬東方沖でヘリ転覆、患者女性１人が死亡、家族と医師２人心肺停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cf1f12cb4149dda5bd0257edda04cf1930fe23d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050098-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=352&ch=352&exp=10800&fmt=webp> ＥＴＣシステム障害、１６路線・９６料金所に拡大…料金所はそのまま通過させ後日精算に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dc85b324ee436e8d88be636cf3b0fcde9693bb68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010011-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> リードしている場面で降板 佐々木朗希の好投にドジャース監督がコメント「次回は80球目安」
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c626bce4f0b1ccad044399bbdc10deda606bb18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000115-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=41&cw=1119&ch=1119&exp=10800&fmt=webp> MLB　ドジャースで大谷翔平発祥の新セレブレーションが定着　あのCMがきっかけ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de97035f0f54a02618c7830631ae2ffb6db483bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000110-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> ドジャース・佐々木朗希、メジャー初勝利お預けもフォーム修正で真価発揮「安定して投げられたのは自信になった」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000115-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=41&cw=1119&ch=1119&exp=10800&fmt=webp> ドジャースで大谷翔平発祥の新セレブレーションが定着　あのCMがきっかけ
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c2eb380d8f64c0bc51b333bbb5de51a7d8545f61>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000038-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「市場や投資家の動向に注意し適切な対応を」石破総理が加藤財務大臣に指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90052da62f677a6f745529af2e1d7c4ea52c68c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000048-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=566&ch=566&exp=10800&fmt=webp> 未曽有のETC大規模障害　状況わからず足止め、高速道路を歩く人も
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534691>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 台湾総統 米への報復関税計画なし
+      <a href=https://news.yahoo.co.jp/pickup/6534692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/b0eb3781a822a0879f06e374c02b6bb4e5b98d9b4468c4b68e6cdb3bc432b734.jpg> 脱炭素 岸田氏が東南アジア歴訪へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534685>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 夢洲駅に客滞留 雑踏事故懸念の声
+      <a href=https://news.yahoo.co.jp/pickup/6534693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/307671a599fc7c5bc4cd4c0708864700f71baf8bed1ccca0048a39cdfa9162ae.jpg> 岸和田市長選 新人・佐野氏が当選
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534684>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/fd45ecafc65a78f06a3d154f48566411a527bd4e877cb2f867979fda7f7e0f28.jpg> ヘリ転覆 運航会社昨年も墜落事故
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534635>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/33fe6f73a10d8327b584e170d21e19590e55d9be9898c4e4e8d141a836600427.jpg> 「特設公衆電話」10年超で10倍増
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/50e572903224529e373b8d11950d5dacf7d69b57448adfa34551a695031a5d42.jpg> 教員280人合格204人辞退 高知苦心
+      <a href=https://news.yahoo.co.jp/pickup/6534668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/1aea0a3acd23c7f6bd4c03a5e9f5c1c75fe6273b7611477bcca99aa8c2904f13.jpg> 朝倉未来が喫煙所開設 知事が感謝
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 23:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 23:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
