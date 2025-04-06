@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/874b926f3fbc071237fe8567f6bf2032.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a2fb9a9f83d47bbac29b2b292b99fa6c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/11f43da7ab18a076816beb398ba3705ca7e6f89c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-21837309-sbsv-000-1-thumb.jpg?exp=10800&fmt=webp> 「復旧のメドは立っていない」原因はシステムの改修作業か　ETCトラブル受け、中日本高速が会見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/203eed41a822d370062eecf9cc176b26246e3813>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000062-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=925&ch=925&exp=10800&fmt=webp> ドジャース・佐々木朗希「レッツゴー！」不安論調一掃！収穫の5回途中1失点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d613f8a440e6cc283375a877b63e05337e5b52aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000059-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ドジャース　大谷流コーセーCMモチーフの「コスメデコルテ・セレブレーション」拡大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8d4c5b006a1a76cad10cefc2916f13195f042114>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-90024981-tncv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=562&ch=562&exp=10800&fmt=webp> 【続報】ヘリの航跡　離陸から約13分後に動かなくなる　無線の呼びかけにも応答せず　運航会社は不時着水との見方　福岡の病院へ搬送中
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/358f3ad495c83b34e5dc6c66f0ef9bad9a15686e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-07228945-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ETC障害、システムの改造作業が影響か　現在も復旧のめど立たず　一部の専用レーンを開放し後日精算にするなど影響続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6beae4749e38432855ce70c67ddd50e2b127600c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04061310-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 佐々木朗希、映画「ロッキー」の聖地で「カモン！レッツゴー！」声かけ好投　降板後も前回ＫＯ時と一変
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17d15c539f4a0c362df0baf20f4f1aacc5b107d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-34070001-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=1058&ch=1058&exp=10800&fmt=webp> 大谷翔平「１番ＤＨ」フィリーズ３連戦最終戦　右腕グラスノーは２勝目狙う／スタメン一覧
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 01:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 02:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
