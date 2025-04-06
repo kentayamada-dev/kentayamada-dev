@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a551d5ada4ca46ef41d5aee65aed253c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ca9c56e743eea4153ea69b01db37101.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de98b68c1a5c5b7e906eea415f2f802e880b360d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000003-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=556&ch=556&exp=10800&fmt=webp> 東名高速・中央自動車道のETCで大規模障害　NEXCO中日本の会見詳報
+      <a href=https://news.yahoo.co.jp/articles/fd59ae4c61195ba236213586362f76597bb1ba68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-02846813-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 不明のヘリコプター海上で発見　患者ら3人死亡　長崎・対馬沖
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46440509517406773c26643ddef1a172c556bc09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 医療ヘリ事故、死亡3人に　海保が原因究明急ぐ、長崎
+      <a href=https://news.yahoo.co.jp/articles/4063b87944f53cd6e5672515cd86ffeb6203ba61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000011-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ETC障害、復旧作業続く　7都県高速でトラブル
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a405977bf02348764170e5006373b36888fc6ae7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00137195-wedge-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「700％関税」なんて大間違い！それでも巧みなアメリカのディール、トランプ相互関税で日本のコメ輸出はどうなる？
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 05:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 05:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
