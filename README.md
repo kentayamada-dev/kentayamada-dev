@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/16e1f03274ee570e8718070420a388d5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e1f4435400f413dd1e99ec1f21f1a3b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64a2926c9d142f72011f6d5df595b89439456f8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000037-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=806&ch=806&exp=10800&fmt=webp> 対馬沖で転覆のドクターヘリ発見　機長ら3人、低体温症疑いで病院搬送
+      <a href=https://news.yahoo.co.jp/articles/7232f89a7bf7f35ccc0dfaa65eac01626c3c0ea9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-90024977-tncv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】転覆のヘリ発見　搭乗の6人全員救助　2人意識不明　対馬から福岡の病院に向かう途中に消息不明に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75eca9ba4a6c628c30a231f033610537a5828f8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000035-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=100&cw=600&ch=600&exp=10800&fmt=webp> ETC障害、システム復旧までは「後払い」　割引も適用　中日本高速
+      <a href=https://news.yahoo.co.jp/articles/7fdeda81578f5efc7f5b934cc193fa1310332177>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-34061926-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=549&ch=549&exp=10800&fmt=webp> 「ETC障害」Ｘトレンド入り…不満続々「無料にして」「高速になってない」「渋滞はまった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7d64c1eb8e0f117cf052f791667c0da6bd649c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-10172302-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=1235&ch=1235&exp=10800&fmt=webp> ロウキ任せろ！ド軍伏兵、佐々木朗希援護弾もツッコミ殺到！？ 話題の“大谷ポーズ”に注目「キケはピース」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a175c585ba1120be27bd157e7514f53232ecca6d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00953621-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> イーロン・マスク氏「最終的にはアメリカとヨーロッパが関税ゼロの状況望ましい」イタリア右派政党の党大会で発言
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/dbc7ddad0d402ed9ce0438c8aea0d058faf2f1e95c1e7f7cb3d21920db804bbe.jpg> ETC障害 システム改造が関係か
+      <a href=https://news.yahoo.co.jp/pickup/6534673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/dfd8044da5164dd12b3b15995ce2c788ff30b215db474998ee3ebc29e15bc399.jpg> 罷免の尹氏は姿を見せず 動静注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/44de1d1c1e0e954c61c48ec7ac4d64c2d1504b66ac43c2df0fbbd7bbbd4f5a38.jpg> 子9人犠牲 ウクライナ怒り広がる
+      <a href=https://news.yahoo.co.jp/pickup/6534665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/dbc7ddad0d402ed9ce0438c8aea0d058faf2f1e95c1e7f7cb3d21920db804bbe.jpg> ETC障害 システム改造が関係か
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/39eff264dd1418b3696add1a3b664ecc158c92b18c95cdb006ea30ad07f8e25d.jpg> 美瑛「青い池」まで200m クマ足跡
+      <a href=https://news.yahoo.co.jp/pickup/6534675>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/79ca6e14b5fb0c9aaf67b010b4917363c848fc0fce1bbda486a13c47bcb3ec24.jpg> 秋田知事選 鈴木健太氏が当選確実
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 20:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 20:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
