@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a4d5f8ff36e6011bf1b9039327441890.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8c516a65d54e94965520f00083cd7fbb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc92a95ebbc964f07c6e76a27cf366c5fa329cc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-21837354-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=810&ch=810&exp=10800&fmt=webp> ETCの大規模システム障害の影響 長野県内にも・計8都県でETC利用できず
+      <a href=https://news.yahoo.co.jp/articles/5697e54356814a5e2a5969b8a13f97f5d7f462aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ヘリ事故、新たに2人死亡　30代医師ら、死者計3人に　長崎・対馬沖
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99e9966cd6631c6ba854f5a0fd0f25e84af4fd82>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00050024-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=308&ch=308&exp=10800&fmt=webp> 患者搬送ヘリ事故、心肺停止だった医師と患者家族男性の死亡確認…死者３人に
+      <a href=https://news.yahoo.co.jp/articles/b04f6027da945dfb50b5a6ff38158ad1b07479a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-05122564-ytv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 万博会場で“爆発の危険性がある濃度”のメタンガス検知　会場西側のグリーンワールドで
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b28c0c1cc2d7418c3347721cb7d7077e8f79e008>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-10090360-merkmal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ETCシステム崩壊の衝撃！ 広域障害が暴く「夜間改修」の盲点、「初めて」では済まされない？ スマートIC閉鎖…日本の高速道路インフラの脆弱性とは
       </a>
     </td>
   </tr>
@@ -374,23 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/94e925c32bcc33db94aa3618918369f463d90cba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000004-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米主要株価指数先物が大幅安で始まる、週明けの波乱示唆
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000004-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米主要株価指数先物、大幅安で始まる　週明けの波乱示唆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/371c481a8e807d507e6ae3ba439633abaaa675d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-34061834-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 【記者の目】佐々木久美＆佐々木美玲ら日向坂46一期生、酸いも甘いも経験し恩返しのサプライズ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62726a15dc26b0153c475f4b177ded100554997a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04071018-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=850&ch=850&exp=10800&fmt=webp> 佐々木朗希、課題の制球力向上のきっかけは“ロッテ時代の映像”…投手コーチも絶賛「彼自身が気付いたことなんだ」
+      <a href=https://news.yahoo.co.jp/articles/21ec32580ba3496235e218c6d01808004fab788b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010003-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=461&ch=461&exp=10800&fmt=webp> ドジャース13人目の離脱　「予想外だ」ロバーツ監督はエース格スネルの故障に驚き隠せず　ブルペン投球練習中に痛み
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f3ed96d1e52493d5c25a86f679bf1ccf62d186d152dea28dfb5ac7557fb66aed.jpg> 世界同時株安 連鎖続くかが焦点
+      <a href=https://news.yahoo.co.jp/pickup/6534702>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/d06a871b5f6d6d949ae94442e0d2a91fa141d8102cc7ba197bdfc9856432a6ff.jpg> 石破内閣の支持率が過去最低 JNN
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534696>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/a334117d10f47b7f4108367b001265d52159311819e79e7ff719392a5f28d286.jpg> ETC障害 きょうも一部利用できず
+      <a href=https://news.yahoo.co.jp/pickup/6534703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f3ed96d1e52493d5c25a86f679bf1ccf62d186d152dea28dfb5ac7557fb66aed.jpg> 世界同時株安 連鎖続くかが焦点
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 08:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 08:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
