@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e28ffa7c32e334ad17b44c6c114b5bbf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d09f27c40fc75380cf05fb5afa97ea7a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4e4ea9165cfbb2ec1a0824a4a3a437e086bff22>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-07228942-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 医療搬送用ヘリが海上に不時着か　女性患者（86）死亡、2人心肺停止　長崎・壱岐島沖
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1e99a5aa02c481fedc8df137eeb04ad17ea03fab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00953691-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ETC障害　システム改造が原因か　NEXCO中日本　復旧のめど立たず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6beae4749e38432855ce70c67ddd50e2b127600c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04061310-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 佐々木朗希、映画「ロッキー」の聖地で「カモン！レッツゴー！」声かけ好投　降板後も前回ＫＯ時と一変
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/17d15c539f4a0c362df0baf20f4f1aacc5b107d1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-34070001-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=1058&ch=1058&exp=10800&fmt=webp> 大谷翔平「１番ＤＨ」フィリーズ３連戦最終戦　右腕グラスノーは２勝目狙う／スタメン一覧
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13f17299a84815e9db671a1becf8eed7ce2fbdae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000042-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 長崎・対馬沖で医療搬送用ヘリが不時着水　搭乗者全員を救助 うち3人心肺停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b00d5b717a8d94814435c7a32ece62b6bfb5e9a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-04061311-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1112&ch=1112&exp=10800&fmt=webp> 髙橋尚成氏、佐々木朗希は高めの直球うまく使えれば球数減る　好投もまだ物足りない
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf1f12cb4149dda5bd0257edda04cf1930fe23d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050098-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=352&ch=352&exp=10800&fmt=webp> ＥＴＣシステム障害、１６路線・９６料金所に拡大…料金所はそのまま通過させ後日精算に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 00:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 01:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
