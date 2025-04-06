@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4f69d586cd2d3c457470fcb6d9dd7dbb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/768f3b1364da3b513399c613427914a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7f953b653331cec55e58726db0e2ebf0d59608b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-10172320-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=1235&ch=1235&exp=10800&fmt=webp> 佐々木朗希、157.8キロ豪速球に強打者が憮然 判定に不満顔も「最後の2つはストライクだった」圧巻“8球勝負”の一部始終
+      <a href=https://news.yahoo.co.jp/articles/90052da62f677a6f745529af2e1d7c4ea52c68c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000048-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=566&ch=566&exp=10800&fmt=webp> 未曾有のETC大規模障害　状況わからず足止め、高速道路を歩く人も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a05ddd4964f20ebcd57a619ff8a41368a924fb40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 消息不明の医療搬送用ヘリ、長崎県の海上で発見　搭乗者全員救助も患者ら3人が心肺停止
+      <a href=https://news.yahoo.co.jp/articles/bf3723ee5960173c37f6628ba9f40e830ab19a33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-10008436-jsportsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 佐々木朗希、好投。現地メディアは「未来のスターの素質を垣間見せる」と伝える
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fbd3a3dfef73ddb133aaaec209037ec5a06da8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050093-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=339&ch=339&exp=10800&fmt=webp> ＥＴＣシステム障害、事故も相次ぐ…春休み最後の日曜に打撃「お笑いライブ間に合わない」
+      <a href=https://news.yahoo.co.jp/articles/f58c9f6c41918b270647ea75ebb31d156572bef4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00522553-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「翔平みたいにウインクできるか…」　“大谷CMポーズ”に米実況席のイジり炸裂「私も契約結びたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3e0a3a420820d89507105d36167c39670fb5f89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-01732445-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=600&ch=600&exp=10800&fmt=webp> わずか3日…大谷グッズ発売が話題「商魂たくましい」　米企業が「仕事早すぎ」
+      <a href=https://news.yahoo.co.jp/articles/10e1f2ebde5efc222728d1c3d986ba16235c0d68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000030-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=364&ch=364&exp=10800&fmt=webp> ETC障害「復旧まで長引きやすい」　関係者、システムの複雑さ指摘
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/dfd8044da5164dd12b3b15995ce2c788ff30b215db474998ee3ebc29e15bc399.jpg> 罷免の尹氏は姿を見せず 動静注目
+      <a href=https://news.yahoo.co.jp/pickup/6534676>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/a1e83497e6ae7c4773b9d74bb91b357c6f183c9c1f6da1f8c664c1112bbe60ae.jpg> 地銀装う自動音声電話 各地で被害
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/dbc7ddad0d402ed9ce0438c8aea0d058faf2f1e95c1e7f7cb3d21920db804bbe.jpg> ETC障害 システム改造が関係か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534648>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/e0c551a9b7bb67af2c26da8f4a4f0a2de49696d646cde72132438886e5d46b01.jpg> カナダ 検査巡り訪米予定者に警告
+      <a href=https://news.yahoo.co.jp/pickup/6534683>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6b40e2110f687a321dd5e7184e101548222b29a65de204cfff6720988c09dcc3.jpg> ETC障害で渋滞 家族連れは恨み節
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534668>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/1aea0a3acd23c7f6bd4c03a5e9f5c1c75fe6273b7611477bcca99aa8c2904f13.jpg> 朝倉未来が喫煙所開設 知事が感謝
+      <a href=https://news.yahoo.co.jp/pickup/6534674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/72479b9226551cbda56fc0e4362d48a64260b20353ec744fc0e95a81290d103c.jpg> サブウェイ4/1ネタ巡り 広報驚き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534682>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/3c879bb2a009f514b0a7194dbe0857c5a135c34f74c95e28b0f7b9baa61d7cbb.jpg> 衝撃の13K 進学校にプロ注目選手
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 21:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 21:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
