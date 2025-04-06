@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/sqK5M3PSQtM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2321fbd534847e9fc60dfd5900d3de3f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f819418bcde00b0612d51444604be936.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/203eed41a822d370062eecf9cc176b26246e3813>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000062-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=925&ch=925&exp=10800&fmt=webp> ドジャース・佐々木朗希「レッツゴー！」不安論調一掃！収穫の5回途中1失点
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000062-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=925&ch=925&exp=10800&fmt=webp> ドジャース・佐々木朗希「レッツゴー！」不安論調一掃！収穫の5回途中1失点
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2eb380d8f64c0bc51b333bbb5de51a7d8545f61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000038-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「市場や投資家の動向に注意し適切な対応を」石破総理が加藤財務大臣に指示
+      <a href=https://news.yahoo.co.jp/articles/00b0cf861d58cbd1e02a91ca7a2112d5996e9c24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000001-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=1036&cy=0&cw=988&ch=988&exp=10800&fmt=webp> ＜ONE PIECEカードゲーム＞豪華作家陣がルフィ、エース、サボを描き下ろし！　「ジャンプ」応募者全員サービス
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 02:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 03:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
