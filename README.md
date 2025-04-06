@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d2fd1e542ef6bb39c55a1ac98744aa24.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5419cf68316f214b4c02f1a97955970c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b99754ee8b311bae65431cff32ec90d094e9fda>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000367-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 高橋優、広島公演中止を発表　喉の不良を訴え「回復が見込めず」
+      <a href=https://news.yahoo.co.jp/articles/bc3457bdc9a9eedf86254c122c8cdfa40f251526>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-01313578-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 前回悔し涙を浮かべた佐々木朗希が4回1失点と健闘　指揮官も「彼の自信も見えた」と称賛　「次回は80球目安だ」着実な成長を見守る
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5de71986781e700c318a5f62866c268218f97ec9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-34060426-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=1145&ch=1145&exp=10800&fmt=webp> ロバーツ監督「彼にとってこれが必要だった」佐々木朗希がメジャー最長投球で得たもの語る
+      <a href=https://news.yahoo.co.jp/articles/298549032df4d9c00b5265acafc3674795755c24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00953504-fnn-000-3-thumb.jpg?exp=10800&fmt=webp> 自宅に赤ちゃん遺体を遺棄した疑いで無職の16歳少女を逮捕　3月上旬に出産か…少女の家族も同居　長野・上田市
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534620>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/8a7f44682e69b20dff0653cc7704133bf8775f743fc452d303f1480dbb3e99c3.jpg> 尹氏罷免 各党が大統領選モードに
+      <a href=https://news.yahoo.co.jp/pickup/6534606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7b27533d5a24c0bc307ddc7a50dfbc6add40408d42410b57ff890905fd4204a6.jpg> 救急受診巡るAI助言 解釈誤る恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7b27533d5a24c0bc307ddc7a50dfbc6add40408d42410b57ff890905fd4204a6.jpg> 救急受診巡るAI助言 解釈誤る恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6534630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/9cde0b45c29f192fcafcf9afb319ac014cd0f553475c9ddf3562ed64bc9d8bfa.jpg> 兵庫知事選 メディア不信の背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7064b8eae9e0f392053f160415b826be076782ad0f67c70ebd6fffcc0d8ede80.jpg> DeepSeekのAI 犯罪情報も生成
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534625>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7836d2b4d3a8a33e952f35d81bbdef610bbe3f1fae9b15bb4dec6730542f4b01.jpg> アイス購入も注意 女性1人暮らし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534624>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/615d84516b97a5b6abec8875f6c44d9622c8b75d5059694daa44f53cee3cfbd6.jpg> 母が安楽死 仏門入ったスイス女性
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 14:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 14:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
