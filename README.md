@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/56ead3b81c3cb09bddb09e7ac7dd3e4e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/427fa23945f792b45d6f4a9471ef2119.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e825e05ac21a6005acb72beec4be81958e7aa949>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-21836809-sbsv-000-1-thumb.jpg?exp=10800&fmt=webp> 東名・新東名などでETCシステム障害…一部料金所で使用できない状態続き混雑も復旧のめど立たず=中日本高速道路
+      <a href=https://news.yahoo.co.jp/articles/8ba077c920abffc418b99beaf9752031b552d273>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-02938623-sdt-000-1-thumb.jpg?exp=10800&fmt=webp> 【静岡県内でも】東名・新東名でETCのシステム障害　県内でも一部で影響
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b1fb0acea4c0a8ea986ef7783881f7799745a31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-10172254-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=565&cy=0&cw=1235&ch=1235&exp=10800&fmt=webp> 佐々木朗希が思わず雄叫び！ ド軍主砲のビッグプレーに“口あんぐり”…ベンチの一幕に「こんなに喜んでる姿を見て胸熱」
+      <a href=https://news.yahoo.co.jp/articles/baa4a109c36043ec65ad4cf414e0655367b4adff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050015-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=375&ch=375&exp=10800&fmt=webp> アメリカ相互関税、一律１０％の第１弾発動…景気悪化恐れ、ＥＵは報復の可能性示唆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc82815b32bd4bee893004b5b0bf7302c8964e37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010002-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=493&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】 オリオールズ・菅野がメジャー初勝利　6球種を駆使してロイヤルズ打線翻弄　4シームが機能
+      <a href=https://news.yahoo.co.jp/articles/5de71986781e700c318a5f62866c268218f97ec9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-34060426-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=1145&ch=1145&exp=10800&fmt=webp> ロバーツ監督「彼にとってこれが必要だった」佐々木朗希がメジャー最長投球で得たもの語る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf91acc6f8f316211cb5446da082cb6c96c29c39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-02005234-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 町田、黒田剛監督に関する報道に声明を発表「パワハラは事実無根」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/809116746cd6f8d56871d1d62c0430e67f67784a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000011-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=991&ch=991&exp=10800&fmt=webp> 大谷翔平CM発祥の新セレブレーションがド軍ナインに定着　披露したキケ「これからも続けていく」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c418000e8277a8e190da659ccf8e874659fbd776>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050012-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=72&cw=356&ch=356&exp=10800&fmt=webp> 大阪万博「テストラン」、入場に１時間以上待った人も…「並ばない万博」へ課題露呈
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534601>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/2e7a4868c8a73d41638cc025185814fb925855353496aa792ea4068160d776c4.jpg> コロナ5年 医療体制「弱点」なお
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534611>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東名などETC障害 復旧めど立たず
+      <a href=https://news.yahoo.co.jp/pickup/6534621>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ETC障害 東名など料金所で渋滞
       </a>
     </td>
   </tr>
@@ -427,7 +419,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534618>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/973b2bbb0914d3b403a9f5d704051a24e5ab70b235c993e489a76b637506b360.jpg> マスク氏 米欧間の関税ゼロを望む
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7b996c27666d54afa56e619c2b2437666a07deccc0da722352111c7853135474.jpg> マスク氏 米欧間の関税ゼロを望む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534619>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/8d05534acb7d1e54cb9feab4dbe8e051a98ee57287a0bd5b16d7b2ce5cd7beb2.jpg> 高1で自殺図り両足失う 女性思い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 12:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 12:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
