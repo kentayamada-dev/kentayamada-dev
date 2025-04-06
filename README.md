@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/sqK5M3PSQtM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a2fb9a9f83d47bbac29b2b292b99fa6c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2321fbd534847e9fc60dfd5900d3de3f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d613f8a440e6cc283375a877b63e05337e5b52aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000059-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ドジャース　大谷流コーセーCMモチーフの「コスメデコルテ・セレブレーション」拡大
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000059-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ドジャース　大谷流コーセーCMモチーフの「コスメデコルテ・セレブレーション」拡大
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 02:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 02:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
