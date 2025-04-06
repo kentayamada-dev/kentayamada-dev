@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97827f46d003c9569bc46904c45a097a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a77b2833e647b0b25da3b0bf04a9bac5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/345c30bc6520a95f950d67a542fbc57e210adaa3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00482666-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=277&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「パワハラは事実無根」町田が黒田剛監督を巡る報道に声明「極めて悪質な記事」
+      <a href=https://news.yahoo.co.jp/articles/851b7d7fcd0774dc6edcb5f2e60d01ab434c1050>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-01732212-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が「いじられまくっとる」　同僚が続々模倣…浸透するポーズは「経済効果ヤバそう」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/184de885aa57cbc6c1f4be65f66029db7abcde33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-90029554-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> ネクスコ中日本の高速道路でETCが使えない障害　原因不明で復旧のめど立たず　出口で渋滞発生も
+      <a href=https://news.yahoo.co.jp/articles/5d1673c0a201a22b1b9c5f3892a4aa5c2bdd0a90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東名や中央道でETC障害　NEXCO中日本エリア
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5df8336f20f3d2978cbe9987251736135eb5aed8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-35231416-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=676&ch=676&exp=10800&fmt=webp> マスク氏、米欧間で「関税ゼロの状況」望む　ナバロ大統領顧問を批判
+      <a href=https://news.yahoo.co.jp/articles/3b526f58d2089d45b4a1458e644c915ad0e63264>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-90022129-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=507&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 高橋優、「のどの不良」のため広島公演中止「治療にあたりましたが回復が見込めず」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/325eab44a8919821a91bab85a757a2a2ddefd0eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-90022122-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 報復関税を牽制するトランプ氏に…中国「経済的いじめに反対」　米中の貿易摩擦が激化
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5de71986781e700c318a5f62866c268218f97ec9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-34060426-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=1145&ch=1145&exp=10800&fmt=webp> ロバーツ監督「彼にとってこれが必要だった」佐々木朗希がメジャー最長投球で得たもの語る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/809116746cd6f8d56871d1d62c0430e67f67784a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000011-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=991&ch=991&exp=10800&fmt=webp> 大谷翔平CM発祥の新セレブレーションがド軍ナインに定着　披露したキケ「これからも続けていく」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-34060426-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=1145&ch=1145&exp=10800&fmt=webp> ロバーツ監督「彼にとってこれが必要だった」佐々木朗希がメジャー最長投球で得たもの語る
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534616>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/3f7473d61e455aeae915be59a3f9fc104b56f8e9debcbdd8ef8d4f713e4393ba.jpg> 氷川きよし「やっぱりこれが私」
+      <a href=https://news.yahoo.co.jp/pickup/6534628>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d3521df03f6760ebd53962c3722566c708775cd835fd41e719f93ffbc638e4ad.jpg> 高橋優 ライブ当日に公演中止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 13:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 13:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
