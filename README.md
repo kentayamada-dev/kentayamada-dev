@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/809bf9375344e98050ff084df8789e29.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/711d5f39abdfe28c8d661b56c24d829f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e6894c371c47fc80f5a03082ede1d51e6e83a84e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ドジャースが今季初のカード負け越し　テオスカー5打点も逆転負け　大谷翔平は4打数ノーヒット
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c274216f20c38c1694837c6e9cebeee08be01ee5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-07228960-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 患者や医師ら3人の死亡確認　長崎・壱岐沖の医療搬送用ヘリ事故
       </a>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/801b6677bd82764760b7193d0366828c2a3e6bd5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00953712-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 料金後払いに…ETC障害復旧めど立たず「午前4時現在、計17路線106カ所」　“深夜割引改定”システム改造作業原因か　NEXCO中日本
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a7dde8faab274a99f2147131a28b020f4002759>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ関税策の修正を催促する株価急落とFRBの早期金融緩和の可能性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd59ae4c61195ba236213586362f76597bb1ba68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-02846813-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 不明のヘリコプター海上で発見　患者ら3人死亡　長崎・対馬沖
       </a>
     </td>
   </tr>
@@ -418,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6b40e2110f687a321dd5e7184e101548222b29a65de204cfff6720988c09dcc3.jpg> ETC障害で渋滞 家族連れは恨み節
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534695>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/96780d9fd107c485e4195c9316f5a48e02b7e4b4bd8ac4ab0c54e2ea11cfcbd4.jpg> 医療ヘリ事故 救助された3人死亡
       </a>
@@ -442,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534696>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/a334117d10f47b7f4108367b001265d52159311819e79e7ff719392a5f28d286.jpg> ETC障害 きょうも一部利用できず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534687>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/696fc7feba096994dce2db56257cff6d1048e2f234bbd927d7a467bc0a5a4180.jpg> ローマ教皇 予告なしでミサ登場
       </a>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534674>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/72479b9226551cbda56fc0e4362d48a64260b20353ec744fc0e95a81290d103c.jpg> サブウェイ4/1ネタ巡り 広報驚き
+      <a href=https://news.yahoo.co.jp/pickup/6534697>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/ed08dc4fe0dd26644801d05712a32ac7bb9295c8c5a4ae7d17234ba5aaef349f.jpg> ドジャース投手陣が乱調 逆転負け
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 06:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 07:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
