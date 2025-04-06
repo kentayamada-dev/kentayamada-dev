@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa6b876c85a7b44ad4d1edc0c0881b49.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b6eace87161b0ddcc7429c658f473a91.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/251b689f2e577b917e301875d1a14975e9dbaad8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000010-natalieo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 渡辺直美、アメリカの大手エージェンシー＆マネジメント会社と契約
+      <a href=https://news.yahoo.co.jp/articles/6924907b2ad859351e1d19dcf03eafd8311d1828>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-04061047-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1147&ch=1147&exp=10800&fmt=webp> 佐々木朗希、前回屈辱の２回途中ＫＯから５回途中１失点の好投「もちろんメンタル的に不安になることもあった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d312654e25c2b78838bdc40d732363b19ff8dc7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000033-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=156&cw=426&ch=426&exp=10800&fmt=webp> オリオールズ・菅野智之　３５歳でメジャー初勝利！六回途中１失点、８９球の力投
+      <a href=https://news.yahoo.co.jp/articles/9c4359e057588377221c8012b252ee231e610fed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00777672-encount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「あの心くん？」16歳になった天才子役の近影にネット驚愕　「なんだこの色気は」「時の流れ怖い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6e56d2baea7c045f1fd01f235ef7b1c9e1d2e897>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-04061044-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=800&ch=800&exp=10800&fmt=webp> オリオールズ菅野智之がメジャー初勝利「まずはホッとしてます」…６回途中１失点で笑顔
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534585>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/5/cb390c9ef9eec6e974104316038b3b0e3dc1118967744a0900c5a0a35330da27.jpg> 中央線グリーン車に無賃の客 見解
+      <a href=https://news.yahoo.co.jp/pickup/6534600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6d3693fb5896ea0640592432cec164fd16e56ffd36949f7150cd7e315da1b387.jpg> 「売るコメない」米屋の廃業増加
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 08:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 09:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
