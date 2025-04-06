@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f613577fbc37f9670dfd8e79046cc00.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/343e61430dffd29fded1e2461ac52596.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d78b50160cc720249fd6be27aeaed0365263d6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000009-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=494&ch=494&exp=10800&fmt=webp> 「不安があっても技術があれば関係ない」　佐々木朗希、収穫の68球
+      <a href=https://news.yahoo.co.jp/articles/b8276841bba3e7c1a55a675c8d465b25be311f72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010009-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1404&ch=1404&exp=10800&fmt=webp> 「涙を浮かべた投手とは違った」初勝利まであと3つも評価は上々 無念の降板となった佐々木朗希を米絶賛「アンチを黙らせた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9be40e9fbd1be157909abbcfb066dd4ccc20aa17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-21836723-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=883&ch=883&exp=10800&fmt=webp> 菅野智之 メジャー初勝利で連敗ストップ「そういう役割を果たせたのは僕自身は嬉しい」指揮官も「今日が菅野の本当の姿」と絶賛
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b01012419c664ca5c7988c201c22588cff1cf02b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000014-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 中央道や東名高速など　システム障害で一部のETCレーン閉鎖　復旧めど立たず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a83183c90ea224b8159c752c25c97f12a9defb8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00340107-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=800&ch=800&exp=10800&fmt=webp> オリオールズ・菅野智之がＭＬＢ初勝利　気温７度に「もう寒いところで投げたくない」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534597>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/8d6017a6eb1f6084a785157797ea1b96c93ac9559a84052ab3397721894f2346.jpg> 広く傘の出番 局地的な雷雨に注意
+      <a href=https://news.yahoo.co.jp/pickup/6534601>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/2e7a4868c8a73d41638cc025185814fb925855353496aa792ea4068160d776c4.jpg> コロナ5年 医療体制「弱点」なお
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534595>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/9874e4d1f44c48b95f471b13cd75fd7a8477fca40880087c0b049afcd57615d6.jpg> 不都合な偉人の痕跡「消す」中国
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534610>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6fefb5637de9b853ccf0cd274da25868bd375a945543c98c8c8fd85bed5b8f83.jpg> 大谷CMポーズ ドジャースで流行
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534616>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/3f7473d61e455aeae915be59a3f9fc104b56f8e9debcbdd8ef8d4f713e4393ba.jpg> 氷川きよし「やっぱりこれが私」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 10:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 11:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
