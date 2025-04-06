@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/sqK5M3PSQtM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/13b180502da07c1a63d0588f49c42b20.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2325158a0042c4b6f9526dda898db30f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e7ca5ffda34dd9bc222bf01b08095ae0a200aae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000025-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 1都6県でETC利用できず 復旧のめど立たず各地で渋滞 事故も発生
+      <a href=https://news.yahoo.co.jp/articles/1cab7169d850d82283f0772169209a165f910a0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-90039738-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=644&ch=644&exp=10800&fmt=webp> レーン開放し“後払い”に…東名や新東名等でETCにシステム障害 夕方になっても復旧せず NEXCO中日本が会見へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e6ee5b2273e1cb660c8ff1f954492a9655e93487>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-01732281-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“決めポーズ”を美人レポーター解説　放送席も興味津々「なるほど！」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e916b3d07dd49b605c28ac9603ab94da1417f89b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-07228909-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 専用レーンを“開放”して対応 ETCのシステム障害で「利用できない状態」続く　中央道＝東京・高井戸ICから山梨・小淵沢IC間、圏央道＝高尾山IC、八王子西IC【6日午後5時現在】
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37852fd68a3d6094aa33de30b57b97d7e0e0f238>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-04061172-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=772&ch=772&exp=10800&fmt=webp> 柔道で異例の優勝者なし　女子７０キロ級決勝で両者反則負け　田中「負けた感じしない」…全日本選抜体重別
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b8d526b8de7056572dc775802555fa22263fe82>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00094709-thedigest-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「これ日本でも流行りそう」大谷翔平が広めた“最新ポーズ”にファン熱視線！「真似したくなる」「すごい宣伝効果」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534640>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/b4885dfe9319ff09861e84224f1a25abd4c0ebd747087a0d2e054a218f6a5941.jpg> ETC障害料金所 そのまま通過して
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/fa234140fbd3f5a09d83f10ccae0970da82a0a381328bad8232e28dda38e7896.jpg> 関税巡り米大統領 国民は耐え抜け
+      <a href=https://news.yahoo.co.jp/pickup/6534657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d7f4d183f00871a0702945458662ae06609acdac09c17881182c2a327e024501.jpg> ETC障害で事故も 1都6県で混乱
       </a>
     </td>
   </tr>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534649>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 2カ月勾留に黙秘 釈放直後に死亡
+      <a href=https://news.yahoo.co.jp/pickup/6534646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/fa234140fbd3f5a09d83f10ccae0970da82a0a381328bad8232e28dda38e7896.jpg> 関税巡り米大統領 国民は耐え抜け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534661>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 医療用ヘリが消息絶った模様 長崎
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534656>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/11cbbbf74fae2047a273fd9c82ab5671c1a4d903f919d82d46cfd2a3aabb7d64.jpg> 異常な量の水流出 水圧管路が破断
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/142f16cd567060ddf5fff8f35184e1bac4cfeae478967daf48bfddfd0189e779.jpg> 親は岸谷五朗と香 負け知った受験
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534652>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/c1b024298255eb4b1c80a3a81c3847481c67dd9e68d4ca5df8cb0433eabe1bdd.jpg> NewJeans 「NJZ」名の使用断念か
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 18:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 18:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
