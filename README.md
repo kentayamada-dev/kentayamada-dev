@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9d41480519772ad11b0061866feff9d4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ff271362d655cb079ebdacc1e39b52b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23092f5add709a9b3919de7c049be1a43b42adeb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010011-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 佐々木朗希は「60％がゾーン内に入っていた」課題の“制球力”が改善　勝ち投手の権利目前で降板も次こそメジャー初勝利を
+      <a href=https://news.yahoo.co.jp/articles/e5e7ffa2f7be4ff9d64307c67ea65e4d66047692>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000019-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=654&ch=654&exp=10800&fmt=webp> ETC障害でレーンを開放　精算は後日各自で　中日本高速道路
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41066be2daf55e41ae78759ab9b8b052934ac977>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00777964-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「これは大変そうだ」ETCシステム障害で大渋滞の出口　歌手が映像公開…「もう今日は無料開放」
+      <a href=https://news.yahoo.co.jp/articles/79672fe3f21b81410fbedcd2d8a849a455c04ecf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010012-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「ササキは確かに見せた」佐々木朗希、5回途中降板も復活の狼煙　フィリーズ打線は「注目新人に手こずり続けた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9aca519674a210db791fda4e121db4c2bd659455>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000116-kstylens-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=431&ch=431&exp=10800&fmt=webp> SEVENTEEN、メキシコ音楽フェスにヘッドライナーとして登場！「絶対に忘れられない」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4cc1d0c7685d21213e18b020b051aa8ebd8a9c01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000052-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菅野智之、洗濯物カートに放り込まれ、ビールにケチャップにマヨネーズ！初勝利に手荒い祝福「35歳でもこっちでは新人だからね」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534640>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/b4885dfe9319ff09861e84224f1a25abd4c0ebd747087a0d2e054a218f6a5941.jpg> ETC障害料金所 そのまま通過して
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/c4f8c8ee057030b0f7546cde9fa4444549605146462ba59bfbf10a349636264c.jpg> 花粉 7日は東京など広く大量飛散
       </a>
     </td>
   </tr>
@@ -426,22 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534634>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d6ee7a52f4730f1d3fa31c2697208ef5ec8a6d58caab22f2cb7330a0b142b900.jpg> 赤ちゃん遺体を遺棄疑い 16歳逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534638>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/5541cf2dd21081e75b544cd25062512d5d05a48d815b72cd2fdd13b5a90b5151.jpg> 市議専用枠に長期間駐車 厚遇指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534625>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7836d2b4d3a8a33e952f35d81bbdef610bbe3f1fae9b15bb4dec6730542f4b01.jpg> アイス購入も注意 女性1人暮らし
       </a>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534645>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/9ae96df8e17e62156673805da7353fbb51ac6af659465bdcd37a904955e77a31.jpg> 柔道決勝で両者反則負け 優勝なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534639>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/4246c88090dd60ede4860107ef4be8f3ec5e683762a08e8d1a22dcf60e086e3f.jpg> 勝利目前で朗希降板の訳 監督説明
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 16:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 16:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
