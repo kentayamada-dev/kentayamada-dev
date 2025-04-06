@@ -165,11 +165,11 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/be31d2381b009319c785c23a206ae859.png alt="お台場・Odaiba" />
+        <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -325,12 +325,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/10f02589cdbb34f32646ad7ff74686a0.png alt="那覇市・Naha City" />
+        <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/06a1addd8ef9ffae4cd2f3de81466e3f.png alt="那覇空港・Naha Airport" />
+        <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c9d64e4f519a86e3c2757f76fe65d83.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b202e4522bedff76ba7ee856975a4e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c44160f2bbbbc66cd197eeea6df8e238c871507>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-01732071-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希の“魔球”に同僚衝撃　認める高い修正能力…成長を「待ち望んでいた」
+      <a href=https://news.yahoo.co.jp/articles/dfdb41ebe49b85478b353f3d5c50f253d9354b22>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-01732044-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 菅野智之は「最高の先発投手」　初勝利を米メディア称賛「いいじゃないか」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57c114c268777438f29bc4f9e46d03ed9b74844f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00340105-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=73&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木朗希が初勝利目前の５回途中１失点で無念の降板　ハーパーからスプリットで空振り三振
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c418000e8277a8e190da659ccf8e874659fbd776>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050012-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=72&cw=356&ch=356&exp=10800&fmt=webp> 大阪万博「テストラン」、入場に１時間以上待った人も…「並ばない万博」へ課題露呈
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f87005770dfd50d109a50e62c3f988ff8e5e8f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-34060283-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> メジャー初勝利の菅野智之を監督絶賛「全ての球が良かった」89球中、ストライク59球
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050012-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=72&cw=356&ch=356&exp=10800&fmt=webp> 大阪万博「テストラン」、入場に１時間以上待った人も…「並ばない万博」へ課題露呈
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534594>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7819a8d4fc0bf28be54df7d46bccc4a619d6fe41f592118418f3d921456d3158.jpg> ETCレーン一部閉鎖 東名や中央道
+      <a href=https://news.yahoo.co.jp/pickup/6534593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6823550ca187b5d098eb2f4b25f268f9ec0c0c1dc6f8ec56a7b541021f15f599.jpg> 「トランプは退陣を」米各地デモ
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534593>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6823550ca187b5d098eb2f4b25f268f9ec0c0c1dc6f8ec56a7b541021f15f599.jpg> 「トランプは退陣を」米各地デモ
+      <a href=https://news.yahoo.co.jp/pickup/6534594>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/7819a8d4fc0bf28be54df7d46bccc4a619d6fe41f592118418f3d921456d3158.jpg> ETCレーン一部閉鎖 東名や中央道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/cfc0c455f03c2e7b7007c143bd4bc9e2fd34398a387037fc66613eb7cbf0588a.jpg> 英ジャガー 米国への輸出一時停止
+      <a href=https://news.yahoo.co.jp/pickup/6534605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/f7ed16fe6590f9f276fa96cf45e081a6a0502ff4e1d985ad68b7c72247f53dc6.jpg> 万博が直前リハ 海外館の参加4割
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/8bba21570e11ea995338b4f09dad200d2593b5b21bb752ce66386f01e1261e0b.jpg> スペースX周辺「市」に 住民投票
+      <a href=https://news.yahoo.co.jp/pickup/6534596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6bb64777b46c5cfc97d7b194695b05bfc105079243696cc4c1eda145ea69a0d4.jpg> 佐々木朗希 勝ち星目前で降板
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/6bb64777b46c5cfc97d7b194695b05bfc105079243696cc4c1eda145ea69a0d4.jpg> 佐々木朗希 勝ち星目前で降板
+      <a href=https://news.yahoo.co.jp/pickup/6534599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/1012c0bea8461fa7ed35242868a31687f82f4ebf9fc4198c6bee66e2319d9149.jpg> 菅野智之メジャー初勝利 制球抜群
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 09:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 10:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
