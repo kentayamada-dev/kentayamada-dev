@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/sqK5M3PSQtM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/23babeb99419c3e9a7889dd8783f2072.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/13b180502da07c1a63d0588f49c42b20.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d971410f0a800d97470c1c1270ba6a9e66dcaac8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00010014-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=1122&ch=1122&exp=10800&fmt=webp> 「さぁ行こう」――ド軍女房役を確信させた佐々木朗希の“言葉”　KO劇から前進した怪物の成長「シンプルに嬉しかった」
+      <a href=https://news.yahoo.co.jp/articles/6e7ca5ffda34dd9bc222bf01b08095ae0a200aae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000025-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 1都6県でETC利用できず 復旧のめど立たず各地で渋滞 事故も発生
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46aafcc0d2f911fe0f4ae2fa6334a11f0835c1aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-21837063-sbsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】入り口で通行券を受け取り、出口は開放、後日清算に…　東名・新東名などでETCシステム障害　復旧のめど立たず=中日本高速道路
+      <a href=https://news.yahoo.co.jp/articles/1db100161cfaefaa0c39142bd77753a1c55d967d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-07228887-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏に「アドバイスした」とも　イーロン・マスク氏「ヨーロッパとアメリカのゼロ関税が望ましい」 イタリア“極右政党”の党大会で発言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bd712b1ed1eb60de172fa1cb337fc2a6d201071c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00094718-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 「天才ルーキーが実力を証明」「批判者を黙らせた」佐々木朗希の規格外な才能に専門メディアも改めて納得「能力に疑問が持たれていたが…」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/37852fd68a3d6094aa33de30b57b97d7e0e0f238>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-04061172-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=772&ch=772&exp=10800&fmt=webp> 柔道で異例の優勝者なし　女子７０キロ級決勝で両者反則負け　田中「負けた感じしない」…全日本選抜体重別
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/163065b100bd8abe14f0bb9c5a44ef16d063a371>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-10172283-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=858&ch=858&exp=10800&fmt=webp> イーロン・マスク氏「米欧間の関税が将来的にゼロになることを望んでいる」
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d9e5ae260c26d4ed77d50b5da11cc65f3d2a75f46cb9803e4b7db5a81d44bb2e.jpg> AIで落とし物返却率3倍 京王電鉄
+      <a href=https://news.yahoo.co.jp/pickup/6534654>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/50e572903224529e373b8d11950d5dacf7d69b57448adfa34551a695031a5d42.jpg> 教員280人合格204人辞退 高知苦心
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 17:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/06 18:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
