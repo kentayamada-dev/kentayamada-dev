@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93997a9f10393cfa17b6b495c6400967.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e28ffa7c32e334ad17b44c6c114b5bbf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/17d15c539f4a0c362df0baf20f4f1aacc5b107d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-34070001-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=1058&ch=1058&exp=10800&fmt=webp> 大谷翔平「１番ＤＨ」フィリーズ３連戦最終戦　右腕グラスノーは２勝目狙う／スタメン一覧
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/13f17299a84815e9db671a1becf8eed7ce2fbdae>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cf1f12cb4149dda5bd0257edda04cf1930fe23d8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00050098-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=352&ch=352&exp=10800&fmt=webp> ＥＴＣシステム障害、１６路線・９６料金所に拡大…料金所はそのまま通過させ後日精算に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c626bce4f0b1ccad044399bbdc10deda606bb18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250406-00000115-sanspo-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=41&cw=1119&ch=1119&exp=10800&fmt=webp> MLB　ドジャースで大谷翔平発祥の新セレブレーションが定着　あのCMがきっかけ
       </a>
     </td>
   </tr>
@@ -410,32 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534692>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/b0eb3781a822a0879f06e374c02b6bb4e5b98d9b4468c4b68e6cdb3bc432b734.jpg> 脱炭素 岸田氏が東南アジア歴訪へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534693>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/307671a599fc7c5bc4cd4c0708864700f71baf8bed1ccca0048a39cdfa9162ae.jpg> 岸和田市長選 新人・佐野氏が当選
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534684>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/fd45ecafc65a78f06a3d154f48566411a527bd4e877cb2f867979fda7f7e0f28.jpg> ヘリ転覆 運航会社昨年も墜落事故
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d8b42b5af78112944cf97d9545c13c864db6e33081060c0486bee8d2e601c86f.jpg> 医療用ヘリコプター転覆 患者死亡
       </a>
     </td>
   </tr>
@@ -450,8 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534668>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/1aea0a3acd23c7f6bd4c03a5e9f5c1c75fe6273b7611477bcca99aa8c2904f13.jpg> 朝倉未来が喫煙所開設 知事が感謝
+      <a href=https://news.yahoo.co.jp/pickup/6534689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/d8b42b5af78112944cf97d9545c13c864db6e33081060c0486bee8d2e601c86f.jpg> 医療用ヘリコプター転覆 患者死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/b98447beb1c1a577a30bd6fb7eb3860db7e4663a2e119533293a7c8eca628deb.jpg> フォークリフトから転落 小1死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534687>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/696fc7feba096994dce2db56257cff6d1048e2f234bbd927d7a467bc0a5a4180.jpg> ローマ教皇 予告なしでミサ登場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/6/72479b9226551cbda56fc0e4362d48a64260b20353ec744fc0e95a81290d103c.jpg> サブウェイ4/1ネタ巡り 広報驚き
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/06 23:52:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 00:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
