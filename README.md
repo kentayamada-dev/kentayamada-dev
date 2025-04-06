@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d09f27c40fc75380cf05fb5afa97ea7a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/874b926f3fbc071237fe8567f6bf2032.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4e4ea9165cfbb2ec1a0824a4a3a437e086bff22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-07228942-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 医療搬送用ヘリが海上に不時着か　女性患者（86）死亡、2人心肺停止　長崎・壱岐島沖
+      <a href=https://news.yahoo.co.jp/articles/8d4c5b006a1a76cad10cefc2916f13195f042114>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-90024981-tncv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=562&ch=562&exp=10800&fmt=webp> 【続報】ヘリの航跡　離陸から約13分後に動かなくなる　無線の呼びかけにも応答せず　運航会社は不時着水との見方　福岡の病院へ搬送中
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e99a5aa02c481fedc8df137eeb04ad17ea03fab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00953691-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ETC障害　システム改造が原因か　NEXCO中日本　復旧のめど立たず
+      <a href=https://news.yahoo.co.jp/articles/358f3ad495c83b34e5dc6c66f0ef9bad9a15686e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-07228945-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ETC障害、システムの改造作業が影響か　現在も復旧のめど立たず　一部の専用レーンを開放し後日精算にするなど影響続く
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 01:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 01:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
