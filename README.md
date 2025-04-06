@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/39ca6246c212bdb5842eb1e4625efbcd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f1e5d823ff82c668d28b18b13a9d80ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e499ecc755dfb18b4275a0eebecae70547f8a5cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-01731811-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希は「時間がかかる」　ロバーツ監督が明かした育成プラン…次回登板は13日
+      <a href=https://news.yahoo.co.jp/articles/62726a15dc26b0153c475f4b177ded100554997a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04071018-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=850&ch=850&exp=10800&fmt=webp> 佐々木朗希、課題の制球力向上のきっかけは“ロッテ時代の映像”…投手コーチも絶賛「彼自身が気付いたことなんだ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81336b804e8455a1019b3c8944be61b010acb81a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】長崎・対馬沖で医療搬送用ヘリが不時着水　搭乗6人のうち3人死亡
+      <a href=https://news.yahoo.co.jp/articles/27a1459ddc0cb0c0df5a91beaf45a744c4be9d12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-21837329-nbcv-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】34歳男性医師、68歳男性も死亡　死者3人に　長崎・壱岐沖の医療搬送用ヘリ事故
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec5d9426da0d422e11048a13b2c0dcd07678dff4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04071009-sph-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=780&ch=780&exp=10800&fmt=webp> ドジャースがＴ・ヘルナンデスの３号２ランで先制　チーム内で流行中の大谷翔平ＣＭの“デコルテポーズ”も披露
+      <a href=https://news.yahoo.co.jp/articles/7b4feec5366b4033c45fab68f88a4ea7549d692f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000111-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=993&ch=993&exp=10800&fmt=webp> T・ヘルナンデスが2本塁打　大谷CMからドジャースに浸透「コスメデコルテ・セレブレーション」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 04:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 04:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
