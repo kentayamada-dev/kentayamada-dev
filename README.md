@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/285632c69d66e16af9c52f2ee0391949.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ad6c1256dab2d5f28acb6fa5c12bc1ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/355c95ec2ed78534cad92025ba3f848d0f7f1f9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050021-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=331&ch=331&exp=10800&fmt=webp> ＮＹダウ乱高下、一時１７００ドル超下落から９００ドル上昇…３４９ドル安３万７９６５ドル
+      <a href=https://news.yahoo.co.jp/articles/3b9cf35bde1fc9bb95ea9c3b1d1a9a74f0de8286>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000016-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 元外務審議官の田中均氏「『大統領』と呼ぶのはおこがましい」トランプ米大統領の関税強化を批判「世界は彼を止めることを真剣に検討すべき」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/85c6cf8bfac9ce61ce0af23a1fa6c76e3b586d33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ3日続落、349ドル安＝米関税で景気後退懸念（7日）☆差替
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7f38d777474aadb2e9612ad0903571968f9dcaa9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000031-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=29&cw=640&ch=640&exp=10800&fmt=webp> ガザ停戦を協議　米イスラエル首脳
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 05:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 06:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
