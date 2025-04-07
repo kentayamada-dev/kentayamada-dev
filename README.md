@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e08c86b3c05d06d590dc03bf76a4d22e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3fee2b388aa74d0fbb3725bca29ca1dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ece5d0be4d483268fc9d48c407476a47e8a63c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> アジア株も軒並み急落
+      <a href=https://news.yahoo.co.jp/articles/7b291dec09e6b5bfb690f6f157f9b5f1bed9d4e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、146円台後半＝輸入の買いで上昇（7日正午）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7a959a90c49b3d5b7f7feb3095c4df77dfa01014>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-14932817-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 医療搬送ヘリ対馬沖に不時着水・３人死亡事故　運行会社が会見「事故原因は現在不明」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8beec8ad65e09ad66df0b0c730cbe44e9fbce0ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00953803-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “旧統一教会”が即時抗告　解散命じた東京地裁の決定に対し「宗教弾圧、憲法違反」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f318f16d1a46ba35d7cda29d0983482d069d2edc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00953797-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「ETCシステム障害」新たに長野県内でも確認　8都県に広がる…東名高速や新東名高速で発生
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f5f45a55d83cbfc44a3867a2c2053be64d41cc1d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-17107894-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=599&ch=599&exp=10800&fmt=webp> イスラエル軍、ガザ救急隊員ら15人殺害に関し説明変更　当時の映像が浮上
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7e0241ae0e729ebbead900a2d10b8406b33d2ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-07229008-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 3人死亡の長崎県壱岐沖ヘリコプター事故　エス・ジー・シー佐賀航空では去年7月にもヘリ墜落　国の運輸安全委員会が調査官を現地に派遣予定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/965946ab76d56e281d67b7bb18905dfaf94f295b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000020-ann-000-1-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”で週明けも株価大幅続落 「3万円割り込む可能性も」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69ea6e02dabd932f79441301edca43ed2def8979>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-02543846-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> “統一教会”「最善を尽くして闘う方針」　東京地裁の解散命令決定に不服、即時抗告
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/11/27/9b76f15520dc650cfd985b9062832543d237da6702e602776b9611b59cfd4323.jpg> 夫婦別姓議論に熱 野党は連携難航
+      <a href=https://news.yahoo.co.jp/pickup/6534723>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/65b09903d35259d243f89b247e3b10e83d97096baa699ab7f5a0e0ad5ab729e5.jpg> 解散命令 旧統一教会が即時抗告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534727>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/716670e5ea4f4f453bd5068f48fe7d14222932fe2d80a149549167d13eeceb6b.jpg> ETC障害 100カ所以上に拡大
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534720>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/5874506d677d2587624cefdf1bdd991b4d1966d5e35dbd4024883379d4a2bb8b.jpg> ヘリ事故 患者と息子と医師が死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/6039330a9be83a53c0232a8598f98eb83ea503dd3333cc3a788086c8942c1c85.jpg> 走行中の車から10代女性転落 重体
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 12:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 12:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
