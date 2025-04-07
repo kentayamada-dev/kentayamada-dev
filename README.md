@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/4kaGR1itB9g?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/624513fcf2ddae61368027cd69be72ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3ba3c2457c5a5a06936c2881d7af0de3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d56896a5fe32291eec55d34ce91db30bc5a1a7ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕一時2900円超下落＝プライム市場の99％が下落（7日前場中盤）
+      <a href=https://news.yahoo.co.jp/articles/f683747e7d2012a499d65213a7feda8e8d2d0e66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=428&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 株価大幅下落のなか注目されるFRB・日本銀行の政策対応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cac3f1f38b963d29ef31a816e9385131eacf6410>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000022-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=508&ch=508&exp=10800&fmt=webp> 「あってはならない」へき地医療に衝撃　長崎・壱岐島ヘリ事故
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9b65090173a6b56713ea9490c82ce3c6ef7b4a0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000020-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「こども、ころさないで」　ガザ戦闘1年半、熊本で街頭抗議
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/815998c072c8e56f4101863bbafcb5cbd27c7f3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-07228988-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ガザ戦闘1年半　イスラエル軍の連日攻撃で5万695人が犠牲に　イスラエル首相は米訪問でトランプ氏と会談へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/476eebcad6f10d9b4bf7abc8450b73ad7ad25979>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000009-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=378&cy=0&cw=1445&ch=1445&exp=10800&fmt=webp> 第一生命、豪チャレンジャーに800億円出資　ＭＳ＆ＡＤから株取得
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534702>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/d06a871b5f6d6d949ae94442e0d2a91fa141d8102cc7ba197bdfc9856432a6ff.jpg> 石破内閣の支持率が過去最低 JNN
+      <a href=https://news.yahoo.co.jp/pickup/6534709>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/11/27/9b76f15520dc650cfd985b9062832543d237da6702e602776b9611b59cfd4323.jpg> 夫婦別姓議論に熱 野党は連携難航
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534707>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 第一生命HD 豪生保に800億円出資
+      <a href=https://news.yahoo.co.jp/pickup/6534718>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/fa22557c30349911af67dc3a0a1880f7a5dabf18d9cd3f2a5f72ee28a95b6816.jpg> セブン店長自殺 半年無休で労災に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 10:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 11:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
