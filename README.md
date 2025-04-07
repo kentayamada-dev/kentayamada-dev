@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/31ceca27c50ecbe95ce4d1e77c1bb9bf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0952926b65959ea5fa541850a87d21d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5a79e344417cd2882241808a9a5afc6640d470a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00050131-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 読売３３３終値、２３７５円安の２万９８５１円…４営業日連続で値下がり
+      <a href=https://news.yahoo.co.jp/articles/496f4a732deca6ffcc8ff17c2486fa2bedcc1b97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-90006902-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> 「ここまで急速に下落するとは」専門家仰天　株価の下げ幅は史上3番目の大きさ　今後のポイントは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49c25313343c68ab3bca1e9f1d3866717516598c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000049-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=480&ch=480&exp=10800&fmt=webp> スーパーのコメまた値上がり　備蓄米の販売開始も「高騰収まらず」
+      <a href=https://news.yahoo.co.jp/articles/7ea5fdc8538a7466a1493950c7cfee29e19639e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04237327-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> MLBで話題“トルピードバット”に迫る　使った選手は「合う選手もいるだろうが...」五十嵐亮太氏は「中距離ヒッターには向いているのかな」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02560b6dda74edbfa76736f7800659dc6c43b051>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00954008-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】岩手・大船渡市が山火事の「鎮火」発表　男性1人死亡・221棟の建物が被害　2月26日に発生
+      <a href=https://news.yahoo.co.jp/articles/b1ce9498798081c667eb14b08543357aca85b7e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大船渡山林火災で「鎮火」宣言　発生から40日、生活再建が課題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c99fdb839efc05c32e218cac2b987f1de1c065f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000066-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ関税で中国株も大幅下落　中国政府は市場介入を公表
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/41f6e54ca93a0cf1976845eabbce2711690a8ff2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000053-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 万博会場でメタンガス検知　換気強化、測定頻度増やす対策実施へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea9e368665ba09314e0b0565bf5fbeb9abff9862>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-08936517-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 【急落】石破首相「報復関税するつもりない」日経平均株価、下げ幅一時2900円超　取引時間中としては過去3番目「来週のうちには電話会談やりたい」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/d264ea621f856cd490f797914ffa5bcbb1d357c1bede174f767d5d7f0690c4c1.jpg> コメ平均価格 5kgあたり4206円に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534766>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/e09992ba5eb4b2c5b166df29cc9a133a5eb55b894170c7793305dbebcd5e5f0a.jpg> 大船渡市の山火事「鎮火」を宣言
       </a>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534761>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/3c01e0175ce9a3b15defba15e273f52b16992d1ce31bcdd88475b9ab6a9ca7e5.jpg> 米景気後退確率45% ゴールドマン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534755>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/82e488e4c5cfa4b2a4d50dd08436e4983dfb819bd598c3179d5a20071efb05a6.jpg> 山口組 神戸山口組と抗争終結意向
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534765>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/101ea231cbc5221d57c986d2c5b87e219476b764f8b876266d090c0bf66571fb.jpg> 長崎で山火事「ゴミ燃やし延焼」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534764>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f0f524e9f268ca6d8bc778cf8943b054e63dfeb9e2ebae63a7ed8384a39c8cd6.jpg> ETC障害で後払い 利用者「微妙」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 18:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 19:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
