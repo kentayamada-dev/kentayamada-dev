@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8094c2652dfef90e7b4af99d19df9887.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3dbdfd730912a38bd78537c0da3982a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/441532964132306a6b23675cd1fd079cbd24f7e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000086-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 日米首脳が電話協議　石破首相、トランプ関税巡る交渉で訪米意欲
+      <a href=https://news.yahoo.co.jp/articles/36f5cf19660bdc5948b8975cc13c60e6b1f363ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-10172534-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=447&ch=447&exp=10800&fmt=webp> 「トランプ大統領とは今後も率直かつ建設的な協議を続けていく」石破総理が電話会談 元官僚・門ひろこ氏「言い合いになってた可能性もある」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/19313fbf5f666a730d2d67ef662a8f2638f2d7a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> JAL機、航空灯火に接触　離陸取りやめ　羽田空港で一時滑走路閉鎖
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/82ccd3e3aceee52aa81b3b2e3b92bcc7e9e6fd66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000475-oric-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=415&ch=415&exp=10800&fmt=webp> 万博「メタンガス検知」は大型ライブ予定の野外アリーナ付近　対応策を説明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000475-oric-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=415&ch=415&exp=10800&fmt=webp> 万博「メタンガス検知」は大型ライブ予定の野外アリーナ付近　対応策を説明
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56326efe88931a2a0c6d7bc66708b07e12ff8840>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-06434559-nib-000-2-thumb.jpg?exp=10800&fmt=webp> 【医療ヘリ事故】対馬空港を離陸後何が起こったか原因究明へ　国が航空事故調査官を派遣　《長崎》
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/0182917fff832338353a929fee481bb0a4896256e614f320e5ecbdf2558933b6.jpg> 米大統領と電話会談 強い懸念伝達
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534774>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/a2de9f0bd84dba0bf66485e5252a02d23bdb29b527abfedf190ec23265589397.jpg> 医療ヘリ事故 国が調査官を派遣
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534782>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/8420cd91d1192f07612630e11ca5c9cbdbb4ee40da34555bb8c7948e6da99185.jpg> JAL機が航空灯火に衝突 羽田空港
+      <a href=https://news.yahoo.co.jp/pickup/6534786>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/e14c573721d90604f80e0b40a36f836255050ee0e2f15abf6a8b3a3e948d6735.jpg> 日航機が航空灯火に接触 羽田空港
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f7ec885e8a7aa76686bfacea3959a86aa908c55c233d5be331f50777b755b854.jpg> SNS投稿巡り改善勧告 日ハム謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6534785>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/a04a7d41bb51d9a347ead67cfd47e9aba7e078ca5402de67874604558db43830.jpg> 新入社員の顔隠した投稿 称賛の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534762>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/d4c3dc92422847c9f7816424422d54f8eaead98a6f6eae0b7f83c52a7680d491.jpg> NHK撮影中に事故 鼓膜の一部損傷
+      <a href=https://news.yahoo.co.jp/pickup/6534779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f7ec885e8a7aa76686bfacea3959a86aa908c55c233d5be331f50777b755b854.jpg> SNS投稿巡り改善勧告 日ハム謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 22:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 23:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
