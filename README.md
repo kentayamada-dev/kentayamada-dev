@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/4kaGR1itB9g?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c6f9144e51f043679a7ec5a4e03a211.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb17b8a46f6eadaf75f3cf733de1d00d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4aafa3561154f610afa66a450516595b01ac86f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-06353148-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破首相、トランプ大統領と電話会談　関税措置の見直し求める　日米双方の担当閣僚協議で一致
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37bcd9a2b6d9334cbb725fb374762f5c73f384b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050003-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 壱岐島沖のヘリ事故で機長の事情聴取を開始…患者の女性と息子、医師の３人が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/58276dd8bc0b4c6caa4ab5bfee90c6a00fa67e2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-03941676-sp_ctv-000-1-thumb.jpg?exp=10800&fmt=webp> ETC大規模障害　「通行料金のためのデータを収集するシステムに不具合があった」と説明　NEXCO中日本
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/01307bfe88d180dc1fcd212a28cc775bdaf3cb68>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954274-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 羽田空港で日本航空機が航空灯火と接触　けが人なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/48c8cd12afa4ee3b874dd8da7e253db86a2880ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07687865-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 関税めぐり“石破×トランプ”電話会談　投資減退を「強く懸念」　閣僚間の協議通じ「見直し強く求める」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4abb22527e6139835dfd3ed824266e7a58f4ca72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-08922285-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 機長がフロートを手動で出す　何らかの理由で着水するため　航空事故調査官が明らかに　3人死亡のヘリ事故
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84ee38aeb56965aadc20fd173b22ebb5c61676d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00954268-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 1都7県でのETCシステム障害が応急復旧し38時間ぶりに運用再開　7月実施予定の“新たなシステム”で問題生じたか　NEXCO中日本
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 00:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 01:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
