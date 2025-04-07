@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/sqK5M3PSQtM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/4kaGR1itB9g?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/315cbfc6c0fdfc765089e69a169fd03e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9091d211695ddfd455de2709309d6320.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f031ac29f6032d5796049b30df5088796042f172>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-10172360-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 日経平均株価、一時 先週比2500円超下落
+      <a href=https://news.yahoo.co.jp/articles/815998c072c8e56f4101863bbafcb5cbd27c7f3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-07228988-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ガザ戦闘1年半　イスラエル軍の連日攻撃で5万695人が犠牲に　イスラエル首相は米訪問でトランプ氏と会談へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/393aa6483f3791a1cca45e2612648f8ba8e3b905>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010002-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ド軍投手陣に早くも激震！CY賞左腕が離脱…昨年も故障者リスト入りし「104イニングしか投げられなかった」
+      <a href=https://news.yahoo.co.jp/articles/e1a0ea8309a8da365b2cdb3be4aca38fe7c0ac13>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000158-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=585&ch=585&exp=10800&fmt=webp> ひろゆき氏　大阪・関西万博でまたメタンガス検知に「人の命より政府の決定を重視するのは…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d9919807e1d96572f948afdb3fd4d83d42e0997>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-05292424-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【速報】日経平均株価、一時2500円超の値下がり　去年8月「令和のブラックマンデー」以来の3万2000円割れ“トランプ関税ショック”の株安止まらず
+      <a href=https://news.yahoo.co.jp/articles/8c09d8b45789d678ff38d296d382321f360d7c24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000155-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 速報“日経平均続落”3万2000円割れに経済ジャーナリスト「想定内。今後、どのくらい下げ幅を…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb817b6b4a4da27cda7c5e6813f583e1a2fe537f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000000-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> イスラエルの空爆で44人死亡 ガザ当局発表
+      <a href=https://news.yahoo.co.jp/articles/90a5f6635337f6273c6ed494c21a8bf17588b601>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04071040-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=818&ch=818&exp=10800&fmt=webp> ドジャースが１１戦で貯金７も勝率で２位転落　早くも負傷者リスト入り１３人の非常事態に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b04f6027da945dfb50b5a6ff38158ad1b07479a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-05122564-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 万博会場で“爆発の危険性がある濃度”のメタンガス検知　会場西側のグリーンワールドで
+      <a href=https://news.yahoo.co.jp/articles/530f07371f5fabd5d485796a896c382e47e2529e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-85695674-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 【日本市況】株価急落、報復関税で「貿易戦争」懸念－円と債券は上昇
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/baeeba32312fc73912780e0a85b6a2bc7736dd6e81185c9cd93fd307a4105312.jpg> 東京株、一時2800円超下落
+      <a href=https://news.yahoo.co.jp/pickup/6534714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/63c66c0494311656a31f2f1fc8abf884eaf3186341c1eaf72b0a7fdd7f6a4036.jpg> 東京株、一時2900円超下落
       </a>
     </td>
   </tr>
@@ -426,32 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534695>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/96780d9fd107c485e4195c9316f5a48e02b7e4b4bd8ac4ab0c54e2ea11cfcbd4.jpg> 医療ヘリ事故 救助された3人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6534715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/70ed73bd04117a6bb14984f3005ec3ac07358eec96676d2826382003a7e75b7d.jpg> 走行中の車から10代女性転落 重体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/e6ed969cb63f6f010d469061d06959c61c103ca1d5698b6c6d5d4818e3b33997.jpg> 万博会場でまたメタンガスを検知
+      <a href=https://news.yahoo.co.jp/pickup/6534707>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 第一生命HD 豪生保に800億円出資
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534704>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/ab9920dc8a0cd2449e4ddaea11c74390d0dc1583d4240e9d37186381e9f3f3ae.jpg> 食パン おいしく焼くためのコツ
+      <a href=https://news.yahoo.co.jp/pickup/6534713>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/0e125ff29dcf71a05d2f99381135fbd3722949baab0fa64bcb8c7ee599e3447b.jpg> ジャパネットクルーズ 好調の背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534697>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/ed08dc4fe0dd26644801d05712a32ac7bb9295c8c5a4ae7d17234ba5aaef349f.jpg> ドジャース投手陣が乱調 逆転負け
+      <a href=https://news.yahoo.co.jp/pickup/6534705>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/4c5b43aed05e42ae363af339aec322af2e577037753c76b7f38088d6555ee4d5.jpg> ドジャース衝撃 早くも故障者続出
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 09:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 10:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
