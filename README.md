@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/4kaGR1itB9g?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9895c16b0c591f4ef7606348a9bae98.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7c6f9144e51f043679a7ec5a4e03a211.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74f1e4ce20eb1489e70560b3c0c9e3add5b1b09f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000091-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=619&ch=619&exp=10800&fmt=webp> 石破首相「直接会談、当然考える」　関税巡り、トランプ氏と電話協議
+      <a href=https://news.yahoo.co.jp/articles/01307bfe88d180dc1fcd212a28cc775bdaf3cb68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954274-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 羽田空港で日本航空機が航空灯火と接触　けが人なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19313fbf5f666a730d2d67ef662a8f2638f2d7a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> JAL機、航空灯火に接触　離陸取りやめ　羽田空港で一時滑走路閉鎖
+      <a href=https://news.yahoo.co.jp/articles/48c8cd12afa4ee3b874dd8da7e253db86a2880ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07687865-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 関税めぐり“石破×トランプ”電話会談　投資減退を「強く懸念」　閣僚間の協議通じ「見直し強く求める」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82ccd3e3aceee52aa81b3b2e3b92bcc7e9e6fd66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000475-oric-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=415&ch=415&exp=10800&fmt=webp> 万博「メタンガス検知」は大型ライブ予定の野外アリーナ付近　対応策を説明
+      <a href=https://news.yahoo.co.jp/articles/4abb22527e6139835dfd3ed824266e7a58f4ca72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-08922285-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 機長がフロートを手動で出す　何らかの理由で着水するため　航空事故調査官が明らかに　3人死亡のヘリ事故
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b338d7549d49edf7c1f786c29c06fff310920167>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000078-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=561&ch=561&exp=10800&fmt=webp> 日経平均2644円安　過去3番目の下げ幅　トランプ関税で動揺
+      <a href=https://news.yahoo.co.jp/articles/84ee38aeb56965aadc20fd173b22ebb5c61676d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00954268-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 1都7県でのETCシステム障害が応急復旧し38時間ぶりに運用再開　7月実施予定の“新たなシステム”で問題生じたか　NEXCO中日本
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84d4ab2ea57f7f1cda296aab22ff173a4741118b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000077-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=26&cw=533&ch=533&exp=10800&fmt=webp> 「少雨と再燃箇所の消火に手間取った」　大船渡山林火災、消防が説明
+      <a href=https://news.yahoo.co.jp/articles/c8acfe532ce689c9a7461d236b58a59b8d70f719>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-07229171-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博の会場でマンホールからメタンガス検知　“着火で爆発起こす濃度”も6日夕方に基準値下回る
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534784>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/0182917fff832338353a929fee481bb0a4896256e614f320e5ecbdf2558933b6.jpg> 米大統領と電話会談 強い懸念伝達
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/4d7f6b008dfb29a0f267110e157e59287d57423be67104694e912ef245140466.jpg> 世界日報巡る報道「事実」と首相
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/529e9ac42d8695f28a66d8c30022fc237f765e5642ba61f85927a33be0078a31.jpg> 事故ヘリ機長 運航中に異常察知か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534780>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/521ed5fde28b89e3ea7e28c6b80393adec36db9cbaa6012a3948172cb506f90a.jpg> ホンダ副社長辞任 警察に告訴状
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534771>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/628f1103bfab91d13ddf7cb35658366c30760253e6fa8eff1342e317fa7456c6.jpg> ETC障害 5日夜の作業とは無関係
+      <a href=https://news.yahoo.co.jp/pickup/6534789>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/b51f3e0d7c19836335fb0b982d8c967054f0e3769f085937fea1f168a8a77a6c.jpg> 吉野家 牛丼の大盛り696円→740円
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 23:31:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 00:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
