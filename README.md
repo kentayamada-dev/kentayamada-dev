@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/54d786cc98febfb88d5ec2c7825c5817.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c406b328b2ac06447fbc2f5ccd93976.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/11a2a95acb0680a75e69a0ca8501a05ff4a2409d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229193-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=469&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「関税措置により日本企業の投資力が減退する」石破総理が強い懸念を伝える　トランプ大統領と電話会談　日米双方が担当閣僚を指名し協議継続
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/53e3ac7bed91a396c2402816e1451b33634ff3f1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領　USスチール買収計画の再審査を指示
       </a>
@@ -367,30 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/79437ca8e0d0620d34e76d88f20d3eb2548167e9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229198-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 機長「操縦ミスではない」3人死亡の医療ヘリ事故　運航会社「点検で異常なし」 島民にとっては“命綱”…医師不足のため病院が自費で導入【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8150073444023a10752cb8f0ae2b0d23843c6fb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000002-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=468&ch=468&exp=10800&fmt=webp> NYダウ乱高下　トランプ関税“フェイクニュース”に振り回され
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4aafa3561154f610afa66a450516595b01ac86f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-06353148-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相、トランプ大統領と電話会談　関税措置の見直し求める　日米双方の担当閣僚協議で一致
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58276dd8bc0b4c6caa4ab5bfee90c6a00fa67e2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-03941676-sp_ctv-000-1-thumb.jpg?exp=10800&fmt=webp> ETC大規模障害　「通行料金のためのデータを収集するシステムに不具合があった」と説明　NEXCO中日本
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 04:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 04:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
