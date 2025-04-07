@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1e42b2841dc7422afdda8f7fb9f3a81.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/31ceca27c50ecbe95ce4d1e77c1bb9bf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69fce507bb54bd09f0645c4fb7f859e8b992311f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010023-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ関税で中国株も大幅下落　中国政府は市場介入を公表
+      <a href=https://news.yahoo.co.jp/articles/e5a79e344417cd2882241808a9a5afc6640d470a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00050131-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 読売３３３終値、２３７５円安の２万９８５１円…４営業日連続で値下がり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/671b0a48efbb7697ac41e0aebdc4ebbf4e3f2203>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00050127-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=330&ch=330&exp=10800&fmt=webp> 大船渡の山林火災、発生４１日目で「鎮火」宣言…焼失面積は平成以降で国内最大の２９００ヘクタール
+      <a href=https://news.yahoo.co.jp/articles/49c25313343c68ab3bca1e9f1d3866717516598c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000049-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=480&ch=480&exp=10800&fmt=webp> スーパーのコメまた値上がり　備蓄米の販売開始も「高騰収まらず」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b2ca884980cb531f0cb6ba90409d644f8bdfac8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00064804-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 万博会場にメタンガス『着火すれば爆発』去年３月には爆発事故も「きちんと対応していかなくてはいけない面もあるのかなと」
+      <a href=https://news.yahoo.co.jp/articles/02560b6dda74edbfa76736f7800659dc6c43b051>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00954008-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】岩手・大船渡市が山火事の「鎮火」発表　男性1人死亡・221棟の建物が被害　2月26日に発生
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fcb42599e31254af99743f9dcdcb335b9bdfdeb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010004-parkblog-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=968&ch=968&exp=10800&fmt=webp> NEXCO中日本のETC障害、すべての料金所で復旧！ 障害中の通行料金はWeb手続き後に支払い【道路のニュース】
+      <a href=https://news.yahoo.co.jp/articles/41f6e54ca93a0cf1976845eabbce2711690a8ff2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000053-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 万博会場でメタンガス検知　換気強化、測定頻度増やす対策実施へ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> トランプ関税に補正予算 政府検討
+      <a href=https://news.yahoo.co.jp/pickup/6534760>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/214e569b25b0c023dbabb0315428e4c04b1b32692ce903a6aa72e312b0e5f203.jpg> 首相 関税巡り日本の「公正」強調
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534766>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/164fc1558a3716bff5b6db3ad962733b27fcafc370ce8626264af8f2fa1ceccf.jpg> 大船渡市の山火事「鎮火」を宣言
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/e09992ba5eb4b2c5b166df29cc9a133a5eb55b894170c7793305dbebcd5e5f0a.jpg> 大船渡市の山火事「鎮火」を宣言
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 18:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 18:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
