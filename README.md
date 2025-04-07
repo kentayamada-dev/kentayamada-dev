@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a32ef4abfea09525e09f9d968b51e080.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/36b4d9e80f688ae01acc22e8bb816cb9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aab374db440477157faf8dd667cfd4e9e7246419>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-03642469-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】訪問看護師を切りつけ…殺人未遂容疑で男（86）を逮捕　「殺すつもりなかった」大阪・西成区
+      <a href=https://news.yahoo.co.jp/articles/a570211e45df80b1f95b2538b16308beffa8b47d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕下値もみ合い＝前場の流れ引き継ぐ（7日後場寄り付き）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a570211e45df80b1f95b2538b16308beffa8b47d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕下値もみ合い＝前場の流れ引き継ぐ（7日後場寄り付き）
+      <a href=https://news.yahoo.co.jp/articles/665cc6152f66d9899484535c5d4b8204e0e6c3fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00953809-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「車体のバランス崩れて転落」フォークリフトから小1男児転落して死亡　父親（29）を現行犯逮捕　茨城・筑西市
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534730>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/38bf63a3ec592f10d924f184e90f918c1da032b80fdaf1f597ee02a239a34c8d.jpg> トランプ氏 株価下落は必要な過程
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534734>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/a5e61b0a6260137d57fd0d527204c110e9b388fd520e06e42786e05fd1d8266f.jpg> 東京株 一時節目の3万1000円割れ
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534723>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/65b09903d35259d243f89b247e3b10e83d97096baa699ab7f5a0e0ad5ab729e5.jpg> 解散命令 旧統一教会が即時抗告
+      <a href=https://news.yahoo.co.jp/pickup/6534742>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f066ccc0eaf420304be75d24977dee95fb476ef8b61d845e5ce41c4dec9d616e.jpg> 両陛下が慰霊の旅 硫黄島に到着
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534727>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/716670e5ea4f4f453bd5068f48fe7d14222932fe2d80a149549167d13eeceb6b.jpg> ETC障害 100カ所以上に拡大
+      <a href=https://news.yahoo.co.jp/pickup/6534743>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/6002a58383e8a56e79a87576be374c8372bfab389391cd766e44e60ac2c45591.jpg> フォークリフト事故 子3人乗せる
       </a>
     </td>
   </tr>
@@ -427,23 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534738>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/69b71608f78ed6c9fbebad6e2c8c0cc9b0542d7129f4d04be0dfff480ea9f0c4.jpg> 訪問看護師切りつけ疑い 男を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534718>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/fa22557c30349911af67dc3a0a1880f7a5dabf18d9cd3f2a5f72ee28a95b6816.jpg> セブン店長自殺 半年無休で労災に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534724>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/532eb1c6fc6135a1bfacd0c16e628ee9fca0c05666712088a245eed3ddad1979.jpg> フジ役員報酬を減額 中居氏問題で
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/09b038ebf16397349531cb622e8cdfc928a4be2d88d79165a198bdddcf680b47.jpg> 訪問看護師切りつけ疑い 男を逮捕
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534725>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/e6f2feecb3b854cd9e3d0cc9a5c608e029ba416a7e7c400206ba2effa130df8f.jpg> 焼肉ライク 急成長からなぜ店舗減
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534726>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/eac5bb78b5a1dbeb2099b85dd5be5d4cfc67afce1936a69ce228131b0d7b8926.jpg> 小笠原 マイナーで4回7失点の乱調
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 13:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 14:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
