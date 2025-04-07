@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/707af9a87ede602c3875ee8ad7964739.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1e42b2841dc7422afdda8f7fb9f3a81.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b36636c61105ac7f4c2cec9ca331afc4013b4f09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、145円台後半＝終盤、売り買い交錯（7日午後5時）
+      <a href=https://news.yahoo.co.jp/articles/69fce507bb54bd09f0645c4fb7f859e8b992311f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010023-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ関税で中国株も大幅下落　中国政府は市場介入を公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de480182af9c32b2365817f139904fa58eab9936>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000097-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=861&ch=861&exp=10800&fmt=webp> ＮＨＫドラマ撮影現場で事故発生　装置誤作動で俳優１人が負傷
+      <a href=https://news.yahoo.co.jp/articles/671b0a48efbb7697ac41e0aebdc4ebbf4e3f2203>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00050127-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=330&ch=330&exp=10800&fmt=webp> 大船渡の山林火災、発生４１日目で「鎮火」宣言…焼失面積は平成以降で国内最大の２９００ヘクタール
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac1595ecab9a9985d75dc029c64d9642ca265fb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-07229041-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 旧統一教会が即時抗告「断固として戦っていく」 解散命令の地裁判断を不服　審理は東京高裁へ
+      <a href=https://news.yahoo.co.jp/articles/1b2ca884980cb531f0cb6ba90409d644f8bdfac8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00064804-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 万博会場にメタンガス『着火すれば爆発』去年３月には爆発事故も「きちんと対応していかなくてはいけない面もあるのかなと」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8fcb42599e31254af99743f9dcdcb335b9bdfdeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010004-parkblog-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=968&ch=968&exp=10800&fmt=webp> NEXCO中日本のETC障害、すべての料金所で復旧！ 障害中の通行料金はWeb手続き後に支払い【道路のニュース】
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ea9e368665ba09314e0b0565bf5fbeb9abff9862>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-08936517-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 【急落】石破首相「報復関税するつもりない」日経平均株価、下げ幅一時2900円超　取引時間中としては過去3番目「来週のうちには電話会談やりたい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/704648c32474cd3299034bfb650add42b782a76c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000139-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=1758&ch=1758&exp=10800&fmt=webp> 大阪・関西万博会場でメタンガス　基準値超え濃度検知、測定強化へ
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534766>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/164fc1558a3716bff5b6db3ad962733b27fcafc370ce8626264af8f2fa1ceccf.jpg> 大船渡市の山火事「鎮火」を宣言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534761>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/3c01e0175ce9a3b15defba15e273f52b16992d1ce31bcdd88475b9ab6a9ca7e5.jpg> 米景気後退確率45% ゴールドマン
       </a>
@@ -434,24 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534744>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/7431f12d92431c11850a3e5de975b41697751e8ad6ac4e6b59801ed51e20619d.jpg> 紅麹 香港ファンドが株主代表訴訟
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/5f7f965dcc0020157c535dcb867c8a18c32120c927774681a939765828955ff6.jpg> ゲレーロJr.14年730億円契約 報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/3f1020f3d4adfe2ea7c0a2a10ee0f65f31c8e1b9311088fdf82c5f2cd39c3935.jpg> 子供の入学式で遅刻 変わる芸能界
+      <a href=https://news.yahoo.co.jp/pickup/6534765>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/101ea231cbc5221d57c986d2c5b87e219476b764f8b876266d090c0bf66571fb.jpg> 長崎で山火事「ゴミ燃やし延焼」
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/3f1020f3d4adfe2ea7c0a2a10ee0f65f31c8e1b9311088fdf82c5f2cd39c3935.jpg> 子供の入学式で遅刻 変わる芸能界
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 17:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 18:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
