@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce01bd51fde86b63d163b47016218d0d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/285632c69d66e16af9c52f2ee0391949.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11a2a95acb0680a75e69a0ca8501a05ff4a2409d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229193-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「関税措置により日本企業の投資力が減退する」石破総理が強い懸念を伝える　トランプ大統領と電話会談　日米双方が担当閣僚を指名し協議継続
+      <a href=https://news.yahoo.co.jp/articles/355c95ec2ed78534cad92025ba3f848d0f7f1f9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050021-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=331&ch=331&exp=10800&fmt=webp> ＮＹダウ乱高下、一時１７００ドル超下落から９００ドル上昇…３４９ドル安３万７９６５ドル
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 05:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 05:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
