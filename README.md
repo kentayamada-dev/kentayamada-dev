@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/4kaGR1itB9g?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2ee1b033e8afce303e3ac4d99b893f39.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/67b63476c11885983c38bb6724f218b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3e89d6b9ab431ed9e3eabccd9109a0549c74c22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00340237-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＪＯＹ　“トランプショック”による株価下落に悲嘆「山手線で音楽聴きながら泣いてます」
+      <a href=https://news.yahoo.co.jp/articles/8a4bac0d29aff79684c12b04db9dc947dbd34769>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-02445784-sp_ctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ETC大規模障害「応急復旧が完了」料金徴収を再開　”解放措置”中の通行料金は事後清算を呼びかけ　NEXCO中日本
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0aed533569ea7fdc54fde9cd43b392dbf2791cec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010004-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 週明けも止まらない「トランプ・ショック」、日経平均一時3000円近い下落　トランプ氏、関税方針変えない姿勢強調
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/21fb61bc3559b755646338c360e8ed1c9bbf0baa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-98058197-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 米関税で市場は世界的に不安定、投資家は冷静に判断を－加藤金融相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/665cc6152f66d9899484535c5d4b8204e0e6c3fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00953809-fnnprimev-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「車体のバランス崩れて転落」フォークリフトから小1男児転落して死亡　父親（29）を現行犯逮捕　茨城・筑西市
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534748>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/5d4992754ea54fbbdcdea9f56b82d212a0cf384de280e54418ee9d6c4e6ac6bc.jpg> ETCの障害復旧 ネクスコ中日本
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534730>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/38bf63a3ec592f10d924f184e90f918c1da032b80fdaf1f597ee02a239a34c8d.jpg> トランプ氏 株価下落は必要な過程
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534734>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/a5e61b0a6260137d57fd0d527204c110e9b388fd520e06e42786e05fd1d8266f.jpg> 東京株 一時節目の3万1000円割れ
+      <a href=https://news.yahoo.co.jp/pickup/6534749>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/2b78c443eeea71ca79bf548491479813cb3b6dac0b1306af6748831e79d63043.jpg> 投資家は冷静な対応を 金融担当相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534742>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f066ccc0eaf420304be75d24977dee95fb476ef8b61d845e5ce41c4dec9d616e.jpg> 両陛下が慰霊の旅 硫黄島に到着
+      <a href=https://news.yahoo.co.jp/pickup/6534751>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/badb73a0764d1bab64295acc2d4392c0ef721ff4898cd1ca94087999800e3175.jpg> 日本製鉄工場 鉄カゴに挟まれ重体
       </a>
     </td>
   </tr>
@@ -434,22 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534738>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/09b038ebf16397349531cb622e8cdfc928a4be2d88d79165a198bdddcf680b47.jpg> 訪問看護師切りつけ疑い 男を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f371f23b1d780be6a9c983b1edadbc494a7ce07fadf37e37c7899ced11b7daa9.jpg> ファオファオ 市の救急車の音変化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534746>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/efcb01a3e51ef6798acf4cfd3a634c051870c833330346a65b3887bd13cb9754.jpg> 庶民の魚と高級魚 価格が逆転?
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534732>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/50d4505d019e33e1ac91c6dcdf07f139c9655c3e7738b2c3895b681d2162bfb4.jpg> 三笘 ドリブル目立たなくなった訳
+      <a href=https://news.yahoo.co.jp/pickup/6534745>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/6a5e7c8219861940789143aad14516bfe9683785720fc19f3c555b6ea32c734a.jpg> TDL、2足歩行の小型ロボ初公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534747>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/9888d060011d63ef8687323eb5181fba8f22d25fae290feab703a9f50916872d.jpg> 悩めるG戸郷 田中将大から金言
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 14:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 15:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
