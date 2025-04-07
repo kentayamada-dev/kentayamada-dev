@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/061fd2c486ff4844dd73382db3dc8aae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/72ef4c8e4ec16ef7e064e67918725380.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4aafa3561154f610afa66a450516595b01ac86f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-06353148-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相、トランプ大統領と電話会談　関税措置の見直し求める　日米双方の担当閣僚協議で一致
+      <a href=https://news.yahoo.co.jp/articles/53e3ac7bed91a396c2402816e1451b33634ff3f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領　USスチール買収計画の再審査を指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37bcd9a2b6d9334cbb725fb374762f5c73f384b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050003-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 壱岐島沖のヘリ事故で機長の事情聴取を開始…患者の女性と息子、医師の３人が死亡
+      <a href=https://news.yahoo.co.jp/articles/79437ca8e0d0620d34e76d88f20d3eb2548167e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229198-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 機長「操縦ミスではない」3人死亡の医療ヘリ事故　運航会社「点検で異常なし」 島民にとっては“命綱”…医師不足のため病院が自費で導入【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8150073444023a10752cb8f0ae2b0d23843c6fb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000002-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=468&ch=468&exp=10800&fmt=webp> NYダウ乱高下　トランプ関税“フェイクニュース”に振り回され
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4aafa3561154f610afa66a450516595b01ac86f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-06353148-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相、トランプ大統領と電話会談　関税措置の見直し求める　日米双方の担当閣僚協議で一致
       </a>
     </td>
   </tr>
@@ -379,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01307bfe88d180dc1fcd212a28cc775bdaf3cb68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954274-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 羽田空港で日本航空機が航空灯火と接触　けが人なし
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/0182917fff832338353a929fee481bb0a4896256e614f320e5ecbdf2558933b6.jpg> 米大統領と電話会談 強い懸念伝達
+      <a href=https://news.yahoo.co.jp/pickup/6534790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/a17fed21942fb04f77d4387b363e1e3c0563d192a239a361c18ff4264c78d3b6.jpg> USS買収 米大統領が再審査を指示
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534787>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/fcd1ff5aea1c9ac40c2b76a18d1044f9f28d9ce58bd9b686be2421dfddeca899.jpg> NYダウ 一時1600ドル以上下げる
+      <a href=https://news.yahoo.co.jp/pickup/6534792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/7a2c1f4e08170b7920fb54fe4d99acbf8392615e4bcf9094750e90bf60be5264.jpg> NYダウ乱高下 関税巡り虚偽報道
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 01:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 02:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
