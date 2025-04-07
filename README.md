@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/70d41ceb3c6fbb1f4a6391154d704da4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5a48bd46adafc66a4ee81768d3f8cdb6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f32b7e4bbdaed56d0e1c122de71a651ee7d025be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000091-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=874&ch=874&exp=10800&fmt=webp> 石破首相、トランプ氏に対米投資実績を説明へ　早期訪米に意欲も、交渉見通し立たず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3f0f34b65a1e1bf92ee713149fde2901b1de0787>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000067-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ETC障害、応急復旧完了　38時間ぶり再開　5日の作業は無関係
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f47077d3e416455fbd63e3baf0ec2e7ae01e930d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】岩手・大船渡市の大規模山火事　発生41日目で鎮火　市が発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/84d050d7d067d92c50cb4012e6ae802ba154cfdf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-03147521-fbc-000-1-thumb.jpg?exp=10800&fmt=webp> 県内にもトランプショック　証券会社には投資家から問い合わせ相次ぐ　世界経済の減速を懸念　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b97462d9441b67f96f942cd7ed62e3e804d91c5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000198-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1066&ch=1066&exp=10800&fmt=webp> 首相、関税で早期電話会談に意欲　米トランプ大統領と
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f669607fa4e4eb07b1ad2fdd7b6fe056a1528b84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000067-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 『魚雷バット』、早ければ5月にも解禁へ…NPB中村事務局長「前向きです」ルール違反なしを確認　メジャーで本塁打量産し話題
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a616dac7db739fd3464287076039df61c577dfca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 山林火災、鎮火を宣言　発生から40日　岩手・大船渡
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-03147521-fbc-000-2-thumb.jpg?exp=10800&fmt=webp> 県内にもトランプショック　証券会社には投資家から問い合わせ相次ぐ　世界経済の減速を懸念　
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534754>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/909233f6617a748945eb6f46bc68ebf6bd9dabbd1915238f4428f3ea6d528b5a.jpg> 福島第1周辺の海水異常なし 中国
+      <a href=https://news.yahoo.co.jp/pickup/6534753>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/a2de9f0bd84dba0bf66485e5252a02d23bdb29b527abfedf190ec23265589397.jpg> 医療ヘリ事故 国が調査官を派遣
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/abff54533d87cb45290a63eb6f57880936a0df60a8482869fe7052e5d383039d.jpg> ホンダ青山副社長辞任 不適切行為
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534767>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/d264ea621f856cd490f797914ffa5bcbb1d357c1bede174f767d5d7f0690c4c1.jpg> コメ平均価格 5kgあたり4206円に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534766>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/e09992ba5eb4b2c5b166df29cc9a133a5eb55b894170c7793305dbebcd5e5f0a.jpg> 大船渡市の山火事「鎮火」を宣言
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 19:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 20:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
