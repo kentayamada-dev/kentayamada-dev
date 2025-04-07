@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6323f1c22298c21725ff150c9aa58951.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/988c1160d992dbee61129813cdcefea7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e900c6ec178c2a73dac3c3e52c01ba2a319dbaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07761979-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 国連6機関、ガザ地区緊急停戦の呼びかけで共同声明　戦闘再開後に死亡者数増加で
+      <a href=https://news.yahoo.co.jp/articles/37bfa01546bfe10398bb6023053a42cf097791d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-01832768-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 7日の米NYダウ平均株価、一時1700ドル超下げ　関税措置「90日間停止」誤情報で急反発など乱高下
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ee7d326d97c3b06591926fc903448266f744620>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 関税偽情報で米株乱高下　トランプ氏が90日停止？　
+      <a href=https://news.yahoo.co.jp/articles/06ceec8921d8e27b53b8af76bd40576e95ef9581>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-04081009-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、３試合ぶり安打で開幕１２試合連続出塁　“トランプパワー”で２年連続“米首都弾”なるか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57dcf534b8178d3edfb461b72cb6f6980eec2ff8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-06641489-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日本製鉄「トランプ氏に感謝」USS買収計画再審査指示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a7ebe640ac58e7e317efe5377b427c7108c5c628>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000003-at_s-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=244&ch=244&exp=10800&fmt=webp> ETC障害の応急復旧が完了　静岡県内高速道、最大16カ所のICに影響
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/62aa0870111c7976e64d538d3678a711a6799ef3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000006-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ大統領「中国に５０％の追加関税…他の国とはすぐに交渉開始」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f04d854ac597fac3b647b532e9c07d1917ca0c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954301-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大谷翔平選手×トランプ大統領　初対面で握手＆肩ポンポン　笑顔でツーショット撮影も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d3909fa56e3ddfb15a290a2f83f5c9ffc25b07f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954297-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が日本製鉄のUSスチール買収計画の再審査を指示　交渉前進か
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/7a2c1f4e08170b7920fb54fe4d99acbf8392615e4bcf9094750e90bf60be5264.jpg> NYダウ乱高下 関税巡り虚偽報道
+      <a href=https://news.yahoo.co.jp/pickup/6534795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/032a1f9f054b1fd40d224e6fd7e9bf23749614c9308323d114f0d09d59f236ff.jpg> コメ価格「最高値」今後の動向は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534795>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/032a1f9f054b1fd40d224e6fd7e9bf23749614c9308323d114f0d09d59f236ff.jpg> コメ価格「最高値」今後の動向は
+      <a href=https://news.yahoo.co.jp/pickup/6534796>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/84f847d0e0d914230f36dcf0413d0d3bee889345a55994f23879d8e9b3525d44.jpg> 米大統領 中国に50%追加関税示唆
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/529e9ac42d8695f28a66d8c30022fc237f765e5642ba61f85927a33be0078a31.jpg> 事故ヘリ機長 運航中に異常察知か
+      <a href=https://news.yahoo.co.jp/pickup/6534794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/2e6d66317e46b702749491b0c32615aacb9bda5169ba7d6832eff22fda58cd07.jpg> 浜松事故 姉に妹の死を伝えた父親
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534794>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/2e6d66317e46b702749491b0c32615aacb9bda5169ba7d6832eff22fda58cd07.jpg> 浜松事故 姉に妹の死を伝えた父親
+      <a href=https://news.yahoo.co.jp/pickup/6534798>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/1abaf33e45544fbaded7b59d2450a55ff7ecbd7d32a31e82bea0d4d7470c9638.jpg> 都営バスに9歳置き去り 点検怠る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 07:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 08:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
