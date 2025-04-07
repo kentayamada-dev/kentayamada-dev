@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/536be25d06c24d990bbe1a63621d01cf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4556f5c1357aac47368f4115f193b6ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/64a20322e6db89d5c6c179fcc522a3fd7d677c8180f3842134696d5aac4c4828.jpg> 韓国大統領選 6月3日に投票へ
+      <a href=https://news.yahoo.co.jp/pickup/6534774>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/4d7f6b008dfb29a0f267110e157e59287d57423be67104694e912ef245140466.jpg> 世界日報巡る報道「事実」と首相
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534762>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/d4c3dc92422847c9f7816424422d54f8eaead98a6f6eae0b7f83c52a7680d491.jpg> NHK撮影中に事故 鼓膜の一部損傷
+      <a href=https://news.yahoo.co.jp/pickup/6534779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f7ec885e8a7aa76686bfacea3959a86aa908c55c233d5be331f50777b755b854.jpg> SNS投稿巡り改善勧告 日ハム謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534769>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/0d9e7dfcefbbdae8317d1d7cd81b2413e01b4725234e91c1470edb657297f084.jpg> NPB 魚雷バット導入に「前向き」
+      <a href=https://news.yahoo.co.jp/pickup/6534762>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/d4c3dc92422847c9f7816424422d54f8eaead98a6f6eae0b7f83c52a7680d491.jpg> NHK撮影中に事故 鼓膜の一部損傷
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 21:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 21:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
