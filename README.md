@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/4kaGR1itB9g?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/36b4d9e80f688ae01acc22e8bb816cb9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2ee1b033e8afce303e3ac4d99b893f39.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a570211e45df80b1f95b2538b16308beffa8b47d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕下値もみ合い＝前場の流れ引き継ぐ（7日後場寄り付き）
+      <a href=https://news.yahoo.co.jp/articles/a3e89d6b9ab431ed9e3eabccd9109a0549c74c22>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00340237-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＪＯＹ　“トランプショック”による株価下落に悲嘆「山手線で音楽聴きながら泣いてます」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/21fb61bc3559b755646338c360e8ed1c9bbf0baa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-98058197-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 米関税で市場は世界的に不安定、投資家は冷静に判断を－加藤金融相
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/665cc6152f66d9899484535c5d4b8204e0e6c3fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00953809-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「車体のバランス崩れて転落」フォークリフトから小1男児転落して死亡　父親（29）を現行犯逮捕　茨城・筑西市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00953809-fnnprimev-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「車体のバランス崩れて転落」フォークリフトから小1男児転落して死亡　父親（29）を現行犯逮捕　茨城・筑西市
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4b90a5b9433c92703e917d3f6625f68a7e64f2bc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000033-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 旧統一教会「結論ありきの決定」　解散命令、東京高裁に即時抗告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f321b25b4e5cfebe8a97803845deacb37b0b4798>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00081537-toushin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=299&ch=299&exp=10800&fmt=webp> 【日経平均株価考察】トランプ関税による貿易戦争懸念で大きく下落か
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534725>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/e6f2feecb3b854cd9e3d0cc9a5c608e029ba416a7e7c400206ba2effa130df8f.jpg> 焼肉ライク 急成長からなぜ店舗減
+      <a href=https://news.yahoo.co.jp/pickup/6534733>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f371f23b1d780be6a9c983b1edadbc494a7ce07fadf37e37c7899ced11b7daa9.jpg> ファオファオ 市の救急車の音変化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534726>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/eac5bb78b5a1dbeb2099b85dd5be5d4cfc67afce1936a69ce228131b0d7b8926.jpg> 小笠原 マイナーで4回7失点の乱調
+      <a href=https://news.yahoo.co.jp/pickup/6534746>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/efcb01a3e51ef6798acf4cfd3a634c051870c833330346a65b3887bd13cb9754.jpg> 庶民の魚と高級魚 価格が逆転?
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 14:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 14:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
