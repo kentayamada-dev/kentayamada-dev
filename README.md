@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9183df6b63ff4ad171be52d28da43ce.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e08c86b3c05d06d590dc03bf76a4d22e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb2686f7c029a6f5519aa54fa707304c383b9a4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00078313-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプに幻滅するウォール街　フォーブス調査　経済政策「効果なし」72％
+      <a href=https://news.yahoo.co.jp/articles/5ece5d0be4d483268fc9d48c407476a47e8a63c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> アジア株も軒並み急落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3dc65dfcf0964cd88cdc0aab7442eae9955fe28d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00050055-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ガザ住民９割が食料不足、家族７人で残った水とパン分け合う…戦闘開始から１年半「毎日が地獄」
+      <a href=https://news.yahoo.co.jp/articles/f5f45a55d83cbfc44a3867a2c2053be64d41cc1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-17107894-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=599&ch=599&exp=10800&fmt=webp> イスラエル軍、ガザ救急隊員ら15人殺害に関し説明変更　当時の映像が浮上
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfa20a78a43eb6765302bc402abc50d82b19e5fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00050059-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 旧統一教会が即時抗告…違法な献金勧誘で２０４億円被害と認定した東京地裁の解散命令に不服
+      <a href=https://news.yahoo.co.jp/articles/d7e0241ae0e729ebbead900a2d10b8406b33d2ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-07229008-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 3人死亡の長崎県壱岐沖ヘリコプター事故　エス・ジー・シー佐賀航空では去年7月にもヘリ墜落　国の運輸安全委員会が調査官を現地に派遣予定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7c4c97c1493ae5f5a9caa5f4accd2dd6d60f9d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000028-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=503&ch=503&exp=10800&fmt=webp> 日経平均株価、一時2900円超下落　1年半ぶり3万1000円割れ
+      <a href=https://news.yahoo.co.jp/articles/965946ab76d56e281d67b7bb18905dfaf94f295b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000020-ann-000-1-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”で週明けも株価大幅続落 「3万円割り込む可能性も」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4513aade7c0a49e9d4f0b78edafa883c6ded927e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-90022170-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 医療ヘリ搬送中に不時着水　患者ら3人死亡　病院長「悲痛の極み」　去年7月にも事故
+      <a href=https://news.yahoo.co.jp/articles/69ea6e02dabd932f79441301edca43ed2def8979>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-02543846-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> “統一教会”「最善を尽くして闘う方針」　東京地裁の解散命令決定に不服、即時抗告
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534706>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/ab8ccc7a17daae5f15ab75671c56feee650a2e81847d9c4c9aa99703fa6aad0f.jpg> トランプ関税 なぜロシアを除外
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/70ed73bd04117a6bb14984f3005ec3ac07358eec96676d2826382003a7e75b7d.jpg> 走行中の車から10代女性転落 重体
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/6039330a9be83a53c0232a8598f98eb83ea503dd3333cc3a788086c8942c1c85.jpg> 走行中の車から10代女性転落 重体
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/9d9fea7c869b6fe7d979747052da530d6da99f06b175f3e7127baa374e9ffe9e.jpg> 多汗症を赤裸々に発信 女性の思い
+      <a href=https://news.yahoo.co.jp/pickup/6534724>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/532eb1c6fc6135a1bfacd0c16e628ee9fca0c05666712088a245eed3ddad1979.jpg> フジ役員報酬を減額 中居氏問題で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534725>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/e6f2feecb3b854cd9e3d0cc9a5c608e029ba416a7e7c400206ba2effa130df8f.jpg> 焼肉ライク 急成長からなぜ店舗減
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 11:31:09 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 12:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
