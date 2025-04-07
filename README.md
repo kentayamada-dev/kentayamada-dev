@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eafea420d3c5d024748283ec6e6cf5d5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fdf7eb9942c8124133e89cfb9c46d397.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bef55e3bed70c3f0f30a019b739ac61176c57e1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、145円台後半＝買い一巡後は伸び悩む（7日午後3時）
+      <a href=https://news.yahoo.co.jp/articles/af1da9eb5932028122636a3399f4186c57198a4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-34070600-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 山口真由信州大特任教授　トランプ関税を批判「すごい雑」「暴走しちゃってる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41eb580645f89f2d12a55ade0507d67a29e1e364>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000038-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ETC障害が8都県で復旧、仮プログラムで　NEXCO中日本が発表
+      <a href=https://news.yahoo.co.jp/articles/d6dd0f691dc6e0a13f3bf3d614f8c98a5c45fe51>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010003-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルがガザ中部を空爆　パレスチナ人30人超が死亡  
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/104140a544190bcb5a8e0c487f74317c04ac9032>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-16944918-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「薬が必要」とトランプ氏、関税めぐる強硬路線の維持強調　アジア市場は続落
+      <a href=https://news.yahoo.co.jp/articles/8a06a70979fbcf0f1d415b7298e1761a85aadfef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000084-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 台湾株10％近く急落、過去最大の下げ　ＴＳＭＣと鴻海の取引一時停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fa09d4af98c5f813423f9519b7532c6cd947835f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010007-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ブルージェイズが「14年730億円」でゲレーロJr.と契約延長　21年は「オオタニの実力がなければ」MVPと米報道
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4b90a5b9433c92703e917d3f6625f68a7e64f2bc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000033-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 旧統一教会「結論ありきの決定」　解散命令、東京高裁に即時抗告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5f45a55d83cbfc44a3867a2c2053be64d41cc1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-17107894-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=599&ch=599&exp=10800&fmt=webp> イスラエル軍、ガザ救急隊員ら15人殺害に関し説明変更　当時の映像が浮上
       </a>
     </td>
   </tr>
@@ -410,6 +410,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534749>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/2b78c443eeea71ca79bf548491479813cb3b6dac0b1306af6748831e79d63043.jpg> 投資家は冷静な対応を 金融担当相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534756>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/cb5962746add6472634b8d8c8d0957d860858e7dfa46972869540e1ac3a16429.jpg> 終値3万1136円 過去3番目の下げ幅
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534730>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/38bf63a3ec592f10d924f184e90f918c1da032b80fdaf1f597ee02a239a34c8d.jpg> トランプ氏 株価下落は必要な過程
       </a>
@@ -418,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534749>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/2b78c443eeea71ca79bf548491479813cb3b6dac0b1306af6748831e79d63043.jpg> 投資家は冷静な対応を 金融担当相
+      <a href=https://news.yahoo.co.jp/pickup/6534755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/82e488e4c5cfa4b2a4d50dd08436e4983dfb819bd598c3179d5a20071efb05a6.jpg> 山口組 神戸山口組と抗争終結意向
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534745>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/6a5e7c8219861940789143aad14516bfe9683785720fc19f3c555b6ea32c734a.jpg> TDL、2足歩行の小型ロボ初公開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534747>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/9888d060011d63ef8687323eb5181fba8f22d25fae290feab703a9f50916872d.jpg> 悩めるG戸郷 田中将大から金言
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 15:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 16:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
