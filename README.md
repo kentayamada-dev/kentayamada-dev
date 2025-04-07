@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f63c2d6f459d5d658e9a21df3bfb499d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a32ef4abfea09525e09f9d968b51e080.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a570211e45df80b1f95b2538b16308beffa8b47d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕下値もみ合い＝前場の流れ引き継ぐ（7日後場寄り付き）
+      <a href=https://news.yahoo.co.jp/articles/aab374db440477157faf8dd667cfd4e9e7246419>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-03642469-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】訪問看護師を切りつけ…殺人未遂容疑で男（86）を逮捕　「殺すつもりなかった」大阪・西成区
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43d1d10965ad70367f254d25cec1e88f26bee74f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010001-suntvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 東証　一時3万1000円割れ　日経平均株価が大幅下落／兵庫県
+      <a href=https://news.yahoo.co.jp/articles/a570211e45df80b1f95b2538b16308beffa8b47d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕下値もみ合い＝前場の流れ引き継ぐ（7日後場寄り付き）
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a959a90c49b3d5b7f7feb3095c4df77dfa01014>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-14932817-kbcv-000-2-thumb.jpg?exp=10800&fmt=webp> 医療搬送ヘリ対馬沖に不時着水・３人死亡事故　運航会社が会見「事故原因は現在不明」
+      <a href=https://news.yahoo.co.jp/articles/f321b25b4e5cfebe8a97803845deacb37b0b4798>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00081537-toushin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=299&ch=299&exp=10800&fmt=webp> 【日経平均株価考察】トランプ関税による貿易戦争懸念で大きく下落か
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534720>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/5874506d677d2587624cefdf1bdd991b4d1966d5e35dbd4024883379d4a2bb8b.jpg> ヘリ事故 患者と息子と医師が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6534738>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/69b71608f78ed6c9fbebad6e2c8c0cc9b0542d7129f4d04be0dfff480ea9f0c4.jpg> 訪問看護師切りつけ疑い 男を逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 13:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 13:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
