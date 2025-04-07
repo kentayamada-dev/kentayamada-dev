@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a48bd46adafc66a4ee81768d3f8cdb6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea2904ef6daee5eb6b5cbd0371b4bf7a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f32b7e4bbdaed56d0e1c122de71a651ee7d025be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000091-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=874&ch=874&exp=10800&fmt=webp> 石破首相、トランプ氏に対米投資実績を説明へ　早期訪米に意欲も、交渉見通し立たず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000091-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=874&ch=874&exp=10800&fmt=webp> 石破首相、トランプ氏に対米投資実績を説明へ　早期訪米に意欲も、交渉見通し立たず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f0f34b65a1e1bf92ee713149fde2901b1de0787>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000067-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ETC障害、応急復旧完了　38時間ぶり再開　5日の作業は無関係
+      <a href=https://news.yahoo.co.jp/articles/474f50520bb45ef6096cc58c5edbc71951930563>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000093-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=837&ch=837&exp=10800&fmt=webp> 石破首相、「世界日報」から取材　地方相在任中、15年掲載
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534760>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/214e569b25b0c023dbabb0315428e4c04b1b32692ce903a6aa72e312b0e5f203.jpg> 首相 関税巡り日本の「公正」強調
+      <a href=https://news.yahoo.co.jp/pickup/6534772>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f07170d4c4b8ed265c0a74444e510960fd14e8c6a9b28f89214ad38b7dedae19.jpg> 首相 関税巡り7日夜にも電話会談
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 20:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 20:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
