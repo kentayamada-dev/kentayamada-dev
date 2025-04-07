@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0a0ca46125c0980f57b3b78c9620ef49.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5a15c694e8a70063f387d72c11b83858.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/696d506f017226e7132753f34bbeb9271f6429c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「教団、反省していない」　2世が批判の声、早期解散求める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/76c782b3cce437f5063847741decae824b883376>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010018-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 台湾株も急落　TSMC・鴻海が一時取引中断　トランプ『相互関税』の衝撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5cc78836b17b250e33fdb88679c6d0eba872b045>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-06174546-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日経平均、一時3000円近く下落　終値は過去3番目の下げ幅“トランプ関税”影響
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5555c732f70c92019c06795a0822879e4d12f93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000091-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 日経平均は大幅に3日続落、一時3万1000円割れ　1年半ぶり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/43ebb1acb384c875ff7641840981fc115e12463b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04071108-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=713&ch=713&exp=10800&fmt=webp> 子どもの入学式でＭＣ遅刻　変わる芸能界…プライベート尊重にネットは好感「いい時代だ」「働き方改革」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04071108-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=713&ch=713&exp=10800&fmt=webp> 子どもの入学式でＭＣ遅刻　変わる芸能界…プライベート尊重にネットは好感「いい時代だ」「働き方改革」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b90a5b9433c92703e917d3f6625f68a7e64f2bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000033-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 旧統一教会「結論ありきの決定」　解散命令、東京高裁に即時抗告
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534748>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/5d4992754ea54fbbdcdea9f56b82d212a0cf384de280e54418ee9d6c4e6ac6bc.jpg> ETCの障害復旧 ネクスコ中日本
+      <a href=https://news.yahoo.co.jp/pickup/6534759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> トランプ関税に補正予算 政府検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534754>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/909233f6617a748945eb6f46bc68ebf6bd9dabbd1915238f4428f3ea6d528b5a.jpg> 福島第1周辺の海水異常なし 中国
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534755>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/82e488e4c5cfa4b2a4d50dd08436e4983dfb819bd598c3179d5a20071efb05a6.jpg> 山口組 神戸山口組と抗争終結意向
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534743>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/6002a58383e8a56e79a87576be374c8372bfab389391cd766e44e60ac2c45591.jpg> フォークリフト事故 子3人乗せる
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 16:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 17:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
