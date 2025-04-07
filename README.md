@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/4kaGR1itB9g?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3dbdfd730912a38bd78537c0da3982a0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9895c16b0c591f4ef7606348a9bae98.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36f5cf19660bdc5948b8975cc13c60e6b1f363ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-10172534-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=447&ch=447&exp=10800&fmt=webp> 「トランプ大統領とは今後も率直かつ建設的な協議を続けていく」石破総理が電話会談 元官僚・門ひろこ氏「言い合いになってた可能性もある」
+      <a href=https://news.yahoo.co.jp/articles/74f1e4ce20eb1489e70560b3c0c9e3add5b1b09f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000091-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=619&ch=619&exp=10800&fmt=webp> 石破首相「直接会談、当然考える」　関税巡り、トランプ氏と電話協議
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/82ccd3e3aceee52aa81b3b2e3b92bcc7e9e6fd66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000475-oric-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=415&ch=415&exp=10800&fmt=webp> 万博「メタンガス検知」は大型ライブ予定の野外アリーナ付近　対応策を説明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000475-oric-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=415&ch=415&exp=10800&fmt=webp> 万博「メタンガス検知」は大型ライブ予定の野外アリーナ付近　対応策を説明
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b338d7549d49edf7c1f786c29c06fff310920167>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000078-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=561&ch=561&exp=10800&fmt=webp> 日経平均2644円安　過去3番目の下げ幅　トランプ関税で動揺
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000078-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=561&ch=561&exp=10800&fmt=webp> 日経平均2644円安　過去3番目の下げ幅　トランプ関税で動揺
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/b46f13ef16947428e68ff0e8568dabc0635e3d2e4371cb29c707d8b31cd28cbb.jpg> 米はしか流行 子ども2人目が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6534787>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/fcd1ff5aea1c9ac40c2b76a18d1044f9f28d9ce58bd9b686be2421dfddeca899.jpg> NYダウ 一時1600ドル以上下げる
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 23:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 23:31:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
