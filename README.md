@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3ba3c2457c5a5a06936c2881d7af0de3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9183df6b63ff4ad171be52d28da43ce.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f683747e7d2012a499d65213a7feda8e8d2d0e66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=428&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 株価大幅下落のなか注目されるFRB・日本銀行の政策対応
+      <a href=https://news.yahoo.co.jp/articles/fb2686f7c029a6f5519aa54fa707304c383b9a4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00078313-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプに幻滅するウォール街　フォーブス調査　経済政策「効果なし」72％
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cac3f1f38b963d29ef31a816e9385131eacf6410>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000022-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=508&ch=508&exp=10800&fmt=webp> 「あってはならない」へき地医療に衝撃　長崎・壱岐島ヘリ事故
+      <a href=https://news.yahoo.co.jp/articles/3dc65dfcf0964cd88cdc0aab7442eae9955fe28d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00050055-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ガザ住民９割が食料不足、家族７人で残った水とパン分け合う…戦闘開始から１年半「毎日が地獄」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b65090173a6b56713ea9490c82ce3c6ef7b4a0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000020-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「こども、ころさないで」　ガザ戦闘1年半、熊本で街頭抗議
+      <a href=https://news.yahoo.co.jp/articles/bfa20a78a43eb6765302bc402abc50d82b19e5fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00050059-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 旧統一教会が即時抗告…違法な献金勧誘で２０４億円被害と認定した東京地裁の解散命令に不服
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d4ebde6abd3970c350cfb8a82db8623cc02517d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博会場で高濃度ガス検出　昨年3月に爆発事故の工区で　大阪府民招待のテストラン実施中
+      <a href=https://news.yahoo.co.jp/articles/f7c4c97c1493ae5f5a9caa5f4accd2dd6d60f9d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000028-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=503&ch=503&exp=10800&fmt=webp> 日経平均株価、一時2900円超下落　1年半ぶり3万1000円割れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/136b92678896fc1dc979b979f55579728b767eb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04579596-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】日経平均株価、一時3000円近く値下がり　約1年半ぶりの3万1000円割れ“トランプ関税ショック”の株安止まらず
+      <a href=https://news.yahoo.co.jp/articles/4513aade7c0a49e9d4f0b78edafa883c6ded927e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-90022170-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 医療ヘリ搬送中に不時着水　患者ら3人死亡　病院長「悲痛の極み」　去年7月にも事故
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534709>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/11/27/9b76f15520dc650cfd985b9062832543d237da6702e602776b9611b59cfd4323.jpg> 夫婦別姓議論に熱 野党は連携難航
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534720>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/5874506d677d2587624cefdf1bdd991b4d1966d5e35dbd4024883379d4a2bb8b.jpg> ヘリ事故 患者と息子と医師が死亡
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534713>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/0e125ff29dcf71a05d2f99381135fbd3722949baab0fa64bcb8c7ee599e3447b.jpg> ジャパネットクルーズ 好調の背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534716>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/9d9fea7c869b6fe7d979747052da530d6da99f06b175f3e7127baa374e9ffe9e.jpg> 多汗症を赤裸々に発信 女性の思い
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534705>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/4c5b43aed05e42ae363af339aec322af2e577037753c76b7f38088d6555ee4d5.jpg> ドジャース衝撃 早くも故障者続出
+      <a href=https://news.yahoo.co.jp/pickup/6534722>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/309059a81edb02808f95833aa6bb5e7dcd08f95d958747eb366f432ee87e8fac.jpg> 2児の父・ひょっこりはんの今
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 11:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 11:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
