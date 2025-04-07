@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d9234c246328ee976be2f91e001cd6d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f3a2994c34f0c4ccdc9bae2d2dc9b290.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0573c1a69b4049613e51adb9a68b8a4c6313ab4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-05593658-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大谷翔平選手らドジャース選手がトランプ大統領と面会「あなたは素晴らしいアスリート」
+      <a href=https://news.yahoo.co.jp/articles/9d3909fa56e3ddfb15a290a2f83f5c9ffc25b07f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954297-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が日本製鉄のUSスチール買収計画の再審査を指示　交渉前進か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0665c6eecccf84749bbd461f7ac2041b1a09a12b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000015-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米国株式市場＝ダウ・Ｓ＆Ｐ続落、関税巡り乱高下　トランプ氏強気姿勢
+      <a href=https://news.yahoo.co.jp/articles/02765f629efdfeb798472bc1323683499d84e511>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=314&ch=314&exp=10800&fmt=webp> 石破氏、トランプ氏と「関税通話」…最大の対米投資国を強調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87adcaea1029afdaa0f566e6a75fefef579da77b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-02171963-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日本製鉄のUSスチール買収計画、トランプ大統領が再審査を指示
+      <a href=https://news.yahoo.co.jp/articles/646548f066f60abe0d0c77802a07ab3a69d6b7ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-34080063-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> 大谷翔平、上下紺色のスーツ＆ネクタイ姿でトランプ大統領と握手　ガッチリを手を握る瞬間が公開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01dfd7a8f536fdc90e1e7e1137f62dd11f6da774>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000039-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=316&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> NY株1年1カ月ぶり安値　3日続落、関税巡り乱高下
+      <a href=https://news.yahoo.co.jp/articles/34bddc4867722c0393e05ec50713e80f6036824f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NYダウ続落、349ドル安　3営業日続落、乱高下する場面も
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7f38d777474aadb2e9612ad0903571968f9dcaa9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000031-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=29&cw=640&ch=640&exp=10800&fmt=webp> ガザ停戦を協議　米イスラエル首脳
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000031-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=29&cw=640&ch=640&exp=10800&fmt=webp> ガザ交渉「新たな案」言及　人質解放へイスラエル首相
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534786>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/e14c573721d90604f80e0b40a36f836255050ee0e2f15abf6a8b3a3e948d6735.jpg> 日航機が航空灯火に接触 羽田空港
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534792>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/7a2c1f4e08170b7920fb54fe4d99acbf8392615e4bcf9094750e90bf60be5264.jpg> NYダウ乱高下 関税巡り虚偽報道
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/529e9ac42d8695f28a66d8c30022fc237f765e5642ba61f85927a33be0078a31.jpg> 事故ヘリ機長 運航中に異常察知か
+      <a href=https://news.yahoo.co.jp/pickup/6534795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/032a1f9f054b1fd40d224e6fd7e9bf23749614c9308323d114f0d09d59f236ff.jpg> コメ価格「最高値」今後の動向は
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534780>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/521ed5fde28b89e3ea7e28c6b80393adec36db9cbaa6012a3948172cb506f90a.jpg> ホンダ副社長辞任 警察に告訴状
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/529e9ac42d8695f28a66d8c30022fc237f765e5642ba61f85927a33be0078a31.jpg> 事故ヘリ機長 運航中に異常察知か
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 06:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 07:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
