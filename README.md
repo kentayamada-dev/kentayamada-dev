@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a15c694e8a70063f387d72c11b83858.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/707af9a87ede602c3875ee8ad7964739.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/696d506f017226e7132753f34bbeb9271f6429c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「教団、反省していない」　2世が批判の声、早期解散求める
+      <a href=https://news.yahoo.co.jp/articles/b36636c61105ac7f4c2cec9ca331afc4013b4f09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、145円台後半＝終盤、売り買い交錯（7日午後5時）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76c782b3cce437f5063847741decae824b883376>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010018-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 台湾株も急落　TSMC・鴻海が一時取引中断　トランプ『相互関税』の衝撃
+      <a href=https://news.yahoo.co.jp/articles/de480182af9c32b2365817f139904fa58eab9936>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000097-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=861&ch=861&exp=10800&fmt=webp> ＮＨＫドラマ撮影現場で事故発生　装置誤作動で俳優１人が負傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5cc78836b17b250e33fdb88679c6d0eba872b045>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-06174546-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日経平均、一時3000円近く下落　終値は過去3番目の下げ幅“トランプ関税”影響
+      <a href=https://news.yahoo.co.jp/articles/ac1595ecab9a9985d75dc029c64d9642ca265fb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-07229041-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 旧統一教会が即時抗告「断固として戦っていく」 解散命令の地裁判断を不服　審理は東京高裁へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43ebb1acb384c875ff7641840981fc115e12463b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04071108-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=713&ch=713&exp=10800&fmt=webp> 子どもの入学式でＭＣ遅刻　変わる芸能界…プライベート尊重にネットは好感「いい時代だ」「働き方改革」
+      <a href=https://news.yahoo.co.jp/articles/ea9e368665ba09314e0b0565bf5fbeb9abff9862>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-08936517-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 【急落】石破首相「報復関税するつもりない」日経平均株価、下げ幅一時2900円超　取引時間中としては過去3番目「来週のうちには電話会談やりたい」
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/704648c32474cd3299034bfb650add42b782a76c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大阪・関西万博会場でメタンガス　基準値超え濃度検知、測定強化へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000139-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=1758&ch=1758&exp=10800&fmt=webp> 大阪・関西万博会場でメタンガス　基準値超え濃度検知、測定強化へ
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534756>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/011c14162aa9983e5e85435be062bda3798576757aa6d7442d133e962326e219.jpg> 終値3万1136円 過去3番目の下げ幅
+      <a href=https://news.yahoo.co.jp/pickup/6534761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/3c01e0175ce9a3b15defba15e273f52b16992d1ce31bcdd88475b9ab6a9ca7e5.jpg> 米景気後退確率45% ゴールドマン
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/ff9a755b186af90d3d7dcdf3b226e7ac34f270a328d6a036008a99055de49346.jpg> 24年度「飲み屋」の倒産 過去最多
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534746>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/efcb01a3e51ef6798acf4cfd3a634c051870c833330346a65b3887bd13cb9754.jpg> 庶民の魚と高級魚 価格が逆転?
+      <a href=https://news.yahoo.co.jp/pickup/6534744>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/7431f12d92431c11850a3e5de975b41697751e8ad6ac4e6b59801ed51e20619d.jpg> 紅麹 香港ファンドが株主代表訴訟
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534762>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/d4c3dc92422847c9f7816424422d54f8eaead98a6f6eae0b7f83c52a7680d491.jpg> NHK撮影中に事故 鼓膜の一部損傷
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 17:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 17:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
