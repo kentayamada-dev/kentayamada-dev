@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ad6c1256dab2d5f28acb6fa5c12bc1ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d9234c246328ee976be2f91e001cd6d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b9cf35bde1fc9bb95ea9c3b1d1a9a74f0de8286>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000016-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 元外務審議官の田中均氏「『大統領』と呼ぶのはおこがましい」トランプ米大統領の関税強化を批判「世界は彼を止めることを真剣に検討すべき」
+      <a href=https://news.yahoo.co.jp/articles/d0573c1a69b4049613e51adb9a68b8a4c6313ab4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-05593658-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大谷翔平選手らドジャース選手がトランプ大統領と面会「あなたは素晴らしいアスリート」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85c6cf8bfac9ce61ce0af23a1fa6c76e3b586d33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ3日続落、349ドル安＝米関税で景気後退懸念（7日）☆差替
+      <a href=https://news.yahoo.co.jp/articles/0665c6eecccf84749bbd461f7ac2041b1a09a12b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000015-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米国株式市場＝ダウ・Ｓ＆Ｐ続落、関税巡り乱高下　トランプ氏強気姿勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/87adcaea1029afdaa0f566e6a75fefef579da77b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-02171963-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日本製鉄のUSスチール買収計画、トランプ大統領が再審査を指示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/01dfd7a8f536fdc90e1e7e1137f62dd11f6da774>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000039-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=316&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> NY株1年1カ月ぶり安値　3日続落、関税巡り乱高下
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7f38d777474aadb2e9612ad0903571968f9dcaa9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000031-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=29&cw=640&ch=640&exp=10800&fmt=webp> ガザ停戦を協議　米イスラエル首脳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53e3ac7bed91a396c2402816e1451b33634ff3f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領　USスチール買収計画の再審査を指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79437ca8e0d0620d34e76d88f20d3eb2548167e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229198-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 機長「操縦ミスではない」3人死亡の医療ヘリ事故　運航会社「点検で異常なし」 島民にとっては“命綱”…医師不足のため病院が自費で導入【news23】
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534789>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/b51f3e0d7c19836335fb0b982d8c967054f0e3769f085937fea1f168a8a77a6c.jpg> 吉野家 牛丼の大盛り696円→740円
+      <a href=https://news.yahoo.co.jp/pickup/6534794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/2e6d66317e46b702749491b0c32615aacb9bda5169ba7d6832eff22fda58cd07.jpg> 浜松事故 姉に妹の死を伝えた父親
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f7ec885e8a7aa76686bfacea3959a86aa908c55c233d5be331f50777b755b854.jpg> SNS投稿巡り改善勧告 日ハム謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6534793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/73c4484a8b277d55e01b01e44d3034cf9556fc29fd7885b7a1d46895f4a2aaaa.jpg> 大谷らトランプ氏表敬 笑顔で握手
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 06:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 06:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
