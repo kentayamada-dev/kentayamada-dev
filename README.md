@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0952926b65959ea5fa541850a87d21d2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/70d41ceb3c6fbb1f4a6391154d704da4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/496f4a732deca6ffcc8ff17c2486fa2bedcc1b97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-90006902-tvaichi-000-1-thumb.jpg?exp=10800&fmt=webp> 「ここまで急速に下落するとは」専門家仰天　株価の下げ幅は史上3番目の大きさ　今後のポイントは
+      <a href=https://news.yahoo.co.jp/articles/84d050d7d067d92c50cb4012e6ae802ba154cfdf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-03147521-fbc-000-1-thumb.jpg?exp=10800&fmt=webp> 県内にもトランプショック　証券会社には投資家から問い合わせ相次ぐ　世界経済の減速を懸念　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ea5fdc8538a7466a1493950c7cfee29e19639e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04237327-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> MLBで話題“トルピードバット”に迫る　使った選手は「合う選手もいるだろうが...」五十嵐亮太氏は「中距離ヒッターには向いているのかな」
+      <a href=https://news.yahoo.co.jp/articles/b97462d9441b67f96f942cd7ed62e3e804d91c5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000198-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1066&ch=1066&exp=10800&fmt=webp> 首相、関税で早期電話会談に意欲　米トランプ大統領と
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1ce9498798081c667eb14b08543357aca85b7e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大船渡山林火災で「鎮火」宣言　発生から40日、生活再建が課題
+      <a href=https://news.yahoo.co.jp/articles/f669607fa4e4eb07b1ad2fdd7b6fe056a1528b84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000067-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 『魚雷バット』、早ければ5月にも解禁へ…NPB中村事務局長「前向きです」ルール違反なしを確認　メジャーで本塁打量産し話題
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c99fdb839efc05c32e218cac2b987f1de1c065f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000066-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ関税で中国株も大幅下落　中国政府は市場介入を公表
+      <a href=https://news.yahoo.co.jp/articles/a616dac7db739fd3464287076039df61c577dfca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 山林火災、鎮火を宣言　発生から40日　岩手・大船渡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41f6e54ca93a0cf1976845eabbce2711690a8ff2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000053-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 万博会場でメタンガス検知　換気強化、測定頻度増やす対策実施へ
+      <a href=https://news.yahoo.co.jp/articles/c456661eb24502b4a5d8f3a61260c0ebcdb902b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000053-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 旧統一教会、解散後の財産帰属先を「天地正教」と決議　2009年に
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/3f1020f3d4adfe2ea7c0a2a10ee0f65f31c8e1b9311088fdf82c5f2cd39c3935.jpg> 子供の入学式で遅刻 変わる芸能界
+      <a href=https://news.yahoo.co.jp/pickup/6534769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/0d9e7dfcefbbdae8317d1d7cd81b2413e01b4725234e91c1470edb657297f084.jpg> NPB 魚雷バット導入に「前向き」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 19:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 19:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
