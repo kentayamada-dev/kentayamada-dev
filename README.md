@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCb8Ag7Wk3p_U?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/67b63476c11885983c38bb6724f218b5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eafea420d3c5d024748283ec6e6cf5d5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a4bac0d29aff79684c12b04db9dc947dbd34769>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-02445784-sp_ctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ETC大規模障害「応急復旧が完了」料金徴収を再開　”解放措置”中の通行料金は事後清算を呼びかけ　NEXCO中日本
+      <a href=https://news.yahoo.co.jp/articles/bef55e3bed70c3f0f30a019b739ac61176c57e1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、145円台後半＝買い一巡後は伸び悩む（7日午後3時）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0aed533569ea7fdc54fde9cd43b392dbf2791cec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010004-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 週明けも止まらない「トランプ・ショック」、日経平均一時3000円近い下落　トランプ氏、関税方針変えない姿勢強調
+      <a href=https://news.yahoo.co.jp/articles/41eb580645f89f2d12a55ade0507d67a29e1e364>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000038-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ETC障害が8都県で復旧、仮プログラムで　NEXCO中日本が発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21fb61bc3559b755646338c360e8ed1c9bbf0baa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-98058197-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 米関税で市場は世界的に不安定、投資家は冷静に判断を－加藤金融相
+      <a href=https://news.yahoo.co.jp/articles/104140a544190bcb5a8e0c487f74317c04ac9032>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-16944918-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「薬が必要」とトランプ氏、関税めぐる強硬路線の維持強調　アジア市場は続落
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 15:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 15:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
