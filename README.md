@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fdf7eb9942c8124133e89cfb9c46d397.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0a0ca46125c0980f57b3b78c9620ef49.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af1da9eb5932028122636a3399f4186c57198a4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-34070600-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 山口真由信州大特任教授　トランプ関税を批判「すごい雑」「暴走しちゃってる」
+      <a href=https://news.yahoo.co.jp/articles/5cc78836b17b250e33fdb88679c6d0eba872b045>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-06174546-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日経平均、一時3000円近く下落　終値は過去3番目の下げ幅“トランプ関税”影響
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6dd0f691dc6e0a13f3bf3d614f8c98a5c45fe51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010003-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> イスラエルがガザ中部を空爆　パレスチナ人30人超が死亡  
+      <a href=https://news.yahoo.co.jp/articles/c5555c732f70c92019c06795a0822879e4d12f93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000091-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 日経平均は大幅に3日続落、一時3万1000円割れ　1年半ぶり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a06a70979fbcf0f1d415b7298e1761a85aadfef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000084-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 台湾株10％近く急落、過去最大の下げ　ＴＳＭＣと鴻海の取引一時停止
+      <a href=https://news.yahoo.co.jp/articles/43ebb1acb384c875ff7641840981fc115e12463b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-04071108-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=713&ch=713&exp=10800&fmt=webp> 子どもの入学式でＭＣ遅刻　変わる芸能界…プライベート尊重にネットは好感「いい時代だ」「働き方改革」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa09d4af98c5f813423f9519b7532c6cd947835f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00010007-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ブルージェイズが「14年730億円」でゲレーロJr.と契約延長　21年は「オオタニの実力がなければ」MVPと米報道
+      <a href=https://news.yahoo.co.jp/articles/704648c32474cd3299034bfb650add42b782a76c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大阪・関西万博会場でメタンガス　基準値超え濃度検知、測定強化へ
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534749>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/2b78c443eeea71ca79bf548491479813cb3b6dac0b1306af6748831e79d63043.jpg> 投資家は冷静な対応を 金融担当相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534756>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/cb5962746add6472634b8d8c8d0957d860858e7dfa46972869540e1ac3a16429.jpg> 終値3万1136円 過去3番目の下げ幅
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534730>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/38bf63a3ec592f10d924f184e90f918c1da032b80fdaf1f597ee02a239a34c8d.jpg> トランプ氏 株価下落は必要な過程
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/011c14162aa9983e5e85435be062bda3798576757aa6d7442d133e962326e219.jpg> 終値3万1136円 過去3番目の下げ幅
       </a>
     </td>
   </tr>
@@ -442,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/badb73a0764d1bab64295acc2d4392c0ef721ff4898cd1ca94087999800e3175.jpg> 日本製鉄工場 鉄カゴに挟まれ重体
+      <a href=https://news.yahoo.co.jp/pickup/6534743>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/6002a58383e8a56e79a87576be374c8372bfab389391cd766e44e60ac2c45591.jpg> フォークリフト事故 子3人乗せる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534743>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/6002a58383e8a56e79a87576be374c8372bfab389391cd766e44e60ac2c45591.jpg> フォークリフト事故 子3人乗せる
+      <a href=https://news.yahoo.co.jp/pickup/6534750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/ff9a755b186af90d3d7dcdf3b226e7ac34f270a328d6a036008a99055de49346.jpg> 24年度「飲み屋」の倒産 過去最多
       </a>
     </td>
   </tr>
@@ -464,11 +448,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/5f7f965dcc0020157c535dcb867c8a18c32120c927774681a939765828955ff6.jpg> ゲレーロJr.14年730億円契約 報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/3f1020f3d4adfe2ea7c0a2a10ee0f65f31c8e1b9311088fdf82c5f2cd39c3935.jpg> 子供の入学式で遅刻 変わる芸能界
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 16:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 16:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
