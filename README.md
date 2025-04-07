@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c406b328b2ac06447fbc2f5ccd93976.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce01bd51fde86b63d163b47016218d0d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/11a2a95acb0680a75e69a0ca8501a05ff4a2409d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229193-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=469&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「関税措置により日本企業の投資力が減退する」石破総理が強い懸念を伝える　トランプ大統領と電話会談　日米双方が担当閣僚を指名し協議継続
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229193-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「関税措置により日本企業の投資力が減退する」石破総理が強い懸念を伝える　トランプ大統領と電話会談　日米双方が担当閣僚を指名し協議継続
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 04:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 05:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
