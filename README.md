@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/08a687222597961bada147e54e21bb0f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8094c2652dfef90e7b4af99d19df9887.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/441532964132306a6b23675cd1fd079cbd24f7e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000086-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 日米首脳が電話協議　石破首相、トランプ関税巡る交渉で訪米意欲
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/82ccd3e3aceee52aa81b3b2e3b92bcc7e9e6fd66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000475-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=415&ch=415&exp=10800&fmt=webp> 万博「メタンガス検知」は大型ライブ予定の野外アリーナ付近　対応策を説明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000475-oric-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=415&ch=415&exp=10800&fmt=webp> 万博「メタンガス検知」は大型ライブ予定の野外アリーナ付近　対応策を説明
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f32b7e4bbdaed56d0e1c122de71a651ee7d025be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000091-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=874&ch=874&exp=10800&fmt=webp> 石破首相、トランプ氏に対米投資実績を説明へ　早期訪米に意欲も、交渉見通し立たず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534772>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f07170d4c4b8ed265c0a74444e510960fd14e8c6a9b28f89214ad38b7dedae19.jpg> 首相 関税巡り7日夜にも電話会談
+      <a href=https://news.yahoo.co.jp/pickup/6534753>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/a2de9f0bd84dba0bf66485e5252a02d23bdb29b527abfedf190ec23265589397.jpg> 医療ヘリ事故 国が調査官を派遣
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/a2de9f0bd84dba0bf66485e5252a02d23bdb29b527abfedf190ec23265589397.jpg> 医療ヘリ事故 国が調査官を派遣
+      <a href=https://news.yahoo.co.jp/pickup/6534782>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/8420cd91d1192f07612630e11ca5c9cbdbb4ee40da34555bb8c7948e6da99185.jpg> JAL機が航空灯火に衝突 羽田空港
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/b46f13ef16947428e68ff0e8568dabc0635e3d2e4371cb29c707d8b31cd28cbb.jpg> 米はしか流行 子ども2人目が死亡
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534771>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/628f1103bfab91d13ddf7cb35658366c30760253e6fa8eff1342e317fa7456c6.jpg> ETC障害 5日夜の作業とは無関係
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/d264ea621f856cd490f797914ffa5bcbb1d357c1bede174f767d5d7f0690c4c1.jpg> コメ平均価格 5kgあたり4206円に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 22:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 22:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
