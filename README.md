@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea2904ef6daee5eb6b5cbd0371b4bf7a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/536be25d06c24d990bbe1a63621d01cf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b338d7549d49edf7c1f786c29c06fff310920167>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000078-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=561&ch=561&exp=10800&fmt=webp> 日経平均2644円安　過去3番目の下げ幅　トランプ関税で動揺
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/84d4ab2ea57f7f1cda296aab22ff173a4741118b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000077-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=26&cw=533&ch=533&exp=10800&fmt=webp> 「少雨と再燃箇所の消火に手間取った」　大船渡山林火災、消防が説明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f32b7e4bbdaed56d0e1c122de71a651ee7d025be>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000091-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=874&ch=874&exp=10800&fmt=webp> 石破首相、トランプ氏に対米投資実績を説明へ　早期訪米に意欲も、交渉見通し立たず
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/474f50520bb45ef6096cc58c5edbc71951930563>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000093-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=837&ch=837&exp=10800&fmt=webp> 石破首相、「世界日報」から取材　地方相在任中、15年掲載
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f47077d3e416455fbd63e3baf0ec2e7ae01e930d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】岩手・大船渡市の大規模山火事　発生41日目で鎮火　市が発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84d050d7d067d92c50cb4012e6ae802ba154cfdf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-03147521-fbc-000-2-thumb.jpg?exp=10800&fmt=webp> 県内にもトランプショック　証券会社には投資家から問い合わせ相次ぐ　世界経済の減速を懸念　
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/64a20322e6db89d5c6c179fcc522a3fd7d677c8180f3842134696d5aac4c4828.jpg> 韓国大統領選 6月3日に投票へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534773>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/abff54533d87cb45290a63eb6f57880936a0df60a8482869fe7052e5d383039d.jpg> ホンダ青山副社長辞任 不適切行為
       </a>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534767>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/d264ea621f856cd490f797914ffa5bcbb1d357c1bede174f767d5d7f0690c4c1.jpg> コメ平均価格 5kgあたり4206円に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534765>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/101ea231cbc5221d57c986d2c5b87e219476b764f8b876266d090c0bf66571fb.jpg> 長崎で山火事「ゴミ燃やし延焼」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 20:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 21:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
