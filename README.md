@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/988c1160d992dbee61129813cdcefea7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3f4e918c8283a4dd240357752d1288fa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f3cd9f193cd90428cc835b098688b1b8171da2de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> USスチール買収、新たな審査命令　安保リスク、日鉄提案を検証　トランプ氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4d8ae23a685d370e4fc8030404ddbd2bc31432d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00010002-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米メディアは大谷翔平との握手でバレたトランプ大統領の“身長詐称”に注目？！
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/88ab767bbed71ea06cf15d723b7bd2aa8c890058>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000023-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> トランプ氏が対中追加関税警告、ＥＵは報復措置提案　市場の動揺続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/37bfa01546bfe10398bb6023053a42cf097791d9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-01832768-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 7日の米NYダウ平均株価、一時1700ドル超下げ　関税措置「90日間停止」誤情報で急反発など乱高下
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06ceec8921d8e27b53b8af76bd40576e95ef9581>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-04081009-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、３試合ぶり安打で開幕１２試合連続出塁　“トランプパワー”で２年連続“米首都弾”なるか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57dcf534b8178d3edfb461b72cb6f6980eec2ff8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-06641489-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日本製鉄「トランプ氏に感謝」USS買収計画再審査指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a7ebe640ac58e7e317efe5377b427c7108c5c628>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000003-at_s-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=244&ch=244&exp=10800&fmt=webp> ETC障害の応急復旧が完了　静岡県内高速道、最大16カ所のICに影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62aa0870111c7976e64d538d3678a711a6799ef3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000006-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ大統領「中国に５０％の追加関税…他の国とはすぐに交渉開始」
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534796>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/84f847d0e0d914230f36dcf0413d0d3bee889345a55994f23879d8e9b3525d44.jpg> 米大統領 中国に50%追加関税示唆
+      <a href=https://news.yahoo.co.jp/pickup/6534799>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/7e5b7f8bf51bc404382e3185cfd0f66f6edf1dd6aa462a413c1dc206996d9022.jpg> ETC利用再開「応急復旧」の現状
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534780>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/521ed5fde28b89e3ea7e28c6b80393adec36db9cbaa6012a3948172cb506f90a.jpg> ホンダ副社長辞任 警察に告訴状
+      <a href=https://news.yahoo.co.jp/pickup/6534796>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/84f847d0e0d914230f36dcf0413d0d3bee889345a55994f23879d8e9b3525d44.jpg> 米大統領 中国に50%追加関税示唆
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 08:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 08:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
