@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4556f5c1357aac47368f4115f193b6ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/08a687222597961bada147e54e21bb0f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/82ccd3e3aceee52aa81b3b2e3b92bcc7e9e6fd66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000475-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=415&ch=415&exp=10800&fmt=webp> 万博「メタンガス検知」は大型ライブ予定の野外アリーナ付近　対応策を説明
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b338d7549d49edf7c1f786c29c06fff310920167>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/56326efe88931a2a0c6d7bc66708b07e12ff8840>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-06434559-nib-000-2-thumb.jpg?exp=10800&fmt=webp> 【医療ヘリ事故】対馬空港を離陸後何が起こったか原因究明へ　国が航空事故調査官を派遣　《長崎》
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f32b7e4bbdaed56d0e1c122de71a651ee7d025be>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000091-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=874&ch=874&exp=10800&fmt=webp> 石破首相、トランプ氏に対米投資実績を説明へ　早期訪米に意欲も、交渉見通し立たず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/474f50520bb45ef6096cc58c5edbc71951930563>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000093-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=837&ch=837&exp=10800&fmt=webp> 石破首相、「世界日報」から取材　地方相在任中、15年掲載
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c456661eb24502b4a5d8f3a61260c0ebcdb902b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000053-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 旧統一教会、解散後の財産帰属先を「天地正教」と決議　2009年に
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534774>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/4d7f6b008dfb29a0f267110e157e59287d57423be67104694e912ef245140466.jpg> 世界日報巡る報道「事実」と首相
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534772>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/4d7f6b008dfb29a0f267110e157e59287d57423be67104694e912ef245140466.jpg> 世界日報巡る報道「事実」と首相
+      <a href=https://news.yahoo.co.jp/pickup/6534780>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/521ed5fde28b89e3ea7e28c6b80393adec36db9cbaa6012a3948172cb506f90a.jpg> ホンダ副社長辞任 警察に告訴状
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/abff54533d87cb45290a63eb6f57880936a0df60a8482869fe7052e5d383039d.jpg> ホンダ青山副社長辞任 不適切行為
+      <a href=https://news.yahoo.co.jp/pickup/6534771>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/628f1103bfab91d13ddf7cb35658366c30760253e6fa8eff1342e317fa7456c6.jpg> ETC障害 5日夜の作業とは無関係
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534767>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/d264ea621f856cd490f797914ffa5bcbb1d357c1bede174f767d5d7f0690c4c1.jpg> コメ平均価格 5kgあたり4206円に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534764>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/7/f0f524e9f268ca6d8bc778cf8943b054e63dfeb9e2ebae63a7ed8384a39c8cd6.jpg> ETC障害で後払い 利用者「微妙」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/07 21:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/07 22:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
