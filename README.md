@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f3a2994c34f0c4ccdc9bae2d2dc9b290.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6323f1c22298c21725ff150c9aa58951.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8e900c6ec178c2a73dac3c3e52c01ba2a319dbaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07761979-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 国連6機関、ガザ地区緊急停戦の呼びかけで共同声明　戦闘再開後に死亡者数増加で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9ee7d326d97c3b06591926fc903448266f744620>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 関税偽情報で米株乱高下　トランプ氏が90日停止？　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/62aa0870111c7976e64d538d3678a711a6799ef3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000006-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ大統領「中国に５０％の追加関税…他の国とはすぐに交渉開始」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8f04d854ac597fac3b647b532e9c07d1917ca0c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954301-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大谷翔平選手×トランプ大統領　初対面で握手＆肩ポンポン　笑顔でツーショット撮影も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9d3909fa56e3ddfb15a290a2f83f5c9ffc25b07f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954297-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が日本製鉄のUSスチール買収計画の再審査を指示　交渉前進か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02765f629efdfeb798472bc1323683499d84e511>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=314&ch=314&exp=10800&fmt=webp> 石破氏、トランプ氏と「関税通話」…最大の対米投資国を強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/646548f066f60abe0d0c77802a07ab3a69d6b7ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-34080063-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=1082&ch=1082&exp=10800&fmt=webp> 大谷翔平、上下紺色のスーツ＆ネクタイ姿でトランプ大統領と握手　ガッチリを手を握る瞬間が公開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34bddc4867722c0393e05ec50713e80f6036824f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NYダウ続落、349ドル安　3営業日続落、乱高下する場面も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f38d777474aadb2e9612ad0903571968f9dcaa9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000031-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=29&cw=640&ch=640&exp=10800&fmt=webp> ガザ交渉「新たな案」言及　人質解放へイスラエル首相
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 07:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 07:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
