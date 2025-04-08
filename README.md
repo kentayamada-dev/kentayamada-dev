@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c0bfc2b036c68cb76df965ac15b5288e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f0dbb06497ba126bc2b96ecec59a1957.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/920c37e34b1a04762397cd4225e6cb0f0e120d28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-54945983-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 医療搬送用ヘリ３人死亡事故　運輸安全委員会が佐賀航空を聞き取り調査
+      <a href=https://news.yahoo.co.jp/articles/b45834bfe8c52eabddee5828ced4862db6b2966f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050145-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=315&ch=315&exp=10800&fmt=webp> フジテレビ、万博会場で予定していたコンサートを中止…公式サイト「諸般の事情を勘案」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5060f6b4c3dfd50ee21f6b67ea8ad6b5f02bdac6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-04540246-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=295&ch=295&exp=10800&fmt=webp> 大阪・関西万博、フジ主催コンサート中止を発表「フジテレビからの申し出を受け」
+      <a href=https://news.yahoo.co.jp/articles/f234997c2a980b114bed33e0eb41054b7c1e907f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-21842073-nbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 長崎県、ドクターヘリの運航一時休止　壱岐沖事故機と同型機を点検　休止中の対応は?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/26175c1941729cf702e7d35f68a41cdca27a72b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954582-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「怖くて見られない」“シンニーア”不安の声　トランプショック”で株価乱高下「目先の変動気にせず長期運用を」トランプ政権関税計算で“代入ミス”か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8a5438ff5273042dae5afcc74516350e15826378>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954770-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】詐欺グループトップか…関東連合元メンバー・冨沢こと山口哲哉容疑者（46）を日本へ強制送還・逮捕　クラブ襲撃・殺害“六本木事件”も進展か
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/46e7777ad511b6486b0e6d1d759a6103758cd406>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-34080982-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 大谷翔平デコルテポーズ流行「イジられて盛り上がる分にはいい」コーセー「使っていただき光栄」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/733c38e6bbc36179510b39e9ffb482f4fc46f721>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-90025674-nsttv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日経平均株価“乱高下”に不安の声も…専門家に聞く“トランプショック” 今後のポイントは「アメリカ側の歩み寄り得られるか」新潟
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d107b68cf1de180ab9b02efc1edca471b9987316>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000161-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=678&ch=678&exp=10800&fmt=webp> ロシア西部州でウクライナ軍展開　ゼレンスキー大統領が初確認
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534812>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/4b283ac07b8945a384bab47182294bccc87f8e7fc22087cd8a6d9752bc17ae5a.jpg> 広末涼子容疑者 傷害疑いで逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6534866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b7937845c4299508bed224522667331a223f3f3826c65cea66f5f9fc359cef69.jpg> 特殊詐欺Gのトップか 男を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/e6c87f5bf16466b61254f9c6569993ff9d5c45fe9e2bf8a00a53018f1a55be75.jpg> 毎日新聞GHDの元室長 書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6534865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/3129f754a24d661dfdcf61eda77c43a33efad740a77226b69f7a7cf4ef38bb72.jpg> 預金争奪戦 定期金利1%超も登場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/3b574dd8cd60d51ce11627a675bcdd12a2334f7b397f1bd41f8bff01580a9e95.jpg> 広末容疑者 当初「自称」発表の訳
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534843>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/6009051a6cfb8ee7ca684a0a76621b622d1163419f468c34bcc960756792a3a6.jpg> 「アーバンベア」冬眠明けに警戒
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534849>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/608940250c72db25c5227fee340058c36c7493c103cfe66a8916f0d66a85eb85.jpg> 絶滅のオオカミ ゲノム編集で誕生
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 19:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 20:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
