@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/83effbdebda070d2f5332948f4e42122.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e5812d632c2781912a59c23399899d90.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/732cc7c5d7b4b50779d22b9d94e05b961dd3337d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【ヘリ事故】運輸安全委員会が運航会社を調査
+      <a href=https://news.yahoo.co.jp/articles/46e7777ad511b6486b0e6d1d759a6103758cd406>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-34080982-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 大谷翔平デコルテポーズ流行「イジられて盛り上がる分にはいい」コーセー「使っていただき光栄」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0759a6cc44182dd5170daafd10a2e65ac2ce7369>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229356-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日経平均株価　過去4番目の大幅反発 「日本に優先交渉権がある」米・ベッセント財務長官発言に期待感広がる　“トランプ関税”発動へ　メロンと消しゴムにも影響か
+      <a href=https://news.yahoo.co.jp/articles/9935880ce3041ff29bb6529e4b18e32a291f05c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-90025015-tncv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=520&ch=520&exp=10800&fmt=webp> 医療ヘリ3人死亡事故　救難信号が海上保安庁に届かず　機体に何らかのトラブルか　事故原因究明へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df111f61ee8f042cbce1b32bd70389cb6396e164>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-01733195-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の4号は「平凡」　米実況がニヤリ“皮肉”…バットの先ながら「115ｍしか」
+      <a href=https://news.yahoo.co.jp/articles/733c38e6bbc36179510b39e9ffb482f4fc46f721>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-90025674-nsttv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日経平均株価“乱高下”に不安の声も…専門家に聞く“トランプショック” 今後のポイントは「アメリカ側の歩み寄り得られるか」新潟
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff47e7af4b63fddd08323ef1b6b8980f6d91fb0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> フジ主催のコンサート中止に　6月開催予定、万博協会
+      <a href=https://news.yahoo.co.jp/articles/cbe4960f2aced683a1ceb05e36a7017f75f996a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000010-mynavin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジテレビ、万博『めざましクラシックス』開催中止　『ぽかぽか』ライブは実施予定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 18:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 19:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
