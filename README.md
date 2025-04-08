@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c80ee2ec34cb54f574ca4fee198fafc3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/26c05590a7cf3404d0f276d6b51c8aa0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/788d833eedc95e49ed36a1429a018848511bcff1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000001-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=1652&ch=1652&exp=10800&fmt=webp> 大谷翔平　「映画スターみたいだな」初対面のトランプ大統領から称賛→４号含む３安打！ホワイトハウス「何回でも行きたい」
+      <a href=https://news.yahoo.co.jp/articles/d73c70e073dd606545aa5d64795f6d825e112dd1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000001-ann-000-5-thumb.jpg?exp=10800&fmt=webp> カンボジア拠点の特殊詐欺事件　日本人幹部を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd6e93d524fdc320be206fab99dcd6cb14526d0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00340411-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【巨人】吉川尚輝＆岡本和真の主軸がそろって猛打賞も勝てず「明日も頑張ります」
+      <a href=https://news.yahoo.co.jp/articles/788d833eedc95e49ed36a1429a018848511bcff1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000001-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=1652&ch=1652&exp=10800&fmt=webp> 大谷翔平　「映画スターみたいだな」初対面のトランプ大統領から称賛→４号含む３安打！ホワイトハウス「何回でも行きたい」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 04:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 04:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
