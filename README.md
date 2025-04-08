@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3cdcf70cb086095b014198187e4f3aab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f40ed877226dfc966fefbf085336b0e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f67d96d5c8cb7112abe196aba6ee9900e8ae3dc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90022293-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 承認されれば“世界初”iPS細胞由来の『心筋細胞シート』大阪大学発ベンチャー企業
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/245bb207edcae4a5b7c81c984a05e380ab06150b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90022292-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “貿易戦争”の行方は…対抗や歩み寄りも“トランプ関税”各国が防衛策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/788d833eedc95e49ed36a1429a018848511bcff1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000001-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=1652&ch=1652&exp=10800&fmt=webp> 大谷翔平　「映画スターみたいだな」初対面のトランプ大統領から称賛→４号含む３安打！ホワイトハウス「何回でも行きたい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa8cd5e2058ee3b6b13d0ebf8dce0eb3a3ac3f3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00050002-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=319&ch=319&exp=10800&fmt=webp> 備蓄米、３回目の放出へ…コメの店頭価格「まだ下がっていない」状況受け政府調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df1850217374119522af1f139d75357941682be5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00954896-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 中国外務省「最後まで付き合う」アメリカの“50％追加関税”警告に反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1409662dd2b4f679d697b6b34d1107b190a5d3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229435-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> iPS細胞由来の「心筋細胞シート」大阪大学発企業が厚労省へ承認申請　承認されれば世界初のiPS細胞を使った治療法か
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 02:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 02:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
