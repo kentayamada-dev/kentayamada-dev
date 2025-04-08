@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/oUTTzWt2Jtk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a3fba20b3115690c775d279516ac7dc3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/83df50e0ccb3eac7ec592b3a147ac7c4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fda4dc3d1dc58fe6161aae048fdab863520e8a1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04091002-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、米首都で２戦連発なるか　相手先発は今季デビューの２５歳右腕…開幕から１２試合連続出塁中
+      <a href=https://news.yahoo.co.jp/articles/35d4fbdcc20e1ea3fd066e753df5e58b135cf122>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04081320-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1113&ch=1113&exp=10800&fmt=webp> 「初回にどうもできなかったので」巨人甲斐拓也が執念同点打「もう、何とか気持ちで」笑顔でガッツポーズ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f20a8b54bcf4f474ad111efa5a74c62c3c2c510f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000093-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=1018&ch=1018&exp=10800&fmt=webp> “ムービースター”ドジャース・大谷　ナショナルズ戦に「1番・DH」でスタメン出場　首位奪還なるか
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c2acd84c0357b05e5da8b929949be75f16a44988>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000002-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「今夜0時に中国に104%関税が発効」ホワイトハウス報道官が明言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d73c70e073dd606545aa5d64795f6d825e112dd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000001-ann-000-5-thumb.jpg?exp=10800&fmt=webp> カンボジア拠点の特殊詐欺事件　日本人幹部を逮捕
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 05:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 05:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
