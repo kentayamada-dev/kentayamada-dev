@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8a82ab03f655cf5cbe89937aebd8a909.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d2ab85d102530e6960557f8ecfe3fe7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/859ab1ba836ce93fc55d1c0c5fd38e965d4431ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ軍　ロシア西部ベルゴロド州で部隊展開　ゼレンスキー大統領が明かす
+      <a href=https://news.yahoo.co.jp/articles/49e61e85e1760bcbbeef8c8859ad1bfa492171b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000104-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「積極的作戦」ゼレンスキー氏が初めて認める　ロシア西部で新たな越境攻撃
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8833642147ad7da17cc7e0b4b231a510c26e5307>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000118-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ソロデビュー50周年の矢沢永吉、11月8、9日に東京ドームでライブ　76歳での単独公演は国内最年長
+      <a href=https://news.yahoo.co.jp/articles/2f4cfae95ce2c3891c489282903c65d82c126968>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000227-kyodonews-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 【独自】基礎年金底上げ案、修正検討　厚生年金の受給総額を調整
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/49cfb9f46d74fe3602acb77991e8b246f231646063bbb6e6ac222ca91730ee2b.jpg> トランプ関税 支持する米住民の声
+      <a href=https://news.yahoo.co.jp/pickup/6534873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/8572b97d0b62de448eb7a18413703ab95dff9c9d5ab425d80bf7f6e84b2af62c.jpg> 基礎年金底上げ案 政府が修正検討
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534859>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/7ce5579012bf6b23d0abf4e9dcbacc4535ff9279e49864764aaf73f9fe5cf264.jpg> 医療ヘリ事故 救難信号届かず
+      <a href=https://news.yahoo.co.jp/pickup/6534871>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/a49fa5894548099c8affe6a90d6b75ac4b3e10f6fd56c21075d159bec067c206.jpg> 世界変わった ウォール街戦々恐々
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534872>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/59f8dd914baf1f1c04306d0b86fd19a727a5fd553abb81077d1265a7bfc7e371.jpg> 野村証券 一部の買い注文停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534865>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/3129f754a24d661dfdcf61eda77c43a33efad740a77226b69f7a7cf4ef38bb72.jpg> 預金争奪戦 定期金利1%超も登場
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/6009051a6cfb8ee7ca684a0a76621b622d1163419f468c34bcc960756792a3a6.jpg> 「アーバンベア」冬眠明けに警戒
+      <a href=https://news.yahoo.co.jp/pickup/6534874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/7d38855ad74ff834b1ac54256b613e68ad286efaa4247b3b49f2a8981ad610b9.jpg> 阪神・岡田彰布氏 始球式再び欠席
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534853>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/cd6d0857ba062c1a8ed4864124ce2c6b32009445027c9bd3666f5fa620d6e05e.jpg> 万博 フジ主催のコンサート中止
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 20:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 21:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
