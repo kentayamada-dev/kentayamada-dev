@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/81649e9e7d12a560462c697c6614e21d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3ed793b9d2db54a9d7bbda8e87e505b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8a7adcb64644c26e314785803c18496488dbfc2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00010014-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 追加関税による”脅し”「最後まで付き合う」　中国がアメリカへの更なる対抗措置を示唆
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/460ab1bcdcc5e37ae05d4777b3fc61860ae4b702>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050107-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=124&cw=376&ch=376&exp=10800&fmt=webp> 投資家に買い戻しの動き、日経平均一時２１００円超上昇…ＮＹダウは乱高下
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8a35ec95cb08304fa995b78e64418f7ce7b2cf5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-01733160-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=600&ch=600&exp=10800&fmt=webp> “役者”大谷翔平が見せたお手本が「やっぱ1番上手だわ」　本家の正確な所作が反響
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ea3a9b896cff90c321f402b150fcc3cd90cc4984>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050077-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ＵＳスチール買収計画巡り新たな審査命令、日鉄「早期の審査完了を期待する」
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb83f6b4937ea6b358eafe1d17ea73d46d9400aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07193984-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷のポーズにSNSも話題「素晴らしいデコル谷」「売り上げ倍増しそうですね」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b09fae38d5667cfb95d8926ba5b382711c4b0d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-01514897-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 中国「米国のいじめに最後まで付き合う」報復関税撤回せず　トランプ大統領表明の“50％追加関税”に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aa854737858923b4db03bc0596b92612062d3de0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000378-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=496&ch=496&exp=10800&fmt=webp> “元ヤマンバギャル”あぢゃ、第3子妊娠を報告「無事に元気なbabyを抱きしめたい」【全文】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/257a81a715089b92f4aec8f5fb6a9d259048108f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000039-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日経平均反発、ほぼ全面高　専門家「早期相場回復の意見は少数」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000378-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=496&ch=496&exp=10800&fmt=webp> “元ヤマンバギャル”あぢゃ、第3子妊娠を報告「無事に元気なbabyを抱きしめたい」【全文】
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534815>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/e21b13c569377ca0b724fa939fd217e6813354534154d83dfa3fdb92a25a6eeb.jpg> 米関税協議 赤沢経済再生相を任命
+      <a href=https://news.yahoo.co.jp/pickup/6534826>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/f3eadf9f8675e7c1d09c207f81a21845a328a6109e259a6573594cca1df3f82d.jpg> 日鉄が「感謝」買収の再審査巡り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b618f626f72232f263508064dc178681fbebd3a5c1dd270457f6adea1f70f7f4.jpg> 東京株、一時2100円超上昇
+      <a href=https://news.yahoo.co.jp/pickup/6534815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/e21b13c569377ca0b724fa939fd217e6813354534154d83dfa3fdb92a25a6eeb.jpg> 米関税協議 赤沢経済再生相を任命
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534808>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/a7898e158787ea4d50135daf73e39fbcad22d685397b9e1617e216cba4d8b6f3.jpg> 川重に10億円追徴 国税の調査終結
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534817>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/8510f6c02b76458b0ab2dc9fc0ba280d991e9d906b4658124e76f1f79d9012f2.jpg> ヘリ事故 悲報に知人言葉詰まらせ
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534812>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/4b283ac07b8945a384bab47182294bccc87f8e7fc22087cd8a6d9752bc17ae5a.jpg> 広末涼子容疑者 傷害疑いで逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6534821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/5c319af29f35edc9fae0402f9cbb8a923dfef81238c9c63414eee5c6d3ffaf5c.jpg> 聴取長時間続き 12歳が「自白」か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/f1be532ad245171475a183c707750c4942d4b8078ca3c7c25d712b16c0110e28.jpg> 中国で開発「ジャガイモ米」味は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 13:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 13:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
