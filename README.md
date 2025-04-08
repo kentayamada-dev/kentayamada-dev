@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0042ac3315e4c7c818bfadeafaaadc54.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/83effbdebda070d2f5332948f4e42122.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dcf4d4de5e82292638e0b81dfdf4e9f44e64b26f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-09194187-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 無線機は壊れていた？　救難信号は国交省や海保に届かず　緊急事態を知らせる機長のコールも確認されず
+      <a href=https://news.yahoo.co.jp/articles/732cc7c5d7b4b50779d22b9d94e05b961dd3337d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【ヘリ事故】運輸安全委員会が運航会社を調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0759a6cc44182dd5170daafd10a2e65ac2ce7369>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229356-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日経平均株価　過去4番目の大幅反発 「日本に優先交渉権がある」米・ベッセント財務長官発言に期待感広がる　“トランプ関税”発動へ　メロンと消しゴムにも影響か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/df111f61ee8f042cbce1b32bd70389cb6396e164>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-01733195-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の4号は「平凡」　米実況がニヤリ“皮肉”…バットの先ながら「115ｍしか」
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ff47e7af4b63fddd08323ef1b6b8980f6d91fb0c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> フジ主催のコンサート中止に　6月開催予定、万博協会
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb67c0739bb63653e10838cbeca566b11349fb7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954597-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “トランプショック”で株価乱高下「怖い」「マイナス出た」シンニーアから不安の声　「目先の相場変動気にせず長期運用を」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21ae25a755622c0de3d88125a3d438820e02e34b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-10172622-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=681&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 「いいチームだな」ベッツが、スミスが、エドマンが…ド軍ナインの個性あふれる“デコルテポーズ”3連発！ 今日も飛び出した大谷翔平“愛されパフォ”
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/4c65a0402ba3e173bee6bad90d1ba3213156de17e48439863c811bcb73f6ce4d.jpg> 琉球放送の元アナ 傷害罪で起訴
+      <a href=https://news.yahoo.co.jp/pickup/6534859>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/7ce5579012bf6b23d0abf4e9dcbacc4535ff9279e49864764aaf73f9fe5cf264.jpg> 医療ヘリ事故 救難信号届かず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534848>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> のり高騰 セブンがおにぎり値上げ
+      <a href=https://news.yahoo.co.jp/pickup/6534812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/4b283ac07b8945a384bab47182294bccc87f8e7fc22087cd8a6d9752bc17ae5a.jpg> 広末涼子容疑者 傷害疑いで逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/6009051a6cfb8ee7ca684a0a76621b622d1163419f468c34bcc960756792a3a6.jpg> 「アーバンベア」冬眠明けに警戒
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534849>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/608940250c72db25c5227fee340058c36c7493c103cfe66a8916f0d66a85eb85.jpg> 絶滅のオオカミ ゲノム編集で誕生
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/e52f4897d5fcea08d4f0a3bb8e0576e37c5269be0c7e0aa5c864ba7e5dfe1be6.jpg> 球児→役者に アイドル田中樹の弟
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 18:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 18:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
