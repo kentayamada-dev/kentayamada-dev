@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/455fe6d6beaa975ff41a3a50f06e6b80.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9b97469acf6e1d79aeed8020c797b3b7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6551eb2cbcbae18a37debf00d80e8a404d1f3ea8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-01746945-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平「みんながたくさん打っている証拠」ドジャース流行のポーズに言及　今季初の連敗も「いい雰囲気」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d2f89c730959f26d2ad8b664516604ee4317f37a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000086-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 琉球放送の元女性アナ　同僚に薬物飲ませ逮捕、起訴　局は公式サイトで謝罪
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b5dab4726caa0c2833320100fdd5f34efbb21832>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2bb1e82770b4e18e2506756a9059f0b6eb3381a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-10172646-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=435&cy=0&cw=566&ch=566&exp=10800&fmt=webp> 全国の百日ぜき感染者578人で最多更新 兵庫県と沖縄県で多発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/41fae6faf5e57e0830db22579bd543a62de6f5e8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「米国の製造業を強化」　日本製鉄、USスチール買収の再審査を歓迎　早期の完了を期待
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a35ec95cb08304fa995b78e64418f7ce7b2cf5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-01733160-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=600&ch=600&exp=10800&fmt=webp> “役者”大谷翔平が見せたお手本が「やっぱ1番上手だわ」　本家の正確な所作が反響
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534847>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/fdac724795ed5fa8084b902c069d9f8f3dc0947b2f12301c2102f9d73b684b35.jpg> 施設から逃げたイルカを保護 香川
+      <a href=https://news.yahoo.co.jp/pickup/6534850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/4c65a0402ba3e173bee6bad90d1ba3213156de17e48439863c811bcb73f6ce4d.jpg> 琉球放送の元アナ 傷害罪で起訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534848>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> のり高騰 セブンがおにぎり値上げ
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/2cf31440422dfcf0a47a6a45fdbd36a85aed9f4b92332a73b513e0dd47730488.jpg> 大谷サイクル逃した打席 監督絶賛
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 16:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 17:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
