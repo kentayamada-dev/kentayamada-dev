@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d9337b53cb3107868c4d44f68197a64.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/605fbab6103cb247393fcbd5cc4fdeca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/532764c608c70e2f82fe3e91834b2567b3aef689>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000138-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> 【大谷翔平と一問一答①】サイクル王手でも心境不変「塁に出ること」ライブBPは「そう遠くないうちに」
+      <a href=https://news.yahoo.co.jp/articles/63737382d4ceeaa88bd10ac8e034a620f01f5d54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00010009-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「ただ気分が違う！」大谷翔平、第4号ツーランホームラン！　米メディアも驚愕「彼のバットから…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/955c62ea95e19180b70cc9144aa51bbaefe94261>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000003-binsiderl-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> S&amp;P500・オルカン 最新動向。8日は一旦下げ止まり、しかし貿易摩擦の悪化に懸念を残す
+      <a href=https://news.yahoo.co.jp/articles/5b29669d6165714b3b7482ac0713e8a1d3f12d3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229263-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「あなたたちは自分の国を開放しなければならない」石破総理との電話会談で市場の「開放」を求める　関税をめぐる日米協議の担当閣僚指名
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5bcfa8003a8673d18331ffd2fe97ff6ade2de11a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ８割超が対馬・壱岐向け、福岡和白病院のヘリコプター運用　当面は見合わせ…長崎・壱岐沖で事故
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/257a81a715089b92f4aec8f5fb6a9d259048108f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000039-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日経平均反発、ほぼ全面高　専門家「早期相場回復の意見は少数」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9ef4cefc5bcfc03b2919903b5f4c2628310ccfb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000048-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 米関税の担当閣僚に赤沢経済再生相、手腕・経験踏まえ＝官房長官
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/8d6e8a832eab0cac93cbe4f6bff49bedac91e0021b8070f97e5ba8d4b8cf2f9c.jpg> 買収計画の再審査指示 USSは歓迎
+      <a href=https://news.yahoo.co.jp/pickup/6534814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b618f626f72232f263508064dc178681fbebd3a5c1dd270457f6adea1f70f7f4.jpg> 東京株、一時2100円超上昇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b618f626f72232f263508064dc178681fbebd3a5c1dd270457f6adea1f70f7f4.jpg> 東京株、一時2100円超上昇
+      <a href=https://news.yahoo.co.jp/pickup/6534818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/63e41c61bed3d5202c1d7145ce5c334bc40cf2d23d5ba8ea2a1189ce185223f8.jpg> 米50%関税 中国は徹底抗戦の構え
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534810>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/1ff945c058551f7329f69113a9a0bd472a80393f2a30f88af02c4c97818474b8.jpg> 大谷翔平 サイクルヒット逃す
+      <a href=https://news.yahoo.co.jp/pickup/6534801>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/6a6dd499ef5326708849fa67c446f8996a92c12eec3518d9536b0c9489f58344.jpg> トランプ氏を表敬 大谷絶賛される
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 11:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 12:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
