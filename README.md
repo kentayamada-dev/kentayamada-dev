@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/31044509806b838e29f5bdff7a557f04.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d9337b53cb3107868c4d44f68197a64.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d108f276cd97ec2849e86c6fee3142d249188bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000029-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、初のホワイトハウス訪問、トランプ大統領の印象は…「思ったよりもかなり背が高かった」
+      <a href=https://news.yahoo.co.jp/articles/532764c608c70e2f82fe3e91834b2567b3aef689>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000138-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> 【大谷翔平と一問一答①】サイクル王手でも心境不変「塁に出ること」ライブBPは「そう遠くないうちに」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d399c68fef6ecd74de20aef92d6665990a93025>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000048-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=1050&ch=1050&exp=10800&fmt=webp> 大谷翔平「１日、１日、この国に感謝しています」ホワイトハウス訪問で思い明かす　トランプ大統領と握手「トップの方に会えたのが光栄」
+      <a href=https://news.yahoo.co.jp/articles/955c62ea95e19180b70cc9144aa51bbaefe94261>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000003-binsiderl-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> S&amp;P500・オルカン 最新動向。8日は一旦下げ止まり、しかし貿易摩擦の悪化に懸念を残す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/257a81a715089b92f4aec8f5fb6a9d259048108f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000039-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日経平均反発、ほぼ全面高　専門家「早期相場回復の意見は少数」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d9ef4cefc5bcfc03b2919903b5f4c2628310ccfb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000048-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 米関税の担当閣僚に赤沢経済再生相、手腕・経験踏まえ＝官房長官
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e3c5d0e928574b306deceb7a42fc6c1cff4353e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-16644713-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1333&ch=1333&exp=10800&fmt=webp> トランプ米大統領、中国にさらに50％の関税をかけると脅し　最大で税率104％となる製品も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/387562de271764802cdcb7909d349db9d20e9dc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=468&ch=468&exp=10800&fmt=webp> NYダウ続落、下げ幅一時1700ドル超　トランプ関税巡り大荒れ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/e21b13c569377ca0b724fa939fd217e6813354534154d83dfa3fdb92a25a6eeb.jpg> 米関税協議 赤沢経済再生相を任命
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534804>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/8d6e8a832eab0cac93cbe4f6bff49bedac91e0021b8070f97e5ba8d4b8cf2f9c.jpg> 買収計画の再審査指示 USSは歓迎
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b618f626f72232f263508064dc178681fbebd3a5c1dd270457f6adea1f70f7f4.jpg> 東京株、一時2100円超上昇
       </a>
     </td>
   </tr>
@@ -418,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534807>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/f507dc2f59fd7a40ab6af9250233fcd42bad03e3462e44ec7d0bc16fd94eb14e.jpg> 日経平均株価 4営業日ぶり急反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534809>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/d14893d91b70af99231604e2fe1ee2c8bbcb041c3e97d26b388662928e512a51.jpg> 男性死亡 傷害疑いで同居の男逮捕
       </a>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534805>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanigashirakazuki/02163069/title-1744050096720.jpeg?exp=10800> 吉野家一部値上げ コメ・牛肉高騰
+      <a href=https://news.yahoo.co.jp/pickup/6534812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/4b283ac07b8945a384bab47182294bccc87f8e7fc22087cd8a6d9752bc17ae5a.jpg> 広末涼子容疑者 傷害疑いで逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534798>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/1abaf33e45544fbaded7b59d2450a55ff7ecbd7d32a31e82bea0d4d7470c9638.jpg> 都営バスに9歳置き去り 点検怠る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/c71c038f7e179f29c522a75e8fd17643d21902959aa0a54ab0903c9bc9383539.jpg> 88歳の新入生も 名古屋に夜間中学
+      <a href=https://news.yahoo.co.jp/pickup/6534816>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/33e65816a5eab879f0ee2aa2ac363c6acd4d175c0bb9a73635d5368527c8fdeb.jpg> 広末容疑者が活動自粛 事務所発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 11:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 11:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
