@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f40ed877226dfc966fefbf085336b0e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b78bd92b15cc7c3e7c8412c2cc101102.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/245bb207edcae4a5b7c81c984a05e380ab06150b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90022292-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “貿易戦争”の行方は…対抗や歩み寄りも“トランプ関税”各国が防衛策
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90022292-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “貿易戦争”の行方は…対抗や歩み寄りも“トランプ関税”各国が防衛策
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1de0eca4db86c388579827b161b3735308124419>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000184-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=22&cw=898&ch=898&exp=10800&fmt=webp> ゼレンスキー氏「さらに多くの中国人がいる」露軍の侵略に参加した中国人捕虜の動画を投稿
+      <a href=https://news.yahoo.co.jp/articles/b3f9d2a7dd206d222b3bd96935569b81703fdec8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229448-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> 「ロシア軍参加の中国人兵士2人を拘束」ゼレンスキー大統領　中国政府に説明求める方針　「プーチンは戦争を終わらせるつもり全くない」ロシアを非難
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 02:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 03:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
