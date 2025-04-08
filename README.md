@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/89a7905eea6f32f326d74001077f8ea8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d64cd6332fa6f508c9bbf21c815cad32.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8245a3ef30e067a81649c077b2e1107dbbf70701>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000062-ann-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”中国商務省「最後まで付き合う」徹底抗戦の構え
+      <a href=https://news.yahoo.co.jp/articles/9b56298fc429ea3e497f5e88f0f8b3e2a3c97fc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 中国「受け入れぬ、とことん戦う」　トランプ氏の報復関税撤回要請に
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/32636700cc7a348cab90ab1dc24451dbc0f5b4760d4c05841209ac54ed70d2ea.jpg> 「チェキ」販売台数 1億台を突破
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534822>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/3b574dd8cd60d51ce11627a675bcdd12a2334f7b397f1bd41f8bff01580a9e95.jpg> 広末容疑者 当初「自称」発表の訳
+      <a href=https://news.yahoo.co.jp/pickup/6534842>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/63eee22c9c6c41d152b9d2b0a41df27918cc401931c95c614dd7ad36b576c8fa.jpg> 百日ぜき 1週間の感染者数が最多
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534835>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/2cf31440422dfcf0a47a6a45fdbd36a85aed9f4b92332a73b513e0dd47730488.jpg> 大谷サイクル逃した打席 監督絶賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534837>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/f88a785a7c1b5cd0cf86390f7009a0aaa4ee0ef7cc3eb6ed0c14e61384033d6c.jpg> チョコプラ公演「攻めた」高額席
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 15:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 15:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
