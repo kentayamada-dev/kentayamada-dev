@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d64cd6332fa6f508c9bbf21c815cad32.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d0ca8f95b2da7a7e485929f2a3af1f63.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/368c855c00c464a410c4def5fc8335425024d47f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-06244552-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 医療搬送用ヘリ事故　救難信号が国交省と海保に届かず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2bb1e82770b4e18e2506756a9059f0b6eb3381a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-10172646-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=435&cy=0&cw=566&ch=566&exp=10800&fmt=webp> 全国の百日ぜき感染者578人で最多更新 兵庫県と沖縄県で多発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9b56298fc429ea3e497f5e88f0f8b3e2a3c97fc7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 中国「受け入れぬ、とことん戦う」　トランプ氏の報復関税撤回要請に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7838839e409c80a6a1dd12aae3234598b89aaf1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000050-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=823&ch=823&exp=10800&fmt=webp> チョコプラ、デビュー20周年を記念したライブ 松尾駿「高いチケット買ってください」 最高価格は10万円50席
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b24de9ce7035f0a7e475db17cdb2849692c4d1e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00010005-mbsnews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博会場でメタンガスに吉村知事「空気より軽いので自然換気すれば対応できる」「単体で爆発するものではない」着火すれば“爆発起こす濃度”を検出
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534826>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/f3eadf9f8675e7c1d09c207f81a21845a328a6109e259a6573594cca1df3f82d.jpg> 日鉄が「感謝」買収の再審査巡り
+      <a href=https://news.yahoo.co.jp/pickup/6534846>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b81c6498dc8f93c13cb34335606685ff5fd5d236b3c5cdbd193488bc07189d43.jpg> 終値3万3012円 過去4番目の上げ幅
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/5456a0678ce5ed21ae6b339f036055ed75770e12ddebe993b15c940f782ddcc0.jpg> トランプ関税 計算式に批判相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6534838>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/8cc08d41f95066128d0dc4e3cf310676348abbd128766a67ba33e10b266c830e.jpg> ミャンマー地震 生還男性語る不安
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534841>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/a2ce66c61d2a152e73f8a352fffc315ad0416cbeeae97f781bc2dc69056b3484.jpg> ライドシェア「足」不足続く地方
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534844>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/0c59e66799a0688d75e7081be370d9b0f4662d7e8247195bff58ca369927ec21.jpg> 万博 吉村知事がメタンガスに言及
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/e97aed58f2864dd84a35aae1cdd104bdb267bedaf6e1ce87a335228a871abf91.jpg> 東野圭吾氏の小説 初アニメ映画化
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 15:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 16:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
