@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/466924df41e9592b96bece994943cfd5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7b11a983aa36ae4a7952e214a8430b6a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3bb1d4dbbf43644db656e9bc1de33ebca703cfe9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050157-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ｉＰＳ細胞から「心筋細胞」のシート、医療用製品の承認申請は世界初か…大阪大発の企業
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050157-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ｉＰＳ細胞から「心筋細胞」のシート、医療用製品の承認申請は世界初か…大阪大発の企業
       </a>
     </td>
   </tr>
@@ -402,22 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534873>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/8572b97d0b62de448eb7a18413703ab95dff9c9d5ab425d80bf7f6e84b2af62c.jpg> 基礎年金底上げ案 政府が修正検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/1c9ea888d6a4e8a1be9b40e187e3c66a357672c4c3fde6464539dd1145c96328.jpg> マスク氏に皮肉 米政権内で泥仕合
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534871>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/a49fa5894548099c8affe6a90d6b75ac4b3e10f6fd56c21075d159bec067c206.jpg> 世界変わった ウォール街戦々恐々
       </a>
@@ -426,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/30ea1dc41a7ccf1df83d83b61b8d0f0b3d2fc9f97a8b6e7b96d94e6e47057e58.jpg> ヘリ事故 離陸から17分後に着水か
+      <a href=https://news.yahoo.co.jp/pickup/6534873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/8572b97d0b62de448eb7a18413703ab95dff9c9d5ab425d80bf7f6e84b2af62c.jpg> 基礎年金底上げ案 政府が修正検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/394a55dfebc76146bef41acf3568e22dce06e39a308f47bb60a7b4522f48f1e5.jpg> 北朝鮮兵 軍事境界線を一時侵犯
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534879>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 児童がPTSD いじめ重大事態認定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534872>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/59f8dd914baf1f1c04306d0b86fd19a727a5fd553abb81077d1265a7bfc7e371.jpg> 野村証券 一部の買い注文停止
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534877>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/9b2905b57b88eda410c2620493a3da5c2ae2b326d4d701bd81ad8ea4578bb8df.jpg> iPS細胞由来 心筋シート承認申請
+      <a href=https://news.yahoo.co.jp/pickup/6534878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/997b8ee63ec3cdd70eaee8626eac9c47915de678c81c810cb6046ee7f89381d2.jpg> 中村剛也が代打弾 22年連続のHR
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 21:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 22:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
