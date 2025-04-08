@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7ae96cc3253e68ea1539e09666ac3185.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9071b549a233cba23f1666f311ad5a77.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c5a1eb3bb1b7c81ed42d4bb8cb176941db0d744>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04081283-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1045&ch=1045&exp=10800&fmt=webp> 「来年もここに戻るつもりでいて」米トランプ大統領が大谷翔平と初対面　熱狂的ヤ軍党もご満悦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f1409662dd2b4f679d697b6b34d1107b190a5d3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229435-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> iPS細胞由来の「心筋細胞シート」大阪大学発企業が厚労省へ承認申請　承認されれば世界初のiPS細胞を使った治療法か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1de0eca4db86c388579827b161b3735308124419>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000184-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=22&cw=898&ch=898&exp=10800&fmt=webp> ゼレンスキー氏「さらに多くの中国人がいる」露軍の侵略に参加した中国人捕虜の動画を投稿
       </a>
@@ -365,32 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/259b596347f3022b6b8c66de832ea340786bf64f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「心筋シート」を承認申請　iPS細胞の医療用製品で初　阪大発ベンチャー
+      <a href=https://news.yahoo.co.jp/articles/b73d857401c5859f4e10970eb307bbdc4722af04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NYダウ反発、一時1400ドル高　割安感で買い戻す動き広がる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4881ef015a481e463cdf866d49a827f22ca32cd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-05663911-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　ホワイトハウス訪問に感謝の思い「元をたどれば野球という競技自体が生まれて、僕の人生の中でも多くを占めている」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8db96e6993327b1f0b9b353122ceb95549f4145>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000130-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「トランプ関税ショック」で東証乱高下　歴史的な下落から急反発、投資家の不安は消えず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b45834bfe8c52eabddee5828ced4862db6b2966f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050145-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=315&ch=315&exp=10800&fmt=webp> フジテレビ、万博会場で予定していたコンサートを中止…公式サイト「諸般の事情を勘案」
+      <a href=https://news.yahoo.co.jp/articles/319c718bb4352921439e0ccc3251a3dac16a73b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-03133249-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “貿易戦争”激化か？トランプ関税に中国は「徹底抗戦」の構え…報復の応酬懸念
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534886>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/3be184ee831987010549726b28d74f9331da20dd67ad6a7551be229c5c469db1.jpg> 団地の自室に女性遺棄疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6534866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b7937845c4299508bed224522667331a223f3f3826c65cea66f5f9fc359cef69.jpg> 特殊詐欺Gのトップか 男を逮捕
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b6e73f804fda7117bb73d19c9bf612147dfdb481f2a76356c4afc00a8fbed7e2.jpg> 吉村知事 万博に「注文」続々
+      <a href=https://news.yahoo.co.jp/pickup/6534881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/d881eabc852aaa3831a7d761fd460a3ecd5ab81246a1666a5698ee48724ae37a.jpg> スマホひったくり ロンドンで急増
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534881>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/d881eabc852aaa3831a7d761fd460a3ecd5ab81246a1666a5698ee48724ae37a.jpg> スマホひったくり ロンドンで急増
+      <a href=https://news.yahoo.co.jp/pickup/6534884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b6e73f804fda7117bb73d19c9bf612147dfdb481f2a76356c4afc00a8fbed7e2.jpg> 吉村知事 万博に「注文」続々
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 23:51:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 00:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
