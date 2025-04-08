@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e429df60c505f7b8563fe8b0c44f7323.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/31044509806b838e29f5bdff7a557f04.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b8ea0927688d60c1d662970517e7052c6848358>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-02862548-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドジャースは今季初の連敗　大谷は4試合ぶりの一発含む3安打2打点
+      <a href=https://news.yahoo.co.jp/articles/1d108f276cd97ec2849e86c6fee3142d249188bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000029-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、初のホワイトハウス訪問、トランプ大統領の印象は…「思ったよりもかなり背が高かった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d399c68fef6ecd74de20aef92d6665990a93025>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000048-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=1050&ch=1050&exp=10800&fmt=webp> 大谷翔平「１日、１日、この国に感謝しています」ホワイトハウス訪問で思い明かす　トランプ大統領と握手「トップの方に会えたのが光栄」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4e3c5d0e928574b306deceb7a42fc6c1cff4353e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-16644713-bbc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1333&ch=1333&exp=10800&fmt=webp> トランプ米大統領、中国にさらに50％の関税をかけると脅し　最大で税率104％となる製品も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7aa50e760ec52cab32998419b16ea5e067428d3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000118-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース連敗も…大谷翔平は2ラン含む3安打　トランプ大統領表敬訪問後にサイクル安打逃すも大活躍
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534807>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/898c218d536e18f3710ca78fc8095d3cbfcfb41586942ba364048b19520ec2f6.jpg> 日経平均株価 4営業日ぶり急反発
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/f507dc2f59fd7a40ab6af9250233fcd42bad03e3462e44ec7d0bc16fd94eb14e.jpg> 日経平均株価 4営業日ぶり急反発
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 10:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 11:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
