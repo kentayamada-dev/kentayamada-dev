@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e5812d632c2781912a59c23399899d90.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c0bfc2b036c68cb76df965ac15b5288e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46e7777ad511b6486b0e6d1d759a6103758cd406>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-34080982-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 大谷翔平デコルテポーズ流行「イジられて盛り上がる分にはいい」コーセー「使っていただき光栄」
+      <a href=https://news.yahoo.co.jp/articles/920c37e34b1a04762397cd4225e6cb0f0e120d28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-54945983-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 医療搬送用ヘリ３人死亡事故　運輸安全委員会が佐賀航空を聞き取り調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9935880ce3041ff29bb6529e4b18e32a291f05c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-90025015-tncv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=520&ch=520&exp=10800&fmt=webp> 医療ヘリ3人死亡事故　救難信号が海上保安庁に届かず　機体に何らかのトラブルか　事故原因究明へ
+      <a href=https://news.yahoo.co.jp/articles/5060f6b4c3dfd50ee21f6b67ea8ad6b5f02bdac6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-04540246-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=295&ch=295&exp=10800&fmt=webp> 大阪・関西万博、フジ主催コンサート中止を発表「フジテレビからの申し出を受け」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/46e7777ad511b6486b0e6d1d759a6103758cd406>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-34080982-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 大谷翔平デコルテポーズ流行「イジられて盛り上がる分にはいい」コーセー「使っていただき光栄」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/733c38e6bbc36179510b39e9ffb482f4fc46f721>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-90025674-nsttv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日経平均株価“乱高下”に不安の声も…専門家に聞く“トランプショック” 今後のポイントは「アメリカ側の歩み寄り得られるか」新潟
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbe4960f2aced683a1ceb05e36a7017f75f996a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000010-mynavin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジテレビ、万博『めざましクラシックス』開催中止　『ぽかぽか』ライブは実施予定
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534855>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/48aec8476e1cf771df092f7755342cc31288c3925c4e1fda8c6af08b84b1b709.jpg> ウ大統領 軍の露内での活動認める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/30f62be42154c7a641b50ef2d3069999942151c95fd5cf23d46af64935924dbb.jpg> GWの天気 「春の熱中症」に注意
+      <a href=https://news.yahoo.co.jp/pickup/6534854>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/49cfb9f46d74fe3602acb77991e8b246f231646063bbb6e6ac222ca91730ee2b.jpg> トランプ関税 支持する米住民の声
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534812>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/4b283ac07b8945a384bab47182294bccc87f8e7fc22087cd8a6d9752bc17ae5a.jpg> 広末涼子容疑者 傷害疑いで逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534864>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/e6c87f5bf16466b61254f9c6569993ff9d5c45fe9e2bf8a00a53018f1a55be75.jpg> 毎日新聞GHDの元室長 書類送検
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 19:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 19:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
