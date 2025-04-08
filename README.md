@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/208693f26946076189a0d1eea5a87341.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0042ac3315e4c7c818bfadeafaaadc54.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dcf4d4de5e82292638e0b81dfdf4e9f44e64b26f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-09194187-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 無線機は壊れていた？　救難信号は国交省や海保に届かず　緊急事態を知らせる機長のコールも確認されず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ff47e7af4b63fddd08323ef1b6b8980f6d91fb0c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> フジ主催のコンサート中止に　6月開催予定、万博協会
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb67c0739bb63653e10838cbeca566b11349fb7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954597-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “トランプショック”で株価乱高下「怖い」「マイナス出た」シンニーアから不安の声　「目先の相場変動気にせず長期運用を」
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2f89c730959f26d2ad8b664516604ee4317f37a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000086-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 琉球放送の元女性アナ　同僚に薬物飲ませ逮捕、起訴　局は公式サイトで謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41fae6faf5e57e0830db22579bd543a62de6f5e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「米国の製造業を強化」　日本製鉄、USスチール買収の再審査を歓迎　早期の完了を期待
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534846>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b81c6498dc8f93c13cb34335606685ff5fd5d236b3c5cdbd193488bc07189d43.jpg> 終値3万3012円 過去4番目の上げ幅
+      <a href=https://news.yahoo.co.jp/pickup/6534858>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/bb5aaa7abcabba90051b15a9f7b6ed78b6c4c8afbe808843cca16c1736e548b6.jpg> トランプショック 東京株が乱高下
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534840>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/979f0e6916c8763690189f3f15a5e5533095db8f042d2464b08821dbc15116d9.jpg> AI暴走止める決め手 識者「ない」
+      <a href=https://news.yahoo.co.jp/pickup/6534855>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/48aec8476e1cf771df092f7755342cc31288c3925c4e1fda8c6af08b84b1b709.jpg> ウ大統領 軍の露内での活動認める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534844>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/0c59e66799a0688d75e7081be370d9b0f4662d7e8247195bff58ca369927ec21.jpg> 万博 吉村知事がメタンガスに言及
+      <a href=https://news.yahoo.co.jp/pickup/6534845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/30f62be42154c7a641b50ef2d3069999942151c95fd5cf23d46af64935924dbb.jpg> GWの天気 「春の熱中症」に注意
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 17:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 18:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
