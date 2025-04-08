@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d2ab85d102530e6960557f8ecfe3fe7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/466924df41e9592b96bece994943cfd5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3bb1d4dbbf43644db656e9bc1de33ebca703cfe9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050157-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ｉＰＳ細胞から「心筋細胞」のシート、医療用製品の承認申請は世界初か…大阪大発の企業
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/49e61e85e1760bcbbeef8c8859ad1bfa492171b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000104-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「積極的作戦」ゼレンスキー氏が初めて認める　ロシア西部で新たな越境攻撃
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000104-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「積極的作戦」ゼレンスキー氏が初めて認める　ロシア西部で新たな越境攻撃
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d8db96e6993327b1f0b9b353122ceb95549f4145>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000130-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「トランプ関税ショック」で東証乱高下　歴史的な下落から急反発、投資家の不安は消えず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f4cfae95ce2c3891c489282903c65d82c126968>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000227-kyodonews-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 【独自】基礎年金底上げ案、修正検討　厚生年金の受給総額を調整
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/30ea1dc41a7ccf1df83d83b61b8d0f0b3d2fc9f97a8b6e7b96d94e6e47057e58.jpg> ヘリ事故 離陸から17分後に着水か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534866>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b7937845c4299508bed224522667331a223f3f3826c65cea66f5f9fc359cef69.jpg> 特殊詐欺Gのトップか 男を逮捕
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/3129f754a24d661dfdcf61eda77c43a33efad740a77226b69f7a7cf4ef38bb72.jpg> 預金争奪戦 定期金利1%超も登場
+      <a href=https://news.yahoo.co.jp/pickup/6534877>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/9b2905b57b88eda410c2620493a3da5c2ae2b326d4d701bd81ad8ea4578bb8df.jpg> iPS細胞由来 心筋シート承認申請
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/2be6a665cf0905f908c2f4ce8fa83941f53ea4a8b61a2637e1afa2c57c8daec6.jpg> 矢沢 日本人最年長で東京D公演へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 21:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 21:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
