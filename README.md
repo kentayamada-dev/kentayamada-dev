@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b0fd2784f8110ce0cdf14797a18cb7d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf01b4a2fe5bf3b261e54c6eccba08df.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4b66b999d76673e07352c231bcf93182d2a98354>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04081311-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 豊洲上空にドローン５００機　矢沢永吉最年長７６歳で東京ドーム公演をド派手に発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/478c35426847b8a6b32783a9b45fa889e6b4481e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-35231527-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 米国の対中関税、９日から１０４％に　報復関税に対抗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/02daea9bb0f8e517489081cdcc9129513ebd9af8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000094-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=929&ch=929&exp=10800&fmt=webp> ドジャース　ホワイトハウスに続き、国会議事堂を表敬訪問　ロバーツ監督ら3人が参加
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35d4fbdcc20e1ea3fd066e753df5e58b135cf122>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04081320-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1113&ch=1113&exp=10800&fmt=webp> 「初回にどうもできなかったので」巨人甲斐拓也が執念同点打「もう、何とか気持ちで」笑顔でガッツポーズ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2acd84c0357b05e5da8b929949be75f16a44988>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000002-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「今夜0時に中国に104%関税が発効」ホワイトハウス報道官が明言
+      <a href=https://news.yahoo.co.jp/articles/10921a349d90d9f0435eb477d62916976548cd84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000003-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=1689&ch=1689&exp=10800&fmt=webp> ミキ熱弁　劇場で披露する漫才のこだわり「テレビとかでやったネタはやらない」４７都道府県制覇ツアーを今年で完走
       </a>
     </td>
   </tr>
@@ -402,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/28a6f2629b92cc9f894e48e66b9d9d7ee89814c9b8e4b12e9464896c858b4a91.jpg> トランプ氏肖像 描いた画家が窮地
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534866>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b7937845c4299508bed224522667331a223f3f3826c65cea66f5f9fc359cef69.jpg> 特殊詐欺Gのトップか 男を逮捕
       </a>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534881>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/d881eabc852aaa3831a7d761fd460a3ecd5ab81246a1666a5698ee48724ae37a.jpg> スマホひったくり ロンドンで急増
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534884>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b6e73f804fda7117bb73d19c9bf612147dfdb481f2a76356c4afc00a8fbed7e2.jpg> 吉村知事 万博に「注文」続々
       </a>
@@ -442,8 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/7d38855ad74ff834b1ac54256b613e68ad286efaa4247b3b49f2a8981ad610b9.jpg> 阪神・岡田彰布氏 始球式再び欠席
+      <a href=https://news.yahoo.co.jp/pickup/6534881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/d881eabc852aaa3831a7d761fd460a3ecd5ab81246a1666a5698ee48724ae37a.jpg> スマホひったくり ロンドンで急増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534887>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/46f8e3fb5ef81f4bba0175ac1c48622fbe7bf10fa279848767e392b9d0545869.jpg> 主力打者負傷相次ぐ SB緊急事態
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534888>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/0b2af4336fbef5d425204b95a284dc7a45935cb91cc0600af2db3bd5bf5708f7.jpg> ミキ昴生13kg減 亜生が方法明かす
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 06:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 06:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
