@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b11a983aa36ae4a7952e214a8430b6a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/904e88a3e9c3005d51fc3a72691aae2c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/031edf378bc2b3f15dc6da4ed7f09b1569fd7929>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000244-kyodonews-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=663&ch=663&exp=10800&fmt=webp> ウクライナ、中国人兵士2人拘束　ロシア軍に参加、義勇兵か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3bb1d4dbbf43644db656e9bc1de33ebca703cfe9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050157-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ｉＰＳ細胞から「心筋細胞」のシート、医療用製品の承認申請は世界初か…大阪大発の企業
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49e61e85e1760bcbbeef8c8859ad1bfa492171b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000104-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「積極的作戦」ゼレンスキー氏が初めて認める　ロシア西部で新たな越境攻撃
+      <a href=https://news.yahoo.co.jp/articles/4881ef015a481e463cdf866d49a827f22ca32cd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-05663911-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　ホワイトハウス訪問に感謝の思い「元をたどれば野球という競技自体が生まれて、僕の人生の中でも多くを占めている」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b45834bfe8c52eabddee5828ced4862db6b2966f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050145-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=315&ch=315&exp=10800&fmt=webp> フジテレビ、万博会場で予定していたコンサートを中止…公式サイト「諸般の事情を勘案」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46e7777ad511b6486b0e6d1d759a6103758cd406>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-34080982-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=897&ch=897&exp=10800&fmt=webp> 大谷翔平デコルテポーズ流行「イジられて盛り上がる分にはいい」コーセー「使っていただき光栄」
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534875>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/394a55dfebc76146bef41acf3568e22dce06e39a308f47bb60a7b4522f48f1e5.jpg> 北朝鮮兵 軍事境界線を一時侵犯
+      <a href=https://news.yahoo.co.jp/pickup/6534880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/7edaaad9bf672dd34f57d5373be9ffe983164c60d2f3470b2e374ac5dc286789.jpg> ウクライナ 中国人兵士2人を拘束
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534860>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/28a6f2629b92cc9f894e48e66b9d9d7ee89814c9b8e4b12e9464896c858b4a91.jpg> トランプ氏肖像 描いた画家が窮地
       </a>
     </td>
   </tr>
@@ -435,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534879>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 児童がPTSD いじめ重大事態認定
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 児童がPTSD いじめ重大事態認定
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534872>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/59f8dd914baf1f1c04306d0b86fd19a727a5fd553abb81077d1265a7bfc7e371.jpg> 野村証券 一部の買い注文停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534878>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/997b8ee63ec3cdd70eaee8626eac9c47915de678c81c810cb6046ee7f89381d2.jpg> 中村剛也が代打弾 22年連続のHR
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 22:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 22:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
