@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9b97469acf6e1d79aeed8020c797b3b7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/208693f26946076189a0d1eea5a87341.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6551eb2cbcbae18a37debf00d80e8a404d1f3ea8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-01746945-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平「みんながたくさん打っている証拠」ドジャース流行のポーズに言及　今季初の連敗も「いい雰囲気」
+      <a href=https://news.yahoo.co.jp/articles/ff47e7af4b63fddd08323ef1b6b8980f6d91fb0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> フジ主催のコンサート中止に　6月開催予定、万博協会
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/21ae25a755622c0de3d88125a3d438820e02e34b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-10172622-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=681&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 「いいチームだな」ベッツが、スミスが、エドマンが…ド軍ナインの個性あふれる“デコルテポーズ”3連発！ 今日も飛び出した大谷翔平“愛されパフォ”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d107b68cf1de180ab9b02efc1edca471b9987316>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000161-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=678&ch=678&exp=10800&fmt=webp> ロシア西部州でウクライナ軍展開　ゼレンスキー大統領が初確認
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2f89c730959f26d2ad8b664516604ee4317f37a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000086-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 琉球放送の元女性アナ　同僚に薬物飲ませ逮捕、起訴　局は公式サイトで謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5dab4726caa0c2833320100fdd5f34efbb21832>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050662-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 万博開幕日は「数十分早めた方がいい」　吉村知事が「アーリーオープン」検討　入場ゲートの混雑解消へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2a1e19cf5318181350b41d87f0e21f2c407eff4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229351-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=532&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】トランプ大統領「50％追加関税」に中国外務省「対抗措置をとり、自国の権益を守る」徹底抗戦の構え
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534838>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/8cc08d41f95066128d0dc4e3cf310676348abbd128766a67ba33e10b266c830e.jpg> ミャンマー地震 生還男性語る不安
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534841>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/a2ce66c61d2a152e73f8a352fffc315ad0416cbeeae97f781bc2dc69056b3484.jpg> ライドシェア「足」不足続く地方
+      <a href=https://news.yahoo.co.jp/pickup/6534840>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/979f0e6916c8763690189f3f15a5e5533095db8f042d2464b08821dbc15116d9.jpg> AI暴走止める決め手 識者「ない」
       </a>
     </td>
   </tr>
@@ -428,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534844>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/0c59e66799a0688d75e7081be370d9b0f4662d7e8247195bff58ca369927ec21.jpg> 万博 吉村知事がメタンガスに言及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534842>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/63eee22c9c6c41d152b9d2b0a41df27918cc401931c95c614dd7ad36b576c8fa.jpg> 百日ぜき 1週間の感染者数が最多
       </a>
     </td>
   </tr>
@@ -458,8 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534832>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/e52f4897d5fcea08d4f0a3bb8e0576e37c5269be0c7e0aa5c864ba7e5dfe1be6.jpg> 野球→役者 SixTONES田中樹の弟
+      <a href=https://news.yahoo.co.jp/pickup/6534849>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/608940250c72db25c5227fee340058c36c7493c103cfe66a8916f0d66a85eb85.jpg> 絶滅のオオカミ ゲノム編集で誕生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534857>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/e52f4897d5fcea08d4f0a3bb8e0576e37c5269be0c7e0aa5c864ba7e5dfe1be6.jpg> 球児→役者に アイドル田中樹の弟
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534853>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/cd6d0857ba062c1a8ed4864124ce2c6b32009445027c9bd3666f5fa620d6e05e.jpg> 万博 フジ主催のコンサート中止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 17:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 17:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
