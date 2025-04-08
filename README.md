@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/605fbab6103cb247393fcbd5cc4fdeca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51ab7ac392e579461219d79e7cf08f2b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63737382d4ceeaa88bd10ac8e034a620f01f5d54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00010009-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「ただ気分が違う！」大谷翔平、第4号ツーランホームラン！　米メディアも驚愕「彼のバットから…」
+      <a href=https://news.yahoo.co.jp/articles/800990a8c95aeacb01c84b93d6885472916ecd8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00010010-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=554&ch=554&exp=10800&fmt=webp> 広末涼子容疑者の所属事務所が謝罪コメントを発表。逮捕の経緯と今後の芸能活動について【コメント全文】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b29669d6165714b3b7482ac0713e8a1d3f12d3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229263-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「あなたたちは自分の国を開放しなければならない」石破総理との電話会談で市場の「開放」を求める　関税をめぐる日米協議の担当閣僚指名
+      <a href=https://news.yahoo.co.jp/articles/cb83f6b4937ea6b358eafe1d17ea73d46d9400aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07193984-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷のポーズにSNSも話題「素晴らしいデコル谷」「売り上げ倍増しそうですね」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bcfa8003a8673d18331ffd2fe97ff6ade2de11a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ８割超が対馬・壱岐向け、福岡和白病院のヘリコプター運用　当面は見合わせ…長崎・壱岐沖で事故
+      <a href=https://news.yahoo.co.jp/articles/5b09fae38d5667cfb95d8926ba5b382711c4b0d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-01514897-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 中国「米国のいじめに最後まで付き合う」報復関税撤回せず　トランプ大統領表明の“50％追加関税”に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/86dc754e104384f0f7b5f0a3880d8fb41a0a0189>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954385-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領がUSスチール買収計画の再審査を指示　日鉄「早期の審査完了を期待」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/257a81a715089b92f4aec8f5fb6a9d259048108f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000039-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日経平均反発、ほぼ全面高　専門家「早期相場回復の意見は少数」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26693ea98a3b9d97df23a4fd212f4d3779eb22a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本製鉄株、一時11％高　買収計画進展に期待感
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/d14893d91b70af99231604e2fe1ee2c8bbcb041c3e97d26b388662928e512a51.jpg> 男性死亡 傷害疑いで同居の男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6534817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/8510f6c02b76458b0ab2dc9fc0ba280d991e9d906b4658124e76f1f79d9012f2.jpg> ヘリ事故 悲報に知人言葉詰まらせ
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534816>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/33e65816a5eab879f0ee2aa2ac363c6acd4d175c0bb9a73635d5368527c8fdeb.jpg> 広末容疑者が活動自粛 事務所発表
+      <a href=https://news.yahoo.co.jp/pickup/6534822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/3b574dd8cd60d51ce11627a675bcdd12a2334f7b397f1bd41f8bff01580a9e95.jpg> 広末容疑者 当初「自称」発表の訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/6a6dd499ef5326708849fa67c446f8996a92c12eec3518d9536b0c9489f58344.jpg> トランプ氏を表敬 大谷絶賛される
+      <a href=https://news.yahoo.co.jp/pickup/6534823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/f196e283167ad7d08a2a37bc8007dd4696ecc33e4f70bc71fd39a7ec8e2f1004.jpg> 大谷 ド軍流行のCMポーズに言及
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 12:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 12:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
