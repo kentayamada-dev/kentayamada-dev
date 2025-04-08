@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51ab7ac392e579461219d79e7cf08f2b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/81649e9e7d12a560462c697c6614e21d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/800990a8c95aeacb01c84b93d6885472916ecd8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00010010-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=554&ch=554&exp=10800&fmt=webp> 広末涼子容疑者の所属事務所が謝罪コメントを発表。逮捕の経緯と今後の芸能活動について【コメント全文】
+      <a href=https://news.yahoo.co.jp/articles/ea3a9b896cff90c321f402b150fcc3cd90cc4984>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050077-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=110&cy=0&cw=281&ch=281&exp=10800&fmt=webp> ＵＳスチール買収計画巡り新たな審査命令、日鉄「早期の審査完了を期待する」
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86dc754e104384f0f7b5f0a3880d8fb41a0a0189>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954385-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領がUSスチール買収計画の再審査を指示　日鉄「早期の審査完了を期待」
+      <a href=https://news.yahoo.co.jp/articles/aa854737858923b4db03bc0596b92612062d3de0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000378-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=496&ch=496&exp=10800&fmt=webp> “元ヤマンバギャル”あぢゃ、第3子妊娠を報告「無事に元気なbabyを抱きしめたい」【全文】
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 12:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 13:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
