@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/83df50e0ccb3eac7ec592b3a147ac7c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b0fd2784f8110ce0cdf14797a18cb7d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35d4fbdcc20e1ea3fd066e753df5e58b135cf122>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04081320-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1113&ch=1113&exp=10800&fmt=webp> 「初回にどうもできなかったので」巨人甲斐拓也が執念同点打「もう、何とか気持ちで」笑顔でガッツポーズ
+      <a href=https://news.yahoo.co.jp/articles/02daea9bb0f8e517489081cdcc9129513ebd9af8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000094-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=929&ch=929&exp=10800&fmt=webp> ドジャース　ホワイトハウスに続き、国会議事堂を表敬訪問　ロバーツ監督ら3人が参加
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f20a8b54bcf4f474ad111efa5a74c62c3c2c510f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000093-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=1018&ch=1018&exp=10800&fmt=webp> “ムービースター”ドジャース・大谷　ナショナルズ戦に「1番・DH」でスタメン出場　首位奪還なるか
+      <a href=https://news.yahoo.co.jp/articles/35d4fbdcc20e1ea3fd066e753df5e58b135cf122>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04081320-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1113&ch=1113&exp=10800&fmt=webp> 「初回にどうもできなかったので」巨人甲斐拓也が執念同点打「もう、何とか気持ちで」笑顔でガッツポーズ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 05:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 06:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
