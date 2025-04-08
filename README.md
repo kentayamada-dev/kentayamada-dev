@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/15e43014c0fd933956d73cac16a218d8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bee41af02263bbdc47526704043cc79e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b28481d2322cc4cd881f0e3d8e066b809649cc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000019-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ関税「最後まで闘う」 中国
+      <a href=https://news.yahoo.co.jp/articles/8245a3ef30e067a81649c077b2e1107dbbf70701>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000062-ann-000-1-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”中国商務省「最後まで付き合う」徹底抗戦の構え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc87618e2caf5290d1265a4f352f69ba05d025b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 日米関税協議の行方は険しい：USスチール買収計画を再審査へ
+      <a href=https://news.yahoo.co.jp/articles/d7838839e409c80a6a1dd12aae3234598b89aaf1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000050-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=823&ch=823&exp=10800&fmt=webp> チョコプラ、デビュー20周年を記念したライブ 松尾駿「高いチケット買ってください」 最高価格は10万円50席
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/41fae6faf5e57e0830db22579bd543a62de6f5e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「米国の製造業を強化」　日本製鉄、USスチール買収の再審査を歓迎　早期の完了を期待
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa854737858923b4db03bc0596b92612062d3de0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000378-oric-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=496&ch=496&exp=10800&fmt=webp> “元ヤマンバギャル”あぢゃ、第3子妊娠を報告「無事に元気なbabyを抱きしめたい」【全文】
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/2e8f04d1641252d1bf31c6785ce136675ab9c06b3fa65f86653f97f1a46c9fc1.jpg> 自民幹部ら 消費減税に否定的発言
+      <a href=https://news.yahoo.co.jp/pickup/6534829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/5456a0678ce5ed21ae6b339f036055ed75770e12ddebe993b15c940f782ddcc0.jpg> トランプ関税 計算式に批判相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/5456a0678ce5ed21ae6b339f036055ed75770e12ddebe993b15c940f782ddcc0.jpg> トランプ関税 計算式に批判相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6534830>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/3bd1457db3c0e3a7a5e61719314afd1fa5255ce9869fa0459f01d3ae5e9b2851.jpg> 「隠れ教育費」じわり家計を圧迫
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/f1be532ad245171475a183c707750c4942d4b8078ca3c7c25d712b16c0110e28.jpg> 中国で開発「ジャガイモ米」味は
+      <a href=https://news.yahoo.co.jp/pickup/6534828>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/32636700cc7a348cab90ab1dc24451dbc0f5b4760d4c05841209ac54ed70d2ea.jpg> 「チェキ」販売台数 1億台を突破
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/f196e283167ad7d08a2a37bc8007dd4696ecc33e4f70bc71fd39a7ec8e2f1004.jpg> 大谷 ド軍流行のCMポーズに言及
+      <a href=https://news.yahoo.co.jp/pickup/6534835>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/2cf31440422dfcf0a47a6a45fdbd36a85aed9f4b92332a73b513e0dd47730488.jpg> 大谷サイクル逃した打席 監督絶賛
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 14:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 14:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
