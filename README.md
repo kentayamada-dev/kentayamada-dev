@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d0ca8f95b2da7a7e485929f2a3af1f63.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/455fe6d6beaa975ff41a3a50f06e6b80.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/368c855c00c464a410c4def5fc8335425024d47f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-06244552-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 医療搬送用ヘリ事故　救難信号が国交省と海保に届かず
+      <a href=https://news.yahoo.co.jp/articles/b5dab4726caa0c2833320100fdd5f34efbb21832>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050662-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 万博開幕日は「数十分早めた方がいい」　吉村知事が「アーリーオープン」検討　入場ゲートの混雑解消へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e2a1e19cf5318181350b41d87f0e21f2c407eff4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-07229351-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=532&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】トランプ大統領「50％追加関税」に中国外務省「対抗措置をとり、自国の権益を守る」徹底抗戦の構え
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2bb1e82770b4e18e2506756a9059f0b6eb3381a5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-10172646-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=435&cy=0&cw=566&ch=566&exp=10800&fmt=webp> 全国の百日ぜき感染者578人で最多更新 兵庫県と沖縄県で多発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b56298fc429ea3e497f5e88f0f8b3e2a3c97fc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000052-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 中国「受け入れぬ、とことん戦う」　トランプ氏の報復関税撤回要請に
       </a>
     </td>
   </tr>
@@ -434,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534830>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/3bd1457db3c0e3a7a5e61719314afd1fa5255ce9869fa0459f01d3ae5e9b2851.jpg> 「隠れ教育費」じわり家計を圧迫
+      <a href=https://news.yahoo.co.jp/pickup/6534842>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/63eee22c9c6c41d152b9d2b0a41df27918cc401931c95c614dd7ad36b576c8fa.jpg> 百日ぜき 1週間の感染者数が最多
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534842>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/63eee22c9c6c41d152b9d2b0a41df27918cc401931c95c614dd7ad36b576c8fa.jpg> 百日ぜき 1週間の感染者数が最多
+      <a href=https://news.yahoo.co.jp/pickup/6534847>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/fdac724795ed5fa8084b902c069d9f8f3dc0947b2f12301c2102f9d73b684b35.jpg> 施設から逃げたイルカを保護 香川
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534832>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/e52f4897d5fcea08d4f0a3bb8e0576e37c5269be0c7e0aa5c864ba7e5dfe1be6.jpg> 野球→役者 SixTONES田中樹の弟
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534837>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/f88a785a7c1b5cd0cf86390f7009a0aaa4ee0ef7cc3eb6ed0c14e61384033d6c.jpg> チョコプラ公演「攻めた」高額席
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 16:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 16:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
