@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a0c90fb08f228f5bc1f93b4888fb6879.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e1ce6ed1b8fc8d243b7f8f542ac59b46.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99f9afbef445f7d43063688a7ab32b5307f48091>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010002-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【巨人】DeNAに延長引き分け　指揮官も悩ます注目のサード争い　若手の中山礼都に「求められる姿勢」
+      <a href=https://news.yahoo.co.jp/articles/73d1727440be0c6b7c3156ff255531ea3b979315>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04091017-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=1076&ch=1076&exp=10800&fmt=webp> 大谷翔平、第１打席は初対戦の２５歳右腕の前に空振り三振…開幕から１２試合連続出塁なるか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e955fc3fdb7f5422cc4773fc01f3e27e1f102f5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000008-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=294&ch=294&exp=10800&fmt=webp> 関税最高１０４％、トランプ大統領が対中威嚇…中国「断固反撃」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b76e5d363a682da77044231084fec39da8e7c15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000221-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=929&ch=929&exp=10800&fmt=webp> 巨人・岡本和真が開幕から10試合連続安打　劣勢でタイムリー＆同点ホームイン
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/779d5a1f148e93e44e652d9088a4b493b8b242cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-10172744-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=975&ch=975&exp=10800&fmt=webp> 北朝鮮軍10人あまりが境界線越え南側へ 韓国軍が警告射撃
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aaeaad9e3e9c5ff9439663dc327e4297d16f6883>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04091015-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=473&ch=473&exp=10800&fmt=webp> 大谷翔平は不参加も…　ド軍・ロバーツ監督らが国会議事堂を訪問　前日にはホワイトハウスと大忙し
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-10172744-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=975&ch=975&exp=10800&fmt=webp> 北朝鮮軍10人あまりが境界線越え南側へ 韓国軍が警告射撃
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/478c35426847b8a6b32783a9b45fa889e6b4481e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-35231527-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 米国の対中関税、９日から１０４％に　報復関税に対抗
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534873>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/8572b97d0b62de448eb7a18413703ab95dff9c9d5ab425d80bf7f6e84b2af62c.jpg> 基礎年金底上げ案 政府が修正検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/c85db013d997fe5dbc32d9b677742c8cdd7be98e82b7fd068e4fa22bcddd00d2.jpg> 備蓄米追加放出へ 首相が近く指示
+      <a href=https://news.yahoo.co.jp/pickup/6534896>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/1a796687d6f746db46824d1b33fdf65c397d046966b69a26ed3e8deb2e1fe2ea.jpg> 米「相互関税」第2弾 きょう発動
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/ffe02708371bcb7cad00f377b5d0d8c3de770d951e42548d4d82e4a07958a187.jpg> ホンダに激震 副社長辞任の影響
+      <a href=https://news.yahoo.co.jp/pickup/6534897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/7f137d6c1becba83d976ec3fc86fbf7ba1f500df1e21a11f9db2ed8f7f39eedd.jpg> 米、日本に農産物輸入拡大要求へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/c85db013d997fe5dbc32d9b677742c8cdd7be98e82b7fd068e4fa22bcddd00d2.jpg> 備蓄米追加放出へ 首相が近く指示
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 07:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 08:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
