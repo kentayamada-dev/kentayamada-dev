@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bee41af02263bbdc47526704043cc79e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/89a7905eea6f32f326d74001077f8ea8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8245a3ef30e067a81649c077b2e1107dbbf70701>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000062-ann-000-1-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”中国商務省「最後まで付き合う」徹底抗戦の構え
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000062-ann-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”中国商務省「最後まで付き合う」徹底抗戦の構え
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41fae6faf5e57e0830db22579bd543a62de6f5e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「米国の製造業を強化」　日本製鉄、USスチール買収の再審査を歓迎　早期の完了を期待
+      <a href=https://news.yahoo.co.jp/articles/b24de9ce7035f0a7e475db17cdb2849692c4d1e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00010005-mbsnews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博会場でメタンガスに吉村知事「空気より軽いので自然換気すれば対応できる」「単体で爆発するものではない」着火すれば“爆発起こす濃度”を検出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/460ab1bcdcc5e37ae05d4777b3fc61860ae4b702>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050107-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=124&cw=376&ch=376&exp=10800&fmt=webp> 投資家に買い戻しの動き、日経平均一時２１００円超上昇…ＮＹダウは乱高下
+      <a href=https://news.yahoo.co.jp/articles/41fae6faf5e57e0830db22579bd543a62de6f5e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「米国の製造業を強化」　日本製鉄、USスチール買収の再審査を歓迎　早期の完了を期待
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534830>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/3bd1457db3c0e3a7a5e61719314afd1fa5255ce9869fa0459f01d3ae5e9b2851.jpg> 「隠れ教育費」じわり家計を圧迫
+      <a href=https://news.yahoo.co.jp/pickup/6534841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/a2ce66c61d2a152e73f8a352fffc315ad0416cbeeae97f781bc2dc69056b3484.jpg> ライドシェア「足」不足続く地方
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534821>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/5c319af29f35edc9fae0402f9cbb8a923dfef81238c9c63414eee5c6d3ffaf5c.jpg> 聴取長時間続き 12歳が「自白」か
+      <a href=https://news.yahoo.co.jp/pickup/6534830>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/3bd1457db3c0e3a7a5e61719314afd1fa5255ce9869fa0459f01d3ae5e9b2851.jpg> 「隠れ教育費」じわり家計を圧迫
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534827>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/757e73d6fc897d2550c9c5c2e478b435e0079b4fc41c5ec26b4d3a4cd13e3be7.jpg> あぢゃ 第3子の妊娠を発表
+      <a href=https://news.yahoo.co.jp/pickup/6534836>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/e97aed58f2864dd84a35aae1cdd104bdb267bedaf6e1ce87a335228a871abf91.jpg> 東野圭吾氏の小説 初アニメ映画化
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 14:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 15:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
