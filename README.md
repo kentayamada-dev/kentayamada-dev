@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3f4e918c8283a4dd240357752d1288fa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a4e0a55e7a715d21a9226cbb28447241.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3cd9f193cd90428cc835b098688b1b8171da2de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> USスチール買収、新たな審査命令　安保リスク、日鉄提案を検証　トランプ氏
+      <a href=https://news.yahoo.co.jp/articles/063bbdd68be1ffaef0573aeea1dbce8fea2685f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954317-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> NYマーケット続落　ダウ平均3万7965ドル60セント　ナスダック1万5603.26
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d8ae23a685d370e4fc8030404ddbd2bc31432d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00010002-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米メディアは大谷翔平との握手でバレたトランプ大統領の“身長詐称”に注目？！
+      <a href=https://news.yahoo.co.jp/articles/e82260de8e140f4448d923a7657e835c5ae1f35f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領、中国が対米報復やめなければ「関税50％上乗せ」　SNSで表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88ab767bbed71ea06cf15d723b7bd2aa8c890058>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000023-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1469&ch=1469&exp=10800&fmt=webp> トランプ氏が対中追加関税警告、ＥＵは報復措置提案　市場の動揺続く
+      <a href=https://news.yahoo.co.jp/articles/981114182209b4de7fbc318b2fcf819a1a3172e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250407-00000170-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=898&ch=898&exp=10800&fmt=webp> ドジャース・大谷翔平、4試合ぶり4号2ラン　ホワイトハウス訪問の日に豪快一発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37bfa01546bfe10398bb6023053a42cf097791d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-01832768-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 7日の米NYダウ平均株価、一時1700ドル超下げ　関税措置「90日間停止」誤情報で急反発など乱高下
+      <a href=https://news.yahoo.co.jp/articles/139c38e29093e0b9c07bc092de7f6206494bb58a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-10172558-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=975&ch=975&exp=10800&fmt=webp> “USスチール買収”再審査 トランプ氏の指示に日鉄「感謝」
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534793>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/73c4484a8b277d55e01b01e44d3034cf9556fc29fd7885b7a1d46895f4a2aaaa.jpg> 大谷らトランプ氏表敬 笑顔で握手
+      <a href=https://news.yahoo.co.jp/pickup/6534803>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/cedaebb35cf876af730aa9bbcfd411b70224db4d5ef1c1fe325c12e0f6de01e4.jpg> 大谷翔平 4試合ぶりの4号2ラン
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 08:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 09:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
