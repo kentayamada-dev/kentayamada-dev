@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9071b549a233cba23f1666f311ad5a77.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b646b507a3f902b51e15e9c8387407cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c5a1eb3bb1b7c81ed42d4bb8cb176941db0d744>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04081283-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1045&ch=1045&exp=10800&fmt=webp> 「来年もここに戻るつもりでいて」米トランプ大統領が大谷翔平と初対面　熱狂的ヤ軍党もご満悦
+      <a href=https://news.yahoo.co.jp/articles/cd3d2c6c94de43a1a53af35ecbf90237e0856085>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04081281-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=1128&ch=1128&exp=10800&fmt=webp> 大谷翔平は「ムービースター」トランプ大統領に応える４号　サイクル王手での四球にはロバーツ監督絶賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/df1850217374119522af1f139d75357941682be5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00954896-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 中国外務省「最後まで付き合う」アメリカの“50％追加関税”警告に反発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2116eda3531cddadcee5cd31fdb05fb96f1b3dcc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000114-ann-000-5-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　日鉄のUSスチール買収提案めぐり再審査を指示
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1de0eca4db86c388579827b161b3735308124419>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000184-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=22&cw=898&ch=898&exp=10800&fmt=webp> ゼレンスキー氏「さらに多くの中国人がいる」露軍の侵略に参加した中国人捕虜の動画を投稿
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b73d857401c5859f4e10970eb307bbdc4722af04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NYダウ反発、一時1400ドル高　割安感で買い戻す動き広がる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/319c718bb4352921439e0ccc3251a3dac16a73b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-03133249-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “貿易戦争”激化か？トランプ関税に中国は「徹底抗戦」の構え…報復の応酬懸念
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000184-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=22&cw=898&ch=898&exp=10800&fmt=webp> ゼレンスキー氏「さらに多くの中国人がいる」露軍の侵略に参加した中国人捕虜の動画を投稿
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 00:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 01:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
