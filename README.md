@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/oUTTzWt2Jtk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e1ce6ed1b8fc8d243b7f8f542ac59b46.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e2b8a796d4753033ce9ba25d2ef43e25.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73d1727440be0c6b7c3156ff255531ea3b979315>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04091017-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=1076&ch=1076&exp=10800&fmt=webp> 大谷翔平、第１打席は初対戦の２５歳右腕の前に空振り三振…開幕から１２試合連続出塁なるか
+      <a href=https://news.yahoo.co.jp/articles/e622212c46158858067361f7253df66efd7d4093>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-07229484-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=525&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米トランプ政権 「相互関税」第2弾を日本時間きょう午後 発動へ　日本には24％、中国には104％の関税
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e955fc3fdb7f5422cc4773fc01f3e27e1f102f5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000008-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=294&ch=294&exp=10800&fmt=webp> 関税最高１０４％、トランプ大統領が対中威嚇…中国「断固反撃」
+      <a href=https://news.yahoo.co.jp/articles/73d1727440be0c6b7c3156ff255531ea3b979315>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04091017-sph-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平、第１打席は初対戦の２５歳右腕の前に空振り三振…開幕から１２試合連続出塁なるか
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/e7e269c7ec74dfc4e7b84a10aebf41017314683765b47a9197ae1b3c29fe338b.jpg> NYダウ 一時大幅上昇も320ドル安
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534897>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/7f137d6c1becba83d976ec3fc86fbf7ba1f500df1e21a11f9db2ed8f7f39eedd.jpg> 米、日本に農産物輸入拡大要求へ
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/c85db013d997fe5dbc32d9b677742c8cdd7be98e82b7fd068e4fa22bcddd00d2.jpg> 備蓄米追加放出へ 首相が近く指示
+      <a href=https://news.yahoo.co.jp/pickup/6534891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/e7e269c7ec74dfc4e7b84a10aebf41017314683765b47a9197ae1b3c29fe338b.jpg> NYダウ 一時大幅上昇も320ドル安
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/bb19ac83fa2046440880f1f39f01f31d67adcdea3621d779627389bcbf7356bc.jpg> 8年前に10代を性的暴行疑い 逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 08:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 08:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
