@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c6753e0bff50d22a65b4260f2a3544f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a0c90fb08f228f5bc1f93b4888fb6879.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/99f9afbef445f7d43063688a7ab32b5307f48091>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010002-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【巨人】DeNAに延長引き分け　指揮官も悩ます注目のサード争い　若手の中山礼都に「求められる姿勢」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/779d5a1f148e93e44e652d9088a4b493b8b242cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-10172744-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=975&ch=975&exp=10800&fmt=webp> 北朝鮮軍10人あまりが境界線越え南側へ 韓国軍が警告射撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aaeaad9e3e9c5ff9439663dc327e4297d16f6883>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04091015-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=473&ch=473&exp=10800&fmt=webp> 大谷翔平は不参加も…　ド軍・ロバーツ監督らが国会議事堂を訪問　前日にはホワイトハウスと大忙し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b955b932b18c99264a5d278c900c2c87172e8dd4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-35231528-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=310&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ウクライナ、ロシア軍参加の中国人２人を拘束
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20e311435f7e7dabce10518c32a0f4db7205784e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-21841648-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「相互関税」日本は24％どう対処?トランプ発言に隠された「交渉のヒント」とは【Bizスクエア】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b66b999d76673e07352c231bcf93182d2a98354>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04081311-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 豊洲上空にドローン５００機　矢沢永吉最年長７６歳で東京ドーム公演をド派手に発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/478c35426847b8a6b32783a9b45fa889e6b4481e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-35231527-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 米国の対中関税、９日から１０４％に　報復関税に対抗
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02daea9bb0f8e517489081cdcc9129513ebd9af8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000094-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=929&ch=929&exp=10800&fmt=webp> ドジャース　ホワイトハウスに続き、国会議事堂を表敬訪問　ロバーツ監督ら3人が参加
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534873>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/8572b97d0b62de448eb7a18413703ab95dff9c9d5ab425d80bf7f6e84b2af62c.jpg> 基礎年金底上げ案 政府が修正検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/7edaaad9bf672dd34f57d5373be9ffe983164c60d2f3470b2e374ac5dc286789.jpg> ウクライナ 中国人兵士2人を拘束
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b6e73f804fda7117bb73d19c9bf612147dfdb481f2a76356c4afc00a8fbed7e2.jpg> 吉村知事 万博に「注文」続々
+      <a href=https://news.yahoo.co.jp/pickup/6534894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/2734667a09565e76ab72f2531d287e00938da46b35b5c8761f59da8be44cbba1.jpg> 有馬温泉で素泊まり 増える背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534892>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/18da8db6f5c3fa14c720f23de785645d2a8e5dbe345c844ed16794ecfa75d3c8.jpg> 巨人監督 中山礼都に苦言連発
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 07:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 07:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
