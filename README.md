@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/oUTTzWt2Jtk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/904e88a3e9c3005d51fc3a72691aae2c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/00728bc4940c5f4915ed0136d5af597e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/031edf378bc2b3f15dc6da4ed7f09b1569fd7929>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000244-kyodonews-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=663&ch=663&exp=10800&fmt=webp> ウクライナ、中国人兵士2人拘束　ロシア軍に参加、義勇兵か
+      <a href=https://news.yahoo.co.jp/articles/7361acfc80252940a0f672222d7b33e2467a2c2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050190-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシア軍一員の中国人２人を拘束、ゼレンスキー氏が映像も投稿…中国政府に確認求める意向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3bb1d4dbbf43644db656e9bc1de33ebca703cfe9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050157-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=55&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ｉＰＳ細胞から「心筋細胞」のシート、医療用製品の承認申請は世界初か…大阪大発の企業
+      <a href=https://news.yahoo.co.jp/articles/259b596347f3022b6b8c66de832ea340786bf64f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「心筋シート」を承認申請　iPS細胞の医療用製品で初　阪大発ベンチャー
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b7937845c4299508bed224522667331a223f3f3826c65cea66f5f9fc359cef69.jpg> 特殊詐欺Gのトップか 男を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534879>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/288e90d2b557b505f4d3dbb4695b72c791262772c36f0cd8c0fb43fb99236b74.jpg> 児童がPTSD いじめ重大事態認定
       </a>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/d881eabc852aaa3831a7d761fd460a3ecd5ab81246a1666a5698ee48724ae37a.jpg> スマホひったくり ロンドンで急増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534874>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/7d38855ad74ff834b1ac54256b613e68ad286efaa4247b3b49f2a8981ad610b9.jpg> 阪神・岡田彰布氏 始球式再び欠席
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 22:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 23:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
