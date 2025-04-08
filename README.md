@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5085ff7cf631086d50328b4133aae4b3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab5597c24330475ac99e988cdeb2a8db.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ddee55b47b6642fa9aa5fbcfaea3f0a16b8cf995>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000002-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1364&ch=1364&exp=10800&fmt=webp> 日鉄のUSスチール買収計画、再審査を指示 トランプ氏
+      <a href=https://news.yahoo.co.jp/articles/5863b623deda44a5fbf0fc912688d729fb5b96cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000111-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　第4打席は見逃し三振　サイクル安打王手も二塁打出ず…
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81aa20de5c9c3ae448328b10e65b381ca23b9b8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000001-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ドジャースがホワイトハウス表敬訪問、トランプ氏は大谷称賛
+      <a href=https://news.yahoo.co.jp/articles/27c8fb3edb3d5a6a535435c63d8ac2e870c2ece7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00010001-shimint-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=661&ch=661&exp=10800&fmt=webp> 長野道でもETC障害　応急復旧完了で解消　長野県中信地区
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9212df40c6e6ad1e87b61d8920e9cc64df6e241>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-10172567-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=257&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 株価が連日下落 トランプ大統領「『相互関税』の猶予は考えていない」
+      <a href=https://news.yahoo.co.jp/articles/1d4dc7d7b8a6b95d4e12948fddfe361c41cf21e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000022-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=539&ch=539&exp=10800&fmt=webp> 日本製鉄、トランプ氏指示に「感謝」　USスチール買収計画再審査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/063bbdd68be1ffaef0573aeea1dbce8fea2685f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00954317-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> NYマーケット続落　ダウ平均3万7965ドル60セント　ナスダック1万5603.26
+      <a href=https://news.yahoo.co.jp/articles/04e7ca027d02e3bcc76d14296f410972f7b4ec04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000017-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 日経平均株価が急反発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7ebe640ac58e7e317efe5377b427c7108c5c628>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000003-at_s-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=244&ch=244&exp=10800&fmt=webp> ETC障害の応急復旧が完了　静岡県内高速道、最大16カ所のICに影響
+      <a href=https://news.yahoo.co.jp/articles/ae4f16eaac7c191ec27144d038774a3bfebfbcb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、147円台後半＝米関税への警戒一服で大幅上昇（8日午前9時）
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534807>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/c01ed755a912961a987b2c1d73c8578eeb520050d5284b9015fa4ba20e47e38e.jpg> 日経平均株価 4営業日ぶり急反発
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/898c218d536e18f3710ca78fc8095d3cbfcfb41586942ba364048b19520ec2f6.jpg> 日経平均株価 4営業日ぶり急反発
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534799>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/7e5b7f8bf51bc404382e3185cfd0f66f6edf1dd6aa462a413c1dc206996d9022.jpg> ETC利用再開「応急復旧」の現状
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534805>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanigashirakazuki/02163069/title-1744050096720.jpeg?exp=10800> 吉野家一部値上げ コメ・牛肉高騰
       </a>
     </td>
   </tr>
@@ -451,15 +459,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534806>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/40e2f4eb4c99fb4ec3b4aa9c527fcd901aa6563bd1bb9cfd12e423b8d754faf1.jpg> 速報 大谷がサイクルヒットに王手
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/cedaebb35cf876af730aa9bbcfd411b70224db4d5ef1c1fe325c12e0f6de01e4.jpg> 大谷翔平 4試合ぶりの4号2ラン
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/e3e007649e61ab80ea267576bfd51d14afab68fa06346aaf88713c2e765e0077.jpg> 速報 大谷がサイクルヒットに王手
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 09:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 10:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
