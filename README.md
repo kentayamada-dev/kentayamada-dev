@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2e25fce7574af0a35bdbda5583c5ce23.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7ae96cc3253e68ea1539e09666ac3185.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7361acfc80252940a0f672222d7b33e2467a2c2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00050190-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ロシア軍一員の中国人２人を拘束、ゼレンスキー氏が映像も投稿…中国政府に確認求める意向
+      <a href=https://news.yahoo.co.jp/articles/1de0eca4db86c388579827b161b3735308124419>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000184-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=22&cw=898&ch=898&exp=10800&fmt=webp> ゼレンスキー氏「さらに多くの中国人がいる」露軍の侵略に参加した中国人捕虜の動画を投稿
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534881>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/d881eabc852aaa3831a7d761fd460a3ecd5ab81246a1666a5698ee48724ae37a.jpg> スマホひったくり ロンドンで急増
+      <a href=https://news.yahoo.co.jp/pickup/6534886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/3be184ee831987010549726b28d74f9331da20dd67ad6a7551be229c5c469db1.jpg> 団地の自室に女性遺棄疑い 男逮捕
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534862>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/75655405e2880e58593ac883171aa520358acb626aab819136d99120f9e38d8f.jpg> 日本取締役協会 フジHDを批判
+      <a href=https://news.yahoo.co.jp/pickup/6534884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/b6e73f804fda7117bb73d19c9bf612147dfdb481f2a76356c4afc00a8fbed7e2.jpg> 吉村知事 万博に「注文」続々
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534882>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/61b23d5d6e3b086b9e43eaec2514dd927523d1548ab41bc243fb59116e8d2a42.jpg> 阿寒湖マリモ 120年で1割に減少
+      <a href=https://news.yahoo.co.jp/pickup/6534881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/8/d881eabc852aaa3831a7d761fd460a3ecd5ab81246a1666a5698ee48724ae37a.jpg> スマホひったくり ロンドンで急増
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/08 23:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/08 23:51:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
