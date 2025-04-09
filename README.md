@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7029ce2e6dd4118451b29b5b6c64f476.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d40daa49b1173b92e347307d77a5d8b7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -387,7 +387,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a63c719e9183c48d270efce5975bc9423101b349521b9d4a48dcb93fd9994200.jpg> 米大統領 相互関税の一部90日停止
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/47ea0a56fd47457c70f5a7522e55474a37c3194e80cc8cd2693198646c49deb1.jpg> 米大統領 相互関税の一部90日停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534989>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/c8b6979fffa66cd0b6ac01d52e59a8d3adeb67e0045607362e0625822aef2e7d.jpg> NY株2962ドル高 上げ幅史上最大
       </a>
     </td>
   </tr>
@@ -402,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534982>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/ff1281b7bdab8ee6b5eae65d92987bbd561970e5a79819b0248a359ab5dfeee6.jpg> EU 米関税への対抗措置を発動へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534971>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/ab36e4dcb507e6d02836c2f586bca699830753bc407e2e99a302f28d8851aef4.jpg> 全国民に5万円給付検討 政府与党
       </a>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/56d66454b55f80d37effc3522051f8555857c776458cf9793451f14ade5e866d.jpg> ダンプと衝突 軽の男女2人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/0455cd84f9243461d92c9eb18a3f8f1978da9d9bcb8c22f4202d8daab81a6b3c.jpg> 兵庫県 新規採用の46%が辞退
+      <a href=https://news.yahoo.co.jp/pickup/6534988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/0128a503fdbbe2f0afe5a76bf90dff70f1e99d856506ba7fd46319ca2836dcf7.jpg> 旧村上系 フジHDの株式9.77%保有
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534980>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/70045d29b43093596d1761b5aa670a967470840461db4fe9fe18cde180831a8e.jpg> ミュゼ社長 従業員にも責任がある
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534987>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/37e852cadbeb2a9af09251bd0de55a772636c8d0af594c139f53bebb723c0fc6.jpg> 高橋優斗イベント中止 DeNA謝罪
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 06:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 07:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
