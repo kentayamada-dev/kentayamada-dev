@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/011169d1ed9724d5a76fbf6136302f11.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b7b355aa20f58168d14a65b70915374c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/003a756d3a7959c9fe1dca341b754d0b7a905b43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-54948221-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 医療搬送用ヘリ６人死傷事故　海上保安部が運航会社を家宅捜索　機体も引き揚げ　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6dee29ecfc21afd7a61bf7a413455c29fc63f154>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米「相互関税」第2弾を発動　日本に24％、中国には104％
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6b22270e7e1c9d268751755dac2370763d1bf643>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010014-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 首都高速 美女木ジャンクション付近での6人死傷事故　運送会社元代表を書類送検
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd98cba510a44101be6c68ed38b95a101a69c5fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90019600-sagatv-000-1-thumb.jpg?exp=10800&fmt=webp> 3人死亡した医療用ヘリ事故 ヘリの機体を引き揚げ 運航会社に唐津海上保安部など家宅捜索も【佐賀県】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dba4e584a1ac8c5faec720f6c684a1bff7fd52fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-02685233-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 米「相互関税」第2弾、午後1時過ぎに発動へ　中国には104％の関税
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/72e484bb534ccd55e97127b59ab633f7014d3bed8a7ba6a2288e101cc9e5098e.jpg> 備蓄米を夏まで毎月放出 農相発表
+      <a href=https://news.yahoo.co.jp/pickup/6534920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/a0e490d59ffeaafa24774bab09992849b69c3d48cbf16894413226ec3fa871c0.jpg> 米「相互関税」第2弾を発動
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 13:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 13:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
