@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c0eebd5adb502d3f9d98e4a96628f820.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c4035cb1c2842bce770aa99405bf8cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30313f7156d5fe5608ad0fd36a1218f48f07e13d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955480-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 茨城・石岡市でダンプカーと車が衝突し2人死亡　信号機のない交差点
+      <a href=https://news.yahoo.co.jp/articles/41967784625cb033010c21d29a7240e4a080975c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-02786727-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ関税、世界各国に発動　イーロン・マスク氏は政策の撤回を直訴　政権内に溝が…
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fb1f1a4d565148eccecfd0941e8940540b449f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00050222-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権「相互関税」が全面発動、中国は報復関税８４％に引き上げ…世界経済に「深刻な打撃」懸念
+      <a href=https://news.yahoo.co.jp/articles/30313f7156d5fe5608ad0fd36a1218f48f07e13d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955480-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 茨城・石岡市でダンプカーと車が衝突し2人死亡　信号機のない交差点
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 00:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 01:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
