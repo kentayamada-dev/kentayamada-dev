@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd0b8ff69e50d31ef6b34a2fb3accd80.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5042244208868cabdd6a4e552446f6dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e05c2dae982f98903e74c36e11c70a772648bf5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日経平均 終値は3万1714円に 外国為替市場では一時1ドル＝144円台に
+      <a href=https://news.yahoo.co.jp/articles/ecc90c915d3ee2efdbd663b53f0be542b1152d38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00050126-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イーロン・マスク氏、関税政策撤回をトランプ氏に直訴…政権内に「公になった中で最も深い亀裂」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab753df3fdb7c3f44958bb22f6c487b3bb500cf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90018726-ktn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 墜落原因の究明へ…死亡事故の医療用ヘリ機体を引き揚げ　海保は運航会社に家宅捜索【長崎】
+      <a href=https://news.yahoo.co.jp/articles/0a6993afc0f92e5a44d37cdc14f4d83b48149201>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-07229537-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「未来が変わる」iPS細胞由来の心筋細胞シート　大阪大学発企業が厚労省へ承認申請「一日も早く患者に」iPS細胞の実用化近づく
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f1fcb5bc82fdeb208422eecc27be5175a844debe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 動画など発信禁止、見直しを　選手会がNPBに要望―プロ野球
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e05c2dae982f98903e74c36e11c70a772648bf5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-10172837-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=594&ch=594&exp=10800&fmt=webp> 日経平均 終値は3万1714円に 外国為替市場では一時1ドル＝144円台に
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4daeca1b95c4b4055ef83af6441c00d7f39a3acf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000219-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=660&ch=660&exp=10800&fmt=webp> 吉村知事、まもなく万博スタート「まだ準備してるところがある」も…“ほぼ完成”を強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79f271de3217a4e4c99b28c20c923b946ccbca73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-34090453-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=115&cw=954&ch=954&exp=10800&fmt=webp> 小沢一郎氏「一律3万円給付案」報道をバッサリ「救いがたい。参院選に向けた単なる選挙対策」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b13dfd66682a6748af3de9fa1cd560de8c059fab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00029341-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 明日10日は沖縄で警報級の大雨　九州～東海も強い雨に注意　明後日は関東・東北も雨
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534928>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/68b745811e8f59f3b9332b3c7704610bb8946eb194f4a11e155a73642318fcd7.jpg> あす沖縄で警報級の大雨の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6534933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/3d720b9569e8fba30348ab27fcdfb5584dfbde4594537de58adbe56ec998ff87.jpg> ガソリン価格 過去2番目の高水準
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534925>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/7abd4b9b4de0e895b115dc4c972fadd99f4ec21b6a3ad364421f493c0094098d.jpg> モデル前田希美&MF渡邊凌磨 結婚
+      <a href=https://news.yahoo.co.jp/pickup/6534934>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/5685056640ca3b5df7899905d80d0f65051ddad8c4dfcb0bf2c7e7d637b1f827.jpg> クレしん初の実写化 キャスト発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 16:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 16:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
