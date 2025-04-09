@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0773261d1221916f690db2686ad5d126.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/26803195853087053a8a7fbbedb302ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/89b76918203a54fa7d582cd317fa4991b8a031e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、一時143円台に上昇＝半年ぶり高値（9日朝）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b9b98fd03561f0c475c4a5c9eee1e2393a444688>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-34091518-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【データ】ヤクルト石川雅規プロ史上初24年連続勝利　大卒先発勝利も村山氏抜き単独トップ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7ac5f7ebc0d3c76df89c18ae85116164cc911e8c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-54950864-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 医療搬送用ヘリ６人死傷事故　機体を引き揚げ原因調査へ　運航会社の家宅捜索も
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a05831eebc1f48ea1b62f9f6afe788d5c41b62f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-05158286-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ“相互関税”発動　日経平均は大幅下落…株価乱高下で「NISAが不安」の声も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cda8d66bf9a075cbc949a606016521c3048f5798>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00955456-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 初公開「アメリカ館」に潜入　目玉は55年前にも来た「月の石」　大谷翔平選手も登場!アメリカを旅している気分に【大阪・関西万博】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bea7ea2fe898c5be77ace91c2a26cd2acef6081>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-34091410-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 石橋貴明か　フジ第三者委報告書の「有力な番組出演者」　事務所がヒアリング打診明かす
       </a>
     </td>
   </tr>
@@ -426,32 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/ce88a527cc7f8202ee7fca1f5d85b93b3ff05b116f29ec8bae25cfce0b6764f2.jpg> 運転士不足で列車減便「激混み」
+      <a href=https://news.yahoo.co.jp/pickup/6534974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/0455cd84f9243461d92c9eb18a3f8f1978da9d9bcb8c22f4202d8daab81a6b3c.jpg> 兵庫県 新規採用の46%が辞退
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534966>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/04b603153b8016f090fdbc94cc1c67fc9db888792ff68b624cad4f2a552069d9.jpg> 朝倉未来の復帰戦 鈴木千裕に決定
+      <a href=https://news.yahoo.co.jp/pickup/6534962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/15bdb535ad7d3de89699997bbb7388e9f2fed6a311211255ef7d1ad3ae635837.jpg> 万博の目玉 アメリカ館は月の石
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/3ab7a1a827691100e8af3830247462980ac73f448f42720984520c576e3165bb.jpg> フジ第三者委 聴取対象に石橋貴明
+      <a href=https://news.yahoo.co.jp/pickup/6534973>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/b41cc650908e4daa5d4883e426c0042fdd6912e3b27d826985b897a509970cfa.jpg> 偉業 ヤクルト石川が24年連続勝利
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/97f50bdd9866cab8c347e2162bb978f342a80bd96f83c861642c1c91944101da.jpg> 不適切言動 青井実氏が番組で謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6534972>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/3ab7a1a827691100e8af3830247462980ac73f448f42720984520c576e3165bb.jpg> フジ問題 聞き取り対象に石橋貴明
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 21:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 22:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
