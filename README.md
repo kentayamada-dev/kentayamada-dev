@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/811487249b044f0c2c1530a57dc1aa52.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c3ce16c5db6ebb81d08b124a9addb017.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a8089560d93ec7ba9510d8acbc4afe81c9bcb1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000048-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米相互関税、午後にも発動へ　"報復"表明の中国は84％
+      <a href=https://news.yahoo.co.jp/articles/b7ab33330f9daa2391f1af931b00ecd2309a70b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000072-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=575&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 焦点：中国、限られる米関税への有効打　消耗戦に備え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a8e28f8a4f9936b8941ffbaf14d14aa72f51d8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00080017-chosun-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=504&ch=504&exp=10800&fmt=webp> 武装した北朝鮮兵十数人が軍事境界線を侵犯、韓国軍の警告射撃で退却　／江原道
+      <a href=https://news.yahoo.co.jp/articles/d0005005282e5671864c63142efbc62238c325cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-08849675-fbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 機体を引き揚げ回収　3人死亡の医療搬送用ヘリ事故　運航会社を業務上過失致死傷などの疑いで捜索
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/faca3840054b713b2847e94e8349e4f48683c98c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000013-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=307&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 非日常感あふれるテストラン　海外館の工事遅れには切迫感　大阪公立大・橋爪紳也特別教授　昭和１００年　輝く関西に向けて
+      <a href=https://news.yahoo.co.jp/articles/f1434bf1dc7480662e5d67701ab4b9400b73610c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-01277730-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「たった5万人の来場で大混乱」　開幕まで1週間「大阪万博」でさらなるトラブルの予感が！　視察した府議から嘆きの声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcd5ab13a80666ccb0e606b52694d5e3905a3973>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ大統領、ロシア軍参加の中国人兵士2人拘束と発表　ウ領内で戦闘に参加
+      <a href=https://news.yahoo.co.jp/articles/8721e03bbb8206aae7f48d37e65e21294053b8a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00080040-chosun-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=453&ch=453&exp=10800&fmt=webp> ウクライナ大統領「ロシア軍に加わった中国人2人を拘束」　動画も公開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6109e9017658e6661e7e17b9f1012ec86987b5ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-54946371-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 医療搬送ヘリ死亡事故　運輸安全委が佐賀航空調査「不具合につながるものはなかった」
+      <a href=https://news.yahoo.co.jp/articles/79e99bdec05135eed675686e442c5d2bdaf52d3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04540189-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=466&ch=466&exp=10800&fmt=webp> AAA與真司郎、2人の元恋人について初告白 マッチングアプリでの出会い・交際中のロマンチックなエピソード「初めて愛を教えてくれた」【Vol.2】
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/0c4bcc2fef3c7fcd5a6d604867fea973ce1e3f46b06f8dc9ff6ff82afe658d8b.jpg> 駐日大使にグラス氏承認 米議会
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534911>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/bbef45c0d28a8257e0872b7ab132c739bfa5ca185396e45b50eeeaf4faa2967e.jpg> 25歳自殺を労災認定 遺族が提訴へ
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534913>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/7a8867767c48611209cea1b187b819b934d53edd3301603f4561ac7e497d7b05.jpg> 與真司郎 同性婚への願い語る
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 11:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 12:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
