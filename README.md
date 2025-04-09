@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac6e6a99d69d9d34847c8be4ef1dbed8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/011169d1ed9724d5a76fbf6136302f11.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6b22270e7e1c9d268751755dac2370763d1bf643>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010014-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 首都高速 美女木ジャンクション付近での6人死傷事故　運送会社元代表を書類送検
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd98cba510a44101be6c68ed38b95a101a69c5fd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90019600-sagatv-000-1-thumb.jpg?exp=10800&fmt=webp> 3人死亡した医療用ヘリ事故 ヘリの機体を引き揚げ 運航会社に唐津海上保安部など家宅捜索も【佐賀県】
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dba4e584a1ac8c5faec720f6c684a1bff7fd52fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-02685233-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米「相互関税」第2弾、午後1時過ぎに発動へ　中国には104％の関税
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-02685233-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 米「相互関税」第2弾、午後1時過ぎに発動へ　中国には104％の関税
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8721e03bbb8206aae7f48d37e65e21294053b8a7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00080040-chosun-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=453&ch=453&exp=10800&fmt=webp> ウクライナ大統領「ロシア軍に加わった中国人2人を拘束」　動画も公開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79e99bdec05135eed675686e442c5d2bdaf52d3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04540189-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=466&ch=466&exp=10800&fmt=webp> AAA與真司郎、2人の元恋人について初告白 マッチングアプリでの出会い・交際中のロマンチックなエピソード「初めて愛を教えてくれた」【Vol.2】
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534907>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/6914ad2c59dc0bef1fefac8d40596b527c84945ab8ada153bfa4b7257f3e362b.jpg> 東京株、一時1300円超下落
+      <a href=https://news.yahoo.co.jp/pickup/6534918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/1c3a63dece5471ad0f3638dd60e8f670a5eea36a924f35c524784ccfe55f5b78.jpg> 首都高3人死亡 元社長を書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534911>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/bbef45c0d28a8257e0872b7ab132c739bfa5ca185396e45b50eeeaf4faa2967e.jpg> 25歳自殺を労災認定 遺族が提訴へ
+      <a href=https://news.yahoo.co.jp/pickup/6534919>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/63647bfa8c30d464295088201afcb5d95a3cc56a5432eba4ab393453a1db4580.jpg> 中国の老人ホームで火災 20人死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 12:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 13:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
