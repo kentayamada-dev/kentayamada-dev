@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51907ad60813b9740a6c9fa4850e2ebb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/69e5562ee6bd62f8427e61e4253ee0a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17f595ba140ac6ed9d9f15dd708e31e48ce57508>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010002-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】元メジャーリーガーのドテル、ブランコらが屋根崩落事故の犠牲に　ドミニカ共和国のナイトクラブ
+      <a href=https://news.yahoo.co.jp/articles/36010672aeb529d75bb5e6dd3c0d15182741c340>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00340443-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 元中日トニ・ブランコ氏が天井崩落事故で急死　死者５８人の大惨事　元西武ヘルマン氏は無事
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b07d8130f721a6991f6d0a76351134201b11c38d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000003-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=834&ch=834&exp=10800&fmt=webp> 9日の東証は急反落で始まる、一時1000円超安　米中貿易摩擦を懸念
+      <a href=https://news.yahoo.co.jp/articles/f2aa67e6f07581d61f2b01bcb1f7ea9ddc309765>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米「相互関税」一部と対中関税が午後発動へ　USTR代表、農産品など対日輸出増求める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a93a958a524ac0cf058eda5cb3a6288dd0e5ab7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00954468-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=494&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【速報】開幕から12試合連続出塁中の大谷翔平は第3打席まで出塁なし　ドジャースは1-8と大量リード許す
+      <a href=https://news.yahoo.co.jp/articles/e48688a09379989ba582ecf336345a16d18916df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04091019-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=924&ch=924&exp=10800&fmt=webp> 大谷翔平、第４打席直前に故意落球を巡る判定に大ブーイング　ナショナルズ監督が激高で球場騒然
       </a>
     </td>
   </tr>
@@ -418,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/bb19ac83fa2046440880f1f39f01f31d67adcdea3621d779627389bcbf7356bc.jpg> 8年前に10代を性的暴行疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6534904>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/9990b0219008720e88fd56054856595d88e28e21e913e5c89ab3beccad3899a4.jpg> EU、車部品で炭素繊維の規制検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/166d7eb6693a569a0eb3ef2fca99023cc85ad4bf5959b45d656e617ef826e038.jpg> 反捕鯨創設者 国際手配一時停止か
+      <a href=https://news.yahoo.co.jp/pickup/6534907>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/6914ad2c59dc0bef1fefac8d40596b527c84945ab8ada153bfa4b7257f3e362b.jpg> 東京株、一時1300円超下落
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/bb19ac83fa2046440880f1f39f01f31d67adcdea3621d779627389bcbf7356bc.jpg> 8年前に10代を性的暴行疑い 逮捕
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/0b2af4336fbef5d425204b95a284dc7a45935cb91cc0600af2db3bd5bf5708f7.jpg> ミキ昴生13kg減 亜生が方法明かす
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 09:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 10:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
