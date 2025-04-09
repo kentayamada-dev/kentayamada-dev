@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ce641b6d1d9d1eee963d1291696c032.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f00ac6b89332305d10d99758dcb83377.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/186fd2b7e02c42bdfff99259239cf12f41d8d0dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ急反発、一時2600ドル超高（9日午後1時35分）
+      <a href=https://news.yahoo.co.jp/articles/5850fdb98f879c8bebde7030a9b1ec0c53d64cd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円下げに転じる、147円台前半（9日午後2時）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30313f7156d5fe5608ad0fd36a1218f48f07e13d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955480-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 茨城・石岡市でダンプカーと車が衝突し2人死亡　信号機のない交差点
+      <a href=https://news.yahoo.co.jp/articles/186fd2b7e02c42bdfff99259239cf12f41d8d0dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ急反発、一時2600ドル超高（9日午後1時35分）
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534983>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e44ca8659f7d94533ee96b99914a875d05ba6ff0daf5c98d04030bf6b661ee4f.jpg> 関税 世界経済への深刻な打撃懸念
+      <a href=https://news.yahoo.co.jp/pickup/6534984>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/ff3a94fee4ae348ab19a54a75911fb31a51ad7ad5d676e0ebc7e73a6157cc0d9.jpg> 米大統領「相互関税を90日停止」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 03:01:09 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 03:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
