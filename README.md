@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d40daa49b1173b92e347307d77a5d8b7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8a33e13db6e3aa34a495612e7b49a384.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c065e21f49a9f89f7aec0e563840e61b60185e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円下落、147円台後半＝乱高下、日中の振れ幅4円27銭（9日）
+      <a href=https://news.yahoo.co.jp/articles/d28f8a54f14b199efcb906631618b4a4dc4007b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（9日）米国株急反発、ドルが対円・スイスフランで上昇、10年債利回り上げ幅縮小
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e9e62c52e0d8a39e0c59f6a1846811b9c5c5a45b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955519-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 【速報】開幕から14試合連続出塁の大谷翔平が今季3個目の盗塁に成功＆逆転のホームイン!ドジャース7回表6-5と再逆転
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dc5ee001beb25e77bdb526f2c4f82f6ca0f84fc3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000113-spnannex-000-19-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　今季初の三塁打　3戦連続打点も記録　打率は今季初の3割到達
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000113-spnannex-000-20-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　今季初の三塁打　3戦連続打点も記録　打率は今季初の3割到達
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534989>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/c8b6979fffa66cd0b6ac01d52e59a8d3adeb67e0045607362e0625822aef2e7d.jpg> NY株2962ドル高 上げ幅史上最大
+      <a href=https://news.yahoo.co.jp/pickup/6534986>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/ac7622a4dcefc4c5cf078a93035d6b9f3d3541afa86539892d7198495b70c24c.jpg> 円相場 一時1ドル148円台に急落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534986>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/ac7622a4dcefc4c5cf078a93035d6b9f3d3541afa86539892d7198495b70c24c.jpg> 円相場 一時1ドル148円台に急落
+      <a href=https://news.yahoo.co.jp/pickup/6534989>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/c8b6979fffa66cd0b6ac01d52e59a8d3adeb67e0045607362e0625822aef2e7d.jpg> NY株2962ドル高 上げ幅史上最大
       </a>
     </td>
   </tr>
@@ -419,15 +427,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/0128a503fdbbe2f0afe5a76bf90dff70f1e99d856506ba7fd46319ca2836dcf7.jpg> 旧村上系 フジHDの株式9.77%保有
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/92bf32fd1570f23781b0c34206cc46adeccc68b92696aa170bbad5006baad498.jpg> 旧村上系 フジHDの株式9.77%保有
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534980>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/70045d29b43093596d1761b5aa670a967470840461db4fe9fe18cde180831a8e.jpg> ミュゼ社長 従業員にも責任がある
+      <a href=https://news.yahoo.co.jp/pickup/6534990>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/09de30e214dba24e1627b031174f53fe7e235401e5de10f83b61f638dc7736a0.jpg> 大谷 開幕から14試合連続出塁達成
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 07:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 07:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
