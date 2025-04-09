@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4c4035cb1c2842bce770aa99405bf8cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/23470746e17f3564b3bca77db45fefbe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41967784625cb033010c21d29a7240e4a080975c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-02786727-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ関税、世界各国に発動　イーロン・マスク氏は政策の撤回を直訴　政権内に溝が…
+      <a href=https://news.yahoo.co.jp/articles/77bcc90e68a31cbf447f14960f7a0b6586e5b30e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229696-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「我々が搾取する番だ」トランプ関税発動　日本「24%」中国「104%」　米中貿易戦争激化　中古ブランド品や酒…日本企業も痛手　トランプ政権内も非難の応酬【news23】
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 01:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 01:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
