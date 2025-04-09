@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c2994be5f7fd59b24c8cc541083f25e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51907ad60813b9740a6c9fa4850e2ebb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7f069d55547530813944dd5113af3f946c067ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ政権は相互関税を発動へ
+      <a href=https://news.yahoo.co.jp/articles/17f595ba140ac6ed9d9f15dd708e31e48ce57508>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010002-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】元メジャーリーガーのドテル、ブランコらが屋根崩落事故の犠牲に　ドミニカ共和国のナイトクラブ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73d1727440be0c6b7c3156ff255531ea3b979315>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04091017-sph-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平、第１打席は初対戦の２５歳右腕の前に空振り三振
+      <a href=https://news.yahoo.co.jp/articles/b07d8130f721a6991f6d0a76351134201b11c38d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000003-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=834&ch=834&exp=10800&fmt=webp> 9日の東証は急反落で始まる、一時1000円超安　米中貿易摩擦を懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b76e5d363a682da77044231084fec39da8e7c15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250408-00000221-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=929&ch=929&exp=10800&fmt=webp> 巨人・岡本和真が開幕から10試合連続安打　劣勢でタイムリー＆同点ホームイン
+      <a href=https://news.yahoo.co.jp/articles/5a93a958a524ac0cf058eda5cb3a6288dd0e5ab7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00954468-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=494&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【速報】開幕から12試合連続出塁中の大谷翔平は第3打席まで出塁なし　ドジャースは1-8と大量リード許す
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/e7e269c7ec74dfc4e7b84a10aebf41017314683765b47a9197ae1b3c29fe338b.jpg> NYダウ 一時大幅上昇も320ドル安
+      <a href=https://news.yahoo.co.jp/pickup/6534900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/bb19ac83fa2046440880f1f39f01f31d67adcdea3621d779627389bcbf7356bc.jpg> 8年前に10代を性的暴行疑い 逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/bb19ac83fa2046440880f1f39f01f31d67adcdea3621d779627389bcbf7356bc.jpg> 8年前に10代を性的暴行疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6534903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/166d7eb6693a569a0eb3ef2fca99023cc85ad4bf5959b45d656e617ef826e038.jpg> 反捕鯨創設者 国際手配一時停止か
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534892>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/18da8db6f5c3fa14c720f23de785645d2a8e5dbe345c844ed16794ecfa75d3c8.jpg> 巨人監督 中山礼都に苦言連発
+      <a href=https://news.yahoo.co.jp/pickup/6534902>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/3c6a7aae0cc34826a0c399d58f0a1cb4dec2cf775f18ccee5cdb6c91057cb77a.jpg> 元中日ブランコ氏が事故死 米報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/46f8e3fb5ef81f4bba0175ac1c48622fbe7bf10fa279848767e392b9d0545869.jpg> 主力打者負傷相次ぐ SB緊急事態
+      <a href=https://news.yahoo.co.jp/pickup/6534892>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/18da8db6f5c3fa14c720f23de785645d2a8e5dbe345c844ed16794ecfa75d3c8.jpg> 巨人監督 中山礼都に苦言連発
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 09:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 09:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
