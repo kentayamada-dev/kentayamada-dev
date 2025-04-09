@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/oUTTzWt2Jtk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3b0b93fb42086314a61fbb121a72e069.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d42b7c5893608b7ffff134f231e49bc0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b419b328cb24e3855da38416aacc02ceddba2451>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000053-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「全世界が米国にぼったくり」…トランプ大統領の関税策士ナバロ上級顧問
+      <a href=https://news.yahoo.co.jp/articles/f22c3c9fc0b85ae4ea60c5a1b299320af2497328>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04091172-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1183&ch=1183&exp=10800&fmt=webp> 【日本ハム】万波中正らが魚雷バットを試打　八木打撃コーチ「打った選手はいい感じとは言ってた」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/ce88a527cc7f8202ee7fca1f5d85b93b3ff05b116f29ec8bae25cfce0b6764f2.jpg> 運転士不足で列車減便「激混み」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534947>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/fd3c902df1d590b72bc7e18bb6319e0dad34d91ecb00cef730bbe3a06630d76c.jpg> 23区公立中 理不尽校則の緩和進む
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/9445393637e08bc911bd930d13e3471f0bc7c60168cf05f1e337b035d38e864a.jpg> クマに襲われ男女3人けが 長野
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534951>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 鴻海 日本でEV複数車種を発売へ
+      <a href=https://news.yahoo.co.jp/pickup/6534960>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/79baf7044e359d14c7620bf87014d2a6d6b502d4621f86d3c2a8727aff08c3f6.jpg> 日ハム練習に魚雷バット 万波試打
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 19:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 20:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
