@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a16007d7ca274c0813096f9cc34c3b53.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1a38094917868b248874b0e6631ae855.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b75e210734f2d4bf1523b800ca470398d660da6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010005-abn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】クマに襲われ3人が重軽傷　目や耳かまれ…96歳は顔面かまれ…　クマは空き家に居座り警戒続く【長野・飯山市】
+      <a href=https://news.yahoo.co.jp/articles/e85963718c5431bfb1f9ba34bbed527b6c1affbe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04540948-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 青井実アナ「イット！」生放送で謝罪 番組スタッフ叱責などの不適切な言動「自分の未熟さが出てしまったと痛感」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d46bfa1356cb6d5134268e301f19f2f54db6ef97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-07229608-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「本当に自国のことしか考えていない」世界の景気を冷やす「相互関税」にラーメン店オーナーが怒り　市場や生活への影響は？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-07229608-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「本当に自国のことしか考えていない」世界の景気を冷やす「相互関税」にラーメン店オーナーが怒り　市場や生活への影響は？
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7051a194b39905a1be4b555a7f862f0a499ce9d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90018661-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 「どんな心臓病も再生医療で救える世の中に」　iPS細胞由来の『心筋細胞シート』　世界初の承認申請
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90018661-kantelev-000-2-thumb.jpg?exp=10800&fmt=webp> 「どんな心臓病も再生医療で救える世の中に」　iPS細胞由来の『心筋細胞シート』　世界初の承認申請
       </a>
     </td>
   </tr>
@@ -394,24 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/b3dd44208acfe7a31e5ab9fa9e19f372ad89a52ba91937c8213bad74e9dcc032.jpg> ETC障害 2万4千人が支払い申し出
+      <a href=https://news.yahoo.co.jp/pickup/6534944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/9d4733359557adbe3965466a20e963e69101a1345da356db9475eb1438e35d02.jpg> トランプ氏 関税巡り個別交渉指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/1d371c9334fe083bb8802e05d264c729cbbddaae8d90967dbba31bc4eac0fc93.jpg> 中国 限られる米関税への有効打
+      <a href=https://news.yahoo.co.jp/pickup/6534948>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/e6122a717b374c71d2472da5ad3c91c5769e93e1334260b2cf3fa07aa192f79d.jpg> AP通信取材制限は違憲 米裁判所
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/3c0e4ba034add6f62a31fcb1082a18883bf3c84ec4b7f68bd9043be771aef899.jpg> マスク氏 米大統領顧問は「ばか」
+      <a href=https://news.yahoo.co.jp/pickup/6534954>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/ab36e4dcb507e6d02836c2f586bca699830753bc407e2e99a302f28d8851aef4.jpg> 国民に4〜5万円給付検討 政府与党
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/b28100ba97e186fdacada49e7c17a96e12bd53e430f57961b6e533332ffb2955.jpg> ド軍監督 15三振の打線に苦言呈す
+      <a href=https://news.yahoo.co.jp/pickup/6534952>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 全国の信号機24% 更新基準超え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/53cc491196adfccf3a8972b65f2f5e394fe59d4eb07b76f94e4546cdcd33cd20.jpg> 青井実氏が不適切言動 フジ報告
+      <a href=https://news.yahoo.co.jp/pickup/6534953>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/97f50bdd9866cab8c347e2162bb978f342a80bd96f83c861642c1c91944101da.jpg> 不適切言動 青井実氏が番組で謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 18:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 19:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
