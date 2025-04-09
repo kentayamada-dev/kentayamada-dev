@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2ee71bc45d6c24f2ab34858d625e934e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a5b337daa8d2c1d9ff4bf29b6372064a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6478bdec79750a3bd9eb244d1f53093a61dd5f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NY株、一時300ドル超安　中国報復で動揺続く
+      <a href=https://news.yahoo.co.jp/articles/5a739a1102aa85b4b502e0c0da95ee654cff844a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ反発、162ドル高＝ナスダックも高い（9日午前）
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534977>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/a21516520bcc332ff76df51e3d38c7cdcd31ffbdd639c83caccfeff1016467fe.jpg> 元白鵬 相撲協会退職報道を否定
+      <a href=https://news.yahoo.co.jp/pickup/6534981>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/df1dcdcc229ffbb76a23e4a2145fe3474ac83db24e305e2f60e9b4b3848c30af.jpg> 英にユニバーサルスタジオ開業へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534973>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/b41cc650908e4daa5d4883e426c0042fdd6912e3b27d826985b897a509970cfa.jpg> 偉業 ヤクルト石川が24年連続勝利
+      <a href=https://news.yahoo.co.jp/pickup/6534980>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/70045d29b43093596d1761b5aa670a967470840461db4fe9fe18cde180831a8e.jpg> ミュゼ社長 従業員にも責任がある
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 23:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 23:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
