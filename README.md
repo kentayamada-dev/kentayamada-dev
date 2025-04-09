@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4831cff6fb58e527ec835fadfbddeb78.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a16007d7ca274c0813096f9cc34c3b53.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b75e210734f2d4bf1523b800ca470398d660da6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010005-abn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】クマに襲われ3人が重軽傷　目や耳かまれ…96歳は顔面かまれ…　クマは空き家に居座り警戒続く【長野・飯山市】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d46bfa1356cb6d5134268e301f19f2f54db6ef97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-07229608-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「本当に自国のことしか考えていない」世界の景気を冷やす「相互関税」にラーメン店オーナーが怒り　市場や生活への影響は？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7051a194b39905a1be4b555a7f862f0a499ce9d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90018661-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 「どんな心臓病も再生医療で救える世の中に」　iPS細胞由来の『心筋細胞シート』　世界初の承認申請
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b419b328cb24e3855da38416aacc02ceddba2451>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000053-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「全世界が米国にぼったくり」…トランプ大統領の関税策士ナバロ上級顧問
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b698461d5ddc73fd700c2ab87da8bdd7ab471d2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-05729622-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 海から回収した機体は10日に唐津港で陸揚げへ　ヘリ運航会社を家宅捜索　原因究明が本格化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6f5587b8192a56d6cb372091aba4d4416d71a44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-21844175-sbcv-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=336&ch=336&exp=10800&fmt=webp> 【速報】クマに襲われ90代から60代の男女3人がけが　男性2人が重傷の模様　空き家に入り込んだか　住民に警戒呼びかけ　長野・飯山市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e05c2dae982f98903e74c36e11c70a772648bf5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-10172837-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=594&ch=594&exp=10800&fmt=webp> 日経平均 終値は3万1714円に 外国為替市場では一時1ドル＝144円台に
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/e87a233a3b38b0b529ae6266ea493687b33253ad3a196c2595e0e755f5761ec0.jpg> 超音波とAIでマグロ目利き 商品化
+      <a href=https://news.yahoo.co.jp/pickup/6534951>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 鴻海 日本でEV複数車種を発売へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 18:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 18:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
