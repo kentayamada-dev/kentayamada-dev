@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/oUTTzWt2Jtk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a96eeb3acc6520f75c1b8991547ec26.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6a656886ede8e83e7b55fe073088d744.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc3a65e038935447e32e31d962619f852c77d928>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90022335-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 前田希美が浦和レッズ渡邊凌磨選手と結婚「どんな困難も乗り越えていけると確信」
+      <a href=https://news.yahoo.co.jp/articles/7d0dea7e102693a0c0c31230264ea4bd0c771c88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04568376-nib-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【医療ヘリ事故】海中のヘリ機体を引き揚げ回収される　運航会社の家宅捜索も始まる《長崎》
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e1100fd9b3023ce76c946b11b11346d3101fab9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000054-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 日経平均　一時1700円超下落　米「相互関税」などへの警戒感高まる
+      <a href=https://news.yahoo.co.jp/articles/4ea4ccdaa1c64984644b8ba6cdad0c6537ad65d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000197-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 前田希美＆浦和・渡邊凌磨　直筆文書で結婚を発表「どんな困難も2人なら乗り越えていける」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dc6984c52e7bc64cc28fb9b71cced0426ff4b241>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-05256542-ytv-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】「明日の万博情報」当日券の販売有無やパビリオン情報、メトロの混雑状況などHPで毎日発信　吉村知事が表明
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/79f271de3217a4e4c99b28c20c923b946ccbca73>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-34090453-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=115&cw=954&ch=954&exp=10800&fmt=webp> 小沢一郎氏「一律3万円給付案」報道をバッサリ「救いがたい。参院選に向けた単なる選挙対策」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/003a756d3a7959c9fe1dca341b754d0b7a905b43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-54948221-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 医療搬送用ヘリ６人死傷事故　海上保安部が運航会社を家宅捜索　機体も引き揚げ　
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534919>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/63647bfa8c30d464295088201afcb5d95a3cc56a5432eba4ab393453a1db4580.jpg> 中国の老人ホームで火災 20人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6534926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/09d76215fc608be68a385f0b67e8eff5b9c403870477b21bfb163985b6a282d0.jpg> 女子校の隣にタワマン計画 背景は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 14:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 14:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
