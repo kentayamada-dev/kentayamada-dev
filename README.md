@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2c23214806f263e03594e244ed6319b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4831cff6fb58e527ec835fadfbddeb78.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b419b328cb24e3855da38416aacc02ceddba2451>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000053-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「全世界が米国にぼったくり」…トランプ大統領の関税策士ナバロ上級顧問
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b698461d5ddc73fd700c2ab87da8bdd7ab471d2e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-05729622-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 海から回収した機体は10日に唐津港で陸揚げへ　ヘリ運航会社を家宅捜索　原因究明が本格化
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca8576938aaf0f3882580f068466b557fa3e8a81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010019-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=527&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> AP通信に対する「大統領執務室での取材禁止」で裁判所が仮差し止め
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/284ced71927343a64d9a948001b3cd8440c9bbba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000113-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=393&cy=0&cw=1415&ch=1415&exp=10800&fmt=webp> アングル：米相互関税、ブラジルやインドに好機か　対米赤字を逆手に
+      <a href=https://news.yahoo.co.jp/articles/f6f5587b8192a56d6cb372091aba4d4416d71a44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-21844175-sbcv-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=336&ch=336&exp=10800&fmt=webp> 【速報】クマに襲われ90代から60代の男女3人がけが　男性2人が重傷の模様　空き家に入り込んだか　住民に警戒呼びかけ　長野・飯山市
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/abc7c130d3b4123385f92e57d9580faca968b8511c2506aab2f715acf87f3a14.jpg> 高速船浸水隠し 前社長ら書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6534950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/9445393637e08bc911bd930d13e3471f0bc7c60168cf05f1e337b035d38e864a.jpg> クマに襲われ男女3人けが 長野
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/09d76215fc608be68a385f0b67e8eff5b9c403870477b21bfb163985b6a282d0.jpg> 女子校の隣にタワマン計画 背景は
+      <a href=https://news.yahoo.co.jp/pickup/6534938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/e87a233a3b38b0b529ae6266ea493687b33253ad3a196c2595e0e755f5761ec0.jpg> 超音波とAIでマグロ目利き 商品化
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 17:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 18:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
