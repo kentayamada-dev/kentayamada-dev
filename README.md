@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d7ae2ba6d65f3c789d1c259ed1e3d99.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/811487249b044f0c2c1530a57dc1aa52.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bcb2a8e7f92166a15f22b92b60f94fa73c02055>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00078375-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=800&ch=800&exp=10800&fmt=webp> マスク、米大統領顧問を「完全にバカ」と罵倒　高関税巡る対立で
+      <a href=https://news.yahoo.co.jp/articles/6a8089560d93ec7ba9510d8acbc4afe81c9bcb1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000048-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=92&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 米相互関税、午後にも発動へ　"報復"表明の中国は84％
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f399cd772aa31f1300c2724fb0f3d61ccc6f692f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ヘリ運航会社を捜索　業務上過失致死傷容疑、3人死亡事故　海保・壱岐沖
+      <a href=https://news.yahoo.co.jp/articles/0a8e28f8a4f9936b8941ffbaf14d14aa72f51d8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00080017-chosun-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=504&ch=504&exp=10800&fmt=webp> 武装した北朝鮮兵十数人が軍事境界線を侵犯、韓国軍の警告射撃で退却　／江原道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa44a655b4c804bc2d858bd3133a6000b84ad91a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00954944-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=667&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【速報】大谷翔平が開幕から13試合連続出塁…第5打席でライト前ヒット!ドジャースは2-8大敗で今季初3連敗
+      <a href=https://news.yahoo.co.jp/articles/faca3840054b713b2847e94e8349e4f48683c98c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000013-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=307&cy=0&cw=798&ch=798&exp=10800&fmt=webp> 非日常感あふれるテストラン　海外館の工事遅れには切迫感　大阪公立大・橋爪紳也特別教授　昭和１００年　輝く関西に向けて
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/680f54968aacd4778eb4bd6f51786765df0c4b37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000032-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ロシア軍の傭兵?　ウクライナ、中国人男性兵士2人を拘束
+      <a href=https://news.yahoo.co.jp/articles/bcd5ab13a80666ccb0e606b52694d5e3905a3973>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010003-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ大統領、ロシア軍参加の中国人兵士2人拘束と発表　ウ領内で戦闘に参加
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/779d5a1f148e93e44e652d9088a4b493b8b242cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-10172744-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=975&ch=975&exp=10800&fmt=webp> 北朝鮮軍10人あまりが境界線越え南側へ 韓国軍が警告射撃
+      <a href=https://news.yahoo.co.jp/articles/6109e9017658e6661e7e17b9f1012ec86987b5ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-54946371-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 医療搬送ヘリ死亡事故　運輸安全委が佐賀航空調査「不具合につながるものはなかった」
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534909>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/72e484bb534ccd55e97127b59ab633f7014d3bed8a7ba6a2288e101cc9e5098e.jpg> 備蓄米を夏まで毎月放出 農相発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/7f137d6c1becba83d976ec3fc86fbf7ba1f500df1e21a11f9db2ed8f7f39eedd.jpg> 米、日本に農産物輸入拡大要求へ
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/bb19ac83fa2046440880f1f39f01f31d67adcdea3621d779627389bcbf7356bc.jpg> 8年前に10代を性的暴行疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6534911>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/bbef45c0d28a8257e0872b7ab132c739bfa5ca185396e45b50eeeaf4faa2967e.jpg> 25歳自殺を労災認定 遺族が提訴へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534912>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/94c0c0275a4c3cf1dd8e3a3a3a2ccce677250cb4afa72b5b0fe3b61e83972aed.jpg> 返礼品コメ1万件送れず 市が謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 11:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 11:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
