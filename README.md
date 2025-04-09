@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c3ce16c5db6ebb81d08b124a9addb017.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac6e6a99d69d9d34847c8be4ef1dbed8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7ab33330f9daa2391f1af931b00ecd2309a70b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000072-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=575&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 焦点：中国、限られる米関税への有効打　消耗戦に備え
+      <a href=https://news.yahoo.co.jp/articles/dd98cba510a44101be6c68ed38b95a101a69c5fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90019600-sagatv-000-1-thumb.jpg?exp=10800&fmt=webp> 3人死亡した医療用ヘリ事故 ヘリの機体を引き揚げ 運航会社に唐津海上保安部など家宅捜索も【佐賀県】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0005005282e5671864c63142efbc62238c325cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-08849675-fbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 機体を引き揚げ回収　3人死亡の医療搬送用ヘリ事故　運航会社を業務上過失致死傷などの疑いで捜索
+      <a href=https://news.yahoo.co.jp/articles/dba4e584a1ac8c5faec720f6c684a1bff7fd52fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-02685233-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米「相互関税」第2弾、午後1時過ぎに発動へ　中国には104％の関税
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534904>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/9990b0219008720e88fd56054856595d88e28e21e913e5c89ab3beccad3899a4.jpg> EU、車部品で炭素繊維の規制検討
+      <a href=https://news.yahoo.co.jp/pickup/6534916>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/0efe7f0c92b276a262ad6e3217f3ae7b940ee15413029f2971240ea9fe0ff305.jpg> 韓国野党代表辞任 大統領選出馬へ
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534902>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/3c6a7aae0cc34826a0c399d58f0a1cb4dec2cf775f18ccee5cdb6c91057cb77a.jpg> 元中日ブランコ氏が事故死 米報道
+      <a href=https://news.yahoo.co.jp/pickup/6534917>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/7d1c4d816aae78d845f7274a3b98d87a419e7b07dd5f346005b4a4d47bd3b6d0.jpg> ブランコ氏死去  森繁和氏が追悼
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 12:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 12:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
