@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/69e5562ee6bd62f8427e61e4253ee0a8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/601ed46e6c628baf5c10a4b6b9b7e764.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36010672aeb529d75bb5e6dd3c0d15182741c340>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00340443-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 元中日トニ・ブランコ氏が天井崩落事故で急死　死者５８人の大惨事　元西武ヘルマン氏は無事
+      <a href=https://news.yahoo.co.jp/articles/19577fdfdb725f05f117d067cb36ff26ea55a58a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】江藤大臣　備蓄米を10万トン追加放出を決定「夏まで毎月売り渡しを実施」へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2aa67e6f07581d61f2b01bcb1f7ea9ddc309765>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米「相互関税」一部と対中関税が午後発動へ　USTR代表、農産品など対日輸出増求める
+      <a href=https://news.yahoo.co.jp/articles/91ec4b8620f2f84020e652802a7571cee1a0d20d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010005-mlb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ドジャース大敗で3連敗　先発ロブレスキーが5回8安打8失点　大谷は開幕から13試合連続出塁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e48688a09379989ba582ecf336345a16d18916df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04091019-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=924&ch=924&exp=10800&fmt=webp> 大谷翔平、第４打席直前に故意落球を巡る判定に大ブーイング　ナショナルズ監督が激高で球場騒然
+      <a href=https://news.yahoo.co.jp/articles/9e684889d3e23ae53f760b9e1c77c29d8b713f2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000024-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=326&ch=326&exp=10800&fmt=webp> 米中の関税爆弾応酬…影響受ける韓国経済への不安感も拡大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/680f54968aacd4778eb4bd6f51786765df0c4b37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000032-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ロシア軍の傭兵?　ウクライナ、中国人男性兵士2人を拘束
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b955b932b18c99264a5d278c900c2c87172e8dd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-35231528-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=310&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ウクライナ、ロシア軍参加の中国人２人を拘束
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534909>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/72e484bb534ccd55e97127b59ab633f7014d3bed8a7ba6a2288e101cc9e5098e.jpg> 備蓄米を夏まで毎月放出 農相発表
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534896>
@@ -412,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534897>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/7f137d6c1becba83d976ec3fc86fbf7ba1f500df1e21a11f9db2ed8f7f39eedd.jpg> 米、日本に農産物輸入拡大要求へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/0c4bcc2fef3c7fcd5a6d604867fea973ce1e3f46b06f8dc9ff6ff82afe658d8b.jpg> 駐日大使にグラス氏承認 米議会
       </a>
     </td>
   </tr>
@@ -442,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/2734667a09565e76ab72f2531d287e00938da46b35b5c8761f59da8be44cbba1.jpg> 有馬温泉で素泊まり 増える背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534902>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/3c6a7aae0cc34826a0c399d58f0a1cb4dec2cf775f18ccee5cdb6c91057cb77a.jpg> 元中日ブランコ氏が事故死 米報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534892>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/18da8db6f5c3fa14c720f23de785645d2a8e5dbe345c844ed16794ecfa75d3c8.jpg> 巨人監督 中山礼都に苦言連発
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 10:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 10:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
