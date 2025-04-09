@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/oUTTzWt2Jtk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1a38094917868b248874b0e6631ae855.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b0b93fb42086314a61fbb121a72e069.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e85963718c5431bfb1f9ba34bbed527b6c1affbe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04540948-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 青井実アナ「イット！」生放送で謝罪 番組スタッフ叱責などの不適切な言動「自分の未熟さが出てしまったと痛感」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d46bfa1356cb6d5134268e301f19f2f54db6ef97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-07229608-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「本当に自国のことしか考えていない」世界の景気を冷やす「相互関税」にラーメン店オーナーが怒り　市場や生活への影響は？
+      <a href=https://news.yahoo.co.jp/articles/71c6fe830b535d876e881173b42b008155b7e71a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-21844411-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 0％→24％トランプ関税　米輸出額170億円の鹿児島への影響は?スタジオ解説
       </a>
     </td>
   </tr>
@@ -387,6 +379,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e05c2dae982f98903e74c36e11c70a772648bf5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-10172837-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=594&ch=594&exp=10800&fmt=webp> 日経平均 終値は3万1714円に 外国為替市場では一時1ドル＝144円台に
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534948>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/e6122a717b374c71d2472da5ad3c91c5769e93e1334260b2cf3fa07aa192f79d.jpg> AP通信取材制限は違憲 米裁判所
+      <a href=https://news.yahoo.co.jp/pickup/6534955>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/60da3ca5110c3b74bf954d73850a104f7ad9f03937e50e3cc7aae45a56b2ec66.jpg> 「関税ショック」食卓にも影響か
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534954>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/ab36e4dcb507e6d02836c2f586bca699830753bc407e2e99a302f28d8851aef4.jpg> 国民に4〜5万円給付検討 政府与党
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/fd3c902df1d590b72bc7e18bb6319e0dad34d91ecb00cef730bbe3a06630d76c.jpg> 23区公立中 理不尽校則の緩和進む
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534951>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 鴻海 日本でEV複数車種を発売へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534952>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 全国の信号機24% 更新基準超え
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 19:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 19:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
