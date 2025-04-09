@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/oUTTzWt2Jtk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/76356aa0a404e372dc08f97557a93303.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2c23214806f263e03594e244ed6319b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b698461d5ddc73fd700c2ab87da8bdd7ab471d2e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-05729622-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 海から回収した機体は10日に唐津港で陸揚げへ　ヘリ運航会社を家宅捜索　原因究明が本格化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ca8576938aaf0f3882580f068466b557fa3e8a81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010019-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=527&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> AP通信に対する「大統領執務室での取材禁止」で裁判所が仮差し止め
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/284ced71927343a64d9a948001b3cd8440c9bbba>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000113-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=393&cy=0&cw=1415&ch=1415&exp=10800&fmt=webp> アングル：米相互関税、ブラジルやインドに好機か　対米赤字を逆手に
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea5dc2f80c286ec7be91d09c9d4596396038e840>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000072-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=549&ch=549&exp=10800&fmt=webp> 子会社書類送検でJR九州「引き続き捜査に協力」　高速船の浸水隠し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e05c2dae982f98903e74c36e11c70a772648bf5b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-10172837-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=594&ch=594&exp=10800&fmt=webp> 日経平均 終値は3万1714円に 外国為替市場では一時1ドル＝144円台に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab753df3fdb7c3f44958bb22f6c487b3bb500cf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90018726-ktn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 墜落原因の究明へ…死亡事故の医療用ヘリ機体を引き揚げ　海保は運航会社に家宅捜索【長崎】
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534933>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/3d720b9569e8fba30348ab27fcdfb5584dfbde4594537de58adbe56ec998ff87.jpg> ガソリン価格 過去2番目の高水準
+      <a href=https://news.yahoo.co.jp/pickup/6534941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/abc7c130d3b4123385f92e57d9580faca968b8511c2506aab2f715acf87f3a14.jpg> 高速船浸水隠し 前社長ら書類送検
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/d1da744e6aa9a202aa518a6c61e4c3e4ccb7e8d4f42faf2f49b1b6e56f027281.jpg> 元白鵬 相撲協会退職意向否定せず
+      <a href=https://news.yahoo.co.jp/pickup/6534937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/b28100ba97e186fdacada49e7c17a96e12bd53e430f57961b6e533332ffb2955.jpg> ド軍監督 15三振の打線に苦言呈す
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 17:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 17:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
