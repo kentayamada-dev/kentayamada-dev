@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c03e1af2b1a20493b96c80b8b18a4e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/440d95cd68891466f212f79300d4abf3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/729bcbd7b612e6a3bf1927d7d14761e97b62375b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04442363-saga-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 医療ヘリ事故、海上の機体を回収　4月10日に陸揚げ　唐津海上保安部は佐賀航空を家宅捜索　
+      <a href=https://news.yahoo.co.jp/articles/ab753df3fdb7c3f44958bb22f6c487b3bb500cf4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 医療用ヘリ墜落事故　海中から機体引き上げ　運航会社には家宅捜索【長崎】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc6984c52e7bc64cc28fb9b71cced0426ff4b241>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-05256542-ytv-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】「明日の万博情報」当日券の販売有無やパビリオン情報、メトロの混雑状況などHPで毎日発信　吉村知事が表明
+      <a href=https://news.yahoo.co.jp/articles/4daeca1b95c4b4055ef83af6441c00d7f39a3acf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000219-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=660&ch=660&exp=10800&fmt=webp> 吉村知事、まもなく万博スタート「まだ準備してるところがある」も…“ほぼ完成”を強調
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/79f271de3217a4e4c99b28c20c923b946ccbca73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-34090453-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=115&cw=954&ch=954&exp=10800&fmt=webp> 小沢一郎氏「一律3万円給付案」報道をバッサリ「救いがたい。参院選に向けた単なる選挙対策」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-34090453-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=115&cw=954&ch=954&exp=10800&fmt=webp> 小沢一郎氏「一律3万円給付案」報道をバッサリ「救いがたい。参院選に向けた単なる選挙対策」
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b13dfd66682a6748af3de9fa1cd560de8c059fab>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00029341-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 明日10日は沖縄で警報級の大雨　九州～東海も強い雨に注意　明後日は関東・東北も雨
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b059a91e6c7023aef3751856f75d9d4670f00db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04714736-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大谷翔平は連続出塁を昨季から続く「28試合」に継続中　ドジャースは序盤から大量8失点で今季初の3連敗
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534917>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/7d1c4d816aae78d845f7274a3b98d87a419e7b07dd5f346005b4a4d47bd3b6d0.jpg> ブランコ氏死去  森繁和氏が追悼
+      <a href=https://news.yahoo.co.jp/pickup/6534929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/d1da744e6aa9a202aa518a6c61e4c3e4ccb7e8d4f42faf2f49b1b6e56f027281.jpg> 元白鵬 相撲協会退職意向否定せず
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 15:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 15:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
