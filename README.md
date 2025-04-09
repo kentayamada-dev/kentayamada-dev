@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d42b7c5893608b7ffff134f231e49bc0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9fb3075c4a42b357c8befba428011fda.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71c6fe830b535d876e881173b42b008155b7e71a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-21844411-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 0％→24％トランプ関税　米輸出額170億円の鹿児島への影響は?スタジオ解説
+      <a href=https://news.yahoo.co.jp/articles/278328670f9ae820786602f454805ddfc8b431d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000021-hbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 『トランプ関税』発動で揺れる北海道の輸出産業「明るい話はない」国内やヨーロッパに新たな販路を求めるも、専門家は輸出に関わる一連の企業の業績悪化を示唆
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb63cb83cfaec0ecf629d05a2167442b1be82a54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000093-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=572&ch=572&exp=10800&fmt=webp> 男性機長ら、複数箇所を骨折　強い衝撃か　長崎・壱岐島ヘリ事故
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1cc6c3eea4e943f4edb857f64082c77e0f96a8cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-02179396-ytv-000-4-thumb.jpg?exp=10800&fmt=webp> 【開幕まで4日】注目の海外パビリオンお披露目　米中の目玉はどちらも「月」各国の文化やグルメ体験も
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7051a194b39905a1be4b555a7f862f0a499ce9d5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90018661-kantelev-000-2-thumb.jpg?exp=10800&fmt=webp> 「どんな心臓病も再生医療で救える世の中に」　iPS細胞由来の『心筋細胞シート』　世界初の承認申請
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f22c3c9fc0b85ae4ea60c5a1b299320af2497328>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04091172-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1183&ch=1183&exp=10800&fmt=webp> 【日本ハム】万波中正らが魚雷バットを試打　八木打撃コーチ「打った選手はいい感じとは言ってた」
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534944>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/9d4733359557adbe3965466a20e963e69101a1345da356db9475eb1438e35d02.jpg> トランプ氏 関税巡り個別交渉指示
+      <a href=https://news.yahoo.co.jp/pickup/6534955>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/60da3ca5110c3b74bf954d73850a104f7ad9f03937e50e3cc7aae45a56b2ec66.jpg> 「関税ショック」食卓にも影響か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534955>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/60da3ca5110c3b74bf954d73850a104f7ad9f03937e50e3cc7aae45a56b2ec66.jpg> 「関税ショック」食卓にも影響か
+      <a href=https://news.yahoo.co.jp/pickup/6534958>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/8747279634c7a5e66d21b1366498033f3d94461f14f875d3971ae449f6ad2dd8.jpg> 米副大統領の発言 中国が猛反発
       </a>
     </td>
   </tr>
@@ -434,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/0c04c743f5601c5aaeb86d88a0276087cc09eef45ba0c74e3b35f7a3bc530b9d.jpg> NPBのSNS禁止規定 選手会が見解
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534960>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/79baf7044e359d14c7620bf87014d2a6d6b502d4621f86d3c2a8727aff08c3f6.jpg> 日ハム練習に魚雷バット 万波試打
       </a>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534934>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/5685056640ca3b5df7899905d80d0f65051ddad8c4dfcb0bf2c7e7d637b1f827.jpg> クレしん初の実写化 キャスト発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 20:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 20:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
