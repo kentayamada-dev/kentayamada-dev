@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/601ed46e6c628baf5c10a4b6b9b7e764.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d7ae2ba6d65f3c789d1c259ed1e3d99.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19577fdfdb725f05f117d067cb36ff26ea55a58a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】江藤大臣　備蓄米を10万トン追加放出を決定「夏まで毎月売り渡しを実施」へ
+      <a href=https://news.yahoo.co.jp/articles/4bcb2a8e7f92166a15f22b92b60f94fa73c02055>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00078375-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=800&ch=800&exp=10800&fmt=webp> マスク、米大統領顧問を「完全にバカ」と罵倒　高関税巡る対立で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91ec4b8620f2f84020e652802a7571cee1a0d20d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010005-mlb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ドジャース大敗で3連敗　先発ロブレスキーが5回8安打8失点　大谷は開幕から13試合連続出塁
+      <a href=https://news.yahoo.co.jp/articles/f399cd772aa31f1300c2724fb0f3d61ccc6f692f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ヘリ運航会社を捜索　業務上過失致死傷容疑、3人死亡事故　海保・壱岐沖
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e684889d3e23ae53f760b9e1c77c29d8b713f2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000024-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=326&ch=326&exp=10800&fmt=webp> 米中の関税爆弾応酬…影響受ける韓国経済への不安感も拡大
+      <a href=https://news.yahoo.co.jp/articles/aa44a655b4c804bc2d858bd3133a6000b84ad91a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00954944-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=667&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【速報】大谷翔平が開幕から13試合連続出塁…第5打席でライト前ヒット!ドジャースは2-8大敗で今季初3連敗
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/1a796687d6f746db46824d1b33fdf65c397d046966b69a26ed3e8deb2e1fe2ea.jpg> 米「相互関税」第2弾 きょう発動
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534897>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/7f137d6c1becba83d976ec3fc86fbf7ba1f500df1e21a11f9db2ed8f7f39eedd.jpg> 米、日本に農産物輸入拡大要求へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/0c4bcc2fef3c7fcd5a6d604867fea973ce1e3f46b06f8dc9ff6ff82afe658d8b.jpg> 駐日大使にグラス氏承認 米議会
       </a>
     </td>
   </tr>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/e85c7264a9b2e01fd1401f28618e32644703646bdfec9c667c562079eca8d2a5.jpg> 医療ヘリ事故 運航会社を家宅捜索
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534907>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/6914ad2c59dc0bef1fefac8d40596b527c84945ab8ada153bfa4b7257f3e362b.jpg> 東京株、一時1300円超下落
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/0c4bcc2fef3c7fcd5a6d604867fea973ce1e3f46b06f8dc9ff6ff82afe658d8b.jpg> 駐日大使にグラス氏承認 米議会
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 10:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 11:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
