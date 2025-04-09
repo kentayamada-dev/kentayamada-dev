@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5b337daa8d2c1d9ff4bf29b6372064a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/332df32477f590f3a595183b7c71b97a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a739a1102aa85b4b502e0c0da95ee654cff844a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ反発、162ドル高＝ナスダックも高い（9日午前）
+      <a href=https://news.yahoo.co.jp/articles/8aa4eb9563a0a0278f795c06d8db7dd4ad28b8c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00955476-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 中国がアメリカへの報復関税84％発表　アメリカ「相互関税」発動　日本に24％
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/207225109953eb8dbebcbbb306eaf8d4577f304347f882e2b5996d426f8f37c0.jpg> 一時1ドル143円台 半年ぶり高値
+      <a href=https://news.yahoo.co.jp/pickup/6534982>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/ff1281b7bdab8ee6b5eae65d92987bbd561970e5a79819b0248a359ab5dfeee6.jpg> EU 米関税への対抗措置を発動へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 23:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 23:52:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
