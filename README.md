@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd68c14119c9855f89fae00f52abf971.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2ee71bc45d6c24f2ab34858d625e934e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32dcbae1423de48f40df7eddbb139e1cb9dc99c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00050181-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=374&ch=374&exp=10800&fmt=webp> ヤクルト石川雅規が２４年連続勝利のプロ野球新記録…通算１８７勝目「２００勝目指し必死にやりたい」
+      <a href=https://news.yahoo.co.jp/articles/a6478bdec79750a3bd9eb244d1f53093a61dd5f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> NY株、一時300ドル超安　中国報復で動揺続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2ac9ae79206c457e0200b2c900dbee19b44d499>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 追加関税84％発表の中国、米国をWTOに提訴　6企業を「信頼できない」リスト追加
+      <a href=https://news.yahoo.co.jp/articles/c9819ec89031d2524a80a8bd283011d860b63064>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-07229682-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 交差点でダンプカーと軽乗用車が出会い頭に衝突　男女2人死亡　女性1人重傷　茨城県石岡市
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/207225109953eb8dbebcbbb306eaf8d4577f304347f882e2b5996d426f8f37c0.jpg> 一時1ドル143円台 半年ぶり水準
+      <a href=https://news.yahoo.co.jp/pickup/6534978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/207225109953eb8dbebcbbb306eaf8d4577f304347f882e2b5996d426f8f37c0.jpg> 一時1ドル143円台 半年ぶり高値
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/937685d7b081de7c058e873efa4e095bbf14049edf77d9df380649fc10fb6f28.jpg> 国民民主「若者減税法案」提出へ
+      <a href=https://news.yahoo.co.jp/pickup/6534979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/56d66454b55f80d37effc3522051f8555857c776458cf9793451f14ade5e866d.jpg> ダンプと衝突 軽の男女2人死亡
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 22:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 23:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
