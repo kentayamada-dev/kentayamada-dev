@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b89473d0766a3083677d561f7597ef57.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0773261d1221916f690db2686ad5d126.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/244c455ec16c70a85cfc2a27115c495eac0b0d3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000471-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=575&ch=575&exp=10800&fmt=webp> 【RIZIN】鈴木千裕、榊原CEOに朝倉未来との対戦を“直談判”「『俺、いきますよ』と」
+      <a href=https://news.yahoo.co.jp/articles/7ac5f7ebc0d3c76df89c18ae85116164cc911e8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-54950864-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 医療搬送用ヘリ６人死傷事故　機体を引き揚げ原因調査へ　運航会社の家宅捜索も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ea67516ac2a03205ece44a7228320ac384754a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-08386261-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 相互関税が発動　日本企業の苦悩、米アップルストアは混雑　世界各地で“関税ショック”
+      <a href=https://news.yahoo.co.jp/articles/a05831eebc1f48ea1b62f9f6afe788d5c41b62f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-05158286-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ“相互関税”発動　日経平均は大幅下落…株価乱高下で「NISAが不安」の声も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cc6c3eea4e943f4edb857f64082c77e0f96a8cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-02179396-ytv-000-4-thumb.jpg?exp=10800&fmt=webp> 【開幕まで4日】注目の海外パビリオンお披露目　米中の目玉はどちらも「月」各国の文化やグルメ体験も
+      <a href=https://news.yahoo.co.jp/articles/cda8d66bf9a075cbc949a606016521c3048f5798>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00955456-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 初公開「アメリカ館」に潜入　目玉は55年前にも来た「月の石」　大谷翔平選手も登場!アメリカを旅している気分に【大阪・関西万博】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7051a194b39905a1be4b555a7f862f0a499ce9d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90018661-kantelev-000-2-thumb.jpg?exp=10800&fmt=webp> 「どんな心臓病も再生医療で救える世の中に」　iPS細胞由来の『心筋細胞シート』　世界初の承認申請
+      <a href=https://news.yahoo.co.jp/articles/6bea7ea2fe898c5be77ace91c2a26cd2acef6081>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-34091410-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 石橋貴明か　フジ第三者委報告書の「有力な番組出演者」　事務所がヒアリング打診明かす
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/ab36e4dcb507e6d02836c2f586bca699830753bc407e2e99a302f28d8851aef4.jpg> 国民に4〜5万円給付検討 政府与党
+      <a href=https://news.yahoo.co.jp/pickup/6534971>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/ab36e4dcb507e6d02836c2f586bca699830753bc407e2e99a302f28d8851aef4.jpg> 全国民に5万円給付検討 政府与党
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/f424e272098100c2dcbf2db4119f2f201aedbeae6e061936a3efdfc1695fdd10.jpg> 医療ヘリ事故 機長ら複数箇所骨折
+      <a href=https://news.yahoo.co.jp/pickup/6534969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/937685d7b081de7c058e873efa4e095bbf14049edf77d9df380649fc10fb6f28.jpg> 国民民主「若者減税法案」提出へ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/0c04c743f5601c5aaeb86d88a0276087cc09eef45ba0c74e3b35f7a3bc530b9d.jpg> NPBのSNS禁止規定 選手会が見解
+      <a href=https://news.yahoo.co.jp/pickup/6534966>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/04b603153b8016f090fdbc94cc1c67fc9db888792ff68b624cad4f2a552069d9.jpg> 朝倉未来の復帰戦 鈴木千裕に決定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534960>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/79baf7044e359d14c7620bf87014d2a6d6b502d4621f86d3c2a8727aff08c3f6.jpg> 日ハム練習に魚雷バット 万波試打
+      <a href=https://news.yahoo.co.jp/pickup/6534970>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/3ab7a1a827691100e8af3830247462980ac73f448f42720984520c576e3165bb.jpg> フジ第三者委 聴取対象に石橋貴明
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 21:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 21:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
