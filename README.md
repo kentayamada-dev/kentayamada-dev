@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/26803195853087053a8a7fbbedb302ba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bd68c14119c9855f89fae00f52abf971.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89b76918203a54fa7d582cd317fa4991b8a031e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、一時143円台に上昇＝半年ぶり高値（9日朝）
+      <a href=https://news.yahoo.co.jp/articles/32dcbae1423de48f40df7eddbb139e1cb9dc99c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00050181-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=374&ch=374&exp=10800&fmt=webp> ヤクルト石川雅規が２４年連続勝利のプロ野球新記録…通算１８７勝目「２００勝目指し必死にやりたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9b98fd03561f0c475c4a5c9eee1e2393a444688>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-34091518-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【データ】ヤクルト石川雅規プロ史上初24年連続勝利　大卒先発勝利も村山氏抜き単独トップ
+      <a href=https://news.yahoo.co.jp/articles/d2ac9ae79206c457e0200b2c900dbee19b44d499>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 追加関税84％発表の中国、米国をWTOに提訴　6企業を「信頼できない」リスト追加
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534958>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/8747279634c7a5e66d21b1366498033f3d94461f14f875d3971ae449f6ad2dd8.jpg> 米副大統領の発言 中国が猛反発
+      <a href=https://news.yahoo.co.jp/pickup/6534975>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/207225109953eb8dbebcbbb306eaf8d4577f304347f882e2b5996d426f8f37c0.jpg> 一時1ドル143円台 半年ぶり水準
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/15bdb535ad7d3de89699997bbb7388e9f2fed6a311211255ef7d1ad3ae635837.jpg> 万博の目玉 アメリカ館は月の石
+      <a href=https://news.yahoo.co.jp/pickup/6534977>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/a21516520bcc332ff76df51e3d38c7cdcd31ffbdd639c83caccfeff1016467fe.jpg> 元白鵬 相撲協会退職報道を否定
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 22:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 22:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
