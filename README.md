@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/oUTTzWt2Jtk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6a656886ede8e83e7b55fe073088d744.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0c03e1af2b1a20493b96c80b8b18a4e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d0dea7e102693a0c0c31230264ea4bd0c771c88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04568376-nib-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【医療ヘリ事故】海中のヘリ機体を引き揚げ回収される　運航会社の家宅捜索も始まる《長崎》
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ea4ccdaa1c64984644b8ba6cdad0c6537ad65d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000197-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=877&ch=877&exp=10800&fmt=webp> 前田希美＆浦和・渡邊凌磨　直筆文書で結婚を発表「どんな困難も2人なら乗り越えていける」
+      <a href=https://news.yahoo.co.jp/articles/729bcbd7b612e6a3bf1927d7d14761e97b62375b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04442363-saga-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 医療ヘリ事故、海上の機体を回収　4月10日に陸揚げ　唐津海上保安部は佐賀航空を家宅捜索　
       </a>
     </td>
   </tr>
@@ -389,8 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8721e03bbb8206aae7f48d37e65e21294053b8a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00080040-chosun-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=453&ch=453&exp=10800&fmt=webp> ウクライナ大統領「ロシア軍に加わった中国人2人を拘束」　動画も公開
+      <a href=https://news.yahoo.co.jp/articles/b13dfd66682a6748af3de9fa1cd560de8c059fab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00029341-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 明日10日は沖縄で警報級の大雨　九州～東海も強い雨に注意　明後日は関東・東北も雨
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b059a91e6c7023aef3751856f75d9d4670f00db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-04714736-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大谷翔平は連続出塁を昨季から続く「28試合」に継続中　ドジャースは序盤から大量8失点で今季初の3連敗
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534916>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/0efe7f0c92b276a262ad6e3217f3ae7b940ee15413029f2971240ea9fe0ff305.jpg> 韓国野党代表辞任 大統領選出馬へ
+      <a href=https://news.yahoo.co.jp/pickup/6534924>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 関税対応 自公内に給付求める動き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534928>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/68b745811e8f59f3b9332b3c7704610bb8946eb194f4a11e155a73642318fcd7.jpg> あす沖縄で警報級の大雨の恐れ
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534913>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/7a8867767c48611209cea1b187b819b934d53edd3301603f4561ac7e497d7b05.jpg> 與真司郎 同性婚への願い語る
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 14:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 15:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
