@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/332df32477f590f3a595183b7c71b97a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c0eebd5adb502d3f9d98e4a96628f820.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8aa4eb9563a0a0278f795c06d8db7dd4ad28b8c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00955476-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 中国がアメリカへの報復関税84％発表　アメリカ「相互関税」発動　日本に24％
+      <a href=https://news.yahoo.co.jp/articles/30313f7156d5fe5608ad0fd36a1218f48f07e13d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955480-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 茨城・石岡市でダンプカーと車が衝突し2人死亡　信号機のない交差点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9819ec89031d2524a80a8bd283011d860b63064>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-07229682-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 交差点でダンプカーと軽乗用車が出会い頭に衝突　男女2人死亡　女性1人重傷　茨城県石岡市
+      <a href=https://news.yahoo.co.jp/articles/6fb1f1a4d565148eccecfd0941e8940540b449f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00050222-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権「相互関税」が全面発動、中国は報復関税８４％に引き上げ…世界経済に「深刻な打撃」懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ac5f7ebc0d3c76df89c18ae85116164cc911e8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-54950864-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 医療搬送用ヘリ６人死傷事故　機体を引き揚げ原因調査へ　運航会社の家宅捜索も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cda8d66bf9a075cbc949a606016521c3048f5798>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00955456-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 初公開「アメリカ館」に潜入　目玉は55年前にも来た「月の石」　大谷翔平選手も登場!アメリカを旅している気分に【大阪・関西万博】
+      <a href=https://news.yahoo.co.jp/articles/a70f128f45b374eee73c9baafa81dd8b177713f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-34091571-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1351&ch=1351&exp=10800&fmt=webp> 【巨人】岡本和真、長嶋茂雄に並ぶ開幕４番で11戦連続安打も平然「やるべきことをやっている」
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/ae4e8288439184dd6cd023921e3fb8a49cae7452c1445f90f10911e178140a98.jpg> 中国 対米報復関税84%に引き上げ
+      <a href=https://news.yahoo.co.jp/pickup/6534983>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e44ca8659f7d94533ee96b99914a875d05ba6ff0daf5c98d04030bf6b661ee4f.jpg> 関税 世界経済への深刻な打撃懸念
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 23:52:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 00:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
