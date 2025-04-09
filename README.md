@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8a33e13db6e3aa34a495612e7b49a384.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5aeb5907ef1cb280d4f8dc3ef4a35783.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d28f8a54f14b199efcb906631618b4a4dc4007b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（9日）米国株急反発、ドルが対円・スイスフランで上昇、10年債利回り上げ幅縮小
+      <a href=https://news.yahoo.co.jp/articles/dc6352532bdf75a7b97ba84c3415e833244bc519>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955520-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【速報】大谷翔平4打数2安打＆今季3個目盗塁…開幕から14試合連続出塁　逆転のホームインも　ドジャースは連敗を3でストップ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9e62c52e0d8a39e0c59f6a1846811b9c5c5a45b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955519-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 【速報】開幕から14試合連続出塁の大谷翔平が今季3個目の盗塁に成功＆逆転のホームイン!ドジャース7回表6-5と再逆転
+      <a href=https://news.yahoo.co.jp/articles/61de5c60cdebfbb3e2c54d80120d21cdc1c7dcd5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-05411291-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=351&ch=351&exp=10800&fmt=webp> “トランプ関税”一部停止を受け英メディア「減税を撤回したトラス元首相を彷彿とさせる」「米中のチキンレースの様相」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d66ffbc2a27dc346010191d86b38a58c786db89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕株急反発、過去最大の上げ幅＝関税上乗せ停止で買い殺到（9日）☆差替
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc5ee001beb25e77bdb526f2c4f82f6ca0f84fc3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000113-spnannex-000-20-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　今季初の三塁打　3戦連続打点も記録　打率は今季初の3割到達
+      <a href=https://news.yahoo.co.jp/articles/9c065e21f49a9f89f7aec0e563840e61b60185e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円下落、147円台後半＝乱高下、日中の振れ幅4円27銭（9日）
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534991>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/3e064d00872d2e9075a6ddaccfcf5b68ffec44ed16acf3e3af1e3498deee79e6.jpg> 中華街構想から17年 池袋のいま
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534990>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/09de30e214dba24e1627b031174f53fe7e235401e5de10f83b61f638dc7736a0.jpg> 大谷 開幕から14試合連続出塁達成
       </a>
@@ -448,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534972>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/3ab7a1a827691100e8af3830247462980ac73f448f42720984520c576e3165bb.jpg> フジ問題 聞き取り対象に石橋貴明
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 07:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 08:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
