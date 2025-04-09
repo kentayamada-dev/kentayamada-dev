@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b7b355aa20f58168d14a65b70915374c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a96eeb3acc6520f75c1b8991547ec26.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dc3a65e038935447e32e31d962619f852c77d928>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90022335-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 前田希美が浦和レッズ渡邊凌磨選手と結婚「どんな困難も乗り越えていけると確信」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6e1100fd9b3023ce76c946b11b11346d3101fab9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000054-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 日経平均　一時1700円超下落　米「相互関税」などへの警戒感高まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/79f271de3217a4e4c99b28c20c923b946ccbca73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-34090453-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=115&cw=954&ch=954&exp=10800&fmt=webp> 小沢一郎氏「一律3万円給付案」報道をバッサリ「救いがたい。参院選に向けた単なる選挙対策」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/003a756d3a7959c9fe1dca341b754d0b7a905b43>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-54948221-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 医療搬送用ヘリ６人死傷事故　海上保安部が運航会社を家宅捜索　機体も引き揚げ　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6dee29ecfc21afd7a61bf7a413455c29fc63f154>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米「相互関税」第2弾を発動　日本に24％、中国には104％
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b22270e7e1c9d268751755dac2370763d1bf643>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00010014-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 首都高速 美女木ジャンクション付近での6人死傷事故　運送会社元代表を書類送検
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1434bf1dc7480662e5d67701ab4b9400b73610c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-01277730-shincho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「たった5万人の来場で大混乱」　開幕まで1週間「大阪万博」でさらなるトラブルの予感が！　視察した府議から嘆きの声
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/e85c7264a9b2e01fd1401f28618e32644703646bdfec9c667c562079eca8d2a5.jpg> 医療ヘリ事故 運航会社を家宅捜索
+      <a href=https://news.yahoo.co.jp/pickup/6534923>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/2e3e5a0b3b15abe218a2d7ed280febeab62c305c4180868667062a8f0c2a54ae.jpg> 東京株、一時1700円超下落
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534912>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/94c0c0275a4c3cf1dd8e3a3a3a2ccce677250cb4afa72b5b0fe3b61e83972aed.jpg> 返礼品コメ1万件送れず 市が謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6534917>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/7d1c4d816aae78d845f7274a3b98d87a419e7b07dd5f346005b4a4d47bd3b6d0.jpg> ブランコ氏死去  森繁和氏が追悼
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534917>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/7d1c4d816aae78d845f7274a3b98d87a419e7b07dd5f346005b4a4d47bd3b6d0.jpg> ブランコ氏死去  森繁和氏が追悼
+      <a href=https://news.yahoo.co.jp/pickup/6534925>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/7abd4b9b4de0e895b115dc4c972fadd99f4ec21b6a3ad364421f493c0094098d.jpg> モデル前田希美&MF渡邊凌磨 結婚
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 13:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 14:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
