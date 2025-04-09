@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9641d7e225baf985f2a3e1a7127d9a58.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fd4e8d99c7f896b97c481aff5ffb755f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac8004c77cd6777c24bc715a0cd2d20171495404>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ダウ平均株価　一時前の日の終値に比べて2800ドル以上急騰
+      <a href=https://news.yahoo.co.jp/articles/798d0e373f353d75fe09bc6f23c98d8a8613de4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00306806-coindesk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=683&ch=683&exp=10800&fmt=webp> トランプ関税一時停止で暗号資産、急騰──ビットコインは6％高の8万1000ドル超え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9d2e62600e5881c98e034b30eb4a43343e237cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000001-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=468&ch=468&exp=10800&fmt=webp> NYダウ急反発、一時2800ドル高　トランプ関税「90日間停止」を好感
+      <a href=https://news.yahoo.co.jp/articles/c5f3691382c48feb5d1a9e82ea04bdf10437496a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00340554-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【巨人】岡本和真の肉体に驚愕の〝変化〟　関係者も舌巻くメジャー級の「数値」とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5850fdb98f879c8bebde7030a9b1ec0c53d64cd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円下げに転じる、147円台前半（9日午後2時）
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 05:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 05:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
