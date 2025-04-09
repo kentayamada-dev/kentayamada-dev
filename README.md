@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/52b925d653ff9d56b5e38f297bf26a01.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ce641b6d1d9d1eee963d1291696c032.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee4126290643bca390503361cb9084ea4579990c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00306802-coindesk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> ビットコイン、7万6000ドルを割り込む──中国が米国に84％の報復関税を発表
+      <a href=https://news.yahoo.co.jp/articles/186fd2b7e02c42bdfff99259239cf12f41d8d0dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ急反発、一時2600ドル超高（9日午後1時35分）
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 02:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 03:01:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
