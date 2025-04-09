@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/oUTTzWt2Jtk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5042244208868cabdd6a4e552446f6dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/76356aa0a404e372dc08f97557a93303.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ecc90c915d3ee2efdbd663b53f0be542b1152d38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00050126-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=333&ch=333&exp=10800&fmt=webp> イーロン・マスク氏、関税政策撤回をトランプ氏に直訴…政権内に「公になった中で最も深い亀裂」
+      <a href=https://news.yahoo.co.jp/articles/284ced71927343a64d9a948001b3cd8440c9bbba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000113-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=393&cy=0&cw=1415&ch=1415&exp=10800&fmt=webp> アングル：米相互関税、ブラジルやインドに好機か　対米赤字を逆手に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a6993afc0f92e5a44d37cdc14f4d83b48149201>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-07229537-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「未来が変わる」iPS細胞由来の心筋細胞シート　大阪大学発企業が厚労省へ承認申請「一日も早く患者に」iPS細胞の実用化近づく
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1fcb5bc82fdeb208422eecc27be5175a844debe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 動画など発信禁止、見直しを　選手会がNPBに要望―プロ野球
+      <a href=https://news.yahoo.co.jp/articles/ea5dc2f80c286ec7be91d09c9d4596396038e840>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000072-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=549&ch=549&exp=10800&fmt=webp> 子会社書類送検でJR九州「引き続き捜査に協力」　高速船の浸水隠し
       </a>
     </td>
   </tr>
@@ -389,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4daeca1b95c4b4055ef83af6441c00d7f39a3acf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-00000219-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=660&ch=660&exp=10800&fmt=webp> 吉村知事、まもなく万博スタート「まだ準備してるところがある」も…“ほぼ完成”を強調
+      <a href=https://news.yahoo.co.jp/articles/ab753df3fdb7c3f44958bb22f6c487b3bb500cf4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250409-90018726-ktn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 墜落原因の究明へ…死亡事故の医療用ヘリ機体を引き揚げ　海保は運航会社に家宅捜索【長崎】
       </a>
     </td>
   </tr>
@@ -402,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534932>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東京株大幅下落 関税に警戒高まる
+      <a href=https://news.yahoo.co.jp/pickup/6534936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/b3dd44208acfe7a31e5ab9fa9e19f372ad89a52ba91937c8213bad74e9dcc032.jpg> ETC障害 2万4千人が支払い申し出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/a0e490d59ffeaafa24774bab09992849b69c3d48cbf16894413226ec3fa871c0.jpg> 米「相互関税」第2弾を発動
+      <a href=https://news.yahoo.co.jp/pickup/6534939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/1d371c9334fe083bb8802e05d264c729cbbddaae8d90967dbba31bc4eac0fc93.jpg> 中国 限られる米関税への有効打
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/d097bc810912342c4c8968e6653d224ec2f659b31985ec7c9e4f00d44a145bd0.jpg> ヌートリアの食害 伝統野菜ピンチ
+      <a href=https://news.yahoo.co.jp/pickup/6534929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/d1da744e6aa9a202aa518a6c61e4c3e4ccb7e8d4f42faf2f49b1b6e56f027281.jpg> 元白鵬 相撲協会退職意向否定せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/d1da744e6aa9a202aa518a6c61e4c3e4ccb7e8d4f42faf2f49b1b6e56f027281.jpg> 元白鵬 相撲協会退職意向否定せず
+      <a href=https://news.yahoo.co.jp/pickup/6534940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/53cc491196adfccf3a8972b65f2f5e394fe59d4eb07b76f94e4546cdcd33cd20.jpg> 青井実氏が不適切言動 フジ報告
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/09 16:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/09 17:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
