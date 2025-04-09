@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5aeb5907ef1cb280d4f8dc3ef4a35783.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a01e8e48ddeec80b01ab7baf9e93cc7c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc6352532bdf75a7b97ba84c3415e833244bc519>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955520-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=336&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【速報】大谷翔平4打数2安打＆今季3個目盗塁…開幕から14試合連続出塁　逆転のホームインも　ドジャースは連敗を3でストップ
+      <a href=https://news.yahoo.co.jp/articles/788c547d0c6187a0554b002e2a8ef1715127759d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000001-courrier-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 104%の関税を米国に課されても中国が強気な姿勢を崩さない理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61de5c60cdebfbb3e2c54d80120d21cdc1c7dcd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-05411291-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=351&ch=351&exp=10800&fmt=webp> “トランプ関税”一部停止を受け英メディア「減税を撤回したトラス元首相を彷彿とさせる」「米中のチキンレースの様相」
+      <a href=https://news.yahoo.co.jp/articles/e13eec849fbfd5a33f11a068685078f4555eacad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000013-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=814&ch=814&exp=10800&fmt=webp> 大谷翔平、自己最長の14試合連続出塁、決勝のホーム踏む…ドジャースは連敗「3」でストップ、苦しい遠征が終了
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c33db76ca4636c35354cac2ab0e189893cc41214>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-02325315-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】各地で雨、沖縄は大雨の所も　北海道は広く青空
       </a>
     </td>
   </tr>
@@ -394,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534986>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/ac7622a4dcefc4c5cf078a93035d6b9f3d3541afa86539892d7198495b70c24c.jpg> 円相場 一時1ドル148円台に急落
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534989>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/c8b6979fffa66cd0b6ac01d52e59a8d3adeb67e0045607362e0625822aef2e7d.jpg> NY株2962ドル高 上げ幅史上最大
       </a>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534971>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/9/ab36e4dcb507e6d02836c2f586bca699830753bc407e2e99a302f28d8851aef4.jpg> 全国民に5万円給付検討 政府与党
+      <a href=https://news.yahoo.co.jp/pickup/6534994>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/d3d16ac471c6a2c92967024f8460af6e36fdd29036bcde621584068e4cb65dcb.jpg> 10日の沖縄 警報級の大雨の恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534993>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/69c0dcd6d792d8ed803caa9feada700a3da1f5075c94008a58a00627e0d866ab.jpg> 露軍に中国人兵150人超 ウ報道
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 08:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 08:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
