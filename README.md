@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fdaf24070ac0e92e976774c46340c761.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/60fb94e744251f6af13267dc6af6781f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a1e0a44c1326ae79453b692c92fef01ce6de0532>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000051-ann-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が相互関税90日間停止　中国には上乗せ…追加関税125％に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52184c930a8b905fe9d5b9a2f859b45735de5ea5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000047-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ関税、株式市場振り回す　相場乱高下、警戒感強く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d7a88d53827caf1c6a447c627f35335c542a1940>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172948-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 打ち取ったはずなのに…大谷翔平が“いつの間にか”二塁到達のチート技 ボテボテ安打→即盗塁の“プレッシャーラン”に驚愕「ほんと速いよな」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/70321b3456be59d56bee59a857814e1b024424ad>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000206-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=1058&ch=1058&exp=10800&fmt=webp> 広末容疑者宅の家宅捜索に薬物専門家「薬物という言葉はいろんなものを含む…何らかの疑義が生じたから」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa33a96142ee888e471e1b0275c4187101e5f01a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-35231597-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ関税の一時停止、財務省内の債券市場への懸念が背景か　情報筋
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d24cb9eafc86716763c5e432458d3599044c8dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕高値もみ合い＝幅広く買い（10日後場寄り付き）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef5f49eb3e48055634b03b14f5ab25f66798a24f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00094881-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 「彼を止めることはできない」T・ヘルナンデス、初回２ラン＆劇的勝ち越し打にファン絶賛「ここぞで頼れる男」
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535017>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/8b014541399f43921a6bef5a4666086d7250999699f791b17d4b4eaf64dbadc0.jpg> 東証午前終値 3万4000円台に回復
+      <a href=https://news.yahoo.co.jp/pickup/6535026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/4e56dd4abacb777c36cc681b88c51622946d2373823238c70e900f6ec5d9b784.jpg> 中国が対米報復関税 貿易戦争激化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/5ef2130b98b6fa1d92e727006b44a2fbaabcb5518171233530434ae8cf7710fc.jpg> トランプ関税「90日間停止」なぜ
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/5ef2130b98b6fa1d92e727006b44a2fbaabcb5518171233530434ae8cf7710fc.jpg> トランプ関税「90日間停止」なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6535027>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a6cac79ea70e44e832e0b8e4b5286aeb47f3cfe90938087134759a1386c89355.jpg> 車が病院玄関に突っ込む 6人けが
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535016>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/5e52d24353d9e1974e83e9be8d8cd4c2b64134fa0a8d9b6789ceaeedaaf7ed80.jpg> 雑誌付録に「ガラケー」親も夢中
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535011>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/1f9cb7505f98f47e6e9386d5612fcc3e2770966ddf22ea4b6b707b06e166ea5e.jpg> カレー物価 初の1食400円を突破
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 13:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 14:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
