@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/12ec56a27e76c3d81e72320f4107c8c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ca2dffa46f9a5c27c5e02a9be0a989a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38b04cc8e28a5c415808da95fc756f64c2aefb02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、146円台後半＝リスクオフ後退の買い戻し一服（10日正午）
+      <a href=https://news.yahoo.co.jp/articles/8d24cb9eafc86716763c5e432458d3599044c8dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕高値もみ合い＝幅広く買い（10日後場寄り付き）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4ed58329fc6706dde790ceaab31d9fd281b78966>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000198-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 八代英輝弁護士　広末涼子容疑者宅の家宅捜査に「罪名が罪名なだけにちょっと釈放されるかどうか不透明に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1e8c01c7b5232f34527b4fca8d025b71df6277ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955667-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領の相互関税一転90日停止発表にニューヨーク市民は困惑…値上げの懸念続く「負担は消費者が絶対背負わされる」
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ef5f49eb3e48055634b03b14f5ab25f66798a24f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00094881-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 「彼を止めることはできない」T・ヘルナンデス、初回２ラン＆劇的勝ち越し打にファン絶賛「ここぞで頼れる男」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e4655da5295e7521308d13cb125e4f24e4e4ab6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-01683673-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「相互関税」停止に「短期的な危機免れた」政府関係者の声も　赤沢経済再生担当相の訪米で調整【中継】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3081d5de9cd462109506c66cc08289cb80234a8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172964-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “トランプ関税”先行き不透明 90日間停止も中国に125％で発動 夏野剛氏「好き勝手にやった者勝ち」「経済学をやっていた人は大ショック」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534992>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/b1a55923e7d418db7d51815692a7dc9520fb67b96cc9781b8290c95ea0533281.jpg> 立憲 夫婦別姓で共同歩調見通せず
+      <a href=https://news.yahoo.co.jp/pickup/6535020>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/7a905d279212ad8692432b033e1865de7d1d3f75012e8c9ac667c362a8a62e4a.jpg> 李在明氏 大統領選へ出馬正式表明
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535022>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/ed43075a50583569f7283228321e0c4ae1c3488e1807c4c711f5aef1bde85364.jpg> 広末容疑者 違法薬物は検出されず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535016>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/5e52d24353d9e1974e83e9be8d8cd4c2b64134fa0a8d9b6789ceaeedaaf7ed80.jpg> 雑誌付録に「ガラケー」親も夢中
       </a>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a023e5a7f75a6aae34a38cfebb92d0e5b0d4c8920d5bbf20ed2d4a958d0465a6.jpg> 広末容疑者 都内関係先に家宅捜索
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/f3da5bac140f68861b42d62a947e5957576ace502df3adcf5331a4f42749901f.jpg> オリ山岡選手を書類送検 賭博疑い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535011>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/1f9cb7505f98f47e6e9386d5612fcc3e2770966ddf22ea4b6b707b06e166ea5e.jpg> カレー物価 初の1食400円を突破
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535021>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takaokondo/02165550/title-1744244048369.jpeg?exp=10800> 朝倉未来の相手 なぜ鈴木千裕に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 12:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 13:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
