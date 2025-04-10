@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6503f2d0997e319723b6fe5d5f1d3560.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b905486f231ea654dd59c65ca53e30fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f35a9bca7c1b371e2914b440d7f474ef3ef389b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> EU、UAE交渉開始へ　保護主義に対抗し経済連携
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3bb37ea6a5db789146d2d5da2d63cd25dab62c4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000180-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=900&ch=900&exp=10800&fmt=webp> MLB　ドジャース・大谷翔平、日本選手最長！開幕14試合連続出塁　ロバーツ監督絶賛「チームに勢いを与えてくれた」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000180-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平、日本選手最長！開幕14試合連続出塁　ロバーツ監督絶賛「チームに勢いを与えてくれた」
       </a>
     </td>
   </tr>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d3f9dc1a505860a3905e47d4ce23c0f73713205>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ急落、1410ドル安＝ナスダックも安い（10日午前11時50分）
+      <a href=https://news.yahoo.co.jp/articles/43ad052a1545cdb867235bf134ba98a974ffe0fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、144円台後半（10日午前11時）
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 04:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 04:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
