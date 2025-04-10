@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5fade8d1fbd269433b9781d21d7fa28.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e9f9156159a07bb32d9f95160f0a27e2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/272ccd68b633cbf333542ca809c832fb65bb4fbe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 相互関税上乗せ分、90日停止　日本は10％に、半日で軌道修正　中国は125％に・トランプ氏
+      <a href=https://news.yahoo.co.jp/articles/c593130c52d48e9898f6c61baa4693eafdcb31e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全国民に一律で現金給付する案…与党内で検討　トランプ関税対策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/103fabadcb37bd438be71f9e460914cda4e8dca4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-08262492-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 吉本新喜劇の座員・山田亮さんが51歳で死去　借金取りの子分役など　“広島弁”いかし活躍
+      <a href=https://news.yahoo.co.jp/articles/205bd5843e3ea667820463660a23e83b7e4a54a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000110-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=1144&ch=1144&exp=10800&fmt=webp> 日経平均は急反発、米関税90日間停止を好感　上昇幅歴代2位
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58f9eabfdb84f2d5a7154ffe73ac80fb70f8e0ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東京株、2894円高　過去2番目の上げ幅　米関税一部停止で3万4000円台回復
+      <a href=https://news.yahoo.co.jp/articles/ca1e92f68725d6095ba61285412b08da2ca64450>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-21846611-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース・大谷翔平選手は2安打で14試合連続出塁　エンゼルス菊池雄星投手は2敗目　今季初勝利お預け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a285f4dff7b132d17b10a20a4358e1b6765e9f70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000003-iat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース大谷翔平選手　14連続試合出塁更新・盗塁も　連敗ストップに貢献【岩手】
+      <a href=https://news.yahoo.co.jp/articles/5482713c98d191129939a70c8da2c0228986d190>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229806-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税「90日間一時停止認める」全世界対象10％一律関税は維持　中国には関税“上乗せ”125％に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d05872fde814d56d5e7bfcd053cd8d3ebad887b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国、対米報復関税発動　米輸入品に84％　トランプ政権の関税圧力に一歩も引かぬ構え
+      <a href=https://news.yahoo.co.jp/articles/75d7482490086cccb195afa164765e521fd6a200>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000231-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=962&ch=962&exp=10800&fmt=webp> 宮城野親方「ないですよ」　協会退職報道を改めて否定　部屋閉鎖からの1年間は「勉強になった。部屋は…」
       </a>
     </td>
   </tr>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/4e56dd4abacb777c36cc681b88c51622946d2373823238c70e900f6ec5d9b784.jpg> 中国が対米報復関税 貿易戦争激化
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535028>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535038>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/39b07bbd11b2ac1c1e8d489a39f8b99c3b0af34709519741ef002e5caf06427c.jpg> 副島淳 番組で第1子誕生を報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535037>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e0e9cfe2380a8e686570a296b6895d2c729c4dfd2df055f210601ac237d5e6e2.jpg> 吉本新喜劇・山田亮さん死去
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 16:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 16:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
