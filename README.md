@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/062c891321b7e928676b59a8b07ece9f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/adcece951b0c1d2e7b839b2df0afa71a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76b99e08aff35bb08127a1110383784e4ec9c3cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000036-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 林官房長官「前向きに受け止め」　トランプ相互関税90日間停止受け
+      <a href=https://news.yahoo.co.jp/articles/d75dfab007ff73a6949847bcaf029bfee1b1b955>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000013-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=103&cw=867&ch=867&exp=10800&fmt=webp> J1横浜M、名門・リバプールと今夏に激突！「Jリーグワールドチャレンジ2025」開催決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a8d93eb04938c56b1108e93d63e680bde688dbf1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-90022391-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏が方針を大幅転換「相互関税を90日間猶予する」 対中関税は125％に引き上げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/61854a5ce79491ddc38cfb9f788830663a34a113>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-34100331-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=45&cw=1238&ch=1238&exp=10800&fmt=webp> 舛添要一氏、トランプ氏は「ヤクザ顔負け、民主主義の墓掘り人」相互関税措置90日間停止めぐり
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39b1b55bc07ecc227f4b785fa4087c75dc0365f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00038254-entame-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 亀梨和也、独立後初レギュラーは犬の姿で登場！とことん動物にこだわった番組がスタート
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05a725f74a6e2aab3f167b9f774fb7f2de49760d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-16542144-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=575&ch=575&exp=10800&fmt=webp> トランプ米大統領、「相互関税」の上乗せ分を一時停止と発表　中国とは引き上げの応酬
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf07933f501c05fc6e4fe8cf4a3e6c6cafcc1718>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229734-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=427&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー氏 「中国兵155人がロシア軍で戦闘参加」SNSで勧誘か
+      <a href=https://news.yahoo.co.jp/articles/4ee333ceda749045faf860d72f9f279bc64d8392>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000163-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=979&ch=979&exp=10800&fmt=webp> 大谷翔平　試合後にインスタでキメ顔公開　試合はマルチ安打で自己新開幕14戦連続出塁＆二盗で逆転劇演出
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535001>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a7c3df073977b5141cdfb10c3777e076bd8d908bd131e83c82196880c4278739.jpg> 関税合戦 米が対中関税を125%に
+      <a href=https://news.yahoo.co.jp/pickup/6534992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/b1a55923e7d418db7d51815692a7dc9520fb67b96cc9781b8290c95ea0533281.jpg> 立憲 夫婦別姓で共同歩調見通せず
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534995>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/1208235c6be1c7f5526c07daeff9a08f6b1527f4162929726ccf12c182bcb208.jpg> 府警が落とし物インコ譲渡 事件に
+      <a href=https://news.yahoo.co.jp/pickup/6535009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/5e52d24353d9e1974e83e9be8d8cd4c2b64134fa0a8d9b6789ceaeedaaf7ed80.jpg> 小学8年生 付録なぜ「ガラケー」
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/f3da5bac140f68861b42d62a947e5957576ace502df3adcf5331a4f42749901f.jpg> オリ山岡選手を書類送検 賭博疑い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535006>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a023e5a7f75a6aae34a38cfebb92d0e5b0d4c8920d5bbf20ed2d4a958d0465a6.jpg> 広末容疑者 都内関係先に家宅捜索
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535007>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/71960625c4a97a050c204b962828c018cf950b0da62715e5a0b718267659738b.jpg> 亀梨 テレ東で独立後初レギュラー
+      <a href=https://news.yahoo.co.jp/pickup/6535004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/f3da5bac140f68861b42d62a947e5957576ace502df3adcf5331a4f42749901f.jpg> オリ山岡選手を書類送検 賭博疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/41b6eca54ed9df6545f298151a5802a222acff4e133e4dbbc99ed4650a538c4c.jpg> 大谷が連敗ストップ貢献 監督絶賛
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 11:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 11:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
