@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f303157646c3330a7e541ca03ff696ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/21fb143a0625e99d5ebfe84470dec560.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c1681f3eec64b306481047369d1b3808eba20ff6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-21847528-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 週末の天気は?11日にかけて西日本〜東日本は落雷や竜巻などの激しい突風に注意　関東甲信地方は11日夜遅くにかけて大気の状態不安定【雨のシミュレーション掲載】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2ee5795381c9545facebcc4892cc8259c8de31ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000061-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【女性に下半身露出疑惑】石橋貴明「食道がん」入院で“会見せず雲隠れ”中居正広、松本人志との“いびつな共通点”に集まる批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cffea18ff130e137af2103dda823fa06a1c96ba4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229937-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> EU 報復関税の発動「90日間停止」交渉による解決進める方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a97fc38fe2d329da209889b55e7e306d44083e28>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000088-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 日経平均急反発、過去2番目の上げ幅に　トランプ関税停止で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea21bc707ffdca292815c763ac3096f95a855469>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00064892-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【近畿の天気】１１日（金）は大気の不安定な状態が続く…急な雨や落雷に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edfbcd020ca87f653dfbd3360f5e212646e961cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000057-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 【女性に下半身露出報道】石橋貴明、フジ報告書の調査「拒否」と「食道がん発覚」の“タイミング”で深まる疑惑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2b713e56e438c7c3c7a282a6ab2c16813f0f2ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00068315-gonline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 日経平均は大幅反発、2,894.97円高の34,609.00円で取引終了…指数は“あらゆる買い”で「歴代2位」の上げ幅に【4月10日の国内株式市場概況】
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/b2766e5ff1d514e30be3448fb1af545706065c52fe170aa4bb38db2c7d7d9454.jpg> 中国 米映画の輸入本数減らす方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535058>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/c1cdab2b764e038ec6c61acd0113c769b881353be92d84fe67e237918f3dc143.jpg> コメ高騰で消費離れ懸念 JA全中
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535049>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/827646ac910968b89b217fb08888f27e19ac36da0e71533abe6e97efc1cf887e.jpg> ショベルカーと接触 作業員死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535056>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/aa5c3f8b1cee2fbc97c3014181226e614fbbd27f09a8c0700571b248424a6776.jpg> 六大学野球 来年からDH制導入
+      <a href=https://news.yahoo.co.jp/pickup/6535061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/2d8213e74d17756d479e6fe208c318c21714d5b62b4aa1865380916baf306ddc.jpg> 石川遼&航 兄弟そろって首位発進
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 20:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 21:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
