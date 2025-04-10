@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dd93779a4e86b30d2fb8ed4ee97cbd4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/356e56c51f79d0d4d608785eabb051e3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/384a52bca8df3af3f36e9907dc586ae49836f42d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、144円台前半に急上昇＝米中貿易戦争激化に懸念（10日）
+      <a href=https://news.yahoo.co.jp/articles/9c869d94eb19a7526457a009d34c946bf76fca84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173122-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=597&cy=0&cw=783&ch=783&exp=10800&fmt=webp> 米政府が発表 中国への追加関税 合計145％
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0d9558ff313512f6be93152955ec0267861dc0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（10日）米国株大幅反落、ドル下落、利回り低下
+      <a href=https://news.yahoo.co.jp/articles/bfba0515011191ee4c351ccb2e9429a5aeb2e832>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173124-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=784&ch=784&exp=10800&fmt=webp> EU 米への第1弾の“報復関税” 90日間停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a1b43499acc3f5cf1484ae7b6635e5900703e2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-07229985-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東日本や近畿中心に大気不安定　晴れ間が出ても急な強い雨や雷雨に注意　関東では激しい雨も
+      <a href=https://news.yahoo.co.jp/articles/2bc99c1d2bf931a5ec146dd2a9793c66618e5576>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00050225-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=76&cw=370&ch=370&exp=10800&fmt=webp> 「減税」「現金給付」与党が政府に圧力、一方で慎重論も…揺れる首相「何かをやらなければいけない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/887303c26518983bd6d0b83c97f89a89ae3676ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000187-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=1039&ch=1039&exp=10800&fmt=webp> トランプ関税による乱高下、いったん落ち着くか　過去2番目の上昇　7日は3番目の下落も
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/913d24956a6d2055cca64e8069a197baab71f637>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173117-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 大谷翔平、爆速弾丸ヒットで“まさかの光景”「エグすぎる」 時速171キロ“火の玉打球”→相手内野陣が動けない「そりゃそうなる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f66df52298fcd4e86f77fd46e79d64f24ffc64e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-06787785-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 米トランプ政権、対中追加関税は合計145％　中国との取引に意欲も
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535090>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/4d38a7ec1f6d3ee3a3fd31e126f8ee53992d8a3fecd4d177a1b45f9a8df3fbe7.jpg> 自民・公明、消費税減税を検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535085>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/c2d36d62ac49cb4407fe16fb7f11906cce220c204f146d7616b9f7518f1ab1f1.jpg> 関東 夕方から激しい雷雨の恐れ
       </a>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535081>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/c17584be4fa9172465d8644feccae1da962a782d8f0258260bb0d49c21a3886d.jpg> 落雷で生徒1人心肺停止 困惑の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535079>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/36925c99804646504f0c07c063371de9ad4bde0bf0ae2be2e6ef37c5f1d11575.jpg> ヘリ事故 「着水するしか」と機長
+      <a href=https://news.yahoo.co.jp/pickup/6535091>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e6cee5f328287606e8a16c1291536d8940decbcb2aaaf5d384da5d0b473cd92e.jpg> 軽乗用車と衝突 自転車の14歳重体
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8ebce2cd9902fe3064d3f62174716bf1cca683dcc485446b2e5609ec10524944.jpg> 山田亮さん死去 間寛平「残念」
+      <a href=https://news.yahoo.co.jp/pickup/6535092>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/52ecf59fdeb1452d0d6d890ea44ce8a6d6e36863558ae0379a7314a36e028c77.jpg> 君たちはどう生きるか 初放送へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535073>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/318725e0c28ecb5489e48e63b3487931c4e28c35d6a99857edfcdda708b83be2.jpg> 二宮主演「8番出口」がカンヌへ
+      <a href=https://news.yahoo.co.jp/pickup/6535084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8ebce2cd9902fe3064d3f62174716bf1cca683dcc485446b2e5609ec10524944.jpg> 山田亮さん死去 間寛平「残念」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 07:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 07:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
