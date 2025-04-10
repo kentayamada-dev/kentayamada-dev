@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/oUTTzWt2Jtk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/66c25e926efc7a5bca5e92118d5719aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ccb14a746fe9550cf6a4f831a088f363.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c8a7e49ccdc2d2476fe4c14b039d256592d4aef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000041-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=1482&ch=1482&exp=10800&fmt=webp> 韓国通商交渉本部長、トランプ氏関税停止で交渉余地生まれたとの見解
+      <a href=https://news.yahoo.co.jp/articles/6171bf5eba3ff289198fa54fea1a4f424d6060ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000152-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ド軍指揮官　大谷翔平、ベッツにつなぐ9番パヘスの働きに満足「翔平の前を打つのは決して簡単でない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f29c89d90c52c34e4cd4a89cf31931e93b7b8f06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-21844180-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【激しい雨、突風に注意】暖かく湿った空気と、氷点下21度以下の寒気の影響で…警報級の大雨の可能性のところも【気象庁 全般気象情報】週間天気予報
+      <a href=https://news.yahoo.co.jp/articles/0ad615b4309e022f466c33d4d776f8af25e61336>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> オリックス山岡投手を書類送検　オンラインカジノ賭博容疑　大阪府警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64cc3090df45f22aa3d8610506c6e386aa3faf4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000140-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=873&ch=873&exp=10800&fmt=webp> ド軍指揮官　大谷翔平のマルチ安打＆二盗で連敗ストップの活躍絶賛「試合開始から勢いに乗ることができた」
+      <a href=https://news.yahoo.co.jp/articles/4a9457b6b3761fba5caaa1a9093ce0463474eb43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領 相互関税を一部停止 中国は引き上げ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535002>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/9e4760c5cf8b07a0b351f3d920b15bb6e9f9eb95af0c2b3a171603cb76fcd72c.jpg> 東京株 一時2000円超値上がり
+      <a href=https://news.yahoo.co.jp/pickup/6535003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/242a757836ed2de22fe58d28703c44cb25e7c8b49ff9c23d20ce1e8499662975.jpg> 東京株 一時2800円超の値上がり
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534996>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/4983a8d2f352b07b82edc7a4c05eceb6f5d107e3fec5636455fc55004d05c24b.jpg> 逆転3ランの山川穂高 無双状態
+      <a href=https://news.yahoo.co.jp/pickup/6535004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/f3da5bac140f68861b42d62a947e5957576ace502df3adcf5331a4f42749901f.jpg> オリ山岡選手を書類送検 賭博疑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534990>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/09de30e214dba24e1627b031174f53fe7e235401e5de10f83b61f638dc7736a0.jpg> 大谷 開幕から14試合連続出塁達成
+      <a href=https://news.yahoo.co.jp/pickup/6534996>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/4983a8d2f352b07b82edc7a4c05eceb6f5d107e3fec5636455fc55004d05c24b.jpg> 逆転3ランの山川穂高 無双状態
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 09:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 10:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
