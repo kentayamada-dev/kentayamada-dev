@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f8aa900d5cadbd19353153d51f4abd0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/21951435f9afb8ae697eb2bc7b63fc11.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ee011c67dfeda182dfd543138d98c0622a94a38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229837-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp>  「ランクル」「アルファード」などを抱き合わせ販売か　トヨタ子会社に独禁法違反おそれで公取が警告
+      <a href=https://news.yahoo.co.jp/articles/6c9f771cf14d4ee1782bf91912f74dac22eb154e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-34100650-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1141&ch=1141&exp=10800&fmt=webp> 大谷翔平の出塁率が高いゆえんとは…ロバーツ監督も高評価「打席の質とても安定」14試合連続出塁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd93cf5fe6c915d2fae742666bf6e1e423f33f89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000054-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=875&ch=875&exp=10800&fmt=webp> 大谷翔平、いまだ得点圏打率.000…「攻守にひどい」米メディアがドジャース下位打線を猛批判
+      <a href=https://news.yahoo.co.jp/articles/5d8abcf4a5d50d6f89106448486e85e22e23ecf7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955926-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】奈良市の学校グラウンドで落雷…中学生くらいの少年2〜3人倒れる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ca23040c943abee5af09af8af587b7e1d3a8d467>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000049-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 石橋貴明　フジ女性社員への下半身露出が発覚で動画削除の“遁走”…「タレントU」の実名発表も目前か
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/87540c344a575e410e1669db7d099308b4abea96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000083-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=652&ch=652&exp=10800&fmt=webp> 日米株価が急反発　「トランプ砲」で一変　「米中歩み寄れるか」に市場の注目集まる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75d7482490086cccb195afa164765e521fd6a200>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000231-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=962&ch=962&exp=10800&fmt=webp> 宮城野親方「ないですよ」　協会退職報道を改めて否定　部屋閉鎖からの1年間は「勉強になった。部屋は…」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000083-san-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=652&ch=652&exp=10800&fmt=webp> 日米株価が急反発　「トランプ砲」で一変　「米中歩み寄れるか」に市場の注目集まる
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535039>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a3e2e8c32f4f8d96d2b9d464ae5e85d687f54f7ecede84866f92b94a0be15540.jpg> 国民一律の現金給付案 課題多く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/df73f926519923163ed2fe10c69ec6c8bf7d63cecf87878cb99f4275158f6a53.jpg> 東証急反発「トランプ砲」で一変
       </a>
     </td>
   </tr>
@@ -426,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535049>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/827646ac910968b89b217fb08888f27e19ac36da0e71533abe6e97efc1cf887e.jpg> ショベルカーと接触 作業員死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535042>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/75b799d42145d766fa610d56b3bedc907e3724a43427ebd110c0367013a3b65e.jpg> クレーン先端が商業施設に接触
       </a>
@@ -442,22 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/0e1db229613a34be21bacfe5387d599a775d05cfc6141a0bd716bb0f4010caa7.jpg> 「チェキ」販売1億台突破 転機は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535045>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/0c7947c27749cb91e22f0305c141f8119004e27ab4ddf0b3e2d3b535b3c90d52.jpg> RAG FAIR土屋礼央 手術で休養
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535037>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e0e9cfe2380a8e686570a296b6895d2c729c4dfd2df055f210601ac237d5e6e2.jpg> 吉本新喜劇・山田亮さん死去
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 18:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 19:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
