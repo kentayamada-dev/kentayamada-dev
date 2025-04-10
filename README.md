@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/50a43efcbcec20111395ae8c62d08a19.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fbd2767af384f626aac2245eba1903d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/96d1a4f6fdfabdae692edf4b09ac1e31515b27f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000005-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=873&ch=873&exp=10800&fmt=webp> ドジャース・大谷　足で連敗止めた　勝利へ迷いなし　癖も盗み“完璧”二盗→決勝のホームを踏む
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000005-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=873&ch=873&exp=10800&fmt=webp> ドジャース・大谷　足で連敗止めた　勝利へ迷いなし　癖も盗み“完璧”二盗→決勝のホームを踏む
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 02:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 03:01:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
