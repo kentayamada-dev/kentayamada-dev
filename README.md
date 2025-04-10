@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa8b0806ff41506b7a7d0a6fb1f454a2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b340a7ae086570fa01daa80b71ee1400.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/518512ac1cbcb88634432d9687c4654b88d1a7be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000171-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=805&ch=805&exp=10800&fmt=webp> 奈良の帝塚山学園のグラウンドで落雷か　10代男女6人を搬送　男子生徒1人が心肺停止
+      <a href=https://news.yahoo.co.jp/articles/43ad052a1545cdb867235bf134ba98a974ffe0fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、144円台後半（10日午前11時）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9708ab404b5d6cd0826cea4decf4022c6edd33f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10173108-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=310&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 何やってんの…！？ 大谷翔平の爆速盗塁に“捕手ドン引き”「隙ありすぎ」 モーション盗まれる→あっさり二塁到達「完璧だな」「速すぎ」
+      <a href=https://news.yahoo.co.jp/articles/96d1a4f6fdfabdae692edf4b09ac1e31515b27f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000005-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=873&ch=873&exp=10800&fmt=webp> ドジャース・大谷　足で連敗止めた　勝利へ迷いなし　癖も盗み“完璧”二盗→決勝のホームを踏む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/000c398beede418f031bd00e79d63c548bb383f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ大幅反落、1004ドル安＝ナスダックも安い（10日午前）
+      <a href=https://news.yahoo.co.jp/articles/8440b2276a1e1b6f89513f235be56fa932c1f986>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00956096-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 落雷で生徒1人心肺停止　グラウンドで練習中の中高生が雷に打たれる　奈良市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4caa74a91937d0254aa79730c55ebd2fcd7e4a08>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000105-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「交渉の可能性を見極めたい」EUが米国に対する報復関税第1弾を90日間停止
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f00de14831fe310680e8c74a16178ca2b97b519>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、145円台半ば（10日朝）
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535063>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> EU 対米報復措置の発動を保留
+      <a href=https://news.yahoo.co.jp/pickup/6535082>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/4/4fece8d401783f49f753bedf1beca89da437a2f20f863b93e9d5c63414841076.jpg> NYダウ 一時1000ドル超の下落
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 23:51:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 00:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
