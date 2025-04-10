@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9974901afa10db8231f89d0324d0b5b0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b79f1214ed5e5be24669f64ffe2164b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f039be527ff4c1912d01724ab20fefafa9e48ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172996-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 公明・斉藤代表「減税によって家計や企業の負担を直接軽減」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172996-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 公明・斉藤代表「減税によって家計や企業の負担を直接軽減」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aabe0ea83502b42ceb2ef1f0677a72df014ede85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172990-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=781&ch=781&exp=10800&fmt=webp> トランプ氏の方向転換 市場の動揺が背景に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172990-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=781&ch=781&exp=10800&fmt=webp> トランプ氏の方向転換 市場の動揺が背景に
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/5ef2130b98b6fa1d92e727006b44a2fbaabcb5518171233530434ae8cf7710fc.jpg> トランプ関税「90日間停止」なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6535028>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/db5b7001cbfecc3f0ec67564aee7277700bb406d88fa21bd5fc229d60a8d139b.jpg> トランプ関税 米株式市場振り回す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535020>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/7a905d279212ad8692432b033e1865de7d1d3f75012e8c9ac667c362a8a62e4a.jpg> 李在明氏 大統領選へ出馬正式表明
+      <a href=https://news.yahoo.co.jp/pickup/6535030>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/efbecf23357e632935ea97881a3c006127c640f3c63db390c5b04ad2d0563e15.jpg> 「1人5万円」給付案 与党内も賛否
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535010>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/53d90a4cfc31b57c91e65ac20dd68240b015744935060d7dfd3be970c2a96064.jpg> リバプール来日へ 横浜FMと対戦
+      <a href=https://news.yahoo.co.jp/pickup/6535015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/84dd2e9e42e1a871154a6e89ed9f66edc1edcc4060137042587398723bd2330f.jpg> 万博 SNSに出回る「デマ」を検証
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535021>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takaokondo/02165550/title-1744244048369.jpeg?exp=10800> 朝倉未来の相手 なぜ鈴木千裕に
+      <a href=https://news.yahoo.co.jp/pickup/6535033>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/48c339e8f8f9cc4d10ea6358f7cf1d172a57b3daeb68273e5c8765ec15c449a3.jpg> ふかわりょう ポジ思考になった訳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 14:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 15:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
