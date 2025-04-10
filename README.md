@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b79f1214ed5e5be24669f64ffe2164b5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/63fe1707b28b3aeb0b37d7bd9ca55a07.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f039be527ff4c1912d01724ab20fefafa9e48ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172996-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 公明・斉藤代表「減税によって家計や企業の負担を直接軽減」
+      <a href=https://news.yahoo.co.jp/articles/a285f4dff7b132d17b10a20a4358e1b6765e9f70>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000003-iat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース大谷翔平選手　14連続試合出塁更新・盗塁も　連敗ストップに貢献【岩手】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9eac79b8c3cfbdc9d182f2fa40b86f2fd8a198b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-34100562-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 岸博幸氏「経済政策として完全に間違い」与党で浮上の現金一律給付案を酷評「非常にできが悪い」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f8d43d64deb50b55b0157a91e3d1a9be95b21a22>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕高値圏＝前場高値は超えられず（10日後場中盤）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7a88d53827caf1c6a447c627f35335c542a1940>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172948-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=355&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 打ち取ったはずなのに…大谷翔平が“いつの間にか”二塁到達のチート技 ボテボテ安打→即盗塁の“プレッシャーラン”に驚愕「ほんと速いよな」
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535015>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/84dd2e9e42e1a871154a6e89ed9f66edc1edcc4060137042587398723bd2330f.jpg> 万博 SNSに出回る「デマ」を検証
+      <a href=https://news.yahoo.co.jp/pickup/6535024>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/de8d8a9cacbe102619d2deae297df33e564a30f2caa9a61bc87cb418461355e6.jpg> コロナで注目「脳の霧」研究続々
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535033>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/48c339e8f8f9cc4d10ea6358f7cf1d172a57b3daeb68273e5c8765ec15c449a3.jpg> ふかわりょう ポジ思考になった訳
+      <a href=https://news.yahoo.co.jp/pickup/6535015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/84dd2e9e42e1a871154a6e89ed9f66edc1edcc4060137042587398723bd2330f.jpg> 万博 SNSに出回る「デマ」を検証
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 15:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 15:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
