@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c40c918bd907b08075c74c45dd16e531.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d3c7fc2b162e30698332e38215b9d73.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/913d24956a6d2055cca64e8069a197baab71f637>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173117-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 大谷翔平、爆速弾丸ヒットで“まさかの光景”「エグすぎる」 時速171キロ“火の玉打球”→相手内野陣が動けない「そりゃそうなる」
+      <a href=https://news.yahoo.co.jp/articles/228a94e3242d19d88d776604b1aa82365849c567>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-35231633-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 対中追加関税は計１４５％、米ホワイトハウスが修正
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e556175133fdb5a68e1b510005d412a336437ea7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国、交渉不調なら関税復活も　トランプ氏「もとに戻る」
+      <a href=https://news.yahoo.co.jp/articles/6a1b43499acc3f5cf1484ae7b6635e5900703e2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-07229985-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 東日本や近畿中心に大気不安定　晴れ間が出ても急な強い雨や雷雨に注意　関東では激しい雨も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cc3e89feb04a2a6e2a371e5eef32baa80e2f6e85>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ大幅反落、1014ドル安＝米中貿易戦争への警戒で（10日）☆差替
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/913d24956a6d2055cca64e8069a197baab71f637>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173117-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 大谷翔平、爆速弾丸ヒットで“まさかの光景”「エグすぎる」 時速171キロ“火の玉打球”→相手内野陣が動けない「そりゃそうなる」
       </a>
     </td>
   </tr>
@@ -386,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535083>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/4/4fece8d401783f49f753bedf1beca89da437a2f20f863b93e9d5c63414841076.jpg> NYダウ 一時2100ドル超の下落
+      <a href=https://news.yahoo.co.jp/pickup/6535086>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fd88ae6e9ecc9f94491e0a9f66ab75fe9389e04c4d340bf27d4d4646407472ce.jpg> NYダウ 終値は前日比1014ドル安
       </a>
     </td>
   </tr>
@@ -402,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/63aa98bec60c00da7815c5446df06f69545c4e33839a316466dc6a814be528b0.jpg> 国のコロナワクチン助成終了へ
+      <a href=https://news.yahoo.co.jp/pickup/6535085>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/c2d36d62ac49cb4407fe16fb7f11906cce220c204f146d7616b9f7518f1ab1f1.jpg> 関東 夕方から激しい雷雨の恐れ
       </a>
     </td>
   </tr>
@@ -426,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535076>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/b6cd29dd0b2ba06a430f35ddaf3891a507392f08635e5d5d4deb2a2b9d403c91.jpg> プラダ、ヴェルサーチェを買収
+      <a href=https://news.yahoo.co.jp/pickup/6535070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/dc54fbf5b0d6cd46e8a718610814b0d9be961ee2ec252da373cf1b0d23c07b8b.jpg> 春に増加「メンタル不調」注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535070>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/dc54fbf5b0d6cd46e8a718610814b0d9be961ee2ec252da373cf1b0d23c07b8b.jpg> 春に増加「メンタル不調」注意
+      <a href=https://news.yahoo.co.jp/pickup/6535084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8ebce2cd9902fe3064d3f62174716bf1cca683dcc485446b2e5609ec10524944.jpg> 山田亮さん死去 間寛平「残念」
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 06:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 06:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
