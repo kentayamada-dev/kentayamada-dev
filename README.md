@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c9a378b3f27d4a412441be02f6ac36c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/66c25e926efc7a5bca5e92118d5719aa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64cc3090df45f22aa3d8610506c6e386aa3faf4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000140-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=873&ch=873&exp=10800&fmt=webp> ド軍指揮官　大谷翔平のマルチ安打＆二盗で連敗ストップの活躍絶賛「試合開始から勢いに乗ることができた」
+      <a href=https://news.yahoo.co.jp/articles/5c8a7e49ccdc2d2476fe4c14b039d256592d4aef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000041-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=1482&ch=1482&exp=10800&fmt=webp> 韓国通商交渉本部長、トランプ氏関税停止で交渉余地生まれたとの見解
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9a144779ec07f408891c9a7472f18b82815026f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-34100199-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=656&ch=656&exp=10800&fmt=webp> トランプ氏は「メチャクチャびびってる」　峯村健司氏「トランプ関税」急きょ停止の裏側解説
+      <a href=https://news.yahoo.co.jp/articles/f29c89d90c52c34e4cd4a89cf31931e93b7b8f06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-21844180-itv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 【激しい雨、突風に注意】暖かく湿った空気と、氷点下21度以下の寒気の影響で…警報級の大雨の可能性のところも【気象庁 全般気象情報】週間天気予報
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/64cc3090df45f22aa3d8610506c6e386aa3faf4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000140-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=288&cy=0&cw=873&ch=873&exp=10800&fmt=webp> ド軍指揮官　大谷翔平のマルチ安打＆二盗で連敗ストップの活躍絶賛「試合開始から勢いに乗ることができた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c925f9c4ab421e33f2c2ec9e9cf2ccd002894029>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国が対米報復関税を84％に引き上げへ「米国は間違い重ねている」　追加関税の応酬激化
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c33db76ca4636c35354cac2ab0e189893cc41214>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-02325315-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】各地で雨、沖縄は大雨の所も　北海道は広く青空
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d28f8a54f14b199efcb906631618b4a4dc4007b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（9日）米国株急反発、ドルが対円・スイスフランで上昇、10年債利回り上げ幅縮小
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,32 +402,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535002>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/9e4760c5cf8b07a0b351f3d920b15bb6e9f9eb95af0c2b3a171603cb76fcd72c.jpg> 東京株 一時2000円超値上がり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535001>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a7c3df073977b5141cdfb10c3777e076bd8d908bd131e83c82196880c4278739.jpg> 関税合戦 米が対中関税を125%に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6534998>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/59fa7a97c59965a7f1c07d026ef918a978286a30ae3ff3a80df38e8cd4088a05.jpg> USS買収計画 トランプ氏が懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534994>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/d3d16ac471c6a2c92967024f8460af6e36fdd29036bcde621584068e4cb65dcb.jpg> 10日の沖縄 警報級の大雨の恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534989>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/c8b6979fffa66cd0b6ac01d52e59a8d3adeb67e0045607362e0625822aef2e7d.jpg> NY株2962ドル高 上げ幅史上最大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/47ea0a56fd47457c70f5a7522e55474a37c3194e80cc8cd2693198646c49deb1.jpg> 米大統領 相互関税の一部90日停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534993>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/69c0dcd6d792d8ed803caa9feada700a3da1f5075c94008a58a00627e0d866ab.jpg> 露軍に中国人兵150人超 ウ報道
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/3e064d00872d2e9075a6ddaccfcf5b68ffec44ed16acf3e3af1e3498deee79e6.jpg> 中華街構想から17年 池袋のいま
+      <a href=https://news.yahoo.co.jp/pickup/6534999>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e824562998449577df2b1471010e608ee2b955b0d751fe75c1aa65c0a8932299.jpg> 旅客機内で発煙 羽田に緊急着陸
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 09:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 09:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
