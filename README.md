@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/16eb0812d4b71946b7269cff14dddde9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/823217785263614a1743616d46f2e9df.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e32c3f1f74766542c7c0ae8b601c567fba38e13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ急反落、2105ドル安＝ナスダックも安い（10日午後0時23分）
+      <a href=https://news.yahoo.co.jp/articles/5f5b6e5c1fa9aa72a6b202906daa09a0accd8d31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-09634395-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> NYダウ　一時2100ドル以上値下がり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d3f9dc1a505860a3905e47d4ce23c0f73713205>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ急落、1410ドル安＝ナスダックも安い（10日午前11時50分）
       </a>
     </td>
   </tr>
@@ -374,15 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/96d1a4f6fdfabdae692edf4b09ac1e31515b27f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000005-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=873&ch=873&exp=10800&fmt=webp> ドジャース・大谷　足で連敗止めた　勝利へ迷いなし　癖も盗み“完璧”二盗→決勝のホームを踏む
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000005-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=873&ch=873&exp=10800&fmt=webp> ドジャース・大谷　足で連敗止めた　勝利へ迷いなし　癖も盗み“完璧”二盗→決勝のホームを踏む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4caa74a91937d0254aa79730c55ebd2fcd7e4a08>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000105-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「交渉の可能性を見極めたい」EUが米国に対する報復関税第1弾を90日間停止
+      <a href=https://news.yahoo.co.jp/articles/0b7e5ad4e03a5da87339fc7c6fd6945b5b50eb9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00956076-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 現金給付案巡り“給付より減税”と与野党から発言相次ぐ　国民民主党は「若者減税法案」を提出
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 01:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 02:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
