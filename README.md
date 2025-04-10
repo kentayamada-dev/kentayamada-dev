@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b905486f231ea654dd59c65ca53e30fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d0a098b94c69f484a459e66603fac3bd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e71d265aaec60c7891640ce1a1c02c808ae37774>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-04101229-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=831&ch=831&exp=10800&fmt=webp> 「とにかくいい野球をしている」大谷翔平２安打２得点１盗塁にロバーツ監督絶賛　試合前にはブルペンで１４球
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/95ed5e6f0842902ef08ccb7ba11a4472c98fd5d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000065-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=800&ch=800&exp=10800&fmt=webp> コロコロ変わるトランプ関税　日本への“上乗せ分”90日間停止　中国には強気「125％」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f35a9bca7c1b371e2914b440d7f474ef3ef389b3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> EU、UAE交渉開始へ　保護主義に対抗し経済連携
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3bb37ea6a5db789146d2d5da2d63cd25dab62c4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000180-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平、日本選手最長！開幕14試合連続出塁　ロバーツ監督絶賛「チームに勢いを与えてくれた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ac670a9fe8ec91900ffb85c70bb816e803612b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】NYダウ 一時前日比2000ドル超安　ドル安・円高も　対中関税145％発表受け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43ad052a1545cdb867235bf134ba98a974ffe0fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、144円台後半（10日午前11時）
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 04:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 05:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
