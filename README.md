@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/63fe1707b28b3aeb0b37d7bd9ca55a07.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5fade8d1fbd269433b9781d21d7fa28.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/272ccd68b633cbf333542ca809c832fb65bb4fbe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 相互関税上乗せ分、90日停止　日本は10％に、半日で軌道修正　中国は125％に・トランプ氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/103fabadcb37bd438be71f9e460914cda4e8dca4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-08262492-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=400&ch=400&exp=10800&fmt=webp> 吉本新喜劇の座員・山田亮さんが51歳で死去　借金取りの子分役など　“広島弁”いかし活躍
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/58f9eabfdb84f2d5a7154ffe73ac80fb70f8e0ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東京株、2894円高　過去2番目の上げ幅　米関税一部停止で3万4000円台回復
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a285f4dff7b132d17b10a20a4358e1b6765e9f70>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000003-iat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース大谷翔平選手　14連続試合出塁更新・盗塁も　連敗ストップに貢献【岩手】
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9eac79b8c3cfbdc9d182f2fa40b86f2fd8a198b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-34100562-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 岸博幸氏「経済政策として完全に間違い」与党で浮上の現金一律給付案を酷評「非常にできが悪い」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aabe0ea83502b42ceb2ef1f0677a72df014ede85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172990-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=781&ch=781&exp=10800&fmt=webp> トランプ氏の方向転換 市場の動揺が背景に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8d43d64deb50b55b0157a91e3d1a9be95b21a22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕高値圏＝前場高値は超えられず（10日後場中盤）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f61852a879c6d0f34fd70bdbfcf989734b1ab5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229754-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ・トランプ大統領「USスチールは日本に渡ってほしくない」 日本製鉄の買収計画に否定的な姿勢示す
+      <a href=https://news.yahoo.co.jp/articles/d05872fde814d56d5e7bfcd053cd8d3ebad887b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国、対米報復関税発動　米輸入品に84％　トランプ政権の関税圧力に一歩も引かぬ構え
       </a>
     </td>
   </tr>
@@ -418,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535036>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/9b699b75f74045b184ff35616bff56fe8d55243acd68baca4b5aa34b90767187.jpg> 東証終値2894円高 歴代2位上げ幅
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535030>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/efbecf23357e632935ea97881a3c006127c640f3c63db390c5b04ad2d0563e15.jpg> 「1人5万円」給付案 与党内も賛否
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535034>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/8eec59f9b9f5881b718a16390ba8550a15bdb95651a28ab3a092007b49e76bed.jpg> 崩落事故死184人 ドミニカ共和国
       </a>
     </td>
   </tr>
@@ -434,22 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/ed43075a50583569f7283228321e0c4ae1c3488e1807c4c711f5aef1bde85364.jpg> 広末容疑者 違法薬物は検出されず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535025>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/3258533ef4d598450dfaf98433719559faf70a704fd9aa680a2b4eee9422a454.jpg> なぜ 千葉工大の入試志願者が最多
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535024>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/de8d8a9cacbe102619d2deae297df33e564a30f2caa9a61bc87cb418461355e6.jpg> コロナで注目「脳の霧」研究続々
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535015>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/84dd2e9e42e1a871154a6e89ed9f66edc1edcc4060137042587398723bd2330f.jpg> 万博 SNSに出回る「デマ」を検証
+      <a href=https://news.yahoo.co.jp/pickup/6535037>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e0e9cfe2380a8e686570a296b6895d2c729c4dfd2df055f210601ac237d5e6e2.jpg> 吉本新喜劇・山田亮さん死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 15:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 16:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
