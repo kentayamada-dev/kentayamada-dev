@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/09b9314effce9230ce5f82a2084abffe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/12ec56a27e76c3d81e72320f4107c8c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d000918bf1671f826373be39167d569121ae5d18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-06857923-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日経平均株価、一時2800円超値上がり　米の「相互関税」一部停止受け【中継】
+      <a href=https://news.yahoo.co.jp/articles/38b04cc8e28a5c415808da95fc756f64c2aefb02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、146円台後半＝リスクオフ後退の買い戻し一服（10日正午）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6955d8f0f91c942f39ce98628ccfbe4e76ffe504>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229748-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税「90日間停止」はなぜ？「昨日の夜は少し不安に思う人も」トランプ氏　金融市場の動きが判断材料に…【記者解説】
+      <a href=https://news.yahoo.co.jp/articles/ef5f49eb3e48055634b03b14f5ab25f66798a24f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00094881-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 「彼を止めることはできない」T・ヘルナンデス、初回２ラン＆劇的勝ち越し打にファン絶賛「ここぞで頼れる男」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fca812b3d8a99e3b4087dbe75c3421286f3e4410>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229756-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 林官房長官「前向きに受け止める」と評価　トランプ関税「90日間停止」発表に　10％の一律関税・自動車への25％関税などについては措置見直しを強く求めると強調
+      <a href=https://news.yahoo.co.jp/articles/5e4655da5295e7521308d13cb125e4f24e4e4ab6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-01683673-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「相互関税」停止に「短期的な危機免れた」政府関係者の声も　赤沢経済再生担当相の訪米で調整【中継】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0ea9f3f623978a599d13b826bb088da7bcf236d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172945-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=360&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 大谷翔平、爆速ヒットであっさり“新記録達成”の瞬間…塁上で新ポーズ披露には現地カメラも“ドアップ対応”「デコルテポーズきた！」
+      <a href=https://news.yahoo.co.jp/articles/3081d5de9cd462109506c66cc08289cb80234a8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172964-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “トランプ関税”先行き不透明 90日間停止も中国に125％で発動 夏野剛氏「好き勝手にやった者勝ち」「経済学をやっていた人は大ショック」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4720f1b14b585179686184f2ba132a955a9a56b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000028-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ氏「日本に渡るのを見たくない」日本製鉄のUSスチール買収計画
+      <a href=https://news.yahoo.co.jp/articles/4f61852a879c6d0f34fd70bdbfcf989734b1ab5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229754-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ・トランプ大統領「USスチールは日本に渡ってほしくない」 日本製鉄の買収計画に否定的な姿勢示す
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 12:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 12:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
