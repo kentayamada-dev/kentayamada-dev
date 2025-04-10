@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c87edc1bc3721f0be5b3512c04dc40d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/184b1ef652e1ea57ead5fbb4dc781a2a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd55c370dd275f8d7defa9f084fc0697eafa3faa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00004753-itv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=486&ch=486&exp=10800&fmt=webp> “トランプ関税”「動向を注視しながら柔軟な対応を」 県対策チーム設置 愛媛
+      <a href=https://news.yahoo.co.jp/articles/78c8d3e24fa3869d9921d451a70f6aed83f073e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00010006-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【なぜ方針転換？】トランプ大統領は株価下落ではなく金利上昇を嫌ったか　相互関税の90日間停止を突如発表の背景　日本はどこで譲歩するかがポイントに　専門家解説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/321735b82663b1e9ab949321fcf2f649d7962a40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-08337615-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】クレーン車のアームが商業施設の壁に突っ込む　神戸市・JR三ノ宮駅前の工事現場
+      <a href=https://news.yahoo.co.jp/articles/c5cf8559b6bf19c84d8171ba38785564a633e961>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955826-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】JR三ノ宮駅近くで工事クレーンがビルに接触…原因は“操作ミス”　けが人なし　兵庫・神戸市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/87540c344a575e410e1669db7d099308b4abea96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000083-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=652&ch=652&exp=10800&fmt=webp> 日米株価が急反発　「トランプ砲」で一変　「米中歩み寄れるか」に市場の注目集まる
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/79584962baa033c77d04c6873f3e8078f538d41b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172984-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=378&cy=0&cw=966&ch=966&exp=10800&fmt=webp> 「キケさまさま」ドジャースを救ったお調子者の“クールすぎる”超ファインプレーの瞬間 チームメイトはハグで“スーパーユーティリティー男”に感謝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/205bd5843e3ea667820463660a23e83b7e4a54a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000110-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=304&cy=0&cw=1592&ch=1592&exp=10800&fmt=webp> 日経平均は急反発、米関税90日間停止を好感　上昇幅歴代2位
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/db5b7001cbfecc3f0ec67564aee7277700bb406d88fa21bd5fc229d60a8d139b.jpg> トランプ関税 米株式市場振り回す
+      <a href=https://news.yahoo.co.jp/pickup/6535036>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/9b699b75f74045b184ff35616bff56fe8d55243acd68baca4b5aa34b90767187.jpg> 東証終値2894円高 歴代2位上げ幅
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/9b699b75f74045b184ff35616bff56fe8d55243acd68baca4b5aa34b90767187.jpg> 東証終値2894円高 歴代2位上げ幅
+      <a href=https://news.yahoo.co.jp/pickup/6535039>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a3e2e8c32f4f8d96d2b9d464ae5e85d687f54f7ecede84866f92b94a0be15540.jpg> 国民一律の現金給付案 課題多く
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535032>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/9b2a2dc914e376ef5ce5a421929e60abf1240db8151ce3e215b39e409282d8a4.jpg> 高学年児童にスマホ 関東で半数超
+      <a href=https://news.yahoo.co.jp/pickup/6535045>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/0c7947c27749cb91e22f0305c141f8119004e27ab4ddf0b3e2d3b535b3c90d52.jpg> RAG FAIR土屋礼央 手術で休養
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 17:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 18:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
