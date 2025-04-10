@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d3c7fc2b162e30698332e38215b9d73.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dd93779a4e86b30d2fb8ed4ee97cbd4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/228a94e3242d19d88d776604b1aa82365849c567>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-35231633-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 対中追加関税は計１４５％、米ホワイトハウスが修正
+      <a href=https://news.yahoo.co.jp/articles/384a52bca8df3af3f36e9907dc586ae49836f42d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、144円台前半に急上昇＝米中貿易戦争激化に懸念（10日）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e0d9558ff313512f6be93152955ec0267861dc0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（10日）米国株大幅反落、ドル下落、利回り低下
       </a>
     </td>
   </tr>
@@ -373,14 +381,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc3e89feb04a2a6e2a371e5eef32baa80e2f6e85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕ダウ大幅反落、1014ドル安＝米中貿易戦争への警戒で（10日）☆差替
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/913d24956a6d2055cca64e8069a197baab71f637>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173117-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 大谷翔平、爆速弾丸ヒットで“まさかの光景”「エグすぎる」 時速171キロ“火の玉打球”→相手内野陣が動けない「そりゃそうなる」
       </a>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f35a9bca7c1b371e2914b440d7f474ef3ef389b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> EU、UAE交渉開始へ　保護主義に対抗し経済連携
+      <a href=https://news.yahoo.co.jp/articles/f66df52298fcd4e86f77fd46e79d64f24ffc64e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-06787785-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 米トランプ政権、対中追加関税は合計145％　中国との取引に意欲も
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fd88ae6e9ecc9f94491e0a9f66ab75fe9389e04c4d340bf27d4d4646407472ce.jpg> NYダウ 終値は前日比1014ドル安
+      <a href=https://news.yahoo.co.jp/pickup/6535087>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/48b4f3d3b8437f382a3ec97f3f4a1c466af4aaacdc6770cdd20d23d069e88acd.jpg> 対中追加関税は計145% 米が修正
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535071>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/1ee8f70364c7465c81393b12f5f6663be056628a70377f89fecf57dc4baca1c8.jpg> トランプ関税 製造各社対応割れる
+      <a href=https://news.yahoo.co.jp/pickup/6535086>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fd88ae6e9ecc9f94491e0a9f66ab75fe9389e04c4d340bf27d4d4646407472ce.jpg> NYダウ 終値は前日比1014ドル安
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535070>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/dc54fbf5b0d6cd46e8a718610814b0d9be961ee2ec252da373cf1b0d23c07b8b.jpg> 春に増加「メンタル不調」注意
+      <a href=https://news.yahoo.co.jp/pickup/6535088>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/739a3fcfa09e25d89a926b321fee89b9d703836602ca8a63c3faa0c6fcd28906.jpg> コストコに行列 2h半前倒し開店
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 06:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 07:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
