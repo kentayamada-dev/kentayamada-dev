@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/24a7700d280c0ac3d0b38816f68ff831.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f303157646c3330a7e541ca03ff696ec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0cc7ebea16c897e6ecbf9bd5ea9339276b1f5b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000007-courrier-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> トランプは数日前から「相互関税停止」を考えていた　強気なトランプが意識した存在とは？
+      <a href=https://news.yahoo.co.jp/articles/a97fc38fe2d329da209889b55e7e306d44083e28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000088-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 日経平均急反発、過去2番目の上げ幅に　トランプ関税停止で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98d59f1942412970e26c1242d2ae914d97a4b3a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-34101093-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=937&ch=937&exp=10800&fmt=webp> 東京６大学野球が来年からDH制導入　全国27連盟で現在採用なしは東京６大学と関西学生のみ
+      <a href=https://news.yahoo.co.jp/articles/ea21bc707ffdca292815c763ac3096f95a855469>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00064892-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【近畿の天気】１１日（金）は大気の不安定な状態が続く…急な雨や落雷に注意
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535057>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/065ef9f26c55da52b061d62bcfdb9cbb60a46f44ab384938e2a6a9e2a9dc0a42.jpg> 関税対応 日本企業6割が特になし
+      <a href=https://news.yahoo.co.jp/pickup/6535058>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/c1cdab2b764e038ec6c61acd0113c769b881353be92d84fe67e237918f3dc143.jpg> コメ高騰で消費離れ懸念 JA全中
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535047>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/cddde6f6b7a253bfebcc77ae57f74f4da996fd3d39f854d3128371d4ad1711c0.jpg> 独禁法違反恐れ トヨタ販社に警告
+      <a href=https://news.yahoo.co.jp/pickup/6535059>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/529b13bc2b0efce8f1ee32f790bcebe3061cf5ae865980a1609cb2f7e6b8db0b.jpg> 11日は関東を中心に雷雨注意
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/551caac2994973e4f91a9a958df95257c5b9dd6b487429267052e76e151bc285.jpg> グラウンドに落雷 1人心肺停止
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/de821e63abe58fb081f7c78203d9beec0850b1b836678cd783dbde5a9d976f47.jpg> グラウンドに落雷 1人心肺停止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 20:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 20:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
