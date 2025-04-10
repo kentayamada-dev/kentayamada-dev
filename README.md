@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1e3a901cf833508ca242e98030e0d696.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa8b0806ff41506b7a7d0a6fb1f454a2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/518512ac1cbcb88634432d9687c4654b88d1a7be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000171-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=805&ch=805&exp=10800&fmt=webp> 奈良の帝塚山学園のグラウンドで落雷か　10代男女6人を搬送　男子生徒1人が心肺停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9708ab404b5d6cd0826cea4decf4022c6edd33f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10173108-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=310&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 何やってんの…！？ 大谷翔平の爆速盗塁に“捕手ドン引き”「隙ありすぎ」 モーション盗まれる→あっさり二塁到達「完璧だな」「速すぎ」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/000c398beede418f031bd00e79d63c548bb383f5>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f00de14831fe310680e8c74a16178ca2b97b519>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、145円台半ば（10日朝）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59ace06ae2e041e570da7831a996923ad3464447>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00050178-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 長崎県・壱岐島沖のヘリ事故「着水するしかなかった」機長が説明…機体全体がゆがんで後部が著しく損傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4985ef25a748771df02c46525fe9e7e0607bcd25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-90022219-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手　自己最長の14試合連続出塁　連敗も3でストップ
       </a>
     </td>
   </tr>
@@ -418,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535077>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a773afb6a237a389fa82d3f34c672a0ec58cb0d9e106ab2a559f8cea90460cac.jpg> 生徒搬送 当時は県全域で雷注意報
+      <a href=https://news.yahoo.co.jp/pickup/6535075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/63aa98bec60c00da7815c5446df06f69545c4e33839a316466dc6a814be528b0.jpg> 国のコロナワクチン助成終了へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/c17584be4fa9172465d8644feccae1da962a782d8f0258260bb0d49c21a3886d.jpg> 落雷で生徒1人心肺停止 困惑の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/36925c99804646504f0c07c063371de9ad4bde0bf0ae2be2e6ef37c5f1d11575.jpg> ヘリ事故 「着水するしか」と機長
       </a>
     </td>
   </tr>
@@ -442,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535067>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/55f94b07b6bf558bb3d059e8d1dd5d5da266948e31fa8884c3b9be040954b986.jpg> 井上尚弥32歳に「肉体変化ない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535073>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/318725e0c28ecb5489e48e63b3487931c4e28c35d6a99857edfcdda708b83be2.jpg> 二宮主演「8番出口」がカンヌへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535037>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e0e9cfe2380a8e686570a296b6895d2c729c4dfd2df055f210601ac237d5e6e2.jpg> 吉本新喜劇・山田亮さん死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 23:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 23:51:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
