@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de0770ca2fd8222348cb803815d9e42c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c40c918bd907b08075c74c45dd16e531.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53ffb7195b06101efa9fcfae200033fca0589e10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00870723-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=253&ch=253&exp=10800&fmt=webp> まさかのトランプ関税の一部「90日間停止」だが…高関税をかけたがる背景事情
+      <a href=https://news.yahoo.co.jp/articles/913d24956a6d2055cca64e8069a197baab71f637>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173117-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 大谷翔平、爆速弾丸ヒットで“まさかの光景”「エグすぎる」 時速171キロ“火の玉打球”→相手内野陣が動けない「そりゃそうなる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e556175133fdb5a68e1b510005d412a336437ea7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国、交渉不調なら関税復活も　トランプ氏「もとに戻る」
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 05:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 06:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
