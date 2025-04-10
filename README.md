@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e9f9156159a07bb32d9f95160f0a27e2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab5067b17cc24bae74b5ce0221607986.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c593130c52d48e9898f6c61baa4693eafdcb31e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全国民に一律で現金給付する案…与党内で検討　トランプ関税対策
+      <a href=https://news.yahoo.co.jp/articles/3da6ce33c886f45a2a8f775bf2f8c89c73f4a7ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955780-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が金利急上昇に焦り?相互関税90日間停止　SNSへの「今が買い時だ!」投稿には“株価操縦”との批判も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3dcb2e4e53e141e8bda95d91881242d62f2ef80f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955784-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 圏外でもスマホがつながる!KDDIが衛星と直接通信する日本初サービス開始
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca1e92f68725d6095ba61285412b08da2ca64450>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-21846611-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース・大谷翔平選手は2安打で14試合連続出塁　エンゼルス菊池雄星投手は2敗目　今季初勝利お預け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5482713c98d191129939a70c8da2c0228986d190>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229806-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税「90日間一時停止認める」全世界対象10％一律関税は維持　中国には関税“上乗せ”125％に
       </a>
     </td>
   </tr>
@@ -426,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535034>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/8eec59f9b9f5881b718a16390ba8550a15bdb95651a28ab3a092007b49e76bed.jpg> 崩落事故死184人 ドミニカ共和国
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535027>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/f3e4dfaef9d5d8db653df02968bcb926a4a6cb49eafba1f399fb2906fe903ba6.jpg> 車が病院玄関に突っ込む 6人けが
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535024>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/de8d8a9cacbe102619d2deae297df33e564a30f2caa9a61bc87cb418461355e6.jpg> コロナで注目「脳の霧」研究続々
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535040>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/0e1db229613a34be21bacfe5387d599a775d05cfc6141a0bd716bb0f4010caa7.jpg> チェキ起死回生 転機は韓国ドラマ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535032>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/9b2a2dc914e376ef5ce5a421929e60abf1240db8151ce3e215b39e409282d8a4.jpg> 高学年児童にスマホ 関東で半数超
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 16:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 17:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
