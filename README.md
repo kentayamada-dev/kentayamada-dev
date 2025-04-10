@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4cd42e148e3fbc2d52be4a6892d2190a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/24a7700d280c0ac3d0b38816f68ff831.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b64d12cfee54b70bc6fb16adc412f0769d87ea80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00050706-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】奈良・帝塚山学園のグラウンドに落雷　中学生くらいの生徒ら６人救急搬送　サッカーしていたか
+      <a href=https://news.yahoo.co.jp/articles/f0cc7ebea16c897e6ecbf9bd5ea9339276b1f5b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000007-courrier-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> トランプは数日前から「相互関税停止」を考えていた　強気なトランプが意識した存在とは？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e861a890da25072d17f5648d92bc6ed23ef3a7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000005-courrier-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> トランプの「相互関税停止」が示唆するもの　「絶対に変えない」と強調されていた決断が覆されたワケ
+      <a href=https://news.yahoo.co.jp/articles/98d59f1942412970e26c1242d2ae914d97a4b3a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-34101093-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=937&ch=937&exp=10800&fmt=webp> 東京６大学野球が来年からDH制導入　全国27連盟で現在採用なしは東京６大学と関西学生のみ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/edfbcd020ca87f653dfbd3360f5e212646e961cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000057-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 【女性に下半身露出報道】石橋貴明、フジ報告書の調査「拒否」と「食道がん発覚」の“タイミング”で深まる疑惑
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca23040c943abee5af09af8af587b7e1d3a8d467>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000049-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 石橋貴明　フジ女性社員への下半身露出が発覚で動画削除の“遁走”…「タレントU」の実名発表も目前か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/f7c264c75d7de010adb6299db747adc023aa9877b645aac5c641d4df5e3ac611.jpg> 赤沢氏 関税交渉で来週にも訪米へ
+      <a href=https://news.yahoo.co.jp/pickup/6535048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/df73f926519923163ed2fe10c69ec6c8bf7d63cecf87878cb99f4275158f6a53.jpg> 東証急反発「トランプ砲」で一変
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/df73f926519923163ed2fe10c69ec6c8bf7d63cecf87878cb99f4275158f6a53.jpg> 東証急反発「トランプ砲」で一変
+      <a href=https://news.yahoo.co.jp/pickup/6535057>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/065ef9f26c55da52b061d62bcfdb9cbb60a46f44ab384938e2a6a9e2a9dc0a42.jpg> 関税対応 日本企業6割が特になし
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535042>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/75b799d42145d766fa610d56b3bedc907e3724a43427ebd110c0367013a3b65e.jpg> クレーン先端が商業施設に接触
+      <a href=https://news.yahoo.co.jp/pickup/6535056>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/aa5c3f8b1cee2fbc97c3014181226e614fbbd27f09a8c0700571b248424a6776.jpg> 六大学野球 来年からDH制導入
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535056>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/aa5c3f8b1cee2fbc97c3014181226e614fbbd27f09a8c0700571b248424a6776.jpg> 六大学野球 来年からDH制導入
+      <a href=https://news.yahoo.co.jp/pickup/6535037>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e0e9cfe2380a8e686570a296b6895d2c729c4dfd2df055f210601ac237d5e6e2.jpg> 吉本新喜劇・山田亮さん死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 19:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 20:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
