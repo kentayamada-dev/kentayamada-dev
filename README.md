@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e68fd7c7e5ffc808e0fdc3c03329ee24.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3f05bd2fb20e838426fa9eee6088d624.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3ed577df92be44c31233e218ec8dd18d70dd6025>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000086-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=343&ch=343&exp=10800&fmt=webp> 石橋貴明、食道がん公表の動画非公開にSNS「なんで消したんだろ？」フジテレビ問題での報道もあり「タイミングがねぇ…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0f00de14831fe310680e8c74a16178ca2b97b519>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、145円台半ば（10日朝）
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3a555656ba5f6b6bbe5e7f7c37ee4dddb2873c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00010017-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 【オリックス】好機に一本出ず今季初ドロー 単独首位はキープ 若月マルチ&1号ソロ エスピノーザ7回1失点の好投 杉本は猛打賞
+      <a href=https://news.yahoo.co.jp/articles/335a647f1dc42bdd15a26f82c800bce7404cf3d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00050710-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> グラウンドで部活動中に落雷　中高生男女６人搬送され１人心肺停止　当時、奈良県全域で雷注意報
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1766f446baabaf277c8773c38ff23cf0ed2737c6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00956077-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=476&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「交渉の余地を模索したい」EUがアメリカへの追加関税発動を90日間保留すると発表「交渉が満足いかなければ対抗措置を発動する」とけん制
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63b8ec61ca4a6a6687d2b1460e49bab5096490e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00036301-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=413&ch=413&exp=10800&fmt=webp> フジ報告書“下半身露出”報道の石橋貴明、ファンが「絶対に許さない」松嶋菜々子への“公開セクハラ”
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535065>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a59b222b90f3d69f105ad3c8c0795dcdef802369cb272f538247b45ad33f782b.jpg> 牧野フライス ニデックTOBに反対
+      <a href=https://news.yahoo.co.jp/pickup/6535077>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a773afb6a237a389fa82d3f34c672a0ec58cb0d9e106ab2a559f8cea90460cac.jpg> 生徒搬送 当時は県全域で雷注意報
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535066>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e7997f0d14c6c9545685cbca85ad2b873a175e5c88867a6d15227de0b174642b.jpg> 生徒複数搬送 当時激しい雨と雷鳴
+      <a href=https://news.yahoo.co.jp/pickup/6535076>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/b6cd29dd0b2ba06a430f35ddaf3891a507392f08635e5d5d4deb2a2b9d403c91.jpg> プラダ、ヴェルサーチェを買収
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 22:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 23:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
