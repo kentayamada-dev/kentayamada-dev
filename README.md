@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/adcece951b0c1d2e7b839b2df0afa71a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/09b9314effce9230ce5f82a2084abffe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d75dfab007ff73a6949847bcaf029bfee1b1b955>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000013-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=103&cw=867&ch=867&exp=10800&fmt=webp> J1横浜M、名門・リバプールと今夏に激突！「Jリーグワールドチャレンジ2025」開催決定
+      <a href=https://news.yahoo.co.jp/articles/d000918bf1671f826373be39167d569121ae5d18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-06857923-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日経平均株価、一時2800円超値上がり　米の「相互関税」一部停止受け【中継】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8d93eb04938c56b1108e93d63e680bde688dbf1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-90022391-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ氏が方針を大幅転換「相互関税を90日間猶予する」 対中関税は125％に引き上げ
+      <a href=https://news.yahoo.co.jp/articles/6955d8f0f91c942f39ce98628ccfbe4e76ffe504>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229748-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税「90日間停止」はなぜ？「昨日の夜は少し不安に思う人も」トランプ氏　金融市場の動きが判断材料に…【記者解説】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61854a5ce79491ddc38cfb9f788830663a34a113>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-34100331-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=45&cw=1238&ch=1238&exp=10800&fmt=webp> 舛添要一氏、トランプ氏は「ヤクザ顔負け、民主主義の墓掘り人」相互関税措置90日間停止めぐり
+      <a href=https://news.yahoo.co.jp/articles/fca812b3d8a99e3b4087dbe75c3421286f3e4410>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229756-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 林官房長官「前向きに受け止める」と評価　トランプ関税「90日間停止」発表に　10％の一律関税・自動車への25％関税などについては措置見直しを強く求めると強調
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c0ea9f3f623978a599d13b826bb088da7bcf236d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172945-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=360&cy=0&cw=912&ch=912&exp=10800&fmt=webp> 大谷翔平、爆速ヒットであっさり“新記録達成”の瞬間…塁上で新ポーズ披露には現地カメラも“ドアップ対応”「デコルテポーズきた！」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ee333ceda749045faf860d72f9f279bc64d8392>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000163-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=979&ch=979&exp=10800&fmt=webp> 大谷翔平　試合後にインスタでキメ顔公開　試合はマルチ安打で自己新開幕14戦連続出塁＆二盗で逆転劇演出
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/aefdfbfd1ebe9fbeb408c7940b4bb2a0f27d8e1ee8065ca14c3f75b3dcc48861.jpg> 東京株 一時2800円超の値上がり
+      <a href=https://news.yahoo.co.jp/pickup/6535017>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/8b014541399f43921a6bef5a4666086d7250999699f791b17d4b4eaf64dbadc0.jpg> 東証午前終値 3万4000円台に回復
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534998>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/59fa7a97c59965a7f1c07d026ef918a978286a30ae3ff3a80df38e8cd4088a05.jpg> USS買収計画 トランプ氏が懸念
+      <a href=https://news.yahoo.co.jp/pickup/6535014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/c909b652f14e817aa401b7f001c4853067aa0686a5344f5e789c781540006e56.jpg> 米関税90日停止 林氏「前向き」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535009>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/5e52d24353d9e1974e83e9be8d8cd4c2b64134fa0a8d9b6789ceaeedaaf7ed80.jpg> 小学8年生 付録なぜ「ガラケー」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a67b1bef957aa6aa1fcc6d622b10bbaa0136c310f1c58c9851d91ccfd5d9a3a2.jpg> PTA入らなきゃダメ?訴訟に発展も
+      <a href=https://news.yahoo.co.jp/pickup/6535016>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/5e52d24353d9e1974e83e9be8d8cd4c2b64134fa0a8d9b6789ceaeedaaf7ed80.jpg> 雑誌付録に「ガラケー」親も夢中
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535011>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/1f9cb7505f98f47e6e9386d5612fcc3e2770966ddf22ea4b6b707b06e166ea5e.jpg> カレー物価 初の1食400円を突破
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535008>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/41b6eca54ed9df6545f298151a5802a222acff4e133e4dbbc99ed4650a538c4c.jpg> 大谷が連敗ストップ貢献 監督絶賛
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 11:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 12:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
