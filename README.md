@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dcf84153cf8af1802287a5e0e2c1884e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e68fd7c7e5ffc808e0fdc3c03329ee24.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b04b09a966642f3690db53dcedd67ca0a16157fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000345-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 二宮和也「本当にすげぇです、、」　主演映画「8番出口」カンヌ映画祭招待にXで喜び＆驚き
+      <a href=https://news.yahoo.co.jp/articles/0f00de14831fe310680e8c74a16178ca2b97b519>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、145円台半ば（10日朝）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4a9067199b85673e02ee2baa1fbfdb74003efaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> EU、米への報復関税を90日間保留　トランプ氏の相互関税一部停止発表で
+      <a href=https://news.yahoo.co.jp/articles/d3a555656ba5f6b6bbe5e7f7c37ee4dddb2873c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00010017-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 【オリックス】好機に一本出ず今季初ドロー 単独首位はキープ 若月マルチ&1号ソロ エスピノーザ7回1失点の好投 杉本は猛打賞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4985ef25a748771df02c46525fe9e7e0607bcd25>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-90022219-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平選手　自己最長の14試合連続出塁　連敗も3でストップ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1766f446baabaf277c8773c38ff23cf0ed2737c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00956077-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=476&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「交渉の余地を模索したい」EUがアメリカへの追加関税発動を90日間保留すると発表「交渉が満足いかなければ対抗措置を発動する」とけん制
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a97fc38fe2d329da209889b55e7e306d44083e28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000088-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 日経平均急反発、過去2番目の上げ幅に　トランプ関税停止で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c9f771cf14d4ee1782bf91912f74dac22eb154e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-34100650-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1141&ch=1141&exp=10800&fmt=webp> 大谷翔平の出塁率が高いゆえんとは…ロバーツ監督も高評価「打席の質とても安定」14試合連続出塁
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535051>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/7af85aaed237efaea67c37e7af3c86fbecd8dba527f9b9d3251a7ce2b3b5dd69.jpg> 国民民主「若者減税法案」を提出
+      <a href=https://news.yahoo.co.jp/pickup/6535063>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> EU 対米報復措置の発動を保留
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535058>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/c1cdab2b764e038ec6c61acd0113c769b881353be92d84fe67e237918f3dc143.jpg> コメ高騰で消費離れ懸念 JA全中
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535059>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/529b13bc2b0efce8f1ee32f790bcebe3061cf5ae865980a1609cb2f7e6b8db0b.jpg> 11日は関東を中心に雷雨注意
+      <a href=https://news.yahoo.co.jp/pickup/6535071>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/1ee8f70364c7465c81393b12f5f6663be056628a70377f89fecf57dc4baca1c8.jpg> トランプ関税 製造各社対応割れる
       </a>
     </td>
   </tr>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e17a364c39485c6d4accef1013f84adf01d93afbbf4d912af52be596fdacaab8.jpg> 全員スキマバイトのSUBWAY開店
+      <a href=https://news.yahoo.co.jp/pickup/6535070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/dc54fbf5b0d6cd46e8a718610814b0d9be961ee2ec252da373cf1b0d23c07b8b.jpg> 春に増加「メンタル不調」注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/2d8213e74d17756d479e6fe208c318c21714d5b62b4aa1865380916baf306ddc.jpg> 石川遼&航 兄弟そろって首位発進
+      <a href=https://news.yahoo.co.jp/pickup/6535074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e26e2fa7789edb3db1bc48a8ca0c9da03840766f9c8de0d340fc9cf88246acf5.jpg> 逆転負け 中日が再び単独最下位
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535073>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/318725e0c28ecb5489e48e63b3487931c4e28c35d6a99857edfcdda708b83be2.jpg> 二宮主演「8番出口」がカンヌへ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 21:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 22:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
