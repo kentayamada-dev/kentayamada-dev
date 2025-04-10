@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ab5067b17cc24bae74b5ce0221607986.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7c87edc1bc3721f0be5b3512c04dc40d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3da6ce33c886f45a2a8f775bf2f8c89c73f4a7ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955780-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が金利急上昇に焦り?相互関税90日間停止　SNSへの「今が買い時だ!」投稿には“株価操縦”との批判も
+      <a href=https://news.yahoo.co.jp/articles/bd55c370dd275f8d7defa9f084fc0697eafa3faa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00004753-itv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=486&ch=486&exp=10800&fmt=webp> “トランプ関税”「動向を注視しながら柔軟な対応を」 県対策チーム設置 愛媛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3dcb2e4e53e141e8bda95d91881242d62f2ef80f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00955784-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 圏外でもスマホがつながる!KDDIが衛星と直接通信する日本初サービス開始
+      <a href=https://news.yahoo.co.jp/articles/321735b82663b1e9ab949321fcf2f649d7962a40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-08337615-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】クレーン車のアームが商業施設の壁に突っ込む　神戸市・JR三ノ宮駅前の工事現場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/79584962baa033c77d04c6873f3e8078f538d41b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-10172984-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=378&cy=0&cw=966&ch=966&exp=10800&fmt=webp> 「キケさまさま」ドジャースを救ったお調子者の“クールすぎる”超ファインプレーの瞬間 チームメイトはハグで“スーパーユーティリティー男”に感謝
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/205bd5843e3ea667820463660a23e83b7e4a54a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000110-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=1144&ch=1144&exp=10800&fmt=webp> 日経平均は急反発、米関税90日間停止を好感　上昇幅歴代2位
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca1e92f68725d6095ba61285412b08da2ca64450>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-21846611-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース・大谷翔平選手は2安打で14試合連続出塁　エンゼルス菊池雄星投手は2敗目　今季初勝利お預け
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000110-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=304&cy=0&cw=1592&ch=1592&exp=10800&fmt=webp> 日経平均は急反発、米関税90日間停止を好感　上昇幅歴代2位
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/75d7482490086cccb195afa164765e521fd6a200>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000231-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=962&ch=962&exp=10800&fmt=webp> 宮城野親方「ないですよ」　協会退職報道を改めて否定　部屋閉鎖からの1年間は「勉強になった。部屋は…」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000231-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=962&ch=962&exp=10800&fmt=webp> 宮城野親方「ないですよ」　協会退職報道を改めて否定　部屋閉鎖からの1年間は「勉強になった。部屋は…」
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535042>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/75b799d42145d766fa610d56b3bedc907e3724a43427ebd110c0367013a3b65e.jpg> クレーン先端が商業施設に接触
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535024>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/de8d8a9cacbe102619d2deae297df33e564a30f2caa9a61bc87cb418461355e6.jpg> コロナで注目「脳の霧」研究続々
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535040>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/0e1db229613a34be21bacfe5387d599a775d05cfc6141a0bd716bb0f4010caa7.jpg> チェキ起死回生 転機は韓国ドラマ
+      <a href=https://news.yahoo.co.jp/pickup/6535043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/0e1db229613a34be21bacfe5387d599a775d05cfc6141a0bd716bb0f4010caa7.jpg> 「チェキ」販売1億台突破 転機は
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535032>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/9b2a2dc914e376ef5ce5a421929e60abf1240db8151ce3e215b39e409282d8a4.jpg> 高学年児童にスマホ 関東で半数超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535038>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/39b07bbd11b2ac1c1e8d489a39f8b99c3b0af34709519741ef002e5caf06427c.jpg> 副島淳 番組で第1子誕生を報告
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 17:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 17:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
