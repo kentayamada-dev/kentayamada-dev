@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/356e56c51f79d0d4d608785eabb051e3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/775e6cdd0cedd16ca558aec1a2269ad5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9252eb1eff116036e14ddfb52c18fa2614031ce5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> NYマンハッタンで観光ヘリ墜落、ハドソン川に落下の瞬間捉える　子供含む6人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fe1d203a50136e98217b49b819915a89f8a7c7b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000030-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1470&ch=1470&exp=10800&fmt=webp> ＥＵ、米ハイテク大手に課税も　通商協議決裂なら─欧州委員長＝ＦＴ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9c869d94eb19a7526457a009d34c946bf76fca84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173122-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=597&cy=0&cw=783&ch=783&exp=10800&fmt=webp> 米政府が発表 中国への追加関税 合計145％
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfba0515011191ee4c351ccb2e9429a5aeb2e832>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173124-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=784&ch=784&exp=10800&fmt=webp> EU 米への第1弾の“報復関税” 90日間停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2bc99c1d2bf931a5ec146dd2a9793c66618e5576>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00050225-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=76&cw=370&ch=370&exp=10800&fmt=webp> 「減税」「現金給付」与党が政府に圧力、一方で慎重論も…揺れる首相「何かをやらなければいけない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173122-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=597&cy=0&cw=783&ch=783&exp=10800&fmt=webp> 米政府が発表 中国への追加関税 合計145％
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535090>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/4d38a7ec1f6d3ee3a3fd31e126f8ee53992d8a3fecd4d177a1b45f9a8df3fbe7.jpg> 自民・公明、消費税減税を検討
+      <a href=https://news.yahoo.co.jp/pickup/6535093>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トランプ大統領 日鉄は「投資家」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535085>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/c2d36d62ac49cb4407fe16fb7f11906cce220c204f146d7616b9f7518f1ab1f1.jpg> 関東 夕方から激しい雷雨の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6535090>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/4d38a7ec1f6d3ee3a3fd31e126f8ee53992d8a3fecd4d177a1b45f9a8df3fbe7.jpg> 自民・公明、消費税減税を検討
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 07:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 08:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
