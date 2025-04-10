@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/21fb143a0625e99d5ebfe84470dec560.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dcf84153cf8af1802287a5e0e2c1884e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1681f3eec64b306481047369d1b3808eba20ff6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-21847528-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 週末の天気は?11日にかけて西日本〜東日本は落雷や竜巻などの激しい突風に注意　関東甲信地方は11日夜遅くにかけて大気の状態不安定【雨のシミュレーション掲載】
+      <a href=https://news.yahoo.co.jp/articles/b04b09a966642f3690db53dcedd67ca0a16157fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000345-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 二宮和也「本当にすげぇです、、」　主演映画「8番出口」カンヌ映画祭招待にXで喜び＆驚き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ee5795381c9545facebcc4892cc8259c8de31ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000061-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【女性に下半身露出疑惑】石橋貴明「食道がん」入院で“会見せず雲隠れ”中居正広、松本人志との“いびつな共通点”に集まる批判
+      <a href=https://news.yahoo.co.jp/articles/b4a9067199b85673e02ee2baa1fbfdb74003efaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> EU、米への報復関税を90日間保留　トランプ氏の相互関税一部停止発表で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cffea18ff130e137af2103dda823fa06a1c96ba4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229937-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> EU 報復関税の発動「90日間停止」交渉による解決進める方針
+      <a href=https://news.yahoo.co.jp/articles/63b8ec61ca4a6a6687d2b1460e49bab5096490e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00036301-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=413&ch=413&exp=10800&fmt=webp> フジ報告書“下半身露出”報道の石橋貴明、ファンが「絶対に許さない」松嶋菜々子への“公開セクハラ”
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a97fc38fe2d329da209889b55e7e306d44083e28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000088-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 日経平均急反発、過去2番目の上げ幅に　トランプ関税停止で
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000088-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 日経平均急反発、過去2番目の上げ幅に　トランプ関税停止で
       </a>
     </td>
   </tr>
@@ -410,22 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/df73f926519923163ed2fe10c69ec6c8bf7d63cecf87878cb99f4275158f6a53.jpg> 東証急反発「トランプ砲」で一変
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/b2766e5ff1d514e30be3448fb1af545706065c52fe170aa4bb38db2c7d7d9454.jpg> 中国 米映画の輸入本数減らす方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535058>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/c1cdab2b764e038ec6c61acd0113c769b881353be92d84fe67e237918f3dc143.jpg> コメ高騰で消費離れ懸念 JA全中
       </a>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/de821e63abe58fb081f7c78203d9beec0850b1b836678cd783dbde5a9d976f47.jpg> グラウンドに落雷 1人心肺停止
+      <a href=https://news.yahoo.co.jp/pickup/6535065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a59b222b90f3d69f105ad3c8c0795dcdef802369cb272f538247b45ad33f782b.jpg> 牧野フライス ニデックTOBに反対
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535066>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e7997f0d14c6c9545685cbca85ad2b873a175e5c88867a6d15227de0b174642b.jpg> 生徒複数搬送 当時激しい雨と雷鳴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e17a364c39485c6d4accef1013f84adf01d93afbbf4d912af52be596fdacaab8.jpg> 全員スキマバイトのSUBWAY開店
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 21:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 21:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
