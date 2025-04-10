@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ccb14a746fe9550cf6a4f831a088f363.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7bc138cb97fff889f22d1de3cf55958.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6171bf5eba3ff289198fa54fea1a4f424d6060ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000152-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ド軍指揮官　大谷翔平、ベッツにつなぐ9番パヘスの働きに満足「翔平の前を打つのは決して簡単でない」
+      <a href=https://news.yahoo.co.jp/articles/05a725f74a6e2aab3f167b9f774fb7f2de49760d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-16542144-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=575&ch=575&exp=10800&fmt=webp> トランプ米大統領、「相互関税」の上乗せ分を一時停止と発表　中国とは引き上げの応酬
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ad615b4309e022f466c33d4d776f8af25e61336>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> オリックス山岡投手を書類送検　オンラインカジノ賭博容疑　大阪府警
+      <a href=https://news.yahoo.co.jp/articles/4ee333ceda749045faf860d72f9f279bc64d8392>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000163-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=979&ch=979&exp=10800&fmt=webp> 大谷翔平　試合後にインスタでキメ顔公開　試合はマルチ安打で自己新開幕14戦連続出塁＆二盗で逆転劇演出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a9457b6b3761fba5caaa1a9093ce0463474eb43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領 相互関税を一部停止 中国は引き上げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c925f9c4ab421e33f2c2ec9e9cf2ccd002894029>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国が対米報復関税を84％に引き上げへ「米国は間違い重ねている」　追加関税の応酬激化
+      <a href=https://news.yahoo.co.jp/articles/e0c00cda0b923b60ed442903ba1d526dd44f266b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00050068-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=333&ch=333&exp=10800&fmt=webp> アメリカの日本への相互関税、２４％から１０％に…トランプ氏が上乗せ分９０日間停止発表
       </a>
     </td>
   </tr>
@@ -395,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/690494e1872ac0b6fa83954cdfa9401a69796489>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000008-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=1333&ch=1333&exp=10800&fmt=webp> ＜亀梨和也＞犬の姿で独立後初レギュラー　テレ東初MC「世界を救う！ワンにゃフル物語」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/242a757836ed2de22fe58d28703c44cb25e7c8b49ff9c23d20ce1e8499662975.jpg> 東京株 一時2800円超の値上がり
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/aefdfbfd1ebe9fbeb408c7940b4bb2a0f27d8e1ee8065ca14c3f75b3dcc48861.jpg> 東京株 一時2800円超の値上がり
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534994>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/d3d16ac471c6a2c92967024f8460af6e36fdd29036bcde621584068e4cb65dcb.jpg> 10日の沖縄 警報級の大雨の恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6534995>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/1208235c6be1c7f5526c07daeff9a08f6b1527f4162929726ccf12c182bcb208.jpg> 府警が落とし物インコ譲渡 事件に
       </a>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534999>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/e824562998449577df2b1471010e608ee2b955b0d751fe75c1aa65c0a8932299.jpg> 旅客機内で発煙 羽田に緊急着陸
+      <a href=https://news.yahoo.co.jp/pickup/6535000>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a67b1bef957aa6aa1fcc6d622b10bbaa0136c310f1c58c9851d91ccfd5d9a3a2.jpg> PTA入らなきゃダメ?訴訟に発展も
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535004>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/f3da5bac140f68861b42d62a947e5957576ace502df3adcf5331a4f42749901f.jpg> オリ山岡選手を書類送検 賭博疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/a023e5a7f75a6aae34a38cfebb92d0e5b0d4c8920d5bbf20ed2d4a958d0465a6.jpg> 広末容疑者 都内関係先に家宅捜索
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 10:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 10:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
