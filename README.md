@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/775e6cdd0cedd16ca558aec1a2269ad5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea4f7d8cfcff719ddd376ec4e9e63c61.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9252eb1eff116036e14ddfb52c18fa2614031ce5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> NYマンハッタンで観光ヘリ墜落、ハドソン川に落下の瞬間捉える　子供含む6人死亡
+      <a href=https://news.yahoo.co.jp/articles/d249cde8abaf275b4373eb738692e060aabb7cf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ハドソン川で遊覧ヘリ墜落、観光客ら6人死亡　NY観光の人気コース
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b43ff092116865c47df317a7bb9d126cec5f6158>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00956100-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 初の400円突破…国民食カレーライスに“トランプ・ショック”　「関税90日停止」表明も中国への関税は引き上げ…“貿易戦争”に怒りの声「負担は消費者に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/96142078dc7224a655c4eba42cd92c466dececdb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1461&ch=1461&exp=10800&fmt=webp> 大谷翔平 連続出塁14！ロバーツ監督「彼の打席の質は高く常に安定している」と手放しで褒め称える
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c869d94eb19a7526457a009d34c946bf76fca84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173122-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=597&cy=0&cw=783&ch=783&exp=10800&fmt=webp> 米政府が発表 中国への追加関税 合計145％
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/887303c26518983bd6d0b83c97f89a89ae3676ac>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000187-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=1039&ch=1039&exp=10800&fmt=webp> トランプ関税による乱高下、いったん落ち着くか　過去2番目の上昇　7日は3番目の下落も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/913d24956a6d2055cca64e8069a197baab71f637>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173117-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 大谷翔平、爆速弾丸ヒットで“まさかの光景”「エグすぎる」 時速171キロ“火の玉打球”→相手内野陣が動けない「そりゃそうなる」
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fd88ae6e9ecc9f94491e0a9f66ab75fe9389e04c4d340bf27d4d4646407472ce.jpg> NYダウ 終値は前日比1014ドル安
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535093>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トランプ大統領 日鉄は「投資家」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/12c597b6142f0457bbbae31f9b968c06558a7e173fd00b27494b3b9e4da40025.jpg> トランプ大統領 日鉄は「投資家」
       </a>
     </td>
   </tr>
@@ -428,6 +420,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535090>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/4d38a7ec1f6d3ee3a3fd31e126f8ee53992d8a3fecd4d177a1b45f9a8df3fbe7.jpg> 自民・公明、消費税減税を検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535097>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/4b2fa8ced738226064d26106351e6e6740c18f4dc631eb623a9abf8860b50483.jpg> 石丸氏陣営への告発 警視庁が受理
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535095>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/d05cddae34e46808d4b0abbfd2e07653aec165de8624ee0a2514e42713a7750f.jpg> GoogleなどIT大手 大規模解雇の波
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8ebce2cd9902fe3064d3f62174716bf1cca683dcc485446b2e5609ec10524944.jpg> 山田亮さん死去 間寛平「残念」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 08:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 08:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
