@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7bc138cb97fff889f22d1de3cf55958.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/062c891321b7e928676b59a8b07ece9f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/76b99e08aff35bb08127a1110383784e4ec9c3cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000036-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 林官房長官「前向きに受け止め」　トランプ相互関税90日間停止受け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4720f1b14b585179686184f2ba132a955a9a56b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000028-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ氏「日本に渡るのを見たくない」日本製鉄のUSスチール買収計画
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/39b1b55bc07ecc227f4b785fa4087c75dc0365f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00038254-entame-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=297&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 亀梨和也、独立後初レギュラーは犬の姿で登場！とことん動物にこだわった番組がスタート
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/05a725f74a6e2aab3f167b9f774fb7f2de49760d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-16542144-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=575&ch=575&exp=10800&fmt=webp> トランプ米大統領、「相互関税」の上乗せ分を一時停止と発表　中国とは引き上げの応酬
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ee333ceda749045faf860d72f9f279bc64d8392>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000163-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=979&ch=979&exp=10800&fmt=webp> 大谷翔平　試合後にインスタでキメ顔公開　試合はマルチ安打で自己新開幕14戦連続出塁＆二盗で逆転劇演出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0c00cda0b923b60ed442903ba1d526dd44f266b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00050068-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=28&cy=0&cw=333&ch=333&exp=10800&fmt=webp> アメリカの日本への相互関税、２４％から１０％に…トランプ氏が上乗せ分９０日間停止発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9466a8ff1a93c735e52b1f836c964413edf1c124>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ氏、日鉄のUSスチール買収計画巡り「渡ってほしくない」慎重姿勢を表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/690494e1872ac0b6fa83954cdfa9401a69796489>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000008-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=1333&ch=1333&exp=10800&fmt=webp> ＜亀梨和也＞犬の姿で独立後初レギュラー　テレ東初MC「世界を救う！ワンにゃフル物語」
+      <a href=https://news.yahoo.co.jp/articles/bf07933f501c05fc6e4fe8cf4a3e6c6cafcc1718>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-07229734-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=427&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー氏 「中国兵155人がロシア軍で戦闘参加」SNSで勧誘か
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6534996>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/4983a8d2f352b07b82edc7a4c05eceb6f5d107e3fec5636455fc55004d05c24b.jpg> 逆転3ランの山川穂高 無双状態
+      <a href=https://news.yahoo.co.jp/pickup/6535007>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/10/71960625c4a97a050c204b962828c018cf950b0da62715e5a0b718267659738b.jpg> 亀梨 テレ東で独立後初レギュラー
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/10 10:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/04/10 11:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
