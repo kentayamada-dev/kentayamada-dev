@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a049c9bf98c8c9a7b7becc4bdfca365c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/020b1e94a98a940ede6e98e31936f7a2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee769a8e7eece7a7cbfdf6b638cf54a195fb5804>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21849749-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=463&ch=463&exp=10800&fmt=webp> 【竹内渉】第2子出産を報告「幼い息子を育てながらの妊娠は大変な事もありました」
+      <a href=https://news.yahoo.co.jp/articles/dba141b231810631d1986ae87c54754f00107ced>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-34111203-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=715&ch=715&exp=10800&fmt=webp> 広末涼子容疑者６月に出演予定だった大分のファス中止、主催の「はなちゃんのみそ汁」著者明かす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6348d43931b1abcde9ed60c3a191c83a126c5567>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> EU委員長、米ITに課税検討か　関税交渉決裂なら
+      <a href=https://news.yahoo.co.jp/articles/950c21015e81b575af9c8092e6ad99502405f7cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000072-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日経平均一時1900円安　米経済の「不確実性」受け、円高も進む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b8ea0fbac667127e824e9563bc85166dd318216>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00050091-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> トランプ大統領、中国と「取引をまとめたいと思っている」…ホワイトハウスが追加関税１４５％と修正
+      <a href=https://news.yahoo.co.jp/articles/1a9ac2eb243559acd628e0a369522260a5b770a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00956590-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> EUフォンデアライエン委員長　アメリカとの関税交渉決裂なら米IT企業のデジタル広告収入に課税も
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535157>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/7d60c7133a708aaba7c6bc0afad2cfa10a02f5fb22ee378c39a21c803ffa85b7.jpg> 中国、対米関税125%に引き上げ
+      <a href=https://news.yahoo.co.jp/pickup/6535173>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/a7fb4c26315a33d3c8171c62eeff94eb9c45fd3341cf1da0400d1a4d59bcdf06.jpg> 首相 16年ぶり「政労会見」開催へ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/6ae2f3558bc22151acaf4e6753f1ab1127398f0944759788ecc3731313e52624.jpg> 小1傷害疑い 児童館元副館長逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6535150>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/683786d7462d17b085cbc95fc931c1d6e5c629e619accc863a6279d953a716e1.jpg> ヘンリー英王子 ウを予告なし訪問
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 19:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 20:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
