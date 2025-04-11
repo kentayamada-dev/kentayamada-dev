@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/141cd46abde8f0595bcc10bfbc5465e6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a3d9073ca9aea8b95c685227f90cb5ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c83a28bd4e180adc9cfd76d906b1e046707d419>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000159-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=847&ch=847&exp=10800&fmt=webp> 与野党で高まる消費減税論に神経とがらす財務省　「一度減税すると戻せない」
+      <a href=https://news.yahoo.co.jp/articles/8288f5c14f116da7aa93db4350cbd1b79469d3d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-34111455-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1156&ch=1156&exp=10800&fmt=webp> 【巨人】戸郷翔征が２軍降格へ、自己ワースト10失点　阿部監督が明言「何とか乗り越えて」
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6843d11fcdbc8313739506f028303ac7c809dd3f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「リーマン級の影響出る恐れも」　トランプ関税に憂慮深める日本企業
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a326337a14448424adb51e1f30b32033217f43fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000055-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 中国、米への関税125%に引き上げ　全輸入品41%上乗せ
       </a>
     </td>
   </tr>
@@ -402,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535171>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/9444f7b632cf193a7d173f18a95b718faf3960945b755f1147c1e787bb30eb61.jpg> 陸自オスプレイ 愛媛火災で初任務
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/f9842a174068c4f539204a2b1d7907d6ea9f2bb4fa8a8569b81b71c1fdca23c4.jpg> 雑木林に遺体 近くに飼い犬の死骸
+      <a href=https://news.yahoo.co.jp/pickup/6535185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/df47379ba3cc4998aeae9780d8ac7c87fc9d39bb38057be9b9dd33f96d349d50.jpg> 一室に女性遺体 肺に達する刺し傷
       </a>
     </td>
   </tr>
@@ -434,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535178>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/b861acf859cdc978fc17408bfd06d98409c64de3c6f84df75436336de1cecb75.jpg> 巨人・戸郷10失点KO 涙目ぼう然
+      <a href=https://news.yahoo.co.jp/pickup/6535188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e4915a6eea29e742331bac5aa412b556894d6d9a43f812cfb1e848ef4324a81a.jpg> 戸郷まさかの10失点炎上 2軍降格
       </a>
     </td>
   </tr>
@@ -448,11 +432,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535138>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/962a530319636cfeccd214def811eea4f2e261166bf6f9d6f719576ddc3acebb.jpg> 八代亜紀氏アルバム巡り怒り 署名
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 21:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 22:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
