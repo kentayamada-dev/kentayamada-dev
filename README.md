@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea4f7d8cfcff719ddd376ec4e9e63c61.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f78409e8d5409ca115761756a06ee48.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/887303c26518983bd6d0b83c97f89a89ae3676ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250410-00000187-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=1039&ch=1039&exp=10800&fmt=webp> トランプ関税による乱高下、いったん落ち着くか　過去2番目の上昇　7日は3番目の下落も
+      <a href=https://news.yahoo.co.jp/articles/9a659876f1e9a7b871bae4c7daf2a84de7b9ce05>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 円は一時143円台後半、米中貿易戦争警戒でドル売り－昨年10月来高値
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535097>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/4b2fa8ced738226064d26106351e6e6740c18f4dc631eb623a9abf8860b50483.jpg> 石丸氏陣営への告発 警視庁が受理
+      <a href=https://news.yahoo.co.jp/pickup/6535096>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/bf1a5e64464e84f9d67671f9f0cae9a1c8203ccd0a2e651c8ae858fb71e1f42b.jpg> 米でヘリ墜落 子供3人含む6人死亡
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535091>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e6cee5f328287606e8a16c1291536d8940decbcb2aaaf5d384da5d0b473cd92e.jpg> 軽乗用車と衝突 自転車の14歳重体
+      <a href=https://news.yahoo.co.jp/pickup/6535088>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/739a3fcfa09e25d89a926b321fee89b9d703836602ca8a63c3faa0c6fcd28906.jpg> コストコに行列 2h半前倒し開店
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535088>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/739a3fcfa09e25d89a926b321fee89b9d703836602ca8a63c3faa0c6fcd28906.jpg> コストコに行列 2h半前倒し開店
+      <a href=https://news.yahoo.co.jp/pickup/6535098>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fd8d5f5f071748d3271264891373cf3325ac74fbeef891aad0db8f1a9990e7fa.jpg> 菅野智之35歳 現地が評価する挑戦
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 08:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 09:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
