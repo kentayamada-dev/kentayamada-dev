@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a3d9073ca9aea8b95c685227f90cb5ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/551b5725ba0f8d0d8ee32007b407c81d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8288f5c14f116da7aa93db4350cbd1b79469d3d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-34111455-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1156&ch=1156&exp=10800&fmt=webp> 【巨人】戸郷翔征が２軍降格へ、自己ワースト10失点　阿部監督が明言「何とか乗り越えて」
+      <a href=https://news.yahoo.co.jp/articles/69371d09dd1d59eb12b7768ca950c09c28ff7749>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000101-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「彼女にどれだけ救ってもらっただろうか」広末涼子容疑者が亡き妻演じた『はなちゃんのみそ汁』著者が感謝のエピソード明かす
       </a>
     </td>
   </tr>
@@ -378,16 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/5fe429075a4de85fd8b4a2d505a8aa1039223f3fa646797d81fae5f92a4c6421.jpg> 対米にらみ 習主席が東南ア歴訪へ
+      <a href=https://news.yahoo.co.jp/pickup/6535183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e2edfd30bea7a4c38fd720ae47e28767e06b47769fd10f02a3c8df79994210eb.jpg> 林氏 給付金や減税検討の事実ない
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/ae56a0bfb86d9d15f920457488610422d9faabb63a3e0aeafad12b00ec3e1997.jpg> 全現役世代への気配り 玉木氏強調
+      <a href=https://news.yahoo.co.jp/pickup/6535179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/5fe429075a4de85fd8b4a2d505a8aa1039223f3fa646797d81fae5f92a4c6421.jpg> 対米にらみ 習主席が東南ア歴訪へ
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535191>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/df15ec395b532f1a66dfa50cc13d205b598f2349da88b02393c996876646b71b.jpg> ウエルシア&ツルハ統合2年前倒し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535181>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/24ae58fae535ed9ead18062335909b6a83c6c57a350d2ab673baf8be4f328399.jpg> 入学翌日の小1児童 バス置き去り
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/10849ae8e1d500bd89fc33b934a1d08bdefc19bfdfc5edb8118946a07eb5e9c4.jpg> コストコ開店 1週間並んだ人も
+      <a href=https://news.yahoo.co.jp/pickup/6535189>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/74c304b07fe50d0ae3332f67dafff4db7a13bf4224cedd64b69e1a32564170bd.jpg> 「偽警官」の注意情報 本物だった
       </a>
     </td>
   </tr>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535138>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/962a530319636cfeccd214def811eea4f2e261166bf6f9d6f719576ddc3acebb.jpg> 八代亜紀氏アルバム巡り怒り 署名
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 22:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 22:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
