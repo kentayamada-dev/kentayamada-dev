@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ed9292cc19058c756baa94a93d588f62.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5830ac79e1540576e194e8f2e7e981d5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d214c6ccb738856cdadb26185e62d60f1651f250>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000038-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米関税措置への対応、石破首相「省庁の枠越えオールジャパンで」
+      <a href=https://news.yahoo.co.jp/articles/cb8976ec03731b8d51488772fee351056b4ee599>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-31419381-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 【日本市況】日経平均が５％超安、米中対立激化を懸念－円は143円台
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a659876f1e9a7b871bae4c7daf2a84de7b9ce05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 円は一時143円台後半、米中貿易戦争警戒でドル売り－昨年10月来高値
+      <a href=https://news.yahoo.co.jp/articles/d214c6ccb738856cdadb26185e62d60f1651f250>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000038-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米関税措置への対応、石破首相「省庁の枠越えオールジャパンで」
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535109>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/424d2f888872330f29d2a541ab903030e7f20320e78d69c44773c4150cb6f9c8.jpg> 一時1ドル142円台 半年ぶり安値
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535107>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/af00611479aa171b4bacad049322c0f9f906142475a6af80fb31f162488e270c.jpg> 日経平均 一時1900円超の下落
       </a>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535093>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/12c597b6142f0457bbbae31f9b968c06558a7e173fd00b27494b3b9e4da40025.jpg> トランプ大統領 日鉄は「投資家」
+      <a href=https://news.yahoo.co.jp/pickup/6535106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/f5da6ff073337d59625c96ce21bb8a52b5cd7b3f4c7c08c11382d32c25b92b68.jpg> トランプ氏 安保条約に重ねて不満
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535102>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/813cd1fafbd85e3b4e4a79aabf3ad847e6522d064d3e3b385a34e0d3f4a0e5ad.jpg> トランプ氏の強弁 反論抑えた首相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/bf1a5e64464e84f9d67671f9f0cae9a1c8203ccd0a2e651c8ae858fb71e1f42b.jpg> 米でヘリ墜落 子供3人含む6人死亡
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535092>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/52ecf59fdeb1452d0d6d890ea44ce8a6d6e36863558ae0379a7314a36e028c77.jpg> 君たちはどう生きるか 初放送へ
+      <a href=https://news.yahoo.co.jp/pickup/6535105>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/2b7089a1850d779dcbf9132e073027a33f83f9b197bb6eb4c11e5600e65a5f27.jpg> ポカリCMで初 男子高校生が主演
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 10:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 10:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
