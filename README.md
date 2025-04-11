@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cdbc1ee630f2f96ee0408d4ba24bda01.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ed9292cc19058c756baa94a93d588f62.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c4ca892f89e937c27461d909d5d813355c2d8caa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-15868679-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=411&ch=411&exp=10800&fmt=webp> トランプ氏が関税の「移行上の問題」認める　米市場は再び下落、対中国は計145％に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/29942be656c718bb173810e6608cdd38df0e4246>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、143円台後半＝米中貿易戦争激化懸念で急落（11日午前9時）
       </a>
@@ -365,24 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fa2c47b0fcb65f132d39a30d03ff294744d754a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> EU委員長「米IT大手に課税も」　関税交渉決裂なら　英紙
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d214c6ccb738856cdadb26185e62d60f1651f250>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000038-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米関税措置への対応、石破首相「省庁の枠越えオールジャパンで」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96142078dc7224a655c4eba42cd92c466dececdb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1461&ch=1461&exp=10800&fmt=webp> 大谷翔平 連続出塁14！ロバーツ監督「彼の打席の質は高く常に安定している」と手放しで褒め称える
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/248409dc16c46cd079e59cdc07ce1a9ed88fa42202d3481cecdad2db04e79bfa.jpg> 日経平均 一時1800円超の大幅下落
+      <a href=https://news.yahoo.co.jp/pickup/6535107>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/af00611479aa171b4bacad049322c0f9f906142475a6af80fb31f162488e270c.jpg> 日経平均 一時1900円超の下落
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535090>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/4d38a7ec1f6d3ee3a3fd31e126f8ee53992d8a3fecd4d177a1b45f9a8df3fbe7.jpg> 自民・公明、消費税減税を検討
+      <a href=https://news.yahoo.co.jp/pickup/6535102>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/813cd1fafbd85e3b4e4a79aabf3ad847e6522d064d3e3b385a34e0d3f4a0e5ad.jpg> トランプ氏の強弁 反論抑えた首相
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535088>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/739a3fcfa09e25d89a926b321fee89b9d703836602ca8a63c3faa0c6fcd28906.jpg> コストコに行列 2h半前倒し開店
+      <a href=https://news.yahoo.co.jp/pickup/6535099>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/15db648152b7eab0eb5506a9c5f9a34ceb8e443bbe22e85723e190237437c142.jpg> 関税対応 iPhoneを印→米へ空輸
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 09:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 10:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
