@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/92f54f9b61403a89ad375a433f0a5a5e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eaa0b4c31f1b6333619066b2d2e0b537.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/947a8fa96072c957a18711587ce606264a919e8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 魚雷バット使用可　大リーグで注目、11日から―プロ野球
+      <a href=https://news.yahoo.co.jp/articles/a4a8ff4df112ab97f579d58075321c2081677037>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000090-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 「魚雷バット」使用可能に　プロ野球、11日の試合から
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3c03f6ed777a9e0b55cf1e0d625e77d696b82f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000045-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1024&ch=1024&exp=10800&fmt=webp> 欧米関税交渉、焦点は「デジタル」　決裂なら米IT企業の課税強化も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90900ff579249eb8f2e37a7431931330ee77c2ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕戻り鈍い＝先行き不透明感が圧迫（11日後場中盤）
+      <a href=https://news.yahoo.co.jp/articles/8cf4de0b5bb1fdebe32dc8a787210966777e6e62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173179-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=411&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 米 中国への追加関税は合計145％
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/03f30235981e79b28ab798fc0901c798e709d886>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕下げ幅縮小＝前場の流れ継続も（11日後場寄り付き）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a64b07e6e3ac3138216d3394767c5ec4f64955e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-90022477-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 追加関税が145％となった中国は84％で報復　「戦いたくないが戦いを恐れない」
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535131>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/847911db61a275c48a6716c9950d18a44b60cdc8ccd92949a870cfe4355a09ef.jpg> 米と関税交渉 赤沢氏が重責に心境
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/143228358c8a9c6a962ceeef3f90edf5957182e20592367e6ae13d9ed27fbb4e.jpg> 米と関税交渉 赤沢氏が重責に心境
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535120>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/3bcd6081ffc32bd348f6d8fc6c8b2feb182e6a742fd187190c2d2a118dd9e8a8.jpg> 立憲で減税派勢い 出遅れに危機感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535116>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/6220039b099eb7ceeff09689cc5b6a8147628900a5e7ce2ae0580a55828283e4.jpg> 覚醒剤所持疑い 老舗料亭社長逮捕
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535119>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/060db4563ce33c2c632fab4f183bc939084b78559e0de664b76b5ad860be26c1.jpg> 町のスーパー突然閉店 住民戸惑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535133>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 馬インフルが発生 国内で17年ぶり
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 14:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 15:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
