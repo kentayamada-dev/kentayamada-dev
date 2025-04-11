@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51949b0649943ccc1c3e0e555b65a301.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/421ed2b6cb0fde18235fe1ec1c0c3016.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50d0b4c6e00a222b7ee03dd23e539301d6b1c1b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21849231-jnn-000-1-view.jpg?pri=l&w=74&h=74&order=c2r&cx=182&cy=0&cw=74&ch=74&exp=10800&fmt=webp> 【仲里依紗】退所についてアミューズ公式サイトが発表「弊社も引き続き応援して参ります」
+      <a href=https://news.yahoo.co.jp/articles/6b8ea0fbac667127e824e9563bc85166dd318216>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00050091-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> トランプ大統領、中国と「取引をまとめたいと思っている」…ホワイトハウスが追加関税１４５％と修正
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e45714cad17ff10d93673d94015b33a18bbb3fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 社説：米関税一部停止　世界をかきまわす愚策
+      <a href=https://news.yahoo.co.jp/articles/e72dbf8df22c43c84809f925977bfd6bba3fd0c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-14961676-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> ヘリ６人死傷事故　運航会社社長が謝罪　調査は終了
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/40d7f382635ed291870f2ffa39a9bee9c646b20f0a084b8be87f4f0198da52bd.jpg> 「バラマキ」政策 与野党から次々
+      <a href=https://news.yahoo.co.jp/pickup/6535132>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/832ea80b8333c5b2583d35e6d9bfd0ef0ad8a9093c6dbc13e32edbcbcbe53341.jpg> 世耕氏 参考人招致に応じる意向
       </a>
     </td>
   </tr>
@@ -410,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535134>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/1b6b3fe5c7bbe4fbdab1590b0da765cfbb88a9b8f108183ecf491f8c033a4482.jpg> 官邸ミャクミャク進化 首相が驚き
+      <a href=https://news.yahoo.co.jp/pickup/6535149>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 入院患者を隣室の男が絞殺か 起訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535135>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/638f7e6c11389f799252783b4a3cc37e76ca880625c31cb7865adc77cb53c494.jpg> もりおか舞妓募集 会頭の発言波紋
+      <a href=https://news.yahoo.co.jp/pickup/6535143>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/d0d404257ab06f5d77e9be290cd840d5b2ac6251c94c04297df39ceed46947b4.jpg> 高島屋なくなった岐阜 意外な動き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535139>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/2b043149108247fdcd2e206fe7d6ba6b27b5ac8d67dbb43c80d361dadd269311.jpg> 日ハム本拠地周辺 タワマン建設へ
+      <a href=https://news.yahoo.co.jp/pickup/6535148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8feaaccabe6cc7315f99aa63f57849ee938c2c820e22817b0d4e9812f568e772.jpg> 1億円 大谷サイン入りユニ販売へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 16:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 17:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
