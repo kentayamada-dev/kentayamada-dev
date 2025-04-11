@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5e4bea5a60fe5e02b012c805c465cac9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f791ae4e700a19b8435b1eeee784d779.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/171be892b92f82cec6b084c4b4e2de21bc2b5cda>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00050093-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=333&ch=333&exp=10800&fmt=webp> フォンデアライエン欧州委員長、アメリカとの関税交渉失敗なら巨大ＩＴ企業に課税する可能性指摘
+      <a href=https://news.yahoo.co.jp/articles/bff14f904c9098f4c6105e8736e8e4906ff30e39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000026-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=1541&ch=1541&exp=10800&fmt=webp> マクロン氏、トランプ関税猶予に警鐘 「欧州はあらゆる手段で自衛を」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61182c1b1f569ec5aa9207f69a51f38e0e3e7efe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000080-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=37&cw=1077&ch=1077&exp=10800&fmt=webp> 白洲迅に第2子が誕生　妻・竹内渉に感謝「4人の穏やかな日々を守っていけるよう励んでまいります」
+      <a href=https://news.yahoo.co.jp/articles/d4d530f590f5e42a3dda9223cc16496f5705d58e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国が対米報復関税を125％に引き上げ　12日に発動、トランプ政権に対抗
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535149>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 入院患者を隣室の男が絞殺か 起訴
+      <a href=https://news.yahoo.co.jp/pickup/6535158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fe4e061d4ba50fb3a6a8251b6fe7b45bd41155ff6e03f202fdb1aeca8cfc86b6.jpg> 高知に緊急着陸の米軍機 居座る
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8feaaccabe6cc7315f99aa63f57849ee938c2c820e22817b0d4e9812f568e772.jpg> 1億円 大谷サイン入りユニ販売へ
+      <a href=https://news.yahoo.co.jp/pickup/6535155>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8fff10da64449955e45738e4509f1c8faa7b4d984d1a3982ecb0911bd4661f98.jpg> 白洲迅の妻・竹内渉 第2子を出産
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 17:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 18:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
