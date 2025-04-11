@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/176db9fa5c058d7d32cb82910ef83300.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9d77b1b203f9781604acd9497e34910a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -386,8 +386,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/5fe429075a4de85fd8b4a2d505a8aa1039223f3fa646797d81fae5f92a4c6421.jpg> 対米にらみ 習主席が東南ア歴訪へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535193>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/b4dd8c1510f451c3ef1b4bea91de80ccc8792daa33ee4cb3a8436854539d411b.jpg> 中国 米がさらに関税課しても無視
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535196>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/304119ee3791c011f14065c36da573801f533417dd95459f54b20e4ef25b82f2.jpg> 今冬雪の死傷者1126人 昨季比3倍
       </a>
     </td>
   </tr>
@@ -418,24 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535152>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/0aadc316e1055674bc584feae95d25004f5cba40c1397ebb6567785eadd3d2a2.jpg> 複数選手に中傷被害 C大阪が声明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535188>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e4915a6eea29e742331bac5aa412b556894d6d9a43f812cfb1e848ef4324a81a.jpg> 戸郷まさかの10失点炎上 2軍降格
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e0514430983e825a1b3eba826e65a0c9809c7548b25687646425e838971d8e6c.jpg> 月曜から夜ふかし BPO審議入り
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 23:52:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 00:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
