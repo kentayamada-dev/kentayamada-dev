@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a9f1188df2f7dc3260792a9f10281f50.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a68a40de73c4d3889259f424556f2842.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/950c21015e81b575af9c8092e6ad99502405f7cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000072-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日経平均一時1900円安　米経済の「不確実性」受け、円高も進む
+      <a href=https://news.yahoo.co.jp/articles/857f1a674c8ac666f62d5488f0d12dd4b9ae0f6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000106-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 米政権、中国の孤立化狙う　「悪者」に追加関税145％
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a019bbd9f3d095aca11ce3ec4f32acfc5b514252>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21849853-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 遺体の近くに飼い犬の死体… スーパーの惣菜は自宅に残され 風呂に湯を張ったあとも  雑木林の女性遺体
+      <a href=https://news.yahoo.co.jp/articles/a215253d1d5d2380457dc8224beecf9a450c2eeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21849115-utyv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「早くあの中に移動したい」コストコ　1000人以上の行列で午前4時半に開店　「白州」など1時間で売り切れも
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/060db4563ce33c2c632fab4f183bc939084b78559e0de664b76b5ad860be26c1.jpg> 町のスーパー突然閉店 住民戸惑い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535174>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fe2015af49249982ce81fc7dd05f94fbd26aaa8a2276ba811b3e5d0576f106ef.jpg> 消防 不適切表現で献血を呼びかけ
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535167>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8ecb1262a00aaa3cc05512fbfece589dc26d177a8e859202b558a31940687998.jpg> オリ宗の背番号107 ユニ忘れたか
+      <a href=https://news.yahoo.co.jp/pickup/6535182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/10849ae8e1d500bd89fc33b934a1d08bdefc19bfdfc5edb8118946a07eb5e9c4.jpg> コストコ開店 1週間並んだ人も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535178>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/b861acf859cdc978fc17408bfd06d98409c64de3c6f84df75436336de1cecb75.jpg> 巨人・戸郷10失点KO 涙目ぼう然
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 20:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 21:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
