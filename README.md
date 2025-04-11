@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e4a4db653c91e10020ef2a1643018f6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/114a2ff2506400f0b00a1a926f42d21f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d31eec9dcd95335fe64bfd10e7de8ecf2b5a033>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-04121004-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 松山英樹、前半９ホール終えて１アンダーで後半へ　２番でイーグル、６番でバーディー奪取
+      <a href=https://news.yahoo.co.jp/articles/069116545c7fb27d8c5cbbffddd300d1be944b80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00010001-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 松山英樹、予選通過確実…2日目はショット好調でスコア4つ伸ばし3アンダーでホールアウト【マスターズ】
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 04:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 04:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
