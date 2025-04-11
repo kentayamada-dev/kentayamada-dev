@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c316e59be109cf86abe046ceca6502e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3a2ad42b09bb45b2a4830c4153c4eb01.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535147>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/547972e595306d807339e4591f156efc4aea054e3661850effc97ac91c0c7acc.jpg> 公明 給付財源に赤字国債検討も
+      <a href=https://news.yahoo.co.jp/pickup/6535165>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/157c7eae8caf1994eaa85e59d43e5081b671ba5ddb01c53a887fc7a86f8c2701.jpg> 罷免の尹氏 大統領公邸から退去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535144>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/73211b2c5c03b00c36c7000a0231dbad0e2d11e3815388f9720dbf2cbefedbac.jpg> 広瀬めぐみ元参院議員の有罪確定
+      <a href=https://news.yahoo.co.jp/pickup/6535160>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/cd54aa1c4fb56020b8faa20f5dc5aab0934c1de9876bfa002993c2049cd4ae81.jpg> 単身での出産を決意 法案に憤り
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535163>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8fff10da64449955e45738e4509f1c8faa7b4d984d1a3982ecb0911bd4661f98.jpg> 白洲迅の妻・竹内渉 長女を出産
+      <a href=https://news.yahoo.co.jp/pickup/6535169>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e6e555b81941586918c3fff26621450ff06e7aea1a6b19f1826f85d124a6a584.jpg> 広末容疑者が出演予定のイベ中止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535138>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/962a530319636cfeccd214def811eea4f2e261166bf6f9d6f719576ddc3acebb.jpg> 八代亜紀氏アルバム巡り怒り 署名
+      <a href=https://news.yahoo.co.jp/pickup/6535170>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/153264a2ffc53240d9e2fb251c1f0e7a936167b3af4dee751751e6c12780dfae.jpg> ロッチ中岡創一 スーツ姿で始球式
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 18:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 19:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
