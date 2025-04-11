@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a3497a80c538eb0394997412612d535.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1fdbc6845e66a5533f1fe821c518c918.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c0e3122e8ee866bbf47b863956aaaaed83837c39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日経平均、終値は1023円安
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8f6e2b43bedf29fb9d231cf773314f9ee3320fd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-34110520-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=191&cw=1117&ch=1117&exp=10800&fmt=webp> 「魚雷バット」１号は？初の使用選手は？容認当日はナイター６試合　練習では万波、清宮ら使用
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-34110520-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=191&cw=1117&ch=1117&exp=10800&fmt=webp> 「魚雷バット」１号は？初の使用選手は？容認当日はナイター６試合　練習では万波、清宮ら使用
       </a>
     </td>
   </tr>
@@ -366,23 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bae57c4404709b605582b94c3d8bb3a7e2f02e79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21847629-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏急転…「相互関税」90日間停止表明　米中は“関税の報復合戦” iPhone1台50万円に?“二転三転”の政策にアメリカ国内の受け止めは?【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cf4de0b5bb1fdebe32dc8a787210966777e6e62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-10173179-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=411&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 米 中国への追加関税は合計145％
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03f30235981e79b28ab798fc0901c798e709d886>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕下げ幅縮小＝前場の流れ継続も（11日後場寄り付き）
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21847629-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏急転…「相互関税」90日間停止表明　米中は“関税の報復合戦” iPhone1台50万円に?“二転三転”の政策にアメリカ国内の受け止めは?【news23】
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535120>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/3bcd6081ffc32bd348f6d8fc6c8b2feb182e6a742fd187190c2d2a118dd9e8a8.jpg> 立憲で減税派勢い 出遅れに危機感
+      <a href=https://news.yahoo.co.jp/pickup/6535136>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02167263/title-1744344016230.jpeg?exp=10800> 落雷から身を守る 必要なことは
       </a>
     </td>
   </tr>
@@ -450,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535133>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 馬インフルが発生 国内で17年ぶり
+      <a href=https://news.yahoo.co.jp/pickup/6535139>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/2b043149108247fdcd2e206fe7d6ba6b27b5ac8d67dbb43c80d361dadd269311.jpg> 日ハム本拠地周辺 タワマン建設へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535130>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/53e14db9892a6cccb86313cdbe480df3857c4260891f9198485f6325901aaf52.jpg> NPB「魚雷バット」の使用を容認
+      <a href=https://news.yahoo.co.jp/pickup/6535138>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/962a530319636cfeccd214def811eea4f2e261166bf6f9d6f719576ddc3acebb.jpg> 八代亜紀氏アルバム巡り怒り 署名
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 15:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 16:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
