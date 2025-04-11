@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f791ae4e700a19b8435b1eeee784d779.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c316e59be109cf86abe046ceca6502e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bff14f904c9098f4c6105e8736e8e4906ff30e39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000026-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=311&cy=0&cw=1541&ch=1541&exp=10800&fmt=webp> マクロン氏、トランプ関税猶予に警鐘 「欧州はあらゆる手段で自衛を」
+      <a href=https://news.yahoo.co.jp/articles/ee769a8e7eece7a7cbfdf6b638cf54a195fb5804>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21849749-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=463&ch=463&exp=10800&fmt=webp> 【竹内渉】第2子出産を報告「幼い息子を育てながらの妊娠は大変な事もありました」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4d530f590f5e42a3dda9223cc16496f5705d58e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国が対米報復関税を125％に引き上げ　12日に発動、トランプ政権に対抗
+      <a href=https://news.yahoo.co.jp/articles/6348d43931b1abcde9ed60c3a191c83a126c5567>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> EU委員長、米ITに課税検討か　関税交渉決裂なら
       </a>
     </td>
   </tr>
@@ -387,7 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535157>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/cbe14558cdfcafc9d142be84f01a536da086c9dff535a5ed413f1a3c2407a248.jpg> 中国、対米関税125%に引き上げ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/7d60c7133a708aaba7c6bc0afad2cfa10a02f5fb22ee378c39a21c803ffa85b7.jpg> 中国、対米関税125%に引き上げ
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/a7a49e7ca2a31c6a5cf9ddfdf7aff79c7c25d71ccb3443651cf1065f8ae266e4.jpg> 医療ヘリ事故 3人の死因は溺死か
+      <a href=https://news.yahoo.co.jp/pickup/6535144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/73211b2c5c03b00c36c7000a0231dbad0e2d11e3815388f9720dbf2cbefedbac.jpg> 広瀬めぐみ元参院議員の有罪確定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535144>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/73211b2c5c03b00c36c7000a0231dbad0e2d11e3815388f9720dbf2cbefedbac.jpg> 広瀬めぐみ元参院議員の有罪確定
+      <a href=https://news.yahoo.co.jp/pickup/6535159>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/6ae2f3558bc22151acaf4e6753f1ab1127398f0944759788ecc3731313e52624.jpg> 小1傷害疑い 児童館元副館長逮捕
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535155>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8fff10da64449955e45738e4509f1c8faa7b4d984d1a3982ecb0911bd4661f98.jpg> 白洲迅の妻・竹内渉 第2子を出産
+      <a href=https://news.yahoo.co.jp/pickup/6535163>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8fff10da64449955e45738e4509f1c8faa7b4d984d1a3982ecb0911bd4661f98.jpg> 白洲迅の妻・竹内渉 長女を出産
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 18:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 18:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
