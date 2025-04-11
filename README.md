@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5830ac79e1540576e194e8f2e7e981d5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d4ec9e6775b4ca82254bdc765a0b4317.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/22f7ba7b0815788ca0fb7951a0011ba62b2efc62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000029-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=291&ch=291&exp=10800&fmt=webp> 韓国、０％台成長の懸念も…ウォン安ドル高で利下げ見送りか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c4ca892f89e937c27461d909d5d813355c2d8caa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-15868679-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=411&ch=411&exp=10800&fmt=webp> トランプ氏が関税の「移行上の問題」認める　米市場は再び下落、対中国は計145％に
       </a>
@@ -365,24 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29942be656c718bb173810e6608cdd38df0e4246>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、143円台後半＝米中貿易戦争激化懸念で急落（11日午前9時）
+      <a href=https://news.yahoo.co.jp/articles/e0c24fd99fec4b6a9e8eb49bee21a5051b29ad4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000054-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=1391&ch=1391&exp=10800&fmt=webp> 東証、一時1800円超安　米中貿易摩擦に警戒感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb8976ec03731b8d51488772fee351056b4ee599>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-31419381-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 【日本市況】日経平均が５％超安、米中対立激化を懸念－円は143円台
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d214c6ccb738856cdadb26185e62d60f1651f250>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000038-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米関税措置への対応、石破首相「省庁の枠越えオールジャパンで」
+      <a href=https://news.yahoo.co.jp/articles/9a659876f1e9a7b871bae4c7daf2a84de7b9ce05>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 円は一時143円台後半、米中貿易戦争警戒でドル売り－昨年10月来高値
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535109>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/424d2f888872330f29d2a541ab903030e7f20320e78d69c44773c4150cb6f9c8.jpg> 一時1ドル142円台 半年ぶり安値
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/af00611479aa171b4bacad049322c0f9f906142475a6af80fb31f162488e270c.jpg> 日経平均 一時1900円超の下落
+      <a href=https://news.yahoo.co.jp/pickup/6535112>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/9b6c292369ae729129ed796e131ef13c37c06cfd5be089d3276db5e2e0f3bdac.jpg> 東京株は全面安の展開 円高も重し
       </a>
     </td>
   </tr>
@@ -426,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535095>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/d05cddae34e46808d4b0abbfd2e07653aec165de8624ee0a2514e42713a7750f.jpg> GoogleなどIT大手 大規模解雇の波
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535099>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/15db648152b7eab0eb5506a9c5f9a34ceb8e443bbe22e85723e190237437c142.jpg> 関税対応 iPhoneを印→米へ空輸
       </a>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535110>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/0b4ac36b71d0f543dedb1c2e1b6b5c6fb8eede624867c9b5d8e5b8b8cb5d2987.jpg> 花見客が怒り 女性トイレ行列問題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535100>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fcea47906a7b9807eada6b17987263724532362e37ecbc9a83a37ac38bfc9603.jpg> ロコ「五月の1ミリ」で劇的勝利
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535111>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/cf0ee08b35cd2180210b669b716812fcb6174b93f05e430434c4564d7457b9de.jpg> ジェラードン2人で再出発に寂しさ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 10:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 11:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
