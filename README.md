@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3de63acd16b33587cd3f85bfe80fd80a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e9456b3427ca5192450e5b60a948ff12.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -386,6 +386,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c214a71e5cb60fe2a63e6c7e2975d018caa4f3cea25b5e559e32f0429b6d07ce.jpg> 減税巡り火花 揺れる石破首相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535206>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/3d666415c5aa818016ed5c757d8b837b9fad761473bb0ff171d8d62d3a64a7ef.jpg> 特別支援の「調整額」引き下げへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535205>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c63047c17dc57579094c693b8f09283643ec489f87f7b055488eacfa8c0ab878.jpg> 「孤立死」昨年2万1千人 初の推計
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535201>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/74bc54d44a573f6a26ae6c14a2a975c2e567d8d2015704af84f7c5af16f83d9c.jpg> NYダウ619ドル高 波乱続く予想も
       </a>
@@ -394,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535193>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/b4dd8c1510f451c3ef1b4bea91de80ccc8792daa33ee4cb3a8436854539d411b.jpg> 中国 米がさらに関税課しても無視
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/2457afb920166f2da7d9c9ba57b79a4c3a9de5591c65fd0e233f27fa5824136d.jpg> 露訪問の米特使 プーチン氏と会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/38b12db15b5006e659174f0f2e03b21e3b9ce86f159174dde92162cddfc33858.jpg> 米小型機墜落3人死亡 事故相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6535207>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/e091c39823ed62e8f2516cdf1c7a976ffa9b6cb766bf9f9f90430a43df1a505c.jpg> 返礼品の米 送れない自治体相次ぐ
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535189>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/74c304b07fe50d0ae3332f67dafff4db7a13bf4224cedd64b69e1a32564170bd.jpg> 「偽警官」の注意情報 本物だった
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535200>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c73757cd9965644875c1628546d8b516d051348794428574641373732f6f7e90.jpg> 阪神に完敗 中日監督が怒り隠さず
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 08:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 08:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
