@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62b434d4cb517b2eb69563de6d18eb3b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dab7ea8c57de848ca504106688327a9d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbea991159309beb025f643a7ee2bc257613e057>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-08475947-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナ情勢めぐり…露プーチン大統領が米特使と会談　停戦交渉での懸念事項を伝えたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/042de4ae7581598404ace7739fe4be814abbab7f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000014-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=493&ch=493&exp=10800&fmt=webp> ＮＹ外為市場＝ドル全面安、貿易戦争巡る懸念で　安全資産としての信頼揺らぐ
       </a>
@@ -374,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/599b3aa1d1f91de3b2cde3f842c67399251917a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000002-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「運転してこのままドーン」と語ったことも…広末涼子　追突事故で“ブレーキ痕ナシ”の衝撃
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000002-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「運転してこのままドーン」と語ったことも…広末涼子　追突事故で“ブレーキ痕ナシ”の衝撃
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 06:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 07:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
