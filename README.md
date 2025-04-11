@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7bc3d433c866bed72f9b80eaa513ab2b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/67607b72d96ef043d6d0d6eb162b07b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ca98966f9e495b3823dec0efd455e6398d93f7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00078438-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米関税「一時停止」が、中国のアパレルや電子機器メーカーを救う可能性
+      <a href=https://news.yahoo.co.jp/articles/c3ad80214bdd3dd9c12fb7e1acd9a904acb2ce36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00050040-yom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=375&ch=375&exp=10800&fmt=webp> トランプ氏は対中追加関税「１２５％に引き上げ」投稿、ホワイトハウスが計１４５％と修正…説明の食い違い相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/686062f544a798a2da0fb2572802721a48b85895>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00010005-mbsnews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】グラウンドで落雷事故　奈良・帝塚山学園が詳細報告「事故発生当時は114人の生徒と顧問教員等8人が現場にいた」中学生2人重体
+      <a href=https://news.yahoo.co.jp/articles/7a998691dce2cc88ba346f6bbce3024d6ed8db35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000011-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=378&cy=0&cw=1366&ch=1366&exp=10800&fmt=webp> ローズが首位発進 前回覇者シェフラー2位タイで追随 マスターズ
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb8976ec03731b8d51488772fee351056b4ee599>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-31419381-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 【日本市況】日経平均が５％超安、米中対立激化を懸念－円は143円台
+      <a href=https://news.yahoo.co.jp/articles/29942be656c718bb173810e6608cdd38df0e4246>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、143円台後半＝米中貿易戦争激化懸念で急落（11日午前9時）
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535106>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/f5da6ff073337d59625c96ce21bb8a52b5cd7b3f4c7c08c11382d32c25b92b68.jpg> トランプ氏 安保条約に重ねて不満
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535102>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/813cd1fafbd85e3b4e4a79aabf3ad847e6522d064d3e3b385a34e0d3f4a0e5ad.jpg> トランプ氏の強弁 反論抑えた首相
       </a>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535099>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/15db648152b7eab0eb5506a9c5f9a34ceb8e443bbe22e85723e190237437c142.jpg> 関税対応 iPhoneを印→米へ空輸
+      <a href=https://news.yahoo.co.jp/pickup/6535114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/0ee7cae67d6827f3d1888dbae5c3c85023cf7a07670b4b1b85849e600fbae4cb.jpg> 障害年金に異変 不支給が増加の謎
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535117>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/66def2a8c08f9bd6fdf041390f958c59adb1764986c1a76b35d535fc76b5fc39.jpg> 教諭が体罰 児童ごみ箱に入れ蹴る
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535115>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/f9989b1ec6f62e42dc94c0cc203f4a253c8951d3987cc446dbcd2464efee0193.jpg> 部活動中に落雷 今も2人意識不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535116>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/6220039b099eb7ceeff09689cc5b6a8147628900a5e7ce2ae0580a55828283e4.jpg> 覚醒剤所持疑い 老舗料亭社長逮捕
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535105>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/2b7089a1850d779dcbf9132e073027a33f83f9b197bb6eb4c11e5600e65a5f27.jpg> ポカリCMで初 男子高校生が主演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 11:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 12:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
