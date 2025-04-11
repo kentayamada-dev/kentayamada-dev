@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d4ec9e6775b4ca82254bdc765a0b4317.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7bc3d433c866bed72f9b80eaa513ab2b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22f7ba7b0815788ca0fb7951a0011ba62b2efc62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000029-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=291&ch=291&exp=10800&fmt=webp> 韓国、０％台成長の懸念も…ウォン安ドル高で利下げ見送りか
+      <a href=https://news.yahoo.co.jp/articles/4ca98966f9e495b3823dec0efd455e6398d93f7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00078438-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米関税「一時停止」が、中国のアパレルや電子機器メーカーを救う可能性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/686062f544a798a2da0fb2572802721a48b85895>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00010005-mbsnews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】グラウンドで落雷事故　奈良・帝塚山学園が詳細報告「事故発生当時は114人の生徒と顧問教員等8人が現場にいた」中学生2人重体
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0c24fd99fec4b6a9e8eb49bee21a5051b29ad4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000054-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=405&cy=0&cw=1391&ch=1391&exp=10800&fmt=webp> 東証、一時1800円超安　米中貿易摩擦に警戒感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a659876f1e9a7b871bae4c7daf2a84de7b9ce05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 円は一時143円台後半、米中貿易戦争警戒でドル売り－昨年10月来高値
+      <a href=https://news.yahoo.co.jp/articles/cb8976ec03731b8d51488772fee351056b4ee599>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-31419381-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 【日本市況】日経平均が５％超安、米中対立激化を懸念－円は143円台
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/0b4ac36b71d0f543dedb1c2e1b6b5c6fb8eede624867c9b5d8e5b8b8cb5d2987.jpg> 花見客が怒り 女性トイレ行列問題
+      <a href=https://news.yahoo.co.jp/pickup/6535115>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/f9989b1ec6f62e42dc94c0cc203f4a253c8951d3987cc446dbcd2464efee0193.jpg> 部活動中に落雷 今も2人意識不明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535100>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fcea47906a7b9807eada6b17987263724532362e37ecbc9a83a37ac38bfc9603.jpg> ロコ「五月の1ミリ」で劇的勝利
+      <a href=https://news.yahoo.co.jp/pickup/6535110>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/0b4ac36b71d0f543dedb1c2e1b6b5c6fb8eede624867c9b5d8e5b8b8cb5d2987.jpg> 花見客が怒り 女性トイレ行列問題
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 11:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 11:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
