@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5409bbb0cfdcb37693176077e7047ce7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c09eb648ff823068f0de545a77544da5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94d4fe150d2d81a6ec54b6dec3c4d168b9f130bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000082-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=348&cy=0&cw=1505&ch=1505&exp=10800&fmt=webp> 午前の日経平均は大幅反落、米中摩擦の激化を警戒　円高が売りに拍車
+      <a href=https://news.yahoo.co.jp/articles/b59730b5bdbe29db5b41435aaa79b1626ab498c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000030-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=66&cw=831&ch=831&exp=10800&fmt=webp> メジャーで本塁打量産し大きな話題の魚雷バット、きょう11日から日本のプロ野球でも使用OKに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/03f30235981e79b28ab798fc0901c798e709d886>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕下げ幅縮小＝前場の流れ継続も（11日後場寄り付き）
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a923aea2188453e339999a0da1283c3e78ae359>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-04265297-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トラウト1試合2発で打率1割台脱出　3選手が2本塁打を放ち球団史上3度目の快挙達成　11得点の快勝
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/0ee7cae67d6827f3d1888dbae5c3c85023cf7a07670b4b1b85849e600fbae4cb.jpg> 障害年金に異変 不支給が増加の謎
+      <a href=https://news.yahoo.co.jp/pickup/6535120>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/3bcd6081ffc32bd348f6d8fc6c8b2feb182e6a742fd187190c2d2a118dd9e8a8.jpg> 立憲で減税派勢い 出遅れに危機感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535117>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/66def2a8c08f9bd6fdf041390f958c59adb1764986c1a76b35d535fc76b5fc39.jpg> 教諭が体罰 児童ごみ箱に入れ蹴る
+      <a href=https://news.yahoo.co.jp/pickup/6535114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/0ee7cae67d6827f3d1888dbae5c3c85023cf7a07670b4b1b85849e600fbae4cb.jpg> 障害年金に異変 不支給が増加の謎
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 13:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 13:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
