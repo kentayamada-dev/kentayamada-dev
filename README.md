@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1fdbc6845e66a5533f1fe821c518c918.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51949b0649943ccc1c3e0e555b65a301.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0e3122e8ee866bbf47b863956aaaaed83837c39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日経平均、終値は1023円安
+      <a href=https://news.yahoo.co.jp/articles/50d0b4c6e00a222b7ee03dd23e539301d6b1c1b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21849231-jnn-000-1-view.jpg?pri=l&w=74&h=74&order=c2r&cx=182&cy=0&cw=74&ch=74&exp=10800&fmt=webp> 【仲里依紗】退所についてアミューズ公式サイトが発表「弊社も引き続き応援して参ります」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f6e2b43bedf29fb9d231cf773314f9ee3320fd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-34110520-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=191&cw=1117&ch=1117&exp=10800&fmt=webp> 「魚雷バット」１号は？初の使用選手は？容認当日はナイター６試合　練習では万波、清宮ら使用
+      <a href=https://news.yahoo.co.jp/articles/adf227bbff2800b91724d3a977d16e2b1f8afef8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21849213-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「明日開会式頑張ろうね」官邸のミャクミャクと笑顔でおしゃべり　会話が弾み…「ずっと続いちゃうんで…」秘書官に促されるシーンも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bae57c4404709b605582b94c3d8bb3a7e2f02e79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21847629-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏急転…「相互関税」90日間停止表明　米中は“関税の報復合戦” iPhone1台50万円に?“二転三転”の政策にアメリカ国内の受け止めは?【news23】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b946ffecba2e709a01bdbeae04ebb583d5e8d6ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000042-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 官邸の「ミャクミャク」進化に石破総理再び驚き
+      <a href=https://news.yahoo.co.jp/articles/6e45714cad17ff10d93673d94015b33a18bbb3fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 社説：米関税一部停止　世界をかきまわす愚策
       </a>
     </td>
   </tr>
@@ -394,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/40d7f382635ed291870f2ffa39a9bee9c646b20f0a084b8be87f4f0198da52bd.jpg> 「バラマキ」政策 与野党から次々
+      <a href=https://news.yahoo.co.jp/pickup/6535141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/f6ce5fcd6c7e5e19603395b151200b577d2f5f8335f6046bc04652ed5ed0633c.jpg> 終値1023円安 米中摩擦の激化懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535131>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/143228358c8a9c6a962ceeef3f90edf5957182e20592367e6ae13d9ed27fbb4e.jpg> 米と関税交渉 赤沢氏が重責に心境
+      <a href=https://news.yahoo.co.jp/pickup/6535129>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/40d7f382635ed291870f2ffa39a9bee9c646b20f0a084b8be87f4f0198da52bd.jpg> 「バラマキ」政策 与野党から次々
       </a>
     </td>
   </tr>
@@ -426,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535122>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoyamanobuhiro/02166843/title-1744319289147.jpeg?exp=10800> 入社後すぐ退職する若者 識者提言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535135>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/638f7e6c11389f799252783b4a3cc37e76ca880625c31cb7865adc77cb53c494.jpg> もりおか舞妓募集 会頭の発言波紋
       </a>
@@ -450,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/aa66b549203742fdf22ee1694304bb2fcf1109187c5d420b1717ebb3367988ad.jpg> 仲里依紗 事務所からの独立を報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535138>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/962a530319636cfeccd214def811eea4f2e261166bf6f9d6f719576ddc3acebb.jpg> 八代亜紀氏アルバム巡り怒り 署名
       </a>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 16:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 16:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
