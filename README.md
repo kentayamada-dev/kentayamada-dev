@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7156e9390cbb1e47e304a84e63d011b9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/92f54f9b61403a89ad375a433f0a5a5e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/947a8fa96072c957a18711587ce606264a919e8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 魚雷バット使用可　大リーグで注目、11日から―プロ野球
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b3c03f6ed777a9e0b55cf1e0d625e77d696b82f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000045-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1024&ch=1024&exp=10800&fmt=webp> 欧米関税交渉、焦点は「デジタル」　決裂なら米IT企業の課税強化も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/90900ff579249eb8f2e37a7431931330ee77c2ca>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕戻り鈍い＝先行き不透明感が圧迫（11日後場中盤）
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af0a2842d215c9e247af23edec622bf5e969ee67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000172-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=909&ch=909&exp=10800&fmt=webp> 魚雷バットNPB最初の使用者は？　11日から使用可能に　練習では万波、清宮幸、梅野らが使用
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/03f30235981e79b28ab798fc0901c798e709d886>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京株式〕下げ幅縮小＝前場の流れ継続も（11日後場寄り付き）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/643f5e196d2220c09bff80a428b9ceb026315106>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00010000-smamobijp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 底なしのトランプ関税ショック。世界は、自動車メーカーは、どう対応するか
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535120>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/3bcd6081ffc32bd348f6d8fc6c8b2feb182e6a742fd187190c2d2a118dd9e8a8.jpg> 立憲で減税派勢い 出遅れに危機感
+      <a href=https://news.yahoo.co.jp/pickup/6535131>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/847911db61a275c48a6716c9950d18a44b60cdc8ccd92949a870cfe4355a09ef.jpg> 米と関税交渉 赤沢氏が重責に心境
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/0ee7cae67d6827f3d1888dbae5c3c85023cf7a07670b4b1b85849e600fbae4cb.jpg> 障害年金に異変 不支給が増加の謎
+      <a href=https://news.yahoo.co.jp/pickup/6535120>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/3bcd6081ffc32bd348f6d8fc6c8b2feb182e6a742fd187190c2d2a118dd9e8a8.jpg> 立憲で減税派勢い 出遅れに危機感
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 14:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 14:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
