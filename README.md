@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9e89cf9e58d99dcffbb2f21e2425d089.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8c4f4ff64f8d754fed2095654d8f2245.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,24 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/df47379ba3cc4998aeae9780d8ac7c87fc9d39bb38057be9b9dd33f96d349d50.jpg> 一室に女性遺体 肺に達する刺し傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/df15ec395b532f1a66dfa50cc13d205b598f2349da88b02393c996876646b71b.jpg> ウエルシア&ツルハ統合2年前倒し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535181>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/24ae58fae535ed9ead18062335909b6a83c6c57a350d2ab673baf8be4f328399.jpg> 入学翌日の小1児童 バス置き去り
+      <a href=https://news.yahoo.co.jp/pickup/6535193>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/b4dd8c1510f451c3ef1b4bea91de80ccc8792daa33ee4cb3a8436854539d411b.jpg> 中国 米がさらに関税課しても無視
       </a>
     </td>
   </tr>
@@ -434,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535195>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8deecd0aff0c56af9f88b6a080c6ee7ad4802c548ac3534f9db6c30a679ccc80.jpg> インスタ地図機能 家バレ防ぐ方法
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535188>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e4915a6eea29e742331bac5aa412b556894d6d9a43f812cfb1e848ef4324a81a.jpg> 戸郷まさかの10失点炎上 2軍降格
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e0514430983e825a1b3eba826e65a0c9809c7548b25687646425e838971d8e6c.jpg> 月曜から夜ふかし BPO審議入り
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 23:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 23:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
