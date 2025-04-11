@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f78409e8d5409ca115761756a06ee48.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cdbc1ee630f2f96ee0408d4ba24bda01.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d249cde8abaf275b4373eb738692e060aabb7cf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ハドソン川で遊覧ヘリ墜落、観光客ら6人死亡　NY観光の人気コース
+      <a href=https://news.yahoo.co.jp/articles/29942be656c718bb173810e6608cdd38df0e4246>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、143円台後半＝米中貿易戦争激化懸念で急落（11日午前9時）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b43ff092116865c47df317a7bb9d126cec5f6158>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00956100-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 初の400円突破…国民食カレーライスに“トランプ・ショック”　「関税90日停止」表明も中国への関税は引き上げ…“貿易戦争”に怒りの声「負担は消費者に」
+      <a href=https://news.yahoo.co.jp/articles/1fa2c47b0fcb65f132d39a30d03ff294744d754a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> EU委員長「米IT大手に課税も」　関税交渉決裂なら　英紙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d214c6ccb738856cdadb26185e62d60f1651f250>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000038-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=448&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米関税措置への対応、石破首相「省庁の枠越えオールジャパンで」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/96142078dc7224a655c4eba42cd92c466dececdb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1461&ch=1461&exp=10800&fmt=webp> 大谷翔平 連続出塁14！ロバーツ監督「彼の打席の質は高く常に安定している」と手放しで褒め称える
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe1d203a50136e98217b49b819915a89f8a7c7b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000030-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1470&ch=1470&exp=10800&fmt=webp> ＥＵ、米ハイテク大手に課税も　通商協議決裂なら─欧州委員長＝ＦＴ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535087>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/48b4f3d3b8437f382a3ec97f3f4a1c466af4aaacdc6770cdd20d23d069e88acd.jpg> 対中追加関税は計145% 米が修正
+      <a href=https://news.yahoo.co.jp/pickup/6535104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/248409dc16c46cd079e59cdc07ce1a9ed88fa42202d3481cecdad2db04e79bfa.jpg> 日経平均 一時1800円超の大幅下落
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535098>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fd8d5f5f071748d3271264891373cf3325ac74fbeef891aad0db8f1a9990e7fa.jpg> 菅野智之35歳 現地が評価する挑戦
+      <a href=https://news.yahoo.co.jp/pickup/6535100>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fcea47906a7b9807eada6b17987263724532362e37ecbc9a83a37ac38bfc9603.jpg> ロコ「五月の1ミリ」で劇的勝利
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 09:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 09:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
