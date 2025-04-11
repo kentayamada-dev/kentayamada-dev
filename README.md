@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/455912dc0ec3199d6e140622e5bd328c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c7a5c6299a70e7aadfb6a5edba8bf900.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dea88107a08f4e9d01a6ed7fc2f797658e3b036b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00050148-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 奈良のグラウンド落雷、発生時１２２人が活動…教員「中断するか迷っていたら落雷が起きた」
+      <a href=https://news.yahoo.co.jp/articles/ac381e740f400b35eaf1603a512b67f7f24125cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-02714781-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 落雷で中学生2人意識不明、学校側が12日に会見へ　奈良市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69371d09dd1d59eb12b7768ca950c09c28ff7749>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000101-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「彼女にどれだけ救ってもらっただろうか」広末涼子容疑者が亡き妻演じた『はなちゃんのみそ汁』著者が感謝のエピソード明かす
+      <a href=https://news.yahoo.co.jp/articles/10fc4bf20f13808dd577437f8bc5ff012a80c059>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00956695-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ウエルシアHDとツルハHDが12月に経営統合で合意　日本最大のドラッグストア誕生へ
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e0514430983e825a1b3eba826e65a0c9809c7548b25687646425e838971d8e6c.jpg> 月曜から夜ふかし BPO審議入り
+      <a href=https://news.yahoo.co.jp/pickup/6535188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e4915a6eea29e742331bac5aa412b556894d6d9a43f812cfb1e848ef4324a81a.jpg> 戸郷まさかの10失点炎上 2軍降格
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 01:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 01:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
