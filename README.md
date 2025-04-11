@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dab7ea8c57de848ca504106688327a9d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/14b7c0182e1fd8e4f8fec963f3d08851.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/042de4ae7581598404ace7739fe4be814abbab7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000014-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=493&ch=493&exp=10800&fmt=webp> ＮＹ外為市場＝ドル全面安、貿易戦争巡る懸念で　安全資産としての信頼揺らぐ
+      <a href=https://news.yahoo.co.jp/articles/357b59f583d5bd37ab8f56ff33abe9b1350b6b21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ反発、619ドル高＝ナスダックも高い（11日）☆差替
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bbea991159309beb025f643a7ee2bc257613e057>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-08475947-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナ情勢めぐり…露プーチン大統領が米特使と会談　停戦交渉での懸念事項を伝えたか
       </a>
     </td>
   </tr>
@@ -378,16 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/2457afb920166f2da7d9c9ba57b79a4c3a9de5591c65fd0e233f27fa5824136d.jpg> 露訪問の米特使 プーチン氏と会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535183>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e2edfd30bea7a4c38fd720ae47e28767e06b47769fd10f02a3c8df79994210eb.jpg> 林氏 給付金や減税検討の事実ない
+      <a href=https://news.yahoo.co.jp/pickup/6535201>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/74bc54d44a573f6a26ae6c14a2a975c2e567d8d2015704af84f7c5af16f83d9c.jpg> NYダウ619ドル高 波乱続く予想も
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535196>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/304119ee3791c011f14065c36da573801f533417dd95459f54b20e4ef25b82f2.jpg> 今冬雪の死傷者1126人 昨季比3倍
+      <a href=https://news.yahoo.co.jp/pickup/6535198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/2457afb920166f2da7d9c9ba57b79a4c3a9de5591c65fd0e233f27fa5824136d.jpg> 露訪問の米特使 プーチン氏と会談
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e4915a6eea29e742331bac5aa412b556894d6d9a43f812cfb1e848ef4324a81a.jpg> 戸郷まさかの10失点炎上 2軍降格
+      <a href=https://news.yahoo.co.jp/pickup/6535200>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c73757cd9965644875c1628546d8b516d051348794428574641373732f6f7e90.jpg> 阪神に完敗 中日監督が怒り隠さず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535199>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/42c0639feb70e9704dfe889bd0ff24f371c970ea98875966ba428a1c945c18bd.jpg> 西武に珍事 バントで「2度当て」
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 07:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 07:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
