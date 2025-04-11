@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/551b5725ba0f8d0d8ee32007b407c81d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9e89cf9e58d99dcffbb2f21e2425d089.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/69371d09dd1d59eb12b7768ca950c09c28ff7749>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000101-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「彼女にどれだけ救ってもらっただろうか」広末涼子容疑者が亡き妻演じた『はなちゃんのみそ汁』著者が感謝のエピソード明かす
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000101-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 「彼女にどれだけ救ってもらっただろうか」広末涼子容疑者が亡き妻演じた『はなちゃんのみそ汁』著者が感謝のエピソード明かす
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6843d11fcdbc8313739506f028303ac7c809dd3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「リーマン級の影響出る恐れも」　トランプ関税に憂慮深める日本企業
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000089-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「リーマン級の影響出る恐れも」　トランプ関税に憂慮深める日本企業
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535194>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/12e88adf68381cb690535066190d78a4d49f9e6005eec2db99383fae668fb08d.jpg> 広末容疑者 取り調べ十分にできず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535189>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/74c304b07fe50d0ae3332f67dafff4db7a13bf4224cedd64b69e1a32564170bd.jpg> 「偽警官」の注意情報 本物だった
       </a>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e0514430983e825a1b3eba826e65a0c9809c7548b25687646425e838971d8e6c.jpg> 月曜から夜ふかし BPO審議入り
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 22:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 23:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
