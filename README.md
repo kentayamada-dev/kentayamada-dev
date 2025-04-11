@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a68a40de73c4d3889259f424556f2842.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/141cd46abde8f0595bcc10bfbc5465e6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/857f1a674c8ac666f62d5488f0d12dd4b9ae0f6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000106-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 米政権、中国の孤立化狙う　「悪者」に追加関税145％
+      <a href=https://news.yahoo.co.jp/articles/5c83a28bd4e180adc9cfd76d906b1e046707d419>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000159-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=847&ch=847&exp=10800&fmt=webp> 与野党で高まる消費減税論に神経とがらす財務省　「一度減税すると戻せない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a215253d1d5d2380457dc8224beecf9a450c2eeb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21849115-utyv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「早くあの中に移動したい」コストコ　1000人以上の行列で午前4時半に開店　「白州」など1時間で売り切れも
+      <a href=https://news.yahoo.co.jp/articles/6843d11fcdbc8313739506f028303ac7c809dd3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000089-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「リーマン級の影響出る恐れも」　トランプ関税に憂慮深める日本企業
       </a>
     </td>
   </tr>
@@ -386,24 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/a7fb4c26315a33d3c8171c62eeff94eb9c45fd3341cf1da0400d1a4d59bcdf06.jpg> 首相 16年ぶり「政労会見」開催へ
+      <a href=https://news.yahoo.co.jp/pickup/6535179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/5fe429075a4de85fd8b4a2d505a8aa1039223f3fa646797d81fae5f92a4c6421.jpg> 対米にらみ 習主席が東南ア歴訪へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535150>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/683786d7462d17b085cbc95fc931c1d6e5c629e619accc863a6279d953a716e1.jpg> ヘンリー英王子 ウを予告なし訪問
+      <a href=https://news.yahoo.co.jp/pickup/6535146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/ae56a0bfb86d9d15f920457488610422d9faabb63a3e0aeafad12b00ec3e1997.jpg> 全現役世代への気配り 玉木氏強調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/f7426983c95b4dd04e615521135648df92bb0db96a0a9b38fed3fc2fb889800a.jpg> コンクリ詰め遺体 傷害致死で起訴
+      <a href=https://news.yahoo.co.jp/pickup/6535171>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/9444f7b632cf193a7d173f18a95b718faf3960945b755f1147c1e787bb30eb61.jpg> 陸自オスプレイ 愛媛火災で初任務
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fe2015af49249982ce81fc7dd05f94fbd26aaa8a2276ba811b3e5d0576f106ef.jpg> 消防 不適切表現で献血を呼びかけ
+      <a href=https://news.yahoo.co.jp/pickup/6535181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/24ae58fae535ed9ead18062335909b6a83c6c57a350d2ab673baf8be4f328399.jpg> 入学翌日の小1児童 バス置き去り
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 21:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 21:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
