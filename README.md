@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/020b1e94a98a940ede6e98e31936f7a2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a9f1188df2f7dc3260792a9f10281f50.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dba141b231810631d1986ae87c54754f00107ced>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-34111203-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=715&ch=715&exp=10800&fmt=webp> 広末涼子容疑者６月に出演予定だった大分のファス中止、主催の「はなちゃんのみそ汁」著者明かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/950c21015e81b575af9c8092e6ad99502405f7cb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000072-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日経平均一時1900円安　米経済の「不確実性」受け、円高も進む
       </a>
@@ -373,8 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a9ac2eb243559acd628e0a369522260a5b770a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00956590-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=459&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> EUフォンデアライエン委員長　アメリカとの関税交渉決裂なら米IT企業のデジタル広告収入に課税も
+      <a href=https://news.yahoo.co.jp/articles/a019bbd9f3d095aca11ce3ec4f32acfc5b514252>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21849853-cbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 遺体の近くに飼い犬の死体… スーパーの惣菜は自宅に残され 風呂に湯を張ったあとも  雑木林の女性遺体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a326337a14448424adb51e1f30b32033217f43fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000055-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 中国、米への関税125%に引き上げ　全輸入品41%上乗せ
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535160>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/cd54aa1c4fb56020b8faa20f5dc5aab0934c1de9876bfa002993c2049cd4ae81.jpg> 単身での出産を決意 法案に憤り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535150>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/683786d7462d17b085cbc95fc931c1d6e5c629e619accc863a6279d953a716e1.jpg> ヘンリー英王子 ウを予告なし訪問
       </a>
@@ -410,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535158>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fe4e061d4ba50fb3a6a8251b6fe7b45bd41155ff6e03f202fdb1aeca8cfc86b6.jpg> 高知に緊急着陸の米軍機 居座る
+      <a href=https://news.yahoo.co.jp/pickup/6535154>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/f7426983c95b4dd04e615521135648df92bb0db96a0a9b38fed3fc2fb889800a.jpg> コンクリ詰め遺体 傷害致死で起訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535176>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/f9842a174068c4f539204a2b1d7907d6ea9f2bb4fa8a8569b81b71c1fdca23c4.jpg> 雑木林に遺体 近くに飼い犬の死骸
       </a>
     </td>
   </tr>
@@ -426,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/a2b1243d301b1e32c8a321d351f9b9bcd7d03ae6f618106c7b00ba1aa58263ef.jpg> 卒アルのデータ 17万件超漏えいか
+      <a href=https://news.yahoo.co.jp/pickup/6535174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/fe2015af49249982ce81fc7dd05f94fbd26aaa8a2276ba811b3e5d0576f106ef.jpg> 消防 不適切表現で献血を呼びかけ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/3b631a7f2eef2444bea037b153f52aca2197987e626748643d44c041692ce9c9.jpg> ヤクルト 2日連続でノーゲーム
+      <a href=https://news.yahoo.co.jp/pickup/6535167>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8ecb1262a00aaa3cc05512fbfece589dc26d177a8e859202b558a31940687998.jpg> オリ宗の背番号107 ユニ忘れたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e6e555b81941586918c3fff26621450ff06e7aea1a6b19f1826f85d124a6a584.jpg> 広末容疑者が出演予定のイベ中止
+      <a href=https://news.yahoo.co.jp/pickup/6535175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/e0514430983e825a1b3eba826e65a0c9809c7548b25687646425e838971d8e6c.jpg> 月曜から夜ふかし BPO審議入り
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 20:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 20:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
