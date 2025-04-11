@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/421ed2b6cb0fde18235fe1ec1c0c3016.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5e4bea5a60fe5e02b012c805c465cac9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/171be892b92f82cec6b084c4b4e2de21bc2b5cda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00050093-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=14&cy=0&cw=333&ch=333&exp=10800&fmt=webp> フォンデアライエン欧州委員長、アメリカとの関税交渉失敗なら巨大ＩＴ企業に課税する可能性指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/61182c1b1f569ec5aa9207f69a51f38e0e3e7efe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000080-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=37&cw=1077&ch=1077&exp=10800&fmt=webp> 白洲迅に第2子が誕生　妻・竹内渉に感謝「4人の穏やかな日々を守っていけるよう励んでまいります」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6b8ea0fbac667127e824e9563bc85166dd318216>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00050091-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> トランプ大統領、中国と「取引をまとめたいと思っている」…ホワイトハウスが追加関税１４５％と修正
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/adf227bbff2800b91724d3a977d16e2b1f8afef8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21849213-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「明日開会式頑張ろうね」官邸のミャクミャクと笑顔でおしゃべり　会話が弾み…「ずっと続いちゃうんで…」秘書官に促されるシーンも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e72dbf8df22c43c84809f925977bfd6bba3fd0c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-14961676-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> ヘリ６人死傷事故　運航会社社長が謝罪　調査は終了
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00050091-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> トランプ大統領、中国と「取引をまとめたいと思っている」…ホワイトハウスが追加関税１４５％と修正
       </a>
     </td>
   </tr>
@@ -386,24 +386,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/f6ce5fcd6c7e5e19603395b151200b577d2f5f8335f6046bc04652ed5ed0633c.jpg> 終値1023円安 米中摩擦の激化懸念
+      <a href=https://news.yahoo.co.jp/pickup/6535157>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/cbe14558cdfcafc9d142be84f01a536da086c9dff535a5ed413f1a3c2407a248.jpg> 中国、対米関税125%に引き上げ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535132>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/832ea80b8333c5b2583d35e6d9bfd0ef0ad8a9093c6dbc13e32edbcbcbe53341.jpg> 世耕氏 参考人招致に応じる意向
+      <a href=https://news.yahoo.co.jp/pickup/6535147>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/547972e595306d807339e4591f156efc4aea054e3661850effc97ac91c0c7acc.jpg> 公明 給付財源に赤字国債検討も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535136>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02167263/title-1744344016230.jpeg?exp=10800> 落雷から身を守る 必要なことは
+      <a href=https://news.yahoo.co.jp/pickup/6535151>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/a7a49e7ca2a31c6a5cf9ddfdf7aff79c7c25d71ccb3443651cf1065f8ae266e4.jpg> 医療ヘリ事故 3人の死因は溺死か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/73211b2c5c03b00c36c7000a0231dbad0e2d11e3815388f9720dbf2cbefedbac.jpg> 広瀬めぐみ元参院議員の有罪確定
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/d0d404257ab06f5d77e9be290cd840d5b2ac6251c94c04297df39ceed46947b4.jpg> 高島屋なくなった岐阜 意外な動き
+      <a href=https://news.yahoo.co.jp/pickup/6535153>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/a2b1243d301b1e32c8a321d351f9b9bcd7d03ae6f618106c7b00ba1aa58263ef.jpg> 卒アルのデータ 17万件超漏えいか
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535148>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/8feaaccabe6cc7315f99aa63f57849ee938c2c820e22817b0d4e9812f568e772.jpg> 1億円 大谷サイン入りユニ販売へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/aa66b549203742fdf22ee1694304bb2fcf1109187c5d420b1717ebb3367988ad.jpg> 仲里依紗 事務所からの独立を報告
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 17:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 17:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
