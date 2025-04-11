@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eaa0b4c31f1b6333619066b2d2e0b537.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a3497a80c538eb0394997412612d535.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4a8ff4df112ab97f579d58075321c2081677037>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000090-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 「魚雷バット」使用可能に　プロ野球、11日の試合から
+      <a href=https://news.yahoo.co.jp/articles/8f6e2b43bedf29fb9d231cf773314f9ee3320fd9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-34110520-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=191&cw=1117&ch=1117&exp=10800&fmt=webp> 「魚雷バット」１号は？初の使用選手は？容認当日はナイター６試合　練習では万波、清宮ら使用
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bae57c4404709b605582b94c3d8bb3a7e2f02e79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-21847629-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏急転…「相互関税」90日間停止表明　米中は“関税の報復合戦” iPhone1台50万円に?“二転三転”の政策にアメリカ国内の受け止めは?【news23】
       </a>
     </td>
   </tr>
@@ -381,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a64b07e6e3ac3138216d3394767c5ec4f64955e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-90022477-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 追加関税が145％となった中国は84％で報復　「戦いたくないが戦いを恐れない」
+      <a href=https://news.yahoo.co.jp/articles/b946ffecba2e709a01bdbeae04ebb583d5e8d6ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250411-00000042-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 官邸の「ミャクミャク」進化に石破総理再び驚き
       </a>
     </td>
   </tr>
@@ -418,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/1b6b3fe5c7bbe4fbdab1590b0da765cfbb88a9b8f108183ecf491f8c033a4482.jpg> 官邸ミャクミャク進化 首相が驚き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535122>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoyamanobuhiro/02166843/title-1744319289147.jpeg?exp=10800> 入社後すぐ退職する若者 識者提言
       </a>
@@ -426,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/060db4563ce33c2c632fab4f183bc939084b78559e0de664b76b5ad860be26c1.jpg> 町のスーパー突然閉店 住民戸惑い
+      <a href=https://news.yahoo.co.jp/pickup/6535135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/638f7e6c11389f799252783b4a3cc37e76ca880625c31cb7865adc77cb53c494.jpg> もりおか舞妓募集 会頭の発言波紋
       </a>
     </td>
   </tr>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/da91c75db964276c86932152c814a780ad97357d1e80f0a57b332af21a3b1208.jpg> エンゼルス 記録ずくめ6発で快勝
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/11 15:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/11 15:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
