@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/adb37e76bfd7853989f09135eb8a09c5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/33253258d9c75d42792ae36b9be49b48.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e499d730fda3f5a54acad636abae8793b04a77e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00064940-mbsnews-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 天皇陛下がおことば「未来の社会について考えることを願っています」　歌舞伎俳優・尾上菊之助さんらがパフォーマンスを披露　万博・開会式
+      <a href=https://news.yahoo.co.jp/articles/933d9afa45fa06c10e803c8f3767f4c8640403a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000065-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> セレッソ大阪、ホームでの鹿島戦に15年ぶり勝利　「天丼」の末に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/804410d280af7c1304627180c9f80ad220564c3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000117-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 「泥棒に入られたみたいだ」兵庫・尼崎の民家で緊縛強盗　複数人で押し入り物色して逃走か
+      <a href=https://news.yahoo.co.jp/articles/3a4c4b0d889879c37dbbdc03e59b3376e27873ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000067-jij-000-7-view.jpg?pri=l&w=192&h=141&exp=10800&fmt=webp> 両陛下、万博赤十字館を見学　秋篠宮ご夫妻はレセプションに　大阪
       </a>
     </td>
   </tr>
@@ -386,24 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535274>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/08306e3a033e7dbdffb9f1f6a56f22a303d478715215e353f0247691dea6d26b.jpg> 万博入場券に駆け込み需要 行列も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/9333143ea4192c0b1688c675d0faff9cfd01fbb367288dcd8e8b04ee38debf12.jpg> 米関税 特別融資に乗り出した地銀
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535277>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f64f39af73c5c586efe4fb87dfe17612e6f1327dada5baa577e639a8984a5f01.jpg> 減税求める声 首相周辺「ダメだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535284>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c9f0bec5618aeb1fd794c80dc28cbd357422a6fd138817183ae23f429b67316d.jpg> 枝野氏 減税ポピュリズムとけん制
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535286>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/1e3c6700f6228295fb7216356196eb8881bf2f6aaf8575752fde23459551b8c4.jpg> 5カ国パビリオン 開幕間に合わず
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535276>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/0b4d8ccfbfea34e7ae5ec5b6f150c3d9ada84a507dc1b2efdebdc3b2040a0501.jpg> Switch2で話題 microSD Express
+      <a href=https://news.yahoo.co.jp/pickup/6535287>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/2bdbc3d8b85a6519169e5864d4d88a35b6b6eaa3d6cf8644e89a67e177d31236.jpg> C大阪 1試合で5回ゴール取り消し
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 20:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 20:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
