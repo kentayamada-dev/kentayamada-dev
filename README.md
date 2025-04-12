@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8366f70d17a87dd80f38d2b81934a13c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5664b464c8dbcff975bc2f787baf717a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,15 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dc481a2ad1d5c6556a7c2f1d652066079e6db5b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000155-san-000-2-view.jpg?pri=l&w=192&h=124&exp=10800&fmt=webp> リアルとバーチャル融合の万博開会式　吉村知事は「ありがとう」連呼し、笑いと拍手
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46ae06111f08342259784da5d8c686ecfef7683c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-07230248-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 習近平国家主席、関税に言及「いかなる理不尽な抑圧も恐れない」 中国はきょう対米関税125%に引き上げ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000155-san-000-3-view.jpg?pri=l&w=192&h=124&exp=10800&fmt=webp> リアルとバーチャル融合の万博開会式　吉村知事は「ありがとう」7回連呼し、笑いと拍手
       </a>
     </td>
   </tr>
@@ -386,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535278>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/3d847a2e16f9a766868e7148df1638cb6acc3c8dae75d0a7602b90596721aa71.jpg> トランプ氏 習主席は優れた指導者
+      <a href=https://news.yahoo.co.jp/pickup/6535296>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/89cb5fef44bf013e82afff0e1a3b4dbcc42248b7c2cc48aae9b8f38e65c205c4.jpg> 米の予想インフレ率6.7% 大学調査
       </a>
     </td>
   </tr>
@@ -402,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535277>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f64f39af73c5c586efe4fb87dfe17612e6f1327dada5baa577e639a8984a5f01.jpg> 減税求める声 首相周辺「ダメだ」
+      <a href=https://news.yahoo.co.jp/pickup/6535291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f09bcbd86c3fd32662d2d0d51de7b09e957fd7755dba387a591ac092e069f816.jpg> 山口組幹部が異例の勢ぞろい 背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f09bcbd86c3fd32662d2d0d51de7b09e957fd7755dba387a591ac092e069f816.jpg> 山口組幹部が異例の勢ぞろい 背景
+      <a href=https://news.yahoo.co.jp/pickup/6535298>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/0691591c5302bedd0a8d50456a2729f61aaeb5d60d0faf7ec1a46fba7a1a8b0a.jpg> 禁煙の万博 通路に吸いがら入れ
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 22:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 22:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
