@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f76ebcd1e1e3be0f88d0de0febc352a2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3cdbb03eaba6a87404f5d27e6a5e2c5d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/560159d724594b279c35236653f5b5b91860c774>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-04757458-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「トランプ大統領は中国との交渉に前向き」ホワイトハウス報道官が認識示す
+      <a href=https://news.yahoo.co.jp/articles/e004426fd500e46f0ee224e8e9eb69b4e0f1f80a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000020-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 中国と“関税戦争”報復の応酬　トランプ氏「良い結果が得られる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f04a654ac8bd9260b20df18b44307b27c82e836>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-90022530-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 総理周辺「減税はダメ、上げる時に何百倍のエネルギー必要」現金給付はバラマキ批判も
+      <a href=https://news.yahoo.co.jp/articles/53f843f96c8d718fa73a24bf5bbeb58eeb4789b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00010004-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=560&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】トラウトがメジャートップに並ぶ6号アーチ　エンゼルスは投手陣が崩れて大敗　今季ワーストの14失点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1f20bbaa6a92dd4e5366f8d9ee9493e28d9344b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00050066-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=335&ch=335&exp=10800&fmt=webp> 警察が遺体を取り違え、遺族に引き渡さず火葬…「さらなる心痛を与えてしまった」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/38f2be6719296c408c0c5c65938e30d43a1c6ee8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000030-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=535&ch=535&exp=10800&fmt=webp> ウクライナ支援国が会合　3兆円超の軍事支援へ　米はオンライン参加
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8923766f6868098f1cd62bfabb067b9961a4f693>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00010002-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=396&ch=396&exp=10800&fmt=webp> 佐野航大が衝撃の「15秒弾」　後半開始直後の一撃でNECを勝利に導く
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535230>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/273402e2a1a72b31771cba7f2979f852bf6b830c385a5d534ad9b2272ec9bba2.jpg> 82歳車にはねられ死亡 ひき逃げか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535224>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9cd85e0ff6d4cbb033455c64e241e16fe6c77f76655c567be8548b4d53c44931.jpg> メガバンクから消える一般職 背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535215>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/acc5d71eddca8d77de3f986846800d0e129e7ff111b022286a243a5dceb6a51a.jpg> 京都駅封鎖 不審物は外国製菓子か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535214>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/51711043f6468f4a19a32d677985d080efc05f249ba82a37d4fcb2e4cc6b35b5.jpg> YouTuberに届く誹謗中傷のリアル
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535229>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/5a07546b18a60bd57f862b246a8898f0601c2f4792a84486295bca88621471dc.jpg> 大谷翔平のCMポーズ Tシャツに
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 12:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 12:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
