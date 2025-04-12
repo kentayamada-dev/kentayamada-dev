@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/157ad9cbb58b8587e6856bf9648e1273.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8366f70d17a87dd80f38d2b81934a13c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5d175c06e80a01073b0c42d5cca4728adb7d335>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000407-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ジョジョ第7部、アプリで全24巻無料公開　『スティール・ボール・ラン』アニメ化記念
+      <a href=https://news.yahoo.co.jp/articles/543a153b0f8d5469e30e8f14b9a5bf754b3cd3a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00092135-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=669&ch=669&exp=10800&fmt=webp> 漫画『ジョジョの奇妙な冒険』第7部がアニメ化決定　キャラクタービジュアルが解禁
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dc481a2ad1d5c6556a7c2f1d652066079e6db5b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000155-san-000-1-view.jpg?pri=l&w=192&h=124&exp=10800&fmt=webp> 万博開会式、リアルとバーチャル融合した演出　「祭り」や「相撲」で日本らしさも表現
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000155-san-000-2-view.jpg?pri=l&w=192&h=124&exp=10800&fmt=webp> リアルとバーチャル融合の万博開会式　吉村知事は「ありがとう」連呼し、笑いと拍手
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535284>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c9f0bec5618aeb1fd794c80dc28cbd357422a6fd138817183ae23f429b67316d.jpg> 枝野氏 減税ポピュリズムとけん制
+      <a href=https://news.yahoo.co.jp/pickup/6535294>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/cb924f9bd2db08da9b6b4b2b7442ab065e66a25382e94911ec3d8537547cce70.jpg> イスラエル軍内 高まる反戦の声
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535286>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/1e3c6700f6228295fb7216356196eb8881bf2f6aaf8575752fde23459551b8c4.jpg> 5カ国パビリオン 開幕間に合わず
+      <a href=https://news.yahoo.co.jp/pickup/6535291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f09bcbd86c3fd32662d2d0d51de7b09e957fd7755dba387a591ac092e069f816.jpg> 山口組幹部が異例の勢ぞろい 背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/170f05294335e2d1333000c696d90944127123956c1db577d6c10e2643c80421.jpg> 駅で叫ぶ母 異変に気付いた高校生
+      <a href=https://news.yahoo.co.jp/pickup/6535282>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/b94bca477ae0ec88af1aeed3605fc802372477dec77c91ea09c7fa13d79a26b8.jpg> 事件証拠に健康管理アプリ 相次ぐ
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535293>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/4febefd1f8e36845dec038154732efa963dabc258816047ca64b1463817bf0eb.jpg> ATSUSHI、1カ月前は松葉杖だった
+      <a href=https://news.yahoo.co.jp/pickup/6535292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/066ce3f0fbbe64f37bdcc1c0665948651c0f8bf9fc9e92d8192ab1e51e5e4ccc.jpg> 「ジョジョ」第7部 アニメ化決定
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 21:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 22:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
