@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dde226c9065c170a5fa388bfd4d80479.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/775d5c6241ecf77a009ddb3642a8b96a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74632c39c375f34c5170575318cf9993a7327e61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00955532-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=882&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 大谷翔平開幕からの連続出塁14試合でストップも山本由伸が6回無失点9奪三振で今季2勝目…ドジャースは2連勝
+      <a href=https://news.yahoo.co.jp/articles/96dedce5cdc02c0c5e1d026c2fd6f777810ddbe9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000237-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ド軍指揮官　山本由伸のターニングポイント明かす「あの活躍が彼を次のレベルへと押し上げ成長していった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a80a5f955a48df2337965c770ddf04aa2d775d42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「米国は多国間貿易体制の破壊者」　中国共産党機関紙が対米批判　国際社会に「団結」訴え
+      <a href=https://news.yahoo.co.jp/articles/fdac076946648925d8befb3a7ff33632a4264e02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-21850227-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 一体どこまで? 関税めぐり米中の報復合戦　アメリカ145％ 中国125％　赤沢大臣は来週17日に直接交渉へ【news23】
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535231>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/1cb2195852a882e6dbc1d0d597ddda13c47e9b3433d1b0c5f94d412d8e1ea3df.jpg> 米特使とプーチン氏 和平巡り協議
+      <a href=https://news.yahoo.co.jp/pickup/6535242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/b16166ee4cd6146f811c56485dc9ac2df8abab5301c7f3576aecd52c57982d32.jpg> 米特使 戦後ウの「共同管理」提案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535210>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/1c92acafb41f602d06c6de6c12be25d1e51cd23aeaac4b1e738fb353dc08c9cf.jpg> ポリオ撲滅 陰謀説と難民で困難に
+      <a href=https://news.yahoo.co.jp/pickup/6535244>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/318ea1c84b69b02209e8fcee535a174fda6364c94acf7a51b1d0546824f582c0.jpg> 落雷事故 学校は雷注意報認知せず
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535232>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9b19db62d7c1474bb6306cdd3e1e50a667cb58c6bafce99f0f4b7bb48c37aa93.jpg> マナー違反 春の京都に住民の悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6535246>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/49130420c359d5e71998046b6304f9b96cdb75b76aca354da729b3eda0e2b12d.jpg> Skype終了 Zoomに勝てなかった訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/50a46ee7a4ece391541184a89493e08a4ca738dc90eaacb3c7e9ba2ac183b5a4.jpg> 寮もスマホも用意 出所者採用の訳
+      <a href=https://news.yahoo.co.jp/pickup/6535243>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/e1b1a62bbd7855263e4814116ab3e26561b9326e90d2a91bdd7f0700f1e6a7cc.jpg> 由伸が6回無失点 監督と熱いハグ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535241>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/e902f440308ee9810df77b0c64ca3e94a804c4e3c0359eae3e4514a335290a52.jpg> 10歳の娘に余命宣告 家族の覚悟
+      <a href=https://news.yahoo.co.jp/pickup/6535248>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohiroaki/02168307/title-1744418519244.jpeg?exp=10800> 「マイクラ」映画  各国でヒット
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 15:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 15:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
