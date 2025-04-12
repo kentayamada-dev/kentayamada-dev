@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5c53bc3fbd3f883248d41a31a3e77243.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5bd73036f19fbec10e87f5ce693dd49b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f200c04762a79781714a0a53727cf13f103ed4d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-90018747-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=686&ch=686&exp=10800&fmt=webp> 【速報】39歳の男を殺人容疑で逮捕　50歳女性がアパートで殺害された事件　徳島市
+      <a href=https://news.yahoo.co.jp/articles/588367c75e2afaedb7e80fef5527ec4acf8c245c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000002-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=92&cw=456&ch=456&exp=10800&fmt=webp> アパートの住人女性殺害の疑い、39歳の男を逮捕　徳島県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc481a2ad1d5c6556a7c2f1d652066079e6db5b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000155-san-000-3-view.jpg?pri=l&w=192&h=124&exp=10800&fmt=webp> リアルとバーチャル融合の万博開会式　吉村知事は「ありがとう」7回連呼し、笑いと拍手
+      <a href=https://news.yahoo.co.jp/articles/2aca5d8d2cdff6359bf166f594304d317c8e94cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00050234-yom-000-6-view.jpg?pri=l&w=192&h=115&exp=10800&fmt=webp> 大阪・関西万博きょう開幕、１５８か国・地域参加…大屋根リング内に全５７館「多様でありながらひとつ」
       </a>
     </td>
   </tr>
@@ -378,16 +378,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535296>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/89cb5fef44bf013e82afff0e1a3b4dbcc42248b7c2cc48aae9b8f38e65c205c4.jpg> 米の予想インフレ率6.7% 大学調査
+      <a href=https://news.yahoo.co.jp/pickup/6535309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/e9c2f99a9d307432d8d89e1614d9e3f48ec1b2e124be0dd78cd52cdf83bcccda.jpg> 大阪・関西万博、きょう開幕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/83f445c83c2ad7f68406dab3105934d86465d92ddd29f021498287e34c7f7b5a.jpg> 雷鳴る前に部活中止 判断の難しさ
+      <a href=https://news.yahoo.co.jp/pickup/6535305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f1cb7ddd107f09776f07afdf1a76706b7e90f280c803a9dff705f1d00173ff0c.jpg> 映像 万博開会式のパフォーマンス
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/1b74c8321e4a13c0ebcf6df28cec10476a4c3d592bb4ea8536abf6fd24748c8f.jpg> 米 相互関税の対象からスマホ除外
       </a>
     </td>
   </tr>
@@ -402,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535302>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/b9c23201d9077aca90931bf20f6f62dd96abc4c4ea060c96406409d8b2acd8e1.jpg> 首相 人間洗濯機に「あ、これだ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535297>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/4d2a10dbc2efaa6b0c0ec728e7e5ae28c01fcd0234da1f38f10eabc6f79c4495.jpg> クロマグロを闇売り 漁師の訴え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535301>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> モペット違反 今年都内で200件超
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/170f05294335e2d1333000c696d90944127123956c1db577d6c10e2643c80421.jpg> 駅で叫ぶ母 異変に気付いた高校生
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 23:51:47 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 00:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
