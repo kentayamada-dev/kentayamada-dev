@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e39e085f9d5aa58c3f9e010434b48fad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dde226c9065c170a5fa388bfd4d80479.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9ebd690ed4ca658af5dacd266cb2efd34292ad7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-10493264-baseballk-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=704&ch=704&exp=10800&fmt=webp> カブス、今季初の完封負けで地区首位陥落　鈴木誠也は山本由伸から初安打も、痛恨の走塁死で得点機逃す
+      <a href=https://news.yahoo.co.jp/articles/74632c39c375f34c5170575318cf9993a7327e61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00955532-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=882&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 大谷翔平開幕からの連続出塁14試合でストップも山本由伸が6回無失点9奪三振で今季2勝目…ドジャースは2連勝
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/26d01f8b92a12a86e70d19a406a1134af2f90bf5937411c5ded331dd16d4442b.jpg> 息子が闇バイト 気づいた母の機転
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535232>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9b19db62d7c1474bb6306cdd3e1e50a667cb58c6bafce99f0f4b7bb48c37aa93.jpg> マナー違反 春の京都に住民の悲鳴
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535238>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/79dd5bf3a1aa46d61e6c0ac978fa92a74f808341b2bef2c5bf84e05c9fc0ff99.jpg> 大谷 連続試合出塁「14」で止まる
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 14:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 15:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
