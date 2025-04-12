@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a9a71b1b6ce862b4644b1325b669607a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f76ebcd1e1e3be0f88d0de0febc352a2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e07fda8b1ca706f1315e10cd290ff7587fb75c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-90022529-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 中国報復関税上乗せ125％に　“交渉役”赤沢大臣16日渡米　重い職責に「武者震い」
+      <a href=https://news.yahoo.co.jp/articles/560159d724594b279c35236653f5b5b91860c774>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-04757458-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「トランプ大統領は中国との交渉に前向き」ホワイトハウス報道官が認識示す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6f04a654ac8bd9260b20df18b44307b27c82e836>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-90022530-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 総理周辺「減税はダメ、上げる時に何百倍のエネルギー必要」現金給付はバラマキ批判も
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/38f2be6719296c408c0c5c65938e30d43a1c6ee8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000030-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=535&ch=535&exp=10800&fmt=webp> ウクライナ支援国が会合　3兆円超の軍事支援へ　米はオンライン参加
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d9bf9f9b5fcf8ebc976e11f3aa371eed0d9a069>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00050044-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「魚雷バット」日本でもＯＫ、試した阪神の森下翔太「気持ちに余裕」…佐藤輝明「何とも言えない」
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535226>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/09748e3c7e6819a7ab0a5a7b710fc816002739ed844d6af87ec7c246db23c258.jpg> 米関税 SUBARU城下町に悲痛な声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535224>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9cd85e0ff6d4cbb033455c64e241e16fe6c77f76655c567be8548b4d53c44931.jpg> メガバンクから消える一般職 背景
       </a>
@@ -420,22 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535215>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/acc5d71eddca8d77de3f986846800d0e129e7ff111b022286a243a5dceb6a51a.jpg> 京都駅封鎖 不審物は外国製菓子か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/1a566ab9f477bcb3eeaea661cb72766b5a24165d1c63a752e013a23f138d4013.jpg> 小中11校新入生ゼロ 島根の現実
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/cfc332c9f02505a146a5e0cfd3345ca7090cbc61a4d89a9e8b592e070ad108b8.jpg> 愛知県警 遺体を取り違えて火葬
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535225>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/7fc2075db9fa449ce845941523da85b1ecaba1fa0dc9310883683efc23ea9737.jpg> 鹿児島→大阪 SNS通じ忘れ物戻る
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 11:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 12:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
