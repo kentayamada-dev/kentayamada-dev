@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bb9597d151cf201c83eb2e0e801007c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2340c424e3fb914b3c8d355290885d7d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e6aca7836826a46d7cc7caf562d7e7a8af2e8f04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000001-hometvv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 広島・府中町の公園で倒れていた男性が死亡「『助けて』という声を聞いた」と通報で殺人事件の可能性もあるとみて捜査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3a1bb8685eea7b49d88d9bead1137944b636b41c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000006-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 集合住宅に女性遺体 殺人の疑いで39歳男逮捕 徳島
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000006-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 集合住宅に女性遺体 殺人の疑いで39歳男逮捕 徳島
       </a>
     </td>
   </tr>
@@ -370,16 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/e9c2f99a9d307432d8d89e1614d9e3f48ec1b2e124be0dd78cd52cdf83bcccda.jpg> 大阪・関西万博、きょう開幕
+      <a href=https://news.yahoo.co.jp/pickup/6535313>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/48ef9829c64b03723ce0424e1e7780ec847f0f02b64757ce08e20d4e1e418e0b.jpg> きょう春の嵐の恐れ 気温変化が大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535305>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f1cb7ddd107f09776f07afdf1a76706b7e90f280c803a9dff705f1d00173ff0c.jpg> 映像 万博開会式のパフォーマンス
+      <a href=https://news.yahoo.co.jp/pickup/6535309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/e9c2f99a9d307432d8d89e1614d9e3f48ec1b2e124be0dd78cd52cdf83bcccda.jpg> 大阪・関西万博、きょう開幕
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/7e3a927e0f91ff27b5839d9a903394e1acb2eaf683157a1d26bd64c7830d2576.jpg> スノボ中に立木に衝突 男性が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535315>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/d79386b147c37d2b631761f28fb9908a11da09c8930edeb01a57854b31e9d21d.jpg> 公園で流血の男性死亡 殺人で捜査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/03dae9b4930d37b574dd0c0d849c162f329cec785ff8d095afcf3879bf6dc990.jpg> 集合住宅で女性殺害疑い 男を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6535311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/7e3a927e0f91ff27b5839d9a903394e1acb2eaf683157a1d26bd64c7830d2576.jpg> スノボ中に立木に衝突 男性が死亡
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 07:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 08:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
