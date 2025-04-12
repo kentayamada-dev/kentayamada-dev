@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/05f724d2467628e6219baf0e82092be2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a9a71b1b6ce862b4644b1325b669607a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/741bdb76ca331a29290e710f1c2787f31f0d1c3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000031-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 中国の報復関税125％も…米高官「大統領は楽観的だ」　交渉に自信
+      <a href=https://news.yahoo.co.jp/articles/4e07fda8b1ca706f1315e10cd290ff7587fb75c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-90022529-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 中国報復関税上乗せ125％に　“交渉役”赤沢大臣16日渡米　重い職責に「武者震い」
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535206>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/3d666415c5aa818016ed5c757d8b837b9fad761473bb0ff171d8d62d3a64a7ef.jpg> 特別支援の「調整額」引き下げへ
+      <a href=https://news.yahoo.co.jp/pickup/6535224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9cd85e0ff6d4cbb033455c64e241e16fe6c77f76655c567be8548b4d53c44931.jpg> メガバンクから消える一般職 背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/acc5d71eddca8d77de3f986846800d0e129e7ff111b022286a243a5dceb6a51a.jpg> 京都駅封鎖 不審物は外国製菓子か
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535215>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/acc5d71eddca8d77de3f986846800d0e129e7ff111b022286a243a5dceb6a51a.jpg> 京都駅封鎖 不審物は外国製菓子か
+      <a href=https://news.yahoo.co.jp/pickup/6535214>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/51711043f6468f4a19a32d677985d080efc05f249ba82a37d4fcb2e4cc6b35b5.jpg> YouTuberに届く誹謗中傷のリアル
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9c3132bae1a1ba3b973f1b70a9b06f8b5bb1552e4c88e586b9cea835c9a9ed13.jpg> MF佐野航大 後半開始15秒ゴール
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535222>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9077debbd810b06f4ecabdc37c68e31fe92a1c38c99873a77679427f31d1d847.jpg> 映画「ランボー」監督死去 報道
+      <a href=https://news.yahoo.co.jp/pickup/6535223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/a7b49a3ca7d64d1ac4f3507a62663500e899b9da77fb2158cff4e9572049de93.jpg> 居眠り議員に代わり表決 市議辞職
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 11:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 11:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
