@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/78811ac2e93abadf40d4dce44141b87b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0426b101e19c4c5f9d3c497a7c7ec969.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/393d6bd7a55217e398573e3e8253a230cecdb917>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000299-spnannex-000-4-view.jpg?pri=l&w=132&h=192&exp=10800&fmt=webp> 人気芸人、アーティストだけじゃない！ドラァグクイーンも登場　万博開会式　「ゴージャス」の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d98ee5ecb088ce902dcb613cfb6cecda3d219385>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00956804-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「“雷注意報”は認知していなかった」学校側が説明…奈良市「帝塚山学園」グラウンドで生徒2人意識不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/be1c4dd3acc0af5936242812875ce633bac96dba>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00087696-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=300&ch=300&exp=10800&fmt=webp> もはやブラックスワンではない？今あえて考える「プラザ合意2.0」と急激な円切り上げの現実味
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf99ad227573c0a6cb0d16943d06c8c7a6c3ce46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> サッカー部顧問、注意報把握せず　生徒2人、今も意識不明　奈良落雷事故
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a0f96143ffb6244e8ac06a80dce1d4fcdd4e648>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000257-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=778&ch=778&exp=10800&fmt=webp> 広末涼子容疑者　調べ続く　留置場の生活とは“人気”はノート　ボールペンは貸与、ブラジャーの差し入れは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1f21df9aa53c3f47e80650d502c40c0bbf45a5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000245-spnannex-000-7-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 大阪・関西万博　紹介映像に人気コンビが“サプライズ登場”「さすが」「1番テンション上がった」驚きの声
       </a>
     </td>
   </tr>
@@ -418,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535262>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/05e8e83b0bada55aecfd9699fe8407fa3bd06323719703b521c509ee32cdda22.jpg> 万博開会式 吉村氏ありがとう連呼
+      <a href=https://news.yahoo.co.jp/pickup/6535268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/7404908622b9f36bb110a201c947e503e941237e0d7f982e784dbb821ecb44e4.jpg> 2人重体 雨降り始めてすぐに落雷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535259>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ネズミ被害の実態 かまれる例も
+      <a href=https://news.yahoo.co.jp/pickup/6535270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/170f05294335e2d1333000c696d90944127123956c1db577d6c10e2643c80421.jpg> 駅で叫ぶ母 異変に気付いた高校生
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535267>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9e3824a36ec0b46b93d8c508c352ef66b69d1ea1eacbcc0f2a97ed6121fd1da0.jpg> 情報漏えい トットナムに内部犯か
+      <a href=https://news.yahoo.co.jp/pickup/6535269>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/89c1e61a9c5af50c84f38fb1e271c2f42fed8fd1d0ba65965d843637f7865f50.jpg> 新しい学校 快進撃は驚きと戸惑い
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 17:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 18:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
