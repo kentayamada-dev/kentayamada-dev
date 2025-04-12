@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0426b101e19c4c5f9d3c497a7c7ec969.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/de4adcccab59a144995b0f1acc5d4ad1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/393d6bd7a55217e398573e3e8253a230cecdb917>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000299-spnannex-000-4-view.jpg?pri=l&w=132&h=192&exp=10800&fmt=webp> 人気芸人、アーティストだけじゃない！ドラァグクイーンも登場　万博開会式　「ゴージャス」の声
+      <a href=https://news.yahoo.co.jp/articles/3daca6790080ab0d0c44a9a033689fbe12203fbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00064939-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「学校に管理責任」中学生２人が重体の落雷事故で帝塚山学園が会見「急激な天候の変化で防ぎきれず」　奈良市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d98ee5ecb088ce902dcb613cfb6cecda3d219385>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00956804-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「“雷注意報”は認知していなかった」学校側が説明…奈良市「帝塚山学園」グラウンドで生徒2人意識不明
+      <a href=https://news.yahoo.co.jp/articles/e499d730fda3f5a54acad636abae8793b04a77e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00064940-mbsnews-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 天皇陛下がおことば「未来の社会について考えることを願っています」　歌舞伎俳優・尾上菊之助さんらがパフォーマンスを披露　万博・開会式
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/d3b5fad3fe10065fa0adefc92d19ffbda1e8e814f2923d1049b5bae39cbe8d8e.jpg> 国連の人道支援機関 500人を削減
+      <a href=https://news.yahoo.co.jp/pickup/6535268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/7404908622b9f36bb110a201c947e503e941237e0d7f982e784dbb821ecb44e4.jpg> 2人重体 雨降り始めてすぐに落雷
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/7404908622b9f36bb110a201c947e503e941237e0d7f982e784dbb821ecb44e4.jpg> 2人重体 雨降り始めてすぐに落雷
+      <a href=https://news.yahoo.co.jp/pickup/6535261>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/e7e49572fc13856e68d59d2dd11ae26a8e110636116b2415328ef00d144b14da.jpg> 特急の走行中に異常な音 置き石か
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 18:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 18:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
