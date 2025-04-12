@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/33253258d9c75d42792ae36b9be49b48.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2306dbd77d69fafcc0f58b115dee79de.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/933d9afa45fa06c10e803c8f3767f4c8640403a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000065-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> セレッソ大阪、ホームでの鹿島戦に15年ぶり勝利　「天丼」の末に
+      <a href=https://news.yahoo.co.jp/articles/0022159ac51f78408ab65616cc1f9b6bf0c732a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00340844-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＥＸＩＬＥ・ＡＴＳＵＳＨＩ　８４３日ぶりにライブ復帰で感涙！「夢にまで見た光景だ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a4c4b0d889879c37dbbdc03e59b3376e27873ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000067-jij-000-7-view.jpg?pri=l&w=192&h=141&exp=10800&fmt=webp> 両陛下、万博赤十字館を見学　秋篠宮ご夫妻はレセプションに　大阪
+      <a href=https://news.yahoo.co.jp/articles/caf4673766da31f76b076848a60880e5b82f00e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000101-kyodonews-000-3-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 両陛下、首相出席で万博開会式　吉村知事「明日から世界一つに」
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535277>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f64f39af73c5c586efe4fb87dfe17612e6f1327dada5baa577e639a8984a5f01.jpg> 減税求める声 首相周辺「ダメだ」
+      <a href=https://news.yahoo.co.jp/pickup/6535278>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/3d847a2e16f9a766868e7148df1638cb6acc3c8dae75d0a7602b90596721aa71.jpg> トランプ氏 習主席は優れた指導者
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535286>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/1e3c6700f6228295fb7216356196eb8881bf2f6aaf8575752fde23459551b8c4.jpg> 5カ国パビリオン 開幕間に合わず
+      <a href=https://news.yahoo.co.jp/pickup/6535277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f64f39af73c5c586efe4fb87dfe17612e6f1327dada5baa577e639a8984a5f01.jpg> 減税求める声 首相周辺「ダメだ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535279>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/4e98b254fd37d0f58a44285804e58e83f469147df94114a300b0cbad397df322.jpg> 尼崎の民家で緊縛強盗 複数人逃走
+      <a href=https://news.yahoo.co.jp/pickup/6535286>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/1e3c6700f6228295fb7216356196eb8881bf2f6aaf8575752fde23459551b8c4.jpg> 5カ国パビリオン 開幕間に合わず
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/ad8279e84339631559a94aa8c0a347e1de580ae16b4ca3c2ef6b428cbbd1dfab.jpg> 関西民放すべて同じ番組 驚きの声
+      <a href=https://news.yahoo.co.jp/pickup/6535289>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/4febefd1f8e36845dec038154732efa963dabc258816047ca64b1463817bf0eb.jpg> ATSUSHIが復活 一度心がボキッと
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 20:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 21:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
