@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/915ffa25b4c7276615dbe7840d1c9b4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3fdcc5055265d030f0a0e326b9159422.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c5497f66ebbb55f75a3e0f9bd59e4edf2e04a8e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-34121745-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ATSUSHIが843日ぶりステージに復活「みなさん本当に愛しています」全24曲歌唱
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-34121745-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ATSUSHIが843日ぶりステージに復活「みなさん本当に愛しています」全24曲歌唱
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 06:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 07:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
