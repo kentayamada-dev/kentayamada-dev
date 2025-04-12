@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/799326ed38ed73e7637ff4087bd9b78c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2cca1a93caa00c06187f381b5fe3b952.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,6 +365,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d9bf9f9b5fcf8ebc976e11f3aa371eed0d9a069>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00050044-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「魚雷バット」日本でもＯＫ、試した阪神の森下翔太「気持ちに余裕」…佐藤輝明「何とも言えない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6f213d6c65da7438c2d0fd2ab03729246053f560>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00010004-nikkey-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 《ブラジル》ルーラ大統領が5月に中ロ訪問＝米中緊張下で関係深める
       </a>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/79efcd248255a81b5fd58d54eefe50ec00bbcb07>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00010001-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 「晒し投げって正気か？」「あえて続投させたのは理解できる」巨人戸郷翔征を10失点まで続投させた阿部采配にSNSで賛否
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c987239d9fd4540e2eac74233cc2142d5f3cdaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-34111128-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=996&ch=996&exp=10800&fmt=webp> 逮捕の広末涼子容疑者、事件前に起こした追突事故現場にブレーキ痕なし
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/821b4a456e2b18ea302e33045da494baf4b6706531b44e54167fa32b8bbf712b.jpg> 2台の車に相次いでひかれ83歳重体
+      <a href=https://news.yahoo.co.jp/pickup/6535216>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/cfc332c9f02505a146a5e0cfd3345ca7090cbc61a4d89a9e8b592e070ad108b8.jpg> 愛知県警 遺体を取り違えて火葬
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/acc5d71eddca8d77de3f986846800d0e129e7ff111b022286a243a5dceb6a51a.jpg> 京都駅封鎖 不審物は外国製菓子か
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535200>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c73757cd9965644875c1628546d8b516d051348794428574641373732f6f7e90.jpg> 阪神に完敗 中日監督が怒り隠さず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 09:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 10:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
