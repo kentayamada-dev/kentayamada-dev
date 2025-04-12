@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/775d5c6241ecf77a009ddb3642a8b96a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f0a332a469f4af689a9aa6a92e8b32a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96dedce5cdc02c0c5e1d026c2fd6f777810ddbe9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000237-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=801&ch=801&exp=10800&fmt=webp> ド軍指揮官　山本由伸のターニングポイント明かす「あの活躍が彼を次のレベルへと押し上げ成長していった」
+      <a href=https://news.yahoo.co.jp/articles/ca2ef51c8965dc8171cd825d3352974b5e8c411d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00254261-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=969&ch=969&exp=10800&fmt=webp> 広末涼子容疑者「家宅捜索」の日に自宅に運び込まれた「2つのケーキ」と「訪れた女性」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdac076946648925d8befb3a7ff33632a4264e02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-21850227-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 一体どこまで? 関税めぐり米中の報復合戦　アメリカ145％ 中国125％　赤沢大臣は来週17日に直接交渉へ【news23】
+      <a href=https://news.yahoo.co.jp/articles/04b81d541cd046f0adb284bb7d6d673ff6c7583c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-21848951-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 急転直下の「相互関税」猶予、交渉トップの日本にチャンスあり【播摩卓士の経済コラム】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f78bb80dcc2c8d1214c032a1400223b4889059de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-21850674-sbsv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 10日間の勾留決定に不服申し立ても…広末涼子容疑者（44）の弁護側の準抗告を裁判所が棄却 警察と検察は勾留できる期間中に詳しい取り調べを進めたい考え【静岡】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/991512fcfbfd5608d85687e69ea4131cf2bdf16f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-15864035-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 米大統領特使、プーチン氏と会談　ウクライナとの停戦促す
+      <a href=https://news.yahoo.co.jp/articles/458349f06d8c440e6c22d850a4638ce7039b5aaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00078150-bunshun-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「芸能人は障害のある人間を家族に選ばないのに…」知的障害の兄との関係に悩んだ男性（41）が“テレビの障害者感動コンテンツ”を嫌いだった理由
       </a>
     </td>
   </tr>
@@ -402,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535244>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/318ea1c84b69b02209e8fcee535a174fda6364c94acf7a51b1d0546824f582c0.jpg> 落雷事故 学校は雷注意報認知せず
+      <a href=https://news.yahoo.co.jp/pickup/6535252>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/318ea1c84b69b02209e8fcee535a174fda6364c94acf7a51b1d0546824f582c0.jpg> 落雷事故で学校釈明 防ぎきれず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535239>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/832d30638ac97514b45b44431112965d234b904c87fc851ece0539e1aecb71e5.jpg> 大阪・関西万博が開会 SNSの反応
+      <a href=https://news.yahoo.co.jp/pickup/6535249>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/3f192ee91876c14a8ca5b4f3810bf6adbb1583a1dedcc2bca76219a7b4066685.jpg> 雑木林に遺体 スマホ持ち去りか
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535243>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/e1b1a62bbd7855263e4814116ab3e26561b9326e90d2a91bdd7f0700f1e6a7cc.jpg> 由伸が6回無失点 監督と熱いハグ
+      <a href=https://news.yahoo.co.jp/pickup/6535247>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9ebb4b685c48b1064c1980424dec19d2af69800767bf451b42b23d2665e60c09.jpg> SB緊急事態 柳田悠岐が登録抹消
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 15:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 16:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
