@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28182f2bba7dafc77e0c4f5b075a934a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/579b8b5027fd635c2ee257228601cb0b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bef5058e628a1a0db32d96ab54624d3106191669>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000043-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=577&ch=577&exp=10800&fmt=webp> 遺族に返す予定の遺体を誤って火葬　愛知県警、別の遺体と取り違え
+      <a href=https://news.yahoo.co.jp/articles/fe862300bdbb0f1a02e0e7d545efc04963f6442b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-06233559-sp_ctv-000-1-thumb.jpg?exp=10800&fmt=webp> 西枇杷島署が男性の遺体を取り違え火葬　愛知県警　遺族に謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a80a5f955a48df2337965c770ddf04aa2d775d42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「米国は多国間貿易体制の破壊者」　中国共産党機関紙が対米批判　国際社会に「団結」訴え
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f78bb80dcc2c8d1214c032a1400223b4889059de>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-21850674-sbsv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 10日間の勾留決定に不服申し立ても…広末涼子容疑者（44）の弁護側の準抗告を裁判所が棄却 警察と検察は勾留できる期間中に詳しい取り調べを進めたい考え【静岡】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e004426fd500e46f0ee224e8e9eb69b4e0f1f80a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000020-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 中国と“関税戦争”報復の応酬　トランプ氏「良い結果が得られる」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535230>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/273402e2a1a72b31771cba7f2979f852bf6b830c385a5d534ad9b2272ec9bba2.jpg> 82歳車にはねられ死亡 ひき逃げか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535224>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9cd85e0ff6d4cbb033455c64e241e16fe6c77f76655c567be8548b4d53c44931.jpg> メガバンクから消える一般職 背景
       </a>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535228>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/50a46ee7a4ece391541184a89493e08a4ca738dc90eaacb3c7e9ba2ac183b5a4.jpg> 出所者雇用に力 応募引っ切りなし
+      <a href=https://news.yahoo.co.jp/pickup/6535233>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/cdf8aecaa349ecf8a735302acc84d122988f298b5abcaf795ee27eb3fc697422.jpg> 教諭の体罰で生徒が頭蓋骨骨折
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/2631faf2bd3ecf7dae222afbb4f6a34a3d4c347e76d27bef08cb615c3d524f54.jpg> 除染土「反対」水増し SNSで拡散
+      <a href=https://news.yahoo.co.jp/pickup/6535232>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9b19db62d7c1474bb6306cdd3e1e50a667cb58c6bafce99f0f4b7bb48c37aa93.jpg> マナー違反 春の京都に住民の悲鳴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535235>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/50a46ee7a4ece391541184a89493e08a4ca738dc90eaacb3c7e9ba2ac183b5a4.jpg> 寮もスマホも用意 出所者採用の訳
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 13:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 13:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
