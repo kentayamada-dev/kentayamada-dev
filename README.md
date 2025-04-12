@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3fdcc5055265d030f0a0e326b9159422.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bb9597d151cf201c83eb2e0e801007c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5497f66ebbb55f75a3e0f9bd59e4edf2e04a8e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-34121745-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ATSUSHIが843日ぶりステージに復活「みなさん本当に愛しています」全24曲歌唱
+      <a href=https://news.yahoo.co.jp/articles/3a1bb8685eea7b49d88d9bead1137944b636b41c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000006-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 集合住宅に女性遺体 殺人の疑いで39歳男逮捕 徳島
       </a>
     </td>
   </tr>
@@ -394,6 +394,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/9e0c5c0824bc66ede900cd21016d15657524a314ef21ac9193294775dee53468.jpg> 対米関税ゼロ ジンバブエの奇策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/7e3a927e0f91ff27b5839d9a903394e1acb2eaf683157a1d26bd64c7830d2576.jpg> スノボ中に立木に衝突 男性が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535307>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/03dae9b4930d37b574dd0c0d849c162f329cec785ff8d095afcf3879bf6dc990.jpg> 集合住宅で女性殺害疑い 男を逮捕
       </a>
@@ -402,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535301>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> モペット違反 今年都内で200件超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/170f05294335e2d1333000c696d90944127123956c1db577d6c10e2643c80421.jpg> 駅で叫ぶ母 異変に気付いた高校生
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535290>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c6efc9ed49b80f8dd5fb2bab64dfd2d29508f17832f286ae797159a297486159.jpg> 元青学・若林 異例の挑戦も最下位
+      <a href=https://news.yahoo.co.jp/pickup/6535312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/e5a8452c04ef75bcd1239d58a636c6290b9e91f27ec7679ce66a7af429ad05ba.jpg> 益若つばさ ルッキズムへの見解
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 07:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 07:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
