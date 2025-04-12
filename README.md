@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2306dbd77d69fafcc0f58b115dee79de.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/157ad9cbb58b8587e6856bf9648e1273.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0022159ac51f78408ab65616cc1f9b6bf0c732a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00340844-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＥＸＩＬＥ・ＡＴＳＵＳＨＩ　８４３日ぶりにライブ復帰で感涙！「夢にまで見た光景だ」
+      <a href=https://news.yahoo.co.jp/articles/c5d175c06e80a01073b0c42d5cca4728adb7d335>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000407-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ジョジョ第7部、アプリで全24巻無料公開　『スティール・ボール・ラン』アニメ化記念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/caf4673766da31f76b076848a60880e5b82f00e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000101-kyodonews-000-3-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 両陛下、首相出席で万博開会式　吉村知事「明日から世界一つに」
+      <a href=https://news.yahoo.co.jp/articles/dc481a2ad1d5c6556a7c2f1d652066079e6db5b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000155-san-000-1-view.jpg?pri=l&w=192&h=124&exp=10800&fmt=webp> 万博開会式、リアルとバーチャル融合した演出　「祭り」や「相撲」で日本らしさも表現
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/2bdbc3d8b85a6519169e5864d4d88a35b6b6eaa3d6cf8644e89a67e177d31236.jpg> C大阪 1試合で5回ゴール取り消し
+      <a href=https://news.yahoo.co.jp/pickup/6535290>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c6efc9ed49b80f8dd5fb2bab64dfd2d29508f17832f286ae797159a297486159.jpg> 元青学・若林 異例の挑戦も最下位
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535289>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/4febefd1f8e36845dec038154732efa963dabc258816047ca64b1463817bf0eb.jpg> ATSUSHIが復活 一度心がボキッと
+      <a href=https://news.yahoo.co.jp/pickup/6535293>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/4febefd1f8e36845dec038154732efa963dabc258816047ca64b1463817bf0eb.jpg> ATSUSHI、1カ月前は松葉杖だった
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 21:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 21:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
