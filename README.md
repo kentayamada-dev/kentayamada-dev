@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bfeb8bc30708956ad6a778f4ca432271.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/78811ac2e93abadf40d4dce44141b87b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f912ab0242a97c3953f5f435ff010d93132f9c99>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00029384-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日は雨　雨のあと黄砂飛来　14日～15日は九州～北海道は落雷に注意　2週間天気
+      <a href=https://news.yahoo.co.jp/articles/be1c4dd3acc0af5936242812875ce633bac96dba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00087696-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=44&cy=0&cw=300&ch=300&exp=10800&fmt=webp> もはやブラックスワンではない？今あえて考える「プラザ合意2.0」と急激な円切り上げの現実味
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf99ad227573c0a6cb0d16943d06c8c7a6c3ce46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> サッカー部顧問、注意報把握せず　生徒2人、今も意識不明　奈良落雷事故
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04b81d541cd046f0adb284bb7d6d673ff6c7583c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-21848951-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 急転直下の「相互関税」猶予、交渉トップの日本にチャンスあり【播摩卓士の経済コラム】
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535227>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/fc3a42a1f8a4d0fb2f7d1d938225f702568c41524c8493e3ea8826ad7059bdc6.jpg> 健診で認知テスト満点 トランプ氏
+      <a href=https://news.yahoo.co.jp/pickup/6535266>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/d3b5fad3fe10065fa0adefc92d19ffbda1e8e814f2923d1049b5bae39cbe8d8e.jpg> 国連の人道支援機関 500人を削減
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/26d01f8b92a12a86e70d19a406a1134af2f90bf5937411c5ded331dd16d4442b.jpg> 息子が闇バイト 気づいた母の機転
+      <a href=https://news.yahoo.co.jp/pickup/6535262>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/05e8e83b0bada55aecfd9699fe8407fa3bd06323719703b521c509ee32cdda22.jpg> 万博開会式 吉村氏ありがとう連呼
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535254>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f0e8c13fd3959e0d6784da764caaf0124c78c5ede8b37b3626aaeb9443e5c8fd.jpg> 山本由伸はヒデオのよう 監督絶賛
+      <a href=https://news.yahoo.co.jp/pickup/6535267>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9e3824a36ec0b46b93d8c508c352ef66b69d1ea1eacbcc0f2a97ed6121fd1da0.jpg> 情報漏えい トットナムに内部犯か
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 17:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 17:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
