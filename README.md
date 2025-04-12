@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cb8059edb6a22afaa7f685ce8a6065c5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c53bc3fbd3f883248d41a31a3e77243.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a46fcbc56f871a98f8440aaddbe2bfdb62983cae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000062-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ＜ジョジョの奇妙な冒険＞ファンイベント「JOJODAY STAGE」　小野大輔「この人間賛歌を渡していきたい！」　エピソード総選挙結果発表も
+      <a href=https://news.yahoo.co.jp/articles/f200c04762a79781714a0a53727cf13f103ed4d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-90018747-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=686&ch=686&exp=10800&fmt=webp> 【速報】39歳の男を殺人容疑で逮捕　50歳女性がアパートで殺害された事件　徳島市
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535294>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/cb924f9bd2db08da9b6b4b2b7442ab065e66a25382e94911ec3d8537547cce70.jpg> イスラエル軍内 高まる反戦の声
+      <a href=https://news.yahoo.co.jp/pickup/6535304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/83f445c83c2ad7f68406dab3105934d86465d92ddd29f021498287e34c7f7b5a.jpg> 雷鳴る前に部活中止 判断の難しさ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/83f445c83c2ad7f68406dab3105934d86465d92ddd29f021498287e34c7f7b5a.jpg> 雷鳴る前に部活中止 判断の難しさ
+      <a href=https://news.yahoo.co.jp/pickup/6535307>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/03dae9b4930d37b574dd0c0d849c162f329cec785ff8d095afcf3879bf6dc990.jpg> 集合住宅で女性殺害疑い 男を逮捕
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535298>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/0691591c5302bedd0a8d50456a2729f61aaeb5d60d0faf7ec1a46fba7a1a8b0a.jpg> 禁煙の万博 通路に吸いがら入れ
+      <a href=https://news.yahoo.co.jp/pickup/6535297>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/4d2a10dbc2efaa6b0c0ec728e7e5ae28c01fcd0234da1f38f10eabc6f79c4495.jpg> クロマグロを闇売り 漁師の訴え
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 23:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 23:51:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
