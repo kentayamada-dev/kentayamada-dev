@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e9456b3427ca5192450e5b60a948ff12.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1986c895f38dcb6032830f310070818a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6d3734b1b06fc4d882ab9b6c0be68364383d5b45>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00050041-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=331&ch=331&exp=10800&fmt=webp> ＮＹダウ終値は６１９ドル高、２日ぶり４万ドル回復…一時は８００ドル超の値上がり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbea991159309beb025f643a7ee2bc257613e057>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-08475947-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ウクライナ情勢めぐり…露プーチン大統領が米特使と会談　停戦交渉での懸念事項を伝えたか
       </a>
     </td>
   </tr>
@@ -394,14 +386,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535206>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/3d666415c5aa818016ed5c757d8b837b9fad761473bb0ff171d8d62d3a64a7ef.jpg> 特別支援の「調整額」引き下げへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535205>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c63047c17dc57579094c693b8f09283643ec489f87f7b055488eacfa8c0ab878.jpg> 「孤立死」昨年2万1千人 初の推計
       </a>
@@ -410,8 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/74bc54d44a573f6a26ae6c14a2a975c2e567d8d2015704af84f7c5af16f83d9c.jpg> NYダウ619ドル高 波乱続く予想も
+      <a href=https://news.yahoo.co.jp/pickup/6535206>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/3d666415c5aa818016ed5c757d8b837b9fad761473bb0ff171d8d62d3a64a7ef.jpg> 特別支援の「調整額」引き下げへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535211>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/821b4a456e2b18ea302e33045da494baf4b6706531b44e54167fa32b8bbf712b.jpg> 2台の車に相次いでひかれ83歳重体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/2cbefc52c3cc36f6faea767b1f43b5d8ef73387ddce0c9234c8fcf6a7aafcbbc.jpg> 岡山の山火事 生態系「死の世界」
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535194>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/11/12e88adf68381cb690535066190d78a4d49f9e6005eec2db99383fae668fb08d.jpg> 広末容疑者 取り調べ十分にできず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535200>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c73757cd9965644875c1628546d8b516d051348794428574641373732f6f7e90.jpg> 阪神に完敗 中日監督が怒り隠さず
       </a>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 08:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 09:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
