@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b820c89c7a4289707dd0b20e393ebd20.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/adb37e76bfd7853989f09135eb8a09c5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f3bc2db575cdf38829f01331f339d14b0ef64690e618a86c340989eb2a739b71.jpg> 硫黄島 24年に日米合同で遺骨調査
+      <a href=https://news.yahoo.co.jp/pickup/6535274>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/08306e3a033e7dbdffb9f1f6a56f22a303d478715215e353f0247691dea6d26b.jpg> 万博入場券に駆け込み需要 行列も
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535253>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/e8d53039b222019910ffe010e8705a8a792845f9a236f4eaae8ce00944f7aa41.jpg> 「米国売り」止まらず ドル安急速
+      <a href=https://news.yahoo.co.jp/pickup/6535277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f64f39af73c5c586efe4fb87dfe17612e6f1327dada5baa577e639a8984a5f01.jpg> 減税求める声 首相周辺「ダメだ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/ab7d814d696a826a953a9614f6fc43c75b8c3f3437a00974e33f03a2aab0b2bd.jpg> 旧統一合同結婚式 日本から1200人
+      <a href=https://news.yahoo.co.jp/pickup/6535279>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/4e98b254fd37d0f58a44285804e58e83f469147df94114a300b0cbad397df322.jpg> 尼崎の民家で緊縛強盗 複数人逃走
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535275>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/ec3df33ae0e679ca2d2671fad7693861b771fb61ba4a10427075b2c5a7290189.jpg> HY仲宗根 死産すごく苦しかった
+      <a href=https://news.yahoo.co.jp/pickup/6535281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/ad8279e84339631559a94aa8c0a347e1de580ae16b4ca3c2ef6b428cbbd1dfab.jpg> 関西民放すべて同じ番組 驚きの声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535257>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/baf2ee14d7d83d5fc631c31649af2cd4feb8f4d7a43c5910f29fea9a2f3a8162.jpg> サプライズゲスト 万博開会式に華
+      <a href=https://news.yahoo.co.jp/pickup/6535280>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/ec3df33ae0e679ca2d2671fad7693861b771fb61ba4a10427075b2c5a7290189.jpg> HY仲宗根 妊娠公表後の死産語る
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 19:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 20:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
