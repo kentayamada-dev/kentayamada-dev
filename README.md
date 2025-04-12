@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f1bf1c0df3606ee878c2910dd72c6a0c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e39e085f9d5aa58c3f9e010434b48fad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f10a6cc9d240bec1614cc80ca2afc603d911b42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 遺体を取り違え火葬　愛知県警、遺族に謝罪
+      <a href=https://news.yahoo.co.jp/articles/d9ebd690ed4ca658af5dacd266cb2efd34292ad7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-10493264-baseballk-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=704&ch=704&exp=10800&fmt=webp> カブス、今季初の完封負けで地区首位陥落　鈴木誠也は山本由伸から初安打も、痛恨の走塁死で得点機逃す
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535226>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/09748e3c7e6819a7ab0a5a7b710fc816002739ed844d6af87ec7c246db23c258.jpg> 米関税 SUBARU城下町に悲痛な声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9cd85e0ff6d4cbb033455c64e241e16fe6c77f76655c567be8548b4d53c44931.jpg> メガバンクから消える一般職 背景
+      <a href=https://news.yahoo.co.jp/pickup/6535239>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/832d30638ac97514b45b44431112965d234b904c87fc851ece0539e1aecb71e5.jpg> 大阪・関西万博が開会 SNSの反応
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535229>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/5a07546b18a60bd57f862b246a8898f0601c2f4792a84486295bca88621471dc.jpg> 大谷翔平のCMポーズ Tシャツに
+      <a href=https://news.yahoo.co.jp/pickup/6535241>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/e902f440308ee9810df77b0c64ca3e94a804c4e3c0359eae3e4514a335290a52.jpg> 10歳の娘に余命宣告 家族の覚悟
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535238>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/79dd5bf3a1aa46d61e6c0ac978fa92a74f808341b2bef2c5bf84e05c9fc0ff99.jpg> 大谷 連続試合出塁「14」で止まる
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 14:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 14:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
