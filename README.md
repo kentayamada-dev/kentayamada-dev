@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de4adcccab59a144995b0f1acc5d4ad1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9feb8ff655edcd715fc0aa67b0536f8f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3daca6790080ab0d0c44a9a033689fbe12203fbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00064939-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「学校に管理責任」中学生２人が重体の落雷事故で帝塚山学園が会見「急激な天候の変化で防ぎきれず」　奈良市
+      <a href=https://news.yahoo.co.jp/articles/ee889b4bcd6d6cd66429cf8359637b2b10550842>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000058-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「雷鳴聞こえず」「一発目がこの雷」　奈良の落雷、高校が説明
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535260>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/65ed277978a5e2298ab1a0ba449b9400760bfc1290469ec7cbb5f2fa456b5348.jpg> 天気下り坂 13日にかけ春の嵐恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6535271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f3bc2db575cdf38829f01331f339d14b0ef64690e618a86c340989eb2a739b71.jpg> 硫黄島 24年に日米合同で遺骨調査
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535261>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/e7e49572fc13856e68d59d2dd11ae26a8e110636116b2415328ef00d144b14da.jpg> 特急の走行中に異常な音 置き石か
+      <a href=https://news.yahoo.co.jp/pickup/6535272>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/ab7d814d696a826a953a9614f6fc43c75b8c3f3437a00974e33f03a2aab0b2bd.jpg> 旧統一合同結婚式 日本から1200人
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535269>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/89c1e61a9c5af50c84f38fb1e271c2f42fed8fd1d0ba65965d843637f7865f50.jpg> 新しい学校 快進撃は驚きと戸惑い
+      <a href=https://news.yahoo.co.jp/pickup/6535273>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/b95f4dd18cb8373ea6d2714b2fce3acd841729a7be3d12c52bfc285526126c93.jpg> 森保監督「超興奮」Jリーグで激闘
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 18:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 19:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
