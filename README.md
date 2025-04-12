@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/579b8b5027fd635c2ee257228601cb0b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f1bf1c0df3606ee878c2910dd72c6a0c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe862300bdbb0f1a02e0e7d545efc04963f6442b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-06233559-sp_ctv-000-1-thumb.jpg?exp=10800&fmt=webp> 西枇杷島署が男性の遺体を取り違え火葬　愛知県警　遺族に謝罪
+      <a href=https://news.yahoo.co.jp/articles/5f10a6cc9d240bec1614cc80ca2afc603d911b42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 遺体を取り違え火葬　愛知県警、遺族に謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 13:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 14:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
