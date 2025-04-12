@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6082e0026645f0bd3717d81ae75e46f5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cb8059edb6a22afaa7f685ce8a6065c5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/543a153b0f8d5469e30e8f14b9a5bf754b3cd3a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00092135-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=669&ch=669&exp=10800&fmt=webp> 漫画『ジョジョの奇妙な冒険』第7部がアニメ化決定　キャラクタービジュアルが解禁
+      <a href=https://news.yahoo.co.jp/articles/a46fcbc56f871a98f8440aaddbe2bfdb62983cae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000062-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ＜ジョジョの奇妙な冒険＞ファンイベント「JOJODAY STAGE」　小野大輔「この人間賛歌を渡していきたい！」　エピソード総選挙結果発表も
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f09bcbd86c3fd32662d2d0d51de7b09e957fd7755dba387a591ac092e069f816.jpg> 山口組幹部が異例の勢ぞろい 背景
+      <a href=https://news.yahoo.co.jp/pickup/6535304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/83f445c83c2ad7f68406dab3105934d86465d92ddd29f021498287e34c7f7b5a.jpg> 雷鳴る前に部活中止 判断の難しさ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535302>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/b9c23201d9077aca90931bf20f6f62dd96abc4c4ea060c96406409d8b2acd8e1.jpg> 首相 人間洗濯機に「あ、これだ」
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535282>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/b94bca477ae0ec88af1aeed3605fc802372477dec77c91ea09c7fa13d79a26b8.jpg> 事件証拠に健康管理アプリ 相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6535301>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> モペット違反 今年都内で200件超
       </a>
     </td>
   </tr>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535280>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/ec3df33ae0e679ca2d2671fad7693861b771fb61ba4a10427075b2c5a7290189.jpg> HY仲宗根 妊娠公表後の死産語る
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 23:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 23:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
