@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f0a332a469f4af689a9aa6a92e8b32a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/27f2cb43f1d864635efcb3622ad3b5aa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca2ef51c8965dc8171cd825d3352974b5e8c411d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00254261-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=969&ch=969&exp=10800&fmt=webp> 広末涼子容疑者「家宅捜索」の日に自宅に運び込まれた「2つのケーキ」と「訪れた女性」
+      <a href=https://news.yahoo.co.jp/articles/19573da4bf8062a949a5daf86753b7545a341dc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-04543016-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=466&ch=466&exp=10800&fmt=webp> SAY MY NAME本田仁美（HITOMI）、ミニスカからほっそり美脚スラリ 上品白コーデで笑顔弾ける【TGC熊本2025】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2a0f96143ffb6244e8ac06a80dce1d4fcdd4e648>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000257-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=778&ch=778&exp=10800&fmt=webp> 広末涼子容疑者　調べ続く　留置場の生活とは“人気”はノート　ボールペンは貸与、ブラジャーの差し入れは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a1f21df9aa53c3f47e80650d502c40c0bbf45a5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000245-spnannex-000-7-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 大阪・関西万博　紹介映像に人気コンビが“サプライズ登場”「さすが」「1番テンション上がった」驚きの声
       </a>
     </td>
   </tr>
@@ -371,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/458349f06d8c440e6c22d850a4638ce7039b5aaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00078150-bunshun-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「芸能人は障害のある人間を家族に選ばないのに…」知的障害の兄との関係に悩んだ男性（41）が“テレビの障害者感動コンテンツ”を嫌いだった理由
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/b16166ee4cd6146f811c56485dc9ac2df8abab5301c7f3576aecd52c57982d32.jpg> 米特使 戦後ウの「共同管理」提案
+      <a href=https://news.yahoo.co.jp/pickup/6535253>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/e8d53039b222019910ffe010e8705a8a792845f9a236f4eaae8ce00944f7aa41.jpg> 「米国売り」止まらず ドル安急速
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535233>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/cdf8aecaa349ecf8a735302acc84d122988f298b5abcaf795ee27eb3fc697422.jpg> 教諭の体罰で生徒が頭蓋骨骨折
+      <a href=https://news.yahoo.co.jp/pickup/6535245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/26d01f8b92a12a86e70d19a406a1134af2f90bf5937411c5ded331dd16d4442b.jpg> 息子が闇バイト 気づいた母の機転
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/26d01f8b92a12a86e70d19a406a1134af2f90bf5937411c5ded331dd16d4442b.jpg> 息子が闇バイト 気づいた母の機転
+      <a href=https://news.yahoo.co.jp/pickup/6535258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f5d44dfc9ac5f5ab883ac0520a193e7a1435a91c94204d6cdd387aa4defbae34.jpg> 兄が知的障害に 弟の生活一変
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 16:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 16:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
