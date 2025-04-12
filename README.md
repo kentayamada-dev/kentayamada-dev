@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5bd73036f19fbec10e87f5ce693dd49b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9894dc6c46f53f559c2eda30c7a7e0d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/588367c75e2afaedb7e80fef5527ec4acf8c245c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000002-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=92&cw=456&ch=456&exp=10800&fmt=webp> アパートの住人女性殺害の疑い、39歳の男を逮捕　徳島県警
+      <a href=https://news.yahoo.co.jp/articles/cc0599f35b45413686198a1add79f69f21725861>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 殺人容疑で39歳男逮捕　アパート女性遺体　徳島県警
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2aca5d8d2cdff6359bf166f594304d317c8e94cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00050234-yom-000-6-view.jpg?pri=l&w=192&h=115&exp=10800&fmt=webp> 大阪・関西万博きょう開幕、１５８か国・地域参加…大屋根リング内に全５７館「多様でありながらひとつ」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00050234-yom-000-8-view.jpg?pri=l&w=192&h=115&exp=10800&fmt=webp> 大阪・関西万博きょう開幕、１５８か国・地域参加…大屋根リング内に全５７館「多様でありながらひとつ」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 00:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 01:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
