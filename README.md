@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f0cfcb3f0ee82c3fba131b36e3865fe3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a48e28963bf5d986fcfc674c2c3705d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2edbbcb2400c6a440adc793ed0d657fe6fbc7cfd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-07230280-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 徳島市内のアパートで50歳女性遺体、殺人の疑いで交友関係があった39歳男を逮捕
+      <a href=https://news.yahoo.co.jp/articles/c5497f66ebbb55f75a3e0f9bd59e4edf2e04a8e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-34121745-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> ATSUSHIが843日ぶりステージに復活「みなさん本当に愛しています」全24曲歌唱
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 05:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 06:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
