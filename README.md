@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/27f2cb43f1d864635efcb3622ad3b5aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bfeb8bc30708956ad6a778f4ca432271.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19573da4bf8062a949a5daf86753b7545a341dc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-04543016-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=466&ch=466&exp=10800&fmt=webp> SAY MY NAME本田仁美（HITOMI）、ミニスカからほっそり美脚スラリ 上品白コーデで笑顔弾ける【TGC熊本2025】
+      <a href=https://news.yahoo.co.jp/articles/f912ab0242a97c3953f5f435ff010d93132f9c99>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00029384-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日は雨　雨のあと黄砂飛来　14日～15日は九州～北海道は落雷に注意　2週間天気
       </a>
     </td>
   </tr>
@@ -394,24 +394,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535260>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/65ed277978a5e2298ab1a0ba449b9400760bfc1290469ec7cbb5f2fa456b5348.jpg> 天気下り坂 13日にかけ春の嵐恐れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535227>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/fc3a42a1f8a4d0fb2f7d1d938225f702568c41524c8493e3ea8826ad7059bdc6.jpg> 健診で認知テスト満点 トランプ氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535253>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/e8d53039b222019910ffe010e8705a8a792845f9a236f4eaae8ce00944f7aa41.jpg> 「米国売り」止まらず ドル安急速
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535252>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/318ea1c84b69b02209e8fcee535a174fda6364c94acf7a51b1d0546824f582c0.jpg> 落雷事故で学校釈明 防ぎきれず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535249>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/3f192ee91876c14a8ca5b4f3810bf6adbb1583a1dedcc2bca76219a7b4066685.jpg> 雑木林に遺体 スマホ持ち去りか
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535259>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ネズミ被害の実態 かまれる例も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535258>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f5d44dfc9ac5f5ab883ac0520a193e7a1435a91c94204d6cdd387aa4defbae34.jpg> 兄が知的障害に 弟の生活一変
       </a>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/49130420c359d5e71998046b6304f9b96cdb75b76aca354da729b3eda0e2b12d.jpg> Skype終了 Zoomに勝てなかった訳
+      <a href=https://news.yahoo.co.jp/pickup/6535254>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/f0e8c13fd3959e0d6784da764caaf0124c78c5ede8b37b3626aaeb9443e5c8fd.jpg> 山本由伸はヒデオのよう 監督絶賛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535247>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9ebb4b685c48b1064c1980424dec19d2af69800767bf451b42b23d2665e60c09.jpg> SB緊急事態 柳田悠岐が登録抹消
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535248>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohiroaki/02168307/title-1744418519244.jpeg?exp=10800> 「マイクラ」映画  各国でヒット
+      <a href=https://news.yahoo.co.jp/pickup/6535257>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/baf2ee14d7d83d5fc631c31649af2cd4feb8f4d7a43c5910f29fea9a2f3a8162.jpg> サプライズゲスト 万博開会式に華
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 16:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 17:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
