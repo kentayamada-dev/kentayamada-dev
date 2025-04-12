@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3cdbb03eaba6a87404f5d27e6a5e2c5d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28182f2bba7dafc77e0c4f5b075a934a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bef5058e628a1a0db32d96ab54624d3106191669>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000043-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=577&ch=577&exp=10800&fmt=webp> 遺族に返す予定の遺体を誤って火葬　愛知県警、別の遺体と取り違え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f78bb80dcc2c8d1214c032a1400223b4889059de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-21850674-sbsv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 10日間の勾留決定に不服申し立ても…広末涼子容疑者（44）の弁護側の準抗告を裁判所が棄却 警察と検察は勾留できる期間中に詳しい取り調べを進めたい考え【静岡】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e004426fd500e46f0ee224e8e9eb69b4e0f1f80a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000020-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 中国と“関税戦争”報復の応酬　トランプ氏「良い結果が得られる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000020-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 中国と“関税戦争”報復の応酬　トランプ氏「良い結果が得られる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53f843f96c8d718fa73a24bf5bbeb58eeb4789b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00010004-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=560&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】トラウトがメジャートップに並ぶ6号アーチ　エンゼルスは投手陣が崩れて大敗　今季ワーストの14失点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f20bbaa6a92dd4e5366f8d9ee9493e28d9344b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00050066-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=335&ch=335&exp=10800&fmt=webp> 警察が遺体を取り違え、遺族に引き渡さず火葬…「さらなる心痛を与えてしまった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/38f2be6719296c408c0c5c65938e30d43a1c6ee8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000030-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=535&ch=535&exp=10800&fmt=webp> ウクライナ支援国が会合　3兆円超の軍事支援へ　米はオンライン参加
+      <a href=https://news.yahoo.co.jp/articles/991512fcfbfd5608d85687e69ea4131cf2bdf16f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-15864035-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 米大統領特使、プーチン氏と会談　ウクライナとの停戦促す
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535218>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/88250a3b61e5af26c1ac6cc2fa2e267f6ed5c5ecc3ae8a2442fe503404666312.jpg> ウ支援 50カ国で過去最高3.4兆円
+      <a href=https://news.yahoo.co.jp/pickup/6535231>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/1cb2195852a882e6dbc1d0d597ddda13c47e9b3433d1b0c5f94d412d8e1ea3df.jpg> 米特使とプーチン氏 和平巡り協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9b2c72e46ae22a7a368345523bbd3f7e2ddfc1c17cc2792f7ac96bf5c5c8ed81.jpg> 同盟国にもトランプ関税 中国に利
+      <a href=https://news.yahoo.co.jp/pickup/6535210>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/1c92acafb41f602d06c6de6c12be25d1e51cd23aeaac4b1e738fb353dc08c9cf.jpg> ポリオ撲滅 陰謀説と難民で困難に
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535223>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/a7b49a3ca7d64d1ac4f3507a62663500e899b9da77fb2158cff4e9572049de93.jpg> 居眠り議員に代わり表決 市議辞職
+      <a href=https://news.yahoo.co.jp/pickup/6535228>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/50a46ee7a4ece391541184a89493e08a4ca738dc90eaacb3c7e9ba2ac183b5a4.jpg> 出所者雇用に力 応募引っ切りなし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/7fc2075db9fa449ce845941523da85b1ecaba1fa0dc9310883683efc23ea9737.jpg> 鹿児島→大阪 SNS通じ忘れ物戻る
+      <a href=https://news.yahoo.co.jp/pickup/6535219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/2631faf2bd3ecf7dae222afbb4f6a34a3d4c347e76d27bef08cb615c3d524f54.jpg> 除染土「反対」水増し SNSで拡散
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 12:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 13:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
