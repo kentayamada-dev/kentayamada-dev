@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2cca1a93caa00c06187f381b5fe3b952.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6d1c60878a33bd301bb9d909e9f336cc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a72a635c60c2e679a75dc7c77b85addfdbcf2f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-10173324-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=829&ch=829&exp=10800&fmt=webp> プーチン大統領、米特使と会談 トランプ氏と近く電話会談か
+      <a href=https://news.yahoo.co.jp/articles/2625815a7df92575f68e5db1467c5dbf06ab846e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-10173328-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=828&ch=828&exp=10800&fmt=webp> NATOなど約50カ国 ウクライナに過去最大規模の軍事支援
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c6a0cfc887c56c1b71826bc34a3965425c231d2d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-34120251-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=656&ch=656&exp=10800&fmt=webp> 中国でトランプ大統領がミシン作業するAI画像がSNSで拡散、米中貿易戦争激化で　米紙報じる
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5d9bf9f9b5fcf8ebc976e11f3aa371eed0d9a069>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00050044-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「魚雷バット」日本でもＯＫ、試した阪神の森下翔太「気持ちに余裕」…佐藤輝明「何とも言えない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f213d6c65da7438c2d0fd2ab03729246053f560>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00010004-nikkey-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 《ブラジル》ルーラ大統領が5月に中ロ訪問＝米中緊張下で関係深める
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00050044-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 「魚雷バット」日本でもＯＫ、試した阪神の森下翔太「気持ちに余裕」…佐藤輝明「何とも言えない」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9b2c72e46ae22a7a368345523bbd3f7e2ddfc1c17cc2792f7ac96bf5c5c8ed81.jpg> 同盟国にもトランプ関税 中国に利
+      <a href=https://news.yahoo.co.jp/pickup/6535218>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/88250a3b61e5af26c1ac6cc2fa2e267f6ed5c5ecc3ae8a2442fe503404666312.jpg> ウ支援 50カ国で過去最高3.4兆円
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535208>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c214a71e5cb60fe2a63e6c7e2975d018caa4f3cea25b5e559e32f0429b6d07ce.jpg> 減税巡り火花 揺れる石破首相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9b2c72e46ae22a7a368345523bbd3f7e2ddfc1c17cc2792f7ac96bf5c5c8ed81.jpg> 同盟国にもトランプ関税 中国に利
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/2cbefc52c3cc36f6faea767b1f43b5d8ef73387ddce0c9234c8fcf6a7aafcbbc.jpg> 岡山の山火事 生態系「死の世界」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535202>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/33ca8ecba8925ec63ad49317c9c1c5136200196c323af879a1bc869d10a79add.jpg> NewDays おにぎり19万個自主回収
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 10:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 10:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
