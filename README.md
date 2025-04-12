@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1986c895f38dcb6032830f310070818a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/799326ed38ed73e7637ff4087bd9b78c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d3734b1b06fc4d882ab9b6c0be68364383d5b45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00050041-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=331&ch=331&exp=10800&fmt=webp> ＮＹダウ終値は６１９ドル高、２日ぶり４万ドル回復…一時は８００ドル超の値上がり
+      <a href=https://news.yahoo.co.jp/articles/1a72a635c60c2e679a75dc7c77b85addfdbcf2f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-10173324-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=829&ch=829&exp=10800&fmt=webp> プーチン大統領、米特使と会談 トランプ氏と近く電話会談か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/599b3aa1d1f91de3b2cde3f842c67399251917a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000002-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「運転してこのままドーン」と語ったことも…広末涼子　追突事故で“ブレーキ痕ナシ”の衝撃
+      <a href=https://news.yahoo.co.jp/articles/6f213d6c65da7438c2d0fd2ab03729246053f560>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00010004-nikkey-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 《ブラジル》ルーラ大統領が5月に中ロ訪問＝米中緊張下で関係深める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/79efcd248255a81b5fd58d54eefe50ec00bbcb07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00010001-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 「晒し投げって正気か？」「あえて続投させたのは理解できる」巨人戸郷翔征を10失点まで続投させた阿部采配にSNSで賛否
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7c987239d9fd4540e2eac74233cc2142d5f3cdaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-34111128-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=81&cw=996&ch=996&exp=10800&fmt=webp> 逮捕の広末涼子容疑者、事件前に起こした追突事故現場にブレーキ痕なし
       </a>
     </td>
   </tr>
@@ -378,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c214a71e5cb60fe2a63e6c7e2975d018caa4f3cea25b5e559e32f0429b6d07ce.jpg> 減税巡り火花 揺れる石破首相
+      <a href=https://news.yahoo.co.jp/pickup/6535212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9b2c72e46ae22a7a368345523bbd3f7e2ddfc1c17cc2792f7ac96bf5c5c8ed81.jpg> 同盟国にもトランプ関税 中国に利
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535205>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c63047c17dc57579094c693b8f09283643ec489f87f7b055488eacfa8c0ab878.jpg> 「孤立死」昨年2万1千人 初の推計
+      <a href=https://news.yahoo.co.jp/pickup/6535208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c214a71e5cb60fe2a63e6c7e2975d018caa4f3cea25b5e559e32f0429b6d07ce.jpg> 減税巡り火花 揺れる石破首相
       </a>
     </td>
   </tr>
@@ -418,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535207>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/e091c39823ed62e8f2516cdf1c7a976ffa9b6cb766bf9f9f90430a43df1a505c.jpg> 返礼品の米 送れない自治体相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6535202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/33ca8ecba8925ec63ad49317c9c1c5136200196c323af879a1bc869d10a79add.jpg> NewDays おにぎり19万個自主回収
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/33ca8ecba8925ec63ad49317c9c1c5136200196c323af879a1bc869d10a79add.jpg> NewDays おにぎり19万個自主回収
+      <a href=https://news.yahoo.co.jp/pickup/6535213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c875585018a7d5cbd9694ee4d105083edc25d485507dac1d0a1798b20343721a.jpg> G監督 苦しむ戸郷続投させた思い
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 09:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 09:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
