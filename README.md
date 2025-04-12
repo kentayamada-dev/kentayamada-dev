@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6d1c60878a33bd301bb9d909e9f336cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/05f724d2467628e6219baf0e82092be2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2625815a7df92575f68e5db1467c5dbf06ab846e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-10173328-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=828&ch=828&exp=10800&fmt=webp> NATOなど約50カ国 ウクライナに過去最大規模の軍事支援
+      <a href=https://news.yahoo.co.jp/articles/741bdb76ca331a29290e710f1c2787f31f0d1c3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000031-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 中国の報復関税125％も…米高官「大統領は楽観的だ」　交渉に自信
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6a0cfc887c56c1b71826bc34a3965425c231d2d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-34120251-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=656&ch=656&exp=10800&fmt=webp> 中国でトランプ大統領がミシン作業するAI画像がSNSで拡散、米中貿易戦争激化で　米紙報じる
+      <a href=https://news.yahoo.co.jp/articles/38f2be6719296c408c0c5c65938e30d43a1c6ee8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00000030-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=535&ch=535&exp=10800&fmt=webp> ウクライナ支援国が会合　3兆円超の軍事支援へ　米はオンライン参加
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79efcd248255a81b5fd58d54eefe50ec00bbcb07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00010001-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 「晒し投げって正気か？」「あえて続投させたのは理解できる」巨人戸郷翔征を10失点まで続投させた阿部采配にSNSで賛否
+      <a href=https://news.yahoo.co.jp/articles/8923766f6868098f1cd62bfabb067b9961a4f693>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250412-00010002-theworldw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=396&ch=396&exp=10800&fmt=webp> 佐野航大が衝撃の「15秒弾」　後半開始直後の一撃でNECを勝利に導く
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535218>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/88250a3b61e5af26c1ac6cc2fa2e267f6ed5c5ecc3ae8a2442fe503404666312.jpg> ウ支援 50カ国で過去最高3.4兆円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c214a71e5cb60fe2a63e6c7e2975d018caa4f3cea25b5e559e32f0429b6d07ce.jpg> 減税巡り火花 揺れる石破首相
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/1a566ab9f477bcb3eeaea661cb72766b5a24165d1c63a752e013a23f138d4013.jpg> 小中11校新入生ゼロ 島根の現実
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535216>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/cfc332c9f02505a146a5e0cfd3345ca7090cbc61a4d89a9e8b592e070ad108b8.jpg> 愛知県警 遺体を取り違えて火葬
       </a>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/33ca8ecba8925ec63ad49317c9c1c5136200196c323af879a1bc869d10a79add.jpg> NewDays おにぎり19万個自主回収
+      <a href=https://news.yahoo.co.jp/pickup/6535220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9c3132bae1a1ba3b973f1b70a9b06f8b5bb1552e4c88e586b9cea835c9a9ed13.jpg> MF佐野航大 後半開始15秒ゴール
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/c875585018a7d5cbd9694ee4d105083edc25d485507dac1d0a1798b20343721a.jpg> G監督 苦しむ戸郷続投させた思い
+      <a href=https://news.yahoo.co.jp/pickup/6535222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/12/9077debbd810b06f4ecabdc37c68e31fe92a1c38c99873a77679427f31d1d847.jpg> 映画「ランボー」監督死去 報道
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/12 10:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/12 11:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
