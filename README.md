@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f99aae2f2bd0f820e1e9202335084eea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/58f5596e3a36e2fcb3c04fea3cf32b23.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/170c14f4d4a9a394eb7d250c2db05be10d5f3e14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000017-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=24&cw=800&ch=800&exp=10800&fmt=webp> 埼玉で落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意　14日【気象情報】
+      <a href=https://news.yahoo.co.jp/articles/08d6ed5e68765932ac32e636b6815a12a85789f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】血の付いたバッグから全裸の男児遺体　住宅敷地内で見つかる　殺人容疑も視野に捜査　北海道石狩市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/722dfbd342dccc6a2c63faf7872e02e25f0258a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-34131825-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=976&ch=976&exp=10800&fmt=webp> 【ボートレース】ボートレース界のブルーインパルス池田浩二が鮮やか航跡でテイクオフ／住之江G1
+      <a href=https://news.yahoo.co.jp/articles/a1442544f7ee75efba50eac2921fdc1635f5d3be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00010001-mbsnews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=590&ch=590&exp=10800&fmt=webp> 【速報】「並ばない万博」なのに…入場ゲート行列は通信状況悪化も要因　博覧会協会は来場者に”オフライン”協力依頼とWi-Fi設置へ
       </a>
     </td>
   </tr>
@@ -375,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6f93b4cde0d10017a57290d71cdb02ef7821b384>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00010018-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 『ジョジョ』第7部、アニメ化の鍵は“馬上バトル”？　ジョニィ役を担当する声優にも注目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e2e69debb188bbd3cbd3c2a10e94fc784fd428fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000057-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=423&cy=0&cw=777&ch=777&exp=10800&fmt=webp> ガザ「緩衝地帯」拡大　イスラエル軍、戦争犯罪指摘も　住民域外退去への布石か
       </a>
     </td>
   </tr>
@@ -402,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535390>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/9d04740ee3bd49bc5e3db69b7c8ba4c0bf99b411a88d0931cb3674f305a23378.jpg> 香港・民主党が解散手続きへ
+      <a href=https://news.yahoo.co.jp/pickup/6535399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c37f37806971f3ae80cda8f67031fe780f4453525b7d47b52b520c64b2528e84.jpg> 14日 雷雨・突風・ひょうに注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535402>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/3f9a9c620dc15204713bbb500febb5b9a8083b7d1dbf74e777fc153b22db027e.jpg> バッグの中に男児の全裸遺体 捜査
       </a>
     </td>
   </tr>
@@ -418,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535395>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/78b059f853b1934f0017b9258c91b14f62d93bf4d443e6e74ce9dda5821dea1d.jpg> 弁当でノロの食中毒 72人に症状
+      <a href=https://news.yahoo.co.jp/pickup/6535398>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/86e8d1dc34b85cb8af9deb582c777665715e25b5613e7a20447da7f08a0af6b0.jpg> ツルハ大株主 経営統合に反対
       </a>
     </td>
   </tr>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535392>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/eed681cdbbb8c29b71301ad0bac7a8e8309b2edbd55f7cdd94ad5d1a54c7e726.jpg> 磯山さやか 出ない杭なら打たれず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 22:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 22:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
