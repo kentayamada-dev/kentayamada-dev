@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9ac37e2ad25ed7783bda531f6983e057.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c063b14a739759bba901207b8979a4ac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b99a1d2835ca095c65e3f0d990b2daf2ef31ca80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00010009-chugoku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=1269&ch=1269&exp=10800&fmt=webp> 広島県府中町の男性殺害事件　現場の遺留品から身元特定できず　犯人が持ち去ったか　県警、80人態勢で捜査本部設置
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/69392521e2c775764d0364d5fc6639b85dc73b1d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00628478-raditopi-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 大阪・関西万博開幕 夢洲で“未来社会のデザイン”…前売券販売78%、一部海外パビリオン間に合わず
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6f93b4cde0d10017a57290d71cdb02ef7821b384>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00010018-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 『ジョジョ』第7部、アニメ化の鍵は“馬上バトル”？　ジョニィ役を担当する声優にも注目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b133519c4100c6b905df3975d77fc946e540f8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-01916685-htv-000-3-thumb.jpg?exp=10800&fmt=webp> 殺人事件として捜査本部設置　広島県府中町で血を流した男性が死亡
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535384>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/38d70f7c2b02e18b360289da594f012a5f1e6a578e9e712e48e46476e3580813.jpg> 露がミサイル攻撃 ウで20人超死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/626f40eb5a2c4450da0453d923f71c9322c9963968c19d03530a0a0e8c6c497b.jpg> 露がミサイル攻撃 ウで30人超死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535381>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/dde3c893dff8ad9a6d667cfd96d6340eecd8d4cb79262efb956fed5f8b040cdd.jpg> 20年で300万票減 公明代表の苦悩
+      <a href=https://news.yahoo.co.jp/pickup/6535390>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/9d04740ee3bd49bc5e3db69b7c8ba4c0bf99b411a88d0931cb3674f305a23378.jpg> 香港・民主党が解散手続きへ
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535376>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/97a55b3b43dfcb3ff6408e6db631b36edb01e5cde3b7ff6e1d4e3b167cf676b2.jpg> 空飛ぶクルマのデモ飛行中止 万博
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/1a36df25cb7543f22c7deabcdd024f2d7c087d97fb9081e07325ca45b8cb42ee.jpg> フォークリフト遊び 事故相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6535395>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/78b059f853b1934f0017b9258c91b14f62d93bf4d443e6e74ce9dda5821dea1d.jpg> 弁当でノロの食中毒 72人に症状
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535379>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/265a2133446f58f2c779dbaba2ecdbb75fb4284be6773108d340736ec5453fd1.jpg> 月曜告げる「月曜マン」SNS反響
+      <a href=https://news.yahoo.co.jp/pickup/6535394>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/30c77de7005ec0b6c4a033670ed6e3f0d9696d84c9a067cfe8420d9fcd04a1af.jpg> Adoが万博で歌唱 会場外に数千人
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535392>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/eed681cdbbb8c29b71301ad0bac7a8e8309b2edbd55f7cdd94ad5d1a54c7e726.jpg> 磯山さやか 出ない杭なら打たれず
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 21:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 21:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
