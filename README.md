@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e23de6221107442bbcb181569de1ae2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4646133775cd8050914f478021916f03.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4a24da62d54e7a1fcd1de612c8341cef0690e4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00957014-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 西友で刺された女性死亡…夫とみられる自称・兼沢孝行容疑者（58）を殺人未遂で現行犯逮捕「金銭トラブルで刺した」刃物は店内で購入
+      <a href=https://news.yahoo.co.jp/articles/1b94e5a1c041417741fe513f1b894e8576d10c5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00062951-animage-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=234&cw=566&ch=566&exp=10800&fmt=webp> 【ジョジョ】『スティール・ボール・ラン』アニメ制作決定！
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4653bf56cbd86732cea63e30c2b176b1f04e482c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00064952-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ブルーインパルスの“展示飛行”中止に　飛行隊長「天候には勝てませんので非常に残念」
+      <a href=https://news.yahoo.co.jp/articles/be3556a18392a59b03e6ed58af615d3240ccc930>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ブルーインパルス、記念飛行を中止　万博開幕日、天候不良で　空自
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2c8ae7e24f3279bbdc65a3af643ab94f7886c44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00957000-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー民主派組織が停戦延長　国軍も22日まで停戦表明も“空爆継続”
+      <a href=https://news.yahoo.co.jp/articles/132524d3828d4746bd51cac778c2f4fb7ea7dba3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-10173483-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=985&ch=985&exp=10800&fmt=webp> ミャンマー大地震 民主派組織が停戦延長を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2db755d61050dbcf39e78ad6881a0b018543c215>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000349-oric-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『ジョジョ』第7部アニメ化、大谷翔平がインスタで反応　SNSも驚き「夫婦揃ってジョジョファンとは！」「勝手に好感度爆上がり」
+      <a href=https://news.yahoo.co.jp/articles/b0f676619e69b7537eca29581a6e794c3ac8d64c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-03297779-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「妻と金銭トラブルがあり」スーパーで女性刺される…心肺停止　夫とみられる男を現行犯逮捕　東京・清瀬市
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/470f3ef99304b742641cbeb428e983f57fecce7a6d3a4bf5668d40c444e3f15d.jpg> イスラエル ガザ地区ラファを包囲
+      <a href=https://news.yahoo.co.jp/pickup/6535354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/6d3ae77b5cf0520cc587f628b769011d78d80251fc40a4d83571f0e7e57fe051.jpg> 14日は広い範囲で黄砂予想 対策を
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 15:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 16:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
