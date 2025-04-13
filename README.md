@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c61be3d2a33424ec4cdab78854ba7b9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e01b59a7de6da75c041057b1cb9a340.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae40ace8f725e968dc91d34d7e05fa78ab2035d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000017-hbcv-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 遺体の男児は“乳幼児”か「血の付いたバッグが捨てられている」と近所の人が通報、住宅敷地に放置されたかばんの中から発見　死体遺棄も視野に捜査　北海道石狩市
+      <a href=https://news.yahoo.co.jp/articles/9a366be22088b08a7c6e5967a61c57531c0ba11f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-06755341-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 住宅敷地で血の付いたバッグに全裸の男児遺体…殺人の疑い視野に捜査　北海道・石狩市
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 00:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 01:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
