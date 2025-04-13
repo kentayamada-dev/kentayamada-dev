@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0835a9afad56e47d1e0016782ce48c80.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ed8798a9e58f4adb116ec0d7f82cf00.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/972852ea25ef8bfcde8160ce98517db9d5ef1a03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000000-kobenext-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=1005&ch=1005&exp=10800&fmt=webp> 大阪・関西万博が開幕　158カ国・地域が未来描く　兵庫県関係のパビリオンも出展、期間限定の展示や催しも
+      <a href=https://news.yahoo.co.jp/articles/4699292c5ab13b4d12749a39bec1203b58417e47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000006-gdo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「バーディを獲りたかった」松山英樹がオーガスタのムービングデー自己最悪“79”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fac5014e3278ff19253c1f17aa5ff2b84f43d0a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000140-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【マスターズ】松山英樹オーガスタ初のバーディーなし「1つでも取りたかった」16打差48位後退
+      <a href=https://news.yahoo.co.jp/articles/5690620f393e0d227540eb2bcdf40deb501e4ec0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000010-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 「この日を無事に迎え感無量」　万博開幕で経団連の十倉会長、開会宣言の大役も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0f7da425f89fe4ebed6ce163f0ac8a6bdb886085>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00486556-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米の相互関税からスマホなど除外　サムスンなど恩恵
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535314>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/b8bcdc417ec2cd7a85560b6a128843c89b02b2c786240c8e14559e600873d4e0.jpg> ネットカジノ遮断 新制度を検討へ
+      <a href=https://news.yahoo.co.jp/pickup/6535321>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/b93f3189b6fc9a50def53758247756c63de5fe4ccc681e0cc28178165b56af87.jpg> 関税巡り 市場で「米国売り」動き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/48ef9829c64b03723ce0424e1e7780ec847f0f02b64757ce08e20d4e1e418e0b.jpg> きょう春の嵐の恐れ 気温変化が大
+      <a href=https://news.yahoo.co.jp/pickup/6535314>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/b8bcdc417ec2cd7a85560b6a128843c89b02b2c786240c8e14559e600873d4e0.jpg> ネットカジノ遮断 新制度を検討へ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 09:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 10:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
