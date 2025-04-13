@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4646133775cd8050914f478021916f03.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c52b07de67efa78e753da2fc16ee0bf7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b94e5a1c041417741fe513f1b894e8576d10c5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00062951-animage-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=234&cw=566&ch=566&exp=10800&fmt=webp> 【ジョジョ】『スティール・ボール・ラン』アニメ制作決定！
+      <a href=https://news.yahoo.co.jp/articles/1b714687681a26075f1e014542ff6371fb24f9b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00010000-wordleafv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=247&cw=1248&ch=1248&exp=10800&fmt=webp> 大阪・関西万博・ブルーインパルスの飛行が天候不良で中止　通天閣社長「残念も万博は無事開幕」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be3556a18392a59b03e6ed58af615d3240ccc930>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ブルーインパルス、記念飛行を中止　万博開幕日、天候不良で　空自
+      <a href=https://news.yahoo.co.jp/articles/464596b1eef1dd9cba3072f5a3fa67c56b40bfc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00089099-tspkeiba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【桜花賞】エンブロイダリーは４９年ぶりの記録　新種牡馬産駒Ｖは５年ぶり、森一誠調教師は驚異の成績
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/132524d3828d4746bd51cac778c2f4fb7ea7dba3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-10173483-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=985&ch=985&exp=10800&fmt=webp> ミャンマー大地震 民主派組織が停戦延長を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0f676619e69b7537eca29581a6e794c3ac8d64c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-03297779-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「妻と金銭トラブルがあり」スーパーで女性刺される…心肺停止　夫とみられる男を現行犯逮捕　東京・清瀬市
+      <a href=https://news.yahoo.co.jp/articles/41a3d5714b278e5b871e6ba2ea36dd2ad3f3547e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000030-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自民・森山氏「国際的信認失い大変なことに」代替財源なき消費減税論をけん制
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535355>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/6dfb835025f9ab0ddfea777d4062ce9ec5db4d99398b16a3400083a380eb9ce4.jpg> スーパーで女性刺される 夫を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6535364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/8122b2bb2ce9d8c4b326b995b9fc97457e975c866bc7ba132ab425895bf068a7.jpg> スーパーで刺され女性死亡 男逮捕
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535358>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/60c2c39d0c7e46ab183d4f949c3cb4c5ed4ede8a64d117cebad5f97cb5f0d2d8.jpg> 川崎F小林悠 ギネス世界記録認定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535351>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/46303460515fec4832274d82910e55b4f58d09c04ed9b6abb19cbf3312ed27aa.jpg> ド軍大敗 野手登板しモノマネ劇場
       </a>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/5bf292ee05a47bf152cfc78ed86b9d60de68c144be25a5ed7b6276634ef8878d.jpg> トラウトが捕った球 敵ファン奪う
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/e72ba2fab5effab711d3fff757f537995518867fa2c4ed333f7864b2250d1e9b.jpg> コナン声優 山下美月が影響力驚き
+      <a href=https://news.yahoo.co.jp/pickup/6535361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/5126d39da7372dead891f8d44bb2ad95753d8a4fbd10d966114ea6ab3df962b5.jpg> 春日俊彰念願の冠番組 BSの魅力
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 16:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 16:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
