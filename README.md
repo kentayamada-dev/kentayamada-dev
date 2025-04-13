@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c00d2193cfa7ba0975a2ed848be772b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb656695eac7076771dd1febfca9a936.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11e2b27b908618d89a8d6c207e15fba4bd268e15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000051-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 「スマホは除外」トランプ関税また方針転換 激安“SHEIN”に1万円超の関税も
+      <a href=https://news.yahoo.co.jp/articles/778eac548af083e3fd0c99f69a35a65d3b3dbc10>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000053-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 「並ばない万博」初日に課題続出　ネット障害でQRコード開けず…地図は紙印刷推奨？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1442544f7ee75efba50eac2921fdc1635f5d3be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00010001-mbsnews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=590&ch=590&exp=10800&fmt=webp> 【速報】「並ばない万博」なのに…入場ゲート行列は通信状況悪化も要因　博覧会協会は来場者に”オフライン”協力依頼とWi-Fi設置へ
+      <a href=https://news.yahoo.co.jp/articles/11e2b27b908618d89a8d6c207e15fba4bd268e15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000051-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 「スマホは除外」トランプ関税また方針転換 激安“SHEIN”に1万円超の関税も
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 01:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 02:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
