@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5052cafb46021e11b7b4cf49ef538dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/833907ce31aa610e0fc6df7807cf4223.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97908801e572aeed27cde9176e3482edf5fbf0f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90050030-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【バッグから男児の遺体】「住宅敷地に血の付いたバッグが捨てられている」近隣住民が110番―“目立った外傷なし”…警察が殺人や死体遺棄事件を視野に捜査＜北海道石狩市＞
+      <a href=https://news.yahoo.co.jp/articles/2b36bd7c2231ade49966d9823e44f71ccf011742>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】14日の天気 - 西日本で雷雨 落雷・突風など注意　　黄砂も飛来　関東は午後 北部でにわか雨（14日7時更新）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0980ff5750d9cb204208d28f20c0d747d4ba5c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000003-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1164&ch=1164&exp=10800&fmt=webp> 上田竜也、作家デビューへ 構想10年 事務所の方針で一時中断→直談判し昨年から執筆再開→完成間近でKAT－TUN解散通告
+      <a href=https://news.yahoo.co.jp/articles/800ada67190e8d84e911e2a56b70c266d0ebd5d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-10173533-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=820&ch=820&exp=10800&fmt=webp> トランプ大統領 健康状態「極めて良好」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d3cb23192b012946b9de9d0a7d44d1da8aaf892>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00253664-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=308&ch=308&exp=10800&fmt=webp> 〈大阪万博・来場客の本音〉「お年寄りには難易度高い」「建築好きにはたまらない」「希望のパビリオンに入れない」…それでも、開幕初日から壮大な大屋根リングに興奮の声も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/97908801e572aeed27cde9176e3482edf5fbf0f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90050030-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【バッグから男児の遺体】「住宅敷地に血の付いたバッグが捨てられている」近隣住民が110番―“目立った外傷なし”…警察が殺人や死体遺棄事件を視野に捜査＜北海道石狩市＞
       </a>
     </td>
   </tr>
@@ -394,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c024f5fbc95a465e639e5a7b7b5fe7cf4f9beff4e3a912f4a5375b6850aa693e.jpg> 「関税戦争」チキンレースの様相
+      <a href=https://news.yahoo.co.jp/pickup/6535415>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/379b359904154db6c234ec36d14f72d23a52f0d5676e8d11a9667966ff620480.jpg> 九州-関東甲信 天気急変に注意
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 07:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 07:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
