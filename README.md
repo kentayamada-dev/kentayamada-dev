@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Wz3gGY0-wTA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b66c7c4e322f3b36ce355141d577c48c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b246ba32e1ced9e44cf1d3d5c472c01.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af65dead8166e917886f66b2a5969d531dff465b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-34130472-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=766&ch=766&exp=10800&fmt=webp> ももクロ新潟公演が当日中止に　強風で「安全を最優先に考慮」代わりに緊急配信を予告
+      <a href=https://news.yahoo.co.jp/articles/b2c8ae7e24f3279bbdc65a3af643ab94f7886c44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00957000-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー民主派組織が停戦延長　国軍も22日まで停戦表明も“空爆継続”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bba9215e74a0882b1a65fb58bce8521eb1477f49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-90018752-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博が開幕　55年ぶりのアメリカ「月の石」が大人気　アンドロイド「人間に近いのが感動」の声
+      <a href=https://news.yahoo.co.jp/articles/661d931364b02cc4da16237109eaeb9a35ba289e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000050-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 「一番楽しみにしていたのに…」　ブルーインパルス飛行中止で来場者からは残念がる声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/84e70b24977eb50787dae05c465fb003d37f2313>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00781482-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ももクロ・百田夏菜子、新潟開催ライブ中止に「みんなごめんね」　ファンの反応が話題に
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2db755d61050dbcf39e78ad6881a0b018543c215>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000349-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『ジョジョ』第7部アニメ化、大谷翔平がインスタで反応　SNSも驚き「夫婦揃ってジョジョファンとは！」「勝手に好感度爆上がり」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000349-oric-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『ジョジョ』第7部アニメ化、大谷翔平がインスタで反応　SNSも驚き「夫婦揃ってジョジョファンとは！」「勝手に好感度爆上がり」
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535328>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/5a69c858b7be22575fdb82b6b89eb378bab6c121f1581e95a2d5229d96ffce2c.jpg> 中国にも「働き方改革」の兆し
+      <a href=https://news.yahoo.co.jp/pickup/6535324>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/0b5def20b4ea4f18f0408509fabe290fd7974a12c4fb03a5bbc69a6d856d4f32.jpg> 万博見どころ 空飛ぶ車や火星の石
       </a>
     </td>
   </tr>
@@ -412,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535344>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/2e46de472ca9ac4d4ed72cedf56b752781d18c905029a8e8f0cb9e219c983065.jpg> 万博 ブルーインパルスの飛行中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535347>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c12503dc347fd14954c187df2929633949507b8d155d04f9dc57b0e2cea0460f.jpg> 万博開幕 2h後もゲートは長蛇の列
       </a>
     </td>
   </tr>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/9ef8c6539e6e2363541adc38c6ff1443e66b4abb73fdb0f9315861d09a19b633.jpg> しずる コンビそろって改名発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 13:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 14:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
