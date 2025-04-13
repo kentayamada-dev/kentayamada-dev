@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b52bd4a4c00e06a4e7253ca7ca65d368.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b66c7c4e322f3b36ce355141d577c48c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/745540c6fee52dfb9601970e7a20ffc2a2a87921>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00050072-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=326&ch=326&exp=10800&fmt=webp> 大阪・関西万博、ブルーインパルスの飛行中止…「せっかくの機会だったのに」
+      <a href=https://news.yahoo.co.jp/articles/af65dead8166e917886f66b2a5969d531dff465b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-34130472-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=766&ch=766&exp=10800&fmt=webp> ももクロ新潟公演が当日中止に　強風で「安全を最優先に考慮」代わりに緊急配信を予告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e082e597edeb841eda379da95d9d3288b892a77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000036-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=731&ch=731&exp=10800&fmt=webp> リングでつながれた世界でみる未来　万博の半年の行方見届ける　報道本部部長・安田奈緒美
+      <a href=https://news.yahoo.co.jp/articles/bba9215e74a0882b1a65fb58bce8521eb1477f49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-90018752-kantelev-000-1-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博が開幕　55年ぶりのアメリカ「月の石」が大人気　アンドロイド「人間に近いのが感動」の声
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2db755d61050dbcf39e78ad6881a0b018543c215>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000349-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『ジョジョ』第7部アニメ化、大谷翔平がインスタで反応　SNSも驚き「夫婦揃ってジョジョファンとは！」「勝手に好感度爆上がり」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000349-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『ジョジョ』第7部アニメ化、大谷翔平がインスタで反応　SNSも驚き「夫婦揃ってジョジョファンとは！」「勝手に好感度爆上がり」
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535343>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/5055b82a4f8bad8f8f94d5f028d0a8f3b5cab63ebd67d3308914801edf333e36.jpg> ミャンマー地震 民主派が停戦延長
+      <a href=https://news.yahoo.co.jp/pickup/6535345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/470f3ef99304b742641cbeb428e983f57fecce7a6d3a4bf5668d40c444e3f15d.jpg> イスラエル ガザ地区ラファを包囲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/b4cf0e58f559c003f0d6159e36fd7e0458ee0945076849ffaf38486fd1e003ce.jpg> 石破首相 万博成功へ積極発信
+      <a href=https://news.yahoo.co.jp/pickup/6535343>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/5055b82a4f8bad8f8f94d5f028d0a8f3b5cab63ebd67d3308914801edf333e36.jpg> ミャンマー地震 民主派が停戦延長
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/cbc24e129d961ab1bea097cf1ea68991a7ea34bb807fed06e5a1c294db42e8aa.jpg> 洗車機と壁に挟まれ 従業員死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535338>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/733b8d10b8aefab218ee62f58ebed645ac0994e6ba3e8d2aa2b9c449db95566d.jpg> 朗希あわや満塁被弾 救われ大興奮
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/733b8d10b8aefab218ee62f58ebed645ac0994e6ba3e8d2aa2b9c449db95566d.jpg> 朗希あわや満塁被弾 救われ大興奮
+      <a href=https://news.yahoo.co.jp/pickup/6535346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/d4078f761c6bb69158b5cc8bf7122af1c32002e00251e0b957a99af432210cd3.jpg> ももクロのライブ 強風で当日中止
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 13:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 13:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
