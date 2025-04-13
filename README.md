@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/56444ab3f166f8f2679b3215ef31c643.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0835a9afad56e47d1e0016782ce48c80.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5064efb8abd138d3915e4561decec1857b821dbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00050056-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 松山英樹はマスターズ４８位に後退、４番と６番で３パット…「グランドスラム」へマキロイ首位
+      <a href=https://news.yahoo.co.jp/articles/972852ea25ef8bfcde8160ce98517db9d5ef1a03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000000-kobenext-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=1005&ch=1005&exp=10800&fmt=webp> 大阪・関西万博が開幕　158カ国・地域が未来描く　兵庫県関係のパビリオンも出展、期間限定の展示や催しも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a41a877a5722ad68c6002ff4664ae7f03149966>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000017-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大阪・関西万博が開幕　初日は14万人来場見込み
+      <a href=https://news.yahoo.co.jp/articles/fac5014e3278ff19253c1f17aa5ff2b84f43d0a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000140-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【マスターズ】松山英樹オーガスタ初のバーディーなし「1つでも取りたかった」16打差48位後退
       </a>
     </td>
   </tr>
@@ -386,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/73b5e743ba06a37d97db8f47558d05165c4437764545b6829b2231c5d1aeb9ee.jpg> 万博が開幕 早朝から長蛇の列
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535314>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/b8bcdc417ec2cd7a85560b6a128843c89b02b2c786240c8e14559e600873d4e0.jpg> ネットカジノ遮断 新制度を検討へ
       </a>
@@ -396,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535313>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/48ef9829c64b03723ce0424e1e7780ec847f0f02b64757ce08e20d4e1e418e0b.jpg> きょう春の嵐の恐れ 気温変化が大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/9e0c5c0824bc66ede900cd21016d15657524a314ef21ac9193294775dee53468.jpg> 対米関税ゼロ ジンバブエの奇策
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535316>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/9e7a078c5cd514dbedd5487481d92bd4e530e0ee6aa6b5fd3af10f1998be1f66.jpg> 菅野智之 本拠初陣は5回途中3失点
+      <a href=https://news.yahoo.co.jp/pickup/6535320>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/471370ede7203fb03146a0c3abf923622194e223c71590570e5cf3ef49c2b446.jpg> 松山英樹が大苦戦「疲れました」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 09:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 09:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
