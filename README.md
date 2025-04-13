@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Wz3gGY0-wTA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9d9de9824d65d81e58568b5d3817b648.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4acd2e0df13705cdc8751de13f784944.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a871ccfbc4b88a35b5a6ab5e37a7176c6874110a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000062-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=838&ch=838&exp=10800&fmt=webp> 大阪・関西万博開幕　並ばないはずが…長蛇、混乱、風雨…どんだけ並ぶねん!　スポニチ記者が現地ルポ　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d00a7f2215894ed08180a6ed5e96a8839f29f642>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230339-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> バッグの中から乳幼児とみられる男児遺体見つかる　死体遺棄事件として捜査　北海道・石狩市
+      <a href=https://news.yahoo.co.jp/articles/d33ae1c6c27629373fa2528051d31fa0524aac83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230344-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 今週前半は大気非常に不安定　西日本は落雷や突風・ひょうに十分注意
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 05:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 06:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
