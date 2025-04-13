@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Wz3gGY0-wTA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4acd2e0df13705cdc8751de13f784944.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9955acacafcfd72c5b269bc0786f81e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d33ae1c6c27629373fa2528051d31fa0524aac83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230344-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 今週前半は大気非常に不安定　西日本は落雷や突風・ひょうに十分注意
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230344-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> きょう14日（月）の天気　西日本は落雷や突風・ひょうに十分注意　今週前半は大気非常に不安定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b0980ff5750d9cb204208d28f20c0d747d4ba5c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000003-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1164&ch=1164&exp=10800&fmt=webp> 上田竜也、作家デビューへ 構想10年 事務所の方針で一時中断→直談判し昨年から執筆再開→完成間近でKAT－TUN解散通告
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535389>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/f11a1174a0e3cee5bb37aeb070e397f042f22b91ad9584045b8b74923606a573.jpg> 広島で殺人 周辺の小中臨時休校へ
+      <a href=https://news.yahoo.co.jp/pickup/6535411>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/93b056efa0fa64447f4a461a5a884ea7ecfa59bff84954e0a70c45e3532c2992.jpg> 海岸に女性保育士の遺体 殺人か
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535405>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/f9efe4fa183797caecfc7bf709cb64dff6445e73c779c6835c7d60eb6e8c50a2.jpg> 須藤理彩語る 夫の死と子育て
+      <a href=https://news.yahoo.co.jp/pickup/6535412>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/6a2897539b1d9d976ee398ad78b80ae73bfa6942b4222830e70ab7547bc49c25.jpg> 上田竜也が作家デビュー 構想10年
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 06:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 06:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
