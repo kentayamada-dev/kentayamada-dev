@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b635bb846c0b9ee90a5b54b05660c87.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6735b750bc07c22eb8026a675079561e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97391b6faa3658880cc7be70e1452ce981eed6b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000045-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 会場最寄り駅、大混雑　「海の万博」の弱点露呈
+      <a href=https://news.yahoo.co.jp/articles/a8c33797517caf0a65d1ace9b14d917427fb33ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-06191699-ytv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】万博「空飛ぶクルマ」デモフライト中止　悪天候のため
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ccd1be59057d99dd0b26502115ae50ac76bf8854>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000034-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 「相互関税」スマホなど対象外に　トランプ政権“反発”回避か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fbdf7ede1a876831de331b10ffe05634f1438766>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-90022624-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=411&cy=0&cw=844&ch=844&exp=10800&fmt=webp> ももクロ、野外ライブ中止を受け、午後８時から緊急配信！！
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/370c5fd585483259b476bf05d3191d1f4862d04c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000041-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=585&ch=585&exp=10800&fmt=webp> 知人女性を殺害容疑で男性逮捕　背中などを刺したか　徳島
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c991c35c272a2e88e2d08e45bc8b2978c6d967ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000295-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=692&ch=692&exp=10800&fmt=webp> ももクロ、緊急配信へ　強風で新潟・野外ライブが当日中止　運営の対応に「フォローのスピード凄い」の声
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535350>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c167f33baf74e3d6a2e3655b300f5d85165e14ffc3657e9fbaa969efa13d9a9c.jpg> 440万円の万博グッズ30分で売れる
+      <a href=https://news.yahoo.co.jp/pickup/6535363>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/ee57f2b6d154240cc016408a3d0b9cc8d5c452f830d1742eacfcb3ac37292324.jpg> 万博混雑 ママもう無理と泣く子供
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 17:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 18:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
