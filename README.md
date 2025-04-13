@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/38d0cf02e09631e2b84d18f9950afd43.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aea60458667164823a37306338b7ed7c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/910738be922962b3d9671e5a69e8f9644f361dc8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-05179439-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=203&ch=203&exp=10800&fmt=webp> イランと米国、協議継続で合意－核開発巡る公式会合は「建設的」
+      <a href=https://news.yahoo.co.jp/articles/1d63b4aec4a09a8b639b0216b4904d1077d0e489>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000152-spnannex-000-22-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 「しずる」コンビそろって改名発表　KAZMA→池田一真、村上純→純「原点回帰」池田は3年前も改名
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535327>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c975a6bb03c33096a9ee4b2dc98df63738c6a36a90398b49a5fece6b3a4ee2ec.jpg> 米イラン核問題協議 建設的と評価
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535321>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/b93f3189b6fc9a50def53758247756c63de5fe4ccc681e0cc28178165b56af87.jpg> 関税巡り 市場で「米国売り」動き
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535314>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/b8bcdc417ec2cd7a85560b6a128843c89b02b2c786240c8e14559e600873d4e0.jpg> ネットカジノ遮断 新制度を検討へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/7e3a927e0f91ff27b5839d9a903394e1acb2eaf683157a1d26bd64c7830d2576.jpg> スノボ中に立木に衝突 男性が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/cbc24e129d961ab1bea097cf1ea68991a7ea34bb807fed06e5a1c294db42e8aa.jpg> 洗車機と壁に挟まれ 従業員死亡
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/7095910f967b7d525f01aaa3aef357eea896d1ab1e7ddefba79dba42757bbf4e.jpg> くまモン誕生15年「感謝だモン」
+      <a href=https://news.yahoo.co.jp/pickup/6535330>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/f16e6b5925adad48626ca6dd87ff5e45bc67db4bbf61f2aac0ea14dbc7d35976.jpg> 戸籍付票の写し 加害者側に誤交付
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535322>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/fc9d09ed6b50313fe156650fb8ef50e4391f1623510e1bcd4028b3313d213fa0.jpg> 2軍再調整の戸郷 考えすぎていた
+      <a href=https://news.yahoo.co.jp/pickup/6535334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/fc9d09ed6b50313fe156650fb8ef50e4391f1623510e1bcd4028b3313d213fa0.jpg> G戸郷 悲劇のマウンドを自ら分析
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535320>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/471370ede7203fb03146a0c3abf923622194e223c71590570e5cf3ef49c2b446.jpg> 松山英樹が大苦戦「疲れました」
+      <a href=https://news.yahoo.co.jp/pickup/6535333>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/9ef8c6539e6e2363541adc38c6ff1443e66b4abb73fdb0f9315861d09a19b633.jpg> しずる コンビそろって改名発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 10:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 11:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
