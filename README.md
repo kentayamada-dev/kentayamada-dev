@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eca45ac31546437446ebebde0b44b7cf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a61645a423bc299239485811209c8ef8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0ce20452a8d6008d5eafc051cd3304e5971f8f27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000036-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> ウクライナ北東部にロシアのミサイル攻撃　31人死亡、84人が負傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0158ee9eec769ff571ae45bedf1fa58105f3e60d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-06489344-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 【映像】中国館の目玉「月の裏側の砂」展示　人間洗濯機体験「最高ですね」会場も周辺も混雑　万博開幕
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ee31d1722b8c18efb802e9d77afb923f475ea67>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00957011-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 相互関税を翻意させた「米国債」投げ売り…「アメリカ売り」の金融リスク　米中対立で“世界的景気停滞懸念”強まる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c568cddb069a50d261f5ebed00c08160296fa61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-21851751-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=647&ch=647&exp=10800&fmt=webp> 【ぺこぱ・松陰寺太勇】　「娘が物心ついたときに初老は嫌」　老化防止にランニングを始めたことを告白
+      <a href=https://news.yahoo.co.jp/articles/089a6106a0e56c269f23342afd9ffd9c52bb69cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000056-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 相互関税からスマホ除外　反発恐れ、値上げ回避　米政権
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/df5af8958c5f427cb63af340af8390b0027c64c726beb35a196ba9fc38f01144.jpg> 現金給付案「評価せず」57% 毎日
+      <a href=https://news.yahoo.co.jp/pickup/6535384>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/38d70f7c2b02e18b360289da594f012a5f1e6a578e9e712e48e46476e3580813.jpg> 露がミサイル攻撃 ウで20人超死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/2b394d3686da3e0d8d4f311513f516129ddbecd109e282622783264ba36f764d.jpg> 能登 地震と豪雨の避難所全て閉鎖
+      <a href=https://news.yahoo.co.jp/pickup/6535381>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/dde3c893dff8ad9a6d667cfd96d6340eecd8d4cb79262efb956fed5f8b040cdd.jpg> 20年で300万票減 公明代表の苦悩
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535363>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/ee57f2b6d154240cc016408a3d0b9cc8d5c452f830d1742eacfcb3ac37292324.jpg> 万博混雑 ママもう無理と泣く子供
+      <a href=https://news.yahoo.co.jp/pickup/6535386>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c4cb41447101b79f8c76f87e48fb61c23dd43d19b1b28511deef5f0001c06e37.jpg> 大阪・関西万博が開幕 SNSまとめ
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/5935d588b8292fe11e8cafc6045da3e48315c6236e945fb925aa804577ce5d8b.jpg> 松陰寺太勇41歳 若いパパでいたい
+      <a href=https://news.yahoo.co.jp/pickup/6535379>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/265a2133446f58f2c779dbaba2ecdbb75fb4284be6773108d340736ec5453fd1.jpg> 月曜告げる「月曜マン」SNS反響
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535365>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/368fe62ff9d8026c15dc91158b2af7ffc2ca0fb878eeb1ead3edf9381667dba5.jpg> ももクロ公演中止 緊急配信実施へ
+      <a href=https://news.yahoo.co.jp/pickup/6535385>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 八代亜紀さんの写真公開 法的には
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 19:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 20:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
