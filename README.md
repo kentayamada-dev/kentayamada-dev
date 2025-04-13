@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a61645a423bc299239485811209c8ef8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ac37e2ad25ed7783bda531f6983e057.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ce20452a8d6008d5eafc051cd3304e5971f8f27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000036-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800&fmt=webp> ウクライナ北東部にロシアのミサイル攻撃　31人死亡、84人が負傷
+      <a href=https://news.yahoo.co.jp/articles/69392521e2c775764d0364d5fc6639b85dc73b1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00628478-raditopi-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 大阪・関西万博開幕 夢洲で“未来社会のデザイン”…前売券販売78%、一部海外パビリオン間に合わず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0158ee9eec769ff571ae45bedf1fa58105f3e60d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-06489344-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 【映像】中国館の目玉「月の裏側の砂」展示　人間洗濯機体験「最高ですね」会場も周辺も混雑　万博開幕
+      <a href=https://news.yahoo.co.jp/articles/6f93b4cde0d10017a57290d71cdb02ef7821b384>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00010018-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 『ジョジョ』第7部、アニメ化の鍵は“馬上バトル”？　ジョニィ役を担当する声優にも注目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7b133519c4100c6b905df3975d77fc946e540f8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-01916685-htv-000-3-thumb.jpg?exp=10800&fmt=webp> 殺人事件として捜査本部設置　広島県府中町で血を流した男性が死亡
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/089a6106a0e56c269f23342afd9ffd9c52bb69cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000056-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 相互関税からスマホ除外　反発恐れ、値上げ回避　米政権
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/370c5fd585483259b476bf05d3191d1f4862d04c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000041-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=1068&ch=1068&exp=10800&fmt=webp> 知人女性を殺害容疑で男性逮捕　背中などを刺したか　徳島
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000056-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 相互関税からスマホ除外　反発恐れ、値上げ回避　米政権
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535376>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/97a55b3b43dfcb3ff6408e6db631b36edb01e5cde3b7ff6e1d4e3b167cf676b2.jpg> 空飛ぶクルマのデモ飛行中止 万博
+      <a href=https://news.yahoo.co.jp/pickup/6535389>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/f11a1174a0e3cee5bb37aeb070e397f042f22b91ad9584045b8b74923606a573.jpg> 広島で殺人 周辺の小中臨時休校へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535386>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c4cb41447101b79f8c76f87e48fb61c23dd43d19b1b28511deef5f0001c06e37.jpg> 大阪・関西万博が開幕 SNSまとめ
+      <a href=https://news.yahoo.co.jp/pickup/6535376>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/97a55b3b43dfcb3ff6408e6db631b36edb01e5cde3b7ff6e1d4e3b167cf676b2.jpg> 空飛ぶクルマのデモ飛行中止 万博
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 20:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 21:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
