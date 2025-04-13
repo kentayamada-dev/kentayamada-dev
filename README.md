@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/58a42084eaf0616374f138fc13e05f5e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/292cddf89498a7de8fe9a0d6e0b1dac3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d00a7f2215894ed08180a6ed5e96a8839f29f642>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230339-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> バッグの中から乳幼児とみられる男児遺体見つかる　死体遺棄事件として捜査　北海道・石狩市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b9aa10b10a6831abe3234b21879aaa831b2a5b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957133-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博が13日開幕　目当てのパビリオンに“駆け足”で向かう姿　混雑で会場出るまでに1時間かかるなど課題も
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 03:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 03:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
