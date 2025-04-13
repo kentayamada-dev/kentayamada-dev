@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/nXvB1dGHppw?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Wz3gGY0-wTA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/17aa5b566bf49074951e2bb9131dd9a6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/56444ab3f166f8f2679b3215ef31c643.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/012f155444136f294b5b8149b20d69a033339211>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-04131040-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菅野智之「いいスタートが切れなかったのがすべて」　本拠地デビューは５回途中３失点で勝敗つかず
+      <a href=https://news.yahoo.co.jp/articles/5064efb8abd138d3915e4561decec1857b821dbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00050056-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 松山英樹はマスターズ４８位に後退、４番と６番で３パット…「グランドスラム」へマキロイ首位
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2a41a877a5722ad68c6002ff4664ae7f03149966>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000017-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=375&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大阪・関西万博が開幕　初日は14万人来場見込み
       </a>
     </td>
   </tr>
@@ -378,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/48ef9829c64b03723ce0424e1e7780ec847f0f02b64757ce08e20d4e1e418e0b.jpg> きょう春の嵐の恐れ 気温変化が大
+      <a href=https://news.yahoo.co.jp/pickup/6535314>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/b8bcdc417ec2cd7a85560b6a128843c89b02b2c786240c8e14559e600873d4e0.jpg> ネットカジノ遮断 新制度を検討へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535309>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/e9c2f99a9d307432d8d89e1614d9e3f48ec1b2e124be0dd78cd52cdf83bcccda.jpg> 大阪・関西万博、きょう開幕
+      <a href=https://news.yahoo.co.jp/pickup/6535313>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/48ef9829c64b03723ce0424e1e7780ec847f0f02b64757ce08e20d4e1e418e0b.jpg> きょう春の嵐の恐れ 気温変化が大
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 08:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 09:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
