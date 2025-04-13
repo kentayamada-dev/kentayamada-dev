@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dd39d07e2ad97f9d612ef1da72f4d028.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b52bd4a4c00e06a4e7253ca7ca65d368.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efce4741f4797a50024754ef622358598b356bce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00050743-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 初日は１４万人が来場予約　混雑する大阪・関西万博ゲートの様子は　ミャクミャク像の前に行列も
+      <a href=https://news.yahoo.co.jp/articles/745540c6fee52dfb9601970e7a20ffc2a2a87921>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00050072-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=326&ch=326&exp=10800&fmt=webp> 大阪・関西万博、ブルーインパルスの飛行中止…「せっかくの機会だったのに」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60eea19ac36bc88efd4ba66ac93c29b5cbab47de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000020-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ブルーインパルス、天候不良でアクロバット飛行を中止　大阪万博
+      <a href=https://news.yahoo.co.jp/articles/1e082e597edeb841eda379da95d9d3288b892a77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000036-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=731&ch=731&exp=10800&fmt=webp> リングでつながれた世界でみる未来　万博の半年の行方見届ける　報道本部部長・安田奈緒美
       </a>
     </td>
   </tr>
@@ -374,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2db755d61050dbcf39e78ad6881a0b018543c215>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000349-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『ジョジョ』第7部アニメ化、大谷翔平がインスタで反応　SNSも驚き「夫婦揃ってジョジョファンとは！」「勝手に好感度爆上がり」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f7da425f89fe4ebed6ce163f0ac8a6bdb886085>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00486556-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米の相互関税からスマホなど除外　サムスンなど恩恵
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000349-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『ジョジョ』第7部アニメ化、大谷翔平がインスタで反応　SNSも驚き「夫婦揃ってジョジョファンとは！」「勝手に好感度爆上がり」
       </a>
     </td>
   </tr>
@@ -392,6 +384,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535343>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/5055b82a4f8bad8f8f94d5f028d0a8f3b5cab63ebd67d3308914801edf333e36.jpg> ミャンマー地震 民主派が停戦延長
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535326>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535337>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/64716387154a36acde5a37c9c573e7e176eb7ae0ab0e14a89c93ce077bd6d408.jpg> 万博No.1入場者 前日朝10時到着
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535344>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/2e46de472ca9ac4d4ed72cedf56b752781d18c905029a8e8f0cb9e219c983065.jpg> 万博 ブルーインパルスの飛行中止
       </a>
@@ -427,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535341>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/7e17b62e79960444f98b7e52362cb3901cf9dc3713b265c20b4099b4125530eb.jpg> スーパーで女性刺される 身柄確保
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/291f2b5fc43776b1b77701998de589c50b399ee2070b27fac037ffb9c85684ff.jpg> スーパーで女性刺される 身柄確保
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 12:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 13:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
