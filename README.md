@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a529ef8aa85432189069eda30dbff1ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e67143fbb4660865002fb86505e4faa0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/460a85fd7594fa85e844fbb330d8c01a9bdcf7d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-21851890-rccv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【きょう4/14（月）広島天気】朝晴れていても「天気急変」に注意　これから局地的に雷雲が発達　急な強い雨や突風・落雷のおそれ　大気の状態が非常に不安定に　黄砂も飛来予想
+      <a href=https://news.yahoo.co.jp/articles/c459f7022c2e089c83a486adb8d179ab25982be9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000127-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日本人4人目のNBA選手　河村勇輝の1年目終了　米国でも人気急上昇！「素晴らしい経験できた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/99c9e1f042a38194af050f852fa43b238421ff7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00781745-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 万博初日は波乱の幕開け　雨で相次いだエキシビション中止、記念式典ではアクシデント、異臭騒ぎで消防車出動も
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/800ada67190e8d84e911e2a56b70c266d0ebd5d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-10173533-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=820&ch=820&exp=10800&fmt=webp> トランプ大統領 健康状態「極めて良好」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d3cb23192b012946b9de9d0a7d44d1da8aaf892>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00253664-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=308&ch=308&exp=10800&fmt=webp> 〈大阪万博・来場客の本音〉「お年寄りには難易度高い」「建築好きにはたまらない」「希望のパビリオンに入れない」…それでも、開幕初日から壮大な大屋根リングに興奮の声も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-10173533-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=820&ch=820&exp=10800&fmt=webp> トランプ大統領 健康状態「極めて良好」
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/38b462ef1f281750dde19f844cf8fb58f3df0a7b50acb05232223f4463020311.jpg> トランプ氏の健診結果 極めて良好
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/04e5da642d226b360ac6051e831b222ddbf2f7dedb30416c72ad62608d2d7bf9.jpg> トランプ氏の健診結果 極めて良好
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/1c4b205f93d4dfddf7d449d4b06f1037eb8afe5279904614d38747663be275bc.jpg> 東北新幹線で客とトラブル 窓破損
+      <a href=https://news.yahoo.co.jp/pickup/6535420>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/636e6e5f28eee5e0c5ee7166d63f8be4b9e2c28257ce5e484bb6e2c270814d0d.jpg> 祭りで馬がぶつかる 見物客重傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535416>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/93c56ad4a746df6393d7b0bf54e773092e4f4af171fbd5dd35039897f8d7a884.jpg> MF守田に第2子誕生 仲間も祝福
+      <a href=https://news.yahoo.co.jp/pickup/6535419>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/30bd2e27dae4dac3993610c68916d729d6be8cc359b0905fcb9d8e297a9bdaa0.jpg> 河村勇輝 驚がくパスに場内熱狂
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 08:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 08:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
