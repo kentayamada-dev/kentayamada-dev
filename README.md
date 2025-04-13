@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/203db92ce78e9c0521f0e1741e553bcc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dd39d07e2ad97f9d612ef1da72f4d028.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/997bdf18404a2d16b744c1d41f3d4aad02bee80c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000003-nipponcom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【きっと行きたくなる！ 大阪・関西万博】大屋根リングやテーマ館、海外＆国内パビリオンが勢ぞろい
+      <a href=https://news.yahoo.co.jp/articles/efce4741f4797a50024754ef622358598b356bce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00050743-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 初日は１４万人が来場予約　混雑する大阪・関西万博ゲートの様子は　ミャクミャク像の前に行列も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6263830bb8821368bb765d7331866cd428c0716b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00010007-cocokara-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> 「なんて男だ」トラウトの“神対応” 捕球したボールもぎ取った敵ファンの息子へのサイン入りバット提供には賛否「許す必要ない」
+      <a href=https://news.yahoo.co.jp/articles/60eea19ac36bc88efd4ba66ac93c29b5cbab47de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000020-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ブルーインパルス、天候不良でアクロバット飛行を中止　大阪万博
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a32d26991076e4b6577ac7bb6b3191c8dc1c2a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000325-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 『ジョジョ』エピソード総選挙の結果発表　人間讃歌が実現で声優は涙…【JOJODAY】レポート
+      <a href=https://news.yahoo.co.jp/articles/2db755d61050dbcf39e78ad6881a0b018543c215>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000349-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『ジョジョ』第7部アニメ化、大谷翔平がインスタで反応　SNSも驚き「夫婦揃ってジョジョファンとは！」「勝手に好感度爆上がり」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535328>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/5a69c858b7be22575fdb82b6b89eb378bab6c121f1581e95a2d5229d96ffce2c.jpg> 中国にも「働き方改革」の兆し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535337>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/64716387154a36acde5a37c9c573e7e176eb7ae0ab0e14a89c93ce077bd6d408.jpg> 万博No.1入場者 前日朝10時到着
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535327>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c975a6bb03c33096a9ee4b2dc98df63738c6a36a90398b49a5fece6b3a4ee2ec.jpg> 米イラン核問題協議 建設的と評価
+      <a href=https://news.yahoo.co.jp/pickup/6535344>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/2e46de472ca9ac4d4ed72cedf56b752781d18c905029a8e8f0cb9e219c983065.jpg> 万博 ブルーインパルスの飛行中止
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535331>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/cbc24e129d961ab1bea097cf1ea68991a7ea34bb807fed06e5a1c294db42e8aa.jpg> 洗車機と壁に挟まれ 従業員死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535330>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/f16e6b5925adad48626ca6dd87ff5e45bc67db4bbf61f2aac0ea14dbc7d35976.jpg> 戸籍付票の写し 加害者側に誤交付
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 12:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 12:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
