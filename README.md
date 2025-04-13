@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Wz3gGY0-wTA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aea60458667164823a37306338b7ed7c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4f612fce9341c58d3cf2b46b868bb524.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e285d06d250f021e4d580072c6e1970e3dfbd6c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-90018749-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=571&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大阪・関西万博開幕　55年ぶりに大阪での開催　5か国のパビリオン開幕に間に合わず
+      <a href=https://news.yahoo.co.jp/articles/d4e08ca850252ab6336d1f2f98ddcee981637c24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000067-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 佐々木朗希　初勝利ならずもメジャー最長の５回１失点　初被弾も味方の好守備に救われる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d63b4aec4a09a8b639b0216b4904d1077d0e489>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000152-spnannex-000-22-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=1001&ch=1001&exp=10800&fmt=webp> 「しずる」コンビそろって改名発表　KAZMA→池田一真、村上純→純「原点回帰」池田は3年前も改名
+      <a href=https://news.yahoo.co.jp/articles/e285d06d250f021e4d580072c6e1970e3dfbd6c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-90018749-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=571&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大阪・関西万博開幕　55年ぶりに大阪での開催　5か国のパビリオン開幕に間に合わず
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/73b5e743ba06a37d97db8f47558d05165c4437764545b6829b2231c5d1aeb9ee.jpg> 万博が開幕 早朝から長蛇の列
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535327>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c975a6bb03c33096a9ee4b2dc98df63738c6a36a90398b49a5fece6b3a4ee2ec.jpg> 米イラン核問題協議 建設的と評価
       </a>
@@ -410,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535321>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/b93f3189b6fc9a50def53758247756c63de5fe4ccc681e0cc28178165b56af87.jpg> 関税巡り 市場で「米国売り」動き
+      <a href=https://news.yahoo.co.jp/pickup/6535326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/b4cf0e58f559c003f0d6159e36fd7e0458ee0945076849ffaf38486fd1e003ce.jpg> 石破首相 万博成功へ積極発信
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535337>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/64716387154a36acde5a37c9c573e7e176eb7ae0ab0e14a89c93ce077bd6d408.jpg> 万博No.1入場者 前日朝10時到着
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535331>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/cbc24e129d961ab1bea097cf1ea68991a7ea34bb807fed06e5a1c294db42e8aa.jpg> 洗車機と壁に挟まれ 従業員死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/2e322f04ba749ad2e8aaf53495cbd028e6dcc4ce4338c9190d182b30b957eb9c.jpg> 「生理休暇」の名称変更 秋田県
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535338>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/17f9f1cf64cdeccd43c8e5868b43b9f3b33fa20d222e4eea48a34c80cc5e2897.jpg> 朗希あわや満塁被弾 救われ大興奮
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535333>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/9ef8c6539e6e2363541adc38c6ff1443e66b4abb73fdb0f9315861d09a19b633.jpg> しずる コンビそろって改名発表
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 11:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 11:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
