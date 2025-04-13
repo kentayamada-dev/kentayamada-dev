@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd5664861e3d21fe7c6fd3c732d9f23b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/58a42084eaf0616374f138fc13e05f5e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/778eac548af083e3fd0c99f69a35a65d3b3dbc10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000053-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 「並ばない万博」初日に課題続出　ネット障害でQRコード開けず…地図は紙印刷推奨？
+      <a href=https://news.yahoo.co.jp/articles/8b9aa10b10a6831abe3234b21879aaa831b2a5b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957133-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博が13日開幕　目当てのパビリオンに“駆け足”で向かう姿　混雑で会場出るまでに1時間かかるなど課題も
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 02:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 03:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
