@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9955acacafcfd72c5b269bc0786f81e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a5052cafb46021e11b7b4cf49ef538dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d33ae1c6c27629373fa2528051d31fa0524aac83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230344-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> きょう14日（月）の天気　西日本は落雷や突風・ひょうに十分注意　今週前半は大気非常に不安定
+      <a href=https://news.yahoo.co.jp/articles/97908801e572aeed27cde9176e3482edf5fbf0f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90050030-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【バッグから男児の遺体】「住宅敷地に血の付いたバッグが捨てられている」近隣住民が110番―“目立った外傷なし”…警察が殺人や死体遺棄事件を視野に捜査＜北海道石狩市＞
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b0980ff5750d9cb204208d28f20c0d747d4ba5c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000003-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1164&ch=1164&exp=10800&fmt=webp> 上田竜也、作家デビューへ 構想10年 事務所の方針で一時中断→直談判し昨年から執筆再開→完成間近でKAT－TUN解散通告
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000003-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1164&ch=1164&exp=10800&fmt=webp> 上田竜也、作家デビューへ 構想10年 事務所の方針で一時中断→直談判し昨年から執筆再開→完成間近でKAT－TUN解散通告
       </a>
     </td>
   </tr>
@@ -378,8 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 内閣支持率31%で横ばい 読売
+      <a href=https://news.yahoo.co.jp/pickup/6535414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/e12c6a17c691dde81a1ac4d4c22407a93e2d07a5f53764b1af41ed4bd8c68c7c.jpg> 熊本地震前震から9年「次」に備え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535413>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/38b462ef1f281750dde19f844cf8fb58f3df0a7b50acb05232223f4463020311.jpg> トランプ氏の健診結果 極めて良好
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535397>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/96c6b95965ab06179f66fe8a2a8c75c80cf734034e7fa5283eae64457dfee0d0.jpg> 万博 場内のくら寿司で8時間待ち
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535407>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/40a5d64b91ba8e0c262bbaf15a3732ec0b8d234aab43a0d834e24fb9745e3c08.jpg> スラダン作者の長男 B2デビュー
       </a>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 06:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 07:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
