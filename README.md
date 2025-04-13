@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/17eec0a39e2271de2351d348ee2baf84.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7c61be3d2a33424ec4cdab78854ba7b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ae40ace8f725e968dc91d34d7e05fa78ab2035d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000017-hbcv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 遺体の男児は“乳幼児”か「血の付いたバッグが捨てられている」と近所の人が通報、住宅敷地に放置されたかばんの中から発見　死体遺棄も視野に捜査　北海道石狩市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ae5839a98da46dbc801872773f6d855560ba9cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000048-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 【トランプ氏腹心2人が対立】関税巡り口論“中間選挙を不安視”共和上院議員の懸念は
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000017-hbcv-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 遺体の男児は“乳幼児”か「血の付いたバッグが捨てられている」と近所の人が通報、住宅敷地に放置されたかばんの中から発見　死体遺棄も視野に捜査　北海道石狩市
       </a>
     </td>
   </tr>
@@ -386,14 +378,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c024f5fbc95a465e639e5a7b7b5fe7cf4f9beff4e3a912f4a5375b6850aa693e.jpg> 「関税戦争」チキンレースの様相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535406>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 内閣支持率31%で横ばい 読売
       </a>
@@ -402,24 +386,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/9da642e9382d27f5ac500c2b9a07e063f8afdd7ce6ce7da453f7e35e7d0313d3.jpg> 米政権 移民6千人「死亡」扱いか
+      <a href=https://news.yahoo.co.jp/pickup/6535378>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c024f5fbc95a465e639e5a7b7b5fe7cf4f9beff4e3a912f4a5375b6850aa693e.jpg> 「関税戦争」チキンレースの様相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535410>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/1f56892ea052592f94c4a3bae7d0a403aef1c72f198b1bb7c7e57509660d0c8e.jpg> かばんの中に男児の遺体 乳幼児か
+      <a href=https://news.yahoo.co.jp/pickup/6535403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/7f506d5e7a8e5a672a9fa2a03b8ce3e3c6477fd9f1dedc5d92cdfea82e1d64cb.jpg> 緩衝地帯拡大 イスラエルの狙い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/6c1c49438580c51cfb5032b4f47f624ff3bd355b1331d7d1bff7317a596813d1.jpg> 万博東ゲートにWi-Fi 通信悪化で
+      <a href=https://news.yahoo.co.jp/pickup/6535389>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/f11a1174a0e3cee5bb37aeb070e397f042f22b91ad9584045b8b74923606a573.jpg> 広島で殺人 周辺の小中臨時休校へ
       </a>
     </td>
   </tr>
@@ -434,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535408>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/36e52582f28cdcaddca38e7443a1f4023e2130f931d5eb7af8d0a53cc177fbb8.jpg> 突然コンビで改名 しずるの特異さ
+      <a href=https://news.yahoo.co.jp/pickup/6535397>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/96c6b95965ab06179f66fe8a2a8c75c80cf734034e7fa5283eae64457dfee0d0.jpg> 万博 場内のくら寿司で8時間待ち
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535407>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/40a5d64b91ba8e0c262bbaf15a3732ec0b8d234aab43a0d834e24fb9745e3c08.jpg> スラダン作者の長男 B2デビュー
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 23:52:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 00:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
