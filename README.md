@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Wz3gGY0-wTA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4f612fce9341c58d3cf2b46b868bb524.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/203db92ce78e9c0521f0e1741e553bcc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4e08ca850252ab6336d1f2f98ddcee981637c24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000067-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 佐々木朗希　初勝利ならずもメジャー最長の５回１失点　初被弾も味方の好守備に救われる
+      <a href=https://news.yahoo.co.jp/articles/997bdf18404a2d16b744c1d41f3d4aad02bee80c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000003-nipponcom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【きっと行きたくなる！ 大阪・関西万博】大屋根リングやテーマ館、海外＆国内パビリオンが勢ぞろい
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e285d06d250f021e4d580072c6e1970e3dfbd6c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-90018749-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=571&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大阪・関西万博開幕　55年ぶりに大阪での開催　5か国のパビリオン開幕に間に合わず
+      <a href=https://news.yahoo.co.jp/articles/6263830bb8821368bb765d7331866cd428c0716b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00010007-cocokara-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> 「なんて男だ」トラウトの“神対応” 捕球したボールもぎ取った敵ファンの息子へのサイン入りバット提供には賛否「許す必要ない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0a32d26991076e4b6577ac7bb6b3191c8dc1c2a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000325-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 『ジョジョ』エピソード総選挙の結果発表　人間讃歌が実現で声優は涙…【JOJODAY】レポート
       </a>
     </td>
   </tr>
@@ -379,27 +387,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8a79a2d5937eab5a15f59c09a5daa7b9407096d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00064946-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> アパートに５０歳女性遺体　交友関係あった３９歳男逮捕　高松市内のパチンコ店で発見され任意同行　徳島県警
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535327>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c975a6bb03c33096a9ee4b2dc98df63738c6a36a90398b49a5fece6b3a4ee2ec.jpg> 米イラン核問題協議 建設的と評価
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535326>
@@ -412,6 +404,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535337>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/64716387154a36acde5a37c9c573e7e176eb7ae0ab0e14a89c93ce077bd6d408.jpg> 万博No.1入場者 前日朝10時到着
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535327>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c975a6bb03c33096a9ee4b2dc98df63738c6a36a90398b49a5fece6b3a4ee2ec.jpg> 米イラン核問題協議 建設的と評価
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535341>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/7e17b62e79960444f98b7e52362cb3901cf9dc3713b265c20b4099b4125530eb.jpg> スーパーで女性刺される 身柄確保
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/fc9d09ed6b50313fe156650fb8ef50e4391f1623510e1bcd4028b3313d213fa0.jpg> G戸郷 悲劇のマウンドを自ら分析
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/17f9f1cf64cdeccd43c8e5868b43b9f3b33fa20d222e4eea48a34c80cc5e2897.jpg> 朗希あわや満塁被弾 救われ大興奮
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/733b8d10b8aefab218ee62f58ebed645ac0994e6ba3e8d2aa2b9c449db95566d.jpg> 朗希あわや満塁被弾 救われ大興奮
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 11:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 12:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
