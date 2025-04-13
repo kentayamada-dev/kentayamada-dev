@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0cc17b9f13a9b315cfbef635544d883a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b635bb846c0b9ee90a5b54b05660c87.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/97391b6faa3658880cc7be70e1452ce981eed6b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000045-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 会場最寄り駅、大混雑　「海の万博」の弱点露呈
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/370c5fd585483259b476bf05d3191d1f4862d04c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000041-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=585&ch=585&exp=10800&fmt=webp> 知人女性を殺害容疑で男性逮捕　背中などを刺したか　徳島
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000041-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=585&ch=585&exp=10800&fmt=webp> 知人女性を殺害容疑で男性逮捕　背中などを刺したか　徳島
       </a>
     </td>
   </tr>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b714687681a26075f1e014542ff6371fb24f9b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00010000-wordleafv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=247&cw=1248&ch=1248&exp=10800&fmt=webp> 大阪・関西万博・ブルーインパルスの飛行が天候不良で中止　通天閣社長「残念も万博は無事開幕」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/41302bc07d07da8cbc9f1400d5a1b85a218bdf80637ce2ef4a5e99983a7702b5.jpg> 消費税減税 自民・立憲が慎重論
+      <a href=https://news.yahoo.co.jp/pickup/6535353>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/d5d9bcd2fcebf4f95383b45f57eed913c609372e118f019bb4c2cf0dbc6f7f95.jpg> 首相「防災庁」概要6月公表の考え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/6d3ae77b5cf0520cc587f628b769011d78d80251fc40a4d83571f0e7e57fe051.jpg> 14日は広い範囲で黄砂予想 対策を
+      <a href=https://news.yahoo.co.jp/pickup/6535348>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/617cc561f8fb67daf1739519fd95a290d8f3c14d1a0380967681835f6c6e4b1f.jpg> 旧統一の式典 日本から8000人参加
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/44b37d97b79548bbac96921645cadc7faaf171c8ac219c9191cffba888cb9371.jpg> ただやけん バス運転手が客に暴言
+      <a href=https://news.yahoo.co.jp/pickup/6535369>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/44b37d97b79548bbac96921645cadc7faaf171c8ac219c9191cffba888cb9371.jpg> 重度障害の客にバス運転手が暴言
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 17:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 17:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
