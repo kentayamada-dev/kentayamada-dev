@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/833907ce31aa610e0fc6df7807cf4223.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a529ef8aa85432189069eda30dbff1ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b36bd7c2231ade49966d9823e44f71ccf011742>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】14日の天気 - 西日本で雷雨 落雷・突風など注意　　黄砂も飛来　関東は午後 北部でにわか雨（14日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/460a85fd7594fa85e844fbb330d8c01a9bdcf7d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-21851890-rccv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【きょう4/14（月）広島天気】朝晴れていても「天気急変」に注意　これから局地的に雷雲が発達　急な強い雨や突風・落雷のおそれ　大気の状態が非常に不安定に　黄砂も飛来予想
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/658f550752b793804ae7075f37ea7eaabdee1e3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00871325-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 追加関税の一時停止やスマホ・半導体の除外は関税戦争「終結」への第一歩、いよいよ日本株の反撃がこれから始まる
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/7f506d5e7a8e5a672a9fa2a03b8ce3e3c6477fd9f1dedc5d92cdfea82e1d64cb.jpg> 緩衝地帯拡大 イスラエルの狙い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535411>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/93b056efa0fa64447f4a461a5a884ea7ecfa59bff84954e0a70c45e3532c2992.jpg> 海岸に女性保育士の遺体 殺人か
       </a>
@@ -436,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535409>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/1c4b205f93d4dfddf7d449d4b06f1037eb8afe5279904614d38747663be275bc.jpg> 東北新幹線で客とトラブル 窓破損
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535416>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/93c56ad4a746df6393d7b0bf54e773092e4f4af171fbd5dd35039897f8d7a884.jpg> MF守田に第2子誕生 仲間も祝福
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 07:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 08:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
