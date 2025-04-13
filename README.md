@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Wz3gGY0-wTA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9679b900fb46bccfc11fe23d1d76e789.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c8ce6a9efab92ae1365dbe7e76eef010.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/00fc13aee2589ce474cec1db444d6f1b331f99d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00050134-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=330&ch=330&exp=10800&fmt=webp> 住宅地に「血の付いたバッグが捨てられている」と１１０番通報、中に年齢不詳の男児遺体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1ae5839a98da46dbc801872773f6d855560ba9cf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000048-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 【トランプ氏腹心2人が対立】関税巡り口論“中間選挙を不安視”共和上院議員の懸念は
       </a>
@@ -365,24 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08d6ed5e68765932ac32e636b6815a12a85789f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】血の付いたバッグから全裸の男児遺体　住宅敷地内で見つかる　殺人容疑も視野に捜査　北海道石狩市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a1442544f7ee75efba50eac2921fdc1635f5d3be>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00010001-mbsnews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=590&ch=590&exp=10800&fmt=webp> 【速報】「並ばない万博」なのに…入場ゲート行列は通信状況悪化も要因　博覧会協会は来場者に”オフライン”協力依頼とWi-Fi設置へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2e69debb188bbd3cbd3c2a10e94fc784fd428fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000057-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=423&cy=0&cw=777&ch=777&exp=10800&fmt=webp> ガザ「緩衝地帯」拡大　イスラエル軍、戦争犯罪指摘も　住民域外退去への布石か
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c37f37806971f3ae80cda8f67031fe780f4453525b7d47b52b520c64b2528e84.jpg> 14日 雷雨・突風・ひょうに注意
+      <a href=https://news.yahoo.co.jp/pickup/6535387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/9da642e9382d27f5ac500c2b9a07e063f8afdd7ce6ce7da453f7e35e7d0313d3.jpg> 米政権 移民6千人「死亡」扱いか
       </a>
     </td>
   </tr>
@@ -418,22 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535398>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/86e8d1dc34b85cb8af9deb582c777665715e25b5613e7a20447da7f08a0af6b0.jpg> ツルハ大株主 経営統合に反対
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535367>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/shigemidaisuke/02167773/title-1744371295487.jpeg?exp=10800> 赤ちゃんポストの意義と欠点 解説
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535397>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/96c6b95965ab06179f66fe8a2a8c75c80cf734034e7fa5283eae64457dfee0d0.jpg> 万博 場内のくら寿司で8時間待ち
       </a>
@@ -442,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/1c4b205f93d4dfddf7d449d4b06f1037eb8afe5279904614d38747663be275bc.jpg> 東北新幹線で客とトラブル 窓破損
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535407>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/40a5d64b91ba8e0c262bbaf15a3732ec0b8d234aab43a0d834e24fb9745e3c08.jpg> スラダン作者の長男 B2デビュー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535408>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/36e52582f28cdcaddca38e7443a1f4023e2130f931d5eb7af8d0a53cc177fbb8.jpg> 突然コンビで改名 しずるの特異さ
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 23:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 23:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
