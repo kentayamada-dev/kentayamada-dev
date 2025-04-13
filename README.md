@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/866036e85a38000eeb8041e8ba272831.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/60af8984c4f9fb965f85dce1c151ca65.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/395639c81651558fadbcc346ec1e2dfa5013d342>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-34130493-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=115&cw=954&ch=954&exp=10800&fmt=webp> 小沢一郎氏「理解に苦しむ…なぜこんな簡単なことが」関税対象からスマホ除外判断のトランプ氏に
+      <a href=https://news.yahoo.co.jp/articles/2a9467582b9b80e7f547c316ca889a07565bf719>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-21851522-rccv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【黄砂予想】15（火）にかけて黄砂飛来か　西日本や南西諸島中心に　気象庁「黄砂に関する情報」発表　大陸では視程2km未満の濃い黄砂を観測　アレルギーや呼吸器系疾患の方は注意【16日（水）まで3時間ごと黄砂シミュレーション】
       </a>
     </td>
   </tr>
@@ -374,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/661d931364b02cc4da16237109eaeb9a35ba289e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000050-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 「一番楽しみにしていたのに…」　ブルーインパルス飛行中止で来場者からは残念がる声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84e70b24977eb50787dae05c465fb003d37f2313>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00781482-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ももクロ・百田夏菜子、新潟開催ライブ中止に「みんなごめんね」　ファンの反応が話題に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000050-san-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 「一番楽しみにしていたのに…」　ブルーインパルス飛行中止で来場者からは残念がる声
       </a>
     </td>
   </tr>
@@ -390,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2db755d61050dbcf39e78ad6881a0b018543c215>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000349-oric-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『ジョジョ』第7部アニメ化、大谷翔平がインスタで反応　SNSも驚き「夫婦揃ってジョジョファンとは！」「勝手に好感度爆上がり」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000349-oric-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『ジョジョ』第7部アニメ化、大谷翔平がインスタで反応　SNSも驚き「夫婦揃ってジョジョファンとは！」「勝手に好感度爆上がり」
       </a>
     </td>
   </tr>
@@ -402,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/41302bc07d07da8cbc9f1400d5a1b85a218bdf80637ce2ef4a5e99983a7702b5.jpg> 消費税減税 自民・立憲が慎重論
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535345>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/470f3ef99304b742641cbeb428e983f57fecce7a6d3a4bf5668d40c444e3f15d.jpg> イスラエル ガザ地区ラファを包囲
       </a>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535343>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/5055b82a4f8bad8f8f94d5f028d0a8f3b5cab63ebd67d3308914801edf333e36.jpg> ミャンマー地震 民主派が停戦延長
+      <a href=https://news.yahoo.co.jp/pickup/6535336>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/95e1edb6cd54c82db642d3d822a8acd5c26ac973e9858f89f4d99ccdf46a8a6e.jpg> 医療ヘリ事故 専門家が状況分析
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535347>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c12503dc347fd14954c187df2929633949507b8d155d04f9dc57b0e2cea0460f.jpg> 万博開幕 2h後もゲートは長蛇の列
+      <a href=https://news.yahoo.co.jp/pickup/6535350>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c167f33baf74e3d6a2e3655b300f5d85165e14ffc3657e9fbaa969efa13d9a9c.jpg> 440万円の万博グッズ30分で売れる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535341>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/291f2b5fc43776b1b77701998de589c50b399ee2070b27fac037ffb9c85684ff.jpg> スーパーで女性刺される 身柄確保
+      <a href=https://news.yahoo.co.jp/pickup/6535351>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/46303460515fec4832274d82910e55b4f58d09c04ed9b6abb19cbf3312ed27aa.jpg> ド軍大敗 野手登板しモノマネ劇場
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/d4078f761c6bb69158b5cc8bf7122af1c32002e00251e0b957a99af432210cd3.jpg> ももクロのライブ 強風で当日中止
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 14:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 15:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
