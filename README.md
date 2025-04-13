@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/60af8984c4f9fb965f85dce1c151ca65.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e23de6221107442bbcb181569de1ae2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a9467582b9b80e7f547c316ca889a07565bf719>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-21851522-rccv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【黄砂予想】15（火）にかけて黄砂飛来か　西日本や南西諸島中心に　気象庁「黄砂に関する情報」発表　大陸では視程2km未満の濃い黄砂を観測　アレルギーや呼吸器系疾患の方は注意【16日（水）まで3時間ごと黄砂シミュレーション】
+      <a href=https://news.yahoo.co.jp/articles/c4a24da62d54e7a1fcd1de612c8341cef0690e4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00957014-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 西友で刺された女性死亡…夫とみられる自称・兼沢孝行容疑者（58）を殺人未遂で現行犯逮捕「金銭トラブルで刺した」刃物は店内で購入
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4653bf56cbd86732cea63e30c2b176b1f04e482c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00064952-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ブルーインパルスの“展示飛行”中止に　飛行隊長「天候には勝てませんので非常に残念」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b2c8ae7e24f3279bbdc65a3af643ab94f7886c44>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00957000-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー民主派組織が停戦延長　国軍も22日まで停戦表明も“空爆継続”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/661d931364b02cc4da16237109eaeb9a35ba289e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000050-san-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 「一番楽しみにしていたのに…」　ブルーインパルス飛行中止で来場者からは残念がる声
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535318>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/9197dd610619596efa46097ba70d8f12dce08cf51146d94e4417a10f3c374a5f.jpg> 百日ぜき全国で流行 大人も予防を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/4cf2a894176f40b51434c8cb544e8eacdb54fe5423ed923d9181fea531491e20.jpg> 万博 ブルーインパルスの飛行中止
+      <a href=https://news.yahoo.co.jp/pickup/6535355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/6dfb835025f9ab0ddfea777d4062ce9ec5db4d99398b16a3400083a380eb9ce4.jpg> スーパーで女性刺される 夫を逮捕
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535352>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/e72ba2fab5effab711d3fff757f537995518867fa2c4ed333f7864b2250d1e9b.jpg> コナン声優 山下美月が影響力驚き
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 15:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 15:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
