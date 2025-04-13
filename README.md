@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Wz3gGY0-wTA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b246ba32e1ced9e44cf1d3d5c472c01.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/866036e85a38000eeb8041e8ba272831.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/395639c81651558fadbcc346ec1e2dfa5013d342>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-34130493-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=115&cw=954&ch=954&exp=10800&fmt=webp> 小沢一郎氏「理解に苦しむ…なぜこんな簡単なことが」関税対象からスマホ除外判断のトランプ氏に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b2c8ae7e24f3279bbdc65a3af643ab94f7886c44>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00957000-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ミャンマー民主派組織が停戦延長　国軍も22日まで停戦表明も“空爆継続”
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/661d931364b02cc4da16237109eaeb9a35ba289e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000050-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 「一番楽しみにしていたのに…」　ブルーインパルス飛行中止で来場者からは残念がる声
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000050-san-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=717&ch=717&exp=10800&fmt=webp> 「一番楽しみにしていたのに…」　ブルーインパルス飛行中止で来場者からは残念がる声
       </a>
     </td>
   </tr>
@@ -382,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2db755d61050dbcf39e78ad6881a0b018543c215>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000349-oric-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『ジョジョ』第7部アニメ化、大谷翔平がインスタで反応　SNSも驚き「夫婦揃ってジョジョファンとは！」「勝手に好感度爆上がり」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000349-oric-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 『ジョジョ』第7部アニメ化、大谷翔平がインスタで反応　SNSも驚き「夫婦揃ってジョジョファンとは！」「勝手に好感度爆上がり」
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535324>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/0b5def20b4ea4f18f0408509fabe290fd7974a12c4fb03a5bbc69a6d856d4f32.jpg> 万博見どころ 空飛ぶ車や火星の石
+      <a href=https://news.yahoo.co.jp/pickup/6535318>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/9197dd610619596efa46097ba70d8f12dce08cf51146d94e4417a10f3c374a5f.jpg> 百日ぜき全国で流行 大人も予防を
       </a>
     </td>
   </tr>
@@ -419,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/2e46de472ca9ac4d4ed72cedf56b752781d18c905029a8e8f0cb9e219c983065.jpg> 万博 ブルーインパルスの飛行中止
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/4cf2a894176f40b51434c8cb544e8eacdb54fe5423ed923d9181fea531491e20.jpg> 万博 ブルーインパルスの飛行中止
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/733b8d10b8aefab218ee62f58ebed645ac0994e6ba3e8d2aa2b9c449db95566d.jpg> 朗希あわや満塁被弾 救われ大興奮
+      <a href=https://news.yahoo.co.jp/pickup/6535340>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/5bf292ee05a47bf152cfc78ed86b9d60de68c144be25a5ed7b6276634ef8878d.jpg> トラウトが捕った球 敵ファン奪う
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 14:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 14:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
