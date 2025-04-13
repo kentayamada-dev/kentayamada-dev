@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Wz3gGY0-wTA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6735b750bc07c22eb8026a675079561e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6f12d5f64e0572c30b5383e327191e06.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8c33797517caf0a65d1ace9b14d917427fb33ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-06191699-ytv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】万博「空飛ぶクルマ」デモフライト中止　悪天候のため
+      <a href=https://news.yahoo.co.jp/articles/a2de2fa3c98d4523f6edeb680f9b950abf6dc1d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00050746-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「きのうの午前から並んだ」待ちわびた万博開幕！　会場内は行列行列・・・　混雑で「とりあえず食べものがほしい」「お土産買えなかった」という声も　開幕日の一日
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ccd1be59057d99dd0b26502115ae50ac76bf8854>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000034-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 「相互関税」スマホなど対象外に　トランプ政権“反発”回避か
+      <a href=https://news.yahoo.co.jp/articles/4e0c1eecff68d957571da29d22dc3a0bc23aa609>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00957028-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、半導体への関税措置14日に詳細発表へ　スマホやパソコンは相互関税の対象外に
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535353>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/d5d9bcd2fcebf4f95383b45f57eed913c609372e118f019bb4c2cf0dbc6f7f95.jpg> 首相「防災庁」概要6月公表の考え
+      <a href=https://news.yahoo.co.jp/pickup/6535371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/df5af8958c5f427cb63af340af8390b0027c64c726beb35a196ba9fc38f01144.jpg> 現金給付案「評価せず」57% 毎日
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535348>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/617cc561f8fb67daf1739519fd95a290d8f3c14d1a0380967681835f6c6e4b1f.jpg> 旧統一の式典 日本から8000人参加
+      <a href=https://news.yahoo.co.jp/pickup/6535360>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/2b394d3686da3e0d8d4f311513f516129ddbecd109e282622783264ba36f764d.jpg> 能登 地震と豪雨の避難所全て閉鎖
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c07c19abfed5f3a23ac5a8119b288326d1eed71a5fca94dd8ccddcf13c9d8024.jpg> ブルーインパルス 飛行中止の経緯
+      <a href=https://news.yahoo.co.jp/pickup/6535376>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/97a55b3b43dfcb3ff6408e6db631b36edb01e5cde3b7ff6e1d4e3b167cf676b2.jpg> 空飛ぶクルマのデモ飛行中止 万博
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535358>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/60c2c39d0c7e46ab183d4f949c3cb4c5ed4ede8a64d117cebad5f97cb5f0d2d8.jpg> 川崎F小林悠 ギネス世界記録認定
+      <a href=https://news.yahoo.co.jp/pickup/6535372>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/e525f9c827071bb093733b74b94a1c8e9f5c573594ac7d50ae68bf515ce24820.jpg> テレワーク→すし職人 転身した訳
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 18:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 18:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
