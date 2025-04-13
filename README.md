@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c52b07de67efa78e753da2fc16ee0bf7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0cc17b9f13a9b315cfbef635544d883a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/370c5fd585483259b476bf05d3191d1f4862d04c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000041-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=585&ch=585&exp=10800&fmt=webp> 知人女性を殺害容疑で男性逮捕　背中などを刺したか　徳島
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c991c35c272a2e88e2d08e45bc8b2978c6d967ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000295-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=692&ch=692&exp=10800&fmt=webp> ももクロ、緊急配信へ　強風で新潟・野外ライブが当日中止　運営の対応に「フォローのスピード凄い」の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1b714687681a26075f1e014542ff6371fb24f9b2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00010000-wordleafv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=247&cw=1248&ch=1248&exp=10800&fmt=webp> 大阪・関西万博・ブルーインパルスの飛行が天候不良で中止　通天閣社長「残念も万博は無事開幕」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/464596b1eef1dd9cba3072f5a3fa67c56b40bfc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00089099-tspkeiba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【桜花賞】エンブロイダリーは４９年ぶりの記録　新種牡馬産駒Ｖは５年ぶり、森一誠調教師は驚異の成績
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41a3d5714b278e5b871e6ba2ea36dd2ad3f3547e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000030-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 自民・森山氏「国際的信認失い大変なことに」代替財源なき消費減税論をけん制
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/95e1edb6cd54c82db642d3d822a8acd5c26ac973e9858f89f4d99ccdf46a8a6e.jpg> 医療ヘリ事故 専門家が状況分析
+      <a href=https://news.yahoo.co.jp/pickup/6535364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/8122b2bb2ce9d8c4b326b995b9fc97457e975c866bc7ba132ab425895bf068a7.jpg> スーパーで刺され女性死亡 男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535364>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/8122b2bb2ce9d8c4b326b995b9fc97457e975c866bc7ba132ab425895bf068a7.jpg> スーパーで刺され女性死亡 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6535356>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/c07c19abfed5f3a23ac5a8119b288326d1eed71a5fca94dd8ccddcf13c9d8024.jpg> ブルーインパルス 飛行中止の経緯
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/44b37d97b79548bbac96921645cadc7faaf171c8ac219c9191cffba888cb9371.jpg> ただやけん バス運転手が客に暴言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535358>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/60c2c39d0c7e46ab183d4f949c3cb4c5ed4ede8a64d117cebad5f97cb5f0d2d8.jpg> 川崎F小林悠 ギネス世界記録認定
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/46303460515fec4832274d82910e55b4f58d09c04ed9b6abb19cbf3312ed27aa.jpg> ド軍大敗 野手登板しモノマネ劇場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/5126d39da7372dead891f8d44bb2ad95753d8a4fbd10d966114ea6ab3df962b5.jpg> 春日俊彰念願の冠番組 BSの魅力
+      <a href=https://news.yahoo.co.jp/pickup/6535365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/368fe62ff9d8026c15dc91158b2af7ffc2ca0fb878eeb1ead3edf9381667dba5.jpg> ももクロ公演中止 緊急配信実施へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 16:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 17:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
