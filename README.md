@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c063b14a739759bba901207b8979a4ac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f99aae2f2bd0f820e1e9202335084eea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b99a1d2835ca095c65e3f0d990b2daf2ef31ca80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00010009-chugoku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=1269&ch=1269&exp=10800&fmt=webp> 広島県府中町の男性殺害事件　現場の遺留品から身元特定できず　犯人が持ち去ったか　県警、80人態勢で捜査本部設置
+      <a href=https://news.yahoo.co.jp/articles/170c14f4d4a9a394eb7d250c2db05be10d5f3e14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000017-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=24&cw=800&ch=800&exp=10800&fmt=webp> 埼玉で落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意　14日【気象情報】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69392521e2c775764d0364d5fc6639b85dc73b1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00628478-raditopi-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 大阪・関西万博開幕 夢洲で“未来社会のデザイン”…前売券販売78%、一部海外パビリオン間に合わず
+      <a href=https://news.yahoo.co.jp/articles/722dfbd342dccc6a2c63faf7872e02e25f0258a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-34131825-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=976&ch=976&exp=10800&fmt=webp> 【ボートレース】ボートレース界のブルーインパルス池田浩二が鮮やか航跡でテイクオフ／住之江G1
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/089a6106a0e56c269f23342afd9ffd9c52bb69cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000056-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 相互関税からスマホ除外　反発恐れ、値上げ回避　米政権
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250413-00000056-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=777&ch=777&exp=10800&fmt=webp> 相互関税からスマホ除外　反発恐れ、値上げ回避　米政権
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/3d01789a40769bbd74200c3199714496c2f028c7ce9004d2ce77dd1368a0ec55.jpg> 公用車10台壊される 5日前も被害
+      <a href=https://news.yahoo.co.jp/pickup/6535374>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/e010599e85777ea738f82a9e06f32a2d7e43b45afcbfd28ad51904a08e0ece19.jpg> マイナ保険証コピーは無効 注意を
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/13 21:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/13 22:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
