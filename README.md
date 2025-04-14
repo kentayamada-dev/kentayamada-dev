@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Wz3gGY0-wTA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Yw6_0oDWDGk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b4e79381be207d3754e50aa7e937df3c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b7bb7273c7de194ab603e95ee6b5f883.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/552d4108916d4b3f75d7acae1d4079dd8ebb05c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【日本市況】株反発、電子機器の上乗せ関税除外受け－円・債券は上昇
+      <a href=https://news.yahoo.co.jp/articles/262bc9ae296e9359d4927d69ba6fd95764ec6803>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000051-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=841&ch=841&exp=10800&fmt=webp> 「朝、連絡取れず…」和歌山・岸本知事救急搬送　知事公舎で倒れているのを秘書らが発見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a82e1e03a937e4ccce28a6dd0e7ec5ab3c66dfaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01291188-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、半導体関税“来週中に発表”
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/34aedc67531edd20f8e5d01e7213d6eebe5a951a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000036-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 尹前大統領“内乱首謀”を否認 「非暴力的に要求受け入れた」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d110d6507431f92d47ee7ca0e8a98e4ac9f0bc86>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050751-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> “心霊スポット”の廃墟旅館で「煙があがっている」通報、畳の一部焼ける　出火原因を捜査　大阪・阪南市
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535436>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8b440f8ec82537d871fe3beb4c4967b709371db5684e836398f95a314b1b2542.jpg> 万博 大屋根リングで「雨漏り」
+      <a href=https://news.yahoo.co.jp/pickup/6535455>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/cae3b60336eb9d3e3c0fe17ca5fae0f6f92726a21b028bdc602911a23e90611f.jpg> コロナで夫死亡 ぬくもりない別れ
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535450>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/dd3d8fc834b21b7307c6828e795bf0d919f2d7bc2ad022a2e973bede4c75e91a.jpg> ド軍監督 大谷不調を問題視せず
+      <a href=https://news.yahoo.co.jp/pickup/6535432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/3985047f5d021324e93a37abbe26549ebd9a05959dafb415cdeb75273f61328f.jpg> 少数派の男性養護教諭 頼られる訳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 14:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 15:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
