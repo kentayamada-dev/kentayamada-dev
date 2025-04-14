@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/11e101a59c474b66df0f7e48e7556a2d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/29d26d3f30b7341dea2acb5a99adcc0e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e88c42a5f9a289fb8df65797ed076483e99574d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957505-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 工事現場で重機が100m〜200m崖下に転落　心肺停止の状態で搬送された50代男性がその後死亡　長野・安曇野市
+      <a href=https://news.yahoo.co.jp/articles/671e4b44db8de901978c1df259b06fff208b18ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “トランプ関税”説明が二転三転…中国「アメリカは関税を乱用」と批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4e099a4e051d125b73622dba27d6dfcfbb93a1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00068395-gonline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 日経平均は朝方一時700円超高も、396.78円高の「33,982.36円」で取引終了…投資家の“買い気”を削いだラトニック米商務長官の「ひと言」【4月14日の国内株式市場概況】
+      <a href=https://news.yahoo.co.jp/articles/679a3b318de73329c9dbb05940a162285be6e8ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000066-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 韓国・尹前大統領「民主主義守るため」　内乱罪を全否定　地裁初公判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d11173e0a0457c2ce2ac1650c78a0ff47c98d826>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00064984-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 『１型糖尿病』患者への移植に成功“ｉＰＳ細胞から作った膵臓組織”　京大病院が治験　血糖値コントロールのための注射が不要となるか…２０３０年代の実用化を目指す
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d543dad7da37e86f066eded812e955dbd107a866>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-34140960-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=466&cy=0&cw=1034&ch=1034&exp=10800&fmt=webp> 【韓国】裁判官から「話が長すぎる」と制止も…尹錫悦前大統領が80分超え否認　刑事裁判開始
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535481>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/2f05f1fb29d30045b05e297e8a612d0f699058bd4c8d12d2f256da087ebdbe40.jpg> ミャンマー地震 死亡の邦人は40代
+      <a href=https://news.yahoo.co.jp/pickup/6535482>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/3ab334163f32bb27d76db6ee33d406b759af35ffc772b4d1ca6f90bba49fffaf.jpg> 切り抜き動画 玉木氏は推進の立場
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8ee5b025d669e243cf3400bcec06a0e1b9a5182ccc9c04211e3ec2a3d6351d05.jpg> 重体の和歌山知事 前日は行事参加
+      <a href=https://news.yahoo.co.jp/pickup/6535489>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/bdfbcf31b4b2e1d86e5f9342da25177c59dd336b88e3f0cd2bd079e9dc1c741e.jpg> 搬送された和歌山知事 ICUで治療
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/515f0293c3d347c668eff0345a4fefe5cd4087cfd01934abc1681960d15a8027.jpg> 「FC2WEB」6/30でサービス終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535484>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/fa11372e2d888f7e1d2363e25404a89bec1e4b3ec35bfb88000871d0b0255c2b.jpg> 2軍調整の戸郷に久保コーチが指導
+      <a href=https://news.yahoo.co.jp/pickup/6535487>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/69fa1a079c84da07e8fd510b7ccbf99cac211baecc5b8929ae78466b871a2306.jpg> 米でも人気 河村勇輝の1年目終了
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/4a7d96b45642a09ff8be79a4972abc6b77b2e9eafa4c791095cab7d46d32ecf5.jpg> 愛之助 藤原紀香と万博行きたい
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 19:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 20:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
