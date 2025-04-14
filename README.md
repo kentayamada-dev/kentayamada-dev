@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e8e244464b8c31324e93e39343002a82.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e19f02f309e49ea552a2dff91d26869a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6f9269c4ee735169feec0afcd6339fa3d4f08c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-10173719-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=800&ch=800&exp=10800&fmt=webp> そっち…！？ メッツ千賀滉大、“想定外のボール”「エグすぎる」「絶妙」 外角低めいっぱいに“鬼制球”→完璧ストレートで見逃し三振
+      <a href=https://news.yahoo.co.jp/articles/69129eba814b96506d3b9613ffb6ecf9d3974ae9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-35231779-cnetj-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=675&ch=675&exp=10800&fmt=webp> NVIDIA、米国でAI半導体を製造開始--スパコンの組み立ても実施へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21718f5437072bb1fbd250776a0d247a92f578e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000024-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=750&ch=750&exp=10800&fmt=webp> NY株続伸、312ドル高　相互関税のスマホ除外好感
+      <a href=https://news.yahoo.co.jp/articles/3b41e4a8e7d919610add1a4973e25102c395daa7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000152-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「許すことできない」八代ミュージック＆ギャラリー　八代亜紀さんのヌード付きCDで声明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/38cbc574572f0d512871ab63e9850f2ebb36cfe1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-07230580-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ケイティ・ペリーさんら女性6人を乗せた宇宙船打ち上げ成功　米・宇宙開発会社「ブルーオリジン」
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535511>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/92286d0746632b76dfa2231076614f1de724f7b4d8f6e609946fb0e41c266787.jpg> 米政権 スマホへの関税巡り混乱
+      <a href=https://news.yahoo.co.jp/pickup/6535519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/9805125c67c008b54724aeea9c9dcaf4e61f965615f19c9d3c83204c1594a981.jpg> 備蓄米どこ 流通の不平等訴える声
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535516>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6095a85009ed9048db73ccdffc07ffb1f5228bf0bd264b2c646e7e2bad49fcc1.jpg> 陸上・寺田明日香 第一線退く意向
+      <a href=https://news.yahoo.co.jp/pickup/6535520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/96faaf226f05c0d70f03a6713731f6bc14a4008eef16907e5021ce9ac39cda4f.jpg> ジャッジがWBC出場へ 米の主将
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535505>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/ab397a962fee45dc038e8dec1fd4ef0adce2d6849b70b2da3e7abc6a3c23ab64.jpg> バド志田千陽 ストーカー被害言及
+      <a href=https://news.yahoo.co.jp/pickup/6535516>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6095a85009ed9048db73ccdffc07ffb1f5228bf0bd264b2c646e7e2bad49fcc1.jpg> 陸上・寺田明日香 第一線退く意向
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 07:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 07:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
