@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/82f87cf5b2c93d2e18f04c552a615d2a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b4e79381be207d3754e50aa7e937df3c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b91eceae0effab393e4dcd0c5afeeebd8616753>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000020-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1423&ch=1423&exp=10800&fmt=webp> 尹前大統領、内乱首謀の罪めぐり初公判 韓国
+      <a href=https://news.yahoo.co.jp/articles/552d4108916d4b3f75d7acae1d4079dd8ebb05c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【日本市況】株反発、電子機器の上乗せ関税除外受け－円・債券は上昇
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/34aedc67531edd20f8e5d01e7213d6eebe5a951a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000036-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 尹前大統領“内乱首謀”を否認 「非暴力的に要求受け入れた」
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d887ccee72083c307f88e4c46dfc07a5d1620949>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230393-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=408&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領「柔軟に対応する」　スマホや半導体への関税を近く発表へ　製品によって関税の扱いを変える可能性を示唆
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/16b0ee4402ea7af3cea18595a732e9bf1c2229b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050078-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=337&ch=337&exp=10800&fmt=webp> 大阪・関西万博で「空飛ぶクルマ」初飛行に成功、１０ｍ上空を７分間旋回…初日は悪天候で飛べず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050078-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=337&ch=337&exp=10800&fmt=webp> 万博で「空飛ぶクルマ」初飛行に成功、１０ｍ上空を７分間旋回…初日は悪天候で飛べず
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8a50fe917a3bd256216e9b8e0f8ee876658d220c293fcbd4509efe124f4d0967.jpg> EXILE TETSUYA、活動再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6535450>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/dd3d8fc834b21b7307c6828e795bf0d919f2d7bc2ad022a2e973bede4c75e91a.jpg> ド軍監督 大谷不調を問題視せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/e5ecbf88eb9c4df41427296ffeb35709cb29f5b176769eb1161999dd9cf905a1.jpg> 「あんぱん」異例のヒロイン選考
+      <a href=https://news.yahoo.co.jp/pickup/6535444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8a50fe917a3bd256216e9b8e0f8ee876658d220c293fcbd4509efe124f4d0967.jpg> EXILE TETSUYA、活動再開へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 14:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 14:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
