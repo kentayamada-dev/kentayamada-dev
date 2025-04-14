@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b0c2f4daa67a198489d0d6df60476275.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4895c66c20a8ab60371d2e00d48626a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/26c1afbc45ae0a1dad143fad496c3be720c4f6d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ続伸、364ドル高＝ナスダックも高い（14日午前）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c0e1c1f86b8d52f599a33484317bea03fff4757e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00010004-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1461&ch=1461&exp=10800&fmt=webp> ドジャース開幕8連勝から6敗目 ロバーツ監督「ショウヘイが得点圏で打席に立てる様にしなければならない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7397f002dbd02a0f62c81d71ef235f07e83b849d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-34141534-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=71&cw=736&ch=736&exp=10800&fmt=webp> ストーカー被害の志田千陽が無事報告「スタッフさんに警備していただき、安心して過ごせました」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/559915255611539ff7b705ece2cdfad2f169224d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-21854029-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 西日本・東日本は15日にかけて落雷や竜巻などの激しい突風、急な強い雨に注意　島根・鳥取は15日夜遅くにかけて局地的に雷雲が発達する見込み　上空約5500メートルに氷点下30度以下の寒気
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53e4880d371e7446c18345ac29647d829c6ef67a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050167-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=381&ch=381&exp=10800&fmt=webp> バドミントン女子・志田千陽、中国でストーカー被害…ホテル内でつきまとわれる「危ないなと感じていた」　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d364e5e43a06578a4dbfef532e4e637acc147e61>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957367-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【狙い目?】大行列が消えた大阪・関西万博の開幕“初の平日”の光景…空飛ぶクルマの公開も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1e7d2d41b79e103a087c2ccacb3a3230f86e914>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00486684-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=366&ch=366&exp=10800&fmt=webp> 尹前大統領　初公判で起訴内容を否認＝「戒厳は平和的メッセージ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08ee85aa74284f67c5778b2fd6365b365d56f60a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000070-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=534&ch=534&exp=10800&fmt=webp> スマホは半導体関税の対象に トランプ政権、「対象外」から一転
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535506>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 高さ3mの雪と運搬機に挟まれ 死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535503>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/7812b73d9b636c5ba9a74bae728734cfd67f001bb20cc94b6e0d84c6b2208e72.jpg> 弁当で教職員57人食中毒 5校休校
       </a>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535504>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/65a4283f53143046e85f19f3206e5bcbaab99f7290110bfe05ade479436307e0.jpg> マスターズV マキロイ賞金6億円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535502>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/c6e65d0619de09faba2465df26cfc352af395870ec7a15f3dc78ca999aae40c4.jpg> 八代亜紀氏写真巡り 事務所が声明
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 22:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 23:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
