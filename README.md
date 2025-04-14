@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa9db290e29131fbeb868ff4e61bf768.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/34fb0f04e4f4235acacd37ac3884e31d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f1bebcf0d7a8395cd1b377b66802653cddea007>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90022707-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=379&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 八代亜紀さん、“ヌード写真”封入アルバム発売に所属事務所が声明を発表「絶対に許すことのできないもの」
+      <a href=https://news.yahoo.co.jp/articles/1f35d765d6b79848f6f893047887bb28a757d70a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050163-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=402&ch=402&exp=10800&fmt=webp> 教職員５７人、入学式の仕出し弁当食べ集団食中毒…１６人からノロウイルス
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/97699a246a3184f345fc69f362692f45495031460b213f32b4c77ff1cd09205f.jpg> 開幕の万博 会場でハプニング続出
+      <a href=https://news.yahoo.co.jp/pickup/6535503>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/7812b73d9b636c5ba9a74bae728734cfd67f001bb20cc94b6e0d84c6b2208e72.jpg> 弁当で教職員57人食中毒 5校休校
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/bcf1e5af0b6346665dd0b94d24f81aa75d2b6053e881c27cdbc11664dd5e207c.jpg> 万博 平日でもパンフレット2h待ち
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/25891bd677fee2713f6931280d0d94d6ddcdd68dd726e9b537b5450a603e0c19.jpg> 万博 平日でもパンフレット2h待ち
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 21:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 22:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
