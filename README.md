@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/209b2f9a96f651137c6b31b90f4478c2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/abdb57f28f48d842da1eeed1c3f6d392.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7bdaff7d141783ca3db4db20ea1cd7e4a9ccf35e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230429-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 韓国・ユン前大統領の初公判　「憲政秩序を回復しようと宣言したもので違法ではない」起訴内容を否認
+      <a href=https://news.yahoo.co.jp/articles/c25c3169a00e3ada3e034d29e592aa84851535b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000244-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=67&cw=765&ch=765&exp=10800&fmt=webp> 歌舞伎座急きょ公演中止「役者、スタッフも驚愕」　出演中の片岡孝太郎明かす「松竹としても苦渋の決断」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44ad618338c6176c3231b4a9ef807c9e9d9892eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90028381-tssv-000-2-thumb.jpg?exp=10800&fmt=webp> 「一方的に暴力を受けるウサギらの姿は痛ましい」ウサギ虐待の男に懲役1年 執行猶予3年の有罪判決
+      <a href=https://news.yahoo.co.jp/articles/add95e95da1ee6aa7aa740ad247c4f15f8092807>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957351-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「自分の国でモノを作りたい」トランプ関税“除外”の半導体関税率を来週発表へ　“除外”のスマホも別関税導入へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7bdaff7d141783ca3db4db20ea1cd7e4a9ccf35e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230429-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 韓国・ユン前大統領の初公判　「憲政秩序を回復しようと宣言したもので違法ではない」起訴内容を否認
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/37d0b1037928019e790c1b1df92c0321a2a28ee2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01736341-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、MLB平均も下回る“異常”数値　気になる「11.2」…HR王奪取した昨年との違い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1075c41ebfdf87665ebfe939e775747101acb61c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00010002-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領 半導体関税を来週にも発表
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01736341-fullcount-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、MLB平均も下回る“異常”数値　気になる「11.2」…HR王奪取した昨年との違い
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/cdc6235e2c299a442ac7c70a7e9cdbbc2492ff3db27e709e2192d93b43d11bd4.jpg> ウ大統領 トランプ氏に訪問を要請
+      <a href=https://news.yahoo.co.jp/pickup/6535467>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/c6ef23d6412a0ce4910dfed59ecc0145d6290a1d88d49a1b33290d4f14891fca.jpg> 愛媛の山火事が鎮火 発生から22日
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8ee5b025d669e243cf3400bcec06a0e1b9a5182ccc9c04211e3ec2a3d6351d05.jpg> 重体の和歌山知事 前日は行事参加
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535459>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/aa3c4203cb932f33a3849c671b67143fd2287dca4bb8e87541d53de81e38d17b.jpg> 中国のレアアース 輸出が凍結状態
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/e6e5957f3887301b3d2144d857ab39d19b9581fe4ee8e6fed8b56c604cecb973.jpg> 和歌山知事倒れる 意識不明の重体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535463>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/d928b0c255c966f86a38e1e75b038f8ffbee962bcc1e2417c19c75ed2731580c.jpg> 万博前売り券 約1170万枚を販売
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535454>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/143ebdbc48077c0663f577191e42fe048ecc4852c98ec0543a25949898de844d.jpg> 万博マニア ハプニングも前向きに
+      <a href=https://news.yahoo.co.jp/pickup/6535466>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8d9a364065726797afabbe3c59caf77257bd8e323986a1cf9d96a22d8ff031d3.jpg> 弁当で72人食中毒 被害者語る症状
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535469>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/03827c5fd12329c897722e3be863aa6872aac2026444f4a7f4fe7d2d50fc3995.jpg> 歌舞伎座で一時休演 客席に不具合
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 16:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 17:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
