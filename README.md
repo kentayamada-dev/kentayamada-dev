@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e30e44837805f953f42d3024c7e32bff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c187db1ff9421e19c2073cb242e09b56.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37d0b1037928019e790c1b1df92c0321a2a28ee2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01736341-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、MLB平均も下回る“異常”数値　気になる「11.2」…HR王奪取した昨年との違い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1075c41ebfdf87665ebfe939e775747101acb61c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00010002-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領 半導体関税を来週にも発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3613ec4c79f97dfd16f33c93eafc96da3f2fd383>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90018772-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】万博前売り券販売は「1170万枚以上の見込み」と博覧会協会・石毛事務総長「目標1400万枚」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eeb259ed345fdf3ba3c35896be8def7a2534ee38>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90028374-tssv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=529&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「虐待してみたいと思った自分は異常」 ウサギ虐待男が法廷で語った心の闇　裁判所が下した判断は　広島
       </a>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/23096778972f97f3c91fa01849eff32d9a060c94>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957341-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 尹前大統領が初公判で起訴内容を全面的に否認　韓国の内乱罪では首謀者は死刑か無期懲役などの刑罰
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/747cc2d376c5e696faef6cdbd589e373609c0d8c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000024-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=479&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、半導体関税を来週発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16b0ee4402ea7af3cea18595a732e9bf1c2229b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050078-yom-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=337&ch=337&exp=10800&fmt=webp> 「空飛ぶクルマ」が万博開幕後初のデモ飛行に成功、１０ｍ上空を７分間旋回…初日は悪天候で飛べず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9892d57b7ac48eb7f50e00847b6600b6eaf58a5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000035-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=129&cw=960&ch=960&exp=10800&fmt=webp> ドジャース・大谷翔平は5打数無安打で今季2度目の出塁なし　試合後はタブレット端末で映像確認して帰路に
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535449>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/123e809c4de2fc13b20080a0c4ba38c6245b5c087390eefc8aca8015e21920b5.jpg> 尹氏 初公判で起訴内容を否認
+      <a href=https://news.yahoo.co.jp/pickup/6535460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/5053b4bc34036a8ae8bbbb1d9e820444a9effcae9160084a0a44d3bed5772c33.jpg> 日本の総人口14年連続減 人口推計
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/aa3c4203cb932f33a3849c671b67143fd2287dca4bb8e87541d53de81e38d17b.jpg> 中国のレアアース 輸出が凍結状態
       </a>
     </td>
   </tr>
@@ -420,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535451>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/e6e5957f3887301b3d2144d857ab39d19b9581fe4ee8e6fed8b56c604cecb973.jpg> 和歌山知事倒れる 意識不明の重体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535463>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/d928b0c255c966f86a38e1e75b038f8ffbee962bcc1e2417c19c75ed2731580c.jpg> 万博前売り券 約1170万枚を販売
       </a>
     </td>
   </tr>
@@ -442,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535447>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/dd5b6c760925d9a171d26895ef22a5363e158a7756ec52c01664679f23671e4a.jpg> 「心霊スポット」の廃旅館で火事
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/3985047f5d021324e93a37abbe26549ebd9a05959dafb415cdeb75273f61328f.jpg> 少数派の男性養護教諭 頼られる訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8a50fe917a3bd256216e9b8e0f8ee876658d220c293fcbd4509efe124f4d0967.jpg> EXILE TETSUYA、活動再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6535454>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/143ebdbc48077c0663f577191e42fe048ecc4852c98ec0543a25949898de844d.jpg> 万博マニア ハプニングも前向きに
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 15:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 16:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
