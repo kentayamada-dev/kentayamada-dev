@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e20a4f100d1e991b475f0d85f41841b6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5304f636b4346841dd4263a38aa79cf5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/40c20ba191e8a041dc1bba870adfe975b8f2361b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90022716-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 持ち込めない大型荷物・電波・行列に雨風も…万博“2日目”盛況の一方で課題も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/817b12998eb5a8195511f9ac08c6805e3a454a8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-06617345-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 二転三転する“トランプ関税”…中国が批判　米中対立に「関税戦争やめて」企業も“悲鳴”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/150f46304c647d074e93ebc70188cce04669f34a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-02312331-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「家族が刃物で刺された」高校生とみられる少女が死亡、男を確保　さいたま市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c8d9f821c782ab28ced83af7aed463f0c7c01166>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000064-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=1036&ch=1036&exp=10800&fmt=webp> ドジャース・大谷　カブス3連戦で「12の1」も指揮官「全然心配していない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b45656118b3652c43a5f3c4c67f2dca2a6d8056f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 女子高生？　刺され死亡　20～30代男を確保　埼玉県警
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a47d4d617c5d64df2c4ea49bd50116155a835b2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00957663-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏がスマホに別関税方針　NYダウは一時500ドル超　投資家の警戒感和らぐ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000064-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=1036&ch=1036&exp=10800&fmt=webp> ドジャース・大谷　カブス3連戦で「12の1」も指揮官「全然心配していない」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/559915255611539ff7b705ece2cdfad2f169224d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-21854029-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 西日本・東日本は15日にかけて落雷や竜巻などの激しい突風、急な強い雨に注意　島根・鳥取は15日夜遅くにかけて局地的に雷雲が発達する見込み　上空約5500メートルに氷点下30度以下の寒気
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d364e5e43a06578a4dbfef532e4e637acc147e61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957367-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【狙い目?】大行列が消えた大阪・関西万博の開幕“初の平日”の光景…空飛ぶクルマの公開も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 01:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 01:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
