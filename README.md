@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/89c88e4fa3b8dd283a71ba38b2ad5062.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/17874a90372eeec768db0e432abc48d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2cf366f631e425c3deebc7c3d8a831530707e8e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000015-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】日経平均株価　一時700円超上昇し3万4000円台を回復　先週は歴史的乱高下
+      <a href=https://news.yahoo.co.jp/articles/642367da9768a06781fa7dd8d9c5482e28cf4b49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230349-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「相互関税に例外はない」“半導体関税”を導入へ　除外されていたスマートフォンやパソコンが対象に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c055fd33665679ec7f1830800e554d504fb75d72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000128-spnannex-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1052&ch=1052&exp=10800&fmt=webp> 味方を見てなかった！？河村勇輝　場内騒然ノールックパスに大興奮！「最高の気分。あのパスはやばかった」
+      <a href=https://news.yahoo.co.jp/articles/bd3091aaa8104f2d39e75bcf636675c8233827ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-04288116-ytv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】万博協会は初日「大きな事故はなかった」 13日の来場者数は「現在集計中」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/99c9e1f042a38194af050f852fa43b238421ff7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00781745-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 万博初日は波乱の幕開け　雨で相次いだエキシビション中止、記念式典ではアクシデント、異臭騒ぎで消防車出動も
+      <a href=https://news.yahoo.co.jp/articles/b169ff4770fcdf76fe40ffb571b1a9df0be3a990>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050035-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=381&ch=381&exp=10800&fmt=webp> ＮＢＡ最終戦、グリズリーズ河村勇輝が自己最多１２得点５アシスト…レーカーズ八村塁はベンチ入りせず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fd8e253bbf0910e59479b90ac6ac8bcf3c1f13d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000003-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> バッグの中から乳幼児とみられる男の子の遺体発見　目立った外傷なし　殺人も視野に捜査　北海道石狩市
       </a>
     </td>
   </tr>
@@ -387,19 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97908801e572aeed27cde9176e3482edf5fbf0f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90050030-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【バッグから男児の遺体】「住宅敷地に血の付いたバッグが捨てられている」近隣住民が110番―“目立った外傷なし”…警察が殺人や死体遺棄事件を視野に捜査＜北海道石狩市＞
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/d39572492ae5e2fae86a2dc1e393248bae8670fa56cf3950d5f4e09253cf4e1f.jpg> 自民幹事長 補正予算案の編成明言
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535421>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/2cac8cab30e5edbf888f3e1eea122eb0768b7f76273573f277a78d22dec27d21.jpg> オムツ販売 子育て特化のタリーズ
+      <a href=https://news.yahoo.co.jp/pickup/6535426>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/2cac8cab30e5edbf888f3e1eea122eb0768b7f76273573f277a78d22dec27d21.jpg> ベビーファースト タリーズ新店舗
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535412>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/6a2897539b1d9d976ee398ad78b80ae73bfa6942b4222830e70ab7547bc49c25.jpg> 上田竜也が作家デビュー 構想10年
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 09:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 10:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
