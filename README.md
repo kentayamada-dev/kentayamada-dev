@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/29d26d3f30b7341dea2acb5a99adcc0e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1c863740b0d76dd372dc707458806407.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5bf65b398c1b258aa2238af2bb74e60f71658e03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00010003-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平 5打数ノーヒット… ドジャースは3カード連続負け越しでナ・リーグ西地区3位
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/671e4b44db8de901978c1df259b06fff208b18ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “トランプ関税”説明が二転三転…中国「アメリカは関税を乱用」と批判
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-02377484-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”説明が二転三転…中国「アメリカは関税を乱用」と批判
       </a>
     </td>
   </tr>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d11173e0a0457c2ce2ac1650c78a0ff47c98d826>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00064984-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 『１型糖尿病』患者への移植に成功“ｉＰＳ細胞から作った膵臓組織”　京大病院が治験　血糖値コントロールのための注射が不要となるか…２０３０年代の実用化を目指す
+      <a href=https://news.yahoo.co.jp/articles/7547af639edbf564a5d5e2ba610fbf64209db94f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000052-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 万博初日の来場者約12万人　混乱対策で東ゲートにWi―Fi新設へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1730534da24b9fc24d0c005613ddc1b581fe0195>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01736546-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督が嘆いた“大谷の孤独”　いまだ「.000」…深刻なド軍打線の課題
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3acbeedcf317bac037b3f07130706c5b651ddb54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-09739177-ytv-000-9-thumb.jpg?exp=10800&fmt=webp> 【総力取材】大阪・関西万博、開幕の“熱狂”に密着！先頭に並んだ男性「予約ないけど入れる？」全身ミャクミャク親子「今回は僕の万博」感動の裏で、課題も…
+      <a href=https://news.yahoo.co.jp/articles/692051a09a8ae2121c22a90a619b141b5107c04b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000063-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 名鉄観光バス、新型コロナの雇用調整助成金を不正受給　20億円返納
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535486>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/9258dbba6897d3a13ae81f7a01dce0b20f9413e4c17ea56c7a5d52e17268076e.jpg> 4月も止まらない コメ価格上昇
+      <a href=https://news.yahoo.co.jp/pickup/6535494>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 関税説明が二転三転 中国が米批判
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b1f8eac6fa03fbbdab0f7b5f80ee7921986ca2ff345c2c19908364304e722522.jpg> 重機が崖下に100〜200m転落 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535495>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/1ed07e0662688f4b868ab4b069d93f097a7f16aa8488cff0e766b59c9ada9a46.jpg> 名鉄観光バス不正受給 20億円返納
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/69fa1a079c84da07e8fd510b7ccbf99cac211baecc5b8929ae78466b871a2306.jpg> 米でも人気 河村勇輝の1年目終了
+      <a href=https://news.yahoo.co.jp/pickup/6535478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b1f8eac6fa03fbbdab0f7b5f80ee7921986ca2ff345c2c19908364304e722522.jpg> 重機が崖下に100〜200m転落 死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 20:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 20:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
