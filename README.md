@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/697d178beba5e34046604e29b48ee6cf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c660b4345e5ca1cca2f424b089a81a32.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edea6a13bd06f68b3129eaa4bc0b08ca6ba02b91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 原油先物横ばい、米中貿易戦争巡る懸念くすぶる
+      <a href=https://news.yahoo.co.jp/articles/bd5932cb18e91567ed4b7011b7fa8558e053e3d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-06918546-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】万博初日の13日は11万9000人がチケットで来場　関係者2万2000人を合わせ14万人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36e7c1c739556939195d7bddc437a944fb513eb0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-06554587-ytv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】部活動中に“落雷”で意識不明の中学生2人のうち1人意識が戻る　もう1人はいまも意識不明
+      <a href=https://news.yahoo.co.jp/articles/d268211b94a5e438aef87ff258806b7e407ea95e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00010001-reutv-000-2-thumb.jpg?exp=10800&fmt=webp> 二転三転するトランプ氏の政策、半導体・電子機器に新たな関税示唆　数日前の「適用除外」発言を翻す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e324cf10c8f2e4acb9c0671b884043bfe7337a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000014-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=587&ch=587&exp=10800&fmt=webp> 万博の東ゲートにWi-Fi設置へ　通信障害受け改善策
+      <a href=https://news.yahoo.co.jp/articles/45a8857229898b986162cec6ce29f52bccbb8fe4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-08554673-stv-000-2-thumb.jpg?exp=10800&fmt=webp> ショルダーバッグに乳児の遺体「ひっくり返したら血が…」大きさは“Ａ４サイズ”入るくらい　北海道石狩市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd8e253bbf0910e59479b90ac6ac8bcf3c1f13d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000003-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> バッグの中から乳幼児とみられる男の子の遺体発見　目立った外傷なし　殺人も視野に捜査　北海道石狩市
+      <a href=https://news.yahoo.co.jp/articles/c39e64edea2f4745076164fc0245e5e40af812b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-04544046-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=505&ch=505&exp=10800&fmt=webp> 朝ドラ「あんぱん」“アンパンマンのマーチ”重なるセリフが話題「土佐弁バージョンだ」「そのまま出てくるなんて」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535421>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/cfb2fd08dd0f51e5befa83e23e66433213641ede42016d4a6f96e434522021bb.jpg> 赤沢氏 最速で米関税見直し目指す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535424>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/30e7d8afb187f84fecb78232943762704686af8b37addfc3908013810c849d3b.jpg> 万博 2日目も開門前から長蛇の列
       </a>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b9f9fc8bd4fa2a9fb6ca6e682d9a45abbbc32f24e01372c39e908520fbb53700.jpg> 郵便局 一部の窓口で「半休」導入
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535426>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/2cac8cab30e5edbf888f3e1eea122eb0768b7f76273573f277a78d22dec27d21.jpg> ベビーファースト タリーズ新店舗
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535419>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/30bd2e27dae4dac3993610c68916d729d6be8cc359b0905fcb9d8e297a9bdaa0.jpg> 河村勇輝 驚がくパスに場内熱狂
+      <a href=https://news.yahoo.co.jp/pickup/6535433>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/e5ecbf88eb9c4df41427296ffeb35709cb29f5b176769eb1161999dd9cf905a1.jpg> 「あんぱん」異例のヒロイン選考
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 11:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 11:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
