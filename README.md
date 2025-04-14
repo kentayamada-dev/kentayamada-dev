@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Yw6_0oDWDGk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e04f62358eb9e5b717b09411be09cc7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa9db290e29131fbeb868ff4e61bf768.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac0c90cdfc0ced06df802a5474c3f09080027a7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-21854109-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「青い円」が日本列島に…「寒冷渦」による寒気が流れ込む予想…西日本〜東日本は15日にかけて大気の状態が非常に不安定　大荒れ注意【雨と寒気のシミュレーション掲載】
+      <a href=https://news.yahoo.co.jp/articles/5f1bebcf0d7a8395cd1b377b66802653cddea007>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90022707-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=379&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 八代亜紀さん、“ヌード写真”封入アルバム発売に所属事務所が声明を発表「絶対に許すことのできないもの」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d364e5e43a06578a4dbfef532e4e637acc147e61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957367-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【狙い目?】大行列が消えた大阪・関西万博の開幕“初の平日”の光景…空飛ぶクルマの公開も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/95cbff0d50d5c4a772380fd2eb7251764d3a1cb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-14023101-ehime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 愛媛県内15日夕にかけ落雷・突風・強い雨の恐れ　JR予讃線一部運休
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b1e7d2d41b79e103a087c2ccacb3a3230f86e914>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00486684-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=366&ch=366&exp=10800&fmt=webp> 尹前大統領　初公判で起訴内容を否認＝「戒厳は平和的メッセージ」
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/08ee85aa74284f67c5778b2fd6365b365d56f60a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000070-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=534&ch=534&exp=10800&fmt=webp> スマホは半導体関税の対象に トランプ政権、「対象外」から一転
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92c191987019714bfdcaf7924668a185c2af8574>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000069-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 夢洲駅前の混雑は入構制限が一因　万博協会が見解　「適切な対応」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/483739df996040219b936b944fb138880bc8cd62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000111-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=70&cw=858&ch=858&exp=10800&fmt=webp> 鬼門の消費税で立民に亀裂　枝野幸男元代表が党内抗争に着火　減税派「圧力」強める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/679a3b318de73329c9dbb05940a162285be6e8ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000066-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=456&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 韓国・尹前大統領「民主主義守るため」　内乱罪を全否定　地裁初公判
       </a>
     </td>
   </tr>
@@ -418,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/97699a246a3184f345fc69f362692f45495031460b213f32b4c77ff1cd09205f.jpg> 開幕の万博 会場でハプニング続出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535497>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b3c80c06623ffb2c8f4ffa66a04e022f513499b2e5c1de6c27b915a133a52009.jpg> 重体の和歌山知事 ICUで治療続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/1ed07e0662688f4b868ab4b069d93f097a7f16aa8488cff0e766b59c9ada9a46.jpg> 名鉄観光バス不正受給 20億円返納
       </a>
     </td>
   </tr>
@@ -450,16 +434,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535493>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/606bfb132a9efd7235e90e57690d446d89f93cde3daab03aa2849786e12b1312.jpg> 京大病院 iPSで糖尿病の治験実施
+      <a href=https://news.yahoo.co.jp/pickup/6535485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/97699a246a3184f345fc69f362692f45495031460b213f32b4c77ff1cd09205f.jpg> 開幕の万博 会場でハプニング続出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/ebc9424044bf86dc5c23a6404d76ae5a01c98364f9e24d33c0045e88ad9cd501.jpg> ボディビル元王者 杉田茂さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6535501>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/bcf1e5af0b6346665dd0b94d24f81aa75d2b6053e881c27cdbc11664dd5e207c.jpg> 万博 平日でもパンフレット2h待ち
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535502>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/c6e65d0619de09faba2465df26cfc352af395870ec7a15f3dc78ca999aae40c4.jpg> 八代亜紀氏写真巡り 事務所が声明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535500>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/fe58dd929c1cb372c578e7a9340efd9cc0c6e05c0b30e9a5895cc668ac869d78.jpg> GOOD ON THE REEL 休止を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 21:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 21:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
