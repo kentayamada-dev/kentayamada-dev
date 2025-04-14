@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/92f3c93a59e73ece78971b7dafc9c399.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4609c5613fde53cd790c97008366f664.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff2d59a282acd05dfc17fcdc961c4f386df3362b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000006-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 乳児死体遺棄事件　遺体が入っていたバッグは11日（金）朝から13日（日）昼までに放置されたか　北海道石狩市
+      <a href=https://news.yahoo.co.jp/articles/67aefcda3bce1b946b477b480f1b74901e82546b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90050032-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> いったい誰が？「バッグの中にも血で、触ったらいけないと思い通報した…」【遺体は男の赤ちゃん】全裸で目立った外傷なし‐解剖して死因調べる＿北海道石狩市花川南
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a08d4e899477fd55ce9ffd8172cc1eabf32ffaf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000007-ascii-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> トランプ政権、やっぱりiPhoneにも関税　アメリカ産を強調
+      <a href=https://news.yahoo.co.jp/articles/d887ccee72083c307f88e4c46dfc07a5d1620949>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230393-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=408&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領「柔軟に対応する」　スマホや半導体への関税を近く発表へ　製品によって関税の扱いを変える可能性を示唆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/027549dceaf62768401e0b561c240bf804972b77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01287169-mmt-000-1-thumb.jpg?exp=10800&fmt=webp> “殺人”か、女性保育士（35）の胸に傷…海岸で死亡した状態　行方不明届出ていた（宮城・岩沼市）
+      <a href=https://news.yahoo.co.jp/articles/f758505659a974ea4fb054bec0fb147b06f33c73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000035-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 「心霊スポット」の廃業した旅館で火災　放火も視野に捜査　大阪府警
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535430>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/73f78e4028dcc6e3da9e87770e8b64daff4e8850f865f3d66039b611192e63cb.jpg> ミャンマー地震 邦人死亡を初確認
+      <a href=https://news.yahoo.co.jp/pickup/6535446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/a1bd033425fbc3b6b268b5267b7f244f33ca9fdb847838f3f0a6bdaeee12daad.jpg> 首相 選挙目当てのバラマキを否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535428>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/986f805fb350a4c50a9225ba04c81c7152e66702aeec392afd468b5a21140d08.jpg> 東証が大幅反発 一時700円超高
+      <a href=https://news.yahoo.co.jp/pickup/6535430>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/73f78e4028dcc6e3da9e87770e8b64daff4e8850f865f3d66039b611192e63cb.jpg> ミャンマー地震 邦人死亡を初確認
       </a>
     </td>
   </tr>
@@ -427,23 +427,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535439>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/1c5282ed5d483a5d576fe1b78b9276c11cc84be15c3d3a9f46b4d101315f0fdb.jpg> 空飛ぶクルマ 万博会場でデモ飛行
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/35358eaac2cb88c9ce66728508f6fb0d6ee37ef11de8f4313076e23db7ba1fb4.jpg> 空飛ぶクルマ 万博会場でデモ飛行
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535435>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/57656c446af21d352d9d6f6e2a69eadafd3b366ec55e18311e4ad2f7e6e2ca6e.jpg> カレー物価を試算 ニセコの逆襲
+      <a href=https://news.yahoo.co.jp/pickup/6535438>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/74ebe821ac9aea0d49e275de5af419f869a808b5010c134cbcc6685a75e42677.jpg> 千賀 7回無失点の快投で2勝目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535441>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/76f00595d0e4c9aeceafdf2c1c8200af1a64129ff1a6c8691c182154ccd3d811.jpg> 難病や起業経て 坂口憲二の存在感
+      <a href=https://news.yahoo.co.jp/pickup/6535444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8a50fe917a3bd256216e9b8e0f8ee876658d220c293fcbd4509efe124f4d0967.jpg> EXILE TETSUYA、活動再開へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 12:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 13:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
