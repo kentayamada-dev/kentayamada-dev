@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c43fd6bd0b5cec0939dbb07bb471289e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/163cc57eb85eed81b05455ebeb033049.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18338a2c1972cf4829f60caf48224ab0591a73f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-21854338-rccv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 【きょう4/15（火）広島天気】夜遅くにかけ局地的に雷雲が発達　急な強い雨や突風・落雷のおそれ　大気の状態が非常に不安定
+      <a href=https://news.yahoo.co.jp/articles/69129eba814b96506d3b9613ffb6ecf9d3974ae9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-35231779-cnetj-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=675&ch=675&exp=10800&fmt=webp> NVIDIA、米国でAI半導体を製造開始--スパコンの組み立ても実施へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69129eba814b96506d3b9613ffb6ecf9d3974ae9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-35231779-cnetj-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=675&ch=675&exp=10800&fmt=webp> NVIDIA、米国でAI半導体を製造開始--スパコンの組み立ても実施へ
+      <a href=https://news.yahoo.co.jp/articles/a1194ef7173e987724d12cb871133a2a86709804>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000170-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＜独自＞生成AIで作成したわいせつ画像のポスター販売　容疑で男ら4人逮捕　全国初摘発　警視庁
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535517>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/45ea7e92ee0fc59e84f5d1c835adf2e44590867db84fcb1d9f41c13c8f5dc68d.jpg> 米大統領 自動車関税の見直し検討
+      <a href=https://news.yahoo.co.jp/pickup/6535525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/f919b5a6dd4a175f67bdef4176d2cd3d510aa2e8b3ace14053e533ea724687b1.jpg> アーミテージ元米国務副長官 死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535524>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/580b62a6396bd4fbf715cc17ba3c030c3181edf26fb72d3a6a1395e50bef014c.jpg> トランプ氏 ウ大統領を猛烈に批判
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535516>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6095a85009ed9048db73ccdffc07ffb1f5228bf0bd264b2c646e7e2bad49fcc1.jpg> 陸上・寺田明日香 第一線退く意向
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 08:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 08:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
