@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5304f636b4346841dd4263a38aa79cf5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ab78bcb7384f450fae844c68bb2bfe4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/40c20ba191e8a041dc1bba870adfe975b8f2361b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90022716-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 持ち込めない大型荷物・電波・行列に雨風も…万博“2日目”盛況の一方で課題も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90022716-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 持ち込めない大型荷物・電波・行列に雨風も…万博“2日目”盛況の一方で課題も
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c8d9f821c782ab28ced83af7aed463f0c7c01166>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000064-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=1036&ch=1036&exp=10800&fmt=webp> ドジャース・大谷　カブス3連戦で「12の1」も指揮官「全然心配していない」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000064-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=1036&ch=1036&exp=10800&fmt=webp> ドジャース・大谷　カブス3連戦で「12の1」も指揮官「全然心配していない」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 01:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 02:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
