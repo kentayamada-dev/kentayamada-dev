@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d10dd537ea6e5e556a15041ae30aac9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/11e101a59c474b66df0f7e48e7556a2d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfabc82c78bc8ad82b640bdc68a9b786e2f04e18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-21853997-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=328&ch=328&exp=10800&fmt=webp> 【続報】死亡したのは51歳の土木業の男性と判明　道路崩落に巻き込まれバックホーごと100メートル転落　中房温泉に向かう山中の県道で舗装工事　18日に冬期通行止めの解除を予定　長野・安曇野市
+      <a href=https://news.yahoo.co.jp/articles/5e88c42a5f9a289fb8df65797ed076483e99574d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957505-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 工事現場で重機が100m〜200m崖下に転落　心肺停止の状態で搬送された50代男性がその後死亡　長野・安曇野市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa82bf1107b9c4077cb8e388e40ab79a7921170d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90018784-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「ご不便をおかけした人にはお詫びしたい」と博覧会協会・事務総長　初日の"長蛇の列"など課題に【万博】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1832528e638835aab28d94913962a3c3911f831>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000064-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 朝令暮改の「トランプ関税」　経済対策に“商品券”案浮上
+      <a href=https://news.yahoo.co.jp/articles/b4e099a4e051d125b73622dba27d6dfcfbb93a1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00068395-gonline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 日経平均は朝方一時700円超高も、396.78円高の「33,982.36円」で取引終了…投資家の“買い気”を削いだラトニック米商務長官の「ひと言」【4月14日の国内株式市場概況】
       </a>
     </td>
   </tr>
@@ -382,7 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1730534da24b9fc24d0c005613ddc1b581fe0195>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01736546-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督が嘆いた“大谷の孤独”　いまだ「.000」…深刻なド軍打線の課題
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01736546-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督が嘆いた“大谷の孤独”　いまだ「.000」…深刻なド軍打線の課題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3acbeedcf317bac037b3f07130706c5b651ddb54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-09739177-ytv-000-9-thumb.jpg?exp=10800&fmt=webp> 【総力取材】大阪・関西万博、開幕の“熱狂”に密着！先頭に並んだ男性「予約ないけど入れる？」全身ミャクミャク親子「今回は僕の万博」感動の裏で、課題も…
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d543dad7da37e86f066eded812e955dbd107a866>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-34140960-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=466&cy=0&cw=1034&ch=1034&exp=10800&fmt=webp> 【韓国】尹錫悦前大統領の刑事裁判始まる　内乱罪は「法理に合わない」と全面否認
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-34140960-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=466&cy=0&cw=1034&ch=1034&exp=10800&fmt=webp> 【韓国】裁判官から「話が長すぎる」と制止も…尹錫悦前大統領が80分超え否認　刑事裁判開始
       </a>
     </td>
   </tr>
@@ -403,31 +403,31 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535481>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/d1bc7dd54d8ab79c993a1ac2d5d8bbe117673d7e8fedf0ed2ab166e93f0e5715.jpg> ミャンマー地震 死亡の邦人は40代
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/2f05f1fb29d30045b05e297e8a612d0f699058bd4c8d12d2f256da087ebdbe40.jpg> ミャンマー地震 死亡の邦人は40代
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535475>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/64ff54411696d72626208f4e237f9ffa35468d3697b72cdeacd4a7541f0ff42c.jpg> 米 半導体関税を「来週にも発表」
+      <a href=https://news.yahoo.co.jp/pickup/6535486>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/9258dbba6897d3a13ae81f7a01dce0b20f9413e4c17ea56c7a5d52e17268076e.jpg> 4月も止まらない コメ価格上昇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535476>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/61bc7bf028388b17583ce9913b88b80241dc89f82de0bb0e418e683037d06389.jpg> 万博リング 雨漏りではないと修正
+      <a href=https://news.yahoo.co.jp/pickup/6535485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/97699a246a3184f345fc69f362692f45495031460b213f32b4c77ff1cd09205f.jpg> 開幕の万博 会場でハプニング続出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535483>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/08027e18a563532395978c521376e1ea36bfb2bde7522d1816e473170c6e25dd.jpg> バスに置き去り 親に当初伝わらず
+      <a href=https://news.yahoo.co.jp/pickup/6535468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8ee5b025d669e243cf3400bcec06a0e1b9a5182ccc9c04211e3ec2a3d6351d05.jpg> 重体の和歌山知事 前日は行事参加
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535479>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/9133525850382fb4ae3d721f3b50cf5cca9cceb116ec71b34df282905cbc0570.jpg> 牛乳安売りする店 物価高でなぜ
+      <a href=https://news.yahoo.co.jp/pickup/6535477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/515f0293c3d347c668eff0345a4fefe5cd4087cfd01934abc1681960d15a8027.jpg> 「FC2WEB」6/30でサービス終了
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/515f0293c3d347c668eff0345a4fefe5cd4087cfd01934abc1681960d15a8027.jpg> 「FC2WEB」6/30でサービス終了
+      <a href=https://news.yahoo.co.jp/pickup/6535484>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/fa11372e2d888f7e1d2363e25404a89bec1e4b3ec35bfb88000871d0b0255c2b.jpg> 2軍調整の戸郷に久保コーチが指導
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 19:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 19:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
