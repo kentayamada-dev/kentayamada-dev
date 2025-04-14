@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/abdb57f28f48d842da1eeed1c3f6d392.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/61334def8003facaed391538a5410db2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c25c3169a00e3ada3e034d29e592aa84851535b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000244-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=67&cw=765&ch=765&exp=10800&fmt=webp> 歌舞伎座急きょ公演中止「役者、スタッフも驚愕」　出演中の片岡孝太郎明かす「松竹としても苦渋の決断」
+      <a href=https://news.yahoo.co.jp/articles/c9a7114b210f31e8c9420cd72a6ab6bac82586ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-21853664-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=1440&ch=1440&exp=10800&fmt=webp> 【続報】救助された男性の死亡を確認　道路が崩落しバックホーごと崖下に転落　中房温泉に向かう山中の県道で舗装工事　長野・安曇野市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/add95e95da1ee6aa7aa740ad247c4f15f8092807>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957351-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「自分の国でモノを作りたい」トランプ関税“除外”の半導体関税率を来週発表へ　“除外”のスマホも別関税導入へ
+      <a href=https://news.yahoo.co.jp/articles/2965e39cb1d94f188a70990d916f5d17e27df52c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000001-tvh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 石狩の住宅敷地で生後まもない男児の遺体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3508b807d8c4ade7a3362b9efb153a17920d9e32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00068387-gonline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 朝令暮改の米関税政策と米中報復合戦と米国売りについて【解説：三井住友DSアセットマネジメント・チーフマーケットストラテジスト】
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7bdaff7d141783ca3db4db20ea1cd7e4a9ccf35e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230429-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 韓国・ユン前大統領の初公判　「憲政秩序を回復しようと宣言したもので違法ではない」起訴内容を否認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37d0b1037928019e790c1b1df92c0321a2a28ee2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01736341-fullcount-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、MLB平均も下回る“異常”数値　気になる「11.2」…HR王奪取した昨年との違い
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535472>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> パソナG創業者 南部代表が辞任へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535459>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/aa3c4203cb932f33a3849c671b67143fd2287dca4bb8e87541d53de81e38d17b.jpg> 中国のレアアース 輸出が凍結状態
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535462>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/c1fd2d3c2f971ab150ade011b4550ed89bfc08c726c27ddd7296e75b40f441db.jpg> EVの販売停滞 PHVの投入相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6535473>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b1f8eac6fa03fbbdab0f7b5f80ee7921986ca2ff345c2c19908364304e722522.jpg> 崖下に重機転落 作業員が心肺停止
       </a>
     </td>
   </tr>
@@ -444,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535466>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8d9a364065726797afabbe3c59caf77257bd8e323986a1cf9d96a22d8ff031d3.jpg> 弁当で72人食中毒 被害者語る症状
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/96ba4dc393f29394ed45e97de6db10a74977aac08af69e2532a8b5347eb131c7.jpg> 西武・岸潤一郎 わずか1日で抹消
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 17:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 17:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
