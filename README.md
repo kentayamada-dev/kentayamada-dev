@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/615940e84ca581688751cfaf70c84425.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c55f5a1ae4ded2a24c8dea32858209e0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/042578820cc181bf2bce97e7fe17ef4d266fb36e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博前売り券販売、970万枚　1400万枚の目標下回る　協会事務総長
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1d5dc82e6cceded2d33ae1dfa9fa7d5c15bc89d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230502-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=513&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中国「関税戦争に勝者なし」アメリカを批判 “トランプ関税”スマホ除外　対話での解決求める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d543dad7da37e86f066eded812e955dbd107a866>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-34140960-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=466&cy=0&cw=1034&ch=1034&exp=10800&fmt=webp> 【韓国】尹錫悦前大統領の刑事裁判始まる　内乱罪は「法理に合わない」と全面否認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3654efbbb136fabbf07a5b2318de69f089c1b629>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00064975-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【万博開幕で見えた課題】会場内のデザイナーズトイレは“ランプ”つかず一部で使用不可に　入場ゲートでは通信障害で“２次元コード”の表示に時間がかかるトラブル
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41c4d0bffb0d05d36a71d3847e441e5f952b6555>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔東京外為〕ドル、143円台前半＝リスクオフ後退で小幅高（14日午後5時）
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535470>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/307616a59292850118e8ba145d85b6655db6e3140c5cdc2c45f4346d8492d837.jpg> 15日にかけ 黄砂・花粉のWパンチ
+      <a href=https://news.yahoo.co.jp/pickup/6535475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/64ff54411696d72626208f4e237f9ffa35468d3697b72cdeacd4a7541f0ff42c.jpg> 米 半導体関税を「来週にも発表」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8ee5b025d669e243cf3400bcec06a0e1b9a5182ccc9c04211e3ec2a3d6351d05.jpg> 重体の和歌山知事 前日は行事参加
+      <a href=https://news.yahoo.co.jp/pickup/6535470>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/307616a59292850118e8ba145d85b6655db6e3140c5cdc2c45f4346d8492d837.jpg> 15日にかけ 黄砂・花粉のWパンチ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b1f8eac6fa03fbbdab0f7b5f80ee7921986ca2ff345c2c19908364304e722522.jpg> 重機が崖下に100〜200m転落 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/9133525850382fb4ae3d721f3b50cf5cca9cceb116ec71b34df282905cbc0570.jpg> 牛乳安売りする店 物価高でなぜ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535472>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> パソナG創業者 南部代表が辞任へ
+      <a href=https://news.yahoo.co.jp/pickup/6535478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b1f8eac6fa03fbbdab0f7b5f80ee7921986ca2ff345c2c19908364304e722522.jpg> 重機が崖下に100〜200m転落 死亡
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535469>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/03827c5fd12329c897722e3be863aa6872aac2026444f4a7f4fe7d2d50fc3995.jpg> 歌舞伎座で一時休演 客席に不具合
+      <a href=https://news.yahoo.co.jp/pickup/6535480>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/ebc9424044bf86dc5c23a6404d76ae5a01c98364f9e24d33c0045e88ad9cd501.jpg> ボディビル元王者 杉田茂さん死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 18:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 18:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
