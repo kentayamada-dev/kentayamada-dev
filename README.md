@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Yw6_0oDWDGk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c863740b0d76dd372dc707458806407.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e04f62358eb9e5b717b09411be09cc7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bf65b398c1b258aa2238af2bb74e60f71658e03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00010003-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平 5打数ノーヒット… ドジャースは3カード連続負け越しでナ・リーグ西地区3位
+      <a href=https://news.yahoo.co.jp/articles/ac0c90cdfc0ced06df802a5474c3f09080027a7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-21854109-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「青い円」が日本列島に…「寒冷渦」による寒気が流れ込む予想…西日本〜東日本は15日にかけて大気の状態が非常に不安定　大荒れ注意【雨と寒気のシミュレーション掲載】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/671e4b44db8de901978c1df259b06fff208b18ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-02377484-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”説明が二転三転…中国「アメリカは関税を乱用」と批判
+      <a href=https://news.yahoo.co.jp/articles/08ee85aa74284f67c5778b2fd6365b365d56f60a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000070-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=534&ch=534&exp=10800&fmt=webp> スマホは半導体関税の対象に トランプ政権、「対象外」から一転
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/92c191987019714bfdcaf7924668a185c2af8574>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000069-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 夢洲駅前の混雑は入構制限が一因　万博協会が見解　「適切な対応」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/483739df996040219b936b944fb138880bc8cd62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000111-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=70&cw=858&ch=858&exp=10800&fmt=webp> 鬼門の消費税で立民に亀裂　枝野幸男元代表が党内抗争に着火　減税派「圧力」強める
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7547af639edbf564a5d5e2ba610fbf64209db94f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000052-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 万博初日の来場者約12万人　混乱対策で東ゲートにWi―Fi新設へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/692051a09a8ae2121c22a90a619b141b5107c04b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000063-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 名鉄観光バス、新型コロナの雇用調整助成金を不正受給　20億円返納
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535482>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/3ab334163f32bb27d76db6ee33d406b759af35ffc772b4d1ca6f90bba49fffaf.jpg> 切り抜き動画 玉木氏は推進の立場
+      <a href=https://news.yahoo.co.jp/pickup/6535498>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/be4d48415f4334c21fc5bc5da43758047b7897a070f92df1be7011c3a88602ff.jpg> 首相と連合 中小賃上げへ連携確認
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535494>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 関税説明が二転三転 中国が米批判
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/77e34eeac627dd90c17e7bcddfc4418810094675ed0149fb7c06756e56e4f0a3.jpg> 関税説明が二転三転 中国が米批判
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535489>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/bdfbcf31b4b2e1d86e5f9342da25177c59dd336b88e3f0cd2bd079e9dc1c741e.jpg> 搬送された和歌山知事 ICUで治療
+      <a href=https://news.yahoo.co.jp/pickup/6535497>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b3c80c06623ffb2c8f4ffa66a04e022f513499b2e5c1de6c27b915a133a52009.jpg> 重体の和歌山知事 ICUで治療続く
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b1f8eac6fa03fbbdab0f7b5f80ee7921986ca2ff345c2c19908364304e722522.jpg> 重機が崖下に100〜200m転落 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535496>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/9971fc5b1dc0eb79d0eeea56ab43efd787be930b925eec04b0dfe555d094ad82.jpg> 道路が崩落 重機転落し作業員死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535493>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/606bfb132a9efd7235e90e57690d446d89f93cde3daab03aa2849786e12b1312.jpg> 京大病院 iPSで糖尿病の治験実施
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/4a7d96b45642a09ff8be79a4972abc6b77b2e9eafa4c791095cab7d46d32ecf5.jpg> 愛之助 藤原紀香と万博行きたい
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 20:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 21:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
