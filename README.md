@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/17874a90372eeec768db0e432abc48d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c525760feef3d3a9b92845c1fe25422.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/642367da9768a06781fa7dd8d9c5482e28cf4b49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230349-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「相互関税に例外はない」“半導体関税”を導入へ　除外されていたスマートフォンやパソコンが対象に
+      <a href=https://news.yahoo.co.jp/articles/2e324cf10c8f2e4acb9c0671b884043bfe7337a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000014-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=587&ch=587&exp=10800&fmt=webp> 万博の東ゲートにWi-Fi設置へ　通信障害受け改善策
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd3091aaa8104f2d39e75bcf636675c8233827ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-04288116-ytv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】万博協会は初日「大きな事故はなかった」 13日の来場者数は「現在集計中」
+      <a href=https://news.yahoo.co.jp/articles/350340a411eadcf3abe35e977999ee3e18f31ecb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 不透明感増すトランプ関税、政権当局者の発言は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b169ff4770fcdf76fe40ffb571b1a9df0be3a990>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050035-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=381&ch=381&exp=10800&fmt=webp> ＮＢＡ最終戦、グリズリーズ河村勇輝が自己最多１２得点５アシスト…レーカーズ八村塁はベンチ入りせず
+      <a href=https://news.yahoo.co.jp/articles/5ac1f4c7ccc9be77dd7eeeaf80f4dc4fba4cb4f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-04141044-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 河村勇輝が自己最多１２得点　今季の最終戦で自己最長の２８分５秒プレーし、存在感を示す
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535428>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/986f805fb350a4c50a9225ba04c81c7152e66702aeec392afd468b5a21140d08.jpg> 東証が大幅反発 一時700円超高
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535427>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/d39572492ae5e2fae86a2dc1e393248bae8670fa56cf3950d5f4e09253cf4e1f.jpg> 自民幹事長 補正予算案の編成明言
       </a>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/e12c6a17c691dde81a1ac4d4c22407a93e2d07a5f53764b1af41ed4bd8c68c7c.jpg> 熊本地震前震から9年「次」に備え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535422>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/e9b7c3f13c29d57eaccdc3095d0c03d28b1f59ff9b4f982813f67337cf038f96.jpg> 米大統領 スマホは別関税課す考え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535424>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/30e7d8afb187f84fecb78232943762704686af8b37addfc3908013810c849d3b.jpg> 万博 2日目も開門前から長蛇の列
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535429>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b3cbc75552c0b5c9778773624561cbd2c09cb25f06710d97e7ffe76f89bb8377.jpg> 落雷で重体の中学生1人意識回復
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 10:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 10:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
