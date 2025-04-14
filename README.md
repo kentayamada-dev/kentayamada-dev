@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/647c74f73fa5aeac9efbb6736c8f448b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/92f3c93a59e73ece78971b7dafc9c399.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43c3bca512743d9656373513837a64e39c681a0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00029404-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 今日14日は西・東日本で大気不安定　16日まで天気急変　関東もゲリラ雷雨に注意
+      <a href=https://news.yahoo.co.jp/articles/ff2d59a282acd05dfc17fcdc961c4f386df3362b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000006-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 乳児死体遺棄事件　遺体が入っていたバッグは11日（金）朝から13日（日）昼までに放置されたか　北海道石狩市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/044a4616c8604131db8d6af88d5a655ad6c5d6c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000027-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=875&ch=875&exp=10800&fmt=webp> SNS指摘のリングゆがみ、万博協会「聞いていない」と否定　初日の来場者は11.9万人
+      <a href=https://news.yahoo.co.jp/articles/a08d4e899477fd55ce9ffd8172cc1eabf32ffaf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000007-ascii-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=400&ch=400&exp=10800&fmt=webp> トランプ政権、やっぱりiPhoneにも関税　アメリカ産を強調
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4187568ce42a8dc801545ecc67806e44dd3f23f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957203-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「中国は我々に最悪な扱いをしてきた」アメリカ・トランプ大統領がスマートフォンなどに別関税の方針…「関税の除外は発表していない」14日に詳細発表へ
+      <a href=https://news.yahoo.co.jp/articles/027549dceaf62768401e0b561c240bf804972b77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01287169-mmt-000-1-thumb.jpg?exp=10800&fmt=webp> “殺人”か、女性保育士（35）の胸に傷…海岸で死亡した状態　行方不明届出ていた（宮城・岩沼市）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8b3de0e2e29d8b75a0a9fb299abe5efdfc0113d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000035-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 大リーグ、日本人所属チーム好調！ 千賀滉大のメッツ、今永昇太＆鈴木誠也のカブス… 両リーグ６地区のうち５地区で首位
+      <a href=https://news.yahoo.co.jp/articles/16b0ee4402ea7af3cea18595a732e9bf1c2229b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050078-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=337&ch=337&exp=10800&fmt=webp> 大阪・関西万博で「空飛ぶクルマ」初飛行に成功、１０ｍ上空を７分間旋回…初日は悪天候で飛べず
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535442>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8605f6e1554b480321093c8f006a521bbcc834fc6be02302fa09e4ff74d10749.jpg> 海岸に保育士遺体 胸など複数外傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535436>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8b440f8ec82537d871fe3beb4c4967b709371db5684e836398f95a314b1b2542.jpg> 万博 大屋根リングで「雨漏り」
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535429>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b3cbc75552c0b5c9778773624561cbd2c09cb25f06710d97e7ffe76f89bb8377.jpg> 落雷で重体の中学生1人意識回復
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b9f9fc8bd4fa2a9fb6ca6e682d9a45abbbc32f24e01372c39e908520fbb53700.jpg> 郵便局 一部の窓口で「半休」導入
+      <a href=https://news.yahoo.co.jp/pickup/6535439>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/1c5282ed5d483a5d576fe1b78b9276c11cc84be15c3d3a9f46b4d101315f0fdb.jpg> 空飛ぶクルマ 万博会場でデモ飛行
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535437>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/a2693391dbd4c6ccb65751bc5d3ebb5e30075118d29f847d02a4a73bed59c77f.jpg> 5分で完売も 夜行バスのくつろぎ
+      <a href=https://news.yahoo.co.jp/pickup/6535441>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/76f00595d0e4c9aeceafdf2c1c8200af1a64129ff1a6c8691c182154ccd3d811.jpg> 難病や起業経て 坂口憲二の存在感
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 12:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 12:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
