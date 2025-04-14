@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4899b6153a264fda274d42f9462d5187.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/89c88e4fa3b8dd283a71ba38b2ad5062.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c055fd33665679ec7f1830800e554d504fb75d72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000128-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 味方見えなかった！？河村勇輝「あのパスやばかった」　場内騒然ノールックパスの真相を現地記者が明かす
+      <a href=https://news.yahoo.co.jp/articles/2cf366f631e425c3deebc7c3d8a831530707e8e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000015-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】日経平均株価　一時700円超上昇し3万4000円台を回復　先週は歴史的乱高下
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c170637f572f3399de7f05e05ad0d3dad05128b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 半導体関税、スマホ・PCも対象　週内にも調査開始　米商務長官
+      <a href=https://news.yahoo.co.jp/articles/c055fd33665679ec7f1830800e554d504fb75d72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000128-spnannex-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1052&ch=1052&exp=10800&fmt=webp> 味方を見てなかった！？河村勇輝　場内騒然ノールックパスに大興奮！「最高の気分。あのパスはやばかった」
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535411>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/93b056efa0fa64447f4a461a5a884ea7ecfa59bff84954e0a70c45e3532c2992.jpg> 海岸に女性保育士の遺体 殺人か
+      <a href=https://news.yahoo.co.jp/pickup/6535420>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/636e6e5f28eee5e0c5ee7166d63f8be4b9e2c28257ce5e484bb6e2c270814d0d.jpg> 祭りで馬がぶつかる 見物客重傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/636e6e5f28eee5e0c5ee7166d63f8be4b9e2c28257ce5e484bb6e2c270814d0d.jpg> 祭りで馬がぶつかる 見物客重傷
+      <a href=https://news.yahoo.co.jp/pickup/6535423>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/2cac8cab30e5edbf888f3e1eea122eb0768b7f76273573f277a78d22dec27d21.jpg> オムツ販売 子育て特化のタリーズ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 09:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 09:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
