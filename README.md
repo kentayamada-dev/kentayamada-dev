@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/88299f49a2176a6221235fe6a440184e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d64d6e5baf6f943c47948ae48ce5881.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9cb724bb3e6097caeca9ff9da944e5692b8b0ab0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 大谷翔平　今季初５タコの屈辱　最終回は一ゴロで最後の打者　指揮官は心配せず「状態はいい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/817b12998eb5a8195511f9ac08c6805e3a454a8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-06617345-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 二転三転する“トランプ関税”…中国が批判　米中対立に「関税戦争やめて」企業も“悲鳴”
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 04:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 04:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
