@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7bc143591716cde7f950b41635559dbf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8a5af5db39e0852171999bd81e8acd5d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/150f46304c647d074e93ebc70188cce04669f34a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-02312331-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「家族が刃物で刺された」高校生とみられる少女が死亡、男を確保　さいたま市
+      <a href=https://news.yahoo.co.jp/articles/5ac6cace5ce9cb20f87d1336d26967441203f3ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010000-wmap-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> きょう（火）の天気　大気不安定で雷雨エリア拡大　急な強い雨や落雷・突風などに注意　西日本は空気ヒンヤリ
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535513>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/6fc8967c80bbcebf8ba2af635a0c6e7c146237f50ef0afed346a377c79f7f574.jpg> 10代の女性が刺され死亡 埼玉
+      <a href=https://news.yahoo.co.jp/pickup/6535514>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/fa8c336383d8ad5eaeeca8955b5856434ce44adf1dc892e8316b57f9f8b9ba8b.jpg> 10代女性が刺され死亡 男性が出頭
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 05:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 05:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
