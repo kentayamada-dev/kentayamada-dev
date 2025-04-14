@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e4895c66c20a8ab60371d2e00d48626a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/17f51503c6e19b6d06ddb479b3f924cf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e3fa356d24b6908469c93539193da78d4ad8a215>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00010003-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ラッパーJJJさん死去、享年35　6月にはライブツアー控えていた
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/26c1afbc45ae0a1dad143fad496c3be720c4f6d7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ続伸、364ドル高＝ナスダックも高い（14日午前）
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0e1c1f86b8d52f599a33484317bea03fff4757e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00010004-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1461&ch=1461&exp=10800&fmt=webp> ドジャース開幕8連勝から6敗目 ロバーツ監督「ショウヘイが得点圏で打席に立てる様にしなければならない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7397f002dbd02a0f62c81d71ef235f07e83b849d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-34141534-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=71&cw=736&ch=736&exp=10800&fmt=webp> ストーカー被害の志田千陽が無事報告「スタッフさんに警備していただき、安心して過ごせました」
+      <a href=https://news.yahoo.co.jp/articles/8379f99aeca5fc88342719f6c94a86c67c4d787b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000140-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=306&cy=0&cw=894&ch=894&exp=10800&fmt=webp> ドジャース・大谷翔平、今季2度目の出塁なし…8打席連続無走者での打席にロバーツ監督「翔平の前に走者を」
       </a>
     </td>
   </tr>
@@ -410,32 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535494>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/77e34eeac627dd90c17e7bcddfc4418810094675ed0149fb7c06756e56e4f0a3.jpg> 関税説明が二転三転 中国が米批判
+      <a href=https://news.yahoo.co.jp/pickup/6535511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/92286d0746632b76dfa2231076614f1de724f7b4d8f6e609946fb0e41c266787.jpg> 米政権 スマホへの関税巡り混乱
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535497>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b3c80c06623ffb2c8f4ffa66a04e022f513499b2e5c1de6c27b915a133a52009.jpg> 重体の和歌山知事 ICUで治療続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535496>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/9971fc5b1dc0eb79d0eeea56ab43efd787be930b925eec04b0dfe555d094ad82.jpg> 道路が崩落 重機転落し作業員死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535506>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 高さ3mの雪と運搬機に挟まれ 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535513>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/cba91a10598a837816fd2d45ee90ea08409fc45273be601b6a629896bf8857b4.jpg> 10代の女性が刺され死亡 埼玉
       </a>
     </td>
   </tr>
@@ -450,8 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535508>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/ecb88a537799c1fca3258afeede01367c7a9ee5fdab2342fa415d0333f77bf09.jpg> ガーナで魔女狩り相次ぐ 人権団体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535505>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/ab397a962fee45dc038e8dec1fd4ef0adce2d6849b70b2da3e7abc6a3c23ab64.jpg> バド志田千陽 ストーカー被害言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/749433b519ceca3a36e2d4456b22c6a58667a266fc86fba5f825aa4f572311d6.jpg> ラッパーのJJJさんが死去 35歳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 23:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 23:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
