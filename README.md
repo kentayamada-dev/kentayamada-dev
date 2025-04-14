@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f519c67aa93d48e83f7692cde713dbf7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/82f87cf5b2c93d2e18f04c552a615d2a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9b91eceae0effab393e4dcd0c5afeeebd8616753>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000020-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1423&ch=1423&exp=10800&fmt=webp> 尹前大統領、内乱首謀の罪めぐり初公判 韓国
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000020-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1423&ch=1423&exp=10800&fmt=webp> 尹前大統領、内乱首謀の罪めぐり初公判 韓国
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67aefcda3bce1b946b477b480f1b74901e82546b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90050032-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> いったい誰が？「バッグの中にも血で、触ったらいけないと思い通報した…」【遺体は男の赤ちゃん】全裸で目立った外傷なし‐解剖して死因調べる＿北海道石狩市花川南
+      <a href=https://news.yahoo.co.jp/articles/d110d6507431f92d47ee7ca0e8a98e4ac9f0bc86>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050751-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> “心霊スポット”の廃墟旅館で「煙があがっている」通報、畳の一部焼ける　出火原因を捜査　大阪・阪南市
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d887ccee72083c307f88e4c46dfc07a5d1620949>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230393-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=408&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領「柔軟に対応する」　スマホや半導体への関税を近く発表へ　製品によって関税の扱いを変える可能性を示唆
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230393-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=408&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領「柔軟に対応する」　スマホや半導体への関税を近く発表へ　製品によって関税の扱いを変える可能性を示唆
       </a>
     </td>
   </tr>
@@ -383,6 +383,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/16b0ee4402ea7af3cea18595a732e9bf1c2229b6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050078-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=337&ch=337&exp=10800&fmt=webp> 大阪・関西万博で「空飛ぶクルマ」初飛行に成功、１０ｍ上空を７分間旋回…初日は悪天候で飛べず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9892d57b7ac48eb7f50e00847b6600b6eaf58a5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000035-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=129&cw=960&ch=960&exp=10800&fmt=webp> ドジャース・大谷翔平は5打数無安打で今季2度目の出塁なし　試合後はタブレット端末で映像確認して帰路に
       </a>
     </td>
   </tr>
@@ -402,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535430>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/73f78e4028dcc6e3da9e87770e8b64daff4e8850f865f3d66039b611192e63cb.jpg> ミャンマー地震 邦人死亡を初確認
+      <a href=https://news.yahoo.co.jp/pickup/6535449>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/123e809c4de2fc13b20080a0c4ba38c6245b5c087390eefc8aca8015e21920b5.jpg> 尹氏 初公判で起訴内容を否認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/e6e5957f3887301b3d2144d857ab39d19b9581fe4ee8e6fed8b56c604cecb973.jpg> 和歌山知事倒れる 意識不明の重体
       </a>
     </td>
   </tr>
@@ -418,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535439>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/35358eaac2cb88c9ce66728508f6fb0d6ee37ef11de8f4313076e23db7ba1fb4.jpg> 空飛ぶクルマ 万博会場でデモ飛行
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535448>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/126e7296723225ba09f3bb12c8191838c47df89cff62987082c4281f3d56ec32.jpg> 「トー横」一斉補導 最年少は14歳
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/6e21844888d448cf28a176a6d35f1841ec6b4d9337ee4b99ed8780c60f07b658.jpg> 「goo blog」サービス終了へ
+      <a href=https://news.yahoo.co.jp/pickup/6535447>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/dd5b6c760925d9a171d26895ef22a5363e158a7756ec52c01664679f23671e4a.jpg> 「心霊スポット」の廃旅館で火事
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 13:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 14:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
