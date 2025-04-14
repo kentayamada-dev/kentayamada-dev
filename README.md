@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c660b4345e5ca1cca2f424b089a81a32.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/647c74f73fa5aeac9efbb6736c8f448b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd5932cb18e91567ed4b7011b7fa8558e053e3d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-06918546-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】万博初日の13日は11万9000人がチケットで来場　関係者2万2000人を合わせ14万人
+      <a href=https://news.yahoo.co.jp/articles/43c3bca512743d9656373513837a64e39c681a0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00029404-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=510&ch=510&exp=10800&fmt=webp> 今日14日は西・東日本で大気不安定　16日まで天気急変　関東もゲリラ雷雨に注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d268211b94a5e438aef87ff258806b7e407ea95e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00010001-reutv-000-2-thumb.jpg?exp=10800&fmt=webp> 二転三転するトランプ氏の政策、半導体・電子機器に新たな関税示唆　数日前の「適用除外」発言を翻す
+      <a href=https://news.yahoo.co.jp/articles/044a4616c8604131db8d6af88d5a655ad6c5d6c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000027-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=875&ch=875&exp=10800&fmt=webp> SNS指摘のリングゆがみ、万博協会「聞いていない」と否定　初日の来場者は11.9万人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45a8857229898b986162cec6ce29f52bccbb8fe4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-08554673-stv-000-2-thumb.jpg?exp=10800&fmt=webp> ショルダーバッグに乳児の遺体「ひっくり返したら血が…」大きさは“Ａ４サイズ”入るくらい　北海道石狩市
+      <a href=https://news.yahoo.co.jp/articles/4187568ce42a8dc801545ecc67806e44dd3f23f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957203-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「中国は我々に最悪な扱いをしてきた」アメリカ・トランプ大統領がスマートフォンなどに別関税の方針…「関税の除外は発表していない」14日に詳細発表へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c39e64edea2f4745076164fc0245e5e40af812b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-04544046-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=505&ch=505&exp=10800&fmt=webp> 朝ドラ「あんぱん」“アンパンマンのマーチ”重なるセリフが話題「土佐弁バージョンだ」「そのまま出てくるなんて」
+      <a href=https://news.yahoo.co.jp/articles/b8b3de0e2e29d8b75a0a9fb299abe5efdfc0113d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000035-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 大リーグ、日本人所属チーム好調！ 千賀滉大のメッツ、今永昇太＆鈴木誠也のカブス… 両リーグ６地区のうち５地区で首位
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/d39572492ae5e2fae86a2dc1e393248bae8670fa56cf3950d5f4e09253cf4e1f.jpg> 自民幹事長 補正予算案の編成明言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535424>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/30e7d8afb187f84fecb78232943762704686af8b37addfc3908013810c849d3b.jpg> 万博 2日目も開門前から長蛇の列
+      <a href=https://news.yahoo.co.jp/pickup/6535436>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/8b440f8ec82537d871fe3beb4c4967b709371db5684e836398f95a314b1b2542.jpg> 万博 大屋根リングで「雨漏り」
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535426>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/2cac8cab30e5edbf888f3e1eea122eb0768b7f76273573f277a78d22dec27d21.jpg> ベビーファースト タリーズ新店舗
+      <a href=https://news.yahoo.co.jp/pickup/6535435>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/57656c446af21d352d9d6f6e2a69eadafd3b366ec55e18311e4ad2f7e6e2ca6e.jpg> カレー物価を試算 ニセコの逆襲
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535437>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/a2693391dbd4c6ccb65751bc5d3ebb5e30075118d29f847d02a4a73bed59c77f.jpg> 5分で完売も 夜行バスのくつろぎ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 11:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 12:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
