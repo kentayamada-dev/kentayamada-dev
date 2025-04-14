@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Yw6_0oDWDGk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c58f5e7ddead4b0f36db0755da545209.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/33a2878f19eb3cef1048ddfd4da15727.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3fa356d24b6908469c93539193da78d4ad8a215>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00010003-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ラッパーJJJさん死去、享年35　6月にはライブツアー控えていた
+      <a href=https://news.yahoo.co.jp/articles/a47d4d617c5d64df2c4ea49bd50116155a835b2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00957663-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏がスマホに別関税方針　NYダウは一時500ドル超　投資家の警戒感和らぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26c1afbc45ae0a1dad143fad496c3be720c4f6d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ続伸、364ドル高＝ナスダックも高い（14日午前）
+      <a href=https://news.yahoo.co.jp/articles/12042912a2ff0a1b80708396de7a607b230ab812>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-04141197-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 大谷翔平の全打席走者なしに「もっと彼の前に走者を出せるようにできれば」ロバーツ監督が指令
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8379f99aeca5fc88342719f6c94a86c67c4d787b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000140-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=306&cy=0&cw=894&ch=894&exp=10800&fmt=webp> ドジャース・大谷翔平、今季2度目の出塁なし…8打席連続無走者での打席にロバーツ監督「翔平の前に走者を」
+      <a href=https://news.yahoo.co.jp/articles/c11fc99552a54a7b89181c28635c961199302a30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000088-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 【速報】さいたま市のマンションで刺された10代女性が死亡　24歳男性が出頭
       </a>
     </td>
   </tr>
@@ -419,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535513>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/cba91a10598a837816fd2d45ee90ea08409fc45273be601b6a629896bf8857b4.jpg> 10代の女性が刺され死亡 埼玉
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/6fc8967c80bbcebf8ba2af635a0c6e7c146237f50ef0afed346a377c79f7f574.jpg> 10代の女性が刺され死亡 埼玉
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 23:52:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 00:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
