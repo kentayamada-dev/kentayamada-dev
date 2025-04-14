@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dbacb6efa244ff2af9259b79b42d13c4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a593af36c790a293b03a7794740ba746.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f139cfa2150d3fb2cb7ed61d0aef2af65b134d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ続伸、312ドル高＝ナスダックも高い（14日）☆差替
+      <a href=https://news.yahoo.co.jp/articles/eaf1b714c3554184922a66077a203d32a46573c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000018-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=1404&ch=1404&exp=10800&fmt=webp> 米国株式市場＝上昇、ダウ312ドル高　スマホなど関税免除でアップル上昇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4cb27ff504f1a8ce5273e06c6056241f9df7bf4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00029412-tenki-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=389&ch=389&exp=10800&fmt=webp> 15日も西日本・東日本では落雷や突風・ひょうに注意　北陸は警報級の暴風のおそれ
+      <a href=https://news.yahoo.co.jp/articles/b8bfa816ffbb4c78623c7a7713d14481e9768d31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-07230578-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【4月15日の天気】大気不安定　晴れ間出ても急な強い雨や落雷に注意　突風やひょうのおそれも
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535508>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/ecb88a537799c1fca3258afeede01367c7a9ee5fdab2342fa415d0333f77bf09.jpg> ガーナで魔女狩り相次ぐ 人権団体
+      <a href=https://news.yahoo.co.jp/pickup/6535515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/8d30275a0f3f0c13b3edea4f5ac6c56f86c747213bc3fd262644d38f1aff1993.jpg> 1億円分「金の延べ棒」寄付 匿名
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535507>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/662f29de1b4fb979d2d7b6eac0bd863b5765ad26a9692c6c874ecff654552053.jpg> おかわりくん2世 大阪桐蔭に入学
+      <a href=https://news.yahoo.co.jp/pickup/6535516>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6095a85009ed9048db73ccdffc07ffb1f5228bf0bd264b2c646e7e2bad49fcc1.jpg> 陸上・寺田明日香 第一線退く意向
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 06:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 06:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
