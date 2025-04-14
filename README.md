@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/34fb0f04e4f4235acacd37ac3884e31d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b0c2f4daa67a198489d0d6df60476275.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f35d765d6b79848f6f893047887bb28a757d70a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050163-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=49&cy=0&cw=402&ch=402&exp=10800&fmt=webp> 教職員５７人、入学式の仕出し弁当食べ集団食中毒…１６人からノロウイルス
+      <a href=https://news.yahoo.co.jp/articles/559915255611539ff7b705ece2cdfad2f169224d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-21854029-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 西日本・東日本は15日にかけて落雷や竜巻などの激しい突風、急な強い雨に注意　島根・鳥取は15日夜遅くにかけて局地的に雷雲が発達する見込み　上空約5500メートルに氷点下30度以下の寒気
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/53e4880d371e7446c18345ac29647d829c6ef67a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050167-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=381&ch=381&exp=10800&fmt=webp> バドミントン女子・志田千陽、中国でストーカー被害…ホテル内でつきまとわれる「危ないなと感じていた」　
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d364e5e43a06578a4dbfef532e4e637acc147e61>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957367-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【狙い目?】大行列が消えた大阪・関西万博の開幕“初の平日”の光景…空飛ぶクルマの公開も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95cbff0d50d5c4a772380fd2eb7251764d3a1cb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-14023101-ehime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 愛媛県内15日夕にかけ落雷・突風・強い雨の恐れ　JR予讃線一部運休
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/be4d48415f4334c21fc5bc5da43758047b7897a070f92df1be7011c3a88602ff.jpg> 首相と連合 中小賃上げへ連携確認
+      <a href=https://news.yahoo.co.jp/pickup/6535499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/3e55b2eae9d2af266a520f2505db34790ad354d198a83c9b5ed975eb62137c0c.jpg> 立憲 消費税巡り党内抗争始まる
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/25891bd677fee2713f6931280d0d94d6ddcdd68dd726e9b537b5450a603e0c19.jpg> 万博 平日でもパンフレット2h待ち
+      <a href=https://news.yahoo.co.jp/pickup/6535505>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/ab397a962fee45dc038e8dec1fd4ef0adce2d6849b70b2da3e7abc6a3c23ab64.jpg> バド志田千陽 ストーカー被害言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535504>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/65a4283f53143046e85f19f3206e5bcbaab99f7290110bfe05ade479436307e0.jpg> マスターズV マキロイ賞金6億円
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535500>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/fe58dd929c1cb372c578e7a9340efd9cc0c6e05c0b30e9a5895cc668ac869d78.jpg> GOOD ON THE REEL 休止を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 22:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 22:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
