@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ab78bcb7384f450fae844c68bb2bfe4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fe054477ab559b88ad3f227dbf544edf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40c20ba191e8a041dc1bba870adfe975b8f2361b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90022716-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 持ち込めない大型荷物・電波・行列に雨風も…万博“2日目”盛況の一方で課題も
+      <a href=https://news.yahoo.co.jp/articles/9cb724bb3e6097caeca9ff9da944e5692b8b0ab0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 大谷翔平　今季初５タコの屈辱　最終回は一ゴロで最後の打者　指揮官は心配せず「状態はいい」
       </a>
     </td>
   </tr>
@@ -375,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/150f46304c647d074e93ebc70188cce04669f34a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-02312331-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「家族が刃物で刺された」高校生とみられる少女が死亡、男を確保　さいたま市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8d9f821c782ab28ced83af7aed463f0c7c01166>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000064-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=1036&ch=1036&exp=10800&fmt=webp> ドジャース・大谷　カブス3連戦で「12の1」も指揮官「全然心配していない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/559915255611539ff7b705ece2cdfad2f169224d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-21854029-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 西日本・東日本は15日にかけて落雷や竜巻などの激しい突風、急な強い雨に注意　島根・鳥取は15日夜遅くにかけて局地的に雷雲が発達する見込み　上空約5500メートルに氷点下30度以下の寒気
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 02:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 02:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
