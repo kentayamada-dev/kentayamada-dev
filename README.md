@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a593af36c790a293b03a7794740ba746.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e8e244464b8c31324e93e39343002a82.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eaf1b714c3554184922a66077a203d32a46573c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000018-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=1404&ch=1404&exp=10800&fmt=webp> 米国株式市場＝上昇、ダウ312ドル高　スマホなど関税免除でアップル上昇
+      <a href=https://news.yahoo.co.jp/articles/c6f9269c4ee735169feec0afcd6339fa3d4f08c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-10173719-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=38&cy=0&cw=800&ch=800&exp=10800&fmt=webp> そっち…！？ メッツ千賀滉大、“想定外のボール”「エグすぎる」「絶妙」 外角低めいっぱいに“鬼制球”→完璧ストレートで見逃し三振
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8bfa816ffbb4c78623c7a7713d14481e9768d31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-07230578-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【4月15日の天気】大気不安定　晴れ間出ても急な強い雨や落雷に注意　突風やひょうのおそれも
+      <a href=https://news.yahoo.co.jp/articles/21718f5437072bb1fbd250776a0d247a92f578e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000024-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=750&ch=750&exp=10800&fmt=webp> NY株続伸、312ドル高　相互関税のスマホ除外好感
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/3e55b2eae9d2af266a520f2505db34790ad354d198a83c9b5ed975eb62137c0c.jpg> 立憲 消費税巡り党内抗争始まる
+      <a href=https://news.yahoo.co.jp/pickup/6535518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/5ab8f033baf5ffae5adb35ac81815b9f296090a2646194f6e494efa813dc7861.jpg> どうする経済対策 石破政権の現状
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/fa8c336383d8ad5eaeeca8955b5856434ce44adf1dc892e8316b57f9f8b9ba8b.jpg> 10代女性が刺され死亡 男性が出頭
+      <a href=https://news.yahoo.co.jp/pickup/6535517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/45ea7e92ee0fc59e84f5d1c835adf2e44590867db84fcb1d9f41c13c8f5dc68d.jpg> 米大統領 自動車関税の見直し検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535503>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/7812b73d9b636c5ba9a74bae728734cfd67f001bb20cc94b6e0d84c6b2208e72.jpg> 弁当で教職員57人食中毒 5校休校
+      <a href=https://news.yahoo.co.jp/pickup/6535514>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/fa8c336383d8ad5eaeeca8955b5856434ce44adf1dc892e8316b57f9f8b9ba8b.jpg> 10代女性が刺され死亡 男性が出頭
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 06:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 07:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
