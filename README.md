@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4c525760feef3d3a9b92845c1fe25422.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/697d178beba5e34046604e29b48ee6cf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/edea6a13bd06f68b3129eaa4bc0b08ca6ba02b91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 原油先物横ばい、米中貿易戦争巡る懸念くすぶる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/36e7c1c739556939195d7bddc437a944fb513eb0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-06554587-ytv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】部活動中に“落雷”で意識不明の中学生2人のうち1人意識が戻る　もう1人はいまも意識不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e324cf10c8f2e4acb9c0671b884043bfe7337a4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000014-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=587&ch=587&exp=10800&fmt=webp> 万博の東ゲートにWi-Fi設置へ　通信障害受け改善策
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/350340a411eadcf3abe35e977999ee3e18f31ecb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 不透明感増すトランプ関税、政権当局者の発言は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ac1f4c7ccc9be77dd7eeeaf80f4dc4fba4cb4f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-04141044-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 河村勇輝が自己最多１２得点　今季の最終戦で自己最長の２８分５秒プレーし、存在感を示す
       </a>
     </td>
   </tr>
@@ -387,19 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/800ada67190e8d84e911e2a56b70c266d0ebd5d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-10173533-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=820&ch=820&exp=10800&fmt=webp> トランプ大統領 健康状態「極めて良好」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535430>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/73f78e4028dcc6e3da9e87770e8b64daff4e8850f865f3d66039b611192e63cb.jpg> ミャンマー地震 邦人死亡を初確認
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535428>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/636e6e5f28eee5e0c5ee7166d63f8be4b9e2c28257ce5e484bb6e2c270814d0d.jpg> 祭りで馬がぶつかる 見物客重傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535426>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/2cac8cab30e5edbf888f3e1eea122eb0768b7f76273573f277a78d22dec27d21.jpg> ベビーファースト タリーズ新店舗
       </a>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 10:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 11:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
