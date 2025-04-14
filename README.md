@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c187db1ff9421e19c2073cb242e09b56.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/209b2f9a96f651137c6b31b90f4478c2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7bdaff7d141783ca3db4db20ea1cd7e4a9ccf35e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230429-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 韓国・ユン前大統領の初公判　「憲政秩序を回復しようと宣言したもので違法ではない」起訴内容を否認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44ad618338c6176c3231b4a9ef807c9e9d9892eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90028381-tssv-000-2-thumb.jpg?exp=10800&fmt=webp> 「一方的に暴力を受けるウサギらの姿は痛ましい」ウサギ虐待の男に懲役1年 執行猶予3年の有罪判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/37d0b1037928019e790c1b1df92c0321a2a28ee2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01736341-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、MLB平均も下回る“異常”数値　気になる「11.2」…HR王奪取した昨年との違い
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01736341-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=37&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、MLB平均も下回る“異常”数値　気になる「11.2」…HR王奪取した昨年との違い
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3613ec4c79f97dfd16f33c93eafc96da3f2fd383>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90018772-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】万博前売り券販売は「1170万枚以上の見込み」と博覧会協会・石毛事務総長「目標1400万枚」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eeb259ed345fdf3ba3c35896be8def7a2534ee38>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90028374-tssv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=529&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「虐待してみたいと思った自分は異常」 ウサギ虐待男が法廷で語った心の闇　裁判所が下した判断は　広島
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23096778972f97f3c91fa01849eff32d9a060c94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957341-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 尹前大統領が初公判で起訴内容を全面的に否認　韓国の内乱罪では首謀者は死刑か無期懲役などの刑罰
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535455>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/cae3b60336eb9d3e3c0fe17ca5fae0f6f92726a21b028bdc602911a23e90611f.jpg> コロナで夫死亡 ぬくもりない別れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/49bdeb83956f0df6c66e86c77dbd047e5d78dc2c561a04fca26d21f5bd77441f.jpg> 島でウサギ多数虐待 猶予付き判決
+      <a href=https://news.yahoo.co.jp/pickup/6535462>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/c1fd2d3c2f971ab150ade011b4550ed89bfc08c726c27ddd7296e75b40f441db.jpg> EVの販売停滞 PHVの投入相次ぐ
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535464>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/96ba4dc393f29394ed45e97de6db10a74977aac08af69e2532a8b5347eb131c7.jpg> 西武・岸潤一郎 わずか1日で抹消
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 16:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 16:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
