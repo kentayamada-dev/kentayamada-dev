@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b7bb7273c7de194ab603e95ee6b5f883.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e30e44837805f953f42d3024c7e32bff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/262bc9ae296e9359d4927d69ba6fd95764ec6803>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000051-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=841&ch=841&exp=10800&fmt=webp> 「朝、連絡取れず…」和歌山・岸本知事救急搬送　知事公舎で倒れているのを秘書らが発見
+      <a href=https://news.yahoo.co.jp/articles/eeb259ed345fdf3ba3c35896be8def7a2534ee38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90028374-tssv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=529&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「虐待してみたいと思った自分は異常」 ウサギ虐待男が法廷で語った心の闇　裁判所が下した判断は　広島
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a82e1e03a937e4ccce28a6dd0e7ec5ab3c66dfaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01291188-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領、半導体関税“来週中に発表”
+      <a href=https://news.yahoo.co.jp/articles/23096778972f97f3c91fa01849eff32d9a060c94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00957341-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 尹前大統領が初公判で起訴内容を全面的に否認　韓国の内乱罪では首謀者は死刑か無期懲役などの刑罰
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34aedc67531edd20f8e5d01e7213d6eebe5a951a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000036-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 尹前大統領“内乱首謀”を否認 「非暴力的に要求受け入れた」
+      <a href=https://news.yahoo.co.jp/articles/747cc2d376c5e696faef6cdbd589e373609c0d8c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000024-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=479&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、半導体関税を来週発表
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/16b0ee4402ea7af3cea18595a732e9bf1c2229b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050078-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=337&ch=337&exp=10800&fmt=webp> 万博で「空飛ぶクルマ」初飛行に成功、１０ｍ上空を７分間旋回…初日は悪天候で飛べず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00050078-yom-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=337&ch=337&exp=10800&fmt=webp> 「空飛ぶクルマ」が万博開幕後初のデモ飛行に成功、１０ｍ上空を７分間旋回…初日は悪天候で飛べず
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/a1bd033425fbc3b6b268b5267b7f244f33ca9fdb847838f3f0a6bdaeee12daad.jpg> 首相 選挙目当てのバラマキを否定
+      <a href=https://news.yahoo.co.jp/pickup/6535456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/cdc6235e2c299a442ac7c70a7e9cdbbc2492ff3db27e709e2192d93b43d11bd4.jpg> ウ大統領 トランプ氏に訪問を要請
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/126e7296723225ba09f3bb12c8191838c47df89cff62987082c4281f3d56ec32.jpg> 「トー横」一斉補導 最年少は14歳
+      <a href=https://news.yahoo.co.jp/pickup/6535457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/49bdeb83956f0df6c66e86c77dbd047e5d78dc2c561a04fca26d21f5bd77441f.jpg> 島でウサギ多数虐待 猶予付き判決
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 15:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 15:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
