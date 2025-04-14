@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/33a2878f19eb3cef1048ddfd4da15727.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e20a4f100d1e991b475f0d85f41841b6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c8d9f821c782ab28ced83af7aed463f0c7c01166>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000064-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=1036&ch=1036&exp=10800&fmt=webp> ドジャース・大谷　カブス3連戦で「12の1」も指揮官「全然心配していない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b45656118b3652c43a5f3c4c67f2dca2a6d8056f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 女子高生？　刺され死亡　20～30代男を確保　埼玉県警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a47d4d617c5d64df2c4ea49bd50116155a835b2f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00957663-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏がスマホに別関税方針　NYダウは一時500ドル超　投資家の警戒感和らぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12042912a2ff0a1b80708396de7a607b230ab812>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-04141197-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 大谷翔平の全打席走者なしに「もっと彼の前に走者を出せるようにできれば」ロバーツ監督が指令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c11fc99552a54a7b89181c28635c961199302a30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000088-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 【速報】さいたま市のマンションで刺された10代女性が死亡　24歳男性が出頭
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 00:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 01:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
