@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c55f5a1ae4ded2a24c8dea32858209e0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d10dd537ea6e5e556a15041ae30aac9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/042578820cc181bf2bce97e7fe17ef4d266fb36e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博前売り券販売、970万枚　1400万枚の目標下回る　協会事務総長
+      <a href=https://news.yahoo.co.jp/articles/dfabc82c78bc8ad82b640bdc68a9b786e2f04e18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-21853997-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=328&ch=328&exp=10800&fmt=webp> 【続報】死亡したのは51歳の土木業の男性と判明　道路崩落に巻き込まれバックホーごと100メートル転落　中房温泉に向かう山中の県道で舗装工事　18日に冬期通行止めの解除を予定　長野・安曇野市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d5dc82e6cceded2d33ae1dfa9fa7d5c15bc89d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-07230502-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=513&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中国「関税戦争に勝者なし」アメリカを批判 “トランプ関税”スマホ除外　対話での解決求める
+      <a href=https://news.yahoo.co.jp/articles/aa82bf1107b9c4077cb8e388e40ab79a7921170d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-90018784-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 「ご不便をおかけした人にはお詫びしたい」と博覧会協会・事務総長　初日の"長蛇の列"など課題に【万博】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a1832528e638835aab28d94913962a3c3911f831>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000064-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 朝令暮改の「トランプ関税」　経済対策に“商品券”案浮上
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1730534da24b9fc24d0c005613ddc1b581fe0195>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-01736546-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督が嘆いた“大谷の孤独”　いまだ「.000」…深刻なド軍打線の課題
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9a7114b210f31e8c9420cd72a6ab6bac82586ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-21853664-sbcv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=1440&ch=1440&exp=10800&fmt=webp> 【続報】救助された男性の死亡を確認　道路が崩落しバックホーごと100メートル転落　中房温泉に向かう山中の県道で舗装工事　18日に冬期通行止めの解除を予定　長野・安曇野市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2965e39cb1d94f188a70990d916f5d17e27df52c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000001-tvh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 石狩の住宅敷地で生後まもない男児の遺体
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/c6ef23d6412a0ce4910dfed59ecc0145d6290a1d88d49a1b33290d4f14891fca.jpg> 愛媛の山火事が鎮火 発生から22日
+      <a href=https://news.yahoo.co.jp/pickup/6535481>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/d1bc7dd54d8ab79c993a1ac2d5d8bbe117673d7e8fedf0ed2ab166e93f0e5715.jpg> ミャンマー地震 死亡の邦人は40代
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535470>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/307616a59292850118e8ba145d85b6655db6e3140c5cdc2c45f4346d8492d837.jpg> 15日にかけ 黄砂・花粉のWパンチ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535476>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/61bc7bf028388b17583ce9913b88b80241dc89f82de0bb0e418e683037d06389.jpg> 万博リング 雨漏りではないと修正
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535479>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/9133525850382fb4ae3d721f3b50cf5cca9cceb116ec71b34df282905cbc0570.jpg> 牛乳安売りする店 物価高でなぜ
+      <a href=https://news.yahoo.co.jp/pickup/6535483>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/08027e18a563532395978c521376e1ea36bfb2bde7522d1816e473170c6e25dd.jpg> バスに置き去り 親に当初伝わらず
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535478>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/b1f8eac6fa03fbbdab0f7b5f80ee7921986ca2ff345c2c19908364304e722522.jpg> 重機が崖下に100〜200m転落 死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/9133525850382fb4ae3d721f3b50cf5cca9cceb116ec71b34df282905cbc0570.jpg> 牛乳安売りする店 物価高でなぜ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 18:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 19:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
