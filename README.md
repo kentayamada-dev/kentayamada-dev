@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e67143fbb4660865002fb86505e4faa0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4899b6153a264fda274d42f9462d5187.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c459f7022c2e089c83a486adb8d179ab25982be9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000127-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日本人4人目のNBA選手　河村勇輝の1年目終了　米国でも人気急上昇！「素晴らしい経験できた」
+      <a href=https://news.yahoo.co.jp/articles/c055fd33665679ec7f1830800e554d504fb75d72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000128-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 味方見えなかった！？河村勇輝「あのパスやばかった」　場内騒然ノールックパスの真相を現地記者が明かす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c170637f572f3399de7f05e05ad0d3dad05128b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 半導体関税、スマホ・PCも対象　週内にも調査開始　米商務長官
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/99c9e1f042a38194af050f852fa43b238421ff7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00781745-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 万博初日は波乱の幕開け　雨で相次いだエキシビション中止、記念式典ではアクシデント、異臭騒ぎで消防車出動も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/658f550752b793804ae7075f37ea7eaabdee1e3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00871325-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=47&cy=0&cw=253&ch=253&exp=10800&fmt=webp> 追加関税の一時停止やスマホ・半導体の除外は関税戦争「終結」への第一歩、いよいよ日本株の反撃がこれから始まる
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00781745-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 万博初日は波乱の幕開け　雨で相次いだエキシビション中止、記念式典ではアクシデント、異臭騒ぎで消防車出動も
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535421>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/cfb2fd08dd0f51e5befa83e23e66433213641ede42016d4a6f96e434522021bb.jpg> 赤沢氏 最速で米関税見直し目指す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535414>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/e12c6a17c691dde81a1ac4d4c22407a93e2d07a5f53764b1af41ed4bd8c68c7c.jpg> 熊本地震前震から9年「次」に備え
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535413>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/04e5da642d226b360ac6051e831b222ddbf2f7dedb30416c72ad62608d2d7bf9.jpg> トランプ氏の健診結果 極めて良好
+      <a href=https://news.yahoo.co.jp/pickup/6535422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/e9b7c3f13c29d57eaccdc3095d0c03d28b1f59ff9b4f982813f67337cf038f96.jpg> 米大統領 スマホは別関税課す考え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535415>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/379b359904154db6c234ec36d14f72d23a52f0d5676e8d11a9667966ff620480.jpg> 九州-関東甲信 天気急変に注意
+      <a href=https://news.yahoo.co.jp/pickup/6535424>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/30e7d8afb187f84fecb78232943762704686af8b37addfc3908013810c849d3b.jpg> 万博 2日目も開門前から長蛇の列
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535407>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/13/40a5d64b91ba8e0c262bbaf15a3732ec0b8d234aab43a0d834e24fb9745e3c08.jpg> スラダン作者の長男 B2デビュー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535412>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/14/6a2897539b1d9d976ee398ad78b80ae73bfa6942b4222830e70ab7547bc49c25.jpg> 上田竜也が作家デビュー 構想10年
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/14 08:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/14 09:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
