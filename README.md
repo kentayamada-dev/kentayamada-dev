@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/94bf506a69fea46501952a5449361ee6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6c323b304a02e7dad26a7d5f990a0944.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/606be6050eb6e6d05437048539e91771f74f75fb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00065003-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「万博最高です」開幕から３日いまだ興奮冷めやらぬ会場　『カタールパビリオン』は正式に開館！セレモニーで伝統的なダンスを披露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3bbedcf4867ece784346d69b82f1a77d8873a7cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-16082684-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=849&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> トランプ氏、ウクライナでの戦争開始はゼレンスキー氏の責任と　多くの死傷者についても
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/7e679c6cfeea3e26e29299b2ae5c13027c5b158e80f8b397220c14f1d9e083df.jpg> 戸田恵梨香 グッチアンバサダーに
+      <a href=https://news.yahoo.co.jp/pickup/6535573>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/c09b9b997d17c8ca9ffe979dcd9da2aaecb9f3909ee7677551e0e9f7e2ba1046.jpg> メルカリでデニム注文 グミ届く
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 16:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 17:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
