@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/163cc57eb85eed81b05455ebeb033049.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/90aa8a68e0f017a3c932931b83810fc7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c367c96a96c1d0ee1e5dd145755d106951d51554>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00957700-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 現場から交番までの間には血痕が点々…10代少女刺され死亡　血が付いた服で交番訪れた20代くらいの男を確保　さいたま市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8db2d204d0b3714040e969d0f66fbfd093ad2b9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ和平プロセス、早くも停滞　いらだち強めるトランプ氏、対ロシア制裁強化も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/69129eba814b96506d3b9613ffb6ecf9d3974ae9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-35231779-cnetj-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=675&ch=675&exp=10800&fmt=webp> NVIDIA、米国でAI半導体を製造開始--スパコンの組み立ても実施へ
       </a>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a1194ef7173e987724d12cb871133a2a86709804>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000170-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＜独自＞生成AIで作成したわいせつ画像のポスター販売　容疑で男ら4人逮捕　全国初摘発　警視庁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b41e4a8e7d919610add1a4973e25102c395daa7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000152-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「許すことできない」八代ミュージック＆ギャラリー　八代亜紀さんのヌード付きCDで声明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000170-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＜独自＞生成AIで作成したわいせつ画像のポスター販売　容疑で男ら4人逮捕　全国初摘発　警視庁
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/5ab8f033baf5ffae5adb35ac81815b9f296090a2646194f6e494efa813dc7861.jpg> どうする経済対策 石破政権の現状
+      <a href=https://news.yahoo.co.jp/pickup/6535522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/b50c13a614404706bbd369f92ee7f7fb5712ae85d91ad8efe92bacdddf230af7.jpg> 大気不安定 西・東日本で落雷注意
       </a>
     </td>
   </tr>
@@ -418,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/fa8c336383d8ad5eaeeca8955b5856434ce44adf1dc892e8316b57f9f8b9ba8b.jpg> 10代女性が刺され死亡 男性が出頭
+      <a href=https://news.yahoo.co.jp/pickup/6535526>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/9bf3e4098674d59e462295c9230160c502a8e0b175ad109501f9da41b61e9554.jpg> 海岸に女性保育士の遺体 殺人疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535527>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/4a709fdb0c8bca5af8f97d1ca4edea30ea6876b7af74f900c38d3fed84dfbb7c.jpg> AIで作成の裸画像販売疑い 初摘発
       </a>
     </td>
   </tr>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535520>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/96faaf226f05c0d70f03a6713731f6bc14a4008eef16907e5021ce9ac39cda4f.jpg> ジャッジがWBC出場へ 米の主将
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 08:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 09:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
