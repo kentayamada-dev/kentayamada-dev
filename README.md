@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0422fde3aac2135c261523194cd0dafc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ba79b4fbeab826f58f2a6f52fc7a0a96.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535595>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/5b54226f2f231717a4e87e842dff2ebd89d57d04a61eee20cd46a51c2a5c9cef.jpg> 首相「万博外交」本格スタート
+      <a href=https://news.yahoo.co.jp/pickup/6535598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/bb67a8b7c9c45be00d14cba4c4636d7f74a4157ec208d0dd2c90177290e27c66.jpg> 高齢者向けNISAの創設検討 金融庁
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/bb67a8b7c9c45be00d14cba4c4636d7f74a4157ec208d0dd2c90177290e27c66.jpg> 高齢者向けNISAの創設検討 金融庁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535596>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/d23a1f28739ce39c0a98fa406353e78aaf9ebcb0bd9ea19251571fbe8912d60f.jpg> 水くださいと来訪 監禁被害者語る
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535593>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/a9fdf0d5a1f22427a20141554b0102370289debd2acc6dbee959065269688f0e.jpg> コメ半額も 韓国で買う日本人増加
+      <a href=https://news.yahoo.co.jp/pickup/6535602>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/028b242aae79f8cf1151896f04e1404f64126148f9d3eeacc40a8886855da05b.jpg> 食堂と契約せず放置 市職員多忙で
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535601>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/7fbbd3851778d1337933471cbd1592eace25b7da3e466876422b63a778259c1f.jpg> 深田恭子 1年9カ月ぶりに公の場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535592>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6efbb5f9df63054ad25cb26d271c3a0f4a309defad0ada6ef6bc4c012ad5706a.png> いとうまい子 初講義でヤラセ語る
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 22:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 22:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
