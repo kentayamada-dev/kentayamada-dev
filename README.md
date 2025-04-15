@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Yw6_0oDWDGk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6_-WrQWHkpA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bc2137d2bf230e24a4347c559860fc8d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/15d3eb85d348c059e3b8cbaa9b60faf4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d528afc3a10848dda07cae8fe3b575e9e8e7a6cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010000-cinranet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 『べらぼう』に高岡早紀、水樹奈々、ジェームス小野田、ひょうろく、中川翼、えなりかずき、高橋英樹
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4224f613a20698ae3663ce05c9a2ca2fd94789ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00957703-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】刃物で刺され死亡したのは女子高校生・手柄玲奈さん（15）と判明　血が付いた服着て交番訪れた20代くらいの男の身柄確保　さいたま市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f572dac54ec2ae8ffecc38068d65cf329a8b0916>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ウクライナ北東部攻撃、民間人標的をロシア否定 トランプ氏はゼレンスキー氏非難
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fb2f91cdeb3908bd61a264ee0acc2a6abadc57dc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010000-reutv-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏、自動車関税の一部見直し検討　「米国内での製造に切り替えるには少し時間が必要」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c367c96a96c1d0ee1e5dd145755d106951d51554>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00957700-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 現場から交番までの間には血痕が点々…10代少女刺され死亡　血が付いた服で交番訪れた20代くらいの男を確保　さいたま市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad5996dbc4f0c53e6e76efa34b832247d40344bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010014-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=831&ch=831&exp=10800&fmt=webp> 吉本ばなな×奈良美智による小説『ひな菊の人生』劇場アニメ化決定　監督は湯浅政明
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535535>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/bc3b60c18cf782423273d2d7cd968e86054c5ffa7cb4d4a769c64ae89348846c.jpg> 和歌山県の岸本周平知事が死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535527>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/4a709fdb0c8bca5af8f97d1ca4edea30ea6876b7af74f900c38d3fed84dfbb7c.jpg> AIで作成の裸画像販売疑い 初摘発
       </a>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/2b045f8aa373d7015fde805622b37418802cf81bb9776f5e37eaea2b6ceaebeb.jpg> オリ小木田 トミー・ジョン手術へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535531>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/e6572f7ae269c563238e36f90e28d4c52995654fe09016b2a9158ee5a5ec8886.jpg> 吉本ばななさんの小説 初アニメ化
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 10:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 10:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
