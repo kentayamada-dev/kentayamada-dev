@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c323b304a02e7dad26a7d5f990a0944.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4ea975acf63b86ed3484317b6a4664c6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/606be6050eb6e6d05437048539e91771f74f75fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00065003-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「万博最高です」開幕から３日いまだ興奮冷めやらぬ会場　『カタールパビリオン』は正式に開館！セレモニーで伝統的なダンスを披露
+      <a href=https://news.yahoo.co.jp/articles/ef995d8e7fea130c40ea8dcc446833098cb11253>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90029681-nbnv-000-2-thumb.jpg?exp=10800&fmt=webp> みそかつ、カフェタナカ、忍者… 大阪・関西万博から世界にPR　東海ゆかりの名物を一挙紹介
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5967fa346a96468b9455b9216e3694c544242b96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000096-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=901&ch=901&exp=10800&fmt=webp> 巨人・キャベッジが2試合続けて試合前打撃練習行わず　12日広島戦で左手負傷
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb4a8941d55acf72a8a7f6f4cb8b02b4134e0906>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-03584618-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 公園で男性殺害　複数人物の犯行か　広島・府中町
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/70c6645601e0d179c28ba7c93a37a291f2a0fe93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000115-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=1550&ch=1550&exp=10800&fmt=webp> 高1女子刺殺疑い、男逮捕　埼玉県警、付近交番で確保
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000115-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=1550&ch=1550&exp=10800&fmt=webp> 高1女子刺殺疑い、24歳男逮捕　埼玉県警に黙秘、付近交番で確保
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535563>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/368da4188e2c77cea68fe7bd8143f30094879385da04139f8180d5fe42c98c30.jpg> 現金給付にマイナP活用案 浮上
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535570>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/48321b2c473fe9a12d37e30b97f4261bf0ef8547f5824109b368a5f2b02aaae0.jpg> 殺された男性 東京から広島来たか
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535562>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/01e8211f8471d21eeb5d70dfdcf22d94fc18f4a2cdbe67604cef4cbf1ba9a954.jpg> 15歳高校生を殺害疑い 男を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6535564>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/a217a5f04c2adca81cd16b416e906fe0305fb2b34b60b63c759d93c2d0f4b13c.jpg> 訪日客が爆買い控え? 消費に陰り
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535572>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/677b3a30cbf8bb52ae68022b166f40a7525c994c7b2fb3422fcf3b0039820297.jpg> 巨人・坂本勇人を抹消 打撃不振
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 17:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 17:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
