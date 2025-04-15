@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6_-WrQWHkpA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/253349932187c41bd1638b825cb7a76b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a127980e3f9d7b2df2e384c9146aaa4e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db2e7475b46fcac3a5842645fc9316317f576917>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050178-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=374&ch=374&exp=10800&fmt=webp> アメリカと関税交渉の赤沢経済再生相、１７日に会談へ…「簡単ではないが政府一丸で取り組む」
+      <a href=https://news.yahoo.co.jp/articles/1e99664d831b499c333761b71c1d53250e9c39d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-07230777-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 公明幹部、物価高対策でマイナポイント付与を提案　現金とのハイブリッドも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/099fa4ccbe0e5ecbaa9ab881c53fb67a131650bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-04151238-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1121&ch=1121&exp=10800&fmt=webp> 【西武】高橋光成「こればっかりは逃げ道はない」７回４安打１失点も５８３日ぶりの白星ならず「１球１球投げていくしかない」
+      <a href=https://news.yahoo.co.jp/articles/db2e7475b46fcac3a5842645fc9316317f576917>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050178-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=374&ch=374&exp=10800&fmt=webp> アメリカと関税交渉の赤沢経済再生相、１７日に会談へ…「簡単ではないが政府一丸で取り組む」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/d23a1f28739ce39c0a98fa406353e78aaf9ebcb0bd9ea19251571fbe8912d60f.jpg> 水くださいと来訪 監禁被害者語る
+      <a href=https://news.yahoo.co.jp/pickup/6535606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/05f4490de99e8b1f920e23d2c248491f09b3d35b66dffd59ebe4e0ba8dd1e882.jpg> 中国 捕虜会見のウクライナにくぎ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/0bf10c95d44275cdff5f7ecfae486b9e2fe142bb327eaabe97d40ea8ecc44780.jpg> 桜が倒れ通行中の女性けが 名古屋
+      <a href=https://news.yahoo.co.jp/pickup/6535596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/d23a1f28739ce39c0a98fa406353e78aaf9ebcb0bd9ea19251571fbe8912d60f.jpg> 水くださいと来訪 監禁被害者語る
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 23:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 23:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
