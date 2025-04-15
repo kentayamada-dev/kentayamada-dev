@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7479e6685da402c414be6baf3ccb5e62.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f8612b3b5d67da46cdb91219b970b44b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3e32b0a29a97d43f4a38ee1c5dd7f3396ff06db3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-07230783-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 1キロ先まで血痕が…高1女子刺殺 帰宅時に襲われたか 谷内寛幸容疑者（24）は交番前で通行人に「110番してください」【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ce23c0e887deff8c46fb14e474b9d9811f7b8f3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050000-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=374&ch=374&exp=10800&fmt=webp> フジＨＤ大株主の米ファンド、北尾吉孝氏ら１２人を取締役候補に提案へ…米報道
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050000-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=374&ch=374&exp=10800&fmt=webp> フジＨＤ大株主の米ファンド、北尾吉孝氏ら１２人を取締役候補に提案へ…米報道
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/db2e7475b46fcac3a5842645fc9316317f576917>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050178-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=374&ch=374&exp=10800&fmt=webp> アメリカと関税交渉の赤沢経済再生相、１７日に会談へ…「簡単ではないが政府一丸で取り組む」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0521f12808bccd2bffaedf484ff0ac3d3f80d8aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00253687-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 〈埼玉・15歳女子高生殺害〉「過去に大きな事件起こしている」「昨年に出所…」逮捕された職業不詳男（24）と礼儀正しい活発なバスケ少女との接点は？
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 00:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 01:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
