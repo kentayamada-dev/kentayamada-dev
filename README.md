@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4d3f89b557d1e8041b821ec53dfa5fa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/42ad7afd9aa6e0d1daa6410628ec93fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/365bc2d8b2a494046ecc1ea8184a7452878dff3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010001-yomidr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 和歌山県知事が敗血症性ショックで死去　どんな病気？…大腸菌が引き金になることも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/040afd728376a8a4be23e3ffa5101d230ada3396>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-10173793-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=974&ch=974&exp=10800&fmt=webp> さいたま市で女子高校生殺害か 確保していた24歳男を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/28db60a9bf7b4312e4553ae13c218f249bd483a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010001-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平、MLB通算230号の5号ソロ&3安打の活躍！ベッツとHR共演でドジャースの連敗ストップにバットで貢献
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010001-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平、MLB通算230号の5号ソロ&3安打の活躍！ベッツとHR共演でドジャースの連敗ストップにバットで貢献
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e00f838666df80241afa53c47ca356d10444dfdc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010000-nrin-000-2-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> スマホへの関税を巡るトランプ政権の対応に混乱：iPhoneの価格高騰回避が狙いか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7bb57e8b9e8cf6b85899ef779225acf03c709b0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-02093962-wwdjapan-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 戸田恵梨香が「グッチ」ブランドアンバサダーに就任　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64acfc23ceb7db701c5100f038dcf95e684588d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00957807-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 身柄確保の20代男を逮捕へ　15歳女子高校生が刺され死亡…体には刃物で刺された複数の傷　さいたま市桜区
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/58537ce759287f219bdd8f9aa2e6257f29763316304ac4c44383e41760507ceb.jpg> 半導体と医薬品を調査 米関税検討
+      <a href=https://news.yahoo.co.jp/pickup/6535563>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/368da4188e2c77cea68fe7bd8143f30094879385da04139f8180d5fe42c98c30.jpg> 現金給付にマイナP活用案 浮上
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535539>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/7bd214050858733aa800d0949afd922c269828f0c7790a20e3f8a0edc2e4eb4b.jpg> 刺され死亡の女性は15歳高校生
+      <a href=https://news.yahoo.co.jp/pickup/6535562>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/01e8211f8471d21eeb5d70dfdcf22d94fc18f4a2cdbe67604cef4cbf1ba9a954.jpg> 15歳高校生を殺害疑い 男を逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 14:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 14:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
