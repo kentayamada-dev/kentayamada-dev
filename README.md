@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7657e62ce7bf0c644a6e0c8be32c9b06.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/16f99636566eabd978f9f8b164c688a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9016c3b778e809f609b354ba622d5986c0f92d61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000222-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=778&ch=778&exp=10800&fmt=webp> 広末涼子容疑者　逮捕から1週間…勾留続くワケ　弁護士が警察の思惑推測「危険運転致傷罪で立件できるか」
+      <a href=https://news.yahoo.co.jp/articles/8e945df4f1cd9f29dc68f5ac59649516e4347963>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000004-jij_graph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=180&cw=665&ch=665&exp=10800&fmt=webp> 【図解】グーグルに排除命令＝スマホに検索アプリ搭載強要―対GAFA初、独禁法違反で公取委
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535551>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/ca52ba20721133920495960cce724a0c1eefbd6a7d13a9eaf3ad070a5e9ed14e.jpg> 米関税 農林水産物の輸出に冷や水
+      <a href=https://news.yahoo.co.jp/pickup/6535568>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/54f0d02e12675cd59807c3c9befb66492b1138d7a44ba2c477152cffc28bdb0c.jpg> Googleに排除措置命令 公取委
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535557>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/7561e87e5f27aa190fa856ca6893689939fb2335bf770d2719b7bb5fa47a21db.jpg> IR本体工事24日から 万博会場の隣
+      <a href=https://news.yahoo.co.jp/pickup/6535551>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/ca52ba20721133920495960cce724a0c1eefbd6a7d13a9eaf3ad070a5e9ed14e.jpg> 米関税 農林水産物の輸出に冷や水
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 15:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 16:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
