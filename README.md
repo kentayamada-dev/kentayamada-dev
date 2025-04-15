@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6_-WrQWHkpA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/af062b781d70d38d270d1b9807711f0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/110c2ccfa4b69611df3f7f8a1543cd8e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535612>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/3b98e4a0e660bd4912bcca2f2f53108cefd61cb46a2affd17a2e7813df5e0213.jpg> 証券口座乗っ取り 数百万円被害も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535606>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/05f4490de99e8b1f920e23d2c248491f09b3d35b66dffd59ebe4e0ba8dd1e882.jpg> 中国 捕虜会見のウクライナにくぎ
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/d23a1f28739ce39c0a98fa406353e78aaf9ebcb0bd9ea19251571fbe8912d60f.jpg> 水くださいと来訪 監禁被害者語る
+      <a href=https://news.yahoo.co.jp/pickup/6535611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e0eb35d141c4ec6e657eb144294db6321c5c526cb2e70dae9d27495b0476fb1e.jpg> 15歳刺され死亡 同級生ら悲痛の声
       </a>
     </td>
   </tr>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6efbb5f9df63054ad25cb26d271c3a0f4a309defad0ada6ef6bc4c012ad5706a.png> いとうまい子 初講義でヤラセ語る
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 06:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 07:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
