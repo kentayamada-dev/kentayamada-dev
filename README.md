@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c78e31f7cc4c4cf030413aa3b93f1309.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/db08153fafc8a4b8fdf495554922a61b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/211501b12c58cbfced9131bfd9bf05dc00c812d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000104-dalv-000-3-thumb.jpg?exp=10800&fmt=webp> 高橋一生 自分が出ている「露伴」お忍び見学でスタッフに止められる「カメラやめてくださいって」妻・飯豊まりえも笑顔
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d2549a127b940d1217de9f9aa36c2ec437daff83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-21855293-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 『ミャクミャク』人気の大阪・関西万博 “開幕3日目” 案内板の少なさやトイレなど見えてきた「課題」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2059d54adf4af4eda5c1fcaf6104cc6502fd32be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000061-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 高1女子　刃物で刺され死亡　交番に続く血痕“男の足取り”殺人容疑で24歳男を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12f1a83b1b2ab5cccd3994c6441017478cd16cd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000113-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=627&ch=627&exp=10800&fmt=webp> Google、公取委に「遺憾の意」──“Chromeの強制プリインストール”に関する排除措置命令で声明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef995d8e7fea130c40ea8dcc446833098cb11253>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90029681-nbnv-000-2-thumb.jpg?exp=10800&fmt=webp> みそかつ、カフェタナカ、忍者… 大阪・関西万博から世界にPR　東海ゆかりの名物を一挙紹介
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a2c21b5155ac40a84ce90bd7163f5a1f43b961f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00087728-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=300&ch=300&exp=10800&fmt=webp> アップル、インド製iPhoneを米国に輸入　対中関税回避の短期的措置
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000061-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 高1女子　刃物で刺され死亡　交番に続く血痕“男の足取り”殺人容疑で24歳男を逮捕
       </a>
     </td>
   </tr>
@@ -394,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/54f0d02e12675cd59807c3c9befb66492b1138d7a44ba2c477152cffc28bdb0c.jpg> Googleに排除措置命令 公取委
+      <a href=https://news.yahoo.co.jp/pickup/6535578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/309f27c843fc15ec6da8c0f7f5f07f1abe77481c0df7df600fa95526a9c9072c.jpg> 公取が排除措置命令 Google声明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535564>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/a217a5f04c2adca81cd16b416e906fe0305fb2b34b60b63c759d93c2d0f4b13c.jpg> 訪日客が爆買い控え? 消費に陰り
+      <a href=https://news.yahoo.co.jp/pickup/6535575>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/9c1133f34cd8f0c73b7fd97c59d028ba122291610695bb6803630b71a854290e.jpg> 米関税 日本「時間かける」戦略?
       </a>
     </td>
   </tr>
@@ -426,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535567>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/dbf6126d6fada4b0d3274b1c242736680b272d9831b441fbf4b57c61690eac39.jpg> 広末容疑者 本鑑定で薬物検出なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535565>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/f19f521f6325b7551f0dee5f67ec45271af047135c5d210d0fe5d98d438fb12a.jpg> 和歌山知事が死去 敗血症とは
+      <a href=https://news.yahoo.co.jp/pickup/6535576>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/cfeb6b1f4ea1a5a2c942908f0d99cefeabdac640f91c86afb2cfe5cdab1bd7a6.jpg> 訪日客殺到 市が異例「取材NG」
       </a>
     </td>
   </tr>
@@ -456,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535579>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/1227d5b11273e4d7321b1199eb3b204786dbe043c62d31d746e64cdc355636df.jpg> 高橋一生&飯豊まりえ 夫婦初登壇
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 18:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 18:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
