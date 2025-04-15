@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2c51ec507c0590244ab1fdc8ef3a8e19.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da1a81d953c96b594033e5b66638a375.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a643c905293e208f2b6f4eaa76300ebb7d8dfa6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-07230787-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 政府・与党が補正予算案の今の国会への提出見送りで調整　電気・ガス代の補助は6月から3か月間を想定
+      <a href=https://news.yahoo.co.jp/articles/435d8beab78ed037d562af2966b63abbe4757a2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000062-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 米ダルトン社　フジに宣戦布告へ　20年前の「ライブドア騒動」の救世主を今度は“敵”として送り込む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9ed0ef4f7191a04e715048aa26c3f2f4139a7b18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-07230792-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> さいたま市・女子高校殺人事件　逮捕の男に事件現場と同じ区内の建設会社に勤務経験… 現場付近の土地勘があった可能性も　埼玉県警
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 04:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 04:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
