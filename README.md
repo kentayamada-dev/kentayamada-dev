@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6_-WrQWHkpA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/15d3eb85d348c059e3b8cbaa9b60faf4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a8a5cf8bf511f17b56992884c56b60fa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d528afc3a10848dda07cae8fe3b575e9e8e7a6cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010000-cinranet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 『べらぼう』に高岡早紀、水樹奈々、ジェームス小野田、ひょうろく、中川翼、えなりかずき、高橋英樹
+      <a href=https://news.yahoo.co.jp/articles/d4d2f1a4315fc0096e2f9aadbbcd329ccddd1d6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010007-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】福島第一原発2号機の燃料デブリ　2回目の試験的取り出しに着手　東京電力
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/104b3bc141ff066aa83b6ae5697db11eaf14a364>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000018-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 万博の来場者数、開幕翌日は半減して5万人　協会「さらに情報発信」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6c211ac8b73b011059b544bc4754cd884724cf16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050042-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏、自動車関税で救済措置検討…スマホへの対応も示唆し「私はとても柔軟な人間だ」
       </a>
     </td>
   </tr>
@@ -379,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb2f91cdeb3908bd61a264ee0acc2a6abadc57dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010000-reutv-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏、自動車関税の一部見直し検討　「米国内での製造に切り替えるには少し時間が必要」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535525>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/f919b5a6dd4a175f67bdef4176d2cd3d510aa2e8b3ace14053e533ea724687b1.jpg> アーミテージ元米国務副長官 死去
+      <a href=https://news.yahoo.co.jp/pickup/6535528>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/68e0a6dadfd816a7ddf34b814381d48d04c233a6938af94bdbe4939747864126.jpg> 防衛相 一つの戦域構想を米に伝達
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535527>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/4a709fdb0c8bca5af8f97d1ca4edea30ea6876b7af74f900c38d3fed84dfbb7c.jpg> AIで作成の裸画像販売疑い 初摘発
+      <a href=https://news.yahoo.co.jp/pickup/6535532>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 飲食物に異物混入 SNS投稿は注意
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535521>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/58c4761fc90d1732a715b5e47b824875e6807c3d18dd03f489c81620084c3677.jpg> K・ペリーさん宇宙に 10分で帰還
+      <a href=https://news.yahoo.co.jp/pickup/6535536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/cc20bd7560aa9ac5e94cc593805f70b4f78416ee395fd7b18d7a9c02bb64e6e4.jpg> ひょうろく 大河ドラマに抜てき
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 10:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 11:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
