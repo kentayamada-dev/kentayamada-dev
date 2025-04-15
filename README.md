@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fc9c570d6141fa4bc78fe53783ad7cde.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/418e31040ae7d47a116c443bb5ff1c68.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ff0c0743f337e2514a561aa95dc824900bdb62e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00958072-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 女子高校生・手柄玲奈さん（15）を刃物で切りつけ殺害か…逮捕された谷内寛幸容疑者（24）確保時の様子「落ち着いている感じ」　さいたま市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bd3a6fc4ca90446e42971cfa9c0a421599a84ef0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90022766-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=675&ch=675&exp=10800&fmt=webp> また二転三転…　トランプ氏“軟化”のワケ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90022766-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=675&ch=675&exp=10800&fmt=webp> また二転三転…　トランプ氏“軟化”のワケ
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5414fa22f7518af8fdb6bf4c5ccda20e47d31c52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000062-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=377&ch=377&exp=10800&fmt=webp> フジテレビ親会社の取締役候補にSBI北尾氏　米ダルトン提案へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000062-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=377&ch=377&exp=10800&fmt=webp> フジテレビ親会社の取締役候補にSBI北尾氏　米ダルトン提案へ
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d3c2396690b7c18c216204efbcbd0890c919b8e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> バター628万個を自主回収　よつ葉乳業、金属線混入の恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2116e009c9a233094b2317cb4c851ebfd0351ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010003-teletamav-000-2-thumb.jpg?exp=10800&fmt=webp> さいたま市桜区　女子高校生刺殺事件で24歳男逮捕／埼玉県
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000188-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1484&ch=1484&exp=10800&fmt=webp> バター628万個を自主回収　よつ葉乳業、金属線混入の恐れ
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/309f27c843fc15ec6da8c0f7f5f07f1abe77481c0df7df600fa95526a9c9072c.jpg> 公取が排除措置命令 Google声明
+      <a href=https://news.yahoo.co.jp/pickup/6535585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6d3ffdfe0ece52e0da3d19060634b16fea39fb60e02128cc3850b3ad4b161724.jpg> 春になっても ノロ異例の長期流行
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 20:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 20:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
