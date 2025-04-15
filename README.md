@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f3da3f427cd518f0778c999ff8cef304.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0422fde3aac2135c261523194cd0dafc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c3fcb6d4119f7aaf7475ad155446e83a5cd460f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-05745796-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 高校に進学したばかり…女子高校生“刺殺”　逮捕の24歳男、衣服に血　専門家「何回か下見か」
+      <a href=https://news.yahoo.co.jp/articles/a853c1ee3befeb8a5ce1c696d682b215c86bbcbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000217-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=704&ch=704&exp=10800&fmt=webp> フジHD取締役に北尾氏提案　米投資ファンド、選任求める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2095cd2df0628314dc67e8a9b4b95d5e37f88cfe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ファンド、フジ取締役人事で株主提案へ
+      <a href=https://news.yahoo.co.jp/articles/0521f12808bccd2bffaedf484ff0ac3d3f80d8aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00253687-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> 〈埼玉・15歳女子高生殺害〉「過去に大きな事件起こしている」「昨年に出所…」逮捕された職業不詳男（24）と礼儀正しい活発なバスケ少女との接点は？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb8f3f091e06a0df09e1a7e9d47ae316ae7d7ea1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90031850-sut-000-2-thumb.jpg?exp=10800&fmt=webp> 「水を1杯ください」と来訪　立てこもり男を強盗致傷と逮捕監禁容疑で再逮捕　被害女性が語る恐怖
+      <a href=https://news.yahoo.co.jp/articles/48f991477dcec34ddc1eb7bed589aaedc501b9b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00958233-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=377&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> いよいよ日米交渉へ…“トランプ関税”日本の交渉役・赤沢経済再生相“実力”は?実務能力期待も石破首相との“距離の近さ”指摘する声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/357294404fecc9d8e10c7447e3f557f7cc827435>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010015-thrjapan-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=944&ch=944&exp=10800&fmt=webp> 高橋一生＆飯豊まりえ、夫婦初2ショットで『岸辺露伴は動かない　懺悔室』をアピール
       </a>
     </td>
   </tr>
@@ -394,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535585>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6d3ffdfe0ece52e0da3d19060634b16fea39fb60e02128cc3850b3ad4b161724.jpg> 春になっても ノロ異例の長期流行
+      <a href=https://news.yahoo.co.jp/pickup/6535589>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/5e46349c5c8f445630a452d0a08fb09ec23980ac4a8ac8d1ec175510c88d0a57.jpg> 旧二階派 解散後の残金を党寄付へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/50909e0294c9c4b5bdacf3e43f6b12dec89eb96bf047bcd1b42f13248af7e3d2.jpg> 15歳刺され死亡 接点いまだ不明
+      <a href=https://news.yahoo.co.jp/pickup/6535598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/bb67a8b7c9c45be00d14cba4c4636d7f74a4157ec208d0dd2c90177290e27c66.jpg> 高齢者向けNISAの創設検討 金融庁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/d23a1f28739ce39c0a98fa406353e78aaf9ebcb0bd9ea19251571fbe8912d60f.jpg> 水くださいと来訪 監禁被害者語る
       </a>
     </td>
   </tr>
@@ -418,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535584>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 砂浜が70mにわたり流失 過去にも
+      <a href=https://news.yahoo.co.jp/pickup/6535573>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/c09b9b997d17c8ca9ffe979dcd9da2aaecb9f3909ee7677551e0e9f7e2ba1046.jpg> メルカリでデニム注文 グミ届く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/e2a635fd8f598309f901aef24737c6dbceacac189085d117c2c4ed779fd0cce5.jpg> スマホゲーム 緊急メンテが続出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535594>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/ad8a65fec7fdd66f801b854d489428556217ff85f032004f8f363f9f1923a3a9.jpg> 夫婦で登場 飯豊「一生さん」呼び
+      <a href=https://news.yahoo.co.jp/pickup/6535599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/4dc9740fd4720ebb540e17a441d3e950fa6c9168e9e33280812edaba626a1640.jpg> 西武・高橋光成 悲劇の13連敗
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 21:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 22:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
