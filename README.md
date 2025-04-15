@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9e9f3f0aeb4badd65476511253ddd01.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7479e6685da402c414be6baf3ccb5e62.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2e54b79f0d8217af7fe08623220718cf35a803f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000097-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 公明、現金給付に「マイナポイント」活用案
+      <a href=https://news.yahoo.co.jp/articles/ce23c0e887deff8c46fb14e474b9d9811f7b8f3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050000-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=374&ch=374&exp=10800&fmt=webp> フジＨＤ大株主の米ファンド、北尾吉孝氏ら１２人を取締役候補に提案へ…米報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8a643c905293e208f2b6f4eaa76300ebb7d8dfa6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-07230787-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=424&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 政府・与党が補正予算案の今の国会への提出見送りで調整　電気・ガス代の補助は6月から3か月間を想定
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/db2e7475b46fcac3a5842645fc9316317f576917>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050178-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=374&ch=374&exp=10800&fmt=webp> アメリカと関税交渉の赤沢経済再生相、１７日に会談へ…「簡単ではないが政府一丸で取り組む」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a853c1ee3befeb8a5ce1c696d682b215c86bbcbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000217-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=704&ch=704&exp=10800&fmt=webp> フジ役員にSBI北尾吉孝氏を　米ファンド、株主提案へ
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/bb67a8b7c9c45be00d14cba4c4636d7f74a4157ec208d0dd2c90177290e27c66.jpg> 高齢者向けNISAの創設検討 金融庁
+      <a href=https://news.yahoo.co.jp/pickup/6535608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6a49f6cf4a66524209c49175b74ec309eb2688eb106169ac2c7006e6498861d8.jpg> 補正予算案 今国会の提出見送りへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/05f4490de99e8b1f920e23d2c248491f09b3d35b66dffd59ebe4e0ba8dd1e882.jpg> 中国 捕虜会見のウクライナにくぎ
+      <a href=https://news.yahoo.co.jp/pickup/6535598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/bb67a8b7c9c45be00d14cba4c4636d7f74a4157ec208d0dd2c90177290e27c66.jpg> 高齢者向けNISAの創設検討 金融庁
       </a>
     </td>
   </tr>
@@ -418,32 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535602>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/028b242aae79f8cf1151896f04e1404f64126148f9d3eeacc40a8886855da05b.jpg> 食堂と契約せず放置 市職員多忙で
+      <a href=https://news.yahoo.co.jp/pickup/6535606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/05f4490de99e8b1f920e23d2c248491f09b3d35b66dffd59ebe4e0ba8dd1e882.jpg> 中国 捕虜会見のウクライナにくぎ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535607>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/1e8376c62bb966616d64dfa171a10d9c95cd23128d3ceff8c3412d7363cd8380.jpg> 万博LGBTQ配慮トイレ 反応様々
+      <a href=https://news.yahoo.co.jp/pickup/6535586>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/0bc802249c3d89dd947e3e67cfa19bd7546f6a7abbc5f9c6f20eaddebb680dde.jpg> 手違いで移民送還 米の対応が物議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535573>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/c09b9b997d17c8ca9ffe979dcd9da2aaecb9f3909ee7677551e0e9f7e2ba1046.jpg> メルカリでデニム注文 グミ届く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/4dc9740fd4720ebb540e17a441d3e950fa6c9168e9e33280812edaba626a1640.jpg> 西武・高橋光成 悲劇の13連敗
+      <a href=https://news.yahoo.co.jp/pickup/6535609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/c3ae527d0b755220bdb452897281c362b4102f60d1fe2320e41dc3e41bb8a9c0.jpg> 卒業式 不登校生を平均台に座らせ
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6efbb5f9df63054ad25cb26d271c3a0f4a309defad0ada6ef6bc4c012ad5706a.png> いとうまい子 初講義でヤラセ語る
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 23:52:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 00:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
