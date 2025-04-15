@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/16f99636566eabd978f9f8b164c688a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/94bf506a69fea46501952a5449361ee6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e945df4f1cd9f29dc68f5ac59649516e4347963>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000004-jij_graph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=180&cw=665&ch=665&exp=10800&fmt=webp> 【図解】グーグルに排除命令＝スマホに検索アプリ搭載強要―対GAFA初、独禁法違反で公取委
+      <a href=https://news.yahoo.co.jp/articles/606be6050eb6e6d05437048539e91771f74f75fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00065003-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「万博最高です」開幕から３日いまだ興奮冷めやらぬ会場　『カタールパビリオン』は正式に開館！セレモニーで伝統的なダンスを披露
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3bbedcf4867ece784346d69b82f1a77d8873a7cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-16082684-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=849&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> トランプ氏、ウクライナでの戦争開始はゼレンスキー氏の責任と　多くの死傷者についても
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6a2c21b5155ac40a84ce90bd7163f5a1f43b961f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00087728-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=300&ch=300&exp=10800&fmt=webp> アップル、インド製iPhoneを米国に輸入　対中関税回避の短期的措置
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb4a8941d55acf72a8a7f6f4cb8b02b4134e0906>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-03584618-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 公園で男性殺害　複数人物の犯行か　広島・府中町
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/70c6645601e0d179c28ba7c93a37a291f2a0fe93>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000115-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=1550&ch=1550&exp=10800&fmt=webp> 高1女子刺殺疑い、男逮捕　埼玉県警、付近交番で確保
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28db60a9bf7b4312e4553ae13c218f249bd483a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010001-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平、MLB通算230号の5号ソロ&3安打の活躍！ベッツとHR共演でドジャースの連敗ストップにバットで貢献
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e00f838666df80241afa53c47ca356d10444dfdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010000-nrin-000-2-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> スマホへの関税を巡るトランプ政権の対応に混乱：iPhoneの価格高騰回避が狙いか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cf8fd3e640f18dfdd6664bb64706b1d9c36027d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050071-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=333&ch=333&exp=10800&fmt=webp> いら立つトランプ氏、プーチン・ゼレンスキー・バイデン氏を批判「何百万人が３人のせいで犠牲に」
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535554>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/5d8ea10c9276b8b66994e3a99211ece9ea222bed8b8a3c60cebd4810e5270226.jpg> ウ捕虜の中国人「同胞」に警告
+      <a href=https://news.yahoo.co.jp/pickup/6535570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/48321b2c473fe9a12d37e30b97f4261bf0ef8547f5824109b368a5f2b02aaae0.jpg> 殺された男性 東京から広島来たか
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535560>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/d197835acd875000ba2eee7aa24fdc869a0bd7e6c58ebcc233c04819942ced23.jpg> 中傷メール 元百条委員が被害届
+      <a href=https://news.yahoo.co.jp/pickup/6535567>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/dbf6126d6fada4b0d3274b1c242736680b272d9831b441fbf4b57c61690eac39.jpg> 広末容疑者 本鑑定で薬物検出なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535567>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/a69dd00bf67507402fe95730543ddc8968cc2597f55a916be85b555e86f7448e.jpg> 広末容疑者 本鑑定で薬物検出なし
+      <a href=https://news.yahoo.co.jp/pickup/6535565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/f19f521f6325b7551f0dee5f67ec45271af047135c5d210d0fe5d98d438fb12a.jpg> 和歌山知事が死去 敗血症とは
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 16:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 16:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
