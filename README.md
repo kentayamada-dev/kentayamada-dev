@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6_-WrQWHkpA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/997d6259406e9a98517822321fb5beaa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a729d50f850895b6e4b357d323b252d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/442ea5c5b9655de4fa17a6d1736c47fdcc423069>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏、輸入医薬品への関税発表へ　米への製造拠点移転促す
+      <a href=https://news.yahoo.co.jp/articles/2e75235cd836e4e9c2d19518386b7845789788e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-06591487-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> さいたま市女子高校生刺殺　外出先から帰宅した際に襲われたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c60eb1452d5cd5ee81de33a7769b2f0223096fae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-34150267-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=1121&ch=1121&exp=10800&fmt=webp> 「死去　68才」がトレンドに　和歌山県知事の急逝にお悔やみコメント相次ぐ「残念でならない」
+      <a href=https://news.yahoo.co.jp/articles/060532b976c0f73fd237b46c7232b8b990c731be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-34150299-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1493&ch=1493&exp=10800&fmt=webp> 大谷翔平、第２打席で打った瞬間の６試合ぶり５号ソロ　158キロを堂々フェンスオーバー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37162b5ee064c4f741a44811d0fbad3d61b36f4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000023-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ウクライナ戦争の責任“ゼレンスキー氏とバイデン氏にも”トランプ氏が主張
+      <a href=https://news.yahoo.co.jp/articles/c2b6e66b2cd9c3956a267b76042e67b66858cf1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00957753-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領が自動車メーカー支援を検討…部品の関税軽減か　「私は柔軟な人間」アップル製品やスマホには対策講じる考えを示唆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0c36a6579102e78b27438f8f399f9a5225217c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000028-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=759&ch=759&exp=10800&fmt=webp> 埼玉で高1女子死亡　付近に包丁、20代男性を確保　殺人事件で捜査
+      <a href=https://news.yahoo.co.jp/articles/1cf8fd3e640f18dfdd6664bb64706b1d9c36027d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050071-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=333&ch=333&exp=10800&fmt=webp> いら立つトランプ氏、プーチン・ゼレンスキー・バイデン氏を批判「何百万人が３人のせいで犠牲に」
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535532>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 飲食物に異物混入 SNS投稿は注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/02aeafe8709030f2c18bc4142ca5dce54b7fb69161ea07eb9184092746eeceba.jpg> 20歳記念の15cm定規 2mm短かった
+      <a href=https://news.yahoo.co.jp/pickup/6535539>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/7bd214050858733aa800d0949afd922c269828f0c7790a20e3f8a0edc2e4eb4b.jpg> 刺され死亡の女性は15歳高校生
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/cc20bd7560aa9ac5e94cc593805f70b4f78416ee395fd7b18d7a9c02bb64e6e4.jpg> ひょうろく 大河ドラマに抜てき
+      <a href=https://news.yahoo.co.jp/pickup/6535546>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/1f5e3b61478087a2413d2681132e7107bf7e6bed5e6738d31a80bb5968460eaa.jpg> 大谷翔平が5号HR 6試合ぶり一発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535531>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/e6572f7ae269c563238e36f90e28d4c52995654fe09016b2a9158ee5a5ec8886.jpg> 吉本ばななさんの小説 初アニメ化
+      <a href=https://news.yahoo.co.jp/pickup/6535542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/c8f182786f4b8c02f1d0ec83e5af123bb02847a7f37f29ba1bc14321dc44c28c.jpg> 生徒「ギャー」高校に永野芽郁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/cc20bd7560aa9ac5e94cc593805f70b4f78416ee395fd7b18d7a9c02bb64e6e4.jpg> ひょうろく 大河ドラマに抜てき
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 11:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 12:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
