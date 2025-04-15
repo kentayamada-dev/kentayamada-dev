@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a8a5cf8bf511f17b56992884c56b60fa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/997d6259406e9a98517822321fb5beaa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4d2f1a4315fc0096e2f9aadbbcd329ccddd1d6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010007-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】福島第一原発2号機の燃料デブリ　2回目の試験的取り出しに着手　東京電力
+      <a href=https://news.yahoo.co.jp/articles/442ea5c5b9655de4fa17a6d1736c47fdcc423069>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000029-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏、輸入医薬品への関税発表へ　米への製造拠点移転促す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c60eb1452d5cd5ee81de33a7769b2f0223096fae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-34150267-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=1121&ch=1121&exp=10800&fmt=webp> 「死去　68才」がトレンドに　和歌山県知事の急逝にお悔やみコメント相次ぐ「残念でならない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37162b5ee064c4f741a44811d0fbad3d61b36f4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000023-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ウクライナ戦争の責任“ゼレンスキー氏とバイデン氏にも”トランプ氏が主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c0c36a6579102e78b27438f8f399f9a5225217c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000028-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=759&ch=759&exp=10800&fmt=webp> 埼玉で高1女子死亡　付近に包丁、20代男性を確保　殺人事件で捜査
       </a>
     </td>
   </tr>
@@ -371,30 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c211ac8b73b011059b544bc4754cd884724cf16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050042-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏、自動車関税で救済措置検討…スマホへの対応も示唆し「私はとても柔軟な人間だ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4224f613a20698ae3663ce05c9a2ca2fd94789ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00957703-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】刃物で刺され死亡したのは女子高校生・手柄玲奈さん（15）と判明　血が付いた服着て交番訪れた20代くらいの男の身柄確保　さいたま市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f572dac54ec2ae8ffecc38068d65cf329a8b0916>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ウクライナ北東部攻撃、民間人標的をロシア否定 トランプ氏はゼレンスキー氏非難
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/b50c13a614404706bbd369f92ee7f7fb5712ae85d91ad8efe92bacdddf230af7.jpg> 大気不安定 西・東日本で落雷注意
+      <a href=https://news.yahoo.co.jp/pickup/6535537>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/2b2a6b7b316f9b2c982d51c7f68cda9cb7ee1f2e9bbef5b3b82ffa49a69bf7ae.jpg> 2回目のデブリ採取に着手 福島第1
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535524>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/580b62a6396bd4fbf715cc17ba3c030c3181edf26fb72d3a6a1395e50bef014c.jpg> トランプ氏 ウ大統領を猛烈に批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535535>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/bc3b60c18cf782423273d2d7cd968e86054c5ffa7cb4d4a769c64ae89348846c.jpg> 和歌山県の岸本周平知事が死去
+      <a href=https://news.yahoo.co.jp/pickup/6535540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/7377a63b0df971c6de54c6e7bd80849b6c40631a9cdf5c645a0f5cd31d8612ff.jpg> 和歌山知事死因 敗血症性ショック
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535530>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/02aeafe8709030f2c18bc4142ca5dce54b7fb69161ea07eb9184092746eeceba.jpg> 20歳記念の15cm定規 2mm短かった
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/8a6054e8cd3ca95b7c9e70c4ba3bd4344f5e39925c4105b8aa1a3845f3120acb.jpg> 買い占め横行 世界的ブームの抹茶
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 11:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 11:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
