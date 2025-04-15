@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/418e31040ae7d47a116c443bb5ff1c68.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c1955472c82c6adf4b4a5b2a85f006cf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2095cd2df0628314dc67e8a9b4b95d5e37f88cfe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ファンド、フジ取締役人事で株主提案へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b2398b16826bab206c6e5294855a85de14dc4963>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 半額以下？ コメ高騰で　”韓国で購入”　日本人観光客
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ff0c0743f337e2514a561aa95dc824900bdb62e6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00958072-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 女子高校生・手柄玲奈さん（15）を刃物で切りつけ殺害か…逮捕された谷内寛幸容疑者（24）確保時の様子「落ち着いている感じ」　さいたま市
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bd3a6fc4ca90446e42971cfa9c0a421599a84ef0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90022766-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=675&ch=675&exp=10800&fmt=webp> また二転三転…　トランプ氏“軟化”のワケ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5414fa22f7518af8fdb6bf4c5ccda20e47d31c52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000062-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=377&ch=377&exp=10800&fmt=webp> フジテレビ親会社の取締役候補にSBI北尾氏　米ダルトン提案へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3c2396690b7c18c216204efbcbd0890c919b8e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000188-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1484&ch=1484&exp=10800&fmt=webp> バター628万個を自主回収　よつ葉乳業、金属線混入の恐れ
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/99040b4b1bcf34cfc4a7fbc6536085e5e27dc85e099cf9c1cf1a94f7e22cdcae.jpg> 海岸に保育士遺体 心臓に達する傷
+      <a href=https://news.yahoo.co.jp/pickup/6535591>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/50909e0294c9c4b5bdacf3e43f6b12dec89eb96bf047bcd1b42f13248af7e3d2.jpg> 15歳刺され死亡 接点いまだ不明
       </a>
     </td>
   </tr>
@@ -428,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535588>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/4fda1d1fabcafbf1fd84de0600c684b8541e68b7277f537cf527979f3c7f83de.jpg> バターに異物か よつ葉乳業が回収
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535566>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/0ab7635c9e52905559bf47151940b7928f4ddf13f7b11c839db653769b80a719.jpg> 米ハーバード大の巨額補助金 凍結
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6efbb5f9df63054ad25cb26d271c3a0f4a309defad0ada6ef6bc4c012ad5706a.png> いとうまい子 初講義でヤラセ語る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535579>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/1227d5b11273e4d7321b1199eb3b204786dbe043c62d31d746e64cdc355636df.jpg> 高橋一生&飯豊まりえ 夫婦初登壇
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 20:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 21:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
