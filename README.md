@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f8612b3b5d67da46cdb91219b970b44b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b77be59e8e7889871c546eab705a6f8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e32b0a29a97d43f4a38ee1c5dd7f3396ff06db3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-07230783-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 1キロ先まで血痕が…高1女子刺殺 帰宅時に襲われたか 谷内寛幸容疑者（24）は交番前で通行人に「110番してください」【news23】
+      <a href=https://news.yahoo.co.jp/articles/deba44ee493b76ed7b822d993ba7fab4b440a648>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-90022797-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 通行人に自ら「110番してください」24歳男を逮捕　女子高校生が刃物で刺され死亡
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db2e7475b46fcac3a5842645fc9316317f576917>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050178-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=374&ch=374&exp=10800&fmt=webp> アメリカと関税交渉の赤沢経済再生相、１７日に会談へ…「簡単ではないが政府一丸で取り組む」
+      <a href=https://news.yahoo.co.jp/articles/410fd2834ff62e832f30fc051d7f9dccb9e59154>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、142円台後半（15日朝）
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 01:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 02:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
