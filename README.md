@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4ea975acf63b86ed3484317b6a4664c6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c78e31f7cc4c4cf030413aa3b93f1309.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2059d54adf4af4eda5c1fcaf6104cc6502fd32be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000061-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 高1女子　刃物で刺され死亡　交番に続く血痕“男の足取り”殺人容疑で24歳男を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/12f1a83b1b2ab5cccd3994c6441017478cd16cd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000113-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=627&ch=627&exp=10800&fmt=webp> Google、公取委に「遺憾の意」──“Chromeの強制プリインストール”に関する排除措置命令で声明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ef995d8e7fea130c40ea8dcc446833098cb11253>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90029681-nbnv-000-2-thumb.jpg?exp=10800&fmt=webp> みそかつ、カフェタナカ、忍者… 大阪・関西万博から世界にPR　東海ゆかりの名物を一挙紹介
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5967fa346a96468b9455b9216e3694c544242b96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000096-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=901&ch=901&exp=10800&fmt=webp> 巨人・キャベッジが2試合続けて試合前打撃練習行わず　12日広島戦で左手負傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a2c21b5155ac40a84ce90bd7163f5a1f43b961f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00087728-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=300&ch=300&exp=10800&fmt=webp> アップル、インド製iPhoneを米国に輸入　対中関税回避の短期的措置
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70c6645601e0d179c28ba7c93a37a291f2a0fe93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000115-kyodonews-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=1550&ch=1550&exp=10800&fmt=webp> 高1女子刺殺疑い、24歳男逮捕　埼玉県警に黙秘、付近交番で確保
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535551>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/ca52ba20721133920495960cce724a0c1eefbd6a7d13a9eaf3ad070a5e9ed14e.jpg> 米関税 農林水産物の輸出に冷や水
+      <a href=https://news.yahoo.co.jp/pickup/6535564>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/a217a5f04c2adca81cd16b416e906fe0305fb2b34b60b63c759d93c2d0f4b13c.jpg> 訪日客が爆買い控え? 消費に陰り
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535564>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/a217a5f04c2adca81cd16b416e906fe0305fb2b34b60b63c759d93c2d0f4b13c.jpg> 訪日客が爆買い控え? 消費に陰り
+      <a href=https://news.yahoo.co.jp/pickup/6535574>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> リンナイ浴室乾燥機原因で家全焼
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 17:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 18:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
