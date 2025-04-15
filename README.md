@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce3aa0088198ece1e285e636eaec0c6d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fc9c570d6141fa4bc78fe53783ad7cde.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d766f4655a18b44f4839b9fbca786ce746661d07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050143-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=374&ch=374&exp=10800&fmt=webp> アメリカ自動車関税、「一時減免」検討か…トランプ氏「米国内で製造するまで多少の時間かかる」
+      <a href=https://news.yahoo.co.jp/articles/bd3a6fc4ca90446e42971cfa9c0a421599a84ef0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90022766-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=675&ch=675&exp=10800&fmt=webp> また二転三転…　トランプ氏“軟化”のワケ
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2116e009c9a233094b2317cb4c851ebfd0351ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010003-teletamav-000-2-thumb.jpg?exp=10800&fmt=webp> さいたま市桜区　女子高校生刺殺事件で24歳男逮捕／埼玉県
+      <a href=https://news.yahoo.co.jp/articles/d3c2396690b7c18c216204efbcbd0890c919b8e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> バター628万個を自主回収　よつ葉乳業、金属線混入の恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0f4d99d9222e7185773143aa408f5d52cd381e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000281-spnannex-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=470&ch=470&exp=10800&fmt=webp> スマホゲームで通信エラーの障害相次ぐ　AWSサーバー障害が原因か　緊急メンテ続出にネット騒然
+      <a href=https://news.yahoo.co.jp/articles/d2116e009c9a233094b2317cb4c851ebfd0351ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010003-teletamav-000-2-thumb.jpg?exp=10800&fmt=webp> さいたま市桜区　女子高校生刺殺事件で24歳男逮捕／埼玉県
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535581>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/d1b97c1634663b19d703595c73af81e0b48c24ad5efafed1781d2c41c1445bd4.jpg> 減税巡り 立憲の党内対立深まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535578>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/309f27c843fc15ec6da8c0f7f5f07f1abe77481c0df7df600fa95526a9c9072c.jpg> 公取が排除措置命令 Google声明
       </a>
@@ -410,40 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/9c1133f34cd8f0c73b7fd97c59d028ba122291610695bb6803630b71a854290e.jpg> 米関税 日本「時間かける」戦略?
+      <a href=https://news.yahoo.co.jp/pickup/6535587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/99040b4b1bcf34cfc4a7fbc6536085e5e27dc85e099cf9c1cf1a94f7e22cdcae.jpg> 海岸に保育士遺体 心臓に達する傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6ad35876727ccd8d1fd8fee7a32713b67481bb85f8de7532e9df0228d4583f7d.jpg> リンナイ浴室乾燥 37万台発火恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6535588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/4fda1d1fabcafbf1fd84de0600c684b8541e68b7277f537cf527979f3c7f83de.jpg> バターに異物か よつ葉乳業が回収
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535580>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/329943d7d8af2c6943c0e3283d77063f9f0db9a9421970cc825b2743ad34fd3f.jpg> フジ巡り SBI北尾会長が会見へ
+      <a href=https://news.yahoo.co.jp/pickup/6535566>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/0ab7635c9e52905559bf47151940b7928f4ddf13f7b11c839db653769b80a719.jpg> 米ハーバード大の巨額補助金 凍結
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535577>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/4fda1d1fabcafbf1fd84de0600c684b8541e68b7277f537cf527979f3c7f83de.jpg> よつ葉乳業が自主回収 異物混入か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535573>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/c09b9b997d17c8ca9ffe979dcd9da2aaecb9f3909ee7677551e0e9f7e2ba1046.jpg> メルカリでデニム注文 グミ届く
+      <a href=https://news.yahoo.co.jp/pickup/6535584>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 砂浜が70mにわたり流失 過去にも
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 19:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 20:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
