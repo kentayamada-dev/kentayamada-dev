@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2fb0fcf8e4e82df4d509cc5c69bf74f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc2137d2bf230e24a4347c559860fc8d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f572dac54ec2ae8ffecc38068d65cf329a8b0916>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ウクライナ北東部攻撃、民間人標的をロシア否定 トランプ氏はゼレンスキー氏非難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fb2f91cdeb3908bd61a264ee0acc2a6abadc57dc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010000-reutv-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏、自動車関税の一部見直し検討　「米国内での製造に切り替えるには少し時間が必要」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c367c96a96c1d0ee1e5dd145755d106951d51554>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00957700-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 現場から交番までの間には血痕が点々…10代少女刺され死亡　血が付いた服で交番訪れた20代くらいの男を確保　さいたま市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8db2d204d0b3714040e969d0f66fbfd093ad2b9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ和平プロセス、早くも停滞　いらだち強めるトランプ氏、対ロシア制裁強化も
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535522>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/b50c13a614404706bbd369f92ee7f7fb5712ae85d91ad8efe92bacdddf230af7.jpg> 大気不安定 西・東日本で落雷注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535519>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/9805125c67c008b54724aeea9c9dcaf4e61f965615f19c9d3c83204c1594a981.jpg> 備蓄米どこ 流通の不平等訴える声
       </a>
     </td>
   </tr>
@@ -434,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535523>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/2acdd67e47a0c4d4dfe272620606f75218bfba36938ca4a9f5aa6466538184f7.jpg> 価格も景色もまるで別世界 ニセコ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/dc3c506cddc998ccb40b66fe42ee12079ec76388e7d0226080ab75ec306abaf7.jpg> 20歳記念の15cm定規 2mm短かった
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/02aeafe8709030f2c18bc4142ca5dce54b7fb69161ea07eb9184092746eeceba.jpg> 20歳記念の15cm定規 2mm短かった
       </a>
     </td>
   </tr>
@@ -456,11 +440,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/2b045f8aa373d7015fde805622b37418802cf81bb9776f5e37eaea2b6ceaebeb.jpg> オリ小木田 トミー・ジョン手術へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535531>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/e6572f7ae269c563238e36f90e28d4c52995654fe09016b2a9158ee5a5ec8886.jpg> 吉本ばななさんの小説 初アニメ化
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 09:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 10:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
