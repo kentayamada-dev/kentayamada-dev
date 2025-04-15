@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c1955472c82c6adf4b4a5b2a85f006cf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f3da3f427cd518f0778c999ff8cef304.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5c3fcb6d4119f7aaf7475ad155446e83a5cd460f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-05745796-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 高校に進学したばかり…女子高校生“刺殺”　逮捕の24歳男、衣服に血　専門家「何回か下見か」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2095cd2df0628314dc67e8a9b4b95d5e37f88cfe>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ファンド、フジ取締役人事で株主提案へ
       </a>
@@ -365,32 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2398b16826bab206c6e5294855a85de14dc4963>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 半額以下？ コメ高騰で　”韓国で購入”　日本人観光客
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff0c0743f337e2514a561aa95dc824900bdb62e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00958072-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 女子高校生・手柄玲奈さん（15）を刃物で切りつけ殺害か…逮捕された谷内寛幸容疑者（24）確保時の様子「落ち着いている感じ」　さいたま市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd3a6fc4ca90446e42971cfa9c0a421599a84ef0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90022766-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=675&ch=675&exp=10800&fmt=webp> また二転三転…　トランプ氏“軟化”のワケ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2549a127b940d1217de9f9aa36c2ec437daff83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-21855293-cbcv-000-2-thumb.jpg?exp=10800&fmt=webp> 『ミャクミャク』人気の大阪・関西万博 “開幕3日目” 案内板の少なさやトイレなど見えてきた「課題」
+      <a href=https://news.yahoo.co.jp/articles/bb8f3f091e06a0df09e1a7e9d47ae316ae7d7ea1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90031850-sut-000-2-thumb.jpg?exp=10800&fmt=webp> 「水を1杯ください」と来訪　立てこもり男を強盗致傷と逮捕監禁容疑で再逮捕　被害女性が語る恐怖
       </a>
     </td>
   </tr>
@@ -402,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/d1b97c1634663b19d703595c73af81e0b48c24ad5efafed1781d2c41c1445bd4.jpg> 減税巡り 立憲の党内対立深まる
+      <a href=https://news.yahoo.co.jp/pickup/6535595>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/5b54226f2f231717a4e87e842dff2ebd89d57d04a61eee20cd46a51c2a5c9cef.jpg> 首相「万博外交」本格スタート
       </a>
     </td>
   </tr>
@@ -426,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/4fda1d1fabcafbf1fd84de0600c684b8541e68b7277f537cf527979f3c7f83de.jpg> バターに異物か よつ葉乳業が回収
+      <a href=https://news.yahoo.co.jp/pickup/6535593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/a9fdf0d5a1f22427a20141554b0102370289debd2acc6dbee959065269688f0e.jpg> コメ半額も 韓国で買う日本人増加
       </a>
     </td>
   </tr>
@@ -450,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6efbb5f9df63054ad25cb26d271c3a0f4a309defad0ada6ef6bc4c012ad5706a.png> いとうまい子 初講義でヤラセ語る
+      <a href=https://news.yahoo.co.jp/pickup/6535594>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/ad8a65fec7fdd66f801b854d489428556217ff85f032004f8f363f9f1923a3a9.jpg> 夫婦で登場 飯豊「一生さん」呼び
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535579>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/1227d5b11273e4d7321b1199eb3b204786dbe043c62d31d746e64cdc355636df.jpg> 高橋一生&飯豊まりえ 夫婦初登壇
+      <a href=https://news.yahoo.co.jp/pickup/6535592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6efbb5f9df63054ad25cb26d271c3a0f4a309defad0ada6ef6bc4c012ad5706a.png> いとうまい子 初講義でヤラセ語る
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 21:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 21:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
