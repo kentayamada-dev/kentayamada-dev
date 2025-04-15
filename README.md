@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/db08153fafc8a4b8fdf495554922a61b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b6103f3f754fa08d49456948400ee7db.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/211501b12c58cbfced9131bfd9bf05dc00c812d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000104-dalv-000-3-thumb.jpg?exp=10800&fmt=webp> 高橋一生 自分が出ている「露伴」お忍び見学でスタッフに止められる「カメラやめてくださいって」妻・飯豊まりえも笑顔
+      <a href=https://news.yahoo.co.jp/articles/d2116e009c9a233094b2317cb4c851ebfd0351ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010003-teletamav-000-1-thumb.jpg?exp=10800&fmt=webp> さいたま市桜区　女子高校生刺殺事件で24歳男逮捕／埼玉県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5065fae9519956ced0beaa2c61a634f7deee3a1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000067-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 立憲・枝野氏の「ポピュリスト」発言　減税派から反発相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4cf0506d396bf7ee0a2265847f825b0de7469a1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000060-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=611&ch=611&exp=10800&fmt=webp> フジテレビ問題、フジ・メディアHD社外取締役が言及「誠実に受け止め、対応していかないといけない」
       </a>
     </td>
   </tr>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2549a127b940d1217de9f9aa36c2ec437daff83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-21855293-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 『ミャクミャク』人気の大阪・関西万博 “開幕3日目” 案内板の少なさやトイレなど見えてきた「課題」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2059d54adf4af4eda5c1fcaf6104cc6502fd32be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000061-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 高1女子　刃物で刺され死亡　交番に続く血痕“男の足取り”殺人容疑で24歳男を逮捕
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-21855293-cbcv-000-2-thumb.jpg?exp=10800&fmt=webp> 『ミャクミャク』人気の大阪・関西万博 “開幕3日目” 案内板の少なさやトイレなど見えてきた「課題」
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/48321b2c473fe9a12d37e30b97f4261bf0ef8547f5824109b368a5f2b02aaae0.jpg> 殺された男性 東京から広島来たか
+      <a href=https://news.yahoo.co.jp/pickup/6535583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6ad35876727ccd8d1fd8fee7a32713b67481bb85f8de7532e9df0228d4583f7d.jpg> リンナイ浴室乾燥 37万台発火恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535574>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> リンナイ浴室乾燥機原因で家全焼
+      <a href=https://news.yahoo.co.jp/pickup/6535580>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/329943d7d8af2c6943c0e3283d77063f9f0db9a9421970cc825b2743ad34fd3f.jpg> フジ巡り SBI北尾会長が会見へ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 18:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 19:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
