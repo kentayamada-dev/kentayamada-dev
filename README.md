@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/edcb5133ed86e8e0e1716f3f78a1bab8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d14e1e995489dac64754ac3203331607.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c7f20c6b5690662071e5dbf0c32628af3dc505d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000002-moneypost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=500&ch=500&exp=10800&fmt=webp> トランプ大統領「対中関税145％」でも中国の台頭を抑えるのが困難な理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/799bcc4e1d93a36014e01c5a40e160c4dd51e355>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00010000-moneyplus-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=1334&ch=1334&exp=10800&fmt=webp> サイバー犯罪による証券口座の不正取引：広がる被害と対策
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/728215e35dd60575a95fafe1e9d7333610e6b484>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000007-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=321&ch=321&exp=10800&fmt=webp> 補正予算、野党の出方見極め　給付「再検討」、減税論に配慮　石破政権、対米交渉も手探り〔深層探訪〕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a4aab53efcae541f909474dd024feb43c969f674>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-04151252-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「打ち出したら止まらない」日本ハム・新庄監督が史上初！開幕１５戦連続ノーバント打線を貫く確かな根拠
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/23b1da1277809d88b4c6d8e9f6ff2ca8198b6fbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-07230805-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ政権「ボールは中国側にある」 関税めぐる交渉
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/6a49f6cf4a66524209c49175b74ec309eb2688eb106169ac2c7006e6498861d8.jpg> 補正予算案 今国会の提出見送りへ
+      <a href=https://news.yahoo.co.jp/pickup/6535617>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ffa9fa9e29583911d2df697661794b1478e799ff541f8e5fb668424f513db13f.jpg> トランプ政権 ボールは中国にある
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/05f4490de99e8b1f920e23d2c248491f09b3d35b66dffd59ebe4e0ba8dd1e882.jpg> 中国 捕虜会見のウクライナにくぎ
+      <a href=https://news.yahoo.co.jp/pickup/6535618>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/71b0c5cb12c26a3c2981a9b05116f1e7bec667556f37fdd9f441093015d0d4f9.jpg> 学術会議 法人化法案修正巡り決議
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535601>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/7fbbd3851778d1337933471cbd1592eace25b7da3e466876422b63a778259c1f.jpg> 深田恭子 1年9カ月ぶりに公の場
+      <a href=https://news.yahoo.co.jp/pickup/6535615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/8b8df4ec7b5ff87cf0be1becab9202658a228dc84dae08bf44a9537208ad28b5.jpg> 新記録 日ハムが開幕15試合犠打0
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 07:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 08:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
