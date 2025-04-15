@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b6103f3f754fa08d49456948400ee7db.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce3aa0088198ece1e285e636eaec0c6d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d766f4655a18b44f4839b9fbca786ce746661d07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050143-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=374&ch=374&exp=10800&fmt=webp> アメリカ自動車関税、「一時減免」検討か…トランプ氏「米国内で製造するまで多少の時間かかる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5414fa22f7518af8fdb6bf4c5ccda20e47d31c52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000062-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=377&ch=377&exp=10800&fmt=webp> フジテレビ親会社の取締役候補にSBI北尾氏　米ダルトン提案へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2116e009c9a233094b2317cb4c851ebfd0351ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010003-teletamav-000-1-thumb.jpg?exp=10800&fmt=webp> さいたま市桜区　女子高校生刺殺事件で24歳男逮捕／埼玉県
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010003-teletamav-000-2-thumb.jpg?exp=10800&fmt=webp> さいたま市桜区　女子高校生刺殺事件で24歳男逮捕／埼玉県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5065fae9519956ced0beaa2c61a634f7deee3a1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000067-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 立憲・枝野氏の「ポピュリスト」発言　減税派から反発相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4cf0506d396bf7ee0a2265847f825b0de7469a1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000060-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=611&ch=611&exp=10800&fmt=webp> フジテレビ問題、フジ・メディアHD社外取締役が言及「誠実に受け止め、対応していかないといけない」
+      <a href=https://news.yahoo.co.jp/articles/c0f4d99d9222e7185773143aa408f5d52cd381e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000281-spnannex-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=470&ch=470&exp=10800&fmt=webp> スマホゲームで通信エラーの障害相次ぐ　AWSサーバー障害が原因か　緊急メンテ続出にネット騒然
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535576>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/cfeb6b1f4ea1a5a2c942908f0d99cefeabdac640f91c86afb2cfe5cdab1bd7a6.jpg> 訪日客殺到 市が異例「取材NG」
+      <a href=https://news.yahoo.co.jp/pickup/6535577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/4fda1d1fabcafbf1fd84de0600c684b8541e68b7277f537cf527979f3c7f83de.jpg> よつ葉乳業が自主回収 異物混入か
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535572>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/677b3a30cbf8bb52ae68022b166f40a7525c994c7b2fb3422fcf3b0039820297.jpg> 巨人・坂本勇人を抹消 打撃不振
+      <a href=https://news.yahoo.co.jp/pickup/6535582>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/e2a635fd8f598309f901aef24737c6dbceacac189085d117c2c4ed779fd0cce5.jpg> スマホゲーム 緊急メンテが続出
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 19:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 19:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
