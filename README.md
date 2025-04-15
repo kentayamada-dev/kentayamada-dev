@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a729d50f850895b6e4b357d323b252d2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/52b6b77b2b98d8f66271a46917ce8406.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e75235cd836e4e9c2d19518386b7845789788e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-06591487-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> さいたま市女子高校生刺殺　外出先から帰宅した際に襲われたか
+      <a href=https://news.yahoo.co.jp/articles/64acfc23ceb7db701c5100f038dcf95e684588d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00957807-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 身柄確保の20代男を逮捕へ　15歳女子高校生が刺され死亡…体には刃物で刺された複数の傷　さいたま市桜区
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/060532b976c0f73fd237b46c7232b8b990c731be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-34150299-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1493&ch=1493&exp=10800&fmt=webp> 大谷翔平、第２打席で打った瞬間の６試合ぶり５号ソロ　158キロを堂々フェンスオーバー
+      <a href=https://news.yahoo.co.jp/articles/3ee2593ea2cb51ca1ac5fbf66f54d1e8a23bf833>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-90022725-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=962&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 引き続き雷雨のおそれ　週後半はやっと天気安定も夏日続出で熱中症に注意が必要？
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1cf8fd3e640f18dfdd6664bb64706b1d9c36027d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050071-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=333&ch=333&exp=10800&fmt=webp> いら立つトランプ氏、プーチン・ゼレンスキー・バイデン氏を批判「何百万人が３人のせいで犠牲に」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050071-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=333&ch=333&exp=10800&fmt=webp> いら立つトランプ氏、プーチン・ゼレンスキー・バイデン氏を批判「何百万人が３人のせいで犠牲に」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/2b2a6b7b316f9b2c982d51c7f68cda9cb7ee1f2e9bbef5b3b82ffa49a69bf7ae.jpg> 2回目のデブリ採取に着手 福島第1
+      <a href=https://news.yahoo.co.jp/pickup/6535541>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/0c87634e14d8473683d7f867102da9bf6dcc377209f629300ffc51bb2e0be713.jpg> 電気ガス代補助 自公幹部方針一致
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535528>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/68e0a6dadfd816a7ddf34b814381d48d04c233a6938af94bdbe4939747864126.jpg> 防衛相 一つの戦域構想を米に伝達
+      <a href=https://news.yahoo.co.jp/pickup/6535537>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/2b2a6b7b316f9b2c982d51c7f68cda9cb7ee1f2e9bbef5b3b82ffa49a69bf7ae.jpg> 2回目のデブリ採取に着手 福島第1
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 12:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 12:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
