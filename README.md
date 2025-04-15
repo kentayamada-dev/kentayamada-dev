@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/42ad7afd9aa6e0d1daa6410628ec93fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a1e184c50069930efa1d67be591e8ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/365bc2d8b2a494046ecc1ea8184a7452878dff3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010001-yomidr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 和歌山県知事が敗血症性ショックで死去　どんな病気？…大腸菌が引き金になることも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/040afd728376a8a4be23e3ffa5101d230ada3396>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-10173793-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=974&ch=974&exp=10800&fmt=webp> さいたま市で女子高校生殺害か 確保していた24歳男を逮捕
+      <a href=https://news.yahoo.co.jp/articles/70c6645601e0d179c28ba7c93a37a291f2a0fe93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高1女子刺殺疑い、男逮捕　埼玉県警、付近交番で確保
       </a>
     </td>
   </tr>
@@ -389,6 +381,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/20762d2d31fc94589582e13b18fa27ad63b72e39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000035-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ政権がエリート大に圧力強化　ハーバード大の助成金「凍結」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/020e583c2a092ecf242dd3db9df2a97250b182b0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010001-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 中国人捕虜「この戦争に参加するな」 キーウで会見
       </a>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/953fb7da3560b24a9119087b0153f70fe688c2ad297a763f6c2772b69b66a080.jpg> 17～19日 九州から関東で夏日急増
+      <a href=https://news.yahoo.co.jp/pickup/6535551>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/ca52ba20721133920495960cce724a0c1eefbd6a7d13a9eaf3ad070a5e9ed14e.jpg> 米関税 農林水産物の輸出に冷や水
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/5d8ea10c9276b8b66994e3a99211ece9ea222bed8b8a3c60cebd4810e5270226.jpg> ウ捕虜の中国人「同胞」に警告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535562>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/01e8211f8471d21eeb5d70dfdcf22d94fc18f4a2cdbe67604cef4cbf1ba9a954.jpg> 15歳高校生を殺害疑い 男を逮捕
       </a>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/1b93400e5dfc8759524ca7c02c917ff33b2823ade7a24ab1cc1b3670c1231c1d.jpg> ド軍また胃腸系トラブル 監督困惑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535555>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/7e679c6cfeea3e26e29299b2ae5c13027c5b158e80f8b397220c14f1d9e083df.jpg> 戸田恵梨香 グッチアンバサダーに
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 14:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 15:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
