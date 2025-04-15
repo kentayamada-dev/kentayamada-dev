@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/90aa8a68e0f017a3c932931b83810fc7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2fb0fcf8e4e82df4d509cc5c69bf74f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb2f91cdeb3908bd61a264ee0acc2a6abadc57dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010000-reutv-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏、自動車関税の一部見直し検討　「米国内での製造に切り替えるには少し時間が必要」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c367c96a96c1d0ee1e5dd145755d106951d51554>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/69129eba814b96506d3b9613ffb6ecf9d3974ae9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-35231779-cnetj-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=675&ch=675&exp=10800&fmt=webp> NVIDIA、米国でAI半導体を製造開始--スパコンの組み立ても実施へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1194ef7173e987724d12cb871133a2a86709804>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250414-00000170-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＜独自＞生成AIで作成したわいせつ画像のポスター販売　容疑で男ら4人逮捕　全国初摘発　警視庁
+      <a href=https://news.yahoo.co.jp/articles/ad5996dbc4f0c53e6e76efa34b832247d40344bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010014-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=831&ch=831&exp=10800&fmt=webp> 吉本ばなな×奈良美智による小説『ひな菊の人生』劇場アニメ化決定　監督は湯浅政明
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535526>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/9bf3e4098674d59e462295c9230160c502a8e0b175ad109501f9da41b61e9554.jpg> 海岸に女性保育士の遺体 殺人疑い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535527>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/4a709fdb0c8bca5af8f97d1ca4edea30ea6876b7af74f900c38d3fed84dfbb7c.jpg> AIで作成の裸画像販売疑い 初摘発
       </a>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535530>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/dc3c506cddc998ccb40b66fe42ee12079ec76388e7d0226080ab75ec306abaf7.jpg> 20歳記念の15cm定規 2mm短かった
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535521>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/58c4761fc90d1732a715b5e47b824875e6807c3d18dd03f489c81620084c3677.jpg> K・ペリーさん宇宙に 10分で帰還
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 09:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 09:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
