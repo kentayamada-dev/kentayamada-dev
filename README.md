@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d14e1e995489dac64754ac3203331607.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c40927408287aa9dd646625c17798762.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/728215e35dd60575a95fafe1e9d7333610e6b484>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000007-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=321&ch=321&exp=10800&fmt=webp> 補正予算、野党の出方見極め　給付「再検討」、減税論に配慮　石破政権、対米交渉も手探り〔深層探訪〕
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000007-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=321&ch=321&exp=10800&fmt=webp> 補正予算、野党の出方見極め　給付「再検討」、減税論に配慮　石破政権、対米交渉も手探り〔深層探訪〕
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535609>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/c3ae527d0b755220bdb452897281c362b4102f60d1fe2320e41dc3e41bb8a9c0.jpg> 卒業式 不登校生を平均台に座らせ
+      <a href=https://news.yahoo.co.jp/pickup/6535620>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e685a4f00963f20efdde35b942e3b1c6191dd620d4c0591954ae637c3828da3e.jpg> 「丸見え」子どもトイレ 設置背景
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 08:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 08:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
