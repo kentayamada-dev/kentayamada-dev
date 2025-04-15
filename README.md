@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a1e184c50069930efa1d67be591e8ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7657e62ce7bf0c644a6e0c8be32c9b06.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9016c3b778e809f609b354ba622d5986c0f92d61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000222-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=778&ch=778&exp=10800&fmt=webp> 広末涼子容疑者　逮捕から1週間…勾留続くワケ　弁護士が警察の思惑推測「危険運転致傷罪で立件できるか」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/70c6645601e0d179c28ba7c93a37a291f2a0fe93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高1女子刺殺疑い、男逮捕　埼玉県警、付近交番で確保
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000115-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=1550&ch=1550&exp=10800&fmt=webp> 高1女子刺殺疑い、男逮捕　埼玉県警、付近交番で確保
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20762d2d31fc94589582e13b18fa27ad63b72e39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000035-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ政権がエリート大に圧力強化　ハーバード大の助成金「凍結」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/020e583c2a092ecf242dd3db9df2a97250b182b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00010001-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 中国人捕虜「この戦争に参加するな」 キーウで会見
+      <a href=https://news.yahoo.co.jp/articles/1cf8fd3e640f18dfdd6664bb64706b1d9c36027d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00050071-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=333&ch=333&exp=10800&fmt=webp> いら立つトランプ氏、プーチン・ゼレンスキー・バイデン氏を批判「何百万人が３人のせいで犠牲に」
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/5dfcd12beab945e626bfe19bf6da0e2395a016f5c5c3f6d0cfbde3a73fdf0c82.jpg> 和歌山知事が死去 玉木代表が追悼
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535554>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/5d8ea10c9276b8b66994e3a99211ece9ea222bed8b8a3c60cebd4810e5270226.jpg> ウ捕虜の中国人「同胞」に警告
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535553>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/d92a6751a0566d8342bf05fc0e6850a6606581f901791342fa466fa6755a0bd8.jpg> 高校の剥製 希少なニホンアシカか
+      <a href=https://news.yahoo.co.jp/pickup/6535560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/d197835acd875000ba2eee7aa24fdc869a0bd7e6c58ebcc233c04819942ced23.jpg> 中傷メール 元百条委員が被害届
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535567>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/15/a69dd00bf67507402fe95730543ddc8968cc2597f55a916be85b555e86f7448e.jpg> 広末容疑者 本鑑定で薬物検出なし
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/15 15:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/15 15:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
