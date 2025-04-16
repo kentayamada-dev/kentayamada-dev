@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Y9Te6ilyKug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/66ee2265ecb348060c553793b2480154.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8649edad7e5a6e94b8aca024f17889ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/009af9e1e793e4ffdef4e91e42192714311f7e47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-01733056-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、一瞬の動きに不安の声「大丈夫かよ」　LAメディア称賛も…裏で起きた指摘
+      <a href=https://news.yahoo.co.jp/articles/c50966d8ffa0e1db434721419b4adac2828e061a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000044-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=374&ch=374&exp=10800&fmt=webp> トランプ大統領「ボールは中国のコートに…我々のお金が必要なら交渉を」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd4205dc2a36968a9ddb6ec4b76c3443769d70e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958396-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ホワイトハウス報道官「15以上の取引」が具体的検討段階に…詳細不明も近く合意か　一時停止した相互関税めぐり　アメリカ
+      <a href=https://news.yahoo.co.jp/articles/d726f9d733503566d68c3f8eb74e6a231dd8a278>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-06534838-mmt-000-1-thumb.jpg?exp=10800&fmt=webp> “現場付近で殺害”後 砂浜まで引きずられ遺棄か、海岸で女性保育士の遺体…靴も見つかる（宮城・岩沼市）
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7fc91a855994f20dfc678a933ae1f37552d1a40c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000036-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 高齢者向けNISA新設検討　毎月分配型の投信可能に　金融庁
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000036-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 高齢者向けNISA新設検討　毎月分配型の投信可能に　金融庁
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535640>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/matsudairanaoya/02173140/title-1744763892743.jpeg?exp=10800> 財務省が輸入米の活用提言 問題点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535642>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/4ff3ee0a4e6f28dd905d88a340cb739f61763f6e4e0af846208f3f1d102cb009.jpg> 災害救援者の心の不調 どう対処
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/5f51e0308abb7feff090aea3a8ffedf9081b74452be284a5982bd852501bc29c.jpg> 万博 ブラジル館とチリ館オープン
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535632>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/02f7cebb8c64aeae7be55df8a042af1047c7c919679b010fc3fc5bbd12f675c8.jpg> 東京唯一 コールドストーン閉店へ
       </a>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535637>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/d79a0ef00c9323fd4842c41d4f48399c5ea7e7dfcea61086c2fbbe7f912ce86f.jpg> デヴィ夫人 暴行の疑いで書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6535647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/598298a5116130906c654e37f6385e8cc304a3006bc87ad3a1b7285ba3fdd4d0.jpg> 海岸に女性遺体 引きずられ遺棄か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535639>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/f2b56e6288b2d284c6be484df48cbdae329010fa4b546b7bf6dd99ad0f4f309f.jpg> 消えゆく小中「男女別名簿」広島
+      <a href=https://news.yahoo.co.jp/pickup/6535637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/d79a0ef00c9323fd4842c41d4f48399c5ea7e7dfcea61086c2fbbe7f912ce86f.jpg> デヴィ夫人 暴行の疑いで書類送検
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 13:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 13:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
