@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Y9Te6ilyKug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0dbdfcd8a564847b7be9b1f6bc9e0aaf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c1baf57c949958a84d9612ba3c825ad0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e91eebfe3d027ddeca8af3a7d3d611054da88057>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00341343-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【西武】ネビンが来日初本塁打　新外国人の〝目覚め〟で昨年の二の舞い避けられるか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d19700415face1716e5fd56462b305a91394e555>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00341351-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジテレビ局員が戦慄した〝大株主〟の不動産事業切り離し提案　前向きな意見も
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/316f9fdf0449cb255527c012ac989627fedd449e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-07231034-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 刺殺された15歳女子高校生 偶然襲われたか　容疑者の24歳男との関係を示す情報なし 現場近くには「血のついたリュックサック」も【news23】
+      <a href=https://news.yahoo.co.jp/articles/5879ee5099b51e8a8d254f09e961d4ebee961485>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050205-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=344&ch=344&exp=10800&fmt=webp> 都内高級ホテルが価格カルテルか、公取委が警告へ…１５社が宿泊料など情報共有・高騰に影響も
       </a>
     </td>
   </tr>
@@ -402,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/287c8cf4b709253b64ef114a746b4b1b0da13a8cd8f6414282df93be7469e6c3.jpg> 石綿巡り国 周知せず救済基準変更
+      <a href=https://news.yahoo.co.jp/pickup/6535718>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/3a3d4cd8b911116063693c9517203416fb771485d13440888a124e17394fdf27.jpg> 都内高級ホテル 価格カルテルか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/b589bfb8aee969e9ff816c06cb8fcf45d07f711636bf20dce194bf35dc9e8454.jpg> 車から遺体 行方不明の19歳女性か
       </a>
     </td>
   </tr>
@@ -418,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/69b9d6103df698a10f181c6ae97e3a40f09e32ad1618fa89a0dc0b645989d6cc.jpg> 打球速すぎてライトゴロ 球場騒然
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535692>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/edab8182efaebb1bbe5b3ab1d69672d1d99fcd3c6bd338dd7d5eda9ab51ea74c.jpg> 「魚雷バット」アマも使用可能に
+      <a href=https://news.yahoo.co.jp/pickup/6535717>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/b0455832fd89e12df4701874ba1f9ea839c67cbd4b31b5c7a2bf6b9007d7efd5.jpg> フェンス直撃 日ハム矢沢が検査へ
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 06:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 06:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
