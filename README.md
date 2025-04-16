@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Y9Te6ilyKug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa77a20891681bae61ba38585d2e84f0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99003c846266a5146562ccb879398079.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e195f3e7ac53cd87903bb5112ed14ac418a5d926>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050163-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=313&ch=313&exp=10800&fmt=webp> 米ファンド「フジは日枝体制の残滓一掃を」…２０年ぶりライブドア・旧村上ファンド騒動の当事者再び
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050163-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=313&ch=313&exp=10800&fmt=webp> 米ファンド「フジは日枝体制の残滓一掃を」…２０年ぶりライブドア・旧村上ファンド騒動の当事者再び
       </a>
     </td>
   </tr>
@@ -373,24 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6450e9b872fd26b1a111b4c45611fd8c6013114e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国警察　大統領室の家宅捜索また不発＝警護処が応じず
+      <a href=https://news.yahoo.co.jp/articles/0ef067ffd60947ed1339a657c771812cc37be3ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050174-yom-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 赤沢経済再生相との会談にトランプ氏同席、戦々恐々「まくしたてられるとまずい」「閣僚より話早い」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c766b8d9b3d86b0bbbe4d9646523cf5bfaecae2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00010000-wordleafv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 兵庫・斎藤知事　パワハラ研修4か月以上実施せず「年度内は多忙だった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbe78265aedf998d2cd8166b387f694592c34458>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-34161068-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=761&ch=761&exp=10800&fmt=webp> 瓜田純士、北九州中学生殺傷事件めぐり憤り「こんな法律がいつまでもまかり通るなら…」
+      <a href=https://news.yahoo.co.jp/articles/859c7a560cb2960ad3b64646577400aaa72f6fec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00782976-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 元アイドルが明かす過去の“性接待”「これってなくならない」　視聴者衝撃「これ放送してよかったんか？」
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/287c8cf4b709253b64ef114a746b4b1b0da13a8cd8f6414282df93be7469e6c3.jpg> 石綿巡り国 周知せず救済基準変更
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535712>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/b78999b923dd7eb3bbdc47959fc44215f5d542ec2e0a95a4bd3e8e7ddd73a06a.jpg> 15歳女子刺殺事件 無差別襲撃か
       </a>
@@ -434,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535706>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/00a1de2c6694320069e680f5dcb01a384b6e4a9e847c48b36d385eaed3b91d26.jpg> 「ジミ婚」が一般化 業界曲がり角
+      <a href=https://news.yahoo.co.jp/pickup/6535694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/69b9d6103df698a10f181c6ae97e3a40f09e32ad1618fa89a0dc0b645989d6cc.jpg> 打球速すぎてライトゴロ 球場騒然
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535710>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/9e01dfb76f6eaaebf4bbe660200a600f37ec52b6639b3ba4a5014f4b5b573972.jpg> 西武3位に 監督「え、ほんまに」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/f3597a780acd776dde949367aeddf1984e86e84d36d55626533359cf04f343a9.jpg> 大場美奈 6人が出産立ち会い希望
+      <a href=https://news.yahoo.co.jp/pickup/6535692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/edab8182efaebb1bbe5b3ab1d69672d1d99fcd3c6bd338dd7d5eda9ab51ea74c.jpg> 「魚雷バット」アマも使用可能に
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 23:51:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 00:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
