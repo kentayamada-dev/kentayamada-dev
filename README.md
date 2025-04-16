@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c535b42e11de1d8578a567f9b55eb3a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d2aba36407258c6ee399db27078b3539.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5d355903499a9e3527b51e363fd271a13a9b628>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04161314-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=1084&ch=1084&exp=10800&fmt=webp> 「え、ほんまに？」西武・西口監督も驚きの３６９日ぶり３位浮上　新助っ人来日１号が後押し
+      <a href=https://news.yahoo.co.jp/articles/c8bd6b9ec8e111c7c1534011b397b8a5267d43d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00958924-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=435&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】日米関税交渉始まる　交渉前にトランプ大統領と赤沢経済再生相が会談
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0fe5067ead6dbe225ad1d82d3c605da364e731b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000007-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 元交際相手から事情聴く　車内から遺体　19歳女性か
+      <a href=https://news.yahoo.co.jp/articles/b6d57445e4f28e9316e73c62fe60fde494776605>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000013-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=901&ch=901&exp=10800&fmt=webp> iPS細胞、パーキンソン病に効果　今年度中の承認目指す　京大病院など
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b5d355903499a9e3527b51e363fd271a13a9b628>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04161314-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=1084&ch=1084&exp=10800&fmt=webp> 「え、ほんまに？」西武・西口監督も驚きの３６９日ぶり３位浮上　新助っ人来日１号が後押し
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535705>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/6fa86f07d7cd701c1892f57cde31e654767e3056d51b98bc27957580d33dad07.jpg> 関税交渉にトランプ氏出席 焦点は
+      <a href=https://news.yahoo.co.jp/pickup/6535723>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/84bad5bc59f4fc6d4861cfcdb883cc762ed018e5122db80f32e9e5461cf5700c.jpg> トランプ氏 赤沢経済再生相と会談
       </a>
     </td>
   </tr>
@@ -396,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535719>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/43606d549de061f859438222d41e80509add26e8b13679f68a46ef4a177df7a8.jpg> iPS細胞 パーキンソン病に有効性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/08e13d3a4351f3cc1c0ea4e5873dcc3987ebaa81a992f0329dd1d48ea1668c37.jpg> 韓国警察 大統領室の捜索また不発
       </a>
     </td>
   </tr>
@@ -426,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/b78999b923dd7eb3bbdc47959fc44215f5d542ec2e0a95a4bd3e8e7ddd73a06a.jpg> 15歳女子刺殺事件 無差別襲撃か
+      <a href=https://news.yahoo.co.jp/pickup/6535721>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/a22406dc5c1eae2f1c73f0cf4c8c24009ffc445d0444611aa1fff596f7dd7d5f.jpg> ブルーインパルス 万博に再派遣へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535717>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/b0455832fd89e12df4701874ba1f9ea839c67cbd4b31b5c7a2bf6b9007d7efd5.jpg> フェンス直撃 日ハム矢沢が検査へ
+      <a href=https://news.yahoo.co.jp/pickup/6535720>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2ba5e593b9a0c78fa6ec2cff531661c0064d291f8550eab6f7febdb21196f104.jpg> ダル&今永 異例のキャッチボール
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535722>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/b0455832fd89e12df4701874ba1f9ea839c67cbd4b31b5c7a2bf6b9007d7efd5.jpg> フェンス激突 日ハム矢沢が検査へ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 07:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 07:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
