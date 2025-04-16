@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/64100ac0a984a328d296d743b61789c7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9513d37aaa1c6fc5b271bc1666057005.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0448ef8e5619186ba6030f3ab59eda0d8a01d2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-14992620-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「事件前に目が合った」　北九州市中学生２人殺傷事件・異例の２度目の鑑定留置始まる
+      <a href=https://news.yahoo.co.jp/articles/cbe78265aedf998d2cd8166b387f694592c34458>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-34161068-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=761&ch=761&exp=10800&fmt=webp> 瓜田純士、北九州中学生殺傷事件めぐり憤り「こんな法律がいつまでもまかり通るなら…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce7b4185f40e1769fb3739cf30f5e929f2d0aa20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-90018831-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 斎藤知事 パワハラ研修4カ月実施せず 来月以降になる認識示す「権力者失格、県政ぐちゃぐちゃ」と橋下氏
+      <a href=https://news.yahoo.co.jp/articles/c1d81e828daca28d4cbd8ec2728c228d9ecd85b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「魚雷バット」アマも使用可能に　全日本野球協会が認識示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a029ca6ee645e171bc8e810ea9cfac2012ff866>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00010063-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=360&ch=360&exp=10800&fmt=webp> Ado&新しい学校のリーダーズ&YOASOBI出演グローバルショーケースの再編集版をWOWOW独占放送／配信
+      <a href=https://news.yahoo.co.jp/articles/1c46581754b791b7cfa4bb3ce76315fc42bfef34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国大統領府、家宅捜索を拒否　公務執行妨害、罷免以降初の試み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d35a063f5fbedf00cd5d27845b8942951d07b77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00486871-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=437&ch=437&exp=10800&fmt=webp> 韓国　きょうのニュース（4月16日）
+      <a href=https://news.yahoo.co.jp/articles/6bb0a8a96266131e2c80a55aa95ad621cd92f325>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958721-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「斎藤知事は権力者失格、兵庫県政はぐちゃぐちゃ」と橋下氏　斎藤知事 是正措置受けるもパワハラ研修を4カ月実施せず 来月以降になる認識示す
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535669>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/fd3a4b50d7af322dd1fb5566ad71ca2945d0bfe96d6d129dfd8d1e2936c197b1.jpg> 補正見送り調整 自民内に不満の声
+      <a href=https://news.yahoo.co.jp/pickup/6535689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/0159a672c8a0bdc88f70ab18728a4b8bf9b76eb5145be4be066d62a1df88bb4d.jpg> 経済悪化懸念 FRBに早期利下げ論
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535678>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/a84d0cf0d8f8f5cbc53820ea8f22603122b2ff804131b63f567557c900bc3bd6.jpg> 斎藤知事釈明 パワハラ研修未実施
+      <a href=https://news.yahoo.co.jp/pickup/6535679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/74148a6ee129c04b4393092137d8c7b43699de7f1bf7a2413bb25845e3fc58e5.jpg> 今年の訪日客 最速で1千万人突破
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/11/27/eb58d58d3e7f48dcca7e2e933bf21d2115c30e0958d1ba326ccf1979a0738d97.jpg> 「人工流れ星」で地球防衛 実験へ
+      <a href=https://news.yahoo.co.jp/pickup/6535681>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/808d8674000d07762cc001f873b0477e1bab197250f1aabc3560cecebe30613e.jpg> 内藤哲也 新日本プロレスを退団へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535681>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/808d8674000d07762cc001f873b0477e1bab197250f1aabc3560cecebe30613e.jpg> 内藤哲也 新日本プロレスを退団へ
+      <a href=https://news.yahoo.co.jp/pickup/6535686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/f3597a780acd776dde949367aeddf1984e86e84d36d55626533359cf04f343a9.jpg> 大場美奈 6人が出産立ち会い希望
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 19:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 19:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
