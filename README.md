@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/168a9e423619e10796370cd6182328f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/89b240bb8c8f1442ceb9d5d318b48136.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e195f3e7ac53cd87903bb5112ed14ac418a5d926>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050163-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=313&ch=313&exp=10800&fmt=webp> 米ファンド「フジは日枝体制の残滓一掃を」…２０年ぶりライブドア・旧村上ファンド騒動の当事者再び
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/19638fe953c878c86293dbeb7030269835df4570>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-04161304-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1011&ch=1011&exp=10800&fmt=webp> 【オリックス】今季１６試合目で初の完封負け…連勝は４でストップ　岸田監督「また明日、切り替えて」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/859c7a560cb2960ad3b64646577400aaa72f6fec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00782976-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 元アイドルが明かす過去の“性接待”「これってなくならない」　視聴者衝撃「これ放送してよかったんか？」
       </a>
     </td>
   </tr>
@@ -394,8 +378,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535713>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/b1380efe21875dce0303739a1866dfd888e5699d640aca481d642adebd88e8d6.jpg> 日米交渉にトランプ氏 政府驚き
+      <a href=https://news.yahoo.co.jp/pickup/6535715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/b1380efe21875dce0303739a1866dfd888e5699d640aca481d642adebd88e8d6.jpg> 関税交渉にトランプ氏 日本側困惑
       </a>
     </td>
   </tr>
@@ -452,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 01:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 01:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
