@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b7f8199c9d6fd0875abe4d6e10f5d856.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce1554805ea44212551af15b9d8d4543.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a72e5dbf8974dc290da84ef51ea39309cbd0c6dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000021-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=456&ch=456&exp=10800&fmt=webp> 関税見直し協議へ、赤沢大臣が出発　まずは米側の意向と「土俵」探る
+      <a href=https://news.yahoo.co.jp/articles/fdd333f7115d51dc980fd6fe322033103fcc47d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958370-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 谷内寛幸容疑者（24）は現場近くの建設会社に勤務…土地勘あったか　15歳女子高校生殺害事件　さいたま市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8a52bb280431b92b2dab6534050f23bbdf57a40c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00087756-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 日米交渉で円高誘導？トランプ関税、日本は「交渉まとめやすい」から交渉の先頭に…準備不足の石破政権は大丈夫か
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7fc91a855994f20dfc678a933ae1f37552d1a40c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高齢者向けNISA新設検討　毎月分配型の投信可能に　金融庁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8948a69a32de30f5fa6cdb8a34b287aa5b8f1c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000018-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=759&ch=759&exp=10800&fmt=webp> 埼玉・高1殺害　容疑者、現場近くの建設会社で勤務　土地勘あったか
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000036-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 高齢者向けNISA新設検討　毎月分配型の投信可能に　金融庁
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535628>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/af9a1c261d953110b50417773c1de912cc3fb2bc1b21a86a37879acfccfa4aba.jpg> 医薬品関税で供給網混乱 J&J警告
+      <a href=https://news.yahoo.co.jp/pickup/6535640>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/matsudairanaoya/02173140/title-1744763892743.jpeg?exp=10800> 財務省が輸入米の活用提言 問題点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ae50d48af5957f47a2c509ad7d7370c1a30dedf6136809123be1cade2109c003.jpg> 熊本地震で21歳犠牲 涙した同級生
+      <a href=https://news.yahoo.co.jp/pickup/6535634>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02173272/title-1744764161331.jpeg?exp=10800> 私大授業巡る財務省指摘 識者見解
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 11:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 12:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
