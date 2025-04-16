@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d985919df5c1bf1da0e2fb40706e3e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eeac2d3b2b147ee6abf71042a4591113.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55172af7bb7088118f0af713f321499e7e5d43fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000465-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=799&ch=799&exp=10800&fmt=webp> フジ親会社の株主ダルトン、FMH取締役にSBI北尾氏ら12人を提案　事実上の刷新を要求「日枝体制を一掃」
+      <a href=https://news.yahoo.co.jp/articles/ecd6ff15397ccdbb96411db4f84e545e7332d1ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-34160864-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 米投資ファンド、フジHD取締役人事でSBI北尾吉孝氏ら12名選任を正式提案／発表全文
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f0fcfacc7e41d8d4062f6e0b481792f9df92a19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八代亜紀さんのヌード写真に批判　管理会社、CD発売で法的措置も
+      <a href=https://news.yahoo.co.jp/articles/2fd47fa1be6846863b238474ca5c59343473e6b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-07230943-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「一律の現金給付はほぼ不可能」指摘も 政府・与党が“補正予算案”提出見送りへ　消費税減税に自民党幹部は“否定的姿勢”崩さず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5e3aaf97e615ad151f10d005a2e793a22e1e346b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050126-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=330&ch=330&exp=10800&fmt=webp> 石橋貴明さん「かなり羽目を外してしまったかも」、フジ女性社員との会食認め謝罪…第三者委が報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d4f8e2299a2e53abf19cf5a54512b6237cc4984e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00065031-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「世界のつながりにちょっとうるうる」“万博日和”の４日目！開幕に間に合わなかった『ブラジル＆チリ館』もオープン「入った瞬間の織物に目を奪われた」
       </a>
     </td>
   </tr>
@@ -375,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fda847733ebccc7e36b8132fa3811709a2131d98>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-05672472-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【中学生2人殺傷】2度目の鑑定留置も3か月　検察「責任能力の有無や程度を慎重に判断する必要」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a09a217bcc4467a9deb3595e5baea5b62ce3716c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-07230910-jnn-000-6-thumb.jpg?exp=10800&fmt=webp> さいたま市・女子高校生殺人事件 “強い殺意”うかがえる谷内寛幸容疑者（24） 2人の接点はいまだわからず
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/377bc7c6a685fbe785f0cdd23de14dce62f4a928df447934fe5b89d5fd4ad45e.jpg> ブルーインパルス再飛行 知事要請
+      <a href=https://news.yahoo.co.jp/pickup/6535680>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/553f0706f1165e44d090f0d3a5541c2a1bdaa458a1d09a425318a3b641925d4f.jpg> 韓国警察 尹氏への捜査を本格化
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/3e058d14d46d1df34d7c45d173e57c81bd08b5d107c5db37cbaa5ecd8f6be3ab.jpg> ガソリン補助金 17日から初の0円
+      <a href=https://news.yahoo.co.jp/pickup/6535677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ba526c2e4e2f85406885f7acb9023747528be7b8b86d956580e28bc5c39f974b.jpg> 米ファンド フジHD取締役を提案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ba526c2e4e2f85406885f7acb9023747528be7b8b86d956580e28bc5c39f974b.jpg> 米ファンド フジHD取締役を提案
+      <a href=https://news.yahoo.co.jp/pickup/6535683>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e51d065e465edd34bc95bd36ee9daa47039a2343df73caed5326c7fef7dbfeec.jpg> 卒業生らへ7億円訴訟 文科相静観
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535662>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/44a83d179e7139dd30417d8962140d7955e1509aa6786d70f39a189acc8da2fe.jpg> 黒ひげ危機一発 飛んだら勝ちに
+      <a href=https://news.yahoo.co.jp/pickup/6535671>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kimurayu/02172111/title-1744689000851.jpeg?exp=10800> 井上尚弥戦見据え 中谷潤人の実力
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535670>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ea3845e956ed699281a4dbebca12092850869f4a94567b7a7a24acd960ebda6d.jpg> MEGUMI 一目ぼれから2拠点生活
+      <a href=https://news.yahoo.co.jp/pickup/6535688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/03a21e17e0fb000a8997bebdbc2c074829330d024051d949be73a1de2f97c2b7.jpg> 石橋貴明 セクハラ報道を巡り謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 17:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 18:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
