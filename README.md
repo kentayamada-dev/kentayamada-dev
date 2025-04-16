@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Y9Te6ilyKug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce1554805ea44212551af15b9d8d4543.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fff47cdc5b8948658557e2f2908573ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fdd333f7115d51dc980fd6fe322033103fcc47d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958370-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 谷内寛幸容疑者（24）は現場近くの建設会社に勤務…土地勘あったか　15歳女子高校生殺害事件　さいたま市
+      <a href=https://news.yahoo.co.jp/articles/bd4205dc2a36968a9ddb6ec4b76c3443769d70e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958396-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ホワイトハウス報道官「15以上の取引」が具体的検討段階に…詳細不明も近く合意か　一時停止した相互関税めぐり　アメリカ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a52bb280431b92b2dab6534050f23bbdf57a40c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00087756-jbpressz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 日米交渉で円高誘導？トランプ関税、日本は「交渉まとめやすい」から交渉の先頭に…準備不足の石破政権は大丈夫か
+      <a href=https://news.yahoo.co.jp/articles/f7e55b10631d1a4d3e5a0a79f2a84f22db8cfb28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ゆきぽよ」元所属事務所を告発　8千万円脱税疑い、東京国税局
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5f42c09264befeca143f802f15e9c4e8f69039bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00065024-mbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 工事や火災影響で万博開幕に間に合わなかった『チリ』『ブラジル』パビリオン…４日目でオープン　インドなど４か国はまだオープンの目途立たず
       </a>
     </td>
   </tr>
@@ -386,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/83cb0ba1eb1b4788094609b08a82ce68198fbb97f3338bed8c2aeafafba46f9e.jpg> バイデン氏 トランプ政権を批判
+      <a href=https://news.yahoo.co.jp/pickup/6535640>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/matsudairanaoya/02173140/title-1744763892743.jpeg?exp=10800> 財務省が輸入米の活用提言 問題点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535640>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/matsudairanaoya/02173140/title-1744763892743.jpeg?exp=10800> 財務省が輸入米の活用提言 問題点
+      <a href=https://news.yahoo.co.jp/pickup/6535642>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/4ff3ee0a4e6f28dd905d88a340cb739f61763f6e4e0af846208f3f1d102cb009.jpg> 災害救援者の心の不調 どう対処
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/3aa8621e13473f2e887071efc85accc122c0545e52137764663ce6e78bdd4af7.jpg> 高1女子刺殺 男は土地勘あったか
+      <a href=https://news.yahoo.co.jp/pickup/6535631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e72670adddf9783d5965cc0fb351d1632583be7baa18325d8ccbadf2084922ed.jpg> バイデン氏 トランプ政権を批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/28155da7c10756b9f6d56c06794be467353c75bc87317ab772c8a47110bc838b.jpg> ミャクミャク記念硬貨 転売相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6535641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/716aa17b13aed45ca0e2ef4dba9639bd5fb2ce760cb033f767fd8d3d9775f03d.jpg> 脱税疑い 芸能事務所と代表を告発
       </a>
     </td>
   </tr>
@@ -435,15 +443,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535637>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/55b1a0b07dde4efcdc32e03b9e4dd6acafad65c45373606d6ff21fee885c685d.jpg> デヴィ夫人 暴行の疑いで書類送検
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/d79a0ef00c9323fd4842c41d4f48399c5ea7e7dfcea61086c2fbbe7f912ce86f.jpg> デヴィ夫人 暴行の疑いで書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/c0b08a8e4fa93cb9143314b340822a3deceb3f6aa3bf4a9f8ca2a00f8e1ec0ca.jpg> 復帰目指す吉田正尚 厳しい現実
+      <a href=https://news.yahoo.co.jp/pickup/6535639>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/f2b56e6288b2d284c6be484df48cbdae329010fa4b546b7bf6dd99ad0f4f309f.jpg> 消えゆく小中「男女別名簿」広島
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 12:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 12:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
