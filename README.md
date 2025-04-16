@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ff7da22f7ab2ffd2ffc2ada310cfd234.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d4be76cdcace446ec146296e17198c90.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aedccea2a45fb73a28073ab910faad744f20abcf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-02289585-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ホンダがトランプ関税受けて「シビック」一部生産をアメリカに移管
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0c05006078061a3d5618c1371c661dd42ecfdffa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 不動産事業の切り離し提案　米ファンド、フジHDに
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000104-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 不動産事業の切り離し提案　米ファンド、フジHDに
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c2165fae5fc925449572dd2872c030d80e10daf2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-21859339-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> “補正予算案”提出見送りへ、バラマキ批判で方針転換? 物価高対策どうなるの? 消費税減税は?【Nスタ解説】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3da0ecc7ab52e9e3a9ae45698be2ccc9349878ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000076-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=413&ch=413&exp=10800&fmt=webp> ホンダ、米国向け「シビック」を現地生産へ　国内工場から移管
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/b17f50f2e8b4f2a76373b4ffa32081a3c944b788506b8f5d3c8a1b9a7f26e928.jpg> 15歳殺害 近くに血ついたリュック
+      <a href=https://news.yahoo.co.jp/pickup/6535703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/eed98507780ae0ac64faf5a37f0e0d133b553d7211f5962342abaecfbea27b3a.jpg> 和歌山県知事死去 追悼の声相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/6dd8b113a87c4c99cc5c603e0f9f7523e668c536f57f30f269ac9242c787b9dd.jpg> 高知にクジラ漂着 破裂する恐れも
+      <a href=https://news.yahoo.co.jp/pickup/6535693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/b17f50f2e8b4f2a76373b4ffa32081a3c944b788506b8f5d3c8a1b9a7f26e928.jpg> 15歳殺害 近くに血ついたリュック
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/9d17b4f0a6b40642ea099246635582180cb5cb1e39312aa57a95ed362d169eb4.jpg> 日本音楽を世界へ 機運高まる現場
+      <a href=https://news.yahoo.co.jp/pickup/6535702>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohiroaki/02173731/title-1744786912501.jpeg?exp=10800> ドラマ版ハリポタ 出演者に波紋も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 21:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 21:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
