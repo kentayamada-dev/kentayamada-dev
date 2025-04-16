@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d4be76cdcace446ec146296e17198c90.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4e43d03b3b3de4735118bfff59f6bac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aedccea2a45fb73a28073ab910faad744f20abcf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-02289585-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ホンダがトランプ関税受けて「シビック」一部生産をアメリカに移管
+      <a href=https://news.yahoo.co.jp/articles/d0ac21ec59509cc03506ce3ec9caad9ab38e8356>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000162-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=794&ch=794&exp=10800&fmt=webp> 万博4日目　インドなど4カ国、内装工事終わらず開館見通し立たず…チリはオープン
       </a>
     </td>
   </tr>
@@ -366,15 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0c05006078061a3d5618c1371c661dd42ecfdffa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000104-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 不動産事業の切り離し提案　米ファンド、フジHDに
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000104-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 不動産事業の切り離し提案　米ファンド、フジHDに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2165fae5fc925449572dd2872c030d80e10daf2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-21859339-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> “補正予算案”提出見送りへ、バラマキ批判で方針転換? 物価高対策どうなるの? 消費税減税は?【Nスタ解説】
+      <a href=https://news.yahoo.co.jp/articles/5bb030b37b447e966acea144181ee2fa70bdedd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000097-jij-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日米交渉、トランプ氏出席表明　関税除外、安保も議題に　担当閣僚の初会談
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/b17f50f2e8b4f2a76373b4ffa32081a3c944b788506b8f5d3c8a1b9a7f26e928.jpg> 15歳殺害 近くに血ついたリュック
+      <a href=https://news.yahoo.co.jp/pickup/6535701>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/6ea034f1ec4a77882e80ccd74ec5a32b6912173bb0c241f5f5029e05cde6cc5c.jpg> ホンダ シビック一部を米で生産へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 21:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 22:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
