@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4dcc5b6e0ae6abda3220a14fd19465af.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d985919df5c1bf1da0e2fb40706e3e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/55172af7bb7088118f0af713f321499e7e5d43fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000465-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=799&ch=799&exp=10800&fmt=webp> フジ親会社の株主ダルトン、FMH取締役にSBI北尾氏ら12人を提案　事実上の刷新を要求「日枝体制を一掃」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3f0fcfacc7e41d8d4062f6e0b481792f9df92a19>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八代亜紀さんのヌード写真に批判　管理会社、CD発売で法的措置も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fda847733ebccc7e36b8132fa3811709a2131d98>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-05672472-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【中学生2人殺傷】2度目の鑑定留置も3か月　検察「責任能力の有無や程度を慎重に判断する必要」
       </a>
@@ -365,32 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e1e1194a591373092749584776c5f0a3e69eb1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-10174002-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=383&cy=0&cw=974&ch=974&exp=10800&fmt=webp> フジHD株主の米投資ファンド、北尾氏ら12人の取締役候補を提案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/248a659ea5c2a9dc57c7b5eb8e598622229f704f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00010002-proresut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=853&ch=853&exp=10800&fmt=webp> BUSHIが5月4日福岡大会をもって退団へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e21201362be64df443aaad2172fd57d7df09342c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=587&ch=587&exp=10800&fmt=webp> チリとブラジルの万博パビリオンが3日遅れで開館　工事遅れや火災
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee1f30908c0833dfc9bb5ba52f6186309e7cd855>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-73014692-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 赤沢経済再生相がきょう訪米、「石破首相の左腕」が関税交渉担う
+      <a href=https://news.yahoo.co.jp/articles/a09a217bcc4467a9deb3595e5baea5b62ce3716c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-07230910-jnn-000-6-thumb.jpg?exp=10800&fmt=webp> さいたま市・女子高校生殺人事件 “強い殺意”うかがえる谷内寛幸容疑者（24） 2人の接点はいまだわからず
       </a>
     </td>
   </tr>
@@ -410,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/9f09b64dd8d173d63146f2d13e2652f43a74f83220c9c027063d9fa7a519e963.jpg> 関税協議へ 赤沢氏「土俵」を探る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535666>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/377bc7c6a685fbe785f0cdd23de14dce62f4a928df447934fe5b89d5fd4ad45e.jpg> ブルーインパルス再飛行 知事要請
       </a>
@@ -426,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/5542c5a7c62da3a9b4fee071344b8e6eb5adf249d1feb76dbde37db75344554f.jpg> 中学生2人殺傷 心神喪失の可能性
+      <a href=https://news.yahoo.co.jp/pickup/6535678>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/a84d0cf0d8f8f5cbc53820ea8f22603122b2ff804131b63f567557c900bc3bd6.jpg> 斎藤知事釈明 パワハラ研修未実施
       </a>
     </td>
   </tr>
@@ -442,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535676>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/53b72e563aad9ded185e02a1d66eeba8a68e7a42086c09cff1ec2845856493c9.jpg> ニデックのTOB強行「大変遺憾」
+      <a href=https://news.yahoo.co.jp/pickup/6535677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ba526c2e4e2f85406885f7acb9023747528be7b8b86d956580e28bc5c39f974b.jpg> 米ファンド フジHD取締役を提案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535682>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/1997247cd942e1c25f3f1dd1c255294ed961f748d4c895789514a5b1c5b1b30a.jpg> 八代亜紀氏巡る波紋 熊本知事批判
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 17:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 17:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
