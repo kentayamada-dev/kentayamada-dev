@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28cdcc5ec5cec89a107b4be1883d079d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/028e10d2b44508cb00ad0fef9b0fecc5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1fd0974a8a532f3327be4afb340c84120d5b2e45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 北九州中3殺傷容疑の男鑑定留置　責任能力疑問で2度目、福岡地検
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/29bb6b6d78cab11b33e2139257b7e80ccfaebf32>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050789-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> ブラジル・チリのパビリオンがオープン　開幕前に火災で３日遅れの開館　４カ国は未だ開館許可出ず
       </a>
@@ -365,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23e37c983451c8fe03c0f99fc954c0b21f091980>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958482-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 『入管職員から暴行』ペルー人男性が国に賠償求めた裁判「11万円支払い」大阪地裁が命じる「後ろ手錠14時間放置・職員に押さえつけられ左腕骨折」男性訴え
+      <a href=https://news.yahoo.co.jp/articles/c50966d8ffa0e1db434721419b4adac2828e061a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000044-cnippou-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=374&ch=374&exp=10800&fmt=webp> トランプ大統領「ボールは中国のコートに…我々のお金が必要なら交渉を」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c50966d8ffa0e1db434721419b4adac2828e061a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000044-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=374&ch=374&exp=10800&fmt=webp> トランプ大統領「ボールは中国のコートに…我々のお金が必要なら交渉を」
+      <a href=https://news.yahoo.co.jp/articles/1f7afcc71760eb54ed135ec8ac19ee93d2d0b2c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000030-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 2軍再調整の巨人・坂本勇人が悩ましい現状を激白…「探す」を繰り返し「まだ明確に何をしたらいいかわかってない」
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/4b6457e12e66c87c855b4fe1c94e25ab5a70d54c7e0f9971f6ff3eab0c567374.jpg> 資金不足 募金に臨む奨学生の訴え
+      <a href=https://news.yahoo.co.jp/pickup/6535656>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/0958634b90e92c18bf12cc3946d7a49c2edeeb6db3d48be3135dd041687227aa.jpg> NVIDIA 2-4月7900億円損失見込み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/5f51e0308abb7feff090aea3a8ffedf9081b74452be284a5982bd852501bc29c.jpg> 万博 ブラジル館とチリ館オープン
+      <a href=https://news.yahoo.co.jp/pickup/6535654>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/5542c5a7c62da3a9b4fee071344b8e6eb5adf249d1feb76dbde37db75344554f.jpg> 中学生2人殺傷 心神喪失の可能性
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535641>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/716aa17b13aed45ca0e2ef4dba9639bd5fb2ce760cb033f767fd8d3d9775f03d.jpg> 脱税疑い 芸能事務所と代表を告発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/02f7cebb8c64aeae7be55df8a042af1047c7c919679b010fc3fc5bbd12f675c8.jpg> 東京唯一 コールドストーン閉店へ
       </a>
     </td>
   </tr>
@@ -456,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/4b6457e12e66c87c855b4fe1c94e25ab5a70d54c7e0f9971f6ff3eab0c567374.jpg> 資金不足 募金に臨む奨学生の訴え
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 14:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 14:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
