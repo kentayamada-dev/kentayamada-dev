@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/571c7225dbb3954b106bdc2b994cd5ef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/64100ac0a984a328d296d743b61789c7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/320ba98d78abecc76df4abc909ba1228d73038b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000062-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】「不快な思いさせ申し訳ない」石橋貴明氏　フジセクハラ報道で
+      <a href=https://news.yahoo.co.jp/articles/c0448ef8e5619186ba6030f3ab59eda0d8a01d2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-14992620-kbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「事件前に目が合った」　北九州市中学生２人殺傷事件・異例の２度目の鑑定留置始まる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e386be79a81a64fb9eace8c9a506340e70bd3d6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050796-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 斎藤知事ハラスメント研修の受講４か月以上応じず　第三者委が１０件パワハラ認定　兵庫県の人事課が「是正措置」も・・・　「多忙だった」と未受講の理由主張
+      <a href=https://news.yahoo.co.jp/articles/ce7b4185f40e1769fb3739cf30f5e929f2d0aa20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-90018831-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 斎藤知事 パワハラ研修4カ月実施せず 来月以降になる認識示す「権力者失格、県政ぐちゃぐちゃ」と橋下氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7a029ca6ee645e171bc8e810ea9cfac2012ff866>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00010063-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=360&ch=360&exp=10800&fmt=webp> Ado&新しい学校のリーダーズ&YOASOBI出演グローバルショーケースの再編集版をWOWOW独占放送／配信
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ecd6ff15397ccdbb96411db4f84e545e7332d1ad>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-34160864-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 米投資ファンド、フジHD取締役人事でSBI北尾吉孝氏ら12名選任を正式提案／発表全文
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fda847733ebccc7e36b8132fa3811709a2131d98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-05672472-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【中学生2人殺傷】2度目の鑑定留置も3か月　検察「責任能力の有無や程度を慎重に判断する必要」
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535687>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> スポーツ指導のパワハラ相談 最多
+      <a href=https://news.yahoo.co.jp/pickup/6535673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/11/27/eb58d58d3e7f48dcca7e2e933bf21d2115c30e0958d1ba326ccf1979a0738d97.jpg> 「人工流れ星」で地球防衛 実験へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535671>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kimurayu/02172111/title-1744689000851.jpeg?exp=10800> 井上尚弥戦見据え 中谷潤人の実力
+      <a href=https://news.yahoo.co.jp/pickup/6535681>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/808d8674000d07762cc001f873b0477e1bab197250f1aabc3560cecebe30613e.jpg> 内藤哲也 新日本プロレスを退団へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 18:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 19:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
