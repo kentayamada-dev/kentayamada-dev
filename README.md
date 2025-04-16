@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b543b7ef55d604e67c899af9c68a4377.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b7f8199c9d6fd0875abe4d6e10f5d856.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c86c8b6c6f8df733a99db47a469df85eeae5dcf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000019-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 赤沢経済再生相が米ワシントンへ出発　米財務長官と関税交渉へ
+      <a href=https://news.yahoo.co.jp/articles/a72e5dbf8974dc290da84ef51ea39309cbd0c6dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000021-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=456&ch=456&exp=10800&fmt=webp> 関税見直し協議へ、赤沢大臣が出発　まずは米側の意向と「土俵」探る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76c589cb6ea7dddcdea746d17efed961799ce315>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000021-ann-000-3-thumb.jpg?exp=10800&fmt=webp> バイデン氏がトランプ政権批判「多くの損害と破壊もたらした」
+      <a href=https://news.yahoo.co.jp/articles/7fc91a855994f20dfc678a933ae1f37552d1a40c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高齢者向けNISA新設検討　毎月分配型の投信可能に　金融庁
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/723927e0610a0af2e5cc2c28fcff3ef0ced34c9fbb82876dccd9b5ec68030992.jpg> iPhone駆け込み出荷 3月に最高額
+      <a href=https://news.yahoo.co.jp/pickup/6535633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/3aa8621e13473f2e887071efc85accc122c0545e52137764663ce6e78bdd4af7.jpg> 高1女子刺殺 男は土地勘あったか
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535624>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/1285984a0d4a500d530b6175ea3eaf349d533682532f148eb695db17c1d581d4.jpg> 坂本勇人を抹消 監督の「優しさ」
+      <a href=https://news.yahoo.co.jp/pickup/6535637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/55b1a0b07dde4efcdc32e03b9e4dd6acafad65c45373606d6ff21fee885c685d.jpg> デヴィ夫人 暴行の疑いで書類送検
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 11:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 11:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
