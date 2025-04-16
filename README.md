@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Y9Te6ilyKug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8649edad7e5a6e94b8aca024f17889ba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28cdcc5ec5cec89a107b4be1883d079d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/29bb6b6d78cab11b33e2139257b7e80ccfaebf32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050789-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> ブラジル・チリのパビリオンがオープン　開幕前に火災で３日遅れの開館　４カ国は未だ開館許可出ず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/23e37c983451c8fe03c0f99fc954c0b21f091980>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958482-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 『入管職員から暴行』ペルー人男性が国に賠償求めた裁判「11万円支払い」大阪地裁が命じる「後ろ手錠14時間放置・職員に押さえつけられ左腕骨折」男性訴え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c50966d8ffa0e1db434721419b4adac2828e061a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000044-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=374&ch=374&exp=10800&fmt=webp> トランプ大統領「ボールは中国のコートに…我々のお金が必要なら交渉を」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d726f9d733503566d68c3f8eb74e6a231dd8a278>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-06534838-mmt-000-1-thumb.jpg?exp=10800&fmt=webp> “現場付近で殺害”後 砂浜まで引きずられ遺棄か、海岸で女性保育士の遺体…靴も見つかる（宮城・岩沼市）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f42c09264befeca143f802f15e9c4e8f69039bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00065024-mbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 工事や火災影響で万博開幕に間に合わなかった『チリ』『ブラジル』パビリオン…４日目でオープン　インドなど４か国はまだオープンの目途立たず
       </a>
     </td>
   </tr>
@@ -394,24 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535640>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/matsudairanaoya/02173140/title-1744763892743.jpeg?exp=10800> 財務省が輸入米の活用提言 問題点
+      <a href=https://news.yahoo.co.jp/pickup/6535651>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/49d5db646a269560b175e027c76a63c494757b2ccb86bfa69a88958643dc0162.jpg> 備蓄米放出も 価格なぜ下がらない
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535634>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02173272/title-1744764161331.jpeg?exp=10800> 私大授業巡る財務省指摘 識者見解
+      <a href=https://news.yahoo.co.jp/pickup/6535650>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/c71b642315509c341f6728452ea9a9756d34d26f7e4f855bf06e6e164b270998.jpg> 入管で手錠され放置 国に賠償命令
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/716aa17b13aed45ca0e2ef4dba9639bd5fb2ce760cb033f767fd8d3d9775f03d.jpg> 脱税疑い 芸能事務所と代表を告発
+      <a href=https://news.yahoo.co.jp/pickup/6535652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/4b6457e12e66c87c855b4fe1c94e25ab5a70d54c7e0f9971f6ff3eab0c567374.jpg> 資金不足 募金に臨む奨学生の訴え
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535643>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/5f51e0308abb7feff090aea3a8ffedf9081b74452be284a5982bd852501bc29c.jpg> 万博 ブラジル館とチリ館オープン
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/716aa17b13aed45ca0e2ef4dba9639bd5fb2ce760cb033f767fd8d3d9775f03d.jpg> 脱税疑い 芸能事務所と代表を告発
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/d8612c0c9d616a1680626a531ee696145c45103afdca55a2dae4236f0031f293.jpg> 大谷 メジャー通算150盗塁を達成
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 13:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 14:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
