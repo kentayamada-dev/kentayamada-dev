@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e4e43d03b3b3de4735118bfff59f6bac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/87e86bc5856202dfda780ba124122d74.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0ac21ec59509cc03506ce3ec9caad9ab38e8356>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000162-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=794&ch=794&exp=10800&fmt=webp> 万博4日目　インドなど4カ国、内装工事終わらず開館見通し立たず…チリはオープン
+      <a href=https://news.yahoo.co.jp/articles/6450e9b872fd26b1a111b4c45611fd8c6013114e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国警察　大統領室の家宅捜索また不発＝警護処が応じず
       </a>
     </td>
   </tr>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535697>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/dc6e6754db31b812dcb31434450b5d68a164f498b82329f5455f4819d0038ca1.jpg> トランプ氏 日本との交渉に出席へ
+      <a href=https://news.yahoo.co.jp/pickup/6535705>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/6fa86f07d7cd701c1892f57cde31e654767e3056d51b98bc27957580d33dad07.jpg> 関税交渉にトランプ氏出席 焦点は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535695>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/7741268aed9d6e658d52c87d94bb0cb59205cb620270482210c30def6a47c470.jpg> 現金給付案の実施 政府見送り調整
+      <a href=https://news.yahoo.co.jp/pickup/6535696>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/351fb38e914c94bd13fd42b3fe078971ab4d33312ad3c582c52a7163987cbdb3.jpg> 李在明氏 対日批判的だが協力必要
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/eed98507780ae0ac64faf5a37f0e0d133b553d7211f5962342abaecfbea27b3a.jpg> 和歌山県知事死去 追悼の声相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6535691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/91b2cc517a2b57dd2b005864263c1dc9c3a0e73aad50bcf80177a2e047e324c1.jpg> 処分満了の萩生田氏 本格再始動
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535699>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ebde1ab8e4aa1212c4c6900d34195524cd56147b12b4d0ea93a321abe0a31dc1.jpg> 3ミリ小さい新1万円札 本物だった
+      <a href=https://news.yahoo.co.jp/pickup/6535706>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/00a1de2c6694320069e680f5dcb01a384b6e4a9e847c48b36d385eaed3b91d26.jpg> 「ジミ婚」が一般化 業界曲がり角
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/82453f13331eedb847cc89ec0b594c58739235cde47d7f5ba84b49c772cb0978.jpg> 打球速すぎてライトゴロ 球場騒然
+      <a href=https://news.yahoo.co.jp/pickup/6535699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ebde1ab8e4aa1212c4c6900d34195524cd56147b12b4d0ea93a321abe0a31dc1.jpg> 3ミリ小さい新1万円札 本物だった
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 22:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 22:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
