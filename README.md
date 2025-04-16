@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5300551b99da6ce80efa9ee082d054a6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb43046f35c8dd8dab0196ab9a672487.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c766b8d9b3d86b0bbbe4d9646523cf5bfaecae2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00010000-wordleafv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 兵庫・斎藤知事　パワハラ研修4か月以上実施せず「年度内は多忙だった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a5c0f0750cf9bde6a6db58afef90df8132fa6ca8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ファンド、SBI北尾氏ら提案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cbe78265aedf998d2cd8166b387f694592c34458>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-34161068-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=761&ch=761&exp=10800&fmt=webp> 瓜田純士、北九州中学生殺傷事件めぐり憤り「こんな法律がいつまでもまかり通るなら…」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-34161068-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=761&ch=761&exp=10800&fmt=webp> 瓜田純士、北九州中学生殺傷事件めぐり憤り「こんな法律がいつまでもまかり通るなら…」
       </a>
     </td>
   </tr>
@@ -366,31 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b18d1b305fabc74246beee7a0ab411df8da9462>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000064-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 現金給付見送りで政府調整　ガソリン補助金など経済対策策定へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000064-mai-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 現金給付見送りで政府調整　ガソリン補助金など経済対策策定へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c46581754b791b7cfa4bb3ce76315fc42bfef34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国大統領府、家宅捜索を拒否　公務執行妨害、罷免以降初の試み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bb0a8a96266131e2c80a55aa95ad621cd92f325>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958721-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「斎藤知事は権力者失格、兵庫県政はぐちゃぐちゃ」と橋下氏　斎藤知事 是正措置受けるもパワハラ研修を4カ月実施せず 来月以降になる認識示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ecd6ff15397ccdbb96411db4f84e545e7332d1ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-34160864-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 米投資ファンド、フジHD取締役人事でSBI北尾吉孝氏ら12名選任を正式提案／発表全文
+      <a href=https://news.yahoo.co.jp/articles/6f9f19573c5f3caebd45a00da3f01f63521107ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000210-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=734&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ブラジルとチリ、3日遅れで開館　大阪・関西万博、次々に来場者
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/0159a672c8a0bdc88f70ab18728a4b8bf9b76eb5145be4be066d62a1df88bb4d.jpg> 経済悪化懸念 FRBに早期利下げ論
+      <a href=https://news.yahoo.co.jp/pickup/6535697>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/dc6e6754db31b812dcb31434450b5d68a164f498b82329f5455f4819d0038ca1.jpg> トランプ氏 日本との交渉に出席へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535680>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/553f0706f1165e44d090f0d3a5541c2a1bdaa458a1d09a425318a3b641925d4f.jpg> 韓国警察 尹氏への捜査を本格化
+      <a href=https://news.yahoo.co.jp/pickup/6535689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/0159a672c8a0bdc88f70ab18728a4b8bf9b76eb5145be4be066d62a1df88bb4d.jpg> 経済悪化懸念 FRBに早期利下げ論
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e51d065e465edd34bc95bd36ee9daa47039a2343df73caed5326c7fef7dbfeec.jpg> 卒業生らへ7億円訴訟 文科相静観
+      <a href=https://news.yahoo.co.jp/pickup/6535693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/b17f50f2e8b4f2a76373b4ffa32081a3c944b788506b8f5d3c8a1b9a7f26e928.jpg> 15歳殺害 近くに血ついたリュック
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/1997247cd942e1c25f3f1dd1c255294ed961f748d4c895789514a5b1c5b1b30a.jpg> 八代亜紀氏巡る波紋 熊本知事批判
+      <a href=https://news.yahoo.co.jp/pickup/6535683>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e51d065e465edd34bc95bd36ee9daa47039a2343df73caed5326c7fef7dbfeec.jpg> 卒業生らへ7億円訴訟 文科相静観
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 20:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 20:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
