@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eeac2d3b2b147ee6abf71042a4591113.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/571c7225dbb3954b106bdc2b994cd5ef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/320ba98d78abecc76df4abc909ba1228d73038b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000062-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】「不快な思いさせ申し訳ない」石橋貴明氏　フジセクハラ報道で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e386be79a81a64fb9eace8c9a506340e70bd3d6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050796-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 斎藤知事ハラスメント研修の受講４か月以上応じず　第三者委が１０件パワハラ認定　兵庫県の人事課が「是正措置」も・・・　「多忙だった」と未受講の理由主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d35a063f5fbedf00cd5d27845b8942951d07b77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00486871-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=437&ch=437&exp=10800&fmt=webp> 韓国　きょうのニュース（4月16日）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ecd6ff15397ccdbb96411db4f84e545e7332d1ad>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-34160864-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 米投資ファンド、フジHD取締役人事でSBI北尾吉孝氏ら12名選任を正式提案／発表全文
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fd47fa1be6846863b238474ca5c59343473e6b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-07230943-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「一律の現金給付はほぼ不可能」指摘も 政府・与党が“補正予算案”提出見送りへ　消費税減税に自民党幹部は“否定的姿勢”崩さず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e3aaf97e615ad151f10d005a2e793a22e1e346b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050126-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=330&ch=330&exp=10800&fmt=webp> 石橋貴明さん「かなり羽目を外してしまったかも」、フジ女性社員との会食認め謝罪…第三者委が報告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4f8e2299a2e53abf19cf5a54512b6237cc4984e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00065031-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 「世界のつながりにちょっとうるうる」“万博日和”の４日目！開幕に間に合わなかった『ブラジル＆チリ館』もオープン「入った瞬間の織物に目を奪われた」
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ba526c2e4e2f85406885f7acb9023747528be7b8b86d956580e28bc5c39f974b.jpg> 米ファンド フジHD取締役を提案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535683>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e51d065e465edd34bc95bd36ee9daa47039a2343df73caed5326c7fef7dbfeec.jpg> 卒業生らへ7億円訴訟 文科相静観
       </a>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535682>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/1997247cd942e1c25f3f1dd1c255294ed961f748d4c895789514a5b1c5b1b30a.jpg> 八代亜紀氏巡る波紋 熊本知事批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535687>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> スポーツ指導のパワハラ相談 最多
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 18:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 18:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
