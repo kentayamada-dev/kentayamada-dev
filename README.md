@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d2aba36407258c6ee399db27078b3539.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ba5f7757a501167e21d12d194a30926e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8bd6b9ec8e111c7c1534011b397b8a5267d43d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00958924-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=435&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】日米関税交渉始まる　交渉前にトランプ大統領と赤沢経済再生相が会談
+      <a href=https://news.yahoo.co.jp/articles/62c78dae99c27740bbe99c69b991a56238e287f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000017-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=511&ch=511&exp=10800&fmt=webp> 米タイム誌「世界の100人」に真田広之さん、YOSHIKIさんら
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6d57445e4f28e9316e73c62fe60fde494776605>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000013-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=901&ch=901&exp=10800&fmt=webp> iPS細胞、パーキンソン病に効果　今年度中の承認目指す　京大病院など
+      <a href=https://news.yahoo.co.jp/articles/9779e6c8afebc090ae77bd89852053f7406f243e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-10174083-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=818&ch=818&exp=10800&fmt=webp> 関税めぐる日米初交渉前に トランプ大統領と赤沢大臣が会談
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535723>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/84bad5bc59f4fc6d4861cfcdb883cc762ed018e5122db80f32e9e5461cf5700c.jpg> トランプ氏 赤沢経済再生相と会談
+      <a href=https://news.yahoo.co.jp/pickup/6535725>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/4aab74b0abe4aed5ce8877bbefa5d991fd5d39ea544f2cfb31913aa541f110b9.jpg> 日米関税交渉 ワシントンで始まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535726>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/fd59d6be5af6a1b99c3841ad60f561e2c36b50f171d0e6f5c0c81d690e38ba71.jpg> 赤沢氏と会談 トランプ氏「進展」
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535722>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/b0455832fd89e12df4701874ba1f9ea839c67cbd4b31b5c7a2bf6b9007d7efd5.jpg> フェンス激突 日ハム矢沢が検査へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535700>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/7861b91fd7d00093ee68e6de60817d3387c366799f3f5d63ef15b41c902e03ab.jpg> 石橋貴明が謝罪 がんの併発も公表
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 07:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 08:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
