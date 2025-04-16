@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1dc824217ca6b64c112f4709ec591f4b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b543b7ef55d604e67c899af9c68a4377.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f69b77a32fefeb490a8a23ea1109ec551af2ab79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000013-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 関税交渉「90日間での正式合意難しい」　ベッセント氏が見解
+      <a href=https://news.yahoo.co.jp/articles/c86c8b6c6f8df733a99db47a469df85eeae5dcf3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000019-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 赤沢経済再生相が米ワシントンへ出発　米財務長官と関税交渉へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed825db1437ac8ddcd6e7ec97514aa4092ff6ed3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958301-fnn-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】谷内寛幸容疑者（24）送検　高校1年生の手柄玲奈さん（15）を刃物で殺害した疑い　調べに黙秘　さいたま市
+      <a href=https://news.yahoo.co.jp/articles/76c589cb6ea7dddcdea746d17efed961799ce315>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000021-ann-000-3-thumb.jpg?exp=10800&fmt=webp> バイデン氏がトランプ政権批判「多くの損害と破壊もたらした」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32aa02b4d7ddda8e234560f2d0cbf3ffd29037e8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000225-sanspo-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1173&ch=1173&exp=10800&fmt=webp> 日本ハム・吉田賢吾、代打で満塁一掃打　3点を追う六回8点！冴えた新庄監督采配「僕の中で大事な場面の代打は捕手」
+      <a href=https://news.yahoo.co.jp/articles/c8948a69a32de30f5fa6cdb8a34b287aa5b8f1c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000018-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=211&cy=0&cw=759&ch=759&exp=10800&fmt=webp> 埼玉・高1殺害　容疑者、現場近くの建設会社で勤務　土地勘あったか
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ffa9fa9e29583911d2df697661794b1478e799ff541f8e5fb668424f513db13f.jpg> トランプ政権 ボールは中国にある
+      <a href=https://news.yahoo.co.jp/pickup/6535631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/83cb0ba1eb1b4788094609b08a82ce68198fbb97f3338bed8c2aeafafba46f9e.jpg> バイデン氏 トランプ政権を批判
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535620>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e685a4f00963f20efdde35b942e3b1c6191dd620d4c0591954ae637c3828da3e.jpg> 「丸見え」子どもトイレ 設置背景
+      <a href=https://news.yahoo.co.jp/pickup/6535632>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/02f7cebb8c64aeae7be55df8a042af1047c7c919679b010fc3fc5bbd12f675c8.jpg> 東京唯一 コールドストーン閉店へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 10:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 11:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
