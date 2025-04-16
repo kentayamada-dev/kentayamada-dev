@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/028e10d2b44508cb00ad0fef9b0fecc5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0118112286f167815edb446bac2d647c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/006ad6fe3ecabeeb158ba35906b3a4433641e657>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000029-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 容疑者は現場近くの会社に勤務か、関係先捜索　埼玉・女子高校生殺害
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1fd0974a8a532f3327be4afb340c84120d5b2e45>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c50966d8ffa0e1db434721419b4adac2828e061a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000044-cnippou-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=374&ch=374&exp=10800&fmt=webp> トランプ大統領「ボールは中国のコートに…我々のお金が必要なら交渉を」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f7afcc71760eb54ed135ec8ac19ee93d2d0b2c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000030-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 2軍再調整の巨人・坂本勇人が悩ましい現状を激白…「探す」を繰り返し「まだ明確に何をしたらいいかわかってない」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/0958634b90e92c18bf12cc3946d7a49c2edeeb6db3d48be3135dd041687227aa.jpg> NVIDIA 2-4月7900億円損失見込み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535654>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/5542c5a7c62da3a9b4fee071344b8e6eb5adf249d1feb76dbde37db75344554f.jpg> 中学生2人殺傷 心神喪失の可能性
       </a>
@@ -434,32 +426,40 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/716aa17b13aed45ca0e2ef4dba9639bd5fb2ce760cb033f767fd8d3d9775f03d.jpg> 脱税疑い 芸能事務所と代表を告発
+      <a href=https://news.yahoo.co.jp/pickup/6535659>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e02d8f370a8b1538a0ad1cd9baa6dd8002b663c7ab6760b5372a6478138d8ae6.jpg> 15歳刺され死亡 帰宅時襲われたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/598298a5116130906c654e37f6385e8cc304a3006bc87ad3a1b7285ba3fdd4d0.jpg> 海岸に女性遺体 引きずられ遺棄か
+      <a href=https://news.yahoo.co.jp/pickup/6535655>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/4d099ec5ba9a4a01c735272686c3f867392446f6cbf1fc03862cf99b8d0ffd87.jpg> 初任給日本一PR市役所に応募殺到
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535637>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/d79a0ef00c9323fd4842c41d4f48399c5ea7e7dfcea61086c2fbbe7f912ce86f.jpg> デヴィ夫人 暴行の疑いで書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6535645>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/6a4067560235ad963a2ff90d0543754b0ce52eea6390bd30c3639892e4eb5116.jpg> ガラケー再起動 亡き母の声に涙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/4b6457e12e66c87c855b4fe1c94e25ab5a70d54c7e0f9971f6ff3eab0c567374.jpg> 資金不足 募金に臨む奨学生の訴え
+      <a href=https://news.yahoo.co.jp/pickup/6535663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/f63040675916240a07ca7bb614bf97662b95b2e5e7c286d53303aee745b8c630.jpg> 大倉忠義 報道陣の結婚祝福に笑顔
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/299f419a4b8c360f0591b927d1a2871837fe67cf1595cfa0ccbb2244d38d57ed.jpg> XGがトリ コーチェラ巨大コール
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 14:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 15:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
