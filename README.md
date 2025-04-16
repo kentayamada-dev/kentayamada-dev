@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4971f1cb25ced755702e77a0d3c409b5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/62f20fa44edbf60c8cd64918551609e0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ef067ffd60947ed1339a657c771812cc37be3ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050174-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 赤沢経済再生相との会談にトランプ氏同席、戦々恐々「まくしたてられるとまずい」「閣僚より話早い」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f58c1002c4a6471a23f9b02b230b75012af2ecb9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-04161299-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=898&ch=898&exp=10800&fmt=webp> 【西武】４年目左腕・菅井信也が２戦連続の無失点投球で２勝目「無失点で抑えることは意識してる」
+      <a href=https://news.yahoo.co.jp/articles/19638fe953c878c86293dbeb7030269835df4570>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-04161304-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1011&ch=1011&exp=10800&fmt=webp> 【オリックス】今季１６試合目で初の完封負け…連勝は４でストップ　岸田監督「また明日、切り替えて」
       </a>
     </td>
   </tr>
@@ -395,11 +387,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cbe78265aedf998d2cd8166b387f694592c34458>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-34161068-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=761&ch=761&exp=10800&fmt=webp> 瓜田純士、北九州中学生殺傷事件めぐり憤り「こんな法律がいつまでもまかり通るなら…」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/08e13d3a4351f3cc1c0ea4e5873dcc3987ebaa81a992f0329dd1d48ea1668c37.jpg> 韓国警察 大統領室の捜索また不発
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535705>
@@ -410,32 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535696>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/351fb38e914c94bd13fd42b3fe078971ab4d33312ad3c582c52a7163987cbdb3.jpg> 李在明氏 対日批判的だが協力必要
+      <a href=https://news.yahoo.co.jp/pickup/6535713>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/b1380efe21875dce0303739a1866dfd888e5699d640aca481d642adebd88e8d6.jpg> 日米交渉にトランプ氏 政府驚き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/91b2cc517a2b57dd2b005864263c1dc9c3a0e73aad50bcf80177a2e047e324c1.jpg> 処分満了の萩生田氏 本格再始動
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535704>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/491ddf833d5614d063e5e1079099467aec88ceea5b9321108703a3f19e3603ae.jpg> 基礎年金の底上げ案 断念する方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535701>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/6ea034f1ec4a77882e80ccd74ec5a32b6912173bb0c241f5f5029e05cde6cc5c.jpg> ホンダ シビック一部を米で生産へ
+      <a href=https://news.yahoo.co.jp/pickup/6535712>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/b78999b923dd7eb3bbdc47959fc44215f5d542ec2e0a95a4bd3e8e7ddd73a06a.jpg> 15歳女子刺殺事件 無差別襲撃か
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535706>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/00a1de2c6694320069e680f5dcb01a384b6e4a9e847c48b36d385eaed3b91d26.jpg> 「ジミ婚」が一般化 業界曲がり角
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/9e01dfb76f6eaaebf4bbe660200a600f37ec52b6639b3ba4a5014f4b5b573972.jpg> 西武3位に 監督「え、ほんまに」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 23:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 23:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
