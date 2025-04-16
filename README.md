@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0118112286f167815edb446bac2d647c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6b60a9b0b940b800cb8c4515cda2ac53.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/006ad6fe3ecabeeb158ba35906b3a4433641e657>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000029-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 容疑者は現場近くの会社に勤務か、関係先捜索　埼玉・女子高校生殺害
+      <a href=https://news.yahoo.co.jp/articles/b8a057cf56d3110295e54107dd249178f5aa747c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中止のブルーインパルス飛行「万博期間中に」　大阪知事、防衛相に実現要望
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fd0974a8a532f3327be4afb340c84120d5b2e45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 北九州中3殺傷容疑の男鑑定留置　責任能力疑問で2度目、福岡地検
+      <a href=https://news.yahoo.co.jp/articles/6678dfc5431113bd1e6598c3c892055602939a29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000056-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=830&ch=830&exp=10800&fmt=webp> 容疑者の男、2度目の鑑定留置　中学生殺傷　福岡地検支部
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c50966d8ffa0e1db434721419b4adac2828e061a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000044-cnippou-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=374&ch=374&exp=10800&fmt=webp> トランプ大統領「ボールは中国のコートに…我々のお金が必要なら交渉を」
+      <a href=https://news.yahoo.co.jp/articles/24a940552ee07cd4b6fb1260271709d17e72bffc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-10173970-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=972&ch=972&exp=10800&fmt=webp> さいたま市の女子高校生殺害 臓器に達するほど刺される
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7fc91a855994f20dfc678a933ae1f37552d1a40c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000036-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 高齢者向けNISA新設検討　毎月分配型の投信可能に　金融庁
+      <a href=https://news.yahoo.co.jp/articles/ee1f30908c0833dfc9bb5ba52f6186309e7cd855>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-73014692-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 赤沢経済再生相がきょう訪米、「石破首相の左腕」が関税交渉担う
       </a>
     </td>
   </tr>
@@ -402,24 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535651>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/49d5db646a269560b175e027c76a63c494757b2ccb86bfa69a88958643dc0162.jpg> 備蓄米放出も 価格なぜ下がらない
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535650>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/c71b642315509c341f6728452ea9a9756d34d26f7e4f855bf06e6e164b270998.jpg> 入管で手錠され放置 国に賠償命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/5542c5a7c62da3a9b4fee071344b8e6eb5adf249d1feb76dbde37db75344554f.jpg> 中学生2人殺傷 心神喪失の可能性
+      <a href=https://news.yahoo.co.jp/pickup/6535665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/9f09b64dd8d173d63146f2d13e2652f43a74f83220c9c027063d9fa7a519e963.jpg> 関税協議へ 赤沢氏「土俵」を探る
       </a>
     </td>
   </tr>
@@ -428,6 +412,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535659>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e02d8f370a8b1538a0ad1cd9baa6dd8002b663c7ab6760b5372a6478138d8ae6.jpg> 15歳刺され死亡 帰宅時襲われたか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/3e058d14d46d1df34d7c45d173e57c81bd08b5d107c5db37cbaa5ecd8f6be3ab.jpg> ガソリン補助金 17日から初の0円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535654>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/5542c5a7c62da3a9b4fee071344b8e6eb5adf249d1feb76dbde37db75344554f.jpg> 中学生2人殺傷 心神喪失の可能性
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535660>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/299f419a4b8c360f0591b927d1a2871837fe67cf1595cfa0ccbb2244d38d57ed.jpg> XGがトリ コーチェラ巨大コール
+      <a href=https://news.yahoo.co.jp/pickup/6535667>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/299f419a4b8c360f0591b927d1a2871837fe67cf1595cfa0ccbb2244d38d57ed.jpg> XGがトリ 米フェスで巨大コール
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 15:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 15:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
