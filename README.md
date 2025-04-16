@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c1baf57c949958a84d9612ba3c825ad0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c535b42e11de1d8578a567f9b55eb3a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e91eebfe3d027ddeca8af3a7d3d611054da88057>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00341343-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【西武】ネビンが来日初本塁打　新外国人の〝目覚め〟で昨年の二の舞い避けられるか
+      <a href=https://news.yahoo.co.jp/articles/b5d355903499a9e3527b51e363fd271a13a9b628>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04161314-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=1084&ch=1084&exp=10800&fmt=webp> 「え、ほんまに？」西武・西口監督も驚きの３６９日ぶり３位浮上　新助っ人来日１号が後押し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a0fe5067ead6dbe225ad1d82d3c605da364e731b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000007-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 元交際相手から事情聴く　車内から遺体　19歳女性か
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d19700415face1716e5fd56462b305a91394e555>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00341351-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジテレビ局員が戦慄した〝大株主〟の不動産事業切り離し提案　前向きな意見も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5879ee5099b51e8a8d254f09e961d4ebee961485>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050205-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=344&ch=344&exp=10800&fmt=webp> 都内高級ホテルが価格カルテルか、公取委が警告へ…１５社が宿泊料など情報共有・高騰に影響も
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/b1380efe21875dce0303739a1866dfd888e5699d640aca481d642adebd88e8d6.jpg> 関税交渉にトランプ氏 日本側困惑
+      <a href=https://news.yahoo.co.jp/pickup/6535719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/43606d549de061f859438222d41e80509add26e8b13679f68a46ef4a177df7a8.jpg> iPS細胞 パーキンソン病に有効性
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 06:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 07:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
