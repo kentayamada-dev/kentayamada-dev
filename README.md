@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62f20fa44edbf60c8cd64918551609e0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fa77a20891681bae61ba38585d2e84f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/08e13d3a4351f3cc1c0ea4e5873dcc3987ebaa81a992f0329dd1d48ea1668c37.jpg> 韓国警察 大統領室の捜索また不発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535705>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/6fa86f07d7cd701c1892f57cde31e654767e3056d51b98bc27957580d33dad07.jpg> 関税交渉にトランプ氏出席 焦点は
       </a>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535713>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/b1380efe21875dce0303739a1866dfd888e5699d640aca481d642adebd88e8d6.jpg> 日米交渉にトランプ氏 政府驚き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/08e13d3a4351f3cc1c0ea4e5873dcc3987ebaa81a992f0329dd1d48ea1668c37.jpg> 韓国警察 大統領室の捜索また不発
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 23:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 23:51:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
