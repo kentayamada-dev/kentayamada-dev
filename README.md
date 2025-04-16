@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/87e86bc5856202dfda780ba124122d74.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4971f1cb25ced755702e77a0d3c409b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e195f3e7ac53cd87903bb5112ed14ac418a5d926>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050163-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=313&ch=313&exp=10800&fmt=webp> 米ファンド「フジは日枝体制の残滓一掃を」…２０年ぶりライブドア・旧村上ファンド騒動の当事者再び
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0ef067ffd60947ed1339a657c771812cc37be3ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050174-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 赤沢経済再生相との会談にトランプ氏同席、戦々恐々「まくしたてられるとまずい」「閣僚より話早い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f58c1002c4a6471a23f9b02b230b75012af2ecb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-04161299-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=898&ch=898&exp=10800&fmt=webp> 【西武】４年目左腕・菅井信也が２戦連続の無失点投球で２勝目「無失点で抑えることは意識してる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6450e9b872fd26b1a111b4c45611fd8c6013114e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 韓国警察　大統領室の家宅捜索また不発＝警護処が応じず
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c05006078061a3d5618c1371c661dd42ecfdffa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000104-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 不動産事業の切り離し提案　米ファンド、フジHDに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bb030b37b447e966acea144181ee2fa70bdedd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000097-jij-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日米交渉、トランプ氏出席表明　関税除外、安保も議題に　担当閣僚の初会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3c766b8d9b3d86b0bbbe4d9646523cf5bfaecae2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00010000-wordleafv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 兵庫・斎藤知事　パワハラ研修4か月以上実施せず「年度内は多忙だった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbe78265aedf998d2cd8166b387f694592c34458>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-34161068-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=761&ch=761&exp=10800&fmt=webp> 瓜田純士、北九州中学生殺傷事件めぐり憤り「こんな法律がいつまでもまかり通るなら…」
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/491ddf833d5614d063e5e1079099467aec88ceea5b9321108703a3f19e3603ae.jpg> 基礎年金の底上げ案 断念する方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535701>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/6ea034f1ec4a77882e80ccd74ec5a32b6912173bb0c241f5f5029e05cde6cc5c.jpg> ホンダ シビック一部を米で生産へ
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535699>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ebde1ab8e4aa1212c4c6900d34195524cd56147b12b4d0ea93a321abe0a31dc1.jpg> 3ミリ小さい新1万円札 本物だった
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535702>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohiroaki/02173731/title-1744786912501.jpeg?exp=10800> ドラマ版ハリポタ 出演者に波紋も
+      <a href=https://news.yahoo.co.jp/pickup/6535686>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/f3597a780acd776dde949367aeddf1984e86e84d36d55626533359cf04f343a9.jpg> 大場美奈 6人が出産立ち会い希望
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 22:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 23:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
