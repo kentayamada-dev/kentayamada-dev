@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6_-WrQWHkpA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Y9Te6ilyKug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9eaaeb85db104df7548dcf326446406c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1dc824217ca6b64c112f4709ec591f4b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,15 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed825db1437ac8ddcd6e7ec97514aa4092ff6ed3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958301-fnn-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】谷内寛幸容疑者（24）送検　高校1年生の手柄玲奈さん（15）を刃物で殺害した疑い　調べに黙秘　さいたま市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958301-fnn-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】谷内寛幸容疑者（24）送検　高校1年生の手柄玲奈さん（15）を刃物で殺害した疑い　調べに黙秘　さいたま市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1556484a7d025c69ae7f517c2ea718df3dfbdd04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-04151176-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> 巨人・坂本抹消に阿部監督「数字見れば仕方ないこと」１軍復帰期限設けず…負傷のキャベには「最短で戻ってくれ」
+      <a href=https://news.yahoo.co.jp/articles/32aa02b4d7ddda8e234560f2d0cbf3ffd29037e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250415-00000225-sanspo-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1173&ch=1173&exp=10800&fmt=webp> 日本ハム・吉田賢吾、代打で満塁一掃打　3点を追う六回8点！冴えた新庄監督采配「僕の中で大事な場面の代打は捕手」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ae50d48af5957f47a2c509ad7d7370c1a30dedf6136809123be1cade2109c003.jpg> 熊本地震で友人犠牲 思い出す笑顔
+      <a href=https://news.yahoo.co.jp/pickup/6535630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ae50d48af5957f47a2c509ad7d7370c1a30dedf6136809123be1cade2109c003.jpg> 熊本地震で21歳犠牲 涙した同級生
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/7a2621fc61634c04f6dde24ec10a597900fb2ac3207db3d842a5062bfd9dfbf9.jpg> 俳優・広末涼子さん 釈放される
+      <a href=https://news.yahoo.co.jp/pickup/6535624>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/1285984a0d4a500d530b6175ea3eaf349d533682532f148eb695db17c1d581d4.jpg> 坂本勇人を抹消 監督の「優しさ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535624>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/1285984a0d4a500d530b6175ea3eaf349d533682532f148eb695db17c1d581d4.jpg> 坂本勇人を抹消 監督の「優しさ」
+      <a href=https://news.yahoo.co.jp/pickup/6535626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/c0b08a8e4fa93cb9143314b340822a3deceb3f6aa3bf4a9f8ca2a00f8e1ec0ca.jpg> 復帰目指す吉田正尚 厳しい現実
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 10:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 10:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
