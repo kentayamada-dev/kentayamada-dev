@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ba5f7757a501167e21d12d194a30926e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a34261fd45c598f611d036d4da363462.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62c78dae99c27740bbe99c69b991a56238e287f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000017-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=511&ch=511&exp=10800&fmt=webp> 米タイム誌「世界の100人」に真田広之さん、YOSHIKIさんら
+      <a href=https://news.yahoo.co.jp/articles/cdb335a89819c5a2cac6e21bdaf4173217ade2e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050200-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=288&ch=288&exp=10800&fmt=webp> 参院選の秘策、わずか１週間でしぼむ…一律現金給付に想定以上の「バラマキ」批判
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5d355903499a9e3527b51e363fd271a13a9b628>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04161314-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=1084&ch=1084&exp=10800&fmt=webp> 「え、ほんまに？」西武・西口監督も驚きの３６９日ぶり３位浮上　新助っ人来日１号が後押し
+      <a href=https://news.yahoo.co.jp/articles/c129cb7a8245080cc59b6d82ceb7e4235607803a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00010003-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 西武ネビンが来日1号弾、菅井信也が2勝目｜オリックス×西武｜プロ野球結果
       </a>
     </td>
   </tr>
@@ -403,15 +403,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535726>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/fd59d6be5af6a1b99c3841ad60f561e2c36b50f171d0e6f5c0c81d690e38ba71.jpg> 赤沢氏と会談 トランプ氏「進展」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/eb27fc89c779d2c4c9bafb914a70a2f684c3c9be88ec20745cfa30d775f965d6.jpg> 赤沢氏と会談 トランプ氏「進展」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535719>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/43606d549de061f859438222d41e80509add26e8b13679f68a46ef4a177df7a8.jpg> iPS細胞 パーキンソン病に有効性
+      <a href=https://news.yahoo.co.jp/pickup/6535728>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/0ea11ea145497f44e4b14bca2907873ff1fca5f3c35d9cfd927a9c07f8acc237.jpg> 政府与党 一律の現金給付を断念
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535720>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2ba5e593b9a0c78fa6ec2cff531661c0064d291f8550eab6f7febdb21196f104.jpg> ダル&今永 異例のキャッチボール
+      <a href=https://news.yahoo.co.jp/pickup/6535730>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/668dc0a7cce756243bdefe8631fa20ea332100b9c99ac3007bf785182a67ec39.jpg> 十両力士・輝が結婚へ 相手は恩人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535700>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/7861b91fd7d00093ee68e6de60817d3387c366799f3f5d63ef15b41c902e03ab.jpg> 石橋貴明が謝罪 がんの併発も公表
+      <a href=https://news.yahoo.co.jp/pickup/6535720>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2ba5e593b9a0c78fa6ec2cff531661c0064d291f8550eab6f7febdb21196f104.jpg> ダル&今永 異例のキャッチボール
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 08:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 08:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
