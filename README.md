@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b60a9b0b940b800cb8c4515cda2ac53.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a17d04b07c3e5a97d45cd0fefddb6983.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8a057cf56d3110295e54107dd249178f5aa747c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中止のブルーインパルス飛行「万博期間中に」　大阪知事、防衛相に実現要望
+      <a href=https://news.yahoo.co.jp/articles/6678dfc5431113bd1e6598c3c892055602939a29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000056-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=830&ch=830&exp=10800&fmt=webp> 容疑者の男、2度目の鑑定留置　中学生殺傷　福岡地検支部
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6678dfc5431113bd1e6598c3c892055602939a29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000056-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=830&ch=830&exp=10800&fmt=webp> 容疑者の男、2度目の鑑定留置　中学生殺傷　福岡地検支部
+      <a href=https://news.yahoo.co.jp/articles/ab2381559f3164b226bce1b83b686ab33cea88a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958517-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=360&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 維新・前原氏「石破政権はダッチロール」補正予算見送りを痛烈批判　岩谷氏も「バラマキと見透かされた」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535645>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/6a4067560235ad963a2ff90d0543754b0ce52eea6390bd30c3639892e4eb5116.jpg> ガラケー再起動 亡き母の声に涙
+      <a href=https://news.yahoo.co.jp/pickup/6535658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/200f5add2a584a6cd710b2f75a4ee397b7eb72092c9d9a0594c172d8e453b51d.jpg> 2軍落ちの坂本勇人 心境を明かす
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 15:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 16:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
