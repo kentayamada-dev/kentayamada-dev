@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/564cab693599ef3f397a00f78dc57a54.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9eaaeb85db104df7548dcf326446406c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db2cddde749548662ebd1edae1dfa9e0c0cfee0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000005-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=600&ch=600&exp=10800&fmt=webp> トランプ政権、車関税の減免検討、ホンダは米販売の9割現地生産へ［新聞ウォッチ］
+      <a href=https://news.yahoo.co.jp/articles/f69b77a32fefeb490a8a23ea1109ec551af2ab79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000013-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 関税交渉「90日間での正式合意難しい」　ベッセント氏が見解
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/728215e35dd60575a95fafe1e9d7333610e6b484>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000007-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=321&ch=321&exp=10800&fmt=webp> 補正予算、野党の出方見極め　給付「再検討」、減税論に配慮　石破政権、対米交渉も手探り〔深層探訪〕
+      <a href=https://news.yahoo.co.jp/articles/ed825db1437ac8ddcd6e7ec97514aa4092ff6ed3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958301-fnn-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】谷内寛幸容疑者（24）送検　高校1年生の手柄玲奈さん（15）を刃物で殺害した疑い　調べに黙秘　さいたま市
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535618>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/71b0c5cb12c26a3c2981a9b05116f1e7bec667556f37fdd9f441093015d0d4f9.jpg> 学術会議 法人化法案修正巡り決議
+      <a href=https://news.yahoo.co.jp/pickup/6535628>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/af9a1c261d953110b50417773c1de912cc3fb2bc1b21a86a37879acfccfa4aba.jpg> 医薬品関税で供給網混乱 J&J警告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535612>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/3b98e4a0e660bd4912bcca2f2f53108cefd61cb46a2affd17a2e7813df5e0213.jpg> 証券口座乗っ取り 数百万円被害も
+      <a href=https://news.yahoo.co.jp/pickup/6535629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ae50d48af5957f47a2c509ad7d7370c1a30dedf6136809123be1cade2109c003.jpg> 熊本地震で友人犠牲 思い出す笑顔
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/7a2621fc61634c04f6dde24ec10a597900fb2ac3207db3d842a5062bfd9dfbf9.jpg> 俳優・広末涼子さん 釈放される
+      <a href=https://news.yahoo.co.jp/pickup/6535622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/28155da7c10756b9f6d56c06794be467353c75bc87317ab772c8a47110bc838b.jpg> ミャクミャク記念硬貨 転売相次ぐ
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/28155da7c10756b9f6d56c06794be467353c75bc87317ab772c8a47110bc838b.jpg> ミャクミャク記念硬貨 転売相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6535613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/7a2621fc61634c04f6dde24ec10a597900fb2ac3207db3d842a5062bfd9dfbf9.jpg> 俳優・広末涼子さん 釈放される
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 09:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 10:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
