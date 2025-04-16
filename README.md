@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c40927408287aa9dd646625c17798762.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d08e8ae9bad9510c9ea96191f0bd408a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/db2cddde749548662ebd1edae1dfa9e0c0cfee0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000005-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=600&ch=600&exp=10800&fmt=webp> トランプ政権、車関税の減免検討、ホンダは米販売の9割現地生産へ［新聞ウォッチ］
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6431236d35f04a9bc5d21bf605dd7bbcb585505f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-06117689-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フジ大株主の米ファンド　フジへの人事提案の全容判明　SBI北尾氏ら社外12人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/728215e35dd60575a95fafe1e9d7333610e6b484>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000007-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=30&cy=0&cw=321&ch=321&exp=10800&fmt=webp> 補正予算、野党の出方見極め　給付「再検討」、減税論に配慮　石破政権、対米交渉も手探り〔深層探訪〕
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4aab53efcae541f909474dd024feb43c969f674>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-04151252-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「打ち出したら止まらない」日本ハム・新庄監督が史上初！開幕１５戦連続ノーバント打線を貫く確かな根拠
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23b1da1277809d88b4c6d8e9f6ff2ca8198b6fbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-07230805-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ政権「ボールは中国側にある」 関税めぐる交渉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/435d8beab78ed037d562af2966b63abbe4757a2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000062-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> 米ダルトン社　フジに宣戦布告へ　20年前の「ライブドア騒動」の救世主を今度は“敵”として送り込む
+      <a href=https://news.yahoo.co.jp/articles/1556484a7d025c69ae7f517c2ea718df3dfbdd04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-04151176-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> 巨人・坂本抹消に阿部監督「数字見れば仕方ないこと」１軍復帰期限設けず…負傷のキャベには「最短で戻ってくれ」
       </a>
     </td>
   </tr>
@@ -418,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e7a953e50f4cef84c45df8e14c8bdbb890ff653383bafcaa9b37e78c1e52fbfa.jpg> 車と衝突 自転車の高1女子が死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535611>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e0eb35d141c4ec6e657eb144294db6321c5c526cb2e70dae9d27495b0476fb1e.jpg> 15歳刺され死亡 同級生ら悲痛の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535620>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e685a4f00963f20efdde35b942e3b1c6191dd620d4c0591954ae637c3828da3e.jpg> 「丸見え」子どもトイレ 設置背景
       </a>
     </td>
   </tr>
@@ -450,8 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535615>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/8b8df4ec7b5ff87cf0be1becab9202658a228dc84dae08bf44a9537208ad28b5.jpg> 新記録 日ハムが開幕15試合犠打0
+      <a href=https://news.yahoo.co.jp/pickup/6535620>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e685a4f00963f20efdde35b942e3b1c6191dd620d4c0591954ae637c3828da3e.jpg> 「丸見え」子どもトイレ 設置背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/28155da7c10756b9f6d56c06794be467353c75bc87317ab772c8a47110bc838b.jpg> ミャクミャク記念硬貨 転売相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/723927e0610a0af2e5cc2c28fcff3ef0ced34c9fbb82876dccd9b5ec68030992.jpg> iPhone駆け込み出荷 3月に最高額
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 08:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 09:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
