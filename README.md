@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a17d04b07c3e5a97d45cd0fefddb6983.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ec8ae80ca45484402d84a8b1bb2e73b1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6678dfc5431113bd1e6598c3c892055602939a29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000056-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=830&ch=830&exp=10800&fmt=webp> 容疑者の男、2度目の鑑定留置　中学生殺傷　福岡地検支部
+      <a href=https://news.yahoo.co.jp/articles/a09a217bcc4467a9deb3595e5baea5b62ce3716c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-07230910-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> さいたま市・女子高校生殺人事件 “強い殺意”うかがえる谷内寛幸容疑者（24） 2人の接点はいまだわからず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab2381559f3164b226bce1b83b686ab33cea88a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958517-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=360&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 維新・前原氏「石破政権はダッチロール」補正予算見送りを痛烈批判　岩谷氏も「バラマキと見透かされた」
+      <a href=https://news.yahoo.co.jp/articles/0a901c40f3bfbe6ddb97186c88e9742e6a99a5ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1148&ch=1148&exp=10800&fmt=webp> 福岡・中3男女殺傷　容疑者2度目の鑑定留置開始 期間は3カ月間
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29bb6b6d78cab11b33e2139257b7e80ccfaebf32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050789-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> ブラジル・チリのパビリオンがオープン　開幕前に火災で３日遅れの開館　４カ国は未だ開館許可出ず
+      <a href=https://news.yahoo.co.jp/articles/248a659ea5c2a9dc57c7b5eb8e598622229f704f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00010002-proresut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=853&ch=853&exp=10800&fmt=webp> BUSHIが5月4日福岡大会をもって退団へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24a940552ee07cd4b6fb1260271709d17e72bffc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-10173970-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=972&ch=972&exp=10800&fmt=webp> さいたま市の女子高校生殺害 臓器に達するほど刺される
+      <a href=https://news.yahoo.co.jp/articles/e21201362be64df443aaad2172fd57d7df09342c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000043-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=587&ch=587&exp=10800&fmt=webp> チリとブラジルの万博パビリオンが3日遅れで開館　工事遅れや火災
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535658>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/200f5add2a584a6cd710b2f75a4ee397b7eb72092c9d9a0594c172d8e453b51d.jpg> 2軍落ちの坂本勇人 心境を明かす
+      <a href=https://news.yahoo.co.jp/pickup/6535668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/c02dc377b155903480d7b8be997d4988e4ddebdc8b6b9f0d36dd7045ea42b091.jpg> G阿部監督 魚雷バットで打撃練習
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535670>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ea3845e956ed699281a4dbebca12092850869f4a94567b7a7a24acd960ebda6d.jpg> MEGUMI 一目ぼれから2拠点生活
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/299f419a4b8c360f0591b927d1a2871837fe67cf1595cfa0ccbb2244d38d57ed.jpg> XGがトリ 米フェスで巨大コール
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 16:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 16:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
