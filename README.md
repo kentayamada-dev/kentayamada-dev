@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fb43046f35c8dd8dab0196ab9a672487.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ff7da22f7ab2ffd2ffc2ada310cfd234.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c05006078061a3d5618c1371c661dd42ecfdffa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 不動産事業の切り離し提案　米ファンド、フジHDに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c2165fae5fc925449572dd2872c030d80e10daf2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-21859339-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> “補正予算案”提出見送りへ、バラマキ批判で方針転換? 物価高対策どうなるの? 消費税減税は?【Nスタ解説】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3da0ecc7ab52e9e3a9ae45698be2ccc9349878ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000076-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=413&ch=413&exp=10800&fmt=webp> ホンダ、米国向け「シビック」を現地生産へ　国内工場から移管
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3c766b8d9b3d86b0bbbe4d9646523cf5bfaecae2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00010000-wordleafv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=448&ch=448&exp=10800&fmt=webp> 兵庫・斎藤知事　パワハラ研修4か月以上実施せず「年度内は多忙だった」
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5c0f0750cf9bde6a6db58afef90df8132fa6ca8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ファンド、SBI北尾氏ら提案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cbe78265aedf998d2cd8166b387f694592c34458>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-34161068-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=761&ch=761&exp=10800&fmt=webp> 瓜田純士、北九州中学生殺傷事件めぐり憤り「こんな法律がいつまでもまかり通るなら…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b18d1b305fabc74246beee7a0ab411df8da9462>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000064-mai-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=523&ch=523&exp=10800&fmt=webp> 現金給付見送りで政府調整　ガソリン補助金など経済対策策定へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f9f19573c5f3caebd45a00da3f01f63521107ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000210-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=734&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ブラジルとチリ、3日遅れで開館　大阪・関西万博、次々に来場者
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-34161068-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=761&ch=761&exp=10800&fmt=webp> 瓜田純士、北九州中学生殺傷事件めぐり憤り「こんな法律がいつまでもまかり通るなら…」
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/0159a672c8a0bdc88f70ab18728a4b8bf9b76eb5145be4be066d62a1df88bb4d.jpg> 経済悪化懸念 FRBに早期利下げ論
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535679>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/74148a6ee129c04b4393092137d8c7b43699de7f1bf7a2413bb25845e3fc58e5.jpg> 今年の訪日客 最速で1千万人突破
+      <a href=https://news.yahoo.co.jp/pickup/6535695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/7741268aed9d6e658d52c87d94bb0cb59205cb620270482210c30def6a47c470.jpg> 現金給付案の実施 政府見送り調整
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e51d065e465edd34bc95bd36ee9daa47039a2343df73caed5326c7fef7dbfeec.jpg> 卒業生らへ7億円訴訟 文科相静観
+      <a href=https://news.yahoo.co.jp/pickup/6535698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/6dd8b113a87c4c99cc5c603e0f9f7523e668c536f57f30f269ac9242c787b9dd.jpg> 高知にクジラ漂着 破裂する恐れも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/ebde1ab8e4aa1212c4c6900d34195524cd56147b12b4d0ea93a321abe0a31dc1.jpg> 3ミリ小さい新1万円札 本物だった
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535686>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/f3597a780acd776dde949367aeddf1984e86e84d36d55626533359cf04f343a9.jpg> 大場美奈 6人が出産立ち会い希望
+      <a href=https://news.yahoo.co.jp/pickup/6535690>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/9d17b4f0a6b40642ea099246635582180cb5cb1e39312aa57a95ed362d169eb4.jpg> 日本音楽を世界へ 機運高まる現場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/03a21e17e0fb000a8997bebdbc2c074829330d024051d949be73a1de2f97c2b7.jpg> 石橋貴明 セクハラ報道を巡り謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6535700>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/7861b91fd7d00093ee68e6de60817d3387c366799f3f5d63ef15b41c902e03ab.jpg> 石橋貴明が謝罪 がんの併発も公表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 20:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 21:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
