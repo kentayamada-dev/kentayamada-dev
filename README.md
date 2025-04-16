@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ec8ae80ca45484402d84a8b1bb2e73b1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4dcc5b6e0ae6abda3220a14fd19465af.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a09a217bcc4467a9deb3595e5baea5b62ce3716c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-07230910-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> さいたま市・女子高校生殺人事件 “強い殺意”うかがえる谷内寛幸容疑者（24） 2人の接点はいまだわからず
+      <a href=https://news.yahoo.co.jp/articles/fda847733ebccc7e36b8132fa3811709a2131d98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-05672472-fbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 【中学生2人殺傷】2度目の鑑定留置も3か月　検察「責任能力の有無や程度を慎重に判断する必要」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a901c40f3bfbe6ddb97186c88e9742e6a99a5ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1148&ch=1148&exp=10800&fmt=webp> 福岡・中3男女殺傷　容疑者2度目の鑑定留置開始 期間は3カ月間
+      <a href=https://news.yahoo.co.jp/articles/4e1e1194a591373092749584776c5f0a3e69eb1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-10174002-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=383&cy=0&cw=974&ch=974&exp=10800&fmt=webp> フジHD株主の米投資ファンド、北尾氏ら12人の取締役候補を提案
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535669>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/fd3a4b50d7af322dd1fb5566ad71ca2945d0bfe96d6d129dfd8d1e2936c197b1.jpg> 補正見送り調整 自民内に不満の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535665>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/9f09b64dd8d173d63146f2d13e2652f43a74f83220c9c027063d9fa7a519e963.jpg> 関税協議へ 赤沢氏「土俵」を探る
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535659>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e02d8f370a8b1538a0ad1cd9baa6dd8002b663c7ab6760b5372a6478138d8ae6.jpg> 15歳刺され死亡 帰宅時襲われたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/3e058d14d46d1df34d7c45d173e57c81bd08b5d107c5db37cbaa5ecd8f6be3ab.jpg> ガソリン補助金 17日から初の0円
+      <a href=https://news.yahoo.co.jp/pickup/6535666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/377bc7c6a685fbe785f0cdd23de14dce62f4a928df447934fe5b89d5fd4ad45e.jpg> ブルーインパルス再飛行 知事要請
       </a>
     </td>
   </tr>
@@ -434,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535655>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/4d099ec5ba9a4a01c735272686c3f867392446f6cbf1fc03862cf99b8d0ffd87.jpg> 初任給日本一PR市役所に応募殺到
+      <a href=https://news.yahoo.co.jp/pickup/6535661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/3e058d14d46d1df34d7c45d173e57c81bd08b5d107c5db37cbaa5ecd8f6be3ab.jpg> ガソリン補助金 17日から初の0円
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535668>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/c02dc377b155903480d7b8be997d4988e4ddebdc8b6b9f0d36dd7045ea42b091.jpg> G阿部監督 魚雷バットで打撃練習
+      <a href=https://news.yahoo.co.jp/pickup/6535676>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/53b72e563aad9ded185e02a1d66eeba8a68e7a42086c09cff1ec2845856493c9.jpg> ニデックのTOB強行「大変遺憾」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535662>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/44a83d179e7139dd30417d8962140d7955e1509aa6786d70f39a189acc8da2fe.jpg> 黒ひげ危機一発 飛んだら勝ちに
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/f63040675916240a07ca7bb614bf97662b95b2e5e7c286d53303aee745b8c630.jpg> 大倉忠義 報道陣の結婚祝福に笑顔
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 16:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 17:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
