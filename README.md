@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Y9Te6ilyKug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fff47cdc5b8948658557e2f2908573ae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/66ee2265ecb348060c553793b2480154.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd4205dc2a36968a9ddb6ec4b76c3443769d70e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958396-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ホワイトハウス報道官「15以上の取引」が具体的検討段階に…詳細不明も近く合意か　一時停止した相互関税めぐり　アメリカ
+      <a href=https://news.yahoo.co.jp/articles/009af9e1e793e4ffdef4e91e42192714311f7e47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-01733056-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、一瞬の動きに不安の声「大丈夫かよ」　LAメディア称賛も…裏で起きた指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7e55b10631d1a4d3e5a0a79f2a84f22db8cfb28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「ゆきぽよ」元所属事務所を告発　8千万円脱税疑い、東京国税局
+      <a href=https://news.yahoo.co.jp/articles/bd4205dc2a36968a9ddb6ec4b76c3443769d70e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00958396-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ホワイトハウス報道官「15以上の取引」が具体的検討段階に…詳細不明も近く合意か　一時停止した相互関税めぐり　アメリカ
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/e72670adddf9783d5965cc0fb351d1632583be7baa18325d8ccbadf2084922ed.jpg> バイデン氏 トランプ政権を批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535641>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/716aa17b13aed45ca0e2ef4dba9639bd5fb2ce760cb033f767fd8d3d9775f03d.jpg> 脱税疑い 芸能事務所と代表を告発
       </a>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535644>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/16/d8612c0c9d616a1680626a531ee696145c45103afdca55a2dae4236f0031f293.jpg> 大谷 メジャー通算150盗塁を達成
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/16 12:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/16 13:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
