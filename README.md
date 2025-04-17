@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5c59b3a22df2541e5fb3fad63f71e50.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/724a681bdbe5f3f13b145b9fca6d97fd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ccdfaf2a15439a52f5db0534c9d5b5a78e7df3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000174-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 石綿被害で国が逆転敗訴　「判例の理解不足」国の救済縮小を断罪　大阪高裁
+      <a href=https://news.yahoo.co.jp/articles/79f9a795223e6a8d78074dabc86534c361c6c69a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-34171819-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=100&cw=1014&ch=1014&exp=10800&fmt=webp> モー娘。北川莉央が活動休止「猛省し自身を見つめ直す期間」ネットに写真流出「軽率な行動」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/498271f6ab1a8a84e7b05c07087e2c2e3d2cf8fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000248-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ビル解体現場で女性死亡、大阪　有機溶剤吸ったか
+      <a href=https://news.yahoo.co.jp/articles/5b98cf3ca03fc8e675d50493512e1e30509d9885>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050160-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏と急きょ会談の赤沢氏「同席には『急げ』という思い込められている」…月内に２回目の日米協議へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44739714237d795b860317f9be234c48872a4a2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-07216535-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 日米関税協議に突然参加…「自分が主役」“トランプ流の交渉術”　赤沢大臣は自身を「格下」と表現
+      <a href=https://news.yahoo.co.jp/articles/14822ba94f7c051e77ba0c8a1d1262720dff829f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00959461-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=510&ch=510&exp=10800&fmt=webp> SNS「万博の大屋根リング歪んでる」実際は…協会担当者「元々そういう形」日本の伝統“貫工法”で耐震性も問題なし
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535797>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/75e6ef6b69ea3a2171a6192db9ff28f35517714d17b313ca5e3e7f6f238c3860.jpg> 石綿訴訟 高裁で原告が逆転勝訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/5040d746ac743b248b92e3acfbbeb929b6ba3196f0597189c351d97908bee52a.jpg> 増上寺の仏教聖典 世界の記憶に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535810>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/e52613a2b561fe3395200362e848b210e178e3471022518932e6d4a1212b076b.jpg> 1人死亡の解体現場 搬送2人も重傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2d872774c1a3db81022e4f10e26c6d2b379fa3d138884737ad5412bbee2756e4.jpg> 岡山の山中に24歳女性の遺体 捜査
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/58c56a3ba83039a484ad5e51faaf2aaccd53643f79996101b42429129756a71c.jpg> ヤクルト村上 復帰戦で緊急交代
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535809>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/dde3e654d75fb4653b18298fc9f8c45d62e522a6767926e40f1be67aa6dc56d8.jpg> 巨人が大敗 阿部監督は会見拒否
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535791>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/a62b6322fe5aaae7a038503ec8d3130b55abb2789beeb773057e6dac6153ddc3.jpg> 田中将大が大炎上 2回6失点KO
+      <a href=https://news.yahoo.co.jp/pickup/6535814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/4c0e7d2f54d81b415b1dd2649a1183465803d5dfaf1386b6c0191679f1ea9782.jpg> モー娘。北川莉央 活動休止を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 22:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 22:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
