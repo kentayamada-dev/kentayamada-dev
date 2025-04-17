@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GcgtTWUzhmg?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ca0de6ddadf759bfdb2a6204f26e4af4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0441a57c46443b81a1576adfaf3d2cae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/540d74f6b40792e32cedbc993510a05d0e344490>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180051-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=267&cw=935&ch=935&exp=10800&fmt=webp> 堀江貴文氏フジ再建へ名乗り「黒騎士だった」かつての白騎士SBI北尾吉孝氏「お手伝いできれば」
+      <a href=https://news.yahoo.co.jp/articles/542f4ac7ed896408957e3833f6921646e19365a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00052968-hankyoreh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=393&ch=393&exp=10800&fmt=webp> 「関税ショック」がより大きいのは中国人より米国人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/15a3a1c345b51e3441a3cf3c29363e753a6e5de9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180065-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=1356&ch=1356&exp=10800&fmt=webp> 堀江貴文氏「ガチャピン、ムック」再建に意欲　フジテレビ取締役候補SBI北尾吉孝と連携意向
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e7bcaa49dc178b1a8d472dad4cddd563a6288f7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-30807461-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> フジＨＤ投資が花開いた英投資会社、地銀や建設に勝機－米関税影響少
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83e6851fe8c33d8189467d044f5ead3e7a4fe4cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90022960-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 『日米関税交渉』開始　トランプ流ディールどう臨む？第1次政権の“交渉役”に聞く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ab7af4261cbdfa7de25c954d61504a55f3757767>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-01738239-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が海外ファンに愛される理由　ベンチで見せた“行動”「とてもキュート」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67bb20c531116820e32825f1be1ed88e8d1bf3e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00010001-ronspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=1694&ch=1694&exp=10800&fmt=webp> なぜ巨人のマー君は2回6失点と大炎上したのか…「横浜DeNAに狙われた変化球」…“宝刀”スプリットの投球配分が初勝利した中日戦の19％から33％にアップしていた
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/f0a8b37a89678152b865cfd75cfe6446893adca85403fb64c377a713b57afd64.jpg> J1&J2の13クラブ U-21参加検討
+      <a href=https://news.yahoo.co.jp/pickup/6535833>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/17deb19162559fc79cbd6e50331cfe957762940f85af639e968efa30df2b3976.jpg> ガソリン210円も なぜ全国最高値
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535828>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/504c6089f3bf1cbbc31776bf7b275a5eba5ac5322784cf847d16bff89dc37ded.jpg> フジ再建に参加 堀江氏も前向き?
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/4c0e7d2f54d81b415b1dd2649a1183465803d5dfaf1386b6c0191679f1ea9782.jpg> モー娘。北川莉央 活動休止を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 08:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 08:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
