@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/99bfd333c306d3ec0a258cda614612fa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eae0d9914f5c67252df8fa135a074e00.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6e566dd042da0df69ba5798f566b57a3d7c5256>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000063-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、赤沢大臣に改善「3本柱」要求　在日米軍の駐留経費など
+      <a href=https://news.yahoo.co.jp/articles/4f3f3d0d4a8265805681adba1bf673e127ab9f49>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000299-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジHDの金光会長　20年前はホワイトナイトのSBI北尾吉孝氏に「不祥事を起こして申し訳ない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13513532d6d8775aad7f515158a4bd432e1f41e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000281-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=920&ch=920&exp=10800&fmt=webp> 那須川天心がWBOアジア・パシフィック王座を返上「ベルトにあまり執着が無い」今秋にも世界初挑戦濃厚
+      <a href=https://news.yahoo.co.jp/articles/b6069321889cbf958e97c530d00b15c3c612064c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000104-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=928&ch=928&exp=10800&fmt=webp> 中谷防衛相、日米関税交渉「次につながる協議」　防衛負担の要求有無は明かさず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57200181ebafe7146c75c8a06ebf43d7b1e43e4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000053-ann-000-3-thumb.jpg?exp=10800&fmt=webp> フジ　投資ファンドの取締役候補の提案に「丁寧に耳を傾けることが必要」
+      <a href=https://news.yahoo.co.jp/articles/0ee9ee50076d36669709235c02d99b8f2bdc92a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-90018854-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=553&ch=553&exp=10800&fmt=webp> 「賠償求められなくなる期間は過ぎたか」争われたアスベスト被害巡る裁判　原告側が逆転勝訴　国の解釈否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/22e0c81cc1808d650b8ff104b2ff5d67cb0678a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-03474284-sdt-000-1-thumb.jpg?exp=10800&fmt=webp> 【ツガワの目】「every.しずおか」津川祥吾アンカーの目線で話題検証…第３回テーマ「減税は本当にできる？」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9eac84c847483de16410aedf197aeab0971360a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000043-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 屋外作業は国とメーカーの責任認めず　建設アスベストめぐり横浜地裁
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/3df7f3143060a7ef7045dcb8ce4c533fb3bfd8ce5978ac4ded89c9a63c5d3afc.jpg> 米大統領 赤沢氏に日米安保の不満
+      <a href=https://news.yahoo.co.jp/pickup/6535773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/42f0e0f10bcae989711e397b4881d99e901294db9235d0f0b0b2ccffc2413abc.jpg> 内閣不支持が初の5割超 時事調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/42f0e0f10bcae989711e397b4881d99e901294db9235d0f0b0b2ccffc2413abc.jpg> 内閣不支持が初の5割超 時事調査
+      <a href=https://news.yahoo.co.jp/pickup/6535783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/3410fe48fdc21da7c8bcea0c03d5b38b7bdbfff5587ab145a0ad4daac78de66d.jpg> 補正予算案見送る方向 玉木氏苦言
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2e1e0eacd7943c1cd5149ce2508ddc63aec1b8e9a8fb3b9e9e6dc26293ab1a9b.jpg> 季節外れ 週末都内で30℃近い予想
+      <a href=https://news.yahoo.co.jp/pickup/6535772>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/f4ba9dafdb131aa8558cbc484d785a8e88ad51fd654838e6cc87ffd2f3929948.jpg> 下請法違反 暖房コロナ社に勧告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535772>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/f4ba9dafdb131aa8558cbc484d785a8e88ad51fd654838e6cc87ffd2f3929948.jpg> 下請法違反 暖房コロナ社に勧告
+      <a href=https://news.yahoo.co.jp/pickup/6535781>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/a8b1f922cdcf6d467c139d17254b3abd23fd74d88e24fb20555c3a805917e135.jpg> 那須川天心 WBOアジア王座返上
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 17:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 18:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
