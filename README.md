@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5bab3f9fe5228d317ea2b0d483847bb6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8baca32260e2b84bf92db0bec7b3e6bb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc53e16548f08591468bd8b31aa1e9e8c7a27b83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「（私は）格下も格下、感謝している」赤沢大臣がトランプ大統領と会談　関税交渉　自動車関税や相互関税などの見直し求める　為替をめぐる議論行われず
+      <a href=https://news.yahoo.co.jp/articles/e1334e932c87f6dc7eef0081754c279a5460f509>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 来春のWBC参加を容認姿勢　ドジャース監督、先発投手は慎重
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/275ba03554a3bf8bb30b5b37dd50847936e6c7f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-90029714-nbnv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 路上に止められた車から遺体　24歳の男を逮捕　遺体は男の元交際相手(19)か　愛知・一宮市
+      <a href=https://news.yahoo.co.jp/articles/b082048ed0e2f81f430dd8f03801e8cf1ac6b913>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-09639544-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】首相「次に繋がる協議と評価」日米関税協議を受け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cad7004b9d57b7e5ef6e9b23d224dc1b92a8780>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00010001-minkabu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 不祥事がノンストップに出るわ出るわ！石橋貴明氏、青木実氏…フジテレビは本当に再発防止できるのか「栄華を誇っていたものは衰退していく」
+      <a href=https://news.yahoo.co.jp/articles/7f8361b488286a132376665857d93565da313ab5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> SBI会長、フジHDの経営巡り会見へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb512ef22dc7a976acd64691ed082bb7efdd9902>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000019-ann-000-7-thumb.jpg?exp=10800&fmt=webp> 愛知・一宮市で車に遺体　24歳の男を死体遺棄容疑で逮捕
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535726>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/eb27fc89c779d2c4c9bafb914a70a2f684c3c9be88ec20745cfa30d775f965d6.jpg> 赤沢氏と会談 トランプ氏「進展」
+      <a href=https://news.yahoo.co.jp/pickup/6535728>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/0ea11ea145497f44e4b14bca2907873ff1fca5f3c35d9cfd927a9c07f8acc237.jpg> 政府与党 一律の現金給付を断念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535728>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/0ea11ea145497f44e4b14bca2907873ff1fca5f3c35d9cfd927a9c07f8acc237.jpg> 政府与党 一律の現金給付を断念
+      <a href=https://news.yahoo.co.jp/pickup/6535739>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2232808aadc0fa2dc9d92a46649c3534c670297d54b02ccce17952a12d734c11.jpg> ロシア クルスク州前知事を逮捕
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535727>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/8b76eb4d27ebe9dcf5b3e5b43d7dd04371d539d769187cc050f2d322daa715a6.jpg> 「影響力ある100人」に真田広之ら
+      <a href=https://news.yahoo.co.jp/pickup/6535738>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/1c7c75641fe9fc1d0da13faa410ebb253d7ca0db4faf75670a11d33e1790ee0b.jpg> NHK川口クルド人特集 修正対応へ
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 10:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 10:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
