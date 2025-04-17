@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4139000980f9f527533f09881e543f5b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3d21df029969d29b05868d47ca081415.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24fed4998305b4b1903c70a4fa729f3834861236>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050118-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大谷翔平、ナ・リーグトップの６号特大本塁打…来年のＷＢＣ「選んでいただけるなら光栄なこと」
+      <a href=https://news.yahoo.co.jp/articles/89b86d4514d1abaec83c4737465228bc460b4665>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000060-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 銚子市でひき逃げ　70代男性が血を流し意識不明
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/555247d1b9de651b7cf20e538929c545a9e8bba0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000072-jij-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=650&ch=650&exp=10800&fmt=webp> 下請法違反、コロナ社に勧告　金型無償保管　公取委
+      <a href=https://news.yahoo.co.jp/articles/17f35a9a8a44ecba703081593371f4e1acd7fd60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00525878-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平137m衝撃弾は「デーゲームだったら場外」　ド軍指揮官が太鼓判「いつか打つと思うよ」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535766>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/d94dc19f7e223a5e2e6ff16f8cb9af38d0cd256c1c3242e4862fc6e828feb4cb.jpg> 基礎年金底上げ案削除 自民に異論
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535773>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/42f0e0f10bcae989711e397b4881d99e901294db9235d0f0b0b2ccffc2413abc.jpg> 内閣不支持が初の5割超 時事調査
       </a>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2d256093527b097a35a3fdc1e6d120f648640b532e4e6e3a775357d65d10fb19.jpg> 広島殺人事件 死亡男性は東京在住
+      <a href=https://news.yahoo.co.jp/pickup/6535772>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/f4ba9dafdb131aa8558cbc484d785a8e88ad51fd654838e6cc87ffd2f3929948.jpg> 下請法違反 暖房コロナ社に勧告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/ae727f1b9abbe251cef09b70d0a9cf511db684f9cb69d092954bc78dc9b6ad2a.jpg> 銚子市で男性死亡 ひき逃げか
+      <a href=https://news.yahoo.co.jp/pickup/6535777>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/8048d744f327c2e8fb8e9fccfe560f1fc1f5f6d36f08b197f0df10b851752ba1.jpg> 大谷が特大弾 監督は場外弾に期待
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/17a65047c397273dd4edd4f9e7a239989cb54bef68f9c17c01b9723e026b1485.jpg> 元ピスタチオ小澤 今は児童相談員
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 16:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 17:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
