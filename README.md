@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ab9b2bff323aea109d3655f4d1e6a401.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ca0de6ddadf759bfdb2a6204f26e4af4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83e6851fe8c33d8189467d044f5ead3e7a4fe4cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90022960-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 『日米関税交渉』開始　トランプ流ディールどう臨む？第1次政権の“交渉役”に聞く
+      <a href=https://news.yahoo.co.jp/articles/540d74f6b40792e32cedbc993510a05d0e344490>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180051-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=267&cw=935&ch=935&exp=10800&fmt=webp> 堀江貴文氏フジ再建へ名乗り「黒騎士だった」かつての白騎士SBI北尾吉孝氏「お手伝いできれば」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01b8c04d36025931f52c0a01f4b947414defab45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000001-moneypost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 【20年越しの戦い】フジテレビ“因縁の面々”SBI北尾吉孝会長、旧村上ファンド関係者も参戦…株主たちが狙う「経営陣刷新」の内幕
+      <a href=https://news.yahoo.co.jp/articles/3517882c46abd5ce9e63d24140568a9f2b29b745>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000005-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=374&ch=374&exp=10800&fmt=webp> トランプ氏「パウエルは『政治ゲーム』中…私が求めればすぐに『アウト』」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/83e6851fe8c33d8189467d044f5ead3e7a4fe4cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90022960-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 『日米関税交渉』開始　トランプ流ディールどう臨む？第1次政権の“交渉役”に聞く
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fd020f9cd9b84b9f8dc371e05a0ae087e0e8dc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00959540-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=464&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏がFRB議長解任を示唆　「行動が遅すぎる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/67bb20c531116820e32825f1be1ed88e8d1bf3e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00010001-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=1694&ch=1694&exp=10800&fmt=webp> なぜ巨人のマー君は2回6失点と大炎上したのか…「横浜DeNAに狙われた変化球」…“宝刀”スプリットの投球配分が初勝利した中日戦の19％から33％にアップしていた
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00010001-ronspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=1694&ch=1694&exp=10800&fmt=webp> なぜ巨人のマー君は2回6失点と大炎上したのか…「横浜DeNAに狙われた変化球」…“宝刀”スプリットの投球配分が初勝利した中日戦の19％から33％にアップしていた
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535819>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/f667006cc5446f4d27c6e12e722e56636fd37cf59a08329dd8eabad9c3b873d4.jpg> トランプ氏 日米会談は「生産的」
+      <a href=https://news.yahoo.co.jp/pickup/6535826>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/cc1521bae5bed8369db6dfc8e3b47f6378303a8a8d1beac8f5022321cb7c9e4b.jpg> 日米交渉は「参考書」か 各国注目
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535820>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/bc904c918632ae8ab5980828bb378a2b307119842d7851a4a5ce4e12082b379f.jpg> 田中将大 2軍調整後に5月登板へ
+      <a href=https://news.yahoo.co.jp/pickup/6535827>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/44de374e949b3d47ab5a7573aafb6ec6a5792b028247ec59b4557a28cb18083d.jpg> 田中将大 なぜ2回6失点の大炎上
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 07:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 08:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
