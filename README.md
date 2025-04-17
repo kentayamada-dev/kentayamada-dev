@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GcgtTWUzhmg?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/958da3451d61a140770ae6379f7a2ed5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c6b55e9a811f82d8a317b379262452ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22084c503cc9cb93e3152fc3acb321cc0515d786>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-10174150-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=952&ch=952&exp=10800&fmt=webp> フジテレビの“元ホワイトナイト”SBI北尾氏「もし敵対するとしたら、私も徹底的に勝負する」「5％ぐらい買うのはわけないこと」会見で大胆発言を連発
+      <a href=https://news.yahoo.co.jp/articles/d6576bb445437b8729c8a0375be9bea9e7a7daa8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04171133-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=26&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の特大弾は「昼間や夏場だったら場外に」　ロバーツ監督も仰天　リーグ最多タイ６号先頭打者弾
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90e649c7473056af882906814929201203aa66d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-34170596-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 大谷翔平、WBCへ「選んで頂ければ光栄」米国ジャッジに「これまでも素晴らしい選手出てる」
+      <a href=https://news.yahoo.co.jp/articles/ea91bf1f5a4cbfa1b9dabe16da8b899c4c0d417c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000229-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=881&ch=881&exp=10800&fmt=webp> SBI北尾吉孝氏　「本業はなんだ」フジHDの不動産事業依存をバッサリ「放送機関として間違い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fe0f4eedcb88f5468b943e65d8e5f2185313de3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 広島の森林公園死亡は東京都の52歳男性
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9eac84c847483de16410aedf197aeab0971360a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000043-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 屋外作業は国とメーカーの責任認めず　建設アスベストめぐり横浜地裁
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca2a5aab3aef9f8d6d15e00b637379f9e3463f47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000041-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、日米安保は「不公平」と不満表明　関税協議で赤沢大臣に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2e5deb0ef84ba77b801b864820d66bebd00eac1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 起算点は「行政が健康被害認めた時」と高裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/150c581aabccdfeb6a458bb55c4729530b6a1008>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-10174137-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=606&ch=606&exp=10800&fmt=webp> 年金制度改革めぐり 国民年金“底上げ” 法案から削除へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000041-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、日米安保は「不公平」と不満表明　関税協議で赤沢大臣に
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/92c3abc818a63e283ba74e68b137de03539d81113e48289a01e50855d62ad598.jpg> 日本が最優先 協議巡りトランプ氏
+      <a href=https://news.yahoo.co.jp/pickup/6535767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/3df7f3143060a7ef7045dcb8ce4c533fb3bfd8ce5978ac4ded89c9a63c5d3afc.jpg> 米大統領 赤沢氏に日米安保の不満
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535763>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/863d6b02f284f95879d505803194738296eb826836e4291520f1e5137489cd30.jpg> 福島第1デブリ ロボットがつかむ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535756>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/bb600a1ac8a08cac041988fb37c7f056c1ae55ce1b9b8fd10586323db351c207.jpg> 現金給付を断念 想定以上の批判
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2d256093527b097a35a3fdc1e6d120f648640b532e4e6e3a775357d65d10fb19.jpg> 広島殺人事件 死亡男性は東京在住
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535759>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/d757975937e8796257b8d66f4d713a5304198ca586f90831a34c4ead64345ce8.jpg> 住所誤り救急隊遅れ 通報者は死亡
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535764>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/1191cbb4d1ca1efa2fd15214e292c422ae581e5adb6edcc75ca5fe1b3a47187a.jpg> 侍J 韓国代表と初の強化試合決定
+      <a href=https://news.yahoo.co.jp/pickup/6535746>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/1c704603266991d81abab24f84914ef3ac368d3c4fb5eda640c329c0f785098c.jpg> 情報公開請求者の情報探る 市謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 15:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 15:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
