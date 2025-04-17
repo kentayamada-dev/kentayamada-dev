@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9530941b7f061c323c56f9db9faa3349.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f191e27af35687516e1b995ccba2491c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8fbbdeb791b52d882ab7ae27603cbe82e52cec5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000091-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=377&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 石破首相「次につながる協議」　トランプ氏との会談に意欲
+      <a href=https://news.yahoo.co.jp/articles/0ddac022697795e97bfea76d30653d15e51f522e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00525918-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、特大130m先頭弾に敵地は意気消沈「もう少しで場外」　放送席落胆「もう同点です」合計7失点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9e4c76415fcc0cfd8327853d5565364ccadd2354>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000031-ann-000-3-thumb.jpg?exp=10800&fmt=webp> “関税交渉”赤沢大臣 トランプ大統領とも会談「見直しを強く申し入れた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1be38441572ada631e9df20818310e420d1325f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000046-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> SBI北尾氏が会見へ　フジHD改革で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d978dd73785fb04293df2b0c825bca09a6ddcf91>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050052-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ＪＲ九州、旅客船クイーンビートルを韓国企業に売却…浸水隠蔽で事業撤退
       </a>
     </td>
   </tr>
@@ -371,30 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffcb12afe620e779fc7774065a7c73736866fe06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000040-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=532&ch=532&exp=10800&fmt=webp> 情報公開担当の元室長　請求者の個人情報を違法収集　名古屋市が処分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/187be3b780076a561a3cb4a6ae2c7c8c7891dffb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> SBI北尾氏が午後記者会見　フジHD経営巡り見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1334e932c87f6dc7eef0081754c279a5460f509>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000076-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=361&cy=0&cw=1759&ch=1759&exp=10800&fmt=webp> 来春のWBC参加を容認姿勢　ドジャース監督、先発投手は慎重
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535742>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/da4654cb86cec6b858aad2ec1ac852efa6e0d2ec10d00dea48bb5af9fa300799.jpg> 関税交渉「次につながる」と首相
+      <a href=https://news.yahoo.co.jp/pickup/6535753>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/92c3abc818a63e283ba74e68b137de03539d81113e48289a01e50855d62ad598.jpg> 日本が最優先 協議巡りトランプ氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/74665603aa397d4b299325a51cd4387157e31e0dbd1cdcc71da69b556b14a27f.jpg> 日米「早期合意を目指す」で一致
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535739>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2232808aadc0fa2dc9d92a46649c3534c670297d54b02ccce17952a12d734c11.jpg> ロシア クルスク州前知事を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6535743>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/0a857fc79a8c3b339787f9978b6c512b30b2c0456777acb3c926fa74cfa3e17d.jpg> 「露が合意違反30回超」ウが非難
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/da56c9cf665a0572b69db883eb3e28ae4bff93b7a268922ab81234905a3078d6.jpg> 大谷翔平が6号 特大130mアーチ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535741>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/31683faee08b77c74035b0d081cfd57f2d2754049dc7e8461a954b2f11f5110e.jpg> キンタロー。家事で夫と折り合い
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 11:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 12:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
