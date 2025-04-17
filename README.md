@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fdbed42749c7aacf53d53f86cfa0edc3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fc4500aa486eda7075c34185fd0a781e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42fadfa4412c943b34957f541dc5f3b692eb98ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000000-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1381&ch=1381&exp=10800&fmt=webp> 大谷翔平　ナックルカーブを本塁打「どんなボールでもコンタクトして長打にできるんじゃないかな」【一問一答】
+      <a href=https://news.yahoo.co.jp/articles/a611a17e0034d1beefa429271aea389fafe16dee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領　FRBパウエル議長に不満、早期利下げを要求
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4a0cf713684c649bdaaef05f0637b18833845c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000097-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 山中に24歳女性の遺体　「当て逃げされた」110番時に争う声？
+      <a href=https://news.yahoo.co.jp/articles/42fadfa4412c943b34957f541dc5f3b692eb98ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000000-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1381&ch=1381&exp=10800&fmt=webp> 大谷翔平　ナックルカーブを本塁打「どんなボールでもコンタクトして長打にできるんじゃないかな」【一問一答】
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535817>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 採用難で初任給↑の市も 今後は
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02174757/title-1744880280595.jpeg?exp=10800> 採用難で初任給↑の市も 今後は
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 04:00:09 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 04:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
