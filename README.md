@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8be7b425053779143edffab964e81fe6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/55219b7b6c824d2c1373bd1f4cb94cbd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2ba92781e4abced86ae4a54864d455e972ff0b20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-04171303-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ新取締役候補・北尾吉孝氏、敵対なら「徹底的に勝負」　２０年前ライブドア買収騒動では救世主も「判断外れていた」
+      <a href=https://news.yahoo.co.jp/articles/871a7911fc32f272dfd4662fcec5cb534529301e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-07231284-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> フジ側発表の人事案は「不十分」 米投資ファンド提案の新取締役候補・SBI北尾吉孝社長が批判　人事案の再検討迫る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ee6449820832c75d12151b296376170e4674d53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-10174259-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 何かおかしい… 大谷翔平、超特大アーチで“目を疑う光景”「消えた？」「飛ばしすぎ」 とんでもない飛距離にファン騒然「大谷さんらしいホームラン」
+      <a href=https://news.yahoo.co.jp/articles/5ea8bf6c58b65d4b6da176757fdce5a8c0dafdad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-01738217-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平6号の裏で…「宣伝効果ヤバくないか」　“粋な演出”にファン興奮「初めて知った」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2f85010938fce336421af056261869230b687e9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> FRB議長、求めれば辞任　「彼に不満」　トランプ米大統領
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e273c75a0093c1a9bdb75c86db619a4e5fe035b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領「日本側との協議は生産的だった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29b3fee6b3274fa21222432e3a6b68e4bd4f9bba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000047-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=800&ch=800&exp=10800&fmt=webp> DeNA・牧　志願の今季初4番で初回に巨人・マー君撃ちV撃！2回にはKO打
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-02738888-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「日本側との協議は生産的だった」
       </a>
     </td>
   </tr>
@@ -395,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535819>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/eb97542c11d5a89c1846ce5229057e1941b03e9f6538d4bcdf0a6fb2a5359436.jpg> トランプ氏 日米会談は「生産的」
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/f667006cc5446f4d27c6e12e722e56636fd37cf59a08329dd8eabad9c3b873d4.jpg> トランプ氏 日米会談は「生産的」
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535812>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/9de8c929dba1d4abe3f4fea0f950282abdf5deadb7bdd18a4a4a33c2b0ba99a9.jpg> 欧州中銀 6会合連続で0.25%利下げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535815>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2d872774c1a3db81022e4f10e26c6d2b379fa3d138884737ad5412bbee2756e4.jpg> 岡山の山中に24歳女性の遺体 捜査
       </a>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535817>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02174757/title-1744880280595.jpeg?exp=10800> 採用難で初任給↑の市も 今後は
+      <a href=https://news.yahoo.co.jp/pickup/6535821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/14f0a49f02de8304dfdfc1127fa3c7817bca958c308f94c96f2e7283c39613b5.jpg> メーカー社員 無資格でX線照射
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535818>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/512f368e0709bfa1557ebdf85db319c5b7c32341f330524c883d90f5754dfc87.jpg> 2回KOの田中将大「迷惑かけた」
+      <a href=https://news.yahoo.co.jp/pickup/6535822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/de8e0c6a07f86391e1f9c24a1b231286a6df24e6fafcd5c9d8ce10f8a03eb45e.jpg> 有楽町線延伸 東武線と直通運転へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535820>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/bc904c918632ae8ab5980828bb378a2b307119842d7851a4a5ce4e12082b379f.jpg> 田中将大 2軍調整後に5月登板へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 06:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 06:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
