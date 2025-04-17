@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GcgtTWUzhmg?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/201cdb44dcdb6019f9ad79d702f104b9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/958da3451d61a140770ae6379f7a2ed5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc0b0e3a20a5a9eba90f41f5a08192b3c6389603>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000207-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=456&ch=456&exp=10800&fmt=webp> WBC日韓両監督、ロバーツ監督に感謝「ありがたい」「非常にうれしい」　最強チーム編成に追い風
+      <a href=https://news.yahoo.co.jp/articles/22084c503cc9cb93e3152fc3acb321cc0515d786>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-10174150-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=952&ch=952&exp=10800&fmt=webp> フジテレビの“元ホワイトナイト”SBI北尾氏「もし敵対するとしたら、私も徹底的に勝負する」「5％ぐらい買うのはわけないこと」会見で大胆発言を連発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/330ec7ca2780bba0035cd831e33e745da8b6b8d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000426-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=742&ch=742&exp=10800&fmt=webp> SBI北尾吉孝氏、40年以上続いた“日枝体制”に言及「価値とか使命が消失」　フジ再建に向け「新たな企業文化を創造する」
+      <a href=https://news.yahoo.co.jp/articles/90e649c7473056af882906814929201203aa66d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-34170596-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 大谷翔平、WBCへ「選んで頂ければ光栄」米国ジャッジに「これまでも素晴らしい選手出てる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fc81b3ae6b95abf460dd67b7f128d9d9c9806b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000202-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=887&ch=887&exp=10800&fmt=webp> 「いいスイングだった」大谷翔平　今季初の先頭打者アーチに納得顔
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3fa452f8a54fa4eebb7541d12c8126e95ec1045>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00959127-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=395&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【日米交渉】赤沢大臣「可能な限り早期の合意を目指す」“異例中の異例”急きょトランプ大統領出席の意図は?次回協議は今月中
+      <a href=https://news.yahoo.co.jp/articles/ca2a5aab3aef9f8d6d15e00b637379f9e3463f47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000041-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、日米安保は「不公平」と不満表明　関税協議で赤沢大臣に
       </a>
     </td>
   </tr>
@@ -391,6 +383,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f2e5deb0ef84ba77b801b864820d66bebd00eac1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 起算点は「行政が健康被害認めた時」と高裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/150c581aabccdfeb6a458bb55c4729530b6a1008>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-10174137-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=606&ch=606&exp=10800&fmt=webp> 年金制度改革めぐり 国民年金“底上げ” 法案から削除へ
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/28685d34a971f0683e4bed8a0574a9467c6607c334e6defaab92bf2190741dab.jpg> 千葉県提供のフジ番組 当面休止
+      <a href=https://news.yahoo.co.jp/pickup/6535764>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/1191cbb4d1ca1efa2fd15214e292c422ae581e5adb6edcc75ca5fe1b3a47187a.jpg> 侍J 韓国代表と初の強化試合決定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 14:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 15:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
