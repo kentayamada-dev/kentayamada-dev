@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GcgtTWUzhmg?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/724a681bdbe5f3f13b145b9fca6d97fd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fc83c2b95d0fa3c0e22a12b1776e4d63.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/79f9a795223e6a8d78074dabc86534c361c6c69a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-34171819-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=100&cw=1014&ch=1014&exp=10800&fmt=webp> モー娘。北川莉央が活動休止「猛省し自身を見つめ直す期間」ネットに写真流出「軽率な行動」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-34171819-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=100&cw=1014&ch=1014&exp=10800&fmt=webp> モー娘。北川莉央が活動休止「猛省し自身を見つめ直す期間」ネットに写真流出「軽率な行動」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5b98cf3ca03fc8e675d50493512e1e30509d9885>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050160-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏と急きょ会談の赤沢氏「同席には『急げ』という思い込められている」…月内に２回目の日米協議へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050160-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏と急きょ会談の赤沢氏「同席には『急げ』という思い込められている」…月内に２回目の日米協議へ
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535796>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 24年度の対米輸出額 過去最高に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535806>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/75a1c06e2a14561834ef7b1fc3cc8ac1beb9020f29605ec2a9c995bb4c03a547.jpg> 日産取締役 仏ルノー会長ら退任へ
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/15ac76c66e4ccb729c4b896821a0f1b2efa7a03b0c888eb2178a2d7ed1146e5b.jpg> 日本の女性やせすぎ? 学会が警鐘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535811>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/58c56a3ba83039a484ad5e51faaf2aaccd53643f79996101b42429129756a71c.jpg> ヤクルト村上 復帰戦で緊急交代
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 22:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 23:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
