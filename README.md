@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2115c0e9f5b310c8b6aaa4c13fb9ec22.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dc6e452859bd4a711fc153c37ddc09d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/42fadfa4412c943b34957f541dc5f3b692eb98ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1381&ch=1381&exp=10800&fmt=webp> 大谷翔平　ナックルカーブを本塁打「どんなボールでもコンタクトして長打にできるんじゃないかな」【一問一答】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000000-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1381&ch=1381&exp=10800&fmt=webp> 大谷翔平　ナックルカーブを本塁打「どんなボールでもコンタクトして長打にできるんじゃないかな」【一問一答】
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b98cf3ca03fc8e675d50493512e1e30509d9885>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050160-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏と急きょ会談の赤沢氏「同席には『急げ』という思い込められている」…月内に２回目の日米協議へ
+      <a href=https://news.yahoo.co.jp/articles/8e772b2b8f2f1e1a47f44eb3dc00c7212192e507>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-07231263-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏　赤沢大臣との会談「とても生産的」　中国からの接触に改めて期待示す
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 02:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 03:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
