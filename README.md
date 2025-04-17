@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f191e27af35687516e1b995ccba2491c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd40e6660c7cb5244a4d664557d66bb3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ddac022697795e97bfea76d30653d15e51f522e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00525918-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、特大130m先頭弾に敵地は意気消沈「もう少しで場外」　放送席落胆「もう同点です」合計7失点
+      <a href=https://news.yahoo.co.jp/articles/c02a266e0c7bf639dcdd84b0df6775bd76d38e53>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04171079-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=77&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平のホームランボールを１５歳のラッキーガールがキャッチ　ディズニーランド行きの予定変更が吉
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e4c76415fcc0cfd8327853d5565364ccadd2354>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000031-ann-000-3-thumb.jpg?exp=10800&fmt=webp> “関税交渉”赤沢大臣 トランプ大統領とも会談「見直しを強く申し入れた」
+      <a href=https://news.yahoo.co.jp/articles/6b2ac72ea2228fb2d271435d06b7751bda76f4cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-02123578-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> さいたま女子高校生殺害　男の部屋から包丁押収
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1be38441572ada631e9df20818310e420d1325f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000046-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> SBI北尾氏が会見へ　フジHD改革で
+      <a href=https://news.yahoo.co.jp/articles/19be58862f403b75a2a79a7555f9c47f8103401c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-07758166-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢大臣とトランプ大統領の会談…石破首相「次につながる協議」　トップ会談に意欲も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d978dd73785fb04293df2b0c825bca09a6ddcf91>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050052-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ＪＲ九州、旅客船クイーンビートルを韓国企業に売却…浸水隠蔽で事業撤退
+      <a href=https://news.yahoo.co.jp/articles/f0baceaea24dd241b084130abb16bf8f3cf49fc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000157-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 玉川徹氏「TBSの経営者とか震え上がるのではないですか」フジHDの大株主ダルトン提案書の内容に
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535754>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/9e2eab50e1a9c907522f68b0ef458128aa9b43870371bfcbc523e12bcc9e13b3.jpg> 高1殺害 男の部屋から刃物2本押収
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535745>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/a7f062c5b649fecec0ab9744c22cb44fb94db4bba30674ec97063d9f441b08be.jpg> 普通第二種免許 3日で取得可能に
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535738>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/1c7c75641fe9fc1d0da13faa410ebb253d7ca0db4faf75670a11d33e1790ee0b.jpg> NHK川口クルド人特集 修正対応へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535748>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/89d0b6d538f57de8a7f69d79877d146f05df3cc295b0e515719864e318577a8b.jpg> 竹のハチク 全国で一斉に枯れる
       </a>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/da56c9cf665a0572b69db883eb3e28ae4bff93b7a268922ab81234905a3078d6.jpg> 大谷翔平が6号 特大130mアーチ
+      <a href=https://news.yahoo.co.jp/pickup/6535751>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/d8eaf72f7080caddd00cfa69780abaa0eec1e59b2c5c1abd3c07a949eb3932cb.jpg> 高コスパ「居酒屋ずし」人気背景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/31683faee08b77c74035b0d081cfd57f2d2754049dc7e8461a954b2f11f5110e.jpg> キンタロー。家事で夫と折り合い
+      <a href=https://news.yahoo.co.jp/pickup/6535755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/da56c9cf665a0572b69db883eb3e28ae4bff93b7a268922ab81234905a3078d6.jpg> 大谷翔平が6号 特大137mアーチ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 12:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 12:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
