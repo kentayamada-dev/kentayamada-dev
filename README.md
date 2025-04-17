@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Y9Te6ilyKug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GcgtTWUzhmg?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e7dc4cba014f33760922a62cf6aebc6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5bab3f9fe5228d317ea2b0d483847bb6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5893ee52776ed6574c4f54f0ede5dac63f887b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050036-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=335&ch=335&exp=10800&fmt=webp> 路上の車に性別不明遺体、愛知県警が２４歳の男を死体遺棄容疑で逮捕…被害者は岐阜県羽島市の１９歳女性か
+      <a href=https://news.yahoo.co.jp/articles/cc53e16548f08591468bd8b31aa1e9e8c7a27b83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「（私は）格下も格下、感謝している」赤沢大臣がトランプ大統領と会談　関税交渉　自動車関税や相互関税などの見直し求める　為替をめぐる議論行われず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40dbec3884374d89d71ea9948fd65119dccbc55e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-07352244-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】赤沢経済再生担当相、トランプ大統領と協議　関税措置見直し強く求める
+      <a href=https://news.yahoo.co.jp/articles/275ba03554a3bf8bb30b5b37dd50847936e6c7f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-90029714-nbnv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 路上に止められた車から遺体　24歳の男を逮捕　遺体は男の元交際相手(19)か　愛知・一宮市
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c129cb7a8245080cc59b6d82ceb7e4235607803a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00010003-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 西武ネビンが来日1号弾、菅井信也が2勝目｜オリックス×西武｜プロ野球結果
+      <a href=https://news.yahoo.co.jp/articles/b5d355903499a9e3527b51e363fd271a13a9b628>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04161314-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=1084&ch=1084&exp=10800&fmt=webp> 「え、ほんまに？」西武・西口監督も驚きの３６９日ぶり３位浮上　新助っ人来日１号が後押し
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/42e75aa69d43e5b2c090ee61c7be1ca60643c54bd7b497116762bb6a14545154.jpg> 男を遺棄疑いで逮捕 遺体は19歳か
+      <a href=https://news.yahoo.co.jp/pickup/6535737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/42e75aa69d43e5b2c090ee61c7be1ca60643c54bd7b497116762bb6a14545154.jpg> 遺棄疑いで男を逮捕 遺体は19歳か
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535721>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/a22406dc5c1eae2f1c73f0cf4c8c24009ffc445d0444611aa1fff596f7dd7d5f.jpg> ブルーインパルス 万博に再派遣へ
+      <a href=https://news.yahoo.co.jp/pickup/6535727>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/8b76eb4d27ebe9dcf5b3e5b43d7dd04371d539d769187cc050f2d322daa715a6.jpg> 「影響力ある100人」に真田広之ら
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 09:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 10:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
