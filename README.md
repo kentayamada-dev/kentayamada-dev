@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/55219b7b6c824d2c1373bd1f4cb94cbd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bd3ed740521fffb47a3510fbdeb0f168.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c66d9fa4e483af0d1d39e8605027d828945d1f80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=380&ch=380&exp=10800&fmt=webp> 米日関税交渉で防衛費に言及したトランプ氏…虚を突かれた日本「今月中に協議再開」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/810b8902141ae8582edd12977970a6ae6a0b9204>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00050021-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏「今すぐにでも利下げすべきだ」…パウエルＦＲＢ議長に「一刻も早く解任されるべきだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/871a7911fc32f272dfd4662fcec5cb534529301e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-07231284-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> フジ側発表の人事案は「不十分」 米投資ファンド提案の新取締役候補・SBI北尾吉孝社長が批判　人事案の再検討迫る
       </a>
@@ -365,24 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f85a2076a3dd64fed5d2e64394dd95ea6704b2b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00959531-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 腐敗遺体は20歳前後の女性　容疑者は交際相手殺害ほのめかす　愛知・一宮市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ea8bf6c58b65d4b6da176757fdce5a8c0dafdad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-01738217-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平6号の裏で…「宣伝効果ヤバくないか」　“粋な演出”にファン興奮「初めて知った」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f85010938fce336421af056261869230b687e9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> FRB議長、求めれば辞任　「彼に不満」　トランプ米大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e273c75a0093c1a9bdb75c86db619a4e5fe035b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-02738888-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「日本側との協議は生産的だった」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-01738217-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平6号の裏で…「宣伝効果ヤバくないか」　“粋な演出”にファン興奮「初めて知った」
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535816>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/504943dd03f51c24a7a2df98b4d7c6267d75770ac33bc624d7c6baed5599bd43.jpg> 関税巡る日米協議 企業はどうみた
+      <a href=https://news.yahoo.co.jp/pickup/6535815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2d872774c1a3db81022e4f10e26c6d2b379fa3d138884737ad5412bbee2756e4.jpg> 岡山の山中に24歳女性の遺体 捜査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535815>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2d872774c1a3db81022e4f10e26c6d2b379fa3d138884737ad5412bbee2756e4.jpg> 岡山の山中に24歳女性の遺体 捜査
+      <a href=https://news.yahoo.co.jp/pickup/6535823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/ff56f9b07a7c885469dab2c0d4e6a54a9c5226f561b6923382b7f8a4cc7d8780.jpg> 不明19歳女性 交際巡り警察に相談
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 06:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 07:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
