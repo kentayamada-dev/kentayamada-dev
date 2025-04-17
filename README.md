@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/823bb7fe6ca95c6cd6f7a32d1b78e37b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/36e815341e8855098dd7fc10479b74cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5b98cf3ca03fc8e675d50493512e1e30509d9885>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050160-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏と急きょ会談の赤沢氏「同席には『急げ』という思い込められている」…月内に２回目の日米協議へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050160-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏と急きょ会談の赤沢氏「同席には『急げ』という思い込められている」…月内に２回目の日米協議へ
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ccdfaf2a15439a52f5db0534c9d5b5a78e7df3e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000174-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 石綿被害で国が逆転敗訴　「判例の理解不足」国の救済縮小を断罪　大阪高裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a85976fc563b15b7098578b69daa05c14afecff8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000083-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=426&ch=426&exp=10800&fmt=webp> フジHDの金光社長、SBI北尾氏の発言に「敵対の立場ではなく…」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 00:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 01:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
