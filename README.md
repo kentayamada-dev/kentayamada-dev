@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d5b315a0666c3ca76f92af68dad881c9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e7dc4cba014f33760922a62cf6aebc6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/764243df844126c4aa5e3fead6df50795c944a15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04171041-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=763&ch=763&exp=10800&fmt=webp> 「ちゃんと視聴率順に並べている」…フジＨＤへのダルトン社「株主提案書」に玉川徹氏「モーニングショー」が見解「テレビの世界…よくわかっている」
+      <a href=https://news.yahoo.co.jp/articles/f5893ee52776ed6574c4f54f0ede5dac63f887b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050036-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=335&ch=335&exp=10800&fmt=webp> 路上の車に性別不明遺体、愛知県警が２４歳の男を死体遺棄容疑で逮捕…被害者は岐阜県羽島市の１９歳女性か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cdb335a89819c5a2cac6e21bdaf4173217ade2e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250416-00050200-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=288&ch=288&exp=10800&fmt=webp> 参院選の秘策、わずか１週間でしぼむ…一律現金給付に想定以上の「バラマキ」批判
+      <a href=https://news.yahoo.co.jp/articles/40dbec3884374d89d71ea9948fd65119dccbc55e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-07352244-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】赤沢経済再生担当相、トランプ大統領と協議　関税措置見直し強く求める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9779e6c8afebc090ae77bd89852053f7406f243e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-10174083-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=399&cy=0&cw=818&ch=818&exp=10800&fmt=webp> 関税めぐる日米初交渉前に トランプ大統領と赤沢大臣が会談
+      <a href=https://news.yahoo.co.jp/articles/1cad7004b9d57b7e5ef6e9b23d224dc1b92a8780>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00010001-minkabu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 不祥事がノンストップに出るわ出るわ！石橋貴明氏、青木実氏…フジテレビは本当に再発防止できるのか「栄華を誇っていたものは衰退していく」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5d355903499a9e3527b51e363fd271a13a9b628>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04161314-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=1084&ch=1084&exp=10800&fmt=webp> 「え、ほんまに？」西武・西口監督も驚きの３６９日ぶり３位浮上　新助っ人来日１号が後押し
+      <a href=https://news.yahoo.co.jp/articles/c129cb7a8245080cc59b6d82ceb7e4235607803a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00010003-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 西武ネビンが来日1号弾、菅井信也が2勝目｜オリックス×西武｜プロ野球結果
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535725>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/4aab74b0abe4aed5ce8877bbefa5d991fd5d39ea544f2cfb31913aa541f110b9.jpg> 日米関税交渉 ワシントンで始まる
+      <a href=https://news.yahoo.co.jp/pickup/6535736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/74665603aa397d4b299325a51cd4387157e31e0dbd1cdcc71da69b556b14a27f.jpg> 日米「早期合意を目指す」で一致
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535718>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/3a3d4cd8b911116063693c9517203416fb771485d13440888a124e17394fdf27.jpg> 都内高級ホテル 価格カルテルか
+      <a href=https://news.yahoo.co.jp/pickup/6535733>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/42e75aa69d43e5b2c090ee61c7be1ca60643c54bd7b497116762bb6a14545154.jpg> 男を遺棄疑いで逮捕 遺体は19歳か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/b589bfb8aee969e9ff816c06cb8fcf45d07f711636bf20dce194bf35dc9e8454.jpg> 車から遺体 行方不明の19歳女性か
+      <a href=https://news.yahoo.co.jp/pickup/6535731>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/281c298a11d7afa6bc1c67dde76b2aa0c3ebb644b1804cdbb576bd9b7d7501d6.jpg> リングにゆがみ 万博巡りデマ拡散
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 09:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 09:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
