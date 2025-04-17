@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3d21df029969d29b05868d47ca081415.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99bfd333c306d3ec0a258cda614612fa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89b86d4514d1abaec83c4737465228bc460b4665>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000060-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 銚子市でひき逃げ　70代男性が血を流し意識不明
+      <a href=https://news.yahoo.co.jp/articles/f6e566dd042da0df69ba5798f566b57a3d7c5256>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000063-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、赤沢大臣に改善「3本柱」要求　在日米軍の駐留経費など
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/13513532d6d8775aad7f515158a4bd432e1f41e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000281-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=920&ch=920&exp=10800&fmt=webp> 那須川天心がWBOアジア・パシフィック王座を返上「ベルトにあまり執着が無い」今秋にも世界初挑戦濃厚
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca2a5aab3aef9f8d6d15e00b637379f9e3463f47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000041-asahi-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、日米安保は「不公平」と不満表明　関税協議で赤沢大臣に
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535780>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/f90f9e087513f713b22b71d34368f6510007339fa080697302be32a19a618b76.jpg> 備蓄米「すぐ品切れ」小売り混乱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535771>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/0b1806ce57061581e84f52cfe5eae71c5fa9357a980c1073cf30ad9e4b0c12ed.jpg> フジ巡りSBI北尾氏 敵対なら勝負
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535760>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/633bb658c43131a024bfb530107c1e249b3b0f90361ad3579bbfbf0b7679c2dd.jpg> 中国で日本人親子ら襲撃 死刑執行
+      <a href=https://news.yahoo.co.jp/pickup/6535779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2e1e0eacd7943c1cd5149ce2508ddc63aec1b8e9a8fb3b9e9e6dc26293ab1a9b.jpg> 季節外れ 週末都内で30℃近い予想
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/4717d07360b1ee89fd3f6cac2cae1a015470f042647fc24aa5368364cebe88e8.jpg> 体操・宮田笙子 演技後に涙
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535778>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/17a65047c397273dd4edd4f9e7a239989cb54bef68f9c17c01b9723e026b1485.jpg> 元ピスタチオ小澤 今は児童相談員
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 17:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 17:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
