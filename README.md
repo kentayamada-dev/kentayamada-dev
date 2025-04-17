@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c737401dafb5a591cfddc88f8af40db4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dc7939cf0c029c0587a3883cbe98404c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b898d01bec5032a5e2db3c05b9159296629f05f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00959307-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジ・メディアHD取締役候補案を見直すべきとの考えに金光社長「あの時点における最善の役員案」「さらに検討を加えて良い案を出していきたい」
+      <a href=https://news.yahoo.co.jp/articles/f72e9634dfc5a50694c7ec480d3322d0729aac16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000103-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=998&ch=998&exp=10800&fmt=webp> 「悲しい」巨人・田中将大、2回KOに…ネット様々な声「応援歌聞きたかったのに、打席を迎える前に降板」「俺はずっとリリーフって言ってる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/159a64ba160f662b4e0a8e0bc5988c3475316c6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-09358496-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> フジ側、人事変更に含み　SBI北尾氏“人事を再検討すべき”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/999bc9062593f405dcb776b9197c2d53959d045d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000087-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 大阪高裁「国、最高裁判決を理解せず」　石綿訴訟判決、原告逆転勝訴
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5e7d9fbda9a83517f6bf0110b98de0a2d565658>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-90026041-ohk-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】倉敷市で車いすに乗った高齢男性がワゴン車にはねられ死亡【岡山】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b6069321889cbf958e97c530d00b15c3c612064c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000104-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=928&ch=928&exp=10800&fmt=webp> 中谷防衛相、日米関税交渉「次につながる協議」　防衛負担の要求有無は明かさず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ee9ee50076d36669709235c02d99b8f2bdc92a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-90018854-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=553&ch=553&exp=10800&fmt=webp> 「賠償求められなくなる期間は過ぎたか」争われたアスベスト被害巡る裁判　原告側が逆転勝訴　国の解釈否定
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/42f0e0f10bcae989711e397b4881d99e901294db9235d0f0b0b2ccffc2413abc.jpg> 内閣不支持が初の5割超 時事調査
+      <a href=https://news.yahoo.co.jp/pickup/6535783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/3410fe48fdc21da7c8bcea0c03d5b38b7bdbfff5587ab145a0ad4daac78de66d.jpg> 補正予算案見送る方向 玉木氏苦言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/3410fe48fdc21da7c8bcea0c03d5b38b7bdbfff5587ab145a0ad4daac78de66d.jpg> 補正予算案見送る方向 玉木氏苦言
+      <a href=https://news.yahoo.co.jp/pickup/6535784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/cf1798ebbce6d6a30db285a2d163326b67f3639107b65ad5858e51b293c14e50.jpg> 公金口座約2万件を誤停止 デジ庁
       </a>
     </td>
   </tr>
@@ -434,32 +434,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/cf1798ebbce6d6a30db285a2d163326b67f3639107b65ad5858e51b293c14e50.jpg> 公金口座約2万件を誤停止 デジ庁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/d757975937e8796257b8d66f4d713a5304198ca586f90831a34c4ead64345ce8.jpg> 住所誤り救急隊遅れ 通報者は死亡
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/3410d2209ee61ebe1257964deaeecd5f50afaf41654d5243ef5c4542df8b8d65.jpg> 住所誤り救急隊遅れ 通報者は死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535789>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/de375b12035cf6a949dc6035abdf8f3e274ff2543683e7fb9d219b08239dd0ab.jpg> ヤクルト村上 プロ初の外野手出場
+      <a href=https://news.yahoo.co.jp/pickup/6535793>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/a6c5ea743482e4f5141a424199da129d282551324132eb17fe8f680d91421f6a.jpg> 金の延べ板1kg 市に匿名で寄付
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535781>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/a8b1f922cdcf6d467c139d17254b3abd23fd74d88e24fb20555c3a805917e135.jpg> 那須川天心 WBOアジア王座返上
+      <a href=https://news.yahoo.co.jp/pickup/6535792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/590ce458071215eb36cfcbfeb520ef37e6f4a5c7808afa5a29523a15d7cb7ff8.jpg> タレは別容器に 弁当の食中毒対策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535791>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/a62b6322fe5aaae7a038503ec8d3130b55abb2789beeb773057e6dac6153ddc3.jpg> 田中将大が大炎上 2回6失点KO
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 19:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 19:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
