@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/04f8a7ffb6d5c587f5c02dc977dcfaa5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/823bb7fe6ca95c6cd6f7a32d1b78e37b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4a0cf713684c649bdaaef05f0637b18833845c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000097-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 山中に24歳女性の遺体　「当て逃げされた」110番時に争う声？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000097-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 山中に24歳女性の遺体　「当て逃げされた」110番時に争う声？
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/75ddd022834b4092908978930ac027607956eed3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000188-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=1052&ch=1052&exp=10800&fmt=webp> 大谷翔平が衝撃137メートル、WBCへGO砲のリーグトップ6号　ロバーツ監督は出場へ「サポートする」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000188-sanspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=1052&ch=1052&exp=10800&fmt=webp> 大谷翔平が衝撃137メートル、WBCへGO砲のリーグトップ6号　ロバーツ監督は出場へ「サポートする」
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14822ba94f7c051e77ba0c8a1d1262720dff829f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00959461-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=510&ch=510&exp=10800&fmt=webp> SNS「万博の大屋根リング歪んでる」実際は…協会担当者「元々そういう形」日本の伝統“貫工法”で耐震性も問題なし
+      <a href=https://news.yahoo.co.jp/articles/5ccdfaf2a15439a52f5db0534c9d5b5a78e7df3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000174-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 石綿被害で国が逆転敗訴　「判例の理解不足」国の救済縮小を断罪　大阪高裁
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535813>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/d14b3293883be5eeed441a922e397c31314b86e4dd08045bfd9d0f11078caaad.jpg> 16歳張本美和 世界2位に逆転負け
+      <a href=https://news.yahoo.co.jp/pickup/6535811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/58c56a3ba83039a484ad5e51faaf2aaccd53643f79996101b42429129756a71c.jpg> ヤクルト村上 復帰戦で緊急交代
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 23:52:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 00:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
