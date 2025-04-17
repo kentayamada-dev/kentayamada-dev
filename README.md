@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8d229476a3ad899c814db95263c7a488.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/65c4167312fd79f9075f8735ff86b6c8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff58b90a1758b84b598be6d1d4b8e97eb517b1c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-10174240-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=774&ch=774&exp=10800&fmt=webp> 増上寺の叢書がユネスコ「世界の記憶」に
+      <a href=https://news.yahoo.co.jp/articles/f3b619f197f899f62bdb057e1aae66266f237d3d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000101-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=508&ch=508&exp=10800&fmt=webp> 判決は石綿救済「縮小」した国を批判　原告側「極めて正当」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44739714237d795b860317f9be234c48872a4a2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-07216535-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日米関税協議に突然参加…「自分が主役」“トランプ流の交渉術”　赤沢大臣は自身を「格下」と表現
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3157d2e9c8ac04694418d971d4149a5c366d5d56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000123-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ルノー会長、日産取締役退任へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57fbcb5a1d255b391b6ca013c2ecdc1a9716f158>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-01738203-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「プライスレス」　ベンチを襲った“ヒヤリ”も…米安堵「面白い！」
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a85976fc563b15b7098578b69daa05c14afecff8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000083-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=426&ch=426&exp=10800&fmt=webp> フジHDの金光社長、SBI北尾氏の発言に「敵対の立場ではなく…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a5c0c84466ae30eba8026636375c81b9e8211d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-02782786-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日米関税協議の成果は？　“乱入”トランプ氏「日本を最優先する」発言も…要求内容は【#みんなのギモン】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f529827e427092c5e45dbd62760ea90c2c6f1a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-10174186-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=968&ch=968&exp=10800&fmt=webp> あぶない！ ベンチではしゃぐ大谷翔平にアクシデント発生…同僚は呆然も本人はなぜか“決めポーズ”の珍場面「ニコ谷さんw」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/074b9459ca2d95af6e75a27964abc19b7c7c7942>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000077-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=426&ch=426&exp=10800&fmt=webp> アスベスト訴訟、国が逆転敗訴　賠償めぐる起算点の「前倒し」認めず
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535798>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/6191bd95aae5b967d79a5e3433e5b3e4a4c6c0ace031e90b32fbd617212749e7.jpg> 植松死刑囚の再審 高裁も認めず
+      <a href=https://news.yahoo.co.jp/pickup/6535803>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/5040d746ac743b248b92e3acfbbeb929b6ba3196f0597189c351d97908bee52a.jpg> 増上寺の仏教聖典 世界の記憶に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535760>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/633bb658c43131a024bfb530107c1e249b3b0f90361ad3579bbfbf0b7679c2dd.jpg> 中国で日本人親子ら襲撃 死刑執行
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535799>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/3e6f91d087a06e17ebb4df379dfc421a7496652b806a7dd1cae719811b19c242.jpg> 知事死去 職員ら約800人が見送る
+      <a href=https://news.yahoo.co.jp/pickup/6535806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/75a1c06e2a14561834ef7b1fc3cc8ac1beb9020f29605ec2a9c995bb4c03a547.jpg> 日産取締役 仏ルノー会長ら退任へ
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535804>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/afb5233bca75d230a15eb5febc68ef626ce9554b0e1c0c5b49865f15bbe093c0.jpg> 高速道路に寝そべる行為 法的には
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535801>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/15ac76c66e4ccb729c4b896821a0f1b2efa7a03b0c888eb2178a2d7ed1146e5b.jpg> 日本の女性やせすぎ? 学会が警鐘
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535802>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/f33f5d19d7e4540381535ef6c32603fe01aaeded0d3c591317ca82f9d6baa379.jpg> JFA開設のクリニックが不正請求
+      <a href=https://news.yahoo.co.jp/pickup/6535808>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/dde3e654d75fb4653b18298fc9f8c45d62e522a6767926e40f1be67aa6dc56d8.jpg> 巨人・阿部監督 今季初の会見拒否
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 21:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 21:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
