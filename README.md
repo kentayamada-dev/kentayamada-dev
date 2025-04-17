@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae2c3949a2da42514bcc4d15f33a314a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf25b31900c1ce299a131f3b763ac856.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4006d2fcf7fd3ad56c86c1ba43e38178f6391e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-04171261-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 大谷翔平が今季最長特大弾　ロバーツ監督が今後の場外弾を予告？！「デーゲームならいつか必ず起こるよ」
+      <a href=https://news.yahoo.co.jp/articles/427a9f6ab06b9d23e093488a7e8d12afa504d61e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000051-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 韓国・柳志炫監督　日本との強化試合ではドジャース勢＆甲斐を警戒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a611a17e0034d1beefa429271aea389fafe16dee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領　FRBパウエル議長に不満、早期利下げを要求
+      <a href=https://news.yahoo.co.jp/articles/6bed6b13389d7db66ca4896420e221f8f19b0c1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-01738228-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「何度見ても最高」大谷翔平だから生まれた“異様な光景”　MLBも驚き「打った瞬間…」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 05:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 05:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
