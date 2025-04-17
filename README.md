@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GcgtTWUzhmg?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b50fb8a7add6cd597ddafa1804b2d7b6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8d229476a3ad899c814db95263c7a488.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06f74a491d2f1fb51560f80bf11e00b497272a01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000111-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=803&ch=803&exp=10800&fmt=webp> フジHD・新取締役候補、北尾吉孝氏とは何者か…「伝説の証券マン」「孫正義社長の右腕」、ホリエモン騒動ではフジの「白馬の騎士」　　
+      <a href=https://news.yahoo.co.jp/articles/ff58b90a1758b84b598be6d1d4b8e97eb517b1c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-10174240-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=774&ch=774&exp=10800&fmt=webp> 増上寺の叢書がユネスコ「世界の記憶」に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e258a927d5f035239c6ed8e7ce8f256b4d4137d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000347-spnannex-000-18-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=691&ch=691&exp=10800&fmt=webp> JFAメディカルセンターで診療報酬の不正請求　当局が監査　開設者の日本サッカー協会は謝罪
+      <a href=https://news.yahoo.co.jp/articles/a85976fc563b15b7098578b69daa05c14afecff8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000083-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=426&ch=426&exp=10800&fmt=webp> フジHDの金光社長、SBI北尾氏の発言に「敵対の立場ではなく…」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535795>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/276e516de3262034e4de6e85b9df021198e690d27fea1eb96138b2b73c2ddfda.jpg> トランプ氏自ら関税協議出席 狙い
+      <a href=https://news.yahoo.co.jp/pickup/6535797>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/75e6ef6b69ea3a2171a6192db9ff28f35517714d17b313ca5e3e7f6f238c3860.jpg> 石綿訴訟 高裁で原告が逆転勝訴
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/590ce458071215eb36cfcbfeb520ef37e6f4a5c7808afa5a29523a15d7cb7ff8.jpg> タレは別容器に 弁当の食中毒対策
+      <a href=https://news.yahoo.co.jp/pickup/6535802>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/f33f5d19d7e4540381535ef6c32603fe01aaeded0d3c591317ca82f9d6baa379.jpg> JFA開設のクリニックが不正請求
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 20:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 21:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
