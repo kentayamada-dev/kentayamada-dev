@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GcgtTWUzhmg?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/65c4167312fd79f9075f8735ff86b6c8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5c59b3a22df2541e5fb3fad63f71e50.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3b619f197f899f62bdb057e1aae66266f237d3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000101-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=508&ch=508&exp=10800&fmt=webp> 判決は石綿救済「縮小」した国を批判　原告側「極めて正当」
+      <a href=https://news.yahoo.co.jp/articles/5ccdfaf2a15439a52f5db0534c9d5b5a78e7df3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000174-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 石綿被害で国が逆転敗訴　「判例の理解不足」国の救済縮小を断罪　大阪高裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/498271f6ab1a8a84e7b05c07087e2c2e3d2cf8fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000248-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ビル解体現場で女性死亡、大阪　有機溶剤吸ったか
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/44739714237d795b860317f9be234c48872a4a2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-07216535-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日米関税協議に突然参加…「自分が主役」“トランプ流の交渉術”　赤沢大臣は自身を「格下」と表現
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3157d2e9c8ac04694418d971d4149a5c366d5d56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000123-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ルノー会長、日産取締役退任へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-07216535-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 日米関税協議に突然参加…「自分が主役」“トランプ流の交渉術”　赤沢大臣は自身を「格下」と表現
       </a>
     </td>
   </tr>
@@ -402,6 +402,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/75a1c06e2a14561834ef7b1fc3cc8ac1beb9020f29605ec2a9c995bb4c03a547.jpg> 日産取締役 仏ルノー会長ら退任へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/6c7d1e6fbb62caa101170e395fac4fefcb942209d509305182614e771f361e99.jpg> トランプ氏 FRBパウエル議長批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535797>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/75e6ef6b69ea3a2171a6192db9ff28f35517714d17b313ca5e3e7f6f238c3860.jpg> 石綿訴訟 高裁で原告が逆転勝訴
       </a>
@@ -418,24 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535806>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/75a1c06e2a14561834ef7b1fc3cc8ac1beb9020f29605ec2a9c995bb4c03a547.jpg> 日産取締役 仏ルノー会長ら退任へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535794>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/362318e8fc8e7eb80792b3d9ac9e8090ab4a498b17813b68ba1b95b117b9706c.jpg> 有機溶剤を吸ったか 作業員死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/afb5233bca75d230a15eb5febc68ef626ce9554b0e1c0c5b49865f15bbe093c0.jpg> 高速道路に寝そべる行為 法的には
+      <a href=https://news.yahoo.co.jp/pickup/6535810>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/e52613a2b561fe3395200362e848b210e178e3471022518932e6d4a1212b076b.jpg> 1人死亡の解体現場 搬送2人も重傷
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535808>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/dde3e654d75fb4653b18298fc9f8c45d62e522a6767926e40f1be67aa6dc56d8.jpg> 巨人・阿部監督 今季初の会見拒否
+      <a href=https://news.yahoo.co.jp/pickup/6535809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/dde3e654d75fb4653b18298fc9f8c45d62e522a6767926e40f1be67aa6dc56d8.jpg> 巨人が大敗 阿部監督は会見拒否
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 21:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 22:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
