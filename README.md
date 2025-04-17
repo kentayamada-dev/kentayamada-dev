@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dc7939cf0c029c0587a3883cbe98404c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0979241ee96cdd9300b4829052ffea63.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f72e9634dfc5a50694c7ec480d3322d0729aac16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000103-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=998&ch=998&exp=10800&fmt=webp> 「悲しい」巨人・田中将大、2回KOに…ネット様々な声「応援歌聞きたかったのに、打席を迎える前に降板」「俺はずっとリリーフって言ってる」
+      <a href=https://news.yahoo.co.jp/articles/4528c497ebf6f98aa6485d566a12910597316cb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-09186613-nkt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=254&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ関税の見直しに向けた協議　一番の成果は「トランプ大統領が日本を最優先する」こと　「日米双方が可能な限り早期に合意し“トップ同士”での発表を目指す」「4月中に閣僚間で2回目の協議を実施する」ことなどで一致
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/159a64ba160f662b4e0a8e0bc5988c3475316c6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-09358496-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> フジ側、人事変更に含み　SBI北尾氏“人事を再検討すべき”
+      <a href=https://news.yahoo.co.jp/articles/cee8474294d37413051ade8ae2dd227f4ccf009a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-90022924-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=252&cy=0&cw=675&ch=675&exp=10800&fmt=webp> フジHD役員に浮上　SBI北尾会長会見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/999bc9062593f405dcb776b9197c2d53959d045d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000087-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 大阪高裁「国、最高裁判決を理解せず」　石綿訴訟判決、原告逆転勝訴
+      <a href=https://news.yahoo.co.jp/articles/acd130773b2f878b155f5742d0482ba2a588e169>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000079-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=409&ch=409&exp=10800&fmt=webp> 基礎年金の底上げ、見送り　政府が修正案　参院選控え「負担増」懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/074b9459ca2d95af6e75a27964abc19b7c7c7942>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000077-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=426&ch=426&exp=10800&fmt=webp> アスベスト訴訟、国が逆転敗訴　賠償めぐる起算点の「前倒し」認めず
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6069321889cbf958e97c530d00b15c3c612064c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000104-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=928&ch=928&exp=10800&fmt=webp> 中谷防衛相、日米関税交渉「次につながる協議」　防衛負担の要求有無は明かさず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/3410fe48fdc21da7c8bcea0c03d5b38b7bdbfff5587ab145a0ad4daac78de66d.jpg> 補正予算案見送る方向 玉木氏苦言
+      <a href=https://news.yahoo.co.jp/pickup/6535795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/276e516de3262034e4de6e85b9df021198e690d27fea1eb96138b2b73c2ddfda.jpg> トランプ氏自ら関税協議出席 狙い
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535788>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/806b998d67eeeb946c679aebe15853a4f40c91c67aae9b2ce59d0037ccad565e.jpg> 車いすの男性 車にはねられ死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/362318e8fc8e7eb80792b3d9ac9e8090ab4a498b17813b68ba1b95b117b9706c.jpg> 有機溶剤を吸ったか 作業員死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/3410d2209ee61ebe1257964deaeecd5f50afaf41654d5243ef5c4542df8b8d65.jpg> 住所誤り救急隊遅れ 通報者は死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535788>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/806b998d67eeeb946c679aebe15853a4f40c91c67aae9b2ce59d0037ccad565e.jpg> 車いすの男性 車にはねられ死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 19:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 20:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
