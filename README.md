@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8baca32260e2b84bf92db0bec7b3e6bb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b694fe2b2fa91a5fa329b2b022a1ee06.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1334e932c87f6dc7eef0081754c279a5460f509>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 来春のWBC参加を容認姿勢　ドジャース監督、先発投手は慎重
+      <a href=https://news.yahoo.co.jp/articles/8139d0f089bff8c9cbe5d7a9d8493f04b3968211>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000009-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 赤沢経済再生相、米は90日以内のディール成立を希望 トランプ関税交渉
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b082048ed0e2f81f430dd8f03801e8cf1ac6b913>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-09639544-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】首相「次に繋がる協議と評価」日米関税協議を受け
+      <a href=https://news.yahoo.co.jp/articles/e1334e932c87f6dc7eef0081754c279a5460f509>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000076-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=361&cy=0&cw=1759&ch=1759&exp=10800&fmt=webp> 来春のWBC参加を容認姿勢　ドジャース監督、先発投手は慎重
       </a>
     </td>
   </tr>
@@ -382,15 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb512ef22dc7a976acd64691ed082bb7efdd9902>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000019-ann-000-7-thumb.jpg?exp=10800&fmt=webp> 愛知・一宮市で車に遺体　24歳の男を死体遺棄容疑で逮捕
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000019-ann-000-8-thumb.jpg?exp=10800&fmt=webp> 愛知・一宮市で車に遺体　24歳の男を死体遺棄容疑で逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5d355903499a9e3527b51e363fd271a13a9b628>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04161314-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=1084&ch=1084&exp=10800&fmt=webp> 「え、ほんまに？」西武・西口監督も驚きの３６９日ぶり３位浮上　新助っ人来日１号が後押し
+      <a href=https://news.yahoo.co.jp/articles/d95122ea5e4718e5d548349437fc6797a79a4dc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米関税交渉の焦点、国益最優先で相互理解の醸成を
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/74665603aa397d4b299325a51cd4387157e31e0dbd1cdcc71da69b556b14a27f.jpg> 日米「早期合意を目指す」で一致
+      <a href=https://news.yahoo.co.jp/pickup/6535742>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/da4654cb86cec6b858aad2ec1ac852efa6e0d2ec10d00dea48bb5af9fa300799.jpg> 関税交渉「次につながる」と首相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535728>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/0ea11ea145497f44e4b14bca2907873ff1fca5f3c35d9cfd927a9c07f8acc237.jpg> 政府与党 一律の現金給付を断念
+      <a href=https://news.yahoo.co.jp/pickup/6535736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/74665603aa397d4b299325a51cd4387157e31e0dbd1cdcc71da69b556b14a27f.jpg> 日米「早期合意を目指す」で一致
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/42e75aa69d43e5b2c090ee61c7be1ca60643c54bd7b497116762bb6a14545154.jpg> 遺棄疑いで男を逮捕 遺体は19歳か
+      <a href=https://news.yahoo.co.jp/pickup/6535731>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/281c298a11d7afa6bc1c67dde76b2aa0c3ebb644b1804cdbb576bd9b7d7501d6.jpg> リングにゆがみ 万博巡りデマ拡散
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535731>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/281c298a11d7afa6bc1c67dde76b2aa0c3ebb644b1804cdbb576bd9b7d7501d6.jpg> リングにゆがみ 万博巡りデマ拡散
+      <a href=https://news.yahoo.co.jp/pickup/6535740>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610460839_1610460816_aflo_132608048.jpg> ジブリ風画像の著作権 文科省見解
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/68cce59565184b972059931837f507bca8eb48567216b4ab8c3841d644de193f.jpg> ソフトバンク 本拠地で目立つ空席
+      <a href=https://news.yahoo.co.jp/pickup/6535734>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/b11ebb99a8a0f1b080f9bdf806a2b5577d151ca1f29290bc2aedb886e2690c85.jpg> 大谷のWBC出場 ド軍容認の考え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535730>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/668dc0a7cce756243bdefe8631fa20ea332100b9c99ac3007bf785182a67ec39.jpg> 十両力士・輝が結婚へ 相手は恩人
+      <a href=https://news.yahoo.co.jp/pickup/6535735>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/68cce59565184b972059931837f507bca8eb48567216b4ab8c3841d644de193f.jpg> ソフトバンク 本拠地で目立つ空席
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 10:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 11:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
