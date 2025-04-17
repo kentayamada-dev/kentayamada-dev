@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c6b55e9a811f82d8a317b379262452ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/10037d0db4c98f0fb34139a10e26b45f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6576bb445437b8729c8a0375be9bea9e7a7daa8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04171133-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=26&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の特大弾は「昼間や夏場だったら場外に」　ロバーツ監督も仰天　リーグ最多タイ６号先頭打者弾
+      <a href=https://news.yahoo.co.jp/articles/57200181ebafe7146c75c8a06ebf43d7b1e43e4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000053-ann-000-2-thumb.jpg?exp=10800&fmt=webp> フジ　投資ファンドの取締役候補の提案に「丁寧に耳を傾けることが必要」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea91bf1f5a4cbfa1b9dabe16da8b899c4c0d417c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000229-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=881&ch=881&exp=10800&fmt=webp> SBI北尾吉孝氏　「本業はなんだ」フジHDの不動産事業依存をバッサリ「放送機関として間違い」
+      <a href=https://news.yahoo.co.jp/articles/06fb75653ab683b8f0a0afdbf7602b0cc0fe10da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00526020-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の137m特大弾に敵将嘆き「甘い球を…」　7失点招いた被弾投手は「この経験から学ぶだろう
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe0f4eedcb88f5468b943e65d8e5f2185313de3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 広島の森林公園死亡は東京都の52歳男性
+      <a href=https://news.yahoo.co.jp/articles/555247d1b9de651b7cf20e538929c545a9e8bba0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 下請法違反、コロナ社に勧告　金型無償保管　公取委
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535763>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/863d6b02f284f95879d505803194738296eb826836e4291520f1e5137489cd30.jpg> 福島第1デブリ ロボットがつかむ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535765>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/50f01aeacfa3e3336e2ed8b16a3621e3a72fe02098bd65997a0f88e535a9d136.jpg> SBI北尾氏 フジHD改革を巡り見解
+      <a href=https://news.yahoo.co.jp/pickup/6535769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/1697cfabb1d51099755d36a14264ea84f387a338762709638002aa3ccf89cc0e.jpg> 物価高影響で巣ごもりGWか 調査
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535760>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/633bb658c43131a024bfb530107c1e249b3b0f90361ad3579bbfbf0b7679c2dd.jpg> 中国で日本人親子ら襲撃 死刑執行
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535771>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/0b1806ce57061581e84f52cfe5eae71c5fa9357a980c1073cf30ad9e4b0c12ed.jpg> フジ巡りSBI北尾氏 敵対なら勝負
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535746>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/1c704603266991d81abab24f84914ef3ac368d3c4fb5eda640c329c0f785098c.jpg> 情報公開請求者の情報探る 市謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6535770>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/4717d07360b1ee89fd3f6cac2cae1a015470f042647fc24aa5368364cebe88e8.jpg> 体操・宮田笙子 演技後に涙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 15:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 16:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
