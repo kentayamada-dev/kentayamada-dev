@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/10037d0db4c98f0fb34139a10e26b45f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4139000980f9f527533f09881e543f5b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57200181ebafe7146c75c8a06ebf43d7b1e43e4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000053-ann-000-2-thumb.jpg?exp=10800&fmt=webp> フジ　投資ファンドの取締役候補の提案に「丁寧に耳を傾けることが必要」
+      <a href=https://news.yahoo.co.jp/articles/24fed4998305b4b1903c70a4fa729f3834861236>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050118-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大谷翔平、ナ・リーグトップの６号特大本塁打…来年のＷＢＣ「選んでいただけるなら光栄なこと」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06fb75653ab683b8f0a0afdbf7602b0cc0fe10da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00526020-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の137m特大弾に敵将嘆き「甘い球を…」　7失点招いた被弾投手は「この経験から学ぶだろう
+      <a href=https://news.yahoo.co.jp/articles/57200181ebafe7146c75c8a06ebf43d7b1e43e4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000053-ann-000-3-thumb.jpg?exp=10800&fmt=webp> フジ　投資ファンドの取締役候補の提案に「丁寧に耳を傾けることが必要」
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/555247d1b9de651b7cf20e538929c545a9e8bba0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 下請法違反、コロナ社に勧告　金型無償保管　公取委
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000072-jij-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=108&cw=650&ch=650&exp=10800&fmt=webp> 下請法違反、コロナ社に勧告　金型無償保管　公取委
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca2a5aab3aef9f8d6d15e00b637379f9e3463f47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000041-asahi-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、日米安保は「不公平」と不満表明　関税協議で赤沢大臣に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000041-asahi-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ氏、日米安保は「不公平」と不満表明　関税協議で赤沢大臣に
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535769>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/1697cfabb1d51099755d36a14264ea84f387a338762709638002aa3ccf89cc0e.jpg> 物価高影響で巣ごもりGWか 調査
+      <a href=https://news.yahoo.co.jp/pickup/6535766>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/d94dc19f7e223a5e2e6ff16f8cb9af38d0cd256c1c3242e4862fc6e828feb4cb.jpg> 基礎年金底上げ案削除 自民に異論
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535760>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/633bb658c43131a024bfb530107c1e249b3b0f90361ad3579bbfbf0b7679c2dd.jpg> 中国で日本人親子ら襲撃 死刑執行
+      <a href=https://news.yahoo.co.jp/pickup/6535773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/42f0e0f10bcae989711e397b4881d99e901294db9235d0f0b0b2ccffc2413abc.jpg> 内閣不支持が初の5割超 時事調査
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535760>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/633bb658c43131a024bfb530107c1e249b3b0f90361ad3579bbfbf0b7679c2dd.jpg> 中国で日本人親子ら襲撃 死刑執行
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535768>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2d256093527b097a35a3fdc1e6d120f648640b532e4e6e3a775357d65d10fb19.jpg> 広島殺人事件 死亡男性は東京在住
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/d757975937e8796257b8d66f4d713a5304198ca586f90831a34c4ead64345ce8.jpg> 住所誤り救急隊遅れ 通報者は死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535774>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/ae727f1b9abbe251cef09b70d0a9cf511db684f9cb69d092954bc78dc9b6ad2a.jpg> 銚子市で男性死亡 ひき逃げか
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535761>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/6afaa6999f62a103c2212af5b1bd0f36534786d94bcb257ed5dd848e14eaa315.jpg> 大谷HR 飛距離が修正される珍事
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 16:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 16:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
