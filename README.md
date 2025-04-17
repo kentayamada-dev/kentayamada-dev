@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3f709bc6087f4aee8f9938607cc6730a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d8745fd330a1515919479d2d5df435ae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71b9dc86f83112f4e6f72407e3a08ba6518f1a27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000419-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=589&ch=589&exp=10800&fmt=webp> 北川景子＆平祐奈ら、倉田瑛茉のサプライズ登場にほっこり　大森南朋は“誘導尋問”
+      <a href=https://news.yahoo.co.jp/articles/67d35c632eb2f77dae6b4592d92bc10bcd420588>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04171096-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平、第５打席は一塁線への強烈な打球も好守に阻まれ凡退…初回は先頭弾＆今季初適時打で自身初の１イニング２安打
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c40fbc667fc5874b5a1a7058e1eae55c4c2719f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-34170455-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 大谷翔平が第２打席に適時打で追加点　先頭打者弾に続く１イニング２安打　第３、第４打席は三振
+      <a href=https://news.yahoo.co.jp/articles/102fdbc1cf06b3be652a49ac37470a352a1f7c6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-10498193-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 侍ジャパン、11月に東京ドームで韓国代表と強化試合
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d63541e1153a5b941cdcaa48d0f9e051cffd020>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00010011-annd-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> フジHD社外取締役の齋藤清人氏「丁寧に耳を傾けることが必要」　大株主ダルトン社”独自に12人の取締役候補”提案に
+      <a href=https://news.yahoo.co.jp/articles/ab729130c3bcd1e91b3a1a6f4fa9ecec076c422b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00010005-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「大きな進展だ！」トランプ氏、赤沢経済再生相と会談　ツーショット写真をSNSに投稿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85e9db438e0195cca5ff705e3b35b4439ed8fa89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-34170378-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 石破首相のX投稿に「呑気だよな」の声　トランプ氏に“感謝”表明、再側近・赤沢大臣との会談で
+      <a href=https://news.yahoo.co.jp/articles/eed66b9605fe5c237420cf07023f29e5ce545eb5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000424-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=742&ch=742&exp=10800&fmt=webp> SBIホールディングス北尾吉孝氏が会見でFHM改革案示す　人事案について言及「清水さんは残しても良いんじゃないか」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e54429181698e0dde996d9a5b0b3a3207c2e21e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米交渉、関税取り下げは継続協議　トランプ氏「大きな進展」、赤沢担当相は「遺憾」伝達
+      <a href=https://news.yahoo.co.jp/articles/7c2f96f9cbafda34edd99a3ffb4cdfcb39173c1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050051-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 日米関税交渉「早期に合意し首脳間での発表めざす」…トランプ大統領も「大きな進展！」とＳＮＳ投稿
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535745>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/a7f062c5b649fecec0ab9744c22cb44fb94db4bba30674ec97063d9f441b08be.jpg> 普通第二種免許 3日で取得可能に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535759>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/d757975937e8796257b8d66f4d713a5304198ca586f90831a34c4ead64345ce8.jpg> 住所誤り救急隊遅れ 通報者は死亡
       </a>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/6afaa6999f62a103c2212af5b1bd0f36534786d94bcb257ed5dd848e14eaa315.jpg> 大谷HR 飛距離が修正される珍事
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535762>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/962c61f64d0a08a5bc5d2e20b2157bf625fa9a6dd41668a209891f3ca7951228.jpg> 北川景子 SnowMan阿部を先生呼び
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 13:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 14:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
