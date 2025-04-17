@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d8745fd330a1515919479d2d5df435ae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/201cdb44dcdb6019f9ad79d702f104b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67d35c632eb2f77dae6b4592d92bc10bcd420588>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04171096-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平、第５打席は一塁線への強烈な打球も好守に阻まれ凡退…初回は先頭弾＆今季初適時打で自身初の１イニング２安打
+      <a href=https://news.yahoo.co.jp/articles/cc0b0e3a20a5a9eba90f41f5a08192b3c6389603>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000207-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=456&ch=456&exp=10800&fmt=webp> WBC日韓両監督、ロバーツ監督に感謝「ありがたい」「非常にうれしい」　最強チーム編成に追い風
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/102fdbc1cf06b3be652a49ac37470a352a1f7c6e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-10498193-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 侍ジャパン、11月に東京ドームで韓国代表と強化試合
+      <a href=https://news.yahoo.co.jp/articles/330ec7ca2780bba0035cd831e33e745da8b6b8d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000426-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=742&ch=742&exp=10800&fmt=webp> SBI北尾吉孝氏、40年以上続いた“日枝体制”に言及「価値とか使命が消失」　フジ再建に向け「新たな企業文化を創造する」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab729130c3bcd1e91b3a1a6f4fa9ecec076c422b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00010005-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 「大きな進展だ！」トランプ氏、赤沢経済再生相と会談　ツーショット写真をSNSに投稿
+      <a href=https://news.yahoo.co.jp/articles/0fc81b3ae6b95abf460dd67b7f128d9d9c9806b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000202-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=887&ch=887&exp=10800&fmt=webp> 「いいスイングだった」大谷翔平　今季初の先頭打者アーチに納得顔
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eed66b9605fe5c237420cf07023f29e5ce545eb5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000424-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=742&ch=742&exp=10800&fmt=webp> SBIホールディングス北尾吉孝氏が会見でFHM改革案示す　人事案について言及「清水さんは残しても良いんじゃないか」
+      <a href=https://news.yahoo.co.jp/articles/a3fa452f8a54fa4eebb7541d12c8126e95ec1045>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00959127-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=395&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【日米交渉】赤沢大臣「可能な限り早期の合意を目指す」“異例中の異例”急きょトランプ大統領出席の意図は?次回協議は今月中
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c2f96f9cbafda34edd99a3ffb4cdfcb39173c1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00050051-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 日米関税交渉「早期に合意し首脳間での発表めざす」…トランプ大統領も「大きな進展！」とＳＮＳ投稿
+      <a href=https://news.yahoo.co.jp/articles/f2e5deb0ef84ba77b801b864820d66bebd00eac1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 起算点は「行政が健康被害認めた時」と高裁
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535752>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/89d0b3908ede4ab80eac7ea0955dbd02171952d74ee189904bffcc889c5865c1.jpg> 浸水隠し高速船 韓国企業に売却へ
+      <a href=https://news.yahoo.co.jp/pickup/6535763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/863d6b02f284f95879d505803194738296eb826836e4291520f1e5137489cd30.jpg> 福島第1デブリ ロボットがつかむ
       </a>
     </td>
   </tr>
@@ -420,6 +420,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535756>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/bb600a1ac8a08cac041988fb37c7f056c1ae55ce1b9b8fd10586323db351c207.jpg> 現金給付を断念 想定以上の批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535765>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/50f01aeacfa3e3336e2ed8b16a3621e3a72fe02098bd65997a0f88e535a9d136.jpg> SBI北尾氏 フジHD改革を巡り見解
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535760>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/633bb658c43131a024bfb530107c1e249b3b0f90361ad3579bbfbf0b7679c2dd.jpg> 中国で日本人親子ら襲撃 死刑執行
       </a>
     </td>
   </tr>
@@ -442,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535748>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/89d0b6d538f57de8a7f69d79877d146f05df3cc295b0e515719864e318577a8b.jpg> 竹のハチク 全国で一斉に枯れる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535761>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/6afaa6999f62a103c2212af5b1bd0f36534786d94bcb257ed5dd848e14eaa315.jpg> 大谷HR 飛距離が修正される珍事
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535762>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/962c61f64d0a08a5bc5d2e20b2157bf625fa9a6dd41668a209891f3ca7951228.jpg> 北川景子 SnowMan阿部を先生呼び
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 14:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 14:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
