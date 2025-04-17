@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd40e6660c7cb5244a4d664557d66bb3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/962a5fcb4d70195ce3904ad8a594e1eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c02a266e0c7bf639dcdd84b0df6775bd76d38e53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-04171079-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=77&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平のホームランボールを１５歳のラッキーガールがキャッチ　ディズニーランド行きの予定変更が吉
+      <a href=https://news.yahoo.co.jp/articles/94b3391448c47dfa39b12c115675c1cf9e81757d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-34170423-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=569&ch=569&exp=10800&fmt=webp> 大谷翔平、衝撃先頭弾にNHK解説陣うなる「球場の雰囲気変わりますね」飛距離「麻痺してきた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b2ac72ea2228fb2d271435d06b7751bda76f4cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-02123578-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> さいたま女子高校生殺害　男の部屋から包丁押収
+      <a href=https://news.yahoo.co.jp/articles/11765ee9f4f31cd6108ca610eda5c6899a0a8ee5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000029-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=479&ch=479&exp=10800&fmt=webp> 白馬の騎士はフジテレビ取締役候補に　SBI北尾氏きょうにも会見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19be58862f403b75a2a79a7555f9c47f8103401c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-07758166-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢大臣とトランプ大統領の会談…石破首相「次につながる協議」　トップ会談に意欲も
+      <a href=https://news.yahoo.co.jp/articles/85e9db438e0195cca5ff705e3b35b4439ed8fa89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-34170378-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=709&ch=709&exp=10800&fmt=webp> 石破首相のX投稿に「呑気だよな」の声　トランプ氏に“感謝”表明、再側近・赤沢大臣との会談で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0baceaea24dd241b084130abb16bf8f3cf49fc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000157-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 玉川徹氏「TBSの経営者とか震え上がるのではないですか」フジHDの大株主ダルトン提案書の内容に
+      <a href=https://news.yahoo.co.jp/articles/be6be7c50a963c67f888593bec79a3f0e90361e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000050-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 公明幹事長「今国会で補正予算編成はない」と明言　現金給付も否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5748bb2eecab0996d82bfb0d2116644552d86ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 初回の日米関税協議が終了：トランプ政権が関税協議に安全保障問題、為替問題を絡めてくることが懸念に
+      <a href=https://news.yahoo.co.jp/articles/8e54429181698e0dde996d9a5b0b3a3207c2e21e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米交渉、関税取り下げは継続協議　トランプ氏「大きな進展」、赤沢担当相は「遺憾」伝達
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535743>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/0a857fc79a8c3b339787f9978b6c512b30b2c0456777acb3c926fa74cfa3e17d.jpg> 「露が合意違反30回超」ウが非難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535754>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/9e2eab50e1a9c907522f68b0ef458128aa9b43870371bfcbc523e12bcc9e13b3.jpg> 高1殺害 男の部屋から刃物2本押収
+      <a href=https://news.yahoo.co.jp/pickup/6535752>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/89d0b3908ede4ab80eac7ea0955dbd02171952d74ee189904bffcc889c5865c1.jpg> 浸水隠し高速船 韓国企業に売却へ
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610460839_1610460816_aflo_132608048.jpg> ジブリ風画像の著作権 文科省見解
+      <a href=https://news.yahoo.co.jp/pickup/6535754>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/9e2eab50e1a9c907522f68b0ef458128aa9b43870371bfcbc523e12bcc9e13b3.jpg> 高1殺害 男の部屋から刃物2本押収
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/89f43d2f4d57efb2c1a582b49402732444cbdff767d29f7b05b6c79e817f8300.jpg> 千葉県提供のフジ番組 当面休止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 12:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 13:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
