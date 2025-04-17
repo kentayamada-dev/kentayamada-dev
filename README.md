@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bf25b31900c1ce299a131f3b763ac856.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8be7b425053779143edffab964e81fe6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/427a9f6ab06b9d23e093488a7e8d12afa504d61e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000051-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=973&ch=973&exp=10800&fmt=webp> 韓国・柳志炫監督　日本との強化試合ではドジャース勢＆甲斐を警戒
+      <a href=https://news.yahoo.co.jp/articles/2ba92781e4abced86ae4a54864d455e972ff0b20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-04171303-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ新取締役候補・北尾吉孝氏、敵対なら「徹底的に勝負」　２０年前ライブドア買収騒動では救世主も「判断外れていた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bed6b13389d7db66ca4896420e221f8f19b0c1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-01738228-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「何度見ても最高」大谷翔平だから生まれた“異様な光景”　MLBも驚き「打った瞬間…」
+      <a href=https://news.yahoo.co.jp/articles/5ee6449820832c75d12151b296376170e4674d53>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-10174259-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 何かおかしい… 大谷翔平、超特大アーチで“目を疑う光景”「消えた？」「飛ばしすぎ」 とんでもない飛距離にファン騒然「大谷さんらしいホームラン」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e273c75a0093c1a9bdb75c86db619a4e5fe035b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ大統領「日本側との協議は生産的だった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/29b3fee6b3274fa21222432e3a6b68e4bd4f9bba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000047-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=800&ch=800&exp=10800&fmt=webp> DeNA・牧　志願の今季初4番で初回に巨人・マー君撃ちV撃！2回にはKO打
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 05:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 06:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
