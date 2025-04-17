@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eae0d9914f5c67252df8fa135a074e00.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6b3e793587a0d2a931b7d12ac6c3e89.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f3f3d0d4a8265805681adba1bf673e127ab9f49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000299-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジHDの金光会長　20年前はホワイトナイトのSBI北尾吉孝氏に「不祥事を起こして申し訳ない」
+      <a href=https://news.yahoo.co.jp/articles/561547d9787e5d441e62e93f027f6783209861ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-34171080-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=231&cw=1084&ch=1084&exp=10800&fmt=webp> 堀江貴文氏が“無言”で反応　SBI北尾吉孝氏の「堀江くんに悪いことを…」発言投稿をリポスト
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ce2c443c58945b9f5f3117c1917bad18c856f8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000091-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 那須川天心、WBOAP王座返上「守るよりは攻める方が自分にも合っている」6月に計画する次戦が世界前哨戦に【ボクシング】
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0ee9ee50076d36669709235c02d99b8f2bdc92a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-90018854-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=553&ch=553&exp=10800&fmt=webp> 「賠償求められなくなる期間は過ぎたか」争われたアスベスト被害巡る裁判　原告側が逆転勝訴　国の解釈否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22e0c81cc1808d650b8ff104b2ff5d67cb0678a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-03474284-sdt-000-1-thumb.jpg?exp=10800&fmt=webp> 【ツガワの目】「every.しずおか」津川祥吾アンカーの目線で話題検証…第３回テーマ「減税は本当にできる？」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-90018854-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=553&ch=553&exp=10800&fmt=webp> 「賠償求められなくなる期間は過ぎたか」争われたアスベスト被害巡る裁判　原告側が逆転勝訴　国の解釈否定
       </a>
     </td>
   </tr>
@@ -418,24 +418,40 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535780>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/f90f9e087513f713b22b71d34368f6510007339fa080697302be32a19a618b76.jpg> 備蓄米「すぐ品切れ」小売り混乱
+      <a href=https://news.yahoo.co.jp/pickup/6535782>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/b0cf312e7be203e7c39ba2eedab852f0d7720a36e959143528f8c516c3ff7bc4.jpg> 北朝鮮製の医薬品 大量の有害金属
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535771>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/0b1806ce57061581e84f52cfe5eae71c5fa9357a980c1073cf30ad9e4b0c12ed.jpg> フジ巡りSBI北尾氏 敵対なら勝負
+      <a href=https://news.yahoo.co.jp/pickup/6535785>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/ad823f5919ce4d255615d6e3d992748be55eb622d0ef0fd224260c34d4ced039.jpg> 渋谷センター街で火事 1人けが
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535772>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/f4ba9dafdb131aa8558cbc484d785a8e88ad51fd654838e6cc87ffd2f3929948.jpg> 下請法違反 暖房コロナ社に勧告
+      <a href=https://news.yahoo.co.jp/pickup/6535759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/d757975937e8796257b8d66f4d713a5304198ca586f90831a34c4ead64345ce8.jpg> 住所誤り救急隊遅れ 通報者は死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/cf1798ebbce6d6a30db285a2d163326b67f3639107b65ad5858e51b293c14e50.jpg> 公金口座約2万件を誤停止 デジ庁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535786>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/615a205cd0cba838b33c9e1d20011c076f51ccc20d17257a9d84e36bfa19f445.jpg> 速報 田中将大が200勝王手なるか
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535777>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/8048d744f327c2e8fb8e9fccfe560f1fc1f5f6d36f08b197f0df10b851752ba1.jpg> 大谷が特大弾 監督は場外弾に期待
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/17a65047c397273dd4edd4f9e7a239989cb54bef68f9c17c01b9723e026b1485.jpg> 元ピスタチオ小澤 今は児童相談員
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 18:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 18:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
