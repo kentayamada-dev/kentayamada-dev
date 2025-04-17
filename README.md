@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd3ed740521fffb47a3510fbdeb0f168.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab9b2bff323aea109d3655f4d1e6a401.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c66d9fa4e483af0d1d39e8605027d828945d1f80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=380&ch=380&exp=10800&fmt=webp> 米日関税交渉で防衛費に言及したトランプ氏…虚を突かれた日本「今月中に協議再開」
+      <a href=https://news.yahoo.co.jp/articles/83e6851fe8c33d8189467d044f5ead3e7a4fe4cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90022960-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 『日米関税交渉』開始　トランプ流ディールどう臨む？第1次政権の“交渉役”に聞く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/810b8902141ae8582edd12977970a6ae6a0b9204>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00050021-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏「今すぐにでも利下げすべきだ」…パウエルＦＲＢ議長に「一刻も早く解任されるべきだ」
+      <a href=https://news.yahoo.co.jp/articles/01b8c04d36025931f52c0a01f4b947414defab45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000001-moneypost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 【20年越しの戦い】フジテレビ“因縁の面々”SBI北尾吉孝会長、旧村上ファンド関係者も参戦…株主たちが狙う「経営陣刷新」の内幕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/871a7911fc32f272dfd4662fcec5cb534529301e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-07231284-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> フジ側発表の人事案は「不十分」 米投資ファンド提案の新取締役候補・SBI北尾吉孝社長が批判　人事案の再検討迫る
+      <a href=https://news.yahoo.co.jp/articles/ab7af4261cbdfa7de25c954d61504a55f3757767>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-01738239-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が海外ファンに愛される理由　ベンチで見せた“行動”「とてもキュート」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f85a2076a3dd64fed5d2e64394dd95ea6704b2b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00959531-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 腐敗遺体は20歳前後の女性　容疑者は交際相手殺害ほのめかす　愛知・一宮市
+      <a href=https://news.yahoo.co.jp/articles/0fd020f9cd9b84b9f8dc371e05a0ae087e0e8dc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00959540-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=464&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏がFRB議長解任を示唆　「行動が遅すぎる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ea8bf6c58b65d4b6da176757fdce5a8c0dafdad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-01738217-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=287&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平6号の裏で…「宣伝効果ヤバくないか」　“粋な演出”にファン興奮「初めて知った」
+      <a href=https://news.yahoo.co.jp/articles/67bb20c531116820e32825f1be1ed88e8d1bf3e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00010001-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=1694&ch=1694&exp=10800&fmt=webp> なぜ巨人のマー君は2回6失点と大炎上したのか…「横浜DeNAに狙われた変化球」…“宝刀”スプリットの投球配分が初勝利した中日戦の19％から33％にアップしていた
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535815>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/2d872774c1a3db81022e4f10e26c6d2b379fa3d138884737ad5412bbee2756e4.jpg> 岡山の山中に24歳女性の遺体 捜査
+      <a href=https://news.yahoo.co.jp/pickup/6535824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/3e69e284367b48bbc8b2f8cba3af57292fb842ad6be2df8b2fd11215db72cb35.jpg> 米フロリダの大学で銃撃 7人死傷
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535820>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/bc904c918632ae8ab5980828bb378a2b307119842d7851a4a5ce4e12082b379f.jpg> 田中将大 2軍調整後に5月登板へ
+      <a href=https://news.yahoo.co.jp/pickup/6535825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/f0a8b37a89678152b865cfd75cfe6446893adca85403fb64c377a713b57afd64.jpg> J1&J2の13クラブ U-21参加検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/58c56a3ba83039a484ad5e51faaf2aaccd53643f79996101b42429129756a71c.jpg> ヤクルト村上 復帰戦で緊急交代
+      <a href=https://news.yahoo.co.jp/pickup/6535820>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/bc904c918632ae8ab5980828bb378a2b307119842d7851a4a5ce4e12082b379f.jpg> 田中将大 2軍調整後に5月登板へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 07:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 07:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
