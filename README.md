@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6b3e793587a0d2a931b7d12ac6c3e89.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c737401dafb5a591cfddc88f8af40db4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/561547d9787e5d441e62e93f027f6783209861ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-34171080-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=231&cw=1084&ch=1084&exp=10800&fmt=webp> 堀江貴文氏が“無言”で反応　SBI北尾吉孝氏の「堀江くんに悪いことを…」発言投稿をリポスト
+      <a href=https://news.yahoo.co.jp/articles/b898d01bec5032a5e2db3c05b9159296629f05f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00959307-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジ・メディアHD取締役候補案を見直すべきとの考えに金光社長「あの時点における最善の役員案」「さらに検討を加えて良い案を出していきたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ce2c443c58945b9f5f3117c1917bad18c856f8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000091-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 那須川天心、WBOAP王座返上「守るよりは攻める方が自分にも合っている」6月に計画する次戦が世界前哨戦に【ボクシング】
+      <a href=https://news.yahoo.co.jp/articles/181dc16e90e40b1530b37ab7bcc8402ca0dec4de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-10008508-jsportsv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 大谷翔平、特大の第6号。指揮官は「日中か夏場だったら場外」とコメント
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f5e7d9fbda9a83517f6bf0110b98de0a2d565658>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-90026041-ohk-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】倉敷市で車いすに乗った高齢男性がワゴン車にはねられ死亡【岡山】
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0ee9ee50076d36669709235c02d99b8f2bdc92a3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-90018854-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=553&ch=553&exp=10800&fmt=webp> 「賠償求められなくなる期間は過ぎたか」争われたアスベスト被害巡る裁判　原告側が逆転勝訴　国の解釈否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17f35a9a8a44ecba703081593371f4e1acd7fd60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00525878-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平137m衝撃弾は「デーゲームだったら場外」　ド軍指揮官が太鼓判「いつか打つと思うよ」
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535785>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/ad823f5919ce4d255615d6e3d992748be55eb622d0ef0fd224260c34d4ced039.jpg> 渋谷センター街で火事 1人けが
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/d757975937e8796257b8d66f4d713a5304198ca586f90831a34c4ead64345ce8.jpg> 住所誤り救急隊遅れ 通報者は死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535788>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/806b998d67eeeb946c679aebe15853a4f40c91c67aae9b2ce59d0037ccad565e.jpg> 車いすの男性 車にはねられ死亡
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535786>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/615a205cd0cba838b33c9e1d20011c076f51ccc20d17257a9d84e36bfa19f445.jpg> 速報 田中将大が200勝王手なるか
+      <a href=https://news.yahoo.co.jp/pickup/6535759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/d757975937e8796257b8d66f4d713a5304198ca586f90831a34c4ead64345ce8.jpg> 住所誤り救急隊遅れ 通報者は死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535789>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/de375b12035cf6a949dc6035abdf8f3e274ff2543683e7fb9d219b08239dd0ab.jpg> ヤクルト村上 プロ初の外野手出場
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 18:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 19:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
