@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/64ba6fcaf1dc0981416ae36f63f529e9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/04f8a7ffb6d5c587f5c02dc977dcfaa5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79f9a795223e6a8d78074dabc86534c361c6c69a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-34171819-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=100&cw=1014&ch=1014&exp=10800&fmt=webp> モー娘。北川莉央が活動休止「猛省し自身を見つめ直す期間」ネットに写真流出「軽率な行動」
+      <a href=https://news.yahoo.co.jp/articles/b4a0cf713684c649bdaaef05f0637b18833845c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000097-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 山中に24歳女性の遺体　「当て逃げされた」110番時に争う声？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/75ddd022834b4092908978930ac027607956eed3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000188-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=1052&ch=1052&exp=10800&fmt=webp> 大谷翔平が衝撃137メートル、WBCへGO砲のリーグトップ6号　ロバーツ監督は出場へ「サポートする」
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57fbcb5a1d255b391b6ca013c2ecdc1a9716f158>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-01738203-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「プライスレス」　ベンチを襲った“ヒヤリ”も…米安堵「面白い！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a85976fc563b15b7098578b69daa05c14afecff8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250417-00000083-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=426&ch=426&exp=10800&fmt=webp> フジHDの金光社長、SBI北尾氏の発言に「敵対の立場ではなく…」
       </a>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535812>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/9de8c929dba1d4abe3f4fea0f950282abdf5deadb7bdd18a4a4a33c2b0ba99a9.jpg> 欧州中銀 6会合連続で0.25%利下げ
+      <a href=https://news.yahoo.co.jp/pickup/6535819>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/eb97542c11d5a89c1846ce5229057e1941b03e9f6538d4bcdf0a6fb2a5359436.jpg> トランプ氏 日米会談は「生産的」
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535796>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 24年度の対米輸出額 過去最高に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535810>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/e52613a2b561fe3395200362e848b210e178e3471022518932e6d4a1212b076b.jpg> 1人死亡の解体現場 搬送2人も重傷
+      <a href=https://news.yahoo.co.jp/pickup/6535812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/9de8c929dba1d4abe3f4fea0f950282abdf5deadb7bdd18a4a4a33c2b0ba99a9.jpg> 欧州中銀 6会合連続で0.25%利下げ
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/58c56a3ba83039a484ad5e51faaf2aaccd53643f79996101b42429129756a71c.jpg> ヤクルト村上 復帰戦で緊急交代
+      <a href=https://news.yahoo.co.jp/pickup/6535817>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02174757/title-1744880280595.jpeg?exp=10800> 採用難で初任給↑の市も 今後は
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535818>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/512f368e0709bfa1557ebdf85db319c5b7c32341f330524c883d90f5754dfc87.jpg> 2回KOの田中将大「迷惑かけた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535813>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/17/d14b3293883be5eeed441a922e397c31314b86e4dd08045bfd9d0f11078caaad.jpg> 16歳張本美和 世界2位に逆転負け
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/17 23:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/04/17 23:52:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
