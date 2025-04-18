@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1e3b051144e0325634afd88dc83750ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/76b6d30e42c4d9c19d7f8018cdc858f3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebd3f350ca3fb2f5b5145ffbbcff9f136ac94d98>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00341494-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 万博ライブ中止決定のＭＡＴＳＵＲＩが生番組でコメント「悔しさを明日の力に変えていく！」
+      <a href=https://news.yahoo.co.jp/articles/57f0a0971bbf9413c914b637e67cfdb1347e3fe3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000046-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 柏崎刈羽再稼働巡る県民投票条例案、賛成少数で否決　新潟県議会
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5f3771cc2c670768bb3496093c1156b4560393ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180594-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> MATSURI「ぽかぽか」万博イベント中止を受け吐露　時折、涙を浮かべながら生歌唱
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3d4b1bef9a11b86e9c8755256a563b77c1bfe1f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000207-spnannex-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=936&ch=936&exp=10800&fmt=webp> モー娘。生田衣梨奈　活動休止の北川莉央に言及「ここで区切り」11人で前向く「卒業笑顔で見送って」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000207-spnannex-000-22-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=717&ch=717&exp=10800&fmt=webp> モー娘。生田衣梨奈　活動休止の北川莉央に言及「しっかり区切りを」前向く「卒業笑顔で見送って」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab13a800f2c714ab6bb424cbc5d467596980a086>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-02829342-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【卓球W杯】日本人対決は伊藤美誠が勝利「いらつかず落ち着いて試合に挑むことが出来た」次戦は強豪・中国選手と決勝進出をかけ対決
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535844>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/576d22c3ef86c40a0a989c8837d1529b5c4079c311bd1cd7a310b4ac705bbb31.jpg> 露 タリバンのテロ組織指定を解除
+      <a href=https://news.yahoo.co.jp/pickup/6535884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/86daa7ba8653aa680f570367e145c944b5445960ca3a6d26c2561808126655cf.jpg> 柏崎刈羽 県民投票条例案が否決
       </a>
     </td>
   </tr>
@@ -426,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/b04fa7e05f1573a7ea807be6054691b27752fd3d2ba88f1aeec8dfdd5a142438.jpg> 改正法成立 市街地でクマ銃猟可に
+      <a href=https://news.yahoo.co.jp/pickup/6535882>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tadafumiaki/02175885/title-1744944796665.jpeg?exp=10800> 猛威をふるう詐欺メール 手口は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535879>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/moriimasakatsu/02175579/title-1744907630153.jpeg?exp=10800> 卒アル漏えいか 写真悪用のリスク
+      <a href=https://news.yahoo.co.jp/pickup/6535883>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanokikuno/02175306/title-1744890094077.jpeg?exp=10800> 4月のうちに エアコン試運転を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535881>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/dc6c1f0690f5cbafa45de229f9c698cfa98510aac488904d90c1e852ac9ed3c4.jpg> 伊藤美誠4強入り 日本対決を制す
+      <a href=https://news.yahoo.co.jp/pickup/6535872>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/f156f1ac86506fe0cd8bd13a511a8fd2dbdcbe174ab67a1f63d3d0ad902ff8f3.jpg> 50歳までに引退 F1アロンソ言及
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 15:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 16:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
