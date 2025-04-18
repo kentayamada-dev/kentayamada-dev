@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3d22952d955b21be14bb65e598ee80b3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c3cde848fe7d2ba7a812706ce69090a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c9a09dcacb978b73b5fdcec424020af5d3902a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-21864975-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度2の地震　長野県・松川村
+      <a href=https://news.yahoo.co.jp/articles/d68fe5fab0cca128d324454c5387c35be3628ad8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000147-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1962&ch=1962&exp=10800&fmt=webp> 西武　８回無安打１失点の今井達也「点取られちゃったんで」快挙逃すも「ホームで勝ててよかった」目に涙が浮かぶ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59324814ea828d2e12dc7c08361d6cbf5604fbfe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-04181216-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 【西武】源田壮亮が「右大腿前面の張り」により途中交代　第１打席ではＮＰＢ初の魚雷バットを使用か
+      <a href=https://news.yahoo.co.jp/articles/b796e7b8e2a2c631d91b76dda3d05897b79445b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00960077-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県北部で震度5弱の地震　津波の心配なし　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9c1734c6610034e530f2b8fc4ae44d8e7d426180>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-09423414-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 山中に24歳女性の遺体　知人男性が自宅で死亡…関連は　通報中に“男女の言い争う声”　岡山・備前市
       </a>
     </td>
   </tr>
@@ -374,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e407c5083c73140c6fa94820a253119cd9df9b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000091-jij-000-17-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=842&ch=842&exp=10800&fmt=webp> 野田立民代表「横綱にもへりくだるな」　赤沢氏「格下」発言に苦言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/40b1bf38b36801429d9e8a10fb2c460b4955200b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00050101-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=374&ch=374&exp=10800&fmt=webp> フジが万博イベント中止、中居正広氏の性加害問題受け「弊社取り巻く諸般の事情を総合的に勘案」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d90e31c41a4fa3eee2ce093c29f1173cf515f23e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000232-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=26&cy=0&cw=1167&ch=1167&exp=10800&fmt=webp> 巨人が田中将大を抹消　5月1日の広島戦目指し再調整へ　前日DeNA戦で2回6失点KO
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000091-jij-000-20-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=574&ch=574&exp=10800&fmt=webp> 野田立民代表「横綱にもへりくだるな」　赤沢氏「格下」発言に苦言
       </a>
     </td>
   </tr>
@@ -410,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535899>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/f27e4e673d2995e9614e727bfadb4ff3cc23ff7c26b6c21a1410a0e0fc1d0d62.jpg> 父から性虐待 最高裁が賠償認めず
+      <a href=https://news.yahoo.co.jp/pickup/6535908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/f4496a7c97eb607e7b1c02e50af504d449ae46675f2f576736d8e77dd091e842.jpg> 赤沢氏「格下」発言 野田氏が苦言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/fb67a3d4d75751f5cb7e0f507715974af9b8783eedc1c19d9e061673e6dc708b.jpg> 赤沢氏「格下」発言 野田氏が苦言
+      <a href=https://news.yahoo.co.jp/pickup/6535915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/fabd1003050cd726fb486145c5b0330b3bbee1364db7712ce5e8aac1bf3c70ef.jpg> 会社敷地内のドラム缶に遺体 埼玉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535913>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/291f18f144210d7fd9f31d6588b582aa65bef75484b84cf840a5c0444c83e5e4.jpg> 百日ぜき感染 生後1カ月女児死亡
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535907>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/70459c437f0a6c709ad39691ed5d55a0ae730ce34b393d64fa387884efb4ac04.jpg> ゆたぼんフィリピン&カナダ留学へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 20:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 21:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
