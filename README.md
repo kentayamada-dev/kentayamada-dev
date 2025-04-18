@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a87d1abeabed7f49af82428ab247968e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/684caaa37764f1e8c30d7ab5412142c9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7138a8e410898d579cc978991a063aae5d65ba25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-04547172-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 神田愛花「ぽかぽか」万博イベント中止に声詰まらせる「全ての皆さんにご迷惑をおかけした」
+      <a href=https://news.yahoo.co.jp/articles/14231e6367dca4c7bdce956844babc1909fa4a61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90023003-ann-000-2-view.jpg?pri=l&w=192&h=107&exp=10800&fmt=webp> 歌舞伎俳優の中村七之助が結婚を発表！お相手は「一般の方」兄は勘九郎
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c142157386ce80d4b25783ba89c32674214f438c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000187-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 中村七之助　結婚を発表　梨園きっての“モテ男”「結婚願望ない」発言もついに
+      <a href=https://news.yahoo.co.jp/articles/3747eb839586023b76a423c906468a98d6194ac5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-10174348-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=599&ch=599&exp=10800&fmt=webp> トランプ大統領 日本との関税合意時期「急いでいない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba9cafb604d9846a87f231510d57b90f74285b11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-04759323-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 三菱UFJ貸金庫窃盗　被告の女、起訴内容認める　検察“FX取引の損失補填のため”指摘
+      <a href=https://news.yahoo.co.jp/articles/df43c967c06cb58d0e3f72d381181f8be7466ce3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000193-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 神田愛花　万博での「ぽかぽか」イベント中止決定に「ご迷惑を」も「勝手なことを言うようですが…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0917a2deeddd4ff3c9ee6d28b50245c9dfa4ad01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000038-ann-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領 日本との関税合意「急いでいない」　関税交渉で優位な立場誇示
+      <a href=https://news.yahoo.co.jp/articles/bb5fba9d59d078492de58aad71328fe3ebe320bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000064-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 山崎被告「全部認めます」　口調はきはき、伏し目がちな様子も　三菱UFJ貸金庫事件
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/a2c6359bce588545972dd11aad64402a2750663142ca63619b489bd9aab96b3d.jpg> あすは「まるで夏」熱中症に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535863>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/212c4b59c3c60593ce415969e4095e22fa43ff0e078a157c5d0dfd47a3e87e52.jpg> 立憲 暫定税率の廃止法案を提出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/05b5aa1d835f21fefe5170b6cbb814450dae4983e3c96e3cfafe6ebe7f181942.jpg> 駐車場で高齢女性死亡 ひき逃げか
+      <a href=https://news.yahoo.co.jp/pickup/6535844>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/576d22c3ef86c40a0a989c8837d1529b5c4079c311bd1cd7a310b4ac705bbb31.jpg> 露 タリバンのテロ組織指定を解除
       </a>
     </td>
   </tr>
@@ -436,6 +420,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535865>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/47064374882f9f4261e9e1f616a681800f00f4a5243b7d47ec27da2597a26c25.jpg> 「中国系民泊」急増 移住が目的か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535879>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/moriimasakatsu/02175579/title-1744907630153.jpeg?exp=10800> 卒アル漏えいか 写真悪用のリスク
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535874>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/8392aeb8a2eb26062a172839393b09d52b9bb033f3a9905679908220a1c3c5c5.jpg> ぬいぐるみ 美術館に「宿泊」人気
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 14:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 15:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
