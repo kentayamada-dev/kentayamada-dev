@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bc39c67cd3d5cef2cb8bfc3ad1a4050e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cc44fddc91770cba093478f692a323dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd798622ad90776758f5e2f0d1a6a1cfd7e726d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ関税を受けた各中央銀行の対応は分かれる：ECBは6回連続の利下げ：トランプ大統領はパウエル議長に辞任を求める：日銀の追加利上げは9月に
+      <a href=https://news.yahoo.co.jp/articles/6f3dc9bbcb41d6ca5aab8b832f81a25c2fb9c705>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-03573662-clc_korea-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=819&ch=819&exp=10800&fmt=webp> “トランプ式変則戦術に慌てるな”…わずか2時間の日米協議、韓国へのヒントは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6ef6c35391415019fb83bd2c17ec4adc013ee4c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-10174301-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=599&ch=599&exp=10800&fmt=webp> トランプ大統領、FRB議長に早期利下げ要求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/617be0e37a06587e58f57f68f45db42f989f760d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180215-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 菅野智之　初の中４日で今季最長７回２失点の好投で２勝目　地元はスタンディングオベーション
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca6b9f46c8274442c2bdecda6b305fd5ede5adf8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180189-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=870&ch=870&exp=10800&fmt=webp> 「働く人たちの人権に対する具体案をお聞きしたかった」神田愛花　SBI北尾吉孝会長の会見に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf37d176caf73417ced95db2fc4b0b5b32e3a2f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000018-ann-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　FRBパウエル議長に退任要求「利下げすべき」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce7a240f46969387a7c002e2061d07f7748c430c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00010001-minkabu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> トランプ関税で米国予想インフレ率は6.7％に! 43年ぶり高水準の大地獄へ…各国の反応にトランプはビビっているのか？日本の残念が現実
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/7cd737bb7b64674db155363e90bb35161937f3ab5f54e9e576d2b4f3e9912743.jpg> 女性遺棄疑い 昨夏ごろ殺したと男
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535831>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/10adb5afa13cb7d7d47b108b99b735548c4fd2312e390e1b31ed8be8ac12d803.jpg> 千円着服で退職金不支給 適法判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/700c406b3e509ca9675e266f7070b1e27e393b4279135d736e56197b0a884a83.jpg> 東伊豆町「震度7」とメール誤送信
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/c909e3269dfda8d7ed2e4a9eb1bacf33f7913305d0c971711e24b8a30fa12f2a.jpg> 桜倒れけが「老木化」悩む自治体
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/27edcb4f714c2638190be6dbf3fdfe001b0092318d09135d710bdd59579114ff.jpg> 菅野が2勝目 本拠地は拍手喝采
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 10:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 10:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
