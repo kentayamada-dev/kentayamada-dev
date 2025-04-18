@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b9914c6553582510f0d252fad5329343.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/76afc01e0dd767845c8589810f00eb9c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67a420c00968bfcb86389ceeba4b8524c4218fea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00341482-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=800&ch=800&exp=10800&fmt=webp> デーブ・スペクター氏　フジ改革案に指摘「テレビしかやってないような言い方は、かなりズレている」
+      <a href=https://news.yahoo.co.jp/articles/fe0176847d5107b6bd8dcd9fa2ca6414c16396aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000435-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=799&ch=799&exp=10800&fmt=webp> MATSURI『ぽかぽか』万博ライブ中止に無念さにじませる　涙ながらに生歌唱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ba9cafb604d9846a87f231510d57b90f74285b11>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 三菱UFJ貸金庫窃盗　被告の女、起訴内容認める　検察“FX取引の損失補填のため”指摘
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0917a2deeddd4ff3c9ee6d28b50245c9dfa4ad01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000038-ann-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領 日本との関税合意「急いでいない」　関税交渉で優位な立場誇示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c3161fd84dffccf0c314e1815b600a2549d8645>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「全部認めさせていただく」UFJ銀貸金庫窃盗で元行員の女の初公判　FXで多額の借金
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000038-ann-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領 日本との関税合意「急いでいない」　関税交渉で優位な立場誇示
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535862>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/0e0830b1739b9099445df7f1afc7c57029dbad589511d91daada8255a515d0c8.jpg> トランプ氏 日米交渉「優位」強調
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535866>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/a2c6359bce588545972dd11aad64402a2750663142ca63619b489bd9aab96b3d.jpg> あすは「まるで夏」熱中症に注意
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/a64d9fc027e92c5fe07b2ad27e85abfe45f961c3afc5d4ed6217cc04f8bbb43f.jpg> 貸金庫窃盗 元行員起訴内容認める
+      <a href=https://news.yahoo.co.jp/pickup/6535863>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/212c4b59c3c60593ce415969e4095e22fa43ff0e078a157c5d0dfd47a3e87e52.jpg> 立憲 暫定税率の廃止法案を提出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535847>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/4784404a169108fde82b69043d265ccb98d47d88f674eb634f5c0cedba8a3867.jpg> 女性死亡 息子とみられる男を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6535869>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/ddaf8d73b1d757f902133fc282a93dbcbe993820a7c16d5f660bde1eeb9aa9c3.jpg> 駐車場で高齢女性死亡 ひき逃げか
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/b48baa5cc72d78b2c7037d15573384cfe0d87ac8c564a4671625c644f2d3ead4.jpg> 列車1日計6本 秘境駅の楽しみ方
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/cd2c7628f884c6797ef3cd02dba764a6ead4b87c25976423f5b14f444455e870.jpg> 小笠原 脇腹痛で負傷者リスト入り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535856>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/d745dc21a69f50224e248507b1df1794b25ebd00ad1eaa99bf3850b90c7dd00e.jpg> 松井裕樹&石橋杏奈に第3子誕生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/cdf0fea5a1268b643c11094f539ef3202fe087bcbc978817ccc4ed6980c9d486.jpg> フジ「ぽかぽか」万博ライブ中止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 13:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 14:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
