@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c3cde848fe7d2ba7a812706ce69090a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/96edac72c829018260c0ecd753a1496d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d68fe5fab0cca128d324454c5387c35be3628ad8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000147-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1962&ch=1962&exp=10800&fmt=webp> 西武　８回無安打１失点の今井達也「点取られちゃったんで」快挙逃すも「ホームで勝ててよかった」目に涙が浮かぶ
+      <a href=https://news.yahoo.co.jp/articles/9af6de592a56b650052f2d2e19da7397de8b38e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-01738626-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 鷹激震…正木智也は亜脱臼か　病院直行、小久保監督も心配「厳しいでしょうね」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b796e7b8e2a2c631d91b76dda3d05897b79445b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00960077-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県北部で震度5弱の地震　津波の心配なし　
+      <a href=https://news.yahoo.co.jp/articles/b5b712b4b453c47f99b765ade05617fb328b9cc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-21865021-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度2の地震　長野県・松川村
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e407c5083c73140c6fa94820a253119cd9df9b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000091-jij-000-20-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=574&ch=574&exp=10800&fmt=webp> 野田立民代表「横綱にもへりくだるな」　赤沢氏「格下」発言に苦言
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000091-jij-000-21-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=574&ch=574&exp=10800&fmt=webp> 野田立民代表「横綱にもへりくだるな」　赤沢氏「格下」発言に苦言
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/1bcafe9bb88ff52e7a4cd3f19e94766426c45d21965af37809d5b6e9448f160c.jpg> 長野県で震度5弱 津波の心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6535920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/dfe8ea0ccc11001617aca6db518486a38882cedd48ab410d0b08c45337a6dfbc.jpg> 首相 米関税対策の検討加速を指示
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535919>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/ec8b67b98d7771f0e31ecef1dbd458debafa55894e5d9574a3b476c948a8c72e.jpg> ETC障害 後払いの申し出は4%弱か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/fabd1003050cd726fb486145c5b0330b3bbee1364db7712ce5e8aac1bf3c70ef.jpg> 会社敷地内のドラム缶に遺体 埼玉
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/369b4807b970bb7abb08415faa7e562a64a1483b975273b6fa6f0be5ee4ea9b1.jpg> 会社敷地内のドラム缶に遺体 埼玉
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/ce0dce0ba510250408dd2b293d9c141ddc590161093d55dcf4e9184e1c6a5755.jpg> 堀江氏の関連企業 うちだ屋を買収
+      <a href=https://news.yahoo.co.jp/pickup/6535905>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 不同意性交疑い 中孝介さん不起訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535905>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 不同意性交疑い 中孝介さん不起訴
+      <a href=https://news.yahoo.co.jp/pickup/6535918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/c0ced8c4460cc8a560fa649e1c46dcd36eae5e808b2ec4e581e50e876ca6b76e.jpg> 阪神・村上 1イニングだけで54球
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/1d3f8667c9d93093779cc935297a380381faaecba843b3bf260275c594733ed8.jpg> 西武・源田「魚雷バット」を使用
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 21:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 21:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
