@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2431ffbf8ef6266eeaa775d1fa561292.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1426b8bef54b27cd0b7a1cfdf99bab7a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/68a0fb4036a477a840be706c8b914b5e723e25af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010001-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=147&cw=426&ch=426&exp=10800&fmt=webp> “産休”欠場大谷翔平の代役1番はエドマン　真美子夫人出産立ち合いのため　DHは緊急昇格のロサリオ　山本由伸が球宴5回のシーガーらと初対決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/75c753e1974aabc5a3d6fd53101ef4bba51efbc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865361-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6f8b064c1be5bb1b8f144154fc97189123899876>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】19日の天気 - 関東甲信で真夏日予想　西〜東日本は黄砂飛来の可能性も（19日7時更新）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b9ced5d725257d4078ee9560072074735009a6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-04191024-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が「父親リスト」入り、真美子夫人第１子出産間近か　ロバーツ監督「しばらくはチームを離れる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fbaf01f12942f99dba486d3fe6bed204aa5c2fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00960157-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 長野北部で震度5弱「縦揺れっぽく『どかん』と一発。その後、じわじわ揺れていた」避難しようとした男性1人けが
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17d8afe98837b6d6c490376e3f72bbaf59f22767>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000021-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> MAGA帽子でグーサイン写真　トランプ氏と会談の赤沢再生相
+      <a href=https://news.yahoo.co.jp/articles/c788cf048f357fb0c3ec4c2ec9682712330e0288>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米交渉、自動車障壁焦点に　国内制度見直しに期待　関連業界
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/dfe8ea0ccc11001617aca6db518486a38882cedd48ab410d0b08c45337a6dfbc.jpg> 首相 米関税対策の検討加速を指示
+      <a href=https://news.yahoo.co.jp/pickup/6535940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/77ec9651f3015af36a544e625ba2d1d70325137099ce7f27aa9f38bf83b94a34.jpg> 関東今年初の真夏日か 熱中症注意
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 08:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 08:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
