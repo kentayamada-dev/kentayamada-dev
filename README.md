@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/07013feae15f2fb0843af576c7b84c78.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ace597d7b40aa830a6b4c2d8003a0c08.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/165d60125345f06b1124ccbab03cdf031ee16284>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00959820-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相が初交渉終え帰国“トランプ交渉”の成果は?カギを握るグラス新駐日大使が着任　長男夫婦「13年間日本在住」も日本へ厳しい姿勢
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/40b1bf38b36801429d9e8a10fb2c460b4955200b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00050101-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=374&ch=374&exp=10800&fmt=webp> フジが万博イベント中止、中居正広氏の性加害問題受け「弊社取り巻く諸般の事情を総合的に勘案」
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90fbabeed1e34e4fd4cbfc4964b7cf4cc7a6de09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-07231366-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「我々としては何ら変更する理由ない」と中谷防衛大臣　トランプ大統領の“在日米軍の駐留経費の改善要求”に対し
+      <a href=https://news.yahoo.co.jp/articles/188bae8a9e8a8285af937c6169a9ea3f02df4378>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-07231397-jnn-000-6-thumb.jpg?exp=10800&fmt=webp> 山手線・京浜東北線の一部区間 あす（19日）～20日で運休 約54万人に影響　2031年度開業見込みの「羽田空港アクセス線」工事で JR東日本
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/714c5178d3688d1f2cade4bd886af3cbad87a2c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000045-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=739&cy=0&cw=1461&ch=1461&exp=10800&fmt=webp> ＜イグナイト -法の無法者-＞「『こんなリーガルドラマ観たことない！』とシンプルに興奮してほしい」　ドラマPに聞く狙い　間宮祥太朗らの起用理由も
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535884>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/86daa7ba8653aa680f570367e145c944b5445960ca3a6d26c2561808126655cf.jpg> 柏崎刈羽 県民投票条例案が否決
+      <a href=https://news.yahoo.co.jp/pickup/6535896>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/a93a57eeece6135bd80388aaca68057e82be3e97b0a6cf80d9a7297a698a72b5.jpg> 3月のコメ取引価格 8カ月ぶり下落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/74335d96acf7f8735ee8fec656f0d829709943ed3b532000e0f177dabc99ba03.jpg> 54万人影響か 19-20日JR一部運休
+      <a href=https://news.yahoo.co.jp/pickup/6535898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/74335d96acf7f8735ee8fec656f0d829709943ed3b532000e0f177dabc99ba03.jpg> 山手・京浜東北線19-20日区間運休
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535886>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/415e0cd4adcd5e135bd46cbac21a9976308d2df8aa2a2b27dc544521f1a568af.jpg> 病院で有毒ガス 誤った薬品混ぜる
+      <a href=https://news.yahoo.co.jp/pickup/6535891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/c1a91e34154699125ed61be2b26f9e7cf7232908dae3651daeccdb1fe2281301.jpg> 村上宗隆 わずか1日で登録抹消
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/c1a91e34154699125ed61be2b26f9e7cf7232908dae3651daeccdb1fe2281301.jpg> 村上宗隆 わずか1日で登録抹消
+      <a href=https://news.yahoo.co.jp/pickup/6535895>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/2a3594e3727c63a004b4df5d5b0499263e29ca059971527d90285951c5d727ef.jpg> 渋谷に間宮祥太朗ら 通行人驚き
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 17:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 18:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
