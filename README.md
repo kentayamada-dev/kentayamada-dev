@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/11e555dbb09d1064c2cae35c1882866b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/00d50b1de585f17498d112df3131d80b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78da1712ecfed55e11e9237872abf0243ebd8531>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34181956-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=432&cy=0&cw=1062&ch=1062&exp=10800&fmt=webp> 【ソフトバンク】ノーヒットワンラン負けで今季初４連敗　故障者続出…「そういう年」小久保監督
+      <a href=https://news.yahoo.co.jp/articles/30805920b8edc88166768d18e9516595f5f126b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ソフトバンク正木　負傷交代し病院直行「やったときはめちゃくちゃ痛かった。まだ結果が出てないので…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/194e0339dfada2056bd8775450031516ff17d56f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90039957-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 長野県北部を震源とする最大震度5弱の地震 震源の深さは10kmでM5.0と推定 岐阜県高山市や中津川市などで震度2
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5a14619754918cbd8719869c1da3acc14ebd5b2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000246-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=627&ch=627&exp=10800&fmt=webp> トランプ氏参加、寝間着姿で知る　機上の赤沢氏「びっくりした」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e143874df89759f27c0499879439d311d01ec6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-21865067-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市、小川村、筑北村
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000246-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=627&ch=627&exp=10800&fmt=webp> トランプ氏参加、寝間着姿で知る　機上の赤沢氏「びっくりした」
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535920>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/dfe8ea0ccc11001617aca6db518486a38882cedd48ab410d0b08c45337a6dfbc.jpg> 首相 米関税対策の検討加速を指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535925>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/70067c42cb8a8440a308d92d5ad61ed6d52aea32609f68b376eef5dabd966765.jpg> 3月備蓄米 小売に届いたのは0.3%
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/8815694ac9a8cb1c55cd150a9517a84b37ca35c517db9bdb6e85aea2892418ed.jpg> SB負傷者相次ぐ 正木が緊急交代
+      <a href=https://news.yahoo.co.jp/pickup/6535926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/7ab8956b95404d912bd6aec2b807e3829d1f2ee4edcb437d8c6e2f64873f71ed.jpg> 万博 スマホアプリ乱立に不満の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535928>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/8474dcfda96398522778a4a7dcc86b6ea71a04b2a17aad623f857969344ec5dc.jpg> 張本智和 2大会連続のメダル逃す
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 23:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 23:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
