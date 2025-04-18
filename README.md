@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e857eae4c04d2402c7a745bf9bd0bb16.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ab603bb650b662cb1d6b377b7e903b2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1bbb14cec9ede80de10d3171362e3304a8a5304>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90022888-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=310&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 【長野県北部で震度5弱】震源地はごく浅い場所　その後も小さな地震相次ぐ　大町市、長野市などで震度1～2の揺れ
+      <a href=https://news.yahoo.co.jp/articles/b1197273044c7b8495348cfcb42467fbfd427999>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-21865050-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市、松川村、筑北村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d5a1fab7f85baea699975a39113cbd11d5f8d416>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000093-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏と赤沢氏　会談終盤は大谷翔平選手らの話題で盛り上がり
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b0daeb5c38176af1ba64cdf3402c5a520db76cd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00010052-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=891&ch=891&exp=10800&fmt=webp> 「ホークスの戦いはそういう年」　ソフトバンク小久保監督、負傷者続出でも貫く信念　「これからどうするか」　5番の正木智也まで左肩負傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e21ab37ccd672c951eebbd045ee965c5515db639>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000123-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 石破首相、日米関税交渉「前進が得られるよう検討加速」　今月中の赤沢氏の訪米を調整
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/f4496a7c97eb607e7b1c02e50af504d449ae46675f2f576736d8e77dd091e842.jpg> 赤沢氏「格下」発言 野田氏が苦言
+      <a href=https://news.yahoo.co.jp/pickup/6535925>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/70067c42cb8a8440a308d92d5ad61ed6d52aea32609f68b376eef5dabd966765.jpg> 3月備蓄米 小売に届いたのは0.3%
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/369b4807b970bb7abb08415faa7e562a64a1483b975273b6fa6f0be5ee4ea9b1.jpg> 会社敷地内のドラム缶に遺体 埼玉
+      <a href=https://news.yahoo.co.jp/pickup/6535924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/78a4bab051e098199b586110df1e461e8702f33f3e933bded6e4b335af2b60ac.jpg> 自衛隊は人殺しの訓練 発言に抗議
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 22:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 22:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
