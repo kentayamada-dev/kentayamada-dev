@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ace597d7b40aa830a6b4c2d8003a0c08.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b0c22f2495f15e9d809007d28969cf6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/165d60125345f06b1124ccbab03cdf031ee16284>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00959820-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 赤沢経済再生相が初交渉終え帰国“トランプ交渉”の成果は?カギを握るグラス新駐日大使が着任　長男夫婦「13年間日本在住」も日本へ厳しい姿勢
+      <a href=https://news.yahoo.co.jp/articles/d56126137c6c57501883e353fb516493d9049bbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00959197-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=395&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【解説】なぜ日本がトランプ政権の「最優先」に?安全保障・経済など米国が無視できない関係性…日本との早期合意で他国交渉のモデルケース構築する狙いも
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/77bab2b9ad4064b5a3a2508f3e779f61334482e6a22bf34e0f5d0be7d20a7166.jpg> 赤沢氏が帰国 言うべきこと言った
+      <a href=https://news.yahoo.co.jp/pickup/6535892>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 海自ヘリ事故 遺体6人の身元特定
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535898>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/74335d96acf7f8735ee8fec656f0d829709943ed3b532000e0f177dabc99ba03.jpg> 山手・京浜東北線19-20日区間運休
+      <a href=https://news.yahoo.co.jp/pickup/6535899>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/f27e4e673d2995e9614e727bfadb4ff3cc23ff7c26b6c21a1410a0e0fc1d0d62.jpg> 父から性虐待 最高裁が賠償認めず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/013cde0f9b6fca729c8cfad249fe0e0100adb7ce61f0c0e22df909a6fbc13343.jpg> 公園で殺人事件 女が現場に誘導か
+      <a href=https://news.yahoo.co.jp/pickup/6535893>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 沖縄戦の激戦地 20人分遺骨発見か
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/c1a91e34154699125ed61be2b26f9e7cf7232908dae3651daeccdb1fe2281301.jpg> 村上宗隆 わずか1日で登録抹消
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535895>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/2a3594e3727c63a004b4df5d5b0499263e29ca059971527d90285951c5d727ef.jpg> 渋谷に間宮祥太朗ら 通行人驚き
+      <a href=https://news.yahoo.co.jp/pickup/6535900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/74821b8549df84a00f3a252c296aac605020e67abd09d1ae885da77711f901b9.jpg> コージー冨田公表 1型糖尿病とは
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/cdf0fea5a1268b643c11094f539ef3202fe087bcbc978817ccc4ed6980c9d486.jpg> フジ「ぽかぽか」万博ライブ中止
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 18:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 18:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
