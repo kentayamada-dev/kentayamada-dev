@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6__CnBoSBpQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b71b5ed174565d303231870de1941d1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b76befaeeab03d5bdf47a30d6d74fe46.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a063c1a429c3c43b35175addd5fbd39eec5a902e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-90023044-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> パジャマ姿で知った大統領“参戦”赤沢大臣が明かした“トランプ関税”交渉の舞台裏
+      <a href=https://news.yahoo.co.jp/articles/948870d36b90ecd95fe286a952900e86e07d3d0d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865169-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・松川村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87b9367be65512f86f891ad6d7fe90171e5ffc70>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865121-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・松川村
+      <a href=https://news.yahoo.co.jp/articles/a063c1a429c3c43b35175addd5fbd39eec5a902e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-90023044-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> パジャマ姿で知った大統領“参戦”赤沢大臣が明かした“トランプ関税”交渉の舞台裏
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535932>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/f3207e8a85195bf54fbcf1ea7f5c9d24f57158284bae0f8eab2c19ae32194217.jpg> 長野5弱 1週間は同程度の地震注意
+      <a href=https://news.yahoo.co.jp/pickup/6535933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/76daa127a3151356fff8704fbb34362d9f8e79b2378250fb5819fae1ebe28fbf.jpg> 長野県で震度4 津波の心配なし
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 01:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 01:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
