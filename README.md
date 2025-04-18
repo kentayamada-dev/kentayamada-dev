@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b0c22f2495f15e9d809007d28969cf6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/26b0ccc48d24ce2f1b9280f0dcde083c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d56126137c6c57501883e353fb516493d9049bbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00959197-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=395&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【解説】なぜ日本がトランプ政権の「最優先」に?安全保障・経済など米国が無視できない関係性…日本との早期合意で他国交渉のモデルケース構築する狙いも
+      <a href=https://news.yahoo.co.jp/articles/ecb2af7e9b0f114ffd5625a8c160e1272304b6ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000185-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1761&ch=1761&exp=10800&fmt=webp> 福岡のうどんチェーン買収　堀江貴文氏顧問の食品企業
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d51e0342b05cee42373fe5b36f660a8f9ffae1f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-11633801-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=105&cw=640&ch=640&exp=10800&fmt=webp> 鳩山元首相、赤沢大臣と面会したトランプ流の〝交渉術〟を解説「最悪、思いやり予算の増額を飲まされる」
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/40b1bf38b36801429d9e8a10fb2c460b4955200b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00050101-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=374&ch=374&exp=10800&fmt=webp> フジが万博イベント中止、中居正広氏の性加害問題受け「弊社取り巻く諸般の事情を総合的に勘案」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/188bae8a9e8a8285af937c6169a9ea3f02df4378>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-07231397-jnn-000-6-thumb.jpg?exp=10800&fmt=webp> 山手線・京浜東北線の一部区間 あす（19日）～20日で運休 約54万人に影響　2031年度開業見込みの「羽田空港アクセス線」工事で JR東日本
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc660531dbaa4aff131d01cdb47e676afd2e6cb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-07231427-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 三菱UFJ銀行元行員・山崎由香理被告「全部認めさせていただきます」初公判で起訴内容認める　貸金庫から計2億8800万円相当の金塊を盗んだ罪
       </a>
     </td>
   </tr>
@@ -403,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535892>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 海自ヘリ事故 遺体6人の身元特定
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/318ab4e4e4637ac331d88595da6e637797dde33308a26bdd99da0e6f343d01c9.jpg> 海自ヘリ事故 遺体6人の身元特定
       </a>
     </td>
   </tr>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535893>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 沖縄戦の激戦地 20人分遺骨発見か
+      <a href=https://news.yahoo.co.jp/pickup/6535902>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/37f2bdb52508697c1f8941db1100eb1f947a546c994cbbf78c5ba3291cf7945b.jpg> 死亡男性宅から現金窃盗 警官免職
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/27d9d8344d5c7c39fdb834e121bd41ebf14879c8ed2f65c604aca5da62d42f31.jpg> 車いす生徒入学断り波紋 識者指摘
+      <a href=https://news.yahoo.co.jp/pickup/6535903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/ce0dce0ba510250408dd2b293d9c141ddc590161093d55dcf4e9184e1c6a5755.jpg> 堀江氏の関連企業 うちだ屋を買収
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/9715caf099ef1b9aed77ce502aace4ebb515574303414322fa9c57985eb5515b.jpg> 訪日客困り事「ごみ箱の少なさ」
       </a>
     </td>
   </tr>
@@ -450,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/d2051374930399ec1973d5600b79762eb96e25190ac890828a572743b4430183.jpg> 中村七之助が結婚 相手は一般女性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/cdf0fea5a1268b643c11094f539ef3202fe087bcbc978817ccc4ed6980c9d486.jpg> フジ「ぽかぽか」万博ライブ中止
+      <a href=https://news.yahoo.co.jp/pickup/6535905>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 不同意性交疑い 中孝介さん不起訴
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 18:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 19:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
