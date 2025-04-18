@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/6__CnBoSBpQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cc44fddc91770cba093478f692a323dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bd9a6d74e5ce63f4779c3beeed0a9ce5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f3dc9bbcb41d6ca5aab8b832f81a25c2fb9c705>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-03573662-clc_korea-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=819&ch=819&exp=10800&fmt=webp> “トランプ式変則戦術に慌てるな”…わずか2時間の日米協議、韓国へのヒントは
+      <a href=https://news.yahoo.co.jp/articles/61e8c474015302e5c3ca0d9ed2adab29ae032fd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00050041-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ベッセント米財務長官、日本との関税交渉「非常に満足のいく方向に進んでいる」…Ｘに投稿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ef6c35391415019fb83bd2c17ec4adc013ee4c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-10174301-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=599&ch=599&exp=10800&fmt=webp> トランプ大統領、FRB議長に早期利下げ要求
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/617be0e37a06587e58f57f68f45db42f989f760d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180215-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=270&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 菅野智之　初の中４日で今季最長７回２失点の好投で２勝目　地元はスタンディングオベーション
+      <a href=https://news.yahoo.co.jp/articles/7083323990261f9fd5044ef61cf6ae21ef6ee0d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00050040-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> トランプ氏、パウエルＦＲＢ議長を批判「私が辞任を求めれば彼はすぐ辞めるだろう」…利下げめぐり対立深める
       </a>
     </td>
   </tr>
@@ -389,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab7af4261cbdfa7de25c954d61504a55f3757767>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-01738239-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が海外ファンに愛される理由　ベンチで見せた“行動”「とてもキュート」
+      <a href=https://news.yahoo.co.jp/articles/94df9780286f31966fdac83a280053961784f383>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180138-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=267&cw=935&ch=935&exp=10800&fmt=webp> 堀江貴文氏「僕はいまだにホルダー」フジHD株主総会へSBI北尾吉孝氏との「協力態勢」言及
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/e1baea6d479473706a7c959b0bf2f9d8e10be31286f800d4670899c38dc4701c.jpg> 「ワケあり区」印象改善に本腰
+      <a href=https://news.yahoo.co.jp/pickup/6535846>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/0479a47d500eda885a0791e7aae914b1ff0aa1b72b52e12f389c20af5e5c3928.jpg> フジ改革提案 成功例にちいかわ
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 10:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 11:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
