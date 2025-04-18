@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd9a6d74e5ce63f4779c3beeed0a9ce5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6c179bf4cd8ec9baf69770d1d98c1c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61e8c474015302e5c3ca0d9ed2adab29ae032fd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00050041-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ベッセント米財務長官、日本との関税交渉「非常に満足のいく方向に進んでいる」…Ｘに投稿
+      <a href=https://news.yahoo.co.jp/articles/140460fd93fd5212ec5bfdfce1b6b2ad03852209>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90022971-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 日米関税交渉の中身明らかに　トランプ氏が持論「米軍駐留費高い」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/7cd737bb7b64674db155363e90bb35161937f3ab5f54e9e576d2b4f3e9912743.jpg> 女性遺棄疑い 昨夏ごろ殺したと男
+      <a href=https://news.yahoo.co.jp/pickup/6535841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/8c7350673c7c2323ce0365c46095141d42bd45d4e0ce38af000ce09cf21837e4.jpg> 米Google 広告巡り独禁法違反
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535846>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/0479a47d500eda885a0791e7aae914b1ff0aa1b72b52e12f389c20af5e5c3928.jpg> フジ改革提案 成功例にちいかわ
+      <a href=https://news.yahoo.co.jp/pickup/6535847>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/4784404a169108fde82b69043d265ccb98d47d88f674eb634f5c0cedba8a3867.jpg> 女性死亡 息子とみられる男を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535833>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/17deb19162559fc79cbd6e50331cfe957762940f85af639e968efa30df2b3976.jpg> ガソリン210円も なぜ全国最高値
+      <a href=https://news.yahoo.co.jp/pickup/6535843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/7cd737bb7b64674db155363e90bb35161937f3ab5f54e9e576d2b4f3e9912743.jpg> 女性遺棄疑い 昨夏ごろ殺したと男
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 11:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 11:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
