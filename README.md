@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/26b0ccc48d24ce2f1b9280f0dcde083c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bcb8bb076a9eb4e0cd598913a09717d6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d51e0342b05cee42373fe5b36f660a8f9ffae1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-11633801-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=105&cw=640&ch=640&exp=10800&fmt=webp> 鳩山元首相、赤沢大臣と面会したトランプ流の〝交渉術〟を解説「最悪、思いやり予算の増額を飲まされる」
+      <a href=https://news.yahoo.co.jp/articles/2e407c5083c73140c6fa94820a253119cd9df9b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000091-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=842&ch=842&exp=10800&fmt=webp> 野田立民代表「横綱にもへりくだるな」　赤沢氏「格下」発言に苦言
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/a93a57eeece6135bd80388aaca68057e82be3e97b0a6cf80d9a7297a698a72b5.jpg> 3月のコメ取引価格 8カ月ぶり下落
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535899>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/f27e4e673d2995e9614e727bfadb4ff3cc23ff7c26b6c21a1410a0e0fc1d0d62.jpg> 父から性虐待 最高裁が賠償認めず
       </a>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535902>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/37f2bdb52508697c1f8941db1100eb1f947a546c994cbbf78c5ba3291cf7945b.jpg> 死亡男性宅から現金窃盗 警官免職
+      <a href=https://news.yahoo.co.jp/pickup/6535908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/fb67a3d4d75751f5cb7e0f507715974af9b8783eedc1c19d9e061673e6dc708b.jpg> 赤沢氏「格下」発言 野田氏が苦言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535909>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/7607a5bd88ac5b3582be1b91908956f4a5e334a3fc3d8b55406b0211bad1f525.jpg> 日本の酒文化 外国人はどう見る
       </a>
     </td>
   </tr>
@@ -428,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535903>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/ce0dce0ba510250408dd2b293d9c141ddc590161093d55dcf4e9184e1c6a5755.jpg> 堀江氏の関連企業 うちだ屋を買収
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/9715caf099ef1b9aed77ce502aace4ebb515574303414322fa9c57985eb5515b.jpg> 訪日客困り事「ごみ箱の少なさ」
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535907>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/70459c437f0a6c709ad39691ed5d55a0ae730ce34b393d64fa387884efb4ac04.jpg> ゆたぼんフィリピン&カナダ留学へ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 19:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 19:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
