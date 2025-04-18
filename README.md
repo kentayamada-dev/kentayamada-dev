@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/684caaa37764f1e8c30d7ab5412142c9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1e3b051144e0325634afd88dc83750ec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14231e6367dca4c7bdce956844babc1909fa4a61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90023003-ann-000-2-view.jpg?pri=l&w=192&h=107&exp=10800&fmt=webp> 歌舞伎俳優の中村七之助が結婚を発表！お相手は「一般の方」兄は勘九郎
+      <a href=https://news.yahoo.co.jp/articles/ebd3f350ca3fb2f5b5145ffbbcff9f136ac94d98>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00341494-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 万博ライブ中止決定のＭＡＴＳＵＲＩが生番組でコメント「悔しさを明日の力に変えていく！」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3d4b1bef9a11b86e9c8755256a563b77c1bfe1f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000207-spnannex-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=936&ch=936&exp=10800&fmt=webp> モー娘。生田衣梨奈　活動休止の北川莉央に言及「ここで区切り」11人で前向く「卒業笑顔で見送って」
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3747eb839586023b76a423c906468a98d6194ac5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-10174348-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=599&ch=599&exp=10800&fmt=webp> トランプ大統領 日本との関税合意時期「急いでいない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df43c967c06cb58d0e3f72d381181f8be7466ce3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000193-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 神田愛花　万博での「ぽかぽか」イベント中止決定に「ご迷惑を」も「勝手なことを言うようですが…」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-10174348-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=599&ch=599&exp=10800&fmt=webp> トランプ大統領 日本との関税合意時期「急いでいない」
       </a>
     </td>
   </tr>
@@ -382,15 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb5fba9d59d078492de58aad71328fe3ebe320bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000064-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 山崎被告「全部認めます」　口調はきはき、伏し目がちな様子も　三菱UFJ貸金庫事件
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000064-jij-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 山崎被告「全部認めます」　口調はきはき、伏し目がちな様子も　三菱UFJ貸金庫事件
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d523933410a0a781259134431ed8401f207b441>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000013-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=1389&ch=1389&exp=10800&fmt=webp> FRB議長は「私が頼めば辞める」 トランプ氏
+      <a href=https://news.yahoo.co.jp/articles/ab13a800f2c714ab6bb424cbc5d467596980a086>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-02829342-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【卓球W杯】日本人対決は伊藤美誠が勝利「いらつかず落ち着いて試合に挑むことが出来た」次戦は強豪・中国選手と決勝進出をかけ対決
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/47064374882f9f4261e9e1f616a681800f00f4a5243b7d47ec27da2597a26c25.jpg> 「中国系民泊」急増 移住が目的か
+      <a href=https://news.yahoo.co.jp/pickup/6535880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/013cde0f9b6fca729c8cfad249fe0e0100adb7ce61f0c0e22df909a6fbc13343.jpg> 公園で殺人事件 女が現場に誘導か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/b04fa7e05f1573a7ea807be6054691b27752fd3d2ba88f1aeec8dfdd5a142438.jpg> 改正法成立 市街地でクマ銃猟可に
       </a>
     </td>
   </tr>
@@ -434,24 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/8392aeb8a2eb26062a172839393b09d52b9bb033f3a9905679908220a1c3c5c5.jpg> ぬいぐるみ 美術館に「宿泊」人気
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535875>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/dad48d8fe96b79b9b4b74db53d92bfe2f87cd4bd38c031cb6c42c293989db56d.jpg> 菅野がメジャー2勝目 監督絶賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/cdf0fea5a1268b643c11094f539ef3202fe087bcbc978817ccc4ed6980c9d486.jpg> フジ「ぽかぽか」万博ライブ中止
+      <a href=https://news.yahoo.co.jp/pickup/6535881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/dc6c1f0690f5cbafa45de229f9c698cfa98510aac488904d90c1e852ac9ed3c4.jpg> 伊藤美誠4強入り 日本対決を制す
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/cdf0fea5a1268b643c11094f539ef3202fe087bcbc978817ccc4ed6980c9d486.jpg> フジ「ぽかぽか」万博ライブ中止
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 15:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 15:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
