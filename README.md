@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/00d50b1de585f17498d112df3131d80b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ac70996d306570db6783b13a9485f71.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30805920b8edc88166768d18e9516595f5f126b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ソフトバンク正木　負傷交代し病院直行「やったときはめちゃくちゃ痛かった。まだ結果が出てないので…」
+      <a href=https://news.yahoo.co.jp/articles/a12ba40d58d1b26507af0de1cbdf6151b6f913c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90022893-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【長野県北部で震度4】午後11時39分ころ　松川村、小川村で震度4を観測
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/194e0339dfada2056bd8775450031516ff17d56f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90039957-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 長野県北部を震源とする最大震度5弱の地震 震源の深さは10kmでM5.0と推定 岐阜県高山市や中津川市などで震度2
+      <a href=https://news.yahoo.co.jp/articles/f61c89d0804f60d8c5c7a6e8ee8e2df739831f46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米国が貿易赤字ゼロ要求　日米財務相24日会談で調整　赤沢氏「優先順位はっきりしてきた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a14619754918cbd8719869c1da3acc14ebd5b2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000246-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=627&ch=627&exp=10800&fmt=webp> トランプ氏参加、寝間着姿で知る　機上の赤沢氏「びっくりした」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0d3e37b3d61017818bd6c6d8b063a43573392de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000069-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> モー娘。北川莉央が休養発表も同じ“写真流出”で別メンバーは“おとがめなし”にファンが抱くモヤモヤ
+      <a href=https://news.yahoo.co.jp/articles/b7d1795a5030289ebf491bd1dec652198d3ca7db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00010003-tvtokyosv-000-1-thumb.jpg?exp=10800&fmt=webp> エース早田ひな フルゲームの死闘の末に敗れる【卓球 W杯】
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/dfe8ea0ccc11001617aca6db518486a38882cedd48ab410d0b08c45337a6dfbc.jpg> 首相 米関税対策の検討加速を指示
+      <a href=https://news.yahoo.co.jp/pickup/6535929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/f2b37aaddafdfd3e2141ca4960c23f5f084a187b531c13ac00e9c8ca2f049052.jpg> 長野県で震度4 津波の心配なし
       </a>
     </td>
   </tr>
@@ -404,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535919>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/ec8b67b98d7771f0e31ecef1dbd458debafa55894e5d9574a3b476c948a8c72e.jpg> ETC障害 後払いの申し出は4%弱か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/dfe8ea0ccc11001617aca6db518486a38882cedd48ab410d0b08c45337a6dfbc.jpg> 首相 米関税対策の検討加速を指示
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535928>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/8474dcfda96398522778a4a7dcc86b6ea71a04b2a17aad623f857969344ec5dc.jpg> 張本智和 2大会連続のメダル逃す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535918>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/c0ced8c4460cc8a560fa649e1c46dcd36eae5e808b2ec4e581e50e876ca6b76e.jpg> 阪神・村上 1イニングだけで54球
       </a>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 23:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 23:52:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
