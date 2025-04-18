@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b670465a7ccc2955fc487e3abf7c77c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e452befb6fbb130d39d52afc064925eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb26aa72bfc5167065db49c5f0b17d9e6e8f6c09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000099-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジ「サン！シャイン」　久々に自局の不適切事案を報じる、これまで被害者コメントなどは報じず
+      <a href=https://news.yahoo.co.jp/articles/7da71a8fd2f5a8ce7eeda99a63c29281402a6062>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000103-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 神田愛花　フジ“取締役候補”の会見に「働く人の人権を守ることに対する具体的な案も聞きたかった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/542f4ac7ed896408957e3833f6921646e19365a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00052968-hankyoreh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=393&ch=393&exp=10800&fmt=webp> 「関税ショック」がより大きいのは中国人より米国人
+      <a href=https://news.yahoo.co.jp/articles/d4936e11858014f10468d85d50b799ce35f5e6a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00487026-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=336&ch=336&exp=10800&fmt=webp> トランプ関税影響か　3月の対米鉄鋼輸出額15．7％減＝韓国
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf37d176caf73417ced95db2fc4b0b5b32e3a2f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000018-ann-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　FRBパウエル議長に退任要求「利下げすべき」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e7bcaa49dc178b1a8d472dad4cddd563a6288f7a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-30807461-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> フジＨＤ投資が花開いた英投資会社、地銀や建設に勝機－米関税影響少
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3517882c46abd5ce9e63d24140568a9f2b29b745>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000005-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=374&ch=374&exp=10800&fmt=webp> トランプ氏「パウエルは『政治ゲーム』中…私が求めればすぐに『アウト』」
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/3e69e284367b48bbc8b2f8cba3af57292fb842ad6be2df8b2fd11215db72cb35.jpg> 米フロリダの大学で銃撃 7人死傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535823>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/ff56f9b07a7c885469dab2c0d4e6a54a9c5226f561b6923382b7f8a4cc7d8780.jpg> 不明19歳女性 交際巡り警察に相談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535821>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/14f0a49f02de8304dfdfc1127fa3c7817bca958c308f94c96f2e7283c39613b5.jpg> メーカー社員 無資格でX線照射
       </a>
     </td>
   </tr>
@@ -442,6 +426,30 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535836>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/700c406b3e509ca9675e266f7070b1e27e393b4279135d736e56197b0a884a83.jpg> 東伊豆町「震度7」とメール誤送信
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/c909e3269dfda8d7ed2e4a9eb1bacf33f7913305d0c971711e24b8a30fa12f2a.jpg> 桜倒れけが「老木化」悩む自治体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535835>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/aca17072490bbfb3096b1f5bedd53553bc231e8713a35a686bd7f7f3f58f4365.jpg> 「ワケあり区」印象改善に本腰
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535833>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/17deb19162559fc79cbd6e50331cfe957762940f85af639e968efa30df2b3976.jpg> ガソリン210円も なぜ全国最高値
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/504c6089f3bf1cbbc31776bf7b275a5eba5ac5322784cf847d16bff89dc37ded.jpg> フジ再建に参加 堀江氏も前向き?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535827>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/44de374e949b3d47ab5a7573aafb6ec6a5792b028247ec59b4557a28cb18083d.jpg> 田中将大 なぜ2回6失点の大炎上
+      <a href=https://news.yahoo.co.jp/pickup/6535837>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/91df36e0b7ecaaa675b1b38d72ccaa2f00dafaa75f3ac8a475be8fc7086ac4d8.jpg> ラグビー強豪 急死の少年「入部」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 09:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 09:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
