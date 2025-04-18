@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/76b6d30e42c4d9c19d7f8018cdc858f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da3afd0885d81a6ef1249eeab5eee2c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57f0a0971bbf9413c914b637e67cfdb1347e3fe3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000046-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 柏崎刈羽再稼働巡る県民投票条例案、賛成少数で否決　新潟県議会
+      <a href=https://news.yahoo.co.jp/articles/fc660531dbaa4aff131d01cdb47e676afd2e6cb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-07231427-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 三菱UFJ銀行元行員・山崎由香理被告「全部認めさせていただきます」初公判で起訴内容認める　貸金庫から計2億8800万円相当の金塊を盗んだ罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b2ec0223fdd04bccf3a4347ec7cd587ba43cb031>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000006-hnrm-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 《ナンバーワン芸妓だった》中村七之助電撃結婚！「芸達者で真面目なかたです」梨園きってのモテ男が選んだお相手
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d90e31c41a4fa3eee2ce093c29f1173cf515f23e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000232-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=26&cy=0&cw=1167&ch=1167&exp=10800&fmt=webp> 巨人が田中将大を抹消　5月1日の広島戦目指し再調整へ　前日DeNA戦で2回6失点KO
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d4b1bef9a11b86e9c8755256a563b77c1bfe1f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000207-spnannex-000-22-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=717&ch=717&exp=10800&fmt=webp> モー娘。生田衣梨奈　活動休止の北川莉央に言及「しっかり区切りを」前向く「卒業笑顔で見送って」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3747eb839586023b76a423c906468a98d6194ac5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-10174348-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=599&ch=599&exp=10800&fmt=webp> トランプ大統領 日本との関税合意時期「急いでいない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb5fba9d59d078492de58aad71328fe3ebe320bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000064-jij-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 山崎被告「全部認めます」　口調はきはき、伏し目がちな様子も　三菱UFJ貸金庫事件
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535862>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/0e0830b1739b9099445df7f1afc7c57029dbad589511d91daada8255a515d0c8.jpg> トランプ氏 日米交渉「優位」強調
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535884>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/86daa7ba8653aa680f570367e145c944b5445960ca3a6d26c2561808126655cf.jpg> 柏崎刈羽 県民投票条例案が否決
       </a>
@@ -418,8 +410,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/3241a0084e2c6496d037feddcbd0b04cbcd9147947066f03a941f951b40c165c.jpg> 選手の中傷対策強化 改正案提出へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535880>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/013cde0f9b6fca729c8cfad249fe0e0100adb7ce61f0c0e22df909a6fbc13343.jpg> 公園で殺人事件 女が現場に誘導か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/415e0cd4adcd5e135bd46cbac21a9976308d2df8aa2a2b27dc544521f1a568af.jpg> 病院で有毒ガス 誤った薬品混ぜる
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535872>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/f156f1ac86506fe0cd8bd13a511a8fd2dbdcbe174ab67a1f63d3d0ad902ff8f3.jpg> 50歳までに引退 F1アロンソ言及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/729c3e9421228a3e72550d305619bab5476670d25ae8712d1e82b90522be95e5.jpg> 歌舞伎俳優・中村七之助が結婚
+      <a href=https://news.yahoo.co.jp/pickup/6535887>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/d2051374930399ec1973d5600b79762eb96e25190ac890828a572743b4430183.jpg> 中村七之助が結婚 相手は一般女性
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 16:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 16:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
