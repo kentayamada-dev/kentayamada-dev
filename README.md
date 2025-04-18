@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GcgtTWUzhmg?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e452befb6fbb130d39d52afc064925eb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bc39c67cd3d5cef2cb8bfc3ad1a4050e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7da71a8fd2f5a8ce7eeda99a63c29281402a6062>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000103-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 神田愛花　フジ“取締役候補”の会見に「働く人の人権を守ることに対する具体的な案も聞きたかった」
+      <a href=https://news.yahoo.co.jp/articles/bd798622ad90776758f5e2f0d1a6a1cfd7e726d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> トランプ関税を受けた各中央銀行の対応は分かれる：ECBは6回連続の利下げ：トランプ大統領はパウエル議長に辞任を求める：日銀の追加利上げは9月に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4936e11858014f10468d85d50b799ce35f5e6a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00487026-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=336&ch=336&exp=10800&fmt=webp> トランプ関税影響か　3月の対米鉄鋼輸出額15．7％減＝韓国
+      <a href=https://news.yahoo.co.jp/articles/ca6b9f46c8274442c2bdecda6b305fd5ede5adf8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180189-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=870&ch=870&exp=10800&fmt=webp> 「働く人たちの人権に対する具体案をお聞きしたかった」神田愛花　SBI北尾吉孝会長の会見に
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7bcaa49dc178b1a8d472dad4cddd563a6288f7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-30807461-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> フジＨＤ投資が花開いた英投資会社、地銀や建設に勝機－米関税影響少
+      <a href=https://news.yahoo.co.jp/articles/ce7a240f46969387a7c002e2061d07f7748c430c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00010001-minkabu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=630&ch=630&exp=10800&fmt=webp> トランプ関税で米国予想インフレ率は6.7％に! 43年ぶり高水準の大地獄へ…各国の反応にトランプはビビっているのか？日本の残念が現実
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535826>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/cc1521bae5bed8369db6dfc8e3b47f6378303a8a8d1beac8f5022321cb7c9e4b.jpg> 日米交渉は「参考書」か 各国注目
+      <a href=https://news.yahoo.co.jp/pickup/6535842>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/ee037ce253ea92f60dfbc6ef85f60b503353694b58c68111dc55b43642777e6d.jpg> 日米交渉「国難」打開は不透明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/ff56f9b07a7c885469dab2c0d4e6a54a9c5226f561b6923382b7f8a4cc7d8780.jpg> 不明19歳女性 交際巡り警察に相談
+      <a href=https://news.yahoo.co.jp/pickup/6535840>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/731742077d2276d0ce2fd6ad1e346857396663028e0eaf2db6b86fedb429df3b.jpg> FRB議長解任を数カ月協議 報道
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/aca17072490bbfb3096b1f5bedd53553bc231e8713a35a686bd7f7f3f58f4365.jpg> 「ワケあり区」印象改善に本腰
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/e1baea6d479473706a7c959b0bf2f9d8e10be31286f800d4670899c38dc4701c.jpg> 「ワケあり区」印象改善に本腰
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 09:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 10:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
