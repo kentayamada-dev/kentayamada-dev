@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GcgtTWUzhmg?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0441a57c46443b81a1576adfaf3d2cae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b670465a7ccc2955fc487e3abf7c77c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/542f4ac7ed896408957e3833f6921646e19365a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00052968-hankyoreh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=393&ch=393&exp=10800&fmt=webp> 「関税ショック」がより大きいのは中国人より米国人
+      <a href=https://news.yahoo.co.jp/articles/eb26aa72bfc5167065db49c5f0b17d9e6e8f6c09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000099-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=787&ch=787&exp=10800&fmt=webp> フジ「サン！シャイン」　久々に自局の不適切事案を報じる、これまで被害者コメントなどは報じず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15a3a1c345b51e3441a3cf3c29363e753a6e5de9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180065-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=1356&ch=1356&exp=10800&fmt=webp> 堀江貴文氏「ガチャピン、ムック」再建に意欲　フジテレビ取締役候補SBI北尾吉孝と連携意向
+      <a href=https://news.yahoo.co.jp/articles/542f4ac7ed896408957e3833f6921646e19365a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00052968-hankyoreh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=393&ch=393&exp=10800&fmt=webp> 「関税ショック」がより大きいのは中国人より米国人
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535822>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/de8e0c6a07f86391e1f9c24a1b231286a6df24e6fafcd5c9d8ce10f8a03eb45e.jpg> 有楽町線延伸 東武線と直通運転へ
+      <a href=https://news.yahoo.co.jp/pickup/6535831>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/10adb5afa13cb7d7d47b108b99b735548c4fd2312e390e1b31ed8be8ac12d803.jpg> 千円着服で退職金不支給 適法判決
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 08:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 09:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
