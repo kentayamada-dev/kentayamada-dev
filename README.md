@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bcb8bb076a9eb4e0cd598913a09717d6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2fcd7ca95c40673d916bf3ebf7ee8c8d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ecb2af7e9b0f114ffd5625a8c160e1272304b6ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000185-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1761&ch=1761&exp=10800&fmt=webp> 福岡のうどんチェーン買収　堀江貴文氏顧問の食品企業
+      <a href=https://news.yahoo.co.jp/articles/59324814ea828d2e12dc7c08361d6cbf5604fbfe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-04181216-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 【西武】源田壮亮が「右大腿前面の張り」により途中交代　第１打席ではＮＰＢ初の魚雷バットを使用か
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e407c5083c73140c6fa94820a253119cd9df9b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000091-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=842&ch=842&exp=10800&fmt=webp> 野田立民代表「横綱にもへりくだるな」　赤沢氏「格下」発言に苦言
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000091-jij-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=842&ch=842&exp=10800&fmt=webp> 野田立民代表「横綱にもへりくだるな」　赤沢氏「格下」発言に苦言
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/74821b8549df84a00f3a252c296aac605020e67abd09d1ae885da77711f901b9.jpg> コージー冨田公表 1型糖尿病とは
+      <a href=https://news.yahoo.co.jp/pickup/6535905>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 不同意性交疑い 中孝介さん不起訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535905>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 不同意性交疑い 中孝介さん不起訴
+      <a href=https://news.yahoo.co.jp/pickup/6535910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/1d3f8667c9d93093779cc935297a380381faaecba843b3bf260275c594733ed8.jpg> 西武・源田「魚雷バット」を使用
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 19:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 20:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
