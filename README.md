@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b76befaeeab03d5bdf47a30d6d74fe46.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f249394c0981fda772b5d9d9ba8ee13e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/126e23022c408c20fe259c06f6926d23179d16f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865201-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度2の地震　長野県・松川村
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/948870d36b90ecd95fe286a952900e86e07d3d0d>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535933>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/76daa127a3151356fff8704fbb34362d9f8e79b2378250fb5819fae1ebe28fbf.jpg> 長野県で震度4 津波の心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6535920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/dfe8ea0ccc11001617aca6db518486a38882cedd48ab410d0b08c45337a6dfbc.jpg> 首相 米関税対策の検討加速を指示
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/dfe8ea0ccc11001617aca6db518486a38882cedd48ab410d0b08c45337a6dfbc.jpg> 首相 米関税対策の検討加速を指示
+      <a href=https://news.yahoo.co.jp/pickup/6535935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/75617f3bfd6aee84741da68fbec521875c74793e5d5711130341c7dcc0eeaf83.jpg> 「ズドン」長野で5弱 余震に注意
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 01:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 02:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
