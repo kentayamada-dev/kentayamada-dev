@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ead433ef401780a8cde227acfc34ab98.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2431ffbf8ef6266eeaa775d1fa561292.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/480438c8480de8863f89c1bcb857b311bdc4c5a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865346-sbcv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=1440&ch=1440&exp=10800&fmt=webp> 最大震度5弱の地震から一夜　長野県大町市では石垣の損壊や屋根瓦が落下…被害状況の確認進める　JRや高速道路は通常通り　最大震度4は2回、震度3は3回観測
+      <a href=https://news.yahoo.co.jp/articles/6f8b064c1be5bb1b8f144154fc97189123899876>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】19日の天気 - 関東甲信で真夏日予想　西〜東日本は黄砂飛来の可能性も（19日7時更新）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3638ef3f8ffa7fcc02e894ddfff3600e4b2a90b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000005-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=871&ch=871&exp=10800&fmt=webp> 政府、早期妥結へ検討急ぐ　日米関税交渉、安保の扱い焦点
+      <a href=https://news.yahoo.co.jp/articles/9b9ced5d725257d4078ee9560072074735009a6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-04191024-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が「父親リスト」入り、真美子夫人第１子出産間近か　ロバーツ監督「しばらくはチームを離れる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6e358637b6c2b0f51518fb1a85e4a4bd5610f2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010005-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 広島・森下暢仁が完投勝利、矢野雅哉が勝ち越し打｜阪神×広島｜プロ野球結果
+      <a href=https://news.yahoo.co.jp/articles/9fbaf01f12942f99dba486d3fe6bed204aa5c2fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00960157-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 長野北部で震度5弱「縦揺れっぽく『どかん』と一発。その後、じわじわ揺れていた」避難しようとした男性1人けが
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eeba04b6980c133cdf1c0b3287075ff54327ea58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865340-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市、松川村
+      <a href=https://news.yahoo.co.jp/articles/45543a526da223a60b0193349b20fa61f1f58dc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000180-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=938&ch=938&exp=10800&fmt=webp> 阪神・村上頌樹「みんなに申し訳ない」自己ワーストの1イニング5失点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/17d8afe98837b6d6c490376e3f72bbaf59f22767>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000021-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> MAGA帽子でグーサイン写真　トランプ氏と会談の赤沢再生相
       </a>
     </td>
   </tr>
@@ -392,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/75617f3bfd6aee84741da68fbec521875c74793e5d5711130341c7dcc0eeaf83.jpg> 「ズドン」長野で5弱 余震に注意
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535920>
@@ -410,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/75617f3bfd6aee84741da68fbec521875c74793e5d5711130341c7dcc0eeaf83.jpg> 「ズドン」長野で5弱 余震に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535924>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/78a4bab051e098199b586110df1e461e8702f33f3e933bded6e4b335af2b60ac.jpg> 自衛隊は人殺しの訓練 発言に抗議
       </a>
@@ -426,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/67cb9a86903a1a77669c039c2ab730d2e9397004c40cbf4986c29e86e25b59af.jpg> ごみ収集車に巻き込まれ 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/600b0931744732d8485ec3b1d0a23f25655d2df175905944f836325330b3f054.jpg> 無資格X線「証拠撮るな」と社長
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/7ab8956b95404d912bd6aec2b807e3829d1f2ee4edcb437d8c6e2f64873f71ed.jpg> 万博 スマホアプリ乱立に不満の声
+      <a href=https://news.yahoo.co.jp/pickup/6535939>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 工事で土砂に埋まる 作業員が死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/d73f0f15694ef713648b6c89b542681b70c4932a617e7d4dc7260d3a7d0e9566.jpg> ヤクルト塩見が左膝手術 復帰未定
+      <a href=https://news.yahoo.co.jp/pickup/6535941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/a91d6a7915d6862db65f77bf6f41a631438348d25bb3f0171e4f4f7e972a4e01.jpg> 大谷「父親リスト」入り 欠場へ
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 07:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 08:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
