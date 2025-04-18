@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/da3afd0885d81a6ef1249eeab5eee2c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/217b4f448fe25525ebc99a2b496d0ad1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc660531dbaa4aff131d01cdb47e676afd2e6cb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-07231427-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 三菱UFJ銀行元行員・山崎由香理被告「全部認めさせていただきます」初公判で起訴内容認める　貸金庫から計2億8800万円相当の金塊を盗んだ罪
+      <a href=https://news.yahoo.co.jp/articles/3585a8a4a03a2265b7ae88169209f1b0154f457e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000479-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=580&ch=580&exp=10800&fmt=webp> 万博、イベント中止でチケット＆予約どうなる？ 『ぽかぽか』は「2か月前抽選」終了済、当選者に案内
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2ec0223fdd04bccf3a4347ec7cd587ba43cb031>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000006-hnrm-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 《ナンバーワン芸妓だった》中村七之助電撃結婚！「芸達者で真面目なかたです」梨園きってのモテ男が選んだお相手
+      <a href=https://news.yahoo.co.jp/articles/b6b94a984efc0a6bc84d176ca227710e8654970a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180841-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=716&ch=716&exp=10800&fmt=webp> 「舞の海が土俵に上がると相手は曙だったが…」立民・野田代表が赤沢大臣の“格下”発言に苦言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/188bae8a9e8a8285af937c6169a9ea3f02df4378>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-07231397-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 山手線・京浜東北線の一部区間 あす（19日）～20日で運休 約54万人に影響　2031年度開業見込みの「羽田空港アクセス線」工事で JR東日本
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fc660531dbaa4aff131d01cdb47e676afd2e6cb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-07231427-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 三菱UFJ銀行元行員・山崎由香理被告「全部認めさせていただきます」初公判で起訴内容認める　貸金庫から計2億8800万円相当の金塊を盗んだ罪
       </a>
     </td>
   </tr>
@@ -379,27 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f3771cc2c670768bb3496093c1156b4560393ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180594-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> MATSURI「ぽかぽか」万博イベント中止を受け吐露　時折、涙を浮かべながら生歌唱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3747eb839586023b76a423c906468a98d6194ac5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-10174348-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=599&ch=599&exp=10800&fmt=webp> トランプ大統領 日本との関税合意時期「急いでいない」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535888>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/77bab2b9ad4064b5a3a2508f3e779f61334482e6a22bf34e0f5d0be7d20a7166.jpg> 赤沢氏が帰国 言うべきこと言った
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535884>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535878>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/3241a0084e2c6496d037feddcbd0b04cbcd9147947066f03a941f951b40c165c.jpg> 選手の中傷対策強化 改正案提出へ
+      <a href=https://news.yahoo.co.jp/pickup/6535889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/74335d96acf7f8735ee8fec656f0d829709943ed3b532000e0f177dabc99ba03.jpg> 54万人影響か 19-20日JR一部運休
       </a>
     </td>
   </tr>
@@ -426,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535890>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/201ca25f3a3feb70bcab8a3b4a14c973520e46292cce635fce68ca0257208eec.jpg> 工事で土砂に埋まる 1人心肺停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535886>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/415e0cd4adcd5e135bd46cbac21a9976308d2df8aa2a2b27dc544521f1a568af.jpg> 病院で有毒ガス 誤った薬品混ぜる
       </a>
@@ -434,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535882>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tadafumiaki/02175885/title-1744944796665.jpeg?exp=10800> 猛威をふるう詐欺メール 手口は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535883>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanokikuno/02175306/title-1744890094077.jpeg?exp=10800> 4月のうちに エアコン試運転を
+      <a href=https://news.yahoo.co.jp/pickup/6535891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/c1a91e34154699125ed61be2b26f9e7cf7232908dae3651daeccdb1fe2281301.jpg> 村上宗隆 わずか1日で登録抹消
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/cdf0fea5a1268b643c11094f539ef3202fe087bcbc978817ccc4ed6980c9d486.jpg> フジ「ぽかぽか」万博ライブ中止
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 16:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 17:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
