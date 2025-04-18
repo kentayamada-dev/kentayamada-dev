@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/76afc01e0dd767845c8589810f00eb9c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a87d1abeabed7f49af82428ab247968e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe0176847d5107b6bd8dcd9fa2ca6414c16396aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000435-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=799&ch=799&exp=10800&fmt=webp> MATSURI『ぽかぽか』万博ライブ中止に無念さにじませる　涙ながらに生歌唱
+      <a href=https://news.yahoo.co.jp/articles/7138a8e410898d579cc978991a063aae5d65ba25>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-04547172-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 神田愛花「ぽかぽか」万博イベント中止に声詰まらせる「全ての皆さんにご迷惑をおかけした」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c142157386ce80d4b25783ba89c32674214f438c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000187-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 中村七之助　結婚を発表　梨園きっての“モテ男”「結婚願望ない」発言もついに
       </a>
     </td>
   </tr>
@@ -366,23 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ba9cafb604d9846a87f231510d57b90f74285b11>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 三菱UFJ貸金庫窃盗　被告の女、起訴内容認める　検察“FX取引の損失補填のため”指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a149e9582ef8c29a6d4b08a84ce04e6729e9879>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00010014-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=453&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 立憲が経済対策とりまとめ　党内対立の消費減税盛り込まず　ガソリン暫定税率廃止など柱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9634f80e1223ea0f3d681ccc8de09370403cffdd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00959696-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=708&ch=708&exp=10800&fmt=webp> 「有機溶剤を吸い込んだ」アスベスト除去作業中の女性1人死亡・男性2人搬送　マンション解体工事中の現場
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-04759323-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 三菱UFJ貸金庫窃盗　被告の女、起訴内容認める　検察“FX取引の損失補填のため”指摘
       </a>
     </td>
   </tr>
@@ -391,6 +383,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0917a2deeddd4ff3c9ee6d28b50245c9dfa4ad01>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000038-ann-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領 日本との関税合意「急いでいない」　関税交渉で優位な立場誇示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d523933410a0a781259134431ed8401f207b441>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000013-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=1389&ch=1389&exp=10800&fmt=webp> FRB議長は「私が頼めば辞める」 トランプ氏
       </a>
     </td>
   </tr>
@@ -427,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/ddaf8d73b1d757f902133fc282a93dbcbe993820a7c16d5f660bde1eeb9aa9c3.jpg> 駐車場で高齢女性死亡 ひき逃げか
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/05b5aa1d835f21fefe5170b6cbb814450dae4983e3c96e3cfafe6ebe7f181942.jpg> 駐車場で高齢女性死亡 ひき逃げか
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535856>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/d745dc21a69f50224e248507b1df1794b25ebd00ad1eaa99bf3850b90c7dd00e.jpg> 松井裕樹&石橋杏奈に第3子誕生
+      <a href=https://news.yahoo.co.jp/pickup/6535875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/dad48d8fe96b79b9b4b74db53d92bfe2f87cd4bd38c031cb6c42c293989db56d.jpg> 菅野がメジャー2勝目 監督絶賛
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/dd1ba9141c914c08137738053cc1b43408e14d898ed5b400d4d7ab9647fc5ede.jpg> BE:FIRST 米での3公演中止を発表
+      <a href=https://news.yahoo.co.jp/pickup/6535876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/729c3e9421228a3e72550d305619bab5476670d25ae8712d1e82b90522be95e5.jpg> 歌舞伎俳優・中村七之助が結婚
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 14:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 14:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
