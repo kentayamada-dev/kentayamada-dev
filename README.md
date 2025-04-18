@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/54ad8d54f409a1e9a436b332b5b1370f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e5c39d39c6590acfe6e0776954d4ebc9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57650eb69ca059e98090d5122df6db7e78dd1168>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865305-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d01e8a63f3e18226a647e5eb621db67956873279>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00341593-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【阪神】急がれる「脱・外弁慶」　ケガ人多くないのに…脳裏によぎる甲子園勝率の〝不吉データ〟
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aae646e4710a51091f3f56cc2e517b74d5298ca9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00050155-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ関税交渉、米は貿易赤字・自動車・コメに関心…日本はコメ・大豆の輸入拡大カード用意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ad08fd91467bf16dff8bef7aa87eb2debdb6fb14>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865297-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市、小川村
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d9253f0b38c6b47bad1225a503d0701c0af7619>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865255-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1cbe0a7116c2b0c542e315d70e0868369374ad6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-06889299-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「ドラム缶の中から人の足が見える」会社の敷地内で性別不詳の遺体　埼玉・吉川市
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 05:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 05:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
