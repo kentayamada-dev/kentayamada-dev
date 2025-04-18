@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/217b4f448fe25525ebc99a2b496d0ad1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/07013feae15f2fb0843af576c7b84c78.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3585a8a4a03a2265b7ae88169209f1b0154f457e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000479-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=580&ch=580&exp=10800&fmt=webp> 万博、イベント中止でチケット＆予約どうなる？ 『ぽかぽか』は「2か月前抽選」終了済、当選者に案内
+      <a href=https://news.yahoo.co.jp/articles/40b1bf38b36801429d9e8a10fb2c460b4955200b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00050101-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=374&ch=374&exp=10800&fmt=webp> フジが万博イベント中止、中居正広氏の性加害問題受け「弊社取り巻く諸般の事情を総合的に勘案」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6b94a984efc0a6bc84d176ca227710e8654970a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180841-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=716&ch=716&exp=10800&fmt=webp> 「舞の海が土俵に上がると相手は曙だったが…」立民・野田代表が赤沢大臣の“格下”発言に苦言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/188bae8a9e8a8285af937c6169a9ea3f02df4378>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-07231397-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 山手線・京浜東北線の一部区間 あす（19日）～20日で運休 約54万人に影響　2031年度開業見込みの「羽田空港アクセス線」工事で JR東日本
+      <a href=https://news.yahoo.co.jp/articles/90fbabeed1e34e4fd4cbfc4964b7cf4cc7a6de09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-07231366-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「我々としては何ら変更する理由ない」と中谷防衛大臣　トランプ大統領の“在日米軍の駐留経費の改善要求”に対し
       </a>
     </td>
   </tr>
@@ -391,6 +383,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d90e31c41a4fa3eee2ce093c29f1173cf515f23e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000232-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=26&cy=0&cw=1167&ch=1167&exp=10800&fmt=webp> 巨人が田中将大を抹消　5月1日の広島戦目指し再調整へ　前日DeNA戦で2回6失点KO
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/714c5178d3688d1f2cade4bd886af3cbad87a2c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000045-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=739&cy=0&cw=1461&ch=1461&exp=10800&fmt=webp> ＜イグナイト -法の無法者-＞「『こんなリーガルドラマ観たことない！』とシンプルに興奮してほしい」　ドラマPに聞く狙い　間宮祥太朗らの起用理由も
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535890>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/201ca25f3a3feb70bcab8a3b4a14c973520e46292cce635fce68ca0257208eec.jpg> 工事で土砂に埋まる 1人心肺停止
+      <a href=https://news.yahoo.co.jp/pickup/6535894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/27d9d8344d5c7c39fdb834e121bd41ebf14879c8ed2f65c604aca5da62d42f31.jpg> 車いす生徒入学断り波紋 識者指摘
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 17:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 17:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
