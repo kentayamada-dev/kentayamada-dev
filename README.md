@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ac70996d306570db6783b13a9485f71.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6a8b2455adc26d93a28116625b65f320.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a12ba40d58d1b26507af0de1cbdf6151b6f913c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90022893-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【長野県北部で震度4】午後11時39分ころ　松川村、小川村で震度4を観測
+      <a href=https://news.yahoo.co.jp/articles/87b9367be65512f86f891ad6d7fe90171e5ffc70>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865121-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・松川村
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/f2b37aaddafdfd3e2141ca4960c23f5f084a187b531c13ac00e9c8ca2f049052.jpg> 長野県で震度4 津波の心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6535932>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/f3207e8a85195bf54fbcf1ea7f5c9d24f57158284bae0f8eab2c19ae32194217.jpg> 長野5弱 1週間は同程度の地震注意
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 23:52:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 00:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
