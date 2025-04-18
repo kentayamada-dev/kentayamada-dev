@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae02ea881db63c6f429304169439bff7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/beb098e72d59163fbb4be9720c47293d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6119a1076df5af5b1f0a9c535b55078e37408952>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00959612-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日米交渉の“カード”洗い出し急ぐ…石破首相「日米に依然隔たり」と政府一丸の対応強調　安全保障や為替についても念頭に
+      <a href=https://news.yahoo.co.jp/articles/0917a2deeddd4ff3c9ee6d28b50245c9dfa4ad01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000038-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ大統領 日本との関税合意「急いでいない」　関税交渉で優位な立場誇示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f563325a8a0397cd42a05d3c6cda3cdb56360be8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-04181066-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=800&ch=800&exp=10800&fmt=webp> パドレス・松井裕樹が第３子の次女誕生を発表「立ち会い出産を経験しました」　妻は女優の石橋杏奈
+      <a href=https://news.yahoo.co.jp/articles/5c3161fd84dffccf0c314e1815b600a2549d8645>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「全部認めさせていただく」UFJ銀貸金庫窃盗で元行員の女の初公判　FXで多額の借金
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d523933410a0a781259134431ed8401f207b441>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000013-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=1389&ch=1389&exp=10800&fmt=webp> FRB議長は「私が頼めば辞める」 トランプ氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9402bc97bff68b8fa47189ad7f09959895c3d102>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-21862804-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> きょうは晴れて名古屋や岐阜は2日連続の夏日に 岐阜・三重の一部地域では雨が降るところも （4/18昼 天気予報）愛知・岐阜・三重
       </a>
     </td>
   </tr>
@@ -375,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc7cd0706a81416019b99abeb4ff634ce7fcc138>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90022970-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=675&ch=675&exp=10800&fmt=webp> SBI北尾社長がフジ改革に意欲「敵対なら徹底的に勝負」　堀江貴文氏「再編手伝う」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7083323990261f9fd5044ef61cf6ae21ef6ee0d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00050040-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> トランプ氏、パウエルＦＲＢ議長を批判「私が辞任を求めれば彼はすぐ辞めるだろう」…利下げめぐり対立深める
       </a>
     </td>
   </tr>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535840>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/731742077d2276d0ce2fd6ad1e346857396663028e0eaf2db6b86fedb429df3b.jpg> FRB議長解任を数カ月協議 報道
+      <a href=https://news.yahoo.co.jp/pickup/6535841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/8c7350673c7c2323ce0365c46095141d42bd45d4e0ce38af000ce09cf21837e4.jpg> 米Google 広告巡り独禁法違反
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535841>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/8c7350673c7c2323ce0365c46095141d42bd45d4e0ce38af000ce09cf21837e4.jpg> 米Google 広告巡り独禁法違反
+      <a href=https://news.yahoo.co.jp/pickup/6535866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/a2c6359bce588545972dd11aad64402a2750663142ca63619b489bd9aab96b3d.jpg> あすは「まるで夏」熱中症に注意
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535837>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/91df36e0b7ecaaa675b1b38d72ccaa2f00dafaa75f3ac8a475be8fc7086ac4d8.jpg> ラグビー強豪 急死の少年「入部」
+      <a href=https://news.yahoo.co.jp/pickup/6535865>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/47064374882f9f4261e9e1f616a681800f00f4a5243b7d47ec27da2597a26c25.jpg> 「中国系民泊」急増 移住が目的か
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 12:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 12:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
