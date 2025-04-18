@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/96edac72c829018260c0ecd753a1496d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e857eae4c04d2402c7a745bf9bd0bb16.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9af6de592a56b650052f2d2e19da7397de8b38e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-01738626-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 鷹激震…正木智也は亜脱臼か　病院直行、小久保監督も心配「厳しいでしょうね」
+      <a href=https://news.yahoo.co.jp/articles/b1bbb14cec9ede80de10d3171362e3304a8a5304>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90022888-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=310&cy=0&cw=813&ch=813&exp=10800&fmt=webp> 【長野県北部で震度5弱】震源地はごく浅い場所　その後も小さな地震相次ぐ　大町市、長野市などで震度1～2の揺れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5b712b4b453c47f99b765ade05617fb328b9cc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-21865021-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度2の地震　長野県・松川村
+      <a href=https://news.yahoo.co.jp/articles/7b0daeb5c38176af1ba64cdf3402c5a520db76cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00010052-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=891&ch=891&exp=10800&fmt=webp> 「ホークスの戦いはそういう年」　ソフトバンク小久保監督、負傷者続出でも貫く信念　「これからどうするか」　5番の正木智也まで左肩負傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e21ab37ccd672c951eebbd045ee965c5515db639>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000123-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 石破首相、日米関税交渉「前進が得られるよう検討加速」　今月中の赤沢氏の訪米を調整
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9c1734c6610034e530f2b8fc4ae44d8e7d426180>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-09423414-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 山中に24歳女性の遺体　知人男性が自宅で死亡…関連は　通報中に“男女の言い争う声”　岡山・備前市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e407c5083c73140c6fa94820a253119cd9df9b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000091-jij-000-21-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=574&ch=574&exp=10800&fmt=webp> 野田立民代表「横綱にもへりくだるな」　赤沢氏「格下」発言に苦言
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535923>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/67cb9a86903a1a77669c039c2ab730d2e9397004c40cbf4986c29e86e25b59af.jpg> ごみ収集車に巻き込まれ 男性死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535913>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/291f18f144210d7fd9f31d6588b582aa65bef75484b84cf840a5c0444c83e5e4.jpg> 百日ぜき感染 生後1カ月女児死亡
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535905>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 不同意性交疑い 中孝介さん不起訴
+      <a href=https://news.yahoo.co.jp/pickup/6535921>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/8815694ac9a8cb1c55cd150a9517a84b37ca35c517db9bdb6e85aea2892418ed.jpg> SB負傷者相次ぐ 正木が緊急交代
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535912>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/6d7b074e45fe750315b089c1364889119025e1ee12065ad9c9234d7964932b69.jpg> 西武・今井 珍事でノーノー逃す
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 21:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 22:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
