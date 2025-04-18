@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f6c179bf4cd8ec9baf69770d1d98c1c0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae02ea881db63c6f429304169439bff7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/140460fd93fd5212ec5bfdfce1b6b2ad03852209>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90022971-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=243&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 日米関税交渉の中身明らかに　トランプ氏が持論「米軍駐留費高い」
+      <a href=https://news.yahoo.co.jp/articles/6119a1076df5af5b1f0a9c535b55078e37408952>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00959612-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日米交渉の“カード”洗い出し急ぐ…石破首相「日米に依然隔たり」と政府一丸の対応強調　安全保障や為替についても念頭に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f563325a8a0397cd42a05d3c6cda3cdb56360be8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-04181066-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=800&ch=800&exp=10800&fmt=webp> パドレス・松井裕樹が第３子の次女誕生を発表「立ち会い出産を経験しました」　妻は女優の石橋杏奈
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fc7cd0706a81416019b99abeb4ff634ce7fcc138>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-90022970-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=675&ch=675&exp=10800&fmt=webp> SBI北尾社長がフジ改革に意欲「敵対なら徹底的に勝負」　堀江貴文氏「再編手伝う」
       </a>
     </td>
   </tr>
@@ -371,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca6b9f46c8274442c2bdecda6b305fd5ede5adf8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180189-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=870&ch=870&exp=10800&fmt=webp> 「働く人たちの人権に対する具体案をお聞きしたかった」神田愛花　SBI北尾吉孝会長の会見に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94df9780286f31966fdac83a280053961784f383>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-34180138-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=267&cw=935&ch=935&exp=10800&fmt=webp> 堀江貴文氏「僕はいまだにホルダー」フジHD株主総会へSBI北尾吉孝氏との「協力態勢」言及
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535842>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/ee037ce253ea92f60dfbc6ef85f60b503353694b58c68111dc55b43642777e6d.jpg> 日米交渉「国難」打開は不透明
+      <a href=https://news.yahoo.co.jp/pickup/6535859>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/b5705fba5f59426820063024acaf34bb431948df8a9cbce6af6f8f4568978517.jpg> 露、北海道近海で軍事演習を通告
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/10adb5afa13cb7d7d47b108b99b735548c4fd2312e390e1b31ed8be8ac12d803.jpg> 千円着服で退職金不支給 適法判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535847>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/4784404a169108fde82b69043d265ccb98d47d88f674eb634f5c0cedba8a3867.jpg> 女性死亡 息子とみられる男を逮捕
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/7cd737bb7b64674db155363e90bb35161937f3ab5f54e9e576d2b4f3e9912743.jpg> 女性遺棄疑い 昨夏ごろ殺したと男
+      <a href=https://news.yahoo.co.jp/pickup/6535857>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/eb395b48f870d3e4d825f969dd57cb07759bfadbe916db75aadf4dd96a30b622.jpg> JR中央線グリーン車 値下げ否定
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/27edcb4f714c2638190be6dbf3fdfe001b0092318d09135d710bdd59579114ff.jpg> 菅野が2勝目 本拠地は拍手喝采
+      <a href=https://news.yahoo.co.jp/pickup/6535856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/d745dc21a69f50224e248507b1df1794b25ebd00ad1eaa99bf3850b90c7dd00e.jpg> 松井裕樹&石橋杏奈に第3子誕生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535852>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/dd1ba9141c914c08137738053cc1b43408e14d898ed5b400d4d7ab9647fc5ede.jpg> BE:FIRST 米での3公演中止を発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/18 11:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/18 12:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
