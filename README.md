@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/38d075b93584a3b5ed401c42db41d123.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9261077e1453713edd863c96554093b8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fcbdbde754c7148f695ae97834ed05b0fc4799e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010004-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=924&ch=924&exp=10800&fmt=webp> 遺体入ったドラム缶　トランクルームに放置か　契約料金が未払いで回収　埼玉
+      <a href=https://news.yahoo.co.jp/articles/96436f825633b39140cf5def005b1f936ca7c2a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-01738282-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“代役”が躍動「大きな役割を引きついだ」　エドマンは安堵「ベストを尽くした」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71004b3cfbbe6efb665eebd591155fae297e8d2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000001-niigatatvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【地震】長野県北部が震源　震度5弱のあとに４も　県内震度１など　今後も強い揺れに注意【新潟】
+      <a href=https://news.yahoo.co.jp/articles/b29a47fad924122add497f6779dcb77e584b7c88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010006-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=385&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日米関税交渉　トランプ大統領は自動車へのこだわり強く…　 牛肉・コメにも言及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc08b6d085e6a5226d9c602ccee3cea16e10604d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00526752-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> パパ・大谷翔平に意外な懸念「負けるのか…」　プレーに影響は…ロバーツ監督指摘「興味深いね」
+      <a href=https://news.yahoo.co.jp/articles/2e71cdec0c859e36896d49071e9cb9cb5b3746d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-01621498-tsb-000-1-thumb.jpg?exp=10800&fmt=webp> 「心配で眠れませんでした」震度５弱から一夜…住民は不安な夜を過ごす　建物の倒壊被害は確認されず【長野】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ddff32cb78d4d3f04515316356e94e3cd5e19b50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050062-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 大谷翔平が「父親休暇」で今季めて欠場の一戦、山本由伸１０奪三振で３勝目…カブス鈴木誠也５号
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7349ad836dc6ee2ebf9fa7219b2b973a8036547e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000014-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 大阪・関西万博来場者数が累計50万人突破、6日目に関係者含め　期間中2820万人想定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bac15eac42432402734953b288ca0888c99d679>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00094659-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=87&cw=1080&ch=1080&exp=10800&fmt=webp> 東京のマンションバブルついに崩壊か…トランプ関税で乱高下の日本「ビル価格7億円￫7000万円引き」の衝撃
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/3d0fd3d8ac25e63893ae98fef58169709043b0b62d0f31434b19c28b491f2f3a.jpg> 女子高生刺殺 待ち伏せの形跡なし
+      <a href=https://news.yahoo.co.jp/pickup/6535964>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanokikuno/02177025/title-1745019737972.jpeg?exp=10800> 備蓄米が小売に0.3%だけ 今後は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535948>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/5ec2930ad62f2b6c4e4eadfb3ab71177698f6b8a2294411191ca0fe56a916317.jpg> 万博警備の資料 警察が一時紛失
+      <a href=https://news.yahoo.co.jp/pickup/6535962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/71bb5ec955e08acf4991db3ee8c5c32d59ed15b72c49a786a3fd2aaeea9535d9.jpg> ドラム缶遺体 成人とみられる女性
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/010eb928bc0d695c97b440b9c725a421da0e9496af469d073fbced9e7f77573e.jpg> 大谷「父親リスト」入り 欠場へ
+      <a href=https://news.yahoo.co.jp/pickup/6535965>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/cf25693e56c450c7acf6964462d103401e1fffd07a9c7063e8e098d26444a6b9.jpg> 大谷が入る「父親リスト」とは
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 11:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 12:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
