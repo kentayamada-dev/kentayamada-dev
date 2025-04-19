@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/55056c6772fc54e58d94e8fad81ff2d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/38d075b93584a3b5ed401c42db41d123.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a462573e2ce8d3cd94473c51c0f326c8e666311d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-04191048-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 山本由伸、今季最長７回無失点　防御率０・９３はリーグトップ　奪三振も２位　２１回連続自責なしの無双状態
+      <a href=https://news.yahoo.co.jp/articles/3fcbdbde754c7148f695ae97834ed05b0fc4799e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010004-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=924&ch=924&exp=10800&fmt=webp> 遺体入ったドラム缶　トランクルームに放置か　契約料金が未払いで回収　埼玉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/71004b3cfbbe6efb665eebd591155fae297e8d2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000001-niigatatvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【地震】長野県北部が震源　震度5弱のあとに４も　県内震度１など　今後も強い揺れに注意【新潟】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cc08b6d085e6a5226d9c602ccee3cea16e10604d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00526752-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> パパ・大谷翔平に意外な懸念「負けるのか…」　プレーに影響は…ロバーツ監督指摘「興味深いね」
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50e7800bfd28c10192292b03c818092409be52f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865424-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09a45dc3e4e650640ec925321adbba4a82083073>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000018-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大谷翔平に代わる1番エドマンが先頭打者弾、チーム2戦連続にネット「大谷選手が乗り移る！」「代役なんて言って失礼」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535942>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/b923fff3bc2e31195591f26435c8eb99cef4d1182e0e231722dfbe24511c7963.jpg> ゼレンスキー氏が万博訪問 調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535950>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/3d0fd3d8ac25e63893ae98fef58169709043b0b62d0f31434b19c28b491f2f3a.jpg> 女子高生刺殺 待ち伏せの形跡なし
       </a>
@@ -426,16 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/9629b8691d7740e47fbeb3435c4c2cf6444022d52ee75fee8e8933a185347e49.jpg> 山手線など一部運休 20日昼まで
+      <a href=https://news.yahoo.co.jp/pickup/6535948>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/5ec2930ad62f2b6c4e4eadfb3ab71177698f6b8a2294411191ca0fe56a916317.jpg> 万博警備の資料 警察が一時紛失
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/3b23e70240a3529c1ec5b57274c439465ee0be8a41789be9174132b7c7f2ca01.jpg> JR東 約6千億円の街づくりの全貌
+      <a href=https://news.yahoo.co.jp/pickup/6535956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/5f20a8440cb51856da9a0e341803462d6b54d00b4b098bc1489b7231be10733b.jpg> 関西万博50万人突破 愛知より早く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535961>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/8ce575440fac310d3de850fcda99ac3ea48a1e1f1ddcb7560c66bab5ec4c870b.jpg> GWの都内 カプセル1泊2万円超も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535945>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/c78172c83698040ffaac3caea039ce2a9de9d8f6d0bd5fafa714f6dff17e09f6.jpg> 「ブタミントン」令和に復活 なぜ
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535955>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/6653a5e86903eac41936a6fbf6ca6f372212ffd1befaff80008c417ad6f4947d.jpg> 川栄李奈「おバカ」キャラ封印中
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 11:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 11:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
