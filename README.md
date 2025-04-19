@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/db36685c94cf3f77a960da6388a9c8b5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f1b9a25668a36b2b705cb648b9da756a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/77086ec143750a265d4ff3594385156f6b29242f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050162-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米国の主な関心は自動車・農産品の対日輸出拡大、赤沢氏「実際には濃淡ある」…石破首相と対応協議
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050162-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米国の主な関心は自動車・農産品の対日輸出拡大、赤沢氏「実際には濃淡ある」…石破首相と対応協議
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536013>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/79ac352cede06c0e60352ef21e6921ef61e99ea7f66085abf6a59bba702e35f9.jpg> 安倍昭恵さん 台湾で安保巡る講演
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536041>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/adf383ceb7347c894d87fdf1542307a6f3c46e27ea9fd1eb394e89d1b833dc74.jpg> ドラム缶に遺体 死後かなりの時間
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/eaaeeefff9c0153f4384661e050dbfb4ec09111e45af04b6e6bc59c0ff6a9d7e.jpg> THE SECOND 決勝進出の8組決定
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 23:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 23:52:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
