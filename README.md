@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b714183cf4ddeac0280a411bf2992f28.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f381579666a09519c95a93a974893eca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8ea178c37b18205402123a664ba1d468912ce88b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00341633-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=922&ch=922&exp=10800&fmt=webp> 【ソフトバンク】前日負傷交代の正木智也は「左肩亜脱臼」登録抹消でリハビリ組へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9b186ccad8ac730f5728205873cdfc80ac2da80e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-07231578-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「今までかいだことのないような臭い」 ドラム缶の中から発見された遺体は成人女性か 死体遺棄事件として捜査　埼玉・吉川市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d6241a7db3a2b2c129a9674ad07e15ca993e3ab4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000071-chuspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=746&ch=746&exp=10800&fmt=webp> ドジャース・大谷翔平「父親リスト入り」、まもなくパパに…スター不在で現場ざわつく、ロバーツ監督「ビッグニュースだ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0799fc039561ec648fd15575d87ca09e47ebc80e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-34190661-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=1265&ch=1265&exp=10800&fmt=webp> 【ソフトバンク】正木智也、左肩亜脱臼で抹消　前日18日負傷交代　近藤、柳田に続き故障者続出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/780edcbaeea96bef2538b1ff612c88cab136a406>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000073-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=19&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 北海道のホテルで140人食中毒　音更町、下痢や嘔吐でノロ検出
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000071-chuspo-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=746&ch=746&exp=10800&fmt=webp> ドジャース・大谷翔平「父親リスト入り」、まもなくパパに…スター不在で現場ざわつく、ロバーツ監督「ビッグニュースだ」
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535981>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/8328d4203f576155d3253e62397f0aa583079c5f422d4516e17d9cfee9aaed35.jpg> 米 寄港の中国船に手数料徴収へ
+      <a href=https://news.yahoo.co.jp/pickup/6535999>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/d03a62dccc256628d0f8ea2499032bdb80b55d7face5a99687ef0163617cc685.jpg> PTA全国組織 1年間で100万人減少
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535984>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/601aa68fd953dfa3c863b80f24957051375055cad4e268a1a095e01fc3e52059.jpg> 首都高で玉突き 2歳の男の子死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535994>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/8739fa12a4bb01a96bcba38886817046cd8b6518ad17165a8df96ec4d28cd1e9.jpg> 大阪府営住宅で火災 27人を搬送
+      <a href=https://news.yahoo.co.jp/pickup/6536003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e49de7aded8f2135c99871af4aed5dbdb88c9eb7aeb1618b64d185e02261afef.jpg> 小泉氏 首相は思いをストレートに
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535997>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/3326b9b6ba9aa20fd52943706a3a1296c5bd180034e742b954d6d2ccc5f9a61c.jpg> 客悲鳴 ガソリン最高値も補助ゼロ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/b5d4f4b8408d1b7fc5c92cf2e17f6ce851a87bb290bd57fe62b48ab36604b525.jpg> 「万博の顔」ミャクミャクが人気
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 17:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 18:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
