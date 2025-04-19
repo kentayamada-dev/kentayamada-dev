@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2cf075573fafcbe8fb9f5921d8acd892.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c85bed93e3a86b2ad27e27dd223ed62.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5beabbbf6b59054e1128584aacddfbc5aa525659>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010051-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=94&cw=1037&ch=1037&exp=10800&fmt=webp> 「しばらくかかるでしょう」　ソフトバンク小久保監督、左肩亜脱臼した正木智也の長期離脱を覚悟　18日の西武戦で負傷、全治未定
+      <a href=https://news.yahoo.co.jp/articles/5ec18d72a80544085d75edf00f46729fedb8c0d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-01739047-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷産休で昇格した“秘密兵器”　ド軍最大の“課題”解決へ…大物OBが期待する役割
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b1aa699a8f580eba5324bca35f5e4ce6d1d4a47>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000043-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ関税、石破首相が赤沢氏らと協議　米側の発言など詳細検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0faf418445357cf5fa15ee94cd0b510cf286e3b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-34191003-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 「父親リスト」入り大谷翔平は「いつ戻ってくるのか、いつ生まれるのかは分からない」監督明かす
       </a>
     </td>
   </tr>
@@ -402,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536014>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/3485c419a2551648dc46a7183bb5c157faf73acd5ac2aa0e9e5eed0da2a05aef.jpg> 氷河期世代への新支援策 政府検討
+      <a href=https://news.yahoo.co.jp/pickup/6536021>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/03d601f184a5f27e2a1f68d064be995cbeafb29a4879436d7d1aff6fd81172c8.jpg> 50万人突破の万博 課題も浮き彫り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536033>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/915b78f10e4bb2836dae93af798375a188ca5ec0abd33cfa38fd24802a169e59.jpg> 部活中の女子生徒が滑落 意識不明
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536002>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/5c0dde9c28ceb3f4dc5e2daf1f3a7d6c34ca81e2ff8a40a06ab2b045318ca091.jpg> 障害者巡る表現に批判 出版元見解
+      <a href=https://news.yahoo.co.jp/pickup/6536030>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/525a48cb59fde648f9fef8a9b2c7f33a7fcc9c26f00c5e0cb3e52c967a55c9ef.jpg> スケート新濱 交通事故で大けが
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536030>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/525a48cb59fde648f9fef8a9b2c7f33a7fcc9c26f00c5e0cb3e52c967a55c9ef.jpg> スケート新濱 交通事故で大けが
+      <a href=https://news.yahoo.co.jp/pickup/6536028>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/77906a29d6d10988eebaff183673326b6e2436b842c759633fbe18b890d3d54d.jpg> 藤原さくら 音楽活動休止時の心境
       </a>
     </td>
   </tr>
@@ -448,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e24a0ec5a5338826c43b7462e1a4bd933ab750dcab67e8a681cf186eec07ad41.jpg> 元ハムチア塩澤美咲 アイドル転身
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 21:30:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 22:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
