@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/628b78135f40b502431a61775efef99f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/241156ff4150beb802a373461c8e087a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e45ce7a57d36d43ba2905a2ba305b042a69554c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> プーチン大統領、復活祭の一時停戦を宣言　ウクライナ同調が条件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d18929b1111cca22096aa85f0ccbb8d65b9193fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000053-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=785&ch=785&exp=10800&fmt=webp> ドジャース・大谷が産休「父親リスト」入り！真美子夫人が出産間近で今季初の欠場
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000053-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=785&ch=785&exp=10800&fmt=webp> ドジャース・大谷が産休「父親リスト」入り！真美子夫人が出産間近で今季初の欠場
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04b5ea6ce732396942b10e012375f16f7eb77c79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050007-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=377&ch=377&exp=10800&fmt=webp> プーチン氏、復活祭に合わせた一時停戦を一方的に宣言…トランプ政権との対話継続意思示す狙いも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc66e779ef35cc6021e01674553c6e43fc8b11da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000383-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=972&ch=972&exp=10800&fmt=webp> ベテラン審判員の笠原球審がファウルボール直撃で試合中断　治療後に最後まで球審を務め「強烈でした」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000383-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=972&ch=972&exp=10800&fmt=webp> ベテラン審判員の笠原球審がファウルボール直撃で試合中断　治療後に最後まで球審を務め「強烈でした」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 01:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 02:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
