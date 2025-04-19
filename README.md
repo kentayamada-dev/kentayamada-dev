@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4c85bed93e3a86b2ad27e27dd223ed62.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f859cc5fdb2350f33846a90350d646d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/0d01cba766106b091bd6e7ae7803b1837a9e1411e7d60fafda8de8ffa0bfdd10.jpg> 20日も多くの夏日予想 雷雨の所も
+      <a href=https://news.yahoo.co.jp/pickup/6536034>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/aa07ac10b6e5e476d19bba9f4982d225e9cead30b54ef9c00dc399e1708f668f.jpg> 関税交渉巡り外相 安保は別の話
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536011>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/75845ec256fcc49a21e10995e520918c170a69500386dbda7c64af830c90f23d.jpg> 子の食べ吐きや下剤乱用 どう対応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536033>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/915b78f10e4bb2836dae93af798375a188ca5ec0abd33cfa38fd24802a169e59.jpg> 部活中の女子生徒が滑落 意識不明
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536025>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/814975d5ebacf8340b8e3b4b9c2594f033ce1d118347955d555f7ad692158fa0.jpg> トラックと衝突 バイクの19歳死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536029>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 鳥取砂丘で熱中症疑い 搬送相次ぐ
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/77906a29d6d10988eebaff183673326b6e2436b842c759633fbe18b890d3d54d.jpg> 藤原さくら 音楽活動休止時の心境
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536026>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/d0410db8c97b2fa103ff063581299ea081d9dc9587472eef9a03af2de90e9893.jpg> 中森明菜シャウト「生きてたぞ」
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 22:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 22:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
