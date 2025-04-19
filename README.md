@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f1b9a25668a36b2b705cb648b9da756a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/42d36922f1ff8ed3e2e8c513d92da8a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77086ec143750a265d4ff3594385156f6b29242f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050162-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米国の主な関心は自動車・農産品の対日輸出拡大、赤沢氏「実際には濃淡ある」…石破首相と対応協議
+      <a href=https://news.yahoo.co.jp/articles/41555ddac06139cf017f62bf3cfd799064b4eec1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04191277-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=800&ch=800&exp=10800&fmt=webp> スプリットが３割、カーブが２割…「自分のスタイル」貫いた山本由伸、渡米後最多タイ１０Ｋで３勝＆１８回連続０封　投手２冠にも浮上
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4b1d38165da87c2cb8c451c7d83e3911521251e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-07231599-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 石破総理が赤沢経済再生担当大臣らと面会　トランプ米大統領が求める「非関税障壁」の緩和めぐり意見交換か
       </a>
     </td>
   </tr>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ec18d72a80544085d75edf00f46729fedb8c0d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-01739047-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷産休で昇格した“秘密兵器”　ド軍最大の“課題”解決へ…大物OBが期待する役割
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536034>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/aa07ac10b6e5e476d19bba9f4982d225e9cead30b54ef9c00dc399e1708f668f.jpg> 関税交渉巡り外相 安保は別の話
+      <a href=https://news.yahoo.co.jp/pickup/6536043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/fea4e558905f6c8d8bbeb37c5046b244c85cdb7217f3d21b83df8f628592b121.jpg> ロシア 復活祭で軍事行動を停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536013>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/79ac352cede06c0e60352ef21e6921ef61e99ea7f66085abf6a59bba702e35f9.jpg> 安倍昭恵さん 台湾で安保巡る講演
+      <a href=https://news.yahoo.co.jp/pickup/6536039>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/4514fe901e8082768755cbd390958c727b9886147662f0df7e7327a2615a0ffb.jpg> 首相 対米関税交渉「カード」検討
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536040>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/908dfddcfe46f41f47af7c09188534ba6c23f02f9faa5d3864cc0c89668afa86.jpg> 世界最小規模の国 ATM初お披露目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536042>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/03f31e8004ebaa3d5fe20d53237bcb7b9d24331a91d3ef2577cd0f0af33180f1.jpg> 球審にファウル直撃 客席はコール
       </a>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/d0410db8c97b2fa103ff063581299ea081d9dc9587472eef9a03af2de90e9893.jpg> 中森明菜シャウト「生きてたぞ」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 23:52:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 00:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
