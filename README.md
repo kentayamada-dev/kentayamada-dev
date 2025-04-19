@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FfX-ldO-Aro?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1e40e878de09329b3d6815f4d11fd6ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/97b9ae489ccfc7b89ddbeed26cf61313.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92f260d9ec0c95fce53e1215ae48cf395df1313f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-01738848-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“穴”を「みんなでカバーして戦えた」　快投の山本由伸「すごいいい試合」
+      <a href=https://news.yahoo.co.jp/articles/5c90480bc4550d5a0b61e0e084cf37c42effee14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-34190312-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=95&cw=1311&ch=1311&exp=10800&fmt=webp> 山本由伸「１つのミスもしないように」７回無失点10Ｋ３勝　18回連続無失点で防御率0．93
       </a>
     </td>
   </tr>
@@ -374,15 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/47f69f06ab0fc075a9adf1fe27dc3057dcf54682>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000022-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「米国車輸入せよ」　米側 牛肉・コメの輸出に関心
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000022-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ氏「米国車輸入せよ」　米側 牛肉・コメの輸出に関心
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8321143f9e00d2f324b056b987336eb99e8dd32e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050063-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=50&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 山本由伸７回１０Ｋ、サイ・ヤング賞デグロームに投げ勝ち３勝目…無四球・無失点
+      <a href=https://news.yahoo.co.jp/articles/59a5d018b693dbde6ab3ff4558b22132772ac06d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-10174506-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=348&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> カーショーも大はしゃぎ！ 大谷翔平の“代役1番”、いきなり先頭打者弾でド軍ベンチがお祭り騒ぎ…SNSも沸騰
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535951>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/598291beb391bdb5add32ddf8d3d915e3c276bf54824132261a4b8f23e56c6b2.jpg> ウ停戦協議 米が仲介から離脱警告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535964>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanokikuno/02177025/title-1745019737972.jpeg?exp=10800> 備蓄米が小売に0.3%だけ 今後は
       </a>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535968>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/c6ff6d1cfdb60b81d4c7535e4725d356b039423dc9b165c390fe9c566a978fd8.jpg> 首都高で玉突き 2歳児が意識不明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/8ce575440fac310d3de850fcda99ac3ea48a1e1f1ddcb7560c66bab5ec4c870b.jpg> GWの都内 カプセル1泊2万円超も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 12:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 13:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
