@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/497dcac7e4b8de6fa3b8083c8a394672.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/073014c91085a477f471fb67507cdacd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78912c9f5472830c2cc5fa5b77a396991dc24414>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000058-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=872&ch=872&exp=10800&fmt=webp> 石破首相、対米「カード」検討　関税交渉、赤沢氏らと協議
+      <a href=https://news.yahoo.co.jp/articles/7b1aa699a8f580eba5324bca35f5e4ce6d1d4a47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000043-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ関税、石破首相が赤沢氏らと協議　米側の発言など詳細検討
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26f6126aa237c646bc38c1634c15ce03491c71b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000011-anmanmv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=794&ch=794&exp=10800&fmt=webp> 「名探偵コナン」諸伏高明、安室透たちが“避暑地”でのんびり♪ 描き下ろし新グッズ登場のアニメイトフェア開催
+      <a href=https://news.yahoo.co.jp/articles/029a4d89f5d2b2cdc1ea88c3b794804c5bf7e6fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 兵庫・豊岡で31．2度　真夏日続出、熱中症注意
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/a5006649a104d1b8a8aab33cd9fc31569c899bb156bdebbabbd138698feafe29.jpg> 首相と赤沢氏 関税協議巡って会談
+      <a href=https://news.yahoo.co.jp/pickup/6536014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/3485c419a2551648dc46a7183bb5c157faf73acd5ac2aa0e9e5eed0da2a05aef.jpg> 氷河期世代への新支援策 政府検討
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/790856d201dc2d6381e9af0564bce345c0c3611e61acf2f04dc2d25395548e64.jpg> 東京湾地震 活発化「海山」原因か
+      <a href=https://news.yahoo.co.jp/pickup/6535975>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/17439a95918863e7436631b495bbe10c2cb9b01724d1bdc90c5891b093e51f3b.jpg> 殺処分の犬と猫 初の1万匹以下に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/c730e533db6e74da191cdbd96a2d014acbd1344499e72ef457fdcc4fdfe53622.jpg> 二足歩行ロボ 中国で21キロを完走
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536010>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/379f18412c5e3dc6f326ae6d7260f40416b0c395f25100ef31ddda96934b9f10.jpg> スケート新濱 交通事故で救急搬送
+      <a href=https://news.yahoo.co.jp/pickup/6536002>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/5c0dde9c28ceb3f4dc5e2daf1f3a7d6c34ca81e2ff8a40a06ab2b045318ca091.jpg> 障害者巡る表現に批判 出版元見解
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536016>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/4390f29a1209d2820445552a069ab01a4ddeaf4ebaa1d9dbd3e6e621738e9a37.jpg> 山田孝之 コナンの初日興収に仰天
+      <a href=https://news.yahoo.co.jp/pickup/6536019>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/4390f29a1209d2820445552a069ab01a4ddeaf4ebaa1d9dbd3e6e621738e9a37.jpg> コナン1日で興収10億円 声優驚き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535995>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/6fe07d8ea5281e386c9e961c64350c6793bf691dcc3b1cb4393286719bdde130.jpg> ミラクルひかる 出産していた
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 19:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 20:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
