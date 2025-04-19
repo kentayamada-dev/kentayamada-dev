@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/51014f25793be1c95b6967ad5f6799e0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/db36685c94cf3f77a960da6388a9c8b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/77086ec143750a265d4ff3594385156f6b29242f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050162-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米国の主な関心は自動車・農産品の対日輸出拡大、赤沢氏「実際には濃淡ある」…石破首相と対応協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fc66e779ef35cc6021e01674553c6e43fc8b11da>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000383-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=972&ch=972&exp=10800&fmt=webp> ベテラン審判員の笠原球審がファウルボール直撃で試合中断　治療後に最後まで球審を務め「強烈でした」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ec18d72a80544085d75edf00f46729fedb8c0d2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-01739047-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷産休で昇格した“秘密兵器”　ド軍最大の“課題”解決へ…大物OBが期待する役割
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b1aa699a8f580eba5324bca35f5e4ce6d1d4a47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000043-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=426&ch=426&exp=10800&fmt=webp> トランプ関税、石破首相が赤沢氏らと協議　米側の発言など詳細検討
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536011>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/75845ec256fcc49a21e10995e520918c170a69500386dbda7c64af830c90f23d.jpg> 子の食べ吐きや下剤乱用 どう対応
+      <a href=https://news.yahoo.co.jp/pickup/6536013>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/79ac352cede06c0e60352ef21e6921ef61e99ea7f66085abf6a59bba702e35f9.jpg> 安倍昭恵さん 台湾で安保巡る講演
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536017>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/908dfddcfe46f41f47af7c09188534ba6c23f02f9faa5d3864cc0c89668afa86.jpg> 島国ツバルに初のATM 祝賀ムード
+      <a href=https://news.yahoo.co.jp/pickup/6536040>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/908dfddcfe46f41f47af7c09188534ba6c23f02f9faa5d3864cc0c89668afa86.jpg> 世界最小規模の国 ATM初お披露目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536030>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/525a48cb59fde648f9fef8a9b2c7f33a7fcc9c26f00c5e0cb3e52c967a55c9ef.jpg> スケート新濱 交通事故で大けが
+      <a href=https://news.yahoo.co.jp/pickup/6536042>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/03f31e8004ebaa3d5fe20d53237bcb7b9d24331a91d3ef2577cd0f0af33180f1.jpg> 球審にファウル直撃 客席はコール
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 23:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 23:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
