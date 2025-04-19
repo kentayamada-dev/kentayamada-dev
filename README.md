@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b46b3a4854ad0f63c036c9816c37b999.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86690dcbc179b4bb95bc7041fb39e844.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab4cc5a18ea9b468e83d5a4649590d1e740401c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865845-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 【FRUITS ZIPPER】様々な迷惑行為に「法的措置を講じる場合」　「適切な距離を保った応援を」公式サイトで訴える
+      <a href=https://news.yahoo.co.jp/articles/174967b04209e90a9932882ba8b5f11fc9b2745f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010016-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=741&ch=741&exp=10800&fmt=webp> かつては批判もあった「父親リスト入り」　大谷翔平の“育児休暇”に日本で驚きの声「世界一の野球選手ですら産休を取る」
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c003acb48917c39eb91f2dfa4ac411fe52c2f908>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00095340-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「さあ、このエネルギーをマミコさんに送りましょう!!!」ドジャース専門メディアが“父親リスト”に入った大谷翔平と真美子夫人へ、レンジャーズ戦の勝利を捧げるメッセージ
+      <a href=https://news.yahoo.co.jp/articles/b1065872fd8b10e107dd22c2ddc8b51741a6c23d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00526900-theanswer-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=26&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 女子ゴルファーが1打で20万円GET　横峯さくらが11年ぶり快挙、山路晶は「ヒャー」と驚き
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535982>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/b27ebfefea194ba09428a2e12003c7265db2c26a17544d3cbee1a54f5a43ea9c.jpg> 遺棄疑いの男 女性の生存装ったか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535984>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/601aa68fd953dfa3c863b80f24957051375055cad4e268a1a095e01fc3e52059.jpg> 首都高で玉突き 2歳の男の子死亡
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535966>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/9b3e6a2437dbd2c1b505e8068d54eb21471463784db90c09ab20c18ffc6945b0.jpg> 万博フードコート 有料席「好評」
+      <a href=https://news.yahoo.co.jp/pickup/6535990>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e52a0aeb8ce6c41dfdac920179d92646512a2861e5b51155f4f3570a64a3288e.jpg> カブスが激しい乱打戦 誠也は5号
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535993>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e488dc003d1a6cf62a98900d61061987154e06c86a939e7cb72f694caee29990.jpg> 横峯さくら ホールインワン達成
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 16:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 16:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
