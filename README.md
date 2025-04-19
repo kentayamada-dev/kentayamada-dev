@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5fa19f749522f9ef7ad72eb99444e927.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ca1de6d545d8f929b6ace916b444f93f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ae8dfd79b2e4c78be0b8810b21fbf7fe2a1ff8b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231613-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=639&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア・プーチン大統領 復活祭にあわせた一時停戦を一方的に表明 日本時間20日午前0時から30時間　ウクライナ側に同調求める
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231613-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=639&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア・プーチン大統領 復活祭にあわせた一時停戦を一方的に表明 日本時間20日午前0時から30時間　ウクライナ側に同調求める
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 02:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 03:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
