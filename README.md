@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1426b8bef54b27cd0b7a1cfdf99bab7a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e044fd78a2a853334322e0b936679dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68a0fb4036a477a840be706c8b914b5e723e25af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010001-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=147&cw=426&ch=426&exp=10800&fmt=webp> “産休”欠場大谷翔平の代役1番はエドマン　真美子夫人出産立ち合いのため　DHは緊急昇格のロサリオ　山本由伸が球宴5回のシーガーらと初対決
+      <a href=https://news.yahoo.co.jp/articles/ba2b4325f5aea87113e8de9851f10baf5cc56dc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010002-shinmai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 長野県内で余震相次ぐ　18日夜から19日朝にかけ震度1以上は43回に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75c753e1974aabc5a3d6fd53101ef4bba51efbc9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865361-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市
+      <a href=https://news.yahoo.co.jp/articles/19bfe45f5a29de260685abec6f2bac53d156e70c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-04191033-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=902&ch=902&exp=10800&fmt=webp> 「パパ・大谷翔平」にロバーツ監督興味津々「どうやって睡眠を…」　父親リスト入りで第１子誕生間近か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f8b064c1be5bb1b8f144154fc97189123899876>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】19日の天気 - 関東甲信で真夏日予想　西〜東日本は黄砂飛来の可能性も（19日7時更新）
+      <a href=https://news.yahoo.co.jp/articles/d516ebb98d9ea4df88735981abf6267e50316b42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-90022898-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=831&ch=831&exp=10800&fmt=webp> 【地震情報】長野県で最大震度5弱　「眠れなかった…」その後も震度4を2回、震度3を3回など47回地震を観測（19日午前8時半現在）　今後1週間程度は最大震度5弱程度の地震に注意
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535919>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/ec8b67b98d7771f0e31ecef1dbd458debafa55894e5d9574a3b476c948a8c72e.jpg> ETC障害 後払いの申し出は4%弱か
+      <a href=https://news.yahoo.co.jp/pickup/6535942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/b923fff3bc2e31195591f26435c8eb99cef4d1182e0e231722dfbe24511c7963.jpg> ゼレンスキー氏が万博訪問 調整
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/a91d6a7915d6862db65f77bf6f41a631438348d25bb3f0171e4f4f7e972a4e01.jpg> 大谷「父親リスト」入り 欠場へ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/010eb928bc0d695c97b440b9c725a421da0e9496af469d073fbced9e7f77573e.jpg> 大谷「父親リスト」入り 欠場へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 08:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 09:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
