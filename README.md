@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FfX-ldO-Aro?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/86690dcbc179b4bb95bc7041fb39e844.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f09c12134808e662e84f984fb7b70f0d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/174967b04209e90a9932882ba8b5f11fc9b2745f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010016-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=143&cy=0&cw=741&ch=741&exp=10800&fmt=webp> かつては批判もあった「父親リスト入り」　大谷翔平の“育児休暇”に日本で驚きの声「世界一の野球選手ですら産休を取る」
+      <a href=https://news.yahoo.co.jp/articles/d6241a7db3a2b2c129a9674ad07e15ca993e3ab4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000071-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=746&ch=746&exp=10800&fmt=webp> ドジャース・大谷翔平「父親リスト入り」、まもなくパパに…スター不在で現場ざわつく、ロバーツ監督「ビッグニュースだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0799fc039561ec648fd15575d87ca09e47ebc80e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-34190661-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=235&cy=0&cw=1265&ch=1265&exp=10800&fmt=webp> 【ソフトバンク】正木智也、左肩亜脱臼で抹消　前日18日負傷交代　近藤、柳田に続き故障者続出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/780edcbaeea96bef2538b1ff612c88cab136a406>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000073-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=19&cy=0&cw=869&ch=869&exp=10800&fmt=webp> 北海道のホテルで140人食中毒　音更町、下痢や嘔吐でノロ検出
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1065872fd8b10e107dd22c2ddc8b51741a6c23d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00526900-theanswer-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=26&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 女子ゴルファーが1打で20万円GET　横峯さくらが11年ぶり快挙、山路晶は「ヒャー」と驚き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/32591104eb6e61d91a3451ff6228405b0fbe36b2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00960223-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「『どかん』と一発、その後じわじわ揺れて…」長野北部で震度5弱の地震　避難しようとした男性1人けが　一時100戸が停電し北陸新幹線などが運転見合わせに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/039a3b4e27e8a7a80a6abf2f1f4c5ee5dd7a4c14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-10174531-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 日米関税交渉 米が自動車に関心 牛肉・コメにも言及
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/985cb072dfed0e9626012dc76fed9619ce4e1c1d66d25166aa1a1f557e043b51.jpg> GW「自宅」最多 外出控えの動き
+      <a href=https://news.yahoo.co.jp/pickup/6535994>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/8739fa12a4bb01a96bcba38886817046cd8b6518ad17165a8df96ec4d28cd1e9.jpg> 大阪府営住宅で火災 27人を搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535998>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e6e3e4e0fd9463822c879261903c978a646e73ec4671e4a34a982715eab6be5d.jpg> ホテルで140人食中毒 ノロ検出も
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535990>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e52a0aeb8ce6c41dfdac920179d92646512a2861e5b51155f4f3570a64a3288e.jpg> カブスが激しい乱打戦 誠也は5号
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535993>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e488dc003d1a6cf62a98900d61061987154e06c86a939e7cb72f694caee29990.jpg> 横峯さくら ホールインワン達成
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535989>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/0cdc4f072136a6fbdbc8efeec7d10770887e2cdd1c592f78d387fcd77c2d2d41.jpg> FRUITS ZIPPER 迷惑行為に声明
+      <a href=https://news.yahoo.co.jp/pickup/6535995>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/6fe07d8ea5281e386c9e961c64350c6793bf691dcc3b1cb4393286719bdde130.jpg> ミラクルひかる 出産していた
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 16:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 17:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
