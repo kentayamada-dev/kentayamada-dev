@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/66c6db559d2a646719f9d539395825e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4f37bc8838e0c682cbf555ebf9fe3ef9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba8b0f83ac7d1e4e9129b07d8cdabfc32111e506>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000091-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=921&ch=921&exp=10800&fmt=webp> 中日・高橋宏　お待たせ今季1勝「ここからスタートだと思って」　由伸“アニキ”に刺激で同日星
+      <a href=https://news.yahoo.co.jp/articles/b59ed4b584ea319ea196da140e197a0d075a0143>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010002-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「どえらい記録」山本由伸がマークした“現代メジャー投手で唯一の成績”にファン驚嘆！「まさに無双状態」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5fea9714df1a950e94f72498e127dc920cea5af0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01739282-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の復帰に指揮官「わからない」　父親リストで2戦欠場「ビッグニュースを届ける」
+      <a href=https://news.yahoo.co.jp/articles/d4e162bfc9d3bcd517815335397da68ff8a70c18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000173-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 大谷翔平が第1子誕生を自身のインスタグラムで報告　「父親リスト」入りで真美子夫人の出産立ち会い
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ae8dfd79b2e4c78be0b8810b21fbf7fe2a1ff8b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231613-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=639&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア・プーチン大統領 復活祭にあわせた一時停戦を一方的に表明 日本時間20日午前0時から30時間　ウクライナ側に同調求める
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231613-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> ロシア・プーチン大統領 復活祭にあわせた一時停戦を一方的に表明 日本時間20日午前0時から30時間　ウクライナ側に同調求める
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 05:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 05:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
