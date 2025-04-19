@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b8a536f8f21b63934aa14999b94a0e6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e419bd069eedc9b9f0d0c7e9d863c88a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f99f4c71006c403f08b9fb67fb9fd8b4f7f4697>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ、ロシアの「復活祭休戦」案に原則同意　ゼレンスキー氏「一部でなお戦闘継続」
+      <a href=https://news.yahoo.co.jp/articles/1e265f981ddc0f751d1be4aaf64f3307a36335a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-34200123-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=52&cw=1016&ch=1016&exp=10800&fmt=webp> 佐々木朗希の初勝利がサヨナラ弾で消滅　前ロッテ監督の井口資仁氏「白星つけてあげたかった…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1460ceaf24296f75a9a83e4d354588ea56c5c3b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00527164-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平長女に早速並んだデコピンに驚き「ぴったり寄り添ってる」　舌を出し「お兄ちゃんの顔」
+      <a href=https://news.yahoo.co.jp/articles/d8a4c7733b4041110c63564a88d912e3dc508c38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010002-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】 メッツ・千賀が無失点投球で3勝目　防御率・勝利数でナ・リーグトップ　ヌートバーは1四球
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d69c6574034820199e6d89b8f00e6edc6af4ff31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201027-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メッツ千賀滉大、防御率０・７９山本由伸を抜いてリーグ首位…６回途中３安打無失点４Ｋ
+      <a href=https://news.yahoo.co.jp/articles/aaec0c710c74d2c73fb5302ced729529feacd7db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000131-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=453&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 話題の「コスメデコルテ」が大谷翔平の第1子誕生祝福「誠におめでとうございます」CMポーズがド軍で流行
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/23d799209dfb9c545ce7adc8e3fe41991a29535b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「復活祭停戦」入りも攻撃続く　期限延長を逆提案　ウクライナ大統領
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536041>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/adf383ceb7347c894d87fdf1542307a6f3c46e27ea9fd1eb394e89d1b833dc74.jpg> ドラム缶に遺体 死後かなりの時間
+      <a href=https://news.yahoo.co.jp/pickup/6536050>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/3464782e382607233ba678c4904a1440b7b14a3856da356078dc2363379748bd.jpg> 山手線など一部運休 再開は正午頃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536033>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/915b78f10e4bb2836dae93af798375a188ca5ec0abd33cfa38fd24802a169e59.jpg> 部活中の女子生徒が滑落 意識不明
+      <a href=https://news.yahoo.co.jp/pickup/6536052>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f658bfe63e0d6a6ee8ceb3ae3b947fc8feeea144a99dd31e63a6578e7a785dc6.jpg> 裁断機と支柱に挟まれ 作業員死亡
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 07:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 08:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
