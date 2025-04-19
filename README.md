@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f859cc5fdb2350f33846a90350d646d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/51014f25793be1c95b6967ad5f6799e0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08acdb6554aa4c9ff502e4194fe8fb649c7b8687>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000112-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=69&cw=1116&ch=1116&exp=10800&fmt=webp> 交通事故で負傷の新濱立也、マネジメントが詳細を公表 １カ月後にはトレーニング再開か【スピードスケート】
+      <a href=https://news.yahoo.co.jp/articles/fc66e779ef35cc6021e01674553c6e43fc8b11da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000383-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=972&ch=972&exp=10800&fmt=webp> ベテラン審判員の笠原球審がファウルボール直撃で試合中断　治療後に最後まで球審を務め「強烈でした」
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536021>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/03d601f184a5f27e2a1f68d064be995cbeafb29a4879436d7d1aff6fd81172c8.jpg> 50万人突破の万博 課題も浮き彫り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536011>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/75845ec256fcc49a21e10995e520918c170a69500386dbda7c64af830c90f23d.jpg> 子の食べ吐きや下剤乱用 どう対応
       </a>
@@ -418,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536029>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 鳥取砂丘で熱中症疑い 搬送相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6536023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/4307f18fd7d7c1e6611186302113e641a457179c00a4a15ecc11ee1f1a70b315.jpg> 知事が退任 孫に「遊べるからね」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/4307f18fd7d7c1e6611186302113e641a457179c00a4a15ecc11ee1f1a70b315.jpg> 知事が退任 孫に「遊べるからね」
+      <a href=https://news.yahoo.co.jp/pickup/6536017>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/908dfddcfe46f41f47af7c09188534ba6c23f02f9faa5d3864cc0c89668afa86.jpg> 島国ツバルに初のATM 祝賀ムード
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/d0410db8c97b2fa103ff063581299ea081d9dc9587472eef9a03af2de90e9893.jpg> 中森明菜シャウト「生きてたぞ」
+      <a href=https://news.yahoo.co.jp/pickup/6536038>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/1ca7bad1a1f95ccd71b951ccfd3e9e248410a7ef0e6cc80d7a28cc8b18ebab1d.jpg> SnowManライブで花火 野球客沸く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536036>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/eaaeeefff9c0153f4384661e050dbfb4ec09111e45af04b6e6bc59c0ff6a9d7e.jpg> THE SECOND 決勝進出の8組決定
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 22:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 23:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
