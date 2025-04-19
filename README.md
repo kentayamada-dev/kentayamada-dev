@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/94549c9c1811a7c155a3a58d7bd023f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b8a536f8f21b63934aa14999b94a0e6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9daae87a0332c8b438f7ffe19e41391d8d66a52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231622-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=639&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> キリスト教の復活祭に合わせ プーチン氏30時間の停戦表明、ゼレンスキー大統領「ロシア側の発言信用できない」
+      <a href=https://news.yahoo.co.jp/articles/4f99f4c71006c403f08b9fb67fb9fd8b4f7f4697>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ、ロシアの「復活祭休戦」案に原則同意　ゼレンスキー氏「一部でなお戦闘継続」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a729ec0484546c085c79fbb6b302dc29e5c0ddd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000126-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=915&ch=915&exp=10800&fmt=webp> 佐々木朗希　メジャー最長6回投げ2安打2失点でメジャー初勝利の権利　3回に先制2ラン被弾も打線が逆転
+      <a href=https://news.yahoo.co.jp/articles/1460ceaf24296f75a9a83e4d354588ea56c5c3b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00527164-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平長女に早速並んだデコピンに驚き「ぴったり寄り添ってる」　舌を出し「お兄ちゃんの顔」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/310fa2c7391426aecb34619550d082d901215f61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000125-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=166&cw=869&ch=869&exp=10800&fmt=webp> ドジャース夫人会も祝福「大谷夫妻おめでとうございます」真美子夫人が第一子となる長女を出産
+      <a href=https://news.yahoo.co.jp/articles/d69c6574034820199e6d89b8f00e6edc6af4ff31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201027-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メッツ千賀滉大、防御率０・７９山本由伸を抜いてリーグ首位…６回途中３安打無失点４Ｋ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9364e759f89449e276c9e385f6bdbcf4c9b4bf6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010006-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=800&ch=800&exp=10800&fmt=webp> のん、『キャスター』第3話に出演決定　「嬉しく刺激的な時間を過ごさせていただきました」
       </a>
     </td>
   </tr>
@@ -384,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/43970f722872c2e5b8fcea6478fd8ae57b7190cdae172894c1c2403a26030a76.jpg> ウ大統領 露の砲撃止まっていない
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536043>
@@ -418,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/4307f18fd7d7c1e6611186302113e641a457179c00a4a15ecc11ee1f1a70b315.jpg> 知事が退任 孫に「遊べるからね」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536044>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2282eaae4cd8853af60cc8619d789665a34c160d123621db301faa67f086c46e.jpg> 大谷パパに 夫人の女児出産を発表
       </a>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536038>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/1ca7bad1a1f95ccd71b951ccfd3e9e248410a7ef0e6cc80d7a28cc8b18ebab1d.jpg> SnowManライブで花火 野球客沸く
+      <a href=https://news.yahoo.co.jp/pickup/6536045>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/b240158856afa74e0f49543936f8fd3dfdea0ea3e042d384f802ac9a0ff5de81.jpg> Snow Man国立ライブ 松潤が監修
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/d0410db8c97b2fa103ff063581299ea081d9dc9587472eef9a03af2de90e9893.jpg> 中森明菜シャウト「生きてたぞ」
+      <a href=https://news.yahoo.co.jp/pickup/6536046>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f257c50f89c000075467fb5c853c14f70c7aeaa597ead075ab3eb98b6873b64f.jpg> のん 11年ぶりに民放ドラマ出演
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 07:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 07:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
