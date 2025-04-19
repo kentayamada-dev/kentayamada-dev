@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FfX-ldO-Aro?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0a12c2c07c9befe493c4c0e905018abe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0179cf32b7e9d600d1bc2e1b18723964.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f92686accdc56ac970870bab8df6f1789d9c4db8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-10174539-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=985&ch=985&exp=10800&fmt=webp> 首都高・高島平IC付近の玉突き事故 意識不明の2歳児が死亡
+      <a href=https://news.yahoo.co.jp/articles/c003acb48917c39eb91f2dfa4ac411fe52c2f908>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00095340-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「さあ、このエネルギーをマミコさんに送りましょう!!!」ドジャース専門メディアが“父親リスト”に入った大谷翔平と真美子夫人へ、レンジャーズ戦の勝利を捧げるメッセージ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a60987125a417b27163bf153ed4b85e9ccb7a048>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000189-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 大谷翔平が真美子夫人の出産に立ち会うため利用した「父親リスト」とは？過去にダルら日本選手も多数利用
+      <a href=https://news.yahoo.co.jp/articles/db8426e06f17c59fa5b6b0d21d8577bd8c97e2a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000029-ann-000-9-thumb.jpg?exp=10800&fmt=webp> 意識不明の2歳男児が死亡　首都高で玉突き事故
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c96651d17f7b5bb1976ed256629939c5ebd5763d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010007-abn-000-1-thumb.jpg?exp=10800&fmt=webp> 長野県北部・中部で震度5弱 気象庁「1週間ほど最大震度5弱程度の揺れに警戒を」【長野】
+      <a href=https://news.yahoo.co.jp/articles/32591104eb6e61d91a3451ff6228405b0fbe36b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00960223-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「『どかん』と一発、その後じわじわ揺れて…」長野北部で震度5弱の地震　避難しようとした男性1人けが　一時100戸が停電し北陸新幹線などが運転見合わせに
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/52ba90319fa7cbc08902bf95efb32d971633ed2195cc5d6bbaf65f0c2691e461.jpg> 各地で夏日が続出 熱中症対策を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535951>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/598291beb391bdb5add32ddf8d3d915e3c276bf54824132261a4b8f23e56c6b2.jpg> ウ停戦協議 米が仲介から離脱警告
       </a>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535963>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/8a36b2a9953e38a12d2049071865824259af212e7d3ac0e6b33eb7fc21e6cec3.jpg> 大分で集団強盗事件 複数人逃走中
+      <a href=https://news.yahoo.co.jp/pickup/6535982>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/b27ebfefea194ba09428a2e12003c7265db2c26a17544d3cbee1a54f5a43ea9c.jpg> 遺棄疑いの男 女性の生存装ったか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535984>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/601aa68fd953dfa3c863b80f24957051375055cad4e268a1a095e01fc3e52059.jpg> 首都高で玉突き 2歳の男の子死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/985cb072dfed0e9626012dc76fed9619ce4e1c1d66d25166aa1a1f557e043b51.jpg> GW「自宅」最多 外出控えの動き
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535980>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/d9a718be7f1bbaa0c451dd78fd14882e83d7d83ea0f19f666910f722f83d50b3.jpg> コナン公開 すでに8回鑑賞の人も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/186230acef9e33a132c0298c51383d47ea84574c4701ff6363917a2b6b98bad8.jpg> 元NGT48荻野由佳 第1子妊娠発表
+      <a href=https://news.yahoo.co.jp/pickup/6535985>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e8bf74a68d4f11d0765fffea633767a41e26bfb2184934c9a7e6125cddc9e475.jpg> カジサック 学生時代の友達は1人
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 15:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 15:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
