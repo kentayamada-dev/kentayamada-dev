@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/45d607b6ac24bf3512197c7caea3eda4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/628b78135f40b502431a61775efef99f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d18929b1111cca22096aa85f0ccbb8d65b9193fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000053-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=785&ch=785&exp=10800&fmt=webp> ドジャース・大谷が産休「父親リスト」入り！真美子夫人が出産間近で今季初の欠場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f922ae29a2eadf0f1a61920ea396b8e881c5f18e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00960350-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相 赤沢経済再生担当相らと方針を確認　アメリカが肉・コメなど輸入拡大迫る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/04b5ea6ce732396942b10e012375f16f7eb77c79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050007-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=377&ch=377&exp=10800&fmt=webp> プーチン大統領、復活祭に合わせた一時停戦を一方的に宣言…トランプ政権との対話継続意思を示す狙いも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41555ddac06139cf017f62bf3cfd799064b4eec1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04191277-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=800&ch=800&exp=10800&fmt=webp> スプリットが３割、カーブが２割…「自分のスタイル」貫いた山本由伸、渡米後最多タイ１０Ｋで３勝＆１８回連続０封　投手２冠にも浮上
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b1d38165da87c2cb8c451c7d83e3911521251e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-07231599-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 石破総理が赤沢経済再生担当大臣らと面会　トランプ米大統領が求める「非関税障壁」の緩和めぐり意見交換か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050007-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=377&ch=377&exp=10800&fmt=webp> プーチン氏、復活祭に合わせた一時停戦を一方的に宣言…トランプ政権との対話継続意思示す狙いも
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 01:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 01:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
