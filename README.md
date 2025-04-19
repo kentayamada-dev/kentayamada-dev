@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/073014c91085a477f471fb67507cdacd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ffa413cde4ad9ba3d686da6550eb4e4e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d6723bb1fbfc4629a96c17aa34ba65c466692bad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-01739151-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 鷹、完封負けで今季最悪の5連敗　離脱者続出で打線沈黙…借金5で単独最下位
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b1aa699a8f580eba5324bca35f5e4ce6d1d4a47>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/029a4d89f5d2b2cdc1ea88c3b794804c5bf7e6fa>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 兵庫・豊岡で31．2度　真夏日続出、熱中症注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ea178c37b18205402123a664ba1d468912ce88b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00341633-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=922&ch=922&exp=10800&fmt=webp> 【ソフトバンク】前日負傷交代の正木智也は「左肩亜脱臼」登録抹消でリハビリ組へ
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536019>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/4390f29a1209d2820445552a069ab01a4ddeaf4ebaa1d9dbd3e6e621738e9a37.jpg> コナン1日で興収10億円 声優驚き
+      <a href=https://news.yahoo.co.jp/pickup/6536022>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e24a0ec5a5338826c43b7462e1a4bd933ab750dcab67e8a681cf186eec07ad41.jpg> 元ハムチア塩澤美咲 アイドル転身
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535995>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/6fe07d8ea5281e386c9e961c64350c6793bf691dcc3b1cb4393286719bdde130.jpg> ミラクルひかる 出産していた
+      <a href=https://news.yahoo.co.jp/pickup/6536019>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/4390f29a1209d2820445552a069ab01a4ddeaf4ebaa1d9dbd3e6e621738e9a37.jpg> コナン1日で興収10億円 声優驚き
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 20:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 20:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
