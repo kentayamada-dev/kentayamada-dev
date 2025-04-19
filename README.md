@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FfX-ldO-Aro?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0179cf32b7e9d600d1bc2e1b18723964.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b46b3a4854ad0f63c036c9816c37b999.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ab4cc5a18ea9b468e83d5a4649590d1e740401c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865845-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=547&ch=547&exp=10800&fmt=webp> 【FRUITS ZIPPER】様々な迷惑行為に「法的措置を講じる場合」　「適切な距離を保った応援を」公式サイトで訴える
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9974fa4b8c8c48117dfa1833b5aa2fb78fc0cf75>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00960229-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大阪・関西万博の開幕直前に警備の内部資料を一時紛失…市民が書類を拾い施設関係者に届け出る　外部への流出確認されず「再度教養を徹底する」大阪府警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c003acb48917c39eb91f2dfa4ac411fe52c2f908>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00095340-thedigest-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「さあ、このエネルギーをマミコさんに送りましょう!!!」ドジャース専門メディアが“父親リスト”に入った大谷翔平と真美子夫人へ、レンジャーズ戦の勝利を捧げるメッセージ
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db8426e06f17c59fa5b6b0d21d8577bd8c97e2a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000029-ann-000-9-thumb.jpg?exp=10800&fmt=webp> 意識不明の2歳男児が死亡　首都高で玉突き事故
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/32591104eb6e61d91a3451ff6228405b0fbe36b2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00960223-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「『どかん』と一発、その後じわじわ揺れて…」長野北部で震度5弱の地震　避難しようとした男性1人けが　一時100戸が停電し北陸新幹線などが運転見合わせに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c1f99b33a4c83102da281f0edaeb58818110542>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050848-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博警備の内部資料、大阪府警の巡査部長が置き忘れ一時紛失　流出は確認されず
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/95f3d7f875486ebd8358bf78e46c42133c35a79a3795f1853c854edd020fcd7b.jpg> 震度5弱 重要文化財の頭部割れる
+      <a href=https://news.yahoo.co.jp/pickup/6535988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/71cb7f195d751ada1d57f05f4d5b02fd8b691fbd00473a5d71f47ebe14265359.jpg> 氷河期世代ら支援 閣僚会議設置へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535951>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/598291beb391bdb5add32ddf8d3d915e3c276bf54824132261a4b8f23e56c6b2.jpg> ウ停戦協議 米が仲介から離脱警告
+      <a href=https://news.yahoo.co.jp/pickup/6535973>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/73632b30710512bcd26bcd0ebdaad390b28c5982a2abf27f2be1dfb7c0542532.jpg> 停戦案巡り イスラエル攻撃強化か
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535972>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 太陽光発電「2032年問題」に懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535966>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/9b3e6a2437dbd2c1b505e8068d54eb21471463784db90c09ab20c18ffc6945b0.jpg> 万博フードコート 有料席「好評」
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535977>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/7b9082a6329d0907c9b4137ea225687a9a1474c1a2471cdafb04c8b1442a5fd3.jpg> 今季3勝目の山本由伸 監督も絶賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e8bf74a68d4f11d0765fffea633767a41e26bfb2184934c9a7e6125cddc9e475.jpg> カジサック 学生時代の友達は1人
+      <a href=https://news.yahoo.co.jp/pickup/6535989>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/0cdc4f072136a6fbdbc8efeec7d10770887e2cdd1c592f78d387fcd77c2d2d41.jpg> FRUITS ZIPPER 迷惑行為に声明
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 15:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 16:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
