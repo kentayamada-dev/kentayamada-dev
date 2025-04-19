@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FfX-ldO-Aro?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b1dc4e3e2ca98ceb278e9eaca418c84.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/df6b28e87d3f37d8e21e344c46bf14ac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f685d4f64e405e53b4c8f348e9682e9d5e859226>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドジャース2戦連続の先頭打者弾　大谷翔平に代わって1番入ったエドマンがデグロムの158キロ粉砕
+      <a href=https://news.yahoo.co.jp/articles/eccd3e7cd9fada96102b8f9578842618baf6f81c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000020-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=738&ch=738&exp=10800&fmt=webp> 大谷翔平が活用、「父親リスト」とは…大リーグが2011年に導入　過去にはダルビッシュ、鈴木誠也、田中将大らが使う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b42b546f4711ae32e723d4fdb8e785774f1898db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 角田、FP2で6番手も終盤にクラッシュ サウジアラビアGP
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/50e7800bfd28c10192292b03c818092409be52f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865424-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/faf0f82d182bc1383c1146aa304f9f4ed27e9c63>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000008-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=1416&ch=1416&exp=10800&fmt=webp> Ｆ１＝サウジＧＰフリー走行、ノリスが最速ラップ　角田クラッシュ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aae54e381c439887d4554397c56534212fd0e273>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000034-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2003&ch=2003&exp=10800&fmt=webp> どうした？阪神の二遊間　敗戦の中で気になるのは先発落ちの木浪と前半途中交代の中野～藤田平氏の見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba2b4325f5aea87113e8de9851f10baf5cc56dc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010002-shinmai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 長野県内で余震相次ぐ　18日夜から19日朝にかけ震度1以上は43回に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000034-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2003&ch=2003&exp=10800&fmt=webp> どうした？阪神の二遊間　敗戦の中で気になるのは先発落ちの木浪と前半途中交代の中野～藤田平氏の見解
       </a>
     </td>
   </tr>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535944>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/681a062dc9516945017a0b4fe19766ed78f91d33e909cfdf76f7d91c14b0275c.jpg> 震度5弱から一夜 JRなど通常通り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/77ec9651f3015af36a544e625ba2d1d70325137099ce7f27aa9f38bf83b94a34.jpg> 関東今年初の真夏日か 熱中症注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535942>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/b923fff3bc2e31195591f26435c8eb99cef4d1182e0e231722dfbe24511c7963.jpg> ゼレンスキー氏が万博訪問 調整
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/95512272eefffbf431b5366759a3ea98da129e4ff27b2be3cf759fdc61f34e4c.jpg> 日米関税交渉 米は貿易赤字に関心
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/681a062dc9516945017a0b4fe19766ed78f91d33e909cfdf76f7d91c14b0275c.jpg> 震度5弱から一夜 JRなど通常通り
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535924>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/78a4bab051e098199b586110df1e461e8702f33f3e933bded6e4b335af2b60ac.jpg> 自衛隊は人殺しの訓練 発言に抗議
+      <a href=https://news.yahoo.co.jp/pickup/6535939>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 工事で土砂に埋まる 作業員が死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535939>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 工事で土砂に埋まる 作業員が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/3b23e70240a3529c1ec5b57274c439465ee0be8a41789be9174132b7c7f2ca01.jpg> JR東 約6千億円の街づくりの全貌
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 09:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 10:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
