@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6__CnBoSBpQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4e044fd78a2a853334322e0b936679dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7b1dc4e3e2ca98ceb278e9eaca418c84.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f685d4f64e405e53b4c8f348e9682e9d5e859226>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ドジャース2戦連続の先頭打者弾　大谷翔平に代わって1番入ったエドマンがデグロムの158キロ粉砕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/32f9913143abbe4830aa26a8a2683d25fbccb312>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> この道（４月１９日）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/faf0f82d182bc1383c1146aa304f9f4ed27e9c63>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000008-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=1416&ch=1416&exp=10800&fmt=webp> Ｆ１＝サウジＧＰフリー走行、ノリスが最速ラップ　角田クラッシュ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aae54e381c439887d4554397c56534212fd0e273>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000034-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2003&ch=2003&exp=10800&fmt=webp> どうした？阪神の二遊間　敗戦の中で気になるのは先発落ちの木浪と前半途中交代の中野～藤田平氏の見解
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ba2b4325f5aea87113e8de9851f10baf5cc56dc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010002-shinmai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 長野県内で余震相次ぐ　18日夜から19日朝にかけ震度1以上は43回に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19bfe45f5a29de260685abec6f2bac53d156e70c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-04191033-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=902&ch=902&exp=10800&fmt=webp> 「パパ・大谷翔平」にロバーツ監督興味津々「どうやって睡眠を…」　父親リスト入りで第１子誕生間近か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d516ebb98d9ea4df88735981abf6267e50316b42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-90022898-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=323&cy=0&cw=831&ch=831&exp=10800&fmt=webp> 【地震情報】長野県で最大震度5弱　「眠れなかった…」その後も震度4を2回、震度3を3回など47回地震を観測（19日午前8時半現在）　今後1週間程度は最大震度5弱程度の地震に注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45543a526da223a60b0193349b20fa61f1f58dc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250418-00000180-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=938&ch=938&exp=10800&fmt=webp> 阪神・村上頌樹「みんなに申し訳ない」自己ワーストの1イニング5失点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c788cf048f357fb0c3ec4c2ec9682712330e0288>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米交渉、自動車障壁焦点に　国内制度見直しに期待　関連業界
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010002-shinmai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 長野県内で余震相次ぐ　18日夜から19日朝にかけ震度1以上は43回に
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/75617f3bfd6aee84741da68fbec521875c74793e5d5711130341c7dcc0eeaf83.jpg> 「ズドン」長野で5弱 余震に注意
+      <a href=https://news.yahoo.co.jp/pickup/6535944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/681a062dc9516945017a0b4fe19766ed78f91d33e909cfdf76f7d91c14b0275c.jpg> 震度5弱から一夜 JRなど通常通り
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535924>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/78a4bab051e098199b586110df1e461e8702f33f3e933bded6e4b335af2b60ac.jpg> 自衛隊は人殺しの訓練 発言に抗議
+      <a href=https://news.yahoo.co.jp/pickup/6535936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/600b0931744732d8485ec3b1d0a23f25655d2df175905944f836325330b3f054.jpg> 無資格X線「証拠撮るな」と社長
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/600b0931744732d8485ec3b1d0a23f25655d2df175905944f836325330b3f054.jpg> 無資格X線「証拠撮るな」と社長
+      <a href=https://news.yahoo.co.jp/pickup/6535924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/18/78a4bab051e098199b586110df1e461e8702f33f3e933bded6e4b335af2b60ac.jpg> 自衛隊は人殺しの訓練 発言に抗議
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 09:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 09:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
