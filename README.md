@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FfX-ldO-Aro?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f26b72e7302f62412b177b8410d7b713.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/42fd6cbeb3a8b3b45e42428231256d27.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8df1e68357b8a9b534eb11c2c4504d335839b92d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050097-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=378&ch=378&exp=10800&fmt=webp> 新濱立也が個人合宿中に交通事故、顔骨折で入院…「一日も早く氷上に戻れるよう前を向く」
+      <a href=https://news.yahoo.co.jp/articles/0faf418445357cf5fa15ee94cd0b510cf286e3b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-34191003-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 「父親リスト」入り大谷翔平は「いつ戻ってくるのか、いつ生まれるのかは分からない」監督明かす
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49565b64fcd1a90dca49a5a6fc4cf1dee971f83d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-90022901-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=538&ch=538&exp=10800&fmt=webp> 【地震情報】長野県で最大震度5弱　国の重要文化財の仏像が破損　大町市の住宅・倉庫の屋根の被害は13軒に　震度4が2回、震度3が3回など47回の地震を観測（19日午後6時現在）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/663c912bdecef037cf2144b97e2129bd0f9f2e82>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000036-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 大阪府警が置き忘れ… 万博警備の内部資料を一時紛失
+      <a href=https://news.yahoo.co.jp/articles/c06c8211470396a45abe4c9c68363d9b9500fbe0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-07231589-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理　若者などの就労支援に向けた関係閣僚会議の設置を明らかに　
       </a>
     </td>
   </tr>
@@ -383,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8ea178c37b18205402123a664ba1d468912ce88b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00341633-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=922&ch=922&exp=10800&fmt=webp> 【ソフトバンク】前日負傷交代の正木智也は「左肩亜脱臼」登録抹消でリハビリ組へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6241a7db3a2b2c129a9674ad07e15ca993e3ab4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000071-chuspo-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=746&ch=746&exp=10800&fmt=webp> ドジャース・大谷翔平「父親リスト入り」、まもなくパパに…スター不在で現場ざわつく、ロバーツ監督「ビッグニュースだ」
       </a>
     </td>
   </tr>
@@ -418,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e49de7aded8f2135c99871af4aed5dbdb88c9eb7aeb1618b64d185e02261afef.jpg> 小泉氏 首相は思いをストレートに
+      <a href=https://news.yahoo.co.jp/pickup/6535998>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e6e3e4e0fd9463822c879261903c978a646e73ec4671e4a34a982715eab6be5d.jpg> ホテルで140人食中毒 ノロ検出も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535998>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e6e3e4e0fd9463822c879261903c978a646e73ec4671e4a34a982715eab6be5d.jpg> ホテルで140人食中毒 ノロ検出も
+      <a href=https://news.yahoo.co.jp/pickup/6535970>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/790856d201dc2d6381e9af0564bce345c0c3611e61acf2f04dc2d25395548e64.jpg> 東京湾地震 活発化「海山」原因か
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 18:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 19:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
