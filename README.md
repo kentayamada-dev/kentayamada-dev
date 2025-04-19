@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f09c12134808e662e84f984fb7b70f0d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b714183cf4ddeac0280a411bf2992f28.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d6241a7db3a2b2c129a9674ad07e15ca993e3ab4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000071-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=746&ch=746&exp=10800&fmt=webp> ドジャース・大谷翔平「父親リスト入り」、まもなくパパに…スター不在で現場ざわつく、ロバーツ監督「ビッグニュースだ」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000071-chuspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=746&ch=746&exp=10800&fmt=webp> ドジャース・大谷翔平「父親リスト入り」、まもなくパパに…スター不在で現場ざわつく、ロバーツ監督「ビッグニュースだ」
       </a>
     </td>
   </tr>
@@ -381,14 +381,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9974fa4b8c8c48117dfa1833b5aa2fb78fc0cf75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00960229-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大阪・関西万博の開幕直前に警備の内部資料を一時紛失…市民が書類を拾い施設関係者に届け出る　外部への流出確認されず「再度教養を徹底する」大阪府警
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/32591104eb6e61d91a3451ff6228405b0fbe36b2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00960223-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「『どかん』と一発、その後じわじわ揺れて…」長野北部で震度5弱の地震　避難しようとした男性1人けが　一時100戸が停電し北陸新幹線などが運転見合わせに
       </a>
@@ -402,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/71cb7f195d751ada1d57f05f4d5b02fd8b691fbd00473a5d71f47ebe14265359.jpg> 氷河期世代ら支援 閣僚会議設置へ
+      <a href=https://news.yahoo.co.jp/pickup/6535992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/b2e567b3270757052dc913b33eb79e17e266857b2b7b7b0a1aae9392b9112be3.jpg> トランプ氏 FRB議長の解任検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535973>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/73632b30710512bcd26bcd0ebdaad390b28c5982a2abf27f2be1dfb7c0542532.jpg> 停戦案巡り イスラエル攻撃強化か
+      <a href=https://news.yahoo.co.jp/pickup/6535981>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/8328d4203f576155d3253e62397f0aa583079c5f422d4516e17d9cfee9aaed35.jpg> 米 寄港の中国船に手数料徴収へ
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535972>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 太陽光発電「2032年問題」に懸念
+      <a href=https://news.yahoo.co.jp/pickup/6535997>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/3326b9b6ba9aa20fd52943706a3a1296c5bd180034e742b954d6d2ccc5f9a61c.jpg> 客悲鳴 ガソリン最高値も補助ゼロ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535993>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e488dc003d1a6cf62a98900d61061987154e06c86a939e7cb72f694caee29990.jpg> 横峯さくら ホールインワン達成
+      <a href=https://news.yahoo.co.jp/pickup/6536004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/5d365c758abc97adaddd2264b205ad3a1e8d72e49a03969690366c9ba657deec.jpg> 大谷産休 監督「ビッグニュース」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 17:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 17:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
