@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4f37bc8838e0c682cbf555ebf9fe3ef9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/08d953fac899f97b307797cc9a9efabe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b59ed4b584ea319ea196da140e197a0d075a0143>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010002-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「どえらい記録」山本由伸がマークした“現代メジャー投手で唯一の成績”にファン驚嘆！「まさに無双状態」
+      <a href=https://news.yahoo.co.jp/articles/2a7181b2c36ea657b94d85b96bc0f6c7fcb41cb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000118-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=209&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　ドジャース・大谷に並ぶ6号2ラン　今季2度目の2戦連発でアーチ量産モードへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4e162bfc9d3bcd517815335397da68ff8a70c18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000173-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> 大谷翔平が第1子誕生を自身のインスタグラムで報告　「父親リスト」入りで真美子夫人の出産立ち会い
+      <a href=https://news.yahoo.co.jp/articles/e44ced97f654f34cadeeddb0ade9f6b79c8f22c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000117-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=166&cw=869&ch=869&exp=10800&fmt=webp> ド軍指揮官　試合中に第一子誕生の大谷翔平を祝福「いいニュース。名前わからないが、野球界全体が祝福」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae8dfd79b2e4c78be0b8810b21fbf7fe2a1ff8b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231613-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> ロシア・プーチン大統領 復活祭にあわせた一時停戦を一方的に表明 日本時間20日午前0時から30時間　ウクライナ側に同調求める
+      <a href=https://news.yahoo.co.jp/articles/cdc873e69f90f24b46183a9b80660ebed5c9d178>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050019-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ゼレンスキー大統領「砲撃は止まっていない」…復活祭の２０日以降も停戦継続を提案
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 05:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 06:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
