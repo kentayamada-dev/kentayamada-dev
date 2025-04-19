@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FfX-ldO-Aro?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f381579666a09519c95a93a974893eca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f26b72e7302f62412b177b8410d7b713.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ea178c37b18205402123a664ba1d468912ce88b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00341633-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=922&ch=922&exp=10800&fmt=webp> 【ソフトバンク】前日負傷交代の正木智也は「左肩亜脱臼」登録抹消でリハビリ組へ
+      <a href=https://news.yahoo.co.jp/articles/8df1e68357b8a9b534eb11c2c4504d335839b92d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050097-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=378&ch=378&exp=10800&fmt=webp> 新濱立也が個人合宿中に交通事故、顔骨折で入院…「一日も早く氷上に戻れるよう前を向く」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b186ccad8ac730f5728205873cdfc80ac2da80e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-07231578-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「今までかいだことのないような臭い」 ドラム缶の中から発見された遺体は成人女性か 死体遺棄事件として捜査　埼玉・吉川市
+      <a href=https://news.yahoo.co.jp/articles/49565b64fcd1a90dca49a5a6fc4cf1dee971f83d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-90022901-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=538&ch=538&exp=10800&fmt=webp> 【地震情報】長野県で最大震度5弱　国の重要文化財の仏像が破損　大町市の住宅・倉庫の屋根の被害は13軒に　震度4が2回、震度3が3回など47回の地震を観測（19日午後6時現在）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/663c912bdecef037cf2144b97e2129bd0f9f2e82>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000036-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 大阪府警が置き忘れ… 万博警備の内部資料を一時紛失
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8ea178c37b18205402123a664ba1d468912ce88b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00341633-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=922&ch=922&exp=10800&fmt=webp> 【ソフトバンク】前日負傷交代の正木智也は「左肩亜脱臼」登録抹消でリハビリ組へ
       </a>
     </td>
   </tr>
@@ -379,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32591104eb6e61d91a3451ff6228405b0fbe36b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00960223-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「『どかん』と一発、その後じわじわ揺れて…」長野北部で震度5弱の地震　避難しようとした男性1人けが　一時100戸が停電し北陸新幹線などが運転見合わせに
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535992>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/b2e567b3270757052dc913b33eb79e17e266857b2b7b7b0a1aae9392b9112be3.jpg> トランプ氏 FRB議長の解任検討
+      <a href=https://news.yahoo.co.jp/pickup/6536007>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e111c5e24546c9c45aee5f80935e6c9b6b81cf7f41071bc7b36cafdb413201d4.jpg> トランプ氏 高関税乱発で翻ろう
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535999>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/d03a62dccc256628d0f8ea2499032bdb80b55d7face5a99687ef0163617cc685.jpg> PTA全国組織 1年間で100万人減少
+      <a href=https://news.yahoo.co.jp/pickup/6536008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/a5006649a104d1b8a8aab33cd9fc31569c899bb156bdebbabbd138698feafe29.jpg> 首相と赤沢氏 関税協議巡って会談
       </a>
     </td>
   </tr>
@@ -426,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535997>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/3326b9b6ba9aa20fd52943706a3a1296c5bd180034e742b954d6d2ccc5f9a61c.jpg> 客悲鳴 ガソリン最高値も補助ゼロ
+      <a href=https://news.yahoo.co.jp/pickup/6536009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/b5d4f4b8408d1b7fc5c92cf2e17f6ce851a87bb290bd57fe62b48ab36604b525.jpg> 「万博の顔」ミャクミャクが人気
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536009>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/b5d4f4b8408d1b7fc5c92cf2e17f6ce851a87bb290bd57fe62b48ab36604b525.jpg> 「万博の顔」ミャクミャクが人気
+      <a href=https://news.yahoo.co.jp/pickup/6535983>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/24555f5f83895d31ab4dad44c5393513f1e8aac2c9813d9d68166d3e33365569.jpg> 実の母知らず40年後に母子再会 米
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536010>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/379f18412c5e3dc6f326ae6d7260f40416b0c395f25100ef31ddda96934b9f10.jpg> スケート新濱 交通事故で救急搬送
       </a>
     </td>
   </tr>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535995>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/6fe07d8ea5281e386c9e961c64350c6793bf691dcc3b1cb4393286719bdde130.jpg> ミラクルひかる 出産していた
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 18:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 18:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
