@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dbb7ac13f047b7506175dd748a10bc64.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/66c6db559d2a646719f9d539395825e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02a4e18ff478cd5346eba105b69ab431b406935e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000003-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ロバーツ監督、大谷の第1子誕生「翔平のタイミングで発表」…21日に合流の可能性も
+      <a href=https://news.yahoo.co.jp/articles/ba8b0f83ac7d1e4e9129b07d8cdabfc32111e506>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000091-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=921&ch=921&exp=10800&fmt=webp> 中日・高橋宏　お待たせ今季1勝「ここからスタートだと思って」　由伸“アニキ”に刺激で同日星
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95d7b1538e5f1025dde4d5342956621d3e247118>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01738706-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「父親リスト」入りで欠場　2戦連続“主役”不在も…ド軍5連勝なるか
+      <a href=https://news.yahoo.co.jp/articles/5fea9714df1a950e94f72498e127dc920cea5af0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01739282-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の復帰に指揮官「わからない」　父親リストで2戦欠場「ビッグニュースを届ける」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 04:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 05:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
