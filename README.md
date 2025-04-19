@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FfX-ldO-Aro?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fec05a0160a7d24d24f6e6c34545347f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/60dd78ea646b9fa5309f544580b440ac.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52d936c91f4b0447d5c12699e2948a3a22f8324e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-04191095-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 元ＮＧＴ４８・荻野由佳、第１子妊娠を発表「新しい家族が増えます！」今年２月に結婚報告
+      <a href=https://news.yahoo.co.jp/articles/59c4a259639762bfa8c66cdf4839a9c776771c33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000009-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=1465&ch=1465&exp=10800&fmt=webp> 『名探偵コナン 隻眼の残像』公開初日で興収10.5億円、観客動員69万人突破！
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a60987125a417b27163bf153ed4b85e9ccb7a048>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000189-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 大谷翔平が真美子夫人の出産に立ち会うため利用した「父親リスト」とは？過去にダルら日本選手も多数利用
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c96651d17f7b5bb1976ed256629939c5ebd5763d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010007-abn-000-1-thumb.jpg?exp=10800&fmt=webp> 長野県北部・中部で震度5弱 気象庁「1週間ほど最大震度5弱程度の揺れに警戒を」【長野】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab8342ac910da44f9722afc0c857f05390ef095b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00526827-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 圧投・山本由伸に米愕然「これは何だ…？」　204発男の膝を崩した1球が「今季No.1のエグさ」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/95f3d7f875486ebd8358bf78e46c42133c35a79a3795f1853c854edd020fcd7b.jpg> 震度5弱 重要文化財の頭部割れる
+      <a href=https://news.yahoo.co.jp/pickup/6535978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/52ba90319fa7cbc08902bf95efb32d971633ed2195cc5d6bbaf65f0c2691e461.jpg> 各地で夏日が続出 熱中症対策を
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535952>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/061349581888e6b66f10a2c5e6ff2b62c977f5de7a40873e595b6f0e31defc46.jpg> 名古屋「選択制給食」現状と意見
+      <a href=https://news.yahoo.co.jp/pickup/6535967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/95f3d7f875486ebd8358bf78e46c42133c35a79a3795f1853c854edd020fcd7b.jpg> 震度5弱 重要文化財の頭部割れる
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/c6ff6d1cfdb60b81d4c7535e4725d356b039423dc9b165c390fe9c566a978fd8.jpg> 首都高で玉突き 2歳児が意識不明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535945>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/c78172c83698040ffaac3caea039ce2a9de9d8f6d0bd5fafa714f6dff17e09f6.jpg> 「ブタミントン」令和に復活 なぜ
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/ac01b89182848061cfc6a9deb6b61692fe1e38a527253d9706de77ac8099267d.jpg> 由伸が今季3勝目 7回無失点の好投
+      <a href=https://news.yahoo.co.jp/pickup/6535977>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/7b9082a6329d0907c9b4137ea225687a9a1474c1a2471cdafb04c8b1442a5fd3.jpg> 今季3勝目の山本由伸 監督も絶賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535980>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/d9a718be7f1bbaa0c451dd78fd14882e83d7d83ea0f19f666910f722f83d50b3.jpg> コナン公開 すでに8回鑑賞の人も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 14:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 14:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
