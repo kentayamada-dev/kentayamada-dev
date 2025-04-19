@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b2aad2f8faae94c06425cd861575bcfa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dbb7ac13f047b7506175dd748a10bc64.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ea74a41f34525cd7abc27e177bdec8bbd8a0c0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000110-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ド軍監督　21日の大谷復帰に「私はそう望んでいる」　現在産休中で、復帰時期は未定
+      <a href=https://news.yahoo.co.jp/articles/02a4e18ff478cd5346eba105b69ab431b406935e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000003-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ロバーツ監督、大谷の第1子誕生「翔平のタイミングで発表」…21日に合流の可能性も
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ae8dfd79b2e4c78be0b8810b21fbf7fe2a1ff8b7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231613-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=639&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア・プーチン大統領 復活祭にあわせた一時停戦を一方的に表明 日本時間20日午前0時から30時間　ウクライナ側に同調求める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f922ae29a2eadf0f1a61920ea396b8e881c5f18e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00960350-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相 赤沢経済再生担当相らと方針を確認　アメリカが肉・コメなど輸入拡大迫る
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 04:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 04:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
