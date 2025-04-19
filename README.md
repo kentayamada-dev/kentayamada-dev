@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97b9ae489ccfc7b89ddbeed26cf61313.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ca9cc37cb119b25eb59d0f56ef12dbc8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c90480bc4550d5a0b61e0e084cf37c42effee14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-34190312-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=95&cw=1311&ch=1311&exp=10800&fmt=webp> 山本由伸「１つのミスもしないように」７回無失点10Ｋ３勝　18回連続無失点で防御率0．93
+      <a href=https://news.yahoo.co.jp/articles/c75b03f136fd3b5f3b8c699b580e1258c4796b56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-10174532-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=428&cy=0&cw=986&ch=986&exp=10800&fmt=webp> ドジャース 山本由伸が3勝目 大谷翔平は“父親リスト”入りで欠場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/452d99b736fd720e79c207329f2947755d8cb47f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865606-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度2の地震　長野県・大町市
+      <a href=https://news.yahoo.co.jp/articles/5612b390fa71f5cc3b0c3ae127f697b4a6a5c0f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000035-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=1078&ch=1078&exp=10800&fmt=webp> 一問一答②　山本由伸は父親リスト入りの大谷翔平に「皆でカバーして戦えた」「いつも大谷さんが引っ張ってくれている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47f69f06ab0fc075a9adf1fe27dc3057dcf54682>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000022-ann-000-4-thumb.jpg?exp=10800&fmt=webp> トランプ氏「米国車輸入せよ」　米側 牛肉・コメの輸出に関心
+      <a href=https://news.yahoo.co.jp/articles/039a3b4e27e8a7a80a6abf2f1f4c5ee5dd7a4c14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-10174531-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 日米関税交渉 米が自動車に関心 牛肉・コメにも言及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59a5d018b693dbde6ab3ff4558b22132772ac06d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-10174506-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=348&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> カーショーも大はしゃぎ！ 大谷翔平の“代役1番”、いきなり先頭打者弾でド軍ベンチがお祭り騒ぎ…SNSも沸騰
+      <a href=https://news.yahoo.co.jp/articles/a79824eb464658dd5b6887a2c751951f5471051c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865655-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市、松川村
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/061349581888e6b66f10a2c5e6ff2b62c977f5de7a40873e595b6f0e31defc46.jpg> 名古屋「選択制給食」現状と意見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535951>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/598291beb391bdb5add32ddf8d3d915e3c276bf54824132261a4b8f23e56c6b2.jpg> ウ停戦協議 米が仲介から離脱警告
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535964>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yanokikuno/02177025/title-1745019737972.jpeg?exp=10800> 備蓄米が小売に0.3%だけ 今後は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/71bb5ec955e08acf4991db3ee8c5c32d59ed15b72c49a786a3fd2aaeea9535d9.jpg> ドラム缶遺体 成人とみられる女性
+      <a href=https://news.yahoo.co.jp/pickup/6535963>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/8a36b2a9953e38a12d2049071865824259af212e7d3ac0e6b33eb7fc21e6cec3.jpg> 大分で集団強盗事件 複数人逃走中
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 13:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 13:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
