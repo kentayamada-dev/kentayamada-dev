@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/08d953fac899f97b307797cc9a9efabe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/563ff22b5fd3c1bad76a176b03b0ff34.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a7181b2c36ea657b94d85b96bc0f6c7fcb41cb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000118-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=209&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　ドジャース・大谷に並ぶ6号2ラン　今季2度目の2戦連発でアーチ量産モードへ
+      <a href=https://news.yahoo.co.jp/articles/ccbd2510767e07f9da123616f37e14e06867dea1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000120-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=921&ch=921&exp=10800&fmt=webp> 佐々木朗希　5回2安打2失点でメジャー初勝利の権利　3回に先制2ラン被弾も直後に打線が逆転
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e44ced97f654f34cadeeddb0ade9f6b79c8f22c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000117-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=166&cw=869&ch=869&exp=10800&fmt=webp> ド軍指揮官　試合中に第一子誕生の大谷翔平を祝福「いいニュース。名前わからないが、野球界全体が祝福」
+      <a href=https://news.yahoo.co.jp/articles/0d10f7bd0498bd74c23482c710e78688d5e6ebf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアが一時停戦を宣言　ゼレンスキー大統領は不信感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cdc873e69f90f24b46183a9b80660ebed5c9d178>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050019-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ゼレンスキー大統領「砲撃は止まっていない」…復活祭の２０日以降も停戦継続を提案
+      <a href=https://news.yahoo.co.jp/articles/adb2cdc8a3fbe2413c2ef5c6c8cf8d6c0737203b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00095365-thedigest-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平がパパに！ 真美子さんの第一子報告をMLB公式が祝福。お祝いムードが拡散「長女が誕生した♡」
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536042>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/03f31e8004ebaa3d5fe20d53237bcb7b9d24331a91d3ef2577cd0f0af33180f1.jpg> 球審にファウル直撃 客席はコール
+      <a href=https://news.yahoo.co.jp/pickup/6536044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2282eaae4cd8853af60cc8619d789665a34c160d123621db301faa67f086c46e.jpg> 大谷パパに 夫人の女児出産を発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 06:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 06:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
