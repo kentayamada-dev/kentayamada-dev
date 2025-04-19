@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b2f147f921c75dbfd6972ea49a281c9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2cf075573fafcbe8fb9f5921d8acd892.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f875959ee4bcc7d8af60452f01863ac3f8f63ef7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000345-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=1177&ch=1177&exp=10800&fmt=webp> 59歳・中森明菜　野外フェスに初出演で絶叫「生きてたぞ～！」　小室哲哉、氷川きよしと共演に大歓声
+      <a href=https://news.yahoo.co.jp/articles/08acdb6554aa4c9ff502e4194fe8fb649c7b8687>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000112-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=69&cw=1116&ch=1116&exp=10800&fmt=webp> 交通事故で負傷の新濱立也、マネジメントが詳細を公表 １カ月後にはトレーニング再開か【スピードスケート】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6723bb1fbfc4629a96c17aa34ba65c466692bad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-01739151-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 鷹、完封負けで今季最悪の5連敗　離脱者続出で打線沈黙…借金5で単独最下位
+      <a href=https://news.yahoo.co.jp/articles/5beabbbf6b59054e1128584aacddfbc5aa525659>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00010051-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=94&cw=1037&ch=1037&exp=10800&fmt=webp> 「しばらくかかるでしょう」　ソフトバンク小久保監督、左肩亜脱臼した正木智也の長期離脱を覚悟　18日の西武戦で負傷、全治未定
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0faf418445357cf5fa15ee94cd0b510cf286e3b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-34191003-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 「父親リスト」入り大谷翔平は「いつ戻ってくるのか、いつ生まれるのかは分からない」監督明かす
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-34191003-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 「父親リスト」入り大谷翔平は「いつ戻ってくるのか、いつ生まれるのかは分からない」監督明かす
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/5d365c758abc97adaddd2264b205ad3a1e8d72e49a03969690366c9ba657deec.jpg> 大谷産休 監督「ビッグニュース」
+      <a href=https://news.yahoo.co.jp/pickup/6536030>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/525a48cb59fde648f9fef8a9b2c7f33a7fcc9c26f00c5e0cb3e52c967a55c9ef.jpg> スケート新濱 交通事故で大けが
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/d0410db8c97b2fa103ff063581299ea081d9dc9587472eef9a03af2de90e9893.jpg> 中森明菜シャウト「生きてたぞ」
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536019>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/4390f29a1209d2820445552a069ab01a4ddeaf4ebaa1d9dbd3e6e621738e9a37.jpg> コナン1日で興収10億円 声優驚き
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 21:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 21:30:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
