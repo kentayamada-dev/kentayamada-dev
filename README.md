@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FfX-ldO-Aro?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/60dd78ea646b9fa5309f544580b440ac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0a12c2c07c9befe493c4c0e905018abe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59c4a259639762bfa8c66cdf4839a9c776771c33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000009-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=1465&ch=1465&exp=10800&fmt=webp> 『名探偵コナン 隻眼の残像』公開初日で興収10.5億円、観客動員69万人突破！
+      <a href=https://news.yahoo.co.jp/articles/f92686accdc56ac970870bab8df6f1789d9c4db8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-10174539-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=985&ch=985&exp=10800&fmt=webp> 首都高・高島平IC付近の玉突き事故 意識不明の2歳児が死亡
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a60987125a417b27163bf153ed4b85e9ccb7a048>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000189-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 大谷翔平が真美子夫人の出産に立ち会うため利用した「父親リスト」とは？過去にダルら日本選手も多数利用
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000189-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 大谷翔平が真美子夫人の出産に立ち会うため利用した「父親リスト」とは？過去にダルら日本選手も多数利用
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/039a3b4e27e8a7a80a6abf2f1f4c5ee5dd7a4c14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-10174531-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 日米関税交渉 米が自動車に関心 牛肉・コメにも言及
+      <a href=https://news.yahoo.co.jp/articles/9c1f99b33a4c83102da281f0edaeb58818110542>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050848-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博警備の内部資料、大阪府警の巡査部長が置き忘れ一時紛失　流出は確認されず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2efeda8971163e28002c41f713a22457425184dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00065107-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 大阪は『夏日』予想…万博来場者に日傘の利用・水分補給など呼び掛け　「ニット着ていたが、ここで半袖を買った」との声も
+      <a href=https://news.yahoo.co.jp/articles/039a3b4e27e8a7a80a6abf2f1f4c5ee5dd7a4c14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-10174531-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 日米関税交渉 米が自動車に関心 牛肉・コメにも言及
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/95f3d7f875486ebd8358bf78e46c42133c35a79a3795f1853c854edd020fcd7b.jpg> 震度5弱 重要文化財の頭部割れる
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535978>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/95f3d7f875486ebd8358bf78e46c42133c35a79a3795f1853c854edd020fcd7b.jpg> 震度5弱 重要文化財の頭部割れる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535963>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/8a36b2a9953e38a12d2049071865824259af212e7d3ac0e6b33eb7fc21e6cec3.jpg> 大分で集団強盗事件 複数人逃走中
       </a>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535945>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/c78172c83698040ffaac3caea039ce2a9de9d8f6d0bd5fafa714f6dff17e09f6.jpg> 「ブタミントン」令和に復活 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6535966>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/9b3e6a2437dbd2c1b505e8068d54eb21471463784db90c09ab20c18ffc6945b0.jpg> 万博フードコート 有料席「好評」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 14:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 15:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
