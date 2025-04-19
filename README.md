@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/42fd6cbeb3a8b3b45e42428231256d27.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/497dcac7e4b8de6fa3b8083c8a394672.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0faf418445357cf5fa15ee94cd0b510cf286e3b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-34191003-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 「父親リスト」入り大谷翔平は「いつ戻ってくるのか、いつ生まれるのかは分からない」監督明かす
+      <a href=https://news.yahoo.co.jp/articles/78912c9f5472830c2cc5fa5b77a396991dc24414>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000058-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=872&ch=872&exp=10800&fmt=webp> 石破首相、対米「カード」検討　関税交渉、赤沢氏らと協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c06c8211470396a45abe4c9c68363d9b9500fbe0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-07231589-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理　若者などの就労支援に向けた関係閣僚会議の設置を明らかに　
+      <a href=https://news.yahoo.co.jp/articles/0faf418445357cf5fa15ee94cd0b510cf286e3b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-34191003-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=1094&ch=1094&exp=10800&fmt=webp> 「父親リスト」入り大谷翔平は「いつ戻ってくるのか、いつ生まれるのかは分からない」監督明かす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/26f6126aa237c646bc38c1634c15ce03491c71b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000011-anmanmv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=794&ch=794&exp=10800&fmt=webp> 「名探偵コナン」諸伏高明、安室透たちが“避暑地”でのんびり♪ 描き下ろし新グッズ登場のアニメイトフェア開催
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535998>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e6e3e4e0fd9463822c879261903c978a646e73ec4671e4a34a982715eab6be5d.jpg> ホテルで140人食中毒 ノロ検出も
+      <a href=https://news.yahoo.co.jp/pickup/6536012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/1e6eb99fc470ce015807fa181e4cdaa8c5b55ffc0ed5757a8977fc67efa81f7a.jpg> 選挙前日に候補が事故死 無投票に
       </a>
     </td>
   </tr>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536009>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/b5d4f4b8408d1b7fc5c92cf2e17f6ce851a87bb290bd57fe62b48ab36604b525.jpg> 「万博の顔」ミャクミャクが人気
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535983>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/24555f5f83895d31ab4dad44c5393513f1e8aac2c9813d9d68166d3e33365569.jpg> 実の母知らず40年後に母子再会 米
+      <a href=https://news.yahoo.co.jp/pickup/6535991>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/c730e533db6e74da191cdbd96a2d014acbd1344499e72ef457fdcc4fdfe53622.jpg> 二足歩行ロボ 中国で21キロを完走
       </a>
     </td>
   </tr>
@@ -448,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536016>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/4390f29a1209d2820445552a069ab01a4ddeaf4ebaa1d9dbd3e6e621738e9a37.jpg> 山田孝之 コナンの初日興収に仰天
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 19:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 19:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
