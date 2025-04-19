@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/df6b28e87d3f37d8e21e344c46bf14ac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/677dd1526d9a7d4565c5b07224655127.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eccd3e7cd9fada96102b8f9578842618baf6f81c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000020-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=738&ch=738&exp=10800&fmt=webp> 大谷翔平が活用、「父親リスト」とは…大リーグが2011年に導入　過去にはダルビッシュ、鈴木誠也、田中将大らが使う
+      <a href=https://news.yahoo.co.jp/articles/1c97ff6a7f2c02b7e3c4053a2c74ea2bcb4dce8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-01203416-rcg-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=854&ch=854&exp=10800&fmt=webp> 初日最速のノリス「アドバンテージが思っていたより小さい。マシンより自分の調整に集中している」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b42b546f4711ae32e723d4fdb8e785774f1898db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> 角田、FP2で6番手も終盤にクラッシュ サウジアラビアGP
+      <a href=https://news.yahoo.co.jp/articles/0ca4566fc330cd1e9ff351eb8d6285ef5c3a4a72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博警備資料を一時紛失　2日後に把握　大阪府警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6bac15eac42432402734953b288ca0888c99d679>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00094659-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=87&cw=1080&ch=1080&exp=10800&fmt=webp> 東京のマンションバブルついに崩壊か…トランプ関税で乱高下の日本「ビル価格7億円￫7000万円引き」の衝撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4372f78ae2613b27f0433dc68fb3f6f40ee3d91c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00341596-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=809&ch=809&exp=10800&fmt=webp> 大谷翔平が産休で今季初欠場　ロバーツ監督「誕生を待っているところ」とにこやかに説明
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/50e7800bfd28c10192292b03c818092409be52f5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865424-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32f9913143abbe4830aa26a8a2683d25fbccb312>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> この道（４月１９日）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aae54e381c439887d4554397c56534212fd0e273>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000034-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2003&ch=2003&exp=10800&fmt=webp> どうした？阪神の二遊間　敗戦の中で気になるのは先発落ちの木浪と前半途中交代の中野～藤田平氏の見解
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/600b0931744732d8485ec3b1d0a23f25655d2df175905944f836325330b3f054.jpg> 無資格X線「証拠撮るな」と社長
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535939>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 工事で土砂に埋まる 作業員が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6535949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/9629b8691d7740e47fbeb3435c4c2cf6444022d52ee75fee8e8933a185347e49.jpg> 山手線など一部運休 20日昼まで
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535947>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/3b23e70240a3529c1ec5b57274c439465ee0be8a41789be9174132b7c7f2ca01.jpg> JR東 約6千億円の街づくりの全貌
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/82060245e31d17901a9c5201188f9e022106b5d40af481086104c38148915412.jpg> F1角田裕毅がクラッシュ 赤旗に
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 10:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 10:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
