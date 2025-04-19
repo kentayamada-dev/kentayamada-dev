@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ffa413cde4ad9ba3d686da6550eb4e4e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b2f147f921c75dbfd6972ea49a281c9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f875959ee4bcc7d8af60452f01863ac3f8f63ef7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000345-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=1177&ch=1177&exp=10800&fmt=webp> 59歳・中森明菜　野外フェスに初出演で絶叫「生きてたぞ～！」　小室哲哉、氷川きよしと共演に大歓声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d6723bb1fbfc4629a96c17aa34ba65c466692bad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-01739151-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 鷹、完封負けで今季最悪の5連敗　離脱者続出で打線沈黙…借金5で単独最下位
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-01739151-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 鷹、完封負けで今季最悪の5連敗　離脱者続出で打線沈黙…借金5で単独最下位
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/029a4d89f5d2b2cdc1ea88c3b794804c5bf7e6fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 兵庫・豊岡で31．2度　真夏日続出、熱中症注意
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536007>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/e111c5e24546c9c45aee5f80935e6c9b6b81cf7f41071bc7b36cafdb413201d4.jpg> トランプ氏 高関税乱発で翻ろう
+      <a href=https://news.yahoo.co.jp/pickup/6536018>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/0d01cba766106b091bd6e7ae7803b1837a9e1411e7d60fafda8de8ffa0bfdd10.jpg> 20日も多くの夏日予想 雷雨の所も
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536012>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/1e6eb99fc470ce015807fa181e4cdaa8c5b55ffc0ed5757a8977fc67efa81f7a.jpg> 選挙前日に候補が事故死 無投票に
+      <a href=https://news.yahoo.co.jp/pickup/6536025>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/814975d5ebacf8340b8e3b4b9c2594f033ce1d118347955d555f7ad692158fa0.jpg> トラックと衝突 バイクの19歳死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/17439a95918863e7436631b495bbe10c2cb9b01724d1bdc90c5891b093e51f3b.jpg> 殺処分の犬と猫 初の1万匹以下に
+      <a href=https://news.yahoo.co.jp/pickup/6536023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/4307f18fd7d7c1e6611186302113e641a457179c00a4a15ecc11ee1f1a70b315.jpg> 知事が退任 孫に「遊べるからね」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 20:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 21:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
