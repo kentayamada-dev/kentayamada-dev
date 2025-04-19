@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/241156ff4150beb802a373461c8e087a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5fa19f749522f9ef7ad72eb99444e927.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e45ce7a57d36d43ba2905a2ba305b042a69554c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000000-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> プーチン大統領、復活祭の一時停戦を宣言　ウクライナ同調が条件
+      <a href=https://news.yahoo.co.jp/articles/a7f7428c36476168968b5f3b0bb24a413d246ed4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201000-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大谷翔平、２試合続けてスタメン外　真美子夫人の出産立ち会いで“父親リスト”入り　連続欠場なら移籍後初
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d18929b1111cca22096aa85f0ccbb8d65b9193fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000053-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=785&ch=785&exp=10800&fmt=webp> ドジャース・大谷が産休「父親リスト」入り！真美子夫人が出産間近で今季初の欠場
+      <a href=https://news.yahoo.co.jp/articles/ad3e67a80b28545933c526904cbc9ae9a638a72e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000001-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 埼玉・ドラム缶に遺体 外傷なし　高齢女性か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae8dfd79b2e4c78be0b8810b21fbf7fe2a1ff8b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231613-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=639&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア・プーチン大統領 復活祭にあわせた一時停戦を一方的に表明 日本時間20日午前0時から30時間　ウクライナ側に同調求める
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f922ae29a2eadf0f1a61920ea396b8e881c5f18e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00960350-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相 赤沢経済再生担当相らと方針を確認　アメリカが肉・コメなど輸入拡大迫る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc66e779ef35cc6021e01674553c6e43fc8b11da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000383-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=972&ch=972&exp=10800&fmt=webp> ベテラン審判員の笠原球審がファウルボール直撃で試合中断　治療後に最後まで球審を務め「強烈でした」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 02:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 02:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
