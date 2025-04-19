@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/677dd1526d9a7d4565c5b07224655127.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/55056c6772fc54e58d94e8fad81ff2d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c97ff6a7f2c02b7e3c4053a2c74ea2bcb4dce8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-01203416-rcg-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=854&ch=854&exp=10800&fmt=webp> 初日最速のノリス「アドバンテージが思っていたより小さい。マシンより自分の調整に集中している」
+      <a href=https://news.yahoo.co.jp/articles/a462573e2ce8d3cd94473c51c0f326c8e666311d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-04191048-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 山本由伸、今季最長７回無失点　防御率０・９３はリーグトップ　奪三振も２位　２１回連続自責なしの無双状態
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ca4566fc330cd1e9ff351eb8d6285ef5c3a4a72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博警備資料を一時紛失　2日後に把握　大阪府警
+      <a href=https://news.yahoo.co.jp/articles/7349ad836dc6ee2ebf9fa7219b2b973a8036547e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000014-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=750&ch=750&exp=10800&fmt=webp> 大阪・関西万博来場者数が累計50万人突破、6日目に関係者含め　期間中2820万人想定
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4372f78ae2613b27f0433dc68fb3f6f40ee3d91c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00341596-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=809&ch=809&exp=10800&fmt=webp> 大谷翔平が産休で今季初欠場　ロバーツ監督「誕生を待っているところ」とにこやかに説明
+      <a href=https://news.yahoo.co.jp/articles/50e7800bfd28c10192292b03c818092409be52f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865424-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50e7800bfd28c10192292b03c818092409be52f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-21865424-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長野県で最大震度1の地震　長野県・大町市
+      <a href=https://news.yahoo.co.jp/articles/09a45dc3e4e650640ec925321adbba4a82083073>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00000018-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大谷翔平に代わる1番エドマンが先頭打者弾、チーム2戦連続にネット「大谷選手が乗り移る！」「代役なんて言って失礼」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/681a062dc9516945017a0b4fe19766ed78f91d33e909cfdf76f7d91c14b0275c.jpg> 震度5弱から一夜 JRなど通常通り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535942>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/b923fff3bc2e31195591f26435c8eb99cef4d1182e0e231722dfbe24511c7963.jpg> ゼレンスキー氏が万博訪問 調整
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535943>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/95512272eefffbf431b5366759a3ea98da129e4ff27b2be3cf759fdc61f34e4c.jpg> 日米関税交渉 米は貿易赤字に関心
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535944>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/681a062dc9516945017a0b4fe19766ed78f91d33e909cfdf76f7d91c14b0275c.jpg> 震度5弱から一夜 JRなど通常通り
+      <a href=https://news.yahoo.co.jp/pickup/6535950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/3d0fd3d8ac25e63893ae98fef58169709043b0b62d0f31434b19c28b491f2f3a.jpg> 女子高生刺殺 待ち伏せの形跡なし
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/82060245e31d17901a9c5201188f9e022106b5d40af481086104c38148915412.jpg> F1角田裕毅がクラッシュ 赤旗に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6535941>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/010eb928bc0d695c97b440b9c725a421da0e9496af469d073fbced9e7f77573e.jpg> 大谷「父親リスト」入り 欠場へ
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6535937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/5e1b5e0f8da19ad4e3bfbe07b4dc09acec98754fff890abdbf99d2214b7ef2f3.jpg> 辛坊治郎氏 今秋にも「早期退職」
+      <a href=https://news.yahoo.co.jp/pickup/6535953>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/0f1385cc633590b2707d56fff007b29563e586f06da22ac492fdbc79cbe81f00.jpg> 大谷の1番代役 「前祝い」先頭HR
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6535955>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/6653a5e86903eac41936a6fbf6ca6f372212ffd1befaff80008c417ad6f4947d.jpg> 川栄李奈「おバカ」キャラ封印中
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/19 10:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/19 11:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
