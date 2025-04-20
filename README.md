@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/deaf866540dc3d2e4e22f4c53b2d0a87.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aed5bb4a954ea99a1d2ede992464d947.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/956b64d6f2bf72306e51764828c4a9ac57ef3c6d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00341710-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=241&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【体操】新旧五輪王者の直接対決は橋本大輝に軍配　激戦にファンも大興奮「五輪金が勝てない全日本」
+      <a href=https://news.yahoo.co.jp/articles/d9db6345c11092d020e1ee19f70223fae1c81d1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201105-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=257&cw=686&ch=686&exp=10800&fmt=webp> 大谷夫妻に第１子誕生　ドジャース夫“夫人会”も「Ｃｏｎｇｒａｔｕｌａｔｉｏｎｓ」お祝いの投稿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1040fd31859ddad271486b8ba96e362cacf07c0c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00527246-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平に長女誕生…同僚の試合中ジェスチャーが「すごい！」　X話題「出産に立ち会う間も…」
+      <a href=https://news.yahoo.co.jp/articles/b659978b7cf259fa1cfa9a728ed22e1252b042ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000010-kiba-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【皐月賞速報】ミュージアムマイルが優勝!
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f3b4a9c71e4fbc4bd443f44e9c11470eacc5effe8459ead62e53153d484fc15d.jpg> 露ウ間 過去最大規模の捕虜交換
+      <a href=https://news.yahoo.co.jp/pickup/6536105>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/187f40ced5426b3b3f0d173dad4c6a85c250fddae9d45515b889d6566f16cb07.jpg> 「勝利まで戦う」イスラエル首相
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536091>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/eba51a9681bb9ba6ade5a6254b0f2b6e57a1ddcc563784ebcfc6a79dc544f306.jpg> 首相 日米交渉を世界のモデルに
+      <a href=https://news.yahoo.co.jp/pickup/6536096>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f3b4a9c71e4fbc4bd443f44e9c11470eacc5effe8459ead62e53153d484fc15d.jpg> 露ウ間 過去最大規模の捕虜交換
       </a>
     </td>
   </tr>
@@ -434,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536092>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6fa802da5116178c09d8ea16cd1c654133855812f373b58326dca6fb6049574a.jpg> すなば珈琲 スタバ鳥取出店に本音
+      <a href=https://news.yahoo.co.jp/pickup/6536108>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/a53356715440e08dcdd8be7682efca14be32d1ff8db174a06604bb2ca32192cf.jpg> 子連れで万博 体験した「想定外」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536093>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f673f3d98639d235d84bef54a7f5effded4274a7d386a4a496a5fba45d10a4cd.jpg> 50kg少年 伝説のボディビルダーに
+      <a href=https://news.yahoo.co.jp/pickup/6536110>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/280df01e508891198507e402ea055d945a9b279bf5f0e830b18188248a594c60.jpg> 皐月賞 ミュージアムマイルがV
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536106>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/29e26fb37714059fc9d82ca2e8ac6df0eda856c2fdf4cf246989a407e14ed25f.jpg> 46年前の小説版ガンダム 再び注目
+      <a href=https://news.yahoo.co.jp/pickup/6536109>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1e489eebbee4596c24c43a8f668e0176b5b6d5d6225f7f574ebd12d78a084728.jpg> 角田夏実 4階級上の実力者に敗北
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 15:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 16:00:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
