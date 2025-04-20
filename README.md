@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2a378c35ac77ccd6c4f161c4497cf70e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b0e7ee7656fc345e8263ef81f30d0e10.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c086bd74eda4d3fd2353f3df76347498faee3ed6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00341723-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=94&cw=812&ch=812&exp=10800&fmt=webp> 佐々木朗希の〝５失点〟を阻止したパヘスはルパンなのか…米メディアも賛辞「泥棒」
+      <a href=https://news.yahoo.co.jp/articles/53a924d4ebbeabfeac9abb5597e70ca4e0496971>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 戸田市議会の男　公職選挙法違反　買収の疑いで逮捕／埼玉県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9bf554408671cb08f1996048e0d7f8eb838b4e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231662-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏意識か プーチン氏が「30時間」停戦表明 ウクライナ側期間延長要求も ロシア攻撃継続か
+      <a href=https://news.yahoo.co.jp/articles/3465b9db1960d642d35cb42453dd8edf02dd6a1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-34201123-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=1296&ch=1296&exp=10800&fmt=webp> 佐々木朗希「仕事できた」初勝利ならずも手応え　６回２失点でメジャー初のクオリティースタート
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e7ffa0681c5f0a883130a3b4d802b223d7700ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000027-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 埼玉・戸田市議を公職選挙法違反の疑いで逮捕　選挙運動見返りに報酬を渡したか
+      <a href=https://news.yahoo.co.jp/articles/e691bfa2dfed8471c9649a56e12e4d6a77b73ce6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000034-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロシアの“一方的停戦”後も攻撃継続　6時間で砲撃387回　ゼレンスキー氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58aaaa9bad9cd6a173f12ff084b4607e1b36308d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 明菜さん熱唱「生きてたぞ！」　大分の野外フェスで、大歓声に
+      <a href=https://news.yahoo.co.jp/articles/2acdf9a1eed6b954c29d5ee80817d6c64ce65edb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000035-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 中森明菜、野外フェス初見参で「生きてたぞ！」にファン歓喜…裏で“やっぱり似ている”指摘が続出した“リスペクト芸人”
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536115>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/fed00b8ccc84e008eae1a7adc089866b80bc1a8195fe08a547994fbb583d221f.jpg> メンタル不調予防 GWの過ごし方
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536118>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/7313380ca8ffacaec2e3becb28e58fc8379b15d5cbe03b3979586b0e9e6c69ab.jpg> たまごっち「想定外」の再ブーム
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6ecbf045ca12772ca2386c2603dc7b813464957cc8713bd45640a2d81596bccb.jpg> 有村藍里 私のために整形しました
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 18:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 18:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
