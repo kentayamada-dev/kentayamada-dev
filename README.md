@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/95f02d5fa8a29766f912ca44d55afe21.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8869b78e0884ae872dd030552b8dc1b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/64fbec9ed8ca2989d8225ba1714a9db47522caa8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00172001-sdigestw-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=516&ch=516&exp=10800&fmt=webp> 「走り込みが神」「サカみたい」役者が違う！三笘薫の鮮やかな逆足弾に驚嘆の声！「１人少ない状況でエグい」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/862f42164bb5c00f24fb319209e67d7c8088f9fa>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e7c2cb25256771b6e5cdd400b6922957db8518e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01736260-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 3勝目の千賀滉大、防御率0.79でトップに　指揮官「普段と異なる」と評価
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/39a1a8dc390c5967ff0aad75879b4aed5095bb87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=629&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ロシアが復活祭休戦発表 ウクライナ追随も空襲警報鳴りやまず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000003-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=629&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ロシアが復活祭休戦発表 ウクライナ追随も空襲警報鳴りやまず
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536059>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/e61854a317761d8c5b411e3da0bb9c3745508e9ebb9742ecb13e781680bd1ca9.jpg> 北朝鮮の自走砲 ウ国境近くの露に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536064>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2a8bcab274ae2f4951c1f7faa6446c17cfdfe31e5e87ce460ec37b6ceb52335e.jpg> 中国の輸出業者 米関税でパニック
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536051>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 地震でタイのビル倒壊 施工者逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6536057>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/da4a12ad5003e73321f2c4616e266d71fc4293cdcc5c40a1ec56d4ded869ad94.jpg> 万博「売らない」ウのメッセージ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/ea4eda0f3ed722bea41a7bb4c77d293e3ece092c5ebcf1904a1a9cdc92b16bda.jpg> 口唇口蓋裂 21回手術乗り越えた今
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/3da21604dba9c3200e083aa29e3b44aaaa77b28f7ef14c1a7cf6980aa045a1d6.jpg> 万博 スマホ頼みに高齢者ら悲鳴も
+      <a href=https://news.yahoo.co.jp/pickup/6536055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/d7bf06ad1753a832684561128c9c2a69430680fb5f981972140aa92274163d4b.jpg> 尿はねを見える化 老舗企業の挑戦
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536058>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/eb74f2b313d36cb2b7153ed85131516da20ab26a5406ca91b0481de0f6c9e2d3.jpg> メッツ千賀3連勝 防御率リーグ1位
+      <a href=https://news.yahoo.co.jp/pickup/6536074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/c69867e8b8c679b93a3c40f734a221d8738afcd4c468b59fc1c20f2e550fe37b.jpg> 三笘薫が復帰弾 キャリアハイ更新
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 10:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 10:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
