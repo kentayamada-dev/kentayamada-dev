@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aed5bb4a954ea99a1d2ede992464d947.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0aee5ac4b5628d1c1566196ce7164941.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9db6345c11092d020e1ee19f70223fae1c81d1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201105-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=257&cw=686&ch=686&exp=10800&fmt=webp> 大谷夫妻に第１子誕生　ドジャース夫“夫人会”も「Ｃｏｎｇｒａｔｕｌａｔｉｏｎｓ」お祝いの投稿
+      <a href=https://news.yahoo.co.jp/articles/481043f7d7a9a7efe20a2fbc656eeeecf7845c8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000068-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=121&cw=963&ch=963&exp=10800&fmt=webp> 【皐月賞】２週連続のモレイラマジック！ ３番人気ミュージアムマイルが直線鋭く伸びて１冠目奪取！ １番人気クロワは差され２着
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b659978b7cf259fa1cfa9a728ed22e1252b042ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000010-kiba-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【皐月賞速報】ミュージアムマイルが優勝!
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/86160ad7d492381d33427e6cd18b07311b73279f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-21866431-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> "MAGA"キャップでグーサイン　トランプ大統領と直接会談　日本の“交渉役”赤沢大臣が帰国　「アメリカペース」の関税交渉!?【サンデーモーニング】
+      <a href=https://news.yahoo.co.jp/articles/2274315c2648b7f6f977e5a4b418dd70a8769587>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07734585-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ドジャースの新メンバーに会うのが待ちきれない！」大谷の第1子誕生に祝福の声続々　 球団やCMポーズの化粧品会社も
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed4ce175983de7ce9bdc9d48b15a107d2799045f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050035-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> 山手線と京浜東北線が全線で再開…２日間にわたった「羽田空港アクセス線」工事は予定通り終了
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb13caca5d58bf16731014f1ab7803b3c728e227>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231646-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=460&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー氏　一時停戦は「ロシアの完全停戦」が条件　30時間は不十分
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f3b4a9c71e4fbc4bd443f44e9c11470eacc5effe8459ead62e53153d484fc15d.jpg> 露ウ間 過去最大規模の捕虜交換
+      <a href=https://news.yahoo.co.jp/pickup/6536111>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2e0d361b6eef37b79de5f3d4c68adfddc0aef2dbff690a2c6da0d1d698ee0e2d.jpg> 「トランプ氏に怒り」製造の現場
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/280df01e508891198507e402ea055d945a9b279bf5f0e830b18188248a594c60.jpg> 皐月賞 ミュージアムマイルがV
+      <a href=https://news.yahoo.co.jp/pickup/6536112>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/bd4f104a0ad1b1aad9cce9b8c2187d02fb8477f6a4b037533ebacb750e714cc9.jpg> 大谷の人生設計シート また達成
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 16:00:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 16:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
