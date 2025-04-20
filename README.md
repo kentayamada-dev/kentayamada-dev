@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/198b608445778451426af6db42ce95c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a9224d2b66b5458a12f4851997667c6b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6cbd576f4806a7852a5090b6e80215cbaac3855>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-10174600-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=434&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長女誕生の大谷翔平に祝弾！“パパ谷”不在時はMVPコンビが支える ベッツ→フリーマンの隙無し打線にファン興奮「大谷夫妻への祝砲」
+      <a href=https://news.yahoo.co.jp/articles/fb13caca5d58bf16731014f1ab7803b3c728e227>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231646-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=460&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー氏　一時停戦は「ロシアの完全停戦」が条件　30時間は不十分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/efaca17b865a726e8eccca639c1e0222a22248c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000027-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 地震で崩壊のビル施工の中国企業幹部を逮捕　タイ、死者は47人に
+      <a href=https://news.yahoo.co.jp/articles/f1c20a68d2ddace4a5e27858e59024a4a108d143>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000021-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 山手線・京浜東北線が運転再開　きのうから工事で一部運休
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b34f125a1a12237ef523eee46fae144dfede3c53>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000019-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博 開幕から1週間　来場者50万人超に “新マップ”公開など改善続く
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/87071fe08464e43f7502653e154ca6eea3b7c0c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000035-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=68&cw=615&ch=615&exp=10800&fmt=webp> 卓球協会、丹羽に資格停止6カ月　オンラインカジノで罰金命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/908251c90bd1d48ccd4bd1145ebbe0bf91254734>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231638-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> プーチン大統領「復活祭にあわせた停戦を宣言する」30時間の一時停戦を一方的に表明　ウクライナ侵攻
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000035-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=68&cw=615&ch=615&exp=10800&fmt=webp> 卓球協会、丹羽に資格停止6カ月　オンラインカジノで罰金命令
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/7d507631f41fc2f0fbc0411801a19165294754369482621e672d0ce01e346ec1.jpg> 大震災融資 返済繰り延べ百億円超
+      <a href=https://news.yahoo.co.jp/pickup/6536086>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/b48aa25fd8b7fcebd4db333410d8b5634c960001fcb7d0e8279713efeab0c7da.jpg> JR山手線・京浜東北線が運転再開
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536072>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/5e6c0cd9078fc04dda9aa3150ed9eaae1754c8c3cf0f2c598d48af90f957d256.jpg> 相続税=お金持ちは古い?土地高騰
+      <a href=https://news.yahoo.co.jp/pickup/6536065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/280c94764d94a1da74966993b108e3db48a2b78fb1d8d25e5001a461f07043b3.jpg> 子のエナドリは薬物依存入口 警鐘
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536083>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6ecbf045ca12772ca2386c2603dc7b813464957cc8713bd45640a2d81596bccb.jpg> 有村藍里 私が私であるために整形
+      <a href=https://news.yahoo.co.jp/pickup/6536084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6ecbf045ca12772ca2386c2603dc7b813464957cc8713bd45640a2d81596bccb.jpg> 有村藍里 私のために整形しました
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 12:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 12:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
