@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9336e995466cf5cd002ff28ed9cc1577.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/deaf866540dc3d2e4e22f4c53b2d0a87.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb34dc3e231a8b1679f613c569a8d4faf668d88b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201120-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1144&ch=1144&exp=10800&fmt=webp> 橋本大輝が史上５人目の５連覇達成　「勝ち切れたことは大きな一歩」　パリ五輪３冠のライバル岡慎之助とのし烈な争いを再逆転で制す
+      <a href=https://news.yahoo.co.jp/articles/956b64d6f2bf72306e51764828c4a9ac57ef3c6d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00341710-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=241&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【体操】新旧五輪王者の直接対決は橋本大輝に軍配　激戦にファンも大興奮「五輪金が勝てない全日本」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1040fd31859ddad271486b8ba96e362cacf07c0c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00527246-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平に長女誕生…同僚の試合中ジェスチャーが「すごい！」　X話題「出産に立ち会う間も…」
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1bb42b394fe5d1cba90ccda0eb9e8f3cfd3e874>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01739465-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=600&ch=600&exp=10800&fmt=webp> “超速”復帰の大谷翔平に米驚愕「何て男だ」　長女誕生1日で戦線へ「ちょっと待って」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed4ce175983de7ce9bdc9d48b15a107d2799045f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050035-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> 山手線と京浜東北線が全線で再開…２日間にわたった「羽田空港アクセス線」工事は予定通り終了
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050035-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> 山手線と京浜東北線が全線で再開…２日間にわたった「羽田空港アクセス線」工事は予定通り終了
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536097>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/8672ef09baf42dc99f5fa68e00109b6c5d66b79ccabda4daef54b2e6f9640c92.jpg> 山菜採り中に木に挟まり 意識不明
+      <a href=https://news.yahoo.co.jp/pickup/6536107>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/c2acdd7cb10bff0fa3784992a4ef9ba18582bf04ae3cce6b09128582a8fc0813.jpg> 山菜採り中に木に挟まる 男性死亡
       </a>
     </td>
   </tr>
@@ -442,24 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536099>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2a6e71ecbae04aa0fd1aed57251cdcc130accc9530039818fb8ff720e820f770.jpg> 大谷に長女誕生 21日に打線復帰へ
+      <a href=https://news.yahoo.co.jp/pickup/6536093>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f673f3d98639d235d84bef54a7f5effded4274a7d386a4a496a5fba45d10a4cd.jpg> 50kg少年 伝説のボディビルダーに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536089>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takaokondo/02176662/title-1744980242093.jpeg?exp=10800> 天心が朝倉未来にメッセ 真意考察
+      <a href=https://news.yahoo.co.jp/pickup/6536106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/29e26fb37714059fc9d82ca2e8ac6df0eda856c2fdf4cf246989a407e14ed25f.jpg> 46年前の小説版ガンダム 再び注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536100>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/d84fe5dd9e5e2a2074149270e908b6b6895c56fc906254f77e508ffb7ab398b4.jpg> 鈴木もぐら 人工股関節の手術語る
+      <a href=https://news.yahoo.co.jp/pickup/6536104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/d84fe5dd9e5e2a2074149270e908b6b6895c56fc906254f77e508ffb7ab398b4.jpg> メカになった 鈴木もぐら手術語る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 15:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 15:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
