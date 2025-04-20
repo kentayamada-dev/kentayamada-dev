@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/PNDne-k_5dg?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ead759980fd7899916c37125df78fd32.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/af2d2aaacc23eff150b7da02dc18665f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fcdbf9e2da80af911bde8810a3c24ca4bc9c53be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231677-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「復活祭の一時停戦」発表後も双方が相手の攻撃主張　停戦の行方は不透明な状況
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8886ce7863eaf24182f7470f286aa32574b0d9e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 熱中症か、男性心肺停止　用水路清掃中、鳥取・倉吉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a5e2487c854e3368b9263f819765feab7bc58a03>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000360-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=921&ch=921&exp=10800&fmt=webp> 森繁和氏が解説　慣れない中6日登板…ドジャース・佐々木朗希を助けた変化球
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55758f624eff239596b6c97acf63131794e0f07e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-05286883-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ゼレンスキー大統領“ロシアの攻撃続いている”　ロシア側「停戦体制を順守している」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16d6ec94854567011f477f2097c8489b18c24d18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01739685-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 米識者が指摘したドジャースの“7/22”　大谷は長女の出産を見届けて…相次ぐ不測の事態
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4587c05583c2c3f16a2585732d2fda83c481518>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201235-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【広島】捕手の石原貴規、頭部死球の坂本誠志郎にその場で「すみません」「大丈夫と言っていただいた」
+      <a href=https://news.yahoo.co.jp/articles/d95744eb60930f7e65f323d6cfba4df61acd4666>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00527394-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 長女誕生の大谷翔平、日本のコンビニが粋な祝福「ほっこりしますね」　ファンも感心したメッセージ「ウケる」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536122>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1f033063721eb58888a48ec4831a820263c4d21a722d10502f6d2f5d16ae63a4.jpg> 突然の休戦宣言 ロシアの戦略
+      <a href=https://news.yahoo.co.jp/pickup/6536132>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/dad752be50692338802a8d9d63028197befce46f3ffdfd8a3b5a726bcb16e30e.jpg> コメ高騰 小売りで代替品探る動き
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536127>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/219253837c9f0b2a713621b9ce4e6536b803a50c8f516ae4d29acb7580747eb6.jpg> 約40年ひきこもった男性 就労の今
+      <a href=https://news.yahoo.co.jp/pickup/6536120>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/321e93c0c92e74443e4b8091771a7d62fe10967d207123ba60427f1a73d558e6.jpg> 鍵山優真 今季は「30点くらい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536131>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/69de3983c21fd378a56bef375c84683e3d2de4a9ef5b77494fd9df5b1795ec9a.jpg> のんが民放ドラマ復帰 背景を考察
+      <a href=https://news.yahoo.co.jp/pickup/6536136>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/d26f27afa56d974145200235c317190c6ae26b5411faf75414ddfbe4158926f2.jpg> 危険球に虎監督怒り 広島監督謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 20:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 21:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
