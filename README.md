@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d4259af8a6f8b0c9252cbe59f93fab35.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4cd70421f0233a193cee99899a077ebb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ed4ce175983de7ce9bdc9d48b15a107d2799045f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050035-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> 山手線と京浜東北線が全線で再開…２日間にわたった「羽田空港アクセス線」工事は予定通り終了
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c04695e50d96cc737634e8cffef555400db466b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-34200382-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=1121&ch=1121&exp=10800&fmt=webp> ロバーツ監督「グッドニュースが届いた。興奮してる」異例の試合中インタビューで大谷翔平を祝福
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7c1939dff498b223f32e66b1a85a58309b2c84fc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010000-worldtt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 資格停止6カ月。日卓協が丹羽孝希の処分を発表
       </a>
@@ -365,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb13caca5d58bf16731014f1ab7803b3c728e227>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231646-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=460&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー氏　一時停戦は「ロシアの完全停戦」が条件　30時間は不十分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1c20a68d2ddace4a5e27858e59024a4a108d143>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000021-ann-000-7-thumb.jpg?exp=10800&fmt=webp> 山手線・京浜東北線が運転再開　きのうから工事で一部運休
+      <a href=https://news.yahoo.co.jp/articles/830b1016322039b8ae0537dfc0864d026df73e8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00960399-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「安全保障と貿易は違う分野の話」安保分野は「関税絡めない形で議論」トランプ関税への対応を説明
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/652d2f57df87d43e842594bafda8c9c76d114f41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050026-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=331&ch=331&exp=10800&fmt=webp> パパ大谷翔平、次戦から復帰…真美子さん出産で２戦を欠場
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536079>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/9813205cbd20110ae0796307a2f7fe6edfb0c2ba8b6484fed7f9065e2004373b.jpg> 石破首相 電気・ガス代補助に意欲
+      <a href=https://news.yahoo.co.jp/pickup/6536091>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/eba51a9681bb9ba6ade5a6254b0f2b6e57a1ddcc563784ebcfc6a79dc544f306.jpg> 首相 日米交渉を世界のモデルに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/b48aa25fd8b7fcebd4db333410d8b5634c960001fcb7d0e8279713efeab0c7da.jpg> JR山手線・京浜東北線が運転再開
+      <a href=https://news.yahoo.co.jp/pickup/6536081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/e57ff86b2ed15a5ad902a5a1fd15ba740535df3f55978eb575700ce107eb68cc.jpg> 万博 混雑対策と集客の両立が課題
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536078>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1a3b5713be413996d404143e2808c4cc7f570c9a526d51bd0b46aaee8fbfadfd.jpg> 大谷が長女誕生報告 記者席は騒然
+      <a href=https://news.yahoo.co.jp/pickup/6536087>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/0b1052ba74fa9f4b03c8702e117845a992c0f9d33c88cf8962162f0459cf1323.jpg> 土俵に舞う 女子高校生6人の青春
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536076>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/31513b0401440bee8656af981a595a8c3e15f14edbdb907b8f69ca5d60e92235.jpg> 卓球・丹羽孝希 資格停止6カ月に
+      <a href=https://news.yahoo.co.jp/pickup/6536078>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1a3b5713be413996d404143e2808c4cc7f570c9a526d51bd0b46aaee8fbfadfd.jpg> 大谷が長女誕生報告 記者席は騒然
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 13:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 13:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
