@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d8b1ae9f7e8d4872c67ea09c266fdb52.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c700673d52e87f04f615e407486d2697.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/16aba05adaded6a397ed904b4f9c9b953a53b3e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-10174598-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> まさか！佐々木朗希、メジャー初勝利スルリ…サヨナラ弾に「試練だな」「次は必ず勝利投手に」の声続々
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/223267be9583e45a4b68145d17113b26dfaf69dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> オンラインカジノ卓球丹羽に資格停止6カ月
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ca3184f403ada5af53a5720577a7e1d3bf99032f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-35232033-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=785&ch=785&exp=10800&fmt=webp> 【分析】ロシアが突然の「休戦」宣言、その裏に隠された戦略とは
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a1cda5bb2caeac85aa71ba1ce685f7aa3d431848>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010000-qjweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=609&cy=0&cw=659&ch=659&exp=10800&fmt=webp> 【全組コメントあり】『THE SECOND』ファイナリストが決定。吉田たち、ザ・ぼんち、はりけ～んずらが初進出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c7a976587d2429aa838e81328520cd3dc86aaf0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-34200240-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=1368&ch=1368&exp=10800&fmt=webp> 【卓球】丹羽孝希に資格停止６カ月の処分　オンラインカジノの違法賭博で罰金10万円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78bfe1bb18d3ab610d609198b57e8732d729cc23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000154-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=921&ch=921&exp=10800&fmt=webp> ド軍指揮官　佐々木朗希を6回78球で降板させた理由「現時点ではまだ早い。調子をもっと上げていきたい」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536057>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/da4a12ad5003e73321f2c4616e266d71fc4293cdcc5c40a1ec56d4ded869ad94.jpg> 万博「売らない」ウのメッセージ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536067>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/ea4eda0f3ed722bea41a7bb4c77d293e3ece092c5ebcf1904a1a9cdc92b16bda.jpg> 口唇口蓋裂 21回手術乗り越えた今
       </a>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/d7bf06ad1753a832684561128c9c2a69430680fb5f981972140aa92274163d4b.jpg> 尿はねを見える化 老舗企業の挑戦
+      <a href=https://news.yahoo.co.jp/pickup/6536072>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/5e6c0cd9078fc04dda9aa3150ed9eaae1754c8c3cf0f2c598d48af90f957d256.jpg> 相続税=お金持ちは古い?土地高騰
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536077>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/d0aaadedb82823b04d629ade41493ddadd0c44ff4e3235e999f05dbc5889cf20.jpg> 有村架純 受け継ぐ祖母のポテサラ
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 11:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 11:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
