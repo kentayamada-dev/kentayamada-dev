@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a9224d2b66b5458a12f4851997667c6b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d4259af8a6f8b0c9252cbe59f93fab35.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7c1939dff498b223f32e66b1a85a58309b2c84fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010000-worldtt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 資格停止6カ月。日卓協が丹羽孝希の処分を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fb13caca5d58bf16731014f1ab7803b3c728e227>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231646-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=460&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー氏　一時停戦は「ロシアの完全停戦」が条件　30時間は不十分
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f1c20a68d2ddace4a5e27858e59024a4a108d143>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000021-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 山手線・京浜東北線が運転再開　きのうから工事で一部運休
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000021-ann-000-7-thumb.jpg?exp=10800&fmt=webp> 山手線・京浜東北線が運転再開　きのうから工事で一部運休
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b34f125a1a12237ef523eee46fae144dfede3c53>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000019-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博 開幕から1週間　来場者50万人超に “新マップ”公開など改善続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87071fe08464e43f7502653e154ca6eea3b7c0c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000035-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=68&cw=615&ch=615&exp=10800&fmt=webp> 卓球協会、丹羽に資格停止6カ月　オンラインカジノで罰金命令
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536071>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/387f7b7ac7353834a47d477e8a3d322f9bf1a1d88217114377d8c7dfc8357b41.jpg> 部活顧問の叱責苦に自死 父の苦悩
+      <a href=https://news.yahoo.co.jp/pickup/6536085>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1bfc69e1e772bf88925cace846ea0fb03f2b7bd890111ccdd0ef3f4856135e90.jpg> 石丸氏の新党 参院選10人擁立検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536067>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/ea4eda0f3ed722bea41a7bb4c77d293e3ece092c5ebcf1904a1a9cdc92b16bda.jpg> 口唇口蓋裂 21回手術乗り越えた今
+      <a href=https://news.yahoo.co.jp/pickup/6536088>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6c3f851fd08241a21bc1d3345db22b37ceb5a29c74cf62717b1b9a80e7287c86.jpg> 訪日客の「不敬行為」悩む神社
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 12:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 13:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
