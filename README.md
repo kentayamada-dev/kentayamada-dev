@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/af2d2aaacc23eff150b7da02dc18665f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/de9f14adfa9d8eee2be61650ad2edc2a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ac8d4db65701802184c6e23689aac5164b2d061c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-21866794-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 用水路の清掃作業中に具合が悪くなり…男性（50代）が熱中症疑い、心肺停止の状態でドクターヘリ搬送　鳥取県倉吉市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aa0146f71fd4da7ac8c45749e95572038cf3b1ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01739529-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 愛娘誕生から1日…大谷翔平に最敬礼　即復帰で貫く“姿勢”「日本人っぽい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f85a067298139ebddc8b6d21f88c72d13023f072>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010004-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=1452&ch=1452&exp=10800&fmt=webp> 大谷翔平 第1子となる長女の誕生を報告！ ド軍監督「SNSで公表したのを見て知った。（大谷は）明日ラインナップに入る」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4fb22512328c6699e95888e393289b160654355>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050163-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=342&ch=342&exp=10800&fmt=webp> 国民民主が参議院選挙で積極擁立へ…他党の議員経験者にも触手、「本当にふさわしいのか」批判も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fcdbf9e2da80af911bde8810a3c24ca4bc9c53be>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231677-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「復活祭の一時停戦」発表後も双方が相手の攻撃主張　停戦の行方は不透明な状況
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8886ce7863eaf24182f7470f286aa32574b0d9e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 熱中症か、男性心肺停止　用水路清掃中、鳥取・倉吉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5e2487c854e3368b9263f819765feab7bc58a03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000360-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=921&ch=921&exp=10800&fmt=webp> 森繁和氏が解説　慣れない中6日登板…ドジャース・佐々木朗希を助けた変化球
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d95744eb60930f7e65f323d6cfba4df61acd4666>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00527394-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 長女誕生の大谷翔平、日本のコンビニが粋な祝福「ほっこりしますね」　ファンも感心したメッセージ「ウケる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70afe8eee20636c207747aadeee9660abcabf445>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-90015080-tos-000-1-thumb.jpg?exp=10800&fmt=webp> 中森明菜も登場した野外フェス「ジゴロック」　２日目も盛況　電気グルーヴがトリを務め閉幕へ　大分
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536134>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2d1d9bf860129cc89b287e6dde426651ee54f3a92a38d743e83c4ad51075a6b9.jpg> 消費減税 立憲早期に結論出す考え
+      <a href=https://news.yahoo.co.jp/pickup/6536141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/8e42308dd5228ee90d9969d8dd4c5458d432eb9131dc9d54e7a20eebb519d3cd.jpg> 国民民主 参院選で積極擁立の構え
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536133>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/ff138b8f1568923c65825da8338da656b71871831a636694035356313dc4eb2c.jpg> 患者からの「ペイハラ」深刻化
+      <a href=https://news.yahoo.co.jp/pickup/6536139>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 熱中症か 草刈り参加して心肺停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536135>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1d24ec9529075f06efb6fdb90cd3cc5ed65d306e5760685302febdefbafdc491.jpg> 花見で外国人殺到 混雑に住民悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6536138>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1d46745b6f4f1b62e961c6a3bebbd8f8d3de894d2a4ffe5060c73e8addafcdab.jpg> 万博 グッズの高額転売を多数確認
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 21:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 21:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
