@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/78a8ce0455255314ab6b94a4502bf993.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7dabf07713b46b1e8fb5936b62dededc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af8818161b8bb1bdc65983259ea58fc0f101bde3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000125-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=977&ch=977&exp=10800&fmt=webp> 大谷翔平、21日のレンジャーズ戦復帰決定、球団発表…「父親リスト」から外れる、ロサリオがDFA
+      <a href=https://news.yahoo.co.jp/articles/b7a32588713cc3c90c5a2db2777449d8f1a5575d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000120-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=915&ch=915&exp=10800&fmt=webp> パパになった大谷翔平が「1番・DH」でスタメンに名を連ねる　「父親リスト」から外れる
       </a>
     </td>
   </tr>
@@ -373,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46438a9042fbdc1d45ed68bd204910322f5f402a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000113-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> ロシア「ウクライナが攻撃継続」と主張　双方が違反を非難、「復活祭停戦」機能せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4af0eb8316deb57f9b637645b4aec322599ec271>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-34201778-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=52&cw=503&ch=503&exp=10800&fmt=webp> SHELLYが豪州移住へ「子供たちの視野を広げるため」今夏に家族と　芸能活動は続ける意向
+      <a href=https://news.yahoo.co.jp/articles/ac8d4db65701802184c6e23689aac5164b2d061c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-21866794-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 用水路の清掃作業中に具合が悪くなり…男性（50代）が熱中症疑い、心肺停止の状態でドクターヘリ搬送　鳥取県倉吉市
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 00:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 01:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
