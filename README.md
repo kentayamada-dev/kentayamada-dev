@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/PNDne-k_5dg?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c86ff35c77e8d4885d8e93b01bbe858c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ead759980fd7899916c37125df78fd32.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3944418096180be53db6db6720ebe9bc6c7d1c01>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-10174607-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=620&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “未知の領域”佐々木朗希、初の6回投げ切り4奪三振2失点 初勝利お預けも晴れやか＆充実の表情
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97ca4077e2e4c032f2895b60df1ae02cc139cd84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-08938864-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=113&cw=523&ch=523&exp=10800&fmt=webp> SHELLY、家族でオーストラリアへの移住を発表　今夏から期間未定「いろいろな環境が整い」
+      <a href=https://news.yahoo.co.jp/articles/a5e2487c854e3368b9263f819765feab7bc58a03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000360-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=921&ch=921&exp=10800&fmt=webp> 森繁和氏が解説　慣れない中6日登板…ドジャース・佐々木朗希を助けた変化球
       </a>
     </td>
   </tr>
@@ -389,6 +381,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f4587c05583c2c3f16a2585732d2fda83c481518>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201235-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【広島】捕手の石原貴規、頭部死球の坂本誠志郎にその場で「すみません」「大丈夫と言っていただいた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/70afe8eee20636c207747aadeee9660abcabf445>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-90015080-tos-000-1-thumb.jpg?exp=10800&fmt=webp> 中森明菜も登場した野外フェス「ジゴロック」　２日目も盛況　電気グルーヴがトリを務め閉幕へ　大分
       </a>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536122>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1f033063721eb58888a48ec4831a820263c4d21a722d10502f6d2f5d16ae63a4.jpg> 突然の休戦宣言 ロシアの戦略
+      <a href=https://news.yahoo.co.jp/pickup/6536134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2d1d9bf860129cc89b287e6dde426651ee54f3a92a38d743e83c4ad51075a6b9.jpg> 消費減税 立憲早期に結論出す考え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536113>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/3e80b6a9b2ec0ad8c574faddd601a6992ec3f9f4be8951fc657883cc88766e83.jpg> 米関税 中国の「SHEIN村」に打撃
+      <a href=https://news.yahoo.co.jp/pickup/6536122>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1f033063721eb58888a48ec4831a820263c4d21a722d10502f6d2f5d16ae63a4.jpg> 突然の休戦宣言 ロシアの戦略
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/12f14723aa28dde759d506be4c2c156549a091e7792cbb15e71f679bbbf46670.jpg> 中国道で5台絡む事故 8人負傷
+      <a href=https://news.yahoo.co.jp/pickup/6536133>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/ff138b8f1568923c65825da8338da656b71871831a636694035356313dc4eb2c.jpg> 患者からの「ペイハラ」深刻化
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1d24ec9529075f06efb6fdb90cd3cc5ed65d306e5760685302febdefbafdc491.jpg> 花見で外国人殺到 混雑に住民悲鳴
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536127>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/219253837c9f0b2a713621b9ce4e6536b803a50c8f516ae4d29acb7580747eb6.jpg> 約40年ひきこもった男性 就労の今
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6b244eb12f2d0fa402ec53d0ec882263ad3330f4e9ee033f9030d8d4888daa16.jpg> 頭部死球に虎監督が激高 一時騒然
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 20:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 20:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
