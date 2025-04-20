@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0aee5ac4b5628d1c1566196ce7164941.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/95ffcf5eee1edd93c57d8b34832bb3ee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/481043f7d7a9a7efe20a2fbc656eeeecf7845c8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000068-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=121&cw=963&ch=963&exp=10800&fmt=webp> 【皐月賞】２週連続のモレイラマジック！ ３番人気ミュージアムマイルが直線鋭く伸びて１冠目奪取！ １番人気クロワは差され２着
+      <a href=https://news.yahoo.co.jp/articles/075eac7f6c8d2f04d2d48dd3db55622818a63fd6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01325936-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「体力的にはいける」佐々木朗希メジャー最長イニングも余力あり　6回降板に「求められているものはわかっている」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d77e248e4f717f2ce678787b4b181f098a201671>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000033-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=425&ch=425&exp=10800&fmt=webp> 埼玉県戸田市議を買収容疑で逮捕　2人に報酬3万5千円支払った疑い
       </a>
     </td>
   </tr>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/27a05864accb5b1b9a925864a855f0f6405383a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア軍が攻撃継続とウクライナ大統領
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed4ce175983de7ce9bdc9d48b15a107d2799045f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050035-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> 山手線と京浜東北線が全線で再開…２日間にわたった「羽田空港アクセス線」工事は予定通り終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb13caca5d58bf16731014f1ab7803b3c728e227>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231646-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=460&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゼレンスキー氏　一時停戦は「ロシアの完全停戦」が条件　30時間は不十分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b34f125a1a12237ef523eee46fae144dfede3c53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000019-ann-000-7-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博 開幕から1週間　来場者50万人超に “新マップ”公開など改善続く
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536095>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2b1424aa442c6bd9cc5b0e1bea26845301643b3254dbef666af36f42d627d98d.jpg> フジ取締役にSTARTO社長案 波紋
+      <a href=https://news.yahoo.co.jp/pickup/6536114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/08d6efbc780b52ecec2d2a87bc06c678d31631b97cee853df18c8ca6ec76a5b6.jpg> 公選法違反疑いで市議逮捕 埼玉
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 16:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 17:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
