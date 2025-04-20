@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/449671aa722bd4be741fecbf0586d355.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b33ed54926fd04323a085a0290ab667e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/46438a9042fbdc1d45ed68bd204910322f5f402a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000113-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> ロシア「ウクライナが攻撃継続」と主張　双方が違反を非難、「復活祭停戦」機能せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/04d90d8a69fe96bbf28d9f10b38bce9c8a355e13>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201262-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> ドジャース・佐々木朗希の力み消えた投球フォーム　安定すれば制球力も戻る…髙橋尚成さん
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ac8d4db65701802184c6e23689aac5164b2d061c>
@@ -371,35 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f85a067298139ebddc8b6d21f88c72d13023f072>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010004-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=374&cy=0&cw=1452&ch=1452&exp=10800&fmt=webp> 大谷翔平 第1子となる長女の誕生を報告！ ド軍監督「SNSで公表したのを見て知った。（大谷は）明日ラインナップに入る」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4fb22512328c6699e95888e393289b160654355>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050163-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=342&ch=342&exp=10800&fmt=webp> 国民民主が参議院選挙で積極擁立へ…他党の議員経験者にも触手、「本当にふさわしいのか」批判も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fcdbf9e2da80af911bde8810a3c24ca4bc9c53be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231677-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「復活祭の一時停戦」発表後も双方が相手の攻撃主張　停戦の行方は不透明な状況
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536137>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/0f90ba1a6695316660e6b56886e1e6091adf3b813e0b9f0fe7f5bd40858b04b5.jpg> ウ市民「プーチン信用しない」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536141>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536132>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/dad752be50692338802a8d9d63028197befce46f3ffdfd8a3b5a726bcb16e30e.jpg> コメ高騰 小売りで代替品探る動き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536129>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/e2dd6422aeba4fc3055050a4a5840b3b4e88c169e9cef33a074b4d7a598e1856.jpg> 時給5366円も 成長シナリオ公表へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536140>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/7/5/1562313346_1562313331_aflo_91384606.jpg> 「誰でも通園制度」高まる需要
       </a>
     </td>
   </tr>
@@ -450,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536142>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f8eee4e73469f77ecf2a4a0498f3a46d40e1cc07c2a911445d088c0393b897a7.jpg> J1広島監督 審判団を強烈に批判
+      <a href=https://news.yahoo.co.jp/pickup/6536080>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/c9320e50f1ffea0e551f36e01db788aeb1e8631dc6fe9a467e9da6508eff0b40.jpg> 裏アカ内容を他人が流出 法的には
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536136>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/d26f27afa56d974145200235c317190c6ae26b5411faf75414ddfbe4158926f2.jpg> 危険球に虎監督怒り 広島監督謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6536145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/9711bcd3b355d3bcc4a2ece247ceedf0b2913cf19913a6bd3a349d1448059287.jpg> 横浜FM宮市が負傷交代 開始10秒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536143>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/855b38bd8bb394a5d844240b3ce2b2ec36e13c0981b128b80eca7087d3aa3a6e.jpg> 柔道・角田夏実 去就明言せず
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 22:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 22:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
