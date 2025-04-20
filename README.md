@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5d5deb8da5fb179d605c7e7aedf683e2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/85cc2976efcffdd65314db9cc0fa18e6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/196cfc735fadafd9a76fa899cec9bc1c9c0ea4c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-04211013-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、日本ハム時代の同僚右腕から四球で“パパ初出塁”　一発期待の敵地からはブーイングも…先取点演出
+      <a href=https://news.yahoo.co.jp/articles/c4832dbac6eedfdc7b2d9367143c5c81e8cd2b9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000006-msportcom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 角田裕毅、ガスリーとの”痛恨”クラッシュを語る「友人であるピエールと接触するのは辛い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9deb167e2e53f56957cb9a854e3f13d33a39e78a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 露宣言の停戦期限、日本時間きょう午前6時　“プーチン大統領から延長の指示出ず”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a23f4f65d434bf8d34437befc4119eccf5cfaa4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000104-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=1069&ch=1069&exp=10800&fmt=webp> パパ大谷翔平　四球で決勝点演出　無安打も愛娘に白星“プレゼント”　満員敵地も祝福する一幕も
       </a>
     </td>
   </tr>
@@ -378,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/9b751c7539aa70cf4c909a503092ad25fb370d59733eb7f41b5a3e64b086a9b1.jpg> 停戦機能せず 露とウ双方が非難
+      <a href=https://news.yahoo.co.jp/pickup/6536155>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 復活祭停戦が不発 露ウ非難の応酬
       </a>
     </td>
   </tr>
@@ -388,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536147>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/773263fcf35d91f87856a7709cc4182b72967255941d2f5bbd436d99dd40b06c.jpg> 米の留学生ビザ取り消し 印で波紋
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/8e42308dd5228ee90d9969d8dd4c5458d432eb9131dc9d54e7a20eebb519d3cd.jpg> 国民民主 参院選で積極擁立の構え
       </a>
     </td>
   </tr>
@@ -426,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536152>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/381e6cc4d8521f64fbfda3549348bd62adf3cf19fe0aa708560cf034ecd2e112.jpg> 大谷翔平「父親リスト」から復帰
+      <a href=https://news.yahoo.co.jp/pickup/6536154>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/d2110364a31ddae2235982320985bad7b0e575612cedca5a482924d35ef85816.jpg> F1角田 1周目まさかのクラッシュ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536153>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/1881781ede69ca64c1f1e3abcfd7161140f220c1eac024bb0905b10e87a1cf93.jpg> 大谷がチーム合流 同僚ら祝福の列
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 06:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 06:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
