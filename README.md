@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de9f14adfa9d8eee2be61650ad2edc2a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/449671aa722bd4be741fecbf0586d355.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aa0146f71fd4da7ac8c45749e95572038cf3b1ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01739529-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 愛娘誕生から1日…大谷翔平に最敬礼　即復帰で貫く“姿勢”「日本人っぽい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01739529-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 愛娘誕生から1日…大谷翔平に最敬礼　即復帰で貫く“姿勢”「さすがとしか言いようが」
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b4fb22512328c6699e95888e393289b160654355>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050163-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=342&ch=342&exp=10800&fmt=webp> 国民民主が参議院選挙で積極擁立へ…他党の議員経験者にも触手、「本当にふさわしいのか」批判も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250419-00050163-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=342&ch=342&exp=10800&fmt=webp> 国民民主が参議院選挙で積極擁立へ…他党の議員経験者にも触手、「本当にふさわしいのか」批判も
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fcdbf9e2da80af911bde8810a3c24ca4bc9c53be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231677-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「復活祭の一時停戦」発表後も双方が相手の攻撃主張　停戦の行方は不透明な状況
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231677-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「復活祭の一時停戦」発表後も双方が相手の攻撃主張　停戦の行方は不透明な状況
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/7/5/1562313346_1562313331_aflo_91384606.jpg> 「誰でも通園制度」高まる需要
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536139>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 熱中症か 草刈り参加して心肺停止
       </a>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536138>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1d46745b6f4f1b62e961c6a3bebbd8f8d3de894d2a4ffe5060c73e8addafcdab.jpg> 万博 グッズの高額転売を多数確認
+      <a href=https://news.yahoo.co.jp/pickup/6536135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1d24ec9529075f06efb6fdb90cd3cc5ed65d306e5760685302febdefbafdc491.jpg> 花見で外国人殺到 混雑に住民悲鳴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536120>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/321e93c0c92e74443e4b8091771a7d62fe10967d207123ba60427f1a73d558e6.jpg> 鍵山優真 今季は「30点くらい」
+      <a href=https://news.yahoo.co.jp/pickup/6536142>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f8eee4e73469f77ecf2a4a0498f3a46d40e1cc07c2a911445d088c0393b897a7.jpg> J1広島監督 審判団を強烈に批判
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536124>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/e6aa858f2865a283e0bff4845068a3388b815ba4fb861486703172e93b604dd1.jpg> SHELLY 豪州に移住すると発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 21:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 22:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
