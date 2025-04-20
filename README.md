@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7a6540bdc90ea5a76bc9ab0bfdcd5814.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb6ba73c70edd02527c057ba162dd969.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a57ca6156ba116f6f00d3c4df1764cdca0c22b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174650-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 石破総理、私費で「真榊」を奉納 靖国参拝は見送り
+      <a href=https://news.yahoo.co.jp/articles/472d0f1c1f53f8796ed510bc0dfd8dd827278050>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-06772339-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】全国的に夏日続出の見込み　北海道では一部雨も
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536155>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/bff6b641b7433fbcf6143eba4b0fcb5543d4811e11de003e7b9a72f9a45cc918.jpg> 復活祭停戦が不発 露ウ非難の応酬
+      <a href=https://news.yahoo.co.jp/pickup/6536168>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/062ae685ed44df74edf33e6f7c72f74b2faddd58b428de8f0d4e1be0ec3948ef.jpg> きょう夏日続出の予想 熱中症注意
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/d2110364a31ddae2235982320985bad7b0e575612cedca5a482924d35ef85816.jpg> F1角田 1周目まさかのクラッシュ
+      <a href=https://news.yahoo.co.jp/pickup/6536169>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/48b8587397d04a2a4c65438a2e984f57b11ec734f4a3212101c1009af0627dc9.jpg> オリオールズが本拠で記録的大敗
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536158>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c462502149ca28eb2b2e6dc1d21d73eb53e2da364b0da8f5dc4a76372bab1643.jpg> 大谷に歓声 敵地も長女誕生を祝福
+      <a href=https://news.yahoo.co.jp/pickup/6536165>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/61150cee0fb1b03bbed6245250a121970a6d6b4da538b9b6342f67ca8cec4c15.jpg> 過酷 柄本明が車で3200kmの旅
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 08:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 08:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
