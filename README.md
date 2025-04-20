@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ad0a887b9dfa50d0fa4fdea22c170911.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5d5deb8da5fb179d605c7e7aedf683e2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9a93b565c4cca56b233177268e0c87ccc5a8b66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34201793-nksports-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 【柔道】異例挑戦の角田夏実「私って柔道が好きなんだな」悩める胸中複雑に「自問自答したい」
+      <a href=https://news.yahoo.co.jp/articles/196cfc735fadafd9a76fa899cec9bc1c9c0ea4c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-04211013-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、日本ハム時代の同僚右腕から四球で“パパ初出塁”　一発期待の敵地からはブーイングも…先取点演出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfe42595f7d3b91d972c2bef704b3f687e493c04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-04211011-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、３回にパパ初三振　防御率０点台の難敵に苦戦　真美子夫人の出産から一夜明け…３戦ぶり復帰戦
+      <a href=https://news.yahoo.co.jp/articles/d9a93b565c4cca56b233177268e0c87ccc5a8b66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34201793-nksports-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 【柔道】異例挑戦の角田夏実「私って柔道が好きなんだな」悩める胸中複雑に「自問自答したい」
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 05:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 06:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
