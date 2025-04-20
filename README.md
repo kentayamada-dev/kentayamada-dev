@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c700673d52e87f04f615e407486d2697.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/198b608445778451426af6db42ce95c3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16aba05adaded6a397ed904b4f9c9b953a53b3e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-10174598-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> まさか！佐々木朗希、メジャー初勝利スルリ…サヨナラ弾に「試練だな」「次は必ず勝利投手に」の声続々
+      <a href=https://news.yahoo.co.jp/articles/d6cbd576f4806a7852a5090b6e80215cbaac3855>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-10174600-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=434&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 長女誕生の大谷翔平に祝弾！“パパ谷”不在時はMVPコンビが支える ベッツ→フリーマンの隙無し打線にファン興奮「大谷夫妻への祝砲」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/223267be9583e45a4b68145d17113b26dfaf69dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> オンラインカジノ卓球丹羽に資格停止6カ月
+      <a href=https://news.yahoo.co.jp/articles/efaca17b865a726e8eccca639c1e0222a22248c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000027-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 地震で崩壊のビル施工の中国企業幹部を逮捕　タイ、死者は47人に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca3184f403ada5af53a5720577a7e1d3bf99032f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-35232033-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=785&ch=785&exp=10800&fmt=webp> 【分析】ロシアが突然の「休戦」宣言、その裏に隠された戦略とは
+      <a href=https://news.yahoo.co.jp/articles/87071fe08464e43f7502653e154ca6eea3b7c0c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000035-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=68&cw=615&ch=615&exp=10800&fmt=webp> 卓球協会、丹羽に資格停止6カ月　オンラインカジノで罰金命令
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1cda5bb2caeac85aa71ba1ce685f7aa3d431848>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010000-qjweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=609&cy=0&cw=659&ch=659&exp=10800&fmt=webp> 【全組コメントあり】『THE SECOND』ファイナリストが決定。吉田たち、ザ・ぼんち、はりけ～んずらが初進出
+      <a href=https://news.yahoo.co.jp/articles/908251c90bd1d48ccd4bd1145ebbe0bf91254734>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231638-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> プーチン大統領「復活祭にあわせた停戦を宣言する」30時間の一時停戦を一方的に表明　ウクライナ侵攻
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/838704555eb2e9f522b0b33680e7ab3fa42a37e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010008-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 世界を駆け巡った「It's a girl！」　大谷翔平の長女誕生に海外メディアも異例報道「オオタニは最も重要な責任、父親の責任を担う」
+      <a href=https://news.yahoo.co.jp/articles/652d2f57df87d43e842594bafda8c9c76d114f41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050026-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=331&ch=331&exp=10800&fmt=webp> パパ大谷翔平、次戦から復帰…真美子さん出産で２戦を欠場
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/9813205cbd20110ae0796307a2f7fe6edfb0c2ba8b6484fed7f9065e2004373b.jpg> 石破首相 電気・ガス代補助に意欲
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536075>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/7d507631f41fc2f0fbc0411801a19165294754369482621e672d0ce01e346ec1.jpg> 大震災融資 返済繰り延べ百億円超
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536073>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/c416457c408c3394d4601a58ddb21a74d7fd30440e40725df93910276d0c3faa.jpg> 大船渡山林火災 原因分からぬまま
+      <a href=https://news.yahoo.co.jp/pickup/6536071>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/387f7b7ac7353834a47d477e8a3d322f9bf1a1d88217114377d8c7dfc8357b41.jpg> 部活顧問の叱責苦に自死 父の苦悩
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536067>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/ea4eda0f3ed722bea41a7bb4c77d293e3ece092c5ebcf1904a1a9cdc92b16bda.jpg> 口唇口蓋裂 21回手術乗り越えた今
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/9819f85a749a5122e45302096ad305c0f41939218655d0a2a2b034c470d05671.jpg> 京都「1泊2食付き」やめる旅館増
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536077>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/d0aaadedb82823b04d629ade41493ddadd0c44ff4e3235e999f05dbc5889cf20.jpg> 有村架純 受け継ぐ祖母のポテサラ
+      <a href=https://news.yahoo.co.jp/pickup/6536083>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6ecbf045ca12772ca2386c2603dc7b813464957cc8713bd45640a2d81596bccb.jpg> 有村藍里 私が私であるために整形
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 11:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 12:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
