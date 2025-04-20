@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fec490b9dbe783f57d0884fccdd9d5e5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/78a8ce0455255314ab6b94a4502bf993.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/659b1fc8952ce26c3e3bab50f55e8df9db44b335>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000154-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 大谷翔平、パパになって初出場へ　前日に長女誕生を公表　３戦ぶり戦列復帰　球団発表
+      <a href=https://news.yahoo.co.jp/articles/af8818161b8bb1bdc65983259ea58fc0f101bde3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000125-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=977&ch=977&exp=10800&fmt=webp> 大谷翔平、21日のレンジャーズ戦復帰決定、球団発表…「父親リスト」から外れる、ロサリオがDFA
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac8d4db65701802184c6e23689aac5164b2d061c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-21866794-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 用水路の清掃作業中に具合が悪くなり…男性（50代）が熱中症疑い、心肺停止の状態でドクターヘリ搬送　鳥取県倉吉市
+      <a href=https://news.yahoo.co.jp/articles/4af0eb8316deb57f9b637645b4aec322599ec271>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-34201778-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=52&cw=503&ch=503&exp=10800&fmt=webp> SHELLYが豪州移住へ「子供たちの視野を広げるため」今夏に家族と　芸能活動は続ける意向
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/855b38bd8bb394a5d844240b3ce2b2ec36e13c0981b128b80eca7087d3aa3a6e.jpg> 柔道・角田夏実 去就明言せず
+      <a href=https://news.yahoo.co.jp/pickup/6536152>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/381e6cc4d8521f64fbfda3549348bd62adf3cf19fe0aa708560cf034ecd2e112.jpg> 大谷翔平「父親リスト」から復帰
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536150>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/acc16424485612e4f8393f97ffe633833c4219cc25b791ee5d09ac9c599cd116.jpg> 大谷に長女誕生 米メディアも速報
+      <a href=https://news.yahoo.co.jp/pickup/6536151>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/774eb81a64dad84e1a3d4582ac71d9f2900f783a5159797a2b90d2dc8ee8c9d6.jpg> SHELLYが豪州移住へ 期間は未定
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 23:51:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 00:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
