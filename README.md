@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2b06d75cb5ee5c629549a17b916eee43.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7a6540bdc90ea5a76bc9ab0bfdcd5814.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95f8fd86d16006d7dfa7cc7a86ea1ff1d3b79b66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174652-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=778&ch=778&exp=10800&fmt=webp> ロシア・ウクライナ停戦めぐり 双方が停戦違反で互いを非難
+      <a href=https://news.yahoo.co.jp/articles/1242be00d672c3b34ecbfb5be3ab0a64f7bfaa9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000003-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=1523&ch=1523&exp=10800&fmt=webp> 復活祭停戦延長されず、ウクライナとロシアが攻撃継続と互いに非難
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d9a93b565c4cca56b233177268e0c87ccc5a8b66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34201793-nksports-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 【柔道】異例挑戦の角田夏実「私って柔道が好きなんだな」悩める胸中複雑に「自問自答したい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34201793-nksports-000-3-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 【柔道】異例挑戦の角田夏実「私って柔道が好きなんだな」悩める胸中複雑に「自問自答したい」
       </a>
     </td>
   </tr>
@@ -392,6 +392,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536163>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/15438891312f792b84c760a206fd0546f06134f2d1c37974bf81d16e4dd18b18.jpg> トランプ氏 露ウ「今週合意」期待
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536155>
@@ -410,22 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536147>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/773263fcf35d91f87856a7709cc4182b72967255941d2f5bbd436d99dd40b06c.jpg> 米の留学生ビザ取り消し 印で波紋
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536133>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/ff138b8f1568923c65825da8338da656b71871831a636694035356313dc4eb2c.jpg> 患者からの「ペイハラ」深刻化
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536156>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/27b6ff3d78bfc49459c256123669b68d36ab0e78275bf0026507bd43e0a5732e.jpg> パラグライダー不時着後滑落 死亡
       </a>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536160>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/7ab0fdcc43459525d1e66a0c4c8c0e1fd0554f2d59e60ced2b8c0978a075df37.jpg> 訪日客と「ホテル争奪戦」激化?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536162>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/cf36ab8f7a5c549bd959bee8e55ba32d14646b0ee5bd7a309b1e5bf99c684806.jpg> 園で話せない外国の子 名前呼んで
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 07:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 08:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
