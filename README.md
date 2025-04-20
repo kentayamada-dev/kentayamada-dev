@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aff2cb6782260e42e925cf2e310e858f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0feced303029edd26fd69167f7f19a79.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8e28d325b28cc4f5f7fcf747bb0744e11afacb1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000082-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=901&ch=901&exp=10800&fmt=webp> ドジャース・ロバーツ監督「健康なベビーが生まれてよかった」　大谷翔平の準備にも感服
+      <a href=https://news.yahoo.co.jp/articles/45995c8b0fbb087f4ff7bcdd99dc41e5b8101ae3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000000-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=21&cy=0&cw=724&ch=724&exp=10800&fmt=webp> 大谷翔平「大谷家へようこそ」第１子誕生！パパになった喜び報告　デコピンと“家族４人”寄り添い支え合う
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 02:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 02:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
