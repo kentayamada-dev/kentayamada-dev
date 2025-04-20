@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/41fce75f67dd54358bacb5fe4f2c10fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac49ac404661dde5c8ab1eae874b5681.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/16d6ec94854567011f477f2097c8489b18c24d18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01739685-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 米識者が指摘したドジャースの“7/22”　大谷は長女の出産を見届けて…相次ぐ不測の事態
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a2c1723d94c47419e9313d128a0b776554dba589>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00785102-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=800&ch=800&exp=10800&fmt=webp> SHELLY、今夏オーストラリアに家族5人で移住も「期間は決まってなくて」　ネット衝撃「びっくり！」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c3d2a0898c7b1b3188a337b8d8c7ba1061e45fe2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010003-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=1798&ch=1798&exp=10800&fmt=webp> 佐々木朗希 メジャー最長6回を投げきるも初勝利はお預け ドジャースはサヨナラ負けで連勝ストップ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c0986537bde061c0028413f5e6dcc583c54ea0fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-10174622-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=380&cy=0&cw=827&ch=827&exp=10800&fmt=webp> ゼレンスキー大統領 ロシアの停戦宣言後も砲撃
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-10174622-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=380&cy=0&cw=827&ch=827&exp=10800&fmt=webp> ゼレンスキー大統領 ロシアの停戦宣言後も砲撃
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/70afe8eee20636c207747aadeee9660abcabf445>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-90015080-tos-000-1-thumb.jpg?exp=10800&fmt=webp> 中森明菜も登場した野外フェス「ジゴロック」　２日目も盛況　電気グルーヴがトリを務め閉幕へ　大分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41849e390037dd53626d69dfb59c1d317e61ba0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-21866731-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=626&ch=626&exp=10800&fmt=webp> 【SHELLY】　　夏から「海外での生活を始めることになりました」「行き先はオーストラリア」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e72093c1b3614b88fa4da970d7a4f4437aad8df0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-90022343-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース・佐々木朗希投手　6回2失点の好投もチームは逆転サヨナラ負け　メジャー初勝利ならず　大谷翔平選手は自身のＳＮＳで長女の誕生を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/843bb6204fd415da537aed0eb68d04d521801db4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-34201092-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=1333&ch=1333&exp=10800&fmt=webp> 「ダディ大谷翔平」真美子夫人と長女への思い「親にしてくれてありがとう」家族守る決意新た
       </a>
     </td>
   </tr>
@@ -418,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536111>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2e0d361b6eef37b79de5f3d4c68adfddc0aef2dbff690a2c6da0d1d698ee0e2d.jpg> 「トランプ氏に怒り」製造の現場
+      <a href=https://news.yahoo.co.jp/pickup/6536126>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/12f14723aa28dde759d506be4c2c156549a091e7792cbb15e71f679bbbf46670.jpg> 中国道で5台絡む事故 8人負傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/12f14723aa28dde759d506be4c2c156549a091e7792cbb15e71f679bbbf46670.jpg> 中国道で5台絡む事故 8人負傷
+      <a href=https://news.yahoo.co.jp/pickup/6536095>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2b1424aa442c6bd9cc5b0e1bea26845301643b3254dbef666af36f42d627d98d.jpg> フジ取締役にSTARTO社長案 波紋
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536127>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/219253837c9f0b2a713621b9ce4e6536b803a50c8f516ae4d29acb7580747eb6.jpg> 約40年ひきこもった男性 就労の今
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536112>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/bd4f104a0ad1b1aad9cce9b8c2187d02fb8477f6a4b037533ebacb750e714cc9.jpg> 大谷の人生設計シート また達成
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536124>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/e6aa858f2865a283e0bff4845068a3388b815ba4fb861486703172e93b604dd1.jpg> SHELLY 豪州に移住すると発表
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 19:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 19:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
