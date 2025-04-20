@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4cd70421f0233a193cee99899a077ebb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fb22acbb61f550a52756f7967f6a1ea7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed4ce175983de7ce9bdc9d48b15a107d2799045f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050035-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> 山手線と京浜東北線が全線で再開…２日間にわたった「羽田空港アクセス線」工事は予定通り終了
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050035-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> 山手線と京浜東北線が全線で再開…２日間にわたった「羽田空港アクセス線」工事は予定通り終了
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c1939dff498b223f32e66b1a85a58309b2c84fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010000-worldtt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 資格停止6カ月。日卓協が丹羽孝希の処分を発表
+      <a href=https://news.yahoo.co.jp/articles/ab2c1ba3846deed8e11f7fbf84f66146f7ce94ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000038-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=679&ch=679&exp=10800&fmt=webp> 堀江貴文氏、フジ株主のダルトン側と接触、取締役候補は「キャラ濃すぎるんで他の人に嫌がられました」
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536085>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1bfc69e1e772bf88925cace846ea0fb03f2b7bd890111ccdd0ef3f4856135e90.jpg> 石丸氏の新党 参院選10人擁立検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536088>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6c3f851fd08241a21bc1d3345db22b37ceb5a29c74cf62717b1b9a80e7287c86.jpg> 訪日客の「不敬行為」悩む神社
       </a>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536087>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/0b1052ba74fa9f4b03c8702e117845a992c0f9d33c88cf8962162f0459cf1323.jpg> 土俵に舞う 女子高校生6人の青春
+      <a href=https://news.yahoo.co.jp/pickup/6536092>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6fa802da5116178c09d8ea16cd1c654133855812f373b58326dca6fb6049574a.jpg> すなば珈琲 スタバ鳥取出店に本音
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536078>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1a3b5713be413996d404143e2808c4cc7f570c9a526d51bd0b46aaee8fbfadfd.jpg> 大谷が長女誕生報告 記者席は騒然
+      <a href=https://news.yahoo.co.jp/pickup/6536082>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f60abaf79ed0ff25582fb0fd1ce60b367de8bc1669826d5e3b6aece68c22de0f.jpg> 異例 ド軍監督が試合中に大谷祝福
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536089>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takaokondo/02176662/title-1744980242093.jpeg?exp=10800> 天心が朝倉未来にメッセ 真意考察
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 13:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 14:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
