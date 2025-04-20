@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b0e7ee7656fc345e8263ef81f30d0e10.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/41fce75f67dd54358bacb5fe4f2c10fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53a924d4ebbeabfeac9abb5597e70ca4e0496971>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 戸田市議会の男　公職選挙法違反　買収の疑いで逮捕／埼玉県
+      <a href=https://news.yahoo.co.jp/articles/c0986537bde061c0028413f5e6dcc583c54ea0fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-10174622-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=380&cy=0&cw=827&ch=827&exp=10800&fmt=webp> ゼレンスキー大統領 ロシアの停戦宣言後も砲撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3465b9db1960d642d35cb42453dd8edf02dd6a1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-34201123-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=1296&ch=1296&exp=10800&fmt=webp> 佐々木朗希「仕事できた」初勝利ならずも手応え　６回２失点でメジャー初のクオリティースタート
+      <a href=https://news.yahoo.co.jp/articles/70afe8eee20636c207747aadeee9660abcabf445>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-90015080-tos-000-1-thumb.jpg?exp=10800&fmt=webp> 中森明菜も登場した野外フェス「ジゴロック」　２日目も盛況　電気グルーヴがトリを務め閉幕へ　大分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e691bfa2dfed8471c9649a56e12e4d6a77b73ce6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000034-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロシアの“一方的停戦”後も攻撃継続　6時間で砲撃387回　ゼレンスキー氏
+      <a href=https://news.yahoo.co.jp/articles/41849e390037dd53626d69dfb59c1d317e61ba0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-21866731-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=626&ch=626&exp=10800&fmt=webp> 【SHELLY】　　夏から「海外での生活を始めることになりました」「行き先はオーストラリア」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2acdf9a1eed6b954c29d5ee80817d6c64ce65edb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000035-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 中森明菜、野外フェス初見参で「生きてたぞ！」にファン歓喜…裏で“やっぱり似ている”指摘が続出した“リスペクト芸人”
+      <a href=https://news.yahoo.co.jp/articles/e72093c1b3614b88fa4da970d7a4f4437aad8df0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-90022343-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース・佐々木朗希投手　6回2失点の好投もチームは逆転サヨナラ負け　メジャー初勝利ならず　大谷翔平選手は自身のＳＮＳで長女の誕生を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2274315c2648b7f6f977e5a4b418dd70a8769587>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07734585-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ドジャースの新メンバーに会うのが待ちきれない！」大谷の第1子誕生に祝福の声続々　 球団やCMポーズの化粧品会社も
+      <a href=https://news.yahoo.co.jp/articles/843bb6204fd415da537aed0eb68d04d521801db4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-34201092-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=13&cy=0&cw=1333&ch=1333&exp=10800&fmt=webp> 「ダディ大谷翔平」真美子夫人と長女への思い「親にしてくれてありがとう」家族守る決意新た
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536111>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2e0d361b6eef37b79de5f3d4c68adfddc0aef2dbff690a2c6da0d1d698ee0e2d.jpg> 「トランプ氏に怒り」製造の現場
+      <a href=https://news.yahoo.co.jp/pickup/6536122>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1f033063721eb58888a48ec4831a820263c4d21a722d10502f6d2f5d16ae63a4.jpg> 突然の休戦宣言 ロシアの戦略
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/23a58f5abee61f69a66c8a3a62bd531d754db58db15ba86c3c8628cf4f2c1344.jpg> 万博 パビリオン4つ未完成のまま
+      <a href=https://news.yahoo.co.jp/pickup/6536111>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2e0d361b6eef37b79de5f3d4c68adfddc0aef2dbff690a2c6da0d1d698ee0e2d.jpg> 「トランプ氏に怒り」製造の現場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/08d6efbc780b52ecec2d2a87bc06c678d31631b97cee853df18c8ca6ec76a5b6.jpg> 公選法違反疑いで市議逮捕 埼玉
+      <a href=https://news.yahoo.co.jp/pickup/6536126>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/12f14723aa28dde759d506be4c2c156549a091e7792cbb15e71f679bbbf46670.jpg> 中国道で5台絡む事故 8人負傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536118>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/7313380ca8ffacaec2e3becb28e58fc8379b15d5cbe03b3979586b0e9e6c69ab.jpg> たまごっち「想定外」の再ブーム
+      <a href=https://news.yahoo.co.jp/pickup/6536094>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/abbd1ecfce671a3afabb0a78af37c8402a0e84c4a42d6c4a2843b3aed7ccaea5.jpg> 入学式前からSNS発信 新歓の今
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6ecbf045ca12772ca2386c2603dc7b813464957cc8713bd45640a2d81596bccb.jpg> 有村藍里 私のために整形しました
+      <a href=https://news.yahoo.co.jp/pickup/6536124>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/e6aa858f2865a283e0bff4845068a3388b815ba4fb861486703172e93b604dd1.jpg> SHELLY 豪州に移住すると発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 18:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 19:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
