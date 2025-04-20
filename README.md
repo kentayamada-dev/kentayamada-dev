@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FfX-ldO-Aro?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/PNDne-k_5dg?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8ee5dba79802fc19b58aaeb46c79a62b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/630a2d1e06e2c466e42c656a4ccffe12.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19b2f5a5f04830f0918fa0a394076452ac09bf8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000142-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=921&ch=921&exp=10800&fmt=webp> ド軍指揮官　佐々木朗希の球速低下は不安視せず「理由はわからない」も「6回投げきったのは素晴らしい」
+      <a href=https://news.yahoo.co.jp/articles/7ad049a9cbbf2ba78a99a89b5cba5f75cda71b3c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201042-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木朗希が敵地で見せた修正力「ごまかしながらになるけど」…スライダー多投で今季初めて直球割合が半数を下回る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5dbc61fcc14e05859961e4d4d9b38ce9eb147a66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア、「一時休戦」で和平姿勢を演出　米国の関与継続を狙う思惑か　ウクライナは警戒
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/773f569a10f2d114c0753d206bb20559f14e7588>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201038-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が２１日に復帰へ　ロバーツ監督「いつ到着するか分からないけど」「すごくうれしそうだった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cfbc1595dc58bec5864cb7dde6a61f8ced99ad7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000005-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=534&ch=534&exp=10800&fmt=webp> プーチン氏、30時間の停戦命令　ウクライナ「守っていない」と非難
+      <a href=https://news.yahoo.co.jp/articles/708b804699dfb82bac3944039a9c88d2d20e5510>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01739396-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が真美子さんと包み込み…長女への愛情に「泣いてしまう」　温もり溢れる“1枚”
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536044>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2282eaae4cd8853af60cc8619d789665a34c160d123621db301faa67f086c46e.jpg> 大谷パパに 夫人の女児出産を発表
+      <a href=https://news.yahoo.co.jp/pickup/6536066>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/5e81601e5096effcdc49452a593bb7259db6f50dcc097cc2ff9f783d4c252695.jpg> 大谷 長女誕生「愛する妻に感謝」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 09:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 09:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
