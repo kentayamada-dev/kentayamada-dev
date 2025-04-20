@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/PNDne-k_5dg?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3513e1935ec1973bb886e099a1e713b5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2a378c35ac77ccd6c4f161c4497cf70e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21854a17234ffc21db18e2183a298e13c231b34a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00095383-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 「本当に効率的な投球だ」ロバーツ監督が６回２失点の佐々木朗希を高く評価 球速低下も「打者をアウトにできる。心強い」
+      <a href=https://news.yahoo.co.jp/articles/c086bd74eda4d3fd2353f3df76347498faee3ed6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00341723-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=94&cw=812&ch=812&exp=10800&fmt=webp> 佐々木朗希の〝５失点〟を阻止したパヘスはルパンなのか…米メディアも賛辞「泥棒」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14c4243f1b49025048c083a2026225fdd549e83c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010013-yomseibu-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 野外音楽フェス「ジゴロック」開幕、「中森明菜さんが歌うというので楽しみにしていた」…61歳男性
+      <a href=https://news.yahoo.co.jp/articles/e9bf554408671cb08f1996048e0d7f8eb838b4e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07231662-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ氏意識か プーチン氏が「30時間」停戦表明 ウクライナ側期間延長要求も ロシア攻撃継続か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d77e248e4f717f2ce678787b4b181f098a201671>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000033-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=425&ch=425&exp=10800&fmt=webp> 埼玉県戸田市議を買収容疑で逮捕　2人に報酬3万5千円支払った疑い
+      <a href=https://news.yahoo.co.jp/articles/4e7ffa0681c5f0a883130a3b4d802b223d7700ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000027-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 埼玉・戸田市議を公職選挙法違反の疑いで逮捕　選挙運動見返りに報酬を渡したか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/58aaaa9bad9cd6a173f12ff084b4607e1b36308d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 明菜さん熱唱「生きてたぞ！」　大分の野外フェスで、大歓声に
       </a>
     </td>
   </tr>
@@ -382,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2274315c2648b7f6f977e5a4b418dd70a8769587>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07734585-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ドジャースの新メンバーに会うのが待ちきれない！」大谷の第1子誕生に祝福の声続々　 球団やCMポーズの化粧品会社も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-07734585-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「ドジャースの新メンバーに会うのが待ちきれない！」大谷の第1子誕生に祝福の声続々　 球団やCMポーズの化粧品会社も
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/08d6efbc780b52ecec2d2a87bc06c678d31631b97cee853df18c8ca6ec76a5b6.jpg> 公選法違反疑いで市議逮捕 埼玉
+      <a href=https://news.yahoo.co.jp/pickup/6536121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/23a58f5abee61f69a66c8a3a62bd531d754db58db15ba86c3c8628cf4f2c1344.jpg> 万博 パビリオン4つ未完成のまま
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/c2acdd7cb10bff0fa3784992a4ef9ba18582bf04ae3cce6b09128582a8fc0813.jpg> 山菜採り中に木に挟まる 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/08d6efbc780b52ecec2d2a87bc06c678d31631b97cee853df18c8ca6ec76a5b6.jpg> 公選法違反疑いで市議逮捕 埼玉
       </a>
     </td>
   </tr>
@@ -434,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536116>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/34222508f97200cf32152312b6bcb9579282a9a88c83f00cfe944bd564faa771.jpg> 後輩に大食い強要はパワハラ?
+      <a href=https://news.yahoo.co.jp/pickup/6536118>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/7313380ca8ffacaec2e3becb28e58fc8379b15d5cbe03b3979586b0e9e6c69ab.jpg> たまごっち「想定外」の再ブーム
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6b244eb12f2d0fa402ec53d0ec882263ad3330f4e9ee033f9030d8d4888daa16.jpg> 頭部死球に虎監督が激高 一時騒然
       </a>
     </td>
   </tr>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536109>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1e489eebbee4596c24c43a8f668e0176b5b6d5d6225f7f574ebd12d78a084728.jpg> 角田夏実 4階級上の実力者に敗北
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 17:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 18:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
