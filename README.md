@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/85cc2976efcffdd65314db9cc0fa18e6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1111fa8d9af6e18e106b651919cf00ec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4832dbac6eedfdc7b2d9367143c5c81e8cd2b9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000006-msportcom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 角田裕毅、ガスリーとの”痛恨”クラッシュを語る「友人であるピエールと接触するのは辛い」
+      <a href=https://news.yahoo.co.jp/articles/177102fa6af11d2d155a65f54d5f25d8e5525cc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 石破首相、靖国に真榊奉納　春季例大祭
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9deb167e2e53f56957cb9a854e3f13d33a39e78a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 露宣言の停戦期限、日本時間きょう午前6時　“プーチン大統領から延長の指示出ず”
+      <a href=https://news.yahoo.co.jp/articles/2c6cd6e7e3772d2160d80e2b1574a8712c5d1170>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000003-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=426&ch=426&exp=10800&fmt=webp> プーチン氏提案の「復活祭休戦」終了　ロシア、継続には否定的な姿勢
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a23f4f65d434bf8d34437befc4119eccf5cfaa4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000104-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=1069&ch=1069&exp=10800&fmt=webp> パパ大谷翔平　四球で決勝点演出　無安打も愛娘に白星“プレゼント”　満員敵地も祝福する一幕も
+      <a href=https://news.yahoo.co.jp/articles/28c4c42f811b61f04d096cbd4fb80dede9dc83b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000105-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=1069&ch=1069&exp=10800&fmt=webp> ドジャース大谷翔平、パパ初勝利　1―0辛勝　試合終了はチャレンジで2分かかる微妙な判定
       </a>
     </td>
   </tr>
@@ -395,7 +395,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536155>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 復活祭停戦が不発 露ウ非難の応酬
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/bff6b641b7433fbcf6143eba4b0fcb5543d4811e11de003e7b9a72f9a45cc918.jpg> 復活祭停戦が不発 露ウ非難の応酬
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536159>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/732433f2a0d3de83e7d1cfd4e7842f7f03a6bc2b8d7370ec0b89bb4f6b7a1195.jpg> 石破首相 靖国神社に「真榊」奉納
       </a>
     </td>
   </tr>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/e2dd6422aeba4fc3055050a4a5840b3b4e88c169e9cef33a074b4d7a598e1856.jpg> 時給5366円も 成長シナリオ公表へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536133>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/ff138b8f1568923c65825da8338da656b71871831a636694035356313dc4eb2c.jpg> 患者からの「ペイハラ」深刻化
       </a>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536149>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6855462fac56e55249c6094bfdda7b4ba2ab1cddb508b770b3347e6d55860c9b.jpg> ゲオ「PS5レンタル」好調の背景
+      <a href=https://news.yahoo.co.jp/pickup/6536156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/27b6ff3d78bfc49459c256123669b68d36ab0e78275bf0026507bd43e0a5732e.jpg> パラグライダー不時着後滑落 死亡
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/1881781ede69ca64c1f1e3abcfd7161140f220c1eac024bb0905b10e87a1cf93.jpg> 大谷がチーム合流 同僚ら祝福の列
+      <a href=https://news.yahoo.co.jp/pickup/6536158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c462502149ca28eb2b2e6dc1d21d73eb53e2da364b0da8f5dc4a76372bab1643.jpg> 大谷に歓声 敵地も長女誕生を祝福
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 06:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 07:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
