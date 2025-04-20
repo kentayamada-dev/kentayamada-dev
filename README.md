@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7dabf07713b46b1e8fb5936b62dededc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e2b9103fed70ba8060d8ccceecf72a5a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7a32588713cc3c90c5a2db2777449d8f1a5575d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000120-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=915&ch=915&exp=10800&fmt=webp> パパになった大谷翔平が「1番・DH」でスタメンに名を連ねる　「父親リスト」から外れる
+      <a href=https://news.yahoo.co.jp/articles/484f1aa89d484fd1a6cd630a656a497b7bc321f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000052-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=166&cw=869&ch=869&exp=10800&fmt=webp> ドジャース・大谷翔平がパパに!第1子は女の子「大谷ファミリーへようこそ！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1aa185d132671bffd129aa66109a32f52f964ce2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010007-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=429&cy=0&cw=1342&ch=1342&exp=10800&fmt=webp> 佐々木朗希 6回2失点と好投も初勝利ならず 「ブルペンにも迷惑をかけて来た。イニングを投げて勝ちを目指していけたら」
+      <a href=https://news.yahoo.co.jp/articles/4deb900e829a9c8d50bc9efc18576f7586f0099e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000072-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=884&ch=884&exp=10800&fmt=webp> ドジャース・朗希　MLB初QS　初勝利スルリも前進！6回2安打2失点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cd45eac36ce3e8af1c311509dd594a74174a8809>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-07231673-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破総理 対米関税交渉で「世界のモデルを目指す」　自動車の非関税障壁は緩和検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/632462606f4ff3d627506400206570fbf402c09b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00960591-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア“復活祭停戦”宣言も攻撃継続　ウクライナ軍も…と非難応酬
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 01:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 01:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
