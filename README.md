@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/PNDne-k_5dg?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/95ffcf5eee1edd93c57d8b34832bb3ee.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3513e1935ec1973bb886e099a1e713b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/075eac7f6c8d2f04d2d48dd3db55622818a63fd6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01325936-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「体力的にはいける」佐々木朗希メジャー最長イニングも余力あり　6回降板に「求められているものはわかっている」
+      <a href=https://news.yahoo.co.jp/articles/21854a17234ffc21db18e2183a298e13c231b34a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00095383-thedigest-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 「本当に効率的な投球だ」ロバーツ監督が６回２失点の佐々木朗希を高く評価 球速低下も「打者をアウトにできる。心強い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/14c4243f1b49025048c083a2026225fdd549e83c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010013-yomseibu-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 野外音楽フェス「ジゴロック」開幕、「中森明菜さんが歌うというので楽しみにしていた」…61歳男性
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d77e248e4f717f2ce678787b4b181f098a201671>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000033-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=425&ch=425&exp=10800&fmt=webp> 埼玉県戸田市議を買収容疑で逮捕　2人に報酬3万5千円支払った疑い
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000033-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=425&ch=425&exp=10800&fmt=webp> 埼玉県戸田市議を買収容疑で逮捕　2人に報酬3万5千円支払った疑い
       </a>
     </td>
   </tr>
@@ -379,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27a05864accb5b1b9a925864a855f0f6405383a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア軍が攻撃継続とウクライナ大統領
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed4ce175983de7ce9bdc9d48b15a107d2799045f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050035-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> 山手線と京浜東北線が全線で再開…２日間にわたった「羽田空港アクセス線」工事は予定通り終了
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536105>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/187f40ced5426b3b3f0d173dad4c6a85c250fddae9d45515b889d6566f16cb07.jpg> 「勝利まで戦う」イスラエル首相
+      <a href=https://news.yahoo.co.jp/pickup/6536111>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2e0d361b6eef37b79de5f3d4c68adfddc0aef2dbff690a2c6da0d1d698ee0e2d.jpg> 「トランプ氏に怒り」製造の現場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536111>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2e0d361b6eef37b79de5f3d4c68adfddc0aef2dbff690a2c6da0d1d698ee0e2d.jpg> 「トランプ氏に怒り」製造の現場
+      <a href=https://news.yahoo.co.jp/pickup/6536113>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/3e80b6a9b2ec0ad8c574faddd601a6992ec3f9f4be8951fc657883cc88766e83.jpg> 米関税 中国の「SHEIN村」に打撃
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536108>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/a53356715440e08dcdd8be7682efca14be32d1ff8db174a06604bb2ca32192cf.jpg> 子連れで万博 体験した「想定外」
+      <a href=https://news.yahoo.co.jp/pickup/6536115>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/fed00b8ccc84e008eae1a7adc089866b80bc1a8195fe08a547994fbb583d221f.jpg> メンタル不調予防 GWの過ごし方
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536116>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/34222508f97200cf32152312b6bcb9579282a9a88c83f00cfe944bd564faa771.jpg> 後輩に大食い強要はパワハラ?
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/d84fe5dd9e5e2a2074149270e908b6b6895c56fc906254f77e508ffb7ab398b4.jpg> メカになった 鈴木もぐら手術語る
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 17:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 17:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
