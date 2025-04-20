@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac49ac404661dde5c8ab1eae874b5681.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c86ff35c77e8d4885d8e93b01bbe858c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3944418096180be53db6db6720ebe9bc6c7d1c01>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-10174607-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=620&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> “未知の領域”佐々木朗希、初の6回投げ切り4奪三振2失点 初勝利お預けも晴れやか＆充実の表情
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/97ca4077e2e4c032f2895b60df1ae02cc139cd84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-08938864-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=113&cw=523&ch=523&exp=10800&fmt=webp> SHELLY、家族でオーストラリアへの移住を発表　今夏から期間未定「いろいろな環境が整い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/55758f624eff239596b6c97acf63131794e0f07e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-05286883-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ゼレンスキー大統領“ロシアの攻撃続いている”　ロシア側「停戦体制を順守している」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/16d6ec94854567011f477f2097c8489b18c24d18>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01739685-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 米識者が指摘したドジャースの“7/22”　大谷は長女の出産を見届けて…相次ぐ不測の事態
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2c1723d94c47419e9313d128a0b776554dba589>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00785102-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=800&ch=800&exp=10800&fmt=webp> SHELLY、今夏オーストラリアに家族5人で移住も「期間は決まってなくて」　ネット衝撃「びっくり！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3d2a0898c7b1b3188a337b8d8c7ba1061e45fe2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010003-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=1798&ch=1798&exp=10800&fmt=webp> 佐々木朗希 メジャー最長6回を投げきるも初勝利はお預け ドジャースはサヨナラ負けで連勝ストップ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0986537bde061c0028413f5e6dcc583c54ea0fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-10174622-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=380&cy=0&cw=827&ch=827&exp=10800&fmt=webp> ゼレンスキー大統領 ロシアの停戦宣言後も砲撃
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/12f14723aa28dde759d506be4c2c156549a091e7792cbb15e71f679bbbf46670.jpg> 中国道で5台絡む事故 8人負傷
+      <a href=https://news.yahoo.co.jp/pickup/6536129>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/e2dd6422aeba4fc3055050a4a5840b3b4e88c169e9cef33a074b4d7a598e1856.jpg> 時給5366円も 成長シナリオ公表へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536095>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2b1424aa442c6bd9cc5b0e1bea26845301643b3254dbef666af36f42d627d98d.jpg> フジ取締役にSTARTO社長案 波紋
+      <a href=https://news.yahoo.co.jp/pickup/6536126>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/12f14723aa28dde759d506be4c2c156549a091e7792cbb15e71f679bbbf46670.jpg> 中国道で5台絡む事故 8人負傷
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536094>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/abbd1ecfce671a3afabb0a78af37c8402a0e84c4a42d6c4a2843b3aed7ccaea5.jpg> 入学式前からSNS発信 新歓の今
+      <a href=https://news.yahoo.co.jp/pickup/6536119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6b244eb12f2d0fa402ec53d0ec882263ad3330f4e9ee033f9030d8d4888daa16.jpg> 頭部死球に虎監督が激高 一時騒然
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6b244eb12f2d0fa402ec53d0ec882263ad3330f4e9ee033f9030d8d4888daa16.jpg> 頭部死球に虎監督が激高 一時騒然
+      <a href=https://news.yahoo.co.jp/pickup/6536131>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/69de3983c21fd378a56bef375c84683e3d2de4a9ef5b77494fd9df5b1795ec9a.jpg> のんが民放ドラマ復帰 背景を考察
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 19:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 20:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
