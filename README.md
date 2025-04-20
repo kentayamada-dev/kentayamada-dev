@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FfX-ldO-Aro?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd051edb8f7b94e2ebb27bf5ec82172a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8ee5dba79802fc19b58aaeb46c79a62b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5e9d4efec4380a7d9f8850fcc49afd9b9c29e2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000136-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=49&cw=1098&ch=1098&exp=10800&fmt=webp> 佐々木朗希　米メディアが球速低下を不安視　初回最速は151キロ「自分でも理由はわからない」
+      <a href=https://news.yahoo.co.jp/articles/19b2f5a5f04830f0918fa0a394076452ac09bf8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000142-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=921&ch=921&exp=10800&fmt=webp> ド軍指揮官　佐々木朗希の球速低下は不安視せず「理由はわからない」も「6回投げきったのは素晴らしい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9df35a194e586511d8451b855cdbfcf1362b74f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010002-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=134&cw=1152&ch=1152&exp=10800&fmt=webp> 英語全文（和訳付き）…大谷翔平のSNSでの長女誕生報告に100万を超える祝福の「いいね」！ドジャース公式も「最も新しいドッジャーに逢うのが待ちきれない」
+      <a href=https://news.yahoo.co.jp/articles/a8fef858aa9938ddc8213b07a21fb046630f5ceb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-34200133-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> メッツ千賀滉大、山本由伸を抜き防御率0・79でリーグトップに　６回途中３安打無失点で３勝目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cabf159abf399a9b7daac4ec563091213c11b26e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-10174584-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=450&ch=450&exp=10800&fmt=webp> プーチン大統領、30時間の一時停戦を宣言
+      <a href=https://news.yahoo.co.jp/articles/773f569a10f2d114c0753d206bb20559f14e7588>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201038-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が２１日に復帰へ　ロバーツ監督「いつ到着するか分からないけど」「すごくうれしそうだった」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2be6f11b9a7dc72dde002dea80c6037067b3626>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201034-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=800&ch=800&exp=10800&fmt=webp> メッツ千賀滉大が３連勝、山本由伸抜き防御率リーグ首位…直球割合が今季平均の１・５倍、その理由を説明
+      <a href=https://news.yahoo.co.jp/articles/9cfbc1595dc58bec5864cb7dde6a61f8ced99ad7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000005-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=534&ch=534&exp=10800&fmt=webp> プーチン氏、30時間の停戦命令　ウクライナ「守っていない」と非難
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/19/4514fe901e8082768755cbd390958c727b9886147662f0df7e7327a2615a0ffb.jpg> 首相 対米関税交渉「カード」検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536051>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 地震でタイのビル倒壊 施工者逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6536059>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/e61854a317761d8c5b411e3da0bb9c3745508e9ebb9742ecb13e781680bd1ca9.jpg> 北朝鮮の自走砲 ウ国境近くの露に
       </a>
     </td>
   </tr>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536051>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 地震でタイのビル倒壊 施工者逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536052>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f658bfe63e0d6a6ee8ceb3ae3b947fc8feeea144a99dd31e63a6578e7a785dc6.jpg> 裁断機と支柱に挟まれ 作業員死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/9819f85a749a5122e45302096ad305c0f41939218655d0a2a2b034c470d05671.jpg> 京都「1泊2食付き」やめる旅館増
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536046>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f257c50f89c000075467fb5c853c14f70c7aeaa597ead075ab3eb98b6873b64f.jpg> のん 11年ぶりに民放ドラマ出演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 08:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 09:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
