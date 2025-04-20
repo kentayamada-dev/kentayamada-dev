@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d0400d50f86ac948e20713f1e8fc7b30.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb3cfb1c5adb540a82b01685f8949c88.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cfe42595f7d3b91d972c2bef704b3f687e493c04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-04211011-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=1095&ch=1095&exp=10800&fmt=webp> 大谷翔平、３回にパパ初三振　防御率０点台の難敵に苦戦　真美子夫人の出産から一夜明け…３戦ぶり復帰戦
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-04211011-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、３回にパパ初三振　防御率０点台の難敵に苦戦　真美子夫人の出産から一夜明け…３戦ぶり復帰戦
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 04:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 05:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
