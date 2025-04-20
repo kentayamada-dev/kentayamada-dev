@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fb22acbb61f550a52756f7967f6a1ea7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a0209f76cfa26241e3df5571f6cd0c9d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/86160ad7d492381d33427e6cd18b07311b73279f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-21866431-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> "MAGA"キャップでグーサイン　トランプ大統領と直接会談　日本の“交渉役”赤沢大臣が帰国　完全に「アメリカペース」の関税交渉【サンデーモーニング】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a1bb42b394fe5d1cba90ccda0eb9e8f3cfd3e874>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01739465-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=600&ch=600&exp=10800&fmt=webp> “超速”復帰の大谷翔平に米驚愕「何て男だ」　長女誕生1日で戦線へ「ちょっと待って」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b1ef975763b25ff5429ad93ede7387c485d550a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00527234-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平長女誕生で日曜朝7時から働いた日本企業　「凄い！」「公式が…」　スポンサーに称賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed4ce175983de7ce9bdc9d48b15a107d2799045f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050035-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> 山手線と京浜東北線が全線で再開…２日間にわたった「羽田空港アクセス線」工事は予定通り終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c04695e50d96cc737634e8cffef555400db466b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-34200382-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=1121&ch=1121&exp=10800&fmt=webp> ロバーツ監督「グッドニュースが届いた。興奮してる」異例の試合中インタビューで大谷翔平を祝福
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab2c1ba3846deed8e11f7fbf84f66146f7ce94ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000038-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=679&ch=679&exp=10800&fmt=webp> 堀江貴文氏、フジ株主のダルトン側と接触、取締役候補は「キャラ濃すぎるんで他の人に嫌がられました」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/830b1016322039b8ae0537dfc0864d026df73e8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00960399-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「安全保障と貿易は違う分野の話」安保分野は「関税絡めない形で議論」トランプ関税への対応を説明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00050035-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> 山手線と京浜東北線が全線で再開…２日間にわたった「羽田空港アクセス線」工事は予定通り終了
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b34f125a1a12237ef523eee46fae144dfede3c53>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000019-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博 開幕から1週間　来場者50万人超に “新マップ”公開など改善続く
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000019-ann-000-7-thumb.jpg?exp=10800&fmt=webp> 大阪・関西万博 開幕から1週間　来場者50万人超に “新マップ”公開など改善続く
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536088>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/6c3f851fd08241a21bc1d3345db22b37ceb5a29c74cf62717b1b9a80e7287c86.jpg> 訪日客の「不敬行為」悩む神社
+      <a href=https://news.yahoo.co.jp/pickup/6536095>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2b1424aa442c6bd9cc5b0e1bea26845301643b3254dbef666af36f42d627d98d.jpg> フジ取締役にSTARTO社長案 波紋
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536065>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/280c94764d94a1da74966993b108e3db48a2b78fb1d8d25e5001a461f07043b3.jpg> 子のエナドリは薬物依存入口 警鐘
+      <a href=https://news.yahoo.co.jp/pickup/6536097>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/8672ef09baf42dc99f5fa68e00109b6c5d66b79ccabda4daef54b2e6f9640c92.jpg> 山菜採り中に木に挟まり 意識不明
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536082>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f60abaf79ed0ff25582fb0fd1ce60b367de8bc1669826d5e3b6aece68c22de0f.jpg> 異例 ド軍監督が試合中に大谷祝福
+      <a href=https://news.yahoo.co.jp/pickup/6536099>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2a6e71ecbae04aa0fd1aed57251cdcc130accc9530039818fb8ff720e820f770.jpg> 大谷に長女誕生 21日に打線復帰へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 14:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 14:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
