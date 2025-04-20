@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1111fa8d9af6e18e106b651919cf00ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2b06d75cb5ee5c629549a17b916eee43.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/177102fa6af11d2d155a65f54d5f25d8e5525cc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 石破首相、靖国に真榊奉納　春季例大祭
+      <a href=https://news.yahoo.co.jp/articles/95f8fd86d16006d7dfa7cc7a86ea1ff1d3b79b66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174652-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=778&ch=778&exp=10800&fmt=webp> ロシア・ウクライナ停戦めぐり 双方が停戦違反で互いを非難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c6cd6e7e3772d2160d80e2b1574a8712c5d1170>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000003-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=426&ch=426&exp=10800&fmt=webp> プーチン氏提案の「復活祭休戦」終了　ロシア、継続には否定的な姿勢
+      <a href=https://news.yahoo.co.jp/articles/6a57ca6156ba116f6f00d3c4df1764cdca0c22b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174650-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 石破総理、私費で「真榊」を奉納 靖国参拝は見送り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28c4c42f811b61f04d096cbd4fb80dede9dc83b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000105-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=1069&ch=1069&exp=10800&fmt=webp> ドジャース大谷翔平、パパ初勝利　1―0辛勝　試合終了はチャレンジで2分かかる微妙な判定
+      <a href=https://news.yahoo.co.jp/articles/53ed288e1387c83bf633963e144e0dd86480580a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-04211028-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 大谷翔平、復帰初戦は勝利運ぶ１四球　ロバーツ監督「少し気負いすぎていた」　“パパ１号”はＶＳ今永昇太で
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536160>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/7ab0fdcc43459525d1e66a0c4c8c0e1fd0554f2d59e60ced2b8c0978a075df37.jpg> 訪日客と「ホテル争奪戦」激化?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536154>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/d2110364a31ddae2235982320985bad7b0e575612cedca5a482924d35ef85816.jpg> F1角田 1周目まさかのクラッシュ
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/774eb81a64dad84e1a3d4582ac71d9f2900f783a5159797a2b90d2dc8ee8c9d6.jpg> SHELLYが豪州移住へ 期間は未定
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 07:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 07:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
