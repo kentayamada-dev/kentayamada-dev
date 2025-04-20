@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/630a2d1e06e2c466e42c656a4ccffe12.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/95f02d5fa8a29766f912ca44d55afe21.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ad049a9cbbf2ba78a99a89b5cba5f75cda71b3c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201042-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木朗希が敵地で見せた修正力「ごまかしながらになるけど」…スライダー多投で今季初めて直球割合が半数を下回る
+      <a href=https://news.yahoo.co.jp/articles/862f42164bb5c00f24fb319209e67d7c8088f9fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201043-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=397&cy=0&cw=429&ch=429&exp=10800&fmt=webp> 「ＴＨＥ　ＳＥＣＯＮＤ」ファイナリスト８組が決定　結成５４年目「ザ・ぼんち」ら…５・１７決戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5dbc61fcc14e05859961e4d4d9b38ce9eb147a66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア、「一時休戦」で和平姿勢を演出　米国の関与継続を狙う思惑か　ウクライナは警戒
+      <a href=https://news.yahoo.co.jp/articles/7d616ec35d5b34f577697678725244916ad6c2ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00341688-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース・佐々木朗希６回２失点　米記者は〝球速低下〟指摘も高評価「一歩前進した」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8fef858aa9938ddc8213b07a21fb046630f5ceb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-34200133-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> メッツ千賀滉大、山本由伸を抜き防御率0・79でリーグトップに　６回途中３安打無失点で３勝目
+      <a href=https://news.yahoo.co.jp/articles/8e7c2cb25256771b6e5cdd400b6922957db8518e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01736260-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 3勝目の千賀滉大、防御率0.79でトップに　指揮官「普段と異なる」と評価
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/708b804699dfb82bac3944039a9c88d2d20e5510>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01739396-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が真美子さんと包み込み…長女への愛情に「泣いてしまう」　温もり溢れる“1枚”
+      <a href=https://news.yahoo.co.jp/articles/39a1a8dc390c5967ff0aad75879b4aed5095bb87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=629&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ロシアが復活祭休戦発表 ウクライナ追随も空襲警報鳴りやまず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fad160fe3b84d66406ba7f4e20b88badfed2d99e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00029487-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 今日20日は日本海側を中心に雨や雷雨　太平洋側も夕方以降にわか雨に注意
+      <a href=https://news.yahoo.co.jp/articles/c4608a266c156e74a42f3f2525f2a1d3f7b30683>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00527174-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平吉報の裏で入ったネガティブ情報に日米落胆「そんなまさか」　ドジャース右腕が故障
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/43970f722872c2e5b8fcea6478fd8ae57b7190cdae172894c1c2403a26030a76.jpg> ウ大統領 露の砲撃止まっていない
+      <a href=https://news.yahoo.co.jp/pickup/6536070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/595f356a7eceef7e39f5a169beaa4c258ecdb4c0e9b026d8b3f588575a37cd81.jpg> 露の休戦宣言 透ける対米アピール
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/3464782e382607233ba678c4904a1440b7b14a3856da356078dc2363379748bd.jpg> 山手線など一部運休 再開は正午頃
+      <a href=https://news.yahoo.co.jp/pickup/6536064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/2a8bcab274ae2f4951c1f7faa6446c17cfdfe31e5e87ce460ec37b6ceb52335e.jpg> 中国の輸出業者 米関税でパニック
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f658bfe63e0d6a6ee8ceb3ae3b947fc8feeea144a99dd31e63a6578e7a785dc6.jpg> 裁断機と支柱に挟まれ 作業員死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/9819f85a749a5122e45302096ad305c0f41939218655d0a2a2b034c470d05671.jpg> 京都「1泊2食付き」やめる旅館増
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/9819f85a749a5122e45302096ad305c0f41939218655d0a2a2b034c470d05671.jpg> 京都「1泊2食付き」やめる旅館増
+      <a href=https://news.yahoo.co.jp/pickup/6536061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/3da21604dba9c3200e083aa29e3b44aaaa77b28f7ef14c1a7cf6980aa045a1d6.jpg> 万博 スマホ頼みに高齢者ら悲鳴も
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536054>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/f895a4d1f1b4241072f37787984aa7f488b29b9629c558e5ab607571e14d2d0f.jpg> ド軍逆転負け 朗希の初勝利お預け
+      <a href=https://news.yahoo.co.jp/pickup/6536058>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/eb74f2b313d36cb2b7153ed85131516da20ab26a5406ca91b0481de0f6c9e2d3.jpg> メッツ千賀3連勝 防御率リーグ1位
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 09:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 10:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
