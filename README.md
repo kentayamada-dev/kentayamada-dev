@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b676e4d89a8b3b3558219270a3b0d2ab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fec490b9dbe783f57d0884fccdd9d5e5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/659b1fc8952ce26c3e3bab50f55e8df9db44b335>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000154-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 大谷翔平、パパになって初出場へ　前日に長女誕生を公表　３戦ぶり戦列復帰　球団発表
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1aa185d132671bffd129aa66109a32f52f964ce2>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa0146f71fd4da7ac8c45749e95572038cf3b1ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-01739529-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 愛娘誕生から1日…大谷翔平に最敬礼　即復帰で貫く“姿勢”「さすがとしか言いようが」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536137>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/0f90ba1a6695316660e6b56886e1e6091adf3b813e0b9f0fe7f5bd40858b04b5.jpg> ウ市民「プーチン信用しない」
+      <a href=https://news.yahoo.co.jp/pickup/6536148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/9b751c7539aa70cf4c909a503092ad25fb370d59733eb7f41b5a3e64b086a9b1.jpg> 停戦機能せず 露とウ双方が非難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536147>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/773263fcf35d91f87856a7709cc4182b72967255941d2f5bbd436d99dd40b06c.jpg> 米の留学生ビザ取り消し 印で波紋
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536147>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/773263fcf35d91f87856a7709cc4182b72967255941d2f5bbd436d99dd40b06c.jpg> 米の留学生ビザ取り消し 印で波紋
+      <a href=https://news.yahoo.co.jp/pickup/6536133>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/ff138b8f1568923c65825da8338da656b71871831a636694035356313dc4eb2c.jpg> 患者からの「ペイハラ」深刻化
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536124>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/e6aa858f2865a283e0bff4845068a3388b815ba4fb861486703172e93b604dd1.jpg> SHELLY 豪州に移住すると発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 23:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 23:51:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
