@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b33ed54926fd04323a085a0290ab667e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2bfa6de93bc26c679ad6ae9ef3ea5aad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46438a9042fbdc1d45ed68bd204910322f5f402a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000113-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> ロシア「ウクライナが攻撃継続」と主張　双方が違反を非難、「復活祭停戦」機能せず
+      <a href=https://news.yahoo.co.jp/articles/1aa185d132671bffd129aa66109a32f52f964ce2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00010007-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=429&cy=0&cw=1342&ch=1342&exp=10800&fmt=webp> 佐々木朗希 6回2失点と好投も初勝利ならず 「ブルペンにも迷惑をかけて来た。イニングを投げて勝ちを目指していけたら」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04d90d8a69fe96bbf28d9f10b38bce9c8a355e13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-04201262-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> ドジャース・佐々木朗希の力み消えた投球フォーム　安定すれば制球力も戻る…髙橋尚成さん
+      <a href=https://news.yahoo.co.jp/articles/46438a9042fbdc1d45ed68bd204910322f5f402a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000113-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=30&cw=847&ch=847&exp=10800&fmt=webp> ロシア「ウクライナが攻撃継続」と主張　双方が違反を非難、「復活祭停戦」機能せず
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536135>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/1d24ec9529075f06efb6fdb90cd3cc5ed65d306e5760685302febdefbafdc491.jpg> 花見で外国人殺到 混雑に住民悲鳴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536080>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/c9320e50f1ffea0e551f36e01db788aeb1e8631dc6fe9a467e9da6508eff0b40.jpg> 裏アカ内容を他人が流出 法的には
       </a>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/9711bcd3b355d3bcc4a2ece247ceedf0b2913cf19913a6bd3a349d1448059287.jpg> 横浜FM宮市が負傷交代 開始10秒
+      <a href=https://news.yahoo.co.jp/pickup/6536146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/9711bcd3b355d3bcc4a2ece247ceedf0b2913cf19913a6bd3a349d1448059287.jpg> 開始10秒で頭部強打 宮市亮が交代
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536124>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/20/e6aa858f2865a283e0bff4845068a3388b815ba4fb861486703172e93b604dd1.jpg> SHELLY 豪州に移住すると発表
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/20 22:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/20 23:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
