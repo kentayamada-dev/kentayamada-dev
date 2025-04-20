@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e2b9103fed70ba8060d8ccceecf72a5a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aff2cb6782260e42e925cf2e310e858f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/484f1aa89d484fd1a6cd630a656a497b7bc321f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000052-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=166&cw=869&ch=869&exp=10800&fmt=webp> ドジャース・大谷翔平がパパに!第1子は女の子「大谷ファミリーへようこそ！」
+      <a href=https://news.yahoo.co.jp/articles/a8e28d325b28cc4f5f7fcf747bb0744e11afacb1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000082-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=901&ch=901&exp=10800&fmt=webp> ドジャース・ロバーツ監督「健康なベビーが生まれてよかった」　大谷翔平の準備にも感服
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4deb900e829a9c8d50bc9efc18576f7586f0099e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000072-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=884&ch=884&exp=10800&fmt=webp> ドジャース・朗希　MLB初QS　初勝利スルリも前進！6回2安打2失点
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000072-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=884&ch=884&exp=10800&fmt=webp> ドジャース・朗希　MLB初QS　初勝利スルリも前進！6回2安打2失点
       </a>
     </td>
   </tr>
@@ -381,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/632462606f4ff3d627506400206570fbf402c09b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00960591-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロシア“復活祭停戦”宣言も攻撃継続　ウクライナ軍も…と非難応酬
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac8d4db65701802184c6e23689aac5164b2d061c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-21866794-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 用水路の清掃作業中に具合が悪くなり…男性（50代）が熱中症疑い、心肺停止の状態でドクターヘリ搬送　鳥取県倉吉市
+      <a href=https://news.yahoo.co.jp/articles/06fe7bef1a533a078148261f60f678c77c3c65b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-10174229-abemad-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ガンダムジークアクス」OP、若者に混じって走る緑のおじさんに「心臓ぶち抜かれた」「癖になりそう」
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 01:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 02:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
