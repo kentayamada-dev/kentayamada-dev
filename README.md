@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/434be73bd3b64a457322975ebe27e73e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cb264854d5c0c499b41ca3658d48e0aa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36a0146b14d1d52ac46dfaae0c3483affafb1c6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-21867767-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手は産休明け3試合ぶり出場も快音聞かれず　チームは僅差を制し勝利
+      <a href=https://news.yahoo.co.jp/articles/b989fa25201abef4f105061f58a1c79b6263f5f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000010-mynavin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=795&ch=795&exp=10800&fmt=webp> NHK久保田祐佳アナ、タモリとの共演に喜び「『ブラタモリ』の最初にお会いしてから17年…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eecc524b7f62e667227e07ed44b0409028e6354e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000091-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=665&ch=665&exp=10800&fmt=webp> 東京都に実親の調査命じる　出生取り違え訴訟、東京地裁
+      <a href=https://news.yahoo.co.jp/articles/83c7dbdff5f2751ba1e6fd0ea1da57035d22bb6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010000-wakayamav-000-1-thumb.jpg?exp=10800&fmt=webp> 日本維新の会 和歌山県議会議員の浦平美博氏 参院選和歌山選挙区 立候補表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44d02dbfd9949b1ab36b0686a4c3195cb763c019>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-35232065-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ウクライナとロシア、「休戦」めぐり非難の応酬　トランプ氏は合意に向けた期待示す
+      <a href=https://news.yahoo.co.jp/articles/39636b96853389bf7e90c09c5235f5c94edd0a2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174726-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=781&ch=781&exp=10800&fmt=webp> ウクライナ側 新たに「30日間の停戦延長」を提案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/babeb6447335be44af7ec47a212248b4d71447a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174716-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=598&ch=598&exp=10800&fmt=webp> トランプ氏 非関税障壁で「ボウリング球落とす日本の検査」を指摘
+      <a href=https://news.yahoo.co.jp/articles/d1232429829071f4b8adce10fdd4171a39267ece>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34210564-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=1449&ch=1449&exp=10800&fmt=webp> 大谷翔平、終始笑顔のオンパレード　「ダディ１号」お預けも決勝点アシスト、一気に上昇気流へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/20ff3e91a5c2ae6181d6204a3131a404572ba02d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000026-ann-000-9-thumb.jpg?exp=10800&fmt=webp> トランプ大統領の交渉参加に石破総理「想定をかなり超えておった」
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536192>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c3e789c70438d2fb8d85ce0a4e97d65118296e0ad908d70f7cce8251a3609079.jpg> 円相場 一時1ドル140円台に突入
+      <a href=https://news.yahoo.co.jp/pickup/6536207>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/b990f2ecc5088964d394af000a8f38c20d9279e8221ee9f9b1c62297862212a6.jpg> 世耕氏 現金還流の再開決定を否定
       </a>
     </td>
   </tr>
@@ -434,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536203>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/a5ce47446696f33496b63e95ac54fa7f747f60b9ce6cce11d4bc3c31ea2d0124.jpg> ヤ軍「退場王」通算40度目の退場
+      <a href=https://news.yahoo.co.jp/pickup/6536204>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/1230b8ad99c129c44a0df03f6013840481c2573a04033655e7140e86e086098c.jpg> 一発撮りで白米食べ切る動画 反響
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/5b905507aa6416ecfcb9e7498e63e0a58266d3128fabebbde910c7fcb0fac1ec.jpg> タモリ 老化に必死に抗っています
       </a>
     </td>
   </tr>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536201>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/a0ffaf16d2ae3ca5684d522badc2a5ffab6847d3af559137bc9c395b979b04f0.jpg> 大倉忠義 鳥貴族創業の父と初共演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 14:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 14:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
