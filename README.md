@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/410396511392a5a37f5c3e74a2fbe4d8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1393f0d2df8ae049dc296fd496eafae1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/76e64418e4785e7841d30a603fb24a319f1c63c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000051-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=818&ch=818&exp=10800&fmt=webp> 日本テレビ社長、「月曜から夜ふかし」BPO審議入りに言及「重く受け止めている。真摯に対応する」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f2c8780ff4ef6649103ccaca85f3a21e6ac7de39>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアがウクライナに攻撃再開、復活祭停戦終了　各地で空襲警報
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/83c7dbdff5f2751ba1e6fd0ea1da57035d22bb6c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010000-wakayamav-000-2-thumb.jpg?exp=10800&fmt=webp> 参院選和歌山選挙区 日本維新の会 和歌山県議会議員の浦平美博氏 立候補表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db0a278024ebfa77c1dbd982eed7c151b75f6e16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000039-ann-000-8-thumb.jpg?exp=10800&fmt=webp> クローゼットに女子高校生遺体 殺人の疑いで男を再逮捕　愛知・一宮
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536195>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/4815fbd321d45f5414c92c0678a8fbd4416f0f90a5325101829f27f81490b0fa.jpg> マネーフォワードなど 新銀行検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536211>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c1120640398eda3800c033551746992c3107c2777523fe2a30e1b8ebd0668697.jpg> 住宅に高校生遺体 殺人疑い再逮捕
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/5b905507aa6416ecfcb9e7498e63e0a58266d3128fabebbde910c7fcb0fac1ec.jpg> タモリ 老化に必死に抗っています
+      <a href=https://news.yahoo.co.jp/pickup/6536213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/57ebf24f6d766741f2d8e97c572acc2c3bbfe36aa2207f0833505a74e2d142b0.jpg> 俳優・山口崇さん死去 88歳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/3b235392f7b1d83577cba184ad64419bfa8becd011f7ea229bd7cee51719350e.jpg> 日テレ「夜ふかし」打ち切り否定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 15:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 15:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
