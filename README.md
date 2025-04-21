@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e8319440b73cd7e90114dd78ed3312bd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/434be73bd3b64a457322975ebe27e73e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9890e3e0ff3db96dc27751b4b64ba36e4709d43c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000001-maikirei-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ＜桐谷美玲＞鮮やかスカートコーデでイベント登場　「ビタミンを吸収している気分に」
+      <a href=https://news.yahoo.co.jp/articles/36a0146b14d1d52ac46dfaae0c3483affafb1c6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-21867767-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手は産休明け3試合ぶり出場も快音聞かれず　チームは僅差を制し勝利
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/eecc524b7f62e667227e07ed44b0409028e6354e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000091-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=665&ch=665&exp=10800&fmt=webp> 東京都に実親の調査命じる　出生取り違え訴訟、東京地裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44d02dbfd9949b1ab36b0686a4c3195cb763c019>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-35232065-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ウクライナとロシア、「休戦」めぐり非難の応酬　トランプ氏は合意に向けた期待示す
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/babeb6447335be44af7ec47a212248b4d71447a5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174716-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=598&ch=598&exp=10800&fmt=webp> トランプ氏 非関税障壁で「ボウリング球落とす日本の検査」を指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9008be81e538dbfce82ac47bfb1683c4f659bd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000081-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=592&ch=592&exp=10800&fmt=webp> クリミアのロシア領承認を提示か　米国、ウクライナに和平案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8842259eedebd5f3de3c7d1f8f297a7dc2f05465>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174681-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=547&cy=0&cw=910&ch=910&exp=10800&fmt=webp> 「翔平パパおめでとう」大谷翔平の長女誕生を祝う“巨大ボード”が敵地に出現！ 熱狂的ファンの行動に反響
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536200>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/15a0b4f108deac8e2b9bcf7db71fb20617fc8ea732bb7c572582211f0ac21cee.jpg> 今後の政権「自公継続」14% 調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536177>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 世界のレアメタル供給 低水準続く
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536205>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/198b0061ff598e36e92a5ecd21a2e74b5d9d0436ba1e74b7f28bb80e4f638672.jpg> 新生児取り違え 都に親の調査命令
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536198>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/79ba5fc0abe519e13e03e6afe6c5eaad4fa359e58d946d6e630248f131a0d98f.jpg> 日本のビザ取得 中国人の相談殺到
       </a>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/dbe7a0145e0cbcf1dbf956963b188a20fd1a663fbaf7e1e49962069bac1c2bcd.jpg> GWに学校休み旅行 教育現場の声
+      <a href=https://news.yahoo.co.jp/pickup/6536203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/a5ce47446696f33496b63e95ac54fa7f747f60b9ce6cce11d4bc3c31ea2d0124.jpg> ヤ軍「退場王」通算40度目の退場
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ba077bbbf01cd3fdb20c3ceaf093963a8e5cc923e336084f7896baa14b972729.jpg> 大谷は「積極的過ぎた」ド軍監督
+      <a href=https://news.yahoo.co.jp/pickup/6536202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/909d2d5e14b36a8ef699ba628049306fc61d2302cfdb3619f870eb2470d9d804.jpg> 桐谷美玲 街で内田篤人と偶然遭遇
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 13:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 14:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
