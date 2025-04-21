@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a0eb48e766e5f692992f91ac6da2e7d4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d63d2d338cc02e15452b1d56e158ad48.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7eb35148b16c5ce4bdd5ba962d2b28f3e655cc8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00527543-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 現役続行か否か、揺れる金メダリスト角田夏実　最軽量48kg級から無差別級挑戦で再確認「やっぱり柔道が好き」
+      <a href=https://news.yahoo.co.jp/articles/f262c917ac2121a3b21ba1bfb9896640ff48fcfd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00341794-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 〝大谷翔平パパ〟世界中で報道された！　ＣＮＮが異例中の異例報道　英ガーディアン紙も！　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b979872ce0d00dc4240b20807a96a14429045895>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> プーチン氏の「復活祭停戦」不発、ロシアとウクライナ非難の応酬　トランプ氏仲介の困難さ浮き彫りに
+      <a href=https://news.yahoo.co.jp/articles/8ebad5ad1ee80f3961032524ef8403bf65521777>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000005-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1340&ch=1340&exp=10800&fmt=webp> ロシア・ウクライナ、復活祭休戦めぐり非難の応酬 トランプ氏は「今週の合意」予想
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0df600c76a2b61847e5e125433a0e62c4de821f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000002-mynavin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『べらぼう』“平賀源内”安田顕の早口演技の狙い「天才的ということだけではなく…」
+      <a href=https://news.yahoo.co.jp/articles/c8be9d7fd3ecc7d0cd34d9f3fd6e25636f762034>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000010-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=631&ch=631&exp=10800&fmt=webp> ボウリング球落として検査?　トランプ氏、日本の非関税障壁に難癖
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53ed288e1387c83bf633963e144e0dd86480580a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-04211028-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 大谷翔平、復帰初戦は勝利運ぶ１四球　ロバーツ監督「少し気負いすぎていた」　“パパ１号”はＶＳ今永昇太で
+      <a href=https://news.yahoo.co.jp/articles/461e91829f135f51f6fd57a50570098b4b29c8a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000099-kstylens-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岡田将生、韓国ドラマ初出演！イ・ドンウク×キム・ヘジュン「殺し屋たちの店」シーズン2製作決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d504656d331d9edd1645349a545399ecf6078335>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000150-sanspo-000-2-view.jpg?pri=l&w=192&h=140&exp=10800&fmt=webp> 【皐月賞】ミュージアムマイル豪脚1冠　モレイラ騎手、史上初6人目桜花賞→皐月賞連勝「パドックでまたがった瞬間に力強さを感じた」
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ae75fee231a231429f8bc4099b1540d93f359f3f59d2f6049ce1138430a69eb4.jpg> ガザで救急車攻撃「誤認」と発表
+      <a href=https://news.yahoo.co.jp/pickup/6536170>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/4329d5c4fbf005a5a8121673c0f3883769c7b8a5fd729cd75978b2b4fe31704f.jpg> 小学生の自殺 4～6月リスク高まる
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/cf36ab8f7a5c549bd959bee8e55ba32d14646b0ee5bd7a309b1e5bf99c684806.jpg> 園では無言の外国の子 名前呼んで
+      <a href=https://news.yahoo.co.jp/pickup/6536174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ca0fb45400756892afb8eeacfe365cf7e59bde2f7258bf98fb10726cb78dcc6a.jpg> 日本海側のアニサキスに異変 なぜ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ca0fb45400756892afb8eeacfe365cf7e59bde2f7258bf98fb10726cb78dcc6a.jpg> 日本海側のアニサキスに異変 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6536178>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/03f32857ac9fd0572a1376c4686cd0275a4ea552c99624e5aa899b86779d01c7.jpg> アフタヌーンティーの皿 なぜ3段
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/a89d9ada081f845a338620de44f24b45a911257e373ae0e9ceefa077aa37274e.jpg> 安田顕演じた源内に反響 演出裏側
+      <a href=https://news.yahoo.co.jp/pickup/6536181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/3c279bcb4c8e49efcc17d213f042e3abd55a4eedbab6e867ea44ecb38ecade93.jpg> 岡田将生 海外のドラマに初出演
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536165>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/61150cee0fb1b03bbed6245250a121970a6d6b4da538b9b6342f67ca8cec4c15.jpg> 過酷 柄本明が車で3200kmの旅
+      <a href=https://news.yahoo.co.jp/pickup/6536182>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/a89d9ada081f845a338620de44f24b45a911257e373ae0e9ceefa077aa37274e.jpg> 安田顕の平賀源内に反響 演出裏側
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 10:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 10:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
