@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e9b3e4015713e4d6accf08304349e074.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4501ec3919eab59989915d1634a4e645.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4fad552bc2673352158be058d4d1a046f71e6f08>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-01988124-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 台湾・頼清徳総統、フランシスコ教皇の死去受けSNSで追悼コメント　バチカンは欧州で唯一、台湾と外交関係を維持
+      <a href=https://news.yahoo.co.jp/articles/981a0807885f8ca0b8d5be85056353849224b510>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00060151-bbmv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=899&ch=899&exp=10800&fmt=webp> “アントニオ猪木の右腕”新間寿さんが享年90で死去…モハメド・アリ招聘、タイガーマスク誕生、IWGP誕生、WWE殿堂入り【週刊プロレス】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3cba714a3cde3d29ea44f80af0eaaffafb580388>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010003-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 チャンス拡大の四球を選びチームに貢献 ロバーツ監督「父親になったので120マイルぐらいの打球速度を出すのでは」
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e1638c4152cf42d85cc3010b0e6fda51f4fd300b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=372&cy=0&cw=1457&ch=1457&exp=10800&fmt=webp> ドジャース大谷翔平 産休から復帰後に即先発出場！ 父親としての初陣は無安打も勝利に繋がる四球を選ぶ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4c483efe314132353cdf6bbe982df6def7dd437>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「復活祭停戦」不発　ロシア軍が本格攻撃再開　ウクライナ
+      <a href=https://news.yahoo.co.jp/articles/aa8cd45ddf23bfc95e347e49fc65e776aff42e2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-21868751-utyv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=405&ch=405&exp=10800&fmt=webp> 夏の参院選へ　逆風の中の自民党は着々と準備　一方、野党は共闘には ほど遠い現状　山梨
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/4ebafb6160d63b9e384a279efd78af874aa8a25476698476ade736762b21da20.jpg> エスコン ギネス世界記録に認定
+      <a href=https://news.yahoo.co.jp/pickup/6536250>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/d2cf9de931c65d8238af564161c1f763491f26e716c4a51567ee4eed675179b2.jpg> 山手線で爆音 投稿のドイツ人直撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536251>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ddab8663e01692c7d49cc3ab82fa06ac78fe96ce9ecb2065a4db53f3fa9159a0.jpg> セリエA全試合延期 教皇死去受け
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536237>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/5cff7a7c30c0c0721d900769d05cd08d4e1820995a120a180ffcdea92f6f64c3.jpg> 彬子さまANN第一声 ごきげんよう
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 22:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 22:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
