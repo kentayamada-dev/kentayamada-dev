@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/04c3296a556b5258684885c6dc297444.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6205fd5bdad20e4fda5eecaf09a6b96f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aea734e568de664351ac149657ca575ccb94b7b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00050862-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> ８歳娘に食事与えず入院させ共済金詐取の罪　母親に執行猶予付き判決　詐欺などは「無罪」判決　大阪地裁
+      <a href=https://news.yahoo.co.jp/articles/ab848f5f7a949c413ab4fcedb804a1a7ff859c3d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000053-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=501&ch=501&exp=10800&fmt=webp> 【イベントレポート】SUPER EIGHT大倉忠義が鳥貴族と親子コラボ「父親が自分を選んでくれたことを誇りに思います」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2bc24d543890e7762ecf9580dad1ef2318186eab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000031-ann-000-1-thumb.jpg?exp=10800&fmt=webp> “イースター停戦”けさ終了 ウクライナは「延長」を提案
+      <a href=https://news.yahoo.co.jp/articles/babeb6447335be44af7ec47a212248b4d71447a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174716-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=598&ch=598&exp=10800&fmt=webp> トランプ氏 非関税障壁で「ボウリング球落とす日本の検査」を指摘
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/110448c3f6f33da724ec25798dd52a17a3ac885d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174342-abemad-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「こいつ、動くぞ！」をシャア風に言うと？「ガンダムジークアクス」で描かれるアムロ不在の世界線
+      <a href=https://news.yahoo.co.jp/articles/2b14562616ba870659a8bfaf902265858c5e783b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174355-abemad-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「びっくりするくらい重要なとこ端折った？」TV版「ガンダムジークアクス」の大胆な編集に視聴者驚愕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a9008be81e538dbfce82ac47bfb1683c4f659bd2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000081-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=592&ch=592&exp=10800&fmt=webp> クリミアのロシア領承認を提示か　米国、ウクライナに和平案
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9065e01e465ceb62a82c24b17fdf3cf7ffc5e0af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-07231747-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 非関税障壁の具体例に「日本のボウリング球テスト」 トランプ大統領　自動車の厳しい安全基準に不満か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536200>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/15a0b4f108deac8e2b9bcf7db71fb20617fc8ea732bb7c572582211f0ac21cee.jpg> 今後の政権「自公継続」14% 調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536177>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 世界のレアメタル供給 低水準続く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536192>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c3e789c70438d2fb8d85ce0a4e97d65118296e0ad908d70f7cce8251a3609079.jpg> 円相場 一時1ドル140円台に突入
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/00014596e4027baad53b29acca9646d11eba284e7d20a418bfb1978c207e4861.jpg> 首相 関税巡り中小企業支援の方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536194>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/70853c3eb5fb3428e77b46640ca7831dbfac19cb885bf9ea3caa47eaee313c99.jpg> 娘入院させ共済金詐取は無罪 地裁
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536199>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanigashirakazuki/02178018/title-1745081686049.jpeg?exp=10800> 高級店に天ぷら専門 回転ずしの今
+      <a href=https://news.yahoo.co.jp/pickup/6536185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ba077bbbf01cd3fdb20c3ceaf093963a8e5cc923e336084f7896baa14b972729.jpg> 大谷は「積極的過ぎた」ド軍監督
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ba077bbbf01cd3fdb20c3ceaf093963a8e5cc923e336084f7896baa14b972729.jpg> 大谷は「積極的過ぎた」ド軍監督
+      <a href=https://news.yahoo.co.jp/pickup/6536201>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/a0ffaf16d2ae3ca5684d522badc2a5ffab6847d3af559137bc9c395b979b04f0.jpg> 大倉忠義 鳥貴族創業の父と初共演
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 12:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 13:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
