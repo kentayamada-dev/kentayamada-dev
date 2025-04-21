@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1393f0d2df8ae049dc296fd496eafae1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bcb1896a45cd8f2904a471f2b9ae28a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76e64418e4785e7841d30a603fb24a319f1c63c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000051-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=818&ch=818&exp=10800&fmt=webp> 日本テレビ社長、「月曜から夜ふかし」BPO審議入りに言及「重く受け止めている。真摯に対応する」
+      <a href=https://news.yahoo.co.jp/articles/d708ae02b7f6cd5374a16314fefc712763db7a13>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-04211105-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=740&ch=740&exp=10800&fmt=webp> 巨人が２年ぶりトップの平均７８００万円　１２球団平均は過去最高の４９０５万円　プロ野球選手会が年俸調査結果発表
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1232429829071f4b8adce10fdd4171a39267ece>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34210564-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=1449&ch=1449&exp=10800&fmt=webp> 大谷翔平、終始笑顔のオンパレード　「ダディ１号」お預けも決勝点アシスト、一気に上昇気流へ
+      <a href=https://news.yahoo.co.jp/articles/a04c0313bcd2629242722dafaef7999dd8359fcf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-03529384-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> “日本は車にボウリング球落とす試験”トランプ大統領が事実と異なる主張
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20ff3e91a5c2ae6181d6204a3131a404572ba02d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000026-ann-000-9-thumb.jpg?exp=10800&fmt=webp> トランプ大統領の交渉参加に石破総理「想定をかなり超えておった」
+      <a href=https://news.yahoo.co.jp/articles/d1232429829071f4b8adce10fdd4171a39267ece>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34210564-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=1449&ch=1449&exp=10800&fmt=webp> 大谷翔平、終始笑顔のオンパレード　「ダディ１号」お預けも決勝点アシスト、一気に上昇気流へ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/2042f3578653f34627bf56ae410aa96506d5b9c1e6ed6f6bfd93b55c55ba9265.jpg> シニア急増 リゾートバイトの魅力
+      <a href=https://news.yahoo.co.jp/pickup/6536215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/672aab0cd6566cbd25ac8d5036e1d7d844002c5be5a0e1bf94f3c50abed6c491.jpg> UberEats 13歳から注文可能に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/1230b8ad99c129c44a0df03f6013840481c2573a04033655e7140e86e086098c.jpg> 一発撮りで白米食べ切る動画 反響
+      <a href=https://news.yahoo.co.jp/pickup/6536209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/2042f3578653f34627bf56ae410aa96506d5b9c1e6ed6f6bfd93b55c55ba9265.jpg> シニア急増 リゾートバイトの魅力
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 15:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 16:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
