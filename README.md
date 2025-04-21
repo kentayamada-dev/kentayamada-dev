@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d63d2d338cc02e15452b1d56e158ad48.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9f6e7b7711ca20bdb3c0134dbf38f6e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f262c917ac2121a3b21ba1bfb9896640ff48fcfd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00341794-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 〝大谷翔平パパ〟世界中で報道された！　ＣＮＮが異例中の異例報道　英ガーディアン紙も！　
+      <a href=https://news.yahoo.co.jp/articles/7878bb72c1d663c4eb17e634e6569cd839faf845>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-90023148-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “30時間停戦”終了　プーチン氏「延長しない」　トランプ氏へアピールか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ebad5ad1ee80f3961032524ef8403bf65521777>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000005-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=354&cy=0&cw=1340&ch=1340&exp=10800&fmt=webp> ロシア・ウクライナ、復活祭休戦めぐり非難の応酬 トランプ氏は「今週の合意」予想
+      <a href=https://news.yahoo.co.jp/articles/c8cee17e22819f47a943a0d2dda63ba94cdbae9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000142-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1051&ch=1051&exp=10800&fmt=webp> 大谷翔平パパをド軍レジェンドOBが心配！？「睡眠不足に…10時間に減らさないと」現地実況笑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8be9d7fd3ecc7d0cd34d9f3fd6e25636f762034>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000010-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=631&ch=631&exp=10800&fmt=webp> ボウリング球落として検査?　トランプ氏、日本の非関税障壁に難癖
+      <a href=https://news.yahoo.co.jp/articles/9065e01e465ceb62a82c24b17fdf3cf7ffc5e0af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-07231747-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 非関税障壁の具体例に「日本のボウリング球テスト」 トランプ大統領　自動車の厳しい安全基準に不満か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/461e91829f135f51f6fd57a50570098b4b29c8a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000099-kstylens-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岡田将生、韓国ドラマ初出演！イ・ドンウク×キム・ヘジュン「殺し屋たちの店」シーズン2製作決定
+      <a href=https://news.yahoo.co.jp/articles/25972a9ae8ba121d5fe261301441e635263c84cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000139-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=938&ch=938&exp=10800&fmt=webp> 「ヒーローになる必要はない」劇的サヨナラ打のエ軍アデル　トラウトからかけられた一言に「泣ける」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536168>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/062ae685ed44df74edf33e6f7c72f74b2faddd58b428de8f0d4e1be0ec3948ef.jpg> きょう夏日続出の予想 熱中症注意
+      <a href=https://news.yahoo.co.jp/pickup/6536183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/b5ff257574f0099e1302c278e34b9491f6d3106a06f76ba7f41161df968f2eaa.jpg> トランプ氏 非関税障壁に難癖か
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/f33d7115017c9f5477003593038d53e205d1878656b3b8ff77f9ff311108162c.jpg> 名前の読み方確認 全国民に通知へ
+      <a href=https://news.yahoo.co.jp/pickup/6536176>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/dbe7a0145e0cbcf1dbf956963b188a20fd1a663fbaf7e1e49962069bac1c2bcd.jpg> GWに学校休み旅行 教育現場の声
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536178>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/03f32857ac9fd0572a1376c4686cd0275a4ea552c99624e5aa899b86779d01c7.jpg> アフタヌーンティーの皿 なぜ3段
+      <a href=https://news.yahoo.co.jp/pickup/6536184>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/d272a7d3323cca4edcfb901e0221b9e4205e283708ed64ac46faba2ced4da7bb.jpg> 若者であふれる店 しゃぶ葉の戦略
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ba077bbbf01cd3fdb20c3ceaf093963a8e5cc923e336084f7896baa14b972729.jpg> 大谷は「積極的過ぎた」ド軍監督
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536182>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/a89d9ada081f845a338620de44f24b45a911257e373ae0e9ceefa077aa37274e.jpg> 安田顕の平賀源内に反響 演出裏側
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 10:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 11:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
