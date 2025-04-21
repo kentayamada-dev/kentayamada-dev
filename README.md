@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2cf31787088122833c06e27ef85464b8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a0eb48e766e5f692992f91ac6da2e7d4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d22efea26013211812f85f87ac49b5cdd0c72d03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34210239-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=1328&ch=1328&exp=10800&fmt=webp> 久保建英、敵地でブーイングを受けるも臆することなく決定機演出　２試合連続スタメン
+      <a href=https://news.yahoo.co.jp/articles/d7eb35148b16c5ce4bdd5ba962d2b28f3e655cc8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00527543-theanswer-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 現役続行か否か、揺れる金メダリスト角田夏実　最軽量48kg級から無差別級挑戦で再確認「やっぱり柔道が好き」
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5352946508ea3e481144081ee5899862311e627b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-01739841-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> パパ・大谷翔平にド軍監督の期待　“人生の先輩”が語る好循環「考え方が成長する」
+      <a href=https://news.yahoo.co.jp/articles/a0df600c76a2b61847e5e125433a0e62c4de821f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000002-mynavin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『べらぼう』“平賀源内”安田顕の早口演技の狙い「天才的ということだけではなく…」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9a93b565c4cca56b233177268e0c87ccc5a8b66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34201793-nksports-000-3-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> 【柔道】異例挑戦の角田夏実「私って柔道が好きなんだな」悩める胸中複雑に「自問自答したい」
+      <a href=https://news.yahoo.co.jp/articles/53ed288e1387c83bf633963e144e0dd86480580a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-04211028-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 大谷翔平、復帰初戦は勝利運ぶ１四球　ロバーツ監督「少し気負いすぎていた」　“パパ１号”はＶＳ今永昇太で
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536163>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/15438891312f792b84c760a206fd0546f06134f2d1c37974bf81d16e4dd18b18.jpg> トランプ氏 露ウ「今週合意」期待
+      <a href=https://news.yahoo.co.jp/pickup/6536161>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ae75fee231a231429f8bc4099b1540d93f359f3f59d2f6049ce1138430a69eb4.jpg> ガザで救急車攻撃「誤認」と発表
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536172>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/f33d7115017c9f5477003593038d53e205d1878656b3b8ff77f9ff311108162c.jpg> 名前の読み方確認 全国民に通知へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ae75fee231a231429f8bc4099b1540d93f359f3f59d2f6049ce1138430a69eb4.jpg> ガザで救急車攻撃「誤認」と発表
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/48b8587397d04a2a4c65438a2e984f57b11ec734f4a3212101c1009af0627dc9.jpg> オリオールズが本拠で記録的大敗
+      <a href=https://news.yahoo.co.jp/pickup/6536175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/b7af463dd03ab1e6a3444a533aa4af4eec0e00f7f6c782fbb24c406425be5223.jpg> MF久保建英「地獄」チームに苦言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/a89d9ada081f845a338620de44f24b45a911257e373ae0e9ceefa077aa37274e.jpg> 安田顕演じた源内に反響 演出裏側
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 09:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 10:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
