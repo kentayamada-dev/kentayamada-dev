@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/535d77222f8c1d7cd991a8bc3de73189.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/75967d3ef49229f67d8dca242aa3f2be.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0dd0e6de90276bed93c8a771a956211449b9b2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローマ教皇、死因は脳卒中　遺書で簡素な埋葬希望
+      <a href=https://news.yahoo.co.jp/articles/904715bcf558af877e97ad227363941f64c58d36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-07231967-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ローマ教皇フランシスコ（88）死因は脳卒中や心不全などとローマ教皇庁が発表　突然の別れに悲しみ広がる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5daac3d6ea14bad572a02cf60cb0935cb2561e15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-04211237-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の“パワーアップ"をロバーツ監督予言「父親になることで得られる資質もある」“産休”から復帰初戦でパパ１勝
+      <a href=https://news.yahoo.co.jp/articles/4c9f1685ba9a4c1fd9c64e0ab01248c801676feb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-08936134-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> フランシスコ教皇、88歳で死去…世界中で追悼　日本でも説教
       </a>
     </td>
   </tr>
@@ -378,16 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536261>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/2a716247fda59c25fcceaf703587158e95ae5a873d856e670ab16a84e929f9f7.jpg> 教皇死去 前日は復活祭のミサに姿
+      <a href=https://news.yahoo.co.jp/pickup/6536255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/8454c4f7e3f2aafc79fd66f7b28b95356fde62da613cbc74af448132aab0bba0.jpg> 米国産米の輸入拡大案 政府内浮上
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536255>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/8454c4f7e3f2aafc79fd66f7b28b95356fde62da613cbc74af448132aab0bba0.jpg> 米国産米の輸入拡大案 政府内浮上
+      <a href=https://news.yahoo.co.jp/pickup/6536262>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/2354649dd6fa08567c4dcb47750aabce641ee4e1396e3e30ea2f39b81e97f997.jpg> ローマ教皇「簡素な墓」望む遺言
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 06:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 06:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
