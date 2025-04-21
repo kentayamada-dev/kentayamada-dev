@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6205fd5bdad20e4fda5eecaf09a6b96f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e8319440b73cd7e90114dd78ed3312bd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab848f5f7a949c413ab4fcedb804a1a7ff859c3d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000053-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=501&ch=501&exp=10800&fmt=webp> 【イベントレポート】SUPER EIGHT大倉忠義が鳥貴族と親子コラボ「父親が自分を選んでくれたことを誇りに思います」
+      <a href=https://news.yahoo.co.jp/articles/9890e3e0ff3db96dc27751b4b64ba36e4709d43c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000001-maikirei-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ＜桐谷美玲＞鮮やかスカートコーデでイベント登場　「ビタミンを吸収している気分に」
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/babeb6447335be44af7ec47a212248b4d71447a5>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174716-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=598&ch=598&exp=10800&fmt=webp> トランプ氏 非関税障壁で「ボウリング球落とす日本の検査」を指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b14562616ba870659a8bfaf902265858c5e783b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174355-abemad-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「びっくりするくらい重要なとこ端折った？」TV版「ガンダムジークアクス」の大胆な編集に視聴者驚愕
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536195>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/4815fbd321d45f5414c92c0678a8fbd4416f0f90a5325101829f27f81490b0fa.jpg> マネーフォワードなど 新銀行検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536198>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/79ba5fc0abe519e13e03e6afe6c5eaad4fa359e58d946d6e630248f131a0d98f.jpg> 日本のビザ取得 中国人の相談殺到
       </a>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536196>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/koarairyo/02178858/title-1745141172296.jpeg?exp=10800> コナン映画ロケットスタート 背景
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 13:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 13:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
