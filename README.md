@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a776ee670d55f25a5bad6928c81a194a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86977c34dc49c311a80405db00a5e28d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85f139dcbf2f5f5eef9d8c378fdd29a168f59658>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000009-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フランシスコ教皇の死因は脳卒中に続く心不全　遺書も公開　簡素な墓を要請
+      <a href=https://news.yahoo.co.jp/articles/d2fcd6c6f43ed865a410abf7e29a47c8dc3ef640>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-01739809-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平に異例対応　“格付け”でもまさかのお祝い「親になるって本当に素晴らしいこと」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8ed9da04f28a75bb2f348f54560e0f7e9a0edd6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-10174837-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=406&cy=0&cw=781&ch=781&exp=10800&fmt=webp> ローマ教皇 死去 世界各国から追悼の声
+      <a href=https://news.yahoo.co.jp/articles/64e1353eba05b601008f3a1fd7952f0edd3a9f08>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000015-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ローマ教皇死去で後継者選びへ、非欧州系・進歩派の路線踏襲されるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c30116111bd968d4a6b25b3ca1f980eeae427f96>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00527660-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、長女誕生で際立つ“異常さ”「信じられない」　たった2日で…米驚愕「マシーンだ」
+      <a href=https://news.yahoo.co.jp/articles/f6c04c47945b2553362e988bb6d6dccb592d0066>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> バチカンで信者ら祈り　ローマ教皇、死因は脳卒中
       </a>
     </td>
   </tr>
@@ -386,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536267>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c378936e694872c71f74708972b98722a1ec058ecde6c79e55f7935d724b9258.jpg> 教皇死去 石破首相が談話を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536266>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/3b4a8f96ca413b3a530be1984ce7d7e3fe5fd4bb9651560fc0c3c5633286c249.jpg> NYダウ 一時1300ドル超の下落
       </a>
@@ -394,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536262>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/2354649dd6fa08567c4dcb47750aabce641ee4e1396e3e30ea2f39b81e97f997.jpg> ローマ教皇「簡素な墓」望む遺言
+      <a href=https://news.yahoo.co.jp/pickup/6536264>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/ad9e5db98cd55d90c92261720f50b17dd8f011fbe19ffc0924e9830415ec703f.jpg> ガソリン価格 1L10円引き下げへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536264>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/ad9e5db98cd55d90c92261720f50b17dd8f011fbe19ffc0924e9830415ec703f.jpg> ガソリン価格 1L10円引き下げへ
+      <a href=https://news.yahoo.co.jp/pickup/6536271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/aed251e141cf822d946bf3355c27e24f940493ef601c377184db705375e42c9c.jpg> 都区部の「家賃」30年ぶり上昇率
       </a>
     </td>
   </tr>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/09966f7bf9cecf828de70df62b0a148e0a939db76dddeb20bc81fb7c2003be9d.jpg> 都庁が「観光地化」連日の大行列
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536263>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c243bddc0d93e67eaa59d3e54af29b57152ec59d8275299312d64c1e8fa05e03.jpg> 160万円階段昇降機 中学が誤廃棄
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536269>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/fd5edafc42643427df184001dd16adba7e8cc11ebc3fb8cf800a13826b8c5bab.jpg> 山口崇さん死去 肺がんの症状とは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536265>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/38f71322f5d3e547fea700e53214180b2af6b3e18d323381ce88bf4dc121de48.jpg> TOKYO MX「AIカルテ」報道訂正
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 07:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 08:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
