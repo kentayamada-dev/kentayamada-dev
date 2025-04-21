@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bcb1896a45cd8f2904a471f2b9ae28a8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f7bd1c14e6cf4cc2776d854a96c18093.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d708ae02b7f6cd5374a16314fefc712763db7a13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-04211105-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=740&ch=740&exp=10800&fmt=webp> 巨人が２年ぶりトップの平均７８００万円　１２球団平均は過去最高の４９０５万円　プロ野球選手会が年俸調査結果発表
+      <a href=https://news.yahoo.co.jp/articles/3a760ebf06b4d13b14777c41a04f469786923b5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-04549137-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 「ダウンタウンDX」終了を発表 32年の歴史に幕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2c8780ff4ef6649103ccaca85f3a21e6ac7de39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアがウクライナに攻撃再開、復活祭停戦終了　各地で空襲警報
+      <a href=https://news.yahoo.co.jp/articles/c2937896cf38bd9f6de2ee8fcf0df93e8839263c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00014660-agara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=921&ch=921&exp=10800&fmt=webp> 維新が浦平県議を擁立　立憲との「予備選」も、次期参院選和歌山選挙区
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83c7dbdff5f2751ba1e6fd0ea1da57035d22bb6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010000-wakayamav-000-2-thumb.jpg?exp=10800&fmt=webp> 参院選和歌山選挙区 日本維新の会 和歌山県議会議員の浦平美博氏 立候補表明
+      <a href=https://news.yahoo.co.jp/articles/bf4090f1923dc19645a43c357edf1b2bedca0532>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000026-jij_afp-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ロシア、イースター休戦後に空爆再開 ウクライナ発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a04c0313bcd2629242722dafaef7999dd8359fcf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-03529384-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> “日本は車にボウリング球落とす試験”トランプ大統領が事実と異なる主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1232429829071f4b8adce10fdd4171a39267ece>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34210564-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=7&cy=0&cw=1449&ch=1449&exp=10800&fmt=webp> 大谷翔平、終始笑顔のオンパレード　「ダディ１号」お預けも決勝点アシスト、一気に上昇気流へ
+      <a href=https://news.yahoo.co.jp/articles/92946217ad096725db903dd38e01db571b1e709d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-07231787-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日米関税交渉めぐり国会論戦　石破総理「整合性に重大な懸念」赤沢大臣「トランプ氏の帽子被っても政治的なメッセージにはならない」
       </a>
     </td>
   </tr>
@@ -426,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536205>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/198b0061ff598e36e92a5ecd21a2e74b5d9d0436ba1e74b7f28bb80e4f638672.jpg> 新生児取り違え 都に親の調査命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536215>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/672aab0cd6566cbd25ac8d5036e1d7d844002c5be5a0e1bf94f3c50abed6c491.jpg> UberEats 13歳から注文可能に
+      <a href=https://news.yahoo.co.jp/pickup/6536214>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/b1834ae1d20fc8b10ab887110a1b87e1c9ee9bd09ce4f98e9abe53e85690005f.jpg> アイリスオーヤマ 米国生産増強へ
       </a>
     </td>
   </tr>
@@ -450,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/57ebf24f6d766741f2d8e97c572acc2c3bbfe36aa2207f0833505a74e2d142b0.jpg> 俳優・山口崇さん死去 88歳
+      <a href=https://news.yahoo.co.jp/pickup/6536216>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/2aee48092370cd8ead08aa7c8984d7eab438bfd958e53f207526b9f778d88bb3.jpg> NPB平均年俸 巨人2年ぶりトップ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/3b235392f7b1d83577cba184ad64419bfa8becd011f7ea229bd7cee51719350e.jpg> 日テレ「夜ふかし」打ち切り否定
+      <a href=https://news.yahoo.co.jp/pickup/6536217>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/18cbb7fd8cd31121fb42e304ade94c88eef8574232042babd16644645fdedfe5.jpg> 「ダウンタウンDX」終了を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/57ebf24f6d766741f2d8e97c572acc2c3bbfe36aa2207f0833505a74e2d142b0.jpg> 俳優・山口崇さん死去 88歳
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 16:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 16:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
