@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/008c1129eda1e58af6246fad20090fb3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b6e085275b5f73bbec8259b8548d2e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c3587bc9b0695ec1d4ddae09a17094ebf3a37d19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア国防省、戦闘再開を発表“30時間の停戦期間が終了”
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-07577564-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=427&ch=427&exp=10800&fmt=webp> ロシア国防省、戦闘再開を発表“30時間の停戦期間が終了”
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/34108b0284958ada95749807a086b54a7aa5317b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-03931949-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フランシスコ教皇死去　88歳　ローマ教皇庁が発表
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-03931949-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> フランシスコ教皇死去　88歳　ローマ教皇庁が発表
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536214>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/b1834ae1d20fc8b10ab887110a1b87e1c9ee9bd09ce4f98e9abe53e85690005f.jpg> アイリスオーヤマ 米国生産増強へ
+      <a href=https://news.yahoo.co.jp/pickup/6536223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/4295b5d24788228cf74b769af7a353e144dd85a6a4f847931ee8e00f788536ee.jpg> 相次ぐ銅窃盗 AIブームで需要増か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/2042f3578653f34627bf56ae410aa96506d5b9c1e6ed6f6bfd93b55c55ba9265.jpg> シニア急増 リゾートバイトの魅力
+      <a href=https://news.yahoo.co.jp/pickup/6536220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/d02598db011b554ae212b4a3a70367a84827a51c11af7ad6ccf5c17c9e28ac36.jpg> 韓国が日本にコメ20トン輸出へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 17:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 18:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
