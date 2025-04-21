@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/daa4858ababc1602b1e3aa684c62dad4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/535d77222f8c1d7cd991a8bc3de73189.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5daac3d6ea14bad572a02cf60cb0935cb2561e15>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-04211237-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の“パワーアップ"をロバーツ監督予言「父親になることで得られる資質もある」“産休”から復帰初戦でパパ１勝
+      <a href=https://news.yahoo.co.jp/articles/c0dd0e6de90276bed93c8a771a956211449b9b2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローマ教皇、死因は脳卒中　遺書で簡素な埋葬希望
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa3e6cc6b34ff1822a547ffb4f445e380aa41d51>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000005-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=440&ch=440&exp=10800&fmt=webp> ローマ教皇の死因は脳卒中による心不全　「簡素な墓」を望む遺言も
+      <a href=https://news.yahoo.co.jp/articles/5daac3d6ea14bad572a02cf60cb0935cb2561e15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-04211237-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の“パワーアップ"をロバーツ監督予言「父親になることで得られる資質もある」“産休”から復帰初戦でパパ１勝
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 05:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 06:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
