@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5cc153ce09e132d805ef636b130b2197.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6b4eed8c81ea0fd8705489fb4bed58bf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/863a3944fad2fe168e91f472aa6e21dd521a3ca3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000046-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=617&ch=617&exp=10800&fmt=webp> 握った手は温かく 「核廃絶へ勇気」　長崎の被爆者、ローマ教皇悼む
+      <a href=https://news.yahoo.co.jp/articles/14c7428e08925d5984baf6b3e4a75b8a9e55f81a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000075-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フランシスコ教皇が88歳で死去　前日まで復活祭のミサ　核廃絶や和解を世界で訴え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f570191c56b4af68771e95552e143eee38b5759>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-09574544-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=1&cw=640&ch=640&exp=10800&fmt=webp> 宇多田ヒカル、サプライズでアメリカ最大級の音楽フェスに出演　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/acc3941a40f0e5d2baaffa441b141c2a8e45f984>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000058-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 米国産米の輸入拡大案が浮上　関税交渉巡り　政府、来週にも提示検討
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e1638c4152cf42d85cc3010b0e6fda51f4fd300b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=372&cy=0&cw=1457&ch=1457&exp=10800&fmt=webp> ドジャース大谷翔平 産休から復帰後に即先発出場！ 父親としての初陣は無安打も勝利に繋がる四球を選ぶ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7229fe20bbfdf1a38698e6d091bc4c22b3ba8e27>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-90023192-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 宇多田ヒカル3年ぶりにアメリカ・コーチェラ・フェスにサプライズ出演
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf0f1c77994fc5ebf26175f6e94d127258513488>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000017-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> コメの価格が15週連続値上がり…さらに「トランプ関税」でどうなる北海道のホタテ・コメ・長イモ　アメリカがコメや大豆などの輸入拡大を求めてくる懸念も
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536210>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/d793d0ba46cd6f5a23a94e40a9f1c6c2f9f9617964083a0d36aebe9d4cdd4281.jpg> ASEAN各国 米国と中国で板挟み
+      <a href=https://news.yahoo.co.jp/pickup/6536246>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/f8067583f067f60ae24fe004b7e526517f9587aee2d6dfe2345ea811f60c9c62.jpg> 政府 米関税交渉への体制を強化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536227>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/727a40a4aa569bbbaeb273723aa8f350475189f844d43759825a7c06ad4878d5.jpg> スーパーの米 15週連続で値上がり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536232>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/dcf47a136c61c5afcfa89f859fb55029d798f9dc28fbd1ffd8b11ca13b5e52e4.jpg> 辞職勧告の姫路市議 続投を表明
+      <a href=https://news.yahoo.co.jp/pickup/6536244>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 中国で日本人男児刺殺 死刑執行
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536241>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/6cd4362740c48f8055da52a525dd41bf647d7d7fb1ca61e9e6ac29bbd5949d2a.jpg> 暴力団・宅見組長宅を差し押さえ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/36e155efa223fb36f67f786315b9ce266d0e90b5ccfe32ae683660df90f7da08.png> ABCマート 社外取に榎本加奈子氏
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 21:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 21:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
