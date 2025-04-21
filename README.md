@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/75967d3ef49229f67d8dca242aa3f2be.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eae96c0aa82960a17e3f00bbc34d9a81.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/904715bcf558af877e97ad227363941f64c58d36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-07231967-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ローマ教皇フランシスコ（88）死因は脳卒中や心不全などとローマ教皇庁が発表　突然の別れに悲しみ広がる
+      <a href=https://news.yahoo.co.jp/articles/c30116111bd968d4a6b25b3ca1f980eeae427f96>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00527660-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、長女誕生で際立つ“異常さ”「信じられない」　たった2日で…米驚愕「マシーンだ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c9f1685ba9a4c1fd9c64e0ab01248c801676feb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-08936134-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> フランシスコ教皇、88歳で死去…世界中で追悼　日本でも説教
+      <a href=https://news.yahoo.co.jp/articles/998520e51d771e30578ddccd986f928870e62f7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=362&ch=362&exp=10800&fmt=webp> どこでも低いところへ足を運んだ…フランシスコ教皇死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/904715bcf558af877e97ad227363941f64c58d36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-07231967-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ローマ教皇フランシスコ（88）死因は脳卒中や心不全などとローマ教皇庁が発表　突然の別れに悲しみ広がる
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536244>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/1360b552398fe7b29ae0073b84a19d44b8b259a4626b2db6a5c1a1558464637a.jpg> 中国で日本人男児刺殺 死刑執行
+      <a href=https://news.yahoo.co.jp/pickup/6536264>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/ad9e5db98cd55d90c92261720f50b17dd8f011fbe19ffc0924e9830415ec703f.jpg> ガソリン価格 1L10円引き下げへ
       </a>
     </td>
   </tr>
@@ -418,24 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/36e155efa223fb36f67f786315b9ce266d0e90b5ccfe32ae683660df90f7da08.png> ABCマート 社外取に榎本加奈子氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c5f3ae0e14980b76675639ede1d53fee88e16d75a5b12e558e29817e418c0177.jpg> 八代亜紀氏アルバム発売 地元怒り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536250>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/d2cf9de931c65d8238af564161c1f763491f26e716c4a51567ee4eed675179b2.jpg> 山手線で爆音 投稿のドイツ人直撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536263>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c243bddc0d93e67eaa59d3e54af29b57152ec59d8275299312d64c1e8fa05e03.jpg> 160万円階段昇降機 中学が誤廃棄
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536265>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/38f71322f5d3e547fea700e53214180b2af6b3e18d323381ce88bf4dc121de48.jpg> TOKYO MX「AIカルテ」報道訂正
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 06:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 07:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
