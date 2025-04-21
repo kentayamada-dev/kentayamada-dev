@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ab1ad4261e5ec8ecbfb60ef7efb5052.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0e8d508e1d3104b99b1214a84112d1a1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d39b330dc833fa9d5c40e76c9426e94e07df4456>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000092-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=820&ch=820&exp=10800&fmt=webp> 「多数派によるいじめ」辞職勧告された姫路市議が会見で持論訴え　SNSで県警が削除要請
+      <a href=https://news.yahoo.co.jp/articles/8a4a377d134d9ed17343416ebdd3c8027821247f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010007-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「トランプ大統領という“王様”の機嫌を損ねないように」　日米関税交渉の行方を有識者解説　ポイントはやはり自動車か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3373f7cb552631cd34b3f6db7c008e3054022be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローマ教皇フランシスコ死去　長崎訪問時には核兵器廃絶を訴え
+      <a href=https://news.yahoo.co.jp/articles/f431027d5d3e63bcd3c0b6721d7c39fb2b140753>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-90028481-tssv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=433&ch=433&exp=10800&fmt=webp> ローマ教皇フランシスコ死去　平和公園で「核兵器なき世界」実現を訴える　広島でも悲しみ広がる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bf78dca3969e41df9f4d7dd8b2e803c3a4c46f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000059-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏へのメッセージか　プーチン氏“停戦宣言”狙いは？
+      <a href=https://news.yahoo.co.jp/articles/c99e3f942951040abfff04d7f38b0e15ca9fde60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174762-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 大谷翔平、“父親リスト”復帰初戦で敵地からも大歓声…相手捕手との“小粋な”やり取りも話題「おめでとうとか声かけたのかな？」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58f24665150e76a1481628acf2656e1d7165f698>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-06789345-sdt-000-1-thumb.jpg?exp=10800&fmt=webp> 【交渉の舞台裏】「日本との間の貿易赤字をゼロに」と迫ったトランプ大統領…関税巡る「日米関税協議」で何が？
+      <a href=https://news.yahoo.co.jp/articles/23985d5caff7a5aae651097b8477e96e6a528210>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000055-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 『ダウンタウンDX』終了、「2人の意向」が理由で存続危ぶまれる「抜群の人気番組」次回予告はついに浜田の“姿なし”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/393094439bc802cb536243e77ea104af9dc876d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00960862-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「父親として出場する最初の試合です」大谷翔平3試合ぶりチーム合流“パパで初勝利”3打数無安打も四球出塁で決勝点を演出!
+      <a href=https://news.yahoo.co.jp/articles/b4c483efe314132353cdf6bbe982df6def7dd437>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「復活祭停戦」不発　ロシア軍が本格攻撃再開　ウクライナ
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/172b78f742bc4a139521d7fda3d3567c489be60ec4783dcca40100fbccd449ee.jpg> GW前半は晴天続く 沖縄は雨か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536223>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/4295b5d24788228cf74b769af7a353e144dd85a6a4f847931ee8e00f788536ee.jpg> 相次ぐ銅窃盗 AIブームで需要増か
+      <a href=https://news.yahoo.co.jp/pickup/6536228>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/bb68ccf31244fbb7369b02da04afb8bc9d9bcd4e35035e5abfe1449b61de73d1.jpg> 改姓望まず事実婚選択が3割 調査
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536220>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/d02598db011b554ae212b4a3a70367a84827a51c11af7ad6ccf5c17c9e28ac36.jpg> 韓国が日本にコメ20トン輸出へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536232>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/dcf47a136c61c5afcfa89f859fb55029d798f9dc28fbd1ffd8b11ca13b5e52e4.jpg> 辞職勧告の姫路市議 続投を表明
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536217>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/af3945f64f7b48be2a72c704227d484811e40dbbb290122daa6cb7b9da07692e.jpg> 「ダウンタウンDX」終了を発表
+      <a href=https://news.yahoo.co.jp/pickup/6536234>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/8b8c0d16f320df56f35643c24295667fe6a2c64ecdd2e6a16d068c2dde12da96.jpg> DX終了 ダウンタウンの意向考慮
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 18:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 19:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
