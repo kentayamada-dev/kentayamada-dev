@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4501ec3919eab59989915d1634a4e645.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac88b23e4b7ab36b95fe609bbe887df1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/981a0807885f8ca0b8d5be85056353849224b510>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00060151-bbmv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=899&ch=899&exp=10800&fmt=webp> “アントニオ猪木の右腕”新間寿さんが享年90で死去…モハメド・アリ招聘、タイガーマスク誕生、IWGP誕生、WWE殿堂入り【週刊プロレス】
+      <a href=https://news.yahoo.co.jp/articles/a50de39023b90ec7050d7390a16fa5e88cac79ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34211453-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=1019&ch=1019&exp=10800&fmt=webp> 佐山サトル氏、大きなショック…初代タイガーマスク“生みの親”新間寿氏死去　肺炎で３週間入院
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/acc3941a40f0e5d2baaffa441b141c2a8e45f984>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000058-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 米国産米の輸入拡大案が浮上　関税交渉巡り　政府、来週にも提示検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa8cd45ddf23bfc95e347e49fc65e776aff42e2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-21868751-utyv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=405&ch=405&exp=10800&fmt=webp> 夏の参院選へ　逆風の中の自民党は着々と準備　一方、野党は共闘には ほど遠い現状　山梨
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536256>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/2a6196d2545839acd537e385d999a7837d74747d6a41523ed78f36bb1f11a92b.jpg> 「青森米」続々 都内スーパー驚き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536240>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/36e155efa223fb36f67f786315b9ce266d0e90b5ccfe32ae683660df90f7da08.png> ABCマート 社外取に榎本加奈子氏
       </a>
@@ -450,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ddab8663e01692c7d49cc3ab82fa06ac78fe96ce9ecb2065a4db53f3fa9159a0.jpg> セリエA全試合延期 教皇死去受け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536247>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/3ccc83301adcc502c18d4809341ce6d35ea8d4dac7f2e6c502385f0a39d2d58d.jpg> 宇多田 米フェスにサプライズ出演
+      <a href=https://news.yahoo.co.jp/pickup/6536254>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/0089fa2313bfc7852fd59a3e2cd63b9bc9fa3d35e4359dc5bd9fd68cb6dfd871.jpg> フジの万博ライブ 中止→振替公演
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 22:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 23:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
