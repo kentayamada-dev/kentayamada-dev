@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b6e085275b5f73bbec8259b8548d2e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ab1ad4261e5ec8ecbfb60ef7efb5052.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3587bc9b0695ec1d4ddae09a17094ebf3a37d19>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-07577564-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=427&ch=427&exp=10800&fmt=webp> ロシア国防省、戦闘再開を発表“30時間の停戦期間が終了”
+      <a href=https://news.yahoo.co.jp/articles/d39b330dc833fa9d5c40e76c9426e94e07df4456>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000092-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=820&ch=820&exp=10800&fmt=webp> 「多数派によるいじめ」辞職勧告された姫路市議が会見で持論訴え　SNSで県警が削除要請
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34108b0284958ada95749807a086b54a7aa5317b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-03931949-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> フランシスコ教皇死去　88歳　ローマ教皇庁が発表
+      <a href=https://news.yahoo.co.jp/articles/c3373f7cb552631cd34b3f6db7c008e3054022be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローマ教皇フランシスコ死去　長崎訪問時には核兵器廃絶を訴え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8bf78dca3969e41df9f4d7dd8b2e803c3a4c46f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000059-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏へのメッセージか　プーチン氏“停戦宣言”狙いは？
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/58f24665150e76a1481628acf2656e1d7165f698>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-06789345-sdt-000-1-thumb.jpg?exp=10800&fmt=webp> 【交渉の舞台裏】「日本との間の貿易赤字をゼロに」と迫ったトランプ大統領…関税巡る「日米関税協議」で何が？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3bbcb9b2ed04b6ada81afd80a7d7e207e32aaf1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「父親休暇」に前向き　プロ野球選手会
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536211>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c1120640398eda3800c033551746992c3107c2777523fe2a30e1b8ebd0668697.jpg> 住宅に高校生遺体 殺人疑い再逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536223>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/4295b5d24788228cf74b769af7a353e144dd85a6a4f847931ee8e00f788536ee.jpg> 相次ぐ銅窃盗 AIブームで需要増か
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536216>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/2aee48092370cd8ead08aa7c8984d7eab438bfd958e53f207526b9f778d88bb3.jpg> NPB平均年俸 巨人2年ぶりトップ
+      <a href=https://news.yahoo.co.jp/pickup/6536229>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/f6fb10bd0214556374992d13d8697856f63e26c873b6af3d70a5ec091ce3d5c4.jpg> 「保育園の洗礼」職場の理解は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/5a78422ec7315b7aab34053ec6dda179e370d9a27b549535c39d8ab7bcd72a64.jpg> 大谷で話題「父親リスト」日本は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 18:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 18:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
