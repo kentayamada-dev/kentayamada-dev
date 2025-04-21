@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a225db7ca7a994f109816a8ca49a465b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ea862b2725bb5ccd601de700c041eda.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/016f763526dfe955985cd2d480b2f41aa0e89501>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000033-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=373&ch=373&exp=10800&fmt=webp> プーチン大統領「３０時間」　ゼレンスキー大統領「３０日」…ウクライナ休戦めぐり神経戦
+      <a href=https://news.yahoo.co.jp/articles/98b35ad8ed37438af2aab2b9543661fcd7458060>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00960650-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 食事与えず娘を低血糖症に…入院させ共済金だまし取った罪などに問われた母親（35）　大阪地裁が一部罪の成立認め執行猶予付きの有罪判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/538092e5e21f224fbaaa8122354fc7fdd4f7f32d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00960649-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “イースター停戦”双方攻撃続け実現せずに終了…プーチン大統領は延長指示せず　トランプ大統領は「うまくいけばロシアとウクライナが今週中に合意」
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9065e01e465ceb62a82c24b17fdf3cf7ffc5e0af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-07231747-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 非関税障壁の具体例に「日本のボウリング球テスト」 トランプ大統領　自動車の厳しい安全基準に不満か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25972a9ae8ba121d5fe261301441e635263c84cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000139-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=938&ch=938&exp=10800&fmt=webp> 「ヒーローになる必要はない」劇的サヨナラ打のエ軍アデル　トラウトからかけられた一言に「泣ける」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-07231747-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 非関税障壁の具体例に「日本のボウリング球テスト」 トランプ大統領　自動車の厳しい安全基準に不満か
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/00014596e4027baad53b29acca9646d11eba284e7d20a418bfb1978c207e4861.jpg> 首相 関税巡り中小企業支援の方針
+      <a href=https://news.yahoo.co.jp/pickup/6536192>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c3e789c70438d2fb8d85ce0a4e97d65118296e0ad908d70f7cce8251a3609079.jpg> 円相場 一時1ドル140円台に突入
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536170>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/4329d5c4fbf005a5a8121673c0f3883769c7b8a5fd729cd75978b2b4fe31704f.jpg> 小学生の自殺 4～6月リスク高まる
+      <a href=https://news.yahoo.co.jp/pickup/6536190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/00014596e4027baad53b29acca9646d11eba284e7d20a418bfb1978c207e4861.jpg> 首相 関税巡り中小企業支援の方針
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536194>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/70853c3eb5fb3428e77b46640ca7831dbfac19cb885bf9ea3caa47eaee313c99.jpg> 娘入院させ共済金詐取は無罪 地裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536191>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/79ba5fc0abe519e13e03e6afe6c5eaad4fa359e58d946d6e630248f131a0d98f.jpg> 中間層の中国人「社長」移住続々
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536176>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/dbe7a0145e0cbcf1dbf956963b188a20fd1a663fbaf7e1e49962069bac1c2bcd.jpg> GWに学校休み旅行 教育現場の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/2621b513be6e6bd8fce2f2928ceda4f1ab08f5d83d3656824f5d9b3323242f5a.jpg> どうせ買うなら「高級米」に注目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/d272a7d3323cca4edcfb901e0221b9e4205e283708ed64ac46faba2ced4da7bb.jpg> 若者であふれる店 しゃぶ葉の戦略
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 11:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 12:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
