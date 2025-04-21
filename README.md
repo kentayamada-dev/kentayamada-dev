@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3f63afb24a830d14bd0678aa155552ba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f72ff063f08aab97d8e0660e2b166a17.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d6994c439b1c280cb55784a16db5004173facc92>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-90023203-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 祈り続けた“平和”と“寛容”　前日に最後の言葉…フランシスコ教皇（88）死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21b15bdb7f36b4f2a0b44e09bf595c11149564cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=959&ch=959&exp=10800&fmt=webp> 大谷翔平　愛娘に届けたパパ１勝　３の０も八回四球で出塁→決勝点呼んだ　敵地スタンドも祝福の大歓声
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 03:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 03:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
