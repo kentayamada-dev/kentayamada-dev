@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/325a073fec5bb297eb46b84fe0d54bf0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/297f4ee21a94949ed77f6cb177913dd1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be2d7418fd32f8e4be39d16d53177bdeec9f4695>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000001-mai-000-1-view.jpg?pri=l&w=192&h=148&exp=10800&fmt=webp> ローマ教皇死去　「国際社会全体にとって大きな損失」石破首相談話
+      <a href=https://news.yahoo.co.jp/articles/ca9cfdfece982a8f2dcf618c31173011f2fd3423>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-07666426-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 死去のフランシスコ教皇、簡素な木製の棺での埋葬を希望　今後6日以内に葬儀
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f7ca35153d5910f2db2c04651393388254f4b378>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-07192933-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 映画でも注目　次の教皇を選ぶ選挙「コンクラーベ」とは？
+      <a href=https://news.yahoo.co.jp/articles/a023f8edfddad6e80640fc9bc6cf9738df06a2dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-07231953-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=443&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> プーチン大統領“一時停戦”不発後に軍事行動再開　ウクライナ側の停戦違反を主張
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cba714a3cde3d29ea44f80af0eaaffafb580388>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010003-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 チャンス拡大の四球を選びチームに貢献 ロバーツ監督「父親になったので120マイルぐらいの打球速度を出すのでは」
+      <a href=https://news.yahoo.co.jp/articles/9e426f8dbee463e5399b61a3afee41101a958186>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-07231954-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理「国際社会全体にとって損失」 ローマ教皇フランシスコの死去を受け 談話発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 00:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 01:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
