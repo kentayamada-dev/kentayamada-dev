@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5930798822e9a7be507a6528c203dd58.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3901140d4e235bac12e2398d019c78b3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa8cd45ddf23bfc95e347e49fc65e776aff42e2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-21868751-utyv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=405&ch=405&exp=10800&fmt=webp> 夏の参院選へ　逆風の中の自民党は着々と準備　一方、野党は共闘には ほど遠い現状　山梨
+      <a href=https://news.yahoo.co.jp/articles/f9cd20ac4606a61d02d057783785777256e7e571>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「深い悲しみ」「人道の守護者」　教皇死去に各国が弔意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81efd3d55b75dde52824eb25dffae97c6f75aa94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00433058-fashions-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> ABCマートの社外取締役に俳優 畑野ひろ子と榎本加奈子が就任へ
+      <a href=https://news.yahoo.co.jp/articles/863a3944fad2fe168e91f472aa6e21dd521a3ca3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000046-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=617&ch=617&exp=10800&fmt=webp> 握った手は温かく 「核廃絶へ勇気」　長崎の被爆者、ローマ教皇悼む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e1638c4152cf42d85cc3010b0e6fda51f4fd300b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=372&cy=0&cw=1457&ch=1457&exp=10800&fmt=webp> ドジャース大谷翔平 産休から復帰後に即先発出場！ 父親としての初陣は無安打も勝利に繋がる四球を選ぶ
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cf0f1c77994fc5ebf26175f6e94d127258513488>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000017-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> コメの価格が15週連続値上がり…さらに「トランプ関税」でどうなる北海道のホタテ・コメ・長イモ　アメリカがコメや大豆などの輸入拡大を求めてくる懸念も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f431027d5d3e63bcd3c0b6721d7c39fb2b140753>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-90028481-tssv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=433&ch=433&exp=10800&fmt=webp> ローマ教皇フランシスコ死去　平和公園で「核兵器なき世界」実現を訴える　広島でも悲しみ広がる
       </a>
     </td>
   </tr>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536229>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/f6fb10bd0214556374992d13d8697856f63e26c873b6af3d70a5ec091ce3d5c4.jpg> 「保育園の洗礼」職場の理解は
+      <a href=https://news.yahoo.co.jp/pickup/6536241>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/6cd4362740c48f8055da52a525dd41bf647d7d7fb1ca61e9e6ac29bbd5949d2a.jpg> 暴力団・宅見組長宅を差し押さえ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/5cff7a7c30c0c0721d900769d05cd08d4e1820995a120a180ffcdea92f6f64c3.jpg> 彬子さまANN第一声 ごきげんよう
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/907fc0991470f0d54860ffdc554e7482cb895927c9e3eae1b3c2d8cd597aeee5.jpg> 山口崇さん死去 大河機にがん発覚
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 20:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 20:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
