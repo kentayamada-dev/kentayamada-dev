@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a41b0344432fe6d4df55bd3956b523bd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2cf31787088122833c06e27ef85464b8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c69ff2d4676f1dfc4edeef84fa8b3516d5492ea3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア・ウクライナの「復活祭停戦」終了　双方が多数の違反報告　限定的成果にとどまる
+      <a href=https://news.yahoo.co.jp/articles/d22efea26013211812f85f87ac49b5cdd0c72d03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34210239-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=1328&ch=1328&exp=10800&fmt=webp> 久保建英、敵地でブーイングを受けるも臆することなく決定機演出　２試合連続スタメン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/472d0f1c1f53f8796ed510bc0dfd8dd827278050>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-06772339-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【天気】全国的に夏日続出の見込み　北海道では一部雨も
+      <a href=https://news.yahoo.co.jp/articles/b979872ce0d00dc4240b20807a96a14429045895>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> プーチン氏の「復活祭停戦」不発、ロシアとウクライナ非難の応酬　トランプ氏仲介の困難さ浮き彫りに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53ed288e1387c83bf633963e144e0dd86480580a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-04211028-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1109&ch=1109&exp=10800&fmt=webp> 大谷翔平、復帰初戦は勝利運ぶ１四球　ロバーツ監督「少し気負いすぎていた」　“パパ１号”はＶＳ今永昇太で
+      <a href=https://news.yahoo.co.jp/articles/5352946508ea3e481144081ee5899862311e627b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-01739841-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> パパ・大谷翔平にド軍監督の期待　“人生の先輩”が語る好循環「考え方が成長する」
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536163>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/15438891312f792b84c760a206fd0546f06134f2d1c37974bf81d16e4dd18b18.jpg> トランプ氏 露ウ「今週合意」期待
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536168>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/062ae685ed44df74edf33e6f7c72f74b2faddd58b428de8f0d4e1be0ec3948ef.jpg> きょう夏日続出の予想 熱中症注意
       </a>
@@ -410,24 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/732433f2a0d3de83e7d1cfd4e7842f7f03a6bc2b8d7370ec0b89bb4f6b7a1195.jpg> 石破首相 靖国神社に「真榊」奉納
+      <a href=https://news.yahoo.co.jp/pickup/6536163>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/15438891312f792b84c760a206fd0546f06134f2d1c37974bf81d16e4dd18b18.jpg> トランプ氏 露ウ「今週合意」期待
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536156>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/27b6ff3d78bfc49459c256123669b68d36ab0e78275bf0026507bd43e0a5732e.jpg> パラグライダー不時着後滑落 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536172>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/f33d7115017c9f5477003593038d53e205d1878656b3b8ff77f9ff311108162c.jpg> 名前の読み方確認 全国民に通知へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536160>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/7ab0fdcc43459525d1e66a0c4c8c0e1fd0554f2d59e60ced2b8c0978a075df37.jpg> 訪日客と「ホテル争奪戦」激化?
+      <a href=https://news.yahoo.co.jp/pickup/6536161>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ae75fee231a231429f8bc4099b1540d93f359f3f59d2f6049ce1138430a69eb4.jpg> ガザで救急車攻撃「誤認」と発表
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536173>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/cf36ab8f7a5c549bd959bee8e55ba32d14646b0ee5bd7a309b1e5bf99c684806.jpg> 園では無言の外国の子 名前呼んで
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ca0fb45400756892afb8eeacfe365cf7e59bde2f7258bf98fb10726cb78dcc6a.jpg> 日本海側のアニサキスに異変 なぜ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 09:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 09:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
