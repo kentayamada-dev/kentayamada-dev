@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cb264854d5c0c499b41ca3658d48e0aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/410396511392a5a37f5c3e74a2fbe4d8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b989fa25201abef4f105061f58a1c79b6263f5f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000010-mynavin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=795&ch=795&exp=10800&fmt=webp> NHK久保田祐佳アナ、タモリとの共演に喜び「『ブラタモリ』の最初にお会いしてから17年…」
+      <a href=https://news.yahoo.co.jp/articles/f2c8780ff4ef6649103ccaca85f3a21e6ac7de39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアがウクライナに攻撃再開、復活祭停戦終了　各地で空襲警報
       </a>
     </td>
   </tr>
@@ -366,15 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/83c7dbdff5f2751ba1e6fd0ea1da57035d22bb6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010000-wakayamav-000-1-thumb.jpg?exp=10800&fmt=webp> 日本維新の会 和歌山県議会議員の浦平美博氏 参院選和歌山選挙区 立候補表明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010000-wakayamav-000-2-thumb.jpg?exp=10800&fmt=webp> 参院選和歌山選挙区 日本維新の会 和歌山県議会議員の浦平美博氏 立候補表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39636b96853389bf7e90c09c5235f5c94edd0a2b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174726-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=781&ch=781&exp=10800&fmt=webp> ウクライナ側 新たに「30日間の停戦延長」を提案
+      <a href=https://news.yahoo.co.jp/articles/db0a278024ebfa77c1dbd982eed7c151b75f6e16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000039-ann-000-8-thumb.jpg?exp=10800&fmt=webp> クローゼットに女子高校生遺体 殺人の疑いで男を再逮捕　愛知・一宮
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536200>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/15a0b4f108deac8e2b9bcf7db71fb20617fc8ea732bb7c572582211f0ac21cee.jpg> 今後の政権「自公継続」14% 調査
+      <a href=https://news.yahoo.co.jp/pickup/6536206>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c4efc5b3adaf38ed5bf8eae323e9c55728759ef5ed3dba2980be497768d33393.jpg> 米国産コメ輸入拡大を 政府内に声
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536211>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c1120640398eda3800c033551746992c3107c2777523fe2a30e1b8ebd0668697.jpg> 住宅に高校生遺体 殺人疑い再逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536205>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/198b0061ff598e36e92a5ecd21a2e74b5d9d0436ba1e74b7f28bb80e4f638672.jpg> 新生児取り違え 都に親の調査命令
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/79ba5fc0abe519e13e03e6afe6c5eaad4fa359e58d946d6e630248f131a0d98f.jpg> 日本のビザ取得 中国人の相談殺到
+      <a href=https://news.yahoo.co.jp/pickup/6536209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/2042f3578653f34627bf56ae410aa96506d5b9c1e6ed6f6bfd93b55c55ba9265.jpg> シニア急増 リゾートバイトの魅力
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/909d2d5e14b36a8ef699ba628049306fc61d2302cfdb3619f870eb2470d9d804.jpg> 桐谷美玲 街で内田篤人と偶然遭遇
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 14:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 15:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
