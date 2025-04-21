@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b2ecb059ecd33d4a0abb12727280c31.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/daa4858ababc1602b1e3aa684c62dad4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5daac3d6ea14bad572a02cf60cb0935cb2561e15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-04211237-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=27&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平の“パワーアップ"をロバーツ監督予言「父親になることで得られる資質もある」“産休”から復帰初戦でパパ１勝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fa3e6cc6b34ff1822a547ffb4f445e380aa41d51>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000005-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=440&ch=440&exp=10800&fmt=webp> ローマ教皇の死因は脳卒中による心不全　「簡素な墓」を望む遺言も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c141b451cffe5523c9d912c610c846e3ba500e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-90023205-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【報ステ解説】トランプ氏就任100日で焦り？アメリカ“クリミア併合”承認を提案か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e426f8dbee463e5399b61a3afee41101a958186>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-07231954-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=421&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理「国際社会全体にとって損失」 ローマ教皇フランシスコの死去を受け 談話発表
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 05:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 05:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
