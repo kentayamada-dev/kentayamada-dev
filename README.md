@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1eed490b8b35a7effcacd1137d800ba8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5930798822e9a7be507a6528c203dd58.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ade1276082cdc94ae3ff27c98b918604c55d2ed6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-21868662-sbsv-000-1-thumb.jpg?exp=10800&fmt=webp> 「立憲に推薦を求めることはない」国民民主党幹事長・榛葉賀津也議員の推薦めぐり野党連携がどこまで進むか不透明 連合静岡と3者協議
+      <a href=https://news.yahoo.co.jp/articles/aa8cd45ddf23bfc95e347e49fc65e776aff42e2b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-21868751-utyv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=405&ch=405&exp=10800&fmt=webp> 夏の参院選へ　逆風の中の自民党は着々と準備　一方、野党は共闘には ほど遠い現状　山梨
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/510f994aee4a6d4ea3e43c842d018298f9e33b89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-02010900-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ローマ教皇逝去を受け、イタリア国内で21日の全試合が中止に…GK鈴木彩艶所属パルマvsユーヴェも対象
+      <a href=https://news.yahoo.co.jp/articles/81efd3d55b75dde52824eb25dffae97c6f75aa94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00433058-fashions-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> ABCマートの社外取締役に俳優 畑野ひろ子と榎本加奈子が就任へ
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/d02598db011b554ae212b4a3a70367a84827a51c11af7ad6ccf5c17c9e28ac36.jpg> 韓国が日本にコメ20トン輸出へ
+      <a href=https://news.yahoo.co.jp/pickup/6536227>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/727a40a4aa569bbbaeb273723aa8f350475189f844d43759825a7c06ad4878d5.jpg> スーパーの米 15週連続で値上がり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536235>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/657f45b73c38651ac8b00c1cf8ed381cdbbc735b2ad46086d1bcad440c55a9d8.jpg> MAGA帽に政治的意図ない 赤沢氏
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536229>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/f6fb10bd0214556374992d13d8697856f63e26c873b6af3d70a5ec091ce3d5c4.jpg> 「保育園の洗礼」職場の理解は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536222>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/5a78422ec7315b7aab34053ec6dda179e370d9a27b549535c39d8ab7bcd72a64.jpg> 大谷で話題「父親リスト」日本は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 19:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 20:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
