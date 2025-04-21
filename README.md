@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ea862b2725bb5ccd601de700c041eda.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/04c3296a556b5258684885c6dc297444.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/98b35ad8ed37438af2aab2b9543661fcd7458060>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00960650-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 食事与えず娘を低血糖症に…入院させ共済金だまし取った罪などに問われた母親（35）　大阪地裁が一部罪の成立認め執行猶予付きの有罪判決
+      <a href=https://news.yahoo.co.jp/articles/aea734e568de664351ac149657ca575ccb94b7b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00050862-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> ８歳娘に食事与えず入院させ共済金詐取の罪　母親に執行猶予付き判決　詐欺などは「無罪」判決　大阪地裁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/538092e5e21f224fbaaa8122354fc7fdd4f7f32d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00960649-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “イースター停戦”双方攻撃続け実現せずに終了…プーチン大統領は延長指示せず　トランプ大統領は「うまくいけばロシアとウクライナが今週中に合意」
+      <a href=https://news.yahoo.co.jp/articles/2bc24d543890e7762ecf9580dad1ef2318186eab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000031-ann-000-1-thumb.jpg?exp=10800&fmt=webp> “イースター停戦”けさ終了 ウクライナは「延長」を提案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/110448c3f6f33da724ec25798dd52a17a3ac885d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174342-abemad-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「こいつ、動くぞ！」をシャア風に言うと？「ガンダムジークアクス」で描かれるアムロ不在の世界線
       </a>
     </td>
   </tr>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536183>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/b5ff257574f0099e1302c278e34b9491f6d3106a06f76ba7f41161df968f2eaa.jpg> トランプ氏 非関税障壁に難癖か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536194>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/70853c3eb5fb3428e77b46640ca7831dbfac19cb885bf9ea3caa47eaee313c99.jpg> 娘入院させ共済金詐取は無罪 地裁
       </a>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/79ba5fc0abe519e13e03e6afe6c5eaad4fa359e58d946d6e630248f131a0d98f.jpg> 中間層の中国人「社長」移住続々
+      <a href=https://news.yahoo.co.jp/pickup/6536198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/79ba5fc0abe519e13e03e6afe6c5eaad4fa359e58d946d6e630248f131a0d98f.jpg> 日本のビザ取得 中国人の相談殺到
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536199>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanigashirakazuki/02178018/title-1745081686049.jpeg?exp=10800> 高級店に天ぷら専門 回転ずしの今
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536185>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ba077bbbf01cd3fdb20c3ceaf093963a8e5cc923e336084f7896baa14b972729.jpg> 大谷は「積極的過ぎた」ド軍監督
       </a>
@@ -450,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536186>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/f88e1fc5a07577f7622cc5d5aa19a53569f9b11a362845a4454b65897bfa78c6.jpg> ドラマ「二番目の恋」なぜ好発進
+      <a href=https://news.yahoo.co.jp/pickup/6536196>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/koarairyo/02178858/title-1745141172296.jpeg?exp=10800> コナン映画ロケットスタート 背景
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 12:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 12:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
