@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac88b23e4b7ab36b95fe609bbe887df1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/34830fc505652d2f56ac26bf0d1157ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a50de39023b90ec7050d7390a16fa5e88cac79ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34211453-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=1019&ch=1019&exp=10800&fmt=webp> 佐山サトル氏、大きなショック…初代タイガーマスク“生みの親”新間寿氏死去　肺炎で３週間入院
+      <a href=https://news.yahoo.co.jp/articles/e90f4231d815fa84d3cf36f6f61c8b322faf4b54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34211468-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=1176&ch=1176&exp=10800&fmt=webp> 【悼む】新間寿スポーツ平和党「幹事長」に１度激怒された夜「午後10時だぞ。常識がないのか」
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/acc3941a40f0e5d2baaffa441b141c2a8e45f984>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000058-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 米国産米の輸入拡大案が浮上　関税交渉巡り　政府、来週にも提示検討
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000058-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 米国産米の輸入拡大案が浮上　関税交渉巡り　政府、来週にも提示検討
       </a>
     </td>
   </tr>
@@ -411,15 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536244>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 中国で日本人男児刺殺 死刑執行
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536249>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/4e9b9fa6141f765b159d571b5f064214b0ca16089a5b7cd6e80f13a691ccf10b.jpg> タイ当局が拘束の男2人 逮捕へ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/1360b552398fe7b29ae0073b84a19d44b8b259a4626b2db6a5c1a1558464637a.jpg> 中国で日本人男児刺殺 死刑執行
       </a>
     </td>
   </tr>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/352ea74dd64054dbc883c38b5ac16bb5d8cfa2dd8c75d3ed4ab309c78b7cca59.jpg> 万博の警備員が土下座か 動画撮影
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536240>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/36e155efa223fb36f67f786315b9ce266d0e90b5ccfe32ae683660df90f7da08.png> ABCマート 社外取に榎本加奈子氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536259>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c5f3ae0e14980b76675639ede1d53fee88e16d75a5b12e558e29817e418c0177.jpg> 八代亜紀氏アルバム発売 地元怒り
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536254>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/0089fa2313bfc7852fd59a3e2cd63b9bc9fa3d35e4359dc5bd9fd68cb6dfd871.jpg> フジの万博ライブ 中止→振替公演
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 23:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 23:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
