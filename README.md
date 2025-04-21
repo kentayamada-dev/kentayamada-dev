@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c9f6e7b7711ca20bdb3c0134dbf38f6e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a225db7ca7a994f109816a8ca49a465b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7878bb72c1d663c4eb17e634e6569cd839faf845>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-90023148-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “30時間停戦”終了　プーチン氏「延長しない」　トランプ氏へアピールか
+      <a href=https://news.yahoo.co.jp/articles/016f763526dfe955985cd2d480b2f41aa0e89501>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000033-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=373&ch=373&exp=10800&fmt=webp> プーチン大統領「３０時間」　ゼレンスキー大統領「３０日」…ウクライナ休戦めぐり神経戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8cee17e22819f47a943a0d2dda63ba94cdbae9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000142-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1051&ch=1051&exp=10800&fmt=webp> 大谷翔平パパをド軍レジェンドOBが心配！？「睡眠不足に…10時間に減らさないと」現地実況笑い
+      <a href=https://news.yahoo.co.jp/articles/8842259eedebd5f3de3c7d1f8f297a7dc2f05465>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174681-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=547&cy=0&cw=910&ch=910&exp=10800&fmt=webp> 「翔平パパおめでとう」大谷翔平の長女誕生を祝う“巨大ボード”が敵地に出現！ 熱狂的ファンの行動に反響
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d504656d331d9edd1645349a545399ecf6078335>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250420-00000150-sanspo-000-2-view.jpg?pri=l&w=192&h=140&exp=10800&fmt=webp> 【皐月賞】ミュージアムマイル豪脚1冠　モレイラ騎手、史上初6人目桜花賞→皐月賞連勝「パドックでまたがった瞬間に力強さを感じた」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536183>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/b5ff257574f0099e1302c278e34b9491f6d3106a06f76ba7f41161df968f2eaa.jpg> トランプ氏 非関税障壁に難癖か
+      <a href=https://news.yahoo.co.jp/pickup/6536190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/00014596e4027baad53b29acca9646d11eba284e7d20a418bfb1978c207e4861.jpg> 首相 関税巡り中小企業支援の方針
       </a>
     </td>
   </tr>
@@ -418,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/b5ff257574f0099e1302c278e34b9491f6d3106a06f76ba7f41161df968f2eaa.jpg> トランプ氏 非関税障壁に難癖か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536176>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/dbe7a0145e0cbcf1dbf956963b188a20fd1a663fbaf7e1e49962069bac1c2bcd.jpg> GWに学校休み旅行 教育現場の声
       </a>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/ca0fb45400756892afb8eeacfe365cf7e59bde2f7258bf98fb10726cb78dcc6a.jpg> 日本海側のアニサキスに異変 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6536188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/2621b513be6e6bd8fce2f2928ceda4f1ab08f5d83d3656824f5d9b3323242f5a.jpg> どうせ買うなら「高級米」に注目
       </a>
     </td>
   </tr>
@@ -450,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/b7af463dd03ab1e6a3444a533aa4af4eec0e00f7f6c782fbb24c406425be5223.jpg> MF久保建英「地獄」チームに苦言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536181>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/3c279bcb4c8e49efcc17d213f042e3abd55a4eedbab6e867ea44ecb38ecade93.jpg> 岡田将生 海外のドラマに初出演
+      <a href=https://news.yahoo.co.jp/pickup/6536186>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/f88e1fc5a07577f7622cc5d5aa19a53569f9b11a362845a4454b65897bfa78c6.jpg> ドラマ「二番目の恋」なぜ好発進
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 11:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 11:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
