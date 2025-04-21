@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0e8d508e1d3104b99b1214a84112d1a1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1eed490b8b35a7effcacd1137d800ba8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a4a377d134d9ed17343416ebdd3c8027821247f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010007-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「トランプ大統領という“王様”の機嫌を損ねないように」　日米関税交渉の行方を有識者解説　ポイントはやはり自動車か
+      <a href=https://news.yahoo.co.jp/articles/ade1276082cdc94ae3ff27c98b918604c55d2ed6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-21868662-sbsv-000-1-thumb.jpg?exp=10800&fmt=webp> 「立憲に推薦を求めることはない」国民民主党幹事長・榛葉賀津也議員の推薦めぐり野党連携がどこまで進むか不透明 連合静岡と3者協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/510f994aee4a6d4ea3e43c842d018298f9e33b89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-02010900-soccerk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ローマ教皇逝去を受け、イタリア国内で21日の全試合が中止に…GK鈴木彩艶所属パルマvsユーヴェも対象
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cf0f1c77994fc5ebf26175f6e94d127258513488>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000017-hbcv-000-1-thumb.jpg?exp=10800&fmt=webp> コメの価格が15週連続値上がり…さらに「トランプ関税」でどうなる北海道のホタテ・コメ・長イモ　アメリカがコメや大豆などの輸入拡大を求めてくる懸念も
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f431027d5d3e63bcd3c0b6721d7c39fb2b140753>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-90028481-tssv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=433&ch=433&exp=10800&fmt=webp> ローマ教皇フランシスコ死去　平和公園で「核兵器なき世界」実現を訴える　広島でも悲しみ広がる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c99e3f942951040abfff04d7f38b0e15ca9fde60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-10174762-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=906&ch=906&exp=10800&fmt=webp> 大谷翔平、“父親リスト”復帰初戦で敵地からも大歓声…相手捕手との“小粋な”やり取りも話題「おめでとうとか声かけたのかな？」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/23985d5caff7a5aae651097b8477e96e6a528210>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000055-flash-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 『ダウンタウンDX』終了、「2人の意向」が理由で存続危ぶまれる「抜群の人気番組」次回予告はついに浜田の“姿なし”
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-90028481-tssv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=433&ch=433&exp=10800&fmt=webp> ローマ教皇フランシスコ死去　平和公園で「核兵器なき世界」実現を訴える　広島でも悲しみ広がる
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/36e723287962c503d77e04f6122186ff8ea0045d076d81a15819c3b8b7d1c88e.jpg> フランシスコ教皇が死去
+      <a href=https://news.yahoo.co.jp/pickup/6536230>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c2795fa1bd32cd4a12d1eeac5482bc2441aee8913b3c5ce2a0e31f12651501ad.jpg> ローマ教皇が死去 貧者の教会掲げ
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/1015ad5de8950cb4fdf50fa829e6ebd19e5d280395cd44ea033d569fdc5cd96d.jpg> 山口崇氏死去 タイムショック司会
+      <a href=https://news.yahoo.co.jp/pickup/6536225>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/907fc0991470f0d54860ffdc554e7482cb895927c9e3eae1b3c2d8cd597aeee5.jpg> 山口崇さん死去 大河機にがん発覚
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 19:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 19:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
