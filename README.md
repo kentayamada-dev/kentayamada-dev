@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/34830fc505652d2f56ac26bf0d1157ba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3189f60ef09828ea2539ff01e15230cb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e90f4231d815fa84d3cf36f6f61c8b322faf4b54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-34211468-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=1176&ch=1176&exp=10800&fmt=webp> 【悼む】新間寿スポーツ平和党「幹事長」に１度激怒された夜「午後10時だぞ。常識がないのか」
+      <a href=https://news.yahoo.co.jp/articles/7ffbd5a1fd194e828e7313e2dbaa46dc779978a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-07231914-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 万博会場ではバチカン国旗の半旗が　ローマ・カトリック教会の教皇フランシスコ（88）死去
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536236>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/3a4ca89ac0bd3aafc863849a638effc7946c83ccc4e201e7f0e64682f0cc554d.jpg> 教皇死去 選挙・コンクラーベとは
+      <a href=https://news.yahoo.co.jp/pickup/6536261>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/2a716247fda59c25fcceaf703587158e95ae5a873d856e670ab16a84e929f9f7.jpg> 教皇死去 前日は復活祭のミサに姿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536246>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/f8067583f067f60ae24fe004b7e526517f9587aee2d6dfe2345ea811f60c9c62.jpg> 政府 米関税交渉への体制を強化
+      <a href=https://news.yahoo.co.jp/pickup/6536255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/8454c4f7e3f2aafc79fd66f7b28b95356fde62da613cbc74af448132aab0bba0.jpg> 米国産米の輸入拡大案 政府内浮上
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/36e155efa223fb36f67f786315b9ce266d0e90b5ccfe32ae683660df90f7da08.png> ABCマート 社外取に榎本加奈子氏
+      <a href=https://news.yahoo.co.jp/pickup/6536248>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/cac20aac89726f5e45afa09f7e1bb94cb19e55d62a0e791599350228b0293340.jpg> 弁済同意書で客半減 博物館の思い
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 23:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 23:51:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
