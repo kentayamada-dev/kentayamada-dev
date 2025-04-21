@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3901140d4e235bac12e2398d019c78b3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5cc153ce09e132d805ef636b130b2197.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f9cd20ac4606a61d02d057783785777256e7e571>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「深い悲しみ」「人道の守護者」　教皇死去に各国が弔意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/863a3944fad2fe168e91f472aa6e21dd521a3ca3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000046-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=617&ch=617&exp=10800&fmt=webp> 握った手は温かく 「核廃絶へ勇気」　長崎の被爆者、ローマ教皇悼む
       </a>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e1638c4152cf42d85cc3010b0e6fda51f4fd300b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=372&cy=0&cw=1457&ch=1457&exp=10800&fmt=webp> ドジャース大谷翔平 産休から復帰後に即先発出場！ 父親としての初陣は無安打も勝利に繋がる四球を選ぶ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7229fe20bbfdf1a38698e6d091bc4c22b3ba8e27>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-90023192-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 宇多田ヒカル3年ぶりにアメリカ・コーチェラ・フェスにサプライズ出演
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536230>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c2795fa1bd32cd4a12d1eeac5482bc2441aee8913b3c5ce2a0e31f12651501ad.jpg> ローマ教皇が死去 貧者の教会掲げ
+      <a href=https://news.yahoo.co.jp/pickup/6536243>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/5f31c640c10bbb046e494396cc861b0fe9b5877e2cde417155cb01e7d02e3825.jpg> 教皇死去 各国首脳らが哀悼の意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536228>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/bb68ccf31244fbb7369b02da04afb8bc9d9bcd4e35035e5abfe1449b61de73d1.jpg> 改姓望まず事実婚選択が3割 調査
+      <a href=https://news.yahoo.co.jp/pickup/6536210>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/d793d0ba46cd6f5a23a94e40a9f1c6c2f9f9617964083a0d36aebe9d4cdd4281.jpg> ASEAN各国 米国と中国で板挟み
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536227>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/727a40a4aa569bbbaeb273723aa8f350475189f844d43759825a7c06ad4878d5.jpg> スーパーの米 15週連続で値上がり
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/657f45b73c38651ac8b00c1cf8ed381cdbbc735b2ad46086d1bcad440c55a9d8.jpg> MAGA帽に政治的意図ない 赤沢氏
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536241>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/6cd4362740c48f8055da52a525dd41bf647d7d7fb1ca61e9e6ac29bbd5949d2a.jpg> 暴力団・宅見組長宅を差し押さえ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/4ebafb6160d63b9e384a279efd78af874aa8a25476698476ade736762b21da20.jpg> エスコン ギネス世界記録に認定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 20:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 21:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
