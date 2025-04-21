@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/417cbea8505d181891df2dda20c06605.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/008c1129eda1e58af6246fad20090fb3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47fb0383e73037bf1a2fd7d54d2e4e43112e875f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000046-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 【訃報】俳優の山口崇さん（88）死去「クイズタイムショック」2代目の司会者
+      <a href=https://news.yahoo.co.jp/articles/c3587bc9b0695ec1d4ddae09a17094ebf3a37d19>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア国防省、戦闘再開を発表“30時間の停戦期間が終了”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2937896cf38bd9f6de2ee8fcf0df93e8839263c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00014660-agara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=921&ch=921&exp=10800&fmt=webp> 維新が浦平県議を擁立　立憲との「予備選」も、次期参院選和歌山選挙区
+      <a href=https://news.yahoo.co.jp/articles/34108b0284958ada95749807a086b54a7aa5317b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-03931949-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フランシスコ教皇死去　88歳　ローマ教皇庁が発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf4090f1923dc19645a43c357edf1b2bedca0532>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000026-jij_afp-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ロシア、イースター休戦後に空爆再開 ウクライナ発表
+      <a href=https://news.yahoo.co.jp/articles/58f24665150e76a1481628acf2656e1d7165f698>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-06789345-sdt-000-1-thumb.jpg?exp=10800&fmt=webp> 【交渉の舞台裏】「日本との間の貿易赤字をゼロに」と迫ったトランプ大統領…関税巡る「日米関税協議」で何が？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a04c0313bcd2629242722dafaef7999dd8359fcf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-03529384-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> “日本は車にボウリング球落とす試験”トランプ大統領が事実と異なる主張
+      <a href=https://news.yahoo.co.jp/articles/3bbcb9b2ed04b6ada81afd80a7d7e207e32aaf1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「父親休暇」に前向き　プロ野球選手会
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/393094439bc802cb536243e77ea104af9dc876d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00960862-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「父親として出場する最初の試合です」大谷翔平3試合ぶりチーム合流“パパで初勝利”3打数無安打も四球出塁で決勝点を演出!
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536206>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/c4efc5b3adaf38ed5bf8eae323e9c55728759ef5ed3dba2980be497768d33393.jpg> 米国産コメ輸入拡大を 政府内に声
+      <a href=https://news.yahoo.co.jp/pickup/6536224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/36e723287962c503d77e04f6122186ff8ea0045d076d81a15819c3b8b7d1c88e.jpg> フランシスコ教皇が死去
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 17:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 17:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
