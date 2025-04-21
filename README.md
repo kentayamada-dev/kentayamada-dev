@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/86977c34dc49c311a80405db00a5e28d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/89a30c14715fe62f495dbfce804d4c53.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2fcd6c6f43ed865a410abf7e29a47c8dc3ef640>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-01739809-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平に異例対応　“格付け”でもまさかのお祝い「親になるって本当に素晴らしいこと」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-01739809-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 長女誕生で…大谷翔平に異例の対応　“格付け”そっちのけ「親になるって本当に」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/aed251e141cf822d946bf3355c27e24f940493ef601c377184db705375e42c9c.jpg> 都区部の「家賃」30年ぶり上昇率
+      <a href=https://news.yahoo.co.jp/pickup/6536274>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/579313d20d037e099f755c9cabcd937dd2ddce9c9fa686c1ce92689548bc8a52.jpg> 追突で2歳死亡 男「スマホ使用」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536256>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/2a6196d2545839acd537e385d999a7837d74747d6a41523ed78f36bb1f11a92b.jpg> 「青森米」続々 都内スーパー驚き
+      <a href=https://news.yahoo.co.jp/pickup/6536271>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/aed251e141cf822d946bf3355c27e24f940493ef601c377184db705375e42c9c.jpg> 都区部の「家賃」30年ぶり上昇率
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/09966f7bf9cecf828de70df62b0a148e0a939db76dddeb20bc81fb7c2003be9d.jpg> 都庁が「観光地化」連日の大行列
+      <a href=https://news.yahoo.co.jp/pickup/6536263>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c243bddc0d93e67eaa59d3e54af29b57152ec59d8275299312d64c1e8fa05e03.jpg> 160万円階段昇降機 中学が誤廃棄
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c243bddc0d93e67eaa59d3e54af29b57152ec59d8275299312d64c1e8fa05e03.jpg> 160万円階段昇降機 中学が誤廃棄
+      <a href=https://news.yahoo.co.jp/pickup/6536270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/0f77bd72ba6670108f3487e2883ffd632cd7cb7d20ce8c5ae200ac757f00bf40.jpg> 面接できつ音伝え 就活生「賭け」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 08:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 08:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
