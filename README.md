@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f7bd1c14e6cf4cc2776d854a96c18093.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/417cbea8505d181891df2dda20c06605.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a760ebf06b4d13b14777c41a04f469786923b5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-04549137-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 「ダウンタウンDX」終了を発表 32年の歴史に幕
+      <a href=https://news.yahoo.co.jp/articles/47fb0383e73037bf1a2fd7d54d2e4e43112e875f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000046-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 【訃報】俳優の山口崇さん（88）死去「クイズタイムショック」2代目の司会者
       </a>
     </td>
   </tr>
@@ -374,15 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf4090f1923dc19645a43c357edf1b2bedca0532>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000026-jij_afp-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ロシア、イースター休戦後に空爆再開 ウクライナ発表
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000026-jij_afp-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ロシア、イースター休戦後に空爆再開 ウクライナ発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92946217ad096725db903dd38e01db571b1e709d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-07231787-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 日米関税交渉めぐり国会論戦　石破総理「整合性に重大な懸念」赤沢大臣「トランプ氏の帽子被っても政治的なメッセージにはならない」
+      <a href=https://news.yahoo.co.jp/articles/a04c0313bcd2629242722dafaef7999dd8359fcf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-03529384-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> “日本は車にボウリング球落とす試験”トランプ大統領が事実と異なる主張
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536207>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/b990f2ecc5088964d394af000a8f38c20d9279e8221ee9f9b1c62297862212a6.jpg> 世耕氏 現金還流の再開決定を否定
+      <a href=https://news.yahoo.co.jp/pickup/6536219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/172b78f742bc4a139521d7fda3d3567c489be60ec4783dcca40100fbccd449ee.jpg> GW前半は晴天続く 沖縄は雨か
       </a>
     </td>
   </tr>
@@ -443,15 +443,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536217>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/18cbb7fd8cd31121fb42e304ade94c88eef8574232042babd16644645fdedfe5.jpg> 「ダウンタウンDX」終了を発表
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/af3945f64f7b48be2a72c704227d484811e40dbbb290122daa6cb7b9da07692e.jpg> 「ダウンタウンDX」終了を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/57ebf24f6d766741f2d8e97c572acc2c3bbfe36aa2207f0833505a74e2d142b0.jpg> 俳優・山口崇さん死去 88歳
+      <a href=https://news.yahoo.co.jp/pickup/6536221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/1015ad5de8950cb4fdf50fa829e6ebd19e5d280395cd44ea033d569fdc5cd96d.jpg> 山口崇氏死去 タイムショック司会
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 16:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 17:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
