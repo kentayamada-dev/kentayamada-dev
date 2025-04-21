@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b4eed8c81ea0fd8705489fb4bed58bf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e9b3e4015713e4d6accf08304349e074.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14c7428e08925d5984baf6b3e4a75b8a9e55f81a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000075-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フランシスコ教皇が88歳で死去　前日まで復活祭のミサ　核廃絶や和解を世界で訴え
+      <a href=https://news.yahoo.co.jp/articles/4fad552bc2673352158be058d4d1a046f71e6f08>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-01988124-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 台湾・頼清徳総統、フランシスコ教皇の死去受けSNSで追悼コメント　バチカンは欧州で唯一、台湾と外交関係を維持
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f570191c56b4af68771e95552e143eee38b5759>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-09574544-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=1&cw=640&ch=640&exp=10800&fmt=webp> 宇多田ヒカル、サプライズでアメリカ最大級の音楽フェスに出演　
+      <a href=https://news.yahoo.co.jp/articles/14c7428e08925d5984baf6b3e4a75b8a9e55f81a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000075-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フランシスコ教皇が88歳で死去　前日まで復活祭のミサ　核廃絶や和解を世界で訴え
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/acc3941a40f0e5d2baaffa441b141c2a8e45f984>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000058-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 米国産米の輸入拡大案が浮上　関税交渉巡り　政府、来週にも提示検討
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250421-00000058-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 米国産米の輸入拡大案が浮上　関税交渉巡り　政府、来週にも提示検討
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536243>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/5f31c640c10bbb046e494396cc861b0fe9b5877e2cde417155cb01e7d02e3825.jpg> 教皇死去 各国首脳らが哀悼の意
+      <a href=https://news.yahoo.co.jp/pickup/6536236>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/3a4ca89ac0bd3aafc863849a638effc7946c83ccc4e201e7f0e64682f0cc554d.jpg> 教皇死去 選挙・コンクラーベとは
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536241>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/6cd4362740c48f8055da52a525dd41bf647d7d7fb1ca61e9e6ac29bbd5949d2a.jpg> 暴力団・宅見組長宅を差し押さえ
+      <a href=https://news.yahoo.co.jp/pickup/6536249>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/4e9b9fa6141f765b159d571b5f064214b0ca16089a5b7cd6e80f13a691ccf10b.jpg> タイ当局が拘束の男2人 逮捕へ
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536237>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/5cff7a7c30c0c0721d900769d05cd08d4e1820995a120a180ffcdea92f6f64c3.jpg> 彬子さまANN第一声 ごきげんよう
+      <a href=https://news.yahoo.co.jp/pickup/6536247>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/3ccc83301adcc502c18d4809341ce6d35ea8d4dac7f2e6c502385f0a39d2d58d.jpg> 宇多田 米フェスにサプライズ出演
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536234>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/8b8c0d16f320df56f35643c24295667fe6a2c64ecdd2e6a16d068c2dde12da96.jpg> DX終了 ダウンタウンの意向考慮
+      <a href=https://news.yahoo.co.jp/pickup/6536237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/5cff7a7c30c0c0721d900769d05cd08d4e1820995a120a180ffcdea92f6f64c3.jpg> 彬子さまANN第一声 ごきげんよう
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/21 21:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/21 22:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
