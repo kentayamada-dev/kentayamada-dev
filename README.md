@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f5442750aee83da989bad531fef08f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b15d0f6237cd47639f5a8be30f3e67f0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5ba7fb031487dc9eb89c212322c158a5281aa2e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000004-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> 教皇、簡素な墓を希望 バチカンが遺書公開
+      <a href=https://news.yahoo.co.jp/articles/dfefdce7ca54a3bf0ad1450ac242557e6e8ec8a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000001-jct-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> フランシスコ教皇の訃報に世界が悲しみ　映画「教皇選挙」公開中に...公式X「面影を探し、重ねてしまいます」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a4abf0bea41074ad2951cd6404570dc1bbdd05e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-07231984-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=423&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> SNS詐欺など　政府が総合対策改定案を決定　架空名義口座を利用した新捜査手法を検討
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/713cc413d96370e4f4182e46ba7a5cedac8cc510>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00050036-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=410&ch=410&exp=10800&fmt=webp> 車の安全基準、「国連で策定された基準」…中野国交相がトランプ氏主張に反論
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00050036-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=410&ch=410&exp=10800&fmt=webp> 車の安全基準、「国連で策定された基準」…中野国交相がトランプ氏主張に反論
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ea3bf3a949841f711cc6e5020291d3acdc16f5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00010003-tvlife-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 橋本環奈主演『天久鷹央の推理カルテ』今夜スタート　塚地武雅、酒井若菜、永瀬ゆずな、佐倉綾音らがゲスト出演【第1話あらすじ】
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536276>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/238d735ca5a3c71d288406d57d13597637349ac0f38554fa142dc60365dfb753.jpg> 関税交渉 「コメ標的」に自民警戒
+      <a href=https://news.yahoo.co.jp/pickup/6536288>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/3566feaa8a6139705885beb98a43a181e235f9fdf26658a7382df7f20913caf3.jpg> 農相 コメ輸入拡大に否定的見解
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536278>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハーバード大 トランプ政権を提訴
+      <a href=https://news.yahoo.co.jp/pickup/6536282>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/5034330bde3d57b0638fa1a347b03b83166c59ec348afa34523c1169f87f1062.jpg> 私大学部新設 審査基準を厳格化へ
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536284>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/bc37ccd4cb96203111cfb5c656c7a591d066d47d20479acb61f0c6ebed782c15.jpg> 金価格が1万7千円を突破 史上最高
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536286>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/80287375d26e88de506a556047ddfdd41172b1d07e4554eb97b42d6081402e53.jpg> トランプ氏支持率 2期目で最低に
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536274>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/579313d20d037e099f755c9cabcd937dd2ddce9c9fa686c1ce92689548bc8a52.jpg> 追突で2歳死亡 男「スマホ使用」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536283>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c79f565b370a3021b8d458a6eab1cfa22f4c611e11cf8ab02368e1c7e03b596c.jpg> カシオ「非創業家社長」が退任へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 10:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 11:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
