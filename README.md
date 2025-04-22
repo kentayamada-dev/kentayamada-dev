@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/54a1a67386ddceb8db336572c982a999.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e97089e80a64f1c835a1f68fd5132c19.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a66c2222a3e6a80dd92c6b2128328ff32f3ae2a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000093-mai-000-1-view.jpg?pri=l&w=131&h=192&exp=10800&fmt=webp> 両陛下、青木功さんとゴルフ談義、森下洋子さんに公演の感想　園遊会
+      <a href=https://news.yahoo.co.jp/articles/ed7382888f3fd44317abc761db90679533a60fdd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-34221487-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=1207&ch=1207&exp=10800&fmt=webp> 【楽天】３連勝で日ハム戦の連敗３で止める　８回に浅村、フランコの２発で逆転
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6b8cbcff522bfc57cbe96124ab19c58fb2ed1521>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961678-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米国産コメ 輸入拡大案が浮上　政府・与党内に賛否の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9856844faaaadfaba85ec9b33007e4ee18c18c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00050892-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博ネパール館の工事ストップ　建設費用“未払い”で　インド、ベトナム、ブルネイも開館見送り
       </a>
     </td>
   </tr>
@@ -418,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536318>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/997ac633c6430b05976ccd7eea03a3da4662ccca0174e1bc3c245417746600b2.jpg> ローマ教皇死去 今後の動き解説
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536329>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c61bb1e03a9f6dfb4f1b720bb3cc1a90993566d350fb1d22266100b1e8e8a3de.jpg> 万博ネパール館 未払いで工事停止
       </a>
@@ -450,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536327>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/82380d6cd9e7acc8b6da04828ae392f9d21a0e7822c9b4dae6c387bb885b4509.jpg> 美穂さんお別れ会 小泉今日子が涙
+      <a href=https://news.yahoo.co.jp/pickup/6536341>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a45ae27af51ca75738c9c38d449928f860dc293d2b04b38432efa1a4186eb685.jpg> 楽天・浅村 記念ボール「返して」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536340>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/30deff27a73ec31680626382e847e6fd3281ac2c97ca4c1e47182a9d16e2dced.jpg> 中山美穂さん 一般献花に1万人
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 22:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 22:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
