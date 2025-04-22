@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c07c1b2694e14da101739a33f4e5512e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c691b850cc8e5ec1ebeb22b86edf4ec2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/329550ce72d10dbc74b9f1580cd3d9252c6a42c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00050033-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ローマ教皇の死因は脳卒中と心不全、バチカンが発表…遺言で質素な墓を希望
+      <a href=https://news.yahoo.co.jp/articles/4e40cd4038f816790119113de60024169b6bfb65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000048-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 教皇の奉仕、「恵みに感謝」　バチカンで信者ら追悼
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab5b1989397a266aaa33be37f0906f39ac85205f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-04221009-sph-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=751&ch=751&exp=10800&fmt=webp> パドレス地区首位も止まらぬ負の連鎖、故障者続出…３年連続首位打者で大谷翔平の３冠王阻止男もＩＬ入り
+      <a href=https://news.yahoo.co.jp/articles/713cc413d96370e4f4182e46ba7a5cedac8cc510>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00050036-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=410&ch=410&exp=10800&fmt=webp> 車の安全基準、「国連で策定された基準」…中野国交相がトランプ氏主張に反論
       </a>
     </td>
   </tr>
@@ -375,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2fcd6c6f43ed865a410abf7e29a47c8dc3ef640>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-01739809-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 長女誕生で…大谷翔平に異例の対応　“格付け”そっちのけ「親になるって本当に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4ea3bf3a949841f711cc6e5020291d3acdc16f5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00010003-tvlife-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 橋本環奈主演『天久鷹央の推理カルテ』今夜スタート　塚地武雅、酒井若菜、永瀬ゆずな、佐倉綾音らがゲスト出演【第1話あらすじ】
       </a>
     </td>
   </tr>
@@ -418,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536284>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/bc37ccd4cb96203111cfb5c656c7a591d066d47d20479acb61f0c6ebed782c15.jpg> 金価格が1万7千円を突破 史上最高
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536279>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c1172c0a89746b0644e4b68d4a492e551d721d5812092569c3acf7ae7db5fda7.jpg> 殺人容疑で家宅捜索 男が車で逃走
       </a>
@@ -434,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/0f77bd72ba6670108f3487e2883ffd632cd7cb7d20ce8c5ae200ac757f00bf40.jpg> 面接できつ音伝え 就活生「賭け」
+      <a href=https://news.yahoo.co.jp/pickup/6536283>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c79f565b370a3021b8d458a6eab1cfa22f4c611e11cf8ab02368e1c7e03b596c.jpg> カシオ「非創業家社長」が退任へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536280>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/be3de4838f55dbdda0f62241e3c6f153d7cee06c1201d75be8cf06a8ae5426d2.jpg> パドレス負の連鎖 故障者が続出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536275>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d8690f66049ed05bcd089bafd05e2d240ac3e98d55e58a7d9cda9b38f5ce6f92.jpg> 巨人坂本 18年ぶりの2軍遠征帯同
+      <a href=https://news.yahoo.co.jp/pickup/6536272>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/90ded0667df0a08d794f32488d783155e107124980479d9ad34e79608496a194.jpg> シャウエッセン 好調の裏に「掟」
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 09:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 10:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
