@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d533e48b463624df06ef62621d3cc43d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c07c1b2694e14da101739a33f4e5512e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb2a74a758b0d453ead79997036a73290165b8f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000085-spnannex-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ぺこぱ松陰寺、第2子女児誕生を報告「娘よ、産まれて来てくれてありがとう」妻にも感謝「パパ頑張ります」
+      <a href=https://news.yahoo.co.jp/articles/329550ce72d10dbc74b9f1580cd3d9252c6a42c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00050033-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ローマ教皇の死因は脳卒中と心不全、バチカンが発表…遺言で質素な墓を希望
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ab5b1989397a266aaa33be37f0906f39ac85205f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-04221009-sph-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=751&ch=751&exp=10800&fmt=webp> パドレス地区首位も止まらぬ負の連鎖、故障者続出…３年連続首位打者で大谷翔平の３冠王阻止男もＩＬ入り
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2fcd6c6f43ed865a410abf7e29a47c8dc3ef640>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-01739809-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 長女誕生で…大谷翔平に異例の対応　“格付け”そっちのけ「親になるって本当に」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6c04c47945b2553362e988bb6d6dccb592d0066>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000021-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> バチカンで信者ら祈り　ローマ教皇、死因は脳卒中
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536276>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/238d735ca5a3c71d288406d57d13597637349ac0f38554fa142dc60365dfb753.jpg> 関税交渉 「コメ標的」に自民警戒
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536267>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c378936e694872c71f74708972b98722a1ec058ecde6c79e55f7935d724b9258.jpg> 教皇死去 石破首相が談話を発表
       </a>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/3b4a8f96ca413b3a530be1984ce7d7e3fe5fd4bb9651560fc0c3c5633286c249.jpg> NYダウ 一時1300ドル超の下落
+      <a href=https://news.yahoo.co.jp/pickup/6536278>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ハーバード大 トランプ政権を提訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536264>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/ad9e5db98cd55d90c92261720f50b17dd8f011fbe19ffc0924e9830415ec703f.jpg> ガソリン価格 1L10円引き下げへ
+      <a href=https://news.yahoo.co.jp/pickup/6536279>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c1172c0a89746b0644e4b68d4a492e551d721d5812092569c3acf7ae7db5fda7.jpg> 殺人容疑で家宅捜索 男が車で逃走
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536271>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/aed251e141cf822d946bf3355c27e24f940493ef601c377184db705375e42c9c.jpg> 都区部の「家賃」30年ぶり上昇率
+      <a href=https://news.yahoo.co.jp/pickup/6536270>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/0f77bd72ba6670108f3487e2883ffd632cd7cb7d20ce8c5ae200ac757f00bf40.jpg> 面接できつ音伝え 就活生「賭け」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536270>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/0f77bd72ba6670108f3487e2883ffd632cd7cb7d20ce8c5ae200ac757f00bf40.jpg> 面接できつ音伝え 就活生「賭け」
+      <a href=https://news.yahoo.co.jp/pickup/6536280>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/be3de4838f55dbdda0f62241e3c6f153d7cee06c1201d75be8cf06a8ae5426d2.jpg> パドレス負の連鎖 故障者が続出
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536277>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/72bcd7dbf9aa6a15d322a13b98af0bbbfd353544a42f5bba106276f0e37b5b57.jpg> ぺこぱ・松陰寺 第2子女児が誕生
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 09:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 09:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
