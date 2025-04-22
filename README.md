@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b52a74d23de5a6d9729403b7c7616cc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f7f0bf08e49c9c04d1a03a03c8bcb43a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9bdfb32a26b2f2b1775b563b8eaa8eb9a6e07c83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000019-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> インド・カシミール地方で武装勢力が観光客に発砲、20人超死亡か
+      <a href=https://news.yahoo.co.jp/articles/fb8ca189234e0fc0607ff5aa6f440991b50e9abc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-35232153-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=525&cy=0&cw=675&ch=675&exp=10800&fmt=webp> インド北部で銃撃、観光客ら２６人死亡　武装勢力が発砲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/04e36a05b65da8b9fdb06e894e729bbd689245f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34221152-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 中山美穂さんお別れの会に涙　妹・忍「夢だったら良かったのに」小泉今日子が弔辞「かわいい妹」
+      <a href=https://news.yahoo.co.jp/articles/0ea9b4ae78647c02efd532d821261a6e64aafb88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-10503108-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=260&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 楽天・浅村栄斗が史上47人目の通算300号達成！谷沢氏「右翼方向に狙って打つというのは浅村らしい」
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536341>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a45ae27af51ca75738c9c38d449928f860dc293d2b04b38432efa1a4186eb685.jpg> 楽天・浅村 記念ボール「返して」
+      <a href=https://news.yahoo.co.jp/pickup/6536351>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/7f1a5e1da9ed24e79acef7cdd762f07ecf74c625dad01a0445d3ada498c0d94e.jpg> 藤浪晋太郎が大乱調 本拠地騒然
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536327>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/82380d6cd9e7acc8b6da04828ae392f9d21a0e7822c9b4dae6c387bb885b4509.jpg> 美穂さんお別れ会 小泉今日子が涙
+      <a href=https://news.yahoo.co.jp/pickup/6536350>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f46b0f83ae7e2db33d892aa6d6af796c5eb57400a4d6e5eabb31825850955324.jpg> 「AI橋田壽賀子」企画 作品放送へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 06:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 06:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
