@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/89a30c14715fe62f495dbfce804d4c53.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d533e48b463624df06ef62621d3cc43d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb2a74a758b0d453ead79997036a73290165b8f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000085-spnannex-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ぺこぱ松陰寺、第2子女児誕生を報告「娘よ、産まれて来てくれてありがとう」妻にも感謝「パパ頑張ります」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d2fcd6c6f43ed865a410abf7e29a47c8dc3ef640>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-01739809-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 長女誕生で…大谷翔平に異例の対応　“格付け”そっちのけ「親になるって本当に」
       </a>
@@ -365,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64e1353eba05b601008f3a1fd7952f0edd3a9f08>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000015-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ローマ教皇死去で後継者選びへ、非欧州系・進歩派の路線踏襲されるか
+      <a href=https://news.yahoo.co.jp/articles/f6c04c47945b2553362e988bb6d6dccb592d0066>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000021-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> バチカンで信者ら祈り　ローマ教皇、死因は脳卒中
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f6c04c47945b2553362e988bb6d6dccb592d0066>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> バチカンで信者ら祈り　ローマ教皇、死因は脳卒中
+      <a href=https://news.yahoo.co.jp/articles/63afce2aa83ce1219138f58f7a2a51bc6ae662e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00341893-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 新間寿さん〝幻〟に終わった柔道・山下泰裕氏のプロレス入り　後年サウナで遭遇し…驚きの後日談
       </a>
     </td>
   </tr>
@@ -426,24 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536258>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/21/352ea74dd64054dbc883c38b5ac16bb5d8cfa2dd8c75d3ed4ab309c78b7cca59.jpg> 万博の警備員が土下座か 動画撮影
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c243bddc0d93e67eaa59d3e54af29b57152ec59d8275299312d64c1e8fa05e03.jpg> 160万円階段昇降機 中学が誤廃棄
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536270>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/0f77bd72ba6670108f3487e2883ffd632cd7cb7d20ce8c5ae200ac757f00bf40.jpg> 面接できつ音伝え 就活生「賭け」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536275>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d8690f66049ed05bcd089bafd05e2d240ac3e98d55e58a7d9cda9b38f5ce6f92.jpg> 巨人坂本 18年ぶりの2軍遠征帯同
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/72bcd7dbf9aa6a15d322a13b98af0bbbfd353544a42f5bba106276f0e37b5b57.jpg> ぺこぱ・松陰寺 第2子女児が誕生
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 08:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 09:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
