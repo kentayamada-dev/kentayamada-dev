@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ef764ffcf7fae0da0016ff6e180e05b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4cc038a53549cecc25490694a9151cb9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7a6f7b8e0c1ff572e6c8e72cada3e787a056fd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000031-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 「大きな損失」日本政府　ローマ教皇死去に哀悼の意
+      <a href=https://news.yahoo.co.jp/articles/bfbef981e11436ca2ac4ad92675adeea5b6b4b13>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-21869908-rccv-000-1-thumb.jpg?exp=10800&fmt=webp> 「涙をふいて下さった…」 ローマ教皇と抱擁交わした被爆者の思い　広島でも悲しみ広がる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/363feb7a841c79ecf633feb1bbd6b4deaf8f5ccf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961244-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【中継】アメリカ産の米の輸入拡大案浮上…トランプ政権との関税交渉めぐり自動車関税の見直し進展させる狙い　江藤農水相「国民全体として考えたい」
+      <a href=https://news.yahoo.co.jp/articles/c41451b5e033dc7a78469ae0592619e88e48d810>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000034-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ関税交渉めぐり　コメの輸入拡大を検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ab97200973d71c96d72bdfe052970bfd49425af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-08795335-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 政府、米国産コメ輸入拡大案を検討　関税協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aebdb9bb8b90c9bc2201b2457cff14f459b2c81f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 武藤経産相、EV充電規格議論も　中野国交相、自動車安全試験を擁護　日米交渉
+      <a href=https://news.yahoo.co.jp/articles/1a505807497e1c7cfc449f717acbb54cf92912af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-90026093-ohk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】村上総務相”法にのっとり厳正対応検討”吉備中央町のふるさと納税…コメ調達費上限超えか【岡山】
       </a>
     </td>
   </tr>
@@ -394,24 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536292>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/3566feaa8a6139705885beb98a43a181e235f9fdf26658a7382df7f20913caf3.jpg> 農相 コメ輸入拡大に懸念示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536282>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/5034330bde3d57b0638fa1a347b03b83166c59ec348afa34523c1169f87f1062.jpg> 私大学部新設 審査基準を厳格化へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536284>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/bc37ccd4cb96203111cfb5c656c7a591d066d47d20479acb61f0c6ebed782c15.jpg> 金価格が1万7千円を突破 史上最高
+      <a href=https://news.yahoo.co.jp/pickup/6536298>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/da472e2052416c3edb607fa75917f3b013492e63096a56cc2eb3945484636780.jpg> 町の米返礼に厳正対応検討 総務相
       </a>
     </td>
   </tr>
@@ -426,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536279>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c1172c0a89746b0644e4b68d4a492e551d721d5812092569c3acf7ae7db5fda7.jpg> 殺人容疑で家宅捜索 男が車で逃走
+      <a href=https://news.yahoo.co.jp/pickup/6536295>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/25b0bd8f3efc0d2dfe13f99ea8a79f5cae85f37bc59b528a02001fb0e1861bd5.jpg> 捜索直前に男逃走 捜査員3人けが
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536284>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/bc37ccd4cb96203111cfb5c656c7a591d066d47d20479acb61f0c6ebed782c15.jpg> 金価格が1万7千円を突破 史上最高
       </a>
     </td>
   </tr>
@@ -436,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536290>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 指定暴力団・稲川会トップが死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536297>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/8f5eebbbf29d79ca5083dc8df450fd852ae69ef36f0b012a0678738f5c2f21f7.jpg> 阪神・佐藤輝 逆方向HR量産の訳
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 12:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 12:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
