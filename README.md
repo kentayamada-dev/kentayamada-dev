@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1e7f249c259886e9dfcecabbb78c4b82.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f737dd222f43b8a1077094b8b061295d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/793d8bd52c24d990fbd81fda0a61babb481bb86d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000010-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 教皇、亡くなる前日の行事は「サプライズ」　最期の様子明らかに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/67f359521946d7100e0726e783b292b48bd1b84e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050028-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=333&ch=333&exp=10800&fmt=webp> インド・カシミール地方で武装集団が観光客ら銃撃、少なくとも２０人死亡…地元警察はテロとみて捜査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a0aa4f8f6585e696578f68d518d08d9046c543cc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-08172528-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=185&cw=640&ch=640&exp=10800&fmt=webp> 中山忍「ただもう一度会いたい」　亡き姉・中山美穂さんのお別れの会で喪主　涙ながらに思いを語る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af10e7575c3c04405be6ef8523632189ad800943>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00961759-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=493&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> インド・パキスタン係争地で観光客に発砲26人死亡　モディ首相「背後にいるものに裁き」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f820ee59f724e25104cef0fb6141cebe476e0391>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000008-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=460&ch=460&exp=10800&fmt=webp> 「人々とともに」　ローマ教皇が最後の復活祭で口にした感謝
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/13e0e4b4ab0f26685927fb745fa244da7a19d97e641d55b0f12f645b102f17c1.jpg> 公立高「単願制」見直し 首相指示
+      <a href=https://news.yahoo.co.jp/pickup/6536354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f080591e1d03e74deefce7e9d313cc649b58a36a7a234f20e02c6bf5c3d049bc.jpg> 世界成長率2.8%に下方修正 IMF
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f080591e1d03e74deefce7e9d313cc649b58a36a7a234f20e02c6bf5c3d049bc.jpg> 世界成長率2.8%に下方修正 IMF
+      <a href=https://news.yahoo.co.jp/pickup/6536345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/13e0e4b4ab0f26685927fb745fa244da7a19d97e641d55b0f12f645b102f17c1.jpg> 公立高「単願制」見直し 首相指示
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536332>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/4274b4c6e831e9b04c45933b8a1411c7102fe7a33211f5db37b9ea0a3ced5331.jpg> マツダ 希望退職者を500人募集
+      <a href=https://news.yahoo.co.jp/pickup/6536355>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/48d528b3478761230025b6ea62a9955f6b255a9fc7bdc8d4ce466786907fd90a.jpg> 郵便局の不適切点呼 全国の7割で
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 07:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 07:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
