@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/25df31d3dd27841b5a3cfe02b77406d8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bed6805f73fa070eeb1e8a3e934848f6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db8eea97a52ea7b7c80ef14a1b0903abbeec366c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 詐欺疑い3人逮捕、「ルフィ」事件も関与か
+      <a href=https://news.yahoo.co.jp/articles/126cb9c5fadc0afcb7605558f7965f7cb8a2df4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000096-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=133&cw=734&ch=734&exp=10800&fmt=webp> マネロン組織メンバー逮捕　ルフィグループにも関与か
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c41451b5e033dc7a78469ae0592619e88e48d810>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000034-ann-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税交渉めぐり　コメの輸入拡大を検討
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000034-ann-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ関税交渉めぐり　コメの輸入拡大を検討
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/3009017d89f01a0dc8f0d92dc71a4f65178bfd4e6951c1ca36f66c7464012db2.jpg> 「架空名義口座」捜査に導入 政府
+      <a href=https://news.yahoo.co.jp/pickup/6536305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a0efd1058138569b55f2644a92e5124ebe7c5a713873945a96c837346b3b0044.jpg> 下がらないコメ価格 農相が謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536286>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/80287375d26e88de506a556047ddfdd41172b1d07e4554eb97b42d6081402e53.jpg> トランプ氏支持率 2期目で最低に
+      <a href=https://news.yahoo.co.jp/pickup/6536300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/e4e1f438eb0c9ff39ffc6242e122dfc75ae7989745d6c4482d12aeb9ddfa1252.jpg> JR脱線20年 月命日に現場撮る夫
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536287>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/3009017d89f01a0dc8f0d92dc71a4f65178bfd4e6951c1ca36f66c7464012db2.jpg> 「架空名義口座」捜査に導入 政府
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536298>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/da472e2052416c3edb607fa75917f3b013492e63096a56cc2eb3945484636780.jpg> 町の米返礼に厳正対応検討 総務相
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536295>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/25b0bd8f3efc0d2dfe13f99ea8a79f5cae85f37bc59b528a02001fb0e1861bd5.jpg> 捜索直前に男逃走 捜査員3人けが
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 13:30:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 14:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
