@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b15d0f6237cd47639f5a8be30f3e67f0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d7ae163503a7b11483d4df77544dab83.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfefdce7ca54a3bf0ad1450ac242557e6e8ec8a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000001-jct-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> フランシスコ教皇の訃報に世界が悲しみ　映画「教皇選挙」公開中に...公式X「面影を探し、重ねてしまいます」
+      <a href=https://news.yahoo.co.jp/articles/ebb87e91003efce75810e76f49dc4af626f77db3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000024-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 「農業者が意欲を失う」　江藤農相、米産コメ輸入拡大案に不快感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4abf0bea41074ad2951cd6404570dc1bbdd05e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-07231984-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=423&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> SNS詐欺など　政府が総合対策改定案を決定　架空名義口座を利用した新捜査手法を検討
+      <a href=https://news.yahoo.co.jp/articles/06715f49c62748004a89e58f6b6e289a9c46886b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自民・森山幹事長、コメ輸入拡大に慎重
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a57388128ca593624615e71a96961da5d2eeb83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-34220190-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=15&cw=1042&ch=1042&exp=10800&fmt=webp> ダウンタウンDX終了発表　出演したピン芸人も衝撃「そんな時代が来るのか…」
+      <a href=https://news.yahoo.co.jp/articles/6e5792dcb5c6237eb39eb93901b086aa5bca922c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ローマ教皇フランシスコが88歳で死去、各国首脳やバチカンの観光客からも追悼の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/713cc413d96370e4f4182e46ba7a5cedac8cc510>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00050036-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=56&cy=0&cw=410&ch=410&exp=10800&fmt=webp> 車の安全基準、「国連で策定された基準」…中野国交相がトランプ氏主張に反論
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2fcd6c6f43ed865a410abf7e29a47c8dc3ef640>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-01739809-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 長女誕生で…大谷翔平に異例の対応　“格付け”そっちのけ「親になるって本当に」
+      <a href=https://news.yahoo.co.jp/articles/3786861bf9baa128d64b844b74f3a0ef12080d97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00080008-chosun-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 韓国、日本にコメ22トン輸出　過去35年間で最大規模
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536288>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/3566feaa8a6139705885beb98a43a181e235f9fdf26658a7382df7f20913caf3.jpg> 農相 コメ輸入拡大に否定的見解
+      <a href=https://news.yahoo.co.jp/pickup/6536292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/3566feaa8a6139705885beb98a43a181e235f9fdf26658a7382df7f20913caf3.jpg> 農相 コメ輸入拡大に懸念示す
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536274>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/579313d20d037e099f755c9cabcd937dd2ddce9c9fa686c1ce92689548bc8a52.jpg> 追突で2歳死亡 男「スマホ使用」
+      <a href=https://news.yahoo.co.jp/pickup/6536290>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 指定暴力団・稲川会トップが死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/90ded0667df0a08d794f32488d783155e107124980479d9ad34e79608496a194.jpg> シャウエッセン 好調の裏に「掟」
+      <a href=https://news.yahoo.co.jp/pickup/6536289>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02179938/title-1745222648052.jpeg?exp=10800> 芸人の「俳優化」が進行 なぜ
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 11:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 11:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
