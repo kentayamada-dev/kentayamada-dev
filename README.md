@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f7f0bf08e49c9c04d1a03a03c8bcb43a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1e7f249c259886e9dfcecabbb78c4b82.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb8ca189234e0fc0607ff5aa6f440991b50e9abc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-35232153-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=525&cy=0&cw=675&ch=675&exp=10800&fmt=webp> インド北部で銃撃、観光客ら２６人死亡　武装勢力が発砲
+      <a href=https://news.yahoo.co.jp/articles/a0aa4f8f6585e696578f68d518d08d9046c543cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-08172528-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=185&cw=640&ch=640&exp=10800&fmt=webp> 中山忍「ただもう一度会いたい」　亡き姉・中山美穂さんのお別れの会で喪主　涙ながらに思いを語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ea9b4ae78647c02efd532d821261a6e64aafb88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-10503108-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=260&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 楽天・浅村栄斗が史上47人目の通算300号達成！谷沢氏「右翼方向に狙って打つというのは浅村らしい」
+      <a href=https://news.yahoo.co.jp/articles/af10e7575c3c04405be6ef8523632189ad800943>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00961759-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=493&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> インド・パキスタン係争地で観光客に発砲26人死亡　モディ首相「背後にいるものに裁き」
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536348>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 印北部で観光客に発砲 20人超死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f080591e1d03e74deefce7e9d313cc649b58a36a7a234f20e02c6bf5c3d049bc.jpg> 世界成長率2.8%に下方修正 IMF
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536352>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/63db79d0c24b4bdff7499062fc16d7654d80cd6ac39f0807d8fd054174a64a43.jpg> NY株急反発 米中対立軟化に期待
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536338>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/33c4bc3de731d50b5382cc7702d995fc84057663e74182fd4625eaeb36af04e6.jpg> 万博警備員が土下座 当時の状況は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536343>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/60fd8c1f411b3c0be8c7722c0ebbc463dfd94e509c8d7ed0ac5fe7ac02e200ce.jpg> 70代教授 2200万円のSNS詐欺被害
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 06:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 07:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
