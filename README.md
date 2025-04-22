@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/53dfb6a8b405f7efc2d53f8422431864.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5e1492e27019f90f0a3fb9014c6b9583.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97ae3e28b5a3c5094b3bcc012921481bd08eea21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新エルグランドを26年度に発売　日産、16年ぶり全面改良
+      <a href=https://news.yahoo.co.jp/articles/0e5fd0be90d7543b7613cbcf7ee8b81015ccc392>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-01535317-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【解説】コメ価格、今後の見通しは？　政府がアメリカ産コメ輸入拡大案を検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1451857456341949148c0eb94b502ceacce69f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-09399574-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フランシスコ教皇の葬儀は日本時間26日に～ロイター通信
+      <a href=https://news.yahoo.co.jp/articles/0bb8bb74cec7667479d00f3386ed6fe14568c48f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000169-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ローマ教皇、26日に葬儀　米仏首脳ら参列、弔問外交
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0292c3cbcc609578cea740d8e19e8707db005b26>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000157-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 【独自】米国産コメ輸入増6万トン軸　政府、関税交渉で譲歩検討
+      <a href=https://news.yahoo.co.jp/articles/ee46434add125e64b72877265b79cd0726a825ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961472-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=313&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 「纏向犬」邪馬台国の“有力候補”遺跡で発見された犬の骨　復元模型が完成　卑弥呼がかわいがったった可能性も
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536321>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1e6b451ddb055339423c2b568ec24b2e46315a791a0d9eda51342c45c1a193e4.jpg> 日産「新型エルグランド」初公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536312>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d598d5a838703362095ee1889410b4ab22728e00f8759202d48bd24b0fb662bf.jpg> 「かぜ症状」の患者数 データ公開
       </a>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/2ab3e84e62d6dca49c14d13699faf8ad349e7ba9a962cf3c9fc8d8f1985eb7fd.jpg> 珍事 ヤクルト4月5度目の雨天中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536310>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/7c7d4b3b89dd95aac10410ab4b4d279f329c83a82b17858ac4f615b558ddd801.jpg> テレ朝社長 石橋貴明巡る騒動言及
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 18:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 18:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
