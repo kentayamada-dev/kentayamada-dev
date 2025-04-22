@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a5e32fb3259fa00245f78fdd35c1ffd3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ced2a2ab8b00c7d7441fcea49c970b1e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7ea719a3e99920de8567260ea709d958636d0d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000100-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 赤沢経済再生相、5月上旬に2度目の訪米調整　トランプ関税巡り協議
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f8c4a2df8f3c1209aac29860a0af161169b09151>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000368-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 楽天・浅村　通算300号記念球返ってきた！異例ヒロインで「返して」お願い…無事に手元へ
       </a>
@@ -373,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8c52031ced6d9eaa18e909aaa731f74a38db583>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-06392913-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> フランシスコ教皇の葬儀、日本時間26日午後5時から　ゼレンスキー大統領が参列の意向
+      <a href=https://news.yahoo.co.jp/articles/c43b86d317c53d6ea91012305f999c8284e734f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00010007-elleonline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=512&ch=512&exp=10800&fmt=webp> ローマ教皇をセレブ＆ロイヤルが追悼　「あなたを笑わせることができて嬉しく思う」
       </a>
     </td>
   </tr>
@@ -418,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/0a648eae9be9e331d0fdb1413a558451de5bd6e69a4fa8d50d187a2f6adc613c.jpg> コカ・コーラ 飲料ほぼ全品値上げ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536343>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/60fd8c1f411b3c0be8c7722c0ebbc463dfd94e509c8d7ed0ac5fe7ac02e200ce.jpg> 70代教授 2200万円のSNS詐欺被害
       </a>
@@ -448,11 +432,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536327>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/82380d6cd9e7acc8b6da04828ae392f9d21a0e7822c9b4dae6c387bb885b4509.jpg> 美穂さんお別れ会 小泉今日子が涙
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 00:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 01:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
