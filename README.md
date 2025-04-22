@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b8edd07f8e0f653771d37d1c69077b44.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b72f1bce4697ca8bdeff5b681f57ab7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4fb022ba10e70e7d799cd7e47a34ead4db660d90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-07232077-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> アメリカ関税措置は“トランプショック”　自民党が石破総理に提言を手交　交渉の焦点にコメなど農産物輸入拡大
+      <a href=https://news.yahoo.co.jp/articles/25226100a974b986ebb39094c0ba5ca00ae1bc4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000128-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=169&cw=662&ch=662&exp=10800&fmt=webp> 衝突事故で女児意識不明、札幌　軽乗用車とトラック
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed9a65829ede3cdbd48421a737d834265687b21b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-03622365-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米国産のコメ輸入拡大案の検討　自民・松山参院幹事長「極めて慎重な対応が必要」
+      <a href=https://news.yahoo.co.jp/articles/6e23b106c973e2f122b99b1e0c477071f6f613c5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000197-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=234&ch=234&exp=10800&fmt=webp> ストロングスタイルプロレス　21日に死去した新間寿さん葬儀日程発表 29日に通夜、30日に告別式
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d051d6ed96da7aaaf95d75ccdb717542724d506>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00433106-fashions-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> カシオ計算機がトップ交代、新社長に高野晋CFO　樫尾和宏会長は留任
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfbef981e11436ca2ac4ad92675adeea5b6b4b13>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-21869908-rccv-000-1-thumb.jpg?exp=10800&fmt=webp> 「涙をふいて下さった…」 ローマ教皇と抱擁交わした被爆者の思い　広島でも悲しみ広がる
+      <a href=https://news.yahoo.co.jp/articles/bd9b930f0f4066bd22d6f2eee4eee903ea0bc46c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000046-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=425&ch=425&exp=10800&fmt=webp> バチカンが枢機卿会議を開催へ　葬儀や次期教皇選挙の日程など議論
       </a>
     </td>
   </tr>
@@ -410,24 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536305>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a0efd1058138569b55f2644a92e5124ebe7c5a713873945a96c837346b3b0044.jpg> 下がらないコメ価格 農相が謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d0359cfb2aacebe4c8dc0015693daa8ee5bd526a931e956f63ac4a13980dcefe.jpg> 休憩時間巡り Jetstarに賠償命令
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536301>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/bf6db87cdea85edbd254b88e1d26b98657f4e5c42590708157610d464d32c4a9.jpg> 流産で離職 損失年466億円と算出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536316>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1b31034dca1130664b408c545a1bb506d62b01a0033192642a1497dd63a759d3.jpg> 車とトラック衝突 2歳が心肺停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a0efd1058138569b55f2644a92e5124ebe7c5a713873945a96c837346b3b0044.jpg> 下がらないコメ価格 農相が謝罪
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 16:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 17:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
