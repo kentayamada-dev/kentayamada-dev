@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/31f5863b6111f65b23df7647c99f8dcb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d506f2aeac462c761ee11af1e4d6c0e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b7ea719a3e99920de8567260ea709d958636d0d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000100-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 赤沢経済再生相、5月上旬に2度目の訪米調整　トランプ関税巡り協議
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f8c4a2df8f3c1209aac29860a0af161169b09151>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000368-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 楽天・浅村栄斗　通算300本塁打記念ボールの行方は…異例の「返してください」お願いの後に手元へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000368-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 楽天・浅村　通算300号記念球返ってきた！異例ヒロインで「返して」お願い…無事に手元へ
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a8c52031ced6d9eaa18e909aaa731f74a38db583>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-06392913-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> フランシスコ教皇の葬儀、日本時間26日午後5時から　ゼレンスキー大統領が参列の意向
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b8cbcff522bfc57cbe96124ab19c58fb2ed1521>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961678-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米国産コメ 輸入拡大案が浮上　政府・与党内に賛否の声
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536336>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/f47f3e0b5cdb1021f66122e24332d17f9f70de954e42877d7fa01a98a3a364b2.jpg> 金正恩氏の最側近 身辺に異変か
+      <a href=https://news.yahoo.co.jp/pickup/6536337>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/e349622da8643f2e8381a11420087b42b0f8ad3369c0ccf2bf2d85160e9d42d3.jpg> NHK建て替え 完成時期7年先送り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536335>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/0d0a35b1a7790d17948b8849584e217ad70d5532c45bb08ae98ba71aba03f04e.jpg> 春の園遊会 62年ぶりにルート変更
+      <a href=https://news.yahoo.co.jp/pickup/6536336>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/f47f3e0b5cdb1021f66122e24332d17f9f70de954e42877d7fa01a98a3a364b2.jpg> 金正恩氏の最側近 身辺に異変か
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/2aa8308679d160f4d4c928a15d0f62ee12e34ec6e87eb38d714bcdafd5588a07.jpg> 卑弥呼のペット? 「犬」の姿復元
+      <a href=https://news.yahoo.co.jp/pickup/6536344>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/88b85b38db8f98a2e37e09d0a495ba245c58d8581a31359e1deb7745f80a4abb.jpg> 過度なダイエット 元モデルの後悔
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 23:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 23:52:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
