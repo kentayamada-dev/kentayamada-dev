@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bda1f9e5e7c4ea0e702d5bced21cefab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9f1ac9a054f7b9f1b8a7773ce1d0a356.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f4398a996637f439f5d8972a1d0094f4737c4a7a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000083-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「目が据わっていて怖かった」　全裸男性が塾に侵入、突然殴られ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/45c1bc5e3bbf269cbc5585271fe0173a491db649>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000086-ann-000-1-thumb.jpg?exp=10800&fmt=webp> フランシスコ教皇の葬儀は26日　ローマにある教会の簡素な墓への埋葬を希望
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000086-ann-000-2-thumb.jpg?exp=10800&fmt=webp> フランシスコ教皇の葬儀は26日　ローマにある教会の簡素な墓への埋葬を希望
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd58a66cffc06f5bc466178d835a6ce69c6fec30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000068-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 小泉今日子、中山美穂さんの『取扱説明書』5項目読み上げ　天国の“妹”へお別れの言葉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c63b58662d0d05bfbbad8e0a895bc0f1aa1a99fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000110-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=178&cw=844&ch=844&exp=10800&fmt=webp> 政府、コメ輸入拡大を検討　日米交渉、「カード」精査
+      <a href=https://news.yahoo.co.jp/articles/907a91f50cfe930ef476c505709a644f14d3b61b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-90023248-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ関税どう戦う？　政府は“コメ輸入拡大”を検討
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 20:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 20:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
