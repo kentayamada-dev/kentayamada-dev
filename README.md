@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3b72f1bce4697ca8bdeff5b681f57ab7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4663a2bfd578a4920b637532a7fcd54b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7f594dae38c382def59a46c093c567f23620e7b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00483320-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=1283&ch=1283&exp=10800&fmt=webp> メッシもローマ教皇の逝去を受けて追悼「ご冥福をお祈りします」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/25226100a974b986ebb39094c0ba5ca00ae1bc4b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000128-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=169&cw=662&ch=662&exp=10800&fmt=webp> 衝突事故で女児意識不明、札幌　軽乗用車とトラック
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e23b106c973e2f122b99b1e0c477071f6f613c5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000197-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=234&ch=234&exp=10800&fmt=webp> ストロングスタイルプロレス　21日に死去した新間寿さん葬儀日程発表 29日に通夜、30日に告別式
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd9b930f0f4066bd22d6f2eee4eee903ea0bc46c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000046-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=425&ch=425&exp=10800&fmt=webp> バチカンが枢機卿会議を開催へ　葬儀や次期教皇選挙の日程など議論
+      <a href=https://news.yahoo.co.jp/articles/2212d1ebc91086d72ebbf36719b11db45177ce33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00029518-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> ゴールデンウィークの天気　晴れて行楽日和の日が多い　後半は季節外れの暑さに注意
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536301>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/bf6db87cdea85edbd254b88e1d26b98657f4e5c42590708157610d464d32c4a9.jpg> 流産で離職 損失年466億円と算出
+      <a href=https://news.yahoo.co.jp/pickup/6536315>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/42d68cc3fa6f9a71d88e573dbb940da616d750f87d3eb62731c9fc1c8f2611d1.jpg> カシオが社長交代 現CFOが就任へ
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536316>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1b31034dca1130664b408c545a1bb506d62b01a0033192642a1497dd63a759d3.jpg> 車とトラック衝突 2歳が心肺停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536305>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a0efd1058138569b55f2644a92e5124ebe7c5a713873945a96c837346b3b0044.jpg> 下がらないコメ価格 農相が謝罪
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536312>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d598d5a838703362095ee1889410b4ab22728e00f8759202d48bd24b0fb662bf.jpg> 「かぜ症状」の患者数 データ公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536310>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/7c7d4b3b89dd95aac10410ab4b4d279f329c83a82b17858ac4f615b558ddd801.jpg> テレ朝社長 石橋貴明巡る騒動言及
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 17:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 17:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
