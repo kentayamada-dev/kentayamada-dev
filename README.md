@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5db37cd71bf667ef7ee29319981b49d7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/54a1a67386ddceb8db336572c982a999.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45596e6b1d3f92bbda99404012dcefa1351e28fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-09632865-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「春の園遊会」両陛下と皇族方が各界功労者と歓談
+      <a href=https://news.yahoo.co.jp/articles/a66c2222a3e6a80dd92c6b2128328ff32f3ae2a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000093-mai-000-1-view.jpg?pri=l&w=131&h=192&exp=10800&fmt=webp> 両陛下、青木功さんとゴルフ談義、森下洋子さんに公演の感想　園遊会
       </a>
     </td>
   </tr>
@@ -395,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/fe96dd6ff0a9ef1450634c05ec9f67f86e9a632d81ee08f59485dd479aa6c9a3.jpg> ガソリン1L10円引き下げ 首相表明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/8669da70450cc127f8af3bc8bb1f36f5c8b648c2f161e2ab20737b7a94500e43.jpg> ガソリン1L10円引き下げ 首相表明
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/fa1205a6b57b3759e9f4b5f0eed1c71ebfe41467024a6a0c9b323a6cb6ef229b.jpg> 侵入容疑の男 死亡ひき逃げ関与か
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/8ff216547db531b4c483a1e75ecdb31ed6c94b71bc8b0010c3c734c10c5580fa.jpg> 侵入容疑の男 死亡ひき逃げ関与か
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536330>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d9698e66212419d19bd2f57a168ecc0509818230582b4c069e9f8bb61aea66e5.jpg> 違法カジノ ホークス関係者不起訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536329>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c61bb1e03a9f6dfb4f1b720bb3cc1a90993566d350fb1d22266100b1e8e8a3de.jpg> 万博ネパール館 未払いで工事停止
       </a>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/0a648eae9be9e331d0fdb1413a558451de5bd6e69a4fa8d50d187a2f6adc613c.jpg> コカ・コーラ 飲料ほぼ全品値上げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536327>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/82380d6cd9e7acc8b6da04828ae392f9d21a0e7822c9b4dae6c387bb885b4509.jpg> 美穂さんお別れ会 小泉今日子が涙
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 21:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 22:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
