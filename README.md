@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ade30dac58ac4ff797091725419c02b4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e009f2ec294c02334cfd0b9fa0c17186.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f34a85d9ef77cd41b1d4a43bbc18c4806230abee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000014-mai-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> トランプ氏、5月にサウジなど中東歴訪　2期目初外遊はローマ教皇葬儀
+      <a href=https://news.yahoo.co.jp/articles/7b3fe0d68fee626137f7f5b89d57b77b8bb14e62>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> トランプ氏とゼレンスキー氏、ローマ教皇の葬儀出席へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78317234c0aa4993829d1043791ac81da91a12d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000098-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 藤浪晋太郎が大炎上　3Aで4四球3暴投で3失点　1死しか奪えず降板　防御率13・50に
+      <a href=https://news.yahoo.co.jp/articles/db488175b8d38f8bca583c504d51708df156cb50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-04231019-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 藤浪晋太郎が４四球＆３暴投で３失点ＫＯ　１死しか奪えず防御率１３・５０…ストライク率２５％
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/63db79d0c24b4bdff7499062fc16d7654d80cd6ac39f0807d8fd054174a64a43.jpg> NY株急反発 米中対立軟化に期待
+      <a href=https://news.yahoo.co.jp/pickup/6536362>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/487597ba309d998ec65993f23686d9221736319ecbe4943b84827d44adca265a.jpg> 露軍 クルスク州完全奪還の可能性
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536358>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/61e2d2483ab879019f82f63c79f0a3b01e51111e3f12fcecd0af60a20ac55a23.jpg> 知床事故3年 1300万円集めた漁師
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536359>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/fdc11b00682e931ef3bd0363298b7c59206e3c76ad957c168076857ae96ebcfb.jpg> 外食 割安のモーニング需要高まり
       </a>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536344>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/88b85b38db8f98a2e37e09d0a495ba245c58d8581a31359e1deb7745f80a4abb.jpg> 過度なダイエット 元モデルの後悔
+      <a href=https://news.yahoo.co.jp/pickup/6536360>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/cfef7ad08403c39baa61884eb0569c3c2515ea172ee8162fd7a2784c77b81c37.jpg> W杯放映権 FIFAが電通以外で調整
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536350>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f46b0f83ae7e2db33d892aa6d6af796c5eb57400a4d6e5eabb31825850955324.jpg> 「AI橋田壽賀子」企画 作品放送へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 08:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 08:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
