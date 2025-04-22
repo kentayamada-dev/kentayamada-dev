@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1700ecccdcbae083b137a6902df603c2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/48b946872d2bab8d91cb3d91f92debb1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03a8159083a885e8afe0dbe85f6a87fdeba72a7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961357-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=419&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「選挙近いから補助復活は姑息」国民・玉木代表が政府与党のガソリン価格10円引き下げ補助案について批判
+      <a href=https://news.yahoo.co.jp/articles/2e22fa78970435913b999c09862d963cb0fe3207>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-07232048-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=467&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメの輸入拡大議論めぐり自民党幹部から警戒の声相次ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7c381df0b8b356bca02469cb96b34fec3c583cc3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-92600001-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 斉藤公明代表がきょう訪中、首相の親書を携行－政党間外交で意思疎通
+      <a href=https://news.yahoo.co.jp/articles/ed9a65829ede3cdbd48421a737d834265687b21b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-03622365-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米国産のコメ輸入拡大案の検討　自民・松山参院幹事長「極めて慎重な対応が必要」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/03a8159083a885e8afe0dbe85f6a87fdeba72a7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961357-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=419&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「選挙近いから補助復活は姑息」国民・玉木代表が政府与党のガソリン価格10円引き下げ補助案について批判
       </a>
     </td>
   </tr>
@@ -379,19 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c41451b5e033dc7a78469ae0592619e88e48d810>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000034-ann-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ関税交渉めぐり　コメの輸入拡大を検討
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536309>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c369a584eea675a7860a564cac7e71eeb0514ed7befdf71271e77729ec707554.jpg> 一時1ドル139円台 7カ月ぶり水準
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536306>
@@ -418,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/cbee6197a7d737b6e10e9f580b97d74a0f497c65ffda383603643fe84c440e8f.jpg> ウーバーを提訴 米連邦取引委員会
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536304>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d382826ee34d488dc2d256b3bc3bcdc6a7bade3b4376f665f2bddf973264ced5.jpg> 森永ヒ素ミルク 被害者の請求棄却
       </a>
@@ -434,24 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536290>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 指定暴力団・稲川会トップが死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536301>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/bf6db87cdea85edbd254b88e1d26b98657f4e5c42590708157610d464d32c4a9.jpg> 流産で離職 損失年466億円と算出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536293>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a118cb916d4b377c7d1473ab7bf167fc0944f0452b0cdf9910d3a5e7b1360c3d.jpg> 新獣舎へ引っ越し 拒絶するキリン
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 14:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 15:01:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
