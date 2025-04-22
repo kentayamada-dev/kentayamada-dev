@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/92661e45868f9278ef738cff6c816f09.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/89a91660bfc4904fdf5b35eb7611520f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/009fb41e64854e2fd4e582e9f2ab3944c3d64224>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000038-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=620&ch=620&exp=10800&fmt=webp> テレ朝社長が石橋貴明巡る騒動に言及　正月の風物詩「―スポーツ王は俺だ！！」今後放送は「適切に検討していきたい」
+      <a href=https://news.yahoo.co.jp/articles/42994b476d74ea274a7ed21bd75a5ed8d3da1705>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 呼吸器感染の患者数を初公表　急性症状、流行を早期把握へ
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/e4e1f438eb0c9ff39ffc6242e122dfc75ae7989745d6c4482d12aeb9ddfa1252.jpg> JR脱線20年 月命日に現場撮る夫
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536305>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a0efd1058138569b55f2644a92e5124ebe7c5a713873945a96c837346b3b0044.jpg> 下がらないコメ価格 農相が謝罪
       </a>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/4b094ce38a3cbadbc2b470ac4437d4cd2281d1fe4b123f1a1c64860a3ffd2bbd.jpg> 国民・平岩征樹議員 不倫認め謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536310>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/7c7d4b3b89dd95aac10410ab4b4d279f329c83a82b17858ac4f615b558ddd801.jpg> テレ朝社長 石橋貴明巡る騒動言及
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 15:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 16:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
