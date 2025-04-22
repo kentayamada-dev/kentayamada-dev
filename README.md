@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4663a2bfd578a4920b637532a7fcd54b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/53dfb6a8b405f7efc2d53f8422431864.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f594dae38c382def59a46c093c567f23620e7b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00483320-usoccer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=359&cy=0&cw=1283&ch=1283&exp=10800&fmt=webp> メッシもローマ教皇の逝去を受けて追悼「ご冥福をお祈りします」
+      <a href=https://news.yahoo.co.jp/articles/97ae3e28b5a3c5094b3bcc012921481bd08eea21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新エルグランドを26年度に発売　日産、16年ぶり全面改良
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25226100a974b986ebb39094c0ba5ca00ae1bc4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000128-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=169&cw=662&ch=662&exp=10800&fmt=webp> 衝突事故で女児意識不明、札幌　軽乗用車とトラック
+      <a href=https://news.yahoo.co.jp/articles/d1451857456341949148c0eb94b502ceacce69f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-09399574-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=360&ch=360&exp=10800&fmt=webp> フランシスコ教皇の葬儀は日本時間26日に～ロイター通信
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2212d1ebc91086d72ebbf36719b11db45177ce33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00029518-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> ゴールデンウィークの天気　晴れて行楽日和の日が多い　後半は季節外れの暑さに注意
+      <a href=https://news.yahoo.co.jp/articles/0292c3cbcc609578cea740d8e19e8707db005b26>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000157-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 【独自】米国産コメ輸入増6万トン軸　政府、関税交渉で譲歩検討
       </a>
     </td>
   </tr>
@@ -386,14 +386,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/e278e2922f2062ce89d56381886681272241a4e846dca6fd7da95897cb7f62f0.jpg> 懸念広がる NY市場はトリプル安
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536308>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d30d09ee136eeb810b6d63a7fb3cd6ef22779b597b0df3b2dd6a93aa7af3a261.jpg> 自民 西村康稔氏を支部長に選任
       </a>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536315>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/42d68cc3fa6f9a71d88e573dbb940da616d750f87d3eb62731c9fc1c8f2611d1.jpg> カシオが社長交代 現CFOが就任へ
+      <a href=https://news.yahoo.co.jp/pickup/6536314>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d22dce3604838a6a7be758f145b415835e1448a78b12afa9bda7a2d85cdb377b.jpg> 住宅街に130cmのクマ 猟友会射殺
       </a>
     </td>
   </tr>
@@ -412,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536316>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1b31034dca1130664b408c545a1bb506d62b01a0033192642a1497dd63a759d3.jpg> 車とトラック衝突 2歳が心肺停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536314>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d22dce3604838a6a7be758f145b415835e1448a78b12afa9bda7a2d85cdb377b.jpg> 住宅街に130cmのクマ 猟友会射殺
       </a>
     </td>
   </tr>
@@ -442,6 +426,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536322>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/2bf922279034bd2c6ab9a2c5996bf4be727a291ef3ad4e94a9d40531560fd067.jpg> 7年洗ってないダウン 洗った実験
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/2ab3e84e62d6dca49c14d13699faf8ad349e7ba9a962cf3c9fc8d8f1985eb7fd.jpg> 珍事 ヤクルト4月5度目の雨天中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536310>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/7c7d4b3b89dd95aac10410ab4b4d279f329c83a82b17858ac4f615b558ddd801.jpg> テレ朝社長 石橋貴明巡る騒動言及
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 17:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 18:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
