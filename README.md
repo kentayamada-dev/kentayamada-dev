@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f737dd222f43b8a1077094b8b061295d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ade30dac58ac4ff797091725419c02b4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/793d8bd52c24d990fbd81fda0a61babb481bb86d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000010-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 教皇、亡くなる前日の行事は「サプライズ」　最期の様子明らかに
+      <a href=https://news.yahoo.co.jp/articles/f34a85d9ef77cd41b1d4a43bbc18c4806230abee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000014-mai-000-1-view.jpg?pri=l&w=192&h=128&exp=10800&fmt=webp> トランプ氏、5月にサウジなど中東歴訪　2期目初外遊はローマ教皇葬儀
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67f359521946d7100e0726e783b292b48bd1b84e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050028-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=12&cy=0&cw=333&ch=333&exp=10800&fmt=webp> インド・カシミール地方で武装集団が観光客ら銃撃、少なくとも２０人死亡…地元警察はテロとみて捜査
+      <a href=https://news.yahoo.co.jp/articles/78317234c0aa4993829d1043791ac81da91a12d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000098-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 藤浪晋太郎が大炎上　3Aで4四球3暴投で3失点　1死しか奪えず降板　防御率13・50に
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/13e0e4b4ab0f26685927fb745fa244da7a19d97e641d55b0f12f645b102f17c1.jpg> 公立高「単願制」見直し 首相指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536352>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/63db79d0c24b4bdff7499062fc16d7654d80cd6ac39f0807d8fd054174a64a43.jpg> NY株急反発 米中対立軟化に期待
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/33c4bc3de731d50b5382cc7702d995fc84057663e74182fd4625eaeb36af04e6.jpg> 万博警備員が土下座 当時の状況は
+      <a href=https://news.yahoo.co.jp/pickup/6536359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/fdc11b00682e931ef3bd0363298b7c59206e3c76ad957c168076857ae96ebcfb.jpg> 外食 割安のモーニング需要高まり
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536357>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/14036742bae4e7b39c4119e8a1cb960dab93fabac4733e5332824ffc69154705.jpg> DX放送終了に見る変化 識者見解
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536350>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f46b0f83ae7e2db33d892aa6d6af796c5eb57400a4d6e5eabb31825850955324.jpg> 「AI橋田壽賀子」企画 作品放送へ
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 07:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 08:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
