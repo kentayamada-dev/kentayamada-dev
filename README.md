@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5e1492e27019f90f0a3fb9014c6b9583.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c3d4d880e186c0afd19a86c1170d1e66.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e5fd0be90d7543b7613cbcf7ee8b81015ccc392>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-01535317-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【解説】コメ価格、今後の見通しは？　政府がアメリカ産コメ輸入拡大案を検討
+      <a href=https://news.yahoo.co.jp/articles/a0a3a01c2859ba9ce534cb6ffec97f4efe6cec35>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000024-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1364&ch=1364&exp=10800&fmt=webp> バチカン、ひつぎに納められた教皇の姿を公開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bb8bb74cec7667479d00f3386ed6fe14568c48f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000169-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ローマ教皇、26日に葬儀　米仏首脳ら参列、弔問外交
+      <a href=https://news.yahoo.co.jp/articles/319bec54121768d47e9104f2e059ab237ed4c8a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961539-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】アメリカ産米輸入拡大案が浮上…輸入米増加で米高騰どうなる?無関税で輸入「ミニマムアクセス米」とは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee46434add125e64b72877265b79cd0726a825ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961472-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=313&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 「纏向犬」邪馬台国の“有力候補”遺跡で発見された犬の骨　復元模型が完成　卑弥呼がかわいがったった可能性も
+      <a href=https://news.yahoo.co.jp/articles/3d704f2f3459afbad89ddf0a9add2b29ab079c89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-10174955-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=967&ch=967&exp=10800&fmt=webp> 中山美穂さんお別れの会 小泉今日子さん「お別れの言葉」全文
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536307>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/20e15b3040ad6f7b65c474da011dfea4a9ba934030b375aedecfcffd6e91e4e6.jpg> ガソリン補助案に玉木氏「姑息」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536314>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d22dce3604838a6a7be758f145b415835e1448a78b12afa9bda7a2d85cdb377b.jpg> 住宅街に130cmのクマ 猟友会射殺
       </a>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536316>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1b31034dca1130664b408c545a1bb506d62b01a0033192642a1497dd63a759d3.jpg> 車とトラック衝突 2歳が心肺停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/5d7557167c6b57bb177f1da81267b12444e4cbe0f1d09106e8f89419ab90d509.jpg> 国民・平岩征樹議員 不倫認め謝罪
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/7c7d4b3b89dd95aac10410ab4b4d279f329c83a82b17858ac4f615b558ddd801.jpg> テレ朝社長 石橋貴明巡る騒動言及
+      <a href=https://news.yahoo.co.jp/pickup/6536327>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/82380d6cd9e7acc8b6da04828ae392f9d21a0e7822c9b4dae6c387bb885b4509.jpg> 美穂さんお別れ会 小泉今日子が涙
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 18:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 19:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
