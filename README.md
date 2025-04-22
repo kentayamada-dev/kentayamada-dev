@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c3d4d880e186c0afd19a86c1170d1e66.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3de5a84d5fcc964371a7549bd96ab95e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0a3a01c2859ba9ce534cb6ffec97f4efe6cec35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000024-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1364&ch=1364&exp=10800&fmt=webp> バチカン、ひつぎに納められた教皇の姿を公開
+      <a href=https://news.yahoo.co.jp/articles/c63b58662d0d05bfbbad8e0a895bc0f1aa1a99fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 政府、コメ輸入拡大を検討　日米交渉、「カード」精査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/319bec54121768d47e9104f2e059ab237ed4c8a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961539-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】アメリカ産米輸入拡大案が浮上…輸入米増加で米高騰どうなる?無関税で輸入「ミニマムアクセス米」とは
+      <a href=https://news.yahoo.co.jp/articles/41d71ed31fa8cf3cc58d41e53c719e850f40d90a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961613-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 逝去したローマ教皇フランシスコの棺を公開…23日にも一般公開へ　26日バチカン・サンピエトロ大聖堂の広場で葬儀
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d704f2f3459afbad89ddf0a9add2b29ab079c89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-10174955-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=967&ch=967&exp=10800&fmt=webp> 中山美穂さんお別れの会 小泉今日子さん「お別れの言葉」全文
+      <a href=https://news.yahoo.co.jp/articles/789669c4aa60bd8bd03fd1e45484ee5db0cca7b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000112-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=632&ch=632&exp=10800&fmt=webp> 中山美穂さんお別れの会　小泉今日子「美穂、よく頑張ったね。ありがとう、かわいい妹」　五箇条のトリセツも披露。
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 19:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 19:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
