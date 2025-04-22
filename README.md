@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4cc038a53549cecc25490694a9151cb9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/98b58ac269bcce5bc3291cd1ed20e00f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7c381df0b8b356bca02469cb96b34fec3c583cc3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-92600001-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 斉藤公明代表がきょう訪中、首相の親書を携行－政党間外交で意思疎通
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bfbef981e11436ca2ac4ad92675adeea5b6b4b13>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-21869908-rccv-000-1-thumb.jpg?exp=10800&fmt=webp> 「涙をふいて下さった…」 ローマ教皇と抱擁交わした被爆者の思い　広島でも悲しみ広がる
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c41451b5e033dc7a78469ae0592619e88e48d810>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000034-ann-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ関税交渉めぐり　コメの輸入拡大を検討
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000034-ann-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税交渉めぐり　コメの輸入拡大を検討
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536298>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/da472e2052416c3edb607fa75917f3b013492e63096a56cc2eb3945484636780.jpg> 町の米返礼に厳正対応検討 総務相
+      <a href=https://news.yahoo.co.jp/pickup/6536299>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/acc37c82db926b45515ad7da235be1c52cbeed19847bb52a03f345cd618546ea.jpg> 「ルフィ」強盗被害金 資金洗浄か
       </a>
     </td>
   </tr>
@@ -402,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536298>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/da472e2052416c3edb607fa75917f3b013492e63096a56cc2eb3945484636780.jpg> 町の米返礼に厳正対応検討 総務相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536295>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/25b0bd8f3efc0d2dfe13f99ea8a79f5cae85f37bc59b528a02001fb0e1861bd5.jpg> 捜索直前に男逃走 捜査員3人けが
       </a>
@@ -410,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536284>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/bc37ccd4cb96203111cfb5c656c7a591d066d47d20479acb61f0c6ebed782c15.jpg> 金価格が1万7千円を突破 史上最高
+      <a href=https://news.yahoo.co.jp/pickup/6536290>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 指定暴力団・稲川会トップが死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536290>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 指定暴力団・稲川会トップが死去
+      <a href=https://news.yahoo.co.jp/pickup/6536293>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a118cb916d4b377c7d1473ab7bf167fc0944f0452b0cdf9910d3a5e7b1360c3d.jpg> 新獣舎へ引っ越し 拒絶するキリン
       </a>
     </td>
   </tr>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/8219202b4cfec858e008a7a1f0ea1e7c073f332859d7dd5235bf45de11ee594e.jpg> 橋本環奈 すぐ働いてると驚かれた
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 12:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 13:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
