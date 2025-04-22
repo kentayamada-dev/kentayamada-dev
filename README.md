@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/437bbcdf1951f41870cd490f9ada86e3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5db37cd71bf667ef7ee29319981b49d7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fd8d8461a3a61efda62b2db398d26934cf0d39d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-06325396-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 全裸男を逮捕　塾に“無断侵入”　次々と衝突…叫び声で興奮状態　車強盗や死亡ひき逃げにも関与か
+      <a href=https://news.yahoo.co.jp/articles/45596e6b1d3f92bbda99404012dcefa1351e28fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-09632865-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「春の園遊会」両陛下と皇族方が各界功労者と歓談
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1027ca98700daa132809b578255dcab28f79f8b8aa8991238d6ce0583f12384d.jpg> 仮装身分捜査 一部の警察で開始
+      <a href=https://news.yahoo.co.jp/pickup/6536336>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/f47f3e0b5cdb1021f66122e24332d17f9f70de954e42877d7fa01a98a3a364b2.jpg> 金正恩氏の最側近 身辺に異変か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536318>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/997ac633c6430b05976ccd7eea03a3da4662ccca0174e1bc3c245417746600b2.jpg> ローマ教皇死去 今後の動き解説
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536321>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1e6b451ddb055339423c2b568ec24b2e46315a791a0d9eda51342c45c1a193e4.jpg> 日産「新型エルグランド」初公開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536327>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/82380d6cd9e7acc8b6da04828ae392f9d21a0e7822c9b4dae6c387bb885b4509.jpg> 美穂さんお別れ会 小泉今日子が涙
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 21:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 21:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
