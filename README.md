@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/48b946872d2bab8d91cb3d91f92debb1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/92661e45868f9278ef738cff6c816f09.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/009fb41e64854e2fd4e582e9f2ab3944c3d64224>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000038-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=620&ch=620&exp=10800&fmt=webp> テレ朝社長が石橋貴明巡る騒動に言及　正月の風物詩「―スポーツ王は俺だ！！」今後放送は「適切に検討していきたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e22fa78970435913b999c09862d963cb0fe3207>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-07232048-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=467&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> コメの輸入拡大議論めぐり自民党幹部から警戒の声相次ぐ
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed9a65829ede3cdbd48421a737d834265687b21b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-03622365-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 米国産のコメ輸入拡大案の検討　自民・松山参院幹事長「極めて慎重な対応が必要」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03a8159083a885e8afe0dbe85f6a87fdeba72a7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961357-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=419&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「選挙近いから補助復活は姑息」国民・玉木代表が政府与党のガソリン価格10円引き下げ補助案について批判
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536304>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d382826ee34d488dc2d256b3bc3bcdc6a7bade3b4376f665f2bddf973264ced5.jpg> 森永ヒ素ミルク 被害者の請求棄却
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536303>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d0359cfb2aacebe4c8dc0015693daa8ee5bd526a931e956f63ac4a13980dcefe.jpg> 休憩時間巡り Jetstarに賠償命令
       </a>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536310>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/7c7d4b3b89dd95aac10410ab4b4d279f329c83a82b17858ac4f615b558ddd801.jpg> テレ朝社長 石橋貴明巡る騒動言及
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 15:01:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 15:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
