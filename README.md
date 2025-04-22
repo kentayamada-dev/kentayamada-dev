@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bed6805f73fa070eeb1e8a3e934848f6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1700ecccdcbae083b137a6902df603c2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/126cb9c5fadc0afcb7605558f7965f7cb8a2df4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000096-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=133&cw=734&ch=734&exp=10800&fmt=webp> マネロン組織メンバー逮捕　ルフィグループにも関与か
+      <a href=https://news.yahoo.co.jp/articles/03a8159083a885e8afe0dbe85f6a87fdeba72a7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961357-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=419&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「選挙近いから補助復活は姑息」国民・玉木代表が政府与党のガソリン価格10円引き下げ補助案について批判
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536305>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a0efd1058138569b55f2644a92e5124ebe7c5a713873945a96c837346b3b0044.jpg> 下がらないコメ価格 農相が謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6536306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/e278e2922f2062ce89d56381886681272241a4e846dca6fd7da95897cb7f62f0.jpg> 懸念広がる NY市場はトリプル安
       </a>
     </td>
   </tr>
@@ -410,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/3009017d89f01a0dc8f0d92dc71a4f65178bfd4e6951c1ca36f66c7464012db2.jpg> 「架空名義口座」捜査に導入 政府
+      <a href=https://news.yahoo.co.jp/pickup/6536305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a0efd1058138569b55f2644a92e5124ebe7c5a713873945a96c837346b3b0044.jpg> 下がらないコメ価格 農相が謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536299>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/acc37c82db926b45515ad7da235be1c52cbeed19847bb52a03f345cd618546ea.jpg> 「ルフィ」強盗被害金 資金洗浄か
+      <a href=https://news.yahoo.co.jp/pickup/6536304>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d382826ee34d488dc2d256b3bc3bcdc6a7bade3b4376f665f2bddf973264ced5.jpg> 森永ヒ素ミルク 被害者の請求棄却
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536298>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/da472e2052416c3edb607fa75917f3b013492e63096a56cc2eb3945484636780.jpg> 町の米返礼に厳正対応検討 総務相
+      <a href=https://news.yahoo.co.jp/pickup/6536303>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d0359cfb2aacebe4c8dc0015693daa8ee5bd526a931e956f63ac4a13980dcefe.jpg> 休憩時間巡り Jetstarに賠償命令
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536293>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a118cb916d4b377c7d1473ab7bf167fc0944f0452b0cdf9910d3a5e7b1360c3d.jpg> 新獣舎へ引っ越し 拒絶するキリン
+      <a href=https://news.yahoo.co.jp/pickup/6536301>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/bf6db87cdea85edbd254b88e1d26b98657f4e5c42590708157610d464d32c4a9.jpg> 流産で離職 損失年466億円と算出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536296>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/13a0beece9ad287c49c6f8e217501103c90fc1c7fa97ac9c1741bf0ea9c01599.jpg> 箕輪はるか ひとり時間の楽しみ方
+      <a href=https://news.yahoo.co.jp/pickup/6536293>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a118cb916d4b377c7d1473ab7bf167fc0944f0452b0cdf9910d3a5e7b1360c3d.jpg> 新獣舎へ引っ越し 拒絶するキリン
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 14:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 14:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
