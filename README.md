@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9937f95ec1ca69325a27be52b836bd3d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6228fc6ef5b00f040892415a2cdd0ce9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8c4a2df8f3c1209aac29860a0af161169b09151>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000368-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 楽天・浅村　通算300号記念球返ってきた！異例ヒロインで「返して」お願い…無事に手元へ
+      <a href=https://news.yahoo.co.jp/articles/15aa67b9563a6a42c22c6836ad994e2b0038edf9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-07232204-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 全裸の男が“塾侵入”で逮捕…死亡ひき逃げに関与か　車2台の“強奪”に関与の疑いも…タクシー奪い客2人を乗せたまま一時逃走か【news23】
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 02:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 03:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
