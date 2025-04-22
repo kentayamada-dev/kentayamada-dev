@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3de5a84d5fcc964371a7549bd96ab95e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bda1f9e5e7c4ea0e702d5bced21cefab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/45c1bc5e3bbf269cbc5585271fe0173a491db649>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000086-ann-000-1-thumb.jpg?exp=10800&fmt=webp> フランシスコ教皇の葬儀は26日　ローマにある教会の簡素な墓への埋葬を希望
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dd58a66cffc06f5bc466178d835a6ce69c6fec30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000068-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 小泉今日子、中山美穂さんの『取扱説明書』5項目読み上げ　天国の“妹”へお別れの言葉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c63b58662d0d05bfbbad8e0a895bc0f1aa1a99fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 政府、コメ輸入拡大を検討　日米交渉、「カード」精査
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000110-jij-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=178&cw=844&ch=844&exp=10800&fmt=webp> 政府、コメ輸入拡大を検討　日米交渉、「カード」精査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41d71ed31fa8cf3cc58d41e53c719e850f40d90a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961613-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 逝去したローマ教皇フランシスコの棺を公開…23日にも一般公開へ　26日バチカン・サンピエトロ大聖堂の広場で葬儀
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/789669c4aa60bd8bd03fd1e45484ee5db0cca7b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000112-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=632&ch=632&exp=10800&fmt=webp> 中山美穂さんお別れの会　小泉今日子「美穂、よく頑張ったね。ありがとう、かわいい妹」　五箇条のトリセツも披露。
+      <a href=https://news.yahoo.co.jp/articles/c9856844faaaadfaba85ec9b33007e4ee18c18c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00050892-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博ネパール館の工事ストップ　建設費用“未払い”で　インド、ベトナム、ブルネイも開館見送り
       </a>
     </td>
   </tr>
@@ -386,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536308>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d30d09ee136eeb810b6d63a7fb3cd6ef22779b597b0df3b2dd6a93aa7af3a261.jpg> 自民 西村康稔氏を支部長に選任
+      <a href=https://news.yahoo.co.jp/pickup/6536331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1eb530a5940587b64069ae8a00e0c295b85bd08253f5c83a93d4200dcb930b9a.jpg> ガソリン1L10円引き下げ 首相表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/20e15b3040ad6f7b65c474da011dfea4a9ba934030b375aedecfcffd6e91e4e6.jpg> ガソリン補助案に玉木氏「姑息」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536314>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d22dce3604838a6a7be758f145b415835e1448a78b12afa9bda7a2d85cdb377b.jpg> 住宅街に130cmのクマ 猟友会射殺
+      <a href=https://news.yahoo.co.jp/pickup/6536317>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1027ca98700daa132809b578255dcab28f79f8b8aa8991238d6ce0583f12384d.jpg> 仮装身分捜査 一部の警察で開始
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536321>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1e6b451ddb055339423c2b568ec24b2e46315a791a0d9eda51342c45c1a193e4.jpg> 日産「新型エルグランド」初公開
+      <a href=https://news.yahoo.co.jp/pickup/6536329>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/c61bb1e03a9f6dfb4f1b720bb3cc1a90993566d350fb1d22266100b1e8e8a3de.jpg> 万博ネパール館 未払いで工事停止
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536312>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d598d5a838703362095ee1889410b4ab22728e00f8759202d48bd24b0fb662bf.jpg> 「かぜ症状」の患者数 データ公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536321>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1e6b451ddb055339423c2b568ec24b2e46315a791a0d9eda51342c45c1a193e4.jpg> 日産「新型エルグランド」初公開
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 19:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 20:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
