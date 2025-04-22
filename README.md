@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9f1ac9a054f7b9f1b8a7773ce1d0a356.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/437bbcdf1951f41870cd490f9ada86e3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4398a996637f439f5d8972a1d0094f4737c4a7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000083-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「目が据わっていて怖かった」　全裸男性が塾に侵入、突然殴られ
+      <a href=https://news.yahoo.co.jp/articles/fd8d8461a3a61efda62b2db398d26934cf0d39d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-06325396-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 全裸男を逮捕　塾に“無断侵入”　次々と衝突…叫び声で興奮状態　車強盗や死亡ひき逃げにも関与か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45c1bc5e3bbf269cbc5585271fe0173a491db649>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000086-ann-000-2-thumb.jpg?exp=10800&fmt=webp> フランシスコ教皇の葬儀は26日　ローマにある教会の簡素な墓への埋葬を希望
+      <a href=https://news.yahoo.co.jp/articles/a8c52031ced6d9eaa18e909aaa731f74a38db583>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-06392913-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> フランシスコ教皇の葬儀、日本時間26日午後5時から　ゼレンスキー大統領が参列の意向
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/907a91f50cfe930ef476c505709a644f14d3b61b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-90023248-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=675&ch=675&exp=10800&fmt=webp> トランプ関税どう戦う？　政府は“コメ輸入拡大”を検討
+      <a href=https://news.yahoo.co.jp/articles/6b8cbcff522bfc57cbe96124ab19c58fb2ed1521>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00961678-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米国産コメ 輸入拡大案が浮上　政府・与党内に賛否の声
       </a>
     </td>
   </tr>
@@ -395,7 +395,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1eb530a5940587b64069ae8a00e0c295b85bd08253f5c83a93d4200dcb930b9a.jpg> ガソリン1L10円引き下げ 首相表明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/fe96dd6ff0a9ef1450634c05ec9f67f86e9a632d81ee08f59485dd479aa6c9a3.jpg> ガソリン1L10円引き下げ 首相表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536333>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/fa1205a6b57b3759e9f4b5f0eed1c71ebfe41467024a6a0c9b323a6cb6ef229b.jpg> 侵入容疑の男 死亡ひき逃げ関与か
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536316>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1b31034dca1130664b408c545a1bb506d62b01a0033192642a1497dd63a759d3.jpg> 車とトラック衝突 2歳が心肺停止
+      <a href=https://news.yahoo.co.jp/pickup/6536330>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d9698e66212419d19bd2f57a168ecc0509818230582b4c069e9f8bb61aea66e5.jpg> 違法カジノ ホークス関係者不起訴
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536312>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/d598d5a838703362095ee1889410b4ab22728e00f8759202d48bd24b0fb662bf.jpg> 「かぜ症状」の患者数 データ公開
+      <a href=https://news.yahoo.co.jp/pickup/6536332>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/4274b4c6e831e9b04c45933b8a1411c7102fe7a33211f5db37b9ea0a3ced5331.jpg> マツダ 希望退職者を500人募集
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536321>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/1e6b451ddb055339423c2b568ec24b2e46315a791a0d9eda51342c45c1a193e4.jpg> 日産「新型エルグランド」初公開
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536322>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/2bf922279034bd2c6ab9a2c5996bf4be727a291ef3ad4e94a9d40531560fd067.jpg> 7年洗ってないダウン 洗った実験
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 20:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 21:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
