@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f8016cf06fc7ebd696a922437333c2ab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b36963d3a2c69fd67dec2536d34b9c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c06efb31ba4cb2992231d18375a8c689162e1bc8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000009-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=613&ch=613&exp=10800&fmt=webp> ローマ教皇葬儀でテロ警戒強化　イタリア、100以上の外交団
+      <a href=https://news.yahoo.co.jp/articles/3e748da63c4b3800129835510fcf4e86da36cc38>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-04221256-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> キョンキョン流トリセツで中山美穂さんとお別れ　天国でもコミュニケーション取れるように…声震わせ５か条の教え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41a1d14f9d7232e1c3f4ec9dafc43188cf53693d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔米株式〕NYダウ大幅反発、一時1100ドル超高（22日午後0時半）
+      <a href=https://news.yahoo.co.jp/articles/f820ee59f724e25104cef0fb6141cebe476e0391>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000008-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=460&ch=460&exp=10800&fmt=webp> 「人々とともに」　ローマ教皇が最後の復活祭で口にした感謝
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 05:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 05:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
