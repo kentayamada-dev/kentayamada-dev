@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0952cae3400ddb6d7e9d50126545a924.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/31f5863b6111f65b23df7647c99f8dcb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed7382888f3fd44317abc761db90679533a60fdd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-34221487-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=1207&ch=1207&exp=10800&fmt=webp> 【楽天】３連勝で日ハム戦の連敗３で止める　８回に浅村、フランコの２発で逆転
+      <a href=https://news.yahoo.co.jp/articles/f8c4a2df8f3c1209aac29860a0af161169b09151>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000368-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 楽天・浅村栄斗　通算300本塁打記念ボールの行方は…異例の「返してください」お願いの後に手元へ
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/8669da70450cc127f8af3bc8bb1f36f5c8b648c2f161e2ab20737b7a94500e43.jpg> ガソリン1L10円引き下げ 首相表明
+      <a href=https://news.yahoo.co.jp/pickup/6536345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/13e0e4b4ab0f26685927fb745fa244da7a19d97e641d55b0f12f645b102f17c1.jpg> 公立高「単願制」見直し 首相指示
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536333>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/8ff216547db531b4c483a1e75ecdb31ed6c94b71bc8b0010c3c734c10c5580fa.jpg> 侵入容疑の男 死亡ひき逃げ関与か
+      <a href=https://news.yahoo.co.jp/pickup/6536335>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/0d0a35b1a7790d17948b8849584e217ad70d5532c45bb08ae98ba71aba03f04e.jpg> 春の園遊会 62年ぶりにルート変更
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536341>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a45ae27af51ca75738c9c38d449928f860dc293d2b04b38432efa1a4186eb685.jpg> 楽天・浅村 記念ボール「返して」
+      <a href=https://news.yahoo.co.jp/pickup/6536326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/2aa8308679d160f4d4c928a15d0f62ee12e34ec6e87eb38d714bcdafd5588a07.jpg> 卑弥呼のペット? 「犬」の姿復元
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/30deff27a73ec31680626382e847e6fd3281ac2c97ca4c1e47182a9d16e2dced.jpg> 中山美穂さん 一般献花に1万人
+      <a href=https://news.yahoo.co.jp/pickup/6536341>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/22/a45ae27af51ca75738c9c38d449928f860dc293d2b04b38432efa1a4186eb685.jpg> 楽天・浅村 記念ボール「返して」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/22 23:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/22 23:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
