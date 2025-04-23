@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0140f5f1c77148536a335045813d87bd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/656a7503ce3c42c4aedc9a0ede841caa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f1df2205fc4f5adfb944f7a1786e35ab7a5029d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000467-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=626&ch=626&exp=10800&fmt=webp> ディズニー『1デーパークホッパー』復活！夏限定で2パークを“自由に行き来”　『アーリー』＆『ナイトパス』も全日利用可能に
+      <a href=https://news.yahoo.co.jp/articles/fa03b4967e5fb33faa3a43592261bf0ff6aa2579>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34230683-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=179&cw=1321&ch=1321&exp=10800&fmt=webp> 大谷翔平４打数無安打、２試合連続ノーヒット…ロバーツ監督「彼は大丈夫」信頼は変わらず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/849a456e6f51c406a3208950ffbb16e083e375c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00487494-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 韓国　きょうのニュース（4月23日）
+      <a href=https://news.yahoo.co.jp/articles/9e248e495ec4fa369aa67a11de2ef21760ebaf45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050907-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博開幕１１日目で来場者１００万人突破　１００万人目の家族に記念品贈呈　石毛事務総長「開幕から順調に来ている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d60c0bce07d0cfed3c447d5c5f777ddf6c715ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-10175104-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=569&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> 塁上でも“第2の勝負” 今永昇太の超速牽制に大谷翔平「ヒヤリ」 堪らず頭から帰塁…球場どよめき
+      <a href=https://news.yahoo.co.jp/articles/c9c2446d751c53491f8687ce7e1dd3760c42c09a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 次期教皇の有力候補の一人に韓国人枢機卿　イタリアメディア
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f3dba3aa863fbb62bb64d69063e8b6d198a277f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000057-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大阪・関西万博、来場者が100万人に　愛知を上回る出足
+      <a href=https://news.yahoo.co.jp/articles/a625e47b58bdc73bf08e40ba9f400c7dfc7ea49a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010004-suntvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=436&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> SNS広告で誹謗中傷防止を啓発　兵庫県が長期休暇に呼び掛け／兵庫県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ef4cb909ec65326a6e8d510019b251779fe1e1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000051-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=573&ch=573&exp=10800&fmt=webp> カズワン運航会社社長、今年も追悼式に現れず　知床観光船沈没3年
+      <a href=https://news.yahoo.co.jp/articles/c79f1675df06df99b120e20eecc390095a8943af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 露軍のドローン攻撃で9人死亡30人負傷　通勤バス標的に、ウクライナ東部
       </a>
     </td>
   </tr>
@@ -402,24 +402,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/96bd19646728ef29d6f1a81c6ee31ed66d0ebdf894029e37b2c0188384e7a4a9.jpg> 露がドローン攻撃 ウで9人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/98e27500d8242dd3ab4db546fbdb8dfa3d4fac4b36daf54d6b4bd208a34c99ee.jpg> 野田氏 関税交渉巡り首相を追及
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f47f5a1b3a4f2e2efd2cac2530b91b6d912fb090a6796d3521c6849549c8349e.jpg> 野田氏 関税交渉巡り首相を追及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536427>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/e3ff7e185c0e08041f14fe72a905003798c5133509b1c10cc4afd588cbc155d8.jpg> 日本郵便 不適切点呼巡り社長陳謝
+      <a href=https://news.yahoo.co.jp/pickup/6536394>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/a0347fb040b50fca5c180e455707a013073fd41a2ca0e7a34bdf08de66b83a6f.jpg> 米 対中交渉「強硬姿勢取らず」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536430>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/00bf632cd78e5efae0dda7ed0cf3d36d1681671a20fdda1c14a829727df17288.jpg> 終値648円高 世界景気の警戒緩和
+      <a href=https://news.yahoo.co.jp/pickup/6536441>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d51376d4c61b1e3af424a105cad8ce52e5882d89d496c59b811d18fbaa13efd2.jpg> 兵庫知事 SNS中傷へ対策拡充発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536421>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/0717db3593c4ae98b5301fb972aa23476b0f0113dd7cac476592b464e21fbb2a.jpg> 免許なく授業 都教委が採用無効に
       </a>
     </td>
   </tr>
@@ -428,22 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536435>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/3a3f3383cad986f24f5d73179802fce5a8ab710d9234385c9f6e7acb8dc23d6f.jpg> 給食にガラス 取り除き食べさせる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536436>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/6a933b34e43e6e5c4ddf1e385b39684468180cb20e80f3bcd62d60c1ef5af9fe.jpg> ラーメン2000円に光明 概念覆す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536438>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/2da8dc202ff3b9477c1e34f898bbb8152f486e59a0f9f6b322eb8dc60bc86a9a.jpg> オリックス山岡泰輔選手 不起訴
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 18:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 19:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
