@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/da235f248268b2b9b517772ec4b264b9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bdc203ceca06cb37470f3a49ee804327.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aa657e30157a24795026b7901368b392ee3cbbcd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-90018860-ktn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 新たな教皇選ぶコンクラーベ　新上五島町出身の前田万葉枢機卿が出席へ【長崎】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/89a06d1948006ee11dd3fcf435807a336e941245>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ファンド、フジHD取締役候補1人変更
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd9e05a8ca9504b795bb6dcdb6ae1486e6fcbe4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050128-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=384&ch=384&exp=10800&fmt=webp> 大阪・関西万博の来場者１００万人…うち１６万人はスタッフや報道機関・万博協会職員ら
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050128-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=384&ch=384&exp=10800&fmt=webp> 大阪・関西万博の来場者１００万人…うち１６万人超はスタッフや報道機関・万博協会職員ら
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/728b9cc610c46a6940d4b63225ed07f939c1cf04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010003-afpbbnewsv-000-2-thumb.jpg?exp=10800&fmt=webp> ローマ教皇のひつぎ サン・ピエトロ大聖堂に到着 弔問に数十万人見込み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36b8c52a0524f4b0b70f2021f0ba13eabc397f3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-01740745-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 7打数無安打…大谷が珍しく“投げ捨てた”バット　判定に納得いかず、見えた感情
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de65b9d45081b509294923bd997f688ed0c2e41c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010003-tvkv-000-1-thumb.jpg?exp=10800&fmt=webp> 家宅捜索現場から逃走　暴力団幹部の男を公開手配　埼玉県警
+      <a href=https://news.yahoo.co.jp/articles/b204aca1189a90acccca23f834a6f9820695e131>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-90025854-nsttv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「農業続けられなくなる」関税めぐる交渉の切り札…“アメリカ産米輸入拡大案”に新潟の米農家から不安の声
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/a0347fb040b50fca5c180e455707a013073fd41a2ca0e7a34bdf08de66b83a6f.jpg> 米 対中交渉「強硬姿勢取らず」
+      <a href=https://news.yahoo.co.jp/pickup/6536452>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/75ced3492c4c8a6fb714af8686ffc4dddcdd813c29cd11abf312ae291bc36383.jpg> 党首討論 首相の答弁に批判と評価
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/bf5ea5de8b86adbd2a053055f26111c8302e779f19b7f9bee1fa912b69b88ecd.jpg> 交際相手の指など斧で切断 女起訴
+      <a href=https://news.yahoo.co.jp/pickup/6536451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/8b168ba8d5dea58378cf973f0f0097fbd0928639a0d7be05a665edbbe2185cec.jpg> 公開手配の男 警官はね飛ばし逃走
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536435>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/3a3f3383cad986f24f5d73179802fce5a8ab710d9234385c9f6e7acb8dc23d6f.jpg> 給食にガラス 取り除き食べさせる
+      <a href=https://news.yahoo.co.jp/pickup/6536445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/bf5ea5de8b86adbd2a053055f26111c8302e779f19b7f9bee1fa912b69b88ecd.jpg> 交際相手の指など斧で切断 女起訴
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536436>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/6a933b34e43e6e5c4ddf1e385b39684468180cb20e80f3bcd62d60c1ef5af9fe.jpg> ラーメン2000円に光明 概念覆す
+      <a href=https://news.yahoo.co.jp/pickup/6536446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/fec4a2c76df74902c8bbfeb931155270f59b48f4ad79300d142d6a1aa86c4147.jpg> 第四北越FGと群馬銀 経営統合へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536438>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/2da8dc202ff3b9477c1e34f898bbb8152f486e59a0f9f6b322eb8dc60bc86a9a.jpg> オリックス山岡泰輔選手 不起訴
+      <a href=https://news.yahoo.co.jp/pickup/6536417>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/998b29475e2b522e4653e1bc82280b0b35ff8dd3d6b42fb4f4c3cb06b9f0997c.jpg> ゴルフ前澤杯 参加者の評判は上々
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 20:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 20:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
