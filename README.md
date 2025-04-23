@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cbef1b378175bbc29077f24597e97c1e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1dd5efa46fbb47a6c8622c0a303c9909.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0223a801d947a7e4df0320eeae5d61ed8df87cf5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-08711941-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “全裸男”わずか1時間半ほどで…約20件の事件・事故に関与か　1人死亡、十数人けが　埼玉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cab96a7061a82aeb7e36557f5247b22393783249>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ファンドがフジ取締役候補変更　投資責任者から弁護士へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/49f160efb68723e766e70ec5b919d50be7e04218>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-90050269-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【知床沖・観光船沈没事故から3年】20人死亡6人行方不明の未曾有の事故＿約120人参列し『追悼式』＿桂田社長は姿見せず＆供花も2025年は無し…無念の家族のため7月には“洋上慰霊”の動きも〈北海道〉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5461cabb2f2160aefda2e7e428cef7d711cf1cfe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000012-niigatatvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 下級生2人に菓子と偽り「水酸化ナトリウム」口の中をやけど【新潟・五泉市】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97313c4836c29a3e35e21df49a69f4fd702c2844>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000098-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ローマ教皇の遺体、大聖堂に安置　信者ら感謝と追悼　バチカン
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536454>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/5267ca632660401e5720df2af124c941073a44cc61235508f3bc662147d1cb74.jpg> 農家「とてもダメ」米輸入拡大案
+      <a href=https://news.yahoo.co.jp/pickup/6536461>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/ab720351573165bbf02eb8280a405cd646e10c4a45e418e936cddea9d1facc71.jpg> ローマ教皇葬儀 岩屋氏派遣で調整
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536449>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/koichifujishiro/02182266/title-1745383275633.jpeg?exp=10800> FRB議長を「解任せず」市場好感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536452>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/75ced3492c4c8a6fb714af8686ffc4dddcdd813c29cd11abf312ae291bc36383.jpg> 党首討論 首相の答弁に批判と評価
+      <a href=https://news.yahoo.co.jp/pickup/6536448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/6c4e0de1f6757e54d3fc07b88f64798a81078769d2d6320b4995d0ada44c75ba.jpg> EU 米アップルと米メタに制裁金
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/8b168ba8d5dea58378cf973f0f0097fbd0928639a0d7be05a665edbbe2185cec.jpg> 公開手配の男 警官はね飛ばし逃走
+      <a href=https://news.yahoo.co.jp/pickup/6536463>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/1b021a060f67892d3756de503bf58aa416a524b618cf65daca4ca9ae4a7ce5a6.jpg> 塾侵入容疑の男 逮捕までの足取り
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/4b83437dec5fc5e9118be9856d452f07a27474a95a7e8ae7c9f7343fbc847111.jpg> 周東アクシデント 死球受け歩けず
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 21:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 22:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
