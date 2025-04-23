@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d484e092b24826a949c64dfcd24b9ef7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ecd0a61638054d8b5cc57ae133024365.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6053d60d5dcec557efa7aad94abecc4d31f4bbca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010004-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】万博・ネパールパビリオン　開幕後も工事が未完了の状況に博覧会協会「支援してまいりたい」
+      <a href=https://news.yahoo.co.jp/articles/50a85ef33b07a9b64a35ec12c367adace24f649c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-08911192-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=329&ch=329&exp=10800&fmt=webp> 「スキャンダル調査」「根回し」も……次の教皇を決める“密室”コンクラーベの舞台裏　日本人も有望視？【#みんなのギモン】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4664b40726a7594932c80f781feb719d0a7f22ce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-35232162-cnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ローマ教皇の葬儀、２６日に　遺体安置の大聖堂は一般に公開
+      <a href=https://news.yahoo.co.jp/articles/965d4566d07f6dc48f8c33b354c6236a8046438e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-90018953-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】万博・夢洲駅に一時4000人滞留　きのう22日夜大阪メトロ一時運転見合せで　博覧会協会
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/250df03ba6263c759462e62f821399dfe24726f4ec8c324cd228f27dfdcd13b5.jpg> 無資格でX線照射 2病院が認める
+      <a href=https://news.yahoo.co.jp/pickup/6536371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/bd02303c6081edfc72dbf1a79bcaf136ab8edf65cc27d40dd52a5170641b0ae6.jpg> 店装ったコメ販売詐欺が横行 怒り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/bd02303c6081edfc72dbf1a79bcaf136ab8edf65cc27d40dd52a5170641b0ae6.jpg> 店装ったコメ販売詐欺が横行 怒り
+      <a href=https://news.yahoo.co.jp/pickup/6536375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d6d022c10685e9075d58e136b1440a2568d3afc2315b0accf50c6f9c9dc099cd.jpg> 帰りたい 駅で万博の帰宅客足止め
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 10:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 10:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
