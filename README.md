@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1bc29f99c5b6228ca2f4761ff3ce2d6e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/42c913c8aba1581c9bb3d99264f8d914.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/df72141b24a5a1a19ab4beb88807b781dffb1dc4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナと欧州、領土交渉の前に停戦が先と米国に通知－関係者
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b2d0828d681e8d575f91c3ce8a9a2da170b4b7d5>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/997dff5f533482a924ff4e11551c8cb3a941d300>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00342136-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ソフトバンク】浜口遥大が「胸椎黄色靱帯骨化症」と左ヒジの手術　復帰まで３～４か月
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f311bae66d2c6633f3462bc47ce36791ab3f060>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000099-ann-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ提示の和平案をウクライナが拒否　米ルビオ長官は和平協議“ドタキャン”
+      <a href=https://news.yahoo.co.jp/articles/b1062a22ca6e8a21e3e8e2f8a4df60dab96b609b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232430-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “全裸男”西村大輔容疑者（48）…埼玉県内で約1時間半のうちに20の事件・事故に関与か　横浜市“家宅捜索前に逃走”田村悟史容疑者（50）を公開手配【news23】
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 02:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 03:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
