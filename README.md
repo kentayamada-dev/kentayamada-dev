@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ecd0a61638054d8b5cc57ae133024365.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2556e1e82decb6b72d923e533f254b14.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50a85ef33b07a9b64a35ec12c367adace24f649c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-08911192-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=329&ch=329&exp=10800&fmt=webp> 「スキャンダル調査」「根回し」も……次の教皇を決める“密室”コンクラーベの舞台裏　日本人も有望視？【#みんなのギモン】
+      <a href=https://news.yahoo.co.jp/articles/6488a11675329d354bf46d60a90a137b0adb3bc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-35232167-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ローマ教皇、最後の言葉は「ありがとう」　信者との交流支えた看護師に感謝
       </a>
     </td>
   </tr>
@@ -374,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/91d1fa089effe53c85dae09dbaf9cbf047fa54e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34230071-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1217&ch=1217&exp=10800&fmt=webp> 長女誕生の大谷翔平が投球練習　多忙な調整もロバーツ監督、スケジュールは「変わることはない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c9bd6e1792e60398b708918fa5c034730d9afd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000010-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=1413&ch=1413&exp=10800&fmt=webp> ＜手越祐也＞5年ぶりにフジテレビの番組出演　ナイナイも驚がくの“超高額私物”を公開
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34230071-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1217&ch=1217&exp=10800&fmt=webp> 長女誕生の大谷翔平が投球練習　多忙な調整もロバーツ監督、スケジュールは「変わることはない」
       </a>
     </td>
   </tr>
@@ -391,6 +383,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6f80fa94efcd3d48abe7558283d9efc06c684bd3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000202-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> 楽天・浅村栄斗が300号　代名詞の右打ちで八回同点弾！「ホームランボールはぜひ返してください」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ba5033d88bc13267329e02cfab6c1efea9044fde>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010008-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 西島秀俊×グイ・ルンメイ×真利子哲也がタッグ　オールNYロケの『Dear Stranger』9月公開
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536362>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/487597ba309d998ec65993f23686d9221736319ecbe4943b84827d44adca265a.jpg> 露軍 クルスク州完全奪還の可能性
+      <a href=https://news.yahoo.co.jp/pickup/6536368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/04a5fcaa93eedcd368aca9ac0b57e6baeb8e2c66be671a778fb0f54b38fc9a55.jpg> トランプ氏 FRB議長「解任せず」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536368>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/04a5fcaa93eedcd368aca9ac0b57e6baeb8e2c66be671a778fb0f54b38fc9a55.jpg> トランプ氏 FRB議長「解任せず」
+      <a href=https://news.yahoo.co.jp/pickup/6536370>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/452add9f0a53d1c7070393bfd91f047445d6727fd4c4a70602a01a55891d4a5f.jpg> 中国 米関税巡り石破氏宛てに親書
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536374>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/afa43b83ce6b57a71223b0eefb65741db988292513438fa7cec8fc0530bda22a.jpg> 旅館「1泊2食付き」定着した背景
+      <a href=https://news.yahoo.co.jp/pickup/6536378>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/50b853fbc64c1df0d0117839bff04cf5fee14b0dd7436b566f3edff293198c5d.jpg> 13歳からUber注文可 配達員見解
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/cfef7ad08403c39baa61884eb0569c3c2515ea172ee8162fd7a2784c77b81c37.jpg> W杯放映権 FIFAが電通以外で調整
+      <a href=https://news.yahoo.co.jp/pickup/6536380>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/7cf0c8bacb17c1e64d66562e45da6df1bf520870633163f427e0657668d087a5.jpg> 西島秀俊の出演映画 台詞9割英語
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 10:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 11:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
