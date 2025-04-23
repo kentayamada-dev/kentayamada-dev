@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a1483a83d78eb899cddb69a921fce918.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7baab6bf11b6189f2e5c3efcd463a18c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aeb4303dbd66b5946bc016f504e852cb564cee5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-10175090-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> こんな大谷翔平のスイングは「あんまり見ない」 今永昇太のスイーパーに糸井氏“あ然” 大谷の表情が物語る驚異の1球
+      <a href=https://news.yahoo.co.jp/articles/87bde319e40cb1d6b91e009078641bdb005b6f77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010002-alterna-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 逝去したフランシスコ教皇、「気候教皇」として環境保護を訴え続ける
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9556f485047634c0a177067958bc5e829e26165b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00095496-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=961&ch=961&exp=10800&fmt=webp> サッカーを愛し、故郷ブエノスアイレスのクラブに熱狂したローマ教皇フランシスコが逝去…メッシ、マラドーナ、ペレとのエピソードも
+      <a href=https://news.yahoo.co.jp/articles/0a63416e368eda35772fd3d5ea694b518ec45b0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00909508-lmaga-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 今年６月に終了「ダウンタウンＤＸ」→後枠番組は見取り図が担当
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f1f8262f5700f69f4522267759ae45b5ada68487>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000058-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 男子ゴルフ「前沢杯」、倉本氏が明かした内幕　参加者の評判は上々
+      <a href=https://news.yahoo.co.jp/articles/7a102ad5472b4d361a8559e16a10ddb85b9c3c56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000045-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=426&ch=426&exp=10800&fmt=webp> フジ親会社の取締役候補、ダルトンが1人差し替え　放送法抵触恐れか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90933f7f0b18c676dcaf361cd59ce470e2192bdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34230455-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=74&cw=885&ch=885&exp=10800&fmt=webp> 吉村洋文知事「起きることを前提にした対策」　万博会場最寄り駅で一時4000人が足止めに言及
+      <a href=https://news.yahoo.co.jp/articles/cd72b618a7b1f1d976ea646b771d79d422c16833>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-90018961-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】大阪・関西万博の来場者数「100万人」到達（関係者含む）記念セレモニーを実施
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c070fc397895d6609b8431259d4df19e85266a74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050054-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=333&ch=333&exp=10800&fmt=webp> アメリカ和平案、ロシアによる４州占領容認…クリミア支配も承認にゼレンスキー氏「我が国の領土だ」
+      <a href=https://news.yahoo.co.jp/articles/9ef4cb909ec65326a6e8d510019b251779fe1e1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=573&ch=573&exp=10800&fmt=webp> カズワン運航会社社長、今年も追悼式に現れず　知床観光船沈没3年
       </a>
     </td>
   </tr>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536404>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/c14ea237eb5fe8d088bde6eb0091e55a31e01ae4e84da8087bd3baa5d4295a1f.jpg> NISA拡充を政府に提言 自民議連
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536410>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/03481b473bb76835278cd9e4da42e3ae0b0a4fda7e5bf8719e8d25e0d7a70c11.jpg> 市職員の転落死 公務上の災害認定
+      <a href=https://news.yahoo.co.jp/pickup/6536419>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/985a9459b0c89f1f89ded6f409833f865e88ba422af1a8013005b4a66d0b3d90.jpg> 万博の来場者 100万人を突破
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536423>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/9d3879333a1603a5ad5f5936ddd7637b3a6af1cd38bd1cf6a708bf385a7f25cc.jpg> カズワン社長 今年も追悼式現れず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536418>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/a7ef42ca0daa1e67cdd9ebdff0f4670b0bf90c36c7d8e7fc38f1707fd16b4d55.jpg> 国民・平岩氏 不倫で党員資格停止
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536416>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d96d0ef9f7668325068c95fd35bba756d558676a1d50256560961a0bb589b5f3.jpg> 社外取締役 タレントらに白羽の矢
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536412>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/42ad712851449df1c0fa79ad1e83bf73234a7e0a01b6862373ec4f852815a8cf.jpg> 藤浪晋太郎が大乱調 制球難もろに
+      <a href=https://news.yahoo.co.jp/pickup/6536420>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/181d9077cb4b1fd172ce5812c90a5364427ba04bc7cce01e793753b4c288ded6.jpg> ダウンタウンDX 後枠は見取り図
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 16:01:00 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 16:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
