@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e4c9d76833ef80882093851c158c0e40.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c13efe858b1e7df8f2f3ee91142f351c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4cbc618c03e462fd7d944aaddcb9e97cad42337f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-03634922-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大谷翔平　“パパ初ヒット”はお預け　復帰2戦目は4打数無安打　ドジャースは両チーム計26安打の乱打戦に敗れる
+      <a href=https://news.yahoo.co.jp/articles/b842ba8bf3972c7b36a203c4212ac4851c2dfc52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000003-iat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース大谷翔平選手　カブス今永投手と対戦　きりきり舞いに抑えられる【岩手】
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2662f7407c13197239a6f4d293113ff06346dd2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-07232280-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理が公立高校の「併願制」導入に向けた検討を指示　共通試験で合格基準超えた志望校の入学可能に
+      <a href=https://news.yahoo.co.jp/articles/c070fc397895d6609b8431259d4df19e85266a74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050054-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=333&ch=333&exp=10800&fmt=webp> アメリカ和平案、ロシアによる４州占領容認…クリミア支配も承認にゼレンスキー氏「我が国の領土だ」
       </a>
     </td>
   </tr>
@@ -402,22 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f848c35f387ad48a093df16aee65cbc21a30e61772f17059d7a13b1c0c3b8cf4.jpg> 備蓄米入札開始 流通ルール見直し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/49027623bf81cab78379775f6d7c5879d5063aac73ef81430dd902a9716873fc.jpg> WHO 米国脱退巡り部門半減へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536404>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/c14ea237eb5fe8d088bde6eb0091e55a31e01ae4e84da8087bd3baa5d4295a1f.jpg> NISA拡充を政府に提言 自民議連
       </a>
@@ -426,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/db155d4c069c16ff3c27e5c9b6c142f56be2a745dba9f85fcdd3db23fda572d8.jpg> フジ役員候補差し替え 米ファンド
+      <a href=https://news.yahoo.co.jp/pickup/6536410>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takahashikosuke/02181423/title-1745319156559.jpeg?exp=10800> 日韓へのトランプ氏の要求 狙いは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f848c35f387ad48a093df16aee65cbc21a30e61772f17059d7a13b1c0c3b8cf4.jpg> 備蓄米入札開始 流通ルール見直し
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/03481b473bb76835278cd9e4da42e3ae0b0a4fda7e5bf8719e8d25e0d7a70c11.jpg> 市職員の転落死 公務上の災害認定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536405>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d56372a866074465dc9d4e74fc14e8eb526d17e2a10e861a8a1f21b4018cc7c9.jpg> 駅に4千人滞留 万博アクセス課題
       </a>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536402>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/ce5854c9ecc595ae5a23378e78583437b6b461c070504e15e3dc4a68f7274f16.jpg> 八村が相手と接触 出血も勝利貢献
+      <a href=https://news.yahoo.co.jp/pickup/6536406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/0835e9f804f1f42deba157d170ebb8005db64e8ca8eaedd280d55d215e24cd02.jpg> ノースサファリ300匹搬出決まらず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536398>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f3865c9bc902ee9fb70121049caef8afef11a6c372f60b2135a3eecb9cf79ecb.jpg> ドジャース 大乱戦でサヨナラ負け
+      <a href=https://news.yahoo.co.jp/pickup/6536412>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/42ad712851449df1c0fa79ad1e83bf73234a7e0a01b6862373ec4f852815a8cf.jpg> 藤浪晋太郎が大乱調 制球難もろに
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 15:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 15:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
