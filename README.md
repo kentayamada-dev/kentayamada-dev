@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bdc203ceca06cb37470f3a49ee804327.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/be777ccd1e042d4406a917386e919481.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa657e30157a24795026b7901368b392ee3cbbcd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-90018860-ktn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 新たな教皇選ぶコンクラーベ　新上五島町出身の前田万葉枢機卿が出席へ【長崎】
+      <a href=https://news.yahoo.co.jp/articles/876fe6a5b6aef4b2417b93eecc9d1908bfbd724b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “沖縄で日本人女性に性的暴行”　米海兵隊員の男2人を書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89a06d1948006ee11dd3fcf435807a336e941245>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ファンド、フジHD取締役候補1人変更
+      <a href=https://news.yahoo.co.jp/articles/97313c4836c29a3e35e21df49a69f4fd702c2844>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000098-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ローマ教皇の遺体、大聖堂に安置　信者ら感謝と追悼　バチカン
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b204aca1189a90acccca23f834a6f9820695e131>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-90025854-nsttv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「農業続けられなくなる」関税めぐる交渉の切り札…“アメリカ産米輸入拡大案”に新潟の米農家から不安の声
+      <a href=https://news.yahoo.co.jp/articles/36b8c52a0524f4b0b70f2021f0ba13eabc397f3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-01740745-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 7打数無安打…大谷が珍しく“投げ捨てた”バット　判定に納得いかず、見えた感情
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536449>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/koichifujishiro/02182266/title-1745383275633.jpeg?exp=10800> FRB議長を「解任せず」市場好感
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536452>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/75ced3492c4c8a6fb714af8686ffc4dddcdd813c29cd11abf312ae291bc36383.jpg> 党首討論 首相の答弁に批判と評価
       </a>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536439>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/86d0961dab4fe926805587a9ad08bedc79284c2b17c3d4bf68b634c22430ae1a.jpg> オンライン入国審査 導入前倒しへ
+      <a href=https://news.yahoo.co.jp/pickup/6536454>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/5267ca632660401e5720df2af124c941073a44cc61235508f3bc662147d1cb74.jpg> 農家「とてもダメ」米輸入拡大案
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/fec4a2c76df74902c8bbfeb931155270f59b48f4ad79300d142d6a1aa86c4147.jpg> 第四北越FGと群馬銀 経営統合へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536417>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/998b29475e2b522e4653e1bc82280b0b35ff8dd3d6b42fb4f4c3cb06b9f0997c.jpg> ゴルフ前澤杯 参加者の評判は上々
+      <a href=https://news.yahoo.co.jp/pickup/6536456>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/849ed962f2a14776c6d41efffe6e8ed038002d0d69340dc68f4fc288f97dc22f.jpg> Switch2の抽選販売 任天堂おわび
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 20:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 21:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
