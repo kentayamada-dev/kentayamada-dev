@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/60ae1140b31383fb074f7b7c7d0839be.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/65027b1cc2e605915be06024c8aec796.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2662f7407c13197239a6f4d293113ff06346dd2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-07232280-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理が公立高校の「併願制」導入に向けた検討を指示　共通試験で合格基準超えた志望校の入学可能に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ccca1893b61cf01da970088347d70511216a92f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-21872552-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手は2試合続けてノーヒット　パパになって初のヒットならず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b18f6690a40e9edb197632847b3dd8b04f9686bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00961929-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【公開手配】指定暴力団稲川会系幹部の田村悟史容疑者（50）“ガサ中”埼玉県警捜査員4人を車ではね飛ばし殺害しようとした疑い　横浜市神奈川区
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ead99bd152e340e227c600fb69f6587528953e97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-06763174-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「今後を考える上で重要な事案」　前夜に大阪メトロ・中央線が一時全線運転見合わせ　約4000人が夢洲駅に滞留
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-06763174-ytv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「今後を考える上で重要な事案」 前夜に大阪メトロ・中央線が一時全線運転見合わせ　約4000人が夢洲駅に滞留「会期中に起こりえること」「バス代替も現実的にできると思う」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ec4281712f7e7b21bc97c9ecb07dba616316bf1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000045-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=1067&ch=1067&exp=10800&fmt=webp> ロバーツ監督、2戦連続無安打の大谷翔平に「彼は大丈夫だろう」　今永との対戦は「いいスイングできなかった」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc70c94fabd32776bec9b665d58c7ec3c8d77638>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010000-tvkv-000-2-thumb.jpg?exp=10800&fmt=webp> 殺人容疑で家宅捜索も逃走　埼玉県警が暴力団の男（50）を公開手配
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6452928154b0e325dcf53f7fbcda5794eaaf9637>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000003-resemom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=473&ch=473&exp=10800&fmt=webp> 【高校受験】公立高入試「併願制」導入へ、首相が検討要請
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bc862d986612f6bdb288d41643fd43f7c440d30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010002-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=696&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ローマ教皇葬儀→休養日1日減…インテル、ローマ戦27日延期でCLバルセロナ戦は中2日の過密日程に ｜ セリエA
+      <a href=https://news.yahoo.co.jp/articles/42f921cdd6022957e69b5d5d3e12730eb007ffd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000039-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=482&ch=482&exp=10800&fmt=webp> 韓国の兪興植枢機卿も教皇候補に…イタリア紙が選んだ１２人
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 13:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 14:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
