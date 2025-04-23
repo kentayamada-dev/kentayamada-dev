@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/36d67d5606edd0ef151334adcbcd3963.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4c9d76833ef80882093851c158c0e40.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90933f7f0b18c676dcaf361cd59ce470e2192bdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34230455-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=74&cw=885&ch=885&exp=10800&fmt=webp> 吉村洋文知事「起きることを前提にした対策」　万博会場最寄り駅で一時4000人が足止めに言及
+      <a href=https://news.yahoo.co.jp/articles/4cbc618c03e462fd7d944aaddcb9e97cad42337f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-03634922-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 大谷翔平　“パパ初ヒット”はお預け　復帰2戦目は4打数無安打　ドジャースは両チーム計26安打の乱打戦に敗れる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d767d7e0b657597f0b17e1fe8a2cff36a0595b5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-10175071-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=789&ch=789&exp=10800&fmt=webp> ドジャース・大谷選手は4打数ノーヒット カブス・鈴木誠也は2安打
+      <a href=https://news.yahoo.co.jp/articles/37360426c519cfda2a1ed3c0af7a2b73d75afe04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010004-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=730&ch=730&exp=10800&fmt=webp> ローマ教皇フランシスコ、88歳で死去、史上初のラテンアメリカ出身教皇
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/90933f7f0b18c676dcaf361cd59ce470e2192bdc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34230455-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=74&cw=885&ch=885&exp=10800&fmt=webp> 吉村洋文知事「起きることを前提にした対策」　万博会場最寄り駅で一時4000人が足止めに言及
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42f921cdd6022957e69b5d5d3e12730eb007ffd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000039-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=482&ch=482&exp=10800&fmt=webp> 韓国の兪興植枢機卿も教皇候補に…イタリア紙が選んだ１２人
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536391>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/0de12c652c46ba897e1b95b498abcded2ce4dad13e196ac203f5a2e41851309d.jpg> 福島第1デブリ試験的取り出し完了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536401>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f848c35f387ad48a093df16aee65cbc21a30e61772f17059d7a13b1c0c3b8cf4.jpg> 備蓄米入札開始 流通ルール見直し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/35f937c1d6850b6a184ef3a4c935de400dfa682985c9d1a0ce785ea2c231b32f.jpg> トランプ大統領 中東3カ国歴訪へ
       </a>
     </td>
   </tr>
@@ -434,6 +418,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536404>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/c14ea237eb5fe8d088bde6eb0091e55a31e01ae4e84da8087bd3baa5d4295a1f.jpg> NISA拡充を政府に提言 自民議連
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/db155d4c069c16ff3c27e5c9b6c142f56be2a745dba9f85fcdd3db23fda572d8.jpg> フジ役員候補差し替え 米ファンド
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536393>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/de4e68d414890403fa8c56c5343347d8d99a85893128a5b62c75b4d95678fa99.jpg> 侵入容疑の男 他20件の事件関与か
       </a>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f9f2a018cbcb18f5972f758239c0e23e8079a221a2defa72a4ddd883073d0831.jpg> 女性問題も調査 教皇決めの舞台裏
+      <a href=https://news.yahoo.co.jp/pickup/6536405>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d56372a866074465dc9d4e74fc14e8eb526d17e2a10e861a8a1f21b4018cc7c9.jpg> 駅に4千人滞留 万博アクセス課題
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/dc878e08363b459853b7860bc90c73ab88fb82cfa7c471241468146b49e0239b.jpg> 各地の進学塾 中国人の子ども殺到
+      <a href=https://news.yahoo.co.jp/pickup/6536402>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/ce5854c9ecc595ae5a23378e78583437b6b461c070504e15e3dc4a68f7274f16.jpg> 八村が相手と接触 出血も勝利貢献
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 14:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 15:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
