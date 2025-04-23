@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9e4c53a35872c87bb9c8f9cee598df5c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/adbea90e21da06d58f6fad23ad594a3f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73ea127f6366597eeaf40f8c7687c9c1f1df8b62>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232445-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=490&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領「和平交渉に有害だ」 クリミアをめぐるゼレンスキー発言を非難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d5b2466b0564f837dad47754b4de140b92f13cfe>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000015-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1462&ch=1462&exp=10800&fmt=webp> 米中関税の相互的な引き下げ必要、進展に緊張緩和不可欠＝米財務長官
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6641380fffdf64baac619e0e3563d83bf675b1d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-90023377-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=397&ch=397&exp=10800&fmt=webp> 横浜“逃走男”を全国指名手配…暴力団幹部（50）殺人未遂などの疑い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2d0828d681e8d575f91c3ce8a9a2da170b4b7d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000060-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1095&ch=1095&exp=10800&fmt=webp> ドジャース・大谷　パパ初安打はお預け　カブス・今永から手厳しい出産祝い?!「心では祝って」
       </a>
     </td>
   </tr>
@@ -460,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 04:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 05:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
