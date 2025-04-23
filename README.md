@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c31e508331f039bca223006d885cbb36.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/120800659e5c40c54927c3f07815c5cd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42f921cdd6022957e69b5d5d3e12730eb007ffd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000039-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=482&ch=482&exp=10800&fmt=webp> 韓国の兪興植枢機卿も教皇候補に…イタリア紙が選んだ１２人
+      <a href=https://news.yahoo.co.jp/articles/b9bdda2079d7744f4a1441b919930ece0f9f7685>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000392-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=722&ch=722&exp=10800&fmt=webp> 万博「夢洲駅」からの帰宅に影響　大阪メトロ中央線、22日夜一時運行見合わせ・謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8544f35abdd98add41be4d8042fba6ee738ce574>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010000-edua-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【大学合格者ランキング2025】〈早稲田大〉1位と2位の差19人、現役トップは公立校
+      <a href=https://news.yahoo.co.jp/articles/d2981501f517143e89badcccce64b372a922e19b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00253763-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 〈埼玉・タトゥー全裸男〉「女子生徒は髪をひっぱられ涙、講師はコップで頭を殴られ流血…」学習塾に侵入した全裸男は逮捕の際「机を抱きかかえていた」直前に車強奪・死傷ひき逃げの疑いも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f3f377b565cf8fef486842c23f239581a683b9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 万博会場の4000人、一時足止め　唯一の鉄路が運転見合わせ
+      <a href=https://news.yahoo.co.jp/articles/6452928154b0e325dcf53f7fbcda5794eaaf9637>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000003-resemom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=473&ch=473&exp=10800&fmt=webp> 【高校受験】公立高入試「併願制」導入へ、首相が検討要請
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5bc862d986612f6bdb288d41643fd43f7c440d30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010002-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=696&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ローマ教皇葬儀→休養日1日減…インテル、ローマ戦27日延期でCLバルセロナ戦は中2日の過密日程に ｜ セリエA
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/91d1fa089effe53c85dae09dbaf9cbf047fa54e4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34230071-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1217&ch=1217&exp=10800&fmt=webp> 長女誕生の大谷翔平が投球練習　多忙な調整もロバーツ監督、スケジュールは「変わることはない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ca04d4485fec12d72dd38cda1571654ddae3ef5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000012-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=985&ch=985&exp=10800&fmt=webp> ＜長澤まさみ＞映画「おーい、応為」で大森立嗣監督と再タッグ　葛飾北斎の娘、葛飾応為役に
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536393>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/de4e68d414890403fa8c56c5343347d8d99a85893128a5b62c75b4d95678fa99.jpg> 侵入容疑の男 他20件の事件関与か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536387>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/dc878e08363b459853b7860bc90c73ab88fb82cfa7c471241468146b49e0239b.jpg> 各地の進学塾 中国人の子ども殺到
       </a>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536386>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「野犬のまち」捕獲件数が激減
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536375>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d6d022c10685e9075d58e136b1440a2568d3afc2315b0accf50c6f9c9dc099cd.jpg> 帰りたい 駅で万博の帰宅客足止め
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/7f1a5e1da9ed24e79acef7cdd762f07ecf74c625dad01a0445d3ada498c0d94e.jpg> 藤浪晋太郎が大乱調 本拠地騒然
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536372>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/6b3ce7edebe6e2c9dfea0054171ffb53e22945ab52dc5fc8b56abd1f0cbf766b.jpg> 大谷 敵マスコットから出産祝い?
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 12:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 12:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
