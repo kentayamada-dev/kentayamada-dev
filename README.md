@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c13efe858b1e7df8f2f3ee91142f351c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a1483a83d78eb899cddb69a921fce918.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b842ba8bf3972c7b36a203c4212ac4851c2dfc52>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000003-iat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ドジャース大谷翔平選手　カブス今永投手と対戦　きりきり舞いに抑えられる【岩手】
+      <a href=https://news.yahoo.co.jp/articles/aeb4303dbd66b5946bc016f504e852cb564cee5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-10175090-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> こんな大谷翔平のスイングは「あんまり見ない」 今永昇太のスイーパーに糸井氏“あ然” 大谷の表情が物語る驚異の1球
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37360426c519cfda2a1ed3c0af7a2b73d75afe04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010004-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=730&ch=730&exp=10800&fmt=webp> ローマ教皇フランシスコ、88歳で死去、史上初のラテンアメリカ出身教皇
+      <a href=https://news.yahoo.co.jp/articles/9556f485047634c0a177067958bc5e829e26165b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00095496-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=961&ch=961&exp=10800&fmt=webp> サッカーを愛し、故郷ブエノスアイレスのクラブに熱狂したローマ教皇フランシスコが逝去…メッシ、マラドーナ、ペレとのエピソードも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f1f8262f5700f69f4522267759ae45b5ada68487>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000058-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 男子ゴルフ「前沢杯」、倉本氏が明かした内幕　参加者の評判は上々
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/321d58d0b380b905e385328d64e123ebb4685851>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000048-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米 3回目の入札始まる　卸売業者同士の売買可能に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c070fc397895d6609b8431259d4df19e85266a74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050054-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=333&ch=333&exp=10800&fmt=webp> アメリカ和平案、ロシアによる４州占領容認…クリミア支配も承認にゼレンスキー氏「我が国の領土だ」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050054-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=333&ch=333&exp=10800&fmt=webp> アメリカ和平案、ロシアによる４州占領容認…クリミア支配も承認にゼレンスキー氏「我が国の領土だ」
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f848c35f387ad48a093df16aee65cbc21a30e61772f17059d7a13b1c0c3b8cf4.jpg> 備蓄米入札開始 流通ルール見直し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536393>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/de4e68d414890403fa8c56c5343347d8d99a85893128a5b62c75b4d95678fa99.jpg> 侵入容疑の男 他20件の事件関与か
+      <a href=https://news.yahoo.co.jp/pickup/6536408>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/bf38c2da93f04dbcd1c48d48652dbc25362dfe1d95a05889c027f0cdc620d962.jpg> ウ侵攻巡る米和平案の全容 報道
       </a>
     </td>
   </tr>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536405>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d56372a866074465dc9d4e74fc14e8eb526d17e2a10e861a8a1f21b4018cc7c9.jpg> 駅に4千人滞留 万博アクセス課題
+      <a href=https://news.yahoo.co.jp/pickup/6536406>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/0835e9f804f1f42deba157d170ebb8005db64e8ca8eaedd280d55d215e24cd02.jpg> ノースサファリ300匹搬出決まらず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/0835e9f804f1f42deba157d170ebb8005db64e8ca8eaedd280d55d215e24cd02.jpg> ノースサファリ300匹搬出決まらず
+      <a href=https://news.yahoo.co.jp/pickup/6536414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/5a440d9651835b811331a37469695b76023d4f6b6239c2919ff3853388d58092.jpg> 吸水シートが混入 はま寿司謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536416>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d96d0ef9f7668325068c95fd35bba756d558676a1d50256560961a0bb589b5f3.jpg> 社外取締役 タレントらに白羽の矢
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 15:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 16:01:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
