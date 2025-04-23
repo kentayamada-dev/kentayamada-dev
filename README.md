@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aaddadabb8bb8f469f0f380ed1b85fa9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0140f5f1c77148536a335045813d87bd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/909c54520d178f40224494f16b37156aa6559966>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本版ESTA、28年度導入　訪日外国人急増に対応　法相
+      <a href=https://news.yahoo.co.jp/articles/9f1df2205fc4f5adfb944f7a1786e35ab7a5029d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000467-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=626&ch=626&exp=10800&fmt=webp> ディズニー『1デーパークホッパー』復活！夏限定で2パークを“自由に行き来”　『アーリー』＆『ナイトパス』も全日利用可能に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/849a456e6f51c406a3208950ffbb16e083e375c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00487494-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 韓国　きょうのニュース（4月23日）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6d60c0bce07d0cfed3c447d5c5f777ddf6c715ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-10175104-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=569&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> 塁上でも“第2の勝負” 今永昇太の超速牽制に大谷翔平「ヒヤリ」 堪らず頭から帰塁…球場どよめき
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3f3dba3aa863fbb62bb64d69063e8b6d198a277f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000057-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大阪・関西万博、来場者が100万人に　愛知を上回る出足
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9126b00125b78f12179bbb87144a050231dcdf9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-03879655-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> ローマ教皇フランシスコのひつぎ、サンピエトロ大聖堂に移される
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7a102ad5472b4d361a8559e16a10ddb85b9c3c56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000045-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=426&ch=426&exp=10800&fmt=webp> フジ親会社の取締役候補、ダルトンが1人差し替え　放送法抵触恐れか
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000057-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大阪・関西万博、来場者が100万人に　愛知を上回る出足
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/385fe6cb2f281c07d9a7de9d6e227cab31b66a3aa89099879375d30071a29c26.jpg> 野田氏 関税交渉巡り首相を追及
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/98e27500d8242dd3ab4db546fbdb8dfa3d4fac4b36daf54d6b4bd208a34c99ee.jpg> 野田氏 関税交渉巡り首相を追及
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/9d3879333a1603a5ad5f5936ddd7637b3a6af1cd38bd1cf6a708bf385a7f25cc.jpg> カズワン社長 今年も追悼式現れず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536431>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/7a9e0315cc9d4273f3ed89eb0b60d3d3f4fdb745fa4ae54922aa20fb29d88579.jpg> 環境調査会社で爆発事故 2人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6536430>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/00bf632cd78e5efae0dda7ed0cf3d36d1681671a20fdda1c14a829727df17288.jpg> 終値648円高 世界景気の警戒緩和
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/5a440d9651835b811331a37469695b76023d4f6b6239c2919ff3853388d58092.jpg> 吸水シートが混入 はま寿司謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6536436>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/6a933b34e43e6e5c4ddf1e385b39684468180cb20e80f3bcd62d60c1ef5af9fe.jpg> ラーメン2000円に光明 概念覆す
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536438>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/2da8dc202ff3b9477c1e34f898bbb8152f486e59a0f9f6b322eb8dc60bc86a9a.jpg> オリックス山岡泰輔選手 不起訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/2d9a962d5631f5e4eb0bed4382fe6328d4f61e93efcd4e34307a1280de5d1020.jpg> TDS ジャンボリミッキー終了へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 18:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 18:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
