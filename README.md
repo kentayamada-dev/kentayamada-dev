@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cb14f6ec3bc4f9c09eccc36e94a94e8a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/60ae1140b31383fb074f7b7c7d0839be.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fabb84e0167e2d9d984924fae30348f3a2567b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050087-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=15&cw=485&ch=485&exp=10800&fmt=webp> 横浜の捜索現場から逃走の暴力団幹部を公開手配…殺人未遂と公務執行妨害容疑
+      <a href=https://news.yahoo.co.jp/articles/ead99bd152e340e227c600fb69f6587528953e97>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-06763174-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「今後を考える上で重要な事案」　前夜に大阪メトロ・中央線が一時全線運転見合わせ　約4000人が夢洲駅に滞留
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad4b699c06166f2d1a8b6025567859aebd35a09f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000030-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 大阪・関西万博の駅で4千人が足止め　アクセスの弱さ浮き彫りに
+      <a href=https://news.yahoo.co.jp/articles/6ec4281712f7e7b21bc97c9ecb07dba616316bf1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000045-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=1067&ch=1067&exp=10800&fmt=webp> ロバーツ監督、2戦連続無安打の大谷翔平に「彼は大丈夫だろう」　今永との対戦は「いいスイングできなかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cc70c94fabd32776bec9b665d58c7ec3c8d77638>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010000-tvkv-000-2-thumb.jpg?exp=10800&fmt=webp> 殺人容疑で家宅捜索も逃走　埼玉県警が暴力団の男（50）を公開手配
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5bc862d986612f6bdb288d41643fd43f7c440d30>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010002-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=696&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ローマ教皇葬儀→休養日1日減…インテル、ローマ戦27日延期でCLバルセロナ戦は中2日の過密日程に ｜ セリエA
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91d1fa089effe53c85dae09dbaf9cbf047fa54e4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34230071-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1217&ch=1217&exp=10800&fmt=webp> 長女誕生の大谷翔平が投球練習　多忙な調整もロバーツ監督、スケジュールは「変わることはない」
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d6d022c10685e9075d58e136b1440a2568d3afc2315b0accf50c6f9c9dc099cd.jpg> 帰りたい 駅で万博の帰宅客足止め
+      <a href=https://news.yahoo.co.jp/pickup/6536388>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/6d699b5930d5a620c85a8ee27617f9b96a26fc383808ff2844717a9563dab5be.jpg> マッチングアプリ 大手寡占進む?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536386>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「野犬のまち」捕獲件数が激減
+      <a href=https://news.yahoo.co.jp/pickup/6536398>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f3865c9bc902ee9fb70121049caef8afef11a6c372f60b2135a3eecb9cf79ecb.jpg> ドジャース 大乱戦でサヨナラ負け
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 13:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 13:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
