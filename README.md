@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20579ea92881e9ede5f13c61c2d0ce6e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2dd37fe7d654cc759a379cf87cca93b8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/15727c957b2d2e271e1cb91659ec4ad50693675b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00961751-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> NYマーケット続伸　ダウ平均3万9606ドル57セント　ナスダック1万6708.05
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4e242f4608ff631b67a41a579db640a105947d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ＮＹ市場サマリー（23日）ドル上昇、利回りまちまち　株続伸　米中貿易戦争緩和に期待感
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7abc7eb37ee1891c975e79c8ce3bfd16541275f6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-35232215-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=676&ch=676&exp=10800&fmt=webp> トランプ氏、ゼレンスキー氏を非難　ロシアのクリミア支配を認めない発言は「有害」
       </a>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/867e123632190b80c99643d6ec744e81ee886792>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240031-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=834&ch=834&exp=10800&fmt=webp> 大谷翔平が通算10打数以上対戦して無安打の投手／一覧
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b865403250f6663ed3abc4672e0d9605be3223e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000003-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「市場の力」にまた退いたトランプ氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24a352cb98ad3c0c47f4fe0f2ce479a41e4c2384>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04812256-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> NYダウ419ドル高　米中の貿易摩擦の緩和に期待感　一時1100ドル以上値上がり
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240031-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=834&ch=834&exp=10800&fmt=webp> 大谷翔平が通算10打数以上対戦して無安打の投手／一覧
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/397c34ea1e917bfbb58ac539391c0efa249730414c5841a002e2d6f78f0954b6.jpg> NYダウ続伸 終値前日比419ドル高
+      <a href=https://news.yahoo.co.jp/pickup/6536478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/6e9551aa5389530c2d9e64a929c7906307f188516511cc03f8b35f1aa3fd0f8d.jpg> 公立高の併願入試を検討 文科省
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536469>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/c7c4850bbcd7900c0c40071af7e804883cd02ba383e41d1f3ad2b482ffaffadb.jpg> 八潮陥没事故 本格復旧に5〜7年か
+      <a href=https://news.yahoo.co.jp/pickup/6536471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/397c34ea1e917bfbb58ac539391c0efa249730414c5841a002e2d6f78f0954b6.jpg> NYダウ続伸 終値前日比419ドル高
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d513f5e53e78dc6bb0c6abb4f91d8fffa51639161f4c9391b10abfc944037ebb.jpg> 大場美奈が出産へ 石川柊太を抹消
+      <a href=https://news.yahoo.co.jp/pickup/6536477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/a2df486d7b79a9d856bf1d34a49f740952063996f77f4885f1db296dd9d87ddf.jpg> Switch2抽選販売おわび 注目点は
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 07:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 08:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
