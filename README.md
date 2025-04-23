@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e009f2ec294c02334cfd0b9fa0c17186.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2681155afbe3976ffcd0476275d519a4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/db488175b8d38f8bca583c504d51708df156cb50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-04231019-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 藤浪晋太郎が４四球＆３暴投で３失点ＫＯ　１死しか奪えず防御率１３・５０…ストライク率２５％
+      <a href=https://news.yahoo.co.jp/articles/0c9bd6e1792e60398b708918fa5c034730d9afd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000010-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=1413&ch=1413&exp=10800&fmt=webp> ＜手越祐也＞5年ぶりにフジテレビの番組出演　ナイナイも驚がくの“超高額私物”を公開
       </a>
     </td>
   </tr>
@@ -386,14 +386,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f080591e1d03e74deefce7e9d313cc649b58a36a7a234f20e02c6bf5c3d049bc.jpg> 世界成長率2.8%に下方修正 IMF
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536362>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/487597ba309d998ec65993f23686d9221736319ecbe4943b84827d44adca265a.jpg> 露軍 クルスク州完全奪還の可能性
       </a>
@@ -402,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536355>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/48d528b3478761230025b6ea62a9955f6b255a9fc7bdc8d4ce466786907fd90a.jpg> 郵便局の不適切点呼 全国の7割で
+      <a href=https://news.yahoo.co.jp/pickup/6536354>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f080591e1d03e74deefce7e9d313cc649b58a36a7a234f20e02c6bf5c3d049bc.jpg> 世界成長率2.8%に下方修正 IMF
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/b9249af56f80e3a23102da75357649e6f49ec430587fc5c7059751721557c72e.jpg> テスラ 1ｰ3月期の最終利益71%減
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536357>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/14036742bae4e7b39c4119e8a1cb960dab93fabac4733e5332824ffc69154705.jpg> DX放送終了に見る変化 識者見解
+      <a href=https://news.yahoo.co.jp/pickup/6536365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/e10c77ba490b7bfd80da8524a78d350c24dc3ce17a55c317ea9d143cad0b7fb0.jpg> 手越祐也 5年ぶりにフジ番組出演
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 08:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 09:00:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
