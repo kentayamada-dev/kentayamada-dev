@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ca51d8235bd23703d402ad81d5c88549.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/489525ce4348d29c23a8756c59f19475.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4ff11dcea5b1998c359ffe6041c7f331037d498>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000063-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=331&cy=0&cw=804&ch=804&exp=10800&fmt=webp> 来場者100万人で記念式典　大阪・関西万博
+      <a href=https://news.yahoo.co.jp/articles/f4fee14584673050191f88ec60740c4efdb9bab6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-90018960-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=564&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> "発起人"橋下氏が万博訪問「言い出した人天才」と自画自賛　来場者見込み達せずも「1日10万人が適度」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1883a9c2e5b95748b5fdde5689631aa30ad960aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000055-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 米大統領特使、今週プーチン大統領と面談…「クリミア半島占領認めるようだ」
+      <a href=https://news.yahoo.co.jp/articles/c9126b00125b78f12179bbb87144a050231dcdf9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-03879655-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> ローマ教皇フランシスコのひつぎ、サンピエトロ大聖堂に移される
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26e3bcb36e1aa6a77dd8ca51257b50b53e252770>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000103-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=486&ch=486&exp=10800&fmt=webp> 日経平均は反発、一時3万5000円回復　世界景気巡る過度な警戒和らぐ
+      <a href=https://news.yahoo.co.jp/articles/2663a1af182cdbc3ac2e7f17031283db346b9898>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00962008-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 党首討論半年ぶり“激突”…「トランプ関税」など争点　立憲・野田代表「体制弱すぎる」　国民・玉木代表はガソリン10円値下げ「がっかりした」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536408>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/bf38c2da93f04dbcd1c48d48652dbc25362dfe1d95a05889c027f0cdc620d962.jpg> ウ侵攻巡る米和平案の全容 報道
+      <a href=https://news.yahoo.co.jp/pickup/6536432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/385fe6cb2f281c07d9a7de9d6e227cab31b66a3aa89099879375d30071a29c26.jpg> 野田氏 関税交渉巡り首相を追及
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536419>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/985a9459b0c89f1f89ded6f409833f865e88ba422af1a8013005b4a66d0b3d90.jpg> 万博の来場者 100万人を突破
+      <a href=https://news.yahoo.co.jp/pickup/6536427>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/e3ff7e185c0e08041f14fe72a905003798c5133509b1c10cc4afd588cbc155d8.jpg> 日本郵便 不適切点呼巡り社長陳謝
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536428>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/7a9e0315cc9d4273f3ed89eb0b60d3d3f4fdb745fa4ae54922aa20fb29d88579.jpg> 科学研究所で爆発事故 2人を搬送
+      <a href=https://news.yahoo.co.jp/pickup/6536431>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/7a9e0315cc9d4273f3ed89eb0b60d3d3f4fdb745fa4ae54922aa20fb29d88579.jpg> 環境調査会社で爆発事故 2人搬送
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536406>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/0835e9f804f1f42deba157d170ebb8005db64e8ca8eaedd280d55d215e24cd02.jpg> ノースサファリ300匹搬出決まらず
+      <a href=https://news.yahoo.co.jp/pickup/6536414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/5a440d9651835b811331a37469695b76023d4f6b6239c2919ff3853388d58092.jpg> 吸水シートが混入 はま寿司謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/5a440d9651835b811331a37469695b76023d4f6b6239c2919ff3853388d58092.jpg> 吸水シートが混入 はま寿司謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6536433>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/1d9139784a0a24e48818928203590559739e950c5537902b48fa5947618877ef.jpg> 坂下千里子テニスクラブ きっかけ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 17:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 17:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
