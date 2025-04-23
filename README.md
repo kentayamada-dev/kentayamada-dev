@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7baab6bf11b6189f2e5c3efcd463a18c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ca51d8235bd23703d402ad81d5c88549.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/87bde319e40cb1d6b91e009078641bdb005b6f77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010002-alterna-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 逝去したフランシスコ教皇、「気候教皇」として環境保護を訴え続ける
+      <a href=https://news.yahoo.co.jp/articles/f4ff11dcea5b1998c359ffe6041c7f331037d498>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000063-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=331&cy=0&cw=804&ch=804&exp=10800&fmt=webp> 来場者100万人で記念式典　大阪・関西万博
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a63416e368eda35772fd3d5ea694b518ec45b0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00909508-lmaga-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 今年６月に終了「ダウンタウンＤＸ」→後枠番組は見取り図が担当
+      <a href=https://news.yahoo.co.jp/articles/1883a9c2e5b95748b5fdde5689631aa30ad960aa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000055-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 米大統領特使、今週プーチン大統領と面談…「クリミア半島占領認めるようだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/26e3bcb36e1aa6a77dd8ca51257b50b53e252770>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000103-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=486&ch=486&exp=10800&fmt=webp> 日経平均は反発、一時3万5000円回復　世界景気巡る過度な警戒和らぐ
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd72b618a7b1f1d976ea646b771d79d422c16833>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-90018961-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】大阪・関西万博の来場者数「100万人」到達（関係者含む）記念セレモニーを実施
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ef4cb909ec65326a6e8d510019b251779fe1e1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000051-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=573&ch=573&exp=10800&fmt=webp> カズワン運航会社社長、今年も追悼式に現れず　知床観光船沈没3年
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000051-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=52&cy=0&cw=573&ch=573&exp=10800&fmt=webp> カズワン運航会社社長、今年も追悼式に現れず　知床観光船沈没3年
       </a>
     </td>
   </tr>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536410>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takahashikosuke/02181423/title-1745319156559.jpeg?exp=10800> 日韓へのトランプ氏の要求 狙いは
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536408>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536423>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/9d3879333a1603a5ad5f5936ddd7637b3a6af1cd38bd1cf6a708bf385a7f25cc.jpg> カズワン社長 今年も追悼式現れず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536428>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/7a9e0315cc9d4273f3ed89eb0b60d3d3f4fdb745fa4ae54922aa20fb29d88579.jpg> 科学研究所で爆発事故 2人を搬送
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 16:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 17:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
