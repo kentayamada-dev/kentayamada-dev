@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be777ccd1e042d4406a917386e919481.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cbef1b378175bbc29077f24597e97c1e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/876fe6a5b6aef4b2417b93eecc9d1908bfbd724b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “沖縄で日本人女性に性的暴行”　米海兵隊員の男2人を書類送検
+      <a href=https://news.yahoo.co.jp/articles/49f160efb68723e766e70ec5b919d50be7e04218>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-90050269-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【知床沖・観光船沈没事故から3年】20人死亡6人行方不明の未曾有の事故＿約120人参列し『追悼式』＿桂田社長は姿見せず＆供花も2025年は無し…無念の家族のため7月には“洋上慰霊”の動きも〈北海道〉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5461cabb2f2160aefda2e7e428cef7d711cf1cfe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000012-niigatatvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 下級生2人に菓子と偽り「水酸化ナトリウム」口の中をやけど【新潟・五泉市】
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/36b8c52a0524f4b0b70f2021f0ba13eabc397f3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-01740745-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 7打数無安打…大谷が珍しく“投げ捨てた”バット　判定に納得いかず、見えた感情
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c79f1675df06df99b120e20eecc390095a8943af>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 露軍のドローン攻撃で9人死亡30人負傷　通勤バス標的に、ウクライナ東部
       </a>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536454>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/5267ca632660401e5720df2af124c941073a44cc61235508f3bc662147d1cb74.jpg> 農家「とてもダメ」米輸入拡大案
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536449>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536454>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/5267ca632660401e5720df2af124c941073a44cc61235508f3bc662147d1cb74.jpg> 農家「とてもダメ」米輸入拡大案
+      <a href=https://news.yahoo.co.jp/pickup/6536455>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kuraharayu/02182209/title-1745379127926.jpeg?exp=10800> 百日ぜきが急増 注意するべきこと
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536445>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/bf5ea5de8b86adbd2a053055f26111c8302e779f19b7f9bee1fa912b69b88ecd.jpg> 交際相手の指など斧で切断 女起訴
+      <a href=https://news.yahoo.co.jp/pickup/6536460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/493b3c0333ddf7925e845641c401b33205111df40b38c5e6ca09038a40af87d8.jpg> 菓子と偽り薬品渡す 生徒2人けが
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/2d9a962d5631f5e4eb0bed4382fe6328d4f61e93efcd4e34307a1280de5d1020.jpg> TDS ジャンボリミッキー終了へ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 21:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 21:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
