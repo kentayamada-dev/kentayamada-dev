@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/656a7503ce3c42c4aedc9a0ede841caa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3221db8408189e96031fe681522b3c51.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/47da69ad235fa445ad36e2edfe0d5eebb95f8b9f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 第四北越と群馬銀が経営統合へ　24日にも基本合意し発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fa03b4967e5fb33faa3a43592261bf0ff6aa2579>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34230683-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=179&cw=1321&ch=1321&exp=10800&fmt=webp> 大谷翔平４打数無安打、２試合連続ノーヒット…ロバーツ監督「彼は大丈夫」信頼は変わらず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34230683-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=179&cw=1321&ch=1321&exp=10800&fmt=webp> 大谷翔平４打数無安打、２試合連続ノーヒット…ロバーツ監督「彼は大丈夫」信頼は変わらず
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c9c2446d751c53491f8687ce7e1dd3760c42c09a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 次期教皇の有力候補の一人に韓国人枢機卿　イタリアメディア
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a625e47b58bdc73bf08e40ba9f400c7dfc7ea49a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010004-suntvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=436&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> SNS広告で誹謗中傷防止を啓発　兵庫県が長期休暇に呼び掛け／兵庫県
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-07232375-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=599&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 次期教皇の有力候補の一人に韓国人枢機卿　イタリアメディア
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/96bd19646728ef29d6f1a81c6ee31ed66d0ebdf894029e37b2c0188384e7a4a9.jpg> 露がドローン攻撃 ウで9人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536394>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/a0347fb040b50fca5c180e455707a013073fd41a2ca0e7a34bdf08de66b83a6f.jpg> 米 対中交渉「強硬姿勢取らず」
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/a0347fb040b50fca5c180e455707a013073fd41a2ca0e7a34bdf08de66b83a6f.jpg> 米 対中交渉「強硬姿勢取らず」
+      <a href=https://news.yahoo.co.jp/pickup/6536444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/96bd19646728ef29d6f1a81c6ee31ed66d0ebdf894029e37b2c0188384e7a4a9.jpg> 露がドローン攻撃 ウで9人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536441>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d51376d4c61b1e3af424a105cad8ce52e5882d89d496c59b811d18fbaa13efd2.jpg> 兵庫知事 SNS中傷へ対策拡充発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536421>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/0717db3593c4ae98b5301fb972aa23476b0f0113dd7cac476592b464e21fbb2a.jpg> 免許なく授業 都教委が採用無効に
+      <a href=https://news.yahoo.co.jp/pickup/6536445>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/bf5ea5de8b86adbd2a053055f26111c8302e779f19b7f9bee1fa912b69b88ecd.jpg> 交際相手の指など斧で切断 女起訴
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/2d9a962d5631f5e4eb0bed4382fe6328d4f61e93efcd4e34307a1280de5d1020.jpg> TDS ジャンボリミッキー終了へ
+      <a href=https://news.yahoo.co.jp/pickup/6536436>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/6a933b34e43e6e5c4ddf1e385b39684468180cb20e80f3bcd62d60c1ef5af9fe.jpg> ラーメン2000円に光明 概念覆す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/1d9139784a0a24e48818928203590559739e950c5537902b48fa5947618877ef.jpg> 坂下千里子テニスクラブ きっかけ
+      <a href=https://news.yahoo.co.jp/pickup/6536438>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/2da8dc202ff3b9477c1e34f898bbb8152f486e59a0f9f6b322eb8dc60bc86a9a.jpg> オリックス山岡泰輔選手 不起訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/2d9a962d5631f5e4eb0bed4382fe6328d4f61e93efcd4e34307a1280de5d1020.jpg> TDS ジャンボリミッキー終了へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 19:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 19:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
