@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/65027b1cc2e605915be06024c8aec796.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/36d67d5606edd0ef151334adcbcd3963.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/90933f7f0b18c676dcaf361cd59ce470e2192bdc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34230455-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=74&cw=885&ch=885&exp=10800&fmt=webp> 吉村洋文知事「起きることを前提にした対策」　万博会場最寄り駅で一時4000人が足止めに言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d767d7e0b657597f0b17e1fe8a2cff36a0595b5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-10175071-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=789&ch=789&exp=10800&fmt=webp> ドジャース・大谷選手は4打数ノーヒット カブス・鈴木誠也は2安打
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/321d58d0b380b905e385328d64e123ebb4685851>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000048-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 備蓄米 3回目の入札始まる　卸売業者同士の売買可能に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2662f7407c13197239a6f4d293113ff06346dd2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-07232280-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理が公立高校の「併願制」導入に向けた検討を指示　共通試験で合格基準超えた志望校の入学可能に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ccca1893b61cf01da970088347d70511216a92f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-21872552-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手は2試合続けてノーヒット　パパになって初のヒットならず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b18f6690a40e9edb197632847b3dd8b04f9686bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00961929-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【公開手配】指定暴力団稲川会系幹部の田村悟史容疑者（50）“ガサ中”埼玉県警捜査員4人を車ではね飛ばし殺害しようとした疑い　横浜市神奈川区
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ead99bd152e340e227c600fb69f6587528953e97>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-06763174-ytv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「今後を考える上で重要な事案」 前夜に大阪メトロ・中央線が一時全線運転見合わせ　約4000人が夢洲駅に滞留「会期中に起こりえること」「バス代替も現実的にできると思う」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-07232280-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=444&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理が公立高校の「併願制」導入に向けた検討を指示　共通試験で合格基準超えた志望校の入学可能に
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f848c35f387ad48a093df16aee65cbc21a30e61772f17059d7a13b1c0c3b8cf4.jpg> 備蓄米入札開始 流通ルール見直し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536377>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/35f937c1d6850b6a184ef3a4c935de400dfa682985c9d1a0ce785ea2c231b32f.jpg> トランプ大統領 中東3カ国歴訪へ
       </a>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536397>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/51604d3365fd7165ad914b3f8bfaf1f36e451d6c273a00baeae4e0ac2f63d673.jpg> 捜索の際に逃走の男 公開手配
+      <a href=https://news.yahoo.co.jp/pickup/6536382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/49027623bf81cab78379775f6d7c5879d5063aac73ef81430dd902a9716873fc.jpg> WHO 米国脱退巡り部門半減へ
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536387>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/dc878e08363b459853b7860bc90c73ab88fb82cfa7c471241468146b49e0239b.jpg> 各地の進学塾 中国人の子ども殺到
+      <a href=https://news.yahoo.co.jp/pickup/6536399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f9f2a018cbcb18f5972f758239c0e23e8079a221a2defa72a4ddd883073d0831.jpg> 女性問題も調査 教皇決めの舞台裏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/6d699b5930d5a620c85a8ee27617f9b96a26fc383808ff2844717a9563dab5be.jpg> マッチングアプリ 大手寡占進む?
+      <a href=https://news.yahoo.co.jp/pickup/6536387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/dc878e08363b459853b7860bc90c73ab88fb82cfa7c471241468146b49e0239b.jpg> 各地の進学塾 中国人の子ども殺到
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536396>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/ed8ff46953d3c2027fb55049f5456d8618465c354ad375111079412efb556f62.jpg> トイザらスが米で実写映画化 報道
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 14:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 14:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
