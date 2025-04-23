@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0bee3240d4edc383b6a5262c7a2c31a2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e7c8f9b4e8ccf1f44be37c37109d8868.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a00e376ec023799a612aaaeb492d1d6745d8e74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00962367-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「和平交渉に有害だ」　ゼレンスキー氏の併合拒否発言を批判
+      <a href=https://news.yahoo.co.jp/articles/8f394ef39f24744d0615289bee574f607deb9d6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-10175146-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=488&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 一体、何が起きた？ 今永昇太の魔球で大谷翔平に“異変”？「どうした」「珍しいな」 “あまり見ないスイング”でマン振り三振
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3896ce1bf435b55c3cf192ce9d45b2c3238e5275>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-10175141-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=964&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> 「めちゃくちゃ飛んでる！」ド軍エドマン、今永撃ちの豪快弾に山本由伸が“絶句” 衝撃の一発にベンチでも驚きの光景
+      <a href=https://news.yahoo.co.jp/articles/b865403250f6663ed3abc4672e0d9605be3223e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000003-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「市場の力」にまた退いたトランプ氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1a00e376ec023799a612aaaeb492d1d6745d8e74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00962367-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「和平交渉に有害だ」　ゼレンスキー氏の併合拒否発言を批判
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5c25190c7c778eba86f7f75a988455439382ca6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00363549-diamond-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=420&ch=420&exp=10800&fmt=webp> トランプ関税は“急所”を突かれて微修正に動いた…世界の投資家が「米国離れ」の皮肉
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/ddb24720bd71a0df832b721009b3cfe951b63d7c4d08965670e4be487615172e.jpg> 対中関税「大きく下がる」米示唆
+      <a href=https://news.yahoo.co.jp/pickup/6536474>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/37e75be2e3cacd038eab9aadcc085a1a3aab14ba94be554ae5d0c62e5d4ee95d.jpg> 米国が対中関税50-65%検討 報道
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/ed22f5a0f509239cb24541560fe806d4af0a8ce21ff9d8127c72d898d95560da.jpg> SB浜口が指定難病を公表 手術
+      <a href=https://news.yahoo.co.jp/pickup/6536468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d513f5e53e78dc6bb0c6abb4f91d8fffa51639161f4c9391b10abfc944037ebb.jpg> 大場美奈が出産へ 石川柊太を抹消
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d513f5e53e78dc6bb0c6abb4f91d8fffa51639161f4c9391b10abfc944037ebb.jpg> 大場美奈が出産へ 石川柊太を抹消
+      <a href=https://news.yahoo.co.jp/pickup/6536475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/3f2a9dd78050ed1f2cc34c40edba94be213dc920c8ab3e18574d88ffd5d14494.jpg> YOSHIKIの高額ショー ギネス認定
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 06:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 07:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
