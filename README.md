@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/adbea90e21da06d58f6fad23ad594a3f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/00dfb16bff4d93a65937aaacd089899b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a2126b3e4e61aa0b6cd99eee69552d7b65ec2baf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04241003-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、真美子夫人の出産立ち会いから復帰３戦目　「１番・ＤＨ」のカブス戦で“パパ初安打”狙う
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/92df61ded00c015c99845e0b0f87533ad6a11eeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000017-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=1475&ch=1475&exp=10800&fmt=webp> 米・ウクライナ代表、和平協議は「生産的」　具体的な進展なしか
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d5b2466b0564f837dad47754b4de140b92f13cfe>
@@ -436,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 05:01:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 05:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
