@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6a8f9b177e71c6be1232a9201b0f016.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c31e508331f039bca223006d885cbb36.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f3f377b565cf8fef486842c23f239581a683b9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 万博会場の4000人、一時足止め　唯一の鉄路が運転見合わせ
+      <a href=https://news.yahoo.co.jp/articles/42f921cdd6022957e69b5d5d3e12730eb007ffd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000039-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=482&ch=482&exp=10800&fmt=webp> 韓国の兪興植枢機卿も教皇候補に…イタリア紙が選んだ１２人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/621c8958673a3149fd9e89fcedaa9a6d26200357>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-16596983-bbc-000-1-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 教皇フランシスコの葬儀は26日と決定、各国の首脳や王族も参列を表明
+      <a href=https://news.yahoo.co.jp/articles/8544f35abdd98add41be4d8042fba6ee738ce574>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010000-edua-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 【大学合格者ランキング2025】〈早稲田大〉1位と2位の差19人、現役トップは公立校
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0f3f377b565cf8fef486842c23f239581a683b9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000034-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 万博会場の4000人、一時足止め　唯一の鉄路が運転見合わせ
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f80fa94efcd3d48abe7558283d9efc06c684bd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000202-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> 楽天・浅村栄斗が300号　代名詞の右打ちで八回同点弾！「ホームランボールはぜひ返してください」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba5033d88bc13267329e02cfab6c1efea9044fde>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010008-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 西島秀俊×グイ・ルンメイ×真利子哲也がタッグ　オールNYロケの『Dear Stranger』9月公開
+      <a href=https://news.yahoo.co.jp/articles/0ca04d4485fec12d72dd38cda1571654ddae3ef5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000012-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=985&ch=985&exp=10800&fmt=webp> ＜長澤まさみ＞映画「おーい、応為」で大森立嗣監督と再タッグ　葛飾北斎の娘、葛飾応為役に
       </a>
     </td>
   </tr>
@@ -402,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/32ccdc9d8edc31fc3fd766cace6dbcb249908bcdffd01522e6d2596e4c2fcf3f.jpg> コメ輸入拡大案 与党内から賛否
+      <a href=https://news.yahoo.co.jp/pickup/6536363>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/4314c6cdab3d9711791aaa7cc2c0798bc6c75150528d967492f646aeb7b06a75.jpg> 巨大IT規制 回避する行為防止へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536368>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/04a5fcaa93eedcd368aca9ac0b57e6baeb8e2c66be671a778fb0f54b38fc9a55.jpg> トランプ氏 FRB議長「解任せず」
+      <a href=https://news.yahoo.co.jp/pickup/6536385>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/e07894c45032b702127e0af5e7a5df71993625343178ac519fa09b0b3679babf.jpg> 米 合成着色料を段階的に廃止へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/452add9f0a53d1c7070393bfd91f047445d6727fd4c4a70602a01a55891d4a5f.jpg> 中国 米関税巡り石破氏宛てに親書
+      <a href=https://news.yahoo.co.jp/pickup/6536387>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/dc878e08363b459853b7860bc90c73ab88fb82cfa7c471241468146b49e0239b.jpg> 各地の進学塾 中国人の子ども殺到
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/50b853fbc64c1df0d0117839bff04cf5fee14b0dd7436b566f3edff293198c5d.jpg> 13歳からUber注文可 配達員見解
+      <a href=https://news.yahoo.co.jp/pickup/6536351>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/7f1a5e1da9ed24e79acef7cdd762f07ecf74c625dad01a0445d3ada498c0d94e.jpg> 藤浪晋太郎が大乱調 本拠地騒然
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536380>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/7cf0c8bacb17c1e64d66562e45da6df1bf520870633163f427e0657668d087a5.jpg> 西島秀俊の出演映画 台詞9割英語
+      <a href=https://news.yahoo.co.jp/pickup/6536389>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/bad27e320457138450173186801a6441ff28f1baac84d887e6f295b8267c921e.jpg> 長澤まさみ 時代劇映画で初の主演
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 11:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 12:00:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
