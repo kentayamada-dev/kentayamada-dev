@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/78c498f193d97e40a9af0de4f97d2bd0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0bee3240d4edc383b6a5262c7a2c31a2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62813353d3dacfb4f6071d23698239c02c1b7109>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232451-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ政権、対中国145%関税率を半分以下に引き下げ検討　米紙報道　NY株は一時1100ドルあまり上昇
+      <a href=https://news.yahoo.co.jp/articles/1a00e376ec023799a612aaaeb492d1d6745d8e74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00962367-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「和平交渉に有害だ」　ゼレンスキー氏の併合拒否発言を批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33cfe656aa419b19e3f679c303869ebcaa726d1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000015-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ゼレンスキー氏に不満爆発　トランプ氏「交渉に有害」
+      <a href=https://news.yahoo.co.jp/articles/3896ce1bf435b55c3cf192ce9d45b2c3238e5275>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-10175141-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=964&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> 「めちゃくちゃ飛んでる！」ド軍エドマン、今永撃ちの豪快弾に山本由伸が“絶句” 衝撃の一発にベンチでも驚きの光景
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2126b3e4e61aa0b6cd99eee69552d7b65ec2baf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04241003-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、真美子夫人の出産立ち会いから復帰３戦目　「１番・ＤＨ」のカブス戦で“パパ初安打”狙う
+      <a href=https://news.yahoo.co.jp/articles/24a352cb98ad3c0c47f4fe0f2ce479a41e4c2384>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04812256-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> NYダウ419ドル高　米中の貿易摩擦の緩和に期待感　一時1100ドル以上値上がり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e5c25190c7c778eba86f7f75a988455439382ca6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00363549-diamond-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=420&ch=420&exp=10800&fmt=webp> トランプ関税は“急所”を突かれて微修正に動いた…世界の投資家が「米国離れ」の皮肉
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536470>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> NYダウ 一時1100ドル超上昇
+      <a href=https://news.yahoo.co.jp/pickup/6536471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/397c34ea1e917bfbb58ac539391c0efa249730414c5841a002e2d6f78f0954b6.jpg> NYダウ続伸 終値前日比419ドル高
       </a>
     </td>
   </tr>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/a5fa23f73f026352ef7532379c55478daf5d855e8d10e9b3b39e2d0821332fdf.jpg> 米兵による性暴力事件 沖縄で2件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536469>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/c7c4850bbcd7900c0c40071af7e804883cd02ba383e41d1f3ad2b482ffaffadb.jpg> 八潮陥没事故 本格復旧に5〜7年か
       </a>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536450>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/1b0803a94821d2f3f72e8bc06f9746b4045c121597e412d14728dc41d4014f6a.jpg> ダンス世界王者 ひき逃げ疑い逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6536473>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/40b983cd66d520b15cc819668292d849e1a2175d9ebd7335cc8e5a9a679add34.jpg> 市の施設に爆破予告 職員懲戒免職
       </a>
     </td>
   </tr>
@@ -448,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536472>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/349bf043806003cf73a9c28f9bba3950a14cd4449fecfd0609df7afb48beb317.jpg> 日テレ・安村アナ 医学部に入学
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 06:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 06:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
