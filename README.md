@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c1126509c1f1627d533176cda328654.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/91b52c076ce14bbb84a4dc01f054c2aa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c16c6b2ba359f2d3bcddc9b2ce493bbc3c5bc780>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000102-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=532&ch=532&exp=10800&fmt=webp> 米の和平「最終提案」　露の占領地割譲とクリミア統治を容認　米報道
+      <a href=https://news.yahoo.co.jp/articles/a9c1fc6a9434007522107b9cf373e9486006ee4c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050150-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=354&ch=354&exp=10800&fmt=webp> 「コンクラーベ」、フランシスコ体制支えたイタリア人枢機卿ら有力…アジアやアフリカからの可能性も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cab96a7061a82aeb7e36557f5247b22393783249>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ファンドがフジ取締役候補変更　投資責任者から弁護士へ
+      <a href=https://news.yahoo.co.jp/articles/72a124386d40dbed2ca69b27e5204aa2cbd05fd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04231226-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平のパパ初安打はお預け　同僚の“先輩パパ”は助言「今後１０年間は眠れないのを受け入れるんだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f311bae66d2c6633f3462bc47ce36791ab3f060>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000099-ann-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ提示の和平案をウクライナが拒否　米ルビオ長官は和平協議“ドタキャン”
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97313c4836c29a3e35e21df49a69f4fd702c2844>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000098-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ローマ教皇の遺体、大聖堂に安置　信者ら感謝と追悼　バチカン
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 共産党、党首討論に参加できず
+      <a href=https://news.yahoo.co.jp/pickup/6536470>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> NYダウ 一時1100ドル超上昇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536470>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> NYダウ 一時1100ドル超上昇
+      <a href=https://news.yahoo.co.jp/pickup/6536458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 共産党、党首討論に参加できず
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/493b3c0333ddf7925e845641c401b33205111df40b38c5e6ca09038a40af87d8.jpg> 菓子と偽り薬品渡す 生徒2人けが
+      <a href=https://news.yahoo.co.jp/pickup/6536450>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/1b0803a94821d2f3f72e8bc06f9746b4045c121597e412d14728dc41d4014f6a.jpg> ダンス世界王者 ひき逃げ疑い逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 23:51:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 00:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
