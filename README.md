@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/91b52c076ce14bbb84a4dc01f054c2aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0e15bc6878f5dad3850cc718fd308b7f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,24 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f311bae66d2c6633f3462bc47ce36791ab3f060>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000099-ann-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ提示の和平案をウクライナが拒否　米ルビオ長官は和平協議“ドタキャン”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88766d348d0f1afa7367f5ba057c585c008724f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000087-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 八潮市道路陥没事故　下水道本格復旧案は完成までに5～7年か　埼玉県見通し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49f160efb68723e766e70ec5b919d50be7e04218>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-90050269-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【知床沖・観光船沈没事故から3年】20人死亡6人行方不明の未曾有の事故＿約120人参列し『追悼式』＿桂田社長は姿見せず＆供花も2025年は無し…無念の家族のため7月には“洋上慰霊”の動きも〈北海道〉
+      <a href=https://news.yahoo.co.jp/articles/8e3106efea9174ed458f3899347cc776acf5641d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-21874171-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ソフトバンク】濵口遥大が国指定の難病・黄色じん帯骨化症の手術競技復帰まで3〜4か月か
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 00:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 01:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
