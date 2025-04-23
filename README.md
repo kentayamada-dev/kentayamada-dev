@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3221db8408189e96031fe681522b3c51.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da235f248268b2b9b517772ec4b264b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47da69ad235fa445ad36e2edfe0d5eebb95f8b9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 第四北越と群馬銀が経営統合へ　24日にも基本合意し発表
+      <a href=https://news.yahoo.co.jp/articles/dd9e05a8ca9504b795bb6dcdb6ae1486e6fcbe4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050128-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=45&cy=0&cw=384&ch=384&exp=10800&fmt=webp> 大阪・関西万博の来場者１００万人…うち１６万人はスタッフや報道機関・万博協会職員ら
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa03b4967e5fb33faa3a43592261bf0ff6aa2579>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34230683-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=179&cw=1321&ch=1321&exp=10800&fmt=webp> 大谷翔平４打数無安打、２試合連続ノーヒット…ロバーツ監督「彼は大丈夫」信頼は変わらず
+      <a href=https://news.yahoo.co.jp/articles/728b9cc610c46a6940d4b63225ed07f939c1cf04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010003-afpbbnewsv-000-2-thumb.jpg?exp=10800&fmt=webp> ローマ教皇のひつぎ サン・ピエトロ大聖堂に到着 弔問に数十万人見込み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e248e495ec4fa369aa67a11de2ef21760ebaf45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050907-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博開幕１１日目で来場者１００万人突破　１００万人目の家族に記念品贈呈　石毛事務総長「開幕から順調に来ている」
+      <a href=https://news.yahoo.co.jp/articles/36b8c52a0524f4b0b70f2021f0ba13eabc397f3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-01740745-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 7打数無安打…大谷が珍しく“投げ捨てた”バット　判定に納得いかず、見えた感情
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9c2446d751c53491f8687ce7e1dd3760c42c09a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-07232375-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=599&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 次期教皇の有力候補の一人に韓国人枢機卿　イタリアメディア
+      <a href=https://news.yahoo.co.jp/articles/de65b9d45081b509294923bd997f688ed0c2e41c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010003-tvkv-000-1-thumb.jpg?exp=10800&fmt=webp> 家宅捜索現場から逃走　暴力団幹部の男を公開手配　埼玉県警
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/f47f5a1b3a4f2e2efd2cac2530b91b6d912fb090a6796d3521c6849549c8349e.jpg> 野田氏 関税交渉巡り首相を追及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/96bd19646728ef29d6f1a81c6ee31ed66d0ebdf894029e37b2c0188384e7a4a9.jpg> 露がドローン攻撃 ウで9人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536439>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/86d0961dab4fe926805587a9ad08bedc79284c2b17c3d4bf68b634c22430ae1a.jpg> オンライン入国審査 導入前倒しへ
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536435>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/3a3f3383cad986f24f5d73179802fce5a8ab710d9234385c9f6e7acb8dc23d6f.jpg> 給食にガラス 取り除き食べさせる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536450>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/1b0803a94821d2f3f72e8bc06f9746b4045c121597e412d14728dc41d4014f6a.jpg> ダンス世界王者 ひき逃げ疑い逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 19:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 20:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
