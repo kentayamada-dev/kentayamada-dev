@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/44ec130c07e310ce3539aea12dc02020.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/277eb1e2d425b44400bebbc305e52a57.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b03a34e5663835d622ff4dd93b6852708193b44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00962153-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 学習塾に全裸で侵入し現行犯逮捕の西村大輔容疑者（48）…逮捕までにコンビニで万引き、タクシー強奪しひき逃げ・当て逃げを約20件起こしたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6d1ddaed34e72dd080ce1037b86285964070256>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050132-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ［深層ＮＥＷＳ］アメリカ提案のウクライナ和平案を議論「プーチン大統領は政権転覆をのませたい」…小泉悠氏
+      <a href=https://news.yahoo.co.jp/articles/c16c6b2ba359f2d3bcddc9b2ce493bbc3c5bc780>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000102-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=532&ch=532&exp=10800&fmt=webp> 米の和平「最終提案」　露の占領地割譲とクリミア統治を容認　米報道
       </a>
     </td>
   </tr>
@@ -381,6 +373,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/88766d348d0f1afa7367f5ba057c585c008724f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000087-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 八潮市道路陥没事故　下水道本格復旧案は完成までに5～7年か　埼玉県見通し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/49f160efb68723e766e70ec5b919d50be7e04218>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-90050269-hokkaibunv-000-1-thumb.jpg?exp=10800&fmt=webp> 【知床沖・観光船沈没事故から3年】20人死亡6人行方不明の未曾有の事故＿約120人参列し『追悼式』＿桂田社長は姿見せず＆供花も2025年は無し…無念の家族のため7月には“洋上慰霊”の動きも〈北海道〉
       </a>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c6199f5fa7609f2f25ef2e6aaf9863c6a739af8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000092-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=871&ch=871&exp=10800&fmt=webp> 大阪メトロ中央線の車両故障、万博協会側に情報伝わらず　対応検討へ
+      <a href=https://news.yahoo.co.jp/articles/97313c4836c29a3e35e21df49a69f4fd702c2844>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000098-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ローマ教皇の遺体、大聖堂に安置　信者ら感謝と追悼　バチカン
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536455>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kuraharayu/02182209/title-1745379127926.jpeg?exp=10800> 百日ぜきが急増 注意するべきこと
+      <a href=https://news.yahoo.co.jp/pickup/6536459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/a5fa23f73f026352ef7532379c55478daf5d855e8d10e9b3b39e2d0821332fdf.jpg> 米兵による性暴力事件 沖縄で2件
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536466>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/20e4cf770d3ff2326340741d1ecf242c8960bc81d05b3d02a2b3f4cdab8cb75e.jpg> 修繕談合か 公取委新たに立ち入り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536460>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/493b3c0333ddf7925e845641c401b33205111df40b38c5e6ca09038a40af87d8.jpg> 菓子と偽り薬品渡す 生徒2人けが
       </a>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536456>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/849ed962f2a14776c6d41efffe6e8ed038002d0d69340dc68f4fc288f97dc22f.jpg> Switch2の抽選販売 任天堂おわび
+      <a href=https://news.yahoo.co.jp/pickup/6536467>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/ed22f5a0f509239cb24541560fe806d4af0a8ce21ff9d8127c72d898d95560da.jpg> SB浜口が指定難病を公表 手術
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/4b83437dec5fc5e9118be9856d452f07a27474a95a7e8ae7c9f7343fbc847111.jpg> 周東アクシデント 死球受け歩けず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/2d9a962d5631f5e4eb0bed4382fe6328d4f61e93efcd4e34307a1280de5d1020.jpg> TDS ジャンボリミッキー終了へ
+      <a href=https://news.yahoo.co.jp/pickup/6536468>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d513f5e53e78dc6bb0c6abb4f91d8fffa51639161f4c9391b10abfc944037ebb.jpg> 大場美奈が出産へ 石川柊太を抹消
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 23:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 23:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
