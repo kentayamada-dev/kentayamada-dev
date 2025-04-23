@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7c8f9b4e8ccf1f44be37c37109d8868.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/20579ea92881e9ede5f13c61c2d0ce6e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f394ef39f24744d0615289bee574f607deb9d6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-10175146-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=488&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 一体、何が起きた？ 今永昇太の魔球で大谷翔平に“異変”？「どうした」「珍しいな」 “あまり見ないスイング”でマン振り三振
+      <a href=https://news.yahoo.co.jp/articles/7abc7eb37ee1891c975e79c8ce3bfd16541275f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-35232215-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=676&ch=676&exp=10800&fmt=webp> トランプ氏、ゼレンスキー氏を非難　ロシアのクリミア支配を認めない発言は「有害」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/867e123632190b80c99643d6ec744e81ee886792>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240031-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=834&ch=834&exp=10800&fmt=webp> 大谷翔平が通算10打数以上対戦して無安打の投手／一覧
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b865403250f6663ed3abc4672e0d9605be3223e7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000003-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 「市場の力」にまた退いたトランプ氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a00e376ec023799a612aaaeb492d1d6745d8e74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00962367-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> トランプ氏「和平交渉に有害だ」　ゼレンスキー氏の併合拒否発言を批判
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 共産党、党首討論に参加できず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536469>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/c7c4850bbcd7900c0c40071af7e804883cd02ba383e41d1f3ad2b482ffaffadb.jpg> 八潮陥没事故 本格復旧に5〜7年か
       </a>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536473>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/40b983cd66d520b15cc819668292d849e1a2175d9ebd7335cc8e5a9a679add34.jpg> 市の施設に爆破予告 職員懲戒免職
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/e59ba7c8c783382df4b65bebb0d5c562e52dc146f8e95f37b202c17d01473980.jpg> 仕出し弁当で大学生ら130人食中毒
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 07:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 07:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
