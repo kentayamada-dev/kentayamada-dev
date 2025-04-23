@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0e15bc6878f5dad3850cc718fd308b7f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f42f90d660c7428db6caa80fc00e3afe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9c1fc6a9434007522107b9cf373e9486006ee4c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050150-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=71&cy=0&cw=354&ch=354&exp=10800&fmt=webp> 「コンクラーベ」、フランシスコ体制支えたイタリア人枢機卿ら有力…アジアやアフリカからの可能性も
+      <a href=https://news.yahoo.co.jp/articles/b2d0828d681e8d575f91c3ce8a9a2da170b4b7d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000060-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1095&ch=1095&exp=10800&fmt=webp> ドジャース・大谷　パパ初安打はお預け　カブス・今永から手厳しい出産祝い?!「心では祝って」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72a124386d40dbed2ca69b27e5204aa2cbd05fd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04231226-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平のパパ初安打はお預け　同僚の“先輩パパ”は助言「今後１０年間は眠れないのを受け入れるんだ」
+      <a href=https://news.yahoo.co.jp/articles/0a8aacaf4bffaa8227709f3823f10f3994c9cfc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000001-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 米政権　中国への「トランプ関税」大幅引き下げ検討か　米紙報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e3106efea9174ed458f3899347cc776acf5641d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-21874171-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=413&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【ソフトバンク】濵口遥大が国指定の難病・黄色じん帯骨化症の手術競技復帰まで3〜4か月か
+      <a href=https://news.yahoo.co.jp/articles/997dff5f533482a924ff4e11551c8cb3a941d300>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00342136-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ソフトバンク】浜口遥大が「胸椎黄色靱帯骨化症」と左ヒジの手術　復帰まで３～４か月
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f311bae66d2c6633f3462bc47ce36791ab3f060>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000099-ann-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ提示の和平案をウクライナが拒否　米ルビオ長官は和平協議“ドタキャン”
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 01:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 01:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
