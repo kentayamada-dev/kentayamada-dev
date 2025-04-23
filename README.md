@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1dd5efa46fbb47a6c8622c0a303c9909.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c3a984952557529be37826692dcf2837.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0223a801d947a7e4df0320eeae5d61ed8df87cf5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-08711941-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “全裸男”わずか1時間半ほどで…約20件の事件・事故に関与か　1人死亡、十数人けが　埼玉
+      <a href=https://news.yahoo.co.jp/articles/3b03a34e5663835d622ff4dd93b6852708193b44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00962153-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 学習塾に全裸で侵入し現行犯逮捕の西村大輔容疑者（48）…逮捕までにコンビニで万引き、タクシー強奪しひき逃げ・当て逃げを約20件起こしたか
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/6c4e0de1f6757e54d3fc07b88f64798a81078769d2d6320b4995d0ada44c75ba.jpg> EU 米アップルと米メタに制裁金
+      <a href=https://news.yahoo.co.jp/pickup/6536462>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/b6dc176ad08dedae2addf0324365b6786c264d0b1510c82f0e88a8fc72f5413e.jpg> 米に留学 ビザ取り消し相談相次ぐ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 22:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 22:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
