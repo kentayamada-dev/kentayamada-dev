@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/140e9d2536a45c61af302cfc704c63f3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d484e092b24826a949c64dfcd24b9ef7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a3e8a0cb5ab1ebd96d0cce2b692976fdee3b240>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000044-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=671&ch=671&exp=10800&fmt=webp> ローマ教皇、看護師に感謝の言葉　苦しまず、最期明らかに
+      <a href=https://news.yahoo.co.jp/articles/6053d60d5dcec557efa7aad94abecc4d31f4bbca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00010004-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】万博・ネパールパビリオン　開幕後も工事が未完了の状況に博覧会協会「支援してまいりたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4664b40726a7594932c80f781feb719d0a7f22ce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-35232162-cnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ローマ教皇の葬儀、２６日に　遺体安置の大聖堂は一般に公開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/91d1fa089effe53c85dae09dbaf9cbf047fa54e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-34230071-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1217&ch=1217&exp=10800&fmt=webp> 長女誕生の大谷翔平が投球練習　多忙な調整もロバーツ監督、スケジュールは「変わることはない」
       </a>
     </td>
   </tr>
@@ -373,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0aa4f8f6585e696578f68d518d08d9046c543cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-08172528-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=185&cw=640&ch=640&exp=10800&fmt=webp> 中山忍「ただもう一度会いたい」　亡き姉・中山美穂さんのお別れの会で喪主　涙ながらに思いを語る
+      <a href=https://news.yahoo.co.jp/articles/6f80fa94efcd3d48abe7558283d9efc06c684bd3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250422-00000202-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1083&ch=1083&exp=10800&fmt=webp> 楽天・浅村栄斗が300号　代名詞の右打ちで八回同点弾！「ホームランボールはぜひ返してください」
       </a>
     </td>
   </tr>
@@ -402,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/b9249af56f80e3a23102da75357649e6f49ec430587fc5c7059751721557c72e.jpg> テスラ 1ｰ3月期の最終利益71%減
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536355>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/48d528b3478761230025b6ea62a9955f6b255a9fc7bdc8d4ce466786907fd90a.jpg> 郵便局の不適切点呼 全国の7割で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536358>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/61e2d2483ab879019f82f63c79f0a3b01e51111e3f12fcecd0af60a20ac55a23.jpg> 知床事故3年 1300万円集めた漁師
+      <a href=https://news.yahoo.co.jp/pickup/6536368>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/04a5fcaa93eedcd368aca9ac0b57e6baeb8e2c66be671a778fb0f54b38fc9a55.jpg> トランプ氏 FRB議長「解任せず」
       </a>
     </td>
   </tr>
@@ -434,16 +434,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536360>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/cfef7ad08403c39baa61884eb0569c3c2515ea172ee8162fd7a2784c77b81c37.jpg> W杯放映権 FIFAが電通以外で調整
+      <a href=https://news.yahoo.co.jp/pickup/6536371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/bd02303c6081edfc72dbf1a79bcaf136ab8edf65cc27d40dd52a5170641b0ae6.jpg> 店装ったコメ販売詐欺が横行 怒り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536365>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/e10c77ba490b7bfd80da8524a78d350c24dc3ce17a55c317ea9d143cad0b7fb0.jpg> 手越祐也 5年ぶりにフジ番組出演
+      <a href=https://news.yahoo.co.jp/pickup/6536374>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/afa43b83ce6b57a71223b0eefb65741db988292513438fa7cec8fc0530bda22a.jpg> 旅館「1泊2食付き」定着した背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536372>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/6b3ce7edebe6e2c9dfea0054171ffb53e22945ab52dc5fc8b56abd1f0cbf766b.jpg> 大谷 敵マスコットから出産祝い?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536360>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/cfef7ad08403c39baa61884eb0569c3c2515ea172ee8162fd7a2784c77b81c37.jpg> W杯放映権 FIFAが電通以外で調整
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 09:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 10:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
