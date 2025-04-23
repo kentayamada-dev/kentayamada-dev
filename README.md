@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/489525ce4348d29c23a8756c59f19475.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aaddadabb8bb8f469f0f380ed1b85fa9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4fee14584673050191f88ec60740c4efdb9bab6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-90018960-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=564&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> "発起人"橋下氏が万博訪問「言い出した人天才」と自画自賛　来場者見込み達せずも「1日10万人が適度」
+      <a href=https://news.yahoo.co.jp/articles/909c54520d178f40224494f16b37156aa6559966>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日本版ESTA、28年度導入　訪日外国人急増に対応　法相
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3f3dba3aa863fbb62bb64d69063e8b6d198a277f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000057-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 大阪・関西万博、来場者が100万人に　愛知を上回る出足
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c9126b00125b78f12179bbb87144a050231dcdf9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-03879655-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> ローマ教皇フランシスコのひつぎ、サンピエトロ大聖堂に移される
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2663a1af182cdbc3ac2e7f17031283db346b9898>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00962008-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 党首討論半年ぶり“激突”…「トランプ関税」など争点　立憲・野田代表「体制弱すぎる」　国民・玉木代表はガソリン10円値下げ「がっかりした」
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536418>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/a7ef42ca0daa1e67cdd9ebdff0f4670b0bf90c36c7d8e7fc38f1707fd16b4d55.jpg> 国民・平岩氏 不倫で党員資格停止
+      <a href=https://news.yahoo.co.jp/pickup/6536435>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/3a3f3383cad986f24f5d73179802fce5a8ab710d9234385c9f6e7acb8dc23d6f.jpg> 給食にガラス 取り除き食べさせる
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/1d9139784a0a24e48818928203590559739e950c5537902b48fa5947618877ef.jpg> 坂下千里子テニスクラブ きっかけ
+      <a href=https://news.yahoo.co.jp/pickup/6536438>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/2da8dc202ff3b9477c1e34f898bbb8152f486e59a0f9f6b322eb8dc60bc86a9a.jpg> オリックス山岡泰輔選手 不起訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/181d9077cb4b1fd172ce5812c90a5364427ba04bc7cce01e793753b4c288ded6.jpg> ダウンタウンDX 後枠は見取り図
+      <a href=https://news.yahoo.co.jp/pickup/6536433>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/1d9139784a0a24e48818928203590559739e950c5537902b48fa5947618877ef.jpg> 坂下千里子テニスクラブ きっかけ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 17:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 18:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
