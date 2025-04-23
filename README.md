@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCX4JAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/120800659e5c40c54927c3f07815c5cd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cb14f6ec3bc4f9c09eccc36e94a94e8a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b9bdda2079d7744f4a1441b919930ece0f9f7685>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000392-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=722&ch=722&exp=10800&fmt=webp> 万博「夢洲駅」からの帰宅に影響　大阪メトロ中央線、22日夜一時運行見合わせ・謝罪
+      <a href=https://news.yahoo.co.jp/articles/6fabb84e0167e2d9d984924fae30348f3a2567b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00050087-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=15&cw=485&ch=485&exp=10800&fmt=webp> 横浜の捜索現場から逃走の暴力団幹部を公開手配…殺人未遂と公務執行妨害容疑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2981501f517143e89badcccce64b372a922e19b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00253763-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 〈埼玉・タトゥー全裸男〉「女子生徒は髪をひっぱられ涙、講師はコップで頭を殴られ流血…」学習塾に侵入した全裸男は逮捕の際「机を抱きかかえていた」直前に車強奪・死傷ひき逃げの疑いも
+      <a href=https://news.yahoo.co.jp/articles/ad4b699c06166f2d1a8b6025567859aebd35a09f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250423-00000030-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 大阪・関西万博の駅で4千人が足止め　アクセスの弱さ浮き彫りに
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536363>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/4314c6cdab3d9711791aaa7cc2c0798bc6c75150528d967492f646aeb7b06a75.jpg> 巨大IT規制 回避する行為防止へ
+      <a href=https://news.yahoo.co.jp/pickup/6536391>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/0de12c652c46ba897e1b95b498abcded2ce4dad13e196ac203f5a2e41851309d.jpg> 福島第1デブリ試験的取り出し完了
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536385>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/e07894c45032b702127e0af5e7a5df71993625343178ac519fa09b0b3679babf.jpg> 米 合成着色料を段階的に廃止へ
+      <a href=https://news.yahoo.co.jp/pickup/6536377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/35f937c1d6850b6a184ef3a4c935de400dfa682985c9d1a0ce785ea2c231b32f.jpg> トランプ大統領 中東3カ国歴訪へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536397>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/51604d3365fd7165ad914b3f8bfaf1f36e451d6c273a00baeae4e0ac2f63d673.jpg> 捜索の際に逃走の男 公開手配
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536381>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/a5b6a22474f61251c01383937f1a5b73deadd27c7c1a7e98e82855579465f442.jpg> 今も太陽避ける生活 サリン後遺症
+      <a href=https://news.yahoo.co.jp/pickup/6536375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d6d022c10685e9075d58e136b1440a2568d3afc2315b0accf50c6f9c9dc099cd.jpg> 帰りたい 駅で万博の帰宅客足止め
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/d6d022c10685e9075d58e136b1440a2568d3afc2315b0accf50c6f9c9dc099cd.jpg> 帰りたい 駅で万博の帰宅客足止め
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536389>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/bad27e320457138450173186801a6441ff28f1baac84d887e6f295b8267c921e.jpg> 長澤まさみ 時代劇映画で初の主演
+      <a href=https://news.yahoo.co.jp/pickup/6536396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/23/ed8ff46953d3c2027fb55049f5456d8618465c354ad375111079412efb556f62.jpg> トイザらスが米で実写映画化 報道
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/23 12:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/23 13:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
