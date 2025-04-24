@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1866d5ea7c24dceac604bb64b192faf4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/74c4e707a9d339cf170c7e46040db493.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bca5ff68d19f7406ea32362391d5d296627077b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240897-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> 【阪神】今季初４連勝へ、小幡竜平が４試合連続で「８番遊撃」湯浅京己ベンチ入り／スタメン一覧
+      <a href=https://news.yahoo.co.jp/articles/9fa2d77d8f2e37c62eb0d2be3b242b3b79d75667>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 阪神湯浅投手が出場選手登録　国指定の難病から復帰へ
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536540>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/0a791daa0b1638e59b371d961d8fac00dd9335f7c68d6697457785fb155f55a3.jpg> 妊娠し悩む若者 背景にある共通点
+      <a href=https://news.yahoo.co.jp/pickup/6536544>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/01d00ba663dde09477433e996f1c7d1c8edb8f7d8aed3d1ec2c663d90ec27dff.jpg> 俳優座の跡地 吉本新劇場開設へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536538>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/02d5732fffaeb9e78e43079ae53637d80f32d374bef431e840fb670e0eb62dcb.jpg> コナカ 15万人分の顧客情報漏えい
+      <a href=https://news.yahoo.co.jp/pickup/6536540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/0a791daa0b1638e59b371d961d8fac00dd9335f7c68d6697457785fb155f55a3.jpg> 妊娠し悩む若者 背景にある共通点
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 18:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 18:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
