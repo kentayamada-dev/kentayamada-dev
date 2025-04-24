@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/57896036614ed9edd855def61ffc2563.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e41b7efc07bb0eaeef09f436b2986900.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d274cc8d8b0df2974927e5078065967e09a43f39>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000033-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=696&ch=696&exp=10800&fmt=webp> 声優の飯田里穂、双子の出産を報告「小さなふたりに毎日癒されながら」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/853c39672f9c0847390c6bafedbf3feb397ba72d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000098-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=784&ch=784&exp=10800&fmt=webp> 日米、来週に2回目の関税交渉　赤沢経済再生相、30日に出発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/301bca6d744b6d51ab21e18e0684b805f53ca8f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-08226461-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「和平交渉に非常に有害」　ゼレンスキー大統領の“ロシアによるクリミア半島支配認めない”発言に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4aa5d2b94e51c8b54fb56d93b9a10695ca1a5f28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04241064-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平は「自らをアウトにしてる」　ロバーツ監督が苦言　“パパ初安打”も復帰後３試合で１２打数１安打
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e03624c2e0306e309f7df7570ca70812bfffd801>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-10175212-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=282&cy=0&cw=540&ch=540&exp=10800&fmt=webp> “トランプ関税”交渉 赤沢大臣、30日から再訪米へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70928a7e91f876b3693e951880751089aafa7d0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232479-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「和平交渉にとても有害」トランプ氏がゼレンスキー大統領の発言を非難　ロシアの「クリミア領有」容認の和平案をウクライナが拒否
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04241064-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平は「自らをアウトにしてる」　ロバーツ監督が苦言　“パパ初安打”も復帰後３試合で１２打数１安打
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/49e229e9b8480210dff3948f050a6e17a3ca62bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232480-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 全裸男、西村大輔容疑者 奪ったタクシーを100キロ超のスピードで運転し事故か　防犯カメラには“衝突音がひびく様子”記録　埼玉県内で20件以上の事件・事故に関与の疑い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/973892db3a968078da99e7e76d808360b2d5dc59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00050050-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 自転車「青切符」、反則金は「ながらスマホ」１万２０００円・２人乗り３０００円などに…来年４月から
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232480-jnn-000-6-thumb.jpg?exp=10800&fmt=webp> 全裸男、西村大輔容疑者 奪ったタクシーを100キロ超のスピードで運転し事故か　防犯カメラには“衝突音がひびく様子”記録　埼玉県内で20件以上の事件・事故に関与の疑い
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536508>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/8bddeff9b185b9d1a9a1b31336bbfc8d5345ae6cc6a9be247a9fec1ce056bc88.jpg> 株最低投資額 企業に引き下げ要請
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536502>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/67b7af36cbba37b009473ca4e72a4a61abc5925d8cf2d1dbf313c5901f6fd8fe.jpg> 東北道で車3台絡む事故 1人死亡
       </a>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536501>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/96b536141fe51c83b8acbce29892f16c7440b80947c796e155642155f1893158.jpg> タイヤ女児直撃 運転手ら有罪判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536496>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/eb255a528ed833c63ccf1c8273ea7756fce70769fc05f409ef4bb872c56256de.jpg> ANA系元従業員 補償金を不正受領
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536472>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/349bf043806003cf73a9c28f9bba3950a14cd4449fecfd0609df7afb48beb317.jpg> 日テレ・安村アナ 医学部に入学
+      <a href=https://news.yahoo.co.jp/pickup/6536510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/eab18d0d167f943bb1479ce2c4dc4e324ccdbc924064e5bcb51d2811d3871d5f.jpg> NegiccoのKaede 第2子妊娠を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 12:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 12:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
