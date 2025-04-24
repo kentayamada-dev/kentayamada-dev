@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f38ec3e0cac1fb86249961829ce86024.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bec4604d050c09f3511aff98bf93e737.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1eafc734d340abc9e42a237b7373eb261ce70d65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-09929882-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【解説】まもなく日米協議　為替は“裏テーマ”？　トランプ関税への対応は…
+      <a href=https://news.yahoo.co.jp/articles/1a42de476bf51aed91672fe557e4b43246cb861f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-90022960-nbstv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】水門に車が衝突　19歳と20歳の技術専門校の訓練性4人死亡　かなりスピードを出していたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/203479e2b766792e462b83a6d3cac597239f77a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 料理にカタツムリ、松江　ファミレス「ジョイフル」
+      <a href=https://news.yahoo.co.jp/articles/5f39f3567543ce1a6fa004514721d91b396a5221>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-90023458-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “ドル安”望むトランプ氏『マーアラゴ合意』実現性は？日米財務相会談の焦点は為替
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 01:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 02:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
