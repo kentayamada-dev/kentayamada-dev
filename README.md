@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8aeb2b72a4c3f0264cb268b85fd2a035.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/13c0d151faa798690937714da2c54c7e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/938774b18d2a5b373cec0b9a5448f022df0aa5c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000058-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=909&ch=909&exp=10800&fmt=webp> 阪神・湯浅京己が1軍合流　2023年6月15日以来、シーズンでは679日のぶり
+      <a href=https://news.yahoo.co.jp/articles/6bffb8c46e55981e70a41d0ce9afd28bf2f9605b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232568-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】堤防道路から転落した車が水門に衝突 「損傷激しく、救出できない」男性4人搬送　1人死亡、2人が心肺停止、1人が大けが　長野・飯田市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e615c863d5ec84fb31e8461e36d6d87a363f5c8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-01741700-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 阪神・湯浅京己、679日ぶりの1軍　難病「胸椎黄色靱帯骨化症」の手術経て復帰…24日の公示
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf05dc40578f1c457969561c8f2afe92dbe33af9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> コメを関税交渉から除外　日本政府が検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/514eb59ab700bd1f4639d261df26f2bc15abe194>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000037-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=490&ch=490&exp=10800&fmt=webp> トヨタ、24年度の世界販売は1027万台　3年連続で1千万台超え
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/970bff2c5d092614334ba8ce7577e32a7148f2b217ea3b104ece1c68ee029ed3.jpg> G20財務相会議開幕 米関税に懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536512>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/4dc52e882ed8df9f95ac0830534e38f449278626129787d11e1eac24c6ab6581.jpg> 米関税「困っている」中国側本音
+      <a href=https://news.yahoo.co.jp/pickup/6536530>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/08aa85895da4bd64463273e8e91f6cd996c191715933bd40e52ffa7366608057.jpg> 株価終値 3週ぶり3万5千円台回復
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536521>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/4272eacba960fcf6d2e30418dc190c6ca41e819a0ba020bde866df364061491b.jpg> 水門に車衝突 1人死亡3人意識不明
+      <a href=https://news.yahoo.co.jp/pickup/6536532>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/4a79ff44e05c4e059d6789de5a0cd9a847566365d67c05f6294cfaa7e6f4b904.jpg> 水門に車衝突 1人死亡2人心肺停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536526>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/cd6b346d1166587a2b90ffeb86a13b8a5cec99280756d09f40d2f564f8bdf726.jpg> 和歌山のパンダ全4頭 中国返還へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 15:30:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 16:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
