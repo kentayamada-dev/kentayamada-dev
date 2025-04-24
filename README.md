@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fd2dc9381b0900661f3f633ab2cb73db.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7ccd398e1ba5bb7cd2ca836cb90c890.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aede21156e06615dbf54b509f64b9f74d92e3253>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232470-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「トランプ関税」の停止を求めて米ニューヨーク州など12州が提訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a8a197765977bf6a9aec783afb3db52f4bce428c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240234-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=1085&ch=1085&exp=10800&fmt=webp> 大谷翔平の第４打席は遊飛　第２打席には「パパ初安打」右前打で先制点奪取に貢献
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d08ffbe59140358aebe94627e3827787a90b482>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ和平協議に米国務長官欠席、急遽高官級に格下げして開催も進展なしか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b7f94150f9918b1e1074b92438933a094d35e6cc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-16406882-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=575&ch=575&exp=10800&fmt=webp> トルコ・イスタンブールでM6強の地震、大勢が屋外で避難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3bcfea9b0f051adb42018ff10f5d74eff5e6d43f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232460-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロンドンでウクライナ和平会合　大きな成果なし　ゼレンスキー氏は「クリミア宣言」引用で米側和平案に反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2d1a04a8a5cbce65f1916367d665ffcb80908bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240170-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=1085&ch=1085&exp=10800&fmt=webp> 大谷翔平の第３打席は左飛、第２打席には「パパ初安打」右前打で先制点奪取に貢献
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5b54aff3ebb83d915ec0e194cd46715feb31f4c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000014-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米政権、対中関税引き下げ検討か　米報道　トランプ氏も交渉に意欲
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536481>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/9b0e41514d1c7224e377601ce7bdccd231149486a41625df5c387ab7d75663b5.jpg> 自民議連のNISA拡充提言 未成年可
+      <a href=https://news.yahoo.co.jp/pickup/6536492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/50208ba49cccdba3b23b38a7029bf441030e1cd2d64b6fd464c5b410a21160cc.jpg> 米12州 トランプ関税停止求め提訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536482>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/fa55baec31c645d431a05185d4d669f484fff1164033029c30474c7cc9cebb40.jpg> トルコでM6.2の地震 230人超負傷
+      <a href=https://news.yahoo.co.jp/pickup/6536481>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/9b0e41514d1c7224e377601ce7bdccd231149486a41625df5c387ab7d75663b5.jpg> 自民議連のNISA拡充提言 未成年可
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536476>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/e59ba7c8c783382df4b65bebb0d5c562e52dc146f8e95f37b202c17d01473980.jpg> 仕出し弁当で大学生ら130人食中毒
+      <a href=https://news.yahoo.co.jp/pickup/6536491>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/173ca301e47a2fc0adb76307bc5e4300feaaf356db1f206c2a32cf3d0878f7a1.jpg> よーじや新ロゴ 社長が手応え語る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 10:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 10:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
