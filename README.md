@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/08d5327bff8b462d03339cf97e5eb6f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fd2dc9381b0900661f3f633ab2cb73db.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b7f94150f9918b1e1074b92438933a094d35e6cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-16406882-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=575&ch=575&exp=10800&fmt=webp> トルコ・イスタンブールでM6強の地震、大勢が屋外で避難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3bcfea9b0f051adb42018ff10f5d74eff5e6d43f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232460-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=337&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロンドンでウクライナ和平会合　大きな成果なし　ゼレンスキー氏は「クリミア宣言」引用で米側和平案に反発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d2d1a04a8a5cbce65f1916367d665ffcb80908bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240170-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=1085&ch=1085&exp=10800&fmt=webp> 大谷翔平の第３打席は左飛、第２打席には「パパ初安打」右前打で先制点奪取に貢献
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5b54aff3ebb83d915ec0e194cd46715feb31f4c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000014-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 米政権、対中関税引き下げ検討か　米報道　トランプ氏も交渉に意欲
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c604840b008a93021a0fc764332ff74bd404701e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000044-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=1383&ch=1383&exp=10800&fmt=webp> 任天堂株が急伸、スイッチ２抽選に「想定大きく上回る」応募を好感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9f459bf661f667662a4895a2e2416e50b74ad8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000004-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=899&ch=899&exp=10800&fmt=webp> 米欧ウクライナがロンドンで停戦会合、閣僚級から引き下げ　米がウクライナに強い不満
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a64b04f7c70ae27570d51965aff9ba743f243f69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=476&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、中国との「公正な取引」模索 道筋は不透明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0511a61412dd48f5106035c94246a7572a65f5ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240120-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1113&ch=1113&exp=10800&fmt=webp> 大谷翔平が「パパ初安打」長女誕生後11打席目の安打に「おめでとう」「次はパパ初ホームラン」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/707340bfd1f930a4f5083e37e00c94c0ebc866d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000008-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=373&ch=373&exp=10800&fmt=webp> イスタンブール近くでＭ６．２の地震…住民が建物の外に緊急避難
       </a>
     </td>
   </tr>
@@ -400,14 +400,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536474>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/37e75be2e3cacd038eab9aadcc085a1a3aab14ba94be554ae5d0c62e5d4ee95d.jpg> 米国が対中関税50-65%検討 報道
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536481>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536482>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/fa55baec31c645d431a05185d4d669f484fff1164033029c30474c7cc9cebb40.jpg> トルコでM6.2の地震 230人超負傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536479>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/fff94d995bcf473b5663abf4272df8ebd0df6563de65b678fc89be51f88c6d11.jpg> 中国の小学校前で車暴走 発表せず
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/a2df486d7b79a9d856bf1d34a49f740952063996f77f4885f1db296dd9d87ddf.jpg> Switch2抽選販売おわび 注目点は
+      <a href=https://news.yahoo.co.jp/pickup/6536489>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/7250cf52ade1f8d93cb7f70ddfbb38f2ee3f2ef6195eb89171a3b4f4501a6458.jpg> 大谷翔平 長女誕生後初ヒット
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536489>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/7250cf52ade1f8d93cb7f70ddfbb38f2ee3f2ef6195eb89171a3b4f4501a6458.jpg> 大谷翔平 長女誕生後初ヒット
+      <a href=https://news.yahoo.co.jp/pickup/6536490>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/5040c700b7db94ba049e5df1db320b38046087066f863c392ca1864686e04dff.jpg> 街頭取材 戸田奈津子さん経緯話す
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 09:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 10:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
