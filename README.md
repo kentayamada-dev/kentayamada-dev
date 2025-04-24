@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2b03e4a1e434ffb4c32c2d4a34470a7a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/516800eb4cab7e0cbf5d0aa422cd5df7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9872eb34eb4f4240c38deaa17cb2ffa218d50693>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04551280-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=395&ch=395&exp=10800&fmt=webp> 「ちいかわ」初の大型体験型施設「ちいかわパーク」2025年オープン決定「癒やされそう」「草むしり体験ある？」と反響続々
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cce8a024beba54540d5c347c1a0b68a4c1836582>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000020-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ベッセント米財務長官、対日関税交渉で「通貨目標なし」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/489a248550953bc95802107f0a6014ea9e5a12cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ首都キーウにロシア軍の大規模攻撃 ミサイルやドローン、子ども含む50人以上死傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d274cc8d8b0df2974927e5078065967e09a43f39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000033-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=696&ch=696&exp=10800&fmt=webp> 声優の飯田里穂、双子の出産を報告「小さなふたりに毎日癒されながら」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/853c39672f9c0847390c6bafedbf3feb397ba72d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000098-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=784&ch=784&exp=10800&fmt=webp> 日米、来週に2回目の関税交渉　赤沢経済再生相、30日に出発
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232507-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナ首都キーウにロシア軍の大規模攻撃 ミサイルやドローン、子ども含む50人以上死傷
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536509>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/c19ac2c8ad2fa4cff5d5fbdbc1289401ea7211c11ca4595292c274cc4f6bd11f.jpg> 声優・飯田里穂 双子の出産を報告
+      <a href=https://news.yahoo.co.jp/pickup/6536514>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/d550db886994379baff70881b4166498d84f96dedc3eae7163c1587569b7997a.jpg> ちいかわパーク 東京で2025年開業
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 13:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 13:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
