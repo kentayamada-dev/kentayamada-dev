@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9078a37700305a0efe75efc68b2651d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b4d8e347e710bb8025dce7bd8631eb8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20a418d80522da9b4da213ca0b8c57f9773cb073>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-90022957-nbstv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 水門に車が衝突　19歳と20歳の技術専門校の訓練生3人死亡　1人が意識不明の重体　かなりのスピードで走っていた可能性
+      <a href=https://news.yahoo.co.jp/articles/b5b68bffcc4455b6cb55f191c2a6490c493ed21e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34241636-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=114&cw=1198&ch=1198&exp=10800&fmt=webp> 【阪神】湯浅京己２年ぶり１軍昇格「１軍で投げている姿をいっぱい見せたい」国指定難病から復活
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a25a38f345ad310d66a1cce851dee94e813caa1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-90023440-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=418&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 水酸化ナトリウムを「菓子だ」と…中3生徒が下級生に食べさせる
+      <a href=https://news.yahoo.co.jp/articles/3347814d5dee4f3191f4c220db70fd3befb5b39c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000147-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=628&ch=628&exp=10800&fmt=webp> ポケモンカードを“偽当選者”に売ってしまった──トイザらス、抽選販売の“当選者リスト”漏えい　全6店舗
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536560>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/b72e5111400d24d15cb79297d7d9c1daa0049ada026d01662b786f1362589fd4.jpg> 年金法案巡り 自民が野党に陳謝
+      <a href=https://news.yahoo.co.jp/pickup/6536569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/b58a3d4b8dade4dceda856185767827aa7b8606d4c0064861204b84bf442f4f5.jpg> 群馬知事 収支報告書に不適切記載
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536568>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/8c5fcdf55fa640bc709731b9433edba922d5b29a3df099d202d02d18b2715601.jpg> ポケカを偽当選者に販売か 謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536565>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/3ef5580a617a5f0818198d602a8c8af436777ca8938e2b989e83eb1abadecab7.jpg> 「自走するファスナー」YKK開発
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/cd42b5a497ff65865d1031e198308ab37ce8cc3b0800cf791d664d66e3a196ab.jpg> めっちゃ高い GW宿代に頭抱える
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536552>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/104d6775e46bca77461a1d417e9267fb2fed26c9381ecbbeaba91583051b3bed.jpg> MBS「ゼニガメ」に放送倫理違反
+      <a href=https://news.yahoo.co.jp/pickup/6536570>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/03951996a418d747d98936caf707193480c735f51d6239a528aac2b7104b55b9.jpg> カーリング 初のプロリーグ誕生へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 21:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 22:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
