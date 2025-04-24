@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7ccd398e1ba5bb7cd2ca836cb90c890.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9c32fc2f0366888e90625eca06dd402c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6743c3426ef62ee34ab072f88bfb0241cc4c9cef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00962389-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=431&cy=0&cw=1013&ch=1013&exp=10800&fmt=webp> 【速報】大谷翔平は5打数1安打…待望の“パパ初ヒット”マークもチャンスで一打出ず　ドジャースはカブスに連敗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dc129a633a81b3c0766d74271d8a16db28d1a00c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00050042-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=319&ch=319&exp=10800&fmt=webp> 一方的に併合した地域のロシア支配を認める米国の和平案、合意に至らず…米特使はプーチン大統領と会談へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aede21156e06615dbf54b509f64b9f74d92e3253>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232470-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=407&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「トランプ関税」の停止を求めて米ニューヨーク州など12州が提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8a197765977bf6a9aec783afb3db52f4bce428c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240234-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=1085&ch=1085&exp=10800&fmt=webp> 大谷翔平の第４打席は遊飛　第２打席には「パパ初安打」右前打で先制点奪取に貢献
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d08ffbe59140358aebe94627e3827787a90b482>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00010001-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> ウクライナ和平協議に米国務長官欠席、急遽高官級に格下げして開催も進展なしか
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232470-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=408&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「トランプ関税」の停止を求めて米ニューヨーク州など12州が提訴
       </a>
     </td>
   </tr>
@@ -426,32 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536486>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/01fa3baf47dc25e2fed7553440b0fbf0507d9267cde07041be96591b82b6b1f1.jpg> 大手証券10社 多要素認証必須化へ
+      <a href=https://news.yahoo.co.jp/pickup/6536493>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/62812f823ad61d6acc177cba46ee3e7eeb95cdfe9f331f4cb092f784aae835df.jpg> 「ステルス値上げ」各社の減量
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536491>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/173ca301e47a2fc0adb76307bc5e4300feaaf356db1f206c2a32cf3d0878f7a1.jpg> よーじや新ロゴ 社長が手応え語る
+      <a href=https://news.yahoo.co.jp/pickup/6536496>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/eb255a528ed833c63ccf1c8273ea7756fce70769fc05f409ef4bb872c56256de.jpg> ANA系元従業員 補償金を不正受領
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/b1734b52eacedbd48f14ec0509bc397863735a558408331e3cd7eb66d16c4d81.jpg> イチロー氏考案 Tシャツ販売へ
+      <a href=https://news.yahoo.co.jp/pickup/6536495>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/1f3058d57ec276fed91f5f79f4e8d230209c6ef97fa7a14a46c90b69b46b3925.jpg> 編集者・森永博志さん死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536489>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/7250cf52ade1f8d93cb7f70ddfbb38f2ee3f2ef6195eb89171a3b4f4501a6458.jpg> 大谷翔平 長女誕生後初ヒット
+      <a href=https://news.yahoo.co.jp/pickup/6536494>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/58b6e96bd9399e85fdd3b5fd3cbd1d54c2564761b291e9fdf833fd421bab2fe6.jpg> 新庄監督 厳しい「先発外し」の裏
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 10:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 11:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
