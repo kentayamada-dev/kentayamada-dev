@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/974ce6094c1225ea5d2f40724669c6fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fd1cb24ca514f463cd11c1f6b57b9e4b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33ebeb834f3ae4bb3c5dcdeebcf86007b77562f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00092239-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=676&ch=676&exp=10800&fmt=webp> ちいかわ初の大型体験型施設「ちいかわパーク」2025年東京にオープン決定
+      <a href=https://news.yahoo.co.jp/articles/cde9f20a255e0602eee4d155a6bccbf993eba18f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00262992-otonans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=521&ch=521&exp=10800&fmt=webp> 【ちいかわ】初の大型体験型施設「ちいかわパーク」　2025年東京にオープン　公式「X」アカウントで告知映像も
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4aa5d2b94e51c8b54fb56d93b9a10695ca1a5f28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04241064-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平は「自らをアウトにしてる」　ロバーツ監督が苦言　“パパ初安打”も復帰後３試合で１２打数１安打
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04241064-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平は「自らをアウトにしてる」　ロバーツ監督が苦言　“パパ初安打”も復帰後３試合で１２打数１安打
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536516>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/a09c766f8598ea7e530cba5a00898a3065f7d7074be016b1c77ecfa0640cdb7a.jpg> 正倉院宝物のミイラ 動物を特定
+      <a href=https://news.yahoo.co.jp/pickup/6536518>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/a09c766f8598ea7e530cba5a00898a3065f7d7074be016b1c77ecfa0640cdb7a.jpg> 正倉院のミイラ「虹龍」動物特定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536503>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/98775af4afc18449a269e56e7f0e13b2b8b8a331223ef705fd8e99fc7fcea450.jpg> 万博ぬいぐるみベンチ 任天堂見解
+      <a href=https://news.yahoo.co.jp/pickup/6536515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/4883e85aed548d788c1bfec7371a774ee26d19773a2be5a4252344e16f49ccda.jpg> 遠足で万博へ 小学校の先生は悲鳴
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536517>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/f93e5c815513cc17e5c9ed7882a80ff4962ed57ded917ce38fdfec6c2d2a2f11.jpg> 榎並アナのモデル妻 第2子妊娠
+      <a href=https://news.yahoo.co.jp/pickup/6536519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/f93e5c815513cc17e5c9ed7882a80ff4962ed57ded917ce38fdfec6c2d2a2f11.jpg> フジ榎並アナの妻 第2子妊娠
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 14:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 14:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
