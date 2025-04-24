@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be33f21ed75f41a7b82346954d8cfaec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8aeb2b72a4c3f0264cb268b85fd2a035.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/938774b18d2a5b373cec0b9a5448f022df0aa5c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000058-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 阪神・湯浅京己が1軍合流　2023年6月15日以来、シーズンでは679日のぶり
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000058-sanspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=909&ch=909&exp=10800&fmt=webp> 阪神・湯浅京己が1軍合流　2023年6月15日以来、シーズンでは679日のぶり
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33dda0db6938bf53578f98b54f52d0d39711f38f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-10175226-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=534&ch=534&exp=10800&fmt=webp> G20出席の加藤財務大臣 米関税措置に懸念「経済に悪影響を及ぼしている」
+      <a href=https://news.yahoo.co.jp/articles/514eb59ab700bd1f4639d261df26f2bc15abe194>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000037-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=490&ch=490&exp=10800&fmt=webp> トヨタ、24年度の世界販売は1027万台　3年連続で1千万台超え
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536520>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/3d279a95bfbcf0dfd09666824ed985df4dfff3e319424368320fc032f3cceef8.jpg> 米で出産女性にボーナス検討 報道
+      <a href=https://news.yahoo.co.jp/pickup/6536523>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/a4ece26fdea8b4133e8fc3a75a0aa1d2b46f6ad8a9288392028acf9066ba2012.jpg> トヨタ世界販売4年ぶり減 24年度
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536514>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/d550db886994379baff70881b4166498d84f96dedc3eae7163c1587569b7997a.jpg> ちいかわパーク 東京で2025年開業
+      <a href=https://news.yahoo.co.jp/pickup/6536525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/c5ea980125d93461fe092e648faeb263272c8e2c0ae995d4c7fcc7f21b72c4df.jpg> 320勝投手 小山正明さんが死去
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 15:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 15:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
