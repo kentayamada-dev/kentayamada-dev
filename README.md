@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/62c524198eee4a0ca4d07cbf5f9d97c2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/60f17bc0433c502ef62b6f7c19f090c5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d019f5dfb07c757d5c0c703bc2a82110f57280d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-10175341-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=974&ch=974&exp=10800&fmt=webp> 日米財務相会談 加藤大臣「為替水準の話はなかった」
+      <a href=https://news.yahoo.co.jp/articles/9b28e42e69bd04c4c9595119ad7695a5c9e5657f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00010000-annd-000-2-thumb.jpg?exp=10800&fmt=webp> 日米財務相会談「為替水準の目標や管理する枠組みの話は全く無かった」加藤大臣
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73913da1a3809fe1ad02bd796af26a14fbab9515>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 死者4人に　水門への車衝突事故　長野
+      <a href=https://news.yahoo.co.jp/articles/3d53712b099bcac8ffb943a5b7783512518e01a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000006-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 水門に乗用車が衝突し大破 4人死亡 長野・飯田市
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/599114ee1e0c96c2c0fe89f3676f2473a754c3f75dcb519e9038cddb3d93d6ef.jpg> 水門に車衝突の事故 男性4人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/394d464a580666fbbb0446a318850af94eb55a0804de14b8ae83da803768d406.jpg> キーウに大規模攻撃 12人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536576>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/ee7f33e2023cae2828e5214e2800818da9d2323e13961abfc976ac5d61759ce2.jpg> 上野東京ライン 川口駅に停車へ
+      <a href=https://news.yahoo.co.jp/pickup/6536581>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/599114ee1e0c96c2c0fe89f3676f2473a754c3f75dcb519e9038cddb3d93d6ef.jpg> 水門に車衝突の事故 男性4人死亡
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 07:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 07:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
