@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c2f08b96d017f37dbf7cf8e62638a8c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2e3fd3eab7a355eaa483f8ac14ed4cd1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/730257d8dd9e0d67f176db46e464ef92684e6bae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000074-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 立憲、年金改革法案の提出日明示なければ厚労大臣へ不信任案の準備へ
+      <a href=https://news.yahoo.co.jp/articles/66fa0259a3e6e68ff0b37039aa627060cd5e972b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00962860-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “赤ちゃん取り違え”67歳男性「一日も早く調査を」都の担当者に“生みの親探し”を申し入れ
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536556>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/87ff1de5a2d7e1a48f1df58a354499e8e9378efc92ffc78d0d11ca61a62e3930.jpg> G20 米関税巡り各国隔たり大きく
+      <a href=https://news.yahoo.co.jp/pickup/6536560>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/b72e5111400d24d15cb79297d7d9c1daa0049ada026d01662b786f1362589fd4.jpg> 年金法案巡り 自民が野党に陳謝
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536555>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/e2930b3e383942ebfa04bae0b28d8d9873fb3494e1f04b3db2ebe8d40bc3fd19.jpg> 日産 最終赤字7500億円の見通し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536562>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/c530425ba21e620c56b6efec250f4368e9caf7bf3cba6c3587980a79cdaf9ecc.jpg> 水門に車衝突 3人死亡1人意識不明
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536561>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/bcdbe1a98f65d4c1b1fbf454420adff7db813727f8df2d0af79517c7d623bd4b.jpg> 声優・名塚佳織 第3子を出産
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 20:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 20:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
