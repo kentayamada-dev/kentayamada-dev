@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b0c703b0bd538b50484c1e0d01d58953.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/03fa4f20d307b8db3fc37bd91f7eb854.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f79aac81aaefb9d716f68095c928bb1e64b28c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00094882-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=26&cw=1000&ch=1000&exp=10800&fmt=webp> ゆすりたかりに弱い日本は好都合…トランプ大統領が「最初の交渉相手」に目をつけたあまりに理不尽な理由
+      <a href=https://news.yahoo.co.jp/articles/d2a82da340210b0c68ad35ed3314bebed2921faf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、クリミア割譲認めないゼレンスキー氏を猛批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0abbf6bd6fa991b6004735f4a89c1d3a95f1738>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000031-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 任天堂「スイッチ２」、国内で想定上回る220万人応募　生産体制強化
+      <a href=https://news.yahoo.co.jp/articles/2f4d3ca82bd87b173d53dff473b39b34a4c73274>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000037-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米中のフェンタニル取り締まり巡る協議難航、トランプ政権は追加制裁検討も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e38fafb298576bd89cb7475e9b4a0cc6e4d1826b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000115-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 大谷翔平　第1打席は左飛　初球振るも“パパ初安打”ならず　父親リストから復帰3戦目
+      <a href=https://news.yahoo.co.jp/articles/45d2a2f69ab00004b01ac682617aa07592b3529d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04241027-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、執念の“パパ初安打”　真美子夫人の出産立ち会いから復帰１１打席目で　体勢崩されながらも右前打
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4ca19b6d9e1675e20ee655cc677df56285661123>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000003-giz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=537&ch=537&exp=10800&fmt=webp> Nintendo Switch 2を諦めない。店舗・ECサイトでの予約方法まとめ
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/707340bfd1f930a4f5083e37e00c94c0ebc866d3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000008-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=373&ch=373&exp=10800&fmt=webp> イスタンブール近くでＭ６．２の地震…住民が建物の外に緊急避難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7abc7eb37ee1891c975e79c8ce3bfd16541275f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-35232215-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=676&ch=676&exp=10800&fmt=webp> トランプ氏、ゼレンスキー氏を非難　ロシアのクリミア支配を認めない発言は「有害」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/6e9551aa5389530c2d9e64a929c7906307f188516511cc03f8b35f1aa3fd0f8d.jpg> 公立高の併願入試を検討 文科省
+      <a href=https://news.yahoo.co.jp/pickup/6536481>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/9b0e41514d1c7224e377601ce7bdccd231149486a41625df5c387ab7d75663b5.jpg> 自民議連のNISA拡充提言 未成年可
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/40b983cd66d520b15cc819668292d849e1a2175d9ebd7335cc8e5a9a679add34.jpg> 市の施設に爆破予告 職員懲戒免職
+      <a href=https://news.yahoo.co.jp/pickup/6536486>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/01fa3baf47dc25e2fed7553440b0fbf0507d9267cde07041be96591b82b6b1f1.jpg> 大手証券10社 多要素認証必須化へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 08:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 09:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
