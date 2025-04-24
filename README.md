@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6980b9d389c7859334ebdbfe2601af97.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/62c524198eee4a0ca4d07cbf5f9d97c2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d019f5dfb07c757d5c0c703bc2a82110f57280d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-10175341-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=404&cy=0&cw=974&ch=974&exp=10800&fmt=webp> 日米財務相会談 加藤大臣「為替水準の話はなかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/73913da1a3809fe1ad02bd796af26a14fbab9515>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 死者4人に　水門への車衝突事故　長野
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3e401b4d7737bc3177d66060d8e92cd631d8eeb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00050215-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 対米関税交渉、トウモロコシ輸入拡大案を検討…ＳＡＦや家畜飼料への活用想定
+      <a href=https://news.yahoo.co.jp/articles/6d339e32afd4471eea3068bbfc46c69936a5442e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000004-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 24時間テレビ×名探偵コナンがコラボ チャリTシャツを作者・青山剛昌さん手がける
       </a>
     </td>
   </tr>
@@ -378,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536584>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/59da1746839f4e27f8920b63e7f717fe16e2f5545c750592ce0a0ed8d0f5adea.jpg> 日米財務相会談 為替巡り協議か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536580>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/57d068798550e159a2ef1ec8f370a6cd86e74ae9d58c1cf2aa8842ac708a640d.jpg> 米関税巡る緊急対策 25日決定へ
       </a>
@@ -386,24 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/7e3ae56b6fb86ce48b1c3159246261564300609a4f32fdff4ae11a54bdc8b8b1.jpg> 暫定税率 早ければ来年4月廃止か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/b58a3d4b8dade4dceda856185767827aa7b8606d4c0064861204b84bf442f4f5.jpg> 群馬知事 収支報告書に不適切記載
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536566>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/cfbc88a0beb73c3be6659e0b227b15a61b08a839e3387d03af79b1fd72b158dd.jpg> 水門激突の事故 時速130km以上か
+      <a href=https://news.yahoo.co.jp/pickup/6536581>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/599114ee1e0c96c2c0fe89f3676f2473a754c3f75dcb519e9038cddb3d93d6ef.jpg> 水門に車衝突の事故 男性4人死亡
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/df0142a504295f59a65d4ab774a28823ebd58b18d7f6b97a864cdae37dd9772b.jpg> ドラマ撮影で重要文化財に焦げ跡
+      <a href=https://news.yahoo.co.jp/pickup/6536583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/4d9be8bf5fb26a72cb55023b422900f200f0917f3c3e89cc8b72cba7b61bc8a7.jpg> 24時間テレビ 水卜アナら総合司会
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536582>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/774a9c00c3e9838fa791ae54562270e325c0454611dff2217551cc668f016526.jpg> 撮影中に文化財き損 ABEMA謝罪
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 06:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 07:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
