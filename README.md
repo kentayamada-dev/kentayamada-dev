@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e0baad0705e7089601df0c08905c2f91.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9078a37700305a0efe75efc68b2651d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66fa0259a3e6e68ff0b37039aa627060cd5e972b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00962860-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> “赤ちゃん取り違え”67歳男性「一日も早く調査を」都の担当者に“生みの親探し”を申し入れ
+      <a href=https://news.yahoo.co.jp/articles/20a418d80522da9b4da213ca0b8c57f9773cb073>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-90022957-nbstv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 水門に車が衝突　19歳と20歳の技術専門校の訓練生3人死亡　1人が意識不明の重体　かなりのスピードで走っていた可能性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b497760d831c949177997eb505e2b7782a4ed0f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000067-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 対中関税引き下げか　トランプ大統領軟化　日本に追い風？
+      <a href=https://news.yahoo.co.jp/articles/b49b00f9a7a27e3c4cf8b747741a9fd84598244c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000105-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> トランプ氏、中国の追加関税「大幅に下がる」　対立緩和の可能性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9fa2d77d8f2e37c62eb0d2be3b242b3b79d75667>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000203-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=1738&ch=1738&exp=10800&fmt=webp> 阪神湯浅投手が出場選手登録　国指定の難病から復帰へ
+      <a href=https://news.yahoo.co.jp/articles/2a25a38f345ad310d66a1cce851dee94e813caa1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-90023440-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=418&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 水酸化ナトリウムを「菓子だ」と…中3生徒が下級生に食べさせる
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/e2930b3e383942ebfa04bae0b28d8d9873fb3494e1f04b3db2ebe8d40bc3fd19.jpg> 日産 最終赤字7500億円の見通し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536564>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/c7a2ce2fad7a22b1131c0e933e43715fd3bf2bbc40b2c612ca44c1a57c8d533d.jpg> 赤ちゃん取り違え 都に調査求める
       </a>
@@ -410,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536562>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/c530425ba21e620c56b6efec250f4368e9caf7bf3cba6c3587980a79cdaf9ecc.jpg> 水門に車衝突 3人死亡1人意識不明
+      <a href=https://news.yahoo.co.jp/pickup/6536563>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/33ecf7ac36c439d440fe7f5c0d24d7445f173c0649aa4a4210bc8a19f32ab09c.jpg> 道路陥没 運転手の捜索本格化へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536566>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/cfbc88a0beb73c3be6659e0b227b15a61b08a839e3387d03af79b1fd72b158dd.jpg> 水門激突の事故 時速130km以上か
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/cd42b5a497ff65865d1031e198308ab37ce8cc3b0800cf791d664d66e3a196ab.jpg> めっちゃ高い GW宿代に頭抱える
+      <a href=https://news.yahoo.co.jp/pickup/6536565>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/3ef5580a617a5f0818198d602a8c8af436777ca8938e2b989e83eb1abadecab7.jpg> 「自走するファスナー」YKK開発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536551>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/06204c43d91ab999721fb3f7cf461b84ddd981c840294771797925fe8bbae40b.jpg> 和歌山のパンダ返還へ 困惑の声
+      <a href=https://news.yahoo.co.jp/pickup/6536558>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/cd42b5a497ff65865d1031e198308ab37ce8cc3b0800cf791d664d66e3a196ab.jpg> めっちゃ高い GW宿代に頭抱える
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 21:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 21:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
