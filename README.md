@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3ad87a9e5bafc5a2c3813c23a32d28d5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6210f0022eb0c6b99345cdf5a59a23dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d53712b099bcac8ffb943a5b7783512518e01a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000006-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 水門に乗用車が衝突し大破 4人死亡 長野・飯田市
+      <a href=https://news.yahoo.co.jp/articles/95cd69728167976eab4dbe929f1cae38743879f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00255112-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「コメの関税を下げたら自民党は吹っ飛ぶ」　農業団体首脳が断言　農林族のドンも危機感あらわ…コメ輸入拡大で試される石破政権
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d339e32afd4471eea3068bbfc46c69936a5442e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000004-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=853&ch=853&exp=10800&fmt=webp> 24時間テレビ×名探偵コナンがコラボ チャリTシャツを作者・青山剛昌さん手がける
+      <a href=https://news.yahoo.co.jp/articles/3d53712b099bcac8ffb943a5b7783512518e01a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000006-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 水門に乗用車が衝突し大破 4人死亡 長野・飯田市
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536584>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/59da1746839f4e27f8920b63e7f717fe16e2f5545c750592ce0a0ed8d0f5adea.jpg> 日米財務相会談 為替巡り協議か
+      <a href=https://news.yahoo.co.jp/pickup/6536590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/4278a0c650df221213e4f9ca8132e31f863564f94e11f6c36f5553d80d30ba2a.jpg> 日米財務相会談 為替目標議論せず
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 08:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 08:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
