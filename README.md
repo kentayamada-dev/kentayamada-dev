@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/03fa4f20d307b8db3fc37bd91f7eb854.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/08d5327bff8b462d03339cf97e5eb6f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2a82da340210b0c68ad35ed3314bebed2921faf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000002-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、クリミア割譲認めないゼレンスキー氏を猛批判
+      <a href=https://news.yahoo.co.jp/articles/c604840b008a93021a0fc764332ff74bd404701e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000044-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=1383&ch=1383&exp=10800&fmt=webp> 任天堂株が急伸、スイッチ２抽選に「想定大きく上回る」応募を好感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f4d3ca82bd87b173d53dff473b39b34a4c73274>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000037-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 米中のフェンタニル取り締まり巡る協議難航、トランプ政権は追加制裁検討も
+      <a href=https://news.yahoo.co.jp/articles/c9f459bf661f667662a4895a2e2416e50b74ad8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000004-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=899&ch=899&exp=10800&fmt=webp> 米欧ウクライナがロンドンで停戦会合、閣僚級から引き下げ　米がウクライナに強い不満
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45d2a2f69ab00004b01ac682617aa07592b3529d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04241027-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、執念の“パパ初安打”　真美子夫人の出産立ち会いから復帰１１打席目で　体勢崩されながらも右前打
+      <a href=https://news.yahoo.co.jp/articles/a64b04f7c70ae27570d51965aff9ba743f243f69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000003-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=476&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> トランプ氏、中国との「公正な取引」模索 道筋は不透明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ca19b6d9e1675e20ee655cc677df56285661123>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000003-giz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=537&ch=537&exp=10800&fmt=webp> Nintendo Switch 2を諦めない。店舗・ECサイトでの予約方法まとめ
+      <a href=https://news.yahoo.co.jp/articles/0511a61412dd48f5106035c94246a7572a65f5ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240120-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1113&ch=1113&exp=10800&fmt=webp> 大谷翔平が「パパ初安打」長女誕生後11打席目の安打に「おめでとう」「次はパパ初ホームラン」
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/b1734b52eacedbd48f14ec0509bc397863735a558408331e3cd7eb66d16c4d81.jpg> イチロー氏考案 Tシャツ販売へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536477>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/a2df486d7b79a9d856bf1d34a49f740952063996f77f4885f1db296dd9d87ddf.jpg> Switch2抽選販売おわび 注目点は
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536475>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/3f2a9dd78050ed1f2cc34c40edba94be213dc920c8ab3e18574d88ffd5d14494.jpg> YOSHIKIの高額ショー ギネス認定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536472>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/349bf043806003cf73a9c28f9bba3950a14cd4449fecfd0609df7afb48beb317.jpg> 日テレ・安村アナ 医学部に入学
+      <a href=https://news.yahoo.co.jp/pickup/6536489>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/7250cf52ade1f8d93cb7f70ddfbb38f2ee3f2ef6195eb89171a3b4f4501a6458.jpg> 大谷翔平 長女誕生後初ヒット
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 09:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 09:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
