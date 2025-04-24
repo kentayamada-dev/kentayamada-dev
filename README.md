@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/UB3ppxwz3W4?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bb771f721bbd937ae0be41482163a800.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/742ecba0546c5dfced64cc408ce35e4c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c420bd2203c8ed6ef0f64ea01619970e4f2a3817>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232682-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 堤防道路から転落し水門に車が衝突　4人全員の死亡確認　長野・飯田市
+      <a href=https://news.yahoo.co.jp/articles/73913da1a3809fe1ad02bd796af26a14fbab9515>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 死者4人に　水門への車衝突事故　長野
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f39f3567543ce1a6fa004514721d91b396a5221>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-90023458-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=675&ch=675&exp=10800&fmt=webp> “ドル安”望むトランプ氏『マーアラゴ合意』実現性は？日米財務相会談の焦点は為替
+      <a href=https://news.yahoo.co.jp/articles/b3e401b4d7737bc3177d66060d8e92cd631d8eeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00050215-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 対米関税交渉、トウモロコシ輸入拡大案を検討…ＳＡＦや家畜飼料への活用想定
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 05:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 05:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
