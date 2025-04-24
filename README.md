@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/516800eb4cab7e0cbf5d0aa422cd5df7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/974ce6094c1225ea5d2f40724669c6fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9872eb34eb4f4240c38deaa17cb2ffa218d50693>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04551280-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=395&ch=395&exp=10800&fmt=webp> 「ちいかわ」初の大型体験型施設「ちいかわパーク」2025年オープン決定「癒やされそう」「草むしり体験ある？」と反響続々
+      <a href=https://news.yahoo.co.jp/articles/33ebeb834f3ae4bb3c5dcdeebcf86007b77562f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00092239-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=676&ch=676&exp=10800&fmt=webp> ちいかわ初の大型体験型施設「ちいかわパーク」2025年東京にオープン決定
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536508>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/8bddeff9b185b9d1a9a1b31336bbfc8d5345ae6cc6a9be247a9fec1ce056bc88.jpg> 株最低投資額 企業に引き下げ要請
+      <a href=https://news.yahoo.co.jp/pickup/6536505>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/55ce5b92e90c89da56fe48c34022307c3f34c8391125413041dda7d5d0f1c704.jpg> 自転車の青切符 来年4月1日開始へ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536503>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/98775af4afc18449a269e56e7f0e13b2b8b8a331223ef705fd8e99fc7fcea450.jpg> 万博ぬいぐるみベンチ 任天堂見解
+      <a href=https://news.yahoo.co.jp/pickup/6536516>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/a09c766f8598ea7e530cba5a00898a3065f7d7074be016b1c77ecfa0640cdb7a.jpg> 正倉院宝物のミイラ 動物を特定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536495>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/1f3058d57ec276fed91f5f79f4e8d230209c6ef97fa7a14a46c90b69b46b3925.jpg> 編集者・森永博志さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6536503>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/98775af4afc18449a269e56e7f0e13b2b8b8a331223ef705fd8e99fc7fcea450.jpg> 万博ぬいぐるみベンチ 任天堂見解
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536510>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/eab18d0d167f943bb1479ce2c4dc4e324ccdbc924064e5bcb51d2811d3871d5f.jpg> NegiccoのKaede 第2子妊娠を発表
+      <a href=https://news.yahoo.co.jp/pickup/6536517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/f93e5c815513cc17e5c9ed7882a80ff4962ed57ded917ce38fdfec6c2d2a2f11.jpg> 榎並アナのモデル妻 第2子妊娠
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 13:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 14:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
