@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b7bdbd5aad170dab9838e8c21d9d8d3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2012ec18e2a69b6b8120c8b280fbdad9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0403a553ee40a558a4cf271c9421af95edd69af6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-21877023-sbcv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 【速報】「信じたくない」水門衝突事故…4人全員の死亡確認　重体だった1人が24日深夜に死亡確認　4人は技術専門校の訓練生…昼休みで外出か　長野県飯田市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-21877023-sbcv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=971&ch=971&exp=10800&fmt=webp> 【速報】「信じたくない」水門衝突事故…4人全員の死亡確認　重体だった1人が24日深夜に死亡　4人は技術専門校の訓練生…昼休みで外出か　長野県飯田市
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 03:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 03:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
