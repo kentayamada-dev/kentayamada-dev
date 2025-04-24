@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ba65584013533c0d0499502394257d8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b93f15cf2ab8d621bd7baa2ad733bcdb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b497760d831c949177997eb505e2b7782a4ed0f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000067-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 対中関税引き下げか　トランプ大統領軟化　日本に追い風？
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9fa2d77d8f2e37c62eb0d2be3b242b3b79d75667>
@@ -371,19 +379,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5182b971876767375a64bc8a71243de688aebf40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-21875933-obsnews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=578&ch=578&exp=10800&fmt=webp> 5月の連休、異例の暑さに注意、九州から関東まで広範囲で「著しい高温」のおそれ　熱中症リスク急上昇か…GW暑さ対策を
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536556>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/87ff1de5a2d7e1a48f1df58a354499e8e9378efc92ffc78d0d11ca61a62e3930.jpg> G20 米関税巡り各国隔たり大きく
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536553>
@@ -394,24 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/42715f27a9f176fb50520ba8dbfbb4437891ab579ff937d21942e518c8076279.jpg> 米国・加州の経済規模 日本を抜く
+      <a href=https://news.yahoo.co.jp/pickup/6536555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/e2930b3e383942ebfa04bae0b28d8d9873fb3494e1f04b3db2ebe8d40bc3fd19.jpg> 日産 最終赤字7500億円の見通し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536528>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/115322b9e186e669fc0ea911c557ad17310dee901f449fb91cef0a8226e09ded.jpg> 石丸前市長が市議の名誉毀損 敗訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/01d00ba663dde09477433e996f1c7d1c8edb8f7d8aed3d1ec2c663d90ec27dff.jpg> 俳優座の跡地 吉本新劇場開設へ
+      <a href=https://news.yahoo.co.jp/pickup/6536554>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 日野自 過去最大の2177億円赤字
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 19:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 19:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
