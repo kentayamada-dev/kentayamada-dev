@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4dac7e79d56058312f05d8d827193d45.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c775e2669ba30a0cce9f0735105546e4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bca5ff68d19f7406ea32362391d5d296627077b6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240897-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> 【阪神】今季初４連勝へ、小幡竜平が４試合連続で「８番遊撃」湯浅京己ベンチ入り／スタメン一覧
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cf2bf3bb0281547c6787a22bafed096604cc4bb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 海外勢は日本株を３週連続買い越し、昨年７月以来－個人は売り越し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/89d40936a2c05e217f39a34610c13724ee3052e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00433719-fashions-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> コナカが15万人分の情報漏えいを発表　一部サービスを停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/351ca144d6f986e633c7f87399cf1ee6027ee89c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232542-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカとの関税措置2回目の交渉へ　赤沢大臣が4月30日から訪米「互いに優先順位あり、ウィンウィンの合意を目指す」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1bd1e8a4836ab687d56e397ab4fc8f66efe73bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000088-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=62&cw=1637&ch=1637&exp=10800&fmt=webp> 阪神　難病克服の湯浅が２年ぶりの１軍昇格　先発の富田も　代わってゲラと小野寺が抹消
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00433719-fashions-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> コナカが15万人分の情報漏えいを発表　一部サービスを停止
       </a>
     </td>
   </tr>
@@ -403,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536532>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/4a79ff44e05c4e059d6789de5a0cd9a847566365d67c05f6294cfaa7e6f4b904.jpg> 水門に車衝突 1人死亡2人心肺停止
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/6d1a5973dff099a7d21ad8db9bda188a3b1c217c9169d5216c5cd2c4392c3851.jpg> 水門に車衝突 1人死亡2人心肺停止
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536515>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/4883e85aed548d788c1bfec7371a774ee26d19773a2be5a4252344e16f49ccda.jpg> 遠足で万博へ 小学校の先生は悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6536543>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/830cab6cca2bee2156660f738a907f8f2519c5a26cdad4f94c01e6a85e5c6b41.jpg> J1浦和営業収入100億円超 2期連続
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 17:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 17:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
