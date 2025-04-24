@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/13c0d151faa798690937714da2c54c7e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ebdcab702ce0e7719b6fb763c746f6ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bffb8c46e55981e70a41d0ce9afd28bf2f9605b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232568-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】堤防道路から転落した車が水門に衝突 「損傷激しく、救出できない」男性4人搬送　1人死亡、2人が心肺停止、1人が大けが　長野・飯田市
+      <a href=https://news.yahoo.co.jp/articles/89d40936a2c05e217f39a34610c13724ee3052e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00433719-fashions-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> コナカが15万人分の情報漏えいを発表　一部サービスを停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e615c863d5ec84fb31e8461e36d6d87a363f5c8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-01741700-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 阪神・湯浅京己、679日ぶりの1軍　難病「胸椎黄色靱帯骨化症」の手術経て復帰…24日の公示
+      <a href=https://news.yahoo.co.jp/articles/351ca144d6f986e633c7f87399cf1ee6027ee89c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232542-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカとの関税措置2回目の交渉へ　赤沢大臣が4月30日から訪米「互いに優先順位あり、ウィンウィンの合意を目指す」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf05dc40578f1c457969561c8f2afe92dbe33af9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> コメを関税交渉から除外　日本政府が検討
+      <a href=https://news.yahoo.co.jp/articles/a1bd1e8a4836ab687d56e397ab4fc8f66efe73bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000088-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=62&cw=1637&ch=1637&exp=10800&fmt=webp> 阪神　難病克服の湯浅が２年ぶりの１軍昇格　先発の富田も　代わってゲラと小野寺が抹消
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/489a248550953bc95802107f0a6014ea9e5a12cf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232507-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナ首都キーウにロシア軍の大規模攻撃 ミサイルやドローン、子ども含む50人以上死傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4aa5d2b94e51c8b54fb56d93b9a10695ca1a5f28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04241064-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平は「自らをアウトにしてる」　ロバーツ監督が苦言　“パパ初安打”も復帰後３試合で１２打数１安打
       </a>
     </td>
   </tr>
@@ -410,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536523>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/a4ece26fdea8b4133e8fc3a75a0aa1d2b46f6ad8a9288392028acf9066ba2012.jpg> トヨタ世界販売4年ぶり減 24年度
+      <a href=https://news.yahoo.co.jp/pickup/6536533>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 旧文通費1万円超は公開 衆院決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536531>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/20273a6aba66528fc71afb9635e966ab49306898916c8e0277f601eb84c73407.jpg> 公設秘書の性暴力 国に賠償命令
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536518>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/a09c766f8598ea7e530cba5a00898a3065f7d7074be016b1c77ecfa0640cdb7a.jpg> 正倉院のミイラ「虹龍」動物特定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536515>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/4883e85aed548d788c1bfec7371a774ee26d19773a2be5a4252344e16f49ccda.jpg> 遠足で万博へ 小学校の先生は悲鳴
       </a>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536519>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/f93e5c815513cc17e5c9ed7882a80ff4962ed57ded917ce38fdfec6c2d2a2f11.jpg> フジ榎並アナの妻 第2子妊娠
+      <a href=https://news.yahoo.co.jp/pickup/6536535>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/d846769ea7e4fe96e8e02062a6ebb2b6c4e0fcc223984e01df988e335805aa20.jpg> 力んでいる 監督が大谷の不調指摘
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 16:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 16:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
