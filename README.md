@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c32fc2f0366888e90625eca06dd402c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ca08264e96e41ed8c750b12bb4467313.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6743c3426ef62ee34ab072f88bfb0241cc4c9cef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00962389-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=431&cy=0&cw=1013&ch=1013&exp=10800&fmt=webp> 【速報】大谷翔平は5打数1安打…待望の“パパ初ヒット”マークもチャンスで一打出ず　ドジャースはカブスに連敗
+      <a href=https://news.yahoo.co.jp/articles/db686e72571b14ddbabcc6e81dae62bee1c93661>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ウ首脳、「クリミア占領」巡り真っ向から対立　トランプ氏「失われた領土」ゼレンスキー氏「話し合いの余地ない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc129a633a81b3c0766d74271d8a16db28d1a00c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00050042-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=319&ch=319&exp=10800&fmt=webp> 一方的に併合した地域のロシア支配を認める米国の和平案、合意に至らず…米特使はプーチン大統領と会談へ
+      <a href=https://news.yahoo.co.jp/articles/49e229e9b8480210dff3948f050a6e17a3ca62bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 全裸男、奪ったタクシーを100キロ超で運転し事故か　男は20件以上の事件・事故に関与の疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/31039a5441d32cebba7da8352845d19a70ea936a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00010009-yomseibu-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=5&cy=0&cw=762&ch=762&exp=10800&fmt=webp> 84歳が無免許運転で死亡事故「サーキット場に向かうためという動機と経緯にくむべき点ない」…有罪判決
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e8cbbf07322469f1ca0f488a7d50941d9d9bce6e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240264-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=1119&ch=1119&exp=10800&fmt=webp> 大谷翔平、長女誕生後11打席目で「パパ初安打」右前打で先制点に貢献も逆転負けでカブスに連敗
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aede21156e06615dbf54b509f64b9f74d92e3253>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232470-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=408&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「トランプ関税」の停止を求めて米ニューヨーク州など12州が提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7f94150f9918b1e1074b92438933a094d35e6cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-16406882-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=575&ch=575&exp=10800&fmt=webp> トルコ・イスタンブールでM6強の地震、大勢が屋外で避難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c604840b008a93021a0fc764332ff74bd404701e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000044-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=1383&ch=1383&exp=10800&fmt=webp> 任天堂株が急伸、スイッチ２抽選に「想定大きく上回る」応募を好感
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536481>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/9b0e41514d1c7224e377601ce7bdccd231149486a41625df5c387ab7d75663b5.jpg> 自民議連のNISA拡充提言 未成年可
+      <a href=https://news.yahoo.co.jp/pickup/6536499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/f973285e0bdecab61cf39614f1a6aa5ecae3fa50cf3028f124effb753fd85971.jpg> 韓国の文元大統領 収賄で在宅起訴
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 11:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 11:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
