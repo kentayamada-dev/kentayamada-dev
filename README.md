@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/74c4e707a9d339cf170c7e46040db493.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ba65584013533c0d0499502394257d8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9fa2d77d8f2e37c62eb0d2be3b242b3b79d75667>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 阪神湯浅投手が出場選手登録　国指定の難病から復帰へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000203-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=1738&ch=1738&exp=10800&fmt=webp> 阪神湯浅投手が出場選手登録　国指定の難病から復帰へ
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89d40936a2c05e217f39a34610c13724ee3052e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00433719-fashions-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2200&ch=2200&exp=10800&fmt=webp> コナカが15万人分の情報漏えいを発表　一部サービスを停止
+      <a href=https://news.yahoo.co.jp/articles/5182b971876767375a64bc8a71243de688aebf40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-21875933-obsnews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=578&ch=578&exp=10800&fmt=webp> 5月の連休、異例の暑さに注意、九州から関東まで広範囲で「著しい高温」のおそれ　熱中症リスク急上昇か…GW暑さ対策を
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/4c98eaad19bce140c54febff5b6559010051181910523d12dee6a40ed6e054f7.jpg> キーウに大規模攻撃 9人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536553>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/0fd0d29a7c54f12418b517d36272a2459d256b14db2ca0d1c7c4239800f94f8a.jpg> 5/3頃から「著しい高温」の恐れ
       </a>
     </td>
   </tr>
@@ -396,22 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536536>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/42715f27a9f176fb50520ba8dbfbb4437891ab579ff937d21942e518c8076279.jpg> 米国・加州の経済規模 日本を抜く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536532>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/6d1a5973dff099a7d21ad8db9bda188a3b1c217c9169d5216c5cd2c4392c3851.jpg> 水門に車衝突 1人死亡2人心肺停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536546>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 軽乗用車同士が衝突 男女4人重傷
       </a>
     </td>
   </tr>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536526>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/cd6b346d1166587a2b90ffeb86a13b8a5cec99280756d09f40d2f564f8bdf726.jpg> 和歌山のパンダ全4頭 中国返還へ
+      <a href=https://news.yahoo.co.jp/pickup/6536551>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/06204c43d91ab999721fb3f7cf461b84ddd981c840294771797925fe8bbae40b.jpg> 和歌山のパンダ返還へ 困惑の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536552>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/104d6775e46bca77461a1d417e9267fb2fed26c9381ecbbeaba91583051b3bed.jpg> MBS「ゼニガメ」に放送倫理違反
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536548>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/f1a1c157d4e448f607f4df35ea9d504bbf9df61926c90d2cdce946be55fb5fcd.jpg> KinKi Kids 全曲サブスク解禁へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 18:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 19:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
