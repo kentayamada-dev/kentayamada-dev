@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/06127c9fb0d4b3094971e070a654a370.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/137a4da142b219d1d457995bfad517f6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1f967e1d1e26a92981dc6ffc9c119836d60e3070>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04263647-teny-000-1-thumb.jpg?exp=10800&fmt=webp> 「お菓子だ」中3生徒が“水酸化ナトリウム”下級生に 学校が保護者説明会「子ども通わせるの不安」《新潟・五泉市》
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04263647-teny-000-2-thumb.jpg?exp=10800&fmt=webp> 「お菓子だ」中3生徒が“水酸化ナトリウム”下級生やけど 学校が保護者説明会「子ども通わせるの不安」《新潟・五泉市》
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536574>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/67b71aee47f193147a741b53d1580eead27995f4e8f525d3fefe75caeaabcfb7.jpg> 「プラチナNISA」提言 概要を解説
+      <a href=https://news.yahoo.co.jp/pickup/6536572>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/512fbbbe67da15437b51f499eba4a96b8118dd0d0e03cd61b1f45c1ae1278892.jpg> 事故で妹亡くし 10歳姉「生きる」
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536578>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/df0142a504295f59a65d4ab774a28823ebd58b18d7f6b97a864cdae37dd9772b.jpg> ドラマ撮影で重要文化財に焦げ跡
+      <a href=https://news.yahoo.co.jp/pickup/6536551>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/06204c43d91ab999721fb3f7cf461b84ddd981c840294771797925fe8bbae40b.jpg> 和歌山のパンダ返還へ 困惑の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536552>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/104d6775e46bca77461a1d417e9267fb2fed26c9381ecbbeaba91583051b3bed.jpg> MBS「ゼニガメ」に放送倫理違反
+      <a href=https://news.yahoo.co.jp/pickup/6536578>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/df0142a504295f59a65d4ab774a28823ebd58b18d7f6b97a864cdae37dd9772b.jpg> ドラマ撮影で重要文化財に焦げ跡
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 23:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 23:52:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
