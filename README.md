@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e41b7efc07bb0eaeef09f436b2986900.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2b03e4a1e434ffb4c32c2d4a34470a7a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/489a248550953bc95802107f0a6014ea9e5a12cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ウクライナ首都キーウにロシア軍の大規模攻撃 ミサイルやドローン、子ども含む50人以上死傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d274cc8d8b0df2974927e5078065967e09a43f39>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000033-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=696&ch=696&exp=10800&fmt=webp> 声優の飯田里穂、双子の出産を報告「小さなふたりに毎日癒されながら」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000033-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=696&ch=696&exp=10800&fmt=webp> 声優の飯田里穂、双子の出産を報告「小さなふたりに毎日癒されながら」
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/853c39672f9c0847390c6bafedbf3feb397ba72d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000098-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=784&ch=784&exp=10800&fmt=webp> 日米、来週に2回目の関税交渉　赤沢経済再生相、30日に出発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/301bca6d744b6d51ab21e18e0684b805f53ca8f3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-08226461-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「和平交渉に非常に有害」　ゼレンスキー大統領の“ロシアによるクリミア半島支配認めない”発言に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000098-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=784&ch=784&exp=10800&fmt=webp> 日米、来週に2回目の関税交渉　赤沢経済再生相、30日に出発
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/f973285e0bdecab61cf39614f1a6aa5ecae3fa50cf3028f124effb753fd85971.jpg> 韓国の文元大統領 収賄で在宅起訴
+      <a href=https://news.yahoo.co.jp/pickup/6536512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/4dc52e882ed8df9f95ac0830534e38f449278626129787d11e1eac24c6ab6581.jpg> 米関税「困っている」中国側本音
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536502>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/67b7af36cbba37b009473ca4e72a4a61abc5925d8cf2d1dbf313c5901f6fd8fe.jpg> 東北道で車3台絡む事故 1人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/96b536141fe51c83b8acbce29892f16c7440b80947c796e155642155f1893158.jpg> タイヤ女児直撃 運転手ら有罪判決
+      <a href=https://news.yahoo.co.jp/pickup/6536513>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/ab7e2c65ccb6807986c0c383605633c49dfc463b8a6194494f223c7ce39eabb9.jpg> 大手チェーン 4月に夏メニュー
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536509>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/c19ac2c8ad2fa4cff5d5fbdbc1289401ea7211c11ca4595292c274cc4f6bd11f.jpg> 声優・飯田里穂 双子の出産を報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536510>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/eab18d0d167f943bb1479ce2c4dc4e324ccdbc924064e5bcb51d2811d3871d5f.jpg> NegiccoのKaede 第2子妊娠を発表
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 12:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 13:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
