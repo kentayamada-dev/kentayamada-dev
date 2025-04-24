@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c775e2669ba30a0cce9f0735105546e4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1866d5ea7c24dceac604bb64b192faf4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bca5ff68d19f7406ea32362391d5d296627077b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240897-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> 【阪神】今季初４連勝へ、小幡竜平が４試合連続で「８番遊撃」湯浅京己ベンチ入り／スタメン一覧
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-34240897-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=1010&ch=1010&exp=10800&fmt=webp> 【阪神】今季初４連勝へ、小幡竜平が４試合連続で「８番遊撃」湯浅京己ベンチ入り／スタメン一覧
       </a>
     </td>
   </tr>
@@ -410,8 +410,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536546>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 軽乗用車同士が衝突 男女4人重傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536528>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/115322b9e186e669fc0ea911c557ad17310dee901f449fb91cef0a8226e09ded.jpg> 石丸前市長が市議の名誉毀損 敗訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/0a791daa0b1638e59b371d961d8fac00dd9335f7c68d6697457785fb155f55a3.jpg> 妊娠し悩む若者 背景にある共通点
       </a>
     </td>
   </tr>
@@ -432,27 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536543>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/830cab6cca2bee2156660f738a907f8f2519c5a26cdad4f94c01e6a85e5c6b41.jpg> J1浦和営業収入100億円超 2期連続
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536535>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/d846769ea7e4fe96e8e02062a6ebb2b6c4e0fcc223984e01df988e335805aa20.jpg> 力んでいる 監督が大谷の不調指摘
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 17:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 18:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
