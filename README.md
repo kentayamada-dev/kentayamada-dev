@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/60f17bc0433c502ef62b6f7c19f090c5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3ad87a9e5bafc5a2c3813c23a32d28d5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b28e42e69bd04c4c9595119ad7695a5c9e5657f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00010000-annd-000-2-thumb.jpg?exp=10800&fmt=webp> 日米財務相会談「為替水準の目標や管理する枠組みの話は全く無かった」加藤大臣
+      <a href=https://news.yahoo.co.jp/articles/df8b9e54bf40a37992bf107acaa596130e6ccb3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米「為替目標議論せず」　財務相会談、協議は継続
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3d53712b099bcac8ffb943a5b7783512518e01a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000006-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 水門に乗用車が衝突し大破 4人死亡 長野・飯田市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000006-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 水門に乗用車が衝突し大破 4人死亡 長野・飯田市
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536584>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/59da1746839f4e27f8920b63e7f717fe16e2f5545c750592ce0a0ed8d0f5adea.jpg> 日米財務相会談 為替巡り協議か
+      <a href=https://news.yahoo.co.jp/pickup/6536587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/759139ea5c5761dd50bd5964486579d622e07ec851655c75f67c2cf410db9edf.jpg> 食料品消費税0% 立憲公約決定へ
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536580>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/57d068798550e159a2ef1ec8f370a6cd86e74ae9d58c1cf2aa8842ac708a640d.jpg> 米関税巡る緊急対策 25日決定へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536584>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/59da1746839f4e27f8920b63e7f717fe16e2f5545c750592ce0a0ed8d0f5adea.jpg> 日米財務相会談 為替巡り協議か
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536572>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/512fbbbe67da15437b51f499eba4a96b8118dd0d0e03cd61b1f45c1ae1278892.jpg> 事故で妹亡くし 10歳姉「生きる」
+      <a href=https://news.yahoo.co.jp/pickup/6536589>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/3d3e1ec14bead3549eada2126c9cf16483adc10b57900f581ec3c6ab89a41549.jpg> 死亡ひき逃げ事件 出頭の男を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/66815f2b48231be630531ea3dbdd173945afeb461c9359175a0f47819052b4ec.jpg> カタツムリ混入 ジョイフルが謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6536588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/084b67682cdea10df8eb613baccd8c74f5d3256ae0500bf18cdc8f2115363bfb.jpg> ダウンタウン 夏にもネット配信
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/774a9c00c3e9838fa791ae54562270e325c0454611dff2217551cc668f016526.jpg> 撮影中に文化財き損 ABEMA謝罪
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 07:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 08:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
