@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cf5002c4dcf7a9445e98cb0c9f29cde7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c423d39d353a7abf97f69ccd78db67a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b49b00f9a7a27e3c4cf8b747741a9fd84598244c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000105-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> トランプ氏、中国の追加関税「大幅に下がる」　対立緩和の可能性
+      <a href=https://news.yahoo.co.jp/articles/1f967e1d1e26a92981dc6ffc9c119836d60e3070>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04263647-teny-000-1-thumb.jpg?exp=10800&fmt=webp> 「お菓子だ」中3生徒が“水酸化ナトリウム”下級生に 学校が保護者説明会「子ども通わせるの不安」《新潟・五泉市》
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8cb7da7ca0b71506036a9ad1e5169d0aa76cf1e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-21876757-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 自転車の交通違反にも「青切符」反則金納付へ、スマホ「ながら運転」・傘差し・信号無視の反則金額は?【Nスタ解説】
+      <a href=https://news.yahoo.co.jp/articles/7b16a98736dd4791f3375a3e0357ca47ca4aef4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ政権が対中関税半減を検討、145％→50～65％　品目別税率案もと米紙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a25a38f345ad310d66a1cce851dee94e813caa1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-90023440-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=418&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 水酸化ナトリウムを「菓子だ」と…中3生徒が下級生に食べさせる
+      <a href=https://news.yahoo.co.jp/articles/203479e2b766792e462b83a6d3cac597239f77a8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 料理にカタツムリ、松江　ファミレス「ジョイフル」
       </a>
     </td>
   </tr>
@@ -387,7 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536571>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/6593116ecae6d3fe22c879c315fb22b0deb0081f68a2d24a11ad7faa8dde81f8.jpg> 暫定税率 早ければ来年4月廃止か
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/7e3ae56b6fb86ce48b1c3159246261564300609a4f32fdff4ae11a54bdc8b8b1.jpg> 暫定税率 早ければ来年4月廃止か
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536569>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/b58a3d4b8dade4dceda856185767827aa7b8606d4c0064861204b84bf442f4f5.jpg> 群馬知事 収支報告書に不適切記載
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536563>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/33ecf7ac36c439d440fe7f5c0d24d7445f173c0649aa4a4210bc8a19f32ab09c.jpg> 道路陥没 運転手の捜索本格化へ
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/8c5fcdf55fa640bc709731b9433edba922d5b29a3df099d202d02d18b2715601.jpg> ポケカを偽当選者に販売か 謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6536574>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/67b71aee47f193147a741b53d1580eead27995f4e8f525d3fefe75caeaabcfb7.jpg> 「プラチナNISA」提言 概要を解説
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536575>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/66815f2b48231be630531ea3dbdd173945afeb461c9359175a0f47819052b4ec.jpg> カタツムリ混入 ジョイフルが謝罪
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 22:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 23:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
