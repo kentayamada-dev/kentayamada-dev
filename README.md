@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qM2avD18l_k?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fd1cb24ca514f463cd11c1f6b57b9e4b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/be33f21ed75f41a7b82346954d8cfaec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cde9f20a255e0602eee4d155a6bccbf993eba18f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00262992-otonans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=521&ch=521&exp=10800&fmt=webp> 【ちいかわ】初の大型体験型施設「ちいかわパーク」　2025年東京にオープン　公式「X」アカウントで告知映像も
+      <a href=https://news.yahoo.co.jp/articles/938774b18d2a5b373cec0b9a5448f022df0aa5c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000058-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 阪神・湯浅京己が1軍合流　2023年6月15日以来、シーズンでは679日のぶり
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cce8a024beba54540d5c347c1a0b68a4c1836582>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-00000020-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ベッセント米財務長官、対日関税交渉で「通貨目標なし」
+      <a href=https://news.yahoo.co.jp/articles/bf05dc40578f1c457969561c8f2afe92dbe33af9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> コメを関税交渉から除外　日本政府が検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/33dda0db6938bf53578f98b54f52d0d39711f38f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-10175226-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=534&ch=534&exp=10800&fmt=webp> G20出席の加藤財務大臣 米関税措置に懸念「経済に悪影響を及ぼしている」
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4aa5d2b94e51c8b54fb56d93b9a10695ca1a5f28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04241064-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平は「自らをアウトにしてる」　ロバーツ監督が苦言　“パパ初安打”も復帰後３試合で１２打数１安打
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49e229e9b8480210dff3948f050a6e17a3ca62bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-07232480-jnn-000-6-thumb.jpg?exp=10800&fmt=webp> 全裸男、西村大輔容疑者 奪ったタクシーを100キロ超のスピードで運転し事故か　防犯カメラには“衝突音がひびく様子”記録　埼玉県内で20件以上の事件・事故に関与の疑い
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250424-04241064-sph-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平は「自らをアウトにしてる」　ロバーツ監督が苦言　“パパ初安打”も復帰後３試合で１２打数１安打
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/5edade36b151235257323020fcddc1a88eefb66b570d9945f3ffe42a23a6fb00.jpg> 関税交渉へ 赤沢氏が30日に再訪米
+      <a href=https://news.yahoo.co.jp/pickup/6536522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/970bff2c5d092614334ba8ce7577e32a7148f2b217ea3b104ece1c68ee029ed3.jpg> G20財務相会議開幕 米関税に懸念
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536505>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/55ce5b92e90c89da56fe48c34022307c3f34c8391125413041dda7d5d0f1c704.jpg> 自転車の青切符 来年4月1日開始へ
+      <a href=https://news.yahoo.co.jp/pickup/6536520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/3d279a95bfbcf0dfd09666824ed985df4dfff3e319424368320fc032f3cceef8.jpg> 米で出産女性にボーナス検討 報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536513>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/ab7e2c65ccb6807986c0c383605633c49dfc463b8a6194494f223c7ce39eabb9.jpg> 大手チェーン 4月に夏メニュー
+      <a href=https://news.yahoo.co.jp/pickup/6536521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/4272eacba960fcf6d2e30418dc190c6ca41e819a0ba020bde866df364061491b.jpg> 水門に車衝突 1人死亡3人意識不明
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/24 14:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/24 15:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
