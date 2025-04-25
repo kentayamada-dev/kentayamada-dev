@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3133a8e020f8e23686568fe98a6aa96a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b6f17efb1d9db1452e15b8e4f5db8822.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5591147bad459590feefbe7b0d041a24cd7f26fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000094-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「学生の街」に驚き　京都ノートルダム女子大　学生募集停止へ
+      <a href=https://news.yahoo.co.jp/articles/1b02b325df47c77795f527c39097f93f422f0699>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000096-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=97&cw=537&ch=537&exp=10800&fmt=webp> 石破首相、ベトナム・フィリピン外遊へ　トランプ関税巡り連携確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2b55eedbb699433f1fc4967df154f6f81e7dd29a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00050128-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=319&ch=319&exp=10800&fmt=webp> デヴィ夫人が代表の政治団体「１２平和党」、解散発表…「皆様に心よりおわび」
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4a4e3992efe69f6b537b8e5d2a94b7b5ee20681>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000095-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=762&ch=762&exp=10800&fmt=webp> 政府、米関税で緊急総合対策を決定　資金繰り支援や消費喚起　首相「必要な支援に万全を」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/47e87bae6078f2d307a73af4486290bf2bf43a103524897be096c3926d1ab6bc.jpg> 氷河期世代への支援策が続々 背景
+      <a href=https://news.yahoo.co.jp/pickup/6536678>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/2769ca688ccf2099ae0e0ba05c2ba8c790d2a4d7c22f322f96c0a44f670afd45.jpg> 日米財務相会談 布石2つと幸運1つ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536664>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462708_1610462695_aflo_109260004.jpg> 閣僚14人が外遊へ 必要性に疑問も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536668>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/0c30d088de309e551012e0bd77fe49da95c624c613d9be4f7bca8f87669072af.jpg> 爆殺か ロシア軍の参謀次長が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536669>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/51e7032fa98a2cdaa1af49228458d7430a9b61b5bf55753e72efccf76b24d308.jpg> 八潮陥没 救助阻んだ4つの想定外
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/c432a654ec105bbf03554cacc7c8b99944c5a6bf3130ad3b6d250f0345c57e3b.jpg> JR大阪駅前 ヨドバシ看板燃える
+      <a href=https://news.yahoo.co.jp/pickup/6536677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/7cb496e410f74a51fc08b2393215eadacb1671ee4e80aeb1a068b8f32b090da0.jpg> 学生「まさか」募集停止の女子大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/7cb496e410f74a51fc08b2393215eadacb1671ee4e80aeb1a068b8f32b090da0.jpg> 学生「まさか」募集停止の女子大
+      <a href=https://news.yahoo.co.jp/pickup/6536679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/6535b6ef2774f0a46084911687ce7a106811c37a90df8768a00015a0402151cd.jpg> デヴィ夫人「おわび」政党が解散
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536675>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ef5cdf2d725838d9a0f8baa4ac7e9c88ead63642ae04f7729636072df3aa1d56.jpg> 成宮寛貴が舞台あいさつ 大歓声
+      <a href=https://news.yahoo.co.jp/pickup/6536676>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/6b1e3ddc7b96bf3c35398cd1c08d2cd2ca5872af30b7750df72c3d0b74d91ca2.jpg> 山下達郎 ライブが唯一の存在証明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536634>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ea00e70d5b3dafffafb44041664e3a1f942d909a4a6d2fea9a945dc55e9b9d83.jpg> TBS報告 アナに出演者が身体接触
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 21:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 22:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
