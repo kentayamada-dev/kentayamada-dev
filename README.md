@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a1d86a93be92635c01495246f617aa18.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a62f78abda4d864afbba5186a1634f0d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6983cb044d7d62f9341fd20b20c9fc3c6aa3e36f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000206-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「食料品の消費税率0」急上昇してトレンド入り！立憲民主党が今夏の参院選の公約に決定、1年間限定
+      <a href=https://news.yahoo.co.jp/articles/7995649d18d7a831e0204744b4aae71542ab902f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-02434263-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 大手ファミレス「ジョイフル」ピザにカタツムリ混入で謝罪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7995649d18d7a831e0204744b4aae71542ab902f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-02434263-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大手ファミレス「ジョイフル」ピザにカタツムリ混入で謝罪
+      <a href=https://news.yahoo.co.jp/articles/aee3a7f3d14d6daaf2277386f50b0a90573a555b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-34250616-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1408&ch=1408&exp=10800&fmt=webp> 藤浪晋太郎は２試合連続の四球連発で１回を無安打１失点、３四球もリードを保ち１回を投げきる
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/a0d839fcf8a58cc5ebae64aeb2e62e7aa0990207545be1b723e1097700aa6349.jpg> 立憲 公約に食料品の消費税ゼロ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536618>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/550544663c0f36112905c11aa0224221fce029cc06856ad59b774df458bebdf7.jpg> 政府が米関税の緊急対策決定
       </a>
@@ -402,40 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/d0856d70fc879c036b9095d669e5c91a4021543402da90a1520a936a381dd04e.jpg> PFAS 242地点で暫定目標値超え
+      <a href=https://news.yahoo.co.jp/pickup/6536620>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tadafumiaki/02184600/title-1745541175618.jpeg?exp=10800> 警察かたる詐欺被害続出 手口分析
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/53020eb166bce7e67f37698a66ecd1fe998aac4aa426c43b1891baba6a607b1c.jpg> 孤独感「ある」計39% 内閣府調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536616>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/c7f4b9aba26dc653820d24e7126c817680927709a610140f3da4ae8aae6b3cca.jpg> 40代男性 タクシーにはねられ死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536614>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/f7203704b276fdf772003e50bbc3635779a77dee016010f8dd22f3de679fa8f9.jpg> 京都ノートルダム女子大 募集停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536625>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/5e46fe3659281bec16ad64ce3ab8bb55a2446d025e37d16e750bc781af795eb5.jpg> 富士山バリケード破り SNSに投稿
+      <a href=https://news.yahoo.co.jp/pickup/6536629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/631ce16adec645987eefb05da8a5bc74c2faa7982790be4553a4ee7683854983.jpg> 誤った血管切断で小腸壊死 提訴へ
       </a>
     </td>
   </tr>
@@ -444,6 +428,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536624>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/990f0d22333c790a760beef9ad0323f1d724968c747e6a908821b57d0e609edc.jpg> USJ ブースでのチケ販売終了発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/90db324100053b4f9966ef79ba4278be12a74f1ce54226a3a16d904ce51527a0.jpg> 藤浪晋太郎がまた乱調 3連続四球
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/92de8844dc08498941e631275182645ce0ca02ff8e38ce6cedd908af348ce0b5.jpg> ダウンタウン 夏までに活動再開へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 15:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 15:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
