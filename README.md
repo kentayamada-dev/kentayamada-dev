@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/acd9adf7ab0b4c3276b9825995b060e4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6bb208a3e114172e7b504e6bba7f1896.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ab7615262a569c017ffc89691ec1a438c19f9386>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000020-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ロシア外相、ウクライナと「合意の用意ある」 米CBSインタビュー
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000020-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ロシア外相、ウクライナと「合意の用意ある」 米CBSインタビュー
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536611>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/795d324e435420507866997e15d749c1f81ceea1ce905f87b1f08a42a8d5182e.jpg> 鉄道7社の安全対策 ミス懲戒せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/032afd0edffe356b0658e9b46f9607e2123c465677e1962394e98775ad51d77f.jpg> PFAS 242地点で暫定目標値超え
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/d0856d70fc879c036b9095d669e5c91a4021543402da90a1520a936a381dd04e.jpg> PFAS 242地点で暫定目標値超え
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536623>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/9ccf904919a7bb23780bf8f9a7832b6afd42a2fb93a58dbb1c64de2360233fdf.jpg> 「スクショ」商標登録できる理由
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536610>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/90c160c9be3f115b48878283d26b70c39edfd00e896bf80ac46bb8d8f783b516.jpg> 異例 巨人・浅野翔吾が3軍降格
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536619>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/75e43ee586e5de62743085b2b2b8aa076b80b850cd25b2eff30eef5a331b4a92.jpg> 上白石萌歌 精神がゆらいだ時期も
+      <a href=https://news.yahoo.co.jp/pickup/6536622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/27ceeb97d4760dcdf4111c6bfdd23896d4afc69f3ff594ac2703fb72018ff722.jpg> たった1人の握手会 アイドル葛藤
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 14:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 14:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
