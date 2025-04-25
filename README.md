@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/UB3ppxwz3W4?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/fzePAvEcUOc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/IQIuVqt4sj8?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/656fab97bf701b48dc7937d43f222097.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/445248a56d3b6e5a47c97454ef2d58a9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77126d79c123dcd0487332cd2f17a09532fd2b2c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00963050-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 重体だった男性も…4人全員が死亡　車が水門に衝突、自動車整備を学ぶ19〜20歳の訓練生が死亡　校長「車の怖さを改めて思い知らされる」　長野・飯田市
+      <a href=https://news.yahoo.co.jp/articles/505334d839f7b326c7956945d9aa52b79cccb248>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000122-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=745&ch=745&exp=10800&fmt=webp> カズレーザー　ながらスマホ罰金1万2千円、運転免許なく道交法「分かってない…自転車に乗らないように」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d3b25de47b6971316828932e91c0e1ed12d91176>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000032-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 政府、米関税で緊急対応策　資金繰り支援、消費喚起も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000032-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 政府、米関税で緊急対応策　資金繰り支援、消費喚起も
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536591>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/23790a959b8c320b755595db90e2cab02b25778d4af3668137f2e6e254a908dc.jpg> 関税交渉 トウモロコシ輸入拡大案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536590>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/4278a0c650df221213e4f9ca8132e31f863564f94e11f6c36f5553d80d30ba2a.jpg> 日米財務相会談 為替目標議論せず
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536597>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/fa8f9f216c1dad58833185511b648133bc8172f27b8d01d8c710b946554d2683.jpg> 13人乗った軽トラ横転 8人搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536594>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/12178c6cc13e6c22974bf61bc6ada191dcfb2a8fba616afe6897899cee72806c.jpg> ささきいさお復帰 一時は死を覚悟
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 09:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 10:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
