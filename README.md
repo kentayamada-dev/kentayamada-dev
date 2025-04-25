@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/440ad7b15426b0361c8f44dcfae972df.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/acd9adf7ab0b4c3276b9825995b060e4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08a255f696566dbdd648dd9f41360e6b128280d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00787492-encount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 昼番組出演の向井理に注目　3年務めた孔明役「今日もうちわで隠していた」…“本音”に共演者驚き
+      <a href=https://news.yahoo.co.jp/articles/ab7615262a569c017ffc89691ec1a438c19f9386>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000020-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ロシア外相、ウクライナと「合意の用意ある」 米CBSインタビュー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83c8cd666673016f3f69350f68a11248de8d60fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00050061-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏、ロシアは停戦意向との見解…「ウクライナ全体を奪うことをやめた」「かなり大きな譲歩」
+      <a href=https://news.yahoo.co.jp/articles/f28db0901a1e61f65102f3ae544af597e8f836f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00010022-ffield-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「歩行者がいるのに横断歩道を通過」で9000円、「右折禁止ルール違反」で7000円!? 新生活シーズンこそ要注意！「2025年春の交通取り締まり」の重点をもとに、気を付けたい違反行為・罰則を解説
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/468ac200a5888e24e7ccfbca3a2b8ecb7dbb4c16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-90023484-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 違反自転車「青切符」開始へ…ながらスマホ反則金1万2000円　納付しなければ刑事罰
+      <a href=https://news.yahoo.co.jp/articles/58b66dcc752723245fbd03de8a4cba74d1da493a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00078746-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アルファベット決算は「増収増益」、株価は時間外で5％急騰
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536618>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/550544663c0f36112905c11aa0224221fce029cc06856ad59b774df458bebdf7.jpg> 政府が米関税の緊急対策決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536617>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/6f5630e5d39796e6c8c193cecfa0a14dff16dc920a41e0045696d948afaa2eaf.jpg> 不適切点呼巡り 郵便局へ特別監査
       </a>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/9e9b76ecb5675759b16dc328184656d562988c1d8490ca04517333ce7eb3f7ef.jpg> 米財務長官 円安是正へ目標求めず
+      <a href=https://news.yahoo.co.jp/pickup/6536611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/795d324e435420507866997e15d749c1f81ceea1ce905f87b1f08a42a8d5182e.jpg> 鉄道7社の安全対策 ミス懲戒せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536611>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/795d324e435420507866997e15d749c1f81ceea1ce905f87b1f08a42a8d5182e.jpg> 鉄道7社の安全対策 ミス懲戒せず
+      <a href=https://news.yahoo.co.jp/pickup/6536613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/032afd0edffe356b0658e9b46f9607e2123c465677e1962394e98775ad51d77f.jpg> PFAS 242地点で暫定目標値超え
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536614>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/f7203704b276fdf772003e50bbc3635779a77dee016010f8dd22f3de679fa8f9.jpg> 京都ノートルダム女子大 募集停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/d436053306a7ef0828d68a56a4a3e412914bc029fb9416e5249fba45152016bd.jpg> 「国語便覧」過去最速で完売 なぜ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 13:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 14:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
