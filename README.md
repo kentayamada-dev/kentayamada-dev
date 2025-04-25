@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7557e1f818162c97b6deae89e5ed83e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/062ba08965f644e72dcfca4ec5bbd5ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a97fd89f33693aee51caa164d4016c593418235>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=428&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 政府がトランプ関税対策で5本柱の『緊急対応パッケージ』を決定：セーフティーネットの強化が重要
+      <a href=https://news.yahoo.co.jp/articles/889bcf26277b1212db1105df4e283fd85dce5c92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232741-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「ウラジーミル、やめろ」　ロシアによるウクライナ・キーウへの攻撃を非難　停滞するロシアとウクライナの和平交渉に呼びかけ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/29901872ee770599a14f0dcd42ac05bdd6e8cb48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000029-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 2回目の日米協議で自動車会社の投資計画提示へ　緊急の国内対策取りまとめ
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbdc436281e6adcb3d1ac315893d47ff0f54d778>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00050042-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=378&ch=378&exp=10800&fmt=webp> 格安の偽造パルスオキシメーター出品放置で損害、アマゾンに３５００万円支払い命じる判決…東京地裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5222d953e1e46c83b65e90847b857dbdd61f32b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-16944969-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=450&ch=450&exp=10800&fmt=webp> トランプ氏、ロシアのキーウ空爆に「不満」表明
+      <a href=https://news.yahoo.co.jp/articles/8d47685c0bde84036d77120e6c99ce68f36c4283>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00050044-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 発がん性指摘のＰＦＯＳとＰＦＯＡ、２２都府県の２４２地点で国の暫定目標値超え…２３年度
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536604>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/59165d63e83dae572de0a5040e5853f3ee8cc4799f3e27359f538ecc82d4cb9d.jpg> 氷河期世代支援へ 閣僚会議を開催
+      <a href=https://news.yahoo.co.jp/pickup/6536605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/9e9b76ecb5675759b16dc328184656d562988c1d8490ca04517333ce7eb3f7ef.jpg> 米財務長官 円安是正へ目標求めず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536605>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/9e9b76ecb5675759b16dc328184656d562988c1d8490ca04517333ce7eb3f7ef.jpg> 米財務長官 円安是正へ目標求めず
+      <a href=https://news.yahoo.co.jp/pickup/6536611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/795d324e435420507866997e15d749c1f81ceea1ce905f87b1f08a42a8d5182e.jpg> 鉄道7社の安全対策 ミス懲戒せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536604>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/1a85953e0f4510d04301e7c0f998a7cdd8325855dfeacb1ed57c50ee54e5592c.jpg> 氷河期世代支援へ 閣僚会議を開催
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536608>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/d436053306a7ef0828d68a56a4a3e412914bc029fb9416e5249fba45152016bd.jpg> 「国語便覧」過去最速で完売 なぜ
+      <a href=https://news.yahoo.co.jp/pickup/6536614>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/f7203704b276fdf772003e50bbc3635779a77dee016010f8dd22f3de679fa8f9.jpg> 京都ノートルダム女子大 募集停止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/484bc1e522af88577348883acd99ba29f05cf4740636d43703f1fa26dfdc5e09.jpg> 井上尚弥の粋な返し 米記者興奮
+      <a href=https://news.yahoo.co.jp/pickup/6536608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/d436053306a7ef0828d68a56a4a3e412914bc029fb9416e5249fba45152016bd.jpg> 「国語便覧」過去最速で完売 なぜ
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536609>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/dcdf278e94c332c0fb61f24f8699b90ba4d02bce6362830989535c9c81f5e1ab.jpg> ビューティーポップ 17年ぶり連載
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 12:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 12:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
