@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/76fa8bd8d7aed1eca6c81da9ed6c2313.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/656fab97bf701b48dc7937d43f222097.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0d2345a53b8b1a745463d083a7e22021216ec08c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00050023-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 天竜川水門への乗用車衝突、新たに１９歳男性の死亡確認…乗っていた４人全員が死亡
+      <a href=https://news.yahoo.co.jp/articles/77126d79c123dcd0487332cd2f17a09532fd2b2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00963050-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 重体だった男性も…4人全員が死亡　車が水門に衝突、自動車整備を学ぶ19〜20歳の訓練生が死亡　校長「車の怖さを改めて思い知らされる」　長野・飯田市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5a1686600fb262ae8c75d5c47c06e77d1e4b2ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000040-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1430&ch=1430&exp=10800&fmt=webp> 政府、米関税への緊急対策を決定　資金繰り支援や消費喚起
+      <a href=https://news.yahoo.co.jp/articles/d3b25de47b6971316828932e91c0e1ed12d91176>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000032-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 政府、米関税で緊急対応策　資金繰り支援、消費喚起も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2718e63dc7fa08bb47a5539b00b0ed10b1463426>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00342195-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ささきいさお　間質性肺炎急性増悪で死の淵から生還「神様はまだ見捨ててないかな」
+      <a href=https://news.yahoo.co.jp/articles/be38e1bfb8eae57b68d11ac4c9de1099fe282cfd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> 「ウラジーミル、やめろ！」 トランプ氏、ロシアのキーウ攻撃に不満表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/abd16fc1d6abc2b8e01174d2a24967dfda1436ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00010004-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=331&cy=0&cw=1274&ch=1274&exp=10800&fmt=webp> 海外記者たちを沸かせた「怪物の一言」 井上尚弥の“最高のセリフ”に米絶賛「たちまち場の雰囲気が一変した。彼はスターだ」
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536585>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/394d464a580666fbbb0446a318850af94eb55a0804de14b8ae83da803768d406.jpg> キーウに大規模攻撃 12人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536595>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/98fd62ae45804b434079e6dbc514b500e2a0ac85d7bd82aeb1e364e1d0653708.jpg> トランプ氏 キーウ攻撃に不満示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/599114ee1e0c96c2c0fe89f3676f2473a754c3f75dcb519e9038cddb3d93d6ef.jpg> 水門に車衝突の事故 男性4人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536593>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/51b7c9c0cf591c11ff931bced45eb4853e1ed64ed8579a63befd0bdbe3e75baa.jpg> 米インテル赤字2倍 人員削減へ
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/084b67682cdea10df8eb613baccd8c74f5d3256ae0500bf18cdc8f2115363bfb.jpg> ダウンタウン 夏にもネット配信
+      <a href=https://news.yahoo.co.jp/pickup/6536594>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/12178c6cc13e6c22974bf61bc6ada191dcfb2a8fba616afe6897899cee72806c.jpg> ささきいさお復帰 一時は死を覚悟
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/4d9be8bf5fb26a72cb55023b422900f200f0917f3c3e89cc8b72cba7b61bc8a7.jpg> 24時間テレビ 水卜アナら総合司会
+      <a href=https://news.yahoo.co.jp/pickup/6536588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/084b67682cdea10df8eb613baccd8c74f5d3256ae0500bf18cdc8f2115363bfb.jpg> ダウンタウン 夏にもネット配信
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 09:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 09:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
