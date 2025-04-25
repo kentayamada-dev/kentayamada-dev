@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a40aa920c641fedccb4009d7bee48594.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0fa37afab906ab0ac25380cacf925d57.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5e82b3f9943408ae67fb0ebe5017ac8763c87269>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00050149-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 欧州とウクライナが和平案まとめる、「領土」「対露制裁緩和」より「停戦」優先…米国案と溝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b2a595f6be07e9ebad0f4f8b6085c1ca28e39bd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000104-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ関税巡る日米交渉「2段階」で　早期成果狙い、政府検討
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000104-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ関税巡る日米交渉「2段階」で　早期成果狙い、政府検討
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/89bc74b438bced8a72b7ee88ac8d3ab9878de080>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00963575-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 120キロ出ていたか…自動車整備科の19歳と20歳の訓練生4人死亡　堤防道路から転落、水門に衝突　専門家「出すスピードとしては危険すぎる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05bdbbc68b972ae829f26c109aeede525582c260>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ウィットコフ特使、プーチン氏にウクライナ和平案を説明か　モスクワで会談
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536678>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/2769ca688ccf2099ae0e0ba05c2ba8c790d2a4d7c22f322f96c0a44f670afd45.jpg> 日米財務相会談 布石2つと幸運1つ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536666>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/819018eb1ec7bb026ac469a0183d2538cd9a749c9fe234334af43192f00e5c4a.jpg> 赤沢氏 再訪米アポなく与党根回し
       </a>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536677>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/7cb496e410f74a51fc08b2393215eadacb1671ee4e80aeb1a068b8f32b090da0.jpg> 学生「まさか」募集停止の女子大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536672>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/851688a63e0ee5ed022c1509cec48244cc1e7b29d65839d5110b04b20c3d0505.jpg> アマゾンに正規品消され 業者思い
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 23:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 23:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
