@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a62f78abda4d864afbba5186a1634f0d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c915dbe14675d538277f8c9fd5f9889c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7995649d18d7a831e0204744b4aae71542ab902f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-02434263-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 大手ファミレス「ジョイフル」ピザにカタツムリ混入で謝罪
+      <a href=https://news.yahoo.co.jp/articles/d501ad6f91a2bd1fc10e659e4a72f6106add2d78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-90019017-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=652&ch=652&exp=10800&fmt=webp> 【速報】斎藤知事らのハラスメント特別研修　5月12日に実施　これまで求められてから4カ月実施されず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aee3a7f3d14d6daaf2277386f50b0a90573a555b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-34250616-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1408&ch=1408&exp=10800&fmt=webp> 藤浪晋太郎は２試合連続の四球連発で１回を無安打１失点、３四球もリードを保ち１回を投げきる
+      <a href=https://news.yahoo.co.jp/articles/77e4fc88ad829f82d839cfad0d964a17f7decba8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-04251085-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1161&ch=1161&exp=10800&fmt=webp> 役所広司、役作りのこだわりは「作品の中での存在感のためにいろいろと準備する」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7995649d18d7a831e0204744b4aae71542ab902f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-02434263-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 大手ファミレス「ジョイフル」ピザにカタツムリ混入で謝罪
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/a0d839fcf8a58cc5ebae64aeb2e62e7aa0990207545be1b723e1097700aa6349.jpg> 立憲 公約に食料品の消費税ゼロ
+      <a href=https://news.yahoo.co.jp/pickup/6536630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/34472a510f2c43edf2795509a5dbf227bd4b922f243464987dc57d2bbcc8b022.jpg> 新生児取り違え訴訟 都が控訴断念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536618>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/550544663c0f36112905c11aa0224221fce029cc06856ad59b774df458bebdf7.jpg> 政府が米関税の緊急対策決定
+      <a href=https://news.yahoo.co.jp/pickup/6536626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/a0d839fcf8a58cc5ebae64aeb2e62e7aa0990207545be1b723e1097700aa6349.jpg> 立憲 公約に食料品の消費税ゼロ
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/92de8844dc08498941e631275182645ce0ca02ff8e38ce6cedd908af348ce0b5.jpg> ダウンタウン 夏までに活動再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6536634>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ea00e70d5b3dafffafb44041664e3a1f942d909a4a6d2fea9a945dc55e9b9d83.jpg> TBS報告 アナに出演者が身体接触
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/27ceeb97d4760dcdf4111c6bfdd23896d4afc69f3ff594ac2703fb72018ff722.jpg> たった1人の握手会 アイドル葛藤
+      <a href=https://news.yahoo.co.jp/pickup/6536627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/92de8844dc08498941e631275182645ce0ca02ff8e38ce6cedd908af348ce0b5.jpg> ダウンタウン 夏までに活動再開へ
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 15:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 16:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
