@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6210f0022eb0c6b99345cdf5a59a23dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/76fa8bd8d7aed1eca6c81da9ed6c2313.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df8b9e54bf40a37992bf107acaa596130e6ccb3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米「為替目標議論せず」　財務相会談、協議は継続
+      <a href=https://news.yahoo.co.jp/articles/0d2345a53b8b1a745463d083a7e22021216ec08c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00050023-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 天竜川水門への乗用車衝突、新たに１９歳男性の死亡確認…乗っていた４人全員が死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95cd69728167976eab4dbe929f1cae38743879f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00255112-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「コメの関税を下げたら自民党は吹っ飛ぶ」　農業団体首脳が断言　農林族のドンも危機感あらわ…コメ輸入拡大で試される石破政権
+      <a href=https://news.yahoo.co.jp/articles/a5a1686600fb262ae8c75d5c47c06e77d1e4b2ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000040-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=305&cy=0&cw=1430&ch=1430&exp=10800&fmt=webp> 政府、米関税への緊急対策を決定　資金繰り支援や消費喚起
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d53712b099bcac8ffb943a5b7783512518e01a8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000006-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 水門に乗用車が衝突し大破 4人死亡 長野・飯田市
+      <a href=https://news.yahoo.co.jp/articles/2718e63dc7fa08bb47a5539b00b0ed10b1463426>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00342195-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=205&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ささきいさお　間質性肺炎急性増悪で死の淵から生還「神様はまだ見捨ててないかな」
       </a>
     </td>
   </tr>
@@ -386,16 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/759139ea5c5761dd50bd5964486579d622e07ec851655c75f67c2cf410db9edf.jpg> 食料品消費税0% 立憲公約決定へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536580>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/24/57d068798550e159a2ef1ec8f370a6cd86e74ae9d58c1cf2aa8842ac708a640d.jpg> 米関税巡る緊急対策 25日決定へ
+      <a href=https://news.yahoo.co.jp/pickup/6536591>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/23790a959b8c320b755595db90e2cab02b25778d4af3668137f2e6e254a908dc.jpg> 関税交渉 トウモロコシ輸入拡大案
       </a>
     </td>
   </tr>
@@ -404,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536590>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/4278a0c650df221213e4f9ca8132e31f863564f94e11f6c36f5553d80d30ba2a.jpg> 日米財務相会談 為替目標議論せず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/759139ea5c5761dd50bd5964486579d622e07ec851655c75f67c2cf410db9edf.jpg> 食料品消費税0% 立憲公約決定へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 08:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 09:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
