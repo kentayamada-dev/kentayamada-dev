@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/275f345a85d964aefce22029d6d6add8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2017711ed5992a2e4ea886008631cdca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c07f977fca3544d8873a799f26f7fdb525f0660f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232870-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=461&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】デヴィ夫人が立ち上げた政治団体「12（ワンニャン）平和党」解散
+      <a href=https://news.yahoo.co.jp/articles/fa3a9ce23ab99f74a579f6cdac6f6b1fec7e201d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000298-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 阪神　甲子園のレジェンズデーに江夏氏がサプライズ登場　田淵、掛布両氏とセレモニー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/06cf0f8f4e0db137fc870b208df72b02205b21fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000177-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=1769&ch=1769&exp=10800&fmt=webp> 政府、米国産大豆の輸入拡大検討　トウモロコシも
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5003e7779bca57f0814c103c6f213830866adc7d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-21878651-bss-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「タバスコをかけたらベビーリーフがもぞもぞと…」　ファミレス「ジョイフル」で注文したピザに「カタツムリ」が混入　男性が動画をSNSに投稿したワケは?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74a55c0ce05be516db02d8f8661edcae82d8cc9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232813-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税うけ政府が緊急対応パッケージ決定も…「コメが交渉カードになること許されない」と自民党内からけん制の声相次ぐ
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536638>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/37015ed75d856c505163b4b06c144a24de3ae91d89786bab804581d6fd360aa7.jpg> GWの花火大会が突然中止 陳謝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536649>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/5d0e35be869cb58a0dd17d6bfc896eca7a688d0a192a81479f29f310734171aa.jpg> デヴィ夫人が設立の政党 解散発表
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/2fa176796e0f4613b1df70c675b4754f7dcb4a099ee1d0fc08b58b917b8c1734.jpg> ひし美ゆり子77歳 年内に結婚へ
+      <a href=https://news.yahoo.co.jp/pickup/6536653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/0e29b427ab8a99cd066f77b1aeb9577e98fe039dc9c9e33ad5ba4b255ceeb990.jpg> 江夏豊氏にどよめき 車いすを立つ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536651>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/8026f3a63a0a3f9da40aeb7eaa13cd360367475694df1fc9b1340a1acc5518ba.jpg> ダウンタウン なぜYouTube選ばず
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 18:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 18:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
