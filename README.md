@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c915dbe14675d538277f8c9fd5f9889c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/597d4182829a3fda4580bb375c9fc702.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d501ad6f91a2bd1fc10e659e4a72f6106add2d78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-90019017-kantelev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=652&ch=652&exp=10800&fmt=webp> 【速報】斎藤知事らのハラスメント特別研修　5月12日に実施　これまで求められてから4カ月実施されず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-90019017-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=652&ch=652&exp=10800&fmt=webp> 【速報】斎藤知事らのハラスメント特別研修　5月12日に実施　これまで求められてから4カ月実施されず
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/a0d839fcf8a58cc5ebae64aeb2e62e7aa0990207545be1b723e1097700aa6349.jpg> 立憲 公約に食料品の消費税ゼロ
+      <a href=https://news.yahoo.co.jp/pickup/6536632>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/999ed8158ec5e4b2c0eae39b8efefce2ab19220df33f8079f8db7e998f4d3732.jpg> 斎藤知事 パワハラ研修を5/12受講
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536624>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/990f0d22333c790a760beef9ad0323f1d724968c747e6a908821b57d0e609edc.jpg> USJ ブースでのチケ販売終了発表
+      <a href=https://news.yahoo.co.jp/pickup/6536636>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02184807/title-1745545577031.jpeg?exp=10800> ノートルダム女子も 女子大の苦戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/90db324100053b4f9966ef79ba4278be12a74f1ce54226a3a16d904ce51527a0.jpg> 藤浪晋太郎がまた乱調 3連続四球
+      <a href=https://news.yahoo.co.jp/pickup/6536638>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/37015ed75d856c505163b4b06c144a24de3ae91d89786bab804581d6fd360aa7.jpg> GWの花火大会が突然中止 陳謝
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 16:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 16:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
