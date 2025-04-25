@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/29325d6f4f830e349e6ca7d5f8764e09.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/275f345a85d964aefce22029d6d6add8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c07f977fca3544d8873a799f26f7fdb525f0660f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232870-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=461&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】デヴィ夫人が立ち上げた政治団体「12（ワンニャン）平和党」解散
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5003e7779bca57f0814c103c6f213830866adc7d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-21878651-bss-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「タバスコをかけたらベビーリーフがもぞもぞと…」　ファミレス「ジョイフル」で注文したピザに「カタツムリ」が混入　男性が動画をSNSに投稿したワケは?
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/74a55c0ce05be516db02d8f8661edcae82d8cc9a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232813-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税うけ政府が緊急対応パッケージ決定も…「コメが交渉カードになること許されない」と自民党内からけん制の声相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/860199b348a5baa0d8c98d8fef5ee8486d5b8201>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-34250879-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 77歳「ウルトラセブンのアンヌ隊員」と76歳「仮面ライダーアマゾン」結婚へ　
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/999ed8158ec5e4b2c0eae39b8efefce2ab19220df33f8079f8db7e998f4d3732.jpg> 斎藤知事 パワハラ研修を5/12受講
+      <a href=https://news.yahoo.co.jp/pickup/6536645>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/7a32dfc85c79a7a36ce2649c351fd593ba1d8130520c4b81c6bdfe2417eb1c07.jpg> 「火山灰警報」新設へ 気象庁方針
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536636>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02184807/title-1745545577031.jpeg?exp=10800> ノートルダム女子も 女子大の苦戦
+      <a href=https://news.yahoo.co.jp/pickup/6536648>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/d51be2c108a0744c6366fb1c13f82210463e374f75658349ff193cd10d8e89a5.jpg> 公用車事故「町長死ねば」と町議
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/995f6f8b655628dbac90e8db079d89d8214ad664274c7228d2118c4823b45d1f.jpg> 武尊が現役続行 ロッタン倒したい
+      <a href=https://news.yahoo.co.jp/pickup/6536649>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/5d0e35be869cb58a0dd17d6bfc896eca7a688d0a192a81479f29f310734171aa.jpg> デヴィ夫人が設立の政党 解散発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 17:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 18:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
