@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fc623d6fd1728f9fcb6c35d18dbe7a70.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f315b073484fc5cf9e5ae766bac33166.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/246ff67b756ed07b5875b128e6c24fcd69dd7265>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 「ウラジーミル、やめろ！」 トランプ大統領 ロシアのキーウ攻撃に不満表明
+      <a href=https://news.yahoo.co.jp/articles/5222d953e1e46c83b65e90847b857dbdd61f32b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-16944969-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=450&ch=450&exp=10800&fmt=webp> トランプ氏、ロシアのキーウ空爆に「不満」表明
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536601>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/9e9b76ecb5675759b16dc328184656d562988c1d8490ca04517333ce7eb3f7ef.jpg> 財務相会談 米は円安是正を求めず
+      <a href=https://news.yahoo.co.jp/pickup/6536604>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/59165d63e83dae572de0a5040e5853f3ee8cc4799f3e27359f538ecc82d4cb9d.jpg> 氷河期世代支援へ 閣僚会議を開催
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 11:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 11:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
