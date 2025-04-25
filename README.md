@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6bb208a3e114172e7b504e6bba7f1896.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a1d86a93be92635c01495246f617aa18.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6983cb044d7d62f9341fd20b20c9fc3c6aa3e36f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000206-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「食料品の消費税率0」急上昇してトレンド入り！立憲民主党が今夏の参院選の公約に決定、1年間限定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7995649d18d7a831e0204744b4aae71542ab902f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-02434263-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 大手ファミレス「ジョイフル」ピザにカタツムリ混入で謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ab7615262a569c017ffc89691ec1a438c19f9386>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000020-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ロシア外相、ウクライナと「合意の用意ある」 米CBSインタビュー
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f28db0901a1e61f65102f3ae544af597e8f836f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00010022-ffield-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「歩行者がいるのに横断歩道を通過」で9000円、「右折禁止ルール違反」で7000円!? 新生活シーズンこそ要注意！「2025年春の交通取り締まり」の重点をもとに、気を付けたい違反行為・罰則を解説
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f12d644923e1a2c4508f430c089ec9d0d040f023>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00963164-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 政府「緊急対応パッケージ」を決定　トランプ政権の関税措置を受け…企業の資金繰り支援など柱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58b66dcc752723245fbd03de8a4cba74d1da493a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00078746-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アルファベット決算は「増収増益」、株価は時間外で5％急騰
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/6f5630e5d39796e6c8c193cecfa0a14dff16dc920a41e0045696d948afaa2eaf.jpg> 不適切点呼巡り 郵便局へ特別監査
+      <a href=https://news.yahoo.co.jp/pickup/6536613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/d0856d70fc879c036b9095d669e5c91a4021543402da90a1520a936a381dd04e.jpg> PFAS 242地点で暫定目標値超え
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/d0856d70fc879c036b9095d669e5c91a4021543402da90a1520a936a381dd04e.jpg> PFAS 242地点で暫定目標値超え
+      <a href=https://news.yahoo.co.jp/pickup/6536606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/53020eb166bce7e67f37698a66ecd1fe998aac4aa426c43b1891baba6a607b1c.jpg> 孤独感「ある」計39% 内閣府調査
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536623>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/9ccf904919a7bb23780bf8f9a7832b6afd42a2fb93a58dbb1c64de2360233fdf.jpg> 「スクショ」商標登録できる理由
+      <a href=https://news.yahoo.co.jp/pickup/6536625>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/5e46fe3659281bec16ad64ce3ab8bb55a2446d025e37d16e750bc781af795eb5.jpg> 富士山バリケード破り SNSに投稿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/90c160c9be3f115b48878283d26b70c39edfd00e896bf80ac46bb8d8f783b516.jpg> 異例 巨人・浅野翔吾が3軍降格
+      <a href=https://news.yahoo.co.jp/pickup/6536624>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/990f0d22333c790a760beef9ad0323f1d724968c747e6a908821b57d0e609edc.jpg> USJ ブースでのチケ販売終了発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 14:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 15:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
