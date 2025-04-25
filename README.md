@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/fzePAvEcUOc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/139023541e9449e65635b5e7e9fa1268.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c24d26bd057d0382f435772359dfa81f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4e92d5cbc0eaf0c24dff16822c1400bff30b05f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-90022974-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「120キロ程度スピードは出ている」19歳と20歳の自動車整備科の訓練生4人が死亡　道路から転落、水門に衝突　専門家「出すスピードとしては危険すぎる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/61dddbc637b173a6b123d692377988b5a922063e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-03863398-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ファミレスのピザにカタツムリ混入　店側が謝罪　具材のベビーリーフに付着か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f82417fc54e07489083489f5790f811e90293f9d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000078-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 兵庫・斎藤知事、パワハラ研修は5月に受講へ　公益通報者保護など
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/265cd9774b5ca5173725c9c3983c1933e51a1ad3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000335-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1105&ch=1105&exp=10800&fmt=webp> 巨人、ソフトバンクでプレーしたウォーカーがBC神奈川入り決定「機会を与えてくれ感謝」「楽しい夏に」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/599f6769697d910040b0920658ae0f325f997e77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-90018870-tsk-000-1-thumb.jpg?exp=10800&fmt=webp> 【独自取材】ファミレスのピザからウネウネ…カタツムリ混入「危険な寄生虫の恐れ」注意喚起で動画投稿
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536650>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/80240309a3f6dffea27857050c9fda717b750c6e6ffe68176b22465ea61997e3.jpg> 赤沢氏 関税巡る姿勢は変わらず
+      <a href=https://news.yahoo.co.jp/pickup/6536657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/47e87bae6078f2d307a73af4486290bf2bf43a103524897be096c3926d1ab6bc.jpg> 氷河期世代への支援策が続々 背景
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536658>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/a9c8b1118fdf0392b85f82d03a7f06ac868551ccd29f2507afe1116e547e1a80.jpg> 根拠のない地震予言 防災相が注意
+      <a href=https://news.yahoo.co.jp/pickup/6536670>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ad1796ed0d86f9931b7e3c9cf190acbf5f41e619b54e5bb7b51b0f6e429e6316.jpg> 「言葉出ない」4人死亡事故に涙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536662>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ad1796ed0d86f9931b7e3c9cf190acbf5f41e619b54e5bb7b51b0f6e429e6316.jpg> 4人死亡事故 友人涙ながらに献花
+      <a href=https://news.yahoo.co.jp/pickup/6536667>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/c432a654ec105bbf03554cacc7c8b99944c5a6bf3130ad3b6d250f0345c57e3b.jpg> JR大阪駅前 ヨドバシ看板燃える
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536651>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/8026f3a63a0a3f9da40aeb7eaa13cd360367475694df1fc9b1340a1acc5518ba.jpg> ダウンタウン なぜYouTube選ばず
+      <a href=https://news.yahoo.co.jp/pickup/6536665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/2a53a8c6f7bd4d97916c8e631637e909eb2244ed3e1feeddf26a34c7337584d9.jpg> 有村架純が関西弁でツッコミ 沸く
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 20:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 20:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
