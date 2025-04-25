@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2552d5b1871fcfe475f28bc5ddefc6df.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3133a8e020f8e23686568fe98a6aa96a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60a37af0cad6d56523fff0bf71a0d12b4253e2c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000086-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 「めちゃくちゃや！」　アマゾンが勝手に正規品削除、販売業者の思い
+      <a href=https://news.yahoo.co.jp/articles/5591147bad459590feefbe7b0d041a24cd7f26fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000094-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「学生の街」に驚き　京都ノートルダム女子大　学生募集停止へ
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536660>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/c7a6a61b4e50d1e3a1c10b0e09b054cc096c75e72b34952b1887f28073e12582.jpg> 感激 西京銀行1300億円の預金増
+      <a href=https://news.yahoo.co.jp/pickup/6536677>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/7cb496e410f74a51fc08b2393215eadacb1671ee4e80aeb1a068b8f32b090da0.jpg> 学生「まさか」募集停止の女子大
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ef5cdf2d725838d9a0f8baa4ac7e9c88ead63642ae04f7729636072df3aa1d56.jpg> 成宮寛貴 約10年ぶり舞台あいさつ
+      <a href=https://news.yahoo.co.jp/pickup/6536675>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ef5cdf2d725838d9a0f8baa4ac7e9c88ead63642ae04f7729636072df3aa1d56.jpg> 成宮寛貴が舞台あいさつ 大歓声
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 21:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 21:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
