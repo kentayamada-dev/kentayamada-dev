@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/fzePAvEcUOc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c24d26bd057d0382f435772359dfa81f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2552d5b1871fcfe475f28bc5ddefc6df.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4e92d5cbc0eaf0c24dff16822c1400bff30b05f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-90022974-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「120キロ程度スピードは出ている」19歳と20歳の自動車整備科の訓練生4人が死亡　道路から転落、水門に衝突　専門家「出すスピードとしては危険すぎる」
+      <a href=https://news.yahoo.co.jp/articles/60a37af0cad6d56523fff0bf71a0d12b4253e2c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000086-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=530&ch=530&exp=10800&fmt=webp> 「めちゃくちゃや！」　アマゾンが勝手に正規品削除、販売業者の思い
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/199eddfc0ac8dc2b7e8dab6bec4d9fd6cfcfef5e6774b650d12d0680e6a60320.jpg> 高市氏ら減税触れる 政局的色合い
+      <a href=https://news.yahoo.co.jp/pickup/6536664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462708_1610462695_aflo_109260004.jpg> 閣僚14人が外遊へ 必要性に疑問も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/0c30d088de309e551012e0bd77fe49da95c624c613d9be4f7bca8f87669072af.jpg> 爆殺か ロシア軍の参謀次長が死亡
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536649>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/5d0e35be869cb58a0dd17d6bfc896eca7a688d0a192a81479f29f310734171aa.jpg> デヴィ夫人が設立の政党 解散発表
+      <a href=https://news.yahoo.co.jp/pickup/6536671>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/111ae55c97ab34e30862871646a74ad1c61570c4558af4783b7728b5cb424cc4.jpg> チンパンジーが宴会か 世界初映像
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536653>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/0e29b427ab8a99cd066f77b1aeb9577e98fe039dc9c9e33ad5ba4b255ceeb990.jpg> 江夏豊氏にどよめき 車いすを立つ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/2a53a8c6f7bd4d97916c8e631637e909eb2244ed3e1feeddf26a34c7337584d9.jpg> 有村架純が関西弁でツッコミ 沸く
+      <a href=https://news.yahoo.co.jp/pickup/6536641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ef5cdf2d725838d9a0f8baa4ac7e9c88ead63642ae04f7729636072df3aa1d56.jpg> 成宮寛貴 約10年ぶり舞台あいさつ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 20:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 21:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
