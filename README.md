@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2006214d54243eafddf63e248e09f389.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a40aa920c641fedccb4009d7bee48594.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aca5c48f68f9f5deda8d9a3ec4b5fff7969017e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000018-mynavin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『THE SECOND』“一番無名”ツートライブはダークホースになるか　『ごめんね青春!』満島ひかり髪型にスター感
+      <a href=https://news.yahoo.co.jp/articles/b2a595f6be07e9ebad0f4f8b6085c1ca28e39bd9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000104-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ関税巡る日米交渉「2段階」で　早期成果狙い、政府検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2a595f6be07e9ebad0f4f8b6085c1ca28e39bd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000104-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ関税巡る日米交渉「2段階」で　早期成果狙い、政府検討
+      <a href=https://news.yahoo.co.jp/articles/89bc74b438bced8a72b7ee88ac8d3ab9878de080>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00963575-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 120キロ出ていたか…自動車整備科の19歳と20歳の訓練生4人死亡　堤防道路から転落、水門に衝突　専門家「出すスピードとしては危険すぎる」
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536681>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ffde8c855e95a871000bc0f0ec0f17df77a914bf80f71ca89e71ad6292bc5771.jpg> Switch2偽当選通知に注意 任天堂
+      <a href=https://news.yahoo.co.jp/pickup/6536671>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/111ae55c97ab34e30862871646a74ad1c61570c4558af4783b7728b5cb424cc4.jpg> チンパンジーが宴会か 世界初映像
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536671>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/111ae55c97ab34e30862871646a74ad1c61570c4558af4783b7728b5cb424cc4.jpg> チンパンジーが宴会か 世界初映像
+      <a href=https://news.yahoo.co.jp/pickup/6536680>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/70d1a31e228d46a85a031badb36bd1c45860852b3eb70e78a76524aa3229178a.jpg> 「THE SECOND」組み合わせ決定
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 22:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 23:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
