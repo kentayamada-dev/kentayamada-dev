@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0fa37afab906ab0ac25380cacf925d57.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5178ca059bad90e11872595091701b6d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e82b3f9943408ae67fb0ebe5017ac8763c87269>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00050149-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 欧州とウクライナが和平案まとめる、「領土」「対露制裁緩和」より「停戦」優先…米国案と溝
+      <a href=https://news.yahoo.co.jp/articles/274a9cae078c581238b07875ec5b6d39ab5d3b73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232937-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナ和平案　米・欧州で大きな隔たり
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/89bc74b438bced8a72b7ee88ac8d3ab9878de080>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00963575-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 120キロ出ていたか…自動車整備科の19歳と20歳の訓練生4人死亡　堤防道路から転落、水門に衝突　専門家「出すスピードとしては危険すぎる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00963575-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 120キロ出ていたか…自動車整備科の19歳と20歳の訓練生4人死亡　堤防道路から転落、水門に衝突　専門家「出すスピードとしては危険すぎる」
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536682>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/a5c3b9bd1f8ae7b3d108adc1061736363867a02733df0d0588634508393ed8b6.jpg> プーチン氏 米特使と4回目の会談
+      <a href=https://news.yahoo.co.jp/pickup/6536688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/7b59fadb870dbb208cfa7e76fe445e5125a7313ce3b4eb5b6620b365984e2867.jpg> ウクライナ和平案 米と欧州に溝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/819018eb1ec7bb026ac469a0183d2538cd9a749c9fe234334af43192f00e5c4a.jpg> 赤沢氏 再訪米アポなく与党根回し
+      <a href=https://news.yahoo.co.jp/pickup/6536683>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/706f30b6ebc93422f7ecaad30cb733f1c870d0ca1fbd5932ef60168f1f5932ca.jpg> 脱線で犠牲の娘へ 母の日記25冊超
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536671>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/111ae55c97ab34e30862871646a74ad1c61570c4558af4783b7728b5cb424cc4.jpg> チンパンジーが宴会か 世界初映像
+      <a href=https://news.yahoo.co.jp/pickup/6536687>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> アザラシが鳥インフルに感染 根室
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 23:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 23:51:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
