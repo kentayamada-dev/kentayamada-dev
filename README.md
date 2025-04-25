@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/fzePAvEcUOc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/062ba08965f644e72dcfca4ec5bbd5ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/912e9b865f6e681bc2ff180c78590f9a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/889bcf26277b1212db1105df4e283fd85dce5c92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232741-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「ウラジーミル、やめろ」　ロシアによるウクライナ・キーウへの攻撃を非難　停滞するロシアとウクライナの和平交渉に呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/83c8cd666673016f3f69350f68a11248de8d60fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00050061-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏、ロシアは停戦意向との見解…「ウクライナ全体を奪うことをやめた」「かなり大きな譲歩」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29901872ee770599a14f0dcd42ac05bdd6e8cb48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000029-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 2回目の日米協議で自動車会社の投資計画提示へ　緊急の国内対策取りまとめ
+      <a href=https://news.yahoo.co.jp/articles/f12d644923e1a2c4508f430c089ec9d0d040f023>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00963164-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 政府「緊急対応パッケージ」を決定　トランプ政権の関税措置を受け…企業の資金繰り支援など柱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c6cea65f8d7b4fd64576eb4b2369770f9b423860>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00963149-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 日本郵便の“不適切点呼”問題で国交省が調査結果報告後初の特別監査　東京・港区の高輪郵便局を立ち入り検査
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f2abb64f4b859f2bd4a238cb650e80f48b200d8a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232745-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”に関して政府が「緊急対応パッケージ」決定 「雇用維持」や「資金繰り支援」など5本柱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d47685c0bde84036d77120e6c99ce68f36c4283>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00050044-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 発がん性指摘のＰＦＯＳとＰＦＯＡ、２２都府県の２４２地点で国の暫定目標値超え…２３年度
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536597>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/fa8f9f216c1dad58833185511b648133bc8172f27b8d01d8c710b946554d2683.jpg> 13人乗った軽トラ横転 8人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6536612>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/87d1da5e5d9d0aa3679e2bfb980acd128e644e10e65df48573ccafc92f6774b1.jpg> 相乗り出品巡りAmazonに賠償命令
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536612>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/87d1da5e5d9d0aa3679e2bfb980acd128e644e10e65df48573ccafc92f6774b1.jpg> 相乗り出品巡りAmazonに賠償命令
+      <a href=https://news.yahoo.co.jp/pickup/6536616>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/c7f4b9aba26dc653820d24e7126c817680927709a610140f3da4ae8aae6b3cca.jpg> 40代男性 タクシーにはねられ死亡
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 12:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 13:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
