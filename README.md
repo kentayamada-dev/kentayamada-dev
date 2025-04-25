@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d5c283e5a5b1f65dc9ff88802f19e783.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aed36649e49e4acb761bde2ce0c54dbf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7cb654f4e21737bec64ebbda98b1705d373f28f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> プーチン大統領“露とウクライナによる直接協議”米特使と議論も
+      <a href=https://news.yahoo.co.jp/articles/6f1a31f815dc77fe879831b86b3fa5ee717d4835>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-34260110-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1287&ch=1287&exp=10800&fmt=webp> 三四郎・相田周二が直筆書面でも結婚報告「これからは夫婦２人とネコ２匹、そして相方小宮浩信と」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/872917b93821f23938756e35121f675d9ae04a15eef08d1e49b7c8fbd1c33dec.jpg> 万博で女性が心肺停止 病院で死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536672>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/851688a63e0ee5ed022c1509cec48244cc1e7b29d65839d5110b04b20c3d0505.jpg> アマゾンに正規品消され 業者思い
       </a>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536687>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> アザラシが鳥インフルに感染 根室
+      <a href=https://news.yahoo.co.jp/pickup/6536690>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ee5fbbe8575e0283290f3332a678b7ab7b358ff45a30964cf70f7de5ab3ccc92.jpg> 浜田雅功 5月ごぶフェスで復帰へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536671>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/111ae55c97ab34e30862871646a74ad1c61570c4558af4783b7728b5cb424cc4.jpg> チンパンジーが宴会か 世界初映像
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536680>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/70d1a31e228d46a85a031badb36bd1c45860852b3eb70e78a76524aa3229178a.jpg> 「THE SECOND」組み合わせ決定
+      <a href=https://news.yahoo.co.jp/pickup/6536692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/6ea06206941b47cd001029cf46d8c875a96da2c472f520b45b159108caf5db3f.jpg> 三四郎・相田 ラジオで結婚発表
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 07:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 07:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
