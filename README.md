@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/06922b02186a0d02d9b6136591f3f9a2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fc623d6fd1728f9fcb6c35d18dbe7a70.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/246ff67b756ed07b5875b128e6c24fcd69dd7265>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 「ウラジーミル、やめろ！」 トランプ大統領 ロシアのキーウ攻撃に不満表明
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e15081f01dee2b82d05856692e96362684af80e7>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be38e1bfb8eae57b68d11ac4c9de1099fe282cfd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000000-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=1536&ch=1536&exp=10800&fmt=webp> 「ウラジーミル、やめろ！」 トランプ氏、ロシアのキーウ攻撃に不満表明
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/23790a959b8c320b755595db90e2cab02b25778d4af3668137f2e6e254a908dc.jpg> 関税交渉 トウモロコシ輸入拡大案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536595>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/98fd62ae45804b434079e6dbc514b500e2a0ac85d7bd82aeb1e364e1d0653708.jpg> トランプ氏 キーウ攻撃に不満示す
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536593>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/51b7c9c0cf591c11ff931bced45eb4853e1ed64ed8579a63befd0bdbe3e75baa.jpg> 米インテル赤字2倍 人員削減へ
+      <a href=https://news.yahoo.co.jp/pickup/6536599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/aa7d2d6e652acd65844fd35b3d7851a3ef66a8a7e5a0732d1422469481800b9b.jpg> 仏の高校 生徒が切りつけ1人死亡
       </a>
     </td>
   </tr>
@@ -434,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536602>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/a354c3b75891ac34d170b0d109324d8f51ad601b17d0df04ea66d04d00603494.jpg> 米でSwitch2予約開始 店で行列
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536596>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/484bc1e522af88577348883acd99ba29f05cf4740636d43703f1fa26dfdc5e09.jpg> 井上尚弥の粋な返し 米記者興奮
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536603>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/1830fba28e1eddfbaf6e92f96927dd7a43849d49d60bfe4affa38688731a498a.jpg> 河合優実の1年「成長より反省」
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/084b67682cdea10df8eb613baccd8c74f5d3256ae0500bf18cdc8f2115363bfb.jpg> ダウンタウン 夏にもネット配信
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 10:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 11:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
