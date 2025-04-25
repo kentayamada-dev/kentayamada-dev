@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e4051d5396eb2f02ec0f545be5ea253e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a06e9e3443da6e721f1224724d51e597.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 05:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 06:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
