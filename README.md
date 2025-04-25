@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b6f17efb1d9db1452e15b8e4f5db8822.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2006214d54243eafddf63e248e09f389.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b02b325df47c77795f527c39097f93f422f0699>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000096-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=97&cw=537&ch=537&exp=10800&fmt=webp> 石破首相、ベトナム・フィリピン外遊へ　トランプ関税巡り連携確認
+      <a href=https://news.yahoo.co.jp/articles/aca5c48f68f9f5deda8d9a3ec4b5fff7969017e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000018-mynavin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『THE SECOND』“一番無名”ツートライブはダークホースになるか　『ごめんね青春!』満島ひかり髪型にスター感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b55eedbb699433f1fc4967df154f6f81e7dd29a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00050128-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=97&cy=0&cw=319&ch=319&exp=10800&fmt=webp> デヴィ夫人が代表の政治団体「１２平和党」、解散発表…「皆様に心よりおわび」
+      <a href=https://news.yahoo.co.jp/articles/b2a595f6be07e9ebad0f4f8b6085c1ca28e39bd9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000104-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ関税巡る日米交渉「2段階」で　早期成果狙い、政府検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61dddbc637b173a6b123d692377988b5a922063e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-03863398-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ファミレスのピザにカタツムリ混入　店側が謝罪　具材のベビーリーフに付着か
+      <a href=https://news.yahoo.co.jp/articles/05bdbbc68b972ae829f26c109aeede525582c260>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ウィットコフ特使、プーチン氏にウクライナ和平案を説明か　モスクワで会談
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536682>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/a5c3b9bd1f8ae7b3d108adc1061736363867a02733df0d0588634508393ed8b6.jpg> プーチン氏 米特使と4回目の会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536678>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/2769ca688ccf2099ae0e0ba05c2ba8c790d2a4d7c22f322f96c0a44f670afd45.jpg> 日米財務相会談 布石2つと幸運1つ
       </a>
@@ -402,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536669>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/51e7032fa98a2cdaa1af49228458d7430a9b61b5bf55753e72efccf76b24d308.jpg> 八潮陥没 救助阻んだ4つの想定外
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536670>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ad1796ed0d86f9931b7e3c9cf190acbf5f41e619b54e5bb7b51b0f6e429e6316.jpg> 「言葉出ない」4人死亡事故に涙
+      <a href=https://news.yahoo.co.jp/pickup/6536666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/819018eb1ec7bb026ac469a0183d2538cd9a749c9fe234334af43192f00e5c4a.jpg> 赤沢氏 再訪米アポなく与党根回し
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536671>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/111ae55c97ab34e30862871646a74ad1c61570c4558af4783b7728b5cb424cc4.jpg> チンパンジーが宴会か 世界初映像
+      <a href=https://news.yahoo.co.jp/pickup/6536681>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ffde8c855e95a871000bc0f0ec0f17df77a914bf80f71ca89e71ad6292bc5771.jpg> Switch2偽当選通知に注意 任天堂
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536676>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/6b1e3ddc7b96bf3c35398cd1c08d2cd2ca5872af30b7750df72c3d0b74d91ca2.jpg> 山下達郎 ライブが唯一の存在証明
+      <a href=https://news.yahoo.co.jp/pickup/6536671>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/111ae55c97ab34e30862871646a74ad1c61570c4558af4783b7728b5cb424cc4.jpg> チンパンジーが宴会か 世界初映像
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 22:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 22:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
