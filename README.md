@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e7503be1f469a29398d48282a8d5b57a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fc2eaa651f6d9e91f0b2f893d4d70826.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f7638e111fc7e43d6a40466ec94807851470afe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00963627-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=507&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「領有権の問題は停戦後に協議すべき」　ウクライナと欧州諸国の和平案判明とロイター通信が報じる　アメリカとの立場の違い明らかに
+      <a href=https://news.yahoo.co.jp/articles/c774da253c5c915c182c2f6488a120daf3b19cc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000001-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=343&ch=343&exp=10800&fmt=webp> ダウンタウン、今夏までに復帰へ ネット配信サービス「ダウンタウンチャンネル（仮称）」始動へ 配信前に活動再開も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/24413f4c21b3ed56a10630684aa8c590f6dea010>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000012-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=890&ch=890&exp=10800&fmt=webp> ウクライナ、鉱物資源協定まだ署名せず　トランプ氏「直ちに署名を」
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 04:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 05:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
