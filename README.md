@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fc2eaa651f6d9e91f0b2f893d4d70826.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4051d5396eb2f02ec0f545be5ea253e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c774da253c5c915c182c2f6488a120daf3b19cc6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000001-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=343&ch=343&exp=10800&fmt=webp> ダウンタウン、今夏までに復帰へ ネット配信サービス「ダウンタウンチャンネル（仮称）」始動へ 配信前に活動再開も
+      <a href=https://news.yahoo.co.jp/articles/13cafac7282c31f19d03511416f43af6f1aa2de8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00342370-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=1071&ch=1071&exp=10800&fmt=webp> 【阪神】佐藤輝明「ミスタータイガース」前進の豪快８号　ＯＢ田淵幸一氏が語った〝襲名〟の条件
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 05:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 05:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
