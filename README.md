@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bee534a53fc718409ace1ad20652470f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4a80b24a63b929d0909fb3e0596b5649.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4f0288e4968cf141376406eac7d198be01b15797>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 領土交渉より和平の実現優先…ウクライナとヨーロッパ各国がまとめた和平案提示　ロイター通信
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-04487268-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=331&ch=331&exp=10800&fmt=webp> 領土交渉より和平の実現優先…ウクライナとヨーロッパ各国がまとめた和平案提示　ロイター通信
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 00:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 01:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
