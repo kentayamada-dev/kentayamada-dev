@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5178ca059bad90e11872595091701b6d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bee534a53fc718409ace1ad20652470f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/274a9cae078c581238b07875ec5b6d39ab5d3b73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232937-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナ和平案　米・欧州で大きな隔たり
+      <a href=https://news.yahoo.co.jp/articles/4f0288e4968cf141376406eac7d198be01b15797>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 領土交渉より和平の実現優先…ウクライナとヨーロッパ各国がまとめた和平案提示　ロイター通信
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/89bc74b438bced8a72b7ee88ac8d3ab9878de080>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00963575-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=208&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 120キロ出ていたか…自動車整備科の19歳と20歳の訓練生4人死亡　堤防道路から転落、水門に衝突　専門家「出すスピードとしては危険すぎる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f82417fc54e07489083489f5790f811e90293f9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000078-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 兵庫・斎藤知事、パワハラ研修は5月に受講へ　公益通報者保護など
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536680>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/70d1a31e228d46a85a031badb36bd1c45860852b3eb70e78a76524aa3229178a.jpg> 「THE SECOND」組み合わせ決定
+      <a href=https://news.yahoo.co.jp/pickup/6536671>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/111ae55c97ab34e30862871646a74ad1c61570c4558af4783b7728b5cb424cc4.jpg> チンパンジーが宴会か 世界初映像
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536634>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ea00e70d5b3dafffafb44041664e3a1f942d909a4a6d2fea9a945dc55e9b9d83.jpg> TBS報告 アナに出演者が身体接触
+      <a href=https://news.yahoo.co.jp/pickup/6536680>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/70d1a31e228d46a85a031badb36bd1c45860852b3eb70e78a76524aa3229178a.jpg> 「THE SECOND」組み合わせ決定
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 23:51:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 00:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
