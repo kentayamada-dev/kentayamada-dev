@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aed36649e49e4acb761bde2ce0c54dbf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b37c09e9f46309b1ba489e429c7d964a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f1a31f815dc77fe879831b86b3fa5ee717d4835>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-34260110-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1287&ch=1287&exp=10800&fmt=webp> 三四郎・相田周二が直筆書面でも結婚報告「これからは夫婦２人とネコ２匹、そして相方小宮浩信と」
+      <a href=https://news.yahoo.co.jp/articles/4124a08b86b32c44a4be85944434cae9435b2b87>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000055-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=1037&ch=1037&exp=10800&fmt=webp> 【内田雅也の追球】「青春」の血が騒いだ。
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a61a2e42f68c7a0f64857ca0f07d18abde0a5ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-34252092-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=766&ch=766&exp=10800&fmt=webp> 【虎になれ】あのとき近本がコケたわけは…　レジェンズデー快勝に隠れた大仕事
+      <a href=https://news.yahoo.co.jp/articles/78df316b09e09e1b1cc3cb1f4b44e762c0c75dfa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000088-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=63&cw=787&ch=787&exp=10800&fmt=webp> 三四郎・相田周二が結婚報告「公私ともに一層の精進を」　6年間の交際経て一般女性と　ANNでも生発表
       </a>
     </td>
   </tr>
@@ -378,24 +378,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/7255a35ad0864dcf2229be80d058590da2c2f3f8aa6609453c308b99d7375b2c.jpg> トランプ氏 日本との合意「近い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/3e3ae172e7bfb384fef518790fa429804bee17b3b1d9d3cabab8b6e2626eb75a.jpg> 「消費税減税」参院選控え各党は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/4125488bc65ec483dd4332533ed3c99baa57edf25c56c74ce850eb21e290b6b7.jpg> 日産が武漢工場撤退へ 稼働率低迷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536688>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/7b59fadb870dbb208cfa7e76fe445e5125a7313ce3b4eb5b6620b365984e2867.jpg> ウクライナ和平案 米と欧州に溝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/706f30b6ebc93422f7ecaad30cb733f1c870d0ca1fbd5932ef60168f1f5932ca.jpg> 脱線で犠牲の娘へ 母の日記25冊超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536677>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/7cb496e410f74a51fc08b2393215eadacb1671ee4e80aeb1a068b8f32b090da0.jpg> 学生「まさか」募集停止の女子大
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536672>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/851688a63e0ee5ed022c1509cec48244cc1e7b29d65839d5110b04b20c3d0505.jpg> アマゾンに正規品消され 業者思い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536679>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/6535b6ef2774f0a46084911687ce7a106811c37a90df8768a00015a0402151cd.jpg> デヴィ夫人「おわび」政党が解散
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 07:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 08:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
