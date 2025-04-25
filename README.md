@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/445248a56d3b6e5a47c97454ef2d58a9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/06922b02186a0d02d9b6136591f3f9a2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/505334d839f7b326c7956945d9aa52b79cccb248>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000122-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=745&ch=745&exp=10800&fmt=webp> カズレーザー　ながらスマホ罰金1万2千円、運転免許なく道交法「分かってない…自転車に乗らないように」
+      <a href=https://news.yahoo.co.jp/articles/e15081f01dee2b82d05856692e96362684af80e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=501&ch=501&exp=10800&fmt=webp> 石破首相「日米の利益につながるよう準備を」　トランプ関税交渉
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3b25de47b6971316828932e91c0e1ed12d91176>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000032-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 政府、米関税で緊急対応策　資金繰り支援、消費喚起も
+      <a href=https://news.yahoo.co.jp/articles/cd0963aa6f7b2883a58bab80a88bb5dce4819784>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000128-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 谷原章介　自転車の交通違反に反則金「免許持ってなくて講習受けてない人にいきなり…どうなんだろう」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/181d02fa37c4c2a291c91b1bc10d90b502184436>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232720-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 日米財務相会談　約50分の中で「為替の目標や水準の話は出なかった」 加藤財務大臣とベッセント財務長官の初会談
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/abd16fc1d6abc2b8e01174d2a24967dfda1436ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00010004-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=331&cy=0&cw=1274&ch=1274&exp=10800&fmt=webp> 海外記者たちを沸かせた「怪物の一言」 井上尚弥の“最高のセリフ”に米絶賛「たちまち場の雰囲気が一変した。彼はスターだ」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/23790a959b8c320b755595db90e2cab02b25778d4af3668137f2e6e254a908dc.jpg> 関税交渉 トウモロコシ輸入拡大案
+      <a href=https://news.yahoo.co.jp/pickup/6536601>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/9e9b76ecb5675759b16dc328184656d562988c1d8490ca04517333ce7eb3f7ef.jpg> 財務相会談 米は円安是正を求めず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/759139ea5c5761dd50bd5964486579d622e07ec851655c75f67c2cf410db9edf.jpg> 食料品消費税0% 立憲公約決定へ
+      <a href=https://news.yahoo.co.jp/pickup/6536591>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/23790a959b8c320b755595db90e2cab02b25778d4af3668137f2e6e254a908dc.jpg> 関税交渉 トウモロコシ輸入拡大案
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536589>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/3d3e1ec14bead3549eada2126c9cf16483adc10b57900f581ec3c6ab89a41549.jpg> 死亡ひき逃げ事件 出頭の男を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6536597>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/fa8f9f216c1dad58833185511b648133bc8172f27b8d01d8c710b946554d2683.jpg> 13人乗った軽トラ横転 8人搬送
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536597>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/fa8f9f216c1dad58833185511b648133bc8172f27b8d01d8c710b946554d2683.jpg> 13人乗った軽トラ横転 8人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6536596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/484bc1e522af88577348883acd99ba29f05cf4740636d43703f1fa26dfdc5e09.jpg> 井上尚弥の粋な返し 米記者興奮
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 10:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 10:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
