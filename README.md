@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b37c09e9f46309b1ba489e429c7d964a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7394c581bac28b3b044d4095b432d1f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4124a08b86b32c44a4be85944434cae9435b2b87>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000055-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=1037&ch=1037&exp=10800&fmt=webp> 【内田雅也の追球】「青春」の血が騒いだ。
+      <a href=https://news.yahoo.co.jp/articles/8de14a3c43609b7ceb8a4552dd5b110d61c858e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000033-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1984&ch=1984&exp=10800&fmt=webp> 江夏豊氏の姿にファン感動「涙涙涙です」「いつまでもお元気で」車椅子＆酸素吸入機つけて甲子園のマウンドへ「昭和世代ファン号泣」のシーン
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/78df316b09e09e1b1cc3cb1f4b44e762c0c75dfa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000088-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=63&cw=787&ch=787&exp=10800&fmt=webp> 三四郎・相田周二が結婚報告「公私ともに一層の精進を」　6年間の交際経て一般女性と　ANNでも生発表
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000088-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=63&cw=787&ch=787&exp=10800&fmt=webp> 三四郎・相田周二が結婚報告「公私ともに一層の精進を」　6年間の交際経て一般女性と　ANNでも生発表
       </a>
     </td>
   </tr>
@@ -380,6 +380,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536694>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/7255a35ad0864dcf2229be80d058590da2c2f3f8aa6609453c308b99d7375b2c.jpg> トランプ氏 日本との合意「近い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536698>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/768fe72b17aa4d45bb36565c25cc23f02503cf947aeddd41073000cff2b1d395.jpg> 米産トウモロコシなど 輸入拡大案
       </a>
     </td>
   </tr>
@@ -402,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/7b59fadb870dbb208cfa7e76fe445e5125a7313ce3b4eb5b6620b365984e2867.jpg> ウクライナ和平案 米と欧州に溝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536691>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/872917b93821f23938756e35121f675d9ae04a15eef08d1e49b7c8fbd1c33dec.jpg> 万博で女性が心肺停止 病院で死亡
       </a>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536672>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/851688a63e0ee5ed022c1509cec48244cc1e7b29d65839d5110b04b20c3d0505.jpg> アマゾンに正規品消され 業者思い
+      <a href=https://news.yahoo.co.jp/pickup/6536700>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/8f7e4f01286df469b5ba0b79f0ee341392b4c8a489978cf56f416b4587f914b7.jpg> 豪の山火事 コアラ約700頭殺処分
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 08:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 08:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
