@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/597d4182829a3fda4580bb375c9fc702.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fdd274f43c9ce69b3f2c58c476049014.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/74a55c0ce05be516db02d8f8661edcae82d8cc9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232813-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税うけ政府が緊急対応パッケージ決定も…「コメが交渉カードになること許されない」と自民党内からけん制の声相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aff2f0ca0653b9b7bf2a6608aee6459347ae76a0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000488-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=871&ch=871&exp=10800&fmt=webp> 成宮寛貴、多忙極める瀧本美織を激励「今を生きろ！」　遠い目をした瞬間に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/46bd31f461d7c2e5b9f508f016599c2434441d7f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-21878506-bss-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ファミレスのピザに「カタツムリ」混入　寄生虫による「住血線虫症」専門家が危険性指摘　重症化すると麻痺や失明などの後遺症も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d501ad6f91a2bd1fc10e659e4a72f6106add2d78>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-90019017-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=652&ch=652&exp=10800&fmt=webp> 【速報】斎藤知事らのハラスメント特別研修　5月12日に実施　これまで求められてから4カ月実施されず
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77e4fc88ad829f82d839cfad0d964a17f7decba8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-04251085-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1161&ch=1161&exp=10800&fmt=webp> 役所広司、役作りのこだわりは「作品の中での存在感のためにいろいろと準備する」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7995649d18d7a831e0204744b4aae71542ab902f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-02434263-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 大手ファミレス「ジョイフル」ピザにカタツムリ混入で謝罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ab7615262a569c017ffc89691ec1a438c19f9386>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000020-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ロシア外相、ウクライナと「合意の用意ある」 米CBSインタビュー
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f12d644923e1a2c4508f430c089ec9d0d040f023>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00963164-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 政府「緊急対応パッケージ」を決定　トランプ政権の関税措置を受け…企業の資金繰り支援など柱
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536620>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tadafumiaki/02184600/title-1745541175618.jpeg?exp=10800> 警察かたる詐欺被害続出 手口分析
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/631ce16adec645987eefb05da8a5bc74c2faa7982790be4553a4ee7683854983.jpg> 誤った血管切断で小腸壊死 提訴へ
+      <a href=https://news.yahoo.co.jp/pickup/6536644>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/b6e2911537770b73072a8fcbb160432e509b26134ccaa2952226d24ddd8e3c64.jpg> 4人死亡事故 車の購入を悔やむ父
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536634>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ea00e70d5b3dafffafb44041664e3a1f942d909a4a6d2fea9a945dc55e9b9d83.jpg> TBS報告 アナに出演者が身体接触
+      <a href=https://news.yahoo.co.jp/pickup/6536628>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/3a720073a8f9ddc44cfa772245501accfaeabcb14c1be6b7efb0d66e0e723f57.jpg> ばんえい競馬で馬インフルエンザ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/92de8844dc08498941e631275182645ce0ca02ff8e38ce6cedd908af348ce0b5.jpg> ダウンタウン 夏までに活動再開へ
+      <a href=https://news.yahoo.co.jp/pickup/6536635>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/acc09cd2ce061d4d308538efb44e0d7bae9382ea05a9a602bc8003b9ab29e1a5.jpg> 役所広司わざとNG 監督明かす姿
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536634>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ea00e70d5b3dafffafb44041664e3a1f942d909a4a6d2fea9a945dc55e9b9d83.jpg> TBS報告 アナに出演者が身体接触
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 16:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 17:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
