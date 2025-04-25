@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2017711ed5992a2e4ea886008631cdca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/da922e815569c6b8e7b5ceff11f5ce37.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fa3a9ce23ab99f74a579f6cdac6f6b1fec7e201d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000298-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=23&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 阪神　甲子園のレジェンズデーに江夏氏がサプライズ登場　田淵、掛布両氏とセレモニー
+      <a href=https://news.yahoo.co.jp/articles/4e97731403b28589df129f37a983451446284d9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000107-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> トランプ氏に拉致解決要請のトクダ議員インタビュー要旨　「全員帰国まで解決しない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06cf0f8f4e0db137fc870b208df72b02205b21fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000177-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=1769&ch=1769&exp=10800&fmt=webp> 政府、米国産大豆の輸入拡大検討　トウモロコシも
+      <a href=https://news.yahoo.co.jp/articles/c7564035d9607de41ac504c389f724f87ee3642c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000075-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=426&ch=426&exp=10800&fmt=webp> パワハラ認定の斎藤知事　5月に研修実施へ　公益通報者保護制度も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5003e7779bca57f0814c103c6f213830866adc7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-21878651-bss-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「タバスコをかけたらベビーリーフがもぞもぞと…」　ファミレス「ジョイフル」で注文したピザに「カタツムリ」が混入　男性が動画をSNSに投稿したワケは?
+      <a href=https://news.yahoo.co.jp/articles/599f6769697d910040b0920658ae0f325f997e77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-90018870-tsk-000-1-thumb.jpg?exp=10800&fmt=webp> 【独自取材】ファミレスのピザからウネウネ…カタツムリ混入「危険な寄生虫の恐れ」注意喚起で動画投稿
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d501ad6f91a2bd1fc10e659e4a72f6106add2d78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-90019017-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=266&cy=0&cw=652&ch=652&exp=10800&fmt=webp> 【速報】斎藤知事らのハラスメント特別研修　5月12日に実施　これまで求められてから4カ月実施されず
+      <a href=https://news.yahoo.co.jp/articles/a4a4e3992efe69f6b537b8e5d2a94b7b5ee20681>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000095-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=762&ch=762&exp=10800&fmt=webp> 政府、米関税で緊急総合対策を決定　資金繰り支援や消費喚起　首相「必要な支援に万全を」
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536645>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/7a32dfc85c79a7a36ce2649c351fd593ba1d8130520c4b81c6bdfe2417eb1c07.jpg> 「火山灰警報」新設へ 気象庁方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536654>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/9da642e9382d27f5ac500c2b9a07e063f8afdd7ce6ce7da453f7e35e7d0313d3.jpg> 米議員17人 拉致巡り大統領に書簡
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536634>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ea00e70d5b3dafffafb44041664e3a1f942d909a4a6d2fea9a945dc55e9b9d83.jpg> TBS報告 アナに出演者が身体接触
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 18:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 19:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
