@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f315b073484fc5cf9e5ae766bac33166.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e7557e1f818162c97b6deae89e5ed83e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6a97fd89f33693aee51caa164d4016c593418235>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=428&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 政府がトランプ関税対策で5本柱の『緊急対応パッケージ』を決定：セーフティーネットの強化が重要
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f2abb64f4b859f2bd4a238cb650e80f48b200d8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232745-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “トランプ関税”に関して政府が「緊急対応パッケージ」決定 「雇用維持」や「資金繰り支援」など5本柱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bbdc436281e6adcb3d1ac315893d47ff0f54d778>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00050042-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=378&ch=378&exp=10800&fmt=webp> 格安の偽造パルスオキシメーター出品放置で損害、アマゾンに３５００万円支払い命じる判決…東京地裁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5222d953e1e46c83b65e90847b857dbdd61f32b7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-16944969-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=450&ch=450&exp=10800&fmt=webp> トランプ氏、ロシアのキーウ空爆に「不満」表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e15081f01dee2b82d05856692e96362684af80e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=501&ch=501&exp=10800&fmt=webp> 石破首相「日米の利益につながるよう準備を」　トランプ関税交渉
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd0963aa6f7b2883a58bab80a88bb5dce4819784>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000128-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 谷原章介　自転車の交通違反に反則金「免許持ってなくて講習受けてない人にいきなり…どうなんだろう」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/181d02fa37c4c2a291c91b1bc10d90b502184436>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232720-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 日米財務相会談　約50分の中で「為替の目標や水準の話は出なかった」 加藤財務大臣とベッセント財務長官の初会談
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536595>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/98fd62ae45804b434079e6dbc514b500e2a0ac85d7bd82aeb1e364e1d0653708.jpg> トランプ氏 キーウ攻撃に不満示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/aa7d2d6e652acd65844fd35b3d7851a3ef66a8a7e5a0732d1422469481800b9b.jpg> 仏の高校 生徒が切りつけ1人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536605>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/9e9b76ecb5675759b16dc328184656d562988c1d8490ca04517333ce7eb3f7ef.jpg> 米財務長官 円安是正へ目標求めず
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536602>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/a354c3b75891ac34d170b0d109324d8f51ad601b17d0df04ea66d04d00603494.jpg> 米でSwitch2予約開始 店で行列
+      <a href=https://news.yahoo.co.jp/pickup/6536612>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/87d1da5e5d9d0aa3679e2bfb980acd128e644e10e65df48573ccafc92f6774b1.jpg> 相乗り出品巡りAmazonに賠償命令
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/d436053306a7ef0828d68a56a4a3e412914bc029fb9416e5249fba45152016bd.jpg> 「国語便覧」過去最速で完売 なぜ
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/1830fba28e1eddfbaf6e92f96927dd7a43849d49d60bfe4affa38688731a498a.jpg> 河合優実の1年「成長より反省」
+      <a href=https://news.yahoo.co.jp/pickup/6536610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/90c160c9be3f115b48878283d26b70c39edfd00e896bf80ac46bb8d8f783b516.jpg> 異例 巨人・浅野翔吾が3軍降格
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536594>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/12178c6cc13e6c22974bf61bc6ada191dcfb2a8fba616afe6897899cee72806c.jpg> ささきいさお復帰 一時は死を覚悟
+      <a href=https://news.yahoo.co.jp/pickup/6536609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/dcdf278e94c332c0fb61f24f8699b90ba4d02bce6362830989535c9c81f5e1ab.jpg> ビューティーポップ 17年ぶり連載
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 11:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 12:00:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
