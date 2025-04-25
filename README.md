@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/330ac7f2dbe31dcdd05fa4e7a0372860.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/139023541e9449e65635b5e7e9fa1268.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac2fcee26241146d1bf4aba3caa4454d4cf6da8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00050119-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 斎藤元彦知事ら、来月ハラスメント研修…「アンガーマネジメント」による冷静な指導学ぶ
+      <a href=https://news.yahoo.co.jp/articles/f82417fc54e07489083489f5790f811e90293f9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000078-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 兵庫・斎藤知事、パワハラ研修は5月に受講へ　公益通報者保護など
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e97731403b28589df129f37a983451446284d9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000107-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> トランプ氏に拉致解決要請のトクダ議員インタビュー要旨　「全員帰国まで解決しない」
+      <a href=https://news.yahoo.co.jp/articles/265cd9774b5ca5173725c9c3983c1933e51a1ad3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000335-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1105&ch=1105&exp=10800&fmt=webp> 巨人、ソフトバンクでプレーしたウォーカーがBC神奈川入り決定「機会を与えてくれ感謝」「楽しい夏に」
       </a>
     </td>
   </tr>
@@ -402,32 +402,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536645>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/7a32dfc85c79a7a36ce2649c351fd593ba1d8130520c4b81c6bdfe2417eb1c07.jpg> 「火山灰警報」新設へ 気象庁方針
+      <a href=https://news.yahoo.co.jp/pickup/6536646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/199eddfc0ac8dc2b7e8dab6bec4d9fd6cfcfef5e6774b650d12d0680e6a60320.jpg> 高市氏ら減税触れる 政局的色合い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/9da642e9382d27f5ac500c2b9a07e063f8afdd7ce6ce7da453f7e35e7d0313d3.jpg> 米議員17人 拉致巡り大統領に書簡
+      <a href=https://news.yahoo.co.jp/pickup/6536658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/a9c8b1118fdf0392b85f82d03a7f06ac868551ccd29f2507afe1116e547e1a80.jpg> 根拠のない地震予言 防災相が注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536644>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/b6e2911537770b73072a8fcbb160432e509b26134ccaa2952226d24ddd8e3c64.jpg> 4人死亡事故 車の購入を悔やむ父
+      <a href=https://news.yahoo.co.jp/pickup/6536662>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/ad1796ed0d86f9931b7e3c9cf190acbf5f41e619b54e5bb7b51b0f6e429e6316.jpg> 4人死亡事故 友人涙ながらに献花
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536648>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/d51be2c108a0744c6366fb1c13f82210463e374f75658349ff193cd10d8e89a5.jpg> 公用車事故「町長死ねば」と町議
+      <a href=https://news.yahoo.co.jp/pickup/6536660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/c7a6a61b4e50d1e3a1c10b0e09b054cc096c75e72b34952b1887f28073e12582.jpg> 感激 西京銀行1300億円の預金増
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 19:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 20:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
