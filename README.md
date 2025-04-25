@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fdd274f43c9ce69b3f2c58c476049014.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/29325d6f4f830e349e6ca7d5f8764e09.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5003e7779bca57f0814c103c6f213830866adc7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-21878651-bss-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「タバスコをかけたらベビーリーフがもぞもぞと…」　ファミレス「ジョイフル」で注文したピザに「カタツムリ」が混入　男性が動画をSNSに投稿したワケは?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/74a55c0ce05be516db02d8f8661edcae82d8cc9a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-07232813-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ関税うけ政府が緊急対応パッケージ決定も…「コメが交渉カードになること許されない」と自民党内からけん制の声相次ぐ
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aff2f0ca0653b9b7bf2a6608aee6459347ae76a0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000488-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=871&ch=871&exp=10800&fmt=webp> 成宮寛貴、多忙極める瀧本美織を激励「今を生きろ！」　遠い目をした瞬間に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46bd31f461d7c2e5b9f508f016599c2434441d7f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-21878506-bss-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ファミレスのピザに「カタツムリ」混入　寄生虫による「住血線虫症」専門家が危険性指摘　重症化すると麻痺や失明などの後遺症も
+      <a href=https://news.yahoo.co.jp/articles/860199b348a5baa0d8c98d8fef5ee8486d5b8201>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-34250879-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=536&ch=536&exp=10800&fmt=webp> 77歳「ウルトラセブンのアンヌ隊員」と76歳「仮面ライダーアマゾン」結婚へ　
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab7615262a569c017ffc89691ec1a438c19f9386>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250425-00000020-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> ロシア外相、ウクライナと「合意の用意ある」 米CBSインタビュー
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/34472a510f2c43edf2795509a5dbf227bd4b922f243464987dc57d2bbcc8b022.jpg> 新生児取り違え訴訟 都が控訴断念
+      <a href=https://news.yahoo.co.jp/pickup/6536637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/c807b3e749ac0bbde9d33b73266d41e22d5619f5843b5b049a7da46de95baf79.jpg> 忘れられない 脱線事故対応の警官
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536628>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/3a720073a8f9ddc44cfa772245501accfaeabcb14c1be6b7efb0d66e0e723f57.jpg> ばんえい競馬で馬インフルエンザ
+      <a href=https://news.yahoo.co.jp/pickup/6536643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/995f6f8b655628dbac90e8db079d89d8214ad664274c7228d2118c4823b45d1f.jpg> 武尊が現役続行 ロッタン倒したい
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536635>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/acc09cd2ce061d4d308538efb44e0d7bae9382ea05a9a602bc8003b9ab29e1a5.jpg> 役所広司わざとNG 監督明かす姿
+      <a href=https://news.yahoo.co.jp/pickup/6536647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/25/2fa176796e0f4613b1df70c675b4754f7dcb4a099ee1d0fc08b58b917b8c1734.jpg> ひし美ゆり子77歳 年内に結婚へ
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/25 17:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/25 17:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
