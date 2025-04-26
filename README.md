@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5130ecded208291b437ed2fb3dbe14a1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f7f175e604d22435d730e4f75f12fd44.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47c11973959e462b27eecc4920b4f90b338a410b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00529085-theanswer-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平斬り0封の剛腕スキーンズ「良い気分だ」　山本に投げ勝ち貫禄「役割を全うしただけだ」
+      <a href=https://news.yahoo.co.jp/articles/4d966fcc5efd8f5f4a1059757f0d9a4850b46da3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000048-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 千賀滉大、攻守に不運…三重殺を喰らい、20イニング1／3で連続無失点はストップも6回2失点と粘投、米メディア「ピカピカの防御率1・26」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9833c57ef238279c4d5cccb976c4901df6d34ed3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-34260678-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1290&ch=1290&exp=10800&fmt=webp> ロバーツ監督、山本由伸は「彼らしくなかった」　ドジャース３連敗「うまくかみ合っていない」
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/584667d6a6970f67e901c3a08aa189e4cba3075b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-16999779-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏、ウクライナとロシアは「合意にとても近い」　ロシアは米特使と「建設的」会談と
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/824ace75c5779e2f98c98d77d3b72e513629f21c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00529011-theanswer-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 三重殺で怒りの誤審指摘、メッツ監督「イラ立つ」　好投の千賀援護できず「審判3人は見ていた」
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536732>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/054195530054bab5dc0189f78e70190171a6cf8ce9a69af29899f419a1149e0e.jpg> 吉野家 化粧品事業に参入した背景
+      <a href=https://news.yahoo.co.jp/pickup/6536731>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/62d88ac04903e38877fb67bf465cd6807dc979989e1e1909079fb8ad7c8fd827.jpg> ドコモ 料金プランを刷新した訳
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536731>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/62d88ac04903e38877fb67bf465cd6807dc979989e1e1909079fb8ad7c8fd827.jpg> ドコモ 料金プランを刷新した訳
+      <a href=https://news.yahoo.co.jp/pickup/6536721>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/5893fab21561a89c52e6c76649b80105d176402d10bf8cdb2d4864674da590d2.jpg> 調理ロボット 飲食店で進む導入
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 14:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 15:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
