@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e735b0113df4d41aad107f640f1a1bf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5130ecded208291b437ed2fb3dbe14a1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a5a7977214d5576a0422a2b35562578e92aa83f5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-10175565-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 石破総理がメーデー大会に出席「関税措置の見直し訴える」
+      <a href=https://news.yahoo.co.jp/articles/47c11973959e462b27eecc4920b4f90b338a410b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00529085-theanswer-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平斬り0封の剛腕スキーンズ「良い気分だ」　山本に投げ勝ち貫禄「役割を全うしただけだ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c9350624284d6c54a842b9f3724fa6f7e1b48c12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-21878751-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日米財務相会談、事実上、円安ドル高の『緩やかな是正』で一致【播摩卓士の経済コラム】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9c04ba8068b1b171c483c9fc3934466ecb1e87ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000008-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「中国、米国産半導体８品目に１２５％関税撤回」…関税戦争、交渉局面か
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/584667d6a6970f67e901c3a08aa189e4cba3075b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-16999779-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏、ウクライナとロシアは「合意にとても近い」　ロシアは米特使と「建設的」会談と
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b6caf2edfb6b1792aee84ff027adb5b389faa2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000118-spnannex-000-21-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=966&ch=966&exp=10800&fmt=webp> 大谷翔平　長女誕生後本拠初戦は「デートナイト」で真美子夫人選曲のジョジョ登場曲で登場　結果は中飛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06024ec6e7a67c8afe9e12cb5a8acf7dd2f8665a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00080019-chosun-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=587&ch=587&exp=10800&fmt=webp> 韓米、トランプ関税巡り「7月パッケージ」合意…韓国新政権発足後に最終妥結
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536740>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/905aecab06f6f7b954eea27f487695191d91b57945a7698bdc4d70f1883460f9.jpg> 米中 関税協議巡り主張に食い違い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536730>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/fbd796eda7aea3c9c1364a43c21be80de90a86d4c122ec0a27b902527b7b0384.jpg> 首相 米関税の見直し強力に訴える
       </a>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a8edcd7196e52654fcfae6d4155c0ab35eb0f17d7221a89f0fe1c7208ed857aa.jpg> ガザの食料備蓄が底を突く WFP
+      <a href=https://news.yahoo.co.jp/pickup/6536734>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a4d0d8772916e292ceccc7712e5af202e4e1180cb1d755fd0c482db652c1bea9.jpg> ウ側 クリミア奪回不可能と認める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536734>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a4d0d8772916e292ceccc7712e5af202e4e1180cb1d755fd0c482db652c1bea9.jpg> ウ側 クリミア奪回不可能と認める
+      <a href=https://news.yahoo.co.jp/pickup/6536732>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/054195530054bab5dc0189f78e70190171a6cf8ce9a69af29899f419a1149e0e.jpg> 吉野家 化粧品事業に参入した背景
       </a>
     </td>
   </tr>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536738>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/2abce09268e4823858b17747de9395f9e2ceae04c824ced563833c0537a53040.jpg> 子に「はい論破」言われたら 対処
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536735>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/64195b86c1cd93c9608f120e0b2357bd4e88fe24b09e171281ae089d343fe920.jpg> 産休クッキー騒動 売上に影響なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536722>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/82e29354de43c6cfd94a0221139aaffeebaea016847df76ff039714e01d71c23.jpg> Switch 2当選発表 SNSで「祭り」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/d75345a8bef826754f7c1c1a368d4fcd81f4d37da7c37d844915a2794727720e.jpg> 錦鯉長谷川 母のおにぎりで泣いた
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 14:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 14:31:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
