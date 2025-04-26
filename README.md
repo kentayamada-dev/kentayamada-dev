@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd6efb42f87c604ce7b382c0e270d694.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8c977431490f5d8d35163b578e5a8fbc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6be103a05b619f20aa5840667c5dda6d78d6da4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000000-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 大谷翔平“パパ１号”産みの苦しみ「父親リスト」から復帰後打率・１２５　真美子夫人選曲の登場曲も快音響かず
+      <a href=https://news.yahoo.co.jp/articles/c9f04a1eaff035bd009194a76c472402ac909aaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04261299-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、昨季新人王・スキーンズとの“怪物対決”で無安打１三振　ドジャース３連敗
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b30d725fdd9a95c51c052e769c9f98065248790c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローマ教皇フランシスコの葬儀、160を超える国・国際機関の首脳らと40万人以上の信者集まる　遺体はローマ市内の大聖堂に埋葬
+      <a href=https://news.yahoo.co.jp/articles/6c9e7c0ad3a910a124e0671f1e832f538bfe0f9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00963842-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ローマ教皇フランシスコに信者らが最後の別れ　5月上旬に「コンクラーベ」の見通し
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 03:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 04:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
