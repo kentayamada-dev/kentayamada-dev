@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea2c76cd8cc2706d38d1949eede1c661.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b3dff725e3a37af27eb7cdda0724e36e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb8ff59b6432e76c31d07b4942c6928a963918d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00342439-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【巨人】２度登板回避したグリフィンが２番手で今季初登板　阿部監督「次につながると思う」
+      <a href=https://news.yahoo.co.jp/articles/c41b4c8e85df88f21d4df6dc0f8f9815ef17c2a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00788177-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 三四郎の41歳・相田周二、サプライズ結婚発表　相方の小宮浩信は事前に知らず嘆き「やり方がひどいよ」
       </a>
     </td>
   </tr>
@@ -387,7 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536769>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/99a7a6f118ac308b6ab51b92e0a30187f0dfdb7312e6bdd7becd2fce6d2e81d7.jpg> トランプ氏とゼレンスキー氏 会談
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/0002fc1809f1b79fb1aec414a71254fa115c9a65a79dca8447ea1bd9a0463f69.jpg> トランプ氏とゼレンスキー氏 会談
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536767>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/e26c344d4f4030412f283f532efa52cf9a331df1b8ca3f15969771e58368d5a6.jpg> 巨人屈辱 阪神に開幕から5戦5敗
+      <a href=https://news.yahoo.co.jp/pickup/6536776>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/d56906e8243708ef8eec6f2b714c71b3fa09867e3d9afb6a1722785c58dfcbca.jpg> 首絞められ 元子役語る壮絶いじめ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 19:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 20:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
