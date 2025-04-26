@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2ebedce6b08bc397b9c93c82a2c231c2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d0bbda43c8510b330836cd89f9ad8b62.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a93873cbebe6383d859107a81095fd146300d368>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000229-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=16&cw=766&ch=766&exp=10800&fmt=webp> 怪物右腕スキーンズの美人彼女　大谷翔平から三振奪う姿に「キャー！」年収3億円超のインフルエンサー
+      <a href=https://news.yahoo.co.jp/articles/15e2c11d5cabb4ba3d87ff4fc0b347af5f2337cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000012-maikirei-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＜有村架純＞ノースリーブのドレスで美肌輝く　淡いグリーンで春らしさも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07558ba479b8f9e0ac82909ed0a45799de38b1b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-35232349-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=525&cy=0&cw=675&ch=675&exp=10800&fmt=webp> バチカンでフランシスコ教皇の葬儀、広場に群衆集まる
+      <a href=https://news.yahoo.co.jp/articles/9741a17f3f631585bb206e9f8e8ded49d47b0bd8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-05196715-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドジャース完封負けで3連敗　大谷翔平は豪腕・スキーンズの前に沈黙　先発の山本由伸は5回3失点
       </a>
     </td>
   </tr>
@@ -379,6 +379,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4eafa0fca5feea7de93b4128ae6f0afff5a8f861>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000198-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 金子恵美氏　立民の「食品消費税1年ゼロ」公約をチクリ「野田さんが、増税した人がこう言うのは…」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/905aecab06f6f7b954eea27f487695191d91b57945a7698bdc4d70f1883460f9.jpg> 米中 関税協議巡り主張に食い違い
+      <a href=https://news.yahoo.co.jp/pickup/6536759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a9a691af42d75a17f9fbf3d5a385169d49d8e86697bed76eabcdd9bf755c1df8.jpg> ローマ教皇葬儀 信徒ら詰めかける
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536752>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/konnoharuki/02186019/title-1745633572180.jpeg?exp=10800> 氷河期世代の問題 焦点は「老後」
+      <a href=https://news.yahoo.co.jp/pickup/6536760>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/311eaf36a40f221f1cedf2b8a666421174550c6f471ad8dbd3a7815413cffce3.jpg> 消費減税公約 ぶれた立憲・野田氏
       </a>
     </td>
   </tr>
@@ -426,24 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536763>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/03f966c6885f5abae5950c43c0c9c0a92515f526404f2c6fce243b8b5dbac4c8.jpg> 効率よく選びたい 韓国の結婚事情
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536764>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ジブリ風AI画像 投稿者の責任は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536751>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/8a33ae8ee69c16d9786131999db23bbdd0cabbf832322f896267240d0a1ca4eb.jpg> 大谷 妻選んだ曲で登場もHRなし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536758>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/09465d5b900d986a32fa465c181869cde3c7c721a043b85d6fc9dd53eb272d0f.jpg> 令和の教育ドラマ 新たな教師像
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536756>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/5e72a8e330386704e03f60bd1062875be9971afed80d916bf49014212da9d718.jpg> 50代でアパレル業界→漫画家 経緯
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 17:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 17:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
