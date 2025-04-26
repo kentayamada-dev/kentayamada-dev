@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7b2f49f1c4d3b0947642751e60cb2456.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/602ee1d09bb7b5c2545b68ba7eb51e83.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/642cd26f5de564a52edcd12c13419c36dc5f8b03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00030978-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 錦織はシャポバロフに香港の借りを返され2回戦敗退 [マドリッド・オープン／テニス]
+      <a href=https://news.yahoo.co.jp/articles/b16cfa7e523b9998a11907dc008c6eb41dec6458>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア クルスク州の「完全奪還」を発表　プーチン氏に参謀総長が報告　北朝鮮軍の戦闘参加認める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/07ca7fd6ede2cb0ee526317f120c1611e48255ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-16012133-bbc-000-6-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 教皇フランシスコの葬儀ミサに数十万人集まる　人柄と業績しのぶ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c280cf8011c0dc7ea5c259cf24306db013900067>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00255680-bark-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=574&ch=574&exp=10800&fmt=webp> 布袋寅泰、＜GUITARHYTHM VIII TOUR＞追加公演を日本武道館で開催
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/33fa89a3d9e2490529bda193631dec55e27e6438>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-90022985-nbstv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 水門に車が衝突　19歳と20歳の自動車整備科の訓練生4人が死亡　同乗3人の死因は多発外傷、外傷性出血性ショック、出血性ショック　かなりのスピード出していたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2bbb9a81e5725fa57dfffc380e20610d280a494>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000055-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=144&cw=1153&ch=1153&exp=10800&fmt=webp> トランプ氏に直談判するゼレンスキー氏の写真公開　再会談も合意
       </a>
     </td>
   </tr>
@@ -394,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536792>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/2037bcd4089f2a081441055bf6c7909e7c8a0f0f0641b0a21697476bb9ef746e.jpg> 露 クルスク州の完全奪還を発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536787>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/cbc064a1d2cbdf7bf3f7ea8724b1d22183cfdd2103d305f72e30b5088926a022.jpg> 教皇葬儀で初の中国語朗読 米報道
       </a>
@@ -410,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536788>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/e81026a1a9de3433807ce18dc0c9ae8d881e6ac3ea3916d5a26dfa39499d8956.jpg> 目から鱗 石破氏が東大AI講座受講
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536786>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/b7b9a77bf6adbc76470dd6571d4a3a8d48b18d8da0d0ec2acc249019a251cac9.jpg> 保育士の死体遺棄疑い 殺害関与か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536782>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/b1971c826bbf115f5b09e351cd3e184dbf552e92497d4aa8a95bf5fe0288cd06.jpg> 米不満 日本でアメ車普及しない訳
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536794>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/5ad27facc1c6a7a9f2a48206d8337bc975845d873cfab33062ae9c7d10be1e96.jpg> 万博でコスプレ禁止? 公式案内は
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/be3c0d0a51f768717729336ac1e03627374e34dba5b8dcd5a9b933cf6f7623dc.jpg> 京大の食堂 お茶の無料提供終了
+      <a href=https://news.yahoo.co.jp/pickup/6536790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/f96b3dfe53fedf34fb3cd72c60ce3819bd380a52446d4ac876a997619eb58002.jpg> 名古屋グランパス 新社長就任発表
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 21:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 22:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
