@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7ec618407d9b146fc879fba3c0cdd5e6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab3f82e2c28cc793d32c05ed8aae8c52.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af9d4dd601c8dec1d2405682972a1c2d0a6db33c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00529164-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「僕は何も隠してない」　3タコ大谷翔平から感じた“視線”…No.1候補スキーンズ「彼は僕を…」
+      <a href=https://news.yahoo.co.jp/articles/497d2d1f338e8a89357c71572f9f05f5eb0f074e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04271008-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、復帰５試合目で“パパ１号”出るか　パイレーツ戦「１番・ＤＨ」先発出場　佐々木朗希を援護へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95bce327137ff38a43a2dd3511429e3f443b51c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000040-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=1165&ch=1165&exp=10800&fmt=webp> 阪神・及川「全力で抑えに行った」ピンチも救われ、13試合連続自責点0
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8f942faac0a688f81943bdb9149636b3323082d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000061-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ローマ教皇葬儀に40万人　ゼレンスキー大統領が正装（?）弔問　トランプ米大統領と電撃会談も
+      <a href=https://news.yahoo.co.jp/articles/3cfc1b329b3d9f2c253422d1377b186bf504c5eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00050000-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 阪神に開幕５連敗の巨人「今は１番から５番までしか野球をやっていない」亀井打撃コーチ厳しく指摘
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 06:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 06:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
