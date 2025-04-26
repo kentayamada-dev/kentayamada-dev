@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3a54b94c675c7b0ce19a59ed333d3cb5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/91b2635103f1eed8e5aa02091095bf2d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/22691fc8d44b384d41c1678e3dbe06799108df4b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00963679-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「物価上昇に負けない賃上げを必ず実現する」メーデー大会で非正規含めた賃上げへ決意表明　トランプ関税見直しへ「労働者守るため強力に交渉」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9b6caf2edfb6b1792aee84ff027adb5b389faa2a>
@@ -394,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a9cd849cac0d5c12aceb490200e7a3519dbbc55c24d89052d4781f8a6d1514eb.jpg> 豊田自動織機 株式非公開化を検討
+      <a href=https://news.yahoo.co.jp/pickup/6536730>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/fbd796eda7aea3c9c1364a43c21be80de90a86d4c122ec0a27b902527b7b0384.jpg> 首相 米関税の見直し強力に訴える
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a8edcd7196e52654fcfae6d4155c0ab35eb0f17d7221a89f0fe1c7208ed857aa.jpg> ガザの食料備蓄が底を突く WFP
       </a>
     </td>
   </tr>
@@ -434,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536713>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/06c539c69f4ddf8d835d25fcc38ec5c39fdc8307b453e8f8a7a0326917715c3b.jpg> 旅行先でのトコジラミ対策 方法は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536718>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/8a71236e84d4519e86db2114c2b3b2526c949951fe22cb695d7ef095c35d7ac6.jpg> 大谷 キャッチボールで暴投し謝る
+      <a href=https://news.yahoo.co.jp/pickup/6536722>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/82e29354de43c6cfd94a0221139aaffeebaea016847df76ff039714e01d71c23.jpg> Switch 2当選発表 SNSで「祭り」
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 12:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 13:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
