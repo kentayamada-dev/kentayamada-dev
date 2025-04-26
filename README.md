@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/999530fdcec7f6032c77c076bd2552e7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1acaa1fafba385450379e09ab2068b1f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e0c9da1403678b220eca3be8eb02d3b6e98b1d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000058-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=1185&ch=1185&exp=10800&fmt=webp> 怪物右腕スキーンズにロバーツ監督脱帽「ほぼ何もできなかった」　攻撃陣には苦言「相手も良かったが打線にも問題」
+      <a href=https://news.yahoo.co.jp/articles/ca2b874cd4ea9a37128fc626e226a7bfcd9429fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00529129-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース完敗後に生まれた「レアな光景」に嘆きの声　客席は無人で…「僕の涙かな」
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9c04ba8068b1b171c483c9fc3934466ecb1e87ed>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000008-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「中国、米国産半導体８品目に１２５％関税撤回」…関税戦争、交渉局面か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/584667d6a6970f67e901c3a08aa189e4cba3075b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-16999779-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏、ウクライナとロシアは「合意にとても近い」　ロシアは米特使と「建設的」会談と
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536752>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/konnoharuki/02186019/title-1745633572180.jpeg?exp=10800> 氷河期世代の問題 焦点は「老後」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536738>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/2abce09268e4823858b17747de9395f9e2ceae04c824ced563833c0537a53040.jpg> 子に「はい論破」言われたら 対処
       </a>
@@ -442,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/64195b86c1cd93c9608f120e0b2357bd4e88fe24b09e171281ae089d343fe920.jpg> 産休クッキー騒動 売上に影響なし
+      <a href=https://news.yahoo.co.jp/pickup/6536749>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/3c7e2587e3812de926ddd0ed94a9f7067ca5f1341f458bdb0b36cb038774fc17.jpg> パンダ返還へ 和歌山に多くの人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536745>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/8a33ae8ee69c16d9786131999db23bbdd0cabbf832322f896267240d0a1ca4eb.jpg> 大谷 妻選曲の「ジョジョ」で登場
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536747>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/3651cfccec03b90eb1c170eb21a8c9f10330b86cd594d9ed32d699fc508b3b67.jpg> 辛坊治郎氏「引退なんかしない」
+      <a href=https://news.yahoo.co.jp/pickup/6536751>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/8a33ae8ee69c16d9786131999db23bbdd0cabbf832322f896267240d0a1ca4eb.jpg> 大谷 妻選んだ曲で登場もHRなし
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 15:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 16:00:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
