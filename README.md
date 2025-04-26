@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/fzePAvEcUOc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d7b8149fa6dc62b64fe41c8f6c6b6568.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2009b4553bb9fd50570f8accd3274bb4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/07ca7fd6ede2cb0ee526317f120c1611e48255ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-16012133-bbc-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 教皇フランシスコの葬儀ミサに数十万人集まる　人柄と業績しのぶ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/33fa89a3d9e2490529bda193631dec55e27e6438>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-90022985-nbstv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 水門に車が衝突　19歳と20歳の自動車整備科の訓練生4人が死亡　同乗3人の死因は多発外傷、外傷性出血性ショック、出血性ショック　かなりのスピード出していたか
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c41b4c8e85df88f21d4df6dc0f8f9815ef17c2a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00788177-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 三四郎の41歳・相田周二、サプライズ結婚発表　相方の小宮浩信は事前に知らず嘆き「やり方がひどいよ」
+      <a href=https://news.yahoo.co.jp/articles/b2bbb9a81e5725fa57dfffc380e20610d280a494>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000055-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=144&cw=1153&ch=1153&exp=10800&fmt=webp> トランプ氏に直談判するゼレンスキー氏の写真公開　再会談も合意
       </a>
     </td>
   </tr>
@@ -379,27 +387,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c613fa7ef6d4501670f5432bb91b974f2d51494>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000050-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 石破首相、連合メーデーに出席　トランプ関税「見直し強く訴える」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ba58c4f22f7cccdf33c69d2e8c517dc2b2dd9e3a71040a3396b40f09cc57b8a3.jpg> 教皇葬儀「忘れない」世界に配信
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536779>
@@ -410,24 +402,32 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ba58c4f22f7cccdf33c69d2e8c517dc2b2dd9e3a71040a3396b40f09cc57b8a3.jpg> 教皇葬儀「忘れない」世界に配信
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536787>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/cbc064a1d2cbdf7bf3f7ea8724b1d22183cfdd2103d305f72e30b5088926a022.jpg> 教皇葬儀で初の中国語朗読 米報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536786>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/b7b9a77bf6adbc76470dd6571d4a3a8d48b18d8da0d0ec2acc249019a251cac9.jpg> 保育士の死体遺棄疑い 殺害関与か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536782>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/b1971c826bbf115f5b09e351cd3e184dbf552e92497d4aa8a95bf5fe0288cd06.jpg> 米不満 日本でアメ車普及しない訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ac53d54b36dfe1d52fb5c009edda621e7eb5f0130206a697c42914b99c86c66b.jpg> ふるさと納税 コメの返礼品人気
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536777>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/b5c0ff7f63561b031b74210c427755028cea796f9d22ea59fc5b5794e74844a4.jpg> GW後に患者増 「気象病」に注意
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 20:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 21:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
