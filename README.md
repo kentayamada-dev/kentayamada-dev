@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/fzePAvEcUOc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6d2b5e674fd4714b0e15ee750a92d826.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ecadae950b0628cd6d1651d9cb1ba824.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0cf47996ad4fcaa6536b51480ff998fa99982907>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-07233020-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 死体遺棄容疑で逮捕の男のスマホに女性との通話記録、宮城保育士女性殺害
+      <a href=https://news.yahoo.co.jp/articles/b2bc58c132e1783d91adb31c7cf93fd9345125b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-05759714-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 海岸に女性保育士遺体　現場近くの防犯カメラに逮捕男の車　宮城
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4995ee89f88e2a92d2d120eb596fce93ed473fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-35232351-cnn-000-4-view.jpg?pri=l&w=192&h=121&exp=10800&fmt=webp> ローマ教皇フランシスコ、葬儀終えて安らかな眠りに
+      <a href=https://news.yahoo.co.jp/articles/b30d725fdd9a95c51c052e769c9f98065248790c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローマ教皇フランシスコの葬儀、160を超える国・国際機関の首脳らと40万人以上の信者集まる　遺体はローマ市内の大聖堂に埋葬
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/209c80e2f673a55fab4ec9a50656cbeec18a7741>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000048-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロシアがクルスク州のすべて奪還と発表　北朝鮮軍の兵士の参加も初めて公式に認める
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000048-ann-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロシア軍がクルスク州のすべて奪還と報告　北朝鮮軍の兵士の参加も初めて公式に認める
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 01:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 01:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
