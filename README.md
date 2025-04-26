@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/be178212784fc0304e8f9d5e0f1c9f74.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea2c76cd8cc2706d38d1949eede1c661.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/952ceac6bc752da037504afce01515b41ac3a24a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00010012-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=507&cy=0&cw=911&ch=911&exp=10800&fmt=webp> 阪神が1000試合出場達成の大山悠輔によるタイムリーなどで6連勝｜阪神×巨人｜プロ野球結果
+      <a href=https://news.yahoo.co.jp/articles/bb8ff59b6432e76c31d07b4942c6928a963918d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00342439-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【巨人】２度登板回避したグリフィンが２番手で今季初登板　阿部監督「次につながると思う」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f65f71378b166dc6f4110340e01a3eee2deb8c5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-01742584-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平を手玉に取った怪物22歳　衝撃の“魔球”に米騒然「エグすぎる」「脱帽」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3c613fa7ef6d4501670f5432bb91b974f2d51494>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000050-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 石破首相、連合メーデーに出席　トランプ関税「見直し強く訴える」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff38d8c6b5bba8c5ab8c70efb38242bd5c4fa254>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-10175587-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> どうしたんだ…大谷翔平“ムムム顔” ボール球に反応し最強右腕スキーンズに空三振 相手捕手はガッツポーズのリアクション
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536762>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博 期間中に首脳20人が来日調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a9a691af42d75a17f9fbf3d5a385169d49d8e86697bed76eabcdd9bf755c1df8.jpg> ローマ教皇葬儀 信徒ら詰めかける
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536774>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a527d18518448d655a5598e68193e55d3bab452717cf833c9f9dcf2da96ea43f.jpg> 朝倉未来「100%勝つ」強気の宣言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536767>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/e26c344d4f4030412f283f532efa52cf9a331df1b8ca3f15969771e58368d5a6.jpg> 巨人屈辱 阪神に開幕から5戦5敗
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 19:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 19:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
