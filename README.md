@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/fzePAvEcUOc?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/19a32513a1c75a3e5a42516c7f256023.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/55f501a1a45d232bd38a8e4af1d44991.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42d12e48484f9ca2e798ab2575b2449b0ce7661d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-45957765-gekisaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 横浜FM、C・ロナウドら強烈サウジ勢に屈してACLE8強敗退「Jリーグでは経験できない経験ができた」
+      <a href=https://news.yahoo.co.jp/articles/22902004ee3f5b3d4e8654549a0f9c7bf463c9a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000025-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> バチカン、9日間の服喪期間　次期ローマ教皇選びが焦点に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4db639bd5950bade536bb99e6c08449d654dec8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000008-ann-000-3-thumb.jpg?exp=10800&fmt=webp> フランシスコ教皇の葬儀　広場に25万人集まり別れ
+      <a href=https://news.yahoo.co.jp/articles/cbd615f1204b43c1d1e33cfdaf1b9ae4f1e2802d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04271018-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=457&cy=0&cw=743&ch=743&exp=10800&fmt=webp> 横浜ＦＭも完敗でＡＣＬＥ準々決勝は“ホーム”のサウジ勢が東地区に３戦全勝…残り１戦は川崎―アルサッド
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26e7ab2388a498930430f4b785d0a9c2b59712cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04261341-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ＳＵＰＥＲ　ＥＩＧＨＴの大倉忠義が東京拠点のジュニアをプロデュース　ＳＴＡＲＴＯ社初のプロデュース業務委託
+      <a href=https://news.yahoo.co.jp/articles/60355cd47318f1cdb2916358cc2299008d17c9d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000170-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> SUPER EIGHT・大倉忠義の会社と「STARTO」が業務委託契約締結　ジュニア全体育成へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/825475afb5917a878e649aedd7fe3fd85ce6fa56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア軍参謀本部幹部の殺害関与疑いで「ウクライナ特務機関の工作員」拘束
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536801>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/2/23/1aa5ef8f0382b7f1429a0c32f0119b86dfd4e3ba0cc7563bee69a245371f36ac.jpg> 露がクルスク州完全奪還 ウは否定
+      <a href=https://news.yahoo.co.jp/pickup/6536812>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/b1d936e8ab2b24c181b9427e18f89340caaffe42552fad7cbcd21d560cf4ea03.jpg> 選挙運動 ネット通称候補が増殖
       </a>
     </td>
   </tr>
@@ -426,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536798>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ea645ba01c8853b6a5a04824d58fe8a4e7e9f57aafbfd4814fb80a679f21fe19.jpg> 露でマクドナルド復帰模索か 報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536795>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/1f73c05adeccd59157e4d192e5fc5e76484a328949a3ae60e367bbe48c33f198.jpg> 「高収入」うたう宣伝車 市調査へ
       </a>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/6231e43f582b72e4396af4a39c81b84491651833fc9413b2f7d10c9d7f38c3fa.jpg> STARTO社 大倉の会社に業務委託
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 07:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 08:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
