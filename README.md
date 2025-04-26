@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1acaa1fafba385450379e09ab2068b1f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/afdb3fdd92b898ee62d6e4676e4e6e1a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca2b874cd4ea9a37128fc626e226a7bfcd9429fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00529129-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース完敗後に生まれた「レアな光景」に嘆きの声　客席は無人で…「僕の涙かな」
+      <a href=https://news.yahoo.co.jp/articles/7efd52dbbcbc84fce529f64bcdc85feee11a6e0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000213-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=892&ch=892&exp=10800&fmt=webp> スキーンズ　ド軍との対戦で見せた工夫　1.9％→14.8％に激増した球種「今日は使うべきタイミング」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45a888ea8685f5599f5d11d8ef47808099b6d2ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000078-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=16&cw=1462&ch=1462&exp=10800&fmt=webp> 辛坊治郎氏　「伝統的なメディアの方が下に落ちてきている」、著書「オールドメディアの遺言」サイン会でポツリ
+      <a href=https://news.yahoo.co.jp/articles/4ad385eaac3d7e35f71147bbee22d945bf8a15e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00050098-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 海岸の女性保育士遺体、２１歳を遺棄容疑で逮捕…胸を中心に複数回刺され失血死
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9350624284d6c54a842b9f3724fa6f7e1b48c12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-21878751-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日米財務相会談、事実上、円安ドル高の『緩やかな是正』で一致【播摩卓士の経済コラム】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c04ba8068b1b171c483c9fc3934466ecb1e87ed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000008-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 「中国、米国産半導体８品目に１２５％関税撤回」…関税戦争、交渉局面か
+      <a href=https://news.yahoo.co.jp/articles/2271f616d9ecb0c87a33f57ebe3a9108b74103a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000038-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=794&ch=794&exp=10800&fmt=webp> 対米交渉「日本の労働者守る」　石破首相、賃上げへ悪影響懸念
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536734>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a4d0d8772916e292ceccc7712e5af202e4e1180cb1d755fd0c482db652c1bea9.jpg> ウ側 クリミア奪回不可能と認める
+      <a href=https://news.yahoo.co.jp/pickup/6536752>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/konnoharuki/02186019/title-1745633572180.jpeg?exp=10800> 氷河期世代の問題 焦点は「老後」
       </a>
     </td>
   </tr>
@@ -418,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536731>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/62d88ac04903e38877fb67bf465cd6807dc979989e1e1909079fb8ad7c8fd827.jpg> ドコモ 料金プランを刷新した訳
+      <a href=https://news.yahoo.co.jp/pickup/6536750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/c9ca1dff77e521206ffd05186d600c687bf778d3af6a139e32a983b1bb519548.jpg> 矢田稚子元首相補佐官 語る当時
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536752>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/konnoharuki/02186019/title-1745633572180.jpeg?exp=10800> 氷河期世代の問題 焦点は「老後」
+      <a href=https://news.yahoo.co.jp/pickup/6536755>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 女性保育士の死体遺棄疑い 男逮捕
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536749>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/3c7e2587e3812de926ddd0ed94a9f7067ca5f1341f458bdb0b36cb038774fc17.jpg> パンダ返還へ 和歌山に多くの人
+      <a href=https://news.yahoo.co.jp/pickup/6536753>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/6e0da319a591e40a5fa79fe832a566e74f4e933559dd6b76890adfd1031ebba6.jpg> 創業60年もみじまんじゅう店 閉店
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 16:00:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 16:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
