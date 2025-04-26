@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b4c95cf12fdd436fa73016cb8f71f3ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/993d71fff15254351ffd8ed8dadcc52a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,6 +359,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/91a73b12d26953e0cc970c6b36522b35b09c3f22>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000015-san-000-2-view.jpg?pri=l&w=153&h=192&exp=10800&fmt=webp> ウクライナ弔問外交なるか　トランプ氏とゼレンスキー氏、口論から2カ月ぶり顔合わせも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dfdcaf18e97b45bbfd40c12bf9dcf4db81153acb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-04261048-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平、キャッチボールで“大暴投”　ファンに脱帽して謝罪　エンゼルス時代の戦友と笑顔の再会も
       </a>
     </td>
   </tr>
@@ -394,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536704>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/523ca11b883bb8d9d49ca316c772d81fb9338dcc9196b9ee1c020c95d2072126.jpg> 米財務長官 ドル安・円高望ましい
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536714>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a9cd849cac0d5c12aceb490200e7a3519dbbc55c24d89052d4781f8a6d1514eb.jpg> 豊田自動織機 株式非公開化を検討
       </a>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/200b9fd543d1a4d755d9594c4427b6142fe0fb3e92a3aece0b3dafaa0d64300f.jpg> 米向けiPhone生産 中→印と報道
+      <a href=https://news.yahoo.co.jp/pickup/6536705>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/2382370e9c38fe1d92b52b6c823d59d7b906e990ff4f566b920a8099e1297bc1.jpg> 生活が苦しい 氷河期世代の実情は
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536691>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/872917b93821f23938756e35121f675d9ae04a15eef08d1e49b7c8fbd1c33dec.jpg> 万博で女性が心肺停止 病院で死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/2de23a8e85687a8a4c6b8ac90fc4095b0adcdd3e1442eabc2bd9215b962cbbd8.jpg> 園の前理事長 園児ら名簿を業者に
       </a>
     </td>
   </tr>
@@ -448,11 +440,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536718>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/8a71236e84d4519e86db2114c2b3b2526c949951fe22cb695d7ef095c35d7ac6.jpg> 大谷 キャッチボールで暴投し謝る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a89ec4879b5a367951c134c01516815bcf379035519d13c4e9ea7aab22e59727.jpg> 岩佐真悠子氏 介護現場で問題痛感
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 10:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 11:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
