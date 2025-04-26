@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/fzePAvEcUOc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f49b63482b2ddd174dafc163dee38d82.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/19a32513a1c75a3e5a42516c7f256023.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/42d12e48484f9ca2e798ab2575b2449b0ce7661d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-45957765-gekisaka-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 横浜FM、C・ロナウドら強烈サウジ勢に屈してACLE8強敗退「Jリーグでは経験できない経験ができた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f4db639bd5950bade536bb99e6c08449d654dec8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000008-ann-000-3-thumb.jpg?exp=10800&fmt=webp> フランシスコ教皇の葬儀　広場に25万人集まり別れ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/26e7ab2388a498930430f4b785d0a9c2b59712cd>
@@ -394,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536807>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/cdb9b3ba0c107d1161ccdbfce6d4cc5c205628a8c39ff1380ec186bd6aa02771.jpg> 東北道で逆走 多重事故で3人死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536804>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ab77f9bc10b1f0ec4bdda2f1bd1b8ae093c2e7f3b0c5ba76fe756bf278ca344d.jpg> 万博来場者が死亡「適切な処置」
       </a>
@@ -410,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/50af13a5e9069b13173f8e89183ffa13399585d6aa92b07c0bca457be2004b95.jpg> TDR「飲食物」持ち込み禁止の訳
+      <a href=https://news.yahoo.co.jp/pickup/6536810>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/25b4fee13e5a96f57fa85cfa4ec271557f81e3e38c26bbaed2f0017ba9d874e6.jpg> 横浜 ロナウドにゴール奪われ完敗
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536803>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/f5fca514e724da283828b326d8744a974ec95f81a6b00a1f948ec6b8b0579ced.jpg> 佐々木騎手 ムチ使用巡り異例制裁
+      <a href=https://news.yahoo.co.jp/pickup/6536809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/1492395653715cff2f1c9dca6bbafe93c78ef9dfd6a38532175a03db891570fd.jpg> 作家・大宮エリーさん死去 49歳
       </a>
     </td>
   </tr>
@@ -432,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536781>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/d56906e8243708ef8eec6f2b714c71b3fa09867e3d9afb6a1722785c58dfcbca.jpg> 元子役 ブレイク裏の壮絶ないじめ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 07:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 07:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
