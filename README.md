@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6e596af90fe9ded22be62907ea781b0d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3a54b94c675c7b0ce19a59ed333d3cb5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9b6caf2edfb6b1792aee84ff027adb5b389faa2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000118-spnannex-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=966&ch=966&exp=10800&fmt=webp> 大谷翔平　長女誕生後本拠初戦は「デートナイト」で真美子夫人選曲のジョジョ登場曲で登場　結果は中飛
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000118-spnannex-000-18-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=966&ch=966&exp=10800&fmt=webp> 大谷翔平　長女誕生後本拠初戦は「デートナイト」で真美子夫人選曲のジョジョ登場曲で登場　結果は中飛
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536717>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 佐渡島で初めて前方後円墳を発見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536709>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/6249d0c1b737fb0e5cf7f555ffa7dc0bcc07797ec2c666ee2aea4f90742d9cdf.jpg> 万博でコスプレ炎上 当事者が語る
       </a>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536713>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/06c539c69f4ddf8d835d25fcc38ec5c39fdc8307b453e8f8a7a0326917715c3b.jpg> 旅行先でのトコジラミ対策 方法は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536718>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/8a71236e84d4519e86db2114c2b3b2526c949951fe22cb695d7ef095c35d7ac6.jpg> 大谷 キャッチボールで暴投し謝る
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536719>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a89ec4879b5a367951c134c01516815bcf379035519d13c4e9ea7aab22e59727.jpg> 岩佐真悠子氏 介護現場で問題痛感
+      <a href=https://news.yahoo.co.jp/pickup/6536724>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/5cc9a9e4ed620e016953f6b350c36ce30e272089552ac420629bf5084fe72bb4.jpg> 「疑惑判定」の三重殺 千賀ぼう然
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 12:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 12:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
