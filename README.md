@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a0725b1ee620475a229c96d2b182c9c9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/be178212784fc0304e8f9d5e0f1c9f74.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/037c1800028aead2592899d1e88ec6304413f3c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-34261479-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【巨人】今季１軍初登板グリフィン２回２安打１失点　次戦先発へ「さびがきれいに取れた状態で」
+      <a href=https://news.yahoo.co.jp/articles/952ceac6bc752da037504afce01515b41ac3a24a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00010012-dazn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=507&cy=0&cw=911&ch=911&exp=10800&fmt=webp> 阪神が1000試合出場達成の大山悠輔によるタイムリーなどで6連勝｜阪神×巨人｜プロ野球結果
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3c613fa7ef6d4501670f5432bb91b974f2d51494>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000050-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 石破首相、連合メーデーに出席　トランプ関税「見直し強く訴える」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ff38d8c6b5bba8c5ab8c70efb38242bd5c4fa254>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-10175587-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> どうしたんだ…大谷翔平“ムムム顔” ボール球に反応し最強右腕スキーンズに空三振 相手捕手はガッツポーズのリアクション
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15e2c11d5cabb4ba3d87ff4fc0b347af5f2337cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000012-maikirei-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＜有村架純＞ノースリーブのドレスで美肌輝く　淡いグリーンで春らしさも
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/7bd928943b48d4b8201613ba9ad144e836051de86222a37d56542162072a344c.jpg> Switch 2任天堂の転売対策 分析
+      <a href=https://news.yahoo.co.jp/pickup/6536770>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/be3c0d0a51f768717729336ac1e03627374e34dba5b8dcd5a9b933cf6f7623dc.jpg> 京大の食堂 お茶の無料提供終了
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 18:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 19:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
