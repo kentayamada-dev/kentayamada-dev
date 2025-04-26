@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b23886a2f25d3f24ede4eaf3b15f13f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dcf4059397bd6fda5cc0ffe6a903ab03.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b6be103a05b619f20aa5840667c5dda6d78d6da4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 大谷翔平“パパ１号”産みの苦しみ「父親リスト」から復帰後打率・１２５　真美子夫人選曲の登場曲も快音響かず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000000-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 大谷翔平“パパ１号”産みの苦しみ「父親リスト」から復帰後打率・１２５　真美子夫人選曲の登場曲も快音響かず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2bc58c132e1783d91adb31c7cf93fd9345125b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-05759714-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 海岸に女性保育士遺体　現場近くの防犯カメラに逮捕男の車　宮城
+      <a href=https://news.yahoo.co.jp/articles/d08a3d742a951aec07327cdc4d431c0dbfc0c1a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00963843-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ・トランプ大統領とウクライナ・ゼレンスキー大統領が会談　ロシア停戦に向け意見交換か
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b30d725fdd9a95c51c052e769c9f98065248790c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローマ教皇フランシスコの葬儀、160を超える国・国際機関の首脳らと40万人以上の信者集まる　遺体はローマ市内の大聖堂に埋葬
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/209c80e2f673a55fab4ec9a50656cbeec18a7741>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000048-ann-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロシア軍がクルスク州のすべて奪還と報告　北朝鮮軍の兵士の参加も初めて公式に認める
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 02:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 03:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
