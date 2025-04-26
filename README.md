@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/afdb3fdd92b898ee62d6e4676e4e6e1a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2ebedce6b08bc397b9c93c82a2c231c2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7efd52dbbcbc84fce529f64bcdc85feee11a6e0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000213-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=892&ch=892&exp=10800&fmt=webp> スキーンズ　ド軍との対戦で見せた工夫　1.9％→14.8％に激増した球種「今日は使うべきタイミング」
+      <a href=https://news.yahoo.co.jp/articles/a93873cbebe6383d859107a81095fd146300d368>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000229-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=16&cw=766&ch=766&exp=10800&fmt=webp> 怪物右腕スキーンズの美人彼女　大谷翔平から三振奪う姿に「キャー！」年収3億円超のインフルエンサー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ad385eaac3d7e35f71147bbee22d945bf8a15e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00050098-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 海岸の女性保育士遺体、２１歳を遺棄容疑で逮捕…胸を中心に複数回刺され失血死
+      <a href=https://news.yahoo.co.jp/articles/07558ba479b8f9e0ac82909ed0a45799de38b1b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-35232349-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=525&cy=0&cw=675&ch=675&exp=10800&fmt=webp> バチカンでフランシスコ教皇の葬儀、広場に群衆集まる
       </a>
     </td>
   </tr>
@@ -396,22 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536752>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/konnoharuki/02186019/title-1745633572180.jpeg?exp=10800> 氷河期世代の問題 焦点は「老後」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/420c4c7d9cff7782426b475c421e5a33ed54967e8663bb60d499321c3ad03c8d.jpg> 万博初日に行列や混乱 その後は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/c9ca1dff77e521206ffd05186d600c687bf778d3af6a139e32a983b1bb519548.jpg> 矢田稚子元首相補佐官 語る当時
       </a>
     </td>
   </tr>
@@ -448,11 +432,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536758>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/09465d5b900d986a32fa465c181869cde3c7c721a043b85d6fc9dd53eb272d0f.jpg> 令和の教育ドラマ 新たな教師像
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536756>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/5e72a8e330386704e03f60bd1062875be9971afed80d916bf49014212da9d718.jpg> 50代でアパレル業界→漫画家 経緯
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 16:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 17:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
