@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/490e28bf5ed236233e2798b2b0d99265.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a0725b1ee620475a229c96d2b182c9c9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad4ed24bd5fd7f93f11b22e159d83d84f74bdc5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-01742662-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 打てない大谷翔平…米ファンが“イライラ”　ド軍メディアも驚きの光景「みんな落ち着いて」
+      <a href=https://news.yahoo.co.jp/articles/037c1800028aead2592899d1e88ec6304413f3c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-34261479-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【巨人】今季１軍初登板グリフィン２回２安打１失点　次戦先発へ「さびがきれいに取れた状態で」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cb6d8c897a5a2f270b3d9c3c617385de210ea5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000255-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 巨人・阿部監督「もうあそこが全て」と8回1死満塁無得点を悔やむ　その裏、一挙4失点で77年ぶり屈辱
+      <a href=https://news.yahoo.co.jp/articles/ff38d8c6b5bba8c5ab8c70efb38242bd5c4fa254>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-10175587-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> どうしたんだ…大谷翔平“ムムム顔” ボール球に反応し最強右腕スキーンズに空三振 相手捕手はガッツポーズのリアクション
       </a>
     </td>
   </tr>
@@ -379,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2271f616d9ecb0c87a33f57ebe3a9108b74103a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000038-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=794&ch=794&exp=10800&fmt=webp> 対米交渉「日本の労働者守る」　石破首相、賃上げへ悪影響懸念
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536759>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a9a691af42d75a17f9fbf3d5a385169d49d8e86697bed76eabcdd9bf755c1df8.jpg> ローマ教皇葬儀 信徒ら詰めかける
+      <a href=https://news.yahoo.co.jp/pickup/6536769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/99a7a6f118ac308b6ab51b92e0a30187f0dfdb7312e6bdd7becd2fce6d2e81d7.jpg> トランプ氏とゼレンスキー氏 会談
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536760>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/311eaf36a40f221f1cedf2b8a666421174550c6f471ad8dbd3a7815413cffce3.jpg> 消費減税公約 ぶれた立憲・野田氏
+      <a href=https://news.yahoo.co.jp/pickup/6536759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a9a691af42d75a17f9fbf3d5a385169d49d8e86697bed76eabcdd9bf755c1df8.jpg> ローマ教皇葬儀 信徒ら詰めかける
       </a>
     </td>
   </tr>
@@ -434,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536765>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/7bd928943b48d4b8201613ba9ad144e836051de86222a37d56542162072a344c.jpg> Switch2転売対策に賛否 識者分析
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536764>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ジブリ風AI画像 投稿者の責任は
+      <a href=https://news.yahoo.co.jp/pickup/6536768>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/7bd928943b48d4b8201613ba9ad144e836051de86222a37d56542162072a344c.jpg> Switch 2任天堂の転売対策 分析
       </a>
     </td>
   </tr>
@@ -456,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536766>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/264a4cab3db514a015bfdc2aa25f3ea8eb923729c74fca2bba6a03d9e1a95192.jpg> 三四郎・相田が結婚 小宮は動揺
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 18:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 18:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
