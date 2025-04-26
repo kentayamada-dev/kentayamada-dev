@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/30c14147d98425d87be2d9f1e399ff1c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c96d37d9625dc4404e607163923a723c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/691e996274046692ec2b92a588e54082ea983c21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 教皇の母国、悲しみに包まれ　アルゼンチンで市民祈り
+      <a href=https://news.yahoo.co.jp/articles/d4995ee89f88e2a92d2d120eb596fce93ed473fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-35232351-cnn-000-1-view.jpg?pri=l&w=192&h=121&exp=10800&fmt=webp> ローマ教皇フランシスコ、葬儀終えて安らかな眠りに
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/209c80e2f673a55fab4ec9a50656cbeec18a7741>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000048-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロシアがクルスク州のすべて奪還と発表　北朝鮮軍の兵士の参加も初めて公式に認める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9f920fb99053f822f30c93fed3e1ba482f380a93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-01742802-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平を三振→“キャアアア”　怪物右腕の美人彼女が大興奮、アップした“最高の瞬間”
       </a>
     </td>
   </tr>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536797>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/60180e33416b2747e7a55deccfa5044b0513cee008be81e7e6d1b41f7d5f2fa5.jpg> ALS患う73歳 夫と万博来場かなう
+      <a href=https://news.yahoo.co.jp/pickup/6536783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/50af13a5e9069b13173f8e89183ffa13399585d6aa92b07c0bca457be2004b95.jpg> TDR「飲食物」持ち込み禁止の訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/50af13a5e9069b13173f8e89183ffa13399585d6aa92b07c0bca457be2004b95.jpg> TDR「飲食物」持ち込み禁止の訳
+      <a href=https://news.yahoo.co.jp/pickup/6536803>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/f5fca514e724da283828b326d8744a974ec95f81a6b00a1f948ec6b8b0579ced.jpg> 佐々木騎手 ムチ使用巡り異例制裁
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 23:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 23:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
