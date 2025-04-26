@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7394c581bac28b3b044d4095b432d1f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c8bba2ad50703cf08b47ff9afcad94b8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8de14a3c43609b7ceb8a4552dd5b110d61c858e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000033-dal-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1984&ch=1984&exp=10800&fmt=webp> 江夏豊氏の姿にファン感動「涙涙涙です」「いつまでもお元気で」車椅子＆酸素吸入機つけて甲子園のマウンドへ「昭和世代ファン号泣」のシーン
+      <a href=https://news.yahoo.co.jp/articles/78df316b09e09e1b1cc3cb1f4b44e762c0c75dfa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000088-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=63&cw=787&ch=787&exp=10800&fmt=webp> 三四郎・相田周二が結婚報告「公私ともに一層の精進を」　6年間の交際経て一般女性と　ANNでも生発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78df316b09e09e1b1cc3cb1f4b44e762c0c75dfa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000088-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=63&cw=787&ch=787&exp=10800&fmt=webp> 三四郎・相田周二が結婚報告「公私ともに一層の精進を」　6年間の交際経て一般女性と　ANNでも生発表
+      <a href=https://news.yahoo.co.jp/articles/865dc12114fb0368082d202b8d4a3f28d086c3d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 為替、従来合意確認に安堵　関税交渉、予測不能の懸念も　日本政府
       </a>
     </td>
   </tr>
@@ -378,8 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/7255a35ad0864dcf2229be80d058590da2c2f3f8aa6609453c308b99d7375b2c.jpg> トランプ氏 日本との合意「近い」
+      <a href=https://news.yahoo.co.jp/pickup/6536703>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/79091f8b94d179f2f6e4fa803412045fbf40cfb36da9e1d9b099657b42e0d772.jpg> 女性皇族夫子身分は皇室会議で 案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/523ca11b883bb8d9d49ca316c772d81fb9338dcc9196b9ee1c020c95d2072126.jpg> 米財務長官 ドル安・円高望ましい
       </a>
     </td>
   </tr>
@@ -394,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536695>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/3e3ae172e7bfb384fef518790fa429804bee17b3b1d9d3cabab8b6e2626eb75a.jpg> 「消費税減税」参院選控え各党は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/4125488bc65ec483dd4332533ed3c99baa57edf25c56c74ce850eb21e290b6b7.jpg> 日産が武漢工場撤退へ 稼働率低迷
+      <a href=https://news.yahoo.co.jp/pickup/6536706>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/0476ee703227e076521e1b74af84cf3c1a5c81ddc02167636918d3861177cad2.jpg> GW開始 海外旅行の出国がピーク
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ee5fbbe8575e0283290f3332a678b7ab7b358ff45a30964cf70f7de5ab3ccc92.jpg> 浜田雅功 5月ごぶフェスで復帰へ
+      <a href=https://news.yahoo.co.jp/pickup/6536702>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/14b7cd5049c2d11852c151e6b96232fa586918494a3ec3ff56680aab79da0a75.jpg> 大谷の投手復帰は後半戦 球団首脳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536692>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/6ea06206941b47cd001029cf46d8c875a96da2c472f520b45b159108caf5db3f.jpg> 三四郎・相田 ラジオで結婚発表
+      <a href=https://news.yahoo.co.jp/pickup/6536690>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ee5fbbe8575e0283290f3332a678b7ab7b358ff45a30964cf70f7de5ab3ccc92.jpg> 浜田雅功 5月ごぶフェスで復帰へ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 08:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 09:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
