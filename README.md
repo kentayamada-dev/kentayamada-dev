@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8de3773d600a075475bc55a09587953b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aebd26facf68ca673988c72589cfbd44.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f8da6231aaf38575d0a2a4665a20c2e61a634fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00016690-fujinjp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『あんぱん』脚本の中園ミホさん「小さな役でも＜アンパンマン＞のキャラクターを当てはめています」のぶと嵩の恋は「うまく書けた自信がある」
+      <a href=https://news.yahoo.co.jp/articles/5933e5d54e47429ad529937e0871167ea3971fa8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000016-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1471&ch=1471&exp=10800&fmt=webp> トランプ氏、相互関税上乗せの一時停止延長に否定的　「恐らくない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/865dc12114fb0368082d202b8d4a3f28d086c3d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 為替、従来合意確認に安堵　関税交渉、予測不能の懸念も　日本政府
+      <a href=https://news.yahoo.co.jp/articles/d053735f3b6ad0f8d834e640d8ce0787cc1f9d72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米大統領「高いレベルで会談を」　ロ・ウクライナに直接対話促す
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3f8da6231aaf38575d0a2a4665a20c2e61a634fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00016690-fujinjp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『あんぱん』脚本の中園ミホさん「小さな役でも＜アンパンマン＞のキャラクターを当てはめています」のぶと嵩の恋は「うまく書けた自信がある」
       </a>
     </td>
   </tr>
@@ -378,8 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536703>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/79091f8b94d179f2f6e4fa803412045fbf40cfb36da9e1d9b099657b42e0d772.jpg> 女性皇族夫子身分は皇室会議で 案
+      <a href=https://news.yahoo.co.jp/pickup/6536699>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/927ac6bf1c2702e0f993fe571ea86bcce2dbbf3d7d7970df246c0758b477a61d.jpg> 外相らの外遊 立憲が異例の反対
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536706>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/459af48ec990176f0f21c0044cebb47b14a222362cf753c15b884c63c41dee47.jpg> GW開始 海外旅行の出国がピーク
       </a>
     </td>
   </tr>
@@ -394,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536706>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/0476ee703227e076521e1b74af84cf3c1a5c81ddc02167636918d3861177cad2.jpg> GW開始 海外旅行の出国がピーク
+      <a href=https://news.yahoo.co.jp/pickup/6536691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/872917b93821f23938756e35121f675d9ae04a15eef08d1e49b7c8fbd1c33dec.jpg> 万博で女性が心肺停止 病院で死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/872917b93821f23938756e35121f675d9ae04a15eef08d1e49b7c8fbd1c33dec.jpg> 万博で女性が心肺停止 病院で死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536711>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/55b835636ba02526480be0d8f2dbc3b91c7f15e85ae6d91282e2208a095b969e.jpg> コールド・ストーン なぜ人気下火
       </a>
     </td>
   </tr>
@@ -426,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ee5fbbe8575e0283290f3332a678b7ab7b358ff45a30964cf70f7de5ab3ccc92.jpg> 浜田雅功 5月ごぶフェスで復帰へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536708>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/cf1e8cc3e30f12f55efd037b8aa05f91d40343f6dab616f4cd126151315360b6.jpg> やなせさんと文通 あんぱん脚本家
       </a>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 09:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 10:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
