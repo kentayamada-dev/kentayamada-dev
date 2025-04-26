@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8c977431490f5d8d35163b578e5a8fbc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/37ad5ac339b094c6f8d112ab8bdbb2a9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c9f04a1eaff035bd009194a76c472402ac909aaf>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04261299-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、昨季新人王・スキーンズとの“怪物対決”で無安打１三振　ドジャース３連敗
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d08a3d742a951aec07327cdc4d431c0dbfc0c1a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00963843-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ・トランプ大統領とウクライナ・ゼレンスキー大統領が会談　ロシア停戦に向け意見交換か
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 04:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 04:30:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
