@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3f4242fe08a64560dbb0165dfb5d1d15.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3e735b0113df4d41aad107f640f1a1bf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9b6caf2edfb6b1792aee84ff027adb5b389faa2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000118-spnannex-000-18-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=966&ch=966&exp=10800&fmt=webp> 大谷翔平　長女誕生後本拠初戦は「デートナイト」で真美子夫人選曲のジョジョ登場曲で登場　結果は中飛
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000118-spnannex-000-21-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=966&ch=966&exp=10800&fmt=webp> 大谷翔平　長女誕生後本拠初戦は「デートナイト」で真美子夫人選曲のジョジョ登場曲で登場　結果は中飛
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536711>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/55b835636ba02526480be0d8f2dbc3b91c7f15e85ae6d91282e2208a095b969e.jpg> コールド・ストーン なぜ人気下火
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536709>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/6249d0c1b737fb0e5cf7f555ffa7dc0bcc07797ec2c666ee2aea4f90742d9cdf.jpg> 万博でコスプレ炎上 当事者が語る
       </a>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536722>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/82e29354de43c6cfd94a0221139aaffeebaea016847df76ff039714e01d71c23.jpg> Switch 2当選発表 SNSで「祭り」
+      <a href=https://news.yahoo.co.jp/pickup/6536731>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/62d88ac04903e38877fb67bf465cd6807dc979989e1e1909079fb8ad7c8fd827.jpg> ドコモ 料金プランを刷新した訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536724>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/5cc9a9e4ed620e016953f6b350c36ce30e272089552ac420629bf5084fe72bb4.jpg> 「疑惑判定」の三重殺 千賀ぼう然
+      <a href=https://news.yahoo.co.jp/pickup/6536735>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/64195b86c1cd93c9608f120e0b2357bd4e88fe24b09e171281ae089d343fe920.jpg> 産休クッキー騒動 売上に影響なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536722>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/82e29354de43c6cfd94a0221139aaffeebaea016847df76ff039714e01d71c23.jpg> Switch 2当選発表 SNSで「祭り」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 13:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 14:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
