@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c8bba2ad50703cf08b47ff9afcad94b8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8de3773d600a075475bc55a09587953b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78df316b09e09e1b1cc3cb1f4b44e762c0c75dfa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000088-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=63&cw=787&ch=787&exp=10800&fmt=webp> 三四郎・相田周二が結婚報告「公私ともに一層の精進を」　6年間の交際経て一般女性と　ANNでも生発表
+      <a href=https://news.yahoo.co.jp/articles/3f8da6231aaf38575d0a2a4665a20c2e61a634fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00016690-fujinjp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『あんぱん』脚本の中園ミホさん「小さな役でも＜アンパンマン＞のキャラクターを当てはめています」のぶと嵩の恋は「うまく書けた自信がある」
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536698>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/768fe72b17aa4d45bb36565c25cc23f02503cf947aeddd41073000cff2b1d395.jpg> 米産トウモロコシなど 輸入拡大案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536706>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/0476ee703227e076521e1b74af84cf3c1a5c81ddc02167636918d3861177cad2.jpg> GW開始 海外旅行の出国がピーク
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536702>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/14b7cd5049c2d11852c151e6b96232fa586918494a3ec3ff56680aab79da0a75.jpg> 大谷の投手復帰は後半戦 球団首脳
+      <a href=https://news.yahoo.co.jp/pickup/6536710>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/4f849697324edf189fad3339288b0583838d69d10a8ea4fb53d09ae989ff0b26.jpg> 違反? 運転中にフライドポテト
       </a>
     </td>
   </tr>
@@ -440,11 +432,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536708>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/cf1e8cc3e30f12f55efd037b8aa05f91d40343f6dab616f4cd126151315360b6.jpg> やなせさんと文通 あんぱん脚本家
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 09:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 09:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
