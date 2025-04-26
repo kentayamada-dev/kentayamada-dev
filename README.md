@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/91b2635103f1eed8e5aa02091095bf2d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3f4242fe08a64560dbb0165dfb5d1d15.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22691fc8d44b384d41c1678e3dbe06799108df4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00963679-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「物価上昇に負けない賃上げを必ず実現する」メーデー大会で非正規含めた賃上げへ決意表明　トランプ関税見直しへ「労働者守るため強力に交渉」
+      <a href=https://news.yahoo.co.jp/articles/a5a7977214d5576a0422a2b35562578e92aa83f5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-10175565-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=363&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 石破総理がメーデー大会に出席「関税措置の見直し訴える」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/584667d6a6970f67e901c3a08aa189e4cba3075b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-16999779-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏、ウクライナとロシアは「合意にとても近い」　ロシアは米特使と「建設的」会談と
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/06024ec6e7a67c8afe9e12cb5a8acf7dd2f8665a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00080019-chosun-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=587&ch=587&exp=10800&fmt=webp> 韓米、トランプ関税巡り「7月パッケージ」合意…韓国新政権発足後に最終妥結
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/895bb5de5c68654bfbcd81e6e0bad0db128c5105>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-35232339-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=806&ch=806&exp=10800&fmt=webp> トランプ氏、ロシアとウクライナによる「ハイレベルの会談」求める　和平協定の締結に向け
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536705>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/2382370e9c38fe1d92b52b6c823d59d7b906e990ff4f566b920a8099e1297bc1.jpg> 生活が苦しい 氷河期世代の実情は
+      <a href=https://news.yahoo.co.jp/pickup/6536734>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a4d0d8772916e292ceccc7712e5af202e4e1180cb1d755fd0c482db652c1bea9.jpg> ウ側 クリミア奪回不可能と認める
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536710>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/4f849697324edf189fad3339288b0583838d69d10a8ea4fb53d09ae989ff0b26.jpg> 違反? 運転中にフライドポテト
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536722>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/82e29354de43c6cfd94a0221139aaffeebaea016847df76ff039714e01d71c23.jpg> Switch 2当選発表 SNSで「祭り」
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536733>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/d75345a8bef826754f7c1c1a368d4fcd81f4d37da7c37d844915a2794727720e.jpg> 錦鯉長谷川 母のおにぎりで泣いた
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 13:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 13:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
