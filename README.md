@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/55f501a1a45d232bd38a8e4af1d44991.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7e6171ac05ac96ca3f9b6d089b9e52b4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22902004ee3f5b3d4e8654549a0f9c7bf463c9a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000025-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> バチカン、9日間の服喪期間　次期ローマ教皇選びが焦点に
+      <a href=https://news.yahoo.co.jp/articles/4edd07f71c3443855f502c6680508fa2ab1fc8c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-34270133-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1357&ch=1357&exp=10800&fmt=webp> 大谷翔平は「１番ＤＨ」佐々木朗希はメジャー初勝利をかけ６度目の先発／スタメン一覧
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbd615f1204b43c1d1e33cfdaf1b9ae4f1e2802d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04271018-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=457&cy=0&cw=743&ch=743&exp=10800&fmt=webp> 横浜ＦＭも完敗でＡＣＬＥ準々決勝は“ホーム”のサウジ勢が東地区に３戦全勝…残り１戦は川崎―アルサッド
+      <a href=https://news.yahoo.co.jp/articles/22902004ee3f5b3d4e8654549a0f9c7bf463c9a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000025-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> バチカン、9日間の服喪期間　次期ローマ教皇選びが焦点に
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/497d2d1f338e8a89357c71572f9f05f5eb0f074e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04271008-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、復帰５試合目で“パパ１号”出るか　パイレーツ戦「１番・ＤＨ」先発出場　佐々木朗希を援護へ
+      <a href=https://news.yahoo.co.jp/articles/3cfc1b329b3d9f2c253422d1377b186bf504c5eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00050000-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 阪神に開幕５連敗の巨人「今は１番から５番までしか野球をやっていない」亀井打撃コーチ厳しく指摘
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536805>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/af9d9f53c42bb7eff0212eb1bbb6c3216dee59cda553f68e0fb5863bddf11845.jpg> トランプ氏 露への追加制裁を示唆
+      <a href=https://news.yahoo.co.jp/pickup/6536815>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/628a551a64c58c68e0da4e29b5a6c4068f892f1c112b592c5efe2eccd321e14b.jpg> 露軍 将校爆殺で「ウ工作員」拘束
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 08:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 08:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
