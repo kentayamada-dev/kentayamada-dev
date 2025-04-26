@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cfa8f476a1231cde6eaf817c8af4cd80.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e38dc6dd9a17fca7828856cedb5353a1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0cf47996ad4fcaa6536b51480ff998fa99982907>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-07233020-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 死体遺棄容疑で逮捕の男のスマホに女性との通話記録、宮城保育士女性殺害
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d4995ee89f88e2a92d2d120eb596fce93ed473fc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-35232351-cnn-000-4-view.jpg?pri=l&w=192&h=121&exp=10800&fmt=webp> ローマ教皇フランシスコ、葬儀終えて安らかな眠りに
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/209c80e2f673a55fab4ec9a50656cbeec18a7741>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000048-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ロシアがクルスク州のすべて奪還と発表　北朝鮮軍の兵士の参加も初めて公式に認める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/642cd26f5de564a52edcd12c13419c36dc5f8b03>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00030978-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 錦織はシャポバロフに香港の借りを返され2回戦敗退 [マドリッド・オープン／テニス]
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ab77f9bc10b1f0ec4bdda2f1bd1b8ae093c2e7f3b0c5ba76fe756bf278ca344d.jpg> 万博来場者が死亡「適切な処置」
+      <a href=https://news.yahoo.co.jp/pickup/6536805>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/af9d9f53c42bb7eff0212eb1bbb6c3216dee59cda553f68e0fb5863bddf11845.jpg> トランプ氏 露への追加制裁を示唆
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536782>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/b1971c826bbf115f5b09e351cd3e184dbf552e92497d4aa8a95bf5fe0288cd06.jpg> 米不満 日本でアメ車普及しない訳
+      <a href=https://news.yahoo.co.jp/pickup/6536804>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ab77f9bc10b1f0ec4bdda2f1bd1b8ae093c2e7f3b0c5ba76fe756bf278ca344d.jpg> 万博来場者が死亡「適切な処置」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 23:52:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 00:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
