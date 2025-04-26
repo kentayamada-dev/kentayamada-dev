@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f7f175e604d22435d730e4f75f12fd44.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/999530fdcec7f6032c77c076bd2552e7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4d966fcc5efd8f5f4a1059757f0d9a4850b46da3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000048-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 千賀滉大、攻守に不運…三重殺を喰らい、20イニング1／3で連続無失点はストップも6回2失点と粘投、米メディア「ピカピカの防御率1・26」
+      <a href=https://news.yahoo.co.jp/articles/0e0c9da1403678b220eca3be8eb02d3b6e98b1d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000058-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=1185&ch=1185&exp=10800&fmt=webp> 怪物右腕スキーンズにロバーツ監督脱帽「ほぼ何もできなかった」　攻撃陣には苦言「相手も良かったが打線にも問題」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9833c57ef238279c4d5cccb976c4901df6d34ed3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-34260678-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1290&ch=1290&exp=10800&fmt=webp> ロバーツ監督、山本由伸は「彼らしくなかった」　ドジャース３連敗「うまくかみ合っていない」
+      <a href=https://news.yahoo.co.jp/articles/45a888ea8685f5599f5d11d8ef47808099b6d2ed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000078-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=16&cw=1462&ch=1462&exp=10800&fmt=webp> 辛坊治郎氏　「伝統的なメディアの方が下に落ちてきている」、著書「オールドメディアの遺言」サイン会でポツリ
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536730>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/fbd796eda7aea3c9c1364a43c21be80de90a86d4c122ec0a27b902527b7b0384.jpg> 首相 米関税の見直し強力に訴える
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536734>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a4d0d8772916e292ceccc7712e5af202e4e1180cb1d755fd0c482db652c1bea9.jpg> ウ側 クリミア奪回不可能と認める
       </a>
@@ -426,24 +418,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/420c4c7d9cff7782426b475c421e5a33ed54967e8663bb60d499321c3ad03c8d.jpg> 万博初日に行列や混乱 その後は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536731>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/62d88ac04903e38877fb67bf465cd6807dc979989e1e1909079fb8ad7c8fd827.jpg> ドコモ 料金プランを刷新した訳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/6249d0c1b737fb0e5cf7f555ffa7dc0bcc07797ec2c666ee2aea4f90742d9cdf.jpg> 万博でコスプレ炎上 当事者が語る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536721>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/5893fab21561a89c52e6c76649b80105d176402d10bf8cdb2d4864674da590d2.jpg> 調理ロボット 飲食店で進む導入
       </a>
     </td>
   </tr>
@@ -464,11 +448,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536745>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/8a33ae8ee69c16d9786131999db23bbdd0cabbf832322f896267240d0a1ca4eb.jpg> 大谷 妻選曲の「ジョジョ」で登場
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536747>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/3651cfccec03b90eb1c170eb21a8c9f10330b86cd594d9ed32d699fc508b3b67.jpg> 辛坊治郎氏「引退なんかしない」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 15:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 15:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
