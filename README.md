@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aebd26facf68ca673988c72589cfbd44.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b4c95cf12fdd436fa73016cb8f71f3ea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/91a73b12d26953e0cc970c6b36522b35b09c3f22>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000015-san-000-2-view.jpg?pri=l&w=153&h=192&exp=10800&fmt=webp> ウクライナ弔問外交なるか　トランプ氏とゼレンスキー氏、口論から2カ月ぶり顔合わせも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5933e5d54e47429ad529937e0871167ea3971fa8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000016-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1471&ch=1471&exp=10800&fmt=webp> トランプ氏、相互関税上乗せの一時停止延長に否定的　「恐らくない」
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d053735f3b6ad0f8d834e640d8ce0787cc1f9d72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米大統領「高いレベルで会談を」　ロ・ウクライナに直接対話促す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f8da6231aaf38575d0a2a4665a20c2e61a634fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00016690-fujinjp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 『あんぱん』脚本の中園ミホさん「小さな役でも＜アンパンマン＞のキャラクターを当てはめています」のぶと嵩の恋は「うまく書けた自信がある」
+      <a href=https://news.yahoo.co.jp/articles/c21c2ae2e789aec98e782db272f1dfc5dc9528e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00960087-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=397&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 家にトコジラミを持ち込んでしまった時の対処法。家財を捨てなければならないってホント?駆除の第一人者に聞いた
       </a>
     </td>
   </tr>
@@ -394,16 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536706>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/459af48ec990176f0f21c0044cebb47b14a222362cf753c15b884c63c41dee47.jpg> GW開始 海外旅行の出国がピーク
+      <a href=https://news.yahoo.co.jp/pickup/6536704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/523ca11b883bb8d9d49ca316c772d81fb9338dcc9196b9ee1c020c95d2072126.jpg> 米財務長官 ドル安・円高望ましい
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536704>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/523ca11b883bb8d9d49ca316c772d81fb9338dcc9196b9ee1c020c95d2072126.jpg> 米財務長官 ドル安・円高望ましい
+      <a href=https://news.yahoo.co.jp/pickup/6536714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a9cd849cac0d5c12aceb490200e7a3519dbbc55c24d89052d4781f8a6d1514eb.jpg> 豊田自動織機 株式非公開化を検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/200b9fd543d1a4d755d9594c4427b6142fe0fb3e92a3aece0b3dafaa0d64300f.jpg> 米向けiPhone生産 中→印と報道
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536711>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/55b835636ba02526480be0d8f2dbc3b91c7f15e85ae6d91282e2208a095b969e.jpg> コールド・ストーン なぜ人気下火
+      <a href=https://news.yahoo.co.jp/pickup/6536712>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/2de23a8e85687a8a4c6b8ac90fc4095b0adcdd3e1442eabc2bd9215b962cbbd8.jpg> 園の前理事長 園児ら名簿を業者に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536700>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/8f7e4f01286df469b5ba0b79f0ee341392b4c8a489978cf56f416b4587f914b7.jpg> 豪の山火事 コアラ約700頭殺処分
+      <a href=https://news.yahoo.co.jp/pickup/6536711>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/55b835636ba02526480be0d8f2dbc3b91c7f15e85ae6d91282e2208a095b969e.jpg> コールド・ストーン なぜ人気下火
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536708>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/cf1e8cc3e30f12f55efd037b8aa05f91d40343f6dab616f4cd126151315360b6.jpg> やなせさんと文通 あんぱん脚本家
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 10:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 10:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
