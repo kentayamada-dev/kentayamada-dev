@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d0bbda43c8510b330836cd89f9ad8b62.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/490e28bf5ed236233e2798b2b0d99265.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ad4ed24bd5fd7f93f11b22e159d83d84f74bdc5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-01742662-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 打てない大谷翔平…米ファンが“イライラ”　ド軍メディアも驚きの光景「みんな落ち着いて」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9cb6d8c897a5a2f270b3d9c3c617385de210ea5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000255-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 巨人・阿部監督「もうあそこが全て」と8回1死満塁無得点を悔やむ　その裏、一挙4失点で77年ぶり屈辱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/15e2c11d5cabb4ba3d87ff4fc0b347af5f2337cc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000012-maikirei-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=290&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> ＜有村架純＞ノースリーブのドレスで美肌輝く　淡いグリーンで春らしさも
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9741a17f3f631585bb206e9f8e8ded49d47b0bd8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-05196715-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ドジャース完封負けで3連敗　大谷翔平は豪腕・スキーンズの前に沈黙　先発の山本由伸は5回3失点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2271f616d9ecb0c87a33f57ebe3a9108b74103a4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000038-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=794&ch=794&exp=10800&fmt=webp> 対米交渉「日本の労働者守る」　石破首相、賃上げへ悪影響懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4eafa0fca5feea7de93b4128ae6f0afff5a8f861>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000198-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 金子恵美氏　立民の「食品消費税1年ゼロ」公約をチクリ「野田さんが、増税した人がこう言うのは…」
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536759>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a9a691af42d75a17f9fbf3d5a385169d49d8e86697bed76eabcdd9bf755c1df8.jpg> ローマ教皇葬儀 信徒ら詰めかける
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536762>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博 期間中に首脳20人が来日調整
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536738>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/2abce09268e4823858b17747de9395f9e2ceae04c824ced563833c0537a53040.jpg> 子に「はい論破」言われたら 対処
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536753>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/6e0da319a591e40a5fa79fe832a566e74f4e933559dd6b76890adfd1031ebba6.jpg> 創業60年もみじまんじゅう店 閉店
       </a>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536763>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/03f966c6885f5abae5950c43c0c9c0a92515f526404f2c6fce243b8b5dbac4c8.jpg> 効率よく選びたい 韓国の結婚事情
+      <a href=https://news.yahoo.co.jp/pickup/6536765>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/7bd928943b48d4b8201613ba9ad144e836051de86222a37d56542162072a344c.jpg> Switch2転売対策に賛否 識者分析
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536751>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/8a33ae8ee69c16d9786131999db23bbdd0cabbf832322f896267240d0a1ca4eb.jpg> 大谷 妻選んだ曲で登場もHRなし
+      <a href=https://news.yahoo.co.jp/pickup/6536767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/e26c344d4f4030412f283f532efa52cf9a331df1b8ca3f15969771e58368d5a6.jpg> 巨人屈辱 阪神に開幕から5戦5敗
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 17:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 18:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
