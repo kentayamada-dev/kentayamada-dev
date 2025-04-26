@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dd9d26d5cd43b0eb1ba2a5fcb515eda8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/59a5efb196eed1d39c0992eb6d1f69d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/95bce327137ff38a43a2dd3511429e3f443b51c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000040-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=1165&ch=1165&exp=10800&fmt=webp> 阪神・及川「全力で抑えに行った」ピンチも救われ、13試合連続自責点0
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1cfe5ca381d9e5c10ca42686306567dcda4d0426>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-34261531-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1231&ch=1231&exp=10800&fmt=webp> 大谷翔平「父親リスト」から復帰後16の２、スイング大きくストライクゾーンでもミスショット増
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8f942faac0a688f81943bdb9149636b3323082d2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000061-spnannex-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ローマ教皇葬儀に40万人　ゼレンスキー大統領が正装（?）弔問　トランプ米大統領と電撃会談も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9f04a1eaff035bd009194a76c472402ac909aaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04261299-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=6&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、昨季新人王・スキーンズとの“怪物対決”で無安打１三振　ドジャース３連敗
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c9e7c0ad3a910a124e0671f1e832f538bfe0f9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00963842-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ローマ教皇フランシスコに信者らが最後の別れ　5月上旬に「コンクラーベ」の見通し
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 05:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 05:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
