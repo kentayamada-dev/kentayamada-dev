@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/fzePAvEcUOc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b3dff725e3a37af27eb7cdda0724e36e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d7b8149fa6dc62b64fe41c8f6c6b6568.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/33fa89a3d9e2490529bda193631dec55e27e6438>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-90022985-nbstv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 水門に車が衝突　19歳と20歳の自動車整備科の訓練生4人が死亡　同乗3人の死因は多発外傷、外傷性出血性ショック、出血性ショック　かなりのスピード出していたか
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c41b4c8e85df88f21d4df6dc0f8f9815ef17c2a3>
@@ -386,32 +394,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536769>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/0002fc1809f1b79fb1aec414a71254fa115c9a65a79dca8447ea1bd9a0463f69.jpg> トランプ氏とゼレンスキー氏 会談
+      <a href=https://news.yahoo.co.jp/pickup/6536784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ba58c4f22f7cccdf33c69d2e8c517dc2b2dd9e3a71040a3396b40f09cc57b8a3.jpg> 教皇葬儀「忘れない」世界に配信
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536762>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博 期間中に首脳20人が来日調整
+      <a href=https://news.yahoo.co.jp/pickup/6536779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/731ca797b06c9d51cd12dfc376fd86749ae7293f4a7b195bf4579422ad1dc426.jpg> 暫定税率廃止の場合 地方の減収大
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536755>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 女性保育士の死体遺棄疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6536782>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/b1971c826bbf115f5b09e351cd3e184dbf552e92497d4aa8a95bf5fe0288cd06.jpg> 米不満 日本でアメ車普及しない訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536753>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/6e0da319a591e40a5fa79fe832a566e74f4e933559dd6b76890adfd1031ebba6.jpg> 創業60年もみじまんじゅう店 閉店
+      <a href=https://news.yahoo.co.jp/pickup/6536773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ac53d54b36dfe1d52fb5c009edda621e7eb5f0130206a697c42914b99c86c66b.jpg> ふるさと納税 コメの返礼品人気
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536777>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/b5c0ff7f63561b031b74210c427755028cea796f9d22ea59fc5b5794e74844a4.jpg> GW後に患者増 「気象病」に注意
       </a>
     </td>
   </tr>
@@ -426,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/a527d18518448d655a5598e68193e55d3bab452717cf833c9f9dcf2da96ea43f.jpg> 朝倉未来「100%勝つ」強気の宣言
+      <a href=https://news.yahoo.co.jp/pickup/6536783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/50af13a5e9069b13173f8e89183ffa13399585d6aa92b07c0bca457be2004b95.jpg> TDR「飲食物」持ち込み禁止の訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536776>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/d56906e8243708ef8eec6f2b714c71b3fa09867e3d9afb6a1722785c58dfcbca.jpg> 首絞められ 元子役語る壮絶いじめ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536766>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/264a4cab3db514a015bfdc2aa25f3ea8eb923729c74fca2bba6a03d9e1a95192.jpg> 三四郎・相田が結婚 小宮は動揺
+      <a href=https://news.yahoo.co.jp/pickup/6536781>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/d56906e8243708ef8eec6f2b714c71b3fa09867e3d9afb6a1722785c58dfcbca.jpg> 元子役 ブレイク裏の壮絶ないじめ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 20:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 20:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
