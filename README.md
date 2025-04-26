@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/993d71fff15254351ffd8ed8dadcc52a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/301ecb48a17dc6200816d2b3c3b1a40e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91a73b12d26953e0cc970c6b36522b35b09c3f22>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000015-san-000-2-view.jpg?pri=l&w=153&h=192&exp=10800&fmt=webp> ウクライナ弔問外交なるか　トランプ氏とゼレンスキー氏、口論から2カ月ぶり顔合わせも
+      <a href=https://news.yahoo.co.jp/articles/9b6caf2edfb6b1792aee84ff027adb5b389faa2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000118-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=975&ch=975&exp=10800&fmt=webp> 大谷翔平　長女誕生後本拠初戦第1打席は中飛　角度よく上がりファン歓声も失速　怪物右腕との注目対決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfdcaf18e97b45bbfd40c12bf9dcf4db81153acb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-04261048-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平、キャッチボールで“大暴投”　ファンに脱帽して謝罪　エンゼルス時代の戦友と笑顔の再会も
+      <a href=https://news.yahoo.co.jp/articles/06024ec6e7a67c8afe9e12cb5a8acf7dd2f8665a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00080019-chosun-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=587&ch=587&exp=10800&fmt=webp> 韓米、トランプ関税巡り「7月パッケージ」合意…韓国新政権発足後に最終妥結
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5933e5d54e47429ad529937e0871167ea3971fa8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000016-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=1471&ch=1471&exp=10800&fmt=webp> トランプ氏、相互関税上乗せの一時停止延長に否定的　「恐らくない」
+      <a href=https://news.yahoo.co.jp/articles/895bb5de5c68654bfbcd81e6e0bad0db128c5105>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-35232339-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=806&ch=806&exp=10800&fmt=webp> トランプ氏、ロシアとウクライナによる「ハイレベルの会談」求める　和平協定の締結に向け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c21c2ae2e789aec98e782db272f1dfc5dc9528e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00960087-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=397&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 家にトコジラミを持ち込んでしまった時の対処法。家財を捨てなければならないってホント?駆除の第一人者に聞いた
+      <a href=https://news.yahoo.co.jp/articles/824ace75c5779e2f98c98d77d3b72e513629f21c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00529011-theanswer-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 三重殺で怒りの誤審指摘、メッツ監督「イラ立つ」　好投の千賀援護できず「審判3人は見ていた」
       </a>
     </td>
   </tr>
@@ -392,14 +392,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536699>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/927ac6bf1c2702e0f993fe571ea86bcce2dbbf3d7d7970df246c0758b477a61d.jpg> 外相らの外遊 立憲が異例の反対
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536714>
@@ -418,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/872917b93821f23938756e35121f675d9ae04a15eef08d1e49b7c8fbd1c33dec.jpg> 万博で女性が心肺停止 病院で死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536711>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/55b835636ba02526480be0d8f2dbc3b91c7f15e85ae6d91282e2208a095b969e.jpg> コールド・ストーン なぜ人気下火
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536711>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/55b835636ba02526480be0d8f2dbc3b91c7f15e85ae6d91282e2208a095b969e.jpg> コールド・ストーン なぜ人気下火
+      <a href=https://news.yahoo.co.jp/pickup/6536717>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 佐渡島で初めて前方後円墳を発見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536709>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/6249d0c1b737fb0e5cf7f555ffa7dc0bcc07797ec2c666ee2aea4f90742d9cdf.jpg> 万博でコスプレ炎上 当事者が語る
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 11:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 11:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
