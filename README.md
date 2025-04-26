@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2009b4553bb9fd50570f8accd3274bb4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7b2f49f1c4d3b0947642751e60cb2456.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07ca7fd6ede2cb0ee526317f120c1611e48255ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-16012133-bbc-000-2-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 教皇フランシスコの葬儀ミサに数十万人集まる　人柄と業績しのぶ
+      <a href=https://news.yahoo.co.jp/articles/642cd26f5de564a52edcd12c13419c36dc5f8b03>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00030978-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 錦織はシャポバロフに香港の借りを返され2回戦敗退 [マドリッド・オープン／テニス]
       </a>
     </td>
   </tr>
@@ -394,24 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536779>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/731ca797b06c9d51cd12dfc376fd86749ae7293f4a7b195bf4579422ad1dc426.jpg> 暫定税率廃止の場合 地方の減収大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ba58c4f22f7cccdf33c69d2e8c517dc2b2dd9e3a71040a3396b40f09cc57b8a3.jpg> 教皇葬儀「忘れない」世界に配信
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536787>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/cbc064a1d2cbdf7bf3f7ea8724b1d22183cfdd2103d305f72e30b5088926a022.jpg> 教皇葬儀で初の中国語朗読 米報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536757>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/8e058a54478c715c9ff2c60e1c045ad24e4ad643f7b5e8abcdce1a57a64cea72.jpg> 北で駆逐艦の進水式 正恩氏が演説
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536788>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/e81026a1a9de3433807ce18dc0c9ae8d881e6ac3ea3916d5a26dfa39499d8956.jpg> 目から鱗 石破氏が東大AI講座受講
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/be3c0d0a51f768717729336ac1e03627374e34dba5b8dcd5a9b933cf6f7623dc.jpg> 京大の食堂 お茶の無料提供終了
+      <a href=https://news.yahoo.co.jp/pickup/6536783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/50af13a5e9069b13173f8e89183ffa13399585d6aa92b07c0bca457be2004b95.jpg> TDR「飲食物」持ち込み禁止の訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536783>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/50af13a5e9069b13173f8e89183ffa13399585d6aa92b07c0bca457be2004b95.jpg> TDR「飲食物」持ち込み禁止の訳
+      <a href=https://news.yahoo.co.jp/pickup/6536770>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/be3c0d0a51f768717729336ac1e03627374e34dba5b8dcd5a9b933cf6f7623dc.jpg> 京大の食堂 お茶の無料提供終了
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 21:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 21:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
