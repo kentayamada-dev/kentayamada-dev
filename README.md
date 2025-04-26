@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/fzePAvEcUOc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/602ee1d09bb7b5c2545b68ba7eb51e83.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/57fdd87ab3d2d858402600dabe9c54fb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9f920fb99053f822f30c93fed3e1ba482f380a93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-01742802-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=195&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平を三振→“キャアアア”　怪物右腕の美人彼女が大興奮、アップした“最高の瞬間”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b16cfa7e523b9998a11907dc008c6eb41dec6458>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア クルスク州の「完全奪還」を発表　プーチン氏に参謀総長が報告　北朝鮮軍の戦闘参加認める
       </a>
@@ -366,31 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/07ca7fd6ede2cb0ee526317f120c1611e48255ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-16012133-bbc-000-6-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 教皇フランシスコの葬儀ミサに数十万人集まる　人柄と業績しのぶ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-16012133-bbc-000-7-view.jpg?pri=l&w=192&h=108&exp=10800&fmt=webp> 教皇フランシスコの葬儀ミサに数十万人集まる　人柄と業績しのぶ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c280cf8011c0dc7ea5c259cf24306db013900067>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00255680-bark-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=574&ch=574&exp=10800&fmt=webp> 布袋寅泰、＜GUITARHYTHM VIII TOUR＞追加公演を日本武道館で開催
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33fa89a3d9e2490529bda193631dec55e27e6438>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-90022985-nbstv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 水門に車が衝突　19歳と20歳の自動車整備科の訓練生4人が死亡　同乗3人の死因は多発外傷、外傷性出血性ショック、出血性ショック　かなりのスピード出していたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f65f71378b166dc6f4110340e01a3eee2deb8c5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-01742584-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=187&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平を手玉に取った怪物22歳　衝撃の“魔球”に米騒然「エグすぎる」「脱帽」
+      <a href=https://news.yahoo.co.jp/articles/d19016913c26f22ac9314db9e51573ce3b8ff9b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00788193-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> STARTO社、SUPER EIGHT・大倉忠義の会社と契約「ジュニアの育成、発掘等および、その他対象アーティストのプロデュース業務を委託」
       </a>
     </td>
   </tr>
@@ -404,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536792>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/2037bcd4089f2a081441055bf6c7909e7c8a0f0f0641b0a21697476bb9ef746e.jpg> 露 クルスク州の完全奪還を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536787>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/cbc064a1d2cbdf7bf3f7ea8724b1d22183cfdd2103d305f72e30b5088926a022.jpg> 教皇葬儀で初の中国語朗読 米報道
       </a>
     </td>
   </tr>
@@ -434,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536794>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/5ad27facc1c6a7a9f2a48206d8337bc975845d873cfab33062ae9c7d10be1e96.jpg> 万博でコスプレ禁止? 公式案内は
+      <a href=https://news.yahoo.co.jp/pickup/6536795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/1f73c05adeccd59157e4d192e5fc5e76484a328949a3ae60e367bbe48c33f198.jpg> 「高収入」うたう宣伝車 市調査へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536797>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/60180e33416b2747e7a55deccfa5044b0513cee008be81e7e6d1b41f7d5f2fa5.jpg> ALS患う73歳 夫と万博来場かなう
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536790>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/f96b3dfe53fedf34fb3cd72c60ce3819bd380a52446d4ac876a997619eb58002.jpg> 名古屋グランパス 新社長就任発表
+      <a href=https://news.yahoo.co.jp/pickup/6536799>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/0e417b53470d67650a2a6fb796edac8935dcf4e36e54683c60d3f3db00f6771b.jpg> 高津監督 長岡秀樹の離脱を示唆
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 22:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 22:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
