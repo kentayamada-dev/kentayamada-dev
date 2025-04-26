@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/301ecb48a17dc6200816d2b3c3b1a40e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6e596af90fe9ded22be62907ea781b0d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9b6caf2edfb6b1792aee84ff027adb5b389faa2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000118-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=975&ch=975&exp=10800&fmt=webp> 大谷翔平　長女誕生後本拠初戦第1打席は中飛　角度よく上がりファン歓声も失速　怪物右腕との注目対決
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000118-spnannex-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=966&ch=966&exp=10800&fmt=webp> 大谷翔平　長女誕生後本拠初戦は「デートナイト」で真美子夫人選曲のジョジョ登場曲で登場　結果は中飛
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/824ace75c5779e2f98c98d77d3b72e513629f21c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00529011-theanswer-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 三重殺で怒りの誤審指摘、メッツ監督「イラ立つ」　好投の千賀援護できず「審判3人は見ていた」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00529011-theanswer-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 三重殺で怒りの誤審指摘、メッツ監督「イラ立つ」　好投の千賀援護できず「審判3人は見ていた」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/26 11:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/26 12:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
