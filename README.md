@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c7d4829adde730a91b6e68f624a90d44.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c29d2d04a01650eb4bb82073654b004.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/324d8f6dbde6b946768c4d90490d8698673eb090>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-01742420-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 3安打の大谷翔平は「本当によかった」　連敗ストップ貢献にド軍監督も称賛
+      <a href=https://news.yahoo.co.jp/articles/515fd29ff33966af2954c64222253e6d5103aac5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04271145-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、“パパ初尽くし”３安打１打点１盗塁　試合終了１５分後に後輩に視線を送りながら帰宅
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c803b4d446faf093efc98d50a7342e53b7934241>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010005-tennisnet-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 穂積絵莉 2年ぶりペアで完勝、失ゲーム1でマドリッドOP初戦突破＜女子テニス＞
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c24e19d98427a56843da48b78683ed7e8cd5e61d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-11636157-maidonans-000-30802313-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「天国でもエリーさんのままで…」大宮エリーさん49歳で死去　世界で活躍するギタリストが哀悼のメッセージ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e929afe857fd5cbd03530c89829978576d90b1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010004-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 内島萌夏 3回戦で世界3位と激突、試合は今夜開始＜女子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/aa6b9e738d127e24a84d644dd5b60eeb6677cf8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000024-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 石破総理 ベトナム・フィリピン訪問へ トランプ関税や中国をにらみ連携強化
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536841>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/05230b149266734a2c1f00c9e3cce2afe8aaaeadd645ea4b853090ca52a644b7.jpg> 立憲代表 不信任案に慎重な考え
+      <a href=https://news.yahoo.co.jp/pickup/6536857>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/234236f40400f7f7f8e20d894329e002775996546566bb822a392c565f16d8bd.jpg> 首相が外遊出発 関税で協力確認へ
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536836>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/8810e8171cfa002ce2fd79b9a452da76bebe6fb6828d93732e3b1e23e3036f70.jpg> 高速道路の逆走 年200件前後発生
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536846>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/314a4b11e212c30760525752f6d02c34a5e9012887c6aa8041cf0f9600fa0565.jpg> 東北道3人死亡 衝突まで3km逆走か
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536853>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/c4bd7483bd8794f489fd80b3e1f52f2d73f6a914bc676caf5159d3683be37250.jpg> 自閉症の子が痴漢に誤認され 憤慨
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536854>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4d257387566dbe98eda5ad50ce1f164ae53360481beeea0c85609cb6cbc982a3.jpg> エリーさん死去 不調明かしていた
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 14:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 14:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
