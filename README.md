@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d1609eb5d3f301c3f41756e39071625.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c2820f3e37bfd3748c7ef027cc249054.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01d28c442d6d643bc57b79566cc49c44cc71dd1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-02012837-soccerk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ACLE準決勝進出の川崎F、POTMは2得点演出のMF山本悠樹「背後を狙えるとは感じていました」
+      <a href=https://news.yahoo.co.jp/articles/6d5fee8ce9bd49271330762ed9603cc74352a55e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-04281013-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、初回は顔面付近の球に“絶叫”からの四球　復調の３安打翌日　復帰６戦目で待望の“パパ１号”なるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32fef2b6e881222ca5bf4f699876798dcea5d3df>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-04281017-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平は「正しい方向へ」　ロバーツ監督が感じた復調気配「さらに良くなる」　前夜に３安打１打点
+      <a href=https://news.yahoo.co.jp/articles/af7a7ba37d770cab24379b7fcc3c9a45de775157>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 安保協力の強化確認へ　日越首脳、関税措置で連携
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/343aa74ae69f676540fb9653336597bcf4bd0046>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=429&cy=0&cw=1342&ch=1342&exp=10800&fmt=webp> 佐々木朗希 メジャー初勝利はまたおあずけも粘りの投球 猛打賞の大谷翔平はタイムリーヒットなどで勝利に貢献
+      <a href=https://news.yahoo.co.jp/articles/bd4762d4e58fe4f562a6ed8db42140e7e05c4a37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010001-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「今年一番の出来かも」ロバーツ監督が佐々木朗希の粘投を称賛！ メジャー初勝利は持ち越しも次戦に手応え「本当の自信がつき始めた」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 05:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 05:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
