@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/999499278bc7d95e6e31086a6b40ff2f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/df06474bd11b1b10b9e494c6ed2a10d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cc68f01b6b7216d7642d38153ecb7a994b2e3f6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-10175667-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=423&cy=0&cw=986&ch=986&exp=10800&fmt=webp> ロシア軍、プーチン大統領にクルスク州「奪還」を報告 北朝鮮兵の参戦を初めて認める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b8bacdc9e9e5feddfb1fa22cd4e251d48358baf2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000030-ann-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】カナダ・バンクーバーで祭りの群衆に車が突っ込み複数人死亡　運転手は拘束
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/73077fda78999b461b54900952e0b9bd33267f94>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a9e04cedf9d4ba6d53a66f6b2a7037c9d82163bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-35232356-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ロシア、クルスク州の奪還を発表　ウクライナは否定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa6b9e738d127e24a84d644dd5b60eeb6677cf8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000024-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 石破総理 ベトナム・フィリピン訪問へ トランプ関税や中国をにらみ連携強化
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536836>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/8810e8171cfa002ce2fd79b9a452da76bebe6fb6828d93732e3b1e23e3036f70.jpg> 高速道路の逆走 年200件前後発生
+      <a href=https://news.yahoo.co.jp/pickup/6536856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/47564dbcdb07370cb58c7c9b85cc27b314b1e0d705f603ea5e403a0d24fe9cd4.jpg> 米大統領 パナマ運河無料通航主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536863>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> カナダ 群衆に車突っ込み死者複数
       </a>
     </td>
   </tr>
@@ -420,22 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536858>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 川で6歳男児が意識不明 溺れたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536837>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/fff9bd0222222d82b94696256b2113f6b4bd8bb736afc374c297167d32d3f4a7.jpg> トランプ氏 教皇葬儀に青いスーツ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536853>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/c4bd7483bd8794f489fd80b3e1f52f2d73f6a914bc676caf5159d3683be37250.jpg> 自閉症の子が痴漢に誤認され 憤慨
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/1c319477749a02fcec39b1d2a0db8f6e04d1a18bb2095a110d859d5968b35e29.jpg> 杉浦太陽 レギュラー番組育休予定
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 15:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 15:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
