@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fd9654e2cae076c84f9d30c71da58f7f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/930ae314d7fd7f3d9fb531f471d24677.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/61c14cf8421adb5160b5122823593434bd66e70f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000048-dal-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=1644&ch=1644&exp=10800&fmt=webp> 大谷翔平　第１打席で二塁打！２試合ぶりの安打　二塁塁上で笑みを浮かべ激しくパフォ→テオの適時二塁打で同点ホーム　佐々木のプレーボール被弾をカバー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b2ecf625ba149bfe7e0109a3c7064776b04d5336>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010002-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1535&ch=1535&exp=10800&fmt=webp> 錦織圭に快勝で3回戦進出、世界30位シャポバロフ 雪辱果たす＜男子テニス＞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/43e37060793665f97bfcfea749137fef3e4e7e80>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00342485-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大宮エリーさんが病気のため４９歳で死去　脚本家やラジオパーソナリティーなどで活躍
       </a>
@@ -366,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/15bf0ac11eff4167f37e8885ec857e11075bd2d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000012-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=476&ch=476&exp=10800&fmt=webp> 「ウクライナ特殊機関の男性」拘束　ロシア、軍幹部殺害で捜査当局
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000012-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=521&ch=521&exp=10800&fmt=webp> 「ウクライナ特殊機関の男性」拘束　ロシア、軍幹部殺害で捜査当局
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/900630c4927bd31d1c65a0f70f1ead72e88f4bd9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-10175627-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=596&ch=596&exp=10800&fmt=webp> フランシスコ教皇の葬儀 ローマ・カトリック教会の広場に約25万人が集まり別れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c42050eca6cde558c817c602f5365c9303646bf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-01742957-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の背後で“絶望”…頭抱え直視できず　嘆くド軍ファンに「悲しい日だ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60355cd47318f1cdb2916358cc2299008d17c9d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000170-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> SUPER EIGHT・大倉忠義の会社と「STARTO」が業務委託契約締結　ジュニア全体育成へ
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536820>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4c91e0beeaa453fe3a66b1ae123a171481c10675ee00b7f480b13b03b3a09ac8.jpg> 小2が線路上で電車と接触 重傷
+      <a href=https://news.yahoo.co.jp/pickup/6536818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/f08a36f931b41f01b4c6a03939152997dc50715a0d9af26a6dd9ec59887f18fc.jpg> 「頂き女子」の母 取材に流した涙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536818>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/f08a36f931b41f01b4c6a03939152997dc50715a0d9af26a6dd9ec59887f18fc.jpg> 「頂き女子」の母 取材に流した涙
+      <a href=https://news.yahoo.co.jp/pickup/6536822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/27052e2f0b1074a9d8daf30a960e0e717878ef42155f949443b57048fd107d06.jpg> 生徒220人に商品券1万円 町の狙い
       </a>
     </td>
   </tr>
@@ -442,24 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536824>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/e4e7f2784d6739b3ee57f17a6eb9e42e0604f16a4dfe555efe8d4b78e61470cc.jpg> 三笘薫 起死回生のヘディング弾
+      <a href=https://news.yahoo.co.jp/pickup/6536833>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/2cd11fbfe6ec62f78c3abb906c8aa129b46095824ed51621bf5994e1c5bae2ea.jpg> 朗希ぼう然 プレーボール初球被弾
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/287500594e56e504c024bae46327cfbf72cdbeab6d79bfd6e97217a2a8e4966b.jpg> 氣志團 23年ぶりワンマンライブへ
+      <a href=https://news.yahoo.co.jp/pickup/6536832>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/69280a027e502517c0fb7ff61db8667f81070d3749b755e9ca3d1a339618a671.jpg> 新井恵理那アナ 第2子出産を公表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/1492395653715cff2f1c9dca6bbafe93c78ef9dfd6a38532175a03db891570fd.jpg> 作家・大宮エリーさん死去 49歳
+      <a href=https://news.yahoo.co.jp/pickup/6536828>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/ce27199afca800d19cc38fb8749212ccd592cfd3d88e3802d20c224e288a4d11.jpg> エリーさん死去 芸能界悲しみの声
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 10:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 10:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
