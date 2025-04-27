@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GccYSe4vijo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/75e96891c1a5f0b659a68e2a36826623.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/faf0ae4f27ffcbc2546e4534e8fc2fe3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/1f864f7ace99c35b85274d9c73506f0c5e7b7dbea0c2c8b88132d38e8b61326e.jpg> 韓国大統領選 野党候補に李在明氏
+      <a href=https://news.yahoo.co.jp/pickup/6536908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/0ff87888e14848bf07956cc0275c8bd81d973774aa138075c56564ad121d7c2f.jpg> 世界の製薬企業 米国への投資急ぐ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/0ff87888e14848bf07956cc0275c8bd81d973774aa138075c56564ad121d7c2f.jpg> 世界の製薬企業 米国への投資急ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6536910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/738d5ba8f7e0457a6f7e4bc923aeab3496eb5b902a978aa67a12ffcce8189ec2.jpg> 次期戦闘機の愛称「烈風」検討
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/225413e723a4ccf6f7f67ca78ecab8e428f840c02914273b17f7b287821a29e7.jpg> 甲子園に岡田彰布氏 大勢が出待ち
+      <a href=https://news.yahoo.co.jp/pickup/6536911>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/a4f41f06a5db6874eb0212087baad89db5f8986c369cba76e5f17e5897ffdd5a.jpg> いまだ「犠打0」新庄監督が言及
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 21:31:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 22:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
