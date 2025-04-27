@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/fzePAvEcUOc?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GccYSe4vijo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a338d5d41b54cc375008bbde10e15fb0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fd9654e2cae076c84f9d30c71da58f7f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/43e37060793665f97bfcfea749137fef3e4e7e80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00342485-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大宮エリーさんが病気のため４９歳で死去　脚本家やラジオパーソナリティーなどで活躍
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/15bf0ac11eff4167f37e8885ec857e11075bd2d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000012-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=476&ch=476&exp=10800&fmt=webp> 「ウクライナ特殊機関の男性」拘束　ロシア、軍幹部殺害で捜査当局
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/900630c4927bd31d1c65a0f70f1ead72e88f4bd9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-10175627-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=596&ch=596&exp=10800&fmt=webp> フランシスコ教皇の葬儀 ローマ・カトリック教会の広場に約25万人が集まり別れ
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c42050eca6cde558c817c602f5365c9303646bf4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-01742957-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の背後で“絶望”…頭抱え直視できず　嘆くド軍ファンに「悲しい日だ」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbb490ee44b183beb50743062777e28e5483fc82>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00963859-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア連邦保安局（FSB）軍幹部殺害容疑で「ウクライナ特殊部隊工作員」拘束　男の動画公開「爆発は遠隔操作」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0d6f613e4dea4b7be268b4c6eda4b2e322fe3cc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010008-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 途中出場から同点弾の三笘薫、現地メディアでは一定の評価「サイドの魔法をもたらした」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536812>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/b1d936e8ab2b24c181b9427e18f89340caaffe42552fad7cbcd21d560cf4ea03.jpg> 選挙運動 ネット通称候補が増殖
+      <a href=https://news.yahoo.co.jp/pickup/6536826>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/eb7eb6f3bd19e2ac2bb638ecc49f69059bbfbe85e16ab0c2fc68994140052441.jpg> 野党が消費減税策 首相の対応焦点
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536815>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/628a551a64c58c68e0da4e29b5a6c4068f892f1c112b592c5efe2eccd321e14b.jpg> 露軍 将校爆殺で「ウ工作員」拘束
+      <a href=https://news.yahoo.co.jp/pickup/6536821>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/ee448d9106d800eca1a34083c05c9c057e23f2cffcb6a3a97a9ee044828e4538.jpg> イランの港で大規模爆発 14人死亡
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/8e4ac107a21af9af1a19bdc0d6fe249e065e465e97b6b9f5bb880f1eb7fc7ac9.jpg> 阪神に5連敗 G監督打線バッサリ
+      <a href=https://news.yahoo.co.jp/pickup/6536824>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/e4e7f2784d6739b3ee57f17a6eb9e42e0604f16a4dfe555efe8d4b78e61470cc.jpg> 三笘薫 起死回生のヘディング弾
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 09:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 10:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
