@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6304f4a59a061efc60d17cdb12519d49.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e168afbe3f61ac7e5ce036abbc8a0c45.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7307bfe066a3969c1f3f9ae54191cc6c5fba84dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-08146417-mmt-000-2-thumb.jpg?exp=10800&fmt=webp> 「被害女性はキックボクシングの応援にきてもらった間柄」岩沼市の女性保育士殺人事件 宮城
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a74fff7ba807faed59a23826b81a0b5a2a122a13>
@@ -373,24 +381,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/de2dde817d7691f274573277b4e3617bf81b1491>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-34270948-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1259&ch=1259&exp=10800&fmt=webp> 大谷翔平ついに覚醒　二塁打、三塁打、二塁打で勝利貢献「父親リスト」復帰後苦しんだ姿と別人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ea4661799e47c4739e9cdbd10b01500959d3e254>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00030981-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ジョコビッチが2大会連続今季4度目の初戦敗退「新しい現実と言わざるを得ない」 [マドリッド・オープン／テニス]
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7bb0e31bd63041a78c11cc399a66593dde7ebf04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-10175683-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=447&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 今日は“兄貴”の大谷翔平、佐々木朗希を「激走援護」…急加速して迷いなく三塁を陥れる圧巻走塁にファン興奮「完全復活では？」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61336b6d94460bdf0bc734b3345b72f47892b095>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-90032024-sut-000-4-thumb.jpg?exp=10800&fmt=webp> 富士山で中国人を静岡県警が救助　5日前にも山頂で遭難　山梨県ヘリが救助　「携帯電話を回収しよう」と再登山
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536880>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/bbd3e079040ee15de7b67855324bff3b0c52e3cc76c0c99b69c264a1dae91f0a.jpg> ミャンマー地震1カ月 死者3769人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/8a9711786e391ea8e46ce786349b4043f41ba93f71294894aefc35f90b1ecbda.jpg> 政府「5歳児健診」普及へ支援強化
+      <a href=https://news.yahoo.co.jp/pickup/6536893>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/86070df8e0bc7df90c9761512f80b35489c1d7f28f2f4ed9df24879cde77b46b.jpg> 高速道路の逆走 なぜ起きるのか
       </a>
     </td>
   </tr>
@@ -426,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536886>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 東北道の事故 死亡3人の身元判明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536894>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/1b1eb949e93a2e491ec3e3cee2d3f2accf6917c7215d7782d4f21684e241384e.jpg> 性的被害も 過酷なペイハラの現場
       </a>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/0464b2961f99452dd31423d353c7c25ea47a78591c9f5cdf461592ca59a151b5.jpg> 遺棄疑い 死亡女性は男の試合観戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536889>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/70287466c53a3368bfd7ee8f1ec8664b9df00b3b643d9b19d0d9b81c798e48ee.jpg> 携帯回収で再登山 同じ男性を救助
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536895>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/75a4c04dcce100cbf91c779d04be647d4ef86b9938e8d06b74bb646cfd4c6ab2.jpg> 急坂持つ「酷道」SNSで再び脚光
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 19:00:54 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 19:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
