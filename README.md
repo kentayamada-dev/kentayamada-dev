@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0084d8bdc562ed51c5b8085dfe864b69.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/087279a3631116dab1fea2b58fa39eb6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3b1ab520a0b7a15d3006eed4baec7faaad8a3b64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00964037-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相がベトナム日系企業と意見交換　米関税措置など28日首脳会談へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cc8a4b0099bf8960e00db4f140f3aca3a2583099>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000051-ann-000-10-thumb.jpg?exp=10800&fmt=webp> 秋篠宮さま、フランシスコ教皇の追悼ミサに参列　天皇陛下の名代として
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d2ead8610b8cede5028403caca07a6efc7be051>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000169-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=41&cw=1459&ch=1459&exp=10800&fmt=webp> 盟友の新崎人生が涙「実は…ずっと待っていた」　伝説プロレスラー、ハヤブサが復活　４７歳で亡くなった江崎英治さんへの思いも吐露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c62befdefc1bef3753166e5110f6460a9e852e61>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-03825738-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「空飛ぶクルマ」部品落下事故受け、当面の飛行中止　大阪・関西万博
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 00:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 01:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
