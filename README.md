@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/69c212a16b94cf8b3c2465baa9801032.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bd4ce56df441e37d7a0fae3b81424133.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ebf18ce0347d7290f896dad1507c805ef3a90699>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 逆走、多重事故で3人死亡　栃木・那須塩原の東北道
+      <a href=https://news.yahoo.co.jp/articles/1d55041317aabb806f37ff5900d7a17a96b4216b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010005-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> “パパ”になって初のマルチ！大谷翔平が激走三塁打　復帰後は打率1割台と低迷も復調へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d37951871535ae80506b66ccd388e7de322c5a5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-35232355-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ロシア、「ウクライナの特殊機関要員」を拘束　車爆発による軍将官死亡で
+      <a href=https://news.yahoo.co.jp/articles/636641a036f4b6f7617317ec7fad359ebafcb394>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 正面衝突するまで3kmにわたり逆走か…東北道上りで3人死亡事故　一連の事故で車11台絡み十数人が負傷　栃木・那須塩原市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80bad2f52ef6c426d61dc17cbbe824dd28205ced>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000137-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　第2打席は好機で見逃し三振　ストライク判定に驚きの表情
+      <a href=https://news.yahoo.co.jp/articles/1e4935f39627c0bd2838341f10ed9679ebb19145>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010003-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=1940&ch=1940&exp=10800&fmt=webp> 逆転勝ちに気付かずベンチ戻る、世界18位チチパス 珍事も2年ぶり3回戦へ＜男子テニス＞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/223377b40611f0eac9063dddf9d09972916dee77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00963869-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア軍幹部殺害容疑でウクライナ特殊部隊の工作員を拘束　“手製の爆発物をウクライナ領内から遠隔操作で起爆”
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4fd57c1091c58f16db1f46ca546b3f5ebf2b28bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000004-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=1297&ch=1297&exp=10800&fmt=webp> ローマ教皇葬儀、40万人が最後の別れ トランプ氏ら各国指導者も参列
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2ecf625ba149bfe7e0109a3c7064776b04d5336>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010002-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1535&ch=1535&exp=10800&fmt=webp> 錦織圭に快勝で3回戦進出、世界30位シャポバロフ 雪辱果たす＜男子テニス＞
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000004-jij_afp-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=1297&ch=1297&exp=10800&fmt=webp> ローマ教皇葬儀、40万人が最後の別れ トランプ氏ら各国指導者も参列
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536821>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/ee448d9106d800eca1a34083c05c9c057e23f2cffcb6a3a97a9ee044828e4538.jpg> イランの港で大規模爆発 14人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536827>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/e246b9a0a3ef1f3d54b6080489e3ff194034e64efc48a30fd7bdfcd038b71778.jpg> 米との核協議 イラン側「進展」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/68ddb7b944ab158fc24fb284b0804edd1745104e9ac8e94659e3891b47f1c29d.jpg> 東北道で3人死亡「前から突然車」
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536829>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/5fc3e433fad2142e6e2bd80b0cf56698e83455956fd42f5b4bcc8eba83a93b67.jpg> 医師が2億円寄付 はしご車が完成
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536822>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/27052e2f0b1074a9d8daf30a960e0e717878ef42155f949443b57048fd107d06.jpg> 生徒220人に商品券1万円 町の狙い
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536832>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/69280a027e502517c0fb7ff61db8667f81070d3749b755e9ca3d1a339618a671.jpg> 新井恵理那アナ 第2子出産を公表
+      <a href=https://news.yahoo.co.jp/pickup/6536828>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/ce27199afca800d19cc38fb8749212ccd592cfd3d88e3802d20c224e288a4d11.jpg> エリーさん死去 芸能界悲しみの声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/ce27199afca800d19cc38fb8749212ccd592cfd3d88e3802d20c224e288a4d11.jpg> エリーさん死去 芸能界悲しみの声
+      <a href=https://news.yahoo.co.jp/pickup/6536830>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4aeded8cfed0de469f5fe2ca50e526998427d271dc3249863e3096887dbde579.jpg> 片瀬那奈さん 会社員3年目の現在
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 11:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 11:30:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
