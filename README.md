@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd4ce56df441e37d7a0fae3b81424133.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0c2f54d96b5c79a34504651bb41e657b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d55041317aabb806f37ff5900d7a17a96b4216b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010005-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> “パパ”になって初のマルチ！大谷翔平が激走三塁打　復帰後は打率1割台と低迷も復調へ
+      <a href=https://news.yahoo.co.jp/articles/81899ec82268f080f00eb810325ed0bb3b6339e9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010001-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「4、5台ぐらい横転したりつぶれていた」夜中の東北道で“逆走車”　衝突事故後の渋滞にトラックが追突…3人死亡10人以上けが
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/636641a036f4b6f7617317ec7fad359ebafcb394>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 正面衝突するまで3kmにわたり逆走か…東北道上りで3人死亡事故　一連の事故で車11台絡み十数人が負傷　栃木・那須塩原市
+      <a href=https://news.yahoo.co.jp/articles/c639b92c5299e93167727597191ff424ec84bd0a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000031-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=918&ch=918&exp=10800&fmt=webp> 大谷翔平「パパ」で初マルチ＆三塁打！残るはホームランだけ、フリーマンの右前適時打で同点のホーム、佐々木朗希の負けを消す
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1e4935f39627c0bd2838341f10ed9679ebb19145>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010003-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=1940&ch=1940&exp=10800&fmt=webp> 逆転勝ちに気付かずベンチ戻る、世界18位チチパス 珍事も2年ぶり3回戦へ＜男子テニス＞
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010003-tennisnet-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=1940&ch=1940&exp=10800&fmt=webp> 逆転勝ちに気付かずベンチ戻る、世界18位チチパス 珍事も2年ぶり3回戦へ＜男子テニス＞
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/223377b40611f0eac9063dddf9d09972916dee77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00963869-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア軍幹部殺害容疑でウクライナ特殊部隊の工作員を拘束　“手製の爆発物をウクライナ領内から遠隔操作で起爆”
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00963869-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア軍幹部殺害容疑でウクライナ特殊部隊の工作員を拘束　“手製の爆発物をウクライナ領内から遠隔操作で起爆”
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536826>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/eb7eb6f3bd19e2ac2bb638ecc49f69059bbfbe85e16ab0c2fc68994140052441.jpg> 野党が消費減税策 首相の対応焦点
+      <a href=https://news.yahoo.co.jp/pickup/6536841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/05230b149266734a2c1f00c9e3cce2afe8aaaeadd645ea4b853090ca52a644b7.jpg> 立憲代表 不信任案に慎重な考え
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/5fc3e433fad2142e6e2bd80b0cf56698e83455956fd42f5b4bcc8eba83a93b67.jpg> 医師が2億円寄付 はしご車が完成
+      <a href=https://news.yahoo.co.jp/pickup/6536835>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/5ec90da3633d9a8905c10a3a2ffa6b5ea5acb5ac7aab49075cfb553528718e7b.jpg> 万博ネパール館工事停止 交渉裏側
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/38119875b3c2e38fcfdd30ded53765b6a075f4a26ffae6e68e92ac241d95624b.jpg> 予約殺到 ペットツーリズムが人気
+      <a href=https://news.yahoo.co.jp/pickup/6536829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/5fc3e433fad2142e6e2bd80b0cf56698e83455956fd42f5b4bcc8eba83a93b67.jpg> 医師が2億円寄付 はしご車が完成
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 11:30:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 12:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
