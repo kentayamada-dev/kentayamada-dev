@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/652ef63a4157a0a605b3121fa5345640.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bfe28ea16cb26964c6ca5ba9892c5457.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55452e5d41610a3e3573b790464a7d3ce497aa43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-04281003-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、残るは“パパ初アーチ”　復調の３安打翌日も「１番・ＤＨ」でパイレーツ戦先発　復帰６戦目
+      <a href=https://news.yahoo.co.jp/articles/bfef34093a662c39ef8b8e28b6b33c17dac9b567>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カナダ・バンクーバーで群衆に車突っ込み11人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b1ab520a0b7a15d3006eed4baec7faaad8a3b64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00964037-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相がベトナム日系企業と意見交換　米関税措置など28日首脳会談へ
+      <a href=https://news.yahoo.co.jp/articles/55452e5d41610a3e3573b790464a7d3ce497aa43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-04281003-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、残るは“パパ初アーチ”　復調の３安打翌日も「１番・ＤＨ」でパイレーツ戦先発　復帰６戦目
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 03:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 04:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
