@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b477875e0e07ac6b7997d634f80599b2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1d1609eb5d3f301c3f41756e39071625.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bfef34093a662c39ef8b8e28b6b33c17dac9b567>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カナダ・バンクーバーで群衆に車突っ込み11人死亡
+      <a href=https://news.yahoo.co.jp/articles/01d28c442d6d643bc57b79566cc49c44cc71dd1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-02012837-soccerk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=333&ch=333&exp=10800&fmt=webp> ACLE準決勝進出の川崎F、POTMは2得点演出のMF山本悠樹「背後を狙えるとは感じていました」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55452e5d41610a3e3573b790464a7d3ce497aa43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-04281003-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、残るは“パパ初アーチ”　復調の３安打翌日も「１番・ＤＨ」でパイレーツ戦先発　復帰６戦目
+      <a href=https://news.yahoo.co.jp/articles/32fef2b6e881222ca5bf4f699876798dcea5d3df>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-04281017-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平は「正しい方向へ」　ロバーツ監督が感じた復調気配「さらに良くなる」　前夜に３安打１打点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/343aa74ae69f676540fb9653336597bcf4bd0046>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=429&cy=0&cw=1342&ch=1342&exp=10800&fmt=webp> 佐々木朗希 メジャー初勝利はまたおあずけも粘りの投球 猛打賞の大谷翔平はタイムリーヒットなどで勝利に貢献
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 04:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 05:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
