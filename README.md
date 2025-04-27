@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e168afbe3f61ac7e5ce036abbc8a0c45.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d48140ffe295daa9edc6cdec3be4d23d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7307bfe066a3969c1f3f9ae54191cc6c5fba84dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-08146417-mmt-000-2-thumb.jpg?exp=10800&fmt=webp> 「被害女性はキックボクシングの応援にきてもらった間柄」岩沼市の女性保育士殺人事件 宮城
+      <a href=https://news.yahoo.co.jp/articles/91b9a1eb77a961bca483efd6790e48be2348f0b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-05851984-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 保育士遺体遺棄　逮捕の男、被害女性とはキックボクシングの応援に来てもらった間柄　宮城・岩沼市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/89bc0a3f6c81584a8faca4a61513c694413831fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00050964-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「飛んでいるところ見たかった」　デモ飛行で一部破損　万博「空飛ぶクルマ」当面運航停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ea81d0432ab36dbedf218bc3c84197331b519256>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-01743183-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「状況に応じて打てていない」　復活の3安打も…専門家が抱く“疑念”
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbba3bb3719c7139e0f3190c9de9f9c30cc918ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000103-chuspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=322&ch=322&exp=10800&fmt=webp> 万博、『空飛ぶクルマ』部品落下でデモ飛行当面中止にネット「実用化にはほど遠い」トラブルも無事着陸に「安定性がすごい！」の声も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de2dde817d7691f274573277b4e3617bf81b1491>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-34270948-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1259&ch=1259&exp=10800&fmt=webp> 大谷翔平ついに覚醒　二塁打、三塁打、二塁打で勝利貢献「父親リスト」復帰後苦しんだ姿と別人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea4661799e47c4739e9cdbd10b01500959d3e254>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00030981-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ジョコビッチが2大会連続今季4度目の初戦敗退「新しい現実と言わざるを得ない」 [マドリッド・オープン／テニス]
+      <a href=https://news.yahoo.co.jp/articles/aaed542c97ba031b2c998c422c991881c7302f8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000081-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=213&cw=1603&ch=1603&exp=10800&fmt=webp> 現場周辺カメラに逮捕の男、宮城　女性保育士遺棄疑い
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536895>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/75a4c04dcce100cbf91c779d04be647d4ef86b9938e8d06b74bb646cfd4c6ab2.jpg> 急坂持つ「酷道」SNSで再び脚光
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536896>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/29e1484fd56e3b0925e8ae4e4937012d49c0d2a1178cb82ba994fb019505fead.jpg> 阪神・桐敷に折れたバットが直撃
       </a>
@@ -458,8 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4d257387566dbe98eda5ad50ce1f164ae53360481beeea0c85609cb6cbc982a3.jpg> エリーさん死去 不調明かしていた
+      <a href=https://news.yahoo.co.jp/pickup/6536898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/60d0230e7b52829b2f446d069c904924e2d8c65332d2a94d55b047896308a152.jpg> 森保監督 子供に脱ぎたて靴下贈る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536899>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/e8058e84b9c27fb21248a1b80a9a41e1368a5ef3876eac03f738413836d0973b.jpg> 大宮エリーさん死去 宮沢りえ追悼
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 19:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 20:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
