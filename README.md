@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4c29d2d04a01650eb4bb82073654b004.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/999499278bc7d95e6e31086a6b40ff2f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/515fd29ff33966af2954c64222253e6d5103aac5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04271145-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=339&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、“パパ初尽くし”３安打１打点１盗塁　試合終了１５分後に後輩に視線を送りながら帰宅
+      <a href=https://news.yahoo.co.jp/articles/73077fda78999b461b54900952e0b9bd33267f94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00030980-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> アンドレエワが初出場から3年連続のベスト16進出「まだ自分のベストテニスを見つけるのに苦労している」 [マドリッド・オープン／テニス]
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c803b4d446faf093efc98d50a7342e53b7934241>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010005-tennisnet-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=427&ch=427&exp=10800&fmt=webp> 穂積絵莉 2年ぶりペアで完勝、失ゲーム1でマドリッドOP初戦突破＜女子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/db4ea91700c5192a3fd82e82eaf4d7d825cfc8e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00095658-thedigest-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平が長女誕生後、初の猛打賞！ “後輩”佐々木朗希は「安定している。次に期待」「その試合でまた打てるように頑張る」
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa6b9e738d127e24a84d644dd5b60eeb6677cf8e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000024-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 石破総理 ベトナム・フィリピン訪問へ トランプ関税や中国をにらみ連携強化
+      <a href=https://news.yahoo.co.jp/articles/a9e04cedf9d4ba6d53a66f6b2a7037c9d82163bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-35232356-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ロシア、クルスク州の奪還を発表　ウクライナは否定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/223377b40611f0eac9063dddf9d09972916dee77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00963869-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア軍幹部殺害容疑でウクライナ特殊部隊の工作員を拘束　“手製の爆発物をウクライナ領内から遠隔操作で起爆”
+      <a href=https://news.yahoo.co.jp/articles/aa6b9e738d127e24a84d644dd5b60eeb6677cf8e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000024-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 石破総理 ベトナム・フィリピン訪問へ トランプ関税や中国をにらみ連携強化
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536858>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 川で6歳男児が意識不明 溺れたか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536837>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/fff9bd0222222d82b94696256b2113f6b4bd8bb736afc374c297167d32d3f4a7.jpg> トランプ氏 教皇葬儀に青いスーツ
       </a>
@@ -426,32 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/6b3c6e5fec0408cc9b15be6bd6c975cc22f4a86eee6d58cc9b2f33b2658999f6.jpg> 犬舎が全焼 数十匹以上が死んだか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/2411b8d439a8bfaafa11601e420bd6fc4476b5a40df299b354f49379c4661539.jpg> 空飛ぶクルマ デモ飛行は当面中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/b8ee22337a04636ac6298a71fa8119290da5b47e65d517d5924ee87c7f15578f.jpg> 根拠ない「426地震説」なぜ拡散
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536853>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/c4bd7483bd8794f489fd80b3e1f52f2d73f6a914bc676caf5159d3683be37250.jpg> 自閉症の子が痴漢に誤認され 憤慨
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536849>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/e719773b91130e3c81c3865d8adbcb5d3cf2ed034b197cc1f77db3f17dfd68a9.jpg> 「献血人生」46年 誕生日に卒業
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536860>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/f87d2ba8304ed4865a0f2712720162b777c2558c325b4c7904c4616b48150fad.jpg> 大谷が3長打 連敗ストップに貢献
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 14:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 15:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
