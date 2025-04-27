@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GccYSe4vijo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bee716484765f519e49faa088746a25e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ac626225bdf2ae0a4ff7ab5dba30b15.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ef3fc49c699e3e0dbae52b0669c06a58acb6fed6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04271234-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木朗希は「効率性という点で今季最高」ロバーツ監督が絶賛！…６回途中３失点粘投
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/36e0177bef148f16abe30060f97b9d95fd6aa344>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010006-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=1820&ch=1820&exp=10800&fmt=webp> 逆転勝ちでマッチ200勝達成、世界31位ベレッティーニ 2時間半超の死闘制し伊男子8人目の快挙＜男子テニス＞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d7ca1b9da4e191bb13364898a9ea14a12acee6fb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00255315-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=566&ch=566&exp=10800&fmt=webp> 【追悼・大宮エリーさん】「人生は面白いことばかりではない」　遺作『東大ふたり同窓会』に込めた想いとは　
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc68f01b6b7216d7642d38153ecb7a994b2e3f6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-10175667-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=423&cy=0&cw=986&ch=986&exp=10800&fmt=webp> ロシア軍、プーチン大統領にクルスク州「奪還」を報告 北朝鮮兵の参戦を初めて認める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4eb2210b100741b0153c0b949fa719a0a774ba9b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000045-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 万博の「空飛ぶクルマ」デモ飛行中に部品落下、当面の運航中止に、原因を調査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73077fda78999b461b54900952e0b9bd33267f94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00030980-tennismagv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800&fmt=webp> アンドレエワが初出場から3年連続のベスト16進出「まだ自分のベストテニスを見つけるのに苦労している」 [マドリッド・オープン／テニス]
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536859>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/c5795f1a00025d6aa7288fc9db98aa48bf9545ee134b8c1d9dc94e040da2c296.jpg> メルカリで詐欺遭遇 経緯と注意点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536877>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoohirokazu/02187516/title-1745733520816.jpeg?exp=10800> 朗希の着実な進化 評価する声
+      <a href=https://news.yahoo.co.jp/pickup/6536883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/7a9a510fa0ea2c84066edecacec9a55a46647fab02bc0482e3946e94a32bf5c4.jpg> 朗希の初勝利お預け 監督は絶賛
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/379a10a9c3e6eae3337c45973564ba6242d5364e538c29ea0b8d784733865add.jpg> エリーさん死去 遺作に込めた想い
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 17:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 17:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
