@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/91ba7ea1a47d98dffc34da5e2e2eb4ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93da99ae63f2fdc569dfe2e4fde65831.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e9537bb8abee44b2f8ba8fa0ad6c7444af699cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04271099-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、第５打席はチャンスで二直　“パパ初打点”＆“パパ初猛打賞”の大暴れも
+      <a href=https://news.yahoo.co.jp/articles/9af65de811be6f3685e734c5f20e794b2694160f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-01743185-fullcount-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 3安打の大谷翔平「いいきっかけになれば」　佐々木朗希を評価「安定している」
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/2411b8d439a8bfaafa11601e420bd6fc4476b5a40df299b354f49379c4661539.jpg> 空飛ぶクルマ デモ飛行は当面中止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536843>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/b8ee22337a04636ac6298a71fa8119290da5b47e65d517d5924ee87c7f15578f.jpg> 根拠ない「426地震説」なぜ拡散
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/7923ba905fdd6af24d9df0a818ff062884c5374b1fddbccb01422e2bf93dceff.jpg> パヘス 朗希登板3戦連続でHR捕球
+      <a href=https://news.yahoo.co.jp/pickup/6536850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/5856a1c79d290ce1f779ace4fcec89bb074e9657312ef7a56f8cb2d093daccd2.jpg> 直川アナ IKKOに救われた過去
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536842>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/fbc7575f555326195bcc2e4e513c828a785e8a5abff177cfdda533a19f4b38b3.jpg> コナン映画 なぜ27年で興収14倍超
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 13:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 13:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
