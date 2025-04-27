@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GccYSe4vijo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2010f39451a3fa888aae924dc043ca67.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f23f0fbbff4ab3a480b1c3f6dc713b60.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c8bc679c885342beb12537c8f5ff49fa204ed758>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-10175672-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=985&ch=985&exp=10800&fmt=webp> 祭りの群衆に車突っ込む 複数人が死亡 カナダ・バンクーバー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cc68f01b6b7216d7642d38153ecb7a994b2e3f6c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-10175667-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=423&cy=0&cw=986&ch=986&exp=10800&fmt=webp> ロシア軍、プーチン大統領にクルスク州「奪還」を報告 北朝鮮兵の参戦を初めて認める
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8bacdc9e9e5feddfb1fa22cd4e251d48358baf2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000030-ann-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】カナダ・バンクーバーで祭りの群衆に車が突っ込み複数人死亡　運転手は拘束
+      <a href=https://news.yahoo.co.jp/articles/4eb2210b100741b0153c0b949fa719a0a774ba9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000045-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 万博の「空飛ぶクルマ」デモ飛行中に部品落下、当面の運航中止に、原因を調査
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/085420dd7f4f169b59c61b7ae24034db3f804362>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> ローマ教皇葬儀、40万人が最後の別れ トランプ氏ら各国指導者も参列
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536857>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/234236f40400f7f7f8e20d894329e002775996546566bb822a392c565f16d8bd.jpg> 首相が外遊出発 関税で協力確認へ
+      <a href=https://news.yahoo.co.jp/pickup/6536875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/fd38a7069a7d7aec3e1e1c5bebb9cfbd5f1ad03efaaa486d48061515e3132ae1.jpg> 西から天気下り坂 あす全国的に雨
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536856>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/47564dbcdb07370cb58c7c9b85cc27b314b1e0d705f603ea5e403a0d24fe9cd4.jpg> 米大統領 パナマ運河無料通航主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536863>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> カナダ 群衆に車突っ込み死者複数
+      <a href=https://news.yahoo.co.jp/pickup/6536862>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/e19ebd4a0c613e14eac88d86d5e95aba128ff679fb6ab57d6f0bd3f49c21f08c.jpg> 11年間で6人を出産 多産DVの実態
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/162fe232cd1f99fda380a432012d3a14bec1f1c752fd57542cf0883cf7805a24.jpg> 映像 空飛ぶクルマ部品落下の瞬間
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536859>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/c5795f1a00025d6aa7288fc9db98aa48bf9545ee134b8c1d9dc94e040da2c296.jpg> メルカリで詐欺遭遇 経緯と注意点
       </a>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4f574ec0d033318aaa1116054f0d689cafd4d618b1f402d3dcc8bce48efda079.jpg> DeNA本盗許す バウアーぶぜん
+      <a href=https://news.yahoo.co.jp/pickup/6536870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/0468295ed7acc1cab663670664c3cb0b001290e82fd5c3115afef314a999c535.jpg> ロッテ角中「令和7777号」本塁打
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/f87d2ba8304ed4865a0f2712720162b777c2558c325b4c7904c4616b48150fad.jpg> 大谷が3長打 連敗ストップに貢献
+      <a href=https://news.yahoo.co.jp/pickup/6536864>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4f574ec0d033318aaa1116054f0d689cafd4d618b1f402d3dcc8bce48efda079.jpg> DeNA本盗許す バウアーぶぜん
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 16:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 16:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
