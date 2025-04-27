@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/062b289d863f0ec1a649db2a299cc8cf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4d86448afc0b0436498ea533d1cba1ad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bcfedb146efd8ef8a64804b7fa3665dec401e051>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-01743418-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希に感じられない余裕　“オドオド”消えるも…専門家が指摘する不安要素
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1f35fdba327ad5dbab3fb2366cc01e98e2688500>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/517a2a4f148d5c768867564f18f120305abee145>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010001-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=839&ch=839&exp=10800&fmt=webp> ドジャース激震　先発グラスノーが右肩違和感で1回緊急降板　初回に2者連続被弾　前日に点滴　試合前のロバーツ監督「きょうの登板に向けて順調」と話していたが…
+      <a href=https://news.yahoo.co.jp/articles/f8e972f18b094617b2fd5917332203ea1a2f52e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280036-nksports-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=990&ch=990&exp=10800&fmt=webp> グラスノー、右肩の違和感で２試合連続の緊急降板　２番手は準備なしでブルペンからダッシュ
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/6782b82cbd803cc1fcf7f7a7781f0340e544daddf614f97480cc502d6736d402.jpg> 遺棄疑い 死亡女性は男の試合観戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536926>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/30742a1dfb974f84d89e740e2b2550ac18a5113ff7cf66505216607600e8eb8c.jpg> 下山中に約150m滑落 47歳男性死亡
       </a>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/2d3f47a7e43e71744874ea8e5b6c8e08056414ae7cbfb11e4b4712465b18f3c6.jpg> SNSで集客 観光地「白タク」横行
+      <a href=https://news.yahoo.co.jp/pickup/6536928>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/a014437d203ede75abb3bc6a2e320cac160a7bc11daf8bcad902753dffc38b1c.jpg> SHEIN 米国で最大377%値上げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/67921ec45a826fa7a2df22518ebd5eebff94c4fe0df89611d2f824bb4191fa56.jpg> ド軍激震 グラスノーまた緊急降板
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 06:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 07:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
