@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/93da99ae63f2fdc569dfe2e4fde65831.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c7d4829adde730a91b6e68f624a90d44.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9af65de811be6f3685e734c5f20e794b2694160f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-01743185-fullcount-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 3安打の大谷翔平「いいきっかけになれば」　佐々木朗希を評価「安定している」
+      <a href=https://news.yahoo.co.jp/articles/324d8f6dbde6b946768c4d90490d8698673eb090>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-01742420-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 3安打の大谷翔平は「本当によかった」　連敗ストップ貢献にド軍監督も称賛
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cbb7b5867fd9fee77c7ed38adcc9967af0a4d746>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000026-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 東北道上りで車が逆走　多重事故で3人死亡 10人以上けが
+      <a href=https://news.yahoo.co.jp/articles/c24e19d98427a56843da48b78683ed7e8cd5e61d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-11636157-maidonans-000-30802313-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 「天国でもエリーさんのままで…」大宮エリーさん49歳で死去　世界で活躍するギタリストが哀悼のメッセージ
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536840>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/536f0f9db287754b8054319cbae9f695dacc813b29998e7727655e2a96285d13.jpg> 万博来場の7割強が50歳以上 推計
+      <a href=https://news.yahoo.co.jp/pickup/6536836>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/8810e8171cfa002ce2fd79b9a452da76bebe6fb6828d93732e3b1e23e3036f70.jpg> 高速道路の逆走 年200件前後発生
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536852>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/6b3c6e5fec0408cc9b15be6bd6c975cc22f4a86eee6d58cc9b2f33b2658999f6.jpg> 犬舎が全焼 数十匹以上が死んだか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536845>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/2411b8d439a8bfaafa11601e420bd6fc4476b5a40df299b354f49379c4661539.jpg> 空飛ぶクルマ デモ飛行は当面中止
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/5856a1c79d290ce1f779ace4fcec89bb074e9657312ef7a56f8cb2d093daccd2.jpg> 直川アナ IKKOに救われた過去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/ce27199afca800d19cc38fb8749212ccd592cfd3d88e3802d20c224e288a4d11.jpg> エリーさん死去 芸能界悲しみの声
+      <a href=https://news.yahoo.co.jp/pickup/6536854>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4d257387566dbe98eda5ad50ce1f164ae53360481beeea0c85609cb6cbc982a3.jpg> エリーさん死去 不調明かしていた
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 13:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 14:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
