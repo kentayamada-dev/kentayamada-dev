@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b07672417d9464079341e7b6e2f7f544.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/152ed8e9a9b2fa6317fca59b13ff46b4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/101daacd44d173a8fad4858ef5f24dd375fa4c09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-02118948-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 佐々木朗希「物足りなさもある」6回途中3失点でメジャー初白星はお預け　初球先頭弾には「もったいなかった」
+      <a href=https://news.yahoo.co.jp/articles/2e353da49fc2ae135e1c0575baed74d207b7fcd7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000391-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 「言葉が出ない」3冠牝馬リバティアイランドの悲報に競馬ファン「信じたくない」「つらい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91b9a1eb77a961bca483efd6790e48be2348f0b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-05851984-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 保育士遺体遺棄　逮捕の男、被害女性とはキックボクシングの応援に来てもらった間柄　宮城・岩沼市
+      <a href=https://news.yahoo.co.jp/articles/101daacd44d173a8fad4858ef5f24dd375fa4c09>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-02118948-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 佐々木朗希「物足りなさもある」6回途中3失点でメジャー初白星はお預け　初球先頭弾には「もったいなかった」
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536885>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/1adc004ebb7ed37bafbaa7c9faa20e48c4e0865877737bd66e85c2584c891336.jpg> 万博会場への「車&バス」利用低調
+      <a href=https://news.yahoo.co.jp/pickup/6536891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/75ef41ca896408272014d14325289e868ce7317b1a066188845661674d5811d8.jpg> 韓国大統領選 野党候補に李在明氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536905>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/abec25194aa32546308edce986bc8fa1f84dce4b824e0f7a3d41dd5da19f871d.jpg> 赤旗「発行危機」10億円寄付募る
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/70287466c53a3368bfd7ee8f1ec8664b9df00b3b643d9b19d0d9b81c798e48ee.jpg> 携帯回収で再登山 同じ男性を救助
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/29e1484fd56e3b0925e8ae4e4937012d49c0d2a1178cb82ba994fb019505fead.jpg> 阪神・桐敷に折れたバットが直撃
+      <a href=https://news.yahoo.co.jp/pickup/6536904>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/705f7ca5147baf5fcef914d90fc86668ecce7d04539f21510e6d8b9b64c41028.jpg> 悲劇 リバティアイランド安楽死に
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 20:31:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 21:00:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
