@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4d86448afc0b0436498ea533d1cba1ad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ecfcb6d97f235f8efb2327a71523c66c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2dcded19cc4f2e3799e3e38789acdc7158d5336d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-01743561-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍激震…試合開始から30分、194億円男を襲った“異変”、米嘆き「随分と深刻そう」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bcfedb146efd8ef8a64804b7fa3665dec401e051>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-01743418-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希に感じられない余裕　“オドオド”消えるも…専門家が指摘する不安要素
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-01743418-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希に感じられない余裕　“オドオド”消えるも…専門家が指摘する不安要素
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2830e8c77c2a2e24a542b2b7901b9807e49def12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000008-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 車に乗る容疑者の姿、現場近くのカメラに　宮城の女性保育士殺害事件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8e972f18b094617b2fd5917332203ea1a2f52e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280036-nksports-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=990&ch=990&exp=10800&fmt=webp> グラスノー、右肩の違和感で２試合連続の緊急降板　２番手は準備なしでブルペンからダッシュ
+      <a href=https://news.yahoo.co.jp/articles/600602b60887cc0a5682e249b9f7b18a77e9d950>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00115178-keibana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=1280&ch=1280&exp=10800&fmt=webp> 三冠牝馬リバティアイランド予後不良で安楽死…香港で左前脚を故障
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/67921ec45a826fa7a2df22518ebd5eebff94c4fe0df89611d2f824bb4191fa56.jpg> ド軍激震 グラスノーまた緊急降板
+      <a href=https://news.yahoo.co.jp/pickup/6536930>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/279f718d27debd80662de96e85358cf60cbd514398d677431807a6cfe2243916.jpg> 大谷翔平 あわや顔面死球に絶叫
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536924>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/92533bb0b976139b7d16bd99a9907bc321ad7b1bd9bb7a2e49e77ee45808c355.jpg> 3冠牝馬が安楽死 予後不良の診断
+      <a href=https://news.yahoo.co.jp/pickup/6536927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/67921ec45a826fa7a2df22518ebd5eebff94c4fe0df89611d2f824bb4191fa56.jpg> ド軍激震 グラスノーまた緊急降板
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 07:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 07:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
