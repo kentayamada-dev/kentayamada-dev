@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4ef837b9e377e32e4c045e4f79092520.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/91ba7ea1a47d98dffc34da5e2e2eb4ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d4dbd67ed9748b2a430f8fc48cc4e4f674c12723>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000038-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平「パパ」で初打点、7回にこの日3本目となる長打で同点！次は「パパ」初アーチに期待
+      <a href=https://news.yahoo.co.jp/articles/6e9537bb8abee44b2f8ba8fa0ad6c7444af699cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04271099-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、第５打席はチャンスで二直　“パパ初打点”＆“パパ初猛打賞”の大暴れも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/085420dd7f4f169b59c61b7ae24034db3f804362>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> ローマ教皇葬儀、40万人が最後の別れ トランプ氏ら各国指導者も参列
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cbb7b5867fd9fee77c7ed38adcc9967af0a4d746>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000026-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 東北道上りで車が逆走　多重事故で3人死亡 10人以上けが
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3e6588b3ce5ba59cf23b4b05a09423a5483d11ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000036-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 消費減税、「大衆迎合でない」　立民野田氏、不信任は関税考慮
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/223377b40611f0eac9063dddf9d09972916dee77>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00963869-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア軍幹部殺害容疑でウクライナ特殊部隊の工作員を拘束　“手製の爆発物をウクライナ領内から遠隔操作で起爆”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4fd57c1091c58f16db1f46ca546b3f5ebf2b28bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000004-jij_afp-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=1297&ch=1297&exp=10800&fmt=webp> ローマ教皇葬儀、40万人が最後の別れ トランプ氏ら各国指導者も参列
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/68ddb7b944ab158fc24fb284b0804edd1745104e9ac8e94659e3891b47f1c29d.jpg> 東北道で3人死亡「前から突然車」
+      <a href=https://news.yahoo.co.jp/pickup/6536846>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/314a4b11e212c30760525752f6d02c34a5e9012887c6aa8041cf0f9600fa0565.jpg> 東北道3人死亡 衝突まで3km逆走か
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536833>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/af987f94c7b0a8c68e0f1b2e068fe5c39fe7b560c2b93b9dcb73b48a9bf28556.jpg> 朗希ぼう然 プレーボール初球被弾
+      <a href=https://news.yahoo.co.jp/pickup/6536848>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/7923ba905fdd6af24d9df0a818ff062884c5374b1fddbccb01422e2bf93dceff.jpg> パヘス 朗希登板3戦連続でHR捕球
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536830>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4aeded8cfed0de469f5fe2ca50e526998427d271dc3249863e3096887dbde579.jpg> 片瀬那奈さん 会社員3年目の現在
+      <a href=https://news.yahoo.co.jp/pickup/6536842>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/fbc7575f555326195bcc2e4e513c828a785e8a5abff177cfdda533a19f4b38b3.jpg> コナン映画 なぜ27年で興収14倍超
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 12:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 13:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
