@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b341657430cb84dc145053ebda2062a6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80a01ed39e2ddbb08cb6ea4142183887.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d20ec4d690448564f1fa43d5ca77b9e11d4976b5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010003-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 韓国人気ウェブ小説を小芝風花＆佐藤健W主演でドラマ化「私の夫と結婚して」6・27配信
+      <a href=https://news.yahoo.co.jp/articles/b0effbdd99a3b322e6c88848e23ef46d58dc6c93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000136-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【一問一答】メジャー初Vの西郷真央「最後のバーディーパットは、全身震えながら」シェブロン選手権
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6244b8ce97bc83508166dccf14df998cbd65160c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000191-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=141&cw=1059&ch=1059&exp=10800&fmt=webp> トランプ氏、関税が所得税を肩代わりとの持論を主張　雇用創出、工場建設の効果も訴え
       </a>
     </td>
   </tr>
@@ -382,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2830e8c77c2a2e24a542b2b7901b9807e49def12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000008-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 車に乗る容疑者の姿、現場近くのカメラに　宮城の女性保育士殺害事件
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000008-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 車に乗る容疑者の姿、現場近くのカメラに　宮城の女性保育士殺害事件
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536918>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/9fa4924968c1b7fc1d48fa0979f91859c73ed25a058b11b672818b6a6cb0b825.jpg> 米大統領 増えてきた「朝令暮改」
+      <a href=https://news.yahoo.co.jp/pickup/6536932>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/40090688b3e24b6e00facfabfbbc87d3b70427549711d3f53dcf8b13f3998e58.jpg> トランプ氏 関税巡り所得減税示唆
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/279f718d27debd80662de96e85358cf60cbd514398d677431807a6cfe2243916.jpg> 大谷翔平 あわや顔面死球に絶叫
+      <a href=https://news.yahoo.co.jp/pickup/6536935>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f921fed4dccc976bd2af3686f7317df390c385e53e2699b9f0fa9444eccd7405.jpg> 西郷真央 涙の海外メジャー初制覇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/67921ec45a826fa7a2df22518ebd5eebff94c4fe0df89611d2f824bb4191fa56.jpg> ド軍激震 グラスノーまた緊急降板
+      <a href=https://news.yahoo.co.jp/pickup/6536930>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/279f718d27debd80662de96e85358cf60cbd514398d677431807a6cfe2243916.jpg> 大谷翔平 あわや顔面死球に絶叫
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 08:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 08:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
