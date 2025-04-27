@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a694503d52a995acae41f96a9b313034.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/50399096345e00348bd321b8fa4bdf81.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97baf72c54ce8d1fa67bae8d5325f30da2f267e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-34270901-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=1351&ch=1351&exp=10800&fmt=webp> 佐々木朗希また初勝利お預けも内容徐々に改善「早く結果を」メジャー最多93球投げ３失点
+      <a href=https://news.yahoo.co.jp/articles/82cbf06880979c227e03595cefec1166d4651564>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00963964-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=819&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平は“パパ初尽くし”!復調の3安打　佐々木朗希はメジャー移籍後最多93球も初勝利はお預け
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fbba3bb3719c7139e0f3190c9de9f9c30cc918ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000103-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=322&ch=322&exp=10800&fmt=webp> 万博、『空飛ぶクルマ』部品落下でデモ飛行当面中止にネット「実用化にはほど遠い」トラブルも無事着陸に「安定性がすごい！」の声も
       </a>
     </td>
   </tr>
@@ -373,14 +381,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8662713707ea825b7c61aa017994142f6d7edb3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04271254-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=653&ch=653&exp=10800&fmt=webp> 【広島】新井監督「いい経験にしてもらいたい」ＤｅＮＡ・バウアー攻略に失敗…今季初３連敗／一問一答
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7bb0e31bd63041a78c11cc399a66593dde7ebf04>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-10175683-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=447&cy=0&cw=908&ch=908&exp=10800&fmt=webp> 今日は“兄貴”の大谷翔平、佐々木朗希を「激走援護」…急加速して迷いなく三塁を陥れる圧巻走塁にファン興奮「完全復活では？」
       </a>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d65c787b6674d71948a5de12d6c4dcc6b27c204a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000040-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=67&cw=666&ch=666&exp=10800&fmt=webp> 破損した空飛ぶクルマは、米企業の「HEXA」　原因究明へ　万博
+      <a href=https://news.yahoo.co.jp/articles/61336b6d94460bdf0bc734b3345b72f47892b095>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-90032024-sut-000-4-thumb.jpg?exp=10800&fmt=webp> 富士山で中国人を静岡県警が救助　5日前にも山頂で遭難　山梨県ヘリが救助　「携帯電話を回収しよう」と再登山
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536867>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/62adc2ceb391e5540c04e970f4f00801df3c6cab156205ee5bf3c84bcbcd1c90.jpg> 「トランプ2028」グッズ販売 波紋
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536873>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/162fe232cd1f99fda380a432012d3a14bec1f1c752fd57542cf0883cf7805a24.jpg> 映像 空飛ぶクルマ部品落下の瞬間
       </a>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/fe965a51067e07144cfe60a3a71b62876ec0214abff519095f3cec265ede9a0e.jpg> バウアー 日本球界611日ぶり白星
+      <a href=https://news.yahoo.co.jp/pickup/6536889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/70287466c53a3368bfd7ee8f1ec8664b9df00b3b643d9b19d0d9b81c798e48ee.jpg> 携帯回収で再登山 同じ男性を救助
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/7a9a510fa0ea2c84066edecacec9a55a46647fab02bc0482e3946e94a32bf5c4.jpg> 朗希の初勝利お預け 監督は絶賛
+      <a href=https://news.yahoo.co.jp/pickup/6536871>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/dd89b7b10fad3df15b3e1ca1708fa503caaef8d97e5b882d8f0b4790505432a0.jpg> ウォーホル作品うっかり廃棄か 蘭
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536854>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4d257387566dbe98eda5ad50ce1f164ae53360481beeea0c85609cb6cbc982a3.jpg> エリーさん死去 不調明かしていた
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 18:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 18:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
