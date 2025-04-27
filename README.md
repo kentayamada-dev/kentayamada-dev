@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/152ed8e9a9b2fa6317fca59b13ff46b4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/75e96891c1a5f0b659a68e2a36826623.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e353da49fc2ae135e1c0575baed74d207b7fcd7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000391-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 「言葉が出ない」3冠牝馬リバティアイランドの悲報に競馬ファン「信じたくない」「つらい」
+      <a href=https://news.yahoo.co.jp/articles/b2064a34c9ee31aac59455906b2256e0002e604b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04553678-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 「バチェラー4」黄皓、第1子誕生を報告「これからは僕が、あなたを守り支えていきます」妻への感謝綴る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/101daacd44d173a8fad4858ef5f24dd375fa4c09>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-02118948-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 佐々木朗希「物足りなさもある」6回途中3失点でメジャー初白星はお預け　初球先頭弾には「もったいなかった」
+      <a href=https://news.yahoo.co.jp/articles/f46a4e7f2241ecbebe494b6e2df3c3011c3e8149>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00529457-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希、降板後ベンチの振る舞いに指摘「残ってる」　変化に気づいた人「みんな寄り添い…」
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536893>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/86070df8e0bc7df90c9761512f80b35489c1d7f28f2f4ed9df24879cde77b46b.jpg> 高速道路の逆走 なぜ起きるのか
+      <a href=https://news.yahoo.co.jp/pickup/6536891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/1f864f7ace99c35b85274d9c73506f0c5e7b7dbea0c2c8b88132d38e8b61326e.jpg> 韓国大統領選 野党候補に李在明氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/75ef41ca896408272014d14325289e868ce7317b1a066188845661674d5811d8.jpg> 韓国大統領選 野党候補に李在明氏
+      <a href=https://news.yahoo.co.jp/pickup/6536908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/0ff87888e14848bf07956cc0275c8bd81d973774aa138075c56564ad121d7c2f.jpg> 世界の製薬企業 米国への投資急ぐ
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/1b1eb949e93a2e491ec3e3cee2d3f2accf6917c7215d7782d4f21684e241384e.jpg> 性的被害も 過酷なペイハラの現場
+      <a href=https://news.yahoo.co.jp/pickup/6536897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/6782b82cbd803cc1fcf7f7a7781f0340e544daddf614f97480cc502d6736d402.jpg> 遺棄疑い 死亡女性は男の試合観戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/6782b82cbd803cc1fcf7f7a7781f0340e544daddf614f97480cc502d6736d402.jpg> 遺棄疑い 死亡女性は男の試合観戦
+      <a href=https://news.yahoo.co.jp/pickup/6536907>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/2a8c9e8b90822586c478e831bbaa2bfe20f0251bacfedb546da7d94c63bb77db.jpg> ドーンと音 タイヤ外れ4人に衝突
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536899>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/e8058e84b9c27fb21248a1b80a9a41e1368a5ef3876eac03f738413836d0973b.jpg> 大宮エリーさん死去 宮沢りえ追悼
+      <a href=https://news.yahoo.co.jp/pickup/6536909>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/9598fd911873ccc938acec410441a826b70d8a31ae85183b3b995e41fa16ae34.jpg> バチェラー黄皓さんに第1子誕生
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 21:00:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 21:31:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
