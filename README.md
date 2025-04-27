@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/17a5188b5edad949738cd4aca9f13995.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a338d5d41b54cc375008bbde10e15fb0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ee0d1e4a6bdd795b2fe8cc33e529b025abfaeea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=387&ch=387&exp=10800&fmt=webp> トランプ氏とゼレンスキー氏が弔問外交…米「生産的」、ゼレンスキー氏「象徴的会談」
+      <a href=https://news.yahoo.co.jp/articles/900630c4927bd31d1c65a0f70f1ead72e88f4bd9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-10175627-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=596&ch=596&exp=10800&fmt=webp> フランシスコ教皇の葬儀 ローマ・カトリック教会の広場に約25万人が集まり別れ
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c42050eca6cde558c817c602f5365c9303646bf4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-01742957-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平らの「息の根を止めた」　頭抱え直視できず…ド軍ファンの絶望「悲しい日だ」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-01742957-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の背後で“絶望”…頭抱え直視できず　嘆くド軍ファンに「悲しい日だ」
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60355cd47318f1cdb2916358cc2299008d17c9d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000170-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> SUPER EIGHT・大倉忠義の会社と「STARTO」が業務委託契約締結　ジュニア全体育成へ
+      <a href=https://news.yahoo.co.jp/articles/d0d6f613e4dea4b7be268b4c6eda4b2e322fe3cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010008-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 途中出場から同点弾の三笘薫、現地メディアでは一定の評価「サイドの魔法をもたらした」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cfc1b329b3d9f2c253422d1377b186bf504c5eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00050000-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=422&ch=422&exp=10800&fmt=webp> 阪神に開幕５連敗の巨人「今は１番から５番までしか野球をやっていない」亀井打撃コーチ厳しく指摘
+      <a href=https://news.yahoo.co.jp/articles/60355cd47318f1cdb2916358cc2299008d17c9d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000170-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> SUPER EIGHT・大倉忠義の会社と「STARTO」が業務委託契約締結　ジュニア全体育成へ
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536807>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/cdb9b3ba0c107d1161ccdbfce6d4cc5c205628a8c39ff1380ec186bd6aa02771.jpg> 東北道で逆走 多重事故で3人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536820>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4c91e0beeaa453fe3a66b1ae123a171481c10675ee00b7f480b13b03b3a09ac8.jpg> 小2が線路上で電車と接触 重傷
       </a>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536818>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/f08a36f931b41f01b4c6a03939152997dc50715a0d9af26a6dd9ec59887f18fc.jpg> 「頂き女子」の母 取材に流した涙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/5a5d1dcd6c27166d6a82a71cfcacb5d4f3eb709de2c9ea668d7128b8f2e1ab23.jpg> ベルマーク協賛企業が減少 背景
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 09:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 09:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
