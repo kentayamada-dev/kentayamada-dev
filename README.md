@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c2820f3e37bfd3748c7ef027cc249054.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5af6dc3fee854a51835152dd1b27169a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d5fee8ce9bd49271330762ed9603cc74352a55e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-04281013-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、初回は顔面付近の球に“絶叫”からの四球　復調の３安打翌日　復帰６戦目で待望の“パパ１号”なるか
+      <a href=https://news.yahoo.co.jp/articles/c7e8e3994508a6d64830bea123414ebe8948e505>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-04281025-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=362&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、今季自己最速１８２キロの高速二塁打　前日から４安打は全て長打　高まる“パパ１号”への期待
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af7a7ba37d770cab24379b7fcc3c9a45de775157>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 安保協力の強化確認へ　日越首脳、関税措置で連携
+      <a href=https://news.yahoo.co.jp/articles/c3a2c617e3897cc65554eba93b6ebf6650d576c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000042-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1025&ch=1025&exp=10800&fmt=webp> 広島、バウアー崩せずハマスタ7連敗　本盗で先制もわずか2安打　新井監督「良い経験にしてもらいたい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd4762d4e58fe4f562a6ed8db42140e7e05c4a37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010001-thedigest-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「今年一番の出来かも」ロバーツ監督が佐々木朗希の粘投を称賛！ メジャー初勝利は持ち越しも次戦に手応え「本当の自信がつき始めた」
+      <a href=https://news.yahoo.co.jp/articles/5c6843fda963fd2c0fd3bf88fcae849e5471067a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 佐々木朗希の真っすぐは意外に“遅い”!?　令和の怪物がメジャーの強打者を「圧倒」するために必要なのは――
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 05:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 06:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
