@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f23f0fbbff4ab3a480b1c3f6dc713b60.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bee716484765f519e49faa088746a25e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8bc679c885342beb12537c8f5ff49fa204ed758>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-10175672-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=985&ch=985&exp=10800&fmt=webp> 祭りの群衆に車突っ込む 複数人が死亡 カナダ・バンクーバー
+      <a href=https://news.yahoo.co.jp/articles/d7ca1b9da4e191bb13364898a9ea14a12acee6fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00255315-sasahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=566&ch=566&exp=10800&fmt=webp> 【追悼・大宮エリーさん】「人生は面白いことばかりではない」　遺作『東大ふたり同窓会』に込めた想いとは　
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4ceab2ee09115af08554d172b7b96880e23ab5a6bfc2482fe631cb3b6c3de58b.jpg> 消費減税は大衆迎合でない 野田氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536862>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/e19ebd4a0c613e14eac88d86d5e95aba128ff679fb6ab57d6f0bd3f49c21f08c.jpg> 11年間で6人を出産 多産DVの実態
       </a>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/0468295ed7acc1cab663670664c3cb0b001290e82fd5c3115afef314a999c535.jpg> ロッテ角中「令和7777号」本塁打
+      <a href=https://news.yahoo.co.jp/pickup/6536877>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yokoohirokazu/02187516/title-1745733520816.jpeg?exp=10800> 朗希の着実な進化 評価する声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4f574ec0d033318aaa1116054f0d689cafd4d618b1f402d3dcc8bce48efda079.jpg> DeNA本盗許す バウアーぶぜん
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4d257387566dbe98eda5ad50ce1f164ae53360481beeea0c85609cb6cbc982a3.jpg> エリーさん死去 不調明かしていた
+      <a href=https://news.yahoo.co.jp/pickup/6536878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/e4bcd21a8a32d1611de57471c774e91b6853038050611786783715dc375f3251.jpg> 阪神 90万円チケ当選家族が始球式
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 16:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 17:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
