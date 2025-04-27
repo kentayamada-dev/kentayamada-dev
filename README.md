@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/GccYSe4vijo?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/faf0ae4f27ffcbc2546e4534e8fc2fe3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/284ac897113cb4ef445482136fef6f06.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c62befdefc1bef3753166e5110f6460a9e852e61>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-03825738-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「空飛ぶクルマ」部品落下事故受け、当面の飛行中止　大阪・関西万博
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/81e2c4ffb928cec5385f80ee0ecd5d8dda34d2a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000124-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> ドジャース・佐々木朗希「踊ろう！　〝ローキ〟」の登場曲でメジャー自己最多93球　初勝利お預けも「今は集中して試合に向かえている」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b2064a34c9ee31aac59455906b2256e0002e604b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04553678-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 「バチェラー4」黄皓、第1子誕生を報告「これからは僕が、あなたを守り支えていきます」妻への感謝綴る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f46a4e7f2241ecbebe494b6e2df3c3011c3e8149>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00529457-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希、降板後ベンチの振る舞いに指摘「残ってる」　変化に気づいた人「みんな寄り添い…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89bc0a3f6c81584a8faca4a61513c694413831fc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00050964-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「飛んでいるところ見たかった」　デモ飛行で一部破損　万博「空飛ぶクルマ」当面運航停止
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536905>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/abec25194aa32546308edce986bc8fa1f84dce4b824e0f7a3d41dd5da19f871d.jpg> 赤旗「発行危機」10億円寄付募る
+      <a href=https://news.yahoo.co.jp/pickup/6536915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/bde208b21305170087791a5ffe2a3728f47bdbbd5f7a0295dd502aa7ccbb463b.jpg> 10年以上引きこもり 地震で一変
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536914>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/e5cfbdf60d5d792a8bb4b2d6a792eaeb397780746c167ced8c13a2ae3d97a399.jpg> 地震時浴室は安全なのか 識者見解
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/9598fd911873ccc938acec410441a826b70d8a31ae85183b3b995e41fa16ae34.jpg> バチェラー黄皓さんに第1子誕生
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 22:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 22:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
