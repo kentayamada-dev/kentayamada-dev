@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b9334fcd10d8be27ed67826fe56ba70c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0084d8bdc562ed51c5b8085dfe864b69.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cc8a4b0099bf8960e00db4f140f3aca3a2583099>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000051-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 秋篠宮さま、フランシスコ教皇の追悼ミサに参列　天皇陛下の名代として
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000051-ann-000-10-thumb.jpg?exp=10800&fmt=webp> 秋篠宮さま、フランシスコ教皇の追悼ミサに参列　天皇陛下の名代として
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96d25407baa235ff3e279e7ae2bc017d3aeba0ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-01743480-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=9&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 無念の降板も…佐々木朗希をベンチで支えた“先輩”　中継が捉えた一幕「かっこいいな」
+      <a href=https://news.yahoo.co.jp/articles/81e2c4ffb928cec5385f80ee0ecd5d8dda34d2a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000124-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> ドジャース・佐々木朗希「踊ろう！　〝ローキ〟」の登場曲でメジャー自己最多93球　初勝利お預けも「今は集中して試合に向かえている」
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536918>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/9fa4924968c1b7fc1d48fa0979f91859c73ed25a058b11b672818b6a6cb0b825.jpg> 米大統領 増えてきた「朝令暮改」
+      <a href=https://news.yahoo.co.jp/pickup/6536921>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/234236f40400f7f7f8e20d894329e002775996546566bb822a392c565f16d8bd.jpg> 石破首相 ベトナム首都を訪問
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536917>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/153c702e30f1bd4255a4238ff36ba75534fa780dcac0ba8d88d5adb3cdaa3803.jpg> コメ輸入拡大案 農家「何で」訴え
+      <a href=https://news.yahoo.co.jp/pickup/6536918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/9fa4924968c1b7fc1d48fa0979f91859c73ed25a058b11b672818b6a6cb0b825.jpg> 米大統領 増えてきた「朝令暮改」
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/70287466c53a3368bfd7ee8f1ec8664b9df00b3b643d9b19d0d9b81c798e48ee.jpg> 携帯回収で再登山 同じ男性を救助
+      <a href=https://news.yahoo.co.jp/pickup/6536915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/bde208b21305170087791a5ffe2a3728f47bdbbd5f7a0295dd502aa7ccbb463b.jpg> 10年以上引きこもり 地震で一変
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536881>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 波紋呼ぶカスハラ 店側や客の声
+      <a href=https://news.yahoo.co.jp/pickup/6536889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/70287466c53a3368bfd7ee8f1ec8664b9df00b3b643d9b19d0d9b81c798e48ee.jpg> 携帯回収で再登山 同じ男性を救助
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536904>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/705f7ca5147baf5fcef914d90fc86668ecce7d04539f21510e6d8b9b64c41028.jpg> 悲劇 リバティアイランド安楽死に
+      <a href=https://news.yahoo.co.jp/pickup/6536924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/92533bb0b976139b7d16bd99a9907bc321ad7b1bd9bb7a2e49e77ee45808c355.jpg> 3冠牝馬が安楽死 予後不良の診断
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 23:51:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 00:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
