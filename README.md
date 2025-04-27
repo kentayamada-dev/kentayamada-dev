@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7e6171ac05ac96ca3f9b6d089b9e52b4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/17a5188b5edad949738cd4aca9f13995.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4edd07f71c3443855f502c6680508fa2ab1fc8c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-34270133-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1357&ch=1357&exp=10800&fmt=webp> 大谷翔平は「１番ＤＨ」佐々木朗希はメジャー初勝利をかけ６度目の先発／スタメン一覧
+      <a href=https://news.yahoo.co.jp/articles/9ee0d1e4a6bdd795b2fe8cc33e529b025abfaeea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000001-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=387&ch=387&exp=10800&fmt=webp> トランプ氏とゼレンスキー氏が弔問外交…米「生産的」、ゼレンスキー氏「象徴的会談」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22902004ee3f5b3d4e8654549a0f9c7bf463c9a6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000025-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> バチカン、9日間の服喪期間　次期ローマ教皇選びが焦点に
+      <a href=https://news.yahoo.co.jp/articles/c42050eca6cde558c817c602f5365c9303646bf4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-01742957-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平らの「息の根を止めた」　頭抱え直視できず…ド軍ファンの絶望「悲しい日だ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dbb490ee44b183beb50743062777e28e5483fc82>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00963859-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシア連邦保安局（FSB）軍幹部殺害容疑で「ウクライナ特殊部隊工作員」拘束　男の動画公開「爆発は遠隔操作」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/60355cd47318f1cdb2916358cc2299008d17c9d1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250426-00000170-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> SUPER EIGHT・大倉忠義の会社と「STARTO」が業務委託契約締結　ジュニア全体育成へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/825475afb5917a878e649aedd7fe3fd85ce6fa56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア軍参謀本部幹部の殺害関与疑いで「ウクライナ特務機関の工作員」拘束
       </a>
     </td>
   </tr>
@@ -426,32 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536804>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ab77f9bc10b1f0ec4bdda2f1bd1b8ae093c2e7f3b0c5ba76fe756bf278ca344d.jpg> 万博来場者が死亡「適切な処置」
+      <a href=https://news.yahoo.co.jp/pickup/6536820>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/4c91e0beeaa453fe3a66b1ae123a171481c10675ee00b7f480b13b03b3a09ac8.jpg> 小2が線路上で電車と接触 重傷
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536798>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/ea645ba01c8853b6a5a04824d58fe8a4e7e9f57aafbfd4814fb80a679f21fe19.jpg> 露でマクドナルド復帰模索か 報道
+      <a href=https://news.yahoo.co.jp/pickup/6536818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/f08a36f931b41f01b4c6a03939152997dc50715a0d9af26a6dd9ec59887f18fc.jpg> 「頂き女子」の母 取材に流した涙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536795>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/26/1f73c05adeccd59157e4d192e5fc5e76484a328949a3ae60e367bbe48c33f198.jpg> 「高収入」うたう宣伝車 市調査へ
+      <a href=https://news.yahoo.co.jp/pickup/6536817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/8e4ac107a21af9af1a19bdc0d6fe249e065e465e97b6b9f5bb880f1eb7fc7ac9.jpg> 阪神に5連敗 G監督打線バッサリ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536810>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/25b4fee13e5a96f57fa85cfa4ec271557f81e3e38c26bbaed2f0017ba9d874e6.jpg> 横浜 ロナウドにゴール奪われ完敗
+      <a href=https://news.yahoo.co.jp/pickup/6536811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/287500594e56e504c024bae46327cfbf72cdbeab6d79bfd6e97217a2a8e4966b.jpg> 氣志團 23年ぶりワンマンライブへ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 08:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 09:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
