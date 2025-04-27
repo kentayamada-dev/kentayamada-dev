@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/50399096345e00348bd321b8fa4bdf81.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6304f4a59a061efc60d17cdb12519d49.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82cbf06880979c227e03595cefec1166d4651564>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00963964-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=819&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平は“パパ初尽くし”!復調の3安打　佐々木朗希はメジャー移籍後最多93球も初勝利はお預け
+      <a href=https://news.yahoo.co.jp/articles/a74fff7ba807faed59a23826b81a0b5a2a122a13>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000106-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 佐々木朗希、また初勝利お預け、口にした「物足りなさ」と「手応え」…メジャー最多93球、「パフォーマンス上げたい」
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fbba3bb3719c7139e0f3190c9de9f9c30cc918ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000103-chuspo-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=322&ch=322&exp=10800&fmt=webp> 万博、『空飛ぶクルマ』部品落下でデモ飛行当面中止にネット「実用化にはほど遠い」トラブルも無事着陸に「安定性がすごい！」の声も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000103-chuspo-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=322&ch=322&exp=10800&fmt=webp> 万博、『空飛ぶクルマ』部品落下でデモ飛行当面中止にネット「実用化にはほど遠い」トラブルも無事着陸に「安定性がすごい！」の声も
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536862>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/e19ebd4a0c613e14eac88d86d5e95aba128ff679fb6ab57d6f0bd3f49c21f08c.jpg> 11年間で6人を出産 多産DVの実態
+      <a href=https://news.yahoo.co.jp/pickup/6536885>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/1adc004ebb7ed37bafbaa7c9faa20e48c4e0865877737bd66e85c2584c891336.jpg> 万博会場への「車&バス」利用低調
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536873>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/162fe232cd1f99fda380a432012d3a14bec1f1c752fd57542cf0883cf7805a24.jpg> 映像 空飛ぶクルマ部品落下の瞬間
+      <a href=https://news.yahoo.co.jp/pickup/6536894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/1b1eb949e93a2e491ec3e3cee2d3f2accf6917c7215d7782d4f21684e241384e.jpg> 性的被害も 過酷なペイハラの現場
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/dd89b7b10fad3df15b3e1ca1708fa503caaef8d97e5b882d8f0b4790505432a0.jpg> ウォーホル作品うっかり廃棄か 蘭
+      <a href=https://news.yahoo.co.jp/pickup/6536896>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/29e1484fd56e3b0925e8ae4e4937012d49c0d2a1178cb82ba994fb019505fead.jpg> 阪神・桐敷に折れたバットが直撃
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 18:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 19:00:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
