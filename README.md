@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5af6dc3fee854a51835152dd1b27169a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/062b289d863f0ec1a649db2a299cc8cf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7e8e3994508a6d64830bea123414ebe8948e505>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-04281025-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=362&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、今季自己最速１８２キロの高速二塁打　前日から４安打は全て長打　高まる“パパ１号”への期待
+      <a href=https://news.yahoo.co.jp/articles/1f35fdba327ad5dbab3fb2366cc01e98e2688500>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280044-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1330&ch=1330&exp=10800&fmt=webp> 大谷翔平、第２打席で182キロの弾丸二塁打　２試合連続の二塁打＆26日から４安打すべて長打
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3a2c617e3897cc65554eba93b6ebf6650d576c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000042-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1025&ch=1025&exp=10800&fmt=webp> 広島、バウアー崩せずハマスタ7連敗　本盗で先制もわずか2安打　新井監督「良い経験にしてもらいたい」
+      <a href=https://news.yahoo.co.jp/articles/2830e8c77c2a2e24a542b2b7901b9807e49def12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000008-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 車に乗る容疑者の姿、現場近くのカメラに　宮城の女性保育士殺害事件
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c6843fda963fd2c0fd3bf88fcae849e5471067a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010000-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 佐々木朗希の真っすぐは意外に“遅い”!?　令和の怪物がメジャーの強打者を「圧倒」するために必要なのは――
+      <a href=https://news.yahoo.co.jp/articles/517a2a4f148d5c768867564f18f120305abee145>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010001-dal-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=839&ch=839&exp=10800&fmt=webp> ドジャース激震　先発グラスノーが右肩違和感で1回緊急降板　初回に2者連続被弾　前日に点滴　試合前のロバーツ監督「きょうの登板に向けて順調」と話していたが…
       </a>
     </td>
   </tr>
@@ -386,14 +386,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/234236f40400f7f7f8e20d894329e002775996546566bb822a392c565f16d8bd.jpg> 石破首相 ベトナム首都を訪問
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536918>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/9fa4924968c1b7fc1d48fa0979f91859c73ed25a058b11b672818b6a6cb0b825.jpg> 米大統領 増えてきた「朝令暮改」
       </a>
@@ -402,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/20c6eb4d9ff5092ee37568d0c232050077fd8d037316d9ffa0b8472f5e3c044f.jpg> 秋篠宮さま 教皇の追悼ミサに参列
+      <a href=https://news.yahoo.co.jp/pickup/6536921>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/234236f40400f7f7f8e20d894329e002775996546566bb822a392c565f16d8bd.jpg> 石破首相 ベトナム首都を訪問
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/6782b82cbd803cc1fcf7f7a7781f0340e544daddf614f97480cc502d6736d402.jpg> 遺棄疑い 死亡女性は男の試合観戦
+      <a href=https://news.yahoo.co.jp/pickup/6536925>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/adabfcc0d5332d1c4660ce5c08bc454cf0f4cfb02db61aee3a7bf9b0273d3866.jpg> カナダで群衆に車 死者11人に
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/70287466c53a3368bfd7ee8f1ec8664b9df00b3b643d9b19d0d9b81c798e48ee.jpg> 携帯回収で再登山 同じ男性を救助
+      <a href=https://news.yahoo.co.jp/pickup/6536897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/6782b82cbd803cc1fcf7f7a7781f0340e544daddf614f97480cc502d6736d402.jpg> 遺棄疑い 死亡女性は男の試合観戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/30742a1dfb974f84d89e740e2b2550ac18a5113ff7cf66505216607600e8eb8c.jpg> 下山中に約150m滑落 47歳男性死亡
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 06:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 06:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
