@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ecfcb6d97f235f8efb2327a71523c66c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b341657430cb84dc145053ebda2062a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2dcded19cc4f2e3799e3e38789acdc7158d5336d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-01743561-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ド軍激震…試合開始から30分、194億円男を襲った“異変”、米嘆き「随分と深刻そう」
+      <a href=https://news.yahoo.co.jp/articles/d20ec4d690448564f1fa43d5ca77b9e11d4976b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010003-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 韓国人気ウェブ小説を小芝風花＆佐藤健W主演でドラマ化「私の夫と結婚して」6・27配信
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f15a5aa3aacaba664b83400b0940aa2a62044a7b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-10509016-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=610&ch=610&exp=10800&fmt=webp> ドジャース・大谷翔平、今季初の2戦連続マルチ安打で連勝貢献　弾丸182キロ二塁打含む3出塁マーク
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f35fdba327ad5dbab3fb2366cc01e98e2688500>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280044-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1330&ch=1330&exp=10800&fmt=webp> 大谷翔平、第２打席で182キロの弾丸二塁打　２試合連続の二塁打＆26日から４安打すべて長打
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/600602b60887cc0a5682e249b9f7b18a77e9d950>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00115178-keibana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=1280&ch=1280&exp=10800&fmt=webp> 三冠牝馬リバティアイランド予後不良で安楽死…香港で左前脚を故障
+      <a href=https://news.yahoo.co.jp/articles/2830e8c77c2a2e24a542b2b7901b9807e49def12>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000008-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 車に乗る容疑者の姿、現場近くのカメラに　宮城の女性保育士殺害事件
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/234236f40400f7f7f8e20d894329e002775996546566bb822a392c565f16d8bd.jpg> 石破首相 ベトナム首都を訪問
+      <a href=https://news.yahoo.co.jp/pickup/6536929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/33d875c1828d7fdc076121225eb4cacda468630fff3aea15980cc5e0dc185eca.jpg> SNS偽情報 投票影響「心配」84%
       </a>
     </td>
   </tr>
@@ -412,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536925>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/adabfcc0d5332d1c4660ce5c08bc454cf0f4cfb02db61aee3a7bf9b0273d3866.jpg> カナダで群衆に車 死者11人に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/bde208b21305170087791a5ffe2a3728f47bdbbd5f7a0295dd502aa7ccbb463b.jpg> 10年以上引きこもり 地震で一変
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/3a3471da5453dea5f6519a0058c1737a4f16d41b14389d19fee2e6b301561c2e.jpg> 人気韓ドラリメイク 小芝風花主演
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 07:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 08:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
