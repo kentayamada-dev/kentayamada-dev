@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c2f54d96b5c79a34504651bb41e657b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4ef837b9e377e32e4c045e4f79092520.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81899ec82268f080f00eb810325ed0bb3b6339e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010001-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「4、5台ぐらい横転したりつぶれていた」夜中の東北道で“逆走車”　衝突事故後の渋滞にトラックが追突…3人死亡10人以上けが
+      <a href=https://news.yahoo.co.jp/articles/d4dbd67ed9748b2a430f8fc48cc4e4f674c12723>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000038-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平「パパ」で初打点、7回にこの日3本目となる長打で同点！次は「パパ」初アーチに期待
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c639b92c5299e93167727597191ff424ec84bd0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000031-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=918&ch=918&exp=10800&fmt=webp> 大谷翔平「パパ」で初マルチ＆三塁打！残るはホームランだけ、フリーマンの右前適時打で同点のホーム、佐々木朗希の負けを消す
+      <a href=https://news.yahoo.co.jp/articles/6e929afe857fd5cbd03530c89829978576d90b1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010004-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 内島萌夏 3回戦で世界3位と激突、試合は今夜開始＜女子テニス＞
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e4935f39627c0bd2838341f10ed9679ebb19145>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010003-tennisnet-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=1940&ch=1940&exp=10800&fmt=webp> 逆転勝ちに気付かずベンチ戻る、世界18位チチパス 珍事も2年ぶり3回戦へ＜男子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/3e6588b3ce5ba59cf23b4b05a09423a5483d11ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000036-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=770&ch=770&exp=10800&fmt=webp> 消費減税、「大衆迎合でない」　立民野田氏、不信任は関税考慮
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536827>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/e246b9a0a3ef1f3d54b6080489e3ff194034e64efc48a30fd7bdfcd038b71778.jpg> 米との核協議 イラン側「進展」
+      <a href=https://news.yahoo.co.jp/pickup/6536840>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/536f0f9db287754b8054319cbae9f695dacc813b29998e7727655e2a96285d13.jpg> 万博来場の7割強が50歳以上 推計
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/5ec90da3633d9a8905c10a3a2ffa6b5ea5acb5ac7aab49075cfb553528718e7b.jpg> 万博ネパール館工事停止 交渉裏側
+      <a href=https://news.yahoo.co.jp/pickup/6536837>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/fff9bd0222222d82b94696256b2113f6b4bd8bb736afc374c297167d32d3f4a7.jpg> トランプ氏 教皇葬儀に青いスーツ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/5fc3e433fad2142e6e2bd80b0cf56698e83455956fd42f5b4bcc8eba83a93b67.jpg> 医師が2億円寄付 はしご車が完成
+      <a href=https://news.yahoo.co.jp/pickup/6536843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/b8ee22337a04636ac6298a71fa8119290da5b47e65d517d5924ee87c7f15578f.jpg> 根拠ない「426地震説」なぜ拡散
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 12:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 12:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
