@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e31d35a08d9a85f111416a0b3270812c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/959bd08d65263d38195332faeb5c90c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3dc5906ab6748f58839df6ea087bb26485e0e322>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000057-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=541&ch=541&exp=10800&fmt=webp> ベトナム・ラム書記長「両国関係は全分野で強化」　石破首相と会談
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c62befdefc1bef3753166e5110f6460a9e852e61>
@@ -371,22 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2064a34c9ee31aac59455906b2256e0002e604b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-04553678-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 「バチェラー4」黄皓、第1子誕生を報告「これからは僕が、あなたを守り支えていきます」妻への感謝綴る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea81d0432ab36dbedf218bc3c84197331b519256>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-01743183-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「状況に応じて打てていない」　復活の3安打も…専門家が抱く“疑念”
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,32 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/0ff87888e14848bf07956cc0275c8bd81d973774aa138075c56564ad121d7c2f.jpg> 世界の製薬企業 米国への投資急ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6536918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/9fa4924968c1b7fc1d48fa0979f91859c73ed25a058b11b672818b6a6cb0b825.jpg> 米大統領 増えてきた「朝令暮改」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/738d5ba8f7e0457a6f7e4bc923aeab3496eb5b902a978aa67a12ffcce8189ec2.jpg> 次期戦闘機の愛称「烈風」検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/e5cfbdf60d5d792a8bb4b2d6a792eaeb397780746c167ced8c13a2ae3d97a399.jpg> 地震時浴室は安全なのか 識者見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/bde208b21305170087791a5ffe2a3728f47bdbbd5f7a0295dd502aa7ccbb463b.jpg> 10年以上引きこもり 地震で一変
+      <a href=https://news.yahoo.co.jp/pickup/6536917>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/153c702e30f1bd4255a4238ff36ba75534fa780dcac0ba8d88d5adb3cdaa3803.jpg> コメ輸入拡大案 農家「何で」訴え
       </a>
     </td>
   </tr>
@@ -434,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536916>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> パワハラ失職の前市長落選 鹿角市
+      <a href=https://news.yahoo.co.jp/pickup/6536915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/bde208b21305170087791a5ffe2a3728f47bdbbd5f7a0295dd502aa7ccbb463b.jpg> 10年以上引きこもり 地震で一変
       </a>
     </td>
   </tr>
@@ -444,6 +420,22 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536907>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/2a8c9e8b90822586c478e831bbaa2bfe20f0251bacfedb546da7d94c63bb77db.jpg> ドーンと音 タイヤ外れ4人に衝突
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/70287466c53a3368bfd7ee8f1ec8664b9df00b3b643d9b19d0d9b81c798e48ee.jpg> 携帯回収で再登山 同じ男性を救助
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536881>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 波紋呼ぶカスハラ 店側や客の声
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 23:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 23:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
