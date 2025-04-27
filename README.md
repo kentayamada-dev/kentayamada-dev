@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/087279a3631116dab1fea2b58fa39eb6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/49cc0a0b196a5f311f43338c8292b61a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3d9da608e7ffbc524f41ac0dc16f1e4244e8be9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000065-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=870&ch=870&exp=10800&fmt=webp> ドジャース朗希　メジャー自己最多93球力投も初勝利お預け　直球軸に3失点「いい軌道で投げられている」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3b1ab520a0b7a15d3006eed4baec7faaad8a3b64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00964037-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相がベトナム日系企業と意見交換　米関税措置など28日首脳会談へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc8a4b0099bf8960e00db4f140f3aca3a2583099>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000051-ann-000-10-thumb.jpg?exp=10800&fmt=webp> 秋篠宮さま、フランシスコ教皇の追悼ミサに参列　天皇陛下の名代として
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/81e2c4ffb928cec5385f80ee0ecd5d8dda34d2a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000124-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=40&cy=0&cw=1065&ch=1065&exp=10800&fmt=webp> ドジャース・佐々木朗希「踊ろう！　〝ローキ〟」の登場曲でメジャー自己最多93球　初勝利お預けも「今は集中して試合に向かえている」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00964037-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相がベトナム日系企業と意見交換　米関税措置など28日首脳会談へ
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 01:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 01:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
