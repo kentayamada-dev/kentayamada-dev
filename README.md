@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/930ae314d7fd7f3d9fb531f471d24677.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/69c212a16b94cf8b3c2465baa9801032.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61c14cf8421adb5160b5122823593434bd66e70f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000048-dal-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=1644&ch=1644&exp=10800&fmt=webp> 大谷翔平　第１打席で二塁打！２試合ぶりの安打　二塁塁上で笑みを浮かべ激しくパフォ→テオの適時二塁打で同点ホーム　佐々木のプレーボール被弾をカバー
+      <a href=https://news.yahoo.co.jp/articles/ebf18ce0347d7290f896dad1507c805ef3a90699>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 逆走、多重事故で3人死亡　栃木・那須塩原の東北道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d37951871535ae80506b66ccd388e7de322c5a5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-35232355-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ロシア、「ウクライナの特殊機関要員」を拘束　車爆発による軍将官死亡で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/80bad2f52ef6c426d61dc17cbbe824dd28205ced>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000137-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平　第2打席は好機で見逃し三振　ストライク判定に驚きの表情
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4fd57c1091c58f16db1f46ca546b3f5ebf2b28bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000004-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=1297&ch=1297&exp=10800&fmt=webp> ローマ教皇葬儀、40万人が最後の別れ トランプ氏ら各国指導者も参列
       </a>
     </td>
   </tr>
@@ -367,30 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b2ecf625ba149bfe7e0109a3c7064776b04d5336>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00010002-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1535&ch=1535&exp=10800&fmt=webp> 錦織圭に快勝で3回戦進出、世界30位シャポバロフ 雪辱果たす＜男子テニス＞
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/43e37060793665f97bfcfea749137fef3e4e7e80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00342485-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大宮エリーさんが病気のため４９歳で死去　脚本家やラジオパーソナリティーなどで活躍
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15bf0ac11eff4167f37e8885ec857e11075bd2d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000012-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=521&ch=521&exp=10800&fmt=webp> 「ウクライナ特殊機関の男性」拘束　ロシア、軍幹部殺害で捜査当局
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/900630c4927bd31d1c65a0f70f1ead72e88f4bd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-10175627-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=596&ch=596&exp=10800&fmt=webp> フランシスコ教皇の葬儀 ローマ・カトリック教会の広場に約25万人が集まり別れ
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536818>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/f08a36f931b41f01b4c6a03939152997dc50715a0d9af26a6dd9ec59887f18fc.jpg> 「頂き女子」の母 取材に流した涙
+      <a href=https://news.yahoo.co.jp/pickup/6536829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/5fc3e433fad2142e6e2bd80b0cf56698e83455956fd42f5b4bcc8eba83a93b67.jpg> 医師が2億円寄付 はしご車が完成
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/5a5d1dcd6c27166d6a82a71cfcacb5d4f3eb709de2c9ea668d7128b8f2e1ab23.jpg> ベルマーク協賛企業が減少 背景
+      <a href=https://news.yahoo.co.jp/pickup/6536823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/38119875b3c2e38fcfdd30ded53765b6a075f4a26ffae6e68e92ac241d95624b.jpg> 予約殺到 ペットツーリズムが人気
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536833>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/2cd11fbfe6ec62f78c3abb906c8aa129b46095824ed51621bf5994e1c5bae2ea.jpg> 朗希ぼう然 プレーボール初球被弾
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/27/af987f94c7b0a8c68e0f1b2e068fe5c39fe7b560c2b93b9dcb73b48a9bf28556.jpg> 朗希ぼう然 プレーボール初球被弾
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/27 10:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/27 11:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
