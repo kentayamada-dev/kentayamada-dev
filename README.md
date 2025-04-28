@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b22c26cccf2b721b90243734d9df56a9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8831531232d16d8afeae5cb01e3fba76.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2143d6ff8c4b6b515119447f04a699fd863ae6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000035-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 川崎・解体現場で廃材落下 作業員1人救出も心肺停止
+      <a href=https://news.yahoo.co.jp/articles/7e38877c295b8ec3398bf9de9e3c30c1374e0129>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-02551775-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 解体現場で“鉄骨”落下、下敷きの作業員1人が心肺停止　神奈川・川崎市
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/689be1cbe1cd5d5d97269c46e5b51bb489bd5ce9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000034-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 万博「リング」一部現地保存で調整　閉幕後のレガシーに
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000034-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 万博「リング」一部現地保存で調整　閉幕後のレガシーに
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536950>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f3d896a6ebd461fcd4a2bfc24301365b28d91cfcf8dd67ceb5d8ba9c2c759b78.jpg> トランプ氏 ウ大統領は前より冷静
+      <a href=https://news.yahoo.co.jp/pickup/6536964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/cd3792a0c7d2fe609f5ef07c4a103bb8fa018f46d601777f6063e33c677bdb88.jpg> 育成就労 大都市圏受け入れ制限案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/cd3792a0c7d2fe609f5ef07c4a103bb8fa018f46d601777f6063e33c677bdb88.jpg> 育成就労 大都市圏受け入れ制限案
+      <a href=https://news.yahoo.co.jp/pickup/6536960>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f691a15a74418b601ff4661e811b46ce934fbad34076802cb4eacf4053074c7b.jpg> 橋本聖子氏の事務担当 不起訴不当
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/b136ac4910cc6d2a160611df7bd06c6b8a43199f892143f18d891512fd75b8d3.jpg> ギャル雑誌「JELLY」8月に復刊
+      <a href=https://news.yahoo.co.jp/pickup/6536966>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/4ac50dd7731134aabc9230ebff80512f9c23a91d8ff261b758be91b02d5f91cd.jpg> イクラ高騰「もう限度」と嘆く店
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536955>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f3b3a16857675aac4c7ce288f93d65e7acd75879a0bf185f0314d20b1f6cf4ff.jpg> コナン映画 10日間で興収63.4億円
+      <a href=https://news.yahoo.co.jp/pickup/6536962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d6f351206b4d2d25965eb3e4c64aeec92b1b0d6b33bd2c0dc30e95f707c2ac3f.jpg> 3冠牝馬の安楽死 発症したケガは
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 14:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 15:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
