@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f6a6f1d128ecbccec3e84c2057931484.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4a0a6e7c72f190bed0df79e743ec4ff7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7884b4f70673a7e086652532cb4baee009cb8ee4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大阪・関西万博がカスハラに対する基本方針策定　該当行為に「土下座の要求」など示し法的措置も
+      <a href=https://news.yahoo.co.jp/articles/340de57505a14758f51465df6a80426eb5be94e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000284-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=755&ch=755&exp=10800&fmt=webp> CHAGE and ASKA　関係者が未発表音源など不正販売「プライベートな写真も」公式サイト発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/944edfee1ecf663912e4fd447ac5f975958553ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00487889-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ロシア大統領　声明で金正恩氏に謝意＝「北朝鮮兵、戦闘で任務完遂」
+      <a href=https://news.yahoo.co.jp/articles/2008b447388009b02446cd9a0d23bd09c093dde9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000032-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=426&ch=426&exp=10800&fmt=webp> プーチン氏、北朝鮮兵「永遠に敬う」　越境攻撃の撃退で「命捧げた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7884b4f70673a7e086652532cb4baee009cb8ee4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大阪・関西万博がカスハラに対する基本方針策定　該当行為に「土下座の要求」など示し法的措置も
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b8cf1ef8ad7b1ea6a9a2af12687abdffd55e6766>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00964312-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=870&ch=870&exp=10800&fmt=webp> 『ゼロパンダ』ピンチの日本　人口2万人で観光客年間295万人の町「パンダラーメン」「海が見えるパンダ部屋」どうなる地域経済
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c7a9ccc529809b52dd2cf7f048950700a8d41173>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-07233241-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=511&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　関税で政府歳入増えれば「所得税廃止できるかも」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-07233241-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=511&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　関税で政府歳入増えれば「所得税廃止できるかも」
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536977>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ロシアの衛星 制御不能の状態か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536980>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/65d9aebe7b98e67b36fd936909d61b2245dc867e5ceb0a6384de3180528e735c.jpg> コマツ 営業利益27.3%減の見通し
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536975>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/6258ab70b2e758c83522c082b01d8b319e7daebcec4c0790526153cc814cd98c.jpg> グリ下に塀 居場所追われた若者
+      <a href=https://news.yahoo.co.jp/pickup/6536984>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/5befa34122d815bd06e6d48ff8cb041dfef679133b652e82cf6614edd39c4ce8.jpg> 万博で逮捕 謝罪来た男性に贈り物
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536982>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/758a27c98c2230f1e5800efa79bd06632532c59739dc1f49053ec39e91183404.jpg> パンダのまちに激震 迫る返還期限
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d2ea087db5179fc9c6c8ee1a3fb1c23412e78a4bbcea522a11c52b79911a1235.jpg> 波紋を呼んだ判定 SVリーグ謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6536985>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/c43c93193d36feacd1b7bdac581279df13f33732881d4a199b5224c8463dd3fc.jpg> チャゲアス 関係者が不正販売
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 17:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 18:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
