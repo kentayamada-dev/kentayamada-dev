@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de6d7721f5071907935f669f4cd64048.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9fce10c00f129bab459b4d400bce0f4d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5939c7bb348ecd99cdb427a66bec71ba9df68e76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-35232403-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> スペインとポルトガルで大規模停電、現時点で分かっていること
+      <a href=https://news.yahoo.co.jp/articles/70f26c546ce841ffc1ccfc338e02c674ee0a775a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000005-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=539&ch=539&exp=10800&fmt=webp> スペイン全土で異例の大規模停電　ポルトガルやフランスの一部でも
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c3028f5776ae07170a3f7842d5efc77114c0f1cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-01743953-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=600&ch=600&exp=10800&fmt=webp> グラスノーが離脱か…ド軍に28歳右腕が緊急合流　米記者「誰かがILに入らない限り」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-01743953-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=600&ch=600&exp=10800&fmt=webp> グラスノーが離脱か…ド軍に28歳右腕が緊急合流　米記者「誰かがILに入らない限り」
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dedde631c0274e7e4f63695711fbfd816909524e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34281337-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=1116&ch=1116&exp=10800&fmt=webp> 令和ロマンの今後は？片方が吉本離脱、コンビ活動可能も契約複雑…劇場出演など「厳しくなる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34281337-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=1116&ch=1116&exp=10800&fmt=webp> 令和ロマンの今後は？片方が吉本離脱、コンビ活動可能も契約複雑…劇場出演など「厳しくなる」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537005>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/a83a87e4ca23ba9be85a78d98e2c8223f04e3c16f4d2826907bfb065c6c58303.jpg> 5月8日から3日間停戦 ロシア表明
+      <a href=https://news.yahoo.co.jp/pickup/6537015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/cadf0f7011f7e183e48dd9cc3c4dece7363312e07e728e63736bee15288f106e.jpg> 障害年金 不支給が2倍以上に急増
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537015>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/cadf0f7011f7e183e48dd9cc3c4dece7363312e07e728e63736bee15288f106e.jpg> 障害年金 不支給が2倍以上に急増
+      <a href=https://news.yahoo.co.jp/pickup/6537029>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/8931bd26ea8aac05bf70b41e1d0012e95f7d60e06b538faee4f4e91b0f81b034.jpg> 日本郵便配達で飲酒運転 点呼不備
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537024>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/9d285dba811dda306500b1f9e57d4f97ff7c0ac4d7041bbd00c23d4807ff9abc.jpg> 中学の内申点 市教委「評価適切」
+      <a href=https://news.yahoo.co.jp/pickup/6537027>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/3e86f2184e2a7d83cb3fa7a667f7de41ce6c28844055a64a3ca6759666315e0e.jpg> 軽自動車同士が正面衝突 男性死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/97c763f0bcf90a7293877ca10449dd07b21afdcbabaf8a0a3cb2264b565d7d23.jpg> コメ農家がレモン栽培 新潟でなぜ
+      <a href=https://news.yahoo.co.jp/pickup/6537024>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/9d285dba811dda306500b1f9e57d4f97ff7c0ac4d7041bbd00c23d4807ff9abc.jpg> 中学の内申点 市教委「評価適切」
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/fdd4e3e7500ed2d8eb57416712fd3f6e915bae2cb51711edd0c9c360fbbadeba.jpg> くるまが吉本離脱 コンビの今後は
+      <a href=https://news.yahoo.co.jp/pickup/6537030>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/fdd4e3e7500ed2d8eb57416712fd3f6e915bae2cb51711edd0c9c360fbbadeba.jpg> 令和ロマン 2人活動の契約複雑化
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 08:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 08:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
