@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1c1edc53b71971eb9991effbf7fb9ecf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/50ba5de738815a86639e0aea9a1e72c9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/75e128ae849982b1e7ca5968652a9a075f7c7911>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-04554312-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 令和ロマン・高比良くるま、吉本興業と契約終了 所属事務所が発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e5bdf4b65b3987833717a33a45b349375e7e68db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050122-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 日本の防衛装備品の無償供与、ベトナム側が積極的に検討表明…両首脳が中国の海洋進出念頭に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ec06f3af33e6ea923a07f0852a73749867a03eca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010003-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 2試合連続マルチで打率も2割8分6厘に上昇 ドジャースはリリーフ陣が好投し2連勝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e329ae4eca1a0f8bff35ff2ec589b76ec57ce705>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000046-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=484&ch=484&exp=10800&fmt=webp> 万博協会、カスハラ対応の基本方針を策定　「土下座」事案もきっかけ
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/147e988787448cb8462b725513826dea48d04a6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 政府、自動車安全試験の軽減検討　米国が「非関税障壁」と問題視　TPP交渉で合意前例も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e8eecefd9c7b9c2833ddb9c4d3cf1c47ad426f37>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000070-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロシア大統領、正恩氏に謝意　北朝鮮参戦「高く評価」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b60a921737ab5119356a420f388f41cbf477ce8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00964303-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「日本がカバーしないと中国が…」日ベトナム首脳会談　自由貿易体制を強化する方針確認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2d414f0f9a75794e67c314ed23b95b619baaed9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010010-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「うまくいかない」大谷翔平所属のドジャース、主力投手が故障離脱か！？　米メディア「IL入りは現実的に」
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536987>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/0a3d920b0b347a4d1d438e7e67edeb63135f2f257957a8ec5fd13086aa90f353.jpg> 関西エアポートで情報漏えい1万件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536996>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/22e63ae3b7aa95c3fed01ee9c9a783c9ed0df3a866881c30a2103ae2c4354b15.jpg> 天然記念物のニワトリ盗まれ 怒り
+      <a href=https://news.yahoo.co.jp/pickup/6536997>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/1c003063db0e4f374719ba7b71fe27def3c896b5c61e0cf26b26502166e3217e.jpg> 児童73人症状 調理員からノロ検出
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537000>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f9fc013d9f612080c5b0b8010f629efb5dc3c35abab95b3824d39fed6f6e94da.jpg> 吉本興業 高比良くるまの契約終了
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 20:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 20:30:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
