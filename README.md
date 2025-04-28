@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f8de5adb239ed382d3f9102422b3dfa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0e1938ece199a4307595493e3d7019f7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/144e209c882d2210494ee2751220e134632753db>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00529655-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 西郷真央、大逆転メジャーVの確率が判明　スコア3つ落とすも…米関係者が驚いた「2.3」の“奇跡”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bf54c6022f91ab80bcd4642d08280dd629e4e65b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280214-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=1238&ch=1238&exp=10800&fmt=webp> 「涙が止まらん。また会いたかった」ビタミンＳお兄ちゃん、安楽死のリバティアイランドを悼む
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280214-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=1238&ch=1238&exp=10800&fmt=webp> 「涙が止まらん。また会いたかった」ビタミンＳお兄ちゃん、安楽死のリバティアイランドを悼む
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0c489476679b7bb489f2490cbb4ebca85dbecc5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280188-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1196&ch=1196&exp=10800&fmt=webp> 大谷翔平、第４打席でも右前打でマルチヒット　第２打席では182キロの弾丸速度ツーベース
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8c6f6789b0c4a93f87ad0e32a40f73893b76c89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-09385651-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日銀、政策金利据え置きへ　経済・物価見通しでは成長率の見通しを下方修正も利上げスタンスは維持の見通し
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280188-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1196&ch=1196&exp=10800&fmt=webp> 大谷翔平、第４打席でも右前打でマルチヒット　第２打席では182キロの弾丸速度ツーベース
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536935>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f921fed4dccc976bd2af3686f7317df390c385e53e2699b9f0fa9444eccd7405.jpg> 西郷真央 涙の海外メジャー初制覇
+      <a href=https://news.yahoo.co.jp/pickup/6536940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/2a5c3c7db437a6757e8c28af9928c63a636e9c9ad6482b1cf74f976d42cceb50.jpg> 西郷真央メジャー制覇 全身震えた
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 09:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 10:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
