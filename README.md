@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/u1dGsF9b8Ts?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce538b940f1cddefc671dc2c51dcd89b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/de6d7721f5071907935f669f4cd64048.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92e809745268d7718c663be5962d3a2797f786b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-04291009-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「信号、電車などが止まって大混乱」…「ＴＨＥ　ＴＩＭＥ，」安住紳一郎アナ、スペインなど「大規模停電」を伝える
+      <a href=https://news.yahoo.co.jp/articles/5939c7bb348ecd99cdb427a66bec71ba9df68e76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-35232403-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> スペインとポルトガルで大規模停電、現時点で分かっていること
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a27c9f469abfcdebe4fc6cb95f509fe1676c356a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000004-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=288&ch=288&exp=10800&fmt=webp> プーチン氏の３日間停戦宣言に…米ホワイトハウス「トランプ氏は恒久的停戦を追求」
+      <a href=https://news.yahoo.co.jp/articles/c3028f5776ae07170a3f7842d5efc77114c0f1cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-01743953-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=600&ch=600&exp=10800&fmt=webp> グラスノーが離脱か…ド軍に28歳右腕が緊急合流　米記者「誰かがILに入らない限り」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a542ac32982150e35ef250c1418ede93dbe35529>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00010005-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 再びのコンディション不良…ド軍194億円男に米メディアからも厳しい目「この契約はドジャースにとって裏目に出ている」
+      <a href=https://news.yahoo.co.jp/articles/8d18d0b01e7e53cb4532da0a0d7a4349c88186ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアの停戦「新たなまやかし」　ウクライナ大統領が一蹴
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dedde631c0274e7e4f63695711fbfd816909524e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34281337-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=1116&ch=1116&exp=10800&fmt=webp> 令和ロマンの今後は？片方が吉本離脱、コンビ活動可能も契約複雑…劇場出演など「厳しくなる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34281337-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=1116&ch=1116&exp=10800&fmt=webp> 令和ロマンの今後は？片方が吉本離脱、コンビ活動可能も契約複雑…劇場出演など「厳しくなる」
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537005>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/a83a87e4ca23ba9be85a78d98e2c8223f04e3c16f4d2826907bfb065c6c58303.jpg> 5月8日から3日間停戦 ロシア表明
+      <a href=https://news.yahoo.co.jp/pickup/6537022>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c388c7f12b6d50cdf4e04150de23525d6aba6ec5d4c2bbf040b5dd0758d31c8a.jpg> 停電 スペインで緊急事態宣言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c388c7f12b6d50cdf4e04150de23525d6aba6ec5d4c2bbf040b5dd0758d31c8a.jpg> 停電 スペインで緊急事態宣言
+      <a href=https://news.yahoo.co.jp/pickup/6537005>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/a83a87e4ca23ba9be85a78d98e2c8223f04e3c16f4d2826907bfb065c6c58303.jpg> 5月8日から3日間停戦 ロシア表明
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537011>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/a7d8cafae47880b48813b5f8ee0ee33958d66e8e1af17b1176cdcd9c3f810048.jpg> 新幹線が2h見合わせ 事故は前日か
+      <a href=https://news.yahoo.co.jp/pickup/6537024>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/9d285dba811dda306500b1f9e57d4f97ff7c0ac4d7041bbd00c23d4807ff9abc.jpg> 中学の内申点 市教委「評価適切」
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537016>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9fd668faecd51bead5fe931186ad95b1f228f24427a80593f6288b05f770a487.jpg> くるま 吉本からの打診で契約終了
+      <a href=https://news.yahoo.co.jp/pickup/6537026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/fdd4e3e7500ed2d8eb57416712fd3f6e915bae2cb51711edd0c9c360fbbadeba.jpg> くるまが吉本離脱 コンビの今後は
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 07:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 08:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
