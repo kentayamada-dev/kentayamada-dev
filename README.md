@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/80a01ed39e2ddbb08cb6ea4142183887.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3cb2b9f5b05ef660c5a3ebd1b38c70aa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0effbdd99a3b322e6c88848e23ef46d58dc6c93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000136-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【一問一答】メジャー初Vの西郷真央「最後のバーディーパットは、全身震えながら」シェブロン選手権
+      <a href=https://news.yahoo.co.jp/articles/df4869257dbab41020c72ea243f5e29b61ece5ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000144-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日本人がメジャー全5大会で優勝　西郷真央がシェブロン選手権を日本人で初めて制覇
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2830e8c77c2a2e24a542b2b7901b9807e49def12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000008-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 車に乗る容疑者の姿、現場近くのカメラに　宮城の女性保育士殺害事件
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000008-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 車に乗る容疑者の姿、現場近くのカメラに　宮城の女性保育士殺害事件
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536925>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/adabfcc0d5332d1c4660ce5c08bc454cf0f4cfb02db61aee3a7bf9b0273d3866.jpg> カナダで群衆に車 死者11人に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536926>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/30742a1dfb974f84d89e740e2b2550ac18a5113ff7cf66505216607600e8eb8c.jpg> 下山中に約150m滑落 47歳男性死亡
       </a>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536928>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/a014437d203ede75abb3bc6a2e320cac160a7bc11daf8bcad902753dffc38b1c.jpg> SHEIN 米国で最大377%値上げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/56b5750ebc64256f8ee6e204299471630700e920e069fb198199ed69306b8296.jpg> 3年1組だけ暑すぎる 生徒が謎究明
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 08:30:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 09:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
