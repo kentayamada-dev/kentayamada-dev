@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b9b4b5c90c79625f69ceda7f8079c46.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86e634007b2c4d1cbefd1e097bae9bd9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f38833fa96e9e3e542f70a1c95b60936495b1f5e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-10175793-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=982&ch=982&exp=10800&fmt=webp> 石破総理、ベトナムで自由貿易体制の重要性を議論 安全保障協力も加速へ
+      <a href=https://news.yahoo.co.jp/articles/a689a98563a88e4c7f9ea0ca36abbe328062f9f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010007-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 関税巡るトランプ氏と習近平氏の会談は本当にあったのか？米中で主張に食い違い　米財務長官「承知していない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7cd4521ac65c56b93ea18bf43e900fdf64300415>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000398-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=580&ch=580&exp=10800&fmt=webp> 万博「カスハラに対する基本方針」を公表　「土下座の要求」など例示し、退場、法的措置も【全文】
       </a>
     </td>
   </tr>
@@ -374,23 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ecb70decea7715f1f533b40433997280e10a712>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-01743678-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 194億円男に異変で突如“呼び出し”…ド軍に現れた26歳の救世主に感動「様様だよほんと」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-01743678-fullcount-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 194億円男に異変で突如“呼び出し”…ド軍に現れた26歳の救世主に感動「様様だよほんと」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/689be1cbe1cd5d5d97269c46e5b51bb489bd5ce9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000034-ann-000-5-thumb.jpg?exp=10800&fmt=webp> 万博「リング」一部現地保存で調整　閉幕後のレガシーに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/966c8deda24067c4a04ded01776a4b52cfd8d738>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050091-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=385&ch=385&exp=10800&fmt=webp> 日本とベトナム、外務防衛協力へ２プラス２創設…チン首相「日本は最重要かつ長期的なパートナー」
+      <a href=https://news.yahoo.co.jp/articles/7b106b9134da447b28a428974cdd8d3560a7f3f8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-07233227-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「チーム忍者」のLINEグループ作り… 銅線窃盗グループの主犯格ら逮捕　建設現場を狙った銅線窃盗被害は約100件　警視庁が余罪捜査
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536960>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f691a15a74418b601ff4661e811b46ce934fbad34076802cb4eacf4053074c7b.jpg> 橋本聖子氏の事務担当 不起訴不当
+      <a href=https://news.yahoo.co.jp/pickup/6536968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/6c1f4eaba863e33db3893806aaa72d863498f26df212a8a54cd265565fc75beb.jpg> 万博に王族ら来日 両陛下懸け橋に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/2ac4e1f2f36c768f2a931c7f07cb289d7a2222cda78df6df253f2f944eca1a35.jpg> 銅線窃盗疑い リーダーらを逮捕
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536970>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9f06d6b5a4ed46ee7082a02b74d953455ba1aa3586af4b9ea8f0b880d04da493.jpg> 解体現場で事故 作業員1人が死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536959>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f186d1d4c2ff8e8c64c0ed204a06a9b59fafc2637bb0866918d8490a41d0eba2.jpg> 東北道逆走 接触後も速度を維持か
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d6f351206b4d2d25965eb3e4c64aeec92b1b0d6b33bd2c0dc30e95f707c2ac3f.jpg> 3冠牝馬の安楽死 発症したケガは
+      <a href=https://news.yahoo.co.jp/pickup/6536971>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/409dd2445831d2771656feca574a811fe82fd7449da106a33dcdb3fec8c466c2.jpg> 西郷がメジャーV 賞金は1.7億円
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 15:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 16:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
