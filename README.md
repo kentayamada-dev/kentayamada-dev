@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4cba7514864d58e0d962b85e9551ca5c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/50508360bdfe97f62a5f8a9aec8059ce.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3fdabeee8b1e677275ea65b020e508c0c711f502>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000118-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> トランプ氏、恒久的停戦望む　ロシア・ウクライナ情勢＝ホワイトハウス
+      <a href=https://news.yahoo.co.jp/articles/721005acb8ced6722ef447201821dbda2ba36142>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-10175893-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=560&ch=560&exp=10800&fmt=webp> ロシア“停戦”を一方的に発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/97503af739731c7be634213c4057b007c4e4f9b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-21884300-tbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 自宅で15歳高校生の息子を殺害した疑い　48歳会社員の男逮捕　宮城・石巻
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d8da90934817558608037a717f0150bdfed5b938>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00964603-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新しい教皇を選出「コンクラーベ」　5月7日から開始へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fccd63e88cf833ba8e727a0b3e99f4d11145a5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050146-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 高校生の息子を刺し殺害した疑い、石巻の４８歳父親を逮捕…自宅からナイフとロープ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0da3a82e8f2c0bd94fb0c9fd92249b462cb21c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-90023007-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ドーン、ダーン、ガガー」タイヤ外れ…店に並ぶ列に突っ込む　4歳の子ども含む4人に直撃　車は自動車販売店のもの　整備不良の可能性　全国で相次ぐ脱輪事故　JAF「主な原因はナットの緩み」
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536984>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/5befa34122d815bd06e6d48ff8cb041dfef679133b652e82cf6614edd39c4ce8.jpg> 万博で逮捕 謝罪来た男性に贈り物
+      <a href=https://news.yahoo.co.jp/pickup/6537006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/8d2dc1114f07ad7a15154bdbce38bb2e354347de1045d6d29fdb15e9a3c37345.jpg> 機内で携帯電話発火 羽田緊急着陸
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537017>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d44365f86fa069476346ccf009d11538faa413e609483333089a5643bd47b1a6.jpg> 織田信長の朱印状 100年ぶり発見
+      <a href=https://news.yahoo.co.jp/pickup/6537018>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/97c763f0bcf90a7293877ca10449dd07b21afdcbabaf8a0a3cb2264b565d7d23.jpg> コメ農家がレモン栽培 新潟でなぜ
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 23:51:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 00:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
