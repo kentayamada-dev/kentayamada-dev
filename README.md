@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/80874ee37133ae47bc4f6b99cd41d11e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/741879fd4b00adf8e573190e3b0d049b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b76287ad8e6ebf8f7262539c946eaa72e724cb40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010005-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 復調の兆し見せる2試合連続マルチ！ 先発陣に故障者続出もド軍監督「大谷の投手復帰を早める可能性はない」
+      <a href=https://news.yahoo.co.jp/articles/95a6f0ff9634a9053cf6dd80ae26e045356ec12d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000090-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 高比良さんの契約解除　令和ロマンの活動は再開　吉本興業
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c17dd3aae259218d944ae48cc1e243eb64016294>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000480-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=661&ch=661&exp=10800&fmt=webp> 令和ロマンくるま、史上初の退所＆復帰でどうなる『ラヴィット！』　これまではコンビで隔週出演も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95d963f94857d664dc2cf408104954296c9bb4d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000117-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 新教皇選出のコンクラーベ、5月7日開始　バチカン発表
+      <a href=https://news.yahoo.co.jp/articles/f5bb28f235f1ce3aae56d62b4ed4b4094958e1d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050143-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 次期教皇を選ぶコンクラーベ、５月７日に…枢機卿２５２人のうち１３５人に投票権
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e595cb1f356900e0cfbfcad6f9b056b4e6a4ef3f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050127-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 北朝鮮のロシア派兵、ウクライナの越境攻撃が契機…戦略条約を発動・ロシアの軍事支援の可能性示唆
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e0da3a82e8f2c0bd94fb0c9fd92249b462cb21c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-90023007-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ドーン、ダーン、ガガー」タイヤ外れ…店に並ぶ列に突っ込む　4歳の子ども含む4人に直撃　車は自動車販売店のもの　整備不良の可能性　全国で相次ぐ脱輪事故　JAF「主な原因はナットの緩み」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537014>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f7a015943f3edb769fa423096153fd606d7284a1ab06f246cbb9f0820e2921e8.jpg> スペインとポルトガル 大規模停電
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537009>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/e6f412ad61ba990294d7938d3b1797add46e1686b5640db30871e1c5310af500.jpg> 高校生の息子を殺害疑い 男逮捕
       </a>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537011>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/a7d8cafae47880b48813b5f8ee0ee33958d66e8e1af17b1176cdcd9c3f810048.jpg> 新幹線が2h見合わせ 事故は前日か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/dd4de1c3bab2182189321ec8472c0cfaefb1e5416c1204fc836e84cb6f2a37fa.jpg> 東北道でタイヤ外れ事故 3人軽傷
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f9fc013d9f612080c5b0b8010f629efb5dc3c35abab95b3824d39fed6f6e94da.jpg> 吉本興業 高比良くるまの契約終了
+      <a href=https://news.yahoo.co.jp/pickup/6537016>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9fd668faecd51bead5fe931186ad95b1f228f24427a80593f6288b05f770a487.jpg> くるま 吉本からの打診で契約終了
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 22:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 22:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
