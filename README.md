@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4ef91f9056f62bf0a9b3ba61e52e1073.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f5305c3766c6fb22a8f04435cbd6eeb0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/713373ef6f733b9c3c0971e5dbb78f5fb2d8ded2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-07233365-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=526&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> プーチン大統領が5月8日から72時間の一時停戦を表明　対ドイツ戦勝80年記念日にあわせ　和平に前向きな姿勢をトランプ大統領にアピールする狙いか
+      <a href=https://news.yahoo.co.jp/articles/8921430d24e44522ffebd9aac7662988450de6e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-08221386-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ナイフで背中を刺し首を絞め…15歳息子を自宅で殺害か　父親を逮捕　宮城・石巻市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97503af739731c7be634213c4057b007c4e4f9b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-21884300-tbcv-000-1-thumb.jpg?exp=10800&fmt=webp> 自宅で15歳高校生の息子を殺害した疑い　48歳会社員の男逮捕　宮城・石巻
+      <a href=https://news.yahoo.co.jp/articles/cd6ecd15afa65304faa22abb8bfa950cda49d424>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-03726315-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> プーチン大統領、来月9日の戦勝記念日に合わせた“3日間一時停戦”を一方的に宣言　
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 01:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 01:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
