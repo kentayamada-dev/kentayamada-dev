@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5db61326a54d47af8852f7e71998b605.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/22b926a3faefa9e7b023464db33f9884.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ec0bb06852e0807559d2f384e6d3ddfe28b61cdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-09923727-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「数年前からこんな感じ」ド軍主力・グラスノーが右肩違和感訴え1回17球で降板　負傷者リスト入りについて「確かにある」と指揮官嘆く
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-09923727-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「数年前からこんな感じ」ド軍主力・グラスノーが右肩違和感訴え1回17球で降板　負傷者リスト入りについて「確かにある」と指揮官嘆く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8e7ece82d03f3c1863691922b41f39fbe84a3d5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000049-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=529&ch=529&exp=10800&fmt=webp> 劇場版「名探偵コナン」公開10日で興行収入63億突破、発声可能やまびこ応援上映開催
+      <a href=https://news.yahoo.co.jp/articles/28b8a899bf21850750cab822cc6b6bec09acfc9b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-90019050-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】吉村知事　万博「空飛ぶクルマ」破損で運行休止に「原因究明・安全対策明らかにして再開に期待」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/74f3d774f8d65b1b1cc0f16a80e7f2adc236fbc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-90018893-ktn-000-1-thumb.jpg?exp=10800&fmt=webp> ローマ教皇フランシスコの追悼ミサ　長崎の信徒などが祈り
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/29073a3300ae122d8263e76cf2b5a374d68b664b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-16999303-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=563&ch=563&exp=10800&fmt=webp> トランプ氏、ゼレンスキー氏はクリミアを手放す用意があるとの見解示す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b41da2bc6cd20de10312302a5d99f585e743a5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00094910-president-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=893&ch=893&exp=10800&fmt=webp> だからトランプ大統領は「ぼったくり関税」を世界に発動した…「モノづくり大国日本」を弱らせる"黒幕"の正体
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536943>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/5842147115aba1a60c8b1437a72eba0543432c7a963740ef8611e17b1274fbe9.jpg> 免許返納した77歳 車3台絡む事故
+      <a href=https://news.yahoo.co.jp/pickup/6536956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/63c6ae07cbb2ff8c9a3f9b03f29fb4bf0088d21e45cd5c119c9c5e2eeec41e24.jpg> 北海道 あすから季節外れ大雪恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536942>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/7f933200a1790a5aa2223cd083328716bf2f3e862bd070ec3ef226d737d7fc08.jpg> 防衛大生 選挙応援の動画に関与か
+      <a href=https://news.yahoo.co.jp/pickup/6536943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/5842147115aba1a60c8b1437a72eba0543432c7a963740ef8611e17b1274fbe9.jpg> 免許返納した77歳 車3台絡む事故
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9206d415c20bec150fa4a357419d129aaed7af35bb9ad05f08096e5211e95f2b.jpg> MLBで珍しいサヨナラ劇 観客沸く
+      <a href=https://news.yahoo.co.jp/pickup/6536955>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f3b3a16857675aac4c7ce288f93d65e7acd75879a0bf185f0314d20b1f6cf4ff.jpg> コナン映画 10日間で興収63.4億円
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 13:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 13:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
