@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0e38a72352074715f04d497a98a8373a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b22c26cccf2b721b90243734d9df56a9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a09ce824610ccde5262c97681d5f682ab4efaeaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000187-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　万博リング、一部保存検討に「行けば保存の価値があることは一目瞭然」課題は保存・維持費用か
+      <a href=https://news.yahoo.co.jp/articles/c2143d6ff8c4b6b515119447f04a699fd863ae6a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000035-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 川崎・解体現場で廃材落下 作業員1人救出も心肺停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/689be1cbe1cd5d5d97269c46e5b51bb489bd5ce9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000034-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 万博「リング」一部現地保存で調整　閉幕後のレガシーに
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e75f4868f3a3ddabeb46103665f4e468cb99741d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000177-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=881&ch=881&exp=10800&fmt=webp> DAIGO　予後不良で安楽死のリバティアイランドに思い「これも競馬とわかっているのですが…」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/cd3792a0c7d2fe609f5ef07c4a103bb8fa018f46d601777f6063e33c677bdb88.jpg> 育成就労 大都市圏受け入れ制限案
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536957>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9c70cc1c17b17ba3cf43dcead2102a98b4e90850999284324e5470f66d2359b3.jpg> 吉村知事 空飛ぶ車「再開に期待」
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536952>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/0830d46281d2eb60b18d2df1dc09bf2f5b3545af5111c022a9be3833cee74aca.jpg> 鉄骨が落下 作業員4人が重軽傷
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/63c6ae07cbb2ff8c9a3f9b03f29fb4bf0088d21e45cd5c119c9c5e2eeec41e24.jpg> 北海道 あすから季節外れ大雪恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6536965>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/0830d46281d2eb60b18d2df1dc09bf2f5b3545af5111c022a9be3833cee74aca.jpg> 鉄骨など落下 作業員1人心肺停止
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/b136ac4910cc6d2a160611df7bd06c6b8a43199f892143f18d891512fd75b8d3.jpg> ギャル雑誌「JELLY」8月に復刊
+      <a href=https://news.yahoo.co.jp/pickup/6536958>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/219b54483d6808c66e7c410603d829862b2cb13faf83c3f47098de2fa29a20df.jpg> 「ニセ民泊」で被害 宿泊できず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536953>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/3706bdc3006c8dfd6d766dc2f56fa81e33e7e5d672ce3ad7570fa47249b09445.jpg> メジャーVの西郷 歓喜の池ダイブ
+      <a href=https://news.yahoo.co.jp/pickup/6536947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/b136ac4910cc6d2a160611df7bd06c6b8a43199f892143f18d891512fd75b8d3.jpg> ギャル雑誌「JELLY」8月に復刊
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 14:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 14:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
