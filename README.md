@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/u1dGsF9b8Ts?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/63299cf83a1aa7453034b45af0033fd3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce538b940f1cddefc671dc2c51dcd89b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/92e809745268d7718c663be5962d3a2797f786b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-04291009-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「信号、電車などが止まって大混乱」…「ＴＨＥ　ＴＩＭＥ，」安住紳一郎アナ、スペインなど「大規模停電」を伝える
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a27c9f469abfcdebe4fc6cb95f509fe1676c356a>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dedde631c0274e7e4f63695711fbfd816909524e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34281337-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=1116&ch=1116&exp=10800&fmt=webp> 令和ロマンの今後は？片方が吉本離脱、コンビ活動可能も契約複雑…劇場出演など「厳しくなる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34281337-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=1116&ch=1116&exp=10800&fmt=webp> 令和ロマンの今後は？片方が吉本離脱、コンビ活動可能も契約複雑…劇場出演など「厳しくなる」
       </a>
     </td>
   </tr>
@@ -387,7 +395,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537005>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/99834690111785154fe7601c691f8c5837c8ce162e06baff8b69f9bd3fee1f48.jpg> 5月8日から3日間停戦 ロシア表明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/a83a87e4ca23ba9be85a78d98e2c8223f04e3c16f4d2826907bfb065c6c58303.jpg> 5月8日から3日間停戦 ロシア表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537022>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c388c7f12b6d50cdf4e04150de23525d6aba6ec5d4c2bbf040b5dd0758d31c8a.jpg> 停電 スペインで緊急事態宣言
       </a>
     </td>
   </tr>
@@ -410,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/5286e4ec5ffcc41178320632a5a17a78a42cf2aec6c08690c6cbf046cd611d4c.jpg> 機内で携帯電話発火 羽田緊急着陸
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537011>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/a7d8cafae47880b48813b5f8ee0ee33958d66e8e1af17b1176cdcd9c3f810048.jpg> 新幹線が2h見合わせ 事故は前日か
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536990>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/028528e6cc38bde293bf2e46bc763298aa25f8baaa8789c8c70c91cfd2e319df.jpg> ばんえい競馬 発熱など症状200頭
+      <a href=https://news.yahoo.co.jp/pickup/6537025>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/2bfcd56ade8f258d3a8c91b04eeafb94d253504a4e83ce9e82752fc772196b81.jpg> RIZIN参戦する社員 フジが戒告
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 07:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 07:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
