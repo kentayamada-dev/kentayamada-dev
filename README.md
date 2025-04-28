@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/767d93d492f7ddee77f74538757e4b4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1de206bb7d039363b6440cebb956e9e2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0983274121d52a7839e1668373a5eb6ec17be90d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-07233364-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> プーチン大統領　一方的に5月8日から72時間の一時停戦表明　“ひざ詰め”で話したトランプ氏とゼレンスキー氏の電撃会談でウクライナ停戦交渉に進展は？【news23】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-07233364-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> プーチン大統領　一方的に5月8日から72時間の一時停戦表明　“ひざ詰め”で話したトランプ氏とゼレンスキー氏の電撃会談でウクライナ停戦交渉に進展は？【news23】
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 03:00:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 03:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
