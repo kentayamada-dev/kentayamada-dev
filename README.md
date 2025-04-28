@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/u1dGsF9b8Ts?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/741879fd4b00adf8e573190e3b0d049b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/03ceab35b51c8d018e9a97cac69c5517.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95a6f0ff9634a9053cf6dd80ae26e045356ec12d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000090-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 高比良さんの契約解除　令和ロマンの活動は再開　吉本興業
+      <a href=https://news.yahoo.co.jp/articles/d8da90934817558608037a717f0150bdfed5b938>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00964603-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新しい教皇を選出「コンクラーベ」　5月7日から開始へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5bb28f235f1ce3aae56d62b4ed4b4094958e1d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050143-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 次期教皇を選ぶコンクラーベ、５月７日に…枢機卿２５２人のうち１３５人に投票権
+      <a href=https://news.yahoo.co.jp/articles/27de323e1f6ac4e401a8aa84fd80bb05aa1d4848>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-11636592-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=494&ch=494&exp=10800&fmt=webp> 令和ロマン・高比良くるま、吉本と契約終了＆活動再開　吉本側から「契約解除」の提案、コンビ活動は継続
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537010>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/6903d02303d62bd62ed6003b9818b0c200652e38476c007a0f801ef4d63e6f73.jpg> 教皇選ぶ「コンクラーベ」5/7開始
+      <a href=https://news.yahoo.co.jp/pickup/6537015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/cadf0f7011f7e183e48dd9cc3c4dece7363312e07e728e63736bee15288f106e.jpg> 障害年金 不支給が2倍以上に急増
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537007>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/cc7bbdddae2b8e5f65b2a647c8028ca2912dddf7960385378c7fb327e8039ccb.jpg> いじめ賠償しても謝罪なく 父胸中
+      <a href=https://news.yahoo.co.jp/pickup/6537017>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d44365f86fa069476346ccf009d11538faa413e609483333089a5643bd47b1a6.jpg> 織田信長の朱印状 100年ぶり発見
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 22:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 23:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
