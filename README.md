@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/GccYSe4vijo?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/u1dGsF9b8Ts?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0e1938ece199a4307595493e3d7019f7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dce5e571c095301649c6ff93cae1bc9f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/144e209c882d2210494ee2751220e134632753db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00529655-theanswer-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 西郷真央、大逆転メジャーVの確率が判明　スコア3つ落とすも…米関係者が驚いた「2.3」の“奇跡”
+      <a href=https://news.yahoo.co.jp/articles/f2b1bab16fc5394486676e737b200cb81d19a8fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050037-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=279&ch=279&exp=10800&fmt=webp> 北朝鮮がロシア西部への派兵を初めて認める…金正恩氏の命令で参戦、対ウクライナ戦「大きな貢献」
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c489476679b7bb489f2490cbb4ebca85dbecc5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280188-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1196&ch=1196&exp=10800&fmt=webp> 大谷翔平、第４打席でも右前打でマルチヒット　第２打席では182キロの弾丸速度ツーベース
+      <a href=https://news.yahoo.co.jp/articles/2e0918de856be594fc890a564927819a9dff0d4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 2024年世界の軍事費約390兆円、過去最高額を更新　伸び率も過去最大　SIPRI
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536932>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/40090688b3e24b6e00facfabfbbc87d3b70427549711d3f53dcf8b13f3998e58.jpg> トランプ氏 関税巡り所得減税示唆
+      <a href=https://news.yahoo.co.jp/pickup/6536941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/fe8b1eac3f1b811c7f3b074bb5b609dc3063aee2aa91112819c4691ff7d4688a.jpg> 世界の軍事費 過去最高額を更新
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/33d875c1828d7fdc076121225eb4cacda468630fff3aea15980cc5e0dc185eca.jpg> SNS偽情報 投票影響「心配」84%
+      <a href=https://news.yahoo.co.jp/pickup/6536938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/02ffa7b9c1d9f9096603302bd7063cbbf506d8a0162e03da42805b98457cb6e7.jpg> 日銀 政策金利を据え置く見通し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536932>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/40090688b3e24b6e00facfabfbbc87d3b70427549711d3f53dcf8b13f3998e58.jpg> トランプ氏 関税巡り所得減税示唆
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536928>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/a014437d203ede75abb3bc6a2e320cac160a7bc11daf8bcad902753dffc38b1c.jpg> SHEIN 米国で最大377%値上げ
+      <a href=https://news.yahoo.co.jp/pickup/6536943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/5842147115aba1a60c8b1437a72eba0543432c7a963740ef8611e17b1274fbe9.jpg> 免許返納した77歳 車3台絡む事故
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536930>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/279f718d27debd80662de96e85358cf60cbd514398d677431807a6cfe2243916.jpg> 大谷翔平 あわや顔面死球に絶叫
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536931>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/3a3471da5453dea5f6519a0058c1737a4f16d41b14389d19fee2e6b301561c2e.jpg> 人気韓ドラリメイク 小芝風花主演
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 10:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 10:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
