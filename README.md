@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/44a5df03f7c9aed9551331f4bc21b4c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a00f4189608104faa25a97700aaa29e2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c91ebe2038904f50c5a869bb3a2143993cd5ffd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000079-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「脅されるケースあった」万博協会が職員への土下座や処罰の要求などを〝カスハラ〟と定義
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8a085e67723ea931abf1acec7e6c273a95758a1c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000008-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> ばんえい競馬で3頭の馬から馬インフルエンザ　発熱などの症状、約200頭に拡大　レース中止長期化か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e8eecefd9c7b9c2833ddb9c4d3cf1c47ad426f37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア大統領、正恩氏に謝意　北朝鮮参戦「高く評価」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/456ed2b5bf502f5992b6ea4385c2f45d973b1b75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000289-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1107&ch=1107&exp=10800&fmt=webp> 【柔道】ウルフ・アロン「96キロではないとこの場を借りて訂正…」個人戦引退試合前にハプニング？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7884b4f70673a7e086652532cb4baee009cb8ee4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大阪・関西万博がカスハラに対する基本方針策定　該当行為に「土下座の要求」など示し法的措置も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000070-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロシア大統領、正恩氏に謝意　北朝鮮参戦「高く評価」
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536993>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 新幹線 新大阪-博多間で見合わせ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536981>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/b14bd57b0b1db932e828e158e322e085a5ba3a5352a79eda8a72254b8ce540b5.jpg> プーチン氏 北朝鮮の「功績」称賛
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d4e6491ce647bbe547dc21508fd48d360f05c40efce06652a7bcdecf8a7e6c45.jpg> 東北道3人死亡 前後に11件の通報
+      <a href=https://news.yahoo.co.jp/pickup/6536991>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/76378b7467b1ade6f9aed36e6fd99d31ad88267d107c364433814d6c47e96a13.jpg> 20kgの遊具倒れ4歳が骨折 熊本
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536976>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/eb414bc1ac50ca909ef35e2f00021fdac91bb79500f52f19beab32e5c3ad76b5.jpg> 国内最高齢 115歳の女性が死去
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536985>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/c43c93193d36feacd1b7bdac581279df13f33732881d4a199b5224c8463dd3fc.jpg> チャゲアス 関係者が不正販売
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 18:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 19:01:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
