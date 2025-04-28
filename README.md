@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f5305c3766c6fb22a8f04435cbd6eeb0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/93738f2028bc12e2f0eba6144d835e68.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8921430d24e44522ffebd9aac7662988450de6e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-08221386-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ナイフで背中を刺し首を絞め…15歳息子を自宅で殺害か　父親を逮捕　宮城・石巻市
+      <a href=https://news.yahoo.co.jp/articles/0983274121d52a7839e1668373a5eb6ec17be90d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-07233364-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=795&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> プーチン大統領　一方的に5月8日から72時間の一時停戦表明　“ひざ詰め”で話したトランプ氏とゼレンスキー氏の電撃会談でウクライナ停戦交渉に進展は？【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd6ecd15afa65304faa22abb8bfa950cda49d424>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-03726315-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> プーチン大統領、来月9日の戦勝記念日に合わせた“3日間一時停戦”を一方的に宣言　
+      <a href=https://news.yahoo.co.jp/articles/c1b994604f64930297b27511004f0ae9a36bcc23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000023-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=1087&ch=1087&exp=10800&fmt=webp> 大谷　爆速二塁打で「ビッグ・スマイル」今季自己最速！打球速度182・3キロ　今季初2試合連続マルチ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8921430d24e44522ffebd9aac7662988450de6e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-08221386-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ナイフで背中を刺し首を絞め…15歳息子を自宅で殺害か　父親を逮捕　宮城・石巻市
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 01:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 02:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
