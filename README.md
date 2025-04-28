@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa5e0a316052d9e6449dd9143c86f33e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1c1edc53b71971eb9991effbf7fb9ecf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c91ebe2038904f50c5a869bb3a2143993cd5ffd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000079-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「脅されるケースあった」万博協会が職員への土下座や処罰の要求などを〝カスハラ〟と定義
+      <a href=https://news.yahoo.co.jp/articles/e329ae4eca1a0f8bff35ff2ec589b76ec57ce705>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000046-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=484&ch=484&exp=10800&fmt=webp> 万博協会、カスハラ対応の基本方針を策定　「土下座」事案もきっかけ
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2d414f0f9a75794e67c314ed23b95b619baaed9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010010-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「うまくいかない」大谷翔平所属のドジャース、主力投手が故障離脱か！？　米メディア「IL入りは現実的に」
+      <a href=https://news.yahoo.co.jp/articles/b60a921737ab5119356a420f388f41cbf477ce8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00964303-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「日本がカバーしないと中国が…」日ベトナム首脳会談　自由貿易体制を強化する方針確認
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7a9ccc529809b52dd2cf7f048950700a8d41173>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-07233241-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　関税で政府歳入増えれば「所得税廃止できるかも」
+      <a href=https://news.yahoo.co.jp/articles/f2d414f0f9a75794e67c314ed23b95b619baaed9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010010-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「うまくいかない」大谷翔平所属のドジャース、主力投手が故障離脱か！？　米メディア「IL入りは現実的に」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536993>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 新幹線 新大阪-博多間で見合わせ
+      <a href=https://news.yahoo.co.jp/pickup/6536998>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/c3208517f5fdca2472ad8107e38000b5973ad280a75b086692704b917fece3d3.jpg> 山陽新幹線 全線で運転再開
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536991>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/76378b7467b1ade6f9aed36e6fd99d31ad88267d107c364433814d6c47e96a13.jpg> 20kgの遊具倒れ4歳が骨折 熊本
+      <a href=https://news.yahoo.co.jp/pickup/6536987>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/0a3d920b0b347a4d1d438e7e67edeb63135f2f257957a8ec5fd13086aa90f353.jpg> 関西エアポートで情報漏えい1万件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536996>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/22e63ae3b7aa95c3fed01ee9c9a783c9ed0df3a866881c30a2103ae2c4354b15.jpg> 天然記念物のニワトリ盗まれ 怒り
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536989>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/abdc34c35f87a5ae0bd2eb02897712eab04f1b99721b2496334744019d71de6a.jpg> ウルフ・アロン 96kgに落とせない
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 19:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 20:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
