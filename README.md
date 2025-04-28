@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/u1dGsF9b8Ts?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2e77f8567a5be05ecb9de2a1c6f56dae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/63299cf83a1aa7453034b45af0033fd3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a542ac32982150e35ef250c1418ede93dbe35529>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00010005-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 再びのコンディション不良…ド軍194億円男に米メディアからも厳しい目「この契約はドジャースにとって裏目に出ている」
+      <a href=https://news.yahoo.co.jp/articles/a27c9f469abfcdebe4fc6cb95f509fe1676c356a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000004-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=288&ch=288&exp=10800&fmt=webp> プーチン氏の３日間停戦宣言に…米ホワイトハウス「トランプ氏は恒久的停戦を追求」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ad36ae2450415c7f403254adf40dd66ba32b753>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000004-ann-000-4-thumb.jpg?exp=10800&fmt=webp> プーチン大統領 一方的に“停戦”宣言 5月8日から
+      <a href=https://news.yahoo.co.jp/articles/a542ac32982150e35ef250c1418ede93dbe35529>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00010005-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 再びのコンディション不良…ド軍194億円男に米メディアからも厳しい目「この契約はドジャースにとって裏目に出ている」
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/8d2dc1114f07ad7a15154bdbce38bb2e354347de1045d6d29fdb15e9a3c37345.jpg> 機内で携帯電話発火 羽田緊急着陸
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/5286e4ec5ffcc41178320632a5a17a78a42cf2aec6c08690c6cbf046cd611d4c.jpg> 機内で携帯電話発火 羽田緊急着陸
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 06:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 07:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
