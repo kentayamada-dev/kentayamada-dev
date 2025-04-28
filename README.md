@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/88ac58776f211fef7d5c1342cffc8ec9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80874ee37133ae47bc4f6b99cd41d11e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af6ab991f94dba332f25700db2343b84d3aae838>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-90026023-oxv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 【続報】１５歳男子高校生の背中に複数の刺し傷　父親の４８歳会社員が自首し判明　〈宮城・石巻市〉
+      <a href=https://news.yahoo.co.jp/articles/b76287ad8e6ebf8f7262539c946eaa72e724cb40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010005-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 復調の兆し見せる2試合連続マルチ！ 先発陣に故障者続出もド軍監督「大谷の投手復帰を早める可能性はない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29ae731318a0b29498dd45b1a8d1077d0e0f4696>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 次期教皇選挙、5月7日から　密室投票「コンクラーベ」　バチカン
+      <a href=https://news.yahoo.co.jp/articles/c17dd3aae259218d944ae48cc1e243eb64016294>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000480-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=661&ch=661&exp=10800&fmt=webp> 令和ロマンくるま、史上初の退所＆復帰でどうなる『ラヴィット！』　これまではコンビで隔週出演も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/95d963f94857d664dc2cf408104954296c9bb4d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000117-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 新教皇選出のコンクラーベ、5月7日開始　バチカン発表
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e595cb1f356900e0cfbfcad6f9b056b4e6a4ef3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050127-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 北朝鮮のロシア派兵、ウクライナの越境攻撃が契機…戦略条約を発動・ロシアの軍事支援の可能性示唆
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec06f3af33e6ea923a07f0852a73749867a03eca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010003-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 大谷翔平 2試合連続マルチで打率も2割8分6厘に上昇 ドジャースはリリーフ陣が好投し2連勝
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050127-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 北朝鮮のロシア派兵、ウクライナの越境攻撃が契機…戦略条約を発動・ロシアの軍事支援の可能性示唆
       </a>
     </td>
   </tr>
@@ -403,23 +403,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537005>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 5月8日から3日間停戦 ロシア表明
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/99834690111785154fe7601c691f8c5837c8ce162e06baff8b69f9bd3fee1f48.jpg> 5月8日から3日間停戦 ロシア表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536995>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/dbb0e4b7dcd73eac7e3796302b368c6b0bbb9108833e4db9144d6f9c1e45c16f.jpg> 政府 輸入車審査特例の拡充検討
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536998>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/c3208517f5fdca2472ad8107e38000b5973ad280a75b086692704b917fece3d3.jpg> 山陽新幹線 全線で運転再開
+      <a href=https://news.yahoo.co.jp/pickup/6537010>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/6903d02303d62bd62ed6003b9818b0c200652e38476c007a0f801ef4d63e6f73.jpg> 教皇選ぶ「コンクラーベ」5/7開始
       </a>
     </td>
   </tr>
@@ -427,15 +419,23 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537009>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/42a69f546c7df1d80a0a7d0242295d99b507fd295544ce587bbbe10f4fb37240.jpg> 高校生の息子を殺害疑い 男逮捕
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/e6f412ad61ba990294d7938d3b1797add46e1686b5640db30871e1c5310af500.jpg> 高校生の息子を殺害疑い 男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536997>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/1c003063db0e4f374719ba7b71fe27def3c896b5c61e0cf26b26502166e3217e.jpg> 児童73人症状 調理員からノロ検出
+      <a href=https://news.yahoo.co.jp/pickup/6537011>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/a7d8cafae47880b48813b5f8ee0ee33958d66e8e1af17b1176cdcd9c3f810048.jpg> 新幹線が2h見合わせ 事故は前日か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/dd4de1c3bab2182189321ec8472c0cfaefb1e5416c1204fc836e84cb6f2a37fa.jpg> 東北道でタイヤ外れ事故 3人軽傷
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 21:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 22:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
