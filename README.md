@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3cb2b9f5b05ef660c5a3ebd1b38c70aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f8de5adb239ed382d3f9102422b3dfa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df4869257dbab41020c72ea243f5e29b61ece5ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000144-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 日本人がメジャー全5大会で優勝　西郷真央がシェブロン選手権を日本人で初めて制覇
+      <a href=https://news.yahoo.co.jp/articles/bf54c6022f91ab80bcd4642d08280dd629e4e65b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280214-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=1238&ch=1238&exp=10800&fmt=webp> 「涙が止まらん。また会いたかった」ビタミンＳお兄ちゃん、安楽死のリバティアイランドを悼む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6244b8ce97bc83508166dccf14df998cbd65160c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250427-00000191-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=141&cw=1059&ch=1059&exp=10800&fmt=webp> トランプ氏、関税が所得税を肩代わりとの持論を主張　雇用創出、工場建設の効果も訴え
+      <a href=https://news.yahoo.co.jp/articles/f2244f0bfb713f8e796a181abb9b6aff97c15946>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-04281055-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=764&ch=764&exp=10800&fmt=webp> ドジャース先発陣に緊急事態、山本由伸＆佐々木朗希のゆとりローテ再考の可能性も…過密日程で苦しい台所事情
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f15a5aa3aacaba664b83400b0940aa2a62044a7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-10509016-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=610&ch=610&exp=10800&fmt=webp> ドジャース・大谷翔平、今季初の2戦連続マルチ安打で連勝貢献　弾丸182キロ二塁打含む3出塁マーク
+      <a href=https://news.yahoo.co.jp/articles/7b41da2bc6cd20de10312302a5d99f585e743a5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00094910-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=893&ch=893&exp=10800&fmt=webp> だからトランプ大統領は「ぼったくり関税」を世界に発動した…「モノづくり大国日本」を弱らせる"黒幕"の正体
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcfedb146efd8ef8a64804b7fa3665dec401e051>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-01743418-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 佐々木朗希に感じられない余裕　“オドオド”消えるも…専門家が指摘する不安要素
+      <a href=https://news.yahoo.co.jp/articles/0c489476679b7bb489f2490cbb4ebca85dbecc5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280188-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1196&ch=1196&exp=10800&fmt=webp> 大谷翔平、第４打席でも右前打でマルチヒット　第２打席では182キロの弾丸速度ツーベース
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2830e8c77c2a2e24a542b2b7901b9807e49def12>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000008-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 車に乗る容疑者の姿、現場近くのカメラに　宮城の女性保育士殺害事件
+      <a href=https://news.yahoo.co.jp/articles/e8c6f6789b0c4a93f87ad0e32a40f73893b76c89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-09385651-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 日銀、政策金利据え置きへ　経済・物価見通しでは成長率の見通しを下方修正も利上げスタンスは維持の見通し
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536926>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/30742a1dfb974f84d89e740e2b2550ac18a5113ff7cf66505216607600e8eb8c.jpg> 下山中に約150m滑落 47歳男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536934>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d199c7095edc452e8c0a73f0da92ad02589e6614aaaf07b04e955e518fe568ab.jpg> 北朝鮮 ロシア派兵を初めて認める
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 09:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 09:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
