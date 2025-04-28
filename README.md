@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/26ebac25401f8399dab4e33dec5d0314.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4cba7514864d58e0d962b85e9551ca5c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73080d45ab02944ad9155d2a759ec2f1cf4bc9c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00964604-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=483&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアが一時停戦を一方的に宣言　5月8日から3日間　第二次世界大戦の対ドイツ戦勝80周年に合わせ
+      <a href=https://news.yahoo.co.jp/articles/3fdabeee8b1e677275ea65b020e508c0c711f502>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000118-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> トランプ氏、恒久的停戦望む　ロシア・ウクライナ情勢＝ホワイトハウス
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27de323e1f6ac4e401a8aa84fd80bb05aa1d4848>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-11636592-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=494&ch=494&exp=10800&fmt=webp> 令和ロマン・高比良くるま、吉本と契約終了＆活動再開　吉本側から「契約解除」の提案、コンビ活動は継続
+      <a href=https://news.yahoo.co.jp/articles/1fccd63e88cf833ba8e727a0b3e99f4d11145a5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050146-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=341&ch=341&exp=10800&fmt=webp> 高校生の息子を刺し殺害した疑い、石巻の４８歳父親を逮捕…自宅からナイフとロープ
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e0da3a82e8f2c0bd94fb0c9fd92249b462cb21c0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-90023007-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ドーン、ダーン、ガガー」タイヤ外れ…店に並ぶ列に突っ込む　4歳の子ども含む4人に直撃　車は自動車販売店のもの　整備不良の可能性　全国で相次ぐ脱輪事故　JAF「主な原因はナットの緩み」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e329ae4eca1a0f8bff35ff2ec589b76ec57ce705>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000046-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=484&ch=484&exp=10800&fmt=webp> 万博協会、カスハラ対応の基本方針を策定　「土下座」事案もきっかけ
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537009>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/e6f412ad61ba990294d7938d3b1797add46e1686b5640db30871e1c5310af500.jpg> 高校生の息子を殺害疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6537021>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9740fd941ad80d9cddf6d03790830402523de190def2e601e9ec676765ea70fb.jpg> 15歳殺害疑いで父逮捕 刺し傷複数
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537020>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/ac5e4c82d3c628fc8d6f6c3f65fabf2db3c5407239301a3ad5581a3687f2c56c.jpg> TDRに新ホテル検討 長期戦略発表
+      <a href=https://news.yahoo.co.jp/pickup/6537017>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d44365f86fa069476346ccf009d11538faa413e609483333089a5643bd47b1a6.jpg> 織田信長の朱印状 100年ぶり発見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537017>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d44365f86fa069476346ccf009d11538faa413e609483333089a5643bd47b1a6.jpg> 織田信長の朱印状 100年ぶり発見
+      <a href=https://news.yahoo.co.jp/pickup/6536990>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/028528e6cc38bde293bf2e46bc763298aa25f8baaa8789c8c70c91cfd2e319df.jpg> ばんえい競馬 発熱など症状200頭
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 23:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 23:51:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
