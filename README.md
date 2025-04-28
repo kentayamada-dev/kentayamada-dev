@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/86e634007b2c4d1cbefd1e097bae9bd9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4768186b71ad853be82e350b17cc5651.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a689a98563a88e4c7f9ea0ca36abbe328062f9f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010007-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 関税巡るトランプ氏と習近平氏の会談は本当にあったのか？米中で主張に食い違い　米財務長官「承知していない」
+      <a href=https://news.yahoo.co.jp/articles/a32ef538797d1dbfcfef12163c895ed0d89ea524>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280652-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=1480&ch=1480&exp=10800&fmt=webp> 【バレー】SVリーグが誤審認め謝罪　名古屋に２枚レッドカードもサントリーは１点加算にとどまる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c7a9ccc529809b52dd2cf7f048950700a8d41173>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-07233241-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=511&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　関税で政府歳入増えれば「所得税廃止できるかも」
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7cd4521ac65c56b93ea18bf43e900fdf64300415>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000398-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=580&ch=580&exp=10800&fmt=webp> 万博「カスハラに対する基本方針」を公表　「土下座の要求」など例示し、退場、法的措置も【全文】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000398-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=580&ch=580&exp=10800&fmt=webp> 万博「カスハラに対する基本方針」を公表　「土下座の要求」など例示し、退場、法的措置も【全文】
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ecb70decea7715f1f533b40433997280e10a712>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-01743678-fullcount-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 194億円男に異変で突如“呼び出し”…ド軍に現れた26歳の救世主に感動「様様だよほんと」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b106b9134da447b28a428974cdd8d3560a7f3f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-07233227-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「チーム忍者」のLINEグループ作り… 銅線窃盗グループの主犯格ら逮捕　建設現場を狙った銅線窃盗被害は約100件　警視庁が余罪捜査
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-01743678-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 194億円男に異変で突如“呼び出し”…ド軍に現れた26歳の救世主に感動「様様だよほんと」
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/cd3792a0c7d2fe609f5ef07c4a103bb8fa018f46d601777f6063e33c677bdb88.jpg> 育成就労 大都市圏受け入れ制限案
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/6c1f4eaba863e33db3893806aaa72d863498f26df212a8a54cd265565fc75beb.jpg> 万博に王族ら来日 両陛下懸け橋に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tsugenoriko/02188035/title-1745759993850.jpeg?exp=10800> 万博に王族ら来日 両陛下懸け橋に
       </a>
     </td>
   </tr>
@@ -442,24 +434,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536958>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/219b54483d6808c66e7c410603d829862b2cb13faf83c3f47098de2fa29a20df.jpg> 「ニセ民泊」で被害 宿泊できず
+      <a href=https://news.yahoo.co.jp/pickup/6536977>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ロシアの衛星 制御不能の状態か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536966>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/4ac50dd7731134aabc9230ebff80512f9c23a91d8ff261b758be91b02d5f91cd.jpg> イクラ高騰「もう限度」と嘆く店
+      <a href=https://news.yahoo.co.jp/pickup/6536975>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/6258ab70b2e758c83522c082b01d8b319e7daebcec4c0790526153cc814cd98c.jpg> グリ下に塀 居場所追われた若者
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536971>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/409dd2445831d2771656feca574a811fe82fd7449da106a33dcdb3fec8c466c2.jpg> 西郷がメジャーV 賞金は1.7億円
+      <a href=https://news.yahoo.co.jp/pickup/6536976>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/eb414bc1ac50ca909ef35e2f00021fdac91bb79500f52f19beab32e5c3ad76b5.jpg> 国内最高齢 115歳の女性が死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d2ea087db5179fc9c6c8ee1a3fb1c23412e78a4bbcea522a11c52b79911a1235.jpg> 波紋を呼んだ判定 SVリーグ謝罪
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 16:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 16:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
