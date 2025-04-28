@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a00f4189608104faa25a97700aaa29e2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa5e0a316052d9e6449dd9143c86f33e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a085e67723ea931abf1acec7e6c273a95758a1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000008-htbv-000-3-thumb.jpg?exp=10800&fmt=webp> ばんえい競馬で3頭の馬から馬インフルエンザ　発熱などの症状、約200頭に拡大　レース中止長期化か
+      <a href=https://news.yahoo.co.jp/articles/147e988787448cb8462b725513826dea48d04a6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 政府、自動車安全試験の軽減検討　米国が「非関税障壁」と問題視　TPP交渉で合意前例も
       </a>
     </td>
   </tr>
@@ -402,6 +402,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536995>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/dbb0e4b7dcd73eac7e3796302b368c6b0bbb9108833e4db9144d6f9c1e45c16f.jpg> 政府 輸入車審査特例の拡充検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536973>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/44fa466cb218d57b7c2ddab322cc5ed93415c9f2b9a6f1d8d9a1248b26f965f0.jpg> 万博 カスハラの基本方針を策定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536993>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 新幹線 新大阪-博多間で見合わせ
       </a>
@@ -410,24 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536981>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/b14bd57b0b1db932e828e158e322e085a5ba3a5352a79eda8a72254b8ce540b5.jpg> プーチン氏 北朝鮮の「功績」称賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/44ed4ab732c37ff1f790bcbf5af5dcda7d3d1f669449e7245f2a3382b20ee815.jpg> 「子育てケアマネ」支援策に賛否
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/dedd7e5983b820abf3857636a9cac2fcb18679869390f2af69e02a9ccbdeb911.jpg> 偽名で不倫 国民・平岩氏が離党届
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/c3644f00acf05cf0fb0302ca3efe0ca6b0048470eae31a771e65d40bd0d978a4.jpg> 偽名で不倫 国民・平岩氏が離党届
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536982>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/758a27c98c2230f1e5800efa79bd06632532c59739dc1f49053ec39e91183404.jpg> パンダのまちに激震 迫る返還期限
+      <a href=https://news.yahoo.co.jp/pickup/6536994>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/bc624746f802d3497b8235f79630acffba50760c96e1d4f7cbc83460b226f9b9.jpg> 東京ディズニー エリア刷新を検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536985>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/c43c93193d36feacd1b7bdac581279df13f33732881d4a199b5224c8463dd3fc.jpg> チャゲアス 関係者が不正販売
+      <a href=https://news.yahoo.co.jp/pickup/6536989>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/abdc34c35f87a5ae0bd2eb02897712eab04f1b99721b2496334744019d71de6a.jpg> ウルフ・アロン 96kgに落とせない
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 19:01:21 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 19:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
