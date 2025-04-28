@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4a0a6e7c72f190bed0df79e743ec4ff7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/44a5df03f7c9aed9551331f4bc21b4c3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/340de57505a14758f51465df6a80426eb5be94e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000284-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=755&ch=755&exp=10800&fmt=webp> CHAGE and ASKA　関係者が未発表音源など不正販売「プライベートな写真も」公式サイト発表
+      <a href=https://news.yahoo.co.jp/articles/e8eecefd9c7b9c2833ddb9c4d3cf1c47ad426f37>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシア大統領、正恩氏に謝意　北朝鮮参戦「高く評価」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2008b447388009b02446cd9a0d23bd09c093dde9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000032-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=96&cy=0&cw=426&ch=426&exp=10800&fmt=webp> プーチン氏、北朝鮮兵「永遠に敬う」　越境攻撃の撃退で「命捧げた」
+      <a href=https://news.yahoo.co.jp/articles/456ed2b5bf502f5992b6ea4385c2f45d973b1b75>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000289-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1107&ch=1107&exp=10800&fmt=webp> 【柔道】ウルフ・アロン「96キロではないとこの場を借りて訂正…」個人戦引退試合前にハプニング？
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c7a9ccc529809b52dd2cf7f048950700a8d41173>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-07233241-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=511&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　関税で政府歳入増えれば「所得税廃止できるかも」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-07233241-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> トランプ大統領　関税で政府歳入増えれば「所得税廃止できるかも」
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d4e6491ce647bbe547dc21508fd48d360f05c40efce06652a7bcdecf8a7e6c45.jpg> 東北道3人死亡 前後に11件の通報
+      <a href=https://news.yahoo.co.jp/pickup/6536988>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/dedd7e5983b820abf3857636a9cac2fcb18679869390f2af69e02a9ccbdeb911.jpg> 偽名で不倫 国民・平岩氏が離党届
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536980>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/65d9aebe7b98e67b36fd936909d61b2245dc867e5ceb0a6384de3180528e735c.jpg> コマツ 営業利益27.3%減の見通し
+      <a href=https://news.yahoo.co.jp/pickup/6536979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d4e6491ce647bbe547dc21508fd48d360f05c40efce06652a7bcdecf8a7e6c45.jpg> 東北道3人死亡 前後に11件の通報
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 18:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 18:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
