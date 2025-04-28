@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/78e5f61762254810eee6afeec11ca70c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/88ac58776f211fef7d5c1342cffc8ec9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d71604fae37eae38bee007ec7e52d4d8146d20de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000099-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=878&ch=878&exp=10800&fmt=webp> 令和ロマン・髙比良くるま、吉本興業との契約終了 コンビは解散せず相方・松井ケムリは吉本所属のまま活動
+      <a href=https://news.yahoo.co.jp/articles/af6ab991f94dba332f25700db2343b84d3aae838>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-90026023-oxv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=568&ch=568&exp=10800&fmt=webp> 【続報】１５歳男子高校生の背中に複数の刺し傷　父親の４８歳会社員が自首し判明　〈宮城・石巻市〉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/29ae731318a0b29498dd45b1a8d1077d0e0f4696>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 次期教皇選挙、5月7日から　密室投票「コンクラーベ」　バチカン
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e595cb1f356900e0cfbfcad6f9b056b4e6a4ef3f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050127-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 北朝鮮のロシア派兵、ウクライナの越境攻撃が契機…戦略条約を発動・ロシアの軍事支援の可能性示唆
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5bdf4b65b3987833717a33a45b349375e7e68db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050122-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 日本の防衛装備品の無償供与、ベトナム側が積極的に検討表明…両首脳が中国の海洋進出念頭に
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536995>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/dbb0e4b7dcd73eac7e3796302b368c6b0bbb9108833e4db9144d6f9c1e45c16f.jpg> 政府 輸入車審査特例の拡充検討
+      <a href=https://news.yahoo.co.jp/pickup/6537005>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 5月8日から3日間停戦 ロシア表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536973>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/44fa466cb218d57b7c2ddab322cc5ed93415c9f2b9a6f1d8d9a1248b26f965f0.jpg> 万博 カスハラの基本方針を策定
+      <a href=https://news.yahoo.co.jp/pickup/6536995>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/dbb0e4b7dcd73eac7e3796302b368c6b0bbb9108833e4db9144d6f9c1e45c16f.jpg> 政府 輸入車審査特例の拡充検討
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537001>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/7c967917b96c389cf5065b97656c936f36c0e76d46fc1faf317ecfd4d425733e.jpg> 15歳の高校生を殺害疑い 男逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/c3644f00acf05cf0fb0302ca3efe0ca6b0048470eae31a771e65d40bd0d978a4.jpg> 偽名で不倫 国民・平岩氏が離党届
+      <a href=https://news.yahoo.co.jp/pickup/6537009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/42a69f546c7df1d80a0a7d0242295d99b507fd295544ce587bbbe10f4fb37240.jpg> 高校生の息子を殺害疑い 男逮捕
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536994>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/bc624746f802d3497b8235f79630acffba50760c96e1d4f7cbc83460b226f9b9.jpg> 東京ディズニー エリア刷新を検討
+      <a href=https://news.yahoo.co.jp/pickup/6537006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/8d2dc1114f07ad7a15154bdbce38bb2e354347de1045d6d29fdb15e9a3c37345.jpg> 機内で携帯電話発火 羽田緊急着陸
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537007>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/cc7bbdddae2b8e5f65b2a647c8028ca2912dddf7960385378c7fb327e8039ccb.jpg> いじめ賠償しても謝罪なく 父胸中
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 21:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 21:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
