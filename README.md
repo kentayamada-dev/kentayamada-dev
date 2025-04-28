@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/22b926a3faefa9e7b023464db33f9884.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0e38a72352074715f04d497a98a8373a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec0bb06852e0807559d2f384e6d3ddfe28b61cdc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-09923727-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「数年前からこんな感じ」ド軍主力・グラスノーが右肩違和感訴え1回17球で降板　負傷者リスト入りについて「確かにある」と指揮官嘆く
+      <a href=https://news.yahoo.co.jp/articles/a09ce824610ccde5262c97681d5f682ab4efaeaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000187-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 橋下徹氏　万博リング、一部保存検討に「行けば保存の価値があることは一目瞭然」課題は保存・維持費用か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28b8a899bf21850750cab822cc6b6bec09acfc9b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-90019050-kantelev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】吉村知事　万博「空飛ぶクルマ」破損で運行休止に「原因究明・安全対策明らかにして再開に期待」
+      <a href=https://news.yahoo.co.jp/articles/09016d345f7838ddfe9b33251a750fc0687f8311>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00095694-thedigest-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「ド軍史上最悪の契約延長になるかもしれない」グラスノーが“右肩の痛み”を訴え緊急降板…米記者が指摘「たとえ健康だったとしても、かつてのようなエリート投手ではない」
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05b4cc4bb78e6f0b2664a53d07419a41ba0bc898>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050970-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博リングは２００ｍ程度を閉幕後も保存する方針で検討　補修工事費や維持費は開発事業者が負担する見通し
+      <a href=https://news.yahoo.co.jp/articles/29073a3300ae122d8263e76cf2b5a374d68b664b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-16999303-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=563&ch=563&exp=10800&fmt=webp> トランプ氏、ゼレンスキー氏はクリミアを手放す用意があるとの見解示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29073a3300ae122d8263e76cf2b5a374d68b664b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-16999303-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=563&ch=563&exp=10800&fmt=webp> トランプ氏、ゼレンスキー氏はクリミアを手放す用意があるとの見解示す
+      <a href=https://news.yahoo.co.jp/articles/e75f4868f3a3ddabeb46103665f4e468cb99741d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000177-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=881&ch=881&exp=10800&fmt=webp> DAIGO　予後不良で安楽死のリバティアイランドに思い「これも競馬とわかっているのですが…」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536951>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/c5e8cae6c644c9f5fae1a9ce48239a7880af39edc814b97c8f6a5ec7d39d99d4.jpg> 万博の大屋根リング 一部保存検討
+      <a href=https://news.yahoo.co.jp/pickup/6536957>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9c70cc1c17b17ba3cf43dcead2102a98b4e90850999284324e5470f66d2359b3.jpg> 吉村知事 空飛ぶ車「再開に期待」
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536943>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/5842147115aba1a60c8b1437a72eba0543432c7a963740ef8611e17b1274fbe9.jpg> 免許返納した77歳 車3台絡む事故
+      <a href=https://news.yahoo.co.jp/pickup/6536959>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f186d1d4c2ff8e8c64c0ed204a06a9b59fafc2637bb0866918d8490a41d0eba2.jpg> 東北道逆走 接触後も速度を維持か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536946>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9d7d8129ecf00ace502c9b9cecd96d28453cd7b20c40d4d39f2a46bc14c31886.jpg> 部活「フルサポート」保護者悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6536947>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/b136ac4910cc6d2a160611df7bd06c6b8a43199f892143f18d891512fd75b8d3.jpg> ギャル雑誌「JELLY」8月に復刊
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 13:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 14:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
