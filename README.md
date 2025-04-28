@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/u1dGsF9b8Ts?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/03ceab35b51c8d018e9a97cac69c5517.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/26ebac25401f8399dab4e33dec5d0314.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/73080d45ab02944ad9155d2a759ec2f1cf4bc9c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00964604-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=483&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ロシアが一時停戦を一方的に宣言　5月8日から3日間　第二次世界大戦の対ドイツ戦勝80周年に合わせ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d8da90934817558608037a717f0150bdfed5b938>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00964603-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新しい教皇を選出「コンクラーベ」　5月7日から開始へ
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/27de323e1f6ac4e401a8aa84fd80bb05aa1d4848>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-11636592-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=494&ch=494&exp=10800&fmt=webp> 令和ロマン・高比良くるま、吉本と契約終了＆活動再開　吉本側から「契約解除」の提案、コンビ活動は継続
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e595cb1f356900e0cfbfcad6f9b056b4e6a4ef3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050127-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 北朝鮮のロシア派兵、ウクライナの越境攻撃が契機…戦略条約を発動・ロシアの軍事支援の可能性示唆
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537014>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f7a015943f3edb769fa423096153fd606d7284a1ab06f246cbb9f0820e2921e8.jpg> スペインとポルトガル 大規模停電
+      <a href=https://news.yahoo.co.jp/pickup/6537009>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/e6f412ad61ba990294d7938d3b1797add46e1686b5640db30871e1c5310af500.jpg> 高校生の息子を殺害疑い 男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537009>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/e6f412ad61ba990294d7938d3b1797add46e1686b5640db30871e1c5310af500.jpg> 高校生の息子を殺害疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6536984>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/5befa34122d815bd06e6d48ff8cb041dfef679133b652e82cf6614edd39c4ce8.jpg> 万博で逮捕 謝罪来た男性に贈り物
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/8d2dc1114f07ad7a15154bdbce38bb2e354347de1045d6d29fdb15e9a3c37345.jpg> 機内で携帯電話発火 羽田緊急着陸
+      <a href=https://news.yahoo.co.jp/pickup/6537020>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/ac5e4c82d3c628fc8d6f6c3f65fabf2db3c5407239301a3ad5581a3687f2c56c.jpg> TDRに新ホテル検討 長期戦略発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 23:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 23:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
