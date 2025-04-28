@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7deb4db7c47ca44267a7f2510b9b46fc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/01cec4613b00a4fa8b9e25d6d08f0727.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/34076542d92fca4a304eb0d1d0f8abfe1183c5d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000017-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 北朝鮮、ロシアへの兵士派遣認める　金正恩氏「条約に基づき、参戦」
+      <a href=https://news.yahoo.co.jp/articles/ce4bea77de381158a91ac1294e0914916d1850d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010009-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ドジャース先発陣は大丈夫？　スネルに続いてグラスナウも離脱か　ゴンソリンは戦列復帰が迫る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a89b6c2b51a70a8faefcffcb2fbf4245164f0ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000158-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=680&ch=680&exp=10800&fmt=webp> 野口健氏　中国籍男子大学生、富士山で2度遭難・救助に「あまりに愚か。救助費用を請求するべき」
+      <a href=https://news.yahoo.co.jp/articles/bee70e29f2d113ea2f96e4c56f104e42fdaada1e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000016-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=796&ch=796&exp=10800&fmt=webp> 北朝鮮がロシア派兵を初公表、条約に基づき金正恩氏が決定　「最も忠実な行動」強調
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c13c6e9e68e149021fd132380497814abadab577>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-90032031-sut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 富士山でアイゼン無くし助け求める→携帯電話を置き忘れたため4日後に再び入山　今度は高山病で倒れ山岳遭難救助隊が出動　大迷惑な中国人大学生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e0c1247424a70b43944e60400d5b59c77aac566c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010006-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ジャイアンツが「リトルリーグ・ホームラン」で劇的サヨナラ勝ち　ナ・リーグ西地区首位をキープ
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b41da2bc6cd20de10312302a5d99f585e743a5d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00094910-president-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=893&ch=893&exp=10800&fmt=webp> だからトランプ大統領は「ぼったくり関税」を世界に発動した…「モノづくり大国日本」を弱らせる"黒幕"の正体
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c489476679b7bb489f2490cbb4ebca85dbecc5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280188-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1196&ch=1196&exp=10800&fmt=webp> 大谷翔平、第４打席でも右前打でマルチヒット　第２打席では182キロの弾丸速度ツーベース
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e0918de856be594fc890a564927819a9dff0d4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 2024年世界の軍事費約390兆円、過去最高額を更新　伸び率も過去最大　SIPRI
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536932>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/40090688b3e24b6e00facfabfbbc87d3b70427549711d3f53dcf8b13f3998e58.jpg> トランプ氏 関税巡り所得減税示唆
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536934>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d199c7095edc452e8c0a73f0da92ad02589e6614aaaf07b04e955e518fe568ab.jpg> 北朝鮮 ロシア派兵を初めて認める
       </a>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536943>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/5842147115aba1a60c8b1437a72eba0543432c7a963740ef8611e17b1274fbe9.jpg> 免許返納した77歳 車3台絡む事故
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9d7d8129ecf00ace502c9b9cecd96d28453cd7b20c40d4d39f2a46bc14c31886.jpg> 部活「フルサポート」保護者悲鳴
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 11:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 11:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
