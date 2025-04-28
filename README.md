@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/50508360bdfe97f62a5f8a9aec8059ce.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4ef91f9056f62bf0a9b3ba61e52e1073.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/721005acb8ced6722ef447201821dbda2ba36142>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-10175893-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=560&ch=560&exp=10800&fmt=webp> ロシア“停戦”を一方的に発表
+      <a href=https://news.yahoo.co.jp/articles/713373ef6f733b9c3c0971e5dbb78f5fb2d8ded2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-07233365-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=526&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> プーチン大統領が5月8日から72時間の一時停戦を表明　対ドイツ戦勝80年記念日にあわせ　和平に前向きな姿勢をトランプ大統領にアピールする狙いか
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 00:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 01:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
