@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8831531232d16d8afeae5cb01e3fba76.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b9b4b5c90c79625f69ceda7f8079c46.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e38877c295b8ec3398bf9de9e3c30c1374e0129>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-02551775-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 解体現場で“鉄骨”落下、下敷きの作業員1人が心肺停止　神奈川・川崎市
+      <a href=https://news.yahoo.co.jp/articles/f38833fa96e9e3e542f70a1c95b60936495b1f5e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-10175793-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=982&ch=982&exp=10800&fmt=webp> 石破総理、ベトナムで自由貿易体制の重要性を議論 安全保障協力も加速へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c1fbde841e90286c429326c6b981445af82d58eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280597-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1201&ch=1201&exp=10800&fmt=webp> トランプ氏「うまくいった」発言に識者「必ずしもそうではない」ゼレンスキー氏との２度目会談
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5ecb70decea7715f1f533b40433997280e10a712>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-01743678-fullcount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 194億円男に異変で突如“呼び出し”…ド軍に現れた26歳の救世主に感動「様様だよほんと」
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09016d345f7838ddfe9b33251a750fc0687f8311>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00095694-thedigest-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「ド軍史上最悪の契約延長になるかもしれない」グラスノーが“右肩の痛み”を訴え緊急降板…米記者が指摘「たとえ健康だったとしても、かつてのようなエリート投手ではない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74f3d774f8d65b1b1cc0f16a80e7f2adc236fbc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-90018893-ktn-000-1-thumb.jpg?exp=10800&fmt=webp> ローマ教皇フランシスコの追悼ミサ　長崎の信徒などが祈り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29073a3300ae122d8263e76cf2b5a374d68b664b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-16999303-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=563&ch=563&exp=10800&fmt=webp> トランプ氏、ゼレンスキー氏はクリミアを手放す用意があるとの見解示す
+      <a href=https://news.yahoo.co.jp/articles/966c8deda24067c4a04ded01776a4b52cfd8d738>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050091-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=385&ch=385&exp=10800&fmt=webp> 日本とベトナム、外務防衛協力へ２プラス２創設…チン首相「日本は最重要かつ長期的なパートナー」
       </a>
     </td>
   </tr>
@@ -400,6 +400,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/209a8314ef41158b401653ca23cf52e15dd6a0d6ed985007388497a3e041faa0.jpg> 日ベトナム 自由貿易強化で一致
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536964>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536957>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9c70cc1c17b17ba3cf43dcead2102a98b4e90850999284324e5470f66d2359b3.jpg> 吉村知事 空飛ぶ車「再開に期待」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/0830d46281d2eb60b18d2df1dc09bf2f5b3545af5111c022a9be3833cee74aca.jpg> 鉄骨など落下 作業員1人心肺停止
+      <a href=https://news.yahoo.co.jp/pickup/6536970>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9f06d6b5a4ed46ee7082a02b74d953455ba1aa3586af4b9ea8f0b880d04da493.jpg> 解体現場で事故 作業員1人が死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 15:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 15:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
