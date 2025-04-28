@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dce5e571c095301649c6ff93cae1bc9f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7deb4db7c47ca44267a7f2510b9b46fc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2b1bab16fc5394486676e737b200cb81d19a8fd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050037-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=279&ch=279&exp=10800&fmt=webp> 北朝鮮がロシア西部への派兵を初めて認める…金正恩氏の命令で参戦、対ウクライナ戦「大きな貢献」
+      <a href=https://news.yahoo.co.jp/articles/34076542d92fca4a304eb0d1d0f8abfe1183c5d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000017-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=358&ch=358&exp=10800&fmt=webp> 北朝鮮、ロシアへの兵士派遣認める　金正恩氏「条約に基づき、参戦」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf54c6022f91ab80bcd4642d08280dd629e4e65b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280214-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=1238&ch=1238&exp=10800&fmt=webp> 「涙が止まらん。また会いたかった」ビタミンＳお兄ちゃん、安楽死のリバティアイランドを悼む
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2244f0bfb713f8e796a181abb9b6aff97c15946>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-04281055-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=764&ch=764&exp=10800&fmt=webp> ドジャース先発陣に緊急事態、山本由伸＆佐々木朗希のゆとりローテ再考の可能性も…過密日程で苦しい台所事情
+      <a href=https://news.yahoo.co.jp/articles/3a89b6c2b51a70a8faefcffcb2fbf4245164f0ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000158-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=177&cy=0&cw=680&ch=680&exp=10800&fmt=webp> 野口健氏　中国籍男子大学生、富士山で2度遭難・救助に「あまりに愚か。救助費用を請求するべき」
       </a>
     </td>
   </tr>
@@ -382,7 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b41da2bc6cd20de10312302a5d99f585e743a5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00094910-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=893&ch=893&exp=10800&fmt=webp> だからトランプ大統領は「ぼったくり関税」を世界に発動した…「モノづくり大国日本」を弱らせる"黒幕"の正体
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00094910-president-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=893&ch=893&exp=10800&fmt=webp> だからトランプ大統領は「ぼったくり関税」を世界に発動した…「モノづくり大国日本」を弱らせる"黒幕"の正体
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c489476679b7bb489f2490cbb4ebca85dbecc5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280188-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1196&ch=1196&exp=10800&fmt=webp> 大谷翔平、第４打席でも右前打でマルチヒット　第２打席では182キロの弾丸速度ツーベース
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/3a3471da5453dea5f6519a0058c1737a4f16d41b14389d19fee2e6b301561c2e.jpg> 人気韓ドラリメイク 小芝風花主演
+      <a href=https://news.yahoo.co.jp/pickup/6536944>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/dd4b4a2626ed20417106e99ad7b1201a137e7fceed1d12c5cac1846e786008e7.jpg> 俳優・大浦龍宇一 週2日学校勤務
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 10:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 11:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
