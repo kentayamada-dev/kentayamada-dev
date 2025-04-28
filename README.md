@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4470b5e84f50d1e85a67a683c1ef7799.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6a6f1d128ecbccec3e84c2057931484.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/852a4382ac597b5ea6bbb9fd7c87784102fcd00a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「北朝鮮に感謝」「英雄的行動」　プーチン氏が声明発表　クルスク州奪還作戦への参戦巡り
+      <a href=https://news.yahoo.co.jp/articles/7884b4f70673a7e086652532cb4baee009cb8ee4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大阪・関西万博がカスハラに対する基本方針策定　該当行為に「土下座の要求」など示し法的措置も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/125ba9d541cf94d23d77b4f59e9c25058d538b17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280673-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1330&ch=1330&exp=10800&fmt=webp> 大谷翔平２試合連続のマルチ安打で２連勝に貢献　第２打席の二塁打は今季最速の打球速度182キロ
+      <a href=https://news.yahoo.co.jp/articles/944edfee1ecf663912e4fd447ac5f975958553ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00487889-yonh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=426&ch=426&exp=10800&fmt=webp> ロシア大統領　声明で金正恩氏に謝意＝「北朝鮮兵、戦闘で任務完遂」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76b46caea3120872c4c6fcf0baffa0c3d9ef63ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東北道で3人死亡の逆走事故 1人は北上市の56歳男性
+      <a href=https://news.yahoo.co.jp/articles/f2d414f0f9a75794e67c314ed23b95b619baaed9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010010-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「うまくいかない」大谷翔平所属のドジャース、主力投手が故障離脱か！？　米メディア「IL入りは現実的に」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b8cf1ef8ad7b1ea6a9a2af12687abdffd55e6766>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00964312-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=870&ch=870&exp=10800&fmt=webp> 『ゼロパンダ』ピンチの日本　人口2万人で観光客年間295万人の町「パンダラーメン」「海が見えるパンダ部屋」どうなる地域経済
       </a>
     </td>
   </tr>
@@ -382,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c7a9ccc529809b52dd2cf7f048950700a8d41173>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-07233241-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=511&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　関税で政府歳入増えれば「所得税廃止できるかも」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7cd4521ac65c56b93ea18bf43e900fdf64300415>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000398-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=580&ch=580&exp=10800&fmt=webp> 万博「カスハラに対する基本方針」を公表　「土下座の要求」など例示し、退場、法的措置も【全文】
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-07233241-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=511&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　関税で政府歳入増えれば「所得税廃止できるかも」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/209a8314ef41158b401653ca23cf52e15dd6a0d6ed985007388497a3e041faa0.jpg> 日ベトナム 自由貿易強化で一致
+      <a href=https://news.yahoo.co.jp/pickup/6536981>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/b14bd57b0b1db932e828e158e322e085a5ba3a5352a79eda8a72254b8ce540b5.jpg> プーチン氏 北朝鮮の「功績」称賛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536968>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tsugenoriko/02188035/title-1745759993850.jpeg?exp=10800> 万博に王族ら来日 両陛下懸け橋に
+      <a href=https://news.yahoo.co.jp/pickup/6536967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/44ed4ab732c37ff1f790bcbf5af5dcda7d3d1f669449e7245f2a3382b20ee815.jpg> 「子育てケアマネ」支援策に賛否
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 17:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 17:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
