@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/01cec4613b00a4fa8b9e25d6d08f0727.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/06cb25deaa8a342a35b72308883749fc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce4bea77de381158a91ac1294e0914916d1850d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010009-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=194&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ドジャース先発陣は大丈夫？　スネルに続いてグラスナウも離脱か　ゴンソリンは戦列復帰が迫る
+      <a href=https://news.yahoo.co.jp/articles/6e08e75880b6a1a90f58a6f389e45f4f10b930cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010008-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=371&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理がベトナム首相と会談　“トランプ関税”で情報交換、自由貿易体制の重要性確認へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bee70e29f2d113ea2f96e4c56f104e42fdaada1e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000016-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=796&ch=796&exp=10800&fmt=webp> 北朝鮮がロシア派兵を初公表、条約に基づき金正恩氏が決定　「最も忠実な行動」強調
+      <a href=https://news.yahoo.co.jp/articles/1890e87b2881256aef56e1f9156c313a8d10c1c9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00095693-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 「何かが引っかかる…ただ模索している状態」グラスノー、右肩の違和感で緊急降板…前回は足の痙攣「フラストレーションが溜まっている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c13c6e9e68e149021fd132380497814abadab577>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-90032031-sut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 富士山でアイゼン無くし助け求める→携帯電話を置き忘れたため4日後に再び入山　今度は高山病で倒れ山岳遭難救助隊が出動　大迷惑な中国人大学生
+      <a href=https://news.yahoo.co.jp/articles/91e0e68255384d1d1f71187ae8e331a961ccab29>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280316-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 北朝鮮がロシアへの派兵を初めて認めた　朝鮮中央通信が報じる
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7b41da2bc6cd20de10312302a5d99f585e743a5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00094910-president-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=893&ch=893&exp=10800&fmt=webp> だからトランプ大統領は「ぼったくり関税」を世界に発動した…「モノづくり大国日本」を弱らせる"黒幕"の正体
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00094910-president-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=893&ch=893&exp=10800&fmt=webp> だからトランプ大統領は「ぼったくり関税」を世界に発動した…「モノづくり大国日本」を弱らせる"黒幕"の正体
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536934>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d199c7095edc452e8c0a73f0da92ad02589e6614aaaf07b04e955e518fe568ab.jpg> 北朝鮮 ロシア派兵を初めて認める
+      <a href=https://news.yahoo.co.jp/pickup/6536943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/5842147115aba1a60c8b1437a72eba0543432c7a963740ef8611e17b1274fbe9.jpg> 免許返納した77歳 車3台絡む事故
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536943>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/5842147115aba1a60c8b1437a72eba0543432c7a963740ef8611e17b1274fbe9.jpg> 免許返納した77歳 車3台絡む事故
+      <a href=https://news.yahoo.co.jp/pickup/6536942>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/7f933200a1790a5aa2223cd083328716bf2f3e862bd070ec3ef226d737d7fc08.jpg> 防衛大生 選挙応援の動画に関与か
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536937>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/56b5750ebc64256f8ee6e204299471630700e920e069fb198199ed69306b8296.jpg> 3年1組だけ暑すぎる 生徒が謎究明
+      <a href=https://news.yahoo.co.jp/pickup/6536948>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/c46ecd6890f4efd47aba7fc39d0f1b3af8953b1919a0477c6779ba4f9443dea8.jpg> 大谷の投手復帰 監督「早めない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536940>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/2a5c3c7db437a6757e8c28af9928c63a636e9c9ad6482b1cf74f976d42cceb50.jpg> 西郷真央メジャー制覇 全身震えた
+      <a href=https://news.yahoo.co.jp/pickup/6536949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9206d415c20bec150fa4a357419d129aaed7af35bb9ad05f08096e5211e95f2b.jpg> MLBで珍しいサヨナラ劇 観客沸く
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 11:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 12:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
