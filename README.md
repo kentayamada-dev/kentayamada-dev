@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/50ba5de738815a86639e0aea9a1e72c9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/78e5f61762254810eee6afeec11ca70c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75e128ae849982b1e7ca5968652a9a075f7c7911>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-04554312-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 令和ロマン・高比良くるま、吉本興業と契約終了 所属事務所が発表
+      <a href=https://news.yahoo.co.jp/articles/d71604fae37eae38bee007ec7e52d4d8146d20de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000099-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=878&ch=878&exp=10800&fmt=webp> 令和ロマン・髙比良くるま、吉本興業との契約終了 コンビは解散せず相方・松井ケムリは吉本所属のまま活動
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e595cb1f356900e0cfbfcad6f9b056b4e6a4ef3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050127-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 北朝鮮のロシア派兵、ウクライナの越境攻撃が契機…戦略条約を発動・ロシアの軍事支援の可能性示唆
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e5bdf4b65b3987833717a33a45b349375e7e68db>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050122-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 日本の防衛装備品の無償供与、ベトナム側が積極的に検討表明…両首脳が中国の海洋進出念頭に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050122-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 日本の防衛装備品の無償供与、ベトナム側が積極的に検討表明…両首脳が中国の海洋進出念頭に
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e329ae4eca1a0f8bff35ff2ec589b76ec57ce705>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000046-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=484&ch=484&exp=10800&fmt=webp> 万博協会、カスハラ対応の基本方針を策定　「土下座」事案もきっかけ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8eecefd9c7b9c2833ddb9c4d3cf1c47ad426f37>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000070-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ロシア大統領、正恩氏に謝意　北朝鮮参戦「高く評価」
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537001>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/7c967917b96c389cf5065b97656c936f36c0e76d46fc1faf317ecfd4d425733e.jpg> 15歳の高校生を殺害疑い 男逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536988>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/c3644f00acf05cf0fb0302ca3efe0ca6b0048470eae31a771e65d40bd0d978a4.jpg> 偽名で不倫 国民・平岩氏が離党届
       </a>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536997>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/1c003063db0e4f374719ba7b71fe27def3c896b5c61e0cf26b26502166e3217e.jpg> 児童73人症状 調理員からノロ検出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536984>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/5befa34122d815bd06e6d48ff8cb041dfef679133b652e82cf6614edd39c4ce8.jpg> 万博で逮捕 謝罪来た男性に贈り物
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 20:30:45 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 21:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
