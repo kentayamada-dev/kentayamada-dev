@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4768186b71ad853be82e350b17cc5651.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4470b5e84f50d1e85a67a683c1ef7799.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a32ef538797d1dbfcfef12163c895ed0d89ea524>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280652-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=16&cy=0&cw=1480&ch=1480&exp=10800&fmt=webp> 【バレー】SVリーグが誤審認め謝罪　名古屋に２枚レッドカードもサントリーは１点加算にとどまる
+      <a href=https://news.yahoo.co.jp/articles/852a4382ac597b5ea6bbb9fd7c87784102fcd00a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「北朝鮮に感謝」「英雄的行動」　プーチン氏が声明発表　クルスク州奪還作戦への参戦巡り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/125ba9d541cf94d23d77b4f59e9c25058d538b17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280673-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1330&ch=1330&exp=10800&fmt=webp> 大谷翔平２試合連続のマルチ安打で２連勝に貢献　第２打席の二塁打は今季最速の打球速度182キロ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/76b46caea3120872c4c6fcf0baffa0c3d9ef63ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東北道で3人死亡の逆走事故 1人は北上市の56歳男性
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7cd4521ac65c56b93ea18bf43e900fdf64300415>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000398-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=580&ch=580&exp=10800&fmt=webp> 万博「カスハラに対する基本方針」を公表　「土下座の要求」など例示し、退場、法的措置も【全文】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1fbde841e90286c429326c6b981445af82d58eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280597-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=148&cw=1201&ch=1201&exp=10800&fmt=webp> トランプ氏「うまくいった」発言に識者「必ずしもそうではない」ゼレンスキー氏との２度目会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ecb70decea7715f1f533b40433997280e10a712>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-01743678-fullcount-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=196&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 194億円男に異変で突如“呼び出し”…ド軍に現れた26歳の救世主に感動「様様だよほんと」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000398-oric-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=580&ch=580&exp=10800&fmt=webp> 万博「カスハラに対する基本方針」を公表　「土下座の要求」など例示し、退場、法的措置も【全文】
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/2ac4e1f2f36c768f2a931c7f07cb289d7a2222cda78df6df253f2f944eca1a35.jpg> 銅線窃盗疑い リーダーらを逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9f06d6b5a4ed46ee7082a02b74d953455ba1aa3586af4b9ea8f0b880d04da493.jpg> 解体現場で事故 作業員1人が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6536979>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/d4e6491ce647bbe547dc21508fd48d360f05c40efce06652a7bcdecf8a7e6c45.jpg> 東北道3人死亡 前後に11件の通報
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6536977>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ロシアの衛星 制御不能の状態か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536980>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/65d9aebe7b98e67b36fd936909d61b2245dc867e5ceb0a6384de3180528e735c.jpg> コマツ 営業利益27.3%減の見通し
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 16:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 17:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
