@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/06cb25deaa8a342a35b72308883749fc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a666e1b87448c4ed8d07eb3a15a8699c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e08e75880b6a1a90f58a6f389e45f4f10b930cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010008-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=371&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理がベトナム首相と会談　“トランプ関税”で情報交換、自由貿易体制の重要性確認へ
+      <a href=https://news.yahoo.co.jp/articles/707af399df8715940c085999487f09e224144cfb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 工事現場で鉄骨落下か　1人下敷きに、4人が重軽傷　川崎市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1890e87b2881256aef56e1f9156c313a8d10c1c9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00095693-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=961&ch=961&exp=10800&fmt=webp> 「何かが引っかかる…ただ模索している状態」グラスノー、右肩の違和感で緊急降板…前回は足の痙攣「フラストレーションが溜まっている」
+      <a href=https://news.yahoo.co.jp/articles/240411aa98d3011c78e79e7d9aaf7fe91d187c3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-02845121-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　ドジャースの主力の不調で投手復帰早まるのか　ロバーツ監督が明言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91e0e68255384d1d1f71187ae8e331a961ccab29>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-34280316-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=374&ch=374&exp=10800&fmt=webp> 北朝鮮がロシアへの派兵を初めて認めた　朝鮮中央通信が報じる
+      <a href=https://news.yahoo.co.jp/articles/4e25747ed45a3c4fe0a3169f005f3eb1fd7ce25d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-07891646-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 【万博】「大屋根リング」閉幕後も一部保存で調整、近く決定へ　1周2キロのうち少なくとも約200ｍ「世界最大の木造建築物」でギネス認定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0c1247424a70b43944e60400d5b59c77aac566c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00010006-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=228&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】ジャイアンツが「リトルリーグ・ホームラン」で劇的サヨナラ勝ち　ナ・リーグ西地区首位をキープ
+      <a href=https://news.yahoo.co.jp/articles/9a4d0439aa9041282c60a807c3b2e452bca35340>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-08786986-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領“交渉後の露爆撃に失望”　プーチン大統領に和平交渉合意を呼びかけ
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536938>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/02ffa7b9c1d9f9096603302bd7063cbbf506d8a0162e03da42805b98457cb6e7.jpg> 日銀 政策金利を据え置く見通し
+      <a href=https://news.yahoo.co.jp/pickup/6536951>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/c5e8cae6c644c9f5fae1a9ce48239a7880af39edc814b97c8f6a5ec7d39d99d4.jpg> 万博の大屋根リング 一部保存検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6536952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/0830d46281d2eb60b18d2df1dc09bf2f5b3545af5111c022a9be3833cee74aca.jpg> 鉄骨が落下 作業員4人が重軽傷
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536948>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/c46ecd6890f4efd47aba7fc39d0f1b3af8953b1919a0477c6779ba4f9443dea8.jpg> 大谷の投手復帰 監督「早めない」
+      <a href=https://news.yahoo.co.jp/pickup/6536953>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/3706bdc3006c8dfd6d766dc2f56fa81e33e7e5d672ce3ad7570fa47249b09445.jpg> メジャーVの西郷 歓喜の池ダイブ
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536944>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/dd4b4a2626ed20417106e99ad7b1201a137e7fceed1d12c5cac1846e786008e7.jpg> 俳優・大浦龍宇一 週2日学校勤務
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 12:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 12:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
