@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a666e1b87448c4ed8d07eb3a15a8699c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5db61326a54d47af8852f7e71998b605.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/707af399df8715940c085999487f09e224144cfb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 工事現場で鉄骨落下か　1人下敷きに、4人が重軽傷　川崎市
+      <a href=https://news.yahoo.co.jp/articles/ec0bb06852e0807559d2f384e6d3ddfe28b61cdc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-09923727-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=31&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「数年前からこんな感じ」ド軍主力・グラスノーが右肩違和感訴え1回17球で降板　負傷者リスト入りについて「確かにある」と指揮官嘆く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/240411aa98d3011c78e79e7d9aaf7fe91d187c3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-02845121-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　ドジャースの主力の不調で投手復帰早まるのか　ロバーツ監督が明言
+      <a href=https://news.yahoo.co.jp/articles/8e7ece82d03f3c1863691922b41f39fbe84a3d5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00000049-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=529&ch=529&exp=10800&fmt=webp> 劇場版「名探偵コナン」公開10日で興行収入63億突破、発声可能やまびこ応援上映開催
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e25747ed45a3c4fe0a3169f005f3eb1fd7ce25d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-07891646-ytv-000-2-thumb.jpg?exp=10800&fmt=webp> 【万博】「大屋根リング」閉幕後も一部保存で調整、近く決定へ　1周2キロのうち少なくとも約200ｍ「世界最大の木造建築物」でギネス認定
+      <a href=https://news.yahoo.co.jp/articles/05b4cc4bb78e6f0b2664a53d07419a41ba0bc898>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-00050970-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博リングは２００ｍ程度を閉幕後も保存する方針で検討　補修工事費や維持費は開発事業者が負担する見通し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a4d0439aa9041282c60a807c3b2e452bca35340>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-08786986-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> トランプ大統領“交渉後の露爆撃に失望”　プーチン大統領に和平交渉合意を呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/29073a3300ae122d8263e76cf2b5a374d68b664b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250428-16999303-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=563&ch=563&exp=10800&fmt=webp> トランプ氏、ゼレンスキー氏はクリミアを手放す用意があるとの見解示す
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6536941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/fe8b1eac3f1b811c7f3b074bb5b609dc3063aee2aa91112819c4691ff7d4688a.jpg> 世界の軍事費 過去最高額を更新
+      <a href=https://news.yahoo.co.jp/pickup/6536950>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/f3d896a6ebd461fcd4a2bfc24301365b28d91cfcf8dd67ceb5d8ba9c2c759b78.jpg> トランプ氏 ウ大統領は前より冷静
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/28 12:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/28 13:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
