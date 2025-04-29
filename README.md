@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8603e0d856764c3d64eb2ff305c964c0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/604eda6a90cb0c9469f2de8ac3a19d3a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/328b1cf06b4cde2055653857f5a3175a1154fa18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34291674-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1216&ch=1216&exp=10800&fmt=webp> 【阪神】難病復帰の湯浅京己が掲げる新たな理想「良かった時に戻りたいと思わない」２年間の歩み
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/443eb2c817eca37042f2c9783a60484d1f7db9bf>
@@ -378,24 +386,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537113>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/9a90c0469644ef4ce36b2d14ca14314295abf9a278762ecfaad9fcf7b06e952c.jpg> 中国 新たなパンダ貸与に前向き
+      <a href=https://news.yahoo.co.jp/pickup/6537135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/2892f8fbd969db24ab45e28eb25ae2842d2900a1cee5a43d02ed940b59e82d97.jpg> 米政権 アマゾンを敵対的と非難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537102>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/6676d9fcfed25309d8fe66336a6aaaa4849a1d73e083b272c90468c71fa0fbb7.jpg> 「水道水で食中毒」14人に症状
+      <a href=https://news.yahoo.co.jp/pickup/6537141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/ba701abac4ee33662805137da9dc80ee595e95e859f312e8f12d5351b48ca7dc.jpg> フジ取材パス没収巡り NPBを調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537136>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/6694ae61266b61ad32e10317d27aeafc4e32cd9fbf929b5c1992a5fe8d00cd96.jpg> 万博の自動運転バス 回送中に事故
+      <a href=https://news.yahoo.co.jp/pickup/6537139>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e8a447d81c256b272b845777c712bfdbf14e964459d8787d3dbd5099c072c802.jpg> 寺でショベルカー倒れ 副住職死亡
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537138>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/3aa103a160fa7b0cc6c32825de21e4de71899db8bfddb5d20288a77f7ff5319a.jpg> 100円朝食で長居 格安にできる訳
+      <a href=https://news.yahoo.co.jp/pickup/6537140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/6c495edd86eaebfe37fdc3cf8341d0e457ee99403000eb3262601819a43e2f07.jpg> 難病から復活 阪神・湯浅に大歓声
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 06:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 06:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
