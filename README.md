@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f3da26be922378d35a2d02b9ec16189.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8781cdd4cb80088488d0dd7edb075c9a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9018d1c8d6ce59eb045fe0024ab354c1f822c635>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000062-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、『元相棒』に捧げる二盗、２人で築いた盗塁技術… 試合前は異例の行動、「ヘッドバンプ」の日々「特別」
+      <a href=https://news.yahoo.co.jp/articles/20bfb0a9fc2eaa6690cb62a7ebd92e67a94533d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000070-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、マッカロー監督と笑顔の交流ショットに喜びの声 昨季までドジャースコーチ「最高」「いい写真だ」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb15656eb5b7ab8ad28d2409abb9186a7de69fe0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00065333-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博・通期パス割引コードに新たな問題…印字ミスでコードが重複　一度使われたら後の人は割引受けられず
       </a>
     </td>
   </tr>
@@ -373,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/42e33710a9d45c413eab9b376f13e8811db5feb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050991-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博「通期パス」割り引きコードを誤り二重に配布　２２日～２５日の来場者に最大２５００枚　協会が交換手続き呼びかけ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/84d69f51ea9751bc33c3a30d9c02b51a08496212>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-09137821-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「逆走車と酷似した車」高速道路に入り直したか　東北道3人死亡事故
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/332af95e8c83ce3e440c94c81c64f619391936bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000036-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ロシア“一方的な停戦”宣言　仲介役トランプ氏、ロシアを警戒か
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-09137821-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「逆走車と酷似した車」高速道路に入り直したか　東北道3人死亡事故
       </a>
     </td>
   </tr>
@@ -410,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537073>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/673d69729bb72ab5602a84616cdc4e427689cca152bf17298edbea7b9d9a24f8.jpg> 共和党議員の集会荒れ 有権者怒り
+      <a href=https://news.yahoo.co.jp/pickup/6537071>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/ad9d5ae0451245c47c52b41f4f3c25fb6e678fc5ee196d84fe43fd22ce0f48f9.jpg> トランプ政権100日 果実を生まず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537086>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/f6639e641f2ef8a72b8577a73092431dc9d69c2be02f3208144440702b97ad6f.jpg> 包丁が刺さった男性発見 息子逮捕
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537080>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/6e4273d18d2250699007fe6f1e9ebc980d240914ed453e6af3b20f087cc103e8.jpg> 小型航空機が中海に落下 島根
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537082>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c15553f2ccde7fa91686c50b27999eda3f754ade0788d1330b4dba8746daaf57.jpg> セルフレジ普及 うろたえた障害者
+      <a href=https://news.yahoo.co.jp/pickup/6537090>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c15553f2ccde7fa91686c50b27999eda3f754ade0788d1330b4dba8746daaf57.jpg> セルフレジ普及に困惑 障害者の声
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 16:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 17:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
