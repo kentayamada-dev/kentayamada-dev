@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d6f0af0cd287dc6d322b19d129472813.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a057d56d8ea211987f63ea8103cdd76e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88a3edad1f8ec7e4c59fdd1dd6d67f7c8550b120>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000375-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=872&ch=872&exp=10800&fmt=webp> ≠ME、リリースイベントを直前に中止「スタッフに対する暴力行為によって警察が介入する事態に」【報告全文掲載】
+      <a href=https://news.yahoo.co.jp/articles/75c6f0659614d553f57c19bfc24e6ec70975a410>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000207-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=800&ch=800&exp=10800&fmt=webp> エドマン「ショーが後ろにいると心強い」延長10回にサヨナラ打　ジ軍と並び22日ぶり同率首位浮上に貢献
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d67674ce9e7806c56d58b50dc84058096e593459>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000043-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース、逆転サヨナラ勝ち3連勝で西地区首位！大谷翔平は2打数1安打3四球、延長10回にエドマンが逆転サヨナラ打
+      <a href=https://news.yahoo.co.jp/articles/edb9599438473d32581485b3ee0bc546c51d1241>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000032-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 千葉のアパートに乳児遺体　「押し入れに隠した」住人が自宅で出産か
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/ec2e6ec6278ed1c37db700299f13f9ed3ddaaf3d7f8c38f1d77f3ae1723bbfe5.jpg> コメ最高値 備蓄米の出荷なぜ遅れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537061>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/5c47c239039870e933482f2c13fca747707b7ca31f7b8efe751a9d590c441f07.jpg> 北海道で積雪 30日にかけ大雪注意
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537056>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/ac0d529e7ddd464cba3a51070b77cb37649a9a94026029c93fc5faae10f6d5fd.jpg> 腹に包丁刺さった男性搬送 男確保
+      <a href=https://news.yahoo.co.jp/pickup/6537042>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/73610f9a3937c0d3115f13736df91d4cf329f178b645fedf2faa05c2457116df.jpg> 消費税減税の動き 消費者の声は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/e7a334cdaeb992e7fa8dae3b93bec9c6a0964e5610ad98523e0a80ab7291ab7f.jpg> 押し入れに遺体 産み隠したと女性
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 14:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 15:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
