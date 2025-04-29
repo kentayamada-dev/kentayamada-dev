@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a91a1ed2be32b94a2270e3d52fa959b2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2fa3cf62ce7063a0a6606d3c499c868.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6b0413006b4057000aceb7b9f011dace33f79982>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日比、安全保障協力の拡大で一致　対中国念頭、情報保護協定議論へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e48a71743dd4c4df4697527759ccd5db4b4f1c40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-90040114-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 度々パトカーが来る騒動起こす…自宅前の路上で76歳父親の腹を刺して殺害しようとしたか 23歳息子を逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1b631776439dc84972afc81fa63aab41db0ed061>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050080-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ゼレンスキー氏、３０日間の即時停戦を呼びかけ…プーチン氏の一方的宣言に「５月まで待つ理由ない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a43aad036e7d7067eb85f125ea729fc0ed261f78>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000064-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日フィリピン首脳、軍事上の機密情報共有方針を確認　中国をけん制
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64929eb054fd5496ad710aa10413077a1baefc17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000040-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 宮城・石巻の高1殺害、死因は心臓損傷　県警が殺人容疑で父親を送検
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050080-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ゼレンスキー氏、３０日間の即時停戦を呼びかけ…プーチン氏の一方的宣言に「５月まで待つ理由ない」
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537101>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/724f2a6ad800fcec87eeeeb19a8daa85b9d1f951cf9b8fad3d248f08caefca2a.jpg> SB監督 柳田悠岐は「ほぼ骨折」
+      <a href=https://news.yahoo.co.jp/pickup/6537106>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/fc51c27eff6f679c3c78698f4cfebe9308f6c25e68e10d1054e2d21d1299b7de.jpg> ランドセル症候群 3kg以上は注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/6fc908a5bedac0d3dae2f00d971168309fbae0938f49a8b4e3210d59a231fee5.jpg> モデル・俳優の田中芽衣 結婚発表
+      <a href=https://news.yahoo.co.jp/pickup/6537101>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/724f2a6ad800fcec87eeeeb19a8daa85b9d1f951cf9b8fad3d248f08caefca2a.jpg> SB監督 柳田悠岐は「ほぼ骨折」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 21:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 21:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
