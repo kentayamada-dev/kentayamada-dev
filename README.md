@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d3e8a230d35aa65c22582d462739f16c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dcc14abc10e4b42691375dfc0b130b93.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d53cc0ad9f1e17bda4cc387c8fbb25e197435864>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-04291027-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース右腕グラスノー、右肩炎症で負傷者リスト入り
+      <a href=https://news.yahoo.co.jp/articles/daf282da67188c36258e64d0d67b936e4f378c74>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34290183-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=1245&ch=1245&exp=10800&fmt=webp> マーリンズ・マッカロー監督「特別なことを成し遂げてきた」大谷翔平と再会、身ぶり手ぶりで談笑
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7123f28eb9c5bee9700689893f647d43f6db3cfe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000019-ann-000-2-thumb.jpg?exp=10800&fmt=webp> スペイン全土が停電 混乱続く　緊急事態宣言 原因特定できず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f628db76e57e23420efe3b10cf08e509d201fee9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-35232408-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=771&ch=771&exp=10800&fmt=webp> プーチン氏、３日間の停戦を呼び掛け　トランプ氏は永続的な休戦求める
       </a>
     </td>
   </tr>
@@ -374,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b0097e82c6a69535e19dd77f0ce82f070167d2d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-09542723-ytv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】万博協会　大阪・関西万博の通期パスを割引価格で購入できる割引コードを誤って二重に配布と発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f092794568f8d01b585217a78196a5d34963f35>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000012-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ロシアの一時停戦は「パレードのため」　ゼレンスキー氏が批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e064a820b31e399433262843a610f2217a61b8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000001-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> スペイン・ポルトガルで大規模停電 一部は復旧
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-09542723-ytv-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】万博協会　大阪・関西万博の通期パスを割引価格で購入できる割引コードを誤って二重に配布と発表
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537034>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/77fe871e4548808a2965d913251568cd49308482479deac64baa8deeb07b445c.jpg> 出産巡る地方女性現状 赤沢氏見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537028>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/e9282607e936f83b729e357b4106b36d46c9f76eb140e511488c916ce0e35fac.jpg> 7人死亡バス事故 娘失った悲しみ
       </a>
@@ -426,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537040>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/979be0479037a0b1370ef7ed092ec6d81a788cdd44971b165c20e4d7034ea422.jpg> 中国車にエコカー補助金 立憲異論
+      <a href=https://news.yahoo.co.jp/pickup/6537037>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/4d98a0b622684a436994db0180816ad03af95b8db93a872c0aa8cbe26d6d48f3.jpg> トランプ氏 世界を統治と自信誇示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537027>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/3e86f2184e2a7d83cb3fa7a667f7de41ce6c28844055a64a3ca6759666315e0e.jpg> 軽自動車同士が正面衝突 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6537040>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/979be0479037a0b1370ef7ed092ec6d81a788cdd44971b165c20e4d7034ea422.jpg> 中国車にエコカー補助金 立憲異論
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537049>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/eb6dcbf22ac8a8874d4a818412af7fb0544b05bb312134a8ccce49383c265af3.jpg> 大谷翔平 恩師の敵軍監督とハグ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537025>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/2bfcd56ade8f258d3a8c91b04eeafb94d253504a4e83ce9e82752fc772196b81.jpg> RIZIN参戦する社員 フジが戒告
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 10:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 11:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
