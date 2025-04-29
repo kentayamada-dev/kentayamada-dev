@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/7Uf97dESvds?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/87ca7365068df760281bba66c5ee59ef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a849f8541da2bc9ca35b4f2a7b10eee4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d147a234959d1cbfe77c6320876c220abd5d386>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00010012-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博シャトルバス　回送中に待機場でコンクリート擁壁に接触　当該車両など一部運行取りやめ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae8d4c43c90fbea11aba43baae1555c927aedf9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日比首脳会談　中国を念頭に安全保障協力の一層強化を確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e48a71743dd4c4df4697527759ccd5db4b4f1c40>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-90040114-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 度々パトカーが来る騒動起こす…自宅前の路上で76歳父親の腹を刺して殺害しようとしたか 23歳息子を逮捕
       </a>
@@ -366,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1b631776439dc84972afc81fa63aab41db0ed061>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050080-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ゼレンスキー氏、３０日間の即時停戦を呼びかけ…プーチン氏の一方的宣言に「５月まで待つ理由ない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9ae5374a5b7e3c7698434f57dedc49928899cc66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-90023746-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> スペイン全土で大停電　日本でも起きる可能性は？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050080-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ゼレンスキー氏、３０日間の即時停戦を呼びかけ…プーチン氏の一方的宣言に「５月まで待つ理由ない」
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537134>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/d0150e626503e799263114b0969efa784b1577a1cd4840e2352e491f8faa126d.jpg> 「3日間停戦」プーチン氏の狙いは
+      <a href=https://news.yahoo.co.jp/pickup/6537137>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/548e87f9eb7794025b256d1c408073125704951b04f6034918b866ebfe18e332.jpg> 首相の東南アジア訪問 成果と課題
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537127>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/37e9464f5f04251559ec3b729d64726ae78659e9573d6bf345a56687d103e707.jpg> 利益急落 テスラが抱える問題
+      <a href=https://news.yahoo.co.jp/pickup/6537136>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/6694ae61266b61ad32e10317d27aeafc4e32cd9fbf929b5c1992a5fe8d00cd96.jpg> 万博の自動運転バス 回送中に事故
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/52c22ba4abdc84dc3bd394b7d0fc04b8dd7857fb38eb0a5bfa34fe8a0057acdc.jpg> 古いけど新しい 昭和レトロの世界
+      <a href=https://news.yahoo.co.jp/pickup/6537116>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/3aa103a160fa7b0cc6c32825de21e4de71899db8bfddb5d20288a77f7ff5319a.jpg> 格安で長居できる飲食店 なぜ可能
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 23:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 23:52:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
