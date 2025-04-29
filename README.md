@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dcc14abc10e4b42691375dfc0b130b93.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f7d1b81be6a53071a84c09b16fd82e1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/daf282da67188c36258e64d0d67b936e4f378c74>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34290183-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=1245&ch=1245&exp=10800&fmt=webp> マーリンズ・マッカロー監督「特別なことを成し遂げてきた」大谷翔平と再会、身ぶり手ぶりで談笑
+      <a href=https://news.yahoo.co.jp/articles/16f8b0a0feba999384508a0e1298fcb877695ee3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000023-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第1打席は右前打で3戦連続ヒット　日本文化テーマの一戦で打席入りは日本語で「セバンゴウ17」とコール
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7123f28eb9c5bee9700689893f647d43f6db3cfe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000019-ann-000-2-thumb.jpg?exp=10800&fmt=webp> スペイン全土が停電 混乱続く　緊急事態宣言 原因特定できず
+      <a href=https://news.yahoo.co.jp/articles/c93f112ae17f9618fb64c84e61e5acb11bbc2ba6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-21884538-tbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 「寝ているところを襲ったか」自宅で高校生の息子を殺害した疑い　逮捕の父親　宮城・石巻市　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0fe547ff92ca7e329cc2556d25e5c00ee9620893>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00095752-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> スペインで大規模停電が発生しマドリードOP一時中断。予定された16試合で消化できたのはわずか３試合＜SMASH＞
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0f60876383bf7a3ea977b899fc5e895ef326563>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-07233391-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 高校1年生の息子を殺害か、48歳の父親を逮捕　宮城・石巻市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b0097e82c6a69535e19dd77f0ce82f070167d2d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-09542723-ytv-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】万博協会　大阪・関西万博の通期パスを割引価格で購入できる割引コードを誤って二重に配布と発表
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-09542723-ytv-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 【速報】万博協会「通期パス」を割引価格で購入できる「割引コード」最大2500枚を誤って二重配布　「使用済み」と表示される人に割引コードの交換呼びかけ
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/e9282607e936f83b729e357b4106b36d46c9f76eb140e511488c916ce0e35fac.jpg> 7人死亡バス事故 娘失った悲しみ
+      <a href=https://news.yahoo.co.jp/pickup/6537041>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/029923206a51ee77af7e05c7c130b122695407eb33a31f08ca8bda5b82ec037b.jpg> イランで大規模爆発 死者70人に
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537032>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/d011b367c4da4cc52b2af5fd094aab0596760cab541ab73541b49aae0698112d.jpg> 物価高「1000円ランチ」に変化
+      <a href=https://news.yahoo.co.jp/pickup/6537044>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/1477fac4a80a5b3b0c2509db73de3c4ac2ef03813662d43e069621175c2a2930.jpg> 万博 通期パス割引コードを誤配布
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537025>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/2bfcd56ade8f258d3a8c91b04eeafb94d253504a4e83ce9e82752fc772196b81.jpg> RIZIN参戦する社員 フジが戒告
+      <a href=https://news.yahoo.co.jp/pickup/6537046>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/29e1cd829e518ea561c4be879b661b5ead6e213ae478c43bf4a1e8f471ec095f.jpg> くるま契約終了 動画に浮かぶ疑問
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 11:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 11:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
