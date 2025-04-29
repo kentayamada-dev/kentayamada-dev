@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a849f8541da2bc9ca35b4f2a7b10eee4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/048a09342c6774ccbeda1dd08c9637a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d147a234959d1cbfe77c6320876c220abd5d386>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00010012-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博シャトルバス　回送中に待機場でコンクリート擁壁に接触　当該車両など一部運行取りやめ
+      <a href=https://news.yahoo.co.jp/articles/416ab236945aece8fa6c254a182bdb0ffa0cd985>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050998-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 万博「自動運転」シャトルバスが接触事故　原因究明のため当面運行を見あわせ
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ae8d4c43c90fbea11aba43baae1555c927aedf9c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日比首脳会談　中国を念頭に安全保障協力の一層強化を確認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e48a71743dd4c4df4697527759ccd5db4b4f1c40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-90040114-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 度々パトカーが来る騒動起こす…自宅前の路上で76歳父親の腹を刺して殺害しようとしたか 23歳息子を逮捕
       </a>
     </td>
   </tr>
@@ -410,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537102>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/6676d9fcfed25309d8fe66336a6aaaa4849a1d73e083b272c90468c71fa0fbb7.jpg> 「水道水で食中毒」14人に症状
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537136>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/6694ae61266b61ad32e10317d27aeafc4e32cd9fbf929b5c1992a5fe8d00cd96.jpg> 万博の自動運転バス 回送中に事故
       </a>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537116>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/3aa103a160fa7b0cc6c32825de21e4de71899db8bfddb5d20288a77f7ff5319a.jpg> 格安で長居できる飲食店 なぜ可能
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537132>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/178cf32a7e6a2f1663082b3fd4cf0308f93bcdfbc3ae567ebd48084ea45245b5.jpg> コナン効果 長野県庁にファンの姿
+      <a href=https://news.yahoo.co.jp/pickup/6537138>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/3aa103a160fa7b0cc6c32825de21e4de71899db8bfddb5d20288a77f7ff5319a.jpg> 100円朝食で長居 格安にできる訳
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 23:52:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 00:31:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
