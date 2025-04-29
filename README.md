@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/7Uf97dESvds?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/704c1611103c07dbc5f12047af2719ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b925b83957f972bf987be3d0d40e4c4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae501f59de028b336b4772e24405dff2b041b191>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00010000-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】トランプ大統領　自動車・自動車部品関税の負担軽減措置を講じる大統領令に署名へ
+      <a href=https://news.yahoo.co.jp/articles/aa077eb02ae1053ec1435b9a2c37b5ae799fedc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000010-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=93&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 米ホワイトハウスの叱責に…アマゾン「商品価格に関税表示しない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2343b588a8d397e449c3c71f5b01f7ae0ec8b46d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000008-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏、自動車部品の25％関税を一部免除へ　今後2年間
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0b7b566ace80f9b27a7dbc1bfaffd72a0d5fb3de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000190-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1112&ch=1112&exp=10800&fmt=webp> 阪神・佐藤輝明、自己最多月間8本塁打でキング9号！　復活の湯浅京己への〝リスペクト弾〟で巨人・岡本和真に2差や！
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/27807a879015262951c17ba0ba11f974ce8ab3d4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-01744366-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平らド軍の変わらぬ絆に「泣けてきた」　名コンビの再会で「コツンが蘇る」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/328b1cf06b4cde2055653857f5a3175a1154fa18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34291674-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1216&ch=1216&exp=10800&fmt=webp> 【阪神】難病復帰の湯浅京己が掲げる新たな理想「良かった時に戻りたいと思わない」２年間の歩み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/443eb2c817eca37042f2c9783a60484d1f7db9bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000008-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=919&ch=919&exp=10800&fmt=webp> 中日・涌井秀章、球史4人目偉業の秘訣は”ギリギリ攻め”　自主トレ弟子入りの根尾驚かせたプロフェッショナル
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/b1ae74e24148e1eb9a2107389801f9065c4f4c4eecf2ec44898bfedd7cfe94ff.jpg> 三井住友銀 支店などの障害が復旧
+      <a href=https://news.yahoo.co.jp/pickup/6537149>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/33d875c1828d7fdc076121225eb4cacda468630fff3aea15980cc5e0dc185eca.jpg> 想定外「2馬力選挙」公平性揺らぐ
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537146>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/3ef3407e246c3ebbbcff25dbeab7eebb9c720c9d3d5616e189a5224f82b01918.jpg> うちも盗まれた 相次ぐコメ窃盗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537148>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/586dd93d4067f662446e9bd59a01f7e86708f2da0f940490713c31c38f6224c8.jpg> もう長くないかも 結合双生児の弟
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537144>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/9596c22739943982bf18e17a475b41fe219f458bc104973663a415d5045945eb.jpg> ≠MEイベ中止「壊し屋」警戒の声
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 07:30:42 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 08:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
