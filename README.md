@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8b20dcb4a32cde4da4696ad4decb4e8a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9d4151922d571f49d5dc523e6a4ee87e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0d89114f701c9dd4bc4c5a3426bc6064f51dcd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000158-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=4&cy=0&cw=829&ch=829&exp=10800&fmt=webp> 大谷翔平　第3打席も四球で3打席連続出塁　第1打席は右前打＆二盗で先制点演出
+      <a href=https://news.yahoo.co.jp/articles/060465e80fad21d99fe44749ed804816a1f50ac5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-04291063-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=771&ch=771&exp=10800&fmt=webp> 大谷翔平と“頭コツン”マーリンズのマッカロー新監督、ロバーツ監督がお手本「いつもそうだった」という監督像とは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/19266cd616a2b30882df2ef7f1f72001d1510f00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000057-kyodonews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 万博通期パス割引コードを誤配布　重複で使えず、交換対応
+      <a href=https://news.yahoo.co.jp/articles/6521bcec1c18212b11418ad8cf27a8a88087ddc2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00065330-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 万博「通期パス」の割り引きコードを誤って重複配布…４月２２日～２５日に配られたコードに印字ミス　最大で２５００枚か
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7ce0821fcd8ff6d388c4ed003a50265d0f366dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-21884592-cbcv-000-2-thumb.jpg?exp=10800&fmt=webp> 「人が刺されて倒れている」と110番通報　腹部に包丁が刺さっていた男性（76）を病院へ搬送　愛知・津島市
+      <a href=https://news.yahoo.co.jp/articles/08a799e6e7f6be7bf6701337df98a35bde5b46ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-07233399-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 72時間の一時停戦、プーチン氏が一方的に表明　ゼレンスキー氏は非難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08a799e6e7f6be7bf6701337df98a35bde5b46ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-07233399-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=511&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 72時間の一時停戦、プーチン氏が一方的に表明　ゼレンスキー氏は非難
+      <a href=https://news.yahoo.co.jp/articles/4ec5af58526ce322a7364ab57996d56a32fdfcd6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-07233402-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> カナダ総選挙で“米に強硬姿勢”の与党が勝利確実　現地メディア報道
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537041>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/029923206a51ee77af7e05c7c130b122695407eb33a31f08ca8bda5b82ec037b.jpg> イランで大規模爆発 死者70人に
+      <a href=https://news.yahoo.co.jp/pickup/6537056>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/ac0d529e7ddd464cba3a51070b77cb37649a9a94026029c93fc5faae10f6d5fd.jpg> 腹に包丁刺さった男性搬送 男確保
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537040>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/979be0479037a0b1370ef7ed092ec6d81a788cdd44971b165c20e4d7034ea422.jpg> 中国車にエコカー補助金 立憲異論
+      <a href=https://news.yahoo.co.jp/pickup/6537055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/db145d63a9e334e5dde75fbd8c6295c99288978590b2593375141b7a0a177944.jpg> 7万円台結婚式 苦境の業界が改革
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/f5e513e12709e3e5ccd899deeaddf2a25f463bf9e7a832eb6366fa24edd44fea.jpg> 54歳で山形から移住 東京で再就職
+      <a href=https://news.yahoo.co.jp/pickup/6537039>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/e3747e045b8a76f85391563b1ea85c560faa7eba0024aebdb580af2951e95a9d.jpg> 王者サーティワン 今も拡大する訳
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 12:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 13:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
