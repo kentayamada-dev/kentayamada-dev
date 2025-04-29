@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d9c1e7ed083eb8a819dbc7f854861b30.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cb346aeee613cc4ca082f4723e6dc718.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/8223f60f20800990c6d618bdf60ca2f44e18efaf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000051-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 5月停戦案と直接協議、ウクライナの返答待っているとロ報道官
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/10a9ecedba79b989a058bfa3da60c40dc0804e3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34291413-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> 大谷翔平にかき回され…“元参謀役”マーリンズ新監督「同じチームにいた時の方が良かったかな」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34291413-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> 大谷翔平にかき回され…“元参謀役”マーリンズ新監督「同じチームにいた時の方が良かったかな」
       </a>
     </td>
   </tr>
@@ -394,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537081>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/0fab231405afe1e320f5e6459cec3a5e9409af4c92a562080149c8d71664858e.jpg> 日中議連 中国共産党幹部と会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537087>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/087b923a1c7ba74e7589e334ac743ab18eb36ec891dbac288b28414a40cc9933.jpg> 85億円の米機 空母から海に落下
       </a>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537088>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/8b1b761a73ac4ec0cc4868307374c0bd3db71f3e5976490e618032012783f1a3.jpg> 臭い・騒音・振動 道路陥没に悲痛
+      <a href=https://news.yahoo.co.jp/pickup/6537102>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/6676d9fcfed25309d8fe66336a6aaaa4849a1d73e083b272c90468c71fa0fbb7.jpg> 「水道水で食中毒」14人に症状
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537091>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/40b8765898093a5dfa612f35fc09768a0880178ca8dbca294ca6791660cfab51.jpg> 子が推定81億円の絵損傷 オランダ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537089>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/3b802b5b326c17047076d7236665ac992fae796e7616440a4f582f963f9c8350.jpg> AIで地図データを解析→遺跡発見
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 19:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 20:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
