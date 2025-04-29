@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b67191080c11ed14ad7796d5baa4410.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/704c1611103c07dbc5f12047af2719ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6675e86d4d8649b76037786bd8db8ef375fe20a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自動車部品の関税負担軽減　供給網移転へ時間確保、日系も対象　米政権
+      <a href=https://news.yahoo.co.jp/articles/ae501f59de028b336b4772e24405dff2b041b191>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00010000-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】トランプ大統領　自動車・自動車部品関税の負担軽減措置を講じる大統領令に署名へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9cc456b2ad6833225d3935c93a5ccd9305c3fba6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00530213-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平から敬意→敬意→敬意…示され続けた相手が話題　米感動「相棒が恋しいんだ」「可愛い」
+      <a href=https://news.yahoo.co.jp/articles/27807a879015262951c17ba0ba11f974ce8ab3d4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-01744366-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平らド軍の変わらぬ絆に「泣けてきた」　名コンビの再会で「コツンが蘇る」
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/ba701abac4ee33662805137da9dc80ee595e95e859f312e8f12d5351b48ca7dc.jpg> フジ取材パス没収巡り NPBを調査
+      <a href=https://news.yahoo.co.jp/pickup/6537146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/3ef3407e246c3ebbbcff25dbeab7eebb9c720c9d3d5616e189a5224f82b01918.jpg> うちも盗まれた 相次ぐコメ窃盗
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537128>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/59806352acd8ea453dbef1ac757d37a0edcd51a831dd463c0634de1c73159e4a.jpg> コロナ後もマスク外せず 若者の声
+      <a href=https://news.yahoo.co.jp/pickup/6537141>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/ba701abac4ee33662805137da9dc80ee595e95e859f312e8f12d5351b48ca7dc.jpg> フジ取材パス没収巡り NPBを調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537140>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/6c495edd86eaebfe37fdc3cf8341d0e457ee99403000eb3262601819a43e2f07.jpg> 難病から復活 阪神・湯浅に大歓声
+      <a href=https://news.yahoo.co.jp/pickup/6537147>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/21436ba8f246507f2870a4c958719f17ab2a85ccbaa6b4c87021183a8bf2b74d.jpg> 泣きそうだった 高橋光成が勝利
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 07:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 07:30:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
