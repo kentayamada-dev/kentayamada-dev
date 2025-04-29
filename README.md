@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f7d1b81be6a53071a84c09b16fd82e1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6db001e4f2f78e0b01fd1c169e4bbde7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16f8b0a0feba999384508a0e1298fcb877695ee3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000023-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第1打席は右前打で3戦連続ヒット　日本文化テーマの一戦で打席入りは日本語で「セバンゴウ17」とコール
+      <a href=https://news.yahoo.co.jp/articles/9b82a01aefa32230b75813bd9a2cb02b2b5f30cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-11636697-khbv-000-1-thumb.jpg?exp=10800&fmt=webp> 高校生の息子を殺害した疑い　４８歳の父親逮捕　宮城・石巻市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c93f112ae17f9618fb64c84e61e5acb11bbc2ba6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-21884538-tbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 「寝ているところを襲ったか」自宅で高校生の息子を殺害した疑い　逮捕の父親　宮城・石巻市　
+      <a href=https://news.yahoo.co.jp/articles/24f1037f7e6fe0392b88ba8b46204417e194f8f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000025-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 万博の割引コード誤配布　事務的ミス、通期パス割引受けられぬ状況に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fe547ff92ca7e329cc2556d25e5c00ee9620893>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00095752-thedigest-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> スペインで大規模停電が発生しマドリードOP一時中断。予定された16試合で消化できたのはわずか３試合＜SMASH＞
+      <a href=https://news.yahoo.co.jp/articles/1339220ae6acc49e52f6fe93ca665a95c05a57fc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000147-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=975&ch=975&exp=10800&fmt=webp> 大谷翔平　第2打席は四球　2打席連続出塁でベッツの適時打演出　初回も右前打＆二盗で先制点演出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f628db76e57e23420efe3b10cf08e509d201fee9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-35232408-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=771&ch=771&exp=10800&fmt=webp> プーチン氏、３日間の停戦を呼び掛け　トランプ氏は永続的な休戦求める
+      <a href=https://news.yahoo.co.jp/articles/08a799e6e7f6be7bf6701337df98a35bde5b46ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-07233399-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=511&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 72時間の一時停戦、プーチン氏が一方的に表明　ゼレンスキー氏は非難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0097e82c6a69535e19dd77f0ce82f070167d2d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-09542723-ytv-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=497&ch=497&exp=10800&fmt=webp> 【速報】万博協会「通期パス」を割引価格で購入できる「割引コード」最大2500枚を誤って二重配布　「使用済み」と表示される人に割引コードの交換呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/6a04132f17a210342dbd60d14369da23d87ee3d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00342708-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 菅野智之が３勝目　ジャッジを空振り三振に仕留め「ブーイングされないよう真っ向勝負でいった」
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537044>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/1477fac4a80a5b3b0c2509db73de3c4ac2ef03813662d43e069621175c2a2930.jpg> 万博 通期パス割引コードを誤配布
+      <a href=https://news.yahoo.co.jp/pickup/6537043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/f5e513e12709e3e5ccd899deeaddf2a25f463bf9e7a832eb6366fa24edd44fea.jpg> 54歳で山形から移住 東京で再就職
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/f5e513e12709e3e5ccd899deeaddf2a25f463bf9e7a832eb6366fa24edd44fea.jpg> 54歳で山形から移住 東京で再就職
+      <a href=https://news.yahoo.co.jp/pickup/6537051>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/0b727942bf14e53f5fbcc08fe6af79e92d11b5b90fafa100f53be9c7628d3d23.jpg> 菅野が力投 チームトップの3勝目
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 11:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 12:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
