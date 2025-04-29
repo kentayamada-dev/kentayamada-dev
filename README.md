@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cb346aeee613cc4ca082f4723e6dc718.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/945cabee08352d36d73db2b27cf967d7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8223f60f20800990c6d618bdf60ca2f44e18efaf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000051-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=1468&ch=1468&exp=10800&fmt=webp> 5月停戦案と直接協議、ウクライナの返答待っているとロ報道官
+      <a href=https://news.yahoo.co.jp/articles/d2f7956dbe902fa6b2dd2322f96de2c4511479dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-09627737-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【解説中継】プーチン氏“3日間停戦”案にトランプ氏は？　ウクライナ和平めぐる米露の思惑、今後の交渉は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/64929eb054fd5496ad710aa10413077a1baefc17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000040-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 宮城・石巻の高1殺害、死因は心臓損傷　県警が殺人容疑で父親を送検
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/10a9ecedba79b989a058bfa3da60c40dc0804e3b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34291413-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> 大谷翔平にかき回され…“元参謀役”マーリンズ新監督「同じチームにいた時の方が良かったかな」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1615ca8130c2b765a1f808529a12f292fc1db68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-05796143-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> 自宅前の路上で76歳の父親の腹を刃物で刺し殺害しようとしたか　息子を殺人未遂容疑で逮捕　愛知・津島市
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537087>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/087b923a1c7ba74e7589e334ac743ab18eb36ec891dbac288b28414a40cc9933.jpg> 85億円の米機 空母から海に落下
+      <a href=https://news.yahoo.co.jp/pickup/6537105>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/842e3743c0477c7d6984a8e28eda3a4c781b1bc6cd32788ac67beaee6f15e9df.jpg> トランプ政権100日 熱気に陰り
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537089>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/3b802b5b326c17047076d7236665ac992fae796e7616440a4f582f963f9c8350.jpg> AIで地図データを解析→遺跡発見
+      <a href=https://news.yahoo.co.jp/pickup/6537095>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/d6f90110fdb0aeef3c3d69e9fd61660f4715f313e4e7277aa9428735853c76cf.jpg> 生成AIで作業5日→半日 企業試み
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 20:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 20:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
