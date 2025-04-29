@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/604eda6a90cb0c9469f2de8ac3a19d3a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b67191080c11ed14ad7796d5baa4410.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c6675e86d4d8649b76037786bd8db8ef375fe20a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自動車部品の関税負担軽減　供給網移転へ時間確保、日系も対象　米政権
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9cc456b2ad6833225d3935c93a5ccd9305c3fba6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00530213-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平から敬意→敬意→敬意…示され続けた相手が話題　米感動「相棒が恋しいんだ」「可愛い」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/328b1cf06b4cde2055653857f5a3175a1154fa18>
@@ -378,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537137>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/548e87f9eb7794025b256d1c408073125704951b04f6034918b866ebfe18e332.jpg> 首相の東南アジア訪問 成果と課題
+      <a href=https://news.yahoo.co.jp/pickup/6537143>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/4f83060459b6cdfc4087bd8d2e244082f855c77d7bc7b6db1fe86b9dc496e40f.jpg> 米自動車関税 負担軽減措置を発表
       </a>
     </td>
   </tr>
@@ -388,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537135>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/2892f8fbd969db24ab45e28eb25ae2842d2900a1cee5a43d02ed940b59e82d97.jpg> 米政権 アマゾンを敵対的と非難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/b1ae74e24148e1eb9a2107389801f9065c4f4c4eecf2ec44898bfedd7cfe94ff.jpg> 三井住友銀 支店などの障害が復旧
       </a>
     </td>
   </tr>
@@ -426,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537126>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/402bf3e4e7f4361d12acb35627a147b3a5237b8760cc2d5be0073a6ffe8d2cb4.jpg> 暴力行為でイベ中止 ≠MEが言及
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537131>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/5199d746cad5437465c353698b4be588e243e9d597fb09195df5eadbe6f18040.jpg> 峯岸みなみ 愛知での子育て語る
+      <a href=https://news.yahoo.co.jp/pickup/6537144>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/9596c22739943982bf18e17a475b41fe219f458bc104973663a415d5045945eb.jpg> ≠MEイベ中止「壊し屋」警戒の声
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 06:30:59 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 07:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
