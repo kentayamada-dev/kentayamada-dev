@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/u1dGsF9b8Ts?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/7Uf97dESvds?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3da9bf76336e9f054b373232aa5946f5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d3e8a230d35aa65c22582d462739f16c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d53cc0ad9f1e17bda4cc387c8fbb25e197435864>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-04291027-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース右腕グラスノー、右肩炎症で負傷者リスト入り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e0f60876383bf7a3ea977b899fc5e895ef326563>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-07233391-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 高校1年生の息子を殺害か、48歳の父親を逮捕　宮城・石巻市
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf7928dd13867e2e8ad8a64b7365913f9aa6c9f8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000038-dal-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=839&ch=839&exp=10800&fmt=webp> ドジャース暗雲　グラスノーが右肩炎症で１５日間の負傷者リスト入り　スネルに続いて先発の柱が離脱
+      <a href=https://news.yahoo.co.jp/articles/b0097e82c6a69535e19dd77f0ce82f070167d2d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-09542723-ytv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】万博協会　大阪・関西万博の通期パスを割引価格で購入できる割引コードを誤って二重に配布と発表
       </a>
     </td>
   </tr>
@@ -381,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d3a547aff2ba5c53799425059a1592b5baa5f91a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000036-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 関越道バス事故13年で追悼　遺族ら現場で献花、群馬
+      <a href=https://news.yahoo.co.jp/articles/0e064a820b31e399433262843a610f2217a61b8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000001-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> スペイン・ポルトガルで大規模停電 一部は復旧
       </a>
     </td>
   </tr>
@@ -394,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537045>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c388c7f12b6d50cdf4e04150de23525d6aba6ec5d4c2bbf040b5dd0758d31c8a.jpg> スペイン&ポルトガル停電復旧進む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537034>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/77fe871e4548808a2965d913251568cd49308482479deac64baa8deeb07b445c.jpg> 出産巡る地方女性現状 赤沢氏見解
       </a>
@@ -402,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537033>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 内閣不信任案 煮え切らぬ立憲代表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c388c7f12b6d50cdf4e04150de23525d6aba6ec5d4c2bbf040b5dd0758d31c8a.jpg> 停電 スペインで緊急事態宣言
+      <a href=https://news.yahoo.co.jp/pickup/6537028>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/e9282607e936f83b729e357b4106b36d46c9f76eb140e511488c916ce0e35fac.jpg> 7人死亡バス事故 娘失った悲しみ
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/24eda2ebc5283cc464100ea402d28c1644a767c189f16264914885ef1c3549be.jpg> 集客重視「限界」スキー場の転換
+      <a href=https://news.yahoo.co.jp/pickup/6537032>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/d011b367c4da4cc52b2af5fd094aab0596760cab541ab73541b49aae0698112d.jpg> 物価高「1000円ランチ」に変化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537032>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/d011b367c4da4cc52b2af5fd094aab0596760cab541ab73541b49aae0698112d.jpg> 物価高「1000円ランチ」に変化
+      <a href=https://news.yahoo.co.jp/pickup/6537043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/f5e513e12709e3e5ccd899deeaddf2a25f463bf9e7a832eb6366fa24edd44fea.jpg> 54歳で山形から移住 東京で再就職
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 10:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 10:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
