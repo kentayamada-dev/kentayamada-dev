@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/06c6ceac46400052edf9ad2c751e9169.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d6f0af0cd287dc6d322b19d129472813.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/88a3edad1f8ec7e4c59fdd1dd6d67f7c8550b120>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000375-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=872&ch=872&exp=10800&fmt=webp> ≠ME、リリースイベントを直前に中止「スタッフに対する暴力行為によって警察が介入する事態に」【報告全文掲載】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d67674ce9e7806c56d58b50dc84058096e593459>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000043-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース、逆転サヨナラ勝ち3連勝で西地区首位！大谷翔平は2打数1安打3四球、延長10回にエドマンが逆転サヨナラ打
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2f2d2296518cb8e7e83d48b6fb6840eeeb36276c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050053-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=325&ch=325&exp=10800&fmt=webp> 大阪万博「通期パス」の割引コード、二重に配布するミス…最大２５００人に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050053-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=325&ch=325&exp=10800&fmt=webp> 大阪万博「通期パス」の割引コード、二重に配布するミス…最大２５００人に
       </a>
     </td>
   </tr>
@@ -366,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/332af95e8c83ce3e440c94c81c64f619391936bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000036-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア“一方的な停戦”宣言　仲介役トランプ氏、ロシアを警戒か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7de6575b1617aada0221beab8d0a99b24a17ed9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-01744215-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が試合前に“異例の行動”　突然の登場…米レポーターも注目「こんなに早く」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed58b7e6594fa2f808cb792d343879926d8282c7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】北海道で季節外れの積雪　人気の観光地に春の雪
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000036-ann-000-4-thumb.jpg?exp=10800&fmt=webp> ロシア“一方的な停戦”宣言　仲介役トランプ氏、ロシアを警戒か
       </a>
     </td>
   </tr>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/db145d63a9e334e5dde75fbd8c6295c99288978590b2593375141b7a0a177944.jpg> 7万円台結婚式 苦境の業界が改革
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/e3747e045b8a76f85391563b1ea85c560faa7eba0024aebdb580af2951e95a9d.jpg> サーティワン ちょうどよさ強み?
+      <a href=https://news.yahoo.co.jp/pickup/6537057>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/9b9f724d95e87e52eac213a586c78de8424446c844d7cc80564bff256ba4f60b.jpg> 最後尾見えないくらい 万博に行列
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/ad098632f89c85e06acdde777dae7173ece5c8c17e75043a677e6df6565bfb3d.jpg> ≠ME催し中止 関係者に暴力行為
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 14:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 14:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
