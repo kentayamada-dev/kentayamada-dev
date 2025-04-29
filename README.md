@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/af21157f01486f2df50f258812dca04d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/97bf5b320c960e681a3736f9f93cb48e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ff1e40970f9c16f8c74cfd61e8454e2522b9733>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00964916-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【騒然】ゴールデンウィークの第三京浜に柴犬「こしょう」迷い込むも無事に保護　飼い主「脱走癖がある」も侵入は初「ご迷惑をかけました」
+      <a href=https://news.yahoo.co.jp/articles/9ae5374a5b7e3c7698434f57dedc49928899cc66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-90023746-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> スペイン全土で大停電　日本でも起きる可能性は？
       </a>
     </td>
   </tr>
@@ -386,8 +386,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537105>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/842e3743c0477c7d6984a8e28eda3a4c781b1bc6cd32788ac67beaee6f15e9df.jpg> トランプ政権100日 熱気に陰り
+      <a href=https://news.yahoo.co.jp/pickup/6537125>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/1356c37e9231d9fc69bf9fc48985a4b654f58a4543169ac3693e93c080fa22e3.jpg> スペイン停電 日本で起こりうる?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537127>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/37e9464f5f04251559ec3b729d64726ae78659e9573d6bf345a56687d103e707.jpg> 利益急落 テスラが抱える問題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537120>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/5714cd173a13242651552878d3208142d28597a2e78e529eecc198c24178fa58.jpg> コメ農家の本音「もうからない」
       </a>
     </td>
   </tr>
@@ -402,32 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/0e71f52432e9315c8a6bbac4866bef94a5eb525a1cefc7bbb302797f107698ff.jpg> 離婚秒読み 部活顧問の悲痛な声
+      <a href=https://news.yahoo.co.jp/pickup/6537128>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/59806352acd8ea453dbef1ac757d37a0edcd51a831dd463c0634de1c73159e4a.jpg> コロナ後もマスク外せず 若者の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/59806352acd8ea453dbef1ac757d37a0edcd51a831dd463c0634de1c73159e4a.jpg> マスク外せない学生 恋愛に悩みも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537097>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/af2df680784e45b30091af3cdcca460ed32cdfc04dc15b957284884ae7edf410.jpg> Switch 2 行き渡るの1年以上先か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537106>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/fc51c27eff6f679c3c78698f4cfebe9308f6c25e68e10d1054e2d21d1299b7de.jpg> ランドセル症候群 3kg以上は注意
+      <a href=https://news.yahoo.co.jp/pickup/6537124>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/92c7247d0962146b2b33366e9e5fd0d6b680d66fbbc70b5a42b69cb16cbd6dc4.jpg> 柴犬が高速道を逃走 GWの捕物劇
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 22:30:09 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 23:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
