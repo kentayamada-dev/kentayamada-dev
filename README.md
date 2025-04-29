@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/17873737a0d28effc4f4ce2a4a318b26.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/af21157f01486f2df50f258812dca04d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,24 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0db70afc3febdde2d51554169d1c0d27894ed379>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-04554985-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=466&ch=466&exp=10800&fmt=webp> ≠ME、緊急生配信実施「一緒の空間という気持ちで」暴力行為で警察介入の事態受けイベント直前中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1b631776439dc84972afc81fa63aab41db0ed061>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050080-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ゼレンスキー氏、３０日間の即時停戦を呼びかけ…プーチン氏の一方的宣言に「５月まで待つ理由ない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10a9ecedba79b989a058bfa3da60c40dc0804e3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34291413-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> 大谷翔平にかき回され…“元参謀役”マーリンズ新監督「同じチームにいた時の方が良かったかな」
+      <a href=https://news.yahoo.co.jp/articles/1ff1e40970f9c16f8c74cfd61e8454e2522b9733>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00964916-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【騒然】ゴールデンウィークの第三京浜に柴犬「こしょう」迷い込むも無事に保護　飼い主「脱走癖がある」も侵入は初「ご迷惑をかけました」
       </a>
     </td>
   </tr>
@@ -394,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537112>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/d14837f8a1cdc3f3f49e11e10cb1815f70515ff5eb370f3dca5bf1dae4ec8729.jpg> 日比 対中を念頭に安保協力強化へ
+      <a href=https://news.yahoo.co.jp/pickup/6537115>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/e993d21053690adecef8550bd2a6eb6ddd1604a57adc20002a7867d079276306.jpg> 関税交渉 造船分野で対米協力検討
       </a>
     </td>
   </tr>
@@ -418,24 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537117>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/a5ddc627709de14d4e694cb546a6086cbb02e1b23a871bdab340b1d13d6b54e8.jpg> 雪景色の北海道 除雪車も出動
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537091>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/40b8765898093a5dfa612f35fc09768a0880178ca8dbca294ca6791660cfab51.jpg> 子が推定81億円の絵損傷 オランダ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537110>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/0e71f52432e9315c8a6bbac4866bef94a5eb525a1cefc7bbb302797f107698ff.jpg> 離婚秒読み 部活顧問の悲痛な声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537107>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/59806352acd8ea453dbef1ac757d37a0edcd51a831dd463c0634de1c73159e4a.jpg> マスク外せない学生 恋愛に悩みも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537097>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/af2df680784e45b30091af3cdcca460ed32cdfc04dc15b957284884ae7edf410.jpg> Switch 2 行き渡るの1年以上先か
       </a>
     </td>
   </tr>
@@ -450,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/402bf3e4e7f4361d12acb35627a147b3a5237b8760cc2d5be0073a6ffe8d2cb4.jpg> ≠MEイベ当日中止 生配信で言及
+      <a href=https://news.yahoo.co.jp/pickup/6537126>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/402bf3e4e7f4361d12acb35627a147b3a5237b8760cc2d5be0073a6ffe8d2cb4.jpg> 暴力行為でイベ中止 ≠MEが言及
       </a>
     </td>
   </tr>
@@ -460,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 22:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 22:30:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
