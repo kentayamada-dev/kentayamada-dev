@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9b809c76173db85d740bfe86aafa6701.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f3da26be922378d35a2d02b9ec16189.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dbe8c4bd6675fbd44a4f2224102e726770abfda1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-90029896-nbnv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=394&ch=394&exp=10800&fmt=webp> 腹部に刃物が刺さった状態で路上に倒れた男性が見つかった事件　男性と同居する息子を逮捕
+      <a href=https://news.yahoo.co.jp/articles/9018d1c8d6ce59eb045fe0024ab354c1f822c635>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000062-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、『元相棒』に捧げる二盗、２人で築いた盗塁技術… 試合前は異例の行動、「ヘッドバンプ」の日々「特別」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2e737c0ac46de7b857e06c62f5934ea59353710>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000073-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 水産物輸入、目に見える成果要請　自民・森山氏、中国の序列3位に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08bc5e88c1c683f17c9b00b97302c7ae1cfae142>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000074-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=1073&ch=1073&exp=10800&fmt=webp> ドジャース・大谷翔平に脱帽　敵将「分かっているつもりだけどさらに超えてくるね」
+      <a href=https://news.yahoo.co.jp/articles/4fce39d04b2b26c61a72ea969b202d3c4778ea04>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-90040104-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 早朝からケンカのような声…自宅前で76歳父親の腹を刺してケガさせたか 殺人未遂容疑で23歳息子を逮捕
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/42e33710a9d45c413eab9b376f13e8811db5feb6>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050991-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博「通期パス」割り引きコードを誤り二重に配布　２２日～２５日の来場者に最大２５００枚　協会が交換手続き呼びかけ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/84d69f51ea9751bc33c3a30d9c02b51a08496212>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-09137821-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「逆走車と酷似した車」高速道路に入り直したか　東北道3人死亡事故
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537042>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/73610f9a3937c0d3115f13736df91d4cf329f178b645fedf2faa05c2457116df.jpg> 消費税減税の動き 消費者の声は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537072>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/f2ed88d9fe0c159b455c2b87f82c0d694c016867984b2016d8f0ebdf3f39e6d1.jpg> 100kg超コンテナ下敷き 男性死亡
       </a>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537082>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c15553f2ccde7fa91686c50b27999eda3f754ade0788d1330b4dba8746daaf57.jpg> セルフレジ普及 うろたえた障害者
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537062>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/cec17bdd70afea8d5945bee27d20486b54397e58bb4f9dc6a75bfde95d5e9737.jpg> 万博「文明の森」が立ち入り禁止
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c260a873e75ae61764a24e94b1a73b80f2b55e1c96c92c0237d8fe783d7f404f.jpg> ハードルの田中佑美 結婚していた
+      <a href=https://news.yahoo.co.jp/pickup/6537083>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c260a873e75ae61764a24e94b1a73b80f2b55e1c96c92c0237d8fe783d7f404f.jpg> 陸上・田中佑美と石川周平が結婚
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 16:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 16:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
