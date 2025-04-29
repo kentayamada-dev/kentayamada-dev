@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/acab94fa95ae0f38cefdfc3d962e4f1b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/06c6ceac46400052edf9ad2c751e9169.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2f2d2296518cb8e7e83d48b6fb6840eeeb36276c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050053-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=325&ch=325&exp=10800&fmt=webp> 大阪万博「通期パス」の割引コード、二重に配布するミス…最大２５００人に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/332af95e8c83ce3e440c94c81c64f619391936bb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000036-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア“一方的な停戦”宣言　仲介役トランプ氏、ロシアを警戒か
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7de6575b1617aada0221beab8d0a99b24a17ed9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-01744215-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が試合前に“異例の行動”　突然の登場…米レポーターも注目「こんなに早く」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-01744215-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が試合前に“異例の行動”　突然の登場…米レポーターも注目「こんなに早く」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ed58b7e6594fa2f808cb792d343879926d8282c7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】北海道で季節外れの積雪　人気の観光地に春の雪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35efdfe967cfb06c3f3ef39bfc9e92d831af2e9a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000039-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 万博「通期パス」割引購入できず　最大2500件で同じコードを二重交付、協会が交換対応
       </a>
     </td>
   </tr>
@@ -412,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537050>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/ec2e6ec6278ed1c37db700299f13f9ed3ddaaf3d7f8c38f1d77f3ae1723bbfe5.jpg> コメ最高値 備蓄米の出荷なぜ遅れ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/5c47c239039870e933482f2c13fca747707b7ca31f7b8efe751a9d590c441f07.jpg> 北海道で積雪 30日にかけ大雪注意
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/0b727942bf14e53f5fbcc08fe6af79e92d11b5b90fafa100f53be9c7628d3d23.jpg> 菅野 ヤンキース打線封じ3勝目
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537046>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/29e1cd829e518ea561c4be879b661b5ead6e213ae478c43bf4a1e8f471ec095f.jpg> くるま契約終了 動画に浮かぶ疑問
+      <a href=https://news.yahoo.co.jp/pickup/6537059>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/9f325ff20b08f1dc336866922aeafe2fcf0024903849522d8315be4785f53afd.jpg> 永山竜樹一本負け 体重約100kg差
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 13:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 14:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
