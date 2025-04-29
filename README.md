@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f5c94dab35f7b4ac13d40d16affb088f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d9c1e7ed083eb8a819dbc7f854861b30.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6ce256b012630f4d8bc29eea5a475bac68e77fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-05475598-kry-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 同居の父親（81）をナイフで刺し…無職の息子（51）を殺人未遂容疑で逮捕～山口・周南
+      <a href=https://news.yahoo.co.jp/articles/10a9ecedba79b989a058bfa3da60c40dc0804e3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34291413-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=403&cy=0&cw=1097&ch=1097&exp=10800&fmt=webp> 大谷翔平にかき回され…“元参謀役”マーリンズ新監督「同じチームにいた時の方が良かったかな」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a1615ca8130c2b765a1f808529a12f292fc1db68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-05796143-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> 自宅前の路上で76歳の父親の腹を刃物で刺し殺害しようとしたか　息子を殺人未遂容疑で逮捕　愛知・津島市
       </a>
     </td>
   </tr>
@@ -371,19 +379,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e19cde54ea88e0c4d9db202dec06590f6c210d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00010020-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 大谷翔平　インスタグラム更新　元コーチに示した＂親愛の証＂が話題「チームは違えど、同じ野球人の絆ですね！」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537092>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/fce57133fc93a6c0976c9d729d587cc844044cd8b24262989dcd6e4c9cf6f022.jpg> スペインの大規模停電 ほぼ復旧
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537081>
@@ -396,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537087>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/087b923a1c7ba74e7589e334ac743ab18eb36ec891dbac288b28414a40cc9933.jpg> 85億円の米機 空母から海に落下
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/f6639e641f2ef8a72b8577a73092431dc9d69c2be02f3208144440702b97ad6f.jpg> 包丁が刺さった男性発見 息子逮捕
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537101>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/724f2a6ad800fcec87eeeeb19a8daa85b9d1f951cf9b8fad3d248f08caefca2a.jpg> SB監督 柳田悠岐は「ほぼ骨折」
+      <a href=https://news.yahoo.co.jp/pickup/6537091>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/40b8765898093a5dfa612f35fc09768a0880178ca8dbca294ca6791660cfab51.jpg> 子が推定81億円の絵損傷 オランダ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537100>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/91b77c3d6b2b3e08c8e43d35a87b8e259bb3da5e579a7cad504421b8fb08f8c8.jpg> ウルフ敗退に涙「悔しいですね」
+      <a href=https://news.yahoo.co.jp/pickup/6537101>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/724f2a6ad800fcec87eeeeb19a8daa85b9d1f951cf9b8fad3d248f08caefca2a.jpg> SB監督 柳田悠岐は「ほぼ骨折」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 19:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 19:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
