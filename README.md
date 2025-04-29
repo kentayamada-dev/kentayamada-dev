@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/u1dGsF9b8Ts?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9fce10c00f129bab459b4d400bce0f4d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/48579747da967d87fc424492f07b594c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70f26c546ce841ffc1ccfc338e02c674ee0a775a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000005-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=539&ch=539&exp=10800&fmt=webp> スペイン全土で異例の大規模停電　ポルトガルやフランスの一部でも
+      <a href=https://news.yahoo.co.jp/articles/6e0a460e6b6f804eadd1c2c20f60d336f531b609>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34290081-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=129&cw=874&ch=874&exp=10800&fmt=webp> 事務所社長の人気芸人、吉本退所令和くるまに「副社長のポスト用意してます」早くも“スカウト”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c3028f5776ae07170a3f7842d5efc77114c0f1cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-01743953-fullcount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=180&cy=0&cw=600&ch=600&exp=10800&fmt=webp> グラスノーが離脱か…ド軍に28歳右腕が緊急合流　米記者「誰かがILに入らない限り」
+      <a href=https://news.yahoo.co.jp/articles/2413d6cb766af33d36a014d630b1e3d5989732ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-01743983-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=600&ch=600&exp=10800&fmt=webp> グラスノーは「全身に痛みを感じている」　指揮官は新たな“症状”説明…IL入りは「可能性高い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5ef8095259fcdc64e13dd496f49e274a5b60b1d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000016-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=373&ch=373&exp=10800&fmt=webp> スペイン・ポルトガルで大規模停電…都市全体が止まった
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8d18d0b01e7e53cb4532da0a0d7a4349c88186ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ロシアの停戦「新たなまやかし」　ウクライナ大統領が一蹴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dedde631c0274e7e4f63695711fbfd816909524e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34281337-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=1116&ch=1116&exp=10800&fmt=webp> 令和ロマンの今後は？片方が吉本離脱、コンビ活動可能も契約複雑…劇場出演など「厳しくなる」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000028-kyodonews-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=585&cy=0&cw=1463&ch=1463&exp=10800&fmt=webp> ロシアの停戦「新たなまやかし」　ウクライナ大統領が一蹴
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537022>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c388c7f12b6d50cdf4e04150de23525d6aba6ec5d4c2bbf040b5dd0758d31c8a.jpg> 停電 スペインで緊急事態宣言
+      <a href=https://news.yahoo.co.jp/pickup/6537034>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/77fe871e4548808a2965d913251568cd49308482479deac64baa8deeb07b445c.jpg> 出産巡る地方女性現状 赤沢氏見解
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537015>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/cadf0f7011f7e183e48dd9cc3c4dece7363312e07e728e63736bee15288f106e.jpg> 障害年金 不支給が2倍以上に急増
+      <a href=https://news.yahoo.co.jp/pickup/6537033>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 内閣不信任案 煮え切らぬ立憲代表
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537021>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/28/9740fd941ad80d9cddf6d03790830402523de190def2e601e9ec676765ea70fb.jpg> 15歳殺害疑いで父逮捕 刺し傷複数
+      <a href=https://news.yahoo.co.jp/pickup/6537022>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c388c7f12b6d50cdf4e04150de23525d6aba6ec5d4c2bbf040b5dd0758d31c8a.jpg> 停電 スペインで緊急事態宣言
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 08:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 09:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
