@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/7Uf97dESvds?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/656b94b42162465cd2a100e275b8862f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5f6cb145596ae9f9d6d9284ba75438a6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/416ab236945aece8fa6c254a182bdb0ffa0cd985>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050998-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 万博「自動運転」シャトルバスが接触事故　原因究明のため当面運行を見あわせ
+      <a href=https://news.yahoo.co.jp/articles/7558787bb7710e7fcea3c24f50a3fe9c177b413f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000008-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 石破首相、フィリピン大統領と会談　安保・経済関係強化を協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae8d4c43c90fbea11aba43baae1555c927aedf9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日比首脳会談　中国を念頭に安全保障協力の一層強化を確認
+      <a href=https://news.yahoo.co.jp/articles/416ab236945aece8fa6c254a182bdb0ffa0cd985>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050998-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=298&cy=0&cw=765&ch=765&exp=10800&fmt=webp> 万博「自動運転」シャトルバスが接触事故　原因究明のため当面運行を見あわせ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 02:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 02:30:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
