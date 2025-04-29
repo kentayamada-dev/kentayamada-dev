@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9d4151922d571f49d5dc523e6a4ee87e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/acab94fa95ae0f38cefdfc3d962e4f1b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/060465e80fad21d99fe44749ed804816a1f50ac5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-04291063-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=273&cy=0&cw=771&ch=771&exp=10800&fmt=webp> 大谷翔平と“頭コツン”マーリンズのマッカロー新監督、ロバーツ監督がお手本「いつもそうだった」という監督像とは
+      <a href=https://news.yahoo.co.jp/articles/332af95e8c83ce3e440c94c81c64f619391936bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000036-ann-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア“一方的な停戦”宣言　仲介役トランプ氏、ロシアを警戒か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6521bcec1c18212b11418ad8cf27a8a88087ddc2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00065330-mbsnews-000-1-thumb.jpg?exp=10800&fmt=webp> 万博「通期パス」の割り引きコードを誤って重複配布…４月２２日～２５日に配られたコードに印字ミス　最大で２５００枚か
+      <a href=https://news.yahoo.co.jp/articles/7de6575b1617aada0221beab8d0a99b24a17ed9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-01744215-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平が試合前に“異例の行動”　突然の登場…米レポーターも注目「こんなに早く」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ed58b7e6594fa2f808cb792d343879926d8282c7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00010001-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画解説】北海道で季節外れの積雪　人気の観光地に春の雪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/35efdfe967cfb06c3f3ef39bfc9e92d831af2e9a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000039-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 万博「通期パス」割引購入できず　最大2500件で同じコードを二重交付、協会が交換対応
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08a799e6e7f6be7bf6701337df98a35bde5b46ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-07233399-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 72時間の一時停戦、プーチン氏が一方的に表明　ゼレンスキー氏は非難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4ec5af58526ce322a7364ab57996d56a32fdfcd6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-07233402-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> カナダ総選挙で“米に強硬姿勢”の与党が勝利確実　現地メディア報道
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537050>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/ec2e6ec6278ed1c37db700299f13f9ed3ddaaf3d7f8c38f1d77f3ae1723bbfe5.jpg> コメ最高値 備蓄米の出荷なぜ遅れ
+      <a href=https://news.yahoo.co.jp/pickup/6537058>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/33347c83beb014b76ae6f349c6b298c3e68e25d9d2e138fff5bb4f01568ee40d.jpg> カナダ総選挙、与党が政権維持へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/6a4704736a9371ab03d39f7f57dc7acf26e2cd2d244117d7cbfa5669afbcd161.jpg> 三井住友銀 近畿の支店などで障害
+      <a href=https://news.yahoo.co.jp/pickup/6537050>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/ec2e6ec6278ed1c37db700299f13f9ed3ddaaf3d7f8c38f1d77f3ae1723bbfe5.jpg> コメ最高値 備蓄米の出荷なぜ遅れ
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/e3747e045b8a76f85391563b1ea85c560faa7eba0024aebdb580af2951e95a9d.jpg> 王者サーティワン 今も拡大する訳
+      <a href=https://news.yahoo.co.jp/pickup/6537060>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/e3747e045b8a76f85391563b1ea85c560faa7eba0024aebdb580af2951e95a9d.jpg> サーティワン ちょうどよさ強み?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537049>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/eb6dcbf22ac8a8874d4a818412af7fb0544b05bb312134a8ccce49383c265af3.jpg> 大谷翔平 恩師の敵軍監督とハグ
+      <a href=https://news.yahoo.co.jp/pickup/6537054>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/e2d43353dda058fdd15290814cc578128b2224f2e059b85e286460e8d2c3cfa2.jpg> クリームなしクレープ なぜ人気
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 13:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 13:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
