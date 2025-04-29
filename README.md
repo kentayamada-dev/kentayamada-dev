@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2fa3cf62ce7063a0a6606d3c499c868.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/17873737a0d28effc4f4ce2a4a318b26.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b0413006b4057000aceb7b9f011dace33f79982>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日比、安全保障協力の拡大で一致　対中国念頭、情報保護協定議論へ
+      <a href=https://news.yahoo.co.jp/articles/e48a71743dd4c4df4697527759ccd5db4b4f1c40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-90040114-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 度々パトカーが来る騒動起こす…自宅前の路上で76歳父親の腹を刺して殺害しようとしたか 23歳息子を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e48a71743dd4c4df4697527759ccd5db4b4f1c40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-90040114-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 度々パトカーが来る騒動起こす…自宅前の路上で76歳父親の腹を刺して殺害しようとしたか 23歳息子を逮捕
+      <a href=https://news.yahoo.co.jp/articles/0db70afc3febdde2d51554169d1c0d27894ed379>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-04554985-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=466&ch=466&exp=10800&fmt=webp> ≠ME、緊急生配信実施「一緒の空間という気持ちで」暴力行為で警察介入の事態受けイベント直前中止
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537109>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/db7ec629befddfac80f2de5e42a4abf34c6b4a773834f858bd3f234357cae241.jpg> 保護猫の譲渡詐欺か 当事者を取材
+      <a href=https://news.yahoo.co.jp/pickup/6537117>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/a5ddc627709de14d4e694cb546a6086cbb02e1b23a871bdab340b1d13d6b54e8.jpg> 雪景色の北海道 除雪車も出動
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537101>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/724f2a6ad800fcec87eeeeb19a8daa85b9d1f951cf9b8fad3d248f08caefca2a.jpg> SB監督 柳田悠岐は「ほぼ骨折」
+      <a href=https://news.yahoo.co.jp/pickup/6537119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/402bf3e4e7f4361d12acb35627a147b3a5237b8760cc2d5be0073a6ffe8d2cb4.jpg> ≠MEイベ当日中止 生配信で言及
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 21:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 22:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
