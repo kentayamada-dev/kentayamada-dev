@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c1fd5369d92f00812c3c37df3fb82933.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8603e0d856764c3d64eb2ff305c964c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7091823f0052db22343047f2f75653b08ea725f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000022-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2185&ch=2185&exp=10800&fmt=webp> 阪神・才木を苦しめた中日打線の準備と投手・涌井への誤算　岡義朗氏が指摘
+      <a href=https://news.yahoo.co.jp/articles/443eb2c817eca37042f2c9783a60484d1f7db9bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000008-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=281&cy=0&cw=919&ch=919&exp=10800&fmt=webp> 中日・涌井秀章、球史4人目偉業の秘訣は”ギリギリ攻め”　自主トレ弟子入りの根尾驚かせたプロフェッショナル
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 05:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 06:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
