@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8781cdd4cb80088488d0dd7edb075c9a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/72d2505107dab5189e3156afcbf41731.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/20bfb0a9fc2eaa6690cb62a7ebd92e67a94533d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000070-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、マッカロー監督と笑顔の交流ショットに喜びの声 昨季までドジャースコーチ「最高」「いい写真だ」
+      <a href=https://news.yahoo.co.jp/articles/a0897f3b3c5f2133b458931d943dbe61b7df52ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00964783-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【続報】高齢男性が腹に刃物刺さった状態で倒れていた事件でフィリピン国籍の容疑者（23）を殺人未遂の疑いで逮捕　被害者は同居する父親（76）　愛知・津島市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/898aafae6b283a0a8d2bef3b3fba091004051759>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34291097-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=1168&ch=1168&exp=10800&fmt=webp> 【データ】涌井秀章が21年連続勝利　15年ぶり阪神戦白星で同一カード15年以上ブランクは８人目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0e19cde54ea88e0c4d9db202dec06590f6c210d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00010020-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 大谷翔平　インスタグラム更新　元コーチに示した＂親愛の証＂が話題「チームは違えど、同じ野球人の絆ですね！」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9e525f3d5346587b517f313cf1b8c50b8de7efb2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000042-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 「新たなごまかしだ」　ゼレンスキー氏、ロシアの一時停戦宣言を非難
       </a>
     </td>
   </tr>
@@ -371,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4fce39d04b2b26c61a72ea969b202d3c4778ea04>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-90040104-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 早朝からケンカのような声…自宅前で76歳父親の腹を刺してケガさせたか 殺人未遂容疑で23歳息子を逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84d69f51ea9751bc33c3a30d9c02b51a08496212>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-09137821-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 「逆走車と酷似した車」高速道路に入り直したか　東北道3人死亡事故
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537068>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/aa58993a3b962bfae4a61a146ed12a601523078f474c41910ca02f1d7f387072.jpg> ポルトガル 停電で非常事態を宣言
+      <a href=https://news.yahoo.co.jp/pickup/6537081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/0fab231405afe1e320f5e6459cec3a5e9409af4c92a562080149c8d71664858e.jpg> 日中議連 中国共産党幹部と会談
       </a>
     </td>
   </tr>
@@ -410,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537087>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/087b923a1c7ba74e7589e334ac743ab18eb36ec891dbac288b28414a40cc9933.jpg> 85億円の米機 空母から海に落下
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537086>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/f6639e641f2ef8a72b8577a73092431dc9d69c2be02f3208144440702b97ad6f.jpg> 包丁が刺さった男性発見 息子逮捕
       </a>
@@ -418,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537072>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/f2ed88d9fe0c159b455c2b87f82c0d694c016867984b2016d8f0ebdf3f39e6d1.jpg> 100kg超コンテナ下敷き 男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6537084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/cedd2ac21d9c70a3e8814c7c1fcdf26dc8d0df796faaf67b02871bb6589ee3d7.jpg> 道路逆走 目撃したときの対応は
       </a>
     </td>
   </tr>
@@ -428,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537090>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c15553f2ccde7fa91686c50b27999eda3f754ade0788d1330b4dba8746daaf57.jpg> セルフレジ普及に困惑 障害者の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537062>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/cec17bdd70afea8d5945bee27d20486b54397e58bb4f9dc6a75bfde95d5e9737.jpg> 万博「文明の森」が立ち入り禁止
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 17:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 17:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
