@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/u1dGsF9b8Ts?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/48579747da967d87fc424492f07b594c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/80c9faaa3237007675aa6daa80207440.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7bc744c3f57ca9d0e6f0f17c4bba57d3edd75e72>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-16753331-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=734&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> スペインとポルトガルで大規模停電、住民ら混乱　復旧と原因解明の作業進む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5e7126b765f0e3f5086f008644af43ffff74fe3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000113-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=1129&ch=1129&exp=10800&fmt=webp> ド軍指揮官　山本由伸、佐々木朗希の中5日起用の可能性を示唆　右肩の違和感のグラスノーはIL入り濃厚
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6e0a460e6b6f804eadd1c2c20f60d336f531b609>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34290081-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=129&cw=874&ch=874&exp=10800&fmt=webp> 事務所社長の人気芸人、吉本退所令和くるまに「副社長のポスト用意してます」早くも“スカウト”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2413d6cb766af33d36a014d630b1e3d5989732ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-01743983-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=600&ch=600&exp=10800&fmt=webp> グラスノーは「全身に痛みを感じている」　指揮官は新たな“症状”説明…IL入りは「可能性高い」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ef8095259fcdc64e13dd496f49e274a5b60b1d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000016-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=373&ch=373&exp=10800&fmt=webp> スペイン・ポルトガルで大規模停電…都市全体が止まった
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34290081-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=129&cw=874&ch=874&exp=10800&fmt=webp> 事務所社長の人気芸人、吉本退所令和くるまに「副社長のポスト用意してます」早くも“スカウト”
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537029>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/8931bd26ea8aac05bf70b41e1d0012e95f7d60e06b538faee4f4e91b0f81b034.jpg> 日本郵便配達で飲酒運転 点呼不備
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537022>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c388c7f12b6d50cdf4e04150de23525d6aba6ec5d4c2bbf040b5dd0758d31c8a.jpg> 停電 スペインで緊急事態宣言
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537024>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/9d285dba811dda306500b1f9e57d4f97ff7c0ac4d7041bbd00c23d4807ff9abc.jpg> 中学の内申点 市教委「評価適切」
+      <a href=https://news.yahoo.co.jp/pickup/6537035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/f3267d93d28f6e26c9f279927f89decfb9ebf3a412d05eda24aa255726ab6bb7.jpg> ソニーG 半導体子会社の分離検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537032>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/d011b367c4da4cc52b2af5fd094aab0596760cab541ab73541b49aae0698112d.jpg> 物価高「1000円ランチ」に変化
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 09:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 09:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
