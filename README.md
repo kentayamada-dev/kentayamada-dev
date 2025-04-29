@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f76ecb16192a9f2bb909a2d7a24a288e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f5c94dab35f7b4ac13d40d16affb088f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ae8c43e50ab3b4f391e5c743fa8ec7277bed569>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 高校1年、死因は心臓損傷　背中に複数刺し傷
+      <a href=https://news.yahoo.co.jp/articles/c6ce256b012630f4d8bc29eea5a475bac68e77fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-05475598-kry-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 同居の父親（81）をナイフで刺し…無職の息子（51）を殺人未遂容疑で逮捕～山口・周南
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0e19cde54ea88e0c4d9db202dec06590f6c210d0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00010020-cocokara-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 大谷翔平　インスタグラム更新　元コーチに示した＂親愛の証＂が話題「チームは違えど、同じ野球人の絆ですね！」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb15656eb5b7ab8ad28d2409abb9186a7de69fe0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00065333-mbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 万博・通期パス割引コードに新たな問題…印字ミスでコードが重複　一度使われたら後の人は割引受けられず
       </a>
     </td>
   </tr>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537099>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/18bd0072122a4a4fbe2a1ac08de1a1f06b72eb85135758c7da94e92614ac56fd.jpg> 漂着した鯨死骸 人為的な傷痕か
+      <a href=https://news.yahoo.co.jp/pickup/6537103>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/18bd0072122a4a4fbe2a1ac08de1a1f06b72eb85135758c7da94e92614ac56fd.jpg> 漂着した鯨死骸 胸ビレ盗まれたか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537101>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/724f2a6ad800fcec87eeeeb19a8daa85b9d1f951cf9b8fad3d248f08caefca2a.jpg> SB監督 柳田悠岐は「ほぼ骨折」
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537083>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c260a873e75ae61764a24e94b1a73b80f2b55e1c96c92c0237d8fe783d7f404f.jpg> 陸上・田中佑美と石川周平が結婚
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537079>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02189820/title-1745891637685.jpeg?exp=10800> くるま吉本退所 劇場出演どうなる
+      <a href=https://news.yahoo.co.jp/pickup/6537104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/6fc908a5bedac0d3dae2f00d971168309fbae0938f49a8b4e3210d59a231fee5.jpg> モデル・俳優の田中芽衣 結婚発表
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 18:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 19:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
