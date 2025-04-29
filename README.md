@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/7Uf97dESvds?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97bf5b320c960e681a3736f9f93cb48e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/87ca7365068df760281bba66c5ee59ef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,6 +365,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1b631776439dc84972afc81fa63aab41db0ed061>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050080-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ゼレンスキー氏、３０日間の即時停戦を呼びかけ…プーチン氏の一方的宣言に「５月まで待つ理由ない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9ae5374a5b7e3c7698434f57dedc49928899cc66>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-90023746-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> スペイン全土で大停電　日本でも起きる可能性は？
       </a>
@@ -378,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537115>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/e993d21053690adecef8550bd2a6eb6ddd1604a57adc20002a7867d079276306.jpg> 関税交渉 造船分野で対米協力検討
+      <a href=https://news.yahoo.co.jp/pickup/6537134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/d0150e626503e799263114b0969efa784b1577a1cd4840e2352e491f8faa126d.jpg> 「3日間停戦」プーチン氏の狙いは
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/1356c37e9231d9fc69bf9fc48985a4b654f58a4543169ac3693e93c080fa22e3.jpg> スペイン停電 日本で起こりうる?
+      <a href=https://news.yahoo.co.jp/pickup/6537113>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/9a90c0469644ef4ce36b2d14ca14314295abf9a278762ecfaad9fcf7b06e952c.jpg> 中国 新たなパンダ貸与に前向き
       </a>
     </td>
   </tr>
@@ -402,22 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537120>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/5714cd173a13242651552878d3208142d28597a2e78e529eecc198c24178fa58.jpg> コメ農家の本音「もうからない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537102>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/6676d9fcfed25309d8fe66336a6aaaa4849a1d73e083b272c90468c71fa0fbb7.jpg> 「水道水で食中毒」14人に症状
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537128>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/59806352acd8ea453dbef1ac757d37a0edcd51a831dd463c0634de1c73159e4a.jpg> コロナ後もマスク外せず 若者の声
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537124>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/92c7247d0962146b2b33366e9e5fd0d6b680d66fbbc70b5a42b69cb16cbd6dc4.jpg> 柴犬が高速道を逃走 GWの捕物劇
+      <a href=https://news.yahoo.co.jp/pickup/6537121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/52c22ba4abdc84dc3bd394b7d0fc04b8dd7857fb38eb0a5bfa34fe8a0057acdc.jpg> 古いけど新しい 昭和レトロの世界
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537132>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/178cf32a7e6a2f1663082b3fd4cf0308f93bcdfbc3ae567ebd48084ea45245b5.jpg> コナン効果 長野県庁にファンの姿
       </a>
     </td>
   </tr>
@@ -440,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537131>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/5199d746cad5437465c353698b4be588e243e9d597fb09195df5eadbe6f18040.jpg> 峯岸みなみ 愛知での子育て語る
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 23:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 23:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
