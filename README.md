@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a057d56d8ea211987f63ea8103cdd76e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b219abd7c3fd4f7f034164b4b9f318ef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75c6f0659614d553f57c19bfc24e6ec70975a410>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000207-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=800&ch=800&exp=10800&fmt=webp> エドマン「ショーが後ろにいると心強い」延長10回にサヨナラ打　ジ軍と並び22日ぶり同率首位浮上に貢献
+      <a href=https://news.yahoo.co.jp/articles/a1c7a1d9de2086b1230176ff188efd7a65085182>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00530128-theanswer-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平、無言のインスタ更新にネット感激の理由　掲載された写真が…「それでも凄く伝わる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edb9599438473d32581485b3ee0bc546c51d1241>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000032-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 千葉のアパートに乳児遺体　「押し入れに隠した」住人が自宅で出産か
+      <a href=https://news.yahoo.co.jp/articles/2f9c79b9690a82077124174c696444be188a4010>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00530071-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「馬鹿げてる！」スプリットが横方向にも超変化？　菅野智之の“独特な一球”…実況席も識者も驚き
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537058>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/33347c83beb014b76ae6f349c6b298c3e68e25d9d2e138fff5bb4f01568ee40d.jpg> カナダ総選挙、与党が政権維持へ
+      <a href=https://news.yahoo.co.jp/pickup/6537068>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/aa58993a3b962bfae4a61a146ed12a601523078f474c41910ca02f1d7f387072.jpg> ポルトガル 停電で非常事態を宣言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537073>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/673d69729bb72ab5602a84616cdc4e427689cca152bf17298edbea7b9d9a24f8.jpg> 共和党議員の集会荒れ 有権者怒り
       </a>
     </td>
   </tr>
@@ -426,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537069>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/e7a334cdaeb992e7fa8dae3b93bec9c6a0964e5610ad98523e0a80ab7291ab7f.jpg> 押し入れに遺体 産み隠したと女性
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537057>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/9b9f724d95e87e52eac213a586c78de8424446c844d7cc80564bff256ba4f60b.jpg> 最後尾見えないくらい 万博に行列
+      <a href=https://news.yahoo.co.jp/pickup/6537062>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/cec17bdd70afea8d5945bee27d20486b54397e58bb4f9dc6a75bfde95d5e9737.jpg> 万博「文明の森」が立ち入り禁止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 15:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 15:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
