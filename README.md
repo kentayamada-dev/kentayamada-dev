@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/72d2505107dab5189e3156afcbf41731.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6d72bce0f2adc1f96f8eedd6ec368f31.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a0897f3b3c5f2133b458931d943dbe61b7df52ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00964783-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【続報】高齢男性が腹に刃物刺さった状態で倒れていた事件でフィリピン国籍の容疑者（23）を殺人未遂の疑いで逮捕　被害者は同居する父親（76）　愛知・津島市
+      <a href=https://news.yahoo.co.jp/articles/a4342baf72eea3d63c4c5a5b49c34f604081b2e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000094-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ウルフ、3回戦で屈す　全日本柔道、最後の個人戦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/898aafae6b283a0a8d2bef3b3fba091004051759>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-34291097-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=1168&ch=1168&exp=10800&fmt=webp> 【データ】涌井秀章が21年連続勝利　15年ぶり阪神戦白星で同一カード15年以上ブランクは８人目
+      <a href=https://news.yahoo.co.jp/articles/aa469a999ee02a0ce9084b8295ced167b5c59ad2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 宮城の高校1年死亡、死因は心臓損傷
       </a>
     </td>
   </tr>
@@ -390,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb15656eb5b7ab8ad28d2409abb9186a7de69fe0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00065333-mbsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 万博・通期パス割引コードに新たな問題…印字ミスでコードが重複　一度使われたら後の人は割引受けられず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00065333-mbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 万博・通期パス割引コードに新たな問題…印字ミスでコードが重複　一度使われたら後の人は割引受けられず
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537081>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/0fab231405afe1e320f5e6459cec3a5e9409af4c92a562080149c8d71664858e.jpg> 日中議連 中国共産党幹部と会談
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537071>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/ad9d5ae0451245c47c52b41f4f3c25fb6e678fc5ee196d84fe43fd22ce0f48f9.jpg> トランプ政権100日 果実を生まず
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537088>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/8b1b761a73ac4ec0cc4868307374c0bd3db71f3e5976490e618032012783f1a3.jpg> 臭い・騒音・振動 道路陥没に悲痛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537084>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/cedd2ac21d9c70a3e8814c7c1fcdf26dc8d0df796faaf67b02871bb6589ee3d7.jpg> 道路逆走 目撃したときの対応は
       </a>
@@ -442,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537090>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/c15553f2ccde7fa91686c50b27999eda3f754ade0788d1330b4dba8746daaf57.jpg> セルフレジ普及に困惑 障害者の声
+      <a href=https://news.yahoo.co.jp/pickup/6537085>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kubotahiroyuki/02190084/title-1745905576582.jpeg?exp=10800> 証券口座乗っ取り横行 手法や対策
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537093>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/629c7c31b659c1ffab0d0c891dd9feee11b443c7cff1aa691295f7d7f7fa2e3e.jpg> 中日・涌井 新人から21年連続勝利
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537078>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/6ad02b4bfe029fd147dc745160faa8119d4400538bde1e6efe1ae9da37e16174.jpg> 阿部一二三一本負け 体重約50kg差
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 17:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 18:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
