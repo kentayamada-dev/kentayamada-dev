@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/945cabee08352d36d73db2b27cf967d7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a91a1ed2be32b94a2270e3d52fa959b2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d2f7956dbe902fa6b2dd2322f96de2c4511479dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-09627737-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【解説中継】プーチン氏“3日間停戦”案にトランプ氏は？　ウクライナ和平めぐる米露の思惑、今後の交渉は
+      <a href=https://news.yahoo.co.jp/articles/1b631776439dc84972afc81fa63aab41db0ed061>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00050080-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=376&ch=376&exp=10800&fmt=webp> ゼレンスキー氏、３０日間の即時停戦を呼びかけ…プーチン氏の一方的宣言に「５月まで待つ理由ない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a43aad036e7d7067eb85f125ea729fc0ed261f78>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000064-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 日フィリピン首脳、軍事上の機密情報共有方針を確認　中国をけん制
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4342baf72eea3d63c4c5a5b49c34f604081b2e5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250429-00000094-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ウルフ、3回戦で屈す　全日本柔道、最後の個人戦
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537092>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/fce57133fc93a6c0976c9d729d587cc844044cd8b24262989dcd6e4c9cf6f022.jpg> スペインの大規模停電 ほぼ復旧
+      <a href=https://news.yahoo.co.jp/pickup/6537112>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/d14837f8a1cdc3f3f49e11e10cb1815f70515ff5eb370f3dca5bf1dae4ec8729.jpg> 日比 対中を念頭に安保協力強化へ
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537103>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/18bd0072122a4a4fbe2a1ac08de1a1f06b72eb85135758c7da94e92614ac56fd.jpg> 漂着した鯨死骸 胸ビレ盗まれたか
+      <a href=https://news.yahoo.co.jp/pickup/6537109>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/db7ec629befddfac80f2de5e42a4abf34c6b4a773834f858bd3f234357cae241.jpg> 保護猫の譲渡詐欺か 当事者を取材
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537095>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/d6f90110fdb0aeef3c3d69e9fd61660f4715f313e4e7277aa9428735853c76cf.jpg> 生成AIで作業5日→半日 企業試み
+      <a href=https://news.yahoo.co.jp/pickup/6537110>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/29/0e71f52432e9315c8a6bbac4866bef94a5eb525a1cefc7bbb302797f107698ff.jpg> 離婚秒読み 部活顧問の悲痛な声
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/29 20:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/04/29 21:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
