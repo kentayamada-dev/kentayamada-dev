@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/10e1d93914037669423c0351180a2acd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a2fb13e5198cf84d1255eeda291868d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b57000cba9c5eda242a5bdc212951d134e5081bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000226-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 中国、日本とフィリピンをけん制　安保協力で「徒党組むな」
+      <a href=https://news.yahoo.co.jp/articles/4c927807bfbd645369aa9e4b852d7393022336ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000074-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 石破首相、フィリピンで海洋安全保障の強化確認　中国けん制狙い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58a0284a0c9a77bff1c2c4b3debaf94010174605>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00789763-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジテレビ、「楽しくなければテレビじゃない」からの脱却明言　「『他のものを犠牲にしてもいい』という誤解や曲解があった」
+      <a href=https://news.yahoo.co.jp/articles/b39cde475f5e8431d83c5f3874ec6a69c5aa794e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000139-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=792&ch=792&exp=10800&fmt=webp> 「手動モードにしたらエラー表示出た」壁に接触の万博自動運転バス、大阪メトロが原因調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5f574e2968ac8a511d931b2c7da88b13e48a91bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000047-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 万博の自動運転バス、手動運転で停止後に衝突　運転席でエラー表示も
+      <a href=https://news.yahoo.co.jp/articles/3c84df815cebea0a201a36be896756298ca9a88a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00050117-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏「少しだけチャンス与えた」、車メーカーの関税負担軽減…販売価格の最大３・７５％分を還付
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/189bc276a9ab8f4175115b944b77a52b29dd9e8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300957-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1227&ch=1227&exp=10800&fmt=webp> 大谷翔平、長女誕生後初弾でチームの４連勝に貢献　「心地のいい寝不足」父親の心境語る
+      <a href=https://news.yahoo.co.jp/articles/e7c9f67252f91a0ebda87d6d0cb680fcd135a1f3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-90022461-nmit-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手が今季7号　父として初アーチ 　長女に贈る“ミラクル・ロマンス弾”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95979d5f21d7fcc0217f3c3afa9d18c2bf33db23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-07233690-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「チャデモ」の充電規格はアメリカ車の販売を妨げる“非関税障壁”？　トランプ政権の主張に赤沢大臣どう臨む
+      <a href=https://news.yahoo.co.jp/articles/8d6c3b0561022b53078ad6e9d6f76c9969fd1bf2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 埼玉女子高生殺害、容疑者を鑑定留置
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537223>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/36df4448fed8c57f98d1ceb86454cc5f0ed5ebbc7a8650e8132a60fb58fd8293.jpg> 家族にも拒まれ孤独死 悼む夫婦
+      <a href=https://news.yahoo.co.jp/pickup/6537222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/cdd423e31af95b2e4c2db1b3dcf3895b44564d4f35ff5a2a54168043c7ae8c1a.jpg> 5月478品目の食品値上げ 勢い続く
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537231>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/1497a486b87cf512f2d21caa0f8a612f40614a4e3eab865874cbe86e42ca14f8.jpg> 東海道新幹線 順次運転を再開
+      <a href=https://news.yahoo.co.jp/pickup/6537234>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 新幹線の停電 ヘビによるショート
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/36df4448fed8c57f98d1ceb86454cc5f0ed5ebbc7a8650e8132a60fb58fd8293.jpg> 家族にも拒まれ孤独死 悼む夫婦
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537221>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/2dd0415c5d6ca5baaf479b770faf7e88b2286fa398dfa166161c3e51681afa41.jpg> 百日ぜき 子ども中心に今後増加か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537224>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/d1e41791df90fd340490e6dd761637aeed1b1983c259cf88a15d5f895cdc53c7.jpg> 客から罵詈雑言も 老舗継ぐギャル
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537226>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/02914f19bbcf692de15cbeb6a87fabd32426f2b901a2222cc89484e5055d8290.jpg> 陸上の名指導者 中村宏之さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6537237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e86d5620ed3a9efb46076e387e1550142e7885297f3a4105f8b64618718e4fb0.jpg> 安田章大 髄膜腫の後遺症に苦しむ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 19:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 20:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
