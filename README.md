@@ -170,7 +170,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/2fb04c3525ede04b1e27fa86e5809bb7.png alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bd2380599616c5e68066dc8521ba42aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f56fd7439db7297fa4390abbde63c3d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57be546b49a993e67e8a6897d1501ce7520cc748>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000063-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 大谷翔平、病院から球場へ、妻子に捧げる「パパ１号」… 本拠地でV字回復、宿った「父親パワー」
+      <a href=https://news.yahoo.co.jp/articles/e3e8cc8907fd669ea48b65efab327600325385a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00095847-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「幸せな寝不足」充実感みなぎる大谷翔平、「ホームのときは僕がいますけど、ロードはいないので気掛かり」真美子夫人と長女に心配りも
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/0f6fe01c0168ff2355ec44102954073a9e67df9276dea5d2b4592f4bbca13d0f.jpg> 広島の商店街で火事 7棟に延焼
+      <a href=https://news.yahoo.co.jp/pickup/6537212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/a993b95687c2ef8afe4f750f284a7901d4f501aac622a75fd4d9c01b7ae29a4a.jpg> 京都の住宅街が冠水 水道局が謝罪
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537220>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> フジHD 金光社長らが退任へ
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537203>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ラッコから鳥インフル 国内初確認
+      <a href=https://news.yahoo.co.jp/pickup/6537214>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/be22dc9f67615d639ea186684ae1523c28bb3c193ae4f0e2efef6d09977211d2.jpg> 張本智和がTリーグ琉球を退団
       </a>
     </td>
   </tr>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/db41ad4bcb823a5b3ae83382ad52854f3e212273170c890985ae85a5b92a1a54.jpg> 声優・高野麻里佳に脅迫 出演辞退
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 17:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 17:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
