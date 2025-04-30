@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/7Uf97dESvds?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/LZH_M0iFRpU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/78e33f7d8f394c13a9d6be14de61bddf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f8ce13c74da814d352b4352534321d4d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cd92e9cdc953b13acde9930414e75f56ef81c6cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300165-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 今永昇太、６回途中アクシデントで緊急降板　無失点で３勝目の権利も　右足付近に異変を訴える
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c6b747cb34a9c2c8552d4acbdefebf6457dfabcd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00965080-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ政権発足から100日…“関税措置”への反発うけ自動車関税の負担軽減措置発表　きょう演説で成果アピールも支持率低迷
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0ce8eff006c2f8bdc36958b6c7bc743096612d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300073-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=503&ch=503&exp=10800&fmt=webp> 「菅野よく抑えたな」ヤンキース先頭から３連発＆初回４発受け、前夜好投の菅野智之へX絶賛の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e21fbcf0126d352272f3f1bc03bbef11dc882dc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000022-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アマゾン、関税費用表示を計画　米政府が猛反発、導入否定　報道
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000022-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アマゾン、関税費用表示を計画　米政府が猛反発、導入否定　報道
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537155>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/8a2be41aab785f502528a10c7ad1d530abc32e2b6c3f689669d56ec0b2876a5d.jpg> 東北道逆走 緊急対策で「標識車」
+      <a href=https://news.yahoo.co.jp/pickup/6537158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/8d41875991f3eadc97cb9eac3e744ccfd0617ab6fc9e796e96588a990d2a88ff.jpg> 捕虜のウ記者遺体に拷問痕跡 報道
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537161>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/9c078aa5946b5f8e3a6ddae085fef7d7be19b75e3c96844726f471c15530e1bb.jpg> ヤンキース 初回先頭から3連発
+      <a href=https://news.yahoo.co.jp/pickup/6537163>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/988e01b0f8651b6b12f312af7e594ad923f197d9719e9d8b733d5cb0dbfeb97b.jpg> 今永昇太アクシデントか 緊急降板
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/59802bc16a7c34699972d269fed493e31a04e2bea4334f6f6ca2936c98bbd658.jpg> ヌートバー 侍JでWBC出場を熱望
+      <a href=https://news.yahoo.co.jp/pickup/6537161>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/9c078aa5946b5f8e3a6ddae085fef7d7be19b75e3c96844726f471c15530e1bb.jpg> ヤンキース 初回先頭から3連発
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 09:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 10:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
