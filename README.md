@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/LZH_M0iFRpU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7c403d98afa5418325f0a35049a3130b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1d7ce5441890a270f679d3ee2975dcfe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a9a6b4297c7e6c02050c7290bbb148f980f3e43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300304-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1227&ch=1227&exp=10800&fmt=webp> 大谷翔平、真美子夫人チョイスの登場曲に乗って先頭打者アーチ　第２打席も四球で出塁し二盗成功
+      <a href=https://news.yahoo.co.jp/articles/6682500984ad7824d2e9b3f69b36dae4568fe523>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000009-hbcv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道電力　泊原発3号機の審査書案了承　再稼働に向けた新規制基準の適合審査　事実上の「合格」　原子力規制委　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d5a6e94aed56bde7eab029d82ab15bf806efb577>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300334-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1227&ch=1227&exp=10800&fmt=webp> 大谷翔平が待望のパパ１号「ホームランボールはお子さんに？」「デコピンに取られそう」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dc715f2f9e866f2173c2dd8edfef852d39d62e45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-02451462-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ関税措置　東海地方の自動車部品メーカーなどへ懸念続く　愛知県で関税対策本部立ち上げ
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d0cb8ccfdc47a72402ee750c6c24a1c4522d8e25>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自動運転バスの運行停止　手動時に自損事故　大阪・関西万博
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/750dedd9d6fd7342d3869820cd7df5da746d23fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-09112266-stv-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】泊原発３号機　事実上合格…審査書案を了承　耐震設計や津波対応などが新規制基準に適合
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d5a5f9fab562ce0c1e2b0cb9d63d6184374a490>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-90023789-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 自動車関税“負担軽減案”発表　日本の交渉カードはトウモロコシ　輸入拡大で影響は？
       </a>
     </td>
   </tr>
@@ -418,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537152>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/fec713f3cfbb375fe63f3a38aedb1f8251296c2ef846cf4a0288b92ab91e234e.jpg> 減税策 キーワードに「痛税感」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/da51a75d1b0002a51b4a23132bb79f2b0cb95cbf5501bd5e97570b4077ed1015.jpg> 高1殺害「対象の女性探した」供述
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e0b648cde479eedefda15ed3bb32e8ebf5b8ba6d7ad33ad12cfd0308cf2d2859.jpg> 高1殺害「対象の女性探した」供述
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537180>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/08113a3a31d33248e43101d4046cd96dde2d3566b056b38f5d62ba3dfebad367.jpg> 運転中スマホをカーナビに 違反?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537175>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/0c9ed24907406f7da04ecb5d708a2e6fa3062a150f20b425ba214ad11633ca40.jpg> 大谷が豪快7号「パパ初アーチ」
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 12:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 12:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
