@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/LZH_M0iFRpU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d7ce5441890a270f679d3ee2975dcfe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/64cfa44a4d7521adacdb546bcab4335f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f189225ac98d144622e58e3e617da1166b991057>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00050045-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権が自動車関税「軽減策」、米で生産の全メーカー対象…部品の拠点移すまでの「猶予期間」に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d8d81a86e236b820eadbdb39929d0815f489ef58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000043-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平の第4打席、打球速度174キロの鋭い打球放つも二ゴロ　一回には今季最速184キロの〝パパ1号〟マーク
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e16fe6eeeaa7c0207526179fd8406b8bdfb61be1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000018-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=638&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> アマゾン、関税上乗せ価格表示取りやめ トランプ氏はベゾス氏称賛
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6682500984ad7824d2e9b3f69b36dae4568fe523>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000009-hbcv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=472&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 北海道電力　泊原発3号機の審査書案了承　再稼働に向けた新規制基準の適合審査　事実上の「合格」　原子力規制委　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5a6e94aed56bde7eab029d82ab15bf806efb577>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300334-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1227&ch=1227&exp=10800&fmt=webp> 大谷翔平が待望のパパ１号「ホームランボールはお子さんに？」「デコピンに取られそう」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc715f2f9e866f2173c2dd8edfef852d39d62e45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-02451462-sp_ctv-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ関税措置　東海地方の自動車部品メーカーなどへ懸念続く　愛知県で関税対策本部立ち上げ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000009-hbcv-000-3-thumb.jpg?exp=10800&fmt=webp> 北海道電力　泊原発3号機の審査書案了承　再稼働に向けた新規制基準の適合審査　事実上の「合格」　原子力規制委　
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d0cb8ccfdc47a72402ee750c6c24a1c4522d8e25>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自動運転バスの運行停止　手動時に自損事故　大阪・関西万博
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53c6945584ce0c869da2e7c2ac21105180327618>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00050030-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=378&ch=378&exp=10800&fmt=webp> アマゾン、「輸入でかかった関税額」明示案を撤回…トランプ氏が電話でベゾス氏に「圧力」か
       </a>
     </td>
   </tr>
@@ -411,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537181>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/4ae6fc424837cc893f89d5e4d394144e5589f5099fb2a69124b167bb5eef358d.jpg> 泊原発3号機の再稼働 事実上合格
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/58914cefcbe168bbf2665cafe6518074ab08f48476a78d0ab49a930d7031cb03.jpg> 泊原発3号機の再稼働 事実上合格
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/b8c84d40f8eba482c0b34a8b1a3528531f72e37aabd9be63cdc97f6a8592f203.jpg> 三井住友「Olive」急成長 舞台裏
+      <a href=https://news.yahoo.co.jp/pickup/6537186>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/0c6569631736a64c820284ab7b48e48b3b5471be18b7cba4d20d780c8f245a55.jpg> 1泊3850円 京都で「車中泊」人気
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 12:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 13:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
