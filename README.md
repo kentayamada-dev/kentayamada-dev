@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ba59013774d370e30018622f6e323d0a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c6eef6d9b28de8bc1eba582835e5364b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ceccda5c7fcebc1dcb85db6cd4482c04ac66f1e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000007-mynavin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ、アナウンサー部署の改革に着手　“制作者であり出演者”の特殊性…清水社長「位置付けの再定義を」
+      <a href=https://news.yahoo.co.jp/articles/af945ee39a910c6def8aff6158f1ef5db7f727fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-21887816-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> スタッフに“暴力行為”　指原莉乃さんプロデュースのアイドルグループ「≠ME」の新曲発売イベントが中止に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1cf5986747552169abc2807d2b53a0390d87b86c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 赤沢再生相が米国へ出発、2日未明から日米関税協議　自動車部品関税緩和は「影響を精査」
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c84df815cebea0a201a36be896756298ca9a88a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00050117-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ氏「少しだけチャンス与えた」、車メーカーの関税負担軽減…販売価格の最大３・７５％分を還付
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e7c9f67252f91a0ebda87d6d0cb680fcd135a1f3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-90022461-nmit-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手が今季7号　父として初アーチ 　長女に贈る“ミラクル・ロマンス弾”
       </a>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/1d944d817383895c5251ec1c8441ed8dde05f206ce921108700b52ea88f2e5ab.jpg> トランプ氏就任100日 評価厳しく
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537222>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/cdd423e31af95b2e4c2db1b3dcf3895b44564d4f35ff5a2a54168043c7ae8c1a.jpg> 5月478品目の食品値上げ 勢い続く
+      <a href=https://news.yahoo.co.jp/pickup/6537229>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/7cd1c88d7ec160c1a58f08def9b94f10abefb57d0f7d0e2b3a8e2cc8f327bd80.jpg> 首相 食料品の消費減税に慎重姿勢
       </a>
     </td>
   </tr>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537227>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 猟犬が民家侵入 飼い犬を噛み殺す
+      <a href=https://news.yahoo.co.jp/pickup/6537241>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/cff27a5781a385a9aec713ca084cdd8b11fbe3d4ad9ec1552acefe58d67f3300.jpg> フジ「楽しくなければ」脱却へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/d1e41791df90fd340490e6dd761637aeed1b1983c259cf88a15d5f895cdc53c7.jpg> 客から罵詈雑言も 老舗継ぐギャル
+      <a href=https://news.yahoo.co.jp/pickup/6537245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/f02d6d9d4514e46112a570faae873ba7c9082b7bdf4b04e5daa64cfb68ba57b5.jpg> ネモフィラの丘に違法ケシか 福岡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537247>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/7015536b5f01ab44c8ec44dc08cc6f99e99f2cb967e8851e1d1425889baf3fe6.jpg> ≠MEイベに「壊し屋」か 怒号も
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 20:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 21:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
