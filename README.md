@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/05e825c469d1f643c525cbbd55e12ae1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0e45efbf2aa8b4b0cd83dc75caf63e45.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1e198698ea59ffd02e070cf75fecadbc1110a48d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00172564-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 「凄すぎるカバー」「よく止めたな」後半ATにC・ロナウドの決定機を阻止！ 川崎DFが魅せた執念のシュートブロックにファン大興奮「少林サッカーみたい」【ACLE】
+      <a href=https://news.yahoo.co.jp/articles/37da1d0f9d955d2ef60ab0f044f8654ef9d9ccba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-01745079-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「ダメだ面白すぎる」大谷翔平にSNS騒然　“パパ第1号”よりも話題となった打席前
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37da1d0f9d955d2ef60ab0f044f8654ef9d9ccba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-01745079-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「ダメだ面白すぎる」大谷翔平にSNS騒然　“パパ第1号”よりも話題となった打席前
+      <a href=https://news.yahoo.co.jp/articles/31f7f1c9f88b9e2fea4ffef4c2ccde0d53278d4f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-10176228-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=618&cy=0&cw=775&ch=775&exp=10800&fmt=webp> トランプ大統領、GDPマイナス成長は「バイデン政権の責任」と主張
       </a>
     </td>
   </tr>
@@ -387,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fbb38855754db43fb1b1869a2e9ea9779aefd747>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35010064-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1207&ch=1207&exp=10800&fmt=webp> 【ACLE】川崎F初決勝！MVP伊藤達哉「強さ世界に」大関友翔「全員でアジア制覇したい」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -395,7 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/179dfea0d1665f7a17b60b087cda69247ce02a160cd5eca7907658aba9e37f98.jpg> 米ウが鉱物資源巡る協定に署名
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/e798b1878e00cbb94b047f9de17bdd4ffd8f96191ab5f26c5c4281738b079c93.jpg> 米ウが鉱物資源巡る協定に署名
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537267>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/2960c36b8943ba4e880571d41db880b4714968bc105b7236628bf4edeb224b74.jpg> 川崎Fがクラブ初のACLE決勝進出
+      <a href=https://news.yahoo.co.jp/pickup/6537277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/dc971119a4877238047aac5883cca7f80154482adfbf29cf140ca6e832cb7513.jpg> 川崎ACLE決勝へ 敗れたCロナ涙
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 08:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 08:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
