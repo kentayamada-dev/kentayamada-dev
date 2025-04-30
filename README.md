@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/LZH_M0iFRpU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/87538027f95ee3b0dc376feb52dbb474.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/570d1238f039c08df44d1129fc4813d3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0a6b85dd69dcb5adc9e00a9afb739dcbc8cfe6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-21886764-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 「温かかったですね」“パパの顔”を見せて「無事に生まれてきてくれて感謝」笑顔で語る
+      <a href=https://news.yahoo.co.jp/articles/588c5c2c81fa05b8d7b7562861cafbf9a252f5d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000105-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=906&ch=906&exp=10800&fmt=webp> ＴＢＳ専務「感謝祭」の「江頭・永野芽郁」問題を反省「生放送で起きるハプニングに関する想像力は欠けていた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5259b1887257735db6ed457f00630e90da3e12fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-15937719-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏がアマゾン創業者に電話、関税コストの表示を計画との報道受け
+      <a href=https://news.yahoo.co.jp/articles/5f38beb16e40c6e5d36a2cc38efeed81fa8be74f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-05338142-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 石破首相、社会主義国ベトナムと民主主義国フィリピンを歴訪　2つの国の意外な共通点と違いは？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b0a6b85dd69dcb5adc9e00a9afb739dcbc8cfe6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-21886764-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 「温かかったですね」“パパの顔”を見せて「無事に生まれてきてくれて感謝」笑顔で語る
       </a>
     </td>
   </tr>
@@ -381,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/10967a208668d8512b56b20ef95ee89635589b40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 保険見直し本舗　個人情報約510万件に漏えいの恐れ　ランサムウェア被害で
+      <a href=https://news.yahoo.co.jp/articles/f189225ac98d144622e58e3e617da1166b991057>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00050045-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権が自動車関税「軽減策」、米で生産の全メーカー対象…部品の拠点移すまでの「猶予期間」に
       </a>
     </td>
   </tr>
@@ -418,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/0f6fe01c0168ff2355ec44102954073a9e67df9276dea5d2b4592f4bbca13d0f.jpg> 広島の商店街で火事 7棟に延焼
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537193>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/48d47d69c68293d44e06ca6af2065967bf82721080d22ae35a6f69ec5706f4dd.jpg> 減量か複雑返金 コメ返礼品で物議
       </a>
@@ -434,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537195>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e40971833945cd9c7c37f0dc7ec96c6d85340b3741c1109fa8f6e73ab72dc832.jpg> 大谷 長女誕生に「幸せな寝不足」
+      <a href=https://news.yahoo.co.jp/pickup/6537209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e21faac7713aaaffc27d821d4de1849448bcc83461a0027fc58176ff36d6c29c.jpg> 江頭騒動にTBS 想像力欠けていた
       </a>
     </td>
   </tr>
@@ -448,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537197>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/56b6c80cb11e422ce7b346e2b8c6d62bf4ff3e4984a3d1e452b84f09f3ef3434.jpg> 異例 アナ退社→ゴルフYouTuber
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 16:01:04 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 16:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
