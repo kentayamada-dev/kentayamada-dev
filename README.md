@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f56fd7439db7297fa4390abbde63c3d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3989ce4363f0fb734ee272bf180d481d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3e8cc8907fd669ea48b65efab327600325385a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00095847-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「幸せな寝不足」充実感みなぎる大谷翔平、「ホームのときは僕がいますけど、ロードはいないので気掛かり」真美子夫人と長女に心配りも
+      <a href=https://news.yahoo.co.jp/articles/a970786702508a64168f41edd1c0e7e5b4b78613>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000039-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 公開手配の暴力団幹部を逮捕　家宅捜索先から逃走　埼玉県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/55abba08696870c1b6d244d30a45f77496dede46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00010001-worldtt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 【卓球】張本智和がTリーグ・琉球アスティーダを退団。「この3年間は、僕にとって素晴らしい時間でした」
+      <a href=https://news.yahoo.co.jp/articles/f0219b338a05b318a85d6a186d4df578c1fc333b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000248-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平「幸せな寝不足」トレンド入り　早くも流行語大賞期待の声も「素敵な言葉」「人柄が出てる」
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537199>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/1c591a9309fdef6fc3032c817ded81fc38d209cde141d7c6219cdd7f7c2ea20b.jpg> 米関税影響 日銀は利上げ見送りか
+      <a href=https://news.yahoo.co.jp/pickup/6537212>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/a993b95687c2ef8afe4f750f284a7901d4f501aac622a75fd4d9c01b7ae29a4a.jpg> 京都の住宅街が冠水 水道局が謝罪
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/a993b95687c2ef8afe4f750f284a7901d4f501aac622a75fd4d9c01b7ae29a4a.jpg> 京都の住宅街が冠水 水道局が謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6537223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/36df4448fed8c57f98d1ceb86454cc5f0ed5ebbc7a8650e8132a60fb58fd8293.jpg> 家族にも拒まれ孤独死 悼む夫婦
       </a>
     </td>
   </tr>
@@ -403,15 +403,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537220>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> フジHD 金光社長らが退任へ
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/66b63044dfa60ae0671582a14e315ede2ebb26cfba2b58054ece37ee8ac5f9aa.jpg> フジHD 金光社長らが退任へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537204>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/d2162a9297d65610a78ae6c8bd8a391819a75faf847d1b33b8f6459e1c904f48.jpg> 中2から続く父の性暴力 女性叫び
+      <a href=https://news.yahoo.co.jp/pickup/6537224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/d1e41791df90fd340490e6dd761637aeed1b1983c259cf88a15d5f895cdc53c7.jpg> 客から罵詈雑言も 老舗継ぐギャル
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 17:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 18:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
