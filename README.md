@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a2fb13e5198cf84d1255eeda291868d2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ba59013774d370e30018622f6e323d0a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c927807bfbd645369aa9e4b852d7393022336ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000074-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 石破首相、フィリピンで海洋安全保障の強化確認　中国けん制狙い
+      <a href=https://news.yahoo.co.jp/articles/ceccda5c7fcebc1dcb85db6cd4482c04ac66f1e1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000007-mynavin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジ、アナウンサー部署の改革に着手　“制作者であり出演者”の特殊性…清水社長「位置付けの再定義を」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b39cde475f5e8431d83c5f3874ec6a69c5aa794e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000139-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=792&ch=792&exp=10800&fmt=webp> 「手動モードにしたらエラー表示出た」壁に接触の万博自動運転バス、大阪メトロが原因調査
+      <a href=https://news.yahoo.co.jp/articles/93a1892275879ed8aa2de8dfd73f97d43c57b5f2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00010001-wordleafv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=543&cy=0&cw=1114&ch=1114&exp=10800&fmt=webp> 大阪・吉村知事「まずは原因究明が大切」　万博-～駐車場の自動運転シャトルバス事故で
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4c927807bfbd645369aa9e4b852d7393022336ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000074-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 石破首相、フィリピンで海洋安全保障の強化確認　中国けん制狙い
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e7c9f67252f91a0ebda87d6d0cb680fcd135a1f3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-90022461-nmit-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手が今季7号　父として初アーチ 　長女に贈る“ミラクル・ロマンス弾”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d6c3b0561022b53078ad6e9d6f76c9969fd1bf2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 埼玉女子高生殺害、容疑者を鑑定留置
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537238>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/637b0c94ee72137cc2780fd82caf6d255c22265f32f08e83396b165d0954e6cc.jpg> 15歳殺害事件 逮捕の男を鑑定留置
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537234>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 新幹線の停電 ヘビによるショート
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537223>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/36df4448fed8c57f98d1ceb86454cc5f0ed5ebbc7a8650e8132a60fb58fd8293.jpg> 家族にも拒まれ孤独死 悼む夫婦
+      <a href=https://news.yahoo.co.jp/pickup/6537240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/3f990ed983fdd691997d53c742b743e13bdb03c3094e44c9dd3c1a00d425849c.jpg> 遊具倒れる 遊んでいた4歳が骨折
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537227>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 猟犬が民家侵入 飼い犬を噛み殺す
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537230>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/08d48c81ca3ece9ad5585d4c7248d7590a74725ca7b59427bbe4be8acd18cd05.jpg> フジ改革 アナウンス室を独立へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 20:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 20:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
