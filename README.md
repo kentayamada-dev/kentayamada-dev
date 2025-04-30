@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f8ce13c74da814d352b4352534321d4d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/97f545cf82470c25d1a60f89cac51edd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd92e9cdc953b13acde9930414e75f56ef81c6cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300165-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 今永昇太、６回途中アクシデントで緊急降板　無失点で３勝目の権利も　右足付近に異変を訴える
+      <a href=https://news.yahoo.co.jp/articles/50092f1b7d0ff921863600f2f7e7dace76f775f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-08636985-ytv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】「一瞬大雨かと…外を覗くと川になっていた」周辺ではガレージも冠水 水道管の老朽化で破裂か 京都市下京区
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9c2be4d4f201e46c8e9d46b1986f868d66dd550f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000011-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=841&ch=841&exp=10800&fmt=webp> ドジャース・大谷翔平が1安打3四球＆二盗　昨季までド軍コーチの敵将も改めて脱帽
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e21fbcf0126d352272f3f1bc03bbef11dc882dc7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000022-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アマゾン、関税費用表示を計画　米政府が猛反発、導入否定　報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27807a879015262951c17ba0ba11f974ce8ab3d4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-01744366-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=43&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平らド軍の変わらぬ絆に「泣けてきた」　名コンビの再会で「コツンが蘇る」
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/586dd93d4067f662446e9bd59a01f7e86708f2da0f940490713c31c38f6224c8.jpg> もう長くないかも 結合双生児の弟
+      <a href=https://news.yahoo.co.jp/pickup/6537152>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/fec713f3cfbb375fe63f3a38aedb1f8251296c2ef846cf4a0288b92ab91e234e.jpg> 減税策 キーワードに「痛税感」
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537153>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 大量の水漏れ 京都の国道1号冠水
+      <a href=https://news.yahoo.co.jp/pickup/6537164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/255258b2266458a4974533df3798d0dc94e5c9a8562dedb51c39f57d2b1c5416.jpg> 駐車場に水 住民「ああ終わった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537162>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/942e2c294d5a1d110308627d852e55e291334e2b9afcfe41011960cec0c3395e.jpg> GWの「平日」休校に 自治体狙い
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537160>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/83379569f7f4d655d115473a528e1047d83f6f477806531cf7a9d558ea14caab.jpg> 鈴木紗理奈 31年所属の事務所退所
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 10:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 10:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
