@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fae59554615d293664adcf948376fa83.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/10e1d93914037669423c0351180a2acd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b57000cba9c5eda242a5bdc212951d134e5081bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000226-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 中国、日本とフィリピンをけん制　安保協力で「徒党組むな」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/58a0284a0c9a77bff1c2c4b3debaf94010174605>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00789763-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=800&ch=800&exp=10800&fmt=webp> フジテレビ、「楽しくなければテレビじゃない」からの脱却明言　「『他のものを犠牲にしてもいい』という誤解や曲解があった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5f574e2968ac8a511d931b2c7da88b13e48a91bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000047-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 万博の自動運転バス、手動運転で停止後に衝突　運転席でエラー表示も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/189bc276a9ab8f4175115b944b77a52b29dd9e8d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300957-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1227&ch=1227&exp=10800&fmt=webp> 大谷翔平、長女誕生後初弾でチームの４連勝に貢献　「心地のいい寝不足」父親の心境語る
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300957-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1227&ch=1227&exp=10800&fmt=webp> 大谷翔平、長女誕生後初弾でチームの４連勝に貢献　「心地のいい寝不足」父親の心境語る
       </a>
     </td>
   </tr>
@@ -371,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/332251a92ece786c624008118d24e0aeb6846939>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00342884-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ソフトバンク】正木智也はシーズン絶望か　左肩亜脱臼で競技復帰まで５～６か月
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/85bb208c39f846aeb8657afc9976f9412d3f123dd3e7ff2495e509816e3ce257.jpg> 東海道新幹線 上下一部で見合わせ
+      <a href=https://news.yahoo.co.jp/pickup/6537202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/1d944d817383895c5251ec1c8441ed8dde05f206ce921108700b52ea88f2e5ab.jpg> トランプ氏就任100日 評価厳しく
       </a>
     </td>
   </tr>
@@ -402,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/66b63044dfa60ae0671582a14e315ede2ebb26cfba2b58054ece37ee8ac5f9aa.jpg> フジHD 金光社長らが退任へ
+      <a href=https://news.yahoo.co.jp/pickup/6537231>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/1497a486b87cf512f2d21caa0f8a612f40614a4e3eab865874cbe86e42ca14f8.jpg> 東海道新幹線 順次運転を再開
       </a>
     </td>
   </tr>
@@ -418,6 +434,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537230>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/08d48c81ca3ece9ad5585d4c7248d7590a74725ca7b59427bbe4be8acd18cd05.jpg> フジ改革 アナウンス室を独立へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537221>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/2dd0415c5d6ca5baaf479b770faf7e88b2286fa398dfa166161c3e51681afa41.jpg> 百日ぜき 子ども中心に今後増加か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537224>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/d1e41791df90fd340490e6dd761637aeed1b1983c259cf88a15d5f895cdc53c7.jpg> 客から罵詈雑言も 老舗継ぐギャル
       </a>
@@ -426,24 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537228>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/fcd72123c59239f597d8c2e49a32f972b94cd4e4543697f9f4256daf1861b75c.jpg> SB正木が手術 復帰まで5〜6カ月
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537215>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/2d45d06c07f571b06645f9e77a952cdfcbd3eb451325fcbbe4461ebaa081a41a.jpg> 大谷 初めて赤ちゃんを抱いた感想
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e21faac7713aaaffc27d821d4de1849448bcc83461a0027fc58176ff36d6c29c.jpg> 江頭騒動にTBS 想像力欠けていた
+      <a href=https://news.yahoo.co.jp/pickup/6537226>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/02914f19bbcf692de15cbeb6a87fabd32426f2b901a2222cc89484e5055d8290.jpg> 陸上の名指導者 中村宏之さん死去
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 19:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 19:30:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
