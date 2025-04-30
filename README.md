@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/239366bfd655ed95a537332b4b238d05.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f32fc0387db5a1de4c39e94b9362cdde.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14df42c39328bb03db9e0d86019463fb4b81cf1f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-35232428-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=130&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アマゾンが関税コストの表示検討との報道　トランプ氏「立腹」、ベゾス氏に電話
+      <a href=https://news.yahoo.co.jp/articles/5c0c1083d60440f025e3bce3fc6491aa35d7003a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000004-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=601&ch=601&exp=10800&fmt=webp> トランプ米政権、現地生産車の部品関税の負担軽減措置を発表［新聞ウォッチ］
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2343b588a8d397e449c3c71f5b01f7ae0ec8b46d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000008-mai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏、自動車部品の25％関税を一部免除へ　今後2年間
+      <a href=https://news.yahoo.co.jp/articles/e21fbcf0126d352272f3f1bc03bbef11dc882dc7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> アマゾン、関税費用表示を計画　米政府が猛反発、導入否定　報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6d933c5530a62c641e0426f5ca7b926acc733a44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00874242-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=253&ch=253&exp=10800&fmt=webp> ついに立憲民主も...夏の参院選対策の「消費税減税」、“一時的”はまやかし、本当に消費者に恩恵はあるのか？より有効な負担軽減の方策とは
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/656e54d2a40b1f42c59fbf8d8c4f305b0349de1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00036467-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 「マイナは逆効果」給付金・減税は“バラマキ”と批判、物価高対策の“最適解”とは
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537143>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/4f83060459b6cdfc4087bd8d2e244082f855c77d7bc7b6db1fe86b9dc496e40f.jpg> 米自動車関税 負担軽減措置を発表
+      <a href=https://news.yahoo.co.jp/pickup/6537156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/36f011d6dd3e87a85a6fb558a9098ee74744fd76054ed5a01287ab9c28d5760f.jpg> トランプ氏「就任100日」自画自賛
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537155>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/8a2be41aab785f502528a10c7ad1d530abc32e2b6c3f689669d56ec0b2876a5d.jpg> 東北道逆走 緊急対策で「標識車」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537153>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 大量の水漏れ 京都の国道1号冠水
       </a>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537147>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/21436ba8f246507f2870a4c958719f17ab2a85ccbaa6b4c87021183a8bf2b74d.jpg> 泣きそうだった 高橋光成が勝利
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 08:30:41 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 09:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
