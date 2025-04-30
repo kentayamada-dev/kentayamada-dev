@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/64cfa44a4d7521adacdb546bcab4335f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0e17b5a007c7e27fb2ba2b1d9ff2f402.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f189225ac98d144622e58e3e617da1166b991057>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00050045-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権が自動車関税「軽減策」、米で生産の全メーカー対象…部品の拠点移すまでの「猶予期間」に
+      <a href=https://news.yahoo.co.jp/articles/37a192e8e2b167c460effc583546453963effda6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000169-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=1034&ch=1034&exp=10800&fmt=webp> 大谷翔平　第5打席は見逃し三振　ストライク判定にジャンプし苦笑い　第1打席で7号先頭打者アーチ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8d81a86e236b820eadbdb39929d0815f489ef58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000043-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平の第4打席、打球速度174キロの鋭い打球放つも二ゴロ　一回には今季最速184キロの〝パパ1号〟マーク
+      <a href=https://news.yahoo.co.jp/articles/89cd7a758247a11e5047542ba28e3bfa82f2d8ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00965254-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=387&ch=387&exp=10800&fmt=webp> 万博行き「自動運転シャトルバス」回送で手動運転後に壁に接触　事故を受け同型車両は運行取りやめ　手動運転のバスで乗客の輸送には影響なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/10fba34e856561c69479b322978ec52a6a6d01c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00342866-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 井上尚弥戦に臨むカルデナス　改めてバイト生活に注目「つつましいキャリア」＝海外メディア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae75f8c6dc1ad122be05237c8a997aff5438f67a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00050044-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 赤沢経済再生相「１歩でも２歩でも前進したい」…２回目の関税交渉のためワシントンに向け出発
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e16fe6eeeaa7c0207526179fd8406b8bdfb61be1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000018-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=638&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> アマゾン、関税上乗せ価格表示取りやめ トランプ氏はベゾス氏称賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6682500984ad7824d2e9b3f69b36dae4568fe523>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000009-hbcv-000-3-thumb.jpg?exp=10800&fmt=webp> 北海道電力　泊原発3号機の審査書案了承　再稼働に向けた新規制基準の適合審査　事実上の「合格」　原子力規制委　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d0cb8ccfdc47a72402ee750c6c24a1c4522d8e25>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自動運転バスの運行停止　手動時に自損事故　大阪・関西万博
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e0b648cde479eedefda15ed3bb32e8ebf5b8ba6d7ad33ad12cfd0308cf2d2859.jpg> 高1殺害「対象の女性探した」供述
+      <a href=https://news.yahoo.co.jp/pickup/6537184>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/b79c195f37e98e5ed7d674ba56bcba081ada430638b2a171a6f72bee22b58124.jpg> 夫婦別姓 立憲が民法改正案を提出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/f790703689dd890134c73b09d761dcd85051c36fe269adaf629c2c37cec90ba3.jpg> 代金求め客の家へ 店長刺され死亡
+      <a href=https://news.yahoo.co.jp/pickup/6537178>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/831548ae9a0724ec5d56630ae293af020f226ebcec142574441c32c121193a7a.jpg> 京都で国道冠水 水道管が老朽化か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/255258b2266458a4974533df3798d0dc94e5c9a8562dedb51c39f57d2b1c5416.jpg> 駐車場に水 住民「ああ終わった」
+      <a href=https://news.yahoo.co.jp/pickup/6537188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/6ab238c06dec20628c060e62b397d611f19b4338149ee9d262c04d4e7b575789.jpg> 住宅で男性死亡 飲食代トラブルか
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/0c9ed24907406f7da04ecb5d708a2e6fa3062a150f20b425ba214ad11633ca40.jpg> 大谷が豪快7号「パパ初アーチ」
+      <a href=https://news.yahoo.co.jp/pickup/6537187>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/78687672a67ddd259a1045684167d52cdf100fc19f7912d0afe0827ea20e1e71.jpg> 大谷HR 選曲はムーンライト伝説
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 13:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 13:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
