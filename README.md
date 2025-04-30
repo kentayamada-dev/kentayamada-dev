@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0a8582299db4b7a23faadac5633b2cee.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c5df50ede84179f71e93fdaecb4a8f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5201bfbc45fc883758cca881802abe01663b1f42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300500-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1096&ch=1096&exp=10800&fmt=webp> パパ１号の大谷翔平「幸せな寝不足」長女誕生の喜びを初告白「予想より大きく生まれてくれた」
+      <a href=https://news.yahoo.co.jp/articles/8fc20498089a9f8bcce1fa9eca643b92e76c4378>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300528-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1096&ch=1096&exp=10800&fmt=webp> 大谷翔平、病院から球場入りで先頭弾「ロードが気がかり」長女出産直後の真美子夫人を思いやる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b8e490116f60639ede9f79477bb14a0fe30bb215>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-08779699-ytv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「まずは原因究明が大切」 万博会場～駐車場の自動運転バスが事故　「エラー画面」表示
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d37f9874976d4efefd03c931d0279d95a0e72f6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000039-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 井上尚弥、「決戦まで残り５日」２日連続で弟・拓真とマスボクシング ラスベガスのジム外にはサインを求めるファンの列
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/89cd7a758247a11e5047542ba28e3bfa82f2d8ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00965254-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=387&ch=387&exp=10800&fmt=webp> 万博行き「自動運転シャトルバス」回送で手動運転後に壁に接触　事故を受け同型車両は運行取りやめ　手動運転のバスで乗客の輸送には影響なし
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000039-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 井上尚弥、「決戦まで残り５日」２日連続で弟・拓真とマスボクシング ラスベガスのジム外にはサインを求めるファンの列
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/fe5c5d9e1dd3d6862ad055338a652324e7f3e49396828af96efc0409a3746dd4.jpg> 尹氏宅を捜索 旧統一教会絡む疑惑
+      <a href=https://news.yahoo.co.jp/pickup/6537167>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/4b43a70635d775e81f54c7d4a427164d682fb18bd9c79800d9375df10e2485b1.jpg> 下請け法改正案「孫請け」残す訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537178>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/831548ae9a0724ec5d56630ae293af020f226ebcec142574441c32c121193a7a.jpg> 京都で国道冠水 水道管が老朽化か
+      <a href=https://news.yahoo.co.jp/pickup/6537172>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/fe5c5d9e1dd3d6862ad055338a652324e7f3e49396828af96efc0409a3746dd4.jpg> 尹氏宅を捜索 旧統一教会絡む疑惑
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537189>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/409b1dfdae2b03df29b7d4450e3d0869bc61d3bd51abb39a185a150bd50df26e.jpg> 井上尚弥 決戦前に異例ファン対応
+      <a href=https://news.yahoo.co.jp/pickup/6537195>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e40971833945cd9c7c37f0dc7ec96c6d85340b3741c1109fa8f6e73ab72dc832.jpg> 大谷 長女誕生に「幸せな寝不足」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/78687672a67ddd259a1045684167d52cdf100fc19f7912d0afe0827ea20e1e71.jpg> 大谷HR 選曲はムーンライト伝説
+      <a href=https://news.yahoo.co.jp/pickup/6537189>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/409b1dfdae2b03df29b7d4450e3d0869bc61d3bd51abb39a185a150bd50df26e.jpg> 井上尚弥 決戦前に異例ファン対応
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 14:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 15:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
