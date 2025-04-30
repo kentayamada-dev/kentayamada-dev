@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a339d20b083b1aa1f1b7891be0d5ee41.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0a8582299db4b7a23faadac5633b2cee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fcbb8bae0d287f292f4128f36d6245da01ab62f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300444-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1227&ch=1227&exp=10800&fmt=webp> ドジャース２ケタ大勝で貯金10　大谷翔平は真美子夫人チョイス登場曲で「パパ１号」先頭打者弾
+      <a href=https://news.yahoo.co.jp/articles/5201bfbc45fc883758cca881802abe01663b1f42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300500-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1096&ch=1096&exp=10800&fmt=webp> パパ１号の大谷翔平「幸せな寝不足」長女誕生の喜びを初告白「予想より大きく生まれてくれた」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/9049e49e3d5aa7d31f3b221d4f2ef667ba11ef77cb21d8841404ca6eea1be2d4.jpg> 赤沢氏 2回目関税協議に向け出発
+      <a href=https://news.yahoo.co.jp/pickup/6537192>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/662f9c45b8ae6db5612c8026430a64d7c4597553c7acc24c8cb6916844f4c670.jpg> 備蓄米 3回目の落札価格420円下落
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/b79c195f37e98e5ed7d674ba56bcba081ada430638b2a171a6f72bee22b58124.jpg> 夫婦別姓 立憲が民法改正案を提出
+      <a href=https://news.yahoo.co.jp/pickup/6537172>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/fe5c5d9e1dd3d6862ad055338a652324e7f3e49396828af96efc0409a3746dd4.jpg> 尹氏宅を捜索 旧統一教会絡む疑惑
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/6ab238c06dec20628c060e62b397d611f19b4338149ee9d262c04d4e7b575789.jpg> 住宅で男性死亡 飲食代トラブルか
+      <a href=https://news.yahoo.co.jp/pickup/6537191>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/538408bacd1832a6779e78f7e4584d366af2e279314127469659c9ad97a70b64.jpg> 女性はどうせ辞める「偏見」今も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537186>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/0c6569631736a64c820284ab7b48e48b3b5471be18b7cba4d20d780c8f245a55.jpg> 1泊3850円 京都で「車中泊」人気
+      <a href=https://news.yahoo.co.jp/pickup/6537188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/6ab238c06dec20628c060e62b397d611f19b4338149ee9d262c04d4e7b575789.jpg> 住宅で男性死亡 飲食代トラブルか
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 14:00:16 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 14:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
