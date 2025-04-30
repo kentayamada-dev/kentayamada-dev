@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ef9dfddd18a061b360a0f8799940ab8b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fae59554615d293664adcf948376fa83.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a9909470760100be877ea05b6a2736c1ba30e20>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-03492755-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=24&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 10時間睡眠を徹底していた大谷翔平に大きな変化「寝不足気味でしたけど“幸せな寝不足”」試合前に真美子さんと娘に会いに病院へ
+      <a href=https://news.yahoo.co.jp/articles/189bc276a9ab8f4175115b944b77a52b29dd9e8d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300957-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1227&ch=1227&exp=10800&fmt=webp> 大谷翔平、長女誕生後初弾でチームの４連勝に貢献　「心地のいい寝不足」父親の心境語る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17ac4800988640799374537455b94074f19e916a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00051009-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 猟犬３頭が民家襲う　飼い犬が噛まれ死ぬ　住人女性もけが　兵庫・丹波篠山市
+      <a href=https://news.yahoo.co.jp/articles/95979d5f21d7fcc0217f3c3afa9d18c2bf33db23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-07233690-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「チャデモ」の充電規格はアメリカ車の販売を妨げる“非関税障壁”？　トランプ政権の主張に赤沢大臣どう臨む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/332251a92ece786c624008118d24e0aeb6846939>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00342884-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=85&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ソフトバンク】正木智也はシーズン絶望か　左肩亜脱臼で競技復帰まで５～６か月
       </a>
     </td>
   </tr>
@@ -378,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537212>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/a993b95687c2ef8afe4f750f284a7901d4f501aac622a75fd4d9c01b7ae29a4a.jpg> 京都の住宅街が冠水 水道局が謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6537225>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/85bb208c39f846aeb8657afc9976f9412d3f123dd3e7ff2495e509816e3ce257.jpg> 東海道新幹線 上下一部で見合わせ
       </a>
     </td>
   </tr>
@@ -394,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537225>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/85bb208c39f846aeb8657afc9976f9412d3f123dd3e7ff2495e509816e3ce257.jpg> 東海道新幹線 上下一部で見合わせ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537220>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/66b63044dfa60ae0671582a14e315ede2ebb26cfba2b58054ece37ee8ac5f9aa.jpg> フジHD 金光社長らが退任へ
       </a>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537217>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/6e6fe9d321f9355f57588cfe9bc206f9987cd2173ff51488ea49a70c8935602a.jpg> 家宅捜索の際に逃走 手配の男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6537227>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 猟犬が民家侵入 飼い犬を噛み殺す
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537224>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/d1e41791df90fd340490e6dd761637aeed1b1983c259cf88a15d5f895cdc53c7.jpg> 客から罵詈雑言も 老舗継ぐギャル
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537228>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/fcd72123c59239f597d8c2e49a32f972b94cd4e4543697f9f4256daf1861b75c.jpg> SB正木が手術 復帰まで5〜6カ月
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 18:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 19:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
