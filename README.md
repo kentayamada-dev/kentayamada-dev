@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1fdd5dbae17ed526b65112b080fd9e37.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e3aa2680625d5c53a703a208e3c8e64e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60c2b78c4ecf872e3a16daa2b3274d668c51eb90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-01231546-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【中日】今季初のサヨナラで連勝　4時間超えの熱戦制す
+      <a href=https://news.yahoo.co.jp/articles/f4d6657dfcfd0c437681c44b66afc91b7f0a2141>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000017-saitama-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【道路陥没】あすにも運転手を直接捜索へ　下水管内に立ち入り　事故から3カ月で初めて　知事「一日も早く」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4d6657dfcfd0c437681c44b66afc91b7f0a2141>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000017-saitama-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【道路陥没】あすにも運転手を直接捜索へ　下水管内に立ち入り　事故から3カ月で初めて　知事「一日も早く」
+      <a href=https://news.yahoo.co.jp/articles/f968669eb91ebeb2bf7f0317a7564018fbdc92d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000122-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=318&ch=318&exp=10800&fmt=webp> ＡＫＢ４８グループの「じゃんけん大会」が“復活”　「ＵＰ－Ｔ」新ＣＭ発表会見で、勝者は…
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537239>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/b3f5d6ab9abc2c957971c75785196ba3cac0fb480423e330db76227b4e7aec57.jpg> 政府想定外 備蓄米精米などに時間
+      <a href=https://news.yahoo.co.jp/pickup/6537253>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/c445612b57a1ef3ff26bca5686a348d0bbc1491db1dd0a62899ecba41c525be5.jpg> 八潮陥没 5/1にも救助作業を再開
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/f02d6d9d4514e46112a570faae873ba7c9082b7bdf4b04e5daa64cfb68ba57b5.jpg> ネモフィラの丘に違法ケシか 福岡
+      <a href=https://news.yahoo.co.jp/pickup/6537264>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「睡眠障害」診療科名に追加要望
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 23:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 23:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
