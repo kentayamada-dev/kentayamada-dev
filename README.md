@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f47e9825223b846e6775a1a6b7d1d67e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1fdd5dbae17ed526b65112b080fd9e37.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffd6e4369051a7f5ea6466416c041eabe190001e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、142円台後半（30日朝）
+      <a href=https://news.yahoo.co.jp/articles/47dfa7715f10da8589201212d5e173ba1be47925>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00010008-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「焦っているのはアメリカ」あすにも2回目の関税交渉へ　日本が選ぶべきカードは？【識者解説】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1174b4d2bb6c785779b1c075eb6737b32f448c4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34301567-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1061&ch=1061&exp=10800&fmt=webp> 【阪神】９回の絶好機生かせず…今季初のサヨナラ負けで６連勝のあとに今季２度目の３連敗
+      <a href=https://news.yahoo.co.jp/articles/60c2b78c4ecf872e3a16daa2b3274d668c51eb90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-01231546-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【中日】今季初のサヨナラで連勝　4時間超えの熱戦制す
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537248>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/95590dcf260866a23fbb1bfff715de0922df319036b38bbb60e4da52f7e919ce.jpg> 正恩氏 戦勝記念日の訪露見送りか
+      <a href=https://news.yahoo.co.jp/pickup/6537258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/6eb99fd99da783eabe2a832b70e538c886418ee7c6599648db34eb8642af23f1.jpg> 米GDP 3年ぶりにマイナス成長
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537262>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/7fecb393e3e526ed9e00a1c232aa6b09eda4400eb3766f092b03403e039528b2.jpg> 阪神が3連敗 悪夢のサヨナラ負け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537250>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/d347d5acbf57c49a6ed9f997ca4e3a20b623b727aef002bbeee3c680daeae138.jpg> 山崎伊織がセ・リーグ新 監督絶賛
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537249>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/7015536b5f01ab44c8ec44dc08cc6f99e99f2cb967e8851e1d1425889baf3fe6.jpg> イベント中止狙う壊し屋か 怒号も
+      <a href=https://news.yahoo.co.jp/pickup/6537263>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/ee9ef24439967d4d02527cf9af30397d41e6c4fe1b4e10d25cc708ed359fd080.jpg> イベント中止狙う壊し屋か 怒号も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537237>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e86d5620ed3a9efb46076e387e1550142e7885297f3a4105f8b64618718e4fb0.jpg> 安田章大 髄膜腫の後遺症に苦しむ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 22:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 23:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
