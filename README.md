@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3989ce4363f0fb734ee272bf180d481d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ef9dfddd18a061b360a0f8799940ab8b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a970786702508a64168f41edd1c0e7e5b4b78613>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000039-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 公開手配の暴力団幹部を逮捕　家宅捜索先から逃走　埼玉県警
+      <a href=https://news.yahoo.co.jp/articles/5a9909470760100be877ea05b6a2736c1ba30e20>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-03492755-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=24&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 10時間睡眠を徹底していた大谷翔平に大きな変化「寝不足気味でしたけど“幸せな寝不足”」試合前に真美子さんと娘に会いに病院へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0219b338a05b318a85d6a186d4df578c1fc333b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000248-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平「幸せな寝不足」トレンド入り　早くも流行語大賞期待の声も「素敵な言葉」「人柄が出てる」
+      <a href=https://news.yahoo.co.jp/articles/17ac4800988640799374537455b94074f19e916a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00051009-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800&fmt=webp> 猟犬３頭が民家襲う　飼い犬が噛まれ死ぬ　住人女性もけが　兵庫・丹波篠山市
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/643918dc011814e3b181fa4b06e1d15f07502d70945879e67a34c0d5ac1b50eb.jpg> 国民 夫婦別姓で独自法案を提出へ
+      <a href=https://news.yahoo.co.jp/pickup/6537223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/36df4448fed8c57f98d1ceb86454cc5f0ed5ebbc7a8650e8132a60fb58fd8293.jpg> 家族にも拒まれ孤独死 悼む夫婦
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537223>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/36df4448fed8c57f98d1ceb86454cc5f0ed5ebbc7a8650e8132a60fb58fd8293.jpg> 家族にも拒まれ孤独死 悼む夫婦
+      <a href=https://news.yahoo.co.jp/pickup/6537225>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/85bb208c39f846aeb8657afc9976f9412d3f123dd3e7ff2495e509816e3ce257.jpg> 東海道新幹線 上下一部で見合わせ
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/d1e41791df90fd340490e6dd761637aeed1b1983c259cf88a15d5f895cdc53c7.jpg> 客から罵詈雑言も 老舗継ぐギャル
+      <a href=https://news.yahoo.co.jp/pickup/6537217>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/6e6fe9d321f9355f57588cfe9bc206f9987cd2173ff51488ea49a70c8935602a.jpg> 家宅捜索の際に逃走 手配の男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537214>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/be22dc9f67615d639ea186684ae1523c28bb3c193ae4f0e2efef6d09977211d2.jpg> 張本智和がTリーグ琉球を退団
+      <a href=https://news.yahoo.co.jp/pickup/6537224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/d1e41791df90fd340490e6dd761637aeed1b1983c259cf88a15d5f895cdc53c7.jpg> 客から罵詈雑言も 老舗継ぐギャル
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 18:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 18:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
