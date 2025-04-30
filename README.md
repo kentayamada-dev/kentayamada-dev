@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d54308f02021bcaf4f07533587f9d700.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c521a63993aae011cc51904736674896.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1e352d98ed26978505c144d543354711a88d200>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 川崎、初の決勝進出　アルナスルに競り勝つ―ACLEサッカー
+      <a href=https://news.yahoo.co.jp/articles/b3f796aeb0c2c035d74673ca6cc4c1b3a4738c41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-10176226-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 埼玉・八潮道路陥没事故 下水道管内に消防隊員らが入り初の確認作業開始
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3535cd83970a3d87d9054071824a4b7775ece22a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-06497811-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> フジ親会社・金光社長「6月退任」発表　総務省に再発防止策を報告「楽しくなければテレビじゃない」脱却へ
+      <a href=https://news.yahoo.co.jp/articles/9577ec68c3e8bfc8b2be608dbbc769e5da29eefb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000024-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=977&ch=977&exp=10800&fmt=webp> 大谷翔平、驚愕の片手1本「フェン直三塁打」、軽打の打球速度160キロ超…ドジャース5連勝、マンシー1号に大喜び、ゴンソリン627日ぶり勝利
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51063180e6a6c1843e6c70d42fe8cace1c75f751>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00965682-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】下水道管の中での調査始まる　陥没事故後初…男性捜索へ向け　埼玉・八潮市
+      <a href=https://news.yahoo.co.jp/articles/fbb38855754db43fb1b1869a2e9ea9779aefd747>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35010064-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1207&ch=1207&exp=10800&fmt=webp> 【ACLE】川崎F初決勝！MVP伊藤達哉「強さ世界に」大関友翔「全員でアジア制覇したい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/382f026fb9d4e7481084f329c3bbb21319ac1617>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000094-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=737&ch=737&exp=10800&fmt=webp> ドジャース・大谷　パパ1号！「幸せな寝不足」長女を初めて抱っこ「温かかった」
+      <a href=https://news.yahoo.co.jp/articles/cfcbbf7067303f9cb058e2fb18f5725c9d101c54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010002-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=1945&ch=1945&exp=10800&fmt=webp> え？9回二死満塁でセーフティバント？笑えない“チグハグ”なミス連発の中日が今季初のサヨナラ勝利をつかめた理由とは…松山の“魂の20球”＆木下の“三味線”と井上采配
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537258>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/6eb99fd99da783eabe2a832b70e538c886418ee7c6599648db34eb8642af23f1.jpg> 米GDP 3年ぶりにマイナス成長
+      <a href=https://news.yahoo.co.jp/pickup/6537272>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/179dfea0d1665f7a17b60b087cda69247ce02a160cd5eca7907658aba9e37f98.jpg> 米ウが鉱物資源巡る協定に署名
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537255>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/a0185e644cfcbdd5276b90c184fbb9b123b803f4f4eab7b11329e78c4aba2145.jpg> 2回目の日米協議へ 議題に自動車
+      <a href=https://news.yahoo.co.jp/pickup/6537269>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/cc247ebbf5df6fafc2cff1457a85c99cd3bd87f2bf45a00398a85eab50263217.jpg> 首相 2回目交渉でも関税撤廃要求
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 07:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 07:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
