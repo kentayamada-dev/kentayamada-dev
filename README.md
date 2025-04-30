@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c521a63993aae011cc51904736674896.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/05e825c469d1f643c525cbbd55e12ae1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0af34ac612d45dfaf4538398fcf4f1b7aba5a265>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000064-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=812&ch=812&exp=10800&fmt=webp> 【内田雅也の追球】「一撃必殺」の思想
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1e198698ea59ffd02e070cf75fecadbc1110a48d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00172564-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=22&cy=0&cw=495&ch=495&exp=10800&fmt=webp> 「凄すぎるカバー」「よく止めたな」後半ATにC・ロナウドの決定機を阻止！ 川崎DFが魅せた執念のシュートブロックにファン大興奮「少林サッカーみたい」【ACLE】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37da1d0f9d955d2ef60ab0f044f8654ef9d9ccba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-01745079-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「ダメだ面白すぎる」大谷翔平にSNS騒然　“パパ第1号”よりも話題となった打席前
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b3f796aeb0c2c035d74673ca6cc4c1b3a4738c41>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-10176226-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 埼玉・八潮道路陥没事故 下水道管内に消防隊員らが入り初の確認作業開始
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9577ec68c3e8bfc8b2be608dbbc769e5da29eefb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000024-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=977&ch=977&exp=10800&fmt=webp> 大谷翔平、驚愕の片手1本「フェン直三塁打」、軽打の打球速度160キロ超…ドジャース5連勝、マンシー1号に大喜び、ゴンソリン627日ぶり勝利
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbb38855754db43fb1b1869a2e9ea9779aefd747>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35010064-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1207&ch=1207&exp=10800&fmt=webp> 【ACLE】川崎F初決勝！MVP伊藤達哉「強さ世界に」大関友翔「全員でアジア制覇したい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cfcbbf7067303f9cb058e2fb18f5725c9d101c54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010002-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=128&cy=0&cw=1945&ch=1945&exp=10800&fmt=webp> え？9回二死満塁でセーフティバント？笑えない“チグハグ”なミス連発の中日が今季初のサヨナラ勝利をつかめた理由とは…松山の“魂の20球”＆木下の“三味線”と井上采配
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537251>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/a581107b407c5a7f16a4fb427b291a83f537275ccff4778a1c3c3594def34b45.jpg> 大手5行 住宅ローン固定金利下げ
+      <a href=https://news.yahoo.co.jp/pickup/6537276>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/0d3491e32238968aa7d68cc64148acda29b886ef5d54020d5ce925a2afcca50b.jpg> 八潮陥没 下水道管内を目視で調査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537264>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「睡眠障害」診療科名に追加要望
+      <a href=https://news.yahoo.co.jp/pickup/6537274>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/ade7af752ce23dbc6e3ff43550e2a98bee50860f570e0b18d9a51a8d4f495d7c.jpg> マスク氏 米政権に「別れ」か
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/0660081a9f4c1c81527ed61814240d937c3dfbf68124a59606083f5c04d9a95b.jpg> ぬ～べ～ 異例の新連載2本開始へ
+      <a href=https://news.yahoo.co.jp/pickup/6537273>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/526ecc806dfe3663a45e3efa611ee309a36e424a2ede209447cb329e381465c3.jpg> 珍事 ド軍ファンが二塁打「強奪」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/ee9ef24439967d4d02527cf9af30397d41e6c4fe1b4e10d25cc708ed359fd080.jpg> イベント中止狙う壊し屋か 怒号も
+      <a href=https://news.yahoo.co.jp/pickup/6537268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/0660081a9f4c1c81527ed61814240d937c3dfbf68124a59606083f5c04d9a95b.jpg> ぬ～べ～ 異例の新連載2本開始へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 07:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 08:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
