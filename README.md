@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/80bb87c7334fe06d6d5945e7ccc07ebb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/795926fc91efab1ceb82a638ceabb9c9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/645295595b7d7cc5ae9f5a4a09a3d3263b84f285>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-04301205-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平「幸せな寝不足」で“パパ１号”先頭初球弾…真美子夫人とまな娘のいる病院に寄ってから球場へ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9aaaccccf9dcb09c27c9fdea701711d53846f2fe>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5261f9a66bb47ea0562da171e19b6dfa46562d43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-10176196-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「真美子さんセンス良いw」 大谷翔平、“セーラームーン”で登場→いきなり“初球先頭打者”弾丸アーチ… ファン大歓喜「毎回選んで！」「ムーンライト伝説ムラン」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f968669eb91ebeb2bf7f0317a7564018fbdc92d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000122-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=318&ch=318&exp=10800&fmt=webp> ＡＫＢ４８グループの「じゃんけん大会」が“復活”　「ＵＰ－Ｔ」新ＣＭ発表会見で、勝者は…
+      <a href=https://news.yahoo.co.jp/articles/60c2b78c4ecf872e3a16daa2b3274d668c51eb90>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-01231546-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【中日】今季初のサヨナラで連勝　4時間超えの熱戦制す
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/eb7fce8277ee2fae556690d0633e976d50d59c62dd34e74f2255336af848e545.jpg> 命を救った 中学生トリオの奮闘劇
+      <a href=https://news.yahoo.co.jp/pickup/6537266>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/7004a08562095be193003c5f2d4e2ebd96440ac7f7c1ec4bb971ba40f23234a6.jpg> 「強い叱責」25歳自死 遺族が提訴
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 23:52:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 00:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
