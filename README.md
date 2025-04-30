@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/LZH_M0iFRpU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f135e86c08e7177c1554fef00dc1822e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f923d552f2384aa0425c528c7867cbec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f4d6657dfcfd0c437681c44b66afc91b7f0a2141>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000017-saitama-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【道路陥没】あすにも運転手を直接捜索へ　下水管内に立ち入り　事故から3カ月で初めて　知事「一日も早く」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/16f54fe93f59d5349e9c876358d56df0ec122821>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「徒党を組むやり方に反対」中国が日比首脳会談に反発　「歴史」も持ち出し日本を非難
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000170-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=836&ch=836&exp=10800&fmt=webp> 「徒党を組むやり方に反対」中国が日比首脳会談に反発　「歴史」も持ち出し日本を非難
       </a>
     </td>
   </tr>
@@ -381,14 +389,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93a1892275879ed8aa2de8dfd73f97d43c57b5f2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00010001-wordleafv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=543&cy=0&cw=1114&ch=1114&exp=10800&fmt=webp> 大阪・吉村知事「まずは原因究明が大切」　万博-～駐車場の自動運転シャトルバス事故で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e7c9f67252f91a0ebda87d6d0cb680fcd135a1f3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-90022461-nmit-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手が今季7号　父として初アーチ 　長女に贈る“ミラクル・ロマンス弾”
       </a>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537229>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/7cd1c88d7ec160c1a58f08def9b94f10abefb57d0f7d0e2b3a8e2cc8f327bd80.jpg> 首相 食料品の消費減税に慎重姿勢
+      <a href=https://news.yahoo.co.jp/pickup/6537248>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/95590dcf260866a23fbb1bfff715de0922df319036b38bbb60e4da52f7e919ce.jpg> 正恩氏 戦勝記念日の訪露見送りか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537238>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/637b0c94ee72137cc2780fd82caf6d255c22265f32f08e83396b165d0954e6cc.jpg> 15歳殺害事件 逮捕の男を鑑定留置
+      <a href=https://news.yahoo.co.jp/pickup/6537239>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/b3f5d6ab9abc2c957971c75785196ba3cac0fb480423e330db76227b4e7aec57.jpg> 政府想定外 備蓄米精米などに時間
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537237>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e86d5620ed3a9efb46076e387e1550142e7885297f3a4105f8b64618718e4fb0.jpg> 安田章大 髄膜腫の後遺症に苦しむ
+      <a href=https://news.yahoo.co.jp/pickup/6537209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e21faac7713aaaffc27d821d4de1849448bcc83461a0027fc58176ff36d6c29c.jpg> 江頭騒動にTBS 想像力欠けていた
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 21:30:18 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 22:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
