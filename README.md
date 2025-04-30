@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/LZH_M0iFRpU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f923d552f2384aa0425c528c7867cbec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f47e9825223b846e6775a1a6b7d1d67e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ffd6e4369051a7f5ea6466416c041eabe190001e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔NY外為〕円、142円台後半（30日朝）
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a1174b4d2bb6c785779b1c075eb6737b32f448c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34301567-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1061&ch=1061&exp=10800&fmt=webp> 【阪神】９回の絶好機生かせず…今季初のサヨナラ負けで６連勝のあとに今季２度目の３連敗
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f4d6657dfcfd0c437681c44b66afc91b7f0a2141>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000017-saitama-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【道路陥没】あすにも運転手を直接捜索へ　下水管内に立ち入り　事故から3カ月で初めて　知事「一日も早く」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16f54fe93f59d5349e9c876358d56df0ec122821>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000170-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=182&cy=0&cw=836&ch=836&exp=10800&fmt=webp> 「徒党を組むやり方に反対」中国が日比首脳会談に反発　「歴史」も持ち出し日本を非難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af945ee39a910c6def8aff6158f1ef5db7f727fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-21887816-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> スタッフに“暴力行為”　指原莉乃さんプロデュースのアイドルグループ「≠ME」の新曲発売イベントが中止に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cf5986747552169abc2807d2b53a0390d87b86c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 赤沢再生相が米国へ出発、2日未明から日米関税協議　自動車部品関税緩和は「影響を精査」
       </a>
     </td>
   </tr>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/3f990ed983fdd691997d53c742b743e13bdb03c3094e44c9dd3c1a00d425849c.jpg> 遊具倒れる 遊んでいた4歳が骨折
+      <a href=https://news.yahoo.co.jp/pickup/6537245>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/f02d6d9d4514e46112a570faae873ba7c9082b7bdf4b04e5daa64cfb68ba57b5.jpg> ネモフィラの丘に違法ケシか 福岡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537245>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/f02d6d9d4514e46112a570faae873ba7c9082b7bdf4b04e5daa64cfb68ba57b5.jpg> ネモフィラの丘に違法ケシか 福岡
+      <a href=https://news.yahoo.co.jp/pickup/6537254>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/887ed625c10fc16614ad2f1a236e814c2f6cb31a88c989b838acdf3515a650fb.jpg> 旅しながら稼ぐ シニア世代が増加
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537262>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/7fecb393e3e526ed9e00a1c232aa6b09eda4400eb3766f092b03403e039528b2.jpg> 阪神が3連敗 悪夢のサヨナラ負け
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e21faac7713aaaffc27d821d4de1849448bcc83461a0027fc58176ff36d6c29c.jpg> 江頭騒動にTBS 想像力欠けていた
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 22:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 22:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
