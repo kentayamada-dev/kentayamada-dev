@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/35672c8a719373aed37f2a744520eff2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8fd5b70498493694e47a49461f16c50f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/645295595b7d7cc5ae9f5a4a09a3d3263b84f285>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-04301205-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平「幸せな寝不足」で“パパ１号”先頭初球弾…真美子夫人とまな娘のいる病院に寄ってから球場へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9aaaccccf9dcb09c27c9fdea701711d53846f2fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-07233805-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 埼玉・八潮市の道路陥没事故　早ければ1日にも下水道管内でトラック運転手捜索再開へ
+      <a href=https://news.yahoo.co.jp/articles/01f47768862ba505de0da033f90fdfa0fac004cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-05011003-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、パパ１号から２戦連発なるか　マーリンズ戦「１番・ＤＨ」先発出場　４月最終戦は得意のデーゲーム
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 01:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 01:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
