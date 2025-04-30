@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f32fc0387db5a1de4c39e94b9362cdde.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/78e33f7d8f394c13a9d6be14de61bddf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c0c1083d60440f025e3bce3fc6491aa35d7003a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000004-rps-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=601&ch=601&exp=10800&fmt=webp> トランプ米政権、現地生産車の部品関税の負担軽減措置を発表［新聞ウォッチ］
+      <a href=https://news.yahoo.co.jp/articles/c6b747cb34a9c2c8552d4acbdefebf6457dfabcd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00965080-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ政権発足から100日…“関税措置”への反発うけ自動車関税の負担軽減措置発表　きょう演説で成果アピールも支持率低迷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b0ce8eff006c2f8bdc36958b6c7bc743096612d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300073-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=503&ch=503&exp=10800&fmt=webp> 「菅野よく抑えたな」ヤンキース先頭から３連発＆初回４発受け、前夜好投の菅野智之へX絶賛の声
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e21fbcf0126d352272f3f1bc03bbef11dc882dc7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> アマゾン、関税費用表示を計画　米政府が猛反発、導入否定　報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d933c5530a62c641e0426f5ca7b926acc733a44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00874242-toyo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=253&ch=253&exp=10800&fmt=webp> ついに立憲民主も...夏の参院選対策の「消費税減税」、“一時的”はまやかし、本当に消費者に恩恵はあるのか？より有効な負担軽減の方策とは
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000022-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アマゾン、関税費用表示を計画　米政府が猛反発、導入否定　報道
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537146>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/3ef3407e246c3ebbbcff25dbeab7eebb9c720c9d3d5616e189a5224f82b01918.jpg> うちも盗まれた 相次ぐコメ窃盗
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537148>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/586dd93d4067f662446e9bd59a01f7e86708f2da0f940490713c31c38f6224c8.jpg> もう長くないかも 結合双生児の弟
       </a>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/ba701abac4ee33662805137da9dc80ee595e95e859f312e8f12d5351b48ca7dc.jpg> フジ取材パス没収巡り NPBを調査
+      <a href=https://news.yahoo.co.jp/pickup/6537161>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/9c078aa5946b5f8e3a6ddae085fef7d7be19b75e3c96844726f471c15530e1bb.jpg> ヤンキース 初回先頭から3連発
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537160>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/83379569f7f4d655d115473a528e1047d83f6f477806531cf7a9d558ea14caab.jpg> 鈴木紗理奈 31年所属の事務所退所
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 09:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 09:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
