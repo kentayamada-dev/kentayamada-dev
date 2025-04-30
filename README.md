@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dc727d391794b581e5a13dcf025a3947.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1aa3c1a907b349809159e62478e9cfde.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/680c7aa2d662c1c61b838ad9adc360d80636466f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】八潮市道路陥没事故の捜索再開に向けて下水道管内に入り初の確認作業開始
+      <a href=https://news.yahoo.co.jp/articles/9a6d71cba1413d342c0cee8c6c5c62d3f6890a00>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-09655751-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 陥没事故後初　消防らまもなく下水道管内に　八潮市
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/382f026fb9d4e7481084f329c3bbb21319ac1617>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000094-spnannex-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=737&ch=737&exp=10800&fmt=webp> ドジャース・大谷　パパ1号！「幸せな寝不足」長女を初めて抱っこ「温かかった」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000094-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=356&cy=0&cw=737&ch=737&exp=10800&fmt=webp> ドジャース・大谷　パパ1号！「幸せな寝不足」長女を初めて抱っこ「温かかった」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 05:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 05:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
