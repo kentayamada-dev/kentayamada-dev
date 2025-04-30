@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/57b4fb6f46881304d3f6bf8060a1d396.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d54308f02021bcaf4f07533587f9d700.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b1e352d98ed26978505c144d543354711a88d200>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 川崎、初の決勝進出　アルナスルに競り勝つ―ACLEサッカー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3535cd83970a3d87d9054071824a4b7775ece22a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-06497811-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> フジ親会社・金光社長「6月退任」発表　総務省に再発防止策を報告「楽しくなければテレビじゃない」脱却へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/51063180e6a6c1843e6c70d42fe8cace1c75f751>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00965682-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】下水道管の中での調査始まる　陥没事故後初…男性捜索へ向け　埼玉・八潮市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/95c7babd32b756225a1b68378d1f3e96b50e4de4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-10176224-abemav-000-3-view.png?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> SNS激震！ C・ロナウド、川崎Fに敗れ涙…「めっちゃ悔しそう…」「クリロナ泣かせた初のJチーム？」「敵ながらあっぱれ」「不思議な空間」【ACLE準決勝】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25944e79a494e5f295926a52c31ddab882250bf6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-34301575-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> フジ「楽しくなければテレビじゃない」脱却宣言　親会社の金光社長らの６月退任と改革８策発表
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537265>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/d8d694b3f66eca123454e34080714c7bfb28b0cdfbb6d5ccea8469caec75c1c6.jpg> ひろゆき氏が生ダンス披露 後悔も
+      <a href=https://news.yahoo.co.jp/pickup/6537268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/0660081a9f4c1c81527ed61814240d937c3dfbf68124a59606083f5c04d9a95b.jpg> ぬ～べ～ 異例の新連載2本開始へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 06:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 07:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
