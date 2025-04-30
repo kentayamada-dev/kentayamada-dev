@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3c5df50ede84179f71e93fdaecb4a8f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7af95fe0800ea6c9b76f54c5baf86a18.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8fc20498089a9f8bcce1fa9eca643b92e76c4378>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-34300528-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1096&ch=1096&exp=10800&fmt=webp> 大谷翔平、病院から球場入りで先頭弾「ロードが気がかり」長女出産直後の真美子夫人を思いやる
+      <a href=https://news.yahoo.co.jp/articles/44647387da8bb680233ac25b172afaaa983bde0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-10176111-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=965&ch=965&exp=10800&fmt=webp> これはムリ…大谷翔平、184キロ弾丸ライナーで“まさかの光景”…打った瞬間に相手外野手がフリーズ
       </a>
     </td>
   </tr>
@@ -366,15 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b8e490116f60639ede9f79477bb14a0fe30bb215>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-08779699-ytv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「まずは原因究明が大切」 万博会場～駐車場の自動運転バスが事故　「エラー画面」表示
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-08779699-ytv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】吉村知事「まずは原因究明が大切」 万博会場～駐車場の自動運転バスが事故　「エラー画面」表示　同型のバス運転見合わせに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d37f9874976d4efefd03c931d0279d95a0e72f6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000039-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=159&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 井上尚弥、「決戦まで残り５日」２日連続で弟・拓真とマスボクシング ラスベガスのジム外にはサインを求めるファンの列
+      <a href=https://news.yahoo.co.jp/articles/ff7b26e51db1a684e1ed549b207f81cfb87fe6e3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-21886325-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 声優・高野麻里佳さんに　「生命・身体に危害を加えるという、極めて悪質な脅迫メールが送付される事案が発生」　所属事務所は「所轄警察署に被害届」　出演予定のイベントは【延期】または【辞退】に　【「ウマ娘　プリティーダービー」・サイレンススズカ役】
       </a>
     </td>
   </tr>
@@ -383,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e16fe6eeeaa7c0207526179fd8406b8bdfb61be1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000018-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=638&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> アマゾン、関税上乗せ価格表示取りやめ トランプ氏はベゾス氏称賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ead66c3fa25a690c1a7aa47471f85ad86e193254>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-17004152-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=576&ch=576&exp=10800&fmt=webp> スペイン、大規模停電の原因はサイバー攻撃ではないと……では何が影響したのか
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/fe5c5d9e1dd3d6862ad055338a652324e7f3e49396828af96efc0409a3746dd4.jpg> 尹氏宅を捜索 旧統一教会絡む疑惑
+      <a href=https://news.yahoo.co.jp/pickup/6537190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e35a3a58086d640cc93b0e7082dfbad900d1c8f12aa6b18e51e22ad226ff28d9.jpg> 米Amazon 関税額の明示案を撤回
       </a>
     </td>
   </tr>
@@ -442,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537180>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/08113a3a31d33248e43101d4046cd96dde2d3566b056b38f5d62ba3dfebad367.jpg> 運転中スマホをカーナビに 違反?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537195>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e40971833945cd9c7c37f0dc7ec96c6d85340b3741c1109fa8f6e73ab72dc832.jpg> 大谷 長女誕生に「幸せな寝不足」
       </a>
@@ -458,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537189>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/409b1dfdae2b03df29b7d4450e3d0869bc61d3bd51abb39a185a150bd50df26e.jpg> 井上尚弥 決戦前に異例ファン対応
+      <a href=https://news.yahoo.co.jp/pickup/6537198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/db41ad4bcb823a5b3ae83382ad52854f3e212273170c890985ae85a5b92a1a54.jpg> 声優・高野麻里佳に脅迫 出演辞退
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537197>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/56b6c80cb11e422ce7b346e2b8c6d62bf4ff3e4984a3d1e452b84f09f3ef3434.jpg> 異例 アナ退社→ゴルフYouTuber
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 15:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 15:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
