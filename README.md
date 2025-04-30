@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/LZH_M0iFRpU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7af95fe0800ea6c9b76f54c5baf86a18.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/87538027f95ee3b0dc376feb52dbb474.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44647387da8bb680233ac25b172afaaa983bde0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-10176111-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=965&ch=965&exp=10800&fmt=webp> これはムリ…大谷翔平、184キロ弾丸ライナーで“まさかの光景”…打った瞬間に相手外野手がフリーズ
+      <a href=https://news.yahoo.co.jp/articles/b0a6b85dd69dcb5adc9e00a9afb739dcbc8cfe6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-21886764-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=384&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 「温かかったですね」“パパの顔”を見せて「無事に生まれてきてくれて感謝」笑顔で語る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5259b1887257735db6ed457f00630e90da3e12fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-15937719-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=199&cy=0&cw=576&ch=576&exp=10800&fmt=webp> トランプ氏がアマゾン創業者に電話、関税コストの表示を計画との報道受け
       </a>
     </td>
   </tr>
@@ -373,16 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff7b26e51db1a684e1ed549b207f81cfb87fe6e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-21886325-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=630&ch=630&exp=10800&fmt=webp> 声優・高野麻里佳さんに　「生命・身体に危害を加えるという、極めて悪質な脅迫メールが送付される事案が発生」　所属事務所は「所轄警察署に被害届」　出演予定のイベントは【延期】または【辞退】に　【「ウマ娘　プリティーダービー」・サイレンススズカ役】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e16fe6eeeaa7c0207526179fd8406b8bdfb61be1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000018-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=638&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> アマゾン、関税上乗せ価格表示取りやめ トランプ氏はベゾス氏称賛
+      <a href=https://news.yahoo.co.jp/articles/10967a208668d8512b56b20ef95ee89635589b40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 保険見直し本舗　個人情報約510万件に漏えいの恐れ　ランサムウェア被害で
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537192>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/662f9c45b8ae6db5612c8026430a64d7c4597553c7acc24c8cb6916844f4c670.jpg> 備蓄米 3回目の落札価格420円下落
+      <a href=https://news.yahoo.co.jp/pickup/6537199>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/1c591a9309fdef6fc3032c817ded81fc38d209cde141d7c6219cdd7f7c2ea20b.jpg> 米関税影響 日銀は利上げ見送りか
       </a>
     </td>
   </tr>
@@ -410,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/e35a3a58086d640cc93b0e7082dfbad900d1c8f12aa6b18e51e22ad226ff28d9.jpg> 米Amazon 関税額の明示案を撤回
+      <a href=https://news.yahoo.co.jp/pickup/6537204>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/d2162a9297d65610a78ae6c8bd8a391819a75faf847d1b33b8f6459e1c904f48.jpg> 中2から続く父の性暴力 女性叫び
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/538408bacd1832a6779e78f7e4584d366af2e279314127469659c9ad97a70b64.jpg> 女性はどうせ辞める「偏見」今も
+      <a href=https://news.yahoo.co.jp/pickup/6537193>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/48d47d69c68293d44e06ca6af2065967bf82721080d22ae35a6f69ec5706f4dd.jpg> 減量か複雑返金 コメ返礼品で物議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/6ab238c06dec20628c060e62b397d611f19b4338149ee9d262c04d4e7b575789.jpg> 住宅で男性死亡 飲食代トラブルか
+      <a href=https://news.yahoo.co.jp/pickup/6537200>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 保険見直し本舗510万件情報漏洩か
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 15:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 16:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
