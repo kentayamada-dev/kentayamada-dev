@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97f545cf82470c25d1a60f89cac51edd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d87b12d974d220861bade175d26561e6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50092f1b7d0ff921863600f2f7e7dace76f775f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-08636985-ytv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】「一瞬大雨かと…外を覗くと川になっていた」周辺ではガレージも冠水 水道管の老朽化で破裂か 京都市下京区
+      <a href=https://news.yahoo.co.jp/articles/597176e5f90f8cc80d28c2702909d59bcecc9b83>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00010004-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】カブス快勝　今永が脚のけいれんで降板するも3勝目　鈴木は7号2ランを含む長打3本の大活躍
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c2be4d4f201e46c8e9d46b1986f868d66dd550f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00000011-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=841&ch=841&exp=10800&fmt=webp> ドジャース・大谷翔平が1安打3四球＆二盗　昨季までド軍コーチの敵将も改めて脱帽
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c6b747cb34a9c2c8552d4acbdefebf6457dfabcd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-00965080-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ政権発足から100日…“関税措置”への反発うけ自動車関税の負担軽減措置発表　きょう演説で成果アピールも支持率低迷
+      <a href=https://news.yahoo.co.jp/articles/01c4ad4f33795e25428de075d06d77a5e24476b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ヘッジファンドの英マン、日本の自動車セクター選好－逆風で再編期待
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537163>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/988e01b0f8651b6b12f312af7e594ad923f197d9719e9d8b733d5cb0dbfeb97b.jpg> 今永昇太アクシデントか 緊急降板
+      <a href=https://news.yahoo.co.jp/pickup/6537171>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/b8260aef6ce8dc5776d0d48990b255ed20478d375d6f16168e989322df7bbe8b.jpg> 今永昇太が3勝目 6回に緊急降板
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/04/30 10:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/04/30 11:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
