@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/LZH_M0iFRpU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8d79c4f4ee80c43ec0527c54bcdfc3c9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d9ed490321d339a158cf77fdee2b2d37.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60c2b78c4ecf872e3a16daa2b3274d668c51eb90>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250430-01231546-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【中日】今季初のサヨナラで連勝　4時間超えの熱戦制す
+      <a href=https://news.yahoo.co.jp/articles/d9c91bb213ddf1deba746050f0c8131a1115378a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-90029923-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> ヘビが架線に絡まって停電になり東海道新幹線が一時ストップ 最大96分の遅れ 約6万7000人に影響
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 03:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 03:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
