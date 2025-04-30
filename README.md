@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d5a578c5ceca2151c255bdec23094e97.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/57b4fb6f46881304d3f6bf8060a1d396.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc0c19200f9ccacaee90c7b62b527f6950d41fd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000009-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=1460&ch=1460&exp=10800&fmt=webp> 下水道管内の確認作業開始　埼玉陥没、捜索本格化へ
+      <a href=https://news.yahoo.co.jp/articles/51063180e6a6c1843e6c70d42fe8cace1c75f751>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00965682-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】下水道管の中での調査始まる　陥没事故後初…男性捜索へ向け　埼玉・八潮市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/27ffa2e3c6f59debfe748e01b855db574c1d9fbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-07233841-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ1－3月GDP速報値　－0.3%　3年ぶりマイナス成長
+      <a href=https://news.yahoo.co.jp/articles/95c7babd32b756225a1b68378d1f3e96b50e4de4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-10176224-abemav-000-3-view.png?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> SNS激震！ C・ロナウド、川崎Fに敗れ涙…「めっちゃ悔しそう…」「クリロナ泣かせた初のJチーム？」「敵ながらあっぱれ」「不思議な空間」【ACLE準決勝】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/25944e79a494e5f295926a52c31ddab882250bf6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-34301575-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=1125&ch=1125&exp=10800&fmt=webp> フジ「楽しくなければテレビじゃない」脱却宣言　親会社の金光社長らの６月退任と改革８策発表
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537250>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/d347d5acbf57c49a6ed9f997ca4e3a20b623b727aef002bbeee3c680daeae138.jpg> 山崎伊織がセ・リーグ新 監督絶賛
+      <a href=https://news.yahoo.co.jp/pickup/6537267>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/2960c36b8943ba4e880571d41db880b4714968bc105b7236628bf4edeb224b74.jpg> 川崎Fがクラブ初のACLE決勝進出
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 06:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 06:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
