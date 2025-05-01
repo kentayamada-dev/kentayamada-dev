@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1bae4f2c64a7b8cd7d7c4ca949c2ac05.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e6cbf14f24488dd98609dbc9ce7c56ff.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5db056d406af8e03f358ff1e726bb20bd42659f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-90023935-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=935&ch=935&exp=10800&fmt=webp> インパルス・堤下敦、再婚＆妻の妊娠発表「キレたらむちゃくちゃこえ～っす」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4f559e91f5526dc35e1f7e5837a821bb2eabf032>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000178-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 埼玉の下水道管内に人らしき姿　八潮陥没事故で不明男性か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5feb0b11a28940e127e9f19b731321448985a604>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000444-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=838&ch=838&exp=10800&fmt=webp> 万博会場、間違える人“続出”　1970年大阪万博の跡地「万博記念公園」が注意喚起
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad80fcd7dfdd03372ecd8e842c6a1c90bea07f56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00029633-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=577&ch=577&exp=10800&fmt=webp> ゴールデンウィーク後半　2日は本州で激しい雨や雷雨に注意　3日と5日は行楽日和に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/459dff40349bd8c37cd46d43487d9a56ce98bd79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00050132-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=364&ch=364&exp=10800&fmt=webp> 八潮陥没、トラック運転席に７４歳男性とみられる人の姿確認…大野知事「早ければ明日にも救出作業」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0bb64d50a4148d96e57eb6d84b6b234d0f245689>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000301-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=491&ch=491&exp=10800&fmt=webp> 2025年、芸能界は結婚ラッシュ！インパルス堤下は妻の妊娠も報告　ダンサー菅原小春、日テレ郡司アナも
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000444-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=838&ch=838&exp=10800&fmt=webp> 万博会場、間違える人“相次ぐ”　1970年大阪万博の跡地「万博記念公園」が注意喚起
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/654635a52520df90a2f741c528ada7141631021ff15b97bbd1c1c7c23f1df436.jpg> ロマンス詐欺寸前 中3男子が救う
+      <a href=https://news.yahoo.co.jp/pickup/6537347>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/8a9b63aff9d9317a2ecb543236cff0919cad6aed19ccde990abc2a80bdfda4dc.jpg> 速報 田中将大が200勝王手なるか
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 18:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 18:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
