@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b145893cd65a51893acbfb3ac567346b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f6219e874deb05d972cac6deb4562b4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/950df497a2d50171a307729cb871bdc72e8e063b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000115-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1037&ch=1037&exp=10800&fmt=webp> 中日・近藤廉のプロ初ホールドにネット感涙「あの地獄の10失点からよく復活した」「今年一番強く手を叩いた気がするw」
+      <a href=https://news.yahoo.co.jp/articles/5385499338db9dcd128471e45e162bc59d2f5d60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000372-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=1071&ch=1071&exp=10800&fmt=webp> 西武　サヨナラで今季初の5連勝！平沼が決めた　今季延長戦5戦目で初勝利　同一カード初3連勝
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21734fb74798318221a0d165437e5822701c4f36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-03455248-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 下水道管内に“運転手”の姿、早ければ明日にも救出活動開始　八潮陥没事故
+      <a href=https://news.yahoo.co.jp/articles/c8840231101f5b8400d3d2885ecde20cbc12ee79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000078-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=1263&ch=1263&exp=10800&fmt=webp> 埼玉・八潮の陥没、運転席に人の姿?確認　2日にも捜索活動再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad44ed6f465984e4d4f3eeacff1afb194d0d8952>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-21890685-rbc-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 遠出の前の愛車点検で大型連休を楽しく安全に! JAFの隊員が指南　5分でできるセルフチェック
+      <a href=https://news.yahoo.co.jp/articles/840690c7622166b77705b29e182545987f44f4a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-06238388-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ソフトバンク5連敗　上沢直之が“古巣・日本ハム”初対決「7回の投球が本当に悔しい」万波中正に決勝HR
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537349>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/69f7ffeecb0923c0f09f03b3b35324b989efaed7d9b4c6d7b521f92fe80028a5.jpg> 「スキップが命救った」被爆の5歳
+      <a href=https://news.yahoo.co.jp/pickup/6537367>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博 会場内に喫煙所設置へ調整
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537365>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/0d74c0b944632e5a89dd5594f682816e511daee6f281d284df7a7903b3f9a63c.jpg> すき家 4月の売り上げが20%減
+      <a href=https://news.yahoo.co.jp/pickup/6537352>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/f2c6c6b683cfa588c7870cdd54efc22565168305353b72bd957fd7e75a9fef86.jpg> タイが入国ルール変更 渡航者困惑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537346>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/ddf04073b31caf9296b673b9a00f4c432196f7006bcf645d0ff502374d0f7bef.jpg> SB激震 周東が脚骨折で復帰未定
+      <a href=https://news.yahoo.co.jp/pickup/6537370>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/94af043cb3aafa6118ed72094da25b2e7694916592ef8f0c4587ca2e5be58458.jpg> SB泥沼5連敗 上沢は古巣に黒星
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 21:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 21:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
