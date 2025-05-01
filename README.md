@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e541cb3e645120d2c17e73d906903182.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1bae4f2c64a7b8cd7d7c4ca949c2ac05.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8eea421e482bcb29279c24888761168d876ab5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000013-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【速報】八潮の道路陥没、トラック運転手らしき姿を確認
+      <a href=https://news.yahoo.co.jp/articles/5feb0b11a28940e127e9f19b731321448985a604>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000444-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=838&ch=838&exp=10800&fmt=webp> 万博会場、間違える人“続出”　1970年大阪万博の跡地「万博記念公園」が注意喚起
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c505d6da1e0cf90f018c7e4b9e082e612a06483>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-21890016-jnn-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=488&ch=488&exp=10800&fmt=webp> インパルス堤下さん　結婚を発表　「子どもも生まれます」　YouTubeチャンネルで報告
+      <a href=https://news.yahoo.co.jp/articles/ad80fcd7dfdd03372ecd8e842c6a1c90bea07f56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00029633-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=577&ch=577&exp=10800&fmt=webp> ゴールデンウィーク後半　2日は本州で激しい雨や雷雨に注意　3日と5日は行楽日和に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d81fc3688e9e0044a750fd9306cddba0ca307e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博会場、間違えないで　「太陽の塔」の記念公園呼びかけ
+      <a href=https://news.yahoo.co.jp/articles/459dff40349bd8c37cd46d43487d9a56ce98bd79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00050132-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=364&ch=364&exp=10800&fmt=webp> 八潮陥没、トラック運転席に７４歳男性とみられる人の姿確認…大野知事「早ければ明日にも救出作業」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0bb64d50a4148d96e57eb6d84b6b234d0f245689>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000301-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=491&ch=491&exp=10800&fmt=webp> 2025年、芸能界は結婚ラッシュ！インパルス堤下は妻の妊娠も報告　ダンサー菅原小春、日テレ郡司アナも
       </a>
     </td>
   </tr>
@@ -394,24 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537324>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/382ead1296d1be794e3eb80f31bbf0351dad7f78e4df5a7672fea1e4a793dc9d.jpg> 水俣病69年 慰霊式で祈りの言葉
+      <a href=https://news.yahoo.co.jp/pickup/6537341>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/237c881c85f5b551bbf3a93ca0a64b8401910a9dc6f45ebd8a766006a5009dac.jpg> 日銀総裁 米関税「不確実性高い」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537337>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/5d8d52b7aae58e41405165859168270cad5d60201cd951b80b415eb67f7a1db5.jpg> 高額療養費見直し巡り専門委新設
+      <a href=https://news.yahoo.co.jp/pickup/6537345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/c1b67128376c534896ad58c095c618884c06482367f23647605be1030a3a2b69.jpg> 2日 関東甲信は激しい雨や雷雨に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537329>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/9573e43f282312eebbc47dcd4769b188d959dbf228befd4c97be891a021ec4cb.jpg> 韓国最高裁 李在明氏の無罪破棄
+      <a href=https://news.yahoo.co.jp/pickup/6537343>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/e7fe724fa93e3190069aeef75318e42eb3be0c09121cae5fb69f2bfe776e614a.jpg> 八潮陥没 下水管内で人の姿を確認
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 17:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 18:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
