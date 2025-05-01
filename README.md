@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1d7d0d119f9430de376eebddc07da517.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/98053b8cd4699ef3e15b2910e9a5c13d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/22e3781bc4463049734f13c9f34e338e046a7dee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000110-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=954&ch=954&exp=10800&fmt=webp> 中日・三浦瑞樹、プロ初先発は5回2失点で初勝利の権利持って降板　5回に痛恨の同点ソロ浴びるも直後に打線が勝ち越し
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ad44ed6f465984e4d4f3eeacff1afb194d0d8952>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-21890685-rbc-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 遠出の前の愛車点検で大型連休を楽しく安全に! JAFの隊員が指南　5分でできるセルフチェック
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/743060b1d8d7c6ddb1b2df76e9c3fbeb1c191cb9>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/16c1a85de21f7cd9e70c67d32249562ad51e4639>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000050-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 八潮の道路陥没、2日にも男性の救出作業へ　下水管調査し人の姿確認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc115d5da6ac2e21584e5404440c37becf5d5753>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35010991-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1162&ch=1162&exp=10800&fmt=webp> 【阪神】大竹耕太郎が今季初先発　佐藤輝明は10号なら自身最速２ケタ到達／スタメン一覧
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537351>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 維新代表 立憲の消費減税案を批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537334>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/1f58b8b145a9ae0f0c76cb5fe55c260074ed7ad8b5a70af650485b1b8514339e.jpg> 万博来場者に関係者を含む 批判も
+      <a href=https://news.yahoo.co.jp/pickup/6537359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/12bde08ceb7ecbe3604d394c6870187dd19846f1e4807399dcf393c5976e1ab5.jpg> 八潮陥没 2日にも男性の救出活動
       </a>
     </td>
   </tr>
@@ -420,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537349>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/69f7ffeecb0923c0f09f03b3b35324b989efaed7d9b4c6d7b521f92fe80028a5.jpg> 「スキップが命救った」被爆の5歳
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537359>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/12bde08ceb7ecbe3604d394c6870187dd19846f1e4807399dcf393c5976e1ab5.jpg> 八潮陥没 2日にも男性の救出活動
       </a>
     </td>
   </tr>
@@ -450,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537323>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/654635a52520df90a2f741c528ada7141631021ff15b97bbd1c1c7c23f1df436.jpg> ロマンス詐欺寸前 中3男子が救う
+      <a href=https://news.yahoo.co.jp/pickup/6537361>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/74922c75b7616994629d3417da461610eb278c334441803a4fbad8dec5699430.jpg> 顔にエアガン発射し前歯折る 逮捕
       </a>
     </td>
   </tr>
@@ -464,11 +448,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537346>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/ddf04073b31caf9296b673b9a00f4c432196f7006bcf645d0ff502374d0f7bef.jpg> SB激震 周東が脚骨折で復帰未定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537363>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/dcd5c527ec79389ad6584034a174853f1e9972f89095bf7bf1b5949e24ce04e1.jpg> 1人残し全員卒業 アイドルの決意
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 20:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 20:30:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
