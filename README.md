@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6b47318124f975710ea5d2f2652ea90f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4dcc1aec423c6c00177bed6b87df1933.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3b39be01a4d03b41d77ecf80c0c4a2d5bf9a7330>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00050163-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=383&ch=383&exp=10800&fmt=webp> 大阪・西成で児童７人はねた車、向きを変え下校の列に突っ込む…教員らが血だらけの児童救出
+      <a href=https://news.yahoo.co.jp/articles/9b3642d0bd995858a9f95ded407e7010f5f5c6da>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=1438&ch=1438&exp=10800&fmt=webp> 今年も「50－50」ペース！ 大谷翔平が三塁打と盗塁を決め勝利に貢献 ド軍監督「スーパースターであるのには理由がある」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f0b3a9311aecdc5f809985c002d2fbded50b4c77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010019-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=616&ch=616&exp=10800&fmt=webp> 【広島】悪夢のサヨナラ負け 6連敗で借金生活＆4位転落...岡本が12回2死から吉川に悲劇打を 大拙攻・初回3得点だけ15安打16残塁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/eb807b127b89c403e53171b282a8a27bcd92850e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-07234080-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「よく挨拶も…そんなふうには見えない」矢沢勇希容疑者を知る人　車で突っ込み児童7人が重軽傷　矢沢容疑者「すべてが嫌になって人を殺そうとした」殺人未遂容疑認める
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5543a441b4fca0a2e1749c18c98cf1bd9f9d1ae0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮道路陥没事故　運転席部分に人らしき姿発見／埼玉県
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e89d57e76f12cb5dbe6a4220725f7ca7240ae0e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000373-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1177&ch=1177&exp=10800&fmt=webp> 中日・三浦が移籍初登板、プロ初先発で初勝利　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2640a550ca4bb8a5d8036047c7209b7975b17859>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010001-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=1438&ch=1438&exp=10800&fmt=webp> 大谷翔平 三塁打に盗塁と高い走力が光る活躍！ ロバーツ監督「スターである重圧をはねのける事が出来る」
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537361>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/74922c75b7616994629d3417da461610eb278c334441803a4fbad8dec5699430.jpg> 顔にエアガン発射し前歯折る 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6537378>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/a5daca71b22fe7c1ebf3cf6b727884a262b96da15a4fa6cf7429e087d6308db6.jpg> 法大ハンマー殴打事件 女を起訴
       </a>
     </td>
   </tr>
@@ -436,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537364>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/f8091605f45bed367bf50ab5e24d02e2abde668c5a53847aa7aebee05ac2c701.jpg> 車全焼 バッテリーから出火したか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537352>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/f2c6c6b683cfa588c7870cdd54efc22565168305353b72bd957fd7e75a9fef86.jpg> タイが入国ルール変更 渡航者困惑
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537377>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/730f874510efafb5e2d72779c70a59212057947400be491bb6c5e92a9c62fa36.jpg> 新庄氏 上沢のクイック投球に驚き
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 22:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 23:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
