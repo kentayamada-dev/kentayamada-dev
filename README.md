@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/kWz9gVXQ7og?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9f48ddf97113940155c4928e3329f869.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f8f5f7f1b6207f2c5e6210c5f89c576f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f693612db53afb15fc1a459066389b79cd93119>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000412-spnannex-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　今季2度目の2打席連続アーチ　スキーンズ討ちの勝ち越し8号＆9号2ラン
+      <a href=https://news.yahoo.co.jp/articles/cac397ed49dbd300b9a2303e033844a52cbcb219>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-35020057-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 鈴木誠也２打席連続の勝ち越し８号ソロ＆９号２ラン　剛腕スキーンズからの１発「唯一の甘い球」
       </a>
     </td>
   </tr>
@@ -388,6 +388,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537382>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/03e2e7650d4f29279ff677ba37faa887a2ee76a84b7146e83197d3fa5b5cd520.jpg> 2回目の日米関税交渉が始まる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537385>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/b3d96b630bce29204290f8f333e917582c1869aa87fba379bba882dbcb719fb4.jpg> 米 ウォルツ大統領補佐官が退任
       </a>
     </td>
   </tr>
@@ -410,22 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537372>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/9be1f333421901db8d58890358a9935a67293e5dc5e6524751bc0d77f6808c53.jpg> 7人負傷 70代元警官が取り押さえ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537374>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/16d1af2fa7727b229208a170cd43785b42bce25728566708c8b252fb11868315.jpg> 宮内庁YouTube10万人 銀の盾贈呈
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537375>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/815a9c5060d75b442f0302a1936dca7e2328369aa2eb55c7b75e037fcdabcf71.jpg> ホテルのベッド下に男? 投稿波紋
       </a>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537380>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/261a4edee18031243af0da11eebbe65b6fc1d1babc61c7126ef0fc96a3b5ec43.jpg> 巨人 延長12回2死からサヨナラ
+      <a href=https://news.yahoo.co.jp/pickup/6537386>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/76b31eedfa15c07ee2c4868332bd4b0a56196b9ecdd94f6cfcdc162bec0fa18e.jpg> 鈴木誠也が2打席連続HR 8号&9号
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537342>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/9c735dbdd95ce077ad2e61ca5fc441645dd31185163873549a43d1badae295fa.jpg> インパルス堤下敦が再婚 妻は妊娠
+      <a href=https://news.yahoo.co.jp/pickup/6537383>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/2ee4898b7fd5dc32f8d493a27d199a5c9343f386963746580a7e033e47ecaa4a.jpg> 阿部監督 田中将大の2軍調整明言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537384>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/cf7c651d3a69af236545879003e6afba4084f44515e0fe2d09ac28156fb0d8f9.jpg> 小松菜奈 映画「8番出口」に出演
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 07:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 07:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
