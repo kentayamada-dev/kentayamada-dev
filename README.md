@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/kWz9gVXQ7og?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1077a8b927d6d24cdaedb2ad3b09bcae.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/11a5b86b260bebc1350ec3d750502a19.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82c55046d0b2e6653f02e280f77bb27010007cf3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000074-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1017&ch=1017&exp=10800&fmt=webp> ドジャース・大谷　3得点で両リーグトップ32得点！ゲーリッグに並ぶ167得点ペース　ルースも見えた
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6ff746346e5ad412495945f2b505347eef68ba65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-90023958-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 運転手とみられる姿を目視…八潮道路陥没 あすにも救出活動を開始　事故から３カ月
+      <a href=https://news.yahoo.co.jp/articles/5911a9edfeb482781be95b838b1dc19d11a31de7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 大谷翔平　リーグ最多３２得点　三塁打、二盗、３得点で堅首に貢献　ド軍４月５連勝締め
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 02:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 02:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
