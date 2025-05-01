@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/81908d9917c97bf7283f921b56c0535d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/135617aa1e965e322a4ec7c3982c8115.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/850debbdf8cc12b31832eaf0975312d3a5b3790c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00172567-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=420&ch=420&exp=10800&fmt=webp> 「時には夢は待たなければならない」アジア制覇に懸けていた40歳C・ロナウド、川崎に敗れて涙。悲痛な思いを明かす【ACLE準決勝】
+      <a href=https://news.yahoo.co.jp/articles/53d0e6180959ae7e1d531f096b7816241527319d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000340-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=418&ch=418&exp=10800&fmt=webp> ダンサー菅原小春、俳優・黒田大輔と結婚　直筆連盟で報告「地球に優しい家族になっていきたいです」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57d258b41167a52f55750c6e1bcd3838f9d2591f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-05011044-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「５８本ペースです」…大谷翔平「７号」で「モーニングショー」玉川徹氏が独自計算「一時期よりはペース上がっている」
+      <a href=https://news.yahoo.co.jp/articles/7ba32650ef4ad7a5227cb543a4615a50bf186bcb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35010249-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=956&ch=956&exp=10800&fmt=webp> ロバーツ監督「彼らがスーパースターたるゆえん」大谷翔平1安打3得点、MVPトリオ活躍５連勝
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537283>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/3ad4e8de6e902e600a03844bb1f1672f9d389ba66f2f7beb3b51a90face8ac1e.jpg> 県外搬送され491gで出産 18年軌跡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537281>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/aa803a744e6b6c7dd10e13c5f313db59ff2caf79f02ba8cacc71f85c78a2606e.jpg> 「居酒屋」ワタミ 健康事業を拡大
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537273>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/526ecc806dfe3663a45e3efa611ee309a36e424a2ede209447cb329e381465c3.jpg> 珍事 ド軍ファンが二塁打「強奪」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/0660081a9f4c1c81527ed61814240d937c3dfbf68124a59606083f5c04d9a95b.jpg> ぬ～べ～ 異例の新連載2本開始へ
+      <a href=https://news.yahoo.co.jp/pickup/6537284>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/7c7a7d38e8a5241b13a3d4af056ee22afcefd05094fd30a29b07cae617791f7a.jpg> 黒田大輔&ダンサー菅原小春が結婚
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 09:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 09:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
