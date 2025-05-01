@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e6cbf14f24488dd98609dbc9ce7c56ff.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/82791adcc497e6eee5dcd00ca1882c72.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5db056d406af8e03f358ff1e726bb20bd42659f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-90023935-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=366&cy=0&cw=935&ch=935&exp=10800&fmt=webp> インパルス・堤下敦、再婚＆妻の妊娠発表「キレたらむちゃくちゃこえ～っす」
+      <a href=https://news.yahoo.co.jp/articles/0f56ca7691cf9a02f2d529ae8be0aa083f34fad4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35011203-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1133&ch=1133&exp=10800&fmt=webp> 13年牝馬２冠のメイショウマンボ死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f559e91f5526dc35e1f7e5837a821bb2eabf032>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000178-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 埼玉の下水道管内に人らしき姿　八潮陥没事故で不明男性か
+      <a href=https://news.yahoo.co.jp/articles/f9c75c08f4f1c19b958299b039513a42756069b5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010001-teletamav-000-1-thumb.jpg?exp=10800&fmt=webp> 八潮市道路陥没事故　捜索再開に向け調査実施／埼玉県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2635aa804a39ffaf277a4a5aba52cf015691677e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-07234044-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 5月スタートは晴天もあす（2日）は雷雨に警戒！　土曜日から月曜日にかけて西～東日本 日中は晴れる所が多く行楽日和
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5feb0b11a28940e127e9f19b731321448985a604>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000444-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=838&ch=838&exp=10800&fmt=webp> 万博会場、間違える人“相次ぐ”　1970年大阪万博の跡地「万博記念公園」が注意喚起
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000444-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=838&ch=838&exp=10800&fmt=webp> 万博会場、間違える人“相次ぐ”　1970年大阪万博の跡地「万博記念公園」が注意喚起
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537341>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/237c881c85f5b551bbf3a93ca0a64b8401910a9dc6f45ebd8a766006a5009dac.jpg> 日銀総裁 米関税「不確実性高い」
+      <a href=https://news.yahoo.co.jp/pickup/6537345>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/c1b67128376c534896ad58c095c618884c06482367f23647605be1030a3a2b69.jpg> 2日 関東甲信は激しい雨や雷雨に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537345>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/c1b67128376c534896ad58c095c618884c06482367f23647605be1030a3a2b69.jpg> 2日 関東甲信は激しい雨や雷雨に
+      <a href=https://news.yahoo.co.jp/pickup/6537334>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/1f58b8b145a9ae0f0c76cb5fe55c260074ed7ad8b5a70af650485b1b8514339e.jpg> 万博来場者に関係者を含む 批判も
       </a>
     </td>
   </tr>
@@ -426,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537339>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/307c72b6b5b3fca71866e5033f0798ba36f4618872fe4e53d1e46b35f54ac4c4.jpg> 薬の誤投与で死亡 看護師書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6537331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/5c96b4bd60e05b566190303615d26d9560e0b523e7df5c1cd2fdd5c550a1b043.jpg> 天皇ご一家の生活費 職員が窃取か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/5c96b4bd60e05b566190303615d26d9560e0b523e7df5c1cd2fdd5c550a1b043.jpg> 天皇ご一家の生活費 職員が窃取か
+      <a href=https://news.yahoo.co.jp/pickup/6537348>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/229128575e1973e61ebf1b0af9401c5c0cc1cc0f78272b1a2164fb41322e046f.jpg> メイショウマンボが急死 G1で3勝
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 18:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 19:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
