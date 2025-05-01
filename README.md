@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2178951e5df85e5edaaac95b47d7fe72.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/504292f15b578a50e4a0277b37940bb4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8278f9757eeb66fb06e327d893467d82b5b40994>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 運転のSUVはレンタカー　小学生7人殺人未遂事件　大阪府警
+      <a href=https://news.yahoo.co.jp/articles/3cca21f5124af50fa1c7ac8ca34ab82ce3c9bb3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> もう限界？！「日米通算200勝は見えてこない」巨人の田中将大が3回8安打3失点KOで阿部監督が「次（の登板）はいつとは言えない」と“無期限”2軍落ちを通達…再生の可能性はあるのか？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e4014b5a24b9b5e0dd56c698dac25979c386dd2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 運転手の捜索再開　県道陥没事故　埼玉
+      <a href=https://news.yahoo.co.jp/articles/834a27ab4eb3da8c2bf22b551d373419caea0df2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00966278-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 八潮市の道路陥没 調査で男性の姿を目視　2日朝から救出活動開始
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 06:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 06:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
