@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5f0dbcf06b3c786f61ba42c763ad65cb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/163d9bc02f6aa452068a9bd72dce26ba.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2406f55972b08a30833cb56bf04415fa25a2789>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000064-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=436&ch=436&exp=10800&fmt=webp> 万博記念公園「大阪・関西万博の会場ではありません」　間違えて来る人多数
+      <a href=https://news.yahoo.co.jp/articles/cf0843e2b3fc4f32e9a2df519eff7baea9a2f93f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-04556060-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 日テレ郡司恭子アナ、結婚発表 挙式も報告【全文】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5b4753e60e377a77fb7d553ff4b6e064d5f2c8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-07233882-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 埼玉・八潮陥没　下水道管内に残された男性運転手(74)の捜索を再開　約2か月半ぶり　下水道管内に初めて人が入る
+      <a href=https://news.yahoo.co.jp/articles/783565fc40807d7c0c17a565af0a70adde39c9e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010009-annd-000-1-thumb.jpg?exp=10800&fmt=webp> 埼玉・八潮市陥没事故　下水道管内に初めて作業員入る　救助開始に向け準備
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b2406f55972b08a30833cb56bf04415fa25a2789>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000064-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=436&ch=436&exp=10800&fmt=webp> 万博記念公園「大阪・関西万博の会場ではありません」　間違えて来る人多数
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2886da435cefd7ff9ee3d7e2cc5a987b11413fa9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010000-piaeigat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 草彅剛主演のNetflix映画『新幹線大爆破』特撮メイキング画像7点が公開
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537287>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/3e8e5cb5a62879f9f78ca3da4ae1dd2fd196bd65f12bc1e8b8983539bc90c3df.jpg> 参院選 低迷自民は反転に妙案なく
+      <a href=https://news.yahoo.co.jp/pickup/6537305>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/86a17fa71599bcf662a63d806c0df4e9b8319be8343e447d8d8818dedf924329.jpg> 日銀 政策金利0.5%で据え置き
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537290>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/4fa6189c4d5833ff5a2dea6004774bbaaff1421079dbf1c7041defc65e85a758.jpg> 米大統領また政敵排除 ハリス氏夫
+      <a href=https://news.yahoo.co.jp/pickup/6537302>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/ff3be7e88c40370a56708b80c5bc9d91faa6fe159f43ccde431a86d817ad53ea.jpg> 米「寄港料」方針 海運・車が警戒
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537299>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/4fa1e8c0b4bcff2a47a975c8c3014bf296e2dbd79aa1d725d4a96a2323f0ccaf.jpg> 会社がGW予定を提出要求 問題は
+      <a href=https://news.yahoo.co.jp/pickup/6537301>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/08318e39c4cd418531841ba824425b71f9042ce460ccfe01d573d68ce6ed9f31.jpg> セブン カナダ大手と秘密保持契約
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537295>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/737abfbb13888cb1c1d66b184a532c136256aa33184031aac9d209d1f33d8f20.jpg> 90年代服 フェリシモ語る復刻販売
+      <a href=https://news.yahoo.co.jp/pickup/6537299>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/4fa1e8c0b4bcff2a47a975c8c3014bf296e2dbd79aa1d725d4a96a2323f0ccaf.jpg> 会社がGW予定を提出要求 問題は
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/9742365dbaca956d69721fff95c6def764fe89638d666ac9bb1e92222bd54477.jpg> 新幹線大爆破 Netflixで世界2位
+      <a href=https://news.yahoo.co.jp/pickup/6537308>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/411496ecb3070927e541ffe52e1242d967b4591f174d04158fa5d4b96af047d7.jpg> 日テレ・郡司恭子アナ 結婚を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537284>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/7c7a7d38e8a5241b13a3d4af056ee22afcefd05094fd30a29b07cae617791f7a.jpg> 黒田大輔&ダンサー菅原小春が結婚
+      <a href=https://news.yahoo.co.jp/pickup/6537300>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/9742365dbaca956d69721fff95c6def764fe89638d666ac9bb1e92222bd54477.jpg> 新幹線大爆破 Netflixで世界2位
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 12:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 12:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
