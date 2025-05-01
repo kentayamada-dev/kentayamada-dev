@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/38dddd676e5b188c7852642d16a22903.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b2916aa3b72ca1e1f897b8b7a62a4925.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4bddf11c20f1b60508b5bad42f1ebbc22d388774>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00544126-norimono-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ここは最寄り駅ではありません！ “大阪万博”会場と間違え続出!? 似た駅名に注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b7e4aee40bb98c0b5595dd144b858eb996880ca8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-05011059-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 西武・山野辺翔がヤクルトへ金銭トレード移籍　「びっくり。思い出は星の数ほどありすぎて」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/08c9c55e374abbb74b7fabe1c49396a94b9303ca>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05a16d1fc02272dc47f242db04af18309cac0a16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35010354-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【西武】山野辺翔「びっくりしている」ヤクルトにトレード決定　思い出「星の数ほどありすぎて…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aa4f422e7b098edfe04bbb36322c3d45dffc0767>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00965691-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 不明のトラック運転手捜索再開に向け…道路陥没事故後初・下水道管の中に入り調査開始　埼玉・八潮市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0af34ac612d45dfaf4538398fcf4f1b7aba5a265>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000064-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=812&ch=812&exp=10800&fmt=webp> 【内田雅也の追球】「一撃必殺」の思想
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537274>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/ade7af752ce23dbc6e3ff43550e2a98bee50860f570e0b18d9a51a8d4f495d7c.jpg> マスク氏 米政権に「別れ」か
+      <a href=https://news.yahoo.co.jp/pickup/6537275>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/c5f7a2dc73ea8bd4f580779d3811d5c189fc3fcb7a9dd6a2f4192c76ef24db9a.jpg> 中国軍高官の失脚相次ぐ 汚職疑惑
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537289>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/fabf7a1eb23fb5be91df2241a5f129bf3183f2bc9bc0badc31b0cf0d30820a5c.jpg> 西武・山野辺 ヤクルトにトレード
+      <a href=https://news.yahoo.co.jp/pickup/6537292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/915c6e48d1e969b4051d8fda2a3ee26f27aed179e6d659c27f7a1a073bc89af1.jpg> グーグル iPhoneなどにAI提供協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/bb97b05051e3b96209212c11d577648d926abfe2368e86f4f68e1560c2ccf9cb.jpg> 大谷が5戦連続の安打 盗塁も成功
+      <a href=https://news.yahoo.co.jp/pickup/6537289>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/fabf7a1eb23fb5be91df2241a5f129bf3183f2bc9bc0badc31b0cf0d30820a5c.jpg> 西武・山野辺 ヤクルトにトレード
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 10:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 11:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
