@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b1b36ed7851ea39673887327bfd893e6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3421b73e57567e8a7f7c41ac6d2ff335.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5911a9edfeb482781be95b838b1dc19d11a31de7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000000-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 大谷翔平　リーグ最多３２得点　三塁打、二盗、３得点で堅首に貢献　ド軍４月５連勝締め
+      <a href=https://news.yahoo.co.jp/articles/3844a767ffcf578121e484f2d39db16826d31235>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-05011243-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、またルースの記録狙う　得点数現在トップ　ＭＬＢ最多へ可能性十分
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c97b85faf096945b8bcf881901076064359bc17e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000191-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=716&ch=716&exp=10800&fmt=webp> 巨人・阿部監督「全員で勝った素晴らしい価値のある1勝」　今季最長4時39分の死闘にサヨナラ勝ち
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22909e603c00b7ff429a16eddc394f470dd2477f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35011868-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=1012&ch=1012&exp=10800&fmt=webp> 【阪神】小幡竜平が転倒＆走者追う間に決勝点献上…４連敗に藤川監督「今はそういう時期」
+      <a href=https://news.yahoo.co.jp/articles/773e08537c574f1709e68506db2a46f65b76ce3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-07234099-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「小学校の生徒をひき殺そうと…」下校中の児童に車で突っ込む 7人がはねられ1人重傷　28歳男を殺人未遂の疑いで現行犯逮捕　大阪・西成区
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 03:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 04:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
