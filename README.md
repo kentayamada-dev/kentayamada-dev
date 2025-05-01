@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/65410ffc8a5fa4893b24028bcc5e4017.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a4874ebdbf8e4aae23b59a99eecdce4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80f3cde34d6c0537de88984530e0c07a8d8c1e8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00296602-magmix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「えっ、ここ万博会場じゃないの？」　間違えやすい駅名の悲劇　過去にはアイドルが遅刻する珍事も
+      <a href=https://news.yahoo.co.jp/articles/d1ff13e339cd11d2a94ffcfab319c2adc22a215b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-16385417-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 米経済が3年ぶりにマイナス成長、トランプ大統領は「時間が欲しい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b71c1c91f46afbf2d2b77818ab4e20e525a059fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00095876-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=961&ch=961&exp=10800&fmt=webp> MLBで男性ファンが6.4ｍのスタンドから転落。担架で運び出される事態に球場騒然「非常に残念だ。控えめな表現だけど」
+      <a href=https://news.yahoo.co.jp/articles/3779142466a3ecf341a99e59dfcc7c2dd524fbb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-05914855-ytv-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】子ども7人が車にはねられ負傷、殺人未遂事件として捜査「50代くらいの男性が放心状態」「女の子は1人血まみれで…」大阪・西成区
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/80f3cde34d6c0537de88984530e0c07a8d8c1e8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00296602-magmix-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「えっ、ここ万博会場じゃないの？」　間違えやすい駅名の悲劇　過去にはアイドルが遅刻する珍事も
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2654697271ea2b4d6117e01d574ca054e58fc2b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000200-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ヤンキース・ジャッジが2戦連発10号に3安打　打率・427＆10本塁打＆32打点で“3冠王”に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb94e316f7bff07dc1ffad57b01241dfb52c65ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00078859-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米GDPマイナス成長は「バイデンのせい」、トランプが責任転嫁
+      <a href=https://news.yahoo.co.jp/articles/6fa32774e0e195ce54d1bb42c38a1b5fe2aaeb6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-90023904-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 原因は「ヘビ」　架線ショートで停電　GW中の東海道新幹線が一部区間で運転見合わせ
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537311>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/54adda724a77bbeed6bd8b18b0da9925e9de1546bba3c7b8f1544181e7c57dd3.jpg> 慶応大の生成AI対策が話題 狙いは
+      <a href=https://news.yahoo.co.jp/pickup/6537306>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/786c57df8f770817bfbf0b338a6d3084b965633e8941a1375fff95154c63174b.jpg> 痩せ推奨 ベルギーがTikTok警鐘
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 15:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 15:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
