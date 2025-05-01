@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0e45efbf2aa8b4b0cd83dc75caf63e45.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/81908d9917c97bf7283f921b56c0535d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/850debbdf8cc12b31832eaf0975312d3a5b3790c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00172567-sdigestw-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=420&ch=420&exp=10800&fmt=webp> 「時には夢は待たなければならない」アジア制覇に懸けていた40歳C・ロナウド、川崎に敗れて涙。悲痛な思いを明かす【ACLE準決勝】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57d258b41167a52f55750c6e1bcd3838f9d2591f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-05011044-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「５８本ペースです」…大谷翔平「７号」で「モーニングショー」玉川徹氏が独自計算「一時期よりはペース上がっている」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0af34ac612d45dfaf4538398fcf4f1b7aba5a265>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000064-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=812&ch=812&exp=10800&fmt=webp> 【内田雅也の追球】「一撃必殺」の思想
       </a>
@@ -365,32 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37da1d0f9d955d2ef60ab0f044f8654ef9d9ccba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-01745079-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「ダメだ面白すぎる」大谷翔平にSNS騒然　“パパ第1号”よりも話題となった打席前
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31f7f1c9f88b9e2fea4ffef4c2ccde0d53278d4f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-10176228-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=618&cy=0&cw=775&ch=775&exp=10800&fmt=webp> トランプ大統領、GDPマイナス成長は「バイデン政権の責任」と主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b3f796aeb0c2c035d74673ca6cc4c1b3a4738c41>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-10176226-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 埼玉・八潮道路陥没事故 下水道管内に消防隊員らが入り初の確認作業開始
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbb38855754db43fb1b1869a2e9ea9779aefd747>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35010064-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1207&ch=1207&exp=10800&fmt=webp> 【ACLE】川崎F初決勝！MVP伊藤達哉「強さ世界に」大関友翔「全員でアジア制覇したい」
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/4/30/7004a08562095be193003c5f2d4e2ebd96440ac7f7c1ec4bb971ba40f23234a6.jpg> 「強い叱責」25歳自死 遺族が提訴
+      <a href=https://news.yahoo.co.jp/pickup/6537281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/aa803a744e6b6c7dd10e13c5f313db59ff2caf79f02ba8cacc71f85c78a2606e.jpg> 「居酒屋」ワタミ 健康事業を拡大
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 08:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 09:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
