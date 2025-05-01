@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a4874ebdbf8e4aae23b59a99eecdce4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1bbd0f98a573520cd066434ec7f94f8c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/73a906dee002fef5762f40333e7bba3c41fee4f6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-06264459-sp_ctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 停電の原因は「ヘビ」　30日の東海道新幹線一時運転見合わせ　ヘビが架線に絡まりショート　JR東海
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d97ab0d874743102bc6a0dcc711b61c5445e12bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000007-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=475&cy=0&cw=1298&ch=1298&exp=10800&fmt=webp> 「いじめや差別受けても、子の前ではつらい顔見せなかった」　水俣病公式確認69年 慰霊式　熊本、鹿児島の犠牲者悼む
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/067e7971cf40da9a6836913d44719839d4aa6e00>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-10035772-bfj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=1422&ch=1422&exp=10800&fmt=webp> 【当公園は2025年大阪・関西万博の会場ではございません】万博記念公園が注意喚起 ⇒「記憶を頼りに来るのかな」「土地勘ないと仕方ない」の声
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d1ff13e339cd11d2a94ffcfab319c2adc22a215b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-16385417-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 米経済が3年ぶりにマイナス成長、トランプ大統領は「時間が欲しい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3779142466a3ecf341a99e59dfcc7c2dd524fbb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-05914855-ytv-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】子ども7人が車にはねられ負傷、殺人未遂事件として捜査「50代くらいの男性が放心状態」「女の子は1人血まみれで…」大阪・西成区
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80f3cde34d6c0537de88984530e0c07a8d8c1e8a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00296602-magmix-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「えっ、ここ万博会場じゃないの？」　間違えやすい駅名の悲劇　過去にはアイドルが遅刻する珍事も
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fa32774e0e195ce54d1bb42c38a1b5fe2aaeb6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-90023904-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 原因は「ヘビ」　架線ショートで停電　GW中の東海道新幹線が一部区間で運転見合わせ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537305>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/86a17fa71599bcf662a63d806c0df4e9b8319be8343e447d8d8818dedf924329.jpg> 日銀 政策金利0.5%で据え置き
+      <a href=https://news.yahoo.co.jp/pickup/6537313>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/c8d833488dd0c1a9f0707dcfee568c6d7c29cfaac11c929ab89f9b6fbca59d46.jpg> 万博のインド館 18日遅れで開館
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537321>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/bf16c03011f55b775c4edccc4e9ba3b196193f9cab02ffcea8719e1edc4c1b65.jpg> トランプ氏を閣議で2h超礼賛 米
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537319>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/aca8c97a8fc437202856bb3df0ef40765d1f9c1b98d4619c7563b57bbdca560b.jpg> 子供7人が車にはねられケガ 大阪
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537315>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/62de610963e2666ae70de89fa58eac1011dd01e49ed6834c7a279e7141e41f67.jpg> 横浜市で顔切り付けられる 男逃走
+      <a href=https://news.yahoo.co.jp/pickup/6537323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/654635a52520df90a2f741c528ada7141631021ff15b97bbd1c1c7c23f1df436.jpg> ロマンス詐欺寸前 中3男子が救う
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537308>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/8f01af60167e0574b00f20a0cf96ad223b6ff711a9510b61e493082eccee5fd8.jpg> 日テレ・郡司恭子アナ 結婚を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537317>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/60f4d4d216d67815565728b6bd7a7fcae7802170a231f6896378770574faf7b8.jpg> 鳥山明さん原作アニメ NHK放送へ
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 15:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 16:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
