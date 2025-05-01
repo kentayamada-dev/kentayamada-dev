@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b2916aa3b72ca1e1f897b8b7a62a4925.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86669c77d343783875969a6c40d829a0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bddf11c20f1b60508b5bad42f1ebbc22d388774>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00544126-norimono-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ここは最寄り駅ではありません！ “大阪万博”会場と間違え続出!? 似た駅名に注意
+      <a href=https://news.yahoo.co.jp/articles/dd5cc67ef14d1a69b1aefb892423ccc4afb783e5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000156-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=55&cw=1091&ch=1091&exp=10800&fmt=webp> “元”万博会場が注意喚起「大阪・関西万博の会場ではございません」　間違う来場者が多発で…
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b7e4aee40bb98c0b5595dd144b858eb996880ca8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-05011059-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 西武・山野辺翔がヤクルトへ金銭トレード移籍　「びっくり。思い出は星の数ほどありすぎて」
+      <a href=https://news.yahoo.co.jp/articles/66b06d0c980e67a912412208aa2d33b18d409946>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000019-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=561&ch=561&exp=10800&fmt=webp> 埼玉・八潮の道路陥没　下水道管内の立ち入り調査を実施　事故後初
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4e198fb9e2486ccd297a18f78d402b6b0f9feead>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010003-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=369&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 故障者続出で最下位のヤクルトが西武から“ユーティリティ”山野辺翔を金銭で緊急トレード…今季無安打の本人は「びっくりしている。スワローズでも元気よく自分らしく」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa4f422e7b098edfe04bbb36322c3d45dffc0767>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00965691-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 不明のトラック運転手捜索再開に向け…道路陥没事故後初・下水道管の中に入り調査開始　埼玉・八潮市
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537278>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/6c7e3978ee9c2e611e0594c5c300b6e1002ed63589b63080deddc57f1fe72cae.jpg> GDP巡り米大統領 バイデンのせい
+      <a href=https://news.yahoo.co.jp/pickup/6537290>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/4fa6189c4d5833ff5a2dea6004774bbaaff1421079dbf1c7041defc65e85a758.jpg> 米大統領また政敵排除 ハリス氏夫
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537275>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/c5f7a2dc73ea8bd4f580779d3811d5c189fc3fcb7a9dd6a2f4192c76ef24db9a.jpg> 中国軍高官の失脚相次ぐ 汚職疑惑
+      <a href=https://news.yahoo.co.jp/pickup/6537292>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/915c6e48d1e969b4051d8fda2a3ee26f27aed179e6d659c27f7a1a073bc89af1.jpg> グーグル iPhoneなどにAI提供協議
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537283>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/3ad4e8de6e902e600a03844bb1f1672f9d389ba66f2f7beb3b51a90face8ac1e.jpg> 県外搬送され491gで出産 18年軌跡
+      <a href=https://news.yahoo.co.jp/pickup/6537295>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/737abfbb13888cb1c1d66b184a532c136256aa33184031aac9d209d1f33d8f20.jpg> 90年代服 フェリシモ語る復刻販売
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537292>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/915c6e48d1e969b4051d8fda2a3ee26f27aed179e6d659c27f7a1a073bc89af1.jpg> グーグル iPhoneなどにAI提供協議
+      <a href=https://news.yahoo.co.jp/pickup/6537293>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/39944ea1c4fd9c944491c84bb4765ed2571f425f43665e3c25d6f80315ed027e.jpg> サバかと思ったら古代魚 漁師驚く
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 11:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 11:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
