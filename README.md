@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/32943c33eb3a979c0f70897d7ea8207e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b37367c4160969059b6adc50be0b9239.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0f54cf4bacc2d2887318c5933346ba9b4f4d4e1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-35012078-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=114&cw=1272&ch=1272&exp=10800&fmt=webp> 【広島】今季最多16安打も16残塁で借金１「ヒットは出ているしチャンスはつくれている」監督
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/68368daf277beb9675cf73c938e2571bae1e1f6b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000186-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平、1安打1盗塁…5戦連続H＆チーム5連勝　得点はメジャートップの「32」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/22909e603c00b7ff429a16eddc394f470dd2477f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35011868-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=1012&ch=1012&exp=10800&fmt=webp> 【阪神】小幡竜平が転倒＆走者追う間に決勝点献上…４連敗に藤川監督「今はそういう時期」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b3642d0bd995858a9f95ded407e7010f5f5c6da>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=1438&ch=1438&exp=10800&fmt=webp> 今年も「50－50」ペース！ 大谷翔平が三塁打と盗塁を決め勝利に貢献 ド軍監督「スーパースターであるのには理由がある」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f8ed8c2c2bac1acb639cd04def0f53350b00645>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-07567934-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【巨人】巨人サヨナラ勝利で4連勝　延長12回・吉川尚輝のヒットでキャベッジ激走　8投手で初回以降得点許さず
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35011868-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=1012&ch=1012&exp=10800&fmt=webp> 【阪神】小幡竜平が転倒＆走者追う間に決勝点献上…４連敗に藤川監督「今はそういう時期」
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537377>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/730f874510efafb5e2d72779c70a59212057947400be491bb6c5e92a9c62fa36.jpg> 新庄氏 上沢のクイック投球に驚き
+      <a href=https://news.yahoo.co.jp/pickup/6537342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/9c735dbdd95ce077ad2e61ca5fc441645dd31185163873549a43d1badae295fa.jpg> インパルス堤下敦が再婚 妻は妊娠
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 23:51:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 00:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
