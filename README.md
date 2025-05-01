@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/504292f15b578a50e4a0277b37940bb4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9f48ddf97113940155c4928e3329f869.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3cca21f5124af50fa1c7ac8ca34ab82ce3c9bb3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010000-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> もう限界？！「日米通算200勝は見えてこない」巨人の田中将大が3回8安打3失点KOで阿部監督が「次（の登板）はいつとは言えない」と“無期限”2軍落ちを通達…再生の可能性はあるのか？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010000-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> もう限界？！「日米通算200勝は見えてこない」巨人の田中将大が3回8安打3失点KOで阿部監督が「次（の登板）はいつとは言えない」と“無期限”2軍落ちを通達…再生の可能性はあるのか？
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537371>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/59a0ab89a7f87affbf003e1ae46ea3fa61b35c53f129a61a5d17058eb56de260.jpg> 2回目の関税協議へ 交渉カードは
+      <a href=https://news.yahoo.co.jp/pickup/6537382>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/03e2e7650d4f29279ff677ba37faa887a2ee76a84b7146e83197d3fa5b5cd520.jpg> 2回目の日米関税交渉が始まる
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 06:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 07:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
