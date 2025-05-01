@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/200fe5dc49c0296085ecaf73d497cad9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/029e520cd3c3790d7208c1d1db311e17.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ef7291f2c1a89ae09d43405ee66aca409c6c264>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】八潮市道路陥没事故でトラック運転手の救出活動開始　埼玉県
+      <a href=https://news.yahoo.co.jp/articles/607acb21c75bfe0025c8e64615dc45a2cbeb79c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-10512073-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=659&ch=659&exp=10800&fmt=webp> メッツ、今季初の本拠地カード負け越し　千賀滉大は4回1失点で今季2敗目　ソトが2打席連発も反撃及ばず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f9140e22198dbc463e2ac3535adce5c41640e847>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-04429827-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 八潮市道路陥没　トラック運転手の救出活動を開始　消防などが下水道管の中へ
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2f693612db53afb15fc1a459066389b79cd93119>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000412-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　今季2度目の2打席連続アーチ　スキーンズ討ちの勝ち越し8号＆9号2ラン
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000412-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　今季2度目の2打席連続アーチ　スキーンズ討ちの勝ち越し8号＆9号2ラン
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 05:00:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 05:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
