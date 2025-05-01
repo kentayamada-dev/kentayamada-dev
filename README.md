@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/LZH_M0iFRpU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/kWz9gVXQ7og?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/135617aa1e965e322a4ec7c3982c8115.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e14abf6ecc0dc2bb2c7cb7a209ac0d62.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53d0e6180959ae7e1d531f096b7816241527319d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000340-oric-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=418&ch=418&exp=10800&fmt=webp> ダンサー菅原小春、俳優・黒田大輔と結婚　直筆連盟で報告「地球に優しい家族になっていきたいです」
+      <a href=https://news.yahoo.co.jp/articles/168834e09e610a1d38801c69984dc8d1d5d1486f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000014-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> トランプ氏、1～3月のGDP悪化は「バイデンのせい」　責任押しつけ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aa4f422e7b098edfe04bbb36322c3d45dffc0767>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00965691-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 不明のトラック運転手捜索再開に向け…道路陥没事故後初・下水道管の中に入り調査開始　埼玉・八潮市
       </a>
     </td>
   </tr>
@@ -381,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b3f796aeb0c2c035d74673ca6cc4c1b3a4738c41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-10176226-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 埼玉・八潮道路陥没事故 下水道管内に消防隊員らが入り初の確認作業開始
+      <a href=https://news.yahoo.co.jp/articles/1fcf91b3ff9f0cf59a165f1607166fcdd4c7800d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 各選挙区情勢　2025参院選
       </a>
     </td>
   </tr>
@@ -394,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/e798b1878e00cbb94b047f9de17bdd4ffd8f96191ab5f26c5c4281738b079c93.jpg> 米ウが鉱物資源巡る協定に署名
+      <a href=https://news.yahoo.co.jp/pickup/6537287>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/3e8e5cb5a62879f9f78ca3da4ae1dd2fd196bd65f12bc1e8b8983539bc90c3df.jpg> 参院選 低迷自民は反転に妙案なく
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537269>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/cc247ebbf5df6fafc2cff1457a85c99cd3bd87f2bf45a00398a85eab50263217.jpg> 首相 2回目交渉でも関税撤廃要求
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537276>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/0d3491e32238968aa7d68cc64148acda29b886ef5d54020d5ce925a2afcca50b.jpg> 八潮陥没 下水道管内を目視で調査
+      <a href=https://news.yahoo.co.jp/pickup/6537278>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/6c7e3978ee9c2e611e0594c5c300b6e1002ed63589b63080deddc57f1fe72cae.jpg> GDP巡り米大統領 バイデンのせい
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537286>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/bcb4046474246a1c74a968757fb161d053c718b0dda197777ab206cffe73cbc3.jpg> 万博会場ではない 元開催地が注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537283>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/3ad4e8de6e902e600a03844bb1f1672f9d389ba66f2f7beb3b51a90face8ac1e.jpg> 県外搬送され491gで出産 18年軌跡
       </a>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537281>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/aa803a744e6b6c7dd10e13c5f313db59ff2caf79f02ba8cacc71f85c78a2606e.jpg> 「居酒屋」ワタミ 健康事業を拡大
+      <a href=https://news.yahoo.co.jp/pickup/6537285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/bb97b05051e3b96209212c11d577648d926abfe2368e86f4f68e1560c2ccf9cb.jpg> 大谷が5戦連続の安打 盗塁も成功
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 09:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 10:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
