@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e14abf6ecc0dc2bb2c7cb7a209ac0d62.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/38dddd676e5b188c7852642d16a22903.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/168834e09e610a1d38801c69984dc8d1d5d1486f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000014-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=554&ch=554&exp=10800&fmt=webp> トランプ氏、1～3月のGDP悪化は「バイデンのせい」　責任押しつけ
+      <a href=https://news.yahoo.co.jp/articles/08c9c55e374abbb74b7fabe1c49396a94b9303ca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010000-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 1－3月期米国GDPは3年ぶりのマイナス成長：年後半に景気後退入りの可能性も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5a2e8b571261d463e262de79e44d179e6f561048>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-10511989-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=570&ch=570&exp=10800&fmt=webp> カージナルス、同地区レッズとのダブルヘッダーを連勝　ヌートバーが6試合ぶりの5号ソロ　マイコラスは待望の今季1勝目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/05a16d1fc02272dc47f242db04af18309cac0a16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35010354-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=422&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【西武】山野辺翔「びっくりしている」ヤクルトにトレード決定　思い出「星の数ほどありすぎて…」
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ba32650ef4ad7a5227cb543a4615a50bf186bcb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35010249-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=956&ch=956&exp=10800&fmt=webp> ロバーツ監督「彼らがスーパースターたるゆえん」大谷翔平1安打3得点、MVPトリオ活躍５連勝
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0af34ac612d45dfaf4538398fcf4f1b7aba5a265>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000064-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=82&cw=812&ch=812&exp=10800&fmt=webp> 【内田雅也の追球】「一撃必殺」の思想
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fcf91b3ff9f0cf59a165f1607166fcdd4c7800d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 各選挙区情勢　2025参院選
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537285>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/bb97b05051e3b96209212c11d577648d926abfe2368e86f4f68e1560c2ccf9cb.jpg> 大谷が5戦連続の安打 盗塁も成功
+      <a href=https://news.yahoo.co.jp/pickup/6537289>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/fabf7a1eb23fb5be91df2241a5f129bf3183f2bc9bc0badc31b0cf0d30820a5c.jpg> 西武・山野辺 ヤクルトにトレード
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537277>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/dc971119a4877238047aac5883cca7f80154482adfbf29cf140ca6e832cb7513.jpg> 川崎ACLE決勝へ 敗れたCロナ涙
+      <a href=https://news.yahoo.co.jp/pickup/6537285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/bb97b05051e3b96209212c11d577648d926abfe2368e86f4f68e1560c2ccf9cb.jpg> 大谷が5戦連続の安打 盗塁も成功
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 10:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 10:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
