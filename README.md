@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0156f2c63c00cef7943a20d75c4a3070.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/79bbc93f8cd58f25dd6610c889d91824.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2654697271ea2b4d6117e01d574ca054e58fc2b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000200-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ヤンキース・ジャッジが2戦連発10号に3安打　打率・427＆10本塁打＆32打点で“3冠王”に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000200-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ヤンキース・ジャッジが2戦連発10号に3安打　打率・427＆10本塁打＆32打点で“3冠王”に
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537293>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/39944ea1c4fd9c944491c84bb4765ed2571f425f43665e3c25d6f80315ed027e.jpg> サバかと思ったら古代魚 漁師驚く
+      <a href=https://news.yahoo.co.jp/pickup/6537311>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/54adda724a77bbeed6bd8b18b0da9925e9de1546bba3c7b8f1544181e7c57dd3.jpg> 慶応大の生成AI対策が話題 狙いは
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 13:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 14:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
