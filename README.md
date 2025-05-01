@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b2e69e8b33650bb99870cc1a43140713.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e541cb3e645120d2c17e73d906903182.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5c9209dad6ce78f57ae35abcb51d4986129a499>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 殺人未遂容疑で逮捕は東京都の28歳男、子供7人が車にはねられ負傷　無差別殺人狙ったか
+      <a href=https://news.yahoo.co.jp/articles/d8eea421e482bcb29279c24888761168d876ab5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000013-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【速報】八潮の道路陥没、トラック運転手らしき姿を確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4c505d6da1e0cf90f018c7e4b9e082e612a06483>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-21890016-jnn-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=488&ch=488&exp=10800&fmt=webp> インパルス堤下さん　結婚を発表　「子どもも生まれます」　YouTubeチャンネルで報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d81fc3688e9e0044a750fd9306cddba0ca307e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博会場、間違えないで　「太陽の塔」の記念公園呼びかけ
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/118136a23399c395c01ca4ad704588bed7c6630e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00036580-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 指原Pのイベントに“壊し屋”襲撃「AKB商法も限界では」の指摘、アイドルとの距離感に迫るリスク
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12fc5fab3e140effa38ce6a00b91cfb3c9209ecd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00965844-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 京都で大規模冠水…相次ぐ水道管破裂　更新工事遅れの原因は“水道料金”!?専門家「安い水道料金は老朽化放置への裏返し」
       </a>
     </td>
   </tr>
@@ -394,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537337>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/5d8d52b7aae58e41405165859168270cad5d60201cd951b80b415eb67f7a1db5.jpg> 高額療養費見直し巡り専門委新設
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537329>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/9573e43f282312eebbc47dcd4769b188d959dbf228befd4c97be891a021ec4cb.jpg> 韓国最高裁 李在明氏の無罪破棄
       </a>
@@ -402,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/c8d833488dd0c1a9f0707dcfee568c6d7c29cfaac11c929ab89f9b6fbca59d46.jpg> 万博のインド館 18日遅れで開館
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537328>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/e96f6f2fa16955127e8e80d1c9d672ef0d001be3b70d652b0f18561b038de4b4.jpg> 住宅からバッグに入った遺体 川崎
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537338>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/aa12904c229753f666685a1d296f7a6e1cf9547b96c9a9463a6b9377fa5a286d.jpg> 「全て嫌に」児童はねた疑い逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537339>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/307c72b6b5b3fca71866e5033f0798ba36f4618872fe4e53d1e46b35f54ac4c4.jpg> 薬の誤投与で死亡 看護師書類送検
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537326>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/8508bd6e4831d5efc09fece4214cf6ae48e2b3cbb6607d4c89ff87864f34b957.jpg> 日テレ郡司恭子アナ 結婚を生報告
+      <a href=https://news.yahoo.co.jp/pickup/6537342>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/9c735dbdd95ce077ad2e61ca5fc441645dd31185163873549a43d1badae295fa.jpg> インパルス堤下敦が再婚 妻は妊娠
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 17:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 17:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
