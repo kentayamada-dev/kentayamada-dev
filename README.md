@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/kWz9gVXQ7og?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1bb902cdcbf77e725acd13847b311da2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1077a8b927d6d24cdaedb2ad3b09bcae.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/82c55046d0b2e6653f02e280f77bb27010007cf3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000074-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1017&ch=1017&exp=10800&fmt=webp> ドジャース・大谷　3得点で両リーグトップ32得点！ゲーリッグに並ぶ167得点ペース　ルースも見えた
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6ff746346e5ad412495945f2b505347eef68ba65>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-90023958-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=58&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 運転手とみられる姿を目視…八潮道路陥没 あすにも救出活動を開始　事故から３カ月
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c97b85faf096945b8bcf881901076064359bc17e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000191-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=716&ch=716&exp=10800&fmt=webp> 巨人・阿部監督「全員で勝った素晴らしい価値のある1勝」　今季最長4時39分の死闘にサヨナラ勝ち
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68368daf277beb9675cf73c938e2571bae1e1f6b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000186-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=900&ch=900&exp=10800&fmt=webp> ドジャース・大谷翔平、1安打1盗塁…5戦連続H＆チーム5連勝　得点はメジャートップの「32」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 01:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 02:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
