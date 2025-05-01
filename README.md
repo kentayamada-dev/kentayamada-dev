@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1bbd0f98a573520cd066434ec7f94f8c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b9a5579e8c4cf3ac883ed66afa623451.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73a906dee002fef5762f40333e7bba3c41fee4f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-06264459-sp_ctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 停電の原因は「ヘビ」　30日の東海道新幹線一時運転見合わせ　ヘビが架線に絡まりショート　JR東海
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d97ab0d874743102bc6a0dcc711b61c5445e12bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000007-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=475&cy=0&cw=1298&ch=1298&exp=10800&fmt=webp> 「いじめや差別受けても、子の前ではつらい顔見せなかった」　水俣病公式確認69年 慰霊式　熊本、鹿児島の犠牲者悼む
+      <a href=https://news.yahoo.co.jp/articles/d8c51033f90a615e13c343838b0170b91c50ba93>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000059-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 韓国最高裁が２審の判断覆す…李在明前代表の無罪判決、有罪趣旨で破棄差し戻し
       </a>
     </td>
   </tr>
@@ -395,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5d5f302f9399e307c1427a9ba692de2d49275a5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-21889003-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手　フェンス直撃の三塁打や今季9個目の盗塁でチーム5連勝に貢献
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/c8d833488dd0c1a9f0707dcfee568c6d7c29cfaac11c929ab89f9b6fbca59d46.jpg> 万博のインド館 18日遅れで開館
+      <a href=https://news.yahoo.co.jp/pickup/6537324>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/382ead1296d1be794e3eb80f31bbf0351dad7f78e4df5a7672fea1e4a793dc9d.jpg> 水俣病69年 慰霊式で祈りの言葉
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537291>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/43d8bad327a48e6c3ba4fb2daed1255ee22b63ef1391f04e14cc910ba9c1aa17.jpg> プラ汚染が深海まで高濃度 研究
+      <a href=https://news.yahoo.co.jp/pickup/6537313>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/c8d833488dd0c1a9f0707dcfee568c6d7c29cfaac11c929ab89f9b6fbca59d46.jpg> 万博のインド館 18日遅れで開館
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537319>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/aca8c97a8fc437202856bb3df0ef40765d1f9c1b98d4619c7563b57bbdca560b.jpg> 子供7人が車にはねられケガ 大阪
+      <a href=https://news.yahoo.co.jp/pickup/6537328>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/e96f6f2fa16955127e8e80d1c9d672ef0d001be3b70d652b0f18561b038de4b4.jpg> 住宅からバッグに入った遺体 川崎
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537325>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/773265bcd15cf19e85f24a3576637eeb43ccf81233aa7e1e5560606e346feec9.jpg> 児童7人はねられ負傷 目撃者語る
       </a>
     </td>
   </tr>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537318>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/9047846655417c95cdc85515042c81673d60b6f931c9bbec5f78b6db51cc2af2.jpg> カブス戦 ファンが外野席から転落
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537317>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/60f4d4d216d67815565728b6bd7a7fcae7802170a231f6896378770574faf7b8.jpg> 鳥山明さん原作アニメ NHK放送へ
+      <a href=https://news.yahoo.co.jp/pickup/6537326>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/8508bd6e4831d5efc09fece4214cf6ae48e2b3cbb6607d4c89ff87864f34b957.jpg> 日テレ郡司恭子アナ 結婚を生報告
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 16:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 16:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
