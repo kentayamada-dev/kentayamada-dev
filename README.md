@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/98053b8cd4699ef3e15b2910e9a5c13d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b145893cd65a51893acbfb3ac567346b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22e3781bc4463049734f13c9f34e338e046a7dee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000110-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=246&cy=0&cw=954&ch=954&exp=10800&fmt=webp> 中日・三浦瑞樹、プロ初先発は5回2失点で初勝利の権利持って降板　5回に痛恨の同点ソロ浴びるも直後に打線が勝ち越し
+      <a href=https://news.yahoo.co.jp/articles/950df497a2d50171a307729cb871bdc72e8e063b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000115-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1037&ch=1037&exp=10800&fmt=webp> 中日・近藤廉のプロ初ホールドにネット感涙「あの地獄の10失点からよく復活した」「今年一番強く手を叩いた気がするw」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/21734fb74798318221a0d165437e5822701c4f36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-03455248-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 下水道管内に“運転手”の姿、早ければ明日にも救出活動開始　八潮陥没事故
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/743060b1d8d7c6ddb1b2df76e9c3fbeb1c191cb9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000020-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 万博・英国館の「紙コップ」アフタヌーンティー、指摘受け「陶磁器のティーカップ」へ　大使館声明で納得得られたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e6d6f8f497e68b2fdda373701d9d99e5681fe9c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-05433698-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 運転手とみられる姿を確認　2日にも救出活動を開始へ　埼玉・八潮市道路陥没事故
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537356>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/4ad2e709ee2a5f52b7d600f3df0119fddd5bb7d08191e439b232ba5bdbdaaa86.jpg> 住宅に白骨化した遺体 20代女性か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537361>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/74922c75b7616994629d3417da461610eb278c334441803a4fbad8dec5699430.jpg> 顔にエアガン発射し前歯折る 逮捕
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537340>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/1e3f4faac652e4d8218f07b286edcf171b7e1d05922d82b2a6ba30190fe21eb5.jpg> 1泊3700円 高速道路SAの宿の魅力
+      <a href=https://news.yahoo.co.jp/pickup/6537364>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/f8091605f45bed367bf50ab5e24d02e2abde668c5a53847aa7aebee05ac2c701.jpg> 車全焼 バッテリーから出火したか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537365>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/0d74c0b944632e5a89dd5594f682816e511daee6f281d284df7a7903b3f9a63c.jpg> すき家 4月の売り上げが20%減
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537363>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/dcd5c527ec79389ad6584034a174853f1e9972f89095bf7bf1b5949e24ce04e1.jpg> 1人残し全員卒業 アイドルの決意
+      <a href=https://news.yahoo.co.jp/pickup/6537366>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/5121db383f10a3e106dd9cc2e6c4f2089764b5eb8b280a1d2c3db0611c0e87b7.jpg> 大場美奈が出産 石川柊太立ち会う
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 20:30:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 21:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
