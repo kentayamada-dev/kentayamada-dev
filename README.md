@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/163d9bc02f6aa452068a9bd72dce26ba.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c890dd4ba3ba3f029fba7382ed45b5b5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf0843e2b3fc4f32e9a2df519eff7baea9a2f93f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-04556060-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=121&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 日テレ郡司恭子アナ、結婚発表 挙式も報告【全文】
+      <a href=https://news.yahoo.co.jp/articles/bb94e316f7bff07dc1ffad57b01241dfb52c65ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00078859-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米GDPマイナス成長は「バイデンのせい」、トランプが責任転嫁
       </a>
     </td>
   </tr>
@@ -381,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1562afde919e5bb6e396d5789630ed8a38aa410>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-07233878-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> アメリカ1-3月期GDPが3年ぶりマイナス成長　トランプ大統領は「バイデンのせいだ」と主張　速報値-0.3％
+      <a href=https://news.yahoo.co.jp/articles/f9dcdd2f40fa97f27d8d13d56f2852042d23e0cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00342982-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＭＬＢ】ジャッジが絶好調　このままなら２６１安打、１６７打点、５２本塁打の歴史的ペース
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537294>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/2d33b6f871ce2039b44f188b2fc03c2062f3d220f59e282938ca366dfc042de9.jpg> 都内の赤ちゃんポスト 初預け入れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537301>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/08318e39c4cd418531841ba824425b71f9042ce460ccfe01d573d68ce6ed9f31.jpg> セブン カナダ大手と秘密保持契約
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537299>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/4fa1e8c0b4bcff2a47a975c8c3014bf296e2dbd79aa1d725d4a96a2323f0ccaf.jpg> 会社がGW予定を提出要求 問題は
+      <a href=https://news.yahoo.co.jp/pickup/6537303>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/cedbeb2ca68dcbd0e6277bbd3af495e6ae8b217f32e5ab42fb05cc8b075bbf86.jpg> バス乗っ取り25年 重傷女性の願い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537296>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/763da10fdf6bb0ed5fcf7e5330d9ef5d83c7064144cc684ce6719faa3e8ce8b1.jpg> 世界最高齢 ブラジルの116歳死去
       </a>
     </td>
   </tr>
@@ -451,7 +451,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537308>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/411496ecb3070927e541ffe52e1242d967b4591f174d04158fa5d4b96af047d7.jpg> 日テレ・郡司恭子アナ 結婚を発表
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/8f01af60167e0574b00f20a0cf96ad223b6ff711a9510b61e493082eccee5fd8.jpg> 日テレ・郡司恭子アナ 結婚を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 12:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 13:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
