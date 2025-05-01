@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/79bbc93f8cd58f25dd6610c889d91824.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d7f7fd8ab0d3a5f906265c2445c0af1c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b71c1c91f46afbf2d2b77818ab4e20e525a059fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00095876-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=276&cy=0&cw=961&ch=961&exp=10800&fmt=webp> MLBで男性ファンが6.4ｍのスタンドから転落。担架で運び出される事態に球場騒然「非常に残念だ。控えめな表現だけど」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/12fc5fab3e140effa38ce6a00b91cfb3c9209ecd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00965844-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 京都で大規模冠水…相次ぐ水道管破裂　更新工事遅れの原因は“水道料金”!?専門家「安い水道料金は老朽化放置への裏返し」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2654697271ea2b4d6117e01d574ca054e58fc2b3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000200-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ヤンキース・ジャッジが2戦連発10号に3安打　打率・427＆10本塁打＆32打点で“3冠王”に
       </a>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bb94e316f7bff07dc1ffad57b01241dfb52c65ee>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00078859-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=148&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米GDPマイナス成長は「バイデンのせい」、トランプが責任転嫁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/783565fc40807d7c0c17a565af0a70adde39c9e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010009-annd-000-1-thumb.jpg?exp=10800&fmt=webp> 埼玉・八潮市陥没事故　下水道管内に初めて作業員入る　救助開始に向け準備
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7b21b27fe3bccae116efe28b925512badded9c7a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-04556012-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=700&ch=700&exp=10800&fmt=webp> 元日向坂46濱岸ひより「ホリプロ」所属発表「女優業やモデル業も頑張りたい」人生初インスタライブも開催
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537288>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/a0790f760251a1f183e643ddcaeed3a85ff9326c412398f098b85a1c32b8da75.jpg> 水俣病69年 問題なぜ解決しない
+      <a href=https://news.yahoo.co.jp/pickup/6537291>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/43d8bad327a48e6c3ba4fb2daed1255ee22b63ef1391f04e14cc910ba9c1aa17.jpg> プラ汚染が深海まで高濃度 研究
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537315>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/62de610963e2666ae70de89fa58eac1011dd01e49ed6834c7a279e7141e41f67.jpg> 横浜市で顔切り付けられる 男逃走
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537307>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/a7be90c64df2a3961f7a3b3b51cd4148bd49c2de3d5ebd734b4208a5e57e5af4.jpg> 盗難軽トラの解体輸出 被害相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537303>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/cedbeb2ca68dcbd0e6277bbd3af495e6ae8b217f32e5ab42fb05cc8b075bbf86.jpg> バス乗っ取り25年 重傷女性の願い
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537300>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/9742365dbaca956d69721fff95c6def764fe89638d666ac9bb1e92222bd54477.jpg> 新幹線大爆破 Netflixで世界2位
+      <a href=https://news.yahoo.co.jp/pickup/6537317>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/60f4d4d216d67815565728b6bd7a7fcae7802170a231f6896378770574faf7b8.jpg> 鳥山明さん原作アニメ NHK放送へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 14:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 14:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
