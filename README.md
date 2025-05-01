@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4dcc1aec423c6c00177bed6b87df1933.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b38d010ca1572ca456fd4976724d51a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/22909e603c00b7ff429a16eddc394f470dd2477f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35011868-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=244&cy=0&cw=1012&ch=1012&exp=10800&fmt=webp> 【阪神】小幡竜平が転倒＆走者追う間に決勝点献上…４連敗に藤川監督「今はそういう時期」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9b3642d0bd995858a9f95ded407e7010f5f5c6da>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010002-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=1438&ch=1438&exp=10800&fmt=webp> 今年も「50－50」ペース！ 大谷翔平が三塁打と盗塁を決め勝利に貢献 ド軍監督「スーパースターであるのには理由がある」
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0b3a9311aecdc5f809985c002d2fbded50b4c77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010019-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=616&ch=616&exp=10800&fmt=webp> 【広島】悪夢のサヨナラ負け 6連敗で借金生活＆4位転落...岡本が12回2死から吉川に悲劇打を 大拙攻・初回3得点だけ15安打16残塁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb807b127b89c403e53171b282a8a27bcd92850e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-07234080-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「よく挨拶も…そんなふうには見えない」矢沢勇希容疑者を知る人　車で突っ込み児童7人が重軽傷　矢沢容疑者「すべてが嫌になって人を殺そうとした」殺人未遂容疑認める
+      <a href=https://news.yahoo.co.jp/articles/4f8ed8c2c2bac1acb639cd04def0f53350b00645>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-07567934-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【巨人】巨人サヨナラ勝利で4連勝　延長12回・吉川尚輝のヒットでキャベッジ激走　8投手で初回以降得点許さず
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537367>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 万博 会場内に喫煙所設置へ調整
+      <a href=https://news.yahoo.co.jp/pickup/6537379>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/24f547cc727ce784eaea6f9bce7cc63ee932a3ae32912364f883db81e7dba752.jpg> 米関税 首相とトヨタ会長意見交換
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537378>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/a5daca71b22fe7c1ebf3cf6b727884a262b96da15a4fa6cf7429e087d6308db6.jpg> 法大ハンマー殴打事件 女を起訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537364>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/f8091605f45bed367bf50ab5e24d02e2abde668c5a53847aa7aebee05ac2c701.jpg> 車全焼 バッテリーから出火したか
       </a>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537376>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> B'zにちなんだ豆腐 通販が急増
+      <a href=https://news.yahoo.co.jp/pickup/6537374>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/16d1af2fa7727b229208a170cd43785b42bce25728566708c8b252fb11868315.jpg> 宮内庁YouTube10万人 銀の盾贈呈
       </a>
     </td>
   </tr>
@@ -452,6 +444,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537375>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/815a9c5060d75b442f0302a1936dca7e2328369aa2eb55c7b75e037fcdabcf71.jpg> ホテルのベッド下に男? 投稿波紋
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537380>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/261a4edee18031243af0da11eebbe65b6fc1d1babc61c7126ef0fc96a3b5ec43.jpg> 巨人 延長12回2死からサヨナラ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 23:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 23:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
