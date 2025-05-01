@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e8e7d2783f790a9478b9d0aa6c8d6982.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1d7d0d119f9430de376eebddc07da517.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/743060b1d8d7c6ddb1b2df76e9c3fbeb1c191cb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000020-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 万博・英国館の「紙コップ」アフタヌーンティー、指摘受け「陶磁器のティーカップ」へ　大使館声明で納得得られたか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2e6d6f8f497e68b2fdda373701d9d99e5681fe9c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-05433698-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 運転手とみられる姿を確認　2日にも救出活動を開始へ　埼玉・八潮市道路陥没事故
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7fdd176f52d94c333d0bf3a7e5867750548842e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-07234051-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「適切な捜査がされていない」川崎・20歳女性が行方不明 不明女性は“つきまとい”を何度も警察に相談　家族らが抗議 署名を警察に提出へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bfb06e6bd808651ac22fe78d2ec8abfd504f262>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00966116-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> インド館がついにお披露目　イギリス館では5000円“ティーセット”が物議…スコーンが1つ、紅茶は紙コップにティーバッグ　英大使館がおわび　大阪・関西万博
       </a>
     </td>
   </tr>
@@ -389,8 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/118136a23399c395c01ca4ad704588bed7c6630e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00036580-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 指原Pのイベントに“壊し屋”襲撃「AKB商法も限界では」の指摘、アイドルとの距離感に迫るリスク
+      <a href=https://news.yahoo.co.jp/articles/16c1a85de21f7cd9e70c67d32249562ad51e4639>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000050-asahi-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 八潮の道路陥没、2日にも男性の救出作業へ　下水管調査し人の姿確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cc115d5da6ac2e21584e5404440c37becf5d5753>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-35010991-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1162&ch=1162&exp=10800&fmt=webp> 【阪神】大竹耕太郎が今季初先発　佐藤輝明は10号なら自身最速２ケタ到達／スタメン一覧
       </a>
     </td>
   </tr>
@@ -418,24 +418,40 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537343>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/e7fe724fa93e3190069aeef75318e42eb3be0c09121cae5fb69f2bfe776e614a.jpg> 八潮陥没 下水管内で人の姿を確認
+      <a href=https://news.yahoo.co.jp/pickup/6537349>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/69f7ffeecb0923c0f09f03b3b35324b989efaed7d9b4c6d7b521f92fe80028a5.jpg> 「スキップが命救った」被爆の5歳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537338>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/aa12904c229753f666685a1d296f7a6e1cf9547b96c9a9463a6b9377fa5a286d.jpg> 「全て嫌に」児童はねた疑い逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6537359>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/12bde08ceb7ecbe3604d394c6870187dd19846f1e4807399dcf393c5976e1ab5.jpg> 八潮陥没 2日にも男性の救出活動
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537331>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/5c96b4bd60e05b566190303615d26d9560e0b523e7df5c1cd2fdd5c550a1b043.jpg> 天皇ご一家の生活費 職員が窃取か
+      <a href=https://news.yahoo.co.jp/pickup/6537358>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/c28dbd46782f88bab198140ec5fd5860446fbf19baf1a27c686f88af651d64d2.jpg> 泣き声や怒号 車が児童7人はねる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537356>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/4ad2e709ee2a5f52b7d600f3df0119fddd5bb7d08191e439b232ba5bdbdaaa86.jpg> 住宅に白骨化した遺体 20代女性か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537323>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/654635a52520df90a2f741c528ada7141631021ff15b97bbd1c1c7c23f1df436.jpg> ロマンス詐欺寸前 中3男子が救う
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537354>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/5926b74e34b5d9f721b992744aa4e76ca85dce6cadc1d3bd9a30bf9beff9873f.jpg> 万博巡りX投稿 騒動に発展し困惑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537355>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/703be5f874dd4b7f2139420efa9998205aa68eae484592304176aab8971930e9.jpg> マー君3回3失点KO 199勝目ならず
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 19:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 20:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
