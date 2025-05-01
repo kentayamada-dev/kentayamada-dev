@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/kWz9gVXQ7og?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f8f5f7f1b6207f2c5e6210c5f89c576f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/db12e8af4ad1b21ff747536be85e8aad.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cca21f5124af50fa1c7ac8ca34ab82ce3c9bb3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010000-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> もう限界？！「日米通算200勝は見えてこない」巨人の田中将大が3回8安打3失点KOで阿部監督が「次（の登板）はいつとは言えない」と“無期限”2軍落ちを通達…再生の可能性はあるのか？
+      <a href=https://news.yahoo.co.jp/articles/0e92601a94d826e6f3cb0089074cb98490bb9864>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】八潮市陥没事故でトラック運転手を下水道管内から救出も死亡確認　埼玉県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/834a27ab4eb3da8c2bf22b551d373419caea0df2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00966278-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 八潮市の道路陥没 調査で男性の姿を目視　2日朝から救出活動開始
+      <a href=https://news.yahoo.co.jp/articles/3cca21f5124af50fa1c7ac8ca34ab82ce3c9bb3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010000-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> もう限界？！「日米通算200勝は見えてこない」巨人の田中将大が3回8安打3失点KOで阿部監督が「次（の登板）はいつとは言えない」と“無期限”2軍落ちを通達…再生の可能性はあるのか？
       </a>
     </td>
   </tr>
@@ -387,7 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/03e2e7650d4f29279ff677ba37faa887a2ee76a84b7146e83197d3fa5b5cd520.jpg> 2回目の日米関税交渉が始まる
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/491926626115f141491f58bbc52fed16e0da0776af568c36b0005db72fae819d.jpg> 2回目の日米関税交渉が始まる
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 07:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 08:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
