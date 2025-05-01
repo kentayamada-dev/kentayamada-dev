@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f6219e874deb05d972cac6deb4562b4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6b47318124f975710ea5d2f2652ea90f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5385499338db9dcd128471e45e162bc59d2f5d60>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000372-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=1071&ch=1071&exp=10800&fmt=webp> 西武　サヨナラで今季初の5連勝！平沼が決めた　今季延長戦5戦目で初勝利　同一カード初3連勝
+      <a href=https://news.yahoo.co.jp/articles/3b39be01a4d03b41d77ecf80c0c4a2d5bf9a7330>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00050163-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=59&cy=0&cw=383&ch=383&exp=10800&fmt=webp> 大阪・西成で児童７人はねた車、向きを変え下校の列に突っ込む…教員らが血だらけの児童救出
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8840231101f5b8400d3d2885ecde20cbc12ee79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000078-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=303&cy=0&cw=1263&ch=1263&exp=10800&fmt=webp> 埼玉・八潮の陥没、運転席に人の姿?確認　2日にも捜索活動再開
+      <a href=https://news.yahoo.co.jp/articles/5543a441b4fca0a2e1749c18c98cf1bd9f9d1ae0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮道路陥没事故　運転席部分に人らしき姿発見／埼玉県
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/840690c7622166b77705b29e182545987f44f4a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-06238388-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=360&ch=360&exp=10800&fmt=webp> ソフトバンク5連敗　上沢直之が“古巣・日本ハム”初対決「7回の投球が本当に悔しい」万波中正に決勝HR
+      <a href=https://news.yahoo.co.jp/articles/4e89d57e76f12cb5dbe6a4220725f7ca7240ae0e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000373-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1177&ch=1177&exp=10800&fmt=webp> 中日・三浦が移籍初登板、プロ初先発で初勝利　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2640a550ca4bb8a5d8036047c7209b7975b17859>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00010001-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=381&cy=0&cw=1438&ch=1438&exp=10800&fmt=webp> 大谷翔平 三塁打に盗塁と高い走力が光る活躍！ ロバーツ監督「スターである重圧をはねのける事が出来る」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2635aa804a39ffaf277a4a5aba52cf015691677e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-07234044-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 5月スタートは晴天もあす（2日）は雷雨に警戒！　土曜日から月曜日にかけて西～東日本 日中は晴れる所が多く行楽日和
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537359>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/12bde08ceb7ecbe3604d394c6870187dd19846f1e4807399dcf393c5976e1ab5.jpg> 八潮陥没 2日にも男性の救出活動
+      <a href=https://news.yahoo.co.jp/pickup/6537371>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/59a0ab89a7f87affbf003e1ae46ea3fa61b35c53f129a61a5d17058eb56de260.jpg> 2回目の関税協議へ 交渉カードは
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537358>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/c28dbd46782f88bab198140ec5fd5860446fbf19baf1a27c686f88af651d64d2.jpg> 泣き声や怒号 車が児童7人はねる
+      <a href=https://news.yahoo.co.jp/pickup/6537372>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/9be1f333421901db8d58890358a9935a67293e5dc5e6524751bc0d77f6808c53.jpg> 7人負傷 70代元警官が取り押さえ
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537370>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/94af043cb3aafa6118ed72094da25b2e7694916592ef8f0c4587ca2e5be58458.jpg> SB泥沼5連敗 上沢は古巣に黒星
+      <a href=https://news.yahoo.co.jp/pickup/6537376>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> B'zにちなんだ豆腐 通販が急増
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537366>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/5121db383f10a3e106dd9cc2e6c4f2089764b5eb8b280a1d2c3db0611c0e87b7.jpg> 大場美奈が出産 石川柊太立ち会う
+      <a href=https://news.yahoo.co.jp/pickup/6537375>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/815a9c5060d75b442f0302a1936dca7e2328369aa2eb55c7b75e037fcdabcf71.jpg> ホテルのベッド下に男? 投稿波紋
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 21:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 22:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
