@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/db12e8af4ad1b21ff747536be85e8aad.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0a96195dad7db7789e24d4490d0edc72.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0e92601a94d826e6f3cb0089074cb98490bb9864>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】八潮市陥没事故でトラック運転手を下水道管内から救出も死亡確認　埼玉県
+      <a href=https://news.yahoo.co.jp/articles/c4b298cb324a93c8cba8e52a77038435e3483923>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「大好きな父が突如居なくなった事実を信じることも出来ません」　八潮陥没事故、家族らがコメント
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cca21f5124af50fa1c7ac8ca34ab82ce3c9bb3e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010000-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=425&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> もう限界？！「日米通算200勝は見えてこない」巨人の田中将大が3回8安打3失点KOで阿部監督が「次（の登板）はいつとは言えない」と“無期限”2軍落ちを通達…再生の可能性はあるのか？
+      <a href=https://news.yahoo.co.jp/articles/c812d4a28f1093583d842596dbcaadb8f047cb33>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】2日の天気 - 東～北日本にも雨雲広がる　激しい雨に注意　風も強まって荒れた天気に（2日7時更新）
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cac397ed49dbd300b9a2303e033844a52cbcb219>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-35020057-nksports-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 鈴木誠也２打席連続の勝ち越し８号ソロ＆９号２ラン　剛腕スキーンズからの１発「唯一の甘い球」
+      <a href=https://news.yahoo.co.jp/articles/acaaeed2573b109fa4f9ef2900d7d3bbe46bfc5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000046-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1329&ch=1329&exp=10800&fmt=webp> カープ大拙攻…今季ワースト１６残塁でサヨナラ負け　新井監督は前向く「ヒットも出ている、あともう少しだね」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/080de8910fad2814f49d989a560389ef4b2b80bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010005-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=248&cw=1200&ch=1200&exp=10800&fmt=webp> 加藤史帆＆森カンナがW主演で続投　『彩香ちゃんは弘子先輩に恋してる』続編放送決定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2f693612db53afb15fc1a459066389b79cd93119>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000412-spnannex-000-17-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　今季2度目の2打席連続アーチ　スキーンズ討ちの勝ち越し8号＆9号2ラン
       </a>
     </td>
   </tr>
@@ -386,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537382>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/491926626115f141491f58bbc52fed16e0da0776af568c36b0005db72fae819d.jpg> 2回目の日米関税交渉が始まる
+      <a href=https://news.yahoo.co.jp/pickup/6537388>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/f85ea161af9ecec5d1c97293457a0f19c5d6a0300bf16347c7958cb251af33f9.jpg> 中国が軍民両用艦を建造 有事想定
       </a>
     </td>
   </tr>
@@ -402,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537379>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/24f547cc727ce784eaea6f9bce7cc63ee932a3ae32912364f883db81e7dba752.jpg> 米関税 首相とトヨタ会長意見交換
+      <a href=https://news.yahoo.co.jp/pickup/6537392>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/2bfc610b484799abf44ca97710fd55eb23014cb46385bea4ff7623f3de6681e2.jpg> 八潮陥没で遺体発見 地上に搬出
       </a>
     </td>
   </tr>
@@ -418,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537375>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/815a9c5060d75b442f0302a1936dca7e2328369aa2eb55c7b75e037fcdabcf71.jpg> ホテルのベッド下に男? 投稿波紋
+      <a href=https://news.yahoo.co.jp/pickup/6537390>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c48ce596f9ae14032c1d1b1b0af80928901eaa00a5830c7f08c59125afa5c47c.jpg> 万博で食事提供巡り物議 英側対応
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537393>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/6cffe17778dcd036c315eb92264bbb7e7b3576a2b09fd9da3d94cf22c24dd2bf.jpg> 前田健太が事実上の戦力外 発表
       </a>
     </td>
   </tr>
@@ -428,14 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537386>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/76b31eedfa15c07ee2c4868332bd4b0a56196b9ecdd94f6cfcdc162bec0fa18e.jpg> 鈴木誠也が2打席連続HR 8号&9号
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537383>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/2ee4898b7fd5dc32f8d493a27d199a5c9343f386963746580a7e033e47ecaa4a.jpg> 阿部監督 田中将大の2軍調整明言
       </a>
     </td>
   </tr>
@@ -452,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 08:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 08:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
