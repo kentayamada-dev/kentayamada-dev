@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d7f7fd8ab0d3a5f906265c2445c0af1c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/65410ffc8a5fa4893b24028bcc5e4017.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/80f3cde34d6c0537de88984530e0c07a8d8c1e8a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00296602-magmix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「えっ、ここ万博会場じゃないの？」　間違えやすい駅名の悲劇　過去にはアイドルが遅刻する珍事も
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b71c1c91f46afbf2d2b77818ab4e20e525a059fb>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2406f55972b08a30833cb56bf04415fa25a2789>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000064-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=436&ch=436&exp=10800&fmt=webp> 万博記念公園「大阪・関西万博の会場ではありません」　間違えて来る人多数
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537315>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/62de610963e2666ae70de89fa58eac1011dd01e49ed6834c7a279e7141e41f67.jpg> 横浜市で顔切り付けられる 男逃走
+      <a href=https://news.yahoo.co.jp/pickup/6537319>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/aca8c97a8fc437202856bb3df0ef40765d1f9c1b98d4619c7563b57bbdca560b.jpg> 子供7人が車にはねられケガ 大阪
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537307>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/a7be90c64df2a3961f7a3b3b51cd4148bd49c2de3d5ebd734b4208a5e57e5af4.jpg> 盗難軽トラの解体輸出 被害相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6537315>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/62de610963e2666ae70de89fa58eac1011dd01e49ed6834c7a279e7141e41f67.jpg> 横浜市で顔切り付けられる 男逃走
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537310>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/80924bd84269f6995daf8ca7c64f46a01ad6dfefcadd5cc199418a7b45976841.jpg> ジャッジが10号 「三冠王」浮上
+      <a href=https://news.yahoo.co.jp/pickup/6537318>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/9047846655417c95cdc85515042c81673d60b6f931c9bbec5f78b6db51cc2af2.jpg> カブス戦 ファンが外野席から転落
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 14:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 15:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
