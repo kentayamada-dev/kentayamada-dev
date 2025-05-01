@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b9a5579e8c4cf3ac883ed66afa623451.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b2e69e8b33650bb99870cc1a43140713.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8c51033f90a615e13c343838b0170b91c50ba93>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000059-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=114&cy=0&cw=315&ch=315&exp=10800&fmt=webp> 韓国最高裁が２審の判断覆す…李在明前代表の無罪判決、有罪趣旨で破棄差し戻し
+      <a href=https://news.yahoo.co.jp/articles/d5c9209dad6ce78f57ae35abcb51d4986129a499>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 殺人未遂容疑で逮捕は東京都の28歳男、子供7人が車にはねられ負傷　無差別殺人狙ったか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/067e7971cf40da9a6836913d44719839d4aa6e00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-10035772-bfj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=1422&ch=1422&exp=10800&fmt=webp> 【当公園は2025年大阪・関西万博の会場ではございません】万博記念公園が注意喚起 ⇒「記憶を頼りに来るのかな」「土地勘ないと仕方ない」の声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1ff13e339cd11d2a94ffcfab319c2adc22a215b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-16385417-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=480&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> 米経済が3年ぶりにマイナス成長、トランプ大統領は「時間が欲しい」
+      <a href=https://news.yahoo.co.jp/articles/118136a23399c395c01ca4ad704588bed7c6630e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00036580-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=413&ch=413&exp=10800&fmt=webp> 指原Pのイベントに“壊し屋”襲撃「AKB商法も限界では」の指摘、アイドルとの距離感に迫るリスク
       </a>
     </td>
   </tr>
@@ -383,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/12fc5fab3e140effa38ce6a00b91cfb3c9209ecd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00965844-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 京都で大規模冠水…相次ぐ水道管破裂　更新工事遅れの原因は“水道料金”!?専門家「安い水道料金は老朽化放置への裏返し」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5d5f302f9399e307c1427a9ba692de2d49275a5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-21889003-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手　フェンス直撃の三塁打や今季9個目の盗塁でチーム5連勝に貢献
       </a>
     </td>
   </tr>
@@ -410,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537313>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/c8d833488dd0c1a9f0707dcfee568c6d7c29cfaac11c929ab89f9b6fbca59d46.jpg> 万博のインド館 18日遅れで開館
+      <a href=https://news.yahoo.co.jp/pickup/6537329>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/9573e43f282312eebbc47dcd4769b188d959dbf228befd4c97be891a021ec4cb.jpg> 韓国最高裁 李在明氏の無罪破棄
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537321>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/bf16c03011f55b775c4edccc4e9ba3b196193f9cab02ffcea8719e1edc4c1b65.jpg> トランプ氏を閣議で2h超礼賛 米
+      <a href=https://news.yahoo.co.jp/pickup/6537313>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/c8d833488dd0c1a9f0707dcfee568c6d7c29cfaac11c929ab89f9b6fbca59d46.jpg> 万博のインド館 18日遅れで開館
       </a>
     </td>
   </tr>
@@ -434,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537325>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/773265bcd15cf19e85f24a3576637eeb43ccf81233aa7e1e5560606e346feec9.jpg> 児童7人はねられ負傷 目撃者語る
+      <a href=https://news.yahoo.co.jp/pickup/6537338>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/aa12904c229753f666685a1d296f7a6e1cf9547b96c9a9463a6b9377fa5a286d.jpg> 「全て嫌に」児童はねた疑い逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537331>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/5c96b4bd60e05b566190303615d26d9560e0b523e7df5c1cd2fdd5c550a1b043.jpg> 天皇ご一家の生活費 職員が窃取か
       </a>
     </td>
   </tr>
@@ -444,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537323>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/654635a52520df90a2f741c528ada7141631021ff15b97bbd1c1c7c23f1df436.jpg> ロマンス詐欺寸前 中3男子が救う
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537306>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/786c57df8f770817bfbf0b338a6d3084b965633e8941a1375fff95154c63174b.jpg> 痩せ推奨 ベルギーがTikTok警鐘
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/01 16:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/01 17:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
