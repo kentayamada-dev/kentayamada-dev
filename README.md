@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e03013f092f449ce2cfb5623ec065d1a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f956b51087beaccf9cb44c3968c3224.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/76c59b4771ef8a597f18ec3274fd4ea59e7af40c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-35030018-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=78&cw=1381&ch=1381&exp=10800&fmt=webp> 浜田雅功「ごぶごぶラジオ」で仕事復帰「ずっと寝てたから」“復活”アピール
+      <a href=https://news.yahoo.co.jp/articles/6addf0d86446860dbc0a7c38dbd6f1e16f5322a4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 壱岐島沖ヘリ事故　後部回転翼の制御ロッドが破断、墜落原因か　国交省は全機点検を指示
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/56c4f602db28139243692eef32d577d7cb893e0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-01779339-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 元交際相手は出国か　不明女性「ストーカー被害」を警察に相談…親族「対応してもらえず」と訴え
       </a>
     </td>
   </tr>
@@ -378,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537499>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/9cef3942261c73f71969e80c31f3de5ea7a44eb1f572d4903169eda040f465b0.jpg> 米雇用 市場予想上回るも伸び縮小
+      <a href=https://news.yahoo.co.jp/pickup/6537506>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/f4a755fa154073a067b6432a8cb6929fdd34c12dd35de08cc111c61f84dab434.jpg> NYダウが564ドル高 9日連続上昇
       </a>
     </td>
   </tr>
@@ -394,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537493>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/6c58762cc6715f6c1474b59e2b616f6a28557148ebe801e6266b82a59ca75f51.jpg> 八潮陥没当時 消防「過酷だった」
+      <a href=https://news.yahoo.co.jp/pickup/6537504>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/185d1946b413d1e8e9bee76ce8fd02d83a30b99ac4f78bc07f7419e915b76fd8.jpg> 3カ月息子が一時心肺停止 父逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537505>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/ea360786df01b1899f57ab71230c566a50ee83684da5e5d7522ec0f7c96a38c1.jpg> 女性不明 元交際相手を複数回聴取
       </a>
     </td>
   </tr>
@@ -410,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537490>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/3326812b0f71cd55c3be4eecf40eea7ea1a2be37846de0a31ea615ee4d72842b.jpg> スーパーで車が暴走事故 女性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6537502>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/d8852d54a860bcdb242a79bd756ea5e0bb1aecdd0461cdfd5358bbb38d9c40da.jpg> 大谷 数センチ修正で打撃V字回復
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537500>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/3e63ff889ea557b134128f1c046417247aa2ffc6d09fa1e24dd66c1060dfc1ef.jpg> 浜田雅功にTBS「順次復帰予定」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537491>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/6091e569ca75f44661f2b9cde893d04af111904d8779a022fef4c0aa36b941fc.jpg> 広末涼子 双極性感情障害を公表
+      <a href=https://news.yahoo.co.jp/pickup/6537503>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/58c3993f7560584e06ee7b701a509eace61ec53d1eaf580687c2dc641b917db3.jpg> 浜田雅功が復帰「ずっと寝てた」
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 07:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 07:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
