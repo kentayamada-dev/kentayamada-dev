@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/99c5b7bdbaadb85bb1914eef2ece127c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0267bbb8271008ab0343fe30b0d013c2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -359,14 +359,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d206da74e49e054d92d36294eb9df96b329e9b9c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000068-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=558&ch=558&exp=10800&fmt=webp> 長崎・医療ヘリ事故　後部回転翼の制御部品「破断」　運輸安全委
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9bbebf8b46e880035d557d57b941e8f48800ef50>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00051058-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=433&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 吉村大阪府知事　万博リング南側約６００メートル分について新たな意向 「今の形のまま残すべき」
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 00:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 01:00:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
