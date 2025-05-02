@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/825bbe562f97c285c0944d3d3ce3115f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea7332c68ebdd28dd09f6fe402923498.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/50ad8bf0cc6a57ecbc38fb976437349f2887316c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000104-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 備蓄米、29％出荷完了　農水省、供給拡大要請　JA全農
+      <a href=https://news.yahoo.co.jp/articles/a69a8d9425a2782f5d2c29893b03cc143d98310a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-05442297-nnn-000-3-thumb.jpg?exp=10800&fmt=webp> 大阪・小学生7人重軽傷　逮捕の男、蛇行運転してブレーキかけなかったか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9bbebf8b46e880035d557d57b941e8f48800ef50>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00051058-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=433&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 吉村大阪府知事　万博リング南側約６００メートル分について新たな意向 「今の形のまま残すべき」
       </a>
     </td>
   </tr>
@@ -402,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537498>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/3827641c9f43797dafaf32373dc1b38eb588aadbcaac2b3d617dff5aa7187fee.jpg> 7人負傷 男確保の「元刑事」心境
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537493>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/dda256cba51ff3addd125f9c3a2f0977d8125903e0ad8fda95d556a40a6e031e.jpg> 八潮陥没当時 消防「過酷だった」
       </a>
@@ -418,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537485>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/0be05d1a4118d0fbdfcdb315e79a95bfa79d212be183deb27f25e96658bc56df.jpg> 船が転覆「イワシが入りすぎて」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537488>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/8e73123b24a0f1ca95772c0edccbb620409588dfdc851a6699efcc91c05e7c89.jpg> SB 9回2死から劇的逆転サヨナラ
+      <a href=https://news.yahoo.co.jp/pickup/6537481>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/d6511a76e0f30740699eb8c29cd49bb2c43feecafa12e91f604766d312e3b3a5.jpg> 謎すぎ日程 バレーSVリーグ不満
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 22:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 23:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
