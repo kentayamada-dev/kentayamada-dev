@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c30855d97c5b71a2e0aab7e2c170c71e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e03013f092f449ce2cfb5623ec065d1a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aaee4eb66bb6d983cfb9ba6a6c8910dc8d8c7135>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000093-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 浜田雅功　復帰の場にラジオ選んだワケ　気心知れた後輩に囲まれ「こっちも気楽にできるかなと」
+      <a href=https://news.yahoo.co.jp/articles/76c59b4771ef8a597f18ec3274fd4ea59e7af40c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-35030018-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=78&cw=1381&ch=1381&exp=10800&fmt=webp> 浜田雅功「ごぶごぶラジオ」で仕事復帰「ずっと寝てたから」“復活”アピール
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 06:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 07:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
