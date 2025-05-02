@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ff50e760dddf5ab3fc86fb89176d2ddd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/058273f5806eca9e405fe905d9363a83.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3173c0000027710bb201f97ac2352fd8df3d673>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010002-wmap-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ゴールデンウィーク後半　北日本の天気は変わりやすく　東・西日本も連休最終日は広く雨に
+      <a href=https://news.yahoo.co.jp/articles/8edc6b4da940e8e515ea3546ba90c74c1e019f65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-07234235-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “証券口座乗っ取り” 被害顧客に対して一定の補償へ　日本証券業協会と証券10社が合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c766545265ce439dc1f0aa5cde93b9dab29ca326>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 口座乗っ取り一定補償表明　被害拡大で大手証券10社
+      <a href=https://news.yahoo.co.jp/articles/91373f37583335d0027bd66fe6c4c2955c297f02>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00051047-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「いのち輝く」万博会場に初めて喫煙所を設置へ　遠い喫煙所・・・会場内喫煙が確認され懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/77a0f0fdbb5de749b382a31708fd257baf84d28b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00029643-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=516&ch=516&exp=10800&fmt=webp> 東北　帰宅時間帯は本降りの雨の所も　ゴールデンウィーク後半は3日と5日が行楽日和
       </a>
     </td>
   </tr>
@@ -379,19 +387,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/97aa17bd97d7a489728178ac0a1a1e66812b9f68>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “関税交渉に向けトランプ政権から複数回接触”中国政府が明らかに
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537459>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/ad53049dd8ef2cd2ad3304899e724dbd31e9ce9f19acef5b26da290610309fc1.jpg> 日米協議 次回5月中旬以降で調整
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537444>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537440>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c2a31b9fb3e2582815baa4d2c5a879647a53b6c822eb55a5e837f2962a7b9d29.jpg> 印 テロ報復の作戦を米国に説明か
+      <a href=https://news.yahoo.co.jp/pickup/6537443>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/1087d838b7fea50a40507fcbfba6ae2a7f064cb6b60b55e8d18e285c9f1dbcd2.jpg> ETC障害 後払い料金の徴収中止
       </a>
     </td>
   </tr>
@@ -426,22 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537443>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/1087d838b7fea50a40507fcbfba6ae2a7f064cb6b60b55e8d18e285c9f1dbcd2.jpg> ETC障害 後払い料金の徴収中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537452>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 関電子会社 約2.3億円を不正請求
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537439>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/b0146adad63f514923e7bd2586d2a179c325993142eeab3b79c93015d246a7e5.jpg> シャトレーゼに改善命令 入管庁
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537446>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/402114cb47ee3e7f14733f5eeddbca247430eceac72b3d2ef923ddaffb8a3b7a.jpg> 前田健太「戦力外通告」の舞台裏
+      <a href=https://news.yahoo.co.jp/pickup/6537455>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/6248638befdd71176165a02cf0699e2301b0b61ecac7c1e92bfb73d610f9138d.jpg> 現役フジ社員 クビでもRIZIN出る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537448>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/1dd2f0236d098575524e54bd5c1892cd387cc5e8ecc9f797eda49321dc0661f2.jpg> 初放送「君たちは」読み解く視点
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 16:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 17:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
