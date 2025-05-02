@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bf478c2d16cd790d791eb9428a3c14c6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/11314d4b28ff2dddbadf280d8434eac2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cf35d46aff26bbddeaf2ea0351d62acabbaa3825>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010000-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ウクライナ鉱物協定に調印　米国の軍事援助継続を保証
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/70d6d7e7e4e77703e7461fcbfe69013f1f2a3cac>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-35020294-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=1222&ch=1222&exp=10800&fmt=webp> 井上尚弥の挑戦者カルデナス「お金のためにここにいるのではない」モンスター撃破に意欲
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a7fce95bd07465ced69bb5c83953134b63c312fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米関税協議、今月中旬以降に再び閣僚同士での協議で一致
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米関税協議、赤沢経済再生担当相「早期実現に向け前進」
       </a>
     </td>
   </tr>
@@ -375,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c4e67582d9119c99e9fcf68d3769b2cad3de3a4d>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00343100-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＭＬＢ】千賀滉大　今季最短４回１失点で２敗目　チームも敗戦
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9137b13e0b6b90e642c154f6e0a8c438b2992964>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-07234126-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米ウクライナ鉱物資源協定は「真に対等」 ゼレンスキー大統領評価
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c812d4a28f1093583d842596dbcaadb8f047cb33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010000-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】2日の天気 - 東～北日本にも雨雲広がる　激しい雨に注意　風も強まって荒れた天気に（2日7時更新）
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/ca550cc21d396a04032af912dc68d5c8264b40936942865feeade7a9692f37cb.jpg> 関税 赤沢氏「具体的議論できた」
+      <a href=https://news.yahoo.co.jp/pickup/6537398>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/4c8ee026ca1b647b43466a271d011f2987dde5bb672efb992a90ca1d212ea200.jpg> 鉱物協定 ウ大統領「真に対等」
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537390>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c48ce596f9ae14032c1d1b1b0af80928901eaa00a5830c7f08c59125afa5c47c.jpg> 万博で食事提供巡り物議 英側対応
+      <a href=https://news.yahoo.co.jp/pickup/6537402>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/34f9a1b5dae07985d04e9b9c667263620d825975fe2c46285a62628b4025336b.jpg> 高速で燃費よくする方法 JAF回答
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537393>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/6cffe17778dcd036c315eb92264bbb7e7b3576a2b09fd9da3d94cf22c24dd2bf.jpg> 前田健太が事実上の戦力外 発表
+      <a href=https://news.yahoo.co.jp/pickup/6537408>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/b28ef2d013c2150a469b89f98abdfbf9f03c72a291615208af15a74af722478d.jpg> 井上尚弥 米ファンに粋な振る舞い
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 10:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 11:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
