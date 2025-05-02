@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/06da75bdda200e250d1becf0f59a2ed6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/88a5f545216a0bb8263fe6328d67dcf3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02955bd3736805f0d7ef6d74d583c8ff0de09e73>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00966722-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】岡﨑彩咲陽さん（20）失踪直前に「家の周りに男がいそう」9回電話…警察の対応に問題は?専門家は「事件性なし」判断拙速だった可能性指摘【川崎市女性遺体発見】
+      <a href=https://news.yahoo.co.jp/articles/852ede2032222037d26a9cdcf6d0a28be58441c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大手証券10社、不正取引の被害補償へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/852ede2032222037d26a9cdcf6d0a28be58441c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大手証券10社、不正取引の被害補償へ
+      <a href=https://news.yahoo.co.jp/articles/2e2c5f77142abddb1cd9b9250a9cf31982e33bed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-01844356-mmt-000-2-thumb.jpg?exp=10800&fmt=webp> 「操業中に転覆した」と乗組員、金華山沖で転覆した漁船…6年前にも同様の事故起こしていた（宮城）
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537461>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/827766cdbd8ad7eb10e5204a50ca54072c418a9623b8b0cd875dc4b415432512.jpg> 西成7人負傷 男の父は無職に驚き
+      <a href=https://news.yahoo.co.jp/pickup/6537487>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/b72a38e8e2f3c391a732fdb95e6d8122423d7b85aa3d75f07cb9533da4b4f1cc.jpg> 性的暴行 県庁での抗議を米軍拒む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537475>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/2006c25be1346aea4edab1aaf4fcd291fbec5890f5c9a485876c05d5e1b59c4f.jpg> サンマ漁獲枠 初の10万トン割れへ
+      <a href=https://news.yahoo.co.jp/pickup/6537480>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/3048bde0257a29748a4677f9e581689f7bb57eae0e84c276b86b501dcb49fbd2.jpg> 伊藤忠社長 米関税「影響消せる」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537469>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/494fe199106712ec416d4483756fab6ce06e39d2abea7bdf517981feacbec851.jpg> 復帰の浜田雅功「ほなやるで」
+      <a href=https://news.yahoo.co.jp/pickup/6537483>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/a4686b9e2f90114899abecb993017b125002628b75244229355b1d21cc619659.jpg> Gオコエが右肘手術 復帰に2カ月
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 20:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 21:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
