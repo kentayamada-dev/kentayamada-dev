@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/86adc1a6c3b72eace9c4e6715690fb81.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bf478c2d16cd790d791eb9428a3c14c6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4e67582d9119c99e9fcf68d3769b2cad3de3a4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00343100-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＭＬＢ】千賀滉大　今季最短４回１失点で２敗目　チームも敗戦
+      <a href=https://news.yahoo.co.jp/articles/70d6d7e7e4e77703e7461fcbfe69013f1f2a3cac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-35020294-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=1222&ch=1222&exp=10800&fmt=webp> 井上尚弥の挑戦者カルデナス「お金のためにここにいるのではない」モンスター撃破に意欲
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59b44b3d046b8387e5fe0e72724bd59c57d283b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-43254267-bloom_st-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 赤沢再生相、関税協議は５月中旬以降集中的に実施－為替議題にならず
+      <a href=https://news.yahoo.co.jp/articles/a7fce95bd07465ced69bb5c83953134b63c312fa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米関税協議、今月中旬以降に再び閣僚同士での協議で一致
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c4e67582d9119c99e9fcf68d3769b2cad3de3a4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00343100-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＭＬＢ】千賀滉大　今季最短４回１失点で２敗目　チームも敗戦
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/daf7048d65f7d8727994e5a28343e819c3e25ce315cf657a4a647cca5360aae0.jpg> ジブリ「君たちは」今夜TV初放送
+      <a href=https://news.yahoo.co.jp/pickup/6537406>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takeiyasuyuki/02193621/title-1746111450085.jpeg?exp=10800> ダウンタウンの配信 会員数を予測
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537394>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/71bcada8684b3854f37bf8c03701685d5e93ca9dc576cf2181a1db2a0f454cc0.jpg> ドラマ「あやひろ」続編放送決定
+      <a href=https://news.yahoo.co.jp/pickup/6537399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/daf7048d65f7d8727994e5a28343e819c3e25ce315cf657a4a647cca5360aae0.jpg> ジブリ「君たちは」今夜TV初放送
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 10:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 10:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
