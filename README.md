@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fc66ef84a604c69222dbe72286c7efdf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c5215d6143a684dc3d120b6aed9f961a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,14 +357,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6fb9322a21d9a9f28b9215a00387c4e3a9633a3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-90023978-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日傘・雨傘どっち？関東で警報級大雨の恐れ　GW後半も忙しい天気変化と激しい気温差　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0957023ce6717d0cfeee5675b75d9a7f7dabe760>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-21890858-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 2回目の対米関税交渉へ…自動車めぐる関税以外の「壁」とは?　米・ウクライナが“鉱物資源協定”に合意 トランプ政権が譲歩か【news23】
       </a>
@@ -374,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/74dd6df3d6c8686253e4784c540115202e172560>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000041-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 証券口座“乗っ取り”急増　証券各社が補償を検討
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000041-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 証券口座“乗っ取り”急増　証券各社が補償を検討
       </a>
     </td>
   </tr>
@@ -450,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537409>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/972eca593bddadadaff60b452f714bd5820a8a51b8aaea5fcefe97280f181354.jpg> ステーキ店倒産 2024年は過去最多
+      <a href=https://news.yahoo.co.jp/pickup/6537419>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/292428bed309f162996a34ebd62eefa5947f68b0a2723c67eaf796268dbfe8dc.jpg> 「厚切りとんかつ」人気 背景は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537406>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takeiyasuyuki/02193621/title-1746111450085.jpeg?exp=10800> ダウンタウンの配信 会員数を予測
+      <a href=https://news.yahoo.co.jp/pickup/6537422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c41f2157f667c31bec01e5d6a77bc28977d194fd6a2db0af8404349e15015d94.jpg> 千賀がウイルス感染 点滴打ち登板
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 12:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 13:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
