@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4db2f0f40cfae7e41f6057fb4f39674d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4e15da2a12eb73dcfa2e6fd1d9f71bc4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f3889b1efa00a7a1448e826da26a3ecc1c9b3a4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000054-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=986&ch=986&exp=10800&fmt=webp> ＜浜田雅功＞芸能活動を再開　今夜の「ごぶごぶラジオ」から
+      <a href=https://news.yahoo.co.jp/articles/06221526545e7ca7f9211f56b19a762e71498b9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000055-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=544&ch=544&exp=10800&fmt=webp> 証券口座乗っ取り、被害一部補償へ　日証協と証券10社が方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5bc43c1bf20a245d1564f3858e4fc5c99f116905>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000012-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 証券各社、不正売買被害による損害を個別補償へ
+      <a href=https://news.yahoo.co.jp/articles/13cd68b754685c38e51a42d6cf4515371aeba537>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-05345162-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ダウンタウン・浜田雅功、2日深夜のラジオで芸能活動を再開　体調不良のため今年3月から休養
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537464>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/cb57d7e5532dc68f1e0e7768e27ac45c91318ac14808ccadf9f410034101c50a.jpg> 口座乗っ取り 証券10社が補償方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537449>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/9f135c304f030119271795c2ed10711a3270d771e927156d3a85777ef6d2de16.jpg> がんの疑いを主治医見落とし 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6537454>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/f20b2d55740cc95f18ea23bc989045057d25503c8a6a8849b79be3ed41968a1e.jpg> 関税 米の接触に中国「誠意」要求
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537463>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/67a9f441d609843b8264dd9a9036c29d669039befac12c38294f9bc28429b9e5.jpg> 風車の羽根が落下か 瞬間の映像
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537457>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/db2bf21d77b8a12e0f6c4c17af2e908373390610b4d182bec7e86e9ac6eff48f.jpg> 広島のATM 宝くじ12億円当せん
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 19:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 19:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
