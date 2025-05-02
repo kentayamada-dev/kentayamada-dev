@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/661616e82393f8de920bf142a24a66e9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d0c4318d5e2b8a78d75f79136f81f500.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a1ee3df3fda3fe7658e4804975784ebdd43419a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00790847-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=170&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 間宮祥太朗に第1子誕生　昨年7月に結婚「今後とも、皆様の変わらぬご指導ご鞭撻を」
+      <a href=https://news.yahoo.co.jp/articles/ffe17dc55b9c9c6312d1d69b0445697a672d90c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000012-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 証券口座の乗っ取り、楽天証券やマネックスなど10社が一定の被害補償の方針示す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffe17dc55b9c9c6312d1d69b0445697a672d90c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000012-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 証券口座の乗っ取り、楽天証券やマネックスなど10社が一定の被害補償の方針示す
+      <a href=https://news.yahoo.co.jp/articles/7e119c3d439c45ec1d4115b541bec6d883c65ac2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-21892515-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 2日夜遅くにかけてゲリラ豪雨や落雷、突風、ひょうに注意　3日午後6時まで伊豆諸島80ミリ、関東で60ミリの降水予想　湿った空気と寒気の影響で大気の状態不安定に
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537459>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/ad53049dd8ef2cd2ad3304899e724dbd31e9ce9f19acef5b26da290610309fc1.jpg> 日米協議 次回5月中旬以降で調整
+      <a href=https://news.yahoo.co.jp/pickup/6537466>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/8bede275db2352409fe29292ddb0e535b89882f8adb5788ccd247c33a6d81b59.jpg> 関東 警報級の大雨になる可能性も
       </a>
     </td>
   </tr>
@@ -387,7 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537464>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 口座乗っ取り 証券10社が補償方針
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/cb57d7e5532dc68f1e0e7768e27ac45c91318ac14808ccadf9f410034101c50a.jpg> 口座乗っ取り 証券10社が補償方針
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 18:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 18:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
