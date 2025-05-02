@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5cb8b647fe455913e4ae4f85f1e36012.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/98c3835c42389f3005607af52c04446d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a63ea7a6a932bbc8180b362a09112d86781fa528>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000188-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=883&ch=883&exp=10800&fmt=webp> 休養中のダウンタウン浜田雅功、2日深夜のMBSラジオ「ごぶごぶラジオ」で電撃復帰「ほな、やるで！！」
+      <a href=https://news.yahoo.co.jp/articles/637284db14b1b78a38a2aa052b7f6aea4eb4adee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000004-gdo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アプローチミス→チップインパー　古江彩佳は今季4回目のボギーフリー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dad9d7e18f8c745716aecad4fc1397b5a67b611f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-35030022-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=126&cw=1286&ch=1286&exp=10800&fmt=webp> 渋野日向子イーグル２連発「自分でもびっくり」通算－９　首位争いへ／ブラックデザート選手権
+      <a href=https://news.yahoo.co.jp/articles/67bb050b8709b23e60b7eaab5e311380576eab06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00790954-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 浜田雅功、休養期間は「ずっと寝てた」　ラジオで活動再開の真意語る
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537510>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/7f08f98cfd9841946c3120f04a7c2a5ddebbeff52c46e33e6b24cbc0eddf0254.jpg> 離れ業 渋野日向子が連続イーグル
+      <a href=https://news.yahoo.co.jp/pickup/6537503>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/58c3993f7560584e06ee7b701a509eace61ec53d1eaf580687c2dc641b917db3.jpg> 浜田雅功が復帰「ずっと寝てた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537503>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/58c3993f7560584e06ee7b701a509eace61ec53d1eaf580687c2dc641b917db3.jpg> 浜田雅功が復帰「ずっと寝てた」
+      <a href=https://news.yahoo.co.jp/pickup/6537515>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/6d651d98aac40b8619aacbf899df586674ab81a62e0b13db98193c31e11608fb.jpg> 元フジ永島アナ フリーで活動再開
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 08:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 08:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
