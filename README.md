@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f10ff3a9dcc16ad22bf1e61bba50efca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/05f873dd3cd0a58ea5e2620775f83176.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d065462315687b4034789aa39b4204c9d4294a83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-09436244-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 4月の米雇用統計　就業者数は市場予想を大きく上回る
+      <a href=https://news.yahoo.co.jp/articles/6e6dba294d2f206d9c0e11cd6b55c899289281f1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000242-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=42&cw=546&ch=546&exp=10800&fmt=webp> 浜田雅功さん活動再開　体調が回復
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537492>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/d44f18fbb9123a12fac5d62524676c423b460e9ca73455c57b83fc557e9ca7d2.jpg> GW後半 短い周期で天気変わるか
+      <a href=https://news.yahoo.co.jp/pickup/6537494>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 不信任案 野田氏は他の野党けん制
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537494>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 不信任案 野田氏は他の野党けん制
+      <a href=https://news.yahoo.co.jp/pickup/6537499>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/9cef3942261c73f71969e80c31f3de5ea7a44eb1f572d4903169eda040f465b0.jpg> 米雇用 市場予想上回るも伸び縮小
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537481>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/d6511a76e0f30740699eb8c29cd49bb2c43feecafa12e91f604766d312e3b3a5.jpg> 謎すぎ日程 バレーSVリーグ不満
+      <a href=https://news.yahoo.co.jp/pickup/6537500>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/3e63ff889ea557b134128f1c046417247aa2ffc6d09fa1e24dd66c1060dfc1ef.jpg> 浜田雅功にTBS「順次復帰予定」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 23:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 23:52:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
