@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/effc30d38280fe72af927c3ce623c474.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/06da75bdda200e250d1becf0f59a2ed6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46c6927cec90abdf45d613b99a5261ad95ed5066>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00966620-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> フジテレビ「ハラスメント根絶宣言」公表　再生・改革のための取り組みのひとつとして　全社員に署名求めていく方針
+      <a href=https://news.yahoo.co.jp/articles/02955bd3736805f0d7ef6d74d583c8ff0de09e73>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00966722-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=417&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【解説】岡﨑彩咲陽さん（20）失踪直前に「家の周りに男がいそう」9回電話…警察の対応に問題は?専門家は「事件性なし」判断拙速だった可能性指摘【川崎市女性遺体発見】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/06221526545e7ca7f9211f56b19a762e71498b9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000055-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=544&ch=544&exp=10800&fmt=webp> 証券口座乗っ取り、被害一部補償へ　日証協と証券10社が方針
+      <a href=https://news.yahoo.co.jp/articles/852ede2032222037d26a9cdcf6d0a28be58441c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大手証券10社、不正取引の被害補償へ
       </a>
     </td>
   </tr>
@@ -386,24 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537466>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/8bede275db2352409fe29292ddb0e535b89882f8adb5788ccd247c33a6d81b59.jpg> 関東 警報級の大雨になる可能性も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537467>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/5ae28180cd55d30c360b8d9b755e9db0bc3d593107dd5aec554225ab1c225d53.jpg> 戦艦大和 誰も知らない笑顔の写真
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537474>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/cb5c9f94d43c9359dac209c3a9229380913940154f2d79d80ae63a2d0bc5ec46.jpg> 首相 自動車関税「絶対のめない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537477>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/5ae28180cd55d30c360b8d9b755e9db0bc3d593107dd5aec554225ab1c225d53.jpg> 元将校 戸棚の奥に「笑顔の写真」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537478>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/cfd5295ed52c37363dd153bcef4278ecd750ccb402a64fbb9f1d47ced9baed91.jpg> 批判 ETC障害巡り突然の対応転換
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537475>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/2006c25be1346aea4edab1aaf4fcd291fbec5890f5c9a485876c05d5e1b59c4f.jpg> サンマ漁獲枠 初の10万トン割れへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/d99803cd68996e9e437818081f69c0afc99a168f319a2e7719187d48fd4fbe2f.jpg> 部屋にハト200羽 女性を市提訴へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537457>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/db2bf21d77b8a12e0f6c4c17af2e908373390610b4d182bec7e86e9ac6eff48f.jpg> 広島のATM 宝くじ12億円当せん
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537468>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/65eb993e5f0c95644d091c92d8d403f5d6efb8e4f0906dc99c12113dcc9df8e9.jpg> Xboxが大幅に値上げ 日本2万円↑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537465>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/f551579840baa18a0f7d0b09667923039c7189ff91c5cdbd67a51ec9b64882d4.jpg> 俳優・間宮祥太朗に第1子誕生
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 20:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 20:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
