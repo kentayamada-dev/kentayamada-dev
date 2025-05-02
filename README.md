@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/54797b2d4d044aaaa9e441b3283696c1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/825bbe562f97c285c0944d3d3ce3115f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9018ee14f82ea9d6decd6e2ca14b4c3e0d75e2bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-07234305-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「過酷な現場、救助は最善尽くした」と消防 救助方法の検証については「第三者による検証予定なし」 埼玉・八潮市陥没事故
+      <a href=https://news.yahoo.co.jp/articles/50ad8bf0cc6a57ecbc38fb976437349f2887316c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000104-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 備蓄米、29％出荷完了　農水省、供給拡大要請　JA全農
       </a>
     </td>
   </tr>
@@ -378,16 +378,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537474>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/cb5c9f94d43c9359dac209c3a9229380913940154f2d79d80ae63a2d0bc5ec46.jpg> 首相 自動車関税「絶対のめない」
+      <a href=https://news.yahoo.co.jp/pickup/6537492>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/d44f18fbb9123a12fac5d62524676c423b460e9ca73455c57b83fc557e9ca7d2.jpg> GW後半 短い周期で天気変わるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537473>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/a3b0f037e659df401d6a7c3b0d2a079692972ef8e41c459cfc18858bad794c32.jpg> 米 政権内の情報漏えい捜査強化
+      <a href=https://news.yahoo.co.jp/pickup/6537470>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/70f7b8804970841c9ab251b3081b457b806bceeeef69635ff216b94e0f0742fc.jpg> マイナ免許証 保有者は全体2割弱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537480>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/3048bde0257a29748a4677f9e581689f7bb57eae0e84c276b86b501dcb49fbd2.jpg> 伊藤忠社長 米関税「影響消せる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537493>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/dda256cba51ff3addd125f9c3a2f0977d8125903e0ad8fda95d556a40a6e031e.jpg> 八潮陥没当時 消防「過酷だった」
       </a>
     </td>
   </tr>
@@ -402,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537476>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/d99803cd68996e9e437818081f69c0afc99a168f319a2e7719187d48fd4fbe2f.jpg> 部屋にハト200羽 女性を市提訴へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537485>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/0be05d1a4118d0fbdfcdb315e79a95bfa79d212be183deb27f25e96658bc56df.jpg> 船が転覆「イワシが入りすぎて」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537471>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/76a85376390d14ea01dd31d15172db8b359b83b5379d015fc83703778c9036b3.jpg> フジ ハラスメント根絶宣言を公表
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 22:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 22:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
