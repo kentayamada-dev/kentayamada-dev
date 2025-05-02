@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/11314d4b28ff2dddbadf280d8434eac2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d50e0c3e3eac95d6b79fa650384bcc7d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf35d46aff26bbddeaf2ea0351d62acabbaa3825>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010000-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 米ウクライナ鉱物協定に調印　米国の軍事援助継続を保証
+      <a href=https://news.yahoo.co.jp/articles/4cd59ca478939fde7bf214e857bc42ee74291414>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010004-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「イノウエを知らないやつはいない」ベガスで高まる“怪物ムード”！ 井上尚弥の神対応に米賛辞「一人だけ違う世界にいる」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/70d6d7e7e4e77703e7461fcbfe69013f1f2a3cac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-35020294-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=278&cy=0&cw=1222&ch=1222&exp=10800&fmt=webp> 井上尚弥の挑戦者カルデナス「お金のためにここにいるのではない」モンスター撃破に意欲
+      <a href=https://news.yahoo.co.jp/articles/83a5f43fcddf07674e9014e8de61047bc097ff36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米関税協議　赤沢経済再生相、すべての関税措置の見直し求める　6月に合意を期待
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a7fce95bd07465ced69bb5c83953134b63c312fa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米関税協議、赤沢経済再生担当相「早期実現に向け前進」
+      <a href=https://news.yahoo.co.jp/articles/68e80820a197d2c904e531eb4d516c11bb97e836>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00050061-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米国との資源権益協定、ゼレンスキー氏「真に公平なパートナーシップ」…米側の譲歩を評価か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c4e67582d9119c99e9fcf68d3769b2cad3de3a4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00343100-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＭＬＢ】千賀滉大　今季最短４回１失点で２敗目　チームも敗戦
+      <a href=https://news.yahoo.co.jp/articles/5dd6caeda75c7894bca35b2e7781832010b6d476>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-03196444-ytv-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】小学生7人ひき殺人未遂容疑で逮捕の男「すべてが嫌に」2日前に新大阪でレンタカー借りたか、現場に「ブレーキ痕」なし　大阪市西成区
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537403>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/04041b3767e12f80c25397d87772f8e1113880a602b1bf2cf9856e5484367adf.jpg> 近畿～関東 局地的に激しい雨注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537398>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/4c8ee026ca1b647b43466a271d011f2987dde5bb672efb992a90ca1d212ea200.jpg> 鉱物協定 ウ大統領「真に対等」
       </a>
@@ -410,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537392>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/2bfc610b484799abf44ca97710fd55eb23014cb46385bea4ff7623f3de6681e2.jpg> 八潮陥没で遺体発見 地上に搬出
+      <a href=https://news.yahoo.co.jp/pickup/6537405>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/752fe33c63452767a81a0988e860ef67d4e7c86b534547ca34c5ae61dec3484d.jpg> 韓国で3人目の大統領代行 混乱
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/72c6c1a2c898f6a0a62117dfb2b17a28930d35b7625335f709111d34089cc26d.jpg> 西成で7人負傷 響く子供の泣き声
       </a>
     </td>
   </tr>
@@ -420,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537396>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/0777221f1b41e3b3a80330972807685993419eee46beedb72871123298a73782.jpg> 住宅で遺体発見 ストーカー被害か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537409>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/972eca593bddadadaff60b452f714bd5820a8a51b8aaea5fcefe97280f181354.jpg> ステーキ店倒産 2024年は過去最多
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537399>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/daf7048d65f7d8727994e5a28343e819c3e25ce315cf657a4a647cca5360aae0.jpg> ジブリ「君たちは」今夜TV初放送
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 11:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 11:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
