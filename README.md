@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d50e0c3e3eac95d6b79fa650384bcc7d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5fc38c81e209030dea315acdc39ac218.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4cd59ca478939fde7bf214e857bc42ee74291414>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010004-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 「イノウエを知らないやつはいない」ベガスで高まる“怪物ムード”！ 井上尚弥の神対応に米賛辞「一人だけ違う世界にいる」
+      <a href=https://news.yahoo.co.jp/articles/8d1bb387df351fde9a5eb0b1fb70267622c72423>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000025-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 石破首相「一致点見いだせる状況にない」　関税交渉で赤沢氏報告うけ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/84843f7d16e76374496d48b7b4f525a87ba7d8d1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東進予備校講師「通学路の登下校時の通行止め」小学生７人を車ではねた殺人未遂事件の防止策に言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e95c13eb794facc208a976efdf1eed3a0292b423>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-08114749-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【物議】英国パビリオンのアフターヌーンティー「紙コップ」に紅茶とジャム…記者が取材してみると？　1人5000円の価値はあった？
       </a>
     </td>
   </tr>
@@ -374,15 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/68e80820a197d2c904e531eb4d516c11bb97e836>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00050061-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米国との資源権益協定、ゼレンスキー氏「真に公平なパートナーシップ」…米側の譲歩を評価か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5dd6caeda75c7894bca35b2e7781832010b6d476>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-03196444-ytv-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】小学生7人ひき殺人未遂容疑で逮捕の男「すべてが嫌に」2日前に新大阪でレンタカー借りたか、現場に「ブレーキ痕」なし　大阪市西成区
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00050061-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米国との資源権益協定、ゼレンスキー氏「真に公平なパートナーシップ」…米側の譲歩を評価か
       </a>
     </td>
   </tr>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/72c6c1a2c898f6a0a62117dfb2b17a28930d35b7625335f709111d34089cc26d.jpg> 西成で7人負傷 響く子供の泣き声
+      <a href=https://news.yahoo.co.jp/pickup/6537417>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c36d842082b1206193834e6f47d089ccef7f0045d70c04579a37456d39395542.jpg> 陥没 男性家族「恐怖と戦った父」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537396>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/0777221f1b41e3b3a80330972807685993419eee46beedb72871123298a73782.jpg> 住宅で遺体発見 ストーカー被害か
+      <a href=https://news.yahoo.co.jp/pickup/6537400>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/72c6c1a2c898f6a0a62117dfb2b17a28930d35b7625335f709111d34089cc26d.jpg> 西成で7人負傷 響く子供の泣き声
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 11:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 12:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
