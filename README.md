@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/06ddfec8a7c038a71583210368dddf92.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2f6c63bfe30f056c1e2b8e53956031a3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c2553f90f52cf7ccbb66cce241f8aa0fc2304aad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000041-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=388&ch=388&exp=10800&fmt=webp> ２次関税交渉の日本「為替レート、安全保障議論しない」…５月中旬以降に再協議
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9cd2ff2d20ca653e61444f378617e9b4428d845d>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a2e6ef8ab65c255321b42b4f2658ea716122071>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> シャトレーゼに入管庁が改善命令　外国人への休業手当不払い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62c4047744fa33f4484c746d6653fe14756e5525>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00050072-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=381&ch=381&exp=10800&fmt=webp> ２回目の日米関税交渉、赤沢氏「突っ込んだ議論できた」…今月中旬以降に閣僚級協議で一致
+      <a href=https://news.yahoo.co.jp/articles/9aee3a6487a10d7636a5f77a140fc792b959e7dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000148-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ド軍メディア「復帰見たい？」前田健太DFA受け緊急アンケート　ファンが復帰熱望の中、さまざま意見も
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537436>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c4e57e41f6c26f2795ecd256a3ed1034267c6419ca506b80d56419c74fb0c1a5.jpg> 米政権 関税交渉の早期合意狙う訳
+      <a href=https://news.yahoo.co.jp/pickup/6537444>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/41da88dbbc3d747e1431af3fc8dfc8e4de2eaea05f490c0387d2d652c9a679e5.jpg> 石綿訴訟 国の「逆転敗訴」確定
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537435>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/90afecca5c83e7fa9d055af71ce52e981230fd96fee671f1e904191294f1e9df.jpg> 韓国大統領選 韓前首相が出馬表明
+      <a href=https://news.yahoo.co.jp/pickup/6537436>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c4e57e41f6c26f2795ecd256a3ed1034267c6419ca506b80d56419c74fb0c1a5.jpg> 米政権 関税交渉の早期合意狙う訳
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537433>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/6f6b1592dcd1494e7e124ef3930220df3b89ce3c5784581c4e0cae23fef882e8.jpg> 幼稚園バスと車が衝突 園児ら搬送
+      <a href=https://news.yahoo.co.jp/pickup/6537441>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/3fd15ebba906c51c66efa103f7c5b136a26583db94021a1defed2f5f0085be7d.jpg> マック世界売上高が減少 関税影響
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 15:00:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 15:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
