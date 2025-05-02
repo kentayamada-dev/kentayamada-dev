@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/15ae86d69f7373dba724f0153e66656f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac7bc12cf5759a3452af2191efbbba59.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14c62b96270f9e49001e579c41737c4ae71a5987>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010000-tvkv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 川崎市の住宅でバッグから遺体　ストーカー規制法違反容疑で家宅捜索時に発見
+      <a href=https://news.yahoo.co.jp/articles/059307ed289c6c7cbf390c9fc949df1cf3390d94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000032-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=1546&ch=1546&exp=10800&fmt=webp> 2回目の関税交渉「具体的に議論」、次回は5月中旬以降＝赤沢経済再生相
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f693612db53afb15fc1a459066389b79cd93119>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250501-00000412-spnannex-000-18-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=800&ch=800&exp=10800&fmt=webp> カブス・鈴木誠也　今季2度目の2打席連続アーチ　スキーンズ討ちの勝ち越し8号＆9号2ラン
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/f85ea161af9ecec5d1c97293457a0f19c5d6a0300bf16347c7958cb251af33f9.jpg> 中国が軍民両用艦を建造 有事想定
+      <a href=https://news.yahoo.co.jp/pickup/6537401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/ca550cc21d396a04032af912dc68d5c8264b40936942865feeade7a9692f37cb.jpg> 関税 赤沢氏「具体的議論できた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537385>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/b3d96b630bce29204290f8f333e917582c1869aa87fba379bba882dbcb719fb4.jpg> 米 ウォルツ大統領補佐官が退任
+      <a href=https://news.yahoo.co.jp/pickup/6537388>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/f85ea161af9ecec5d1c97293457a0f19c5d6a0300bf16347c7958cb251af33f9.jpg> 中国が軍民両用艦を建造 有事想定
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537381>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/1/02888fde617c6a2b1b5c65cb3a2da620584568873569e7244ffc27e3c1eebaf5.jpg> 口座乗っ取り 証券各社が補償検討
+      <a href=https://news.yahoo.co.jp/pickup/6537396>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/0777221f1b41e3b3a80330972807685993419eee46beedb72871123298a73782.jpg> 住宅で遺体発見 ストーカー被害か
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537386>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/76b31eedfa15c07ee2c4868332bd4b0a56196b9ecdd94f6cfcdc162bec0fa18e.jpg> 鈴木誠也が2打席連続HR 8号&9号
+      <a href=https://news.yahoo.co.jp/pickup/6537399>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/daf7048d65f7d8727994e5a28343e819c3e25ce315cf657a4a647cca5360aae0.jpg> ジブリ「君たちは」今夜TV初放送
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 09:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 09:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
