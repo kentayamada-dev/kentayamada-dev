@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8470a8d234847ca58f301c803e94e48b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e0fb01ea32104d7ba9f7bfd0fd6b0d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5320fb4df2f3cd1cb68a0fb2cfa812f7f0038f18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000426-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=622&ch=622&exp=10800&fmt=webp> 「大阪コミコン」マッツ・ミケルセン＆サン・カンらセレブ登場　サプライズプレゼントに歓声
+      <a href=https://news.yahoo.co.jp/articles/21054b65851e9da2cf4ce196f781760098f389d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-08747567-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米と鉱物資源開発めぐり合意　ゼレンスキー大統領「対等な協定で意義は極めて大きい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0957023ce6717d0cfeee5675b75d9a7f7dabe760>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-21890858-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 2回目の対米関税交渉へ…自動車めぐる関税以外の「壁」とは?　米・ウクライナが“鉱物資源協定”に合意 トランプ政権が譲歩か【news23】
+      <a href=https://news.yahoo.co.jp/articles/f4eb4b6be17ae578afce52a345391e7a0784be31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000004-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=505&cy=0&cw=1483&ch=1483&exp=10800&fmt=webp> 「大阪コミコン2025」開幕！マッツ・ミケルセン＆ビル・スカルスガルドら集結、Tシャツバズーカでサプライズ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/74dd6df3d6c8686253e4784c540115202e172560>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000041-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 証券口座“乗っ取り”急増　証券各社が補償を検討
+      <a href=https://news.yahoo.co.jp/articles/ad72716337fe7a25169d8a3c5cae039846d1ff6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-10176482-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=562&ch=562&exp=10800&fmt=webp> 証券口座“乗っ取り”被害急増 証券各社が顧客に対し補償を検討
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537419>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/292428bed309f162996a34ebd62eefa5947f68b0a2723c67eaf796268dbfe8dc.jpg> 「厚切りとんかつ」人気 背景は
+      <a href=https://news.yahoo.co.jp/pickup/6537422>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c41f2157f667c31bec01e5d6a77bc28977d194fd6a2db0af8404349e15015d94.jpg> 千賀がウイルス感染 点滴打ち登板
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537422>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c41f2157f667c31bec01e5d6a77bc28977d194fd6a2db0af8404349e15015d94.jpg> 千賀がウイルス感染 点滴打ち登板
+      <a href=https://news.yahoo.co.jp/pickup/6537432>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/a62edb2d99954ceee8d880a908994a24ac692d4bd6293f8c30cdb827a1f391f5.jpg> 中丸雄一 活動再開後初の公の場
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 14:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 14:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
