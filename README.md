@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/F-v9IWpEmaM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/058273f5806eca9e405fe905d9363a83.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7e0e5f57eeed07544a9b0426c58bd8c6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8edc6b4da940e8e515ea3546ba90c74c1e019f65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-07234235-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “証券口座乗っ取り” 被害顧客に対して一定の補償へ　日本証券業協会と証券10社が合意
+      <a href=https://news.yahoo.co.jp/articles/e33fd0a0e0fb41e87945fe74e027440d7e142658>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-21892475-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=394&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 浜田雅功さん（ダウンタウン）　活動再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/91373f37583335d0027bd66fe6c4c2955c297f02>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00051047-asahibc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「いのち輝く」万博会場に初めて喫煙所を設置へ　遠い喫煙所・・・会場内喫煙が確認され懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77a0f0fdbb5de749b382a31708fd257baf84d28b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00029643-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=516&ch=516&exp=10800&fmt=webp> 東北　帰宅時間帯は本降りの雨の所も　ゴールデンウィーク後半は3日と5日が行楽日和
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2553f90f52cf7ccbb66cce241f8aa0fc2304aad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000041-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=388&ch=388&exp=10800&fmt=webp> ２次関税交渉の日本「為替レート、安全保障議論しない」…５月中旬以降に再協議
+      <a href=https://news.yahoo.co.jp/articles/6f83cd901b059d10497480ccea624fcd37e2b58f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 証券口座乗っ取り、被害相次ぎ補償方針表明　証券10社
       </a>
     </td>
   </tr>
@@ -402,14 +386,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537444>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/41da88dbbc3d747e1431af3fc8dfc8e4de2eaea05f490c0387d2d652c9a679e5.jpg> 石綿訴訟 国の「逆転敗訴」確定
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537443>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/1087d838b7fea50a40507fcbfba6ae2a7f064cb6b60b55e8d18e285c9f1dbcd2.jpg> ETC障害 後払い料金の徴収中止
       </a>
@@ -420,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537451>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/04f0f1e2f591eb57fd0fc84d497da13c0f10e8a7cc905393353d357d7b2379a0.jpg> 斎藤知事の発言に 消費者庁が指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537447>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/59e511c9deccd5c9cd59ec752633d0f884e81c8d92ed564c8f6841ca7f4275a8.jpg> 衝突事故から1週間後 2歳女児死亡
       </a>
     </td>
   </tr>
@@ -450,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537448>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/1dd2f0236d098575524e54bd5c1892cd387cc5e8ecc9f797eda49321dc0661f2.jpg> 初放送「君たちは」読み解く視点
+      <a href=https://news.yahoo.co.jp/pickup/6537460>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/0e4a217ecaa2bb47d9b4d7efe983405ccb44bf0ec5b9624635fe11e130d7ad0c.jpg> ダウンタウン浜田 芸能活動を再開
       </a>
     </td>
   </tr>
@@ -460,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 17:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 17:30:12 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
