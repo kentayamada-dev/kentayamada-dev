@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f956b51087beaccf9cb44c3968c3224.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5cb8b647fe455913e4ae4f85f1e36012.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6addf0d86446860dbc0a7c38dbd6f1e16f5322a4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 壱岐島沖ヘリ事故　後部回転翼の制御ロッドが破断、墜落原因か　国交省は全機点検を指示
+      <a href=https://news.yahoo.co.jp/articles/a63ea7a6a932bbc8180b362a09112d86781fa528>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000188-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=883&ch=883&exp=10800&fmt=webp> 休養中のダウンタウン浜田雅功、2日深夜のMBSラジオ「ごぶごぶラジオ」で電撃復帰「ほな、やるで！！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/56c4f602db28139243692eef32d577d7cb893e0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-01779339-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 元交際相手は出国か　不明女性「ストーカー被害」を警察に相談…親族「対応してもらえず」と訴え
+      <a href=https://news.yahoo.co.jp/articles/dad9d7e18f8c745716aecad4fc1397b5a67b611f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-35030022-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=126&cw=1286&ch=1286&exp=10800&fmt=webp> 渋野日向子イーグル２連発「自分でもびっくり」通算－９　首位争いへ／ブラックデザート選手権
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537494>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/9/28/2fd1d2e94623326b5bb4aace171d5d80c8c869de98f7e837d2185426a8c18c12.jpg> 不信任案 野田氏は他の野党けん制
+      <a href=https://news.yahoo.co.jp/pickup/6537507>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/f215d24efa6edddfb56d192010ed996021891171b541c3ae74c9af0aa726fd50.jpg> GW4連休の初日 混雑ピークに
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537501>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/df1268338d85209740cb7903f8a3bc1e2ca0e8b41893ecf173b4255eb42bd62c.jpg> 医療ヘリ事故 後部の制御部品破断
+      <a href=https://news.yahoo.co.jp/pickup/6537502>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/d8852d54a860bcdb242a79bd756ea5e0bb1aecdd0461cdfd5358bbb38d9c40da.jpg> 大谷 数センチ修正で打撃V字回復
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537502>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/d8852d54a860bcdb242a79bd756ea5e0bb1aecdd0461cdfd5358bbb38d9c40da.jpg> 大谷 数センチ修正で打撃V字回復
+      <a href=https://news.yahoo.co.jp/pickup/6537510>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/7f08f98cfd9841946c3120f04a7c2a5ddebbeff52c46e33e6b24cbc0eddf0254.jpg> 離れ業 渋野日向子が連続イーグル
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 07:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 08:00:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
