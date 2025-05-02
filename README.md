@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a4c69864932baed62db2ba878ab1364e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8470a8d234847ca58f301c803e94e48b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/997c2bec55d71dbacfa7c823f444326f3457c8e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-90023054-nbstv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】スーパー駐車場で車が暴走　運転の70代女を逮捕　買い物客や車に次々に衝突　はねられた高齢女性1人が意識不明の状態　
+      <a href=https://news.yahoo.co.jp/articles/5320fb4df2f3cd1cb68a0fb2cfa812f7f0038f18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000426-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=338&cy=0&cw=622&ch=622&exp=10800&fmt=webp> 「大阪コミコン」マッツ・ミケルセン＆サン・カンらセレブ登場　サプライズプレゼントに歓声
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537415>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/366ee0afbd323799d8696918f36f4c7dca810940f7e4d8bc65929c39fc8a6ebd.jpg> 鉱物協定 思惑一致も実現に疑問符
+      <a href=https://news.yahoo.co.jp/pickup/6537416>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/e94d1682e1e628c58a1a596b62fdbc7a0615f35dc9f835f51a0e937c52fa577d.jpg> 現役世代の孤独死 記者感じた課題
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537430>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> マニラ保険金殺人 松本死刑囚死亡
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537417>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c36d842082b1206193834e6f47d089ccef7f0045d70c04579a37456d39395542.jpg> 陥没 男性家族「恐怖と戦った父」
+      <a href=https://news.yahoo.co.jp/pickup/6537433>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/6f6b1592dcd1494e7e124ef3930220df3b89ce3c5784581c4e0cae23fef882e8.jpg> 幼稚園バスと車が衝突 園児ら搬送
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537425>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/9724be2c844b1374646cd1d73cb6403ddc5ae1740e9aee36e3b5a329ce1fc0a0.jpg> WHO 肥満症治療薬の使用推奨へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537422>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c41f2157f667c31bec01e5d6a77bc28977d194fd6a2db0af8404349e15015d94.jpg> 千賀がウイルス感染 点滴打ち登板
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 13:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 14:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
