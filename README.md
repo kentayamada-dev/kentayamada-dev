@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5fc38c81e209030dea315acdc39ac218.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fc66ef84a604c69222dbe72286c7efdf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d1bb387df351fde9a5eb0b1fb70267622c72423>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000025-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 石破首相「一致点見いだせる状況にない」　関税交渉で赤沢氏報告うけ
+      <a href=https://news.yahoo.co.jp/articles/6fb9322a21d9a9f28b9215a00387c4e3a9633a3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-90023978-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=840&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日傘・雨傘どっち？関東で警報級大雨の恐れ　GW後半も忙しい天気変化と激しい気温差　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/84843f7d16e76374496d48b7b4f525a87ba7d8d1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 東進予備校講師「通学路の登下校時の通行止め」小学生７人を車ではねた殺人未遂事件の防止策に言及
+      <a href=https://news.yahoo.co.jp/articles/0957023ce6717d0cfeee5675b75d9a7f7dabe760>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-21890858-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 2回目の対米関税交渉へ…自動車めぐる関税以外の「壁」とは?　米・ウクライナが“鉱物資源協定”に合意 トランプ政権が譲歩か【news23】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e95c13eb794facc208a976efdf1eed3a0292b423>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-08114749-ytv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【物議】英国パビリオンのアフターヌーンティー「紙コップ」に紅茶とジャム…記者が取材してみると？　1人5000円の価値はあった？
+      <a href=https://news.yahoo.co.jp/articles/74dd6df3d6c8686253e4784c540115202e172560>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000041-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 証券口座“乗っ取り”急増　証券各社が補償を検討
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83a5f43fcddf07674e9014e8de61047bc097ff36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日米関税協議　赤沢経済再生相、すべての関税措置の見直し求める　6月に合意を期待
+      <a href=https://news.yahoo.co.jp/articles/62c4047744fa33f4484c746d6653fe14756e5525>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00050072-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=381&ch=381&exp=10800&fmt=webp> ２回目の日米関税交渉、赤沢氏「突っ込んだ議論できた」…今月中旬以降に閣僚級協議で一致
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/68e80820a197d2c904e531eb4d516c11bb97e836>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00050061-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 米国との資源権益協定、ゼレンスキー氏「真に公平なパートナーシップ」…米側の譲歩を評価か
+      <a href=https://news.yahoo.co.jp/articles/883ee2de2fe35afe19cad63e9b8ff20474ecdd2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010003-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> メッツで「ウイルス性胃腸炎」が“流行”　千賀滉大も感染「点滴を受けて持てる力を出し切った」4回1失点で今季2敗目
       </a>
     </td>
   </tr>
@@ -402,16 +402,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537398>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/4c8ee026ca1b647b43466a271d011f2987dde5bb672efb992a90ca1d212ea200.jpg> 鉱物協定 ウ大統領「真に対等」
+      <a href=https://news.yahoo.co.jp/pickup/6537420>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/d02180e5957e9457d0171c4a017584f32d9593d2298ae05cbf42ef3757ead580.jpg> 関税 6月首脳合意に期待と赤沢氏
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537405>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/752fe33c63452767a81a0988e860ef67d4e7c86b534547ca34c5ae61dec3484d.jpg> 韓国で3人目の大統領代行 混乱
+      <a href=https://news.yahoo.co.jp/pickup/6537414>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/8fc8d4880a1c2c85832966a692c7154332c93ee0bdbb28020d478aba1ce0ee7c.jpg> ハンセン病訴訟 志村康さん死去
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537418>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/eef3f963ea102aff092fe324aac45d01cbf1042ae3ebe14199f742c517795fad.jpg> 自治労鳥取本部に裏口座 計2億円
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537423>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/6a146c11e708bf5d5200b1e60bbcc59a6a37ff27a004b59154e438254d6376c9.jpg> 7人負傷 速度緩めず強い殺意か
       </a>
     </td>
   </tr>
@@ -426,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537400>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/72c6c1a2c898f6a0a62117dfb2b17a28930d35b7625335f709111d34089cc26d.jpg> 西成で7人負傷 響く子供の泣き声
+      <a href=https://news.yahoo.co.jp/pickup/6537421>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c6a0594ca950ab891181d58f6c78a29e85d47f71c93b41eb8de73768ad70b9b9.jpg> 風力発電のプロペラ落下 男性搬送
       </a>
     </td>
   </tr>
@@ -436,22 +452,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537409>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/972eca593bddadadaff60b452f714bd5820a8a51b8aaea5fcefe97280f181354.jpg> ステーキ店倒産 2024年は過去最多
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537402>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/34f9a1b5dae07985d04e9b9c667263620d825975fe2c46285a62628b4025336b.jpg> 高速で燃費よくする方法 JAF回答
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537408>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/b28ef2d013c2150a469b89f98abdfbf9f03c72a291615208af15a74af722478d.jpg> 井上尚弥 米ファンに粋な振る舞い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 12:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 12:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
