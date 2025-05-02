@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f6c63bfe30f056c1e2b8e53956031a3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ede6112422f8539b37c04f448fc2a3ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c766545265ce439dc1f0aa5cde93b9dab29ca326>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 口座乗っ取り一定補償表明　被害拡大で大手証券10社
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c2553f90f52cf7ccbb66cce241f8aa0fc2304aad>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8342b207e34fb4c21d6a3da5f565bc81d469aa7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 証券口座乗っ取り、証券大手各社が「異例」の被害補償検討…日本証券業協会が方針表明へ
+      <a href=https://news.yahoo.co.jp/articles/97aa17bd97d7a489728178ac0a1a1e66812b9f68>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “関税交渉に向けトランプ政権から複数回接触”中国政府が明らかに
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/21054b65851e9da2cf4ce196f781760098f389d8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-08747567-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米と鉱物資源開発めぐり合意　ゼレンスキー大統領「対等な協定で意義は極めて大きい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9aee3a6487a10d7636a5f77a140fc792b959e7dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000148-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ド軍メディア「復帰見たい？」前田健太DFA受け緊急アンケート　ファンが復帰熱望の中、さまざま意見も
       </a>
     </td>
   </tr>
@@ -410,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537436>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c4e57e41f6c26f2795ecd256a3ed1034267c6419ca506b80d56419c74fb0c1a5.jpg> 米政権 関税交渉の早期合意狙う訳
+      <a href=https://news.yahoo.co.jp/pickup/6537440>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c2a31b9fb3e2582815baa4d2c5a879647a53b6c822eb55a5e837f2962a7b9d29.jpg> 印 テロ報復の作戦を米国に説明か
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537430>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> マニラ保険金殺人 松本死刑囚死亡
+      <a href=https://news.yahoo.co.jp/pickup/6537451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/04f0f1e2f591eb57fd0fc84d497da13c0f10e8a7cc905393353d357d7b2379a0.jpg> 斎藤知事の発言に 消費者庁が指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537443>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/1087d838b7fea50a40507fcbfba6ae2a7f064cb6b60b55e8d18e285c9f1dbcd2.jpg> ETC障害 後払い料金の徴収中止
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537441>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/3fd15ebba906c51c66efa103f7c5b136a26583db94021a1defed2f5f0085be7d.jpg> マック世界売上高が減少 関税影響
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537439>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/b0146adad63f514923e7bd2586d2a179c325993142eeab3b79c93015d246a7e5.jpg> シャトレーゼに改善命令 入管庁
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537432>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/a62edb2d99954ceee8d880a908994a24ac692d4bd6293f8c30cdb827a1f391f5.jpg> 中丸雄一 活動再開後初の公の場
+      <a href=https://news.yahoo.co.jp/pickup/6537446>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/402114cb47ee3e7f14733f5eeddbca247430eceac72b3d2ef923ddaffb8a3b7a.jpg> 前田健太「戦力外通告」の舞台裏
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 15:30:12 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 16:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
