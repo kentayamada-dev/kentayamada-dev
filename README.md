@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d0c4318d5e2b8a78d75f79136f81f500.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4db2f0f40cfae7e41f6057fb4f39674d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ffe17dc55b9c9c6312d1d69b0445697a672d90c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000012-impktw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800&fmt=webp> 証券口座の乗っ取り、楽天証券やマネックスなど10社が一定の被害補償の方針示す
+      <a href=https://news.yahoo.co.jp/articles/f3889b1efa00a7a1448e826da26a3ecc1c9b3a4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000054-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=284&cy=0&cw=986&ch=986&exp=10800&fmt=webp> ＜浜田雅功＞芸能活動を再開　今夜の「ごぶごぶラジオ」から
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e119c3d439c45ec1d4115b541bec6d883c65ac2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-21892515-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=300&ch=300&exp=10800&fmt=webp> 2日夜遅くにかけてゲリラ豪雨や落雷、突風、ひょうに注意　3日午後6時まで伊豆諸島80ミリ、関東で60ミリの降水予想　湿った空気と寒気の影響で大気の状態不安定に
+      <a href=https://news.yahoo.co.jp/articles/5bc43c1bf20a245d1564f3858e4fc5c99f116905>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000012-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 証券各社、不正売買被害による損害を個別補償へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/15a36a0d0dcad64705c56ddc4a6ead329ffb9398>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博会場、西ゲート側に喫煙所新設
       </a>
     </td>
   </tr>
@@ -394,24 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537447>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/59e511c9deccd5c9cd59ec752633d0f884e81c8d92ed564c8f6841ca7f4275a8.jpg> 衝突事故から1週間後 2歳女児死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/99dad1a63b9725934776aa4da13d4bfb4f2bcaee3a97309ac3a137c9b87338fd.jpg> 民家に白骨化遺体 燃やされた跡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537449>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/9f135c304f030119271795c2ed10711a3270d771e927156d3a85777ef6d2de16.jpg> がんの疑いを主治医見落とし 死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537461>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/827766cdbd8ad7eb10e5204a50ca54072c418a9623b8b0cd875dc4b415432512.jpg> 西成7人負傷 男の父は無職に驚き
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537460>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/0e4a217ecaa2bb47d9b4d7efe983405ccb44bf0ec5b9624635fe11e130d7ad0c.jpg> ダウンタウン浜田 芸能活動を再開
+      <a href=https://news.yahoo.co.jp/pickup/6537465>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/f551579840baa18a0f7d0b09667923039c7189ff91c5cdbd67a51ec9b64882d4.jpg> 俳優・間宮祥太朗に第1子誕生
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537469>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/494fe199106712ec416d4483756fab6ce06e39d2abea7bdf517981feacbec851.jpg> 復帰の浜田雅功「ほなやるで」
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 18:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 19:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
