@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8e0fb01ea32104d7ba9f7bfd0fd6b0d2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/06ddfec8a7c038a71583210368dddf92.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9cd2ff2d20ca653e61444f378617e9b4428d845d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000439-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=616&ch=616&exp=10800&fmt=webp> 万博「英国」アフタヌーンティー炎上騒動　政府代表が自ら説明、約2分動画　投稿者も“心より願い”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c8342b207e34fb4c21d6a3da5f565bc81d469aa7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 証券口座乗っ取り、証券大手各社が「異例」の被害補償検討…日本証券業協会が方針表明へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/21054b65851e9da2cf4ce196f781760098f389d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-08747567-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 米と鉱物資源開発めぐり合意　ゼレンスキー大統領「対等な協定で意義は極めて大きい」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-08747567-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米と鉱物資源開発めぐり合意　ゼレンスキー大統領「対等な協定で意義は極めて大きい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f4eb4b6be17ae578afce52a345391e7a0784be31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000004-flix-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=505&cy=0&cw=1483&ch=1483&exp=10800&fmt=webp> 「大阪コミコン2025」開幕！マッツ・ミケルセン＆ビル・スカルスガルドら集結、Tシャツバズーカでサプライズ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ad72716337fe7a25169d8a3c5cae039846d1ff6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-10176482-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=223&cy=0&cw=562&ch=562&exp=10800&fmt=webp> 証券口座“乗っ取り”被害急増 証券各社が顧客に対し補償を検討
+      <a href=https://news.yahoo.co.jp/articles/2a2e6ef8ab65c255321b42b4f2658ea716122071>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> シャトレーゼに入管庁が改善命令　外国人への休業手当不払い
       </a>
     </td>
   </tr>
@@ -382,7 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/62c4047744fa33f4484c746d6653fe14756e5525>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00050072-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=381&ch=381&exp=10800&fmt=webp> ２回目の日米関税交渉、赤沢氏「突っ込んだ議論できた」…今月中旬以降に閣僚級協議で一致
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00050072-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=381&ch=381&exp=10800&fmt=webp> ２回目の日米関税交渉、赤沢氏「突っ込んだ議論できた」…今月中旬以降に閣僚級協議で一致
       </a>
     </td>
   </tr>
@@ -394,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537420>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/d02180e5957e9457d0171c4a017584f32d9593d2298ae05cbf42ef3757ead580.jpg> 関税 6月首脳合意に期待と赤沢氏
+      <a href=https://news.yahoo.co.jp/pickup/6537436>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c4e57e41f6c26f2795ecd256a3ed1034267c6419ca506b80d56419c74fb0c1a5.jpg> 米政権 関税交渉の早期合意狙う訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537416>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/e94d1682e1e628c58a1a596b62fdbc7a0615f35dc9f835f51a0e937c52fa577d.jpg> 現役世代の孤独死 記者感じた課題
+      <a href=https://news.yahoo.co.jp/pickup/6537435>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/90afecca5c83e7fa9d055af71ce52e981230fd96fee671f1e904191294f1e9df.jpg> 韓国大統領選 韓前首相が出馬表明
       </a>
     </td>
   </tr>
@@ -412,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537430>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> マニラ保険金殺人 松本死刑囚死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537434>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/e8a5e634d9992c12f9d9c3aaf46205a73ecab8a7f0d8b81dcd2d407a289e0678.jpg> 民家に遺体 住人男性は海外出国か
       </a>
     </td>
   </tr>
@@ -434,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537428>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/2e775f88d01ffbcb9d8471d7e0da1463107f5077a467c414e848f8c9bca9a80f.jpg> 風力発電の羽根落下 搬送先で死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537422>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c41f2157f667c31bec01e5d6a77bc28977d194fd6a2db0af8404349e15015d94.jpg> 千賀がウイルス感染 点滴打ち登板
+      <a href=https://news.yahoo.co.jp/pickup/6537439>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/b0146adad63f514923e7bd2586d2a179c325993142eeab3b79c93015d246a7e5.jpg> シャトレーゼに改善命令 入管庁
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 14:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 15:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
