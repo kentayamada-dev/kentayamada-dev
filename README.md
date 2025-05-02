@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/609292b7f56925a764ebbfbe632fb62c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/54797b2d4d044aaaa9e441b3283696c1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9018ee14f82ea9d6decd6e2ca14b4c3e0d75e2bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-07234305-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「過酷な現場、救助は最善尽くした」と消防 救助方法の検証については「第三者による検証予定なし」 埼玉・八潮市陥没事故
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/852ede2032222037d26a9cdcf6d0a28be58441c0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大手証券10社、不正取引の被害補償へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e2c5f77142abddb1cd9b9250a9cf31982e33bed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-01844356-mmt-000-2-thumb.jpg?exp=10800&fmt=webp> 「操業中に転覆した」と乗組員、金華山沖で転覆した漁船…6年前にも同様の事故起こしていた（宮城）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/15a36a0d0dcad64705c56ddc4a6ead329ffb9398>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 万博会場、西ゲート側に喫煙所新設
       </a>
     </td>
   </tr>
@@ -394,32 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537477>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/5ae28180cd55d30c360b8d9b755e9db0bc3d593107dd5aec554225ab1c225d53.jpg> 元将校 戸棚の奥に「笑顔の写真」
+      <a href=https://news.yahoo.co.jp/pickup/6537473>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/a3b0f037e659df401d6a7c3b0d2a079692972ef8e41c459cfc18858bad794c32.jpg> 米 政権内の情報漏えい捜査強化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537451>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/04f0f1e2f591eb57fd0fc84d497da13c0f10e8a7cc905393353d357d7b2379a0.jpg> 斎藤知事の発言に 消費者庁が指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537458>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/99dad1a63b9725934776aa4da13d4bfb4f2bcaee3a97309ac3a137c9b87338fd.jpg> 民家に白骨化遺体 燃やされた跡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537487>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/b72a38e8e2f3c391a732fdb95e6d8122423d7b85aa3d75f07cb9533da4b4f1cc.jpg> 性的暴行 県庁での抗議を米軍拒む
+      <a href=https://news.yahoo.co.jp/pickup/6537490>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/3326812b0f71cd55c3be4eecf40eea7ea1a2be37846de0a31ea615ee4d72842b.jpg> スーパーで車が暴走事故 女性死亡
       </a>
     </td>
   </tr>
@@ -442,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537457>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/db2bf21d77b8a12e0f6c4c17af2e908373390610b4d182bec7e86e9ac6eff48f.jpg> 広島のATM 宝くじ12億円当せん
+      <a href=https://news.yahoo.co.jp/pickup/6537471>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/76a85376390d14ea01dd31d15172db8b359b83b5379d015fc83703778c9036b3.jpg> フジ ハラスメント根絶宣言を公表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537488>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/8e73123b24a0f1ca95772c0edccbb620409588dfdc851a6699efcc91c05e7c89.jpg> SB 9回2死から劇的逆転サヨナラ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537491>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/6091e569ca75f44661f2b9cde893d04af111904d8779a022fef4c0aa36b941fc.jpg> 広末涼子 双極性感情障害を公表
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 21:30:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 22:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
