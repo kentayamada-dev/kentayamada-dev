@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c5215d6143a684dc3d120b6aed9f961a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a4c69864932baed62db2ba878ab1364e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/997c2bec55d71dbacfa7c823f444326f3457c8e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-90023054-nbstv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【続報】スーパー駐車場で車が暴走　運転の70代女を逮捕　買い物客や車に次々に衝突　はねられた高齢女性1人が意識不明の状態　
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0957023ce6717d0cfeee5675b75d9a7f7dabe760>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-21890858-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 2回目の対米関税交渉へ…自動車めぐる関税以外の「壁」とは?　米・ウクライナが“鉱物資源協定”に合意 トランプ政権が譲歩か【news23】
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/74dd6df3d6c8686253e4784c540115202e172560>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000041-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 証券口座“乗っ取り”急増　証券各社が補償を検討
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000041-ann-000-3-thumb.jpg?exp=10800&fmt=webp> 証券口座“乗っ取り”急増　証券各社が補償を検討
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/62c4047744fa33f4484c746d6653fe14756e5525>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00050072-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=381&ch=381&exp=10800&fmt=webp> ２回目の日米関税交渉、赤沢氏「突っ込んだ議論できた」…今月中旬以降に閣僚級協議で一致
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/883ee2de2fe35afe19cad63e9b8ff20474ecdd2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010003-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> メッツで「ウイルス性胃腸炎」が“流行”　千賀滉大も感染「点滴を受けて持てる力を出し切った」4回1失点で今季2敗目
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00050072-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=381&ch=381&exp=10800&fmt=webp> ２回目の日米関税交渉、赤沢氏「突っ込んだ議論できた」…今月中旬以降に閣僚級協議で一致
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537414>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/8fc8d4880a1c2c85832966a692c7154332c93ee0bdbb28020d478aba1ce0ee7c.jpg> ハンセン病訴訟 志村康さん死去
+      <a href=https://news.yahoo.co.jp/pickup/6537415>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/366ee0afbd323799d8696918f36f4c7dca810940f7e4d8bc65929c39fc8a6ebd.jpg> 鉱物協定 思惑一致も実現に疑問符
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537418>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/eef3f963ea102aff092fe324aac45d01cbf1042ae3ebe14199f742c517795fad.jpg> 自治労鳥取本部に裏口座 計2億円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537423>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/6a146c11e708bf5d5200b1e60bbcc59a6a37ff27a004b59154e438254d6376c9.jpg> 7人負傷 速度緩めず強い殺意か
+      <a href=https://news.yahoo.co.jp/pickup/6537429>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/a7df0cabdd2de50feba4cdc2f7eec8bb469f0a105c6745d0b41b85a6fa12a38a.jpg> スーパーで車が暴走 1人意識不明
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537421>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/c6a0594ca950ab891181d58f6c78a29e85d47f71c93b41eb8de73768ad70b9b9.jpg> 風力発電のプロペラ落下 男性搬送
+      <a href=https://news.yahoo.co.jp/pickup/6537428>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/2e775f88d01ffbcb9d8471d7e0da1463107f5077a467c414e848f8c9bca9a80f.jpg> 風力発電の羽根落下 搬送先で死亡
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537419>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/292428bed309f162996a34ebd62eefa5947f68b0a2723c67eaf796268dbfe8dc.jpg> 「厚切りとんかつ」人気 背景は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537425>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/9724be2c844b1374646cd1d73cb6403ddc5ae1740e9aee36e3b5a329ce1fc0a0.jpg> WHO 肥満症治療薬の使用推奨へ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 13:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 13:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
