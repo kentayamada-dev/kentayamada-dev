@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/F-v9IWpEmaM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/05f873dd3cd0a58ea5e2620775f83176.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99c5b7bdbaadb85bb1914eef2ece127c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6e6dba294d2f206d9c0e11cd6b55c899289281f1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000242-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=42&cw=546&ch=546&exp=10800&fmt=webp> 浜田雅功さん活動再開　体調が回復
+      <a href=https://news.yahoo.co.jp/articles/d206da74e49e054d92d36294eb9df96b329e9b9c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000068-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=68&cy=0&cw=558&ch=558&exp=10800&fmt=webp> 長崎・医療ヘリ事故　後部回転翼の制御部品「破断」　運輸安全委
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/852ede2032222037d26a9cdcf6d0a28be58441c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 大手証券10社、不正取引の被害補償へ
+      <a href=https://news.yahoo.co.jp/articles/a74bf2920ce6d632775ecea4c99ad168473fd204>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000338-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1037&ch=1037&exp=10800&fmt=webp> 広島・新井政権ワースト7連敗　先発・森下が6回4失点と粘れず　坂倉1号は空砲
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537498>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/3827641c9f43797dafaf32373dc1b38eb588aadbcaac2b3d617dff5aa7187fee.jpg> 7人負傷 男確保の「元刑事」心境
+      <a href=https://news.yahoo.co.jp/pickup/6537497>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/397b0e66a62a259fb86faef924127d075777bff438629741bef73f4cf770afc2.jpg> JA全農の備蓄米出荷 まだ29%
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537496>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/bcabd3e25e1c6e0cd23277e19f8b2bb715c8e9a917ec9b26ad7f54fcc222a064.jpg> 万博リング 大阪知事が600m保存案
+      <a href=https://news.yahoo.co.jp/pickup/6537501>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/df1268338d85209740cb7903f8a3bc1e2ca0e8b41893ecf173b4255eb42bd62c.jpg> 医療ヘリ事故 後部の制御部品破断
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 23:52:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 00:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
