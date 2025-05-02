@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/88a5f545216a0bb8263fe6328d67dcf3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/609292b7f56925a764ebbfbe632fb62c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537478>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/cfd5295ed52c37363dd153bcef4278ecd750ccb402a64fbb9f1d47ced9baed91.jpg> 批判 ETC障害巡り突然の対応転換
+      <a href=https://news.yahoo.co.jp/pickup/6537451>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/04f0f1e2f591eb57fd0fc84d497da13c0f10e8a7cc905393353d357d7b2379a0.jpg> 斎藤知事の発言に 消費者庁が指摘
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537458>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/99dad1a63b9725934776aa4da13d4bfb4f2bcaee3a97309ac3a137c9b87338fd.jpg> 民家に白骨化遺体 燃やされた跡
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537480>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/3048bde0257a29748a4677f9e581689f7bb57eae0e84c276b86b501dcb49fbd2.jpg> 伊藤忠社長 米関税「影響消せる」
+      <a href=https://news.yahoo.co.jp/pickup/6537476>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/d99803cd68996e9e437818081f69c0afc99a168f319a2e7719187d48fd4fbe2f.jpg> 部屋にハト200羽 女性を市提訴へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537476>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/d99803cd68996e9e437818081f69c0afc99a168f319a2e7719187d48fd4fbe2f.jpg> 部屋にハト200羽 女性を市提訴へ
+      <a href=https://news.yahoo.co.jp/pickup/6537485>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/0be05d1a4118d0fbdfcdb315e79a95bfa79d212be183deb27f25e96658bc56df.jpg> 船が転覆「イワシが入りすぎて」
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537483>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/a4686b9e2f90114899abecb993017b125002628b75244229355b1d21cc619659.jpg> Gオコエが右肘手術 復帰に2カ月
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 21:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 21:30:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
