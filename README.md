@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/kWz9gVXQ7og?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/F-v9IWpEmaM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac7bc12cf5759a3452af2191efbbba59.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86adc1a6c3b72eace9c4e6715690fb81.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/059307ed289c6c7cbf390c9fc949df1cf3390d94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000032-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=1546&ch=1546&exp=10800&fmt=webp> 2回目の関税交渉「具体的に議論」、次回は5月中旬以降＝赤沢経済再生相
+      <a href=https://news.yahoo.co.jp/articles/c4e67582d9119c99e9fcf68d3769b2cad3de3a4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00343100-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＭＬＢ】千賀滉大　今季最短４回１失点で２敗目　チームも敗戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/59b44b3d046b8387e5fe0e72724bd59c57d283b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-43254267-bloom_st-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 赤沢再生相、関税協議は５月中旬以降集中的に実施－為替議題にならず
       </a>
     </td>
   </tr>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c812d4a28f1093583d842596dbcaadb8f047cb33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010000-wmapv-000-1-thumb.jpg?exp=10800&fmt=webp> 【動画】2日の天気 - 東～北日本にも雨雲広がる　激しい雨に注意　風も強まって荒れた天気に（2日7時更新）
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acaaeed2573b109fa4f9ef2900d7d3bbe46bfc5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00000046-dal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1329&ch=1329&exp=10800&fmt=webp> カープ大拙攻…今季ワースト１６残塁でサヨナラ負け　新井監督は前向く「ヒットも出ている、あともう少しだね」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250502-00010000-wmapv-000-2-thumb.jpg?exp=10800&fmt=webp> 【動画】2日の天気 - 東～北日本にも雨雲広がる　激しい雨に注意　風も強まって荒れた天気に（2日7時更新）
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537401>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/ca550cc21d396a04032af912dc68d5c8264b40936942865feeade7a9692f37cb.jpg> 関税 赤沢氏「具体的議論できた」
+      <a href=https://news.yahoo.co.jp/pickup/6537403>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/04041b3767e12f80c25397d87772f8e1113880a602b1bf2cf9856e5484367adf.jpg> 近畿～関東 局地的に激しい雨注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537388>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/f85ea161af9ecec5d1c97293457a0f19c5d6a0300bf16347c7958cb251af33f9.jpg> 中国が軍民両用艦を建造 有事想定
+      <a href=https://news.yahoo.co.jp/pickup/6537401>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/ca550cc21d396a04032af912dc68d5c8264b40936942865feeade7a9692f37cb.jpg> 関税 赤沢氏「具体的議論できた」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/02 09:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/02 10:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
