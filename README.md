@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9f54d6cdb1494aa80dc856e64455487f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f96c61771eb66fa4a4ce1316ce142e54.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d27e98b88df686e31a873dbfc8884a869a68b2ea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 川崎女性遺体、遺棄容疑で元交際相手の27歳男を逮捕　「間違いない」容疑認める
+      <a href=https://news.yahoo.co.jp/articles/79340df4014fe461ec3ea71bd1ee8299144aba4d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000068-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=428&ch=428&exp=10800&fmt=webp> 死体遺棄容疑で元交際相手を逮捕、容疑認める　川崎の事件
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/18276733a7441f17ee0afcc9bc4d0cf5298051ad>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米関税措置「依然、隔たり」　石破首相、赤沢担当相と林長官に対応策の迅速な検討指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3897911f11fffc3d8b102336bec5fb790c801a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00095999-thedigest-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「僕らにはヨシがいる」４勝目の山本由伸を同僚ベッツが称賛...防御率0.90でMLBトップ「仕事ぶりが素晴らしい」
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537600>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/38a3b624a4f418ca5eb50af8762c6d82458cf35a4163107e11bc553af1c990ea.jpg> 首相 車含む全関税の見直し要求
+      <a href=https://news.yahoo.co.jp/pickup/6537611>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/080b7a393bc86586f0e3c97dba4c9b7f557b83d73f52559f569892fe657537fe.jpg> オーストラリア総選挙 与党が大勝
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537606>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/fcef587ba52184e1a2345adf4521045b6d81d005abba31f109d33fc558867cd5.jpg> ピアスで勤務可 東京メトロが緩和
+      <a href=https://news.yahoo.co.jp/pickup/6537617>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/2d52be01ba26585b8a9103804e684e8d52535574aba9162eec3b071db8d69269.jpg> 応神天皇陵に石室 90年前に発見
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 23:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 23:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
