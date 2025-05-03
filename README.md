@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2f9ea77ff3a16055ea73716ec57bb63c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6913985c8666ce75ee27267cc5ce938.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/79340df4014fe461ec3ea71bd1ee8299144aba4d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000068-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=428&ch=428&exp=10800&fmt=webp> 死体遺棄容疑で元交際相手を逮捕、容疑認める　川崎の事件
+      <a href=https://news.yahoo.co.jp/articles/d6a641108135327fcb63f7fdd583c965047ec432>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00967022-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岡﨑彩咲陽さんのストーカー被害への警察対応に不服の関係者らが署に直接抗議へ　約50人が詰めかけ機動隊も出動　現場は一時騒然
       </a>
     </td>
   </tr>
@@ -386,16 +386,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537611>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/080b7a393bc86586f0e3c97dba4c9b7f557b83d73f52559f569892fe657537fe.jpg> オーストラリア総選挙 与党が大勝
+      <a href=https://news.yahoo.co.jp/pickup/6537618>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/4a583df056ed939ce6746db28d6ccaf0371f31613fd48894a909fe5f29e38f3c.jpg> 産油国の一部 供給拡大を加速
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537616>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/46495d0d27f804af3089d08001fcaf365d88e6db98ec15e15b7e94402a036663.jpg> 民家に女性遺体遺棄疑い 男を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6537621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c854caac440ecd0b1683e7fd2b0f20f1b5982e764e6eede3eaff59b6d66753a7.jpg> 民家に遺体 逮捕の男が容疑認める
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537609>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/ba78acd1e4c5f9c975bb02f6e67c17a7172dd8a86c801344e30c35fee9effe6c.jpg> 「あんぱん」好評も視聴率は苦戦
+      <a href=https://news.yahoo.co.jp/pickup/6537588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c6de5766033d6021059981acc947167bf0cb8c0d6dd58ba89710c21fb04a0755.jpg> ケツメイシ 今後は3人体制で活動
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 23:52:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 00:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
