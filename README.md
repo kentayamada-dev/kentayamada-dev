@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ed4c2f58a03368009405f2a842d55271.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/de5bb34bf568407c9fc67c6650d5e77c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab35b6f28aeb023867e44d1b4238297491cc2db4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-35030280-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1102&ch=1102&exp=10800&fmt=webp> 中村七之助「結婚することができました」初生報告　婚姻届提出日、大先輩からの電話も明かす
+      <a href=https://news.yahoo.co.jp/articles/332ef3448e42346ae9c13882443147e7df69784c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-07234372-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】川崎市の住宅で身元不明の遺体が見つかった事件　行方不明の岡崎彩咲陽さんの元交際相手を任意同行
       </a>
     </td>
   </tr>
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d5061326c43f3fee2b98c9b8683d523dbc28529e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00050058-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権、自動車部品に２５％の追加関税を発動…供給網の混乱・製造コスト上昇招く恐れ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00050058-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権、自動車部品に２５％の追加関税を発動…供給網の混乱・製造コスト上昇招く恐れ
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537545>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/1ca384ce99d7018e6bf52c9582d7cc97ed28ed9ae10ddc5ecb27c7e39052442d.jpg> 民家に遺体 別の所で燃やされたか
+      <a href=https://news.yahoo.co.jp/pickup/6537562>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/2b9d4240cecc06f62d3bb288441597e94444851b8ac95cb1a8fd666d678bcd20.jpg> 川崎の民家に遺体 住人男性が帰国
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/296717cc4e2b9c93cffb5aeb314b84169ab47a279d156fbfc9285a88a844b2b5.jpg> 岩井千怜 スロープレー判定に涙
+      <a href=https://news.yahoo.co.jp/pickup/6537528>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/bae06d114a37ee14a48f7e11575a2fb501c074119e740bebd9bee2b0009eb248.jpg> リバティアイランド追悼 ファン涙
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 14:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 15:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
