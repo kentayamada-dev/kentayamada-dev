@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d37ce0bc287b00eeab1067b2f2863637.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2cb93364261de490eb75635df651b1b4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75f6b099d654882c81235715754e6445b4a29e7b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-21893400-nbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 3人死亡の長崎県壱岐沖ヘリコプター事故　機体後部の部品破断　運輸安全委員会発表
+      <a href=https://news.yahoo.co.jp/articles/ba326c5fd5f069bd2463d9b06f13dff4d589489f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-05815953-fbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 長崎県壱岐市沖で3人死亡　医療搬送用ヘリ事故　部品の一部の破断が判明
       </a>
     </td>
   </tr>
@@ -386,8 +386,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537519>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/2f8d2bcf0a57c26ee74c9773764a7427941493442bddeb1c08d90b390914baf7.jpg> 玉木氏肝入り?減税案 火消し躍起
+      <a href=https://news.yahoo.co.jp/pickup/6537520>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/4b3e835ac1e8b2cc8d4953e9b249a6525b421cff8013b0a343e51236ff0b9b62.jpg> 命の値段巡り性差 慣例破った裁判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537534>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/99bf3e8819c3761fc858af53ccbe9105f3cb40fd4a233051ad14855637478d7c.jpg> アマゾン株7000億円分売却 創業者
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537542>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/87e37d1e8282d14e9e8769e0dd99eda99e16defcd2f4736874e95346765ba088.jpg> 小1・小2の通知表を廃止の市 理由
       </a>
     </td>
   </tr>
@@ -404,22 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537532>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/42ae4e70f2bd23057d5088e2f38378218f6e9b98b3a7dd51f64cc0c55285f2d0.jpg> 「粉末」味ぽん4日間で完売 背景
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537527>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/46e8632a94c256d04e7f99ef432287db7384ab801b630ad2dee18afd8fab5dc6.jpg> 愛子さま 公務で初めて「お言葉」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537531>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/8e9dde5bb195fc71fb22477554c47986ffb9155ff87e9d450588cd9fe51ec9f6.jpg> 由伸が圧巻投球 6回無失点で降板
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 11:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 12:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
