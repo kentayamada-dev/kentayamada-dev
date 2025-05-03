@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/MqcgoOYnpBM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5c77de8a0f7d68051ef1ed95ad79e0c7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4589b07b5123a1bd012bb30981a39af4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66d413aec6135a320768829f47553a28d897c51c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日向坂４６・富田鈴花、グループ卒業を発表「お芝居という表現方法に強く惹かれる」
+      <a href=https://news.yahoo.co.jp/articles/18276733a7441f17ee0afcc9bc4d0cf5298051ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米関税措置「依然、隔たり」　石破首相、赤沢担当相と林長官に対応策の迅速な検討指示
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c934a89cc95bcb679bb78064e98d23e239088be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ米政権、自動車部品へ25％関税発動　生産移転促す、最大3・75％相当の軽減も
+      <a href=https://news.yahoo.co.jp/articles/61f1b47f02b12c842f509672dcfa78ef264aa8ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000059-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=1449&ch=1449&exp=10800&fmt=webp> ＜日向坂46富田鈴花＞14枚目シングルで卒業　今後は俳優業へ　「順風満帆ではなかったけれど、十分幸せなアイドル人生でした」　
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eef19e40142eebc800877af1fa8af681a42ad8b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00050099-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 「苦労せずに生きている人が嫌だった」…大阪・西成で児童の列に車で突っ込んだ容疑者が供述
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00050099-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 「苦労せずに生きている人が嫌だった」…大阪・西成で児童の列に車で突っ込んだ容疑者が供述
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537586>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/462beafbc206d76779ef3939384eaffd413bf5ad8fe4fe62cfe5793a853b62d8.jpg> 赤沢氏 2回目の関税交渉「前進」
+      <a href=https://news.yahoo.co.jp/pickup/6537600>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/38a3b624a4f418ca5eb50af8762c6d82458cf35a4163107e11bc553af1c990ea.jpg> 首相 車含む全関税の見直し要求
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 21:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 22:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
