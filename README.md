@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b82e6e28a5a6099c0239be8d55b75881.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cf0d8dca8e3c6669e3202b0b8ce79b2b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a20a595410fc3295a919d809f8305a8e44a8459b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00790973-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 東野幸治、裏番組で復帰の浜田雅功は「おっさんサーファー」　番組スタッフにタレコミを暴露
+      <a href=https://news.yahoo.co.jp/articles/05a0bd479c0bbbc5cd13faabf16e12927a108b45>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000120-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=867&ch=867&exp=10800&fmt=webp> ドジャース　2―1の8回終了時に雨天中断　山本由伸が6回1安打無失点と好投　ベッツが5号ソロで援護
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a04b0876e3e5d0dbbfb49c81e5347ad3e60224e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-07234343-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　6月14日誕生日にワシントンで軍事パレード開催へ
+      <a href=https://news.yahoo.co.jp/articles/a20a595410fc3295a919d809f8305a8e44a8459b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00790973-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 東野幸治、裏番組で復帰の浜田雅功は「おっさんサーファー」　番組スタッフのタレコミを暴露
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537521>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/33b45228db66d719f1c1dc83ea568792d9492c1ab4d8724ff83625a11a62fac2.jpg> 日英伊の戦闘機 サウジ参画容認へ
+      <a href=https://news.yahoo.co.jp/pickup/6537519>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/2f8d2bcf0a57c26ee74c9773764a7427941493442bddeb1c08d90b390914baf7.jpg> 玉木氏肝入り?減税案 火消し躍起
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537523>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/27560738091a59c56c1791f63221f9565c23d79fe017eb9f8e23eec6eeeb5af0.jpg> 由伸ヒヤリ 顔面付近に痛烈な打球
+      <a href=https://news.yahoo.co.jp/pickup/6537531>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/8e9dde5bb195fc71fb22477554c47986ffb9155ff87e9d450588cd9fe51ec9f6.jpg> 由伸が圧巻投球 6回無失点で降板
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 10:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 10:30:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
