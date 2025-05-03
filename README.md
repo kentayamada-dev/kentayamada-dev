@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/MqcgoOYnpBM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/97d313c6163e127c8eb1c8d3e09ccefb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b82e6e28a5a6099c0239be8d55b75881.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/359cc06dcf3bf39cd78e4e27ba7ebf635182f52d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000112-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=205&cw=791&ch=791&exp=10800&fmt=webp> 山本由伸　圧巻の投球で4勝目の権利　5回まで無安打無失点、6奪三振に敵地ファンも沈黙
+      <a href=https://news.yahoo.co.jp/articles/a20a595410fc3295a919d809f8305a8e44a8459b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00790973-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 東野幸治、裏番組で復帰の浜田雅功は「おっさんサーファー」　番組スタッフにタレコミを暴露
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67bb050b8709b23e60b7eaab5e311380576eab06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00790954-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=188&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 浜田雅功、休養期間は「ずっと寝てた」　ラジオで活動再開の真意語る
+      <a href=https://news.yahoo.co.jp/articles/5a04b0876e3e5d0dbbfb49c81e5347ad3e60224e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-07234343-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=328&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　6月14日誕生日にワシントンで軍事パレード開催へ
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537512>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/4dc3b86ea5fe45a5dbe3a4c9a199c79c62d736b7de7c95ed80554fd89f6c9887.jpg> 憲法記念日に各党声明 改正巡り差
+      <a href=https://news.yahoo.co.jp/pickup/6537522>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/8250ee4f60844d31c792a7138198fb79fde7752a8d00ae0d14054e1da928bd52.jpg> トランプ氏の万博参加 政府が期待
       </a>
     </td>
   </tr>
@@ -410,32 +410,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537509>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/63a7665afad46b20db08df45c7ba5c8eae4b321a4838dbed7962d85cab3b70b7.jpg> 電車ボックス席に大荷物 ルールは
+      <a href=https://news.yahoo.co.jp/pickup/6537530>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/fcca4b37b969b013d215e6c22eeacafd8420d9a429964164c742782ad1c30a38.jpg> ホワイトすぎて若手退職 人事苦悩
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537511>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/8760fc135dac0e5f482208febf0185d325eb682b1fa232972e450c11cf67d513.jpg> 由伸が月間MVPを初受賞 監督称賛
+      <a href=https://news.yahoo.co.jp/pickup/6537525>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c8cbee3d5da09d07981d23d3d5ee9a837c9c6ebf6b30ea65c71724653ee11bc8.jpg> コメ高騰で駅弁に異変 倒産事例も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537503>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/58c3993f7560584e06ee7b701a509eace61ec53d1eaf580687c2dc641b917db3.jpg> 浜田雅功が復帰「ずっと寝てた」
+      <a href=https://news.yahoo.co.jp/pickup/6537523>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/27560738091a59c56c1791f63221f9565c23d79fe017eb9f8e23eec6eeeb5af0.jpg> 由伸ヒヤリ 顔面付近に痛烈な打球
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537515>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/6d651d98aac40b8619aacbf899df586674ab81a62e0b13db98193c31e11608fb.jpg> 元フジ永島アナ フリーで活動再開
+      <a href=https://news.yahoo.co.jp/pickup/6537526>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/0c3e2945bcf809d5ad4faba166e862bd24014371b4a249e1e2bbbeca1154906c.jpg> 浜田雅功 復帰にラジオを選んだ訳
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 09:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 10:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
