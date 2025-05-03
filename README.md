@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c09d29d2df588fa60f2f517b3bb4b85c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7964b9d4857fdda114fb535e471fcfc0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78a3c5e4e3dbad710678689bd4a5e365f800418e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00966910-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=431&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 赤沢経済再生相　2回目の日米関税交渉から帰国　米政府が自動車部品への追加関税発動に「遺憾」
+      <a href=https://news.yahoo.co.jp/articles/210f2e30bee5598c6159a3eb97a60ed8f04398ba>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-21893942-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 連続試合安打記録5でストップ　ドジャース・大谷翔平選手　チームは勝利　山本由伸投手が今季4勝目
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/30867cef5efd4214bb8381dee51a9bcf439fd9bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮道路陥没　発見遺体は成人男性　死因は判明せず／埼玉県
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c55d0337d702716512232d9386d8351dad56dde>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-07234384-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 赤沢大臣、措置撤廃を求める姿勢強調 “トランプ関税”交渉から帰国
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ae02ff3dddde35c4511d4d8e2a54101a1e898cb7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000042-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=114&cw=572&ch=572&exp=10800&fmt=webp> 「部屋が…」　容疑者の父が語った2年前の異変　大阪・7人重軽傷
       </a>
     </td>
   </tr>
@@ -367,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/af008862fefcc38972f3f9d5b7c15b827cfc3c6a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000243-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 浜田雅功復帰　日本テレビ「ガキ使」に言及　「5月中旬の収録分からご出演…」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31f8a57b746a9cce42a45429a01c5c15924d48c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000078-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=944&ch=944&exp=10800&fmt=webp> 研ナオコ、ギャラの10倍をクラファンに！ 「お金を払って映画に出たんです」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/750ff9f19869ba79e5bf03e5f22926ba6bb6b498>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-10176657-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 山本由伸が初の“月間MVP” 大谷は4打数ノーヒットもチームは2対1で勝利
       </a>
     </td>
   </tr>
@@ -418,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537583>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/496a99288a3cc0b3297a77c72f4e1671d2f880b94fc03692a3749cf1a20af0ac.jpg> 西成7人負傷の容疑者 境遇不満か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537572>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/05d0aadd4d89c4f6893b9f6ded3416a86fa04aeac2af84d4bebba6d02ad6b86c.jpg> 川崎の民家に遺体 不明女性と判明
       </a>
@@ -442,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537566>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/0731e722ce13ddd31969b41c7b061c7215c71380a670e157db62b006bdce4079.jpg> AIで性的動画被害 Z世代の危機感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537581>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/514516485bffe5e10f9c61b3c0f5d3fd3dfe7cfacc22eec5f0e24a7b55cc5442.jpg> GW後半 天体イベントが目白押し
       </a>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 17:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 18:00:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
