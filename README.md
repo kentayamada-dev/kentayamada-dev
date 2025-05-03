@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/533085463d0f717987964610c54f574b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/17ec688b0dc8034e40a9128b33c76bcf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,14 +355,6 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31b789bc174b87de80fabbedb23c745f68a73fa2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00967024-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「依然日米間には隔たりがある」　赤沢大臣が2回目の関税交渉終え石破首相に報告
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cf6aeb5ca9d592e5bf8a278888eb20c1b37da458>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 02:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 03:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
