@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2966b41ddd087a0bbb9f2e5944f5a261.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/85ba5b5621afecee90d97964a8dd0d71.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a374685f6430a60ca9e325c8e9e8076dcc947ca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-07234415-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 川崎の20歳女性行方不明事件　元交際相手の男（27）を死体遺棄容疑で逮捕　取り調べに対し「間違いありません」容疑認める
+      <a href=https://news.yahoo.co.jp/articles/a5a2a8f7b57955dd9e864b2bf038987a65b33e17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 事件は防げなかったのか…神奈川県警が経緯説明「ストーカー被害の相談を受けていた認識はなかった」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/77f87d12c655a796793b4ed37c9adf125f29b502>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00050007-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 自動車などの追加関税「撤廃」求めた日本、「協議の対象外」と難色のアメリカ…日米の「ずれ」鮮明に
       </a>
     </td>
   </tr>
@@ -436,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 05:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 05:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
