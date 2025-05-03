@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2cb93364261de490eb75635df651b1b4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/831d415393f70b3c7da58dca4feb231b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ba326c5fd5f069bd2463d9b06f13dff4d589489f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-05815953-fbsnews-000-2-thumb.jpg?exp=10800&fmt=webp> 長崎県壱岐市沖で3人死亡　医療搬送用ヘリ事故　部品の一部の破断が判明
+      <a href=https://news.yahoo.co.jp/articles/c7bbd5bf63e1b13fcf2eb974c817d4cd0f5bd671>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00966857-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=684&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【判明】岡﨑彩咲陽さん（20）の“ストーカー被害相談”で警察が元交際相手を複数回口頭注意　ストーカー規制法に基づく書面警告は行わず　川崎市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4203585928c2fa35b1b626a1545ee37309939cf6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000015-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=187&cw=750&ch=750&exp=10800&fmt=webp> 映画「岸辺露伴」ポップコーンバトルの裏側は、撮影風景＆オフショット到着
+      <a href=https://news.yahoo.co.jp/articles/fe28236af341577d3cfb20dfa769499b3ca28bfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-11637964-ncctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【長崎】壱岐沖の医療搬送用ヘリ事故 機体を制御する部品に破断があったことが判明
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537535>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/6850d83b587b1ca1804a19583f9298a9597d584d0b8a556276dafe7cc0d15df3.jpg> トランプ氏 FRBに利下げ再要求
+      <a href=https://news.yahoo.co.jp/pickup/6537529>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c9a3f9c363490d42c349f6f6d0e2c69770046688ac334e9cdaacdda9ccfc2561.jpg> トランプ氏誕生日 軍事パレードか
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537542>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/87e37d1e8282d14e9e8769e0dd99eda99e16defcd2f4736874e95346765ba088.jpg> 小1・小2の通知表を廃止の市 理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537530>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/fcca4b37b969b013d215e6c22eeacafd8420d9a429964164c742782ad1c30a38.jpg> ホワイトすぎて若手退職 人事苦悩
       </a>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537538>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/81b87110fdc9f26b90ca2d42525ae0a968bf95f8113897b12e04c37f47893839.jpg> 高橋一生 俳優の飯豊まりえに感嘆
+      <a href=https://news.yahoo.co.jp/pickup/6537539>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/7f6197e3b31c917d11f140280454a7edc88aee7f241176d70457b515a55362e6.jpg> 10代の脱毛が増加 背景とリスク
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537536>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/e8628ff604670dcf2002d9e5df4d65d64f9efc7f0b8323787b496eab3d2aea85.jpg> 吉瀬美智子 50代の壁にぶち当たる
+      <a href=https://news.yahoo.co.jp/pickup/6537547>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/64578fc84f63b667eba36e49a7e77442153ea6a35b6a432d9c9de3b07ae970b9.jpg> 由伸が4勝目 6回2死までノーノー
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537538>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/81b87110fdc9f26b90ca2d42525ae0a968bf95f8113897b12e04c37f47893839.jpg> 高橋一生 俳優の飯豊まりえに感嘆
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 12:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 12:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
