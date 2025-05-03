@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d23365d80f955ded6d37c3adeac542a3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d4667d6558dfcbeb9d7afc889a9bb276.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d6a641108135327fcb63f7fdd583c965047ec432>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00967022-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=283&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岡﨑彩咲陽さんのストーカー被害への警察対応に不服の関係者らが署に直接抗議へ　約50人が詰めかけ機動隊も出動　現場は一時騒然
+      <a href=https://news.yahoo.co.jp/articles/cf6aeb5ca9d592e5bf8a278888eb20c1b37da458>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00967023-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】岡﨑彩咲陽さん（20）の遺体を遺棄した疑いで元交際相手・白井秀征容疑者（27）逮捕　「間違いありません」と容疑認める　川崎女性遺体
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 01:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 01:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
