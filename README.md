@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/83199ecb78e6d093270bab81933a9273.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9f54d6cdb1494aa80dc856e64455487f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/070211137be4c9723e2d49f595d5a0fbda5f7c88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-07234407-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> オーストラリア総選挙、与党・労働党が大勝、アルバニージー首相政権維持へ
+      <a href=https://news.yahoo.co.jp/articles/d27e98b88df686e31a873dbfc8884a869a68b2ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 川崎女性遺体、遺棄容疑で元交際相手の27歳男を逮捕　「間違いない」容疑認める
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/18276733a7441f17ee0afcc9bc4d0cf5298051ad>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米関税措置「依然、隔たり」　石破首相、赤沢担当相と林長官に対応策の迅速な検討指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eef19e40142eebc800877af1fa8af681a42ad8b9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00050099-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 「苦労せずに生きている人が嫌だった」…大阪・西成で児童の列に車で突っ込んだ容疑者が供述
       </a>
     </td>
   </tr>
@@ -394,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537613>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/2/23/1aa5ef8f0382b7f1429a0c32f0119b86dfd4e3ba0cc7563bee69a245371f36ac.jpg> ウが露の72h停戦案を拒否 報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537600>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/38a3b624a4f418ca5eb50af8762c6d82458cf35a4163107e11bc553af1c990ea.jpg> 首相 車含む全関税の見直し要求
       </a>
@@ -402,24 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537580>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/99fb35a484ebc8620749aa337548fa505825f6e4c9a0c26ca8879a786070b262.jpg> クマ出没例年より増加か 警戒を
+      <a href=https://news.yahoo.co.jp/pickup/6537616>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/46495d0d27f804af3089d08001fcaf365d88e6db98ec15e15b7e94402a036663.jpg> 民家に女性遺体遺棄疑い 男を逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537610>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/d22b9c49d6258e068222e2483e2ef245c2b1084dab7394adfa369e84a60e92cb.jpg> 民家遺体 被害者家族は警察に反発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537604>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/09a83139b32553fbb0df73d9c6a6aa64894dcb6d15bb3251ec39aeafaddfc0aa.jpg> ハワイ 来年1月に宿泊税引き上げ
+      <a href=https://news.yahoo.co.jp/pickup/6537612>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/6eb23ddc15196fbbfe13e5a30f9d892c686b64b79294e8dde1b1280be6bb138f.jpg> 屋根に9h潜伏 強盗致傷疑いで逮捕
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537584>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/2d80ebda950ab959a6437ca0b5c44edbda2e2a53512859e182daf04ccc9dab50.jpg> 「木造人工衛星」開発に挑む訳
+      <a href=https://news.yahoo.co.jp/pickup/6537608>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/3e31d2d0eb524b4d2fdd983cabb8cf60df50671d230a6954508f79decb8d5ac9.jpg> 5/3は何の日? 若い世代の正答3割
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537615>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/a8b4fd76783f44c086999f07fe72b4399d64ea014fb969eb233e7b3b1066bffb.jpg> MLB 主審が試合中に放送禁止用語
       </a>
     </td>
   </tr>
@@ -448,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537588>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c6de5766033d6021059981acc947167bf0cb8c0d6dd58ba89710c21fb04a0755.jpg> ケツメイシ 今後は3人体制で活動
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 22:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 23:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
