@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/de5bb34bf568407c9fc67c6650d5e77c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1ef1e4a88f5a2d05d2daaad5736e5722.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/332ef3448e42346ae9c13882443147e7df69784c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-07234372-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】川崎市の住宅で身元不明の遺体が見つかった事件　行方不明の岡崎彩咲陽さんの元交際相手を任意同行
+      <a href=https://news.yahoo.co.jp/articles/60840ff326f05e0794a1fcad7f6f093449cb1cd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-07234376-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】川崎市の住宅で身元不明の遺体が見つかった事件　遺体は川崎市の岡崎彩咲陽さんと判明　行方不明になる前には元交際相手からのストーカー被害訴える
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/750ff9f19869ba79e5bf03e5f22926ba6bb6b498>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-10176657-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 山本由伸が初の“月間MVP” 大谷は4打数ノーヒットもチームは2対1で勝利
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d5061326c43f3fee2b98c9b8683d523dbc28529e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00050058-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権、自動車部品に２５％の追加関税を発動…供給網の混乱・製造コスト上昇招く恐れ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00050058-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権、自動車部品に２５％の追加関税を発動…供給網の混乱・製造コスト上昇招く恐れ
       </a>
     </td>
   </tr>
@@ -418,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537552>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c7b00dec27a4659ce12dd90b1f17884396fe4700eac1f003de11af1109e3ba90.jpg> 八潮陥没 遺体の死因「判明せず」
+      <a href=https://news.yahoo.co.jp/pickup/6537537>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/8b8a8c101ed2283dace6e032e45b2019df14b743ccab1368c984f784ef17a867.jpg> ヘンリー王子 英王室側と和解望む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/8b8a8c101ed2283dace6e032e45b2019df14b743ccab1368c984f784ef17a867.jpg> ヘンリー王子 英王室側と和解望む
+      <a href=https://news.yahoo.co.jp/pickup/6537561>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/d013e857370aac09c80401beb30df19e244fb36adc28d0837382c14f9642808f.jpg> 意外? 山手線に1つだけ残る踏切
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537528>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/bae06d114a37ee14a48f7e11575a2fb501c074119e740bebd9bee2b0009eb248.jpg> リバティアイランド追悼 ファン涙
+      <a href=https://news.yahoo.co.jp/pickup/6537568>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/951f1ab131635e1ca98b03a32beed0315c79fc065a87e6506450831327e7dd38.jpg> 大谷翔平 6試合ぶりのノーヒット
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537556>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/de3be47b30dccad6ed4106c542331ae70dd17e5ba8c55def3ed6aaab8daf0349.jpg> 中村七之助 ファンに直接結婚報告
+      <a href=https://news.yahoo.co.jp/pickup/6537558>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/97ee0c6a1497410bf382bdb1ba918b956caebb392e6374d5096eeb11bca194cb.jpg> 錦鯉・長谷川語る 妻との同居生活
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 15:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 15:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
