@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/98c3835c42389f3005607af52c04446d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7fe81bbc327a03d28cb1098319d70e54.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537507>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/f215d24efa6edddfb56d192010ed996021891171b541c3ae74c9af0aa726fd50.jpg> GW4連休の初日 混雑ピークに
+      <a href=https://news.yahoo.co.jp/pickup/6537512>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/4dc3b86ea5fe45a5dbe3a4c9a199c79c62d736b7de7c95ed80554fd89f6c9887.jpg> 憲法記念日に各党声明 改正巡り差
       </a>
     </td>
   </tr>
@@ -394,24 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537497>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/2/397b0e66a62a259fb86faef924127d075777bff438629741bef73f4cf770afc2.jpg> JA全農の備蓄米出荷 まだ29%
+      <a href=https://news.yahoo.co.jp/pickup/6537517>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/3074d985ce5e3d4570c60fa0382ad0665b63e8f11a1b8e09d2ca4ddef86fef3e.jpg> 老人ホームの男性死亡 介護士逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537504>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/185d1946b413d1e8e9bee76ce8fd02d83a30b99ac4f78bc07f7419e915b76fd8.jpg> 3カ月息子が一時心肺停止 父逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6537516>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/eea9f02a5e22bc2ce238b22b7239115ed5fdb1f363c38aa51b295f9c53bce87a.jpg> 口座乗っ取り 老後資産失い悲痛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537505>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/ea360786df01b1899f57ab71230c566a50ee83684da5e5d7522ec0f7c96a38c1.jpg> 女性不明 元交際相手を複数回聴取
+      <a href=https://news.yahoo.co.jp/pickup/6537509>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/63a7665afad46b20db08df45c7ba5c8eae4b321a4838dbed7962d85cab3b70b7.jpg> 電車ボックス席に大荷物 ルールは
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 08:30:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 09:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
