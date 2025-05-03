@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cf0d8dca8e3c6669e3202b0b8ce79b2b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ff78a39837f4245d6da9c7258a5232f3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05a0bd479c0bbbc5cd13faabf16e12927a108b45>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000120-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=238&cy=0&cw=867&ch=867&exp=10800&fmt=webp> ドジャース　2―1の8回終了時に雨天中断　山本由伸が6回1安打無失点と好投　ベッツが5号ソロで援護
+      <a href=https://news.yahoo.co.jp/articles/fbb228bcac54638cd0018a6da11c3e930c1a59c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-90018943-ktn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 壱岐沖の医療ヘリ事故で制御部品の破断判明　長崎県ドクターヘリも点検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a20a595410fc3295a919d809f8305a8e44a8459b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00790973-encount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 東野幸治、裏番組で復帰の浜田雅功は「おっさんサーファー」　番組スタッフのタレコミを暴露
+      <a href=https://news.yahoo.co.jp/articles/4203585928c2fa35b1b626a1545ee37309939cf6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000015-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=187&cw=750&ch=750&exp=10800&fmt=webp> 映画「岸辺露伴」ポップコーンバトルの裏側は、撮影風景＆オフショット到着
       </a>
     </td>
   </tr>
@@ -378,8 +378,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537522>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/8250ee4f60844d31c792a7138198fb79fde7752a8d00ae0d14054e1da928bd52.jpg> トランプ氏の万博参加 政府が期待
+      <a href=https://news.yahoo.co.jp/pickup/6537535>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/6850d83b587b1ca1804a19583f9298a9597d584d0b8a556276dafe7cc0d15df3.jpg> トランプ氏 FRBに利下げ再要求
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537516>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/eea9f02a5e22bc2ce238b22b7239115ed5fdb1f363c38aa51b295f9c53bce87a.jpg> 口座乗っ取り 老後資産失い悲痛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537530>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/fcca4b37b969b013d215e6c22eeacafd8420d9a429964164c742782ad1c30a38.jpg> ホワイトすぎて若手退職 人事苦悩
       </a>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537525>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c8cbee3d5da09d07981d23d3d5ee9a837c9c6ebf6b30ea65c71724653ee11bc8.jpg> コメ高騰で駅弁に異変 倒産事例も
+      <a href=https://news.yahoo.co.jp/pickup/6537532>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/42ae4e70f2bd23057d5088e2f38378218f6e9b98b3a7dd51f64cc0c55285f2d0.jpg> 「粉末」味ぽん4日間で完売 背景
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537527>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/46e8632a94c256d04e7f99ef432287db7384ab801b630ad2dee18afd8fab5dc6.jpg> 愛子さま 公務で初めて「お言葉」
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537526>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/0c3e2945bcf809d5ad4faba166e862bd24014371b4a249e1e2bbbeca1154906c.jpg> 浜田雅功 復帰にラジオを選んだ訳
+      <a href=https://news.yahoo.co.jp/pickup/6537536>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/e8628ff604670dcf2002d9e5df4d65d64f9efc7f0b8323787b496eab3d2aea85.jpg> 吉瀬美智子 50代の壁にぶち当たる
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 10:30:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 11:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
