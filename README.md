@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dc910a93aae82bbfb64a22aef26991d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c9a8684acbe7b329f75cb776c3ebbba7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66b7aba9eb9c1d58dd253964714a2ad9222648bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176686-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 心を折った！ 山本由伸に“打者ドン引き”「お手上げ」「完全に詰んだｗ」 手が出せない魔球… ただ見送るだけの“見逃し三振”
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/de1406662ee9468c13ffa98601d8c5a4eddb55ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00010012-goal-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ACLE大会MVPに川崎F撃破のアル・アハリから主将フィルミーノ！ 「気持ちを表現できる言葉がない」
+      <a href=https://news.yahoo.co.jp/articles/f78d88361ee1e45724a8acb00c7861ee65351bb2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35040104-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1061&ch=1061&exp=10800&fmt=webp> 福山雅治、大泉洋の最強バディ復活　「ラストマン」今冬映画化決定　福山アクションシーン注目
       </a>
     </td>
   </tr>
@@ -382,7 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fbb0a230b566ef3996c4e6982b238415124d51a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000003-jij-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=314&ch=314&exp=10800&fmt=webp> トランプ関税、景気影響顕在化　日米、早期合意へ駆け引き　自動車見直しが鍵・閣僚交渉〔深層探訪〕
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000003-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=314&ch=314&exp=10800&fmt=webp> トランプ関税、景気影響顕在化　日米、早期合意へ駆け引き　自動車見直しが鍵・閣僚交渉〔深層探訪〕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/71b23daceda9845dde14178fbed8ef0184e9bc81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176681-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=800&ch=800&exp=10800&fmt=webp> なんだこれは…！？ 大谷翔平、高速ゴロに“野手ドン引き”「音もヤバい」「笑ってる」 瞬く間に打球が飛んでいく“爆速ファウル”「守りたくないw」
       </a>
     </td>
   </tr>
@@ -394,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537613>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/2/23/1aa5ef8f0382b7f1429a0c32f0119b86dfd4e3ba0cc7563bee69a245371f36ac.jpg> ウが露の72h停戦案を拒否 報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537618>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/4a583df056ed939ce6746db28d6ccaf0371f31613fd48894a909fe5f29e38f3c.jpg> 産油国の一部 供給拡大を加速
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537622>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/2e4ef52ecb6f2df8d6b6b628594d4efab9e69d149fee6b4edaee18ea73d2330f.jpg> バフェット氏 投資会社CEO退任へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537628>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/4b14f20ca5537b73725ebd7f706c13df31bc043ea5df099a7d0074e5833a47e1.jpg> イスラエル ガザで作戦拡大決定か
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537629>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/dc78e3cfb97d096e91b4798b0f4ce84f4798ba4e79284e834edbb0afc072ba10.jpg> 広末さん事故 5度衝突後に停止か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/188149517a9f955018c768a97b4445e4820740a6bab1f74ea0494371be2f0e2c.jpg> 無断でユニセフ寄付 小学校を指導
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 08:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 08:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
