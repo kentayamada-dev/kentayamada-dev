@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/211968689851852f85ed572d4b9da119.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c77de8a0f7d68051ef1ed95ad79e0c7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/66d413aec6135a320768829f47553a28d897c51c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 日向坂４６・富田鈴花、グループ卒業を発表「お芝居という表現方法に強く惹かれる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5c934a89cc95bcb679bb78064e98d23e239088be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> トランプ米政権、自動車部品へ25％関税発動　生産移転促す、最大3・75％相当の軽減も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eef19e40142eebc800877af1fa8af681a42ad8b9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00050099-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 「苦労せずに生きている人が嫌だった」…大阪・西成で児童の列に車で突っ込んだ容疑者が供述
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2a33a9bcf0c3d25c4e30fba6ff2e3921f03695e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-05466299-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相　次回関税協議に向け、赤沢氏に対応策の検討を指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b141658687ce2dd8ac39b497c5d47763307f18ab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-35031380-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1120&ch=1120&exp=10800&fmt=webp> 【日本ハム】左足首付近を負傷した五十幡亮汰は病院へ行かず様子見…４日以降は当日の状態を判断
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537590>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/8a78a42b2bdc792a6a76b0f9b33e948c19d2378740019a932e7354754cd288ad.jpg> インド・パキスタン 深まる対立
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537598>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/9cc15f877668d897fb77341df81445265ef2a634f692a1e22a4260a60ac36932.jpg> 「備蓄米効果ない」スーパー運営
       </a>
@@ -426,6 +418,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537604>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/09a83139b32553fbb0df73d9c6a6aa64894dcb6d15bb3251ec39aeafaddfc0aa.jpg> ハワイ 来年1月に宿泊税引き上げ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537606>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/fcef587ba52184e1a2345adf4521045b6d81d005abba31f109d33fc558867cd5.jpg> ピアスで勤務可 東京メトロが緩和
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537584>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/2d80ebda950ab959a6437ca0b5c44edbda2e2a53512859e182daf04ccc9dab50.jpg> 「木造人工衛星」開発に挑む訳
       </a>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537603>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/8a0ddc82c342c3544e6b15ffff7ae342e55a2a93d4e6b27371f4dcff31fd3f21.jpg> 落球にトンネル ハム痛恨ミス続く
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537599>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/5e37628323623248ff7759b25e59263552819c2af7257c5e543a295bdb8821ee.jpg> 東京女子流 2026年3月に解散
+      <a href=https://news.yahoo.co.jp/pickup/6537607>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/e4cf1474e0d77bd5741d99c62c3388e861af647a60a19c1bf752f440e3ba72c8.jpg> 日向坂46・富田鈴花が卒業発表
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 21:00:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 21:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
