@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ce73b4b55210b239e821de96cdaf4ce6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e00b0db904a5948b1e6113faa61696c8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d140e367f851b0c2d0694f4aa06e786d859dae3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000111-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=993&ch=993&exp=10800&fmt=webp> 阿部一二三、日本男子単独最多5度目Vが懸かる世界選手権へ「ここで勝つことに意味がある」／柔道
+      <a href=https://news.yahoo.co.jp/articles/8feccbcbb0515345cabcafa39f6b64fe01e839b0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-90024085-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ケツメイシ・DJ KOHNOがグループ卒業「新たなフィールドへ挑戦したいと」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5e77e4bb2d63721c11d8447756307070583f508>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000042-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 自動車部品に25％の追加関税発動　トランプ関税に景気後退の影
+      <a href=https://news.yahoo.co.jp/articles/8a924100d63c58a046c726ace672f2119a5f1498>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00258200-tvtnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理が関税交渉の報告受け対応策の検討指示　全ての関税見直し求める
       </a>
     </td>
   </tr>
@@ -402,8 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537577>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/a1e83497e6ae7c4773b9d74bb91b357c6f183c9c1f6da1f8c664c1112bbe60ae.jpg> 口座乗っ取り 補償の便乗に注意
+      <a href=https://news.yahoo.co.jp/pickup/6537590>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/8a78a42b2bdc792a6a76b0f9b33e948c19d2378740019a932e7354754cd288ad.jpg> インド・パキスタン 深まる対立
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537598>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/9cc15f877668d897fb77341df81445265ef2a634f692a1e22a4260a60ac36932.jpg> 「備蓄米効果ない」スーパー運営
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537597>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/08dc8087bca73907fda861db267615b466d77e6a9d6e35c74d12d83a72669e35.jpg> 民家に女性遺体 男の逮捕状請求
       </a>
     </td>
   </tr>
@@ -418,32 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537572>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/05d0aadd4d89c4f6893b9f6ded3416a86fa04aeac2af84d4bebba6d02ad6b86c.jpg> 川崎の民家に遺体 不明女性と判明
+      <a href=https://news.yahoo.co.jp/pickup/6537592>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/2abacb6e6e86a425db359fa02b38da79233c4e515a7c9509b5e5a988537759ea.jpg> パンダ返還へ 白浜に駆け込み需要
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537585>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/6226a40e2cb9a5c31ee51ddd6dcc59f8a267097ed7bed0cf3a55b5e763a97597.jpg> TDRの「食」年に200メニュー開発
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/1a54a1d148e5955c8b3cdfeb2a81cab7f922f2d8fd3f5803709a934aa1385587.jpg> 広末公表「双極性感情障害」とは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537589>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/b70dd030d83672bbd0acd1e09a1d484e4e9a168567c519a8a5ce56503b85426b.jpg> 阿部詩 兄・一二三のパワーに驚き
+      <a href=https://news.yahoo.co.jp/pickup/6537596>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/5bf265fd692d480ac1d7288bf9e296a3686d531e74cb1c432574acef9d28f217.jpg> バウアー 取材中胸にてるてる坊主
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 19:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 20:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
