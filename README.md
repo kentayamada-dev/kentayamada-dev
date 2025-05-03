@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b4a9cce732919758d50ea8cdcf354bac.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dc910a93aae82bbfb64a22aef26991d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7c090c07c9791c5dec935207b373ca68cb239b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35040112-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=92&cw=1176&ch=1176&exp=10800&fmt=webp> 紀藤正樹弁護士「警察が守ってくれず放置、余りにも可哀そう」　川崎市の女性遺体遺棄事件に言及
+      <a href=https://news.yahoo.co.jp/articles/9241d9f6f50d89f49ae2d5912939ebe80a5cdce7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-07234425-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=657&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「必要な措置を講じてきた」ストーカー被害は「相談を受けた認識はない」　川崎市20歳女性死体遺棄事件　神奈川県警が当時の対応を説明
       </a>
     </td>
   </tr>
@@ -410,22 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c854caac440ecd0b1683e7fd2b0f20f1b5982e764e6eede3eaff59b6d66753a7.jpg> 民家に遺体 逮捕の男が容疑認める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537612>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/6eb23ddc15196fbbfe13e5a30f9d892c686b64b79294e8dde1b1280be6bb138f.jpg> 屋根に9h潜伏 強盗致傷疑いで逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537622>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/2e4ef52ecb6f2df8d6b6b628594d4efab9e69d149fee6b4edaee18ea73d2330f.jpg> バフェット氏 投資会社CEO退任へ
       </a>
@@ -434,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537617>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/2d52be01ba26585b8a9103804e684e8d52535574aba9162eec3b071db8d69269.jpg> 応神天皇陵に石室 90年前に発見
+      <a href=https://news.yahoo.co.jp/pickup/6537621>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c854caac440ecd0b1683e7fd2b0f20f1b5982e764e6eede3eaff59b6d66753a7.jpg> 民家に遺体 逮捕の男が容疑認める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537629>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/dc78e3cfb97d096e91b4798b0f4ce84f4798ba4e79284e834edbb0afc072ba10.jpg> 広末さん事故 5度衝突後に停止か
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537626>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/64bdce1bff735643532a7c58125dcb9ab88eb800c04d4cb51a29eeb1918412e3.jpg> テレ朝・坪井アナ 音楽番組で伴奏
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 07:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 08:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
