@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/831d415393f70b3c7da58dca4feb231b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae7a4fb90944e4f380ee2cdeac432e6c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c7bbd5bf63e1b13fcf2eb974c817d4cd0f5bd671>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00966857-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=684&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【判明】岡﨑彩咲陽さん（20）の“ストーカー被害相談”で警察が元交際相手を複数回口頭注意　ストーカー規制法に基づく書面警告は行わず　川崎市
+      <a href=https://news.yahoo.co.jp/articles/82c30947c1bd379029f3644078d11c8bfa9af476>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-06912431-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 医療搬送用ヘリ3人死亡事故　機体制御の部品の一部が破断…事故につながった可能性
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe28236af341577d3cfb20dfa769499b3ca28bfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-11637964-ncctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【長崎】壱岐沖の医療搬送用ヘリ事故 機体を制御する部品に破断があったことが判明
+      <a href=https://news.yahoo.co.jp/articles/2d74270084943d16d57569409e7b5e3c04ff3abe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000152-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=862&ch=862&exp=10800&fmt=webp> “相棒”も由伸の圧巻投球を絶賛「彼のような投手がいて本当に幸運」　6回2死まで無安打、防御率0.90
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/fcca4b37b969b013d215e6c22eeacafd8420d9a429964164c742782ad1c30a38.jpg> ホワイトすぎて若手退職 人事苦悩
+      <a href=https://news.yahoo.co.jp/pickup/6537544>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/b6bbf8fc59471e9426f22514da9d8b9f7955a42d50e3bdd35e84b6ddf34f1038.jpg> 学校行くのが怖い 西成の被害児童
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537532>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/42ae4e70f2bd23057d5088e2f38378218f6e9b98b3a7dd51f64cc0c55285f2d0.jpg> 「粉末」味ぽん4日間で完売 背景
+      <a href=https://news.yahoo.co.jp/pickup/6537530>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/fcca4b37b969b013d215e6c22eeacafd8420d9a429964164c742782ad1c30a38.jpg> ホワイトすぎて若手退職 人事苦悩
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/64578fc84f63b667eba36e49a7e77442153ea6a35b6a432d9c9de3b07ae970b9.jpg> 由伸が4勝目 6回2死までノーノー
+      <a href=https://news.yahoo.co.jp/pickup/6537540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/337282f996f64261740be2be38cdf6da4d193e3119c8eac0294050999dd7f3fc.jpg> 緊急で異性のトイレ利用 法的には
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537538>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/81b87110fdc9f26b90ca2d42525ae0a968bf95f8113897b12e04c37f47893839.jpg> 高橋一生 俳優の飯豊まりえに感嘆
+      <a href=https://news.yahoo.co.jp/pickup/6537547>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/64578fc84f63b667eba36e49a7e77442153ea6a35b6a432d9c9de3b07ae970b9.jpg> 由伸が4勝目 6回2死までノーノー
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 12:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 13:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
