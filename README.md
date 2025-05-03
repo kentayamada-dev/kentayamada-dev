@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0486158624715386e00640f402b4c29b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cd6d548dfa7454b8c07ab18be792dce0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d140e367f851b0c2d0694f4aa06e786d859dae3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000111-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=993&ch=993&exp=10800&fmt=webp> 阿部一二三、日本男子単独最多5度目Vが懸かる世界選手権へ「ここで勝つことに意味がある」／柔道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f5e77e4bb2d63721c11d8447756307070583f508>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000042-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 自動車部品に25％の追加関税発動　トランプ関税に景気後退の影
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cd4d41d138e3a914d4e76621cfcd1ee9ff764a48>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-05031216-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=800&ch=800&exp=10800&fmt=webp> ダウンタウン・浜田雅功が復帰、「ガキ使」は「５月中旬の収録分からご出演いただく」日テレ回答
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f01030a51842325a693cf85376ce3288fc3abe07>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00966925-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=458&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「日米間の隔たりで一致点見いだせない」石破首相に赤沢大臣が関税交渉の報告　自動車含めすべての関税見直し求める方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e3897911f11fffc3d8b102336bec5fb790c801a1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00095999-thedigest-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「僕らにはヨシがいる」４勝目の山本由伸を同僚ベッツが称賛...防御率0.90でMLBトップ「仕事ぶりが素晴らしい」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ae02ff3dddde35c4511d4d8e2a54101a1e898cb7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000042-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=114&cw=572&ch=572&exp=10800&fmt=webp> 「部屋が…」　容疑者の父が語った2年前の異変　大阪・7人重軽傷
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537559>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/b82175672d3e24771079e376f8898773b256b6655f109fa56b1fdffd7daadafc.jpg> CIAが大規模人員削減か 米報道
+      <a href=https://news.yahoo.co.jp/pickup/6537577>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/a1e83497e6ae7c4773b9d74bb91b357c6f183c9c1f6da1f8c664c1112bbe60ae.jpg> 口座乗っ取り 補償の便乗に注意
       </a>
     </td>
   </tr>
@@ -426,22 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537578>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 訪日客人気 真剣試し切り一転NG
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537546>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/3eb1a39a197ab1fe508383f8a68758b06429f5e1a1a100ace4f2165673fed6e5.jpg> SNSに子供の顔出し写真 リスクは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537575>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/ea594f906f6273cea9a8a6f3f5dee4eab1b4d1d592642778ee74aec12b1355c4.jpg> 資さんうどんの「新しさ」分析
       </a>
@@ -450,8 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537555>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/1a54a1d148e5955c8b3cdfeb2a81cab7f922f2d8fd3f5803709a934aa1385587.jpg> 広末公表「双極性感情障害」とは
+      <a href=https://news.yahoo.co.jp/pickup/6537585>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/6226a40e2cb9a5c31ee51ddd6dcc59f8a267097ed7bed0cf3a55b5e763a97597.jpg> TDRの「食」年に200メニュー開発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537587>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/d569aa9a424f4d0d0b3fcebe7c68c82eee2110240bbeea8b31b25fc26c1f6949.jpg> さとう珠緒 ぷんぷんの経緯語る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537588>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c6de5766033d6021059981acc947167bf0cb8c0d6dd58ba89710c21fb04a0755.jpg> ケツメイシ 今後は3人体制で活動
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 18:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 19:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
