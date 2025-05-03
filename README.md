@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/F-v9IWpEmaM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7fe81bbc327a03d28cb1098319d70e54.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/97d313c6163e127c8eb1c8d3e09ccefb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/637284db14b1b78a38a2aa052b7f6aea4eb4adee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000004-gdo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=800&ch=800&exp=10800&fmt=webp> アプローチミス→チップインパー　古江彩佳は今季4回目のボギーフリー
+      <a href=https://news.yahoo.co.jp/articles/359cc06dcf3bf39cd78e4e27ba7ebf635182f52d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000112-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=205&cw=791&ch=791&exp=10800&fmt=webp> 山本由伸　圧巻の投球で4勝目の権利　5回まで無安打無失点、6奪三振に敵地ファンも沈黙
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537506>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/f4a755fa154073a067b6432a8cb6929fdd34c12dd35de08cc111c61f84dab434.jpg> NYダウが564ドル高 9日連続上昇
+      <a href=https://news.yahoo.co.jp/pickup/6537521>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/33b45228db66d719f1c1dc83ea568792d9492c1ab4d8724ff83625a11a62fac2.jpg> 日英伊の戦闘機 サウジ参画容認へ
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537502>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/d8852d54a860bcdb242a79bd756ea5e0bb1aecdd0461cdfd5358bbb38d9c40da.jpg> 大谷 数センチ修正で打撃V字回復
+      <a href=https://news.yahoo.co.jp/pickup/6537511>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/8760fc135dac0e5f482208febf0185d325eb682b1fa232972e450c11cf67d513.jpg> 由伸が月間MVPを初受賞 監督称賛
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 09:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 09:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
