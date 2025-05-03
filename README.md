@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/MqcgoOYnpBM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4589b07b5123a1bd012bb30981a39af4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/83199ecb78e6d093270bab81933a9273.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18276733a7441f17ee0afcc9bc4d0cf5298051ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米関税措置「依然、隔たり」　石破首相、赤沢担当相と林長官に対応策の迅速な検討指示
+      <a href=https://news.yahoo.co.jp/articles/070211137be4c9723e2d49f595d5a0fbda5f7c88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-07234407-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> オーストラリア総選挙、与党・労働党が大勝、アルバニージー首相政権維持へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/61f1b47f02b12c842f509672dcfa78ef264aa8ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000059-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=1449&ch=1449&exp=10800&fmt=webp> ＜日向坂46富田鈴花＞14枚目シングルで卒業　今後は俳優業へ　「順風満帆ではなかったけれど、十分幸せなアイドル人生でした」　
+      <a href=https://news.yahoo.co.jp/articles/18276733a7441f17ee0afcc9bc4d0cf5298051ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米関税措置「依然、隔たり」　石破首相、赤沢担当相と林長官に対応策の迅速な検討指示
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537598>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/9cc15f877668d897fb77341df81445265ef2a634f692a1e22a4260a60ac36932.jpg> 「備蓄米効果ない」スーパー運営
+      <a href=https://news.yahoo.co.jp/pickup/6537580>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/99fb35a484ebc8620749aa337548fa505825f6e4c9a0c26ca8879a786070b262.jpg> クマ出没例年より増加か 警戒を
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537601>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/f6f88746b46b84a77d3db5e2ae2ba68c448f5226ea1b9814e69e9deeca4a50e3.jpg> 民家遺体 過去の対応を警察が説明
+      <a href=https://news.yahoo.co.jp/pickup/6537610>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/d22b9c49d6258e068222e2483e2ef245c2b1084dab7394adfa369e84a60e92cb.jpg> 民家遺体 被害者家族は警察に反発
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537607>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/e4cf1474e0d77bd5741d99c62c3388e861af647a60a19c1bf752f440e3ba72c8.jpg> 日向坂46・富田鈴花が卒業発表
+      <a href=https://news.yahoo.co.jp/pickup/6537609>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/ba78acd1e4c5f9c975bb02f6e67c17a7172dd8a86c801344e30c35fee9effe6c.jpg> 「あんぱん」好評も視聴率は苦戦
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 22:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 22:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
