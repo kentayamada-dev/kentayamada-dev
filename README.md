@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1359e7206e4a2fa7ba26c4225bfae2af.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ca276cca74fa3dfd78eaec90e296acfa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ab35b6f28aeb023867e44d1b4238297491cc2db4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-35030280-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1102&ch=1102&exp=10800&fmt=webp> 中村七之助「結婚することができました」初生報告　婚姻届提出日、大先輩からの電話も明かす
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d5061326c43f3fee2b98c9b8683d523dbc28529e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00050058-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権、自動車部品に２５％の追加関税を発動…供給網の混乱・製造コスト上昇招く恐れ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00050058-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権、自動車部品に２５％の追加関税を発動…供給網の混乱・製造コスト上昇招く恐れ
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e527bfdec8622786724f21fee11b51c8a888876c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00966875-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【判明】埼玉・八潮市道路陥没事故　下水道管内から発見された遺体は「成人男性」　損傷激しく死因は不明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44b472947212899668ea8654d673a5780738ecfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-90024062-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 広末涼子さん芸能活動を休止　「双極性感情障害」を公表、治療専念　病名公表の意図は
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537552>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c7b00dec27a4659ce12dd90b1f17884396fe4700eac1f003de11af1109e3ba90.jpg> 八潮陥没 遺体の死因「判明せず」
+      <a href=https://news.yahoo.co.jp/pickup/6537545>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/1ca384ce99d7018e6bf52c9582d7cc97ed28ed9ae10ddc5ecb27c7e39052442d.jpg> 民家に遺体 別の所で燃やされたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537530>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/fcca4b37b969b013d215e6c22eeacafd8420d9a429964164c742782ad1c30a38.jpg> ホワイトすぎて若手退職 人事苦悩
+      <a href=https://news.yahoo.co.jp/pickup/6537552>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c7b00dec27a4659ce12dd90b1f17884396fe4700eac1f003de11af1109e3ba90.jpg> 八潮陥没 遺体の死因「判明せず」
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537549>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/296717cc4e2b9c93cffb5aeb314b84169ab47a279d156fbfc9285a88a844b2b5.jpg> 岩井千怜 スロープレー判定に涙
+      <a href=https://news.yahoo.co.jp/pickup/6537551>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/0a495968426606a4f0b845776751822fae0e76aa6e0379c203e3cea604b1f09c.jpg> 由伸 月間MVP「ネットで知った」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537547>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/64578fc84f63b667eba36e49a7e77442153ea6a35b6a432d9c9de3b07ae970b9.jpg> 由伸が4勝目 6回2死までノーノー
+      <a href=https://news.yahoo.co.jp/pickup/6537549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/296717cc4e2b9c93cffb5aeb314b84169ab47a279d156fbfc9285a88a844b2b5.jpg> 岩井千怜 スロープレー判定に涙
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 13:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 14:00:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
