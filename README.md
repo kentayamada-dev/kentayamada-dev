@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd6d548dfa7454b8c07ab18be792dce0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ce73b4b55210b239e821de96cdaf4ce6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cd4d41d138e3a914d4e76621cfcd1ee9ff764a48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-05031216-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=800&ch=800&exp=10800&fmt=webp> ダウンタウン・浜田雅功が復帰、「ガキ使」は「５月中旬の収録分からご出演いただく」日テレ回答
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-05031216-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=800&ch=800&exp=10800&fmt=webp> ダウンタウン・浜田雅功が復帰、「ガキ使」は「５月中旬の収録分からご出演いただく」日テレ回答
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537575>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/ea594f906f6273cea9a8a6f3f5dee4eab1b4d1d592642778ee74aec12b1355c4.jpg> 資さんうどんの「新しさ」分析
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537585>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/6226a40e2cb9a5c31ee51ddd6dcc59f8a267097ed7bed0cf3a55b5e763a97597.jpg> TDRの「食」年に200メニュー開発
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537587>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/d569aa9a424f4d0d0b3fcebe7c68c82eee2110240bbeea8b31b25fc26c1f6949.jpg> さとう珠緒 ぷんぷんの経緯語る
+      <a href=https://news.yahoo.co.jp/pickup/6537555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/1a54a1d148e5955c8b3cdfeb2a81cab7f922f2d8fd3f5803709a934aa1385587.jpg> 広末公表「双極性感情障害」とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537589>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/b70dd030d83672bbd0acd1e09a1d484e4e9a168567c519a8a5ce56503b85426b.jpg> 阿部詩 兄・一二三のパワーに驚き
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 19:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 19:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
