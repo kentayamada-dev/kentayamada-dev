@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/85ba5b5621afecee90d97964a8dd0d71.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9a9216b484c43291ab210437d66dc66f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/71b23daceda9845dde14178fbed8ef0184e9bc81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176681-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=800&ch=800&exp=10800&fmt=webp> なんだこれは…！？ 大谷翔平、高速ゴロに“野手ドン引き”「音もヤバい」「笑ってる」 瞬く間に打球が飛んでいく“爆速ファウル”「守りたくないw」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a5a2a8f7b57955dd9e864b2bf038987a65b33e17>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 事件は防げなかったのか…神奈川県警が経緯説明「ストーカー被害の相談を受けていた認識はなかった」
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/77f87d12c655a796793b4ed37c9adf125f29b502>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00050007-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 自動車などの追加関税「撤廃」求めた日本、「協議の対象外」と難色のアメリカ…日米の「ずれ」鮮明に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00050007-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 自動車などの追加関税「撤廃」求めた日本、「協議の対象外」と難色のアメリカ…日米の「ずれ」鮮明に
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 05:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 06:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
