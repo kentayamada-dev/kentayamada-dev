@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c85869075e4e3363a08bc16d04a4da93.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e81053bd4cadf644909c0aa918c35ab2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2f016f06d7e9033643d6b5bcd16bba44647f8c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00967027-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 岡﨑彩咲陽さん（20）の遺体遺棄した疑いで元交際相手・白井秀征容疑者（27）逮捕「間違いありません」　川崎市の住宅から女性遺体
+      <a href=https://news.yahoo.co.jp/articles/fbb0a230b566ef3996c4e6982b238415124d51a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000003-jij-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=314&ch=314&exp=10800&fmt=webp> トランプ関税、景気影響顕在化　日米、早期合意へ駆け引き　自動車見直しが鍵・閣僚交渉〔深層探訪〕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3186fffe82a197abb0558471dbf2707147c9ef2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000002-ann-000-6-thumb.jpg?exp=10800&fmt=webp> 住宅から女性遺体　死体遺棄容疑で元交際相手を逮捕
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/71b23daceda9845dde14178fbed8ef0184e9bc81>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176681-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=800&ch=800&exp=10800&fmt=webp> なんだこれは…！？ 大谷翔平、高速ゴロに“野手ドン引き”「音もヤバい」「笑ってる」 瞬く間に打球が飛んでいく“爆速ファウル”「守りたくないw」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77f87d12c655a796793b4ed37c9adf125f29b502>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00050007-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 自動車などの追加関税「撤廃」求めた日本、「協議の対象外」と難色のアメリカ…日米の「ずれ」鮮明に
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 06:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 07:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
