@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9c945ccb8aec2e945f86e9720a27abc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2dcf8f8420ff825d87531d95ef4cbeb2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64536c635c20b165a02535ab84ec26eada58afc9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00010000-tvkv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ＜速報＞遺体は行方不明女性と判明　元交際相手は米国から帰国　川崎市
+      <a href=https://news.yahoo.co.jp/articles/084ab773c55ac6ac6fe670abf933435b83438444>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 秋田の風車、前日確認で異常なし　設置会社謝罪、落下の原因調査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4f3cfc42eb436241b094f1325aca62b589fa7ea>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-55290072-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=203&ch=203&exp=10800&fmt=webp> 関税の完全撤廃が「一貫した立場」、赤沢再生相が対米交渉から帰国
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/750ff9f19869ba79e5bf03e5f22926ba6bb6b498>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-10176657-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=332&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 山本由伸が初の“月間MVP” 大谷は4打数ノーヒットもチームは2対1で勝利
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5061326c43f3fee2b98c9b8683d523dbc28529e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00050058-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権、自動車部品に２５％の追加関税を発動…供給網の混乱・製造コスト上昇招く恐れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e527bfdec8622786724f21fee11b51c8a888876c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00966875-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【判明】埼玉・八潮市道路陥没事故　下水道管内から発見された遺体は「成人男性」　損傷激しく死因は不明
       </a>
     </td>
   </tr>
@@ -426,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537562>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/2b9d4240cecc06f62d3bb288441597e94444851b8ac95cb1a8fd666d678bcd20.jpg> 川崎の民家に遺体 住人男性が帰国
+      <a href=https://news.yahoo.co.jp/pickup/6537572>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/05d0aadd4d89c4f6893b9f6ded3416a86fa04aeac2af84d4bebba6d02ad6b86c.jpg> 川崎の民家に遺体 不明女性と判明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537537>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/8b8a8c101ed2283dace6e032e45b2019df14b743ccab1368c984f784ef17a867.jpg> ヘンリー王子 英王室側と和解望む
+      <a href=https://news.yahoo.co.jp/pickup/6537573>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/2a83c219f1bdf2b01ec46b2d33d39ece25ffc0a2096230005889437edee05217.jpg> 風力発電の羽根落下 前日異常なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537571>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/47bfd086e0ff729d5d0adedffc2e7c3641cb59ff36e80da1e1711b41ab2bad7a.jpg> 万博 1食の相場1500-2000円も盛況
       </a>
     </td>
   </tr>
@@ -456,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537568>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/951f1ab131635e1ca98b03a32beed0315c79fc065a87e6506450831327e7dd38.jpg> 大谷翔平 6試合ぶりのノーヒット
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 16:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 16:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
