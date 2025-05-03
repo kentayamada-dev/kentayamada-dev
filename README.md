@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1ef1e4a88f5a2d05d2daaad5736e5722.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9c945ccb8aec2e945f86e9720a27abc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60840ff326f05e0794a1fcad7f6f093449cb1cd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-07234376-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=268&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】川崎市の住宅で身元不明の遺体が見つかった事件　遺体は川崎市の岡崎彩咲陽さんと判明　行方不明になる前には元交際相手からのストーカー被害訴える
+      <a href=https://news.yahoo.co.jp/articles/64536c635c20b165a02535ab84ec26eada58afc9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00010000-tvkv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=352&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ＜速報＞遺体は行方不明女性と判明　元交際相手は米国から帰国　川崎市
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537554>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/ef409b63892c8a7965731967c4b185c850a2749135f01e283c446fb3aeaadbbe.jpg> 米 自動車部品25%の追加関税発動
+      <a href=https://news.yahoo.co.jp/pickup/6537567>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c4dfa7bd6ef4b21d5b646b0738f92f9c8005f637ebca6b9b966bd206c0222244.jpg> 首相 憲法改正の早期発議に尽力
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537560>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/853ffa413882f43e086a85c99be6d636ec79988879091f4c339f2c9dc91f8faa.jpg> ガザの子供 今年9千人が栄養失調
+      <a href=https://news.yahoo.co.jp/pickup/6537559>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/b82175672d3e24771079e376f8898773b256b6655f109fa56b1fdffd7daadafc.jpg> CIAが大規模人員削減か 米報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537569>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/985f4a817225d00ceeea3ad8c7d398609f34c920f001cae054f383ad5c28c4b9.jpg> トランプ氏 教皇模した画像投稿
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537561>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/d013e857370aac09c80401beb30df19e244fb36adc28d0837382c14f9642808f.jpg> 意外? 山手線に1つだけ残る踏切
+      <a href=https://news.yahoo.co.jp/pickup/6537566>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/0731e722ce13ddd31969b41c7b061c7215c71380a670e157db62b006bdce4079.jpg> AIで性的動画被害 Z世代の危機感
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537558>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/97ee0c6a1497410bf382bdb1ba918b956caebb392e6374d5096eeb11bca194cb.jpg> 錦鯉・長谷川語る 妻との同居生活
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 15:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 16:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
