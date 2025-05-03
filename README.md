@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7964b9d4857fdda114fb535e471fcfc0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0486158624715386e00640f402b4c29b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/210f2e30bee5598c6159a3eb97a60ed8f04398ba>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-21893942-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=382&ch=382&exp=10800&fmt=webp> 連続試合安打記録5でストップ　ドジャース・大谷翔平選手　チームは勝利　山本由伸投手が今季4勝目
+      <a href=https://news.yahoo.co.jp/articles/cd4d41d138e3a914d4e76621cfcd1ee9ff764a48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-05031216-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=800&ch=800&exp=10800&fmt=webp> ダウンタウン・浜田雅功が復帰、「ガキ使」は「５月中旬の収録分からご出演いただく」日テレ回答
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30867cef5efd4214bb8381dee51a9bcf439fd9bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 八潮道路陥没　発見遺体は成人男性　死因は判明せず／埼玉県
+      <a href=https://news.yahoo.co.jp/articles/f01030a51842325a693cf85376ce3288fc3abe07>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00966925-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=458&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「日米間の隔たりで一致点見いだせない」石破首相に赤沢大臣が関税交渉の報告　自動車含めすべての関税見直し求める方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c55d0337d702716512232d9386d8351dad56dde>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-07234384-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 赤沢大臣、措置撤廃を求める姿勢強調 “トランプ関税”交渉から帰国
+      <a href=https://news.yahoo.co.jp/articles/e3897911f11fffc3d8b102336bec5fb790c801a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00095999-thedigest-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「僕らにはヨシがいる」４勝目の山本由伸を同僚ベッツが称賛...防御率0.90でMLBトップ「仕事ぶりが素晴らしい」
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/af008862fefcc38972f3f9d5b7c15b827cfc3c6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000243-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 浜田雅功復帰　日本テレビ「ガキ使」に言及　「5月中旬の収録分からご出演…」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537570>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/7d560b030bda73d1eebc23a4334dacacdb5b09670d9845b01342bc648671414e.jpg> 日米関税協議 アメリカに焦りも?
+      <a href=https://news.yahoo.co.jp/pickup/6537582>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/54ee32906b30f387e101f33376dd7f13deba74e6b6b9871439a315adc42151ac.jpg> 日本との関税協議 米が声明発表
       </a>
     </td>
   </tr>
@@ -412,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537559>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/b82175672d3e24771079e376f8898773b256b6655f109fa56b1fdffd7daadafc.jpg> CIAが大規模人員削減か 米報道
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537569>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/985f4a817225d00ceeea3ad8c7d398609f34c920f001cae054f383ad5c28c4b9.jpg> トランプ氏 教皇模した画像投稿
       </a>
     </td>
   </tr>
@@ -450,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537546>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/3eb1a39a197ab1fe508383f8a68758b06429f5e1a1a100ace4f2165673fed6e5.jpg> SNSに子供の顔出し写真 リスクは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537575>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/ea594f906f6273cea9a8a6f3f5dee4eab1b4d1d592642778ee74aec12b1355c4.jpg> 資さんうどんの「新しさ」分析
       </a>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537581>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/514516485bffe5e10f9c61b3c0f5d3fd3dfe7cfacc22eec5f0e24a7b55cc5442.jpg> GW後半 天体イベントが目白押し
+      <a href=https://news.yahoo.co.jp/pickup/6537555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/1a54a1d148e5955c8b3cdfeb2a81cab7f922f2d8fd3f5803709a934aa1385587.jpg> 広末公表「双極性感情障害」とは
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 18:00:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 18:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
