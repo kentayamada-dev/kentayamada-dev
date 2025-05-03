@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e00b0db904a5948b1e6113faa61696c8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f616028dc656a4dfc1af3d88fec5799a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8feccbcbb0515345cabcafa39f6b64fe01e839b0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-90024085-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> ケツメイシ・DJ KOHNOがグループ卒業「新たなフィールドへ挑戦したいと」
+      <a href=https://news.yahoo.co.jp/articles/bc332a9df9cc4c2a15fe4f5047d51e8919cb4bf0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00967007-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=617&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岡﨑彩咲陽さん（20）のストーカー被害相談について警察が説明「女性の意向を踏まえ男性に警告を行わなかった」「必要な措置を講じてきた」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8a924100d63c58a046c726ace672f2119a5f1498>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00258200-tvtnews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 石破総理が関税交渉の報告受け対応策の検討指示　全ての関税見直し求める
+      <a href=https://news.yahoo.co.jp/articles/b2a33a9bcf0c3d25c4e30fba6ff2e3921f03695e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-05466299-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破首相　次回関税協議に向け、赤沢氏に対応策の検討を指示
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537582>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/54ee32906b30f387e101f33376dd7f13deba74e6b6b9871439a315adc42151ac.jpg> 日本との関税協議 米が声明発表
+      <a href=https://news.yahoo.co.jp/pickup/6537586>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/462beafbc206d76779ef3939384eaffd413bf5ad8fe4fe62cfe5793a853b62d8.jpg> 赤沢氏 2回目の関税交渉「前進」
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537583>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/496a99288a3cc0b3297a77c72f4e1671d2f880b94fc03692a3749cf1a20af0ac.jpg> 西成7人負傷の容疑者 境遇不満か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537592>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/2abacb6e6e86a425db359fa02b38da79233c4e515a7c9509b5e5a988537759ea.jpg> パンダ返還へ 白浜に駆け込み需要
+      <a href=https://news.yahoo.co.jp/pickup/6537591>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/1aa9a7c5fbce3901dcacc03f1ab41c548988bcfb9c8ba38e66d2afc6811402bc.jpg> 政府専用機 過酷な新人訓練に密着
       </a>
     </td>
   </tr>
@@ -444,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537596>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/5bf265fd692d480ac1d7288bf9e296a3686d531e74cb1c432574acef9d28f217.jpg> バウアー 取材中胸にてるてる坊主
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537599>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/5e37628323623248ff7759b25e59263552819c2af7257c5e543a295bdb8821ee.jpg> 東京女子流 2026年3月に解散
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 20:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 20:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
