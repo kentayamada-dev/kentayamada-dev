@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d4667d6558dfcbeb9d7afc889a9bb276.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/bfb57a83ef1aff8dd8793cf19a234b6d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf6aeb5ca9d592e5bf8a278888eb20c1b37da458>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00967023-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】岡﨑彩咲陽さん（20）の遺体を遺棄した疑いで元交際相手・白井秀征容疑者（27）逮捕　「間違いありません」と容疑認める　川崎女性遺体
+      <a href=https://news.yahoo.co.jp/articles/31b789bc174b87de80fabbedb23c745f68a73fa2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00967024-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 石破首相「依然日米間には隔たりがある」　赤沢大臣が2回目の関税交渉終え石破首相に報告
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18276733a7441f17ee0afcc9bc4d0cf5298051ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米関税措置「依然、隔たり」　石破首相、赤沢担当相と林長官に対応策の迅速な検討指示
+      <a href=https://news.yahoo.co.jp/articles/cf6aeb5ca9d592e5bf8a278888eb20c1b37da458>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00967023-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】岡﨑彩咲陽さん（20）の遺体を遺棄した疑いで元交際相手・白井秀征容疑者（27）逮捕　「間違いありません」と容疑認める　川崎女性遺体
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 01:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 02:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
