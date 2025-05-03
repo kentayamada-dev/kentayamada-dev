@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f616028dc656a4dfc1af3d88fec5799a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/211968689851852f85ed572d4b9da119.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bc332a9df9cc4c2a15fe4f5047d51e8919cb4bf0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00967007-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=617&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岡﨑彩咲陽さん（20）のストーカー被害相談について警察が説明「女性の意向を踏まえ男性に警告を行わなかった」「必要な措置を講じてきた」
+      <a href=https://news.yahoo.co.jp/articles/eef19e40142eebc800877af1fa8af681a42ad8b9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00050099-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=350&ch=350&exp=10800&fmt=webp> 「苦労せずに生きている人が嫌だった」…大阪・西成で児童の列に車で突っ込んだ容疑者が供述
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd4d41d138e3a914d4e76621cfcd1ee9ff764a48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-05031216-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=200&cw=800&ch=800&exp=10800&fmt=webp> ダウンタウン・浜田雅功が復帰、「ガキ使」は「５月中旬の収録分からご出演いただく」日テレ回答
+      <a href=https://news.yahoo.co.jp/articles/b141658687ce2dd8ac39b497c5d47763307f18ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-35031380-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1120&ch=1120&exp=10800&fmt=webp> 【日本ハム】左足首付近を負傷した五十幡亮汰は病院へ行かず様子見…４日以降は当日の状態を判断
       </a>
     </td>
   </tr>
@@ -418,24 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537597>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/08dc8087bca73907fda861db267615b466d77e6a9d6e35c74d12d83a72669e35.jpg> 民家に女性遺体 男の逮捕状請求
+      <a href=https://news.yahoo.co.jp/pickup/6537601>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/f6f88746b46b84a77d3db5e2ae2ba68c448f5226ea1b9814e69e9deeca4a50e3.jpg> 民家遺体 過去の対応を警察が説明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537591>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/1aa9a7c5fbce3901dcacc03f1ab41c548988bcfb9c8ba38e66d2afc6811402bc.jpg> 政府専用機 過酷な新人訓練に密着
+      <a href=https://news.yahoo.co.jp/pickup/6537584>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/2d80ebda950ab959a6437ca0b5c44edbda2e2a53512859e182daf04ccc9dab50.jpg> 「木造人工衛星」開発に挑む訳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537596>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/5bf265fd692d480ac1d7288bf9e296a3686d531e74cb1c432574acef9d28f217.jpg> バウアー 取材中胸にてるてる坊主
+      <a href=https://news.yahoo.co.jp/pickup/6537603>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/8a0ddc82c342c3544e6b15ffff7ae342e55a2a93d4e6b27371f4dcff31fd3f21.jpg> 落球にトンネル ハム痛恨ミス続く
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 20:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 21:00:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
