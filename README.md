@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae7a4fb90944e4f380ee2cdeac432e6c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1359e7206e4a2fa7ba26c4225bfae2af.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82c30947c1bd379029f3644078d11c8bfa9af476>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-06912431-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 医療搬送用ヘリ3人死亡事故　機体制御の部品の一部が破断…事故につながった可能性
+      <a href=https://news.yahoo.co.jp/articles/d5061326c43f3fee2b98c9b8683d523dbc28529e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00050058-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=333&ch=333&exp=10800&fmt=webp> トランプ政権、自動車部品に２５％の追加関税を発動…供給網の混乱・製造コスト上昇招く恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d74270084943d16d57569409e7b5e3c04ff3abe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00000152-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=862&ch=862&exp=10800&fmt=webp> “相棒”も由伸の圧巻投球を絶賛「彼のような投手がいて本当に幸運」　6回2死まで無安打、防御率0.90
+      <a href=https://news.yahoo.co.jp/articles/e527bfdec8622786724f21fee11b51c8a888876c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-00966875-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【判明】埼玉・八潮市道路陥没事故　下水道管内から発見された遺体は「成人男性」　損傷激しく死因は不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44b472947212899668ea8654d673a5780738ecfc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-90024062-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=255&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 広末涼子さん芸能活動を休止　「双極性感情障害」を公表、治療専念　病名公表の意図は
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/82c30947c1bd379029f3644078d11c8bfa9af476>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250503-06912431-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 医療搬送用ヘリ3人死亡事故　機体制御の部品の一部が破断…事故につながった可能性
       </a>
     </td>
   </tr>
@@ -378,32 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537529>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c9a3f9c363490d42c349f6f6d0e2c69770046688ac334e9cdaacdda9ccfc2561.jpg> トランプ氏誕生日 軍事パレードか
+      <a href=https://news.yahoo.co.jp/pickup/6537554>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/ef409b63892c8a7965731967c4b185c850a2749135f01e283c446fb3aeaadbbe.jpg> 米 自動車部品25%の追加関税発動
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537520>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/4b3e835ac1e8b2cc8d4953e9b249a6525b421cff8013b0a343e51236ff0b9b62.jpg> 命の値段巡り性差 慣例破った裁判
+      <a href=https://news.yahoo.co.jp/pickup/6537550>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/d578e027fe3362f09a991bd2ae06754aa8dd91af12383a980821e7194c53e740.jpg> 米国務長官 独を専制政治と批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537534>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/99bf3e8819c3761fc858af53ccbe9105f3cb40fd4a233051ad14855637478d7c.jpg> アマゾン株7000億円分売却 創業者
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537544>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/b6bbf8fc59471e9426f22514da9d8b9f7955a42d50e3bdd35e84b6ddf34f1038.jpg> 学校行くのが怖い 西成の被害児童
+      <a href=https://news.yahoo.co.jp/pickup/6537552>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c7b00dec27a4659ce12dd90b1f17884396fe4700eac1f003de11af1109e3ba90.jpg> 八潮陥没 遺体の死因「判明せず」
       </a>
     </td>
   </tr>
@@ -418,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537539>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/7f6197e3b31c917d11f140280454a7edc88aee7f241176d70457b515a55362e6.jpg> 10代の脱毛が増加 背景とリスク
+      <a href=https://news.yahoo.co.jp/pickup/6537540>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/337282f996f64261740be2be38cdf6da4d193e3119c8eac0294050999dd7f3fc.jpg> 緊急で異性のトイレ利用 法的には
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537540>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/337282f996f64261740be2be38cdf6da4d193e3119c8eac0294050999dd7f3fc.jpg> 緊急で異性のトイレ利用 法的には
+      <a href=https://news.yahoo.co.jp/pickup/6537555>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/1a54a1d148e5955c8b3cdfeb2a81cab7f922f2d8fd3f5803709a934aa1385587.jpg> 広末公表「双極性感情障害」とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537549>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/296717cc4e2b9c93cffb5aeb314b84169ab47a279d156fbfc9285a88a844b2b5.jpg> 岩井千怜 スロープレー判定に涙
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/03 13:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/03 13:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
