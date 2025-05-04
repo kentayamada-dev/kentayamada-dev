@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f21b8637f5f0a46338a06fc69f0762f1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c1e223e88c66c2881236c9eef0aff1b8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b80e6aafa149af5e085d08ce29f27a104081b21>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176731-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 川崎市の女性遺体遺棄 警察が容疑者宅など3回確認
+      <a href=https://news.yahoo.co.jp/articles/72ece1aa3b88fb6b3aac4c7437fec1203e04e6b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000017-gbr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=452&ch=452&exp=10800&fmt=webp> 【RIZIN】ヒロヤ、篠塚辰樹にタオル投入のTKO完勝！パウンド＆ヒジの嵐で”MMAの洗礼”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12f621d98bdd4328b46a6386113676b14de05b92>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000016-gbr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=744&ch=744&exp=10800&fmt=webp> 【RIZIN】“現役フジ社員”ウザ強ヨシヤ、元K-1王者・朝久泰央のハイキックで壮絶KO負け！
+      <a href=https://news.yahoo.co.jp/articles/22f2f95766ed1a18b7e5b2a4f0bc0cd678455b66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35040703-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「恥を知れ」神奈川県警Ｘに批判コメント殺到　川崎死体遺棄事件で説明求める声　抗議動画も拡散
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537656>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/e2118c06955284bcc62118048fba3ee505dd2a17bcbcc45bfd2d0889e6d6a76d.jpg> 民家に遺体 行方不明後に7回聴取
+      <a href=https://news.yahoo.co.jp/pickup/6537666>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/5c5b1ebf84551a1fe0b72facfa2ba3d84d1cc74ad953e5b068302eca2ed115bc.jpg> 浜松4人死傷 遺族に謝罪なく怒り
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/4e06ddae07df685da65238da97aa783df65a753d76f486785e8b934d4dd6a763.jpg> RIZIN無許可出場 フジ社員敗れる
+      <a href=https://news.yahoo.co.jp/pickup/6537679>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/72bb755c865b9d5fb8a60a4e802e69d05b470a0418dc37760a2d0a97b011866f.jpg> 天皇賞春 ヘデントールG1初制覇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537671>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6b4c13941e77ff05089148a5e2c71b46495ad2cb17cee63ea1cc251f8441f4e3.jpg> 佐々木朗希 ついにメジャー初勝利
+      <a href=https://news.yahoo.co.jp/pickup/6537673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/4e06ddae07df685da65238da97aa783df65a753d76f486785e8b934d4dd6a763.jpg> RIZIN無許可出場 フジ社員敗れる
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 15:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 16:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
