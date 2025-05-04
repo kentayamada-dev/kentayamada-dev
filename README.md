@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/99e3d324763ca9aba8be76ec4ba83b9e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9eb191609bd1b779f3df0dc4b3343617.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e37845acf19e30d66d3ebb7b263e925a2bd4e06f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00967052-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ストーカー被害訴えるも…警察「被害相談受けていたという認識なかった」元交際相手の白井秀征容疑者（27）を逮捕　川崎・遺体遺棄事件
+      <a href=https://news.yahoo.co.jp/articles/9b8c4c29191677e2d2a35c7e80fc7b0aed815ace>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-05041035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、初回先頭で中前打　大雨による影響で午後１０時２１分に試合開始　３時間６分遅れも関係なし！
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/698e36145aa17e3245e4d9871dd0f89873af5594>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000004-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=590&ch=590&exp=10800&fmt=webp> 【速報】東北道で断続的に31キロの渋滞
+      <a href=https://news.yahoo.co.jp/articles/f033567f8d9816ec5a3126f9d41d1ba895d9b7e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000030-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=799&ch=799&exp=10800&fmt=webp> ACLE優勝のアルアハリ、前代未聞の“金満編成”… 外国籍選手が総勢12人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e37845acf19e30d66d3ebb7b263e925a2bd4e06f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00967052-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ストーカー被害訴えるも…警察「被害相談受けていたという認識なかった」元交際相手の白井秀征容疑者（27）を逮捕　川崎・遺体遺棄事件
       </a>
     </td>
   </tr>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537629>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/dc78e3cfb97d096e91b4798b0f4ce84f4798ba4e79284e834edbb0afc072ba10.jpg> 広末さん事故 5度衝突後に停止か
+      <a href=https://news.yahoo.co.jp/pickup/6537647>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/5dc186194d6bd3425500405c5f558e8a9b67b52e588d2cf2d22fe9744acd666b.jpg> 二度と盗撮しない 誓った翌月再犯
       </a>
     </td>
   </tr>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537639>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/125ba8055443865e5555fefa2f01ec511c1164260c7e45227d7eb14334285a65.jpg> 西田昌司氏発言 ひめゆり館長憤り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537636>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d3e118b0b98a0770ab6d4a39b2751348011fdd289e281de42aae5b47529d3e10.jpg> 歓迎会は「業務」新卒の違和感
       </a>
     </td>
   </tr>
@@ -448,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537648>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02195877/title-1746272320748.jpeg?exp=10800> 再放送でも物議 NHKクルド人特集
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 11:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 11:30:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
