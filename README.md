@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4840ed43563b9b34ae18a17670e4152f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/89f762028475ef3227d761ce684b6e72.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4632d863de9a43babb69f3d6748fb907aeef1df6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00531895-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 朗希初勝利の裏で…ド軍打線が露呈した課題　大谷翔平から並ぶ「3-2-3-2-2-0-0-0-0」8HRでたった11打点の原因
+      <a href=https://news.yahoo.co.jp/articles/b4a1d12bf40563ca26c20b3ae20dc5e4c669b05d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000177-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1262&ch=1262&exp=10800&fmt=webp> 劇的復活の朝倉未来　平本蓮との再戦にも意欲「もちろんある。ボコボコにしたい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/901103ca83ddd3537b2ef1332012b921e5109012>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176762-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> 「あれだけ打ち上がってスタンドインとは」大谷翔平、高角度8号弾に投手が呆然 打球を見上げ“思わず後退り”…驚きの声
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c95c719926f87d67a685f6cd86eb9121bc1eb185>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00010002-tvkv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 川崎女性遺体遺棄事件　県警「ストーカー被害相談を受けた認識ない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/12dbeabd2204a9393de679a8e8520ab686599321>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00343396-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【広島】新井監督が〝愛のムチ〟 小園海斗をスタメンから除外「弱い姿を見せたら外すよって」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a2f0ce1359485c5c6575dbf6873c6e3ddfad762e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-07234446-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「芝居がかったパフォーマンスだ」ロシアが一方的に表明した72時間の停戦についてゼレンスキー大統領が拒否　ウクライナメディア
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537707>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/cfff6d148033b3b759f0a742063040d10a23ffb9ca5561acf6246008aac26989.jpg> カープ監督 小園欠場の理由説明
+      <a href=https://news.yahoo.co.jp/pickup/6537712>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6447e5b3ef853b157ae30d76e64d243f85cba1a686f80aa7245e0ecd82290dee.jpg> 朝倉未来が劇的復活 3回TKO勝ち
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 20:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 21:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
