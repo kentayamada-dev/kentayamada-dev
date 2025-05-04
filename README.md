@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/MqcgoOYnpBM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/thjIGEjEA3g?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c9a8684acbe7b329f75cb776c3ebbba7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/848b3adce94f9ea73ae99fe8fbb89f15.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9241d9f6f50d89f49ae2d5912939ebe80a5cdce7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-07234425-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=657&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「必要な措置を講じてきた」ストーカー被害は「相談を受けた認識はない」　川崎市20歳女性死体遺棄事件　神奈川県警が当時の対応を説明
+      <a href=https://news.yahoo.co.jp/articles/9b0f027a208a848a75332c2eda527cc343d8b84c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176697-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=693&ch=693&exp=10800&fmt=webp> 川崎市変死体事件 元交際相手を“死体遺棄”で逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f78d88361ee1e45724a8acb00c7861ee65351bb2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35040104-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1061&ch=1061&exp=10800&fmt=webp> 福山雅治、大泉洋の最強バディ復活　「ラストマン」今冬映画化決定　福山アクションシーン注目
+      <a href=https://news.yahoo.co.jp/articles/698e36145aa17e3245e4d9871dd0f89873af5594>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000004-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=590&ch=590&exp=10800&fmt=webp> 【速報】東北道で断続的に31キロの渋滞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/66b7aba9eb9c1d58dd253964714a2ad9222648bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176686-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 心を折った！ 山本由伸に“打者ドン引き”「お手上げ」「完全に詰んだｗ」 手が出せない魔球… ただ見送るだけの“見逃し三振”
       </a>
     </td>
   </tr>
@@ -379,27 +387,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/71b23daceda9845dde14178fbed8ef0184e9bc81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176681-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=800&ch=800&exp=10800&fmt=webp> なんだこれは…！？ 大谷翔平、高速ゴロに“野手ドン引き”「音もヤバい」「笑ってる」 瞬く間に打球が飛んでいく“爆速ファウル”「守りたくないw」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/2e4ef52ecb6f2df8d6b6b628594d4efab9e69d149fee6b4edaee18ea73d2330f.jpg> バフェット氏 投資会社CEO退任へ
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537628>
@@ -410,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537621>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/3/c854caac440ecd0b1683e7fd2b0f20f1b5982e764e6eede3eaff59b6d66753a7.jpg> 民家に遺体 逮捕の男が容疑認める
+      <a href=https://news.yahoo.co.jp/pickup/6537622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/2e4ef52ecb6f2df8d6b6b628594d4efab9e69d149fee6b4edaee18ea73d2330f.jpg> バフェット氏 投資会社CEO退任へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537625>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/cc9802cbbc61d44ffb6bf63ed7eedd70a583c8fe7078fdde83d0eee557376da4.jpg> 民家に女性遺体 涙止まらないと兄
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537626>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/64bdce1bff735643532a7c58125dcb9ab88eb800c04d4cb51a29eeb1918412e3.jpg> テレ朝・坪井アナ 音楽番組で伴奏
+      <a href=https://news.yahoo.co.jp/pickup/6537630>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/cd73f35351eadbf2c9f5a1632968d3e968f31f5210419c31feb4d9933bf424df.jpg> 福山雅治主演 ラストマン映画化
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 08:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 09:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
