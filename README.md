@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7618735f09926747c26c118c64b60862.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/95511370c4795434f6c754bf0f4af166.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/51edeb7a375dc9c506297d0b3fbb8e2a4128d392>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000093-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=167&cw=667&ch=667&exp=10800&fmt=webp> 出国前に7回聴取も関与否定　20歳女性ストーカー認める
+      <a href=https://news.yahoo.co.jp/articles/ed071d8c1d8f6381d58606895c07912b79186738>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自宅以外で燃やされたか　川崎の元交際相手遺体遺棄事件　神奈川県警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a8fbc99b97dc7072abcfdde6a8901c81ffb6e4a2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000086-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=932&ch=932&exp=10800&fmt=webp> 渋野日向子は7位から62位に急降下　「最後までどうしていいか分からない感じだった」／米女子ゴルフ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6a6428737728800c65909981b605fb2fcd4e6588>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000042-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平 3試合ぶり8号ソロHR　佐々木朗希メジャー初勝利
       </a>
     </td>
   </tr>
@@ -371,43 +387,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c02a21db206adcd29680901f715fb5f3516c8e94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35041234-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 蛭田みな美がボギー直後にホールインワン「ゴルフって何があるか分からない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a99ee40291e1ea395de52d615515331ac6a6b24d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000044-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 作戦拡大で予備役数万人招集　国際空港付近にミサイル　イスラエル
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e367174bfc88923dbe34484cf5efa66debeb0d58>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-01744913-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「本来の姿に戻っている」　打線牽引を示す「.529」…指揮官が寄せる信頼
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537685>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/20ea2a2276a00b8b9686e97ba0f643d73448ea2e2a51f13aefaa7a046e88922c.jpg> ウ大統領 露の停戦案は「芝居」
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537700>
@@ -426,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537702>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/a3d5ca43f8ef5fa14f4f6ae2a50985b38a9082d2d15fed14248c24757c93dff2.jpg> バスなど3台絡む事故 12人けが
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537693>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/11c57345b7432d3530b6e91b492a5f78a5458dc847f0339f08930126084086bb.jpg> 車同士が正面衝突 子含む6人搬送
       </a>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537694>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/bdb51f99eae09b2a78f8ae8bdaf01fc9ac5e390bb839a8f14a5be04b9a25b826.jpg> 万博とGW 大阪でホテルが高騰
+      <a href=https://news.yahoo.co.jp/pickup/6537689>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/e11c47b55d21d535835728f6199e299ea09d6c13a54db79980856575dee323f6.jpg> 割安な輸入米 外食で導入広がる
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 19:01:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 19:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
