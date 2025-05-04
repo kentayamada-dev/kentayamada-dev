@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/501e5bed3fd1f3370505cba0a3390b45.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/30e77b32866aca2c4c246ba6eff7baa8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2c167d7667c3129739132efd8aad3eda132d8df4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000037-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 警察「DVが疑われる事案」と認識　川崎遺体遺棄事件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a2f0ce1359485c5c6575dbf6873c6e3ddfad762e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-07234446-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「芝居がかったパフォーマンスだ」ロシアが一方的に表明した72時間の停戦についてゼレンスキー大統領が拒否　ウクライナメディア
       </a>
@@ -365,16 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff2f5210d29a2a14d9e0c6c9644326a56bde5e55>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-07234459-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 川崎市20歳女性遺体遺棄事件　遺体が見つかった場所は警察が自宅を任意で調べた際には確認できず 「任意で調べられなかった」と警察
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a99ee40291e1ea395de52d615515331ac6a6b24d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 作戦拡大で予備役数万人招集　国際空港付近にミサイル　イスラエル
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000044-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 作戦拡大で予備役数万人招集　国際空港付近にミサイル　イスラエル
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537680>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/83fb3ac372cd6a3c64cee95bd7df6d8756f3ec8dc1e2bb138e8aad25749d492d.jpg> 国防総省会見 トランプ政権で激減
+      <a href=https://news.yahoo.co.jp/pickup/6537685>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/20ea2a2276a00b8b9686e97ba0f643d73448ea2e2a51f13aefaa7a046e88922c.jpg> ウ大統領 露の停戦案は「芝居」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537690>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/72c59b0eaaea4d51f5070ac8058940233e0351f6cb67b760e7b27b4252c0c1a1.jpg> 15歳未満の子供 初の1400万人割れ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537687>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/f4086c04669863a508d171fd200a02a68933a0c049ff668d299ff51dbfc4924a.jpg> 西成7人負傷 子供の集団狙ったか
+      <a href=https://news.yahoo.co.jp/pickup/6537692>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/3e2b86643f917bfdc61ef51260de5766cdf808ee7db906b4744e551af68e1818.jpg> メキシコ 麻薬巡る米軍派遣を拒否
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537674>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b03b0eb18bdc8952eb794a3fb2072620cf661bac1751330670dacae774d0c4cc.jpg> ドラマロケ地 喫茶店は7時間待ち
+      <a href=https://news.yahoo.co.jp/pickup/6537694>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/bdb51f99eae09b2a78f8ae8bdaf01fc9ac5e390bb839a8f14a5be04b9a25b826.jpg> 万博とGW 大阪でホテルが高騰
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537670>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/c49a91eb184a34bdd806195907bc35841539ce9595f1212d69e89ac8c7d6e671.jpg> 合鍵の作成防止にカバー 注意喚起
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537681>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/c4fbc060a3b3b5b66d25f801fa1f6394756ddab056eb2ae9410721360d7a81ca.jpg> 朗希のメジャー初勝利 大谷が祝福
+      <a href=https://news.yahoo.co.jp/pickup/6537674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b03b0eb18bdc8952eb794a3fb2072620cf661bac1751330670dacae774d0c4cc.jpg> ドラマロケ地 喫茶店は7時間待ち
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 18:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 18:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
