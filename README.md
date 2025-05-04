@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ed0b8ab5582bd89571de53a347ac5538.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/99e3d324763ca9aba8be76ec4ba83b9e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab0ac9e37ebb390bb31c102ab73b1345ae52ad32>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10514927-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=620&ch=620&exp=10800&fmt=webp> カブス、一発攻勢で今季最多貯金8　PCAが決勝の9号3ラン、鈴木誠也は4の0で3試合ぶりの無安打
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b0f027a208a848a75332c2eda527cc343d8b84c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176697-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=693&ch=693&exp=10800&fmt=webp> 川崎市変死体事件 元交際相手を“死体遺棄”で逮捕
+      <a href=https://news.yahoo.co.jp/articles/e37845acf19e30d66d3ebb7b263e925a2bd4e06f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00967052-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ストーカー被害訴えるも…警察「被害相談受けていたという認識なかった」元交際相手の白井秀征容疑者（27）を逮捕　川崎・遺体遺棄事件
       </a>
     </td>
   </tr>
@@ -402,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/188149517a9f955018c768a97b4445e4820740a6bab1f74ea0494371be2f0e2c.jpg> 無断でユニセフ寄付 小学校を指導
+      <a href=https://news.yahoo.co.jp/pickup/6537633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/1cdcadc636d0342ab176faf322da18e5e2ae1b6140c971e28cd672279d03f5a7.jpg> 首相6日までホテル滞在 気分転換
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537635>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/3df62c9b00e797d813afdf1a0580595d47fedfeca78500c663de1e295cfd12fe.jpg> ながらスマホ罰則 信号停止中は?
+      <a href=https://news.yahoo.co.jp/pickup/6537632>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/11/27/79ce45b0b9f654db46ee4ad73e50b0333f366a1b96f4a04a1eebee46e18923fe.jpg> 「史上最も奇妙」な動き 惑星発見
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537643>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/25fb72f2c26035a9ab70fb9a5434429cff6f416a098b5093888d8a025510e6bb.jpg> 史上初 Jリーグ観客数1日42万人超
+      <a href=https://news.yahoo.co.jp/pickup/6537641>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/29d103934ea3678390d4850aed96ea5f8d614912374899ed2e0b80a9f159b6f9.jpg> 川崎F 優勝逃すも賞金9億円超
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 10:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 11:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
