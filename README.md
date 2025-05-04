@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/266a8cf79499c2341ac0266d4d9f6855.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/26721533713da02c597eb7761debcfa0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b66f11760e60ed418b9e0d5adc762b5dff8f0031>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-07677463-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 遺体は不明女性…元交際相手を逮捕　相談に応じず？遺族訴えに警察は【バンキシャ！】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ceb74251363573f4ec3c7bf31dd4c82346f74dca>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35041729-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=1178&ch=1178&exp=10800&fmt=webp> 【ヤクルト】45歳石川雅規　21歳下新人に投げ勝ち188勝目「本当に褒めてあげたい」高津監督絶賛
+      <a href=https://news.yahoo.co.jp/articles/f692eb0906f92be95a558e4f4d10108b9ac45fdb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-01169342-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=756&ch=756&exp=10800&fmt=webp> 川崎　住宅遺体事件　容疑者の男、逮捕前にストーカー行為を警察に認める
       </a>
     </td>
   </tr>
@@ -379,6 +371,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f76d14ef8e9473fdeb5849852bde3039f96f49e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-09747271-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米政府高官らと面会　拉致被害者家族が帰国「今こそ覚悟が試されている」　政府に改めて対応求める
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537695>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/cf4fa8eae2184729ecbd3d7bafee6176859763ab3e4f8b7ad1252b0e8caa14a3.jpg> 習氏が7日訪露 プーチン氏と会談
+      <a href=https://news.yahoo.co.jp/pickup/6537716>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/16b6237d5457f8c656f8d70b2a17850587f255e5e12cf0f9fc9e6b7711267002.jpg> 知事20人 献金巡り団体ずさん処理
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537718>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6cfa64e170fefb5a4fe48eb9e11c07933ef7d32c7af5b183649a450e44388310.jpg> 仲裁のタクシー運転手重傷 客逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6537721>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/f197a77abe7c69e30218122e0f86ac54625ec1d322461c0d6d33a2511c646ff0.jpg> 山梨で山岳遭難相次ぐ 2人死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537717>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/e4ef5b2740d7150d6c1869cc1042b47c58e9377ffc8209b4c1ed79db59ed8599.jpg> 会場にミャクミャク 生みの親思い
+      <a href=https://news.yahoo.co.jp/pickup/6537718>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6cfa64e170fefb5a4fe48eb9e11c07933ef7d32c7af5b183649a450e44388310.jpg> 仲裁のタクシー運転手重傷 客逮捕
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537719>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/3b05c6ad8452955e07937a73ce1982ca01abf7f44ca0e0b745abb48f5d9e6540.jpg> ヤクルト石川 21歳下に投げ勝つ
+      <a href=https://news.yahoo.co.jp/pickup/6537722>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/3b05c6ad8452955e07937a73ce1982ca01abf7f44ca0e0b745abb48f5d9e6540.jpg> 45歳の燕・石川が勝利 監督は絶賛
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6447e5b3ef853b157ae30d76e64d243f85cba1a686f80aa7245e0ecd82290dee.jpg> 朝倉未来が劇的復活 3回TKO勝ち
+      <a href=https://news.yahoo.co.jp/pickup/6537723>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b69bb743cd98ddc04d0fc184b30bbd4dd5083f925f850f34cb8efc7acbc0ba5e.jpg> 井川遥 今夏でブランド休止を発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 22:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 22:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
