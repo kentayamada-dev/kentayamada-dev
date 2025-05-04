@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/30e77b32866aca2c4c246ba6eff7baa8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7618735f09926747c26c118c64b60862.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c167d7667c3129739132efd8aad3eda132d8df4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000037-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 警察「DVが疑われる事案」と認識　川崎遺体遺棄事件
+      <a href=https://news.yahoo.co.jp/articles/51edeb7a375dc9c506297d0b3fbb8e2a4128d392>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000093-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=167&cw=667&ch=667&exp=10800&fmt=webp> 出国前に7回聴取も関与否定　20歳女性ストーカー認める
       </a>
     </td>
   </tr>
@@ -367,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a2f0ce1359485c5c6575dbf6873c6e3ddfad762e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-07234446-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「芝居がかったパフォーマンスだ」ロシアが一方的に表明した72時間の停戦についてゼレンスキー大統領が拒否　ウクライナメディア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c02a21db206adcd29680901f715fb5f3516c8e94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35041234-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 蛭田みな美がボギー直後にホールインワン「ゴルフって何があるか分からない」
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/49e203d79f1d1362132e7c1a0e8cd1a951807055>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00791625-encount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【RIZIN】桜庭ジュニア・大世、プロ2戦目は一本負けで涙　キャリア60戦以上のベテランの腕十字にたまらずタップ
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537692>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/3e2b86643f917bfdc61ef51260de5766cdf808ee7db906b4744e551af68e1818.jpg> メキシコ 麻薬巡る米軍派遣を拒否
+      <a href=https://news.yahoo.co.jp/pickup/6537700>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/2f0b20981b79ac5cff84cdf99fc0970d10f1f70c9449f826fd2f367cb06a5da3.jpg> 高速道路 早くもUターンラッシュ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537691>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/636a6c81b01183333ab4a5bb99c4dbc2fcca106ef30a733b39afb7aa3abe09e7.jpg> シェル 石油大手BP買収を検討か
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537686>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「ヘビ真菌症」野生で国内初確認
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537674>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b03b0eb18bdc8952eb794a3fb2072620cf661bac1751330670dacae774d0c4cc.jpg> ドラマロケ地 喫茶店は7時間待ち
       </a>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/200f6137b587d0abe15344c20c6f8ec4d78804aa1dab564c430ffdce9affa22b.jpg> 長澤まさみ 年齢関係なく敬語使う
+      <a href=https://news.yahoo.co.jp/pickup/6537701>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/c331effaaf6440b1bf5217bd3a875cef14854966bf7fd664c9539b8a242353b9.jpg> 角田夏実が子供に指導 もみくちゃ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 18:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 19:01:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
