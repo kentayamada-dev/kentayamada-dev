@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dacd0d766e41b6ce8bc2cc81fb82e7c2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b0e08e0ef0a5a5a06fd6bdc662237b32.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcc4968f2b2c6b380315fcf1637a5b5a322e9c85>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000024-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平は四回に強烈中前打放ち早くも猛打賞　三回には3試合ぶり一発となる8号をバックスクリーンへ
+      <a href=https://news.yahoo.co.jp/articles/7606b32ccf2fd88c94dcc52ed56f323dd0a64763>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000031-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第4打席は見逃し三振　3打席前まで8号ソロ含む3安打　佐々木朗希はメジャー初勝利の権利
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537638>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b3a46752c7b575802baaa3dbcffebe717ecdbb936fe6cc3ca41d925cbdcd3010.jpg> ストーカー被害 凶行は後を絶たず
+      <a href=https://news.yahoo.co.jp/pickup/6537660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d93f8a1119410d00ba37c837ca7e8d5a8a16b4b39725c945002cb2d99d505340.jpg> 消費減税は課題山積 首相どう対応
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537647>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/5dc186194d6bd3425500405c5f558e8a9b67b52e588d2cf2d22fe9744acd666b.jpg> 二度と盗撮しない 誓った翌月再犯
+      <a href=https://news.yahoo.co.jp/pickup/6537662>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/8e8df57345775b16ab819cddd6702af6b8913605ea665963fa63eb8cfccc51bf.jpg> バフェット氏発表 株主10分総立ち
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d7e2f3aacbcad3bc95cae9bf145a78d26a0500229305092c8d978e9b0ccef0d9.jpg> 巨人阪神戦で侮辱的替え歌 問題は
+      <a href=https://news.yahoo.co.jp/pickup/6537663>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/9cd858d200974e201c9f72f6705c5341515680ae3a6b08ec8cb6f034633bb259.jpg> 客席にバズーカ 威力に驚く真剣佑
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 13:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 13:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
