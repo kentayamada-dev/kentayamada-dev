@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a40ec7b26fb46d2f692ed5a60c7bbb68.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4840ed43563b9b34ae18a17670e4152f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4632d863de9a43babb69f3d6748fb907aeef1df6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00531895-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 朗希初勝利の裏で…ド軍打線が露呈した課題　大谷翔平から並ぶ「3-2-3-2-2-0-0-0-0」8HRでたった11打点の原因
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c95c719926f87d67a685f6cd86eb9121bc1eb185>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00010002-tvkv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 川崎女性遺体遺棄事件　県警「ストーカー被害相談を受けた認識ない」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/12dbeabd2204a9393de679a8e8520ab686599321>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00343396-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【広島】新井監督が〝愛のムチ〟 小園海斗をスタメンから除外「弱い姿を見せたら外すよって」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13759a10de38f9b5e6cd0f6d262c756f6389532c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35041500-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=998&ch=998&exp=10800&fmt=webp> 大谷翔平、８号含む３安打１打点で佐々木朗希援護　キャンプ前にサポート役宣言の有言実行
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537693>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/11c57345b7432d3530b6e91b492a5f78a5458dc847f0339f08930126084086bb.jpg> 車同士が正面衝突 子含む6人搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537689>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/e11c47b55d21d535835728f6199e299ea09d6c13a54db79980856575dee323f6.jpg> 割安な輸入米 外食で導入広がる
       </a>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537674>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b03b0eb18bdc8952eb794a3fb2072620cf661bac1751330670dacae774d0c4cc.jpg> ドラマロケ地 喫茶店は7時間待ち
+      <a href=https://news.yahoo.co.jp/pickup/6537709>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6503596c62551a50c3c2e2d89a9651077b5f48a3fbd8589211392366e8b93877.jpg> 昼食10分「万博遠足」に教員悲鳴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537706>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/576163172867975e30febc38a01642429cb92b465888d42bddd050e08a349439.jpg> コナン誕生日「聖地」に人人人
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 20:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 20:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
