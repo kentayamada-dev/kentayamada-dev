@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6ef00e1cef03556eb6775c8267d565a8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d5c7dbe904d6f17c75d61666b234c7f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -386,8 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537727>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/f60f2f63a89bd1f16159aa12b2d966ef75fc4fcbd50a905aecff0713a5b7af8a.jpg> 米の関税引き上げ 広い業種を直撃
+      <a href=https://news.yahoo.co.jp/pickup/6537741>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/583aea24a423c375092f847f48ace4a42bbfc7eec915f25abf50d14a09f5b52f.jpg> ネットカジノ 自・立が法案協議へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537749>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/67fa151b5f1bc3e3b4d6573287e4a15a8a5c4f6d4dafae662dbe28ed45fcefca.jpg> コンクラーベ前哨戦 注目候補次々
       </a>
     </td>
   </tr>
@@ -402,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537721>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/f197a77abe7c69e30218122e0f86ac54625ec1d322461c0d6d33a2511c646ff0.jpg> 山梨で山岳遭難相次ぐ 2人死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537735>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/45fbef783dee6a11086dc685453c6f9b2695d5ae02ad82b6379a7654765fae6a.jpg> 温泉街の老舗旅館で火事 客は避難
       </a>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/d07ec4ac002c43fb6acd1259ed27f69a662472964a946d79e3ad1cc9a57a57e7.jpg> 万博内のチェーン店 施策に格差?
+      <a href=https://news.yahoo.co.jp/pickup/6537736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/8033eb3553d8223795469dbc3ac8b28d7958edc72f149848e1a61eeee194478c.jpg> 車の左側をバイクすり抜け 違反?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/8033eb3553d8223795469dbc3ac8b28d7958edc72f149848e1a61eeee194478c.jpg> 車の左側をバイクすり抜け 違反?
+      <a href=https://news.yahoo.co.jp/pickup/6537739>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/2bb0927631df50e29cf4866ded45a72b5398222dc66fbb01d69fa4aee8351d8e.jpg> たべっ子どうぶつ映画化 社長即決
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 08:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 08:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
