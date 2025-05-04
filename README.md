@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b0e08e0ef0a5a5a06fd6bdc662237b32.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/683d2cfc5c4712f90b205a6b442822dc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7606b32ccf2fd88c94dcc52ed56f323dd0a64763>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000031-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第4打席は見逃し三振　3打席前まで8号ソロ含む3安打　佐々木朗希はメジャー初勝利の権利
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000031-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第4打席は見逃し三振　3打席前まで8号ソロ含む3安打　佐々木朗希はメジャー初勝利の権利
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537660>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d93f8a1119410d00ba37c837ca7e8d5a8a16b4b39725c945002cb2d99d505340.jpg> 消費減税は課題山積 首相どう対応
+      <a href=https://news.yahoo.co.jp/pickup/6537667>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/c0e501f7c52dba7f84ba3f81c3b9a5b11dbdd613731434a4e66831d5a07c8129.jpg> 領空侵犯 中国が日本側に逆に抗議
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537631>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/f93612dfb6f6172de383e9fcaf7d5c41959e47e6c9fd58023719f6a31adf08ed.jpg> ウ北東部を「安全地域」に 露発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537660>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d93f8a1119410d00ba37c837ca7e8d5a8a16b4b39725c945002cb2d99d505340.jpg> 消費減税は課題山積 首相どう対応
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537659>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/1b02b587f4d9a79547f5298a147132beb97fa5cf9ef235695ef2790bdb333684.jpg> 大谷3戦ぶり8号 先発の朗希を援護
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537663>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/9cd858d200974e201c9f72f6705c5341515680ae3a6b08ec8cb6f034633bb259.jpg> 客席にバズーカ 威力に驚く真剣佑
+      <a href=https://news.yahoo.co.jp/pickup/6537658>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/268f5a46cdfd04d1e5f76d3110c440748433c638ae97ba8fc643ec9f39701e2c.jpg> 大谷の球速151キロ 監督は笑顔に
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 13:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 14:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
