@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0f154d270b69f3769244fc04281254ed.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28f5e3b5c5b2d52c4a050871f3146e4d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/2e4ef52ecb6f2df8d6b6b628594d4efab9e69d149fee6b4edaee18ea73d2330f.jpg> バフェット氏 投資会社CEO退任へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537628>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/4b14f20ca5537b73725ebd7f706c13df31bc043ea5df099a7d0074e5833a47e1.jpg> イスラエル ガザで作戦拡大決定か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537637>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/1a139ff161e38a39008fac827159a85ee5c39ee703576b24a733cd2f0be3e37d.jpg> 4日は高速上下とも混雑 最大45km
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/2e4ef52ecb6f2df8d6b6b628594d4efab9e69d149fee6b4edaee18ea73d2330f.jpg> バフェット氏 投資会社CEO退任へ
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537623>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/547b0147e0d18a250b16f586361cce2356757b76c50bf4f17c32433d36f24702.jpg> 3年20億円の金慧成 メジャー昇格
+      <a href=https://news.yahoo.co.jp/pickup/6537635>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/3df62c9b00e797d813afdf1a0580595d47fedfeca78500c663de1e295cfd12fe.jpg> ながらスマホ罰則 信号停止中は?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537643>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/25fb72f2c26035a9ab70fb9a5434429cff6f416a098b5093888d8a025510e6bb.jpg> 史上初 Jリーグ観客数1日42万人超
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 09:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 10:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
