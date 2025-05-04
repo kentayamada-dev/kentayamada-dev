@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/593bb61e305f97d4ddd6e4b9510e2403.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8b3da88451d89274e9cc1c0c4c45f415.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5c2d904ecd0ad25e8536ea1eae6062f2092dac36>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000057-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=824&ch=824&exp=10800&fmt=webp> 現役フジテレビ社員・ウザ強ヨシヤ、2回KO負け　会社から戒告処分「白装束」で覚悟のリング…朝久泰央に沈められる【RIZIN男祭り】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7606b32ccf2fd88c94dcc52ed56f323dd0a64763>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000031-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第4打席は見逃し三振　3打席前まで8号ソロ含む3安打　佐々木朗希はメジャー初勝利の権利
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c61e32caee14451daa03422a81a2913431325bbc>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35040417-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 岸博幸氏、神奈川県警対応に怒り「『事件性ない』はあり得ない」川崎・女性遺体遺棄事件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c793f55815111beadfd02c9f9b782f286d4a4812>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ストーカーから事件に発展　「ハネムーン期」の後に暴力エスカレート
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537649>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/c9bc73902b85910d5c9eca21bc289ed2340a10767651455f26cfe3c58a931e6d.jpg> 無人艇で露戦闘機を撃墜 ウが主張
+      <a href=https://news.yahoo.co.jp/pickup/6537651>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/08e8fadc52ea842381c9daa53a2ab5af5124c37009280fd6ab1d906c8a3fc1d1.jpg> 米 高関税ショックこれから本格化
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537646>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d5272b9d4e3e5a0697a84894ebf587e962f26a9475070be696630fc968da020c.jpg> 津軽地方で地鳴りとの声 原因不明
+      <a href=https://news.yahoo.co.jp/pickup/6537665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6243ca105e4858796bded2976e3ac98e376377fcc91722a0c2e4f6be147a7e37.jpg> 中国産「宇治抹茶」販売 老舗怒り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537654>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/7f41f0f9b41d963cf15655853e4c56f3aa832aff995601970f58d5f4f43e466b.jpg> 万博の攻略法 予約は?持ち物は?
+      <a href=https://news.yahoo.co.jp/pickup/6537657>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6b6c56b9202e41b0b424ff168b721b97bea90ae2ba9f8d1e1c2420cf22381801.jpg> GW 道の駅に今年ならではの行列
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537658>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/268f5a46cdfd04d1e5f76d3110c440748433c638ae97ba8fc643ec9f39701e2c.jpg> 大谷の球速151キロ 監督は笑顔に
+      <a href=https://news.yahoo.co.jp/pickup/6537671>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6b4c13941e77ff05089148a5e2c71b46495ad2cb17cee63ea1cc251f8441f4e3.jpg> 佐々木朗希 ついにメジャー初勝利
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 14:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 15:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
