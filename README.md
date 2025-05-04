@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/thjIGEjEA3g?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/43f0f6ca7b09eee1129e3ea6a400878a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/32eaac6a064ad497c99d6fb8437104c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3128590265f8b72db0cee0afab1029be3ccaa7d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00010008-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1486&ch=1486&exp=10800&fmt=webp> 大谷翔平 ブルペン35球もスライダーはまだ解禁NG ロバーツ監督「肘への負担が大きい。チームドクターが慎重になっている」
+      <a href=https://news.yahoo.co.jp/articles/7e54cac167775074b267960c3d7cc2a62cec2705>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 遊覧船転覆で20人不明か　中国貴州省
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f58895f6185877066230d4c53661b85fcb739896>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35041944-nksports-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1278&ch=1278&exp=10800&fmt=webp> 【阪神】一時同点ソロ森下翔太、打率リーグトップ浮上で２冠「１打席１打席…」虎戦士５部門１位
+      <a href=https://news.yahoo.co.jp/articles/3128590265f8b72db0cee0afab1029be3ccaa7d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00010008-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1486&ch=1486&exp=10800&fmt=webp> 大谷翔平 ブルペン35球もスライダーはまだ解禁NG ロバーツ監督「肘への負担が大きい。チームドクターが慎重になっている」
       </a>
     </td>
   </tr>
@@ -410,24 +410,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537731>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 遊覧船が転覆し約20人不明か 中国
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537714>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/03f35018a313b6b51b4c84700c57957dd11d6581f357106f61d71f198bdc27af.jpg> モルディブ大統領が約15時間会見
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537730>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/7240dab629f0c2772f8ad978491c936838c2940561ff346ed0eb4f27f5f8c514.jpg> 大坂なおみ 産後初のタイトル獲得
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/200f6137b587d0abe15344c20c6f8ec4d78804aa1dab564c430ffdce9affa22b.jpg> 長澤まさみ 年齢関係なく敬語使う
       </a>
     </td>
   </tr>
@@ -440,11 +432,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/200f6137b587d0abe15344c20c6f8ec4d78804aa1dab564c430ffdce9affa22b.jpg> 長澤まさみ 年齢関係なく敬語使う
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 23:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 23:52:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
