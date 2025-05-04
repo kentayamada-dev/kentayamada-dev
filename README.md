@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28f5e3b5c5b2d52c4a050871f3146e4d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ed0b8ab5582bd89571de53a347ac5538.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/004c2a44af0e15a1fffcc2a22c3c152749122736>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176689-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=340&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 何を見てる？ 山本由伸、神投球で“打者に異変”「エグすぎる」「手が出ない」 動けなくなる… 究極コースを突いた“見逃し三振”
+      <a href=https://news.yahoo.co.jp/articles/ab0ac9e37ebb390bb31c102ab73b1345ae52ad32>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10514927-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=248&cy=0&cw=620&ch=620&exp=10800&fmt=webp> カブス、一発攻勢で今季最多貯金8　PCAが決勝の9号3ラン、鈴木誠也は4の0で3試合ぶりの無安打
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/2e4ef52ecb6f2df8d6b6b628594d4efab9e69d149fee6b4edaee18ea73d2330f.jpg> バフェット氏 投資会社CEO退任へ
+      <a href=https://news.yahoo.co.jp/pickup/6537627>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/188149517a9f955018c768a97b4445e4820740a6bab1f74ea0494371be2f0e2c.jpg> 無断でユニセフ寄付 小学校を指導
       </a>
     </td>
   </tr>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537627>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/188149517a9f955018c768a97b4445e4820740a6bab1f74ea0494371be2f0e2c.jpg> 無断でユニセフ寄付 小学校を指導
+      <a href=https://news.yahoo.co.jp/pickup/6537639>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/125ba8055443865e5555fefa2f01ec511c1164260c7e45227d7eb14334285a65.jpg> 西田昌司氏発言 ひめゆり館長憤り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537636>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d3e118b0b98a0770ab6d4a39b2751348011fdd289e281de42aae5b47529d3e10.jpg> 歓迎会は「業務」新卒の違和感
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537630>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/cd73f35351eadbf2c9f5a1632968d3e968f31f5210419c31feb4d9933bf424df.jpg> 福山雅治主演 ラストマン映画化
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 10:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 10:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
