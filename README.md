@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/82b09ba84073578e10b93ce5dc9eb230.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6d22aec61da1c7838ae463f6711d94f5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbe44438fbaba0bc71efd4e658d58c67fce3caa7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35040315-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=930&ch=930&exp=10800&fmt=webp> 【ケンタッキーダービー】日本国内２番人気もルクソールカフェは12着「経験したことない馬場」
+      <a href=https://news.yahoo.co.jp/articles/a096adf1fbc28b75feae051c7bf13a08aec4068a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000022-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平がバックスクリーンに8号ソロ　午後10時21分開始の深夜ゲームで佐々木朗希を強力援護
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0fb8b5724635a91f44ee8101dec12200c01e13fe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-90024098-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 任意で自宅捜索「そこはやめて」 後日その部屋から女性遺体発見　元交際相手の男逮捕
+      <a href=https://news.yahoo.co.jp/articles/01a8e18220c70db5be332e3f4037b496dfaf2d9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000007-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=482&ch=482&exp=10800&fmt=webp> 「事件性なしとされた」「ストーカー相談の認識なかった」　川崎・女性遺体遺棄で食い違う家族と警察の説明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1751cacc65d406fa6fc5848d9e445610c4e90560>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000032-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=788&ch=788&exp=10800&fmt=webp> ドジャース・大谷翔平、第1打席で中前打　3時間超遅れの午後10時すぎプレーボール『ミッドナイトゲーム』で2戦ぶり快音
+      <a href=https://news.yahoo.co.jp/articles/c793f55815111beadfd02c9f9b782f286d4a4812>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000023-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ストーカーから事件に発展　「ハネムーン期」の後に暴力エスカレート
       </a>
     </td>
   </tr>
@@ -386,24 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537637>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/1a139ff161e38a39008fac827159a85ee5c39ee703576b24a733cd2f0be3e37d.jpg> 4日は高速上下とも混雑 最大45km
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537639>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/125ba8055443865e5555fefa2f01ec511c1164260c7e45227d7eb14334285a65.jpg> 西田昌司氏発言 ひめゆり館長憤り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537638>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ストーカー被害 凶行は後を絶たず
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b3a46752c7b575802baaa3dbcffebe717ecdbb936fe6cc3ca41d925cbdcd3010.jpg> ストーカー被害 凶行は後を絶たず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537631>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/f93612dfb6f6172de383e9fcaf7d5c41959e47e6c9fd58023719f6a31adf08ed.jpg> ウ北東部を「安全地域」に 露発表
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537652>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d7e2f3aacbcad3bc95cae9bf145a78d26a0500229305092c8d978e9b0ccef0d9.jpg> 巨人阪神戦で侮辱的替え歌 問題は
+      <a href=https://news.yahoo.co.jp/pickup/6537661>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/1f31bebe5f49f762c34bca2dce50e6e0cd354bea3c119e1150bbd06ffa40a403.jpg> おむつなし育児に賛否 医師見解
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537653>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/2ec4e6dbca96b85341ed4da7b6e475f7817150067af10618953ce56cacf23b05.jpg> ケンタッキーダービー 日本勢完敗
+      <a href=https://news.yahoo.co.jp/pickup/6537659>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/1b02b587f4d9a79547f5298a147132beb97fa5cf9ef235695ef2790bdb333684.jpg> 大谷3戦ぶり8号 先発の朗希を援護
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d7e2f3aacbcad3bc95cae9bf145a78d26a0500229305092c8d978e9b0ccef0d9.jpg> 巨人阪神戦で侮辱的替え歌 問題は
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 12:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 12:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
