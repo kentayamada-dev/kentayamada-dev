@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c7f043f4be4f68044e65df3364f40af0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/266a8cf79499c2341ac0266d4d9f6855.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f40b78a6cf983adf2c632b7c3f77a581088e2551>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00078830-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=752&ch=752&exp=10800&fmt=webp> 「インフルで寝ていた」川崎ストーカー殺人 白井秀征容疑者が遺族に語っていた仰天アリバイ
+      <a href=https://news.yahoo.co.jp/articles/b66f11760e60ed418b9e0d5adc762b5dff8f0031>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-07677463-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 遺体は不明女性…元交際相手を逮捕　相談に応じず？遺族訴えに警察は【バンキシャ！】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22c78ed94225627642d9575901a313b33001c202>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000111-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1435&ch=1435&exp=10800&fmt=webp> ルーマニア大統領選始まる　泡沫候補首位、無効宣言で再実施
+      <a href=https://news.yahoo.co.jp/articles/ceb74251363573f4ec3c7bf31dd4c82346f74dca>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35041729-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=261&cy=0&cw=1178&ch=1178&exp=10800&fmt=webp> 【ヤクルト】45歳石川雅規　21歳下新人に投げ勝ち188勝目「本当に褒めてあげたい」高津監督絶賛
       </a>
     </td>
   </tr>
@@ -394,24 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537696>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/c6199af9f2ddf83dc63fc84b73bc8282b35e3fb68a9f09e76320e24221159e46.jpg> 首相の会食相手 目立つ「身内」
+      <a href=https://news.yahoo.co.jp/pickup/6537711>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/64572df791999c6d77072763a4dd386d1da30ca14e28636542b015faa920c949.jpg> 「玉木首相論」本人に聞いてみた
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537709>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6503596c62551a50c3c2e2d89a9651077b5f48a3fbd8589211392366e8b93877.jpg> 昼食10分「万博遠足」に教員悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6537718>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6cfa64e170fefb5a4fe48eb9e11c07933ef7d32c7af5b183649a450e44388310.jpg> 仲裁のタクシー運転手重傷 客逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537713>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/edfadeaf1e57cd7fb8739cbb172f3f8dfd0649c8a76da744707a970189c13ba7.jpg> 上げ馬神事 虐待批判受け新対策も
+      <a href=https://news.yahoo.co.jp/pickup/6537717>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/e4ef5b2740d7150d6c1869cc1042b47c58e9377ffc8209b4c1ed79db59ed8599.jpg> 会場にミャクミャク 生みの親思い
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537712>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6447e5b3ef853b157ae30d76e64d243f85cba1a686f80aa7245e0ecd82290dee.jpg> 朝倉未来が劇的復活 3回TKO勝ち
+      <a href=https://news.yahoo.co.jp/pickup/6537719>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/3b05c6ad8452955e07937a73ce1982ca01abf7f44ca0e0b745abb48f5d9e6540.jpg> ヤクルト石川 21歳下に投げ勝つ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537704>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/8b5366e6f50ad5f754818e508fe7f6e8e5d5343b732bad8bd75d90d3caa43766.jpg> 主審倒れ選手が笛吹く プレミアL
+      <a href=https://news.yahoo.co.jp/pickup/6537712>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6447e5b3ef853b157ae30d76e64d243f85cba1a686f80aa7245e0ecd82290dee.jpg> 朝倉未来が劇的復活 3回TKO勝ち
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 21:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 22:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
