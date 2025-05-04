@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9eb191609bd1b779f3df0dc4b3343617.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/82b09ba84073578e10b93ce5dc9eb230.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9b8c4c29191677e2d2a35c7e80fc7b0aed815ace>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-05041035-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=138&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、初回先頭で中前打　大雨による影響で午後１０時２１分に試合開始　３時間６分遅れも関係なし！
+      <a href=https://news.yahoo.co.jp/articles/bbe44438fbaba0bc71efd4e658d58c67fce3caa7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35040315-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=930&ch=930&exp=10800&fmt=webp> 【ケンタッキーダービー】日本国内２番人気もルクソールカフェは12着「経験したことない馬場」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f033567f8d9816ec5a3126f9d41d1ba895d9b7e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000030-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=799&ch=799&exp=10800&fmt=webp> ACLE優勝のアルアハリ、前代未聞の“金満編成”… 外国籍選手が総勢12人
+      <a href=https://news.yahoo.co.jp/articles/0fb8b5724635a91f44ee8101dec12200c01e13fe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-90024098-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 任意で自宅捜索「そこはやめて」 後日その部屋から女性遺体発見　元交際相手の男逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e37845acf19e30d66d3ebb7b263e925a2bd4e06f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00967052-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ストーカー被害訴えるも…警察「被害相談受けていたという認識なかった」元交際相手の白井秀征容疑者（27）を逮捕　川崎・遺体遺棄事件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbb0a230b566ef3996c4e6982b238415124d51a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000003-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=314&ch=314&exp=10800&fmt=webp> トランプ関税、景気影響顕在化　日米、早期合意へ駆け引き　自動車見直しが鍵・閣僚交渉〔深層探訪〕
+      <a href=https://news.yahoo.co.jp/articles/1751cacc65d406fa6fc5848d9e445610c4e90560>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000032-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=788&ch=788&exp=10800&fmt=webp> ドジャース・大谷翔平、第1打席で中前打　3時間超遅れの午後10時すぎプレーボール『ミッドナイトゲーム』で2戦ぶり快音
       </a>
     </td>
   </tr>
@@ -402,16 +394,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/1cdcadc636d0342ab176faf322da18e5e2ae1b6140c971e28cd672279d03f5a7.jpg> 首相6日までホテル滞在 気分転換
+      <a href=https://news.yahoo.co.jp/pickup/6537639>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/125ba8055443865e5555fefa2f01ec511c1164260c7e45227d7eb14334285a65.jpg> 西田昌司氏発言 ひめゆり館長憤り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537625>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/cc9802cbbc61d44ffb6bf63ed7eedd70a583c8fe7078fdde83d0eee557376da4.jpg> 民家に女性遺体 涙止まらないと兄
+      <a href=https://news.yahoo.co.jp/pickup/6537638>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> ストーカー被害 凶行は後を絶たず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537633>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/1cdcadc636d0342ab176faf322da18e5e2ae1b6140c971e28cd672279d03f5a7.jpg> 首相6日までホテル滞在 気分転換
       </a>
     </td>
   </tr>
@@ -426,32 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537639>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/125ba8055443865e5555fefa2f01ec511c1164260c7e45227d7eb14334285a65.jpg> 西田昌司氏発言 ひめゆり館長憤り
+      <a href=https://news.yahoo.co.jp/pickup/6537646>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d5272b9d4e3e5a0697a84894ebf587e962f26a9475070be696630fc968da020c.jpg> 津軽地方で地鳴りとの声 原因不明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537632>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2024/11/27/79ce45b0b9f654db46ee4ad73e50b0333f366a1b96f4a04a1eebee46e18923fe.jpg> 「史上最も奇妙」な動き 惑星発見
+      <a href=https://news.yahoo.co.jp/pickup/6537652>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d7e2f3aacbcad3bc95cae9bf145a78d26a0500229305092c8d978e9b0ccef0d9.jpg> 巨人阪神戦で侮辱的替え歌 問題は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537641>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/29d103934ea3678390d4850aed96ea5f8d614912374899ed2e0b80a9f159b6f9.jpg> 川崎F 優勝逃すも賞金9億円超
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537648>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02195877/title-1746272320748.jpeg?exp=10800> 再放送でも物議 NHKクルド人特集
+      <a href=https://news.yahoo.co.jp/pickup/6537653>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/2ec4e6dbca96b85341ed4da7b6e475f7817150067af10618953ce56cacf23b05.jpg> ケンタッキーダービー 日本勢完敗
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 11:30:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 12:00:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
