@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c1e223e88c66c2881236c9eef0aff1b8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f39a3954af0630fdab9e3d3f40af6dfb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/72ece1aa3b88fb6b3aac4c7437fec1203e04e6b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000017-gbr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=452&ch=452&exp=10800&fmt=webp> 【RIZIN】ヒロヤ、篠塚辰樹にタオル投入のTKO完勝！パウンド＆ヒジの嵐で”MMAの洗礼”
+      <a href=https://news.yahoo.co.jp/articles/49e203d79f1d1362132e7c1a0e8cd1a951807055>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00791625-encount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【RIZIN】桜庭ジュニア・大世、プロ2戦目は一本負けで涙　キャリア60戦以上のベテランの腕十字にたまらずタップ
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537651>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/08e8fadc52ea842381c9daa53a2ab5af5124c37009280fd6ab1d906c8a3fc1d1.jpg> 米 高関税ショックこれから本格化
+      <a href=https://news.yahoo.co.jp/pickup/6537678>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/791b1694150b68261e97d6ad5b5451f078c03e05ec7f62d30a6b91e67ef24cd0.jpg> 黄砂 7日は沖縄-東日本など飛来か
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537657>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6b6c56b9202e41b0b424ff168b721b97bea90ae2ba9f8d1e1c2420cf22381801.jpg> GW 道の駅に今年ならではの行列
+      <a href=https://news.yahoo.co.jp/pickup/6537676>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/924dbce1a74f62c5774df9687e813653f38680836880d8f0ccbbca76d356dd8e.jpg> 風力発電の羽根落下 住民に不安
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537674>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b03b0eb18bdc8952eb794a3fb2072620cf661bac1751330670dacae774d0c4cc.jpg> ドラマロケ地 喫茶店は7時間待ち
+      <a href=https://news.yahoo.co.jp/pickup/6537668>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/e2cb492e83f9809d3cac49dc2736d2e27b1da7e425460d823b2ea45cefb9ab7d.jpg> コメ高騰 ジャンボタニシに警戒感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537679>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/72bb755c865b9d5fb8a60a4e802e69d05b470a0418dc37760a2d0a97b011866f.jpg> 天皇賞春 ヘデントールG1初制覇
+      <a href=https://news.yahoo.co.jp/pickup/6537674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b03b0eb18bdc8952eb794a3fb2072620cf661bac1751330670dacae774d0c4cc.jpg> ドラマロケ地 喫茶店は7時間待ち
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 16:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 16:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
