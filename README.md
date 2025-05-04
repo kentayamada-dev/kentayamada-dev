@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2320390176b31ee14b5389b5ae44f645.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/501e5bed3fd1f3370505cba0a3390b45.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9f1e813fc4a672307437ce50f928ea916fa8e8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000031-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=563&ch=563&exp=10800&fmt=webp> 川崎　元交際女性の遺体　自宅外で焼いたか　現場の民家に焼損跡なし
+      <a href=https://news.yahoo.co.jp/articles/a2f0ce1359485c5c6575dbf6873c6e3ddfad762e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-07234446-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「芝居がかったパフォーマンスだ」ロシアが一方的に表明した72時間の停戦についてゼレンスキー大統領が拒否　ウクライナメディア
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ff2f5210d29a2a14d9e0c6c9644326a56bde5e55>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-07234459-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 川崎市20歳女性遺体遺棄事件　遺体が見つかった場所は警察が自宅を任意で調べた際には確認できず 「任意で調べられなかった」と警察
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a99ee40291e1ea395de52d615515331ac6a6b24d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 作戦拡大で予備役数万人招集　国際空港付近にミサイル　イスラエル
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e367174bfc88923dbe34484cf5efa66debeb0d58>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-01744913-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平は「本来の姿に戻っている」　打線牽引を示す「.529」…指揮官が寄せる信頼
       </a>
     </td>
   </tr>
@@ -367,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/49e203d79f1d1362132e7c1a0e8cd1a951807055>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00791625-encount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【RIZIN】桜庭ジュニア・大世、プロ2戦目は一本負けで涙　キャリア60戦以上のベテランの腕十字にたまらずタップ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ead23b87f68e42625fe8e725be43564a5521fd3b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000017-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=639&ch=639&exp=10800&fmt=webp> バチカンでトランプ氏と防空や制裁を協議、30日停戦要求＝ゼレンスキー氏
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7606b32ccf2fd88c94dcc52ed56f323dd0a64763>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000031-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第4打席は見逃し三振　3打席前まで8号ソロ含む3安打　佐々木朗希はメジャー初勝利の権利
       </a>
     </td>
   </tr>
@@ -402,16 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537678>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/791b1694150b68261e97d6ad5b5451f078c03e05ec7f62d30a6b91e67ef24cd0.jpg> 黄砂 7日は沖縄-東日本など飛来か
+      <a href=https://news.yahoo.co.jp/pickup/6537690>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/72c59b0eaaea4d51f5070ac8058940233e0351f6cb67b760e7b27b4252c0c1a1.jpg> 15歳未満の子供 初の1400万人割れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537684>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d6ee31b0799426c44887404f8a37caa426f1108cb0d2178786023fb4ef50feb0.jpg> 海に転落か 釣り出かけた男性死亡
+      <a href=https://news.yahoo.co.jp/pickup/6537687>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/f4086c04669863a508d171fd200a02a68933a0c049ff668d299ff51dbfc4924a.jpg> 西成7人負傷 子供の集団狙ったか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537693>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/11c57345b7432d3530b6e91b492a5f78a5458dc847f0339f08930126084086bb.jpg> 車同士が正面衝突 子含む6人搬送
       </a>
     </td>
   </tr>
@@ -442,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537673>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/4e06ddae07df685da65238da97aa783df65a753d76f486785e8b934d4dd6a763.jpg> RIZIN無許可出場 フジ社員敗れる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537688>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/200f6137b587d0abe15344c20c6f8ec4d78804aa1dab564c430ffdce9affa22b.jpg> 長澤まさみ 年齢関係なく敬語使う
       </a>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 17:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 18:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
