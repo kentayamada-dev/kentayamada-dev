@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3e5c03e694a4bb52799fd0a3c30cc993.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c252accb20111b004fceffabac6b7217.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b02e58da69ea845b7fc32c311797fe76753bcfdf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00531883-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 井上尚弥戦、ChatGPTに勝敗を聞いた結果…カルデナス番狂わせの方法4つ考案「ズバリ予想します」
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eeb0d573b7c0cc79911860d3d5be7c9b7d651b83>
@@ -378,6 +386,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537727>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/f60f2f63a89bd1f16159aa12b2d966ef75fc4fcbd50a905aecff0713a5b7af8a.jpg> 米の関税引き上げ 広い業種を直撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537716>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/16b6237d5457f8c656f8d70b2a17850587f255e5e12cf0f9fc9e6b7711267002.jpg> 知事20人 献金巡り団体ずさん処理
       </a>
@@ -386,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537727>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/f60f2f63a89bd1f16159aa12b2d966ef75fc4fcbd50a905aecff0713a5b7af8a.jpg> 米の関税引き上げ 広い業種を直撃
+      <a href=https://news.yahoo.co.jp/pickup/6537714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/03f35018a313b6b51b4c84700c57957dd11d6581f357106f61d71f198bdc27af.jpg> モルディブ大統領が約15時間会見
       </a>
     </td>
   </tr>
@@ -410,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537731>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 遊覧船が転覆し約20人不明か 中国
+      <a href=https://news.yahoo.co.jp/pickup/6537733>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/d07ec4ac002c43fb6acd1259ed27f69a662472964a946d79e3ad1cc9a57a57e7.jpg> 万博内のチェーン店 施策に格差?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/03f35018a313b6b51b4c84700c57957dd11d6581f357106f61d71f198bdc27af.jpg> モルディブ大統領が約15時間会見
+      <a href=https://news.yahoo.co.jp/pickup/6537732>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/9b20250fe04832f7b50f1aff2243e882ed0aca99917cf002eb7300c56210dd4e.jpg> 今永昇太が緊急降板 精密検査へ
       </a>
     </td>
   </tr>
@@ -432,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537688>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/200f6137b587d0abe15344c20c6f8ec4d78804aa1dab564c430ffdce9affa22b.jpg> 長澤まさみ 年齢関係なく敬語使う
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 07:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 07:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
