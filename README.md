@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/848b3adce94f9ea73ae99fe8fbb89f15.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0f154d270b69f3769244fc04281254ed.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/004c2a44af0e15a1fffcc2a22c3c152749122736>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176689-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=340&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 何を見てる？ 山本由伸、神投球で“打者に異変”「エグすぎる」「手が出ない」 動けなくなる… 究極コースを突いた“見逃し三振”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9b0f027a208a848a75332c2eda527cc343d8b84c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176697-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=693&ch=693&exp=10800&fmt=webp> 川崎市変死体事件 元交際相手を“死体遺棄”で逮捕
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/698e36145aa17e3245e4d9871dd0f89873af5594>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000004-saitama-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=590&ch=590&exp=10800&fmt=webp> 【速報】東北道で断続的に31キロの渋滞
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66b7aba9eb9c1d58dd253964714a2ad9222648bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176686-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 心を折った！ 山本由伸に“打者ドン引き”「お手上げ」「完全に詰んだｗ」 手が出せない魔球… ただ見送るだけの“見逃し三振”
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537622>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/2e4ef52ecb6f2df8d6b6b628594d4efab9e69d149fee6b4edaee18ea73d2330f.jpg> バフェット氏 投資会社CEO退任へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537628>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/4b14f20ca5537b73725ebd7f706c13df31bc043ea5df099a7d0074e5833a47e1.jpg> イスラエル ガザで作戦拡大決定か
       </a>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537622>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/2e4ef52ecb6f2df8d6b6b628594d4efab9e69d149fee6b4edaee18ea73d2330f.jpg> バフェット氏 投資会社CEO退任へ
+      <a href=https://news.yahoo.co.jp/pickup/6537637>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/1a139ff161e38a39008fac827159a85ee5c39ee703576b24a733cd2f0be3e37d.jpg> 4日は高速上下とも混雑 最大45km
       </a>
     </td>
   </tr>
@@ -442,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537624>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6a56e896491ffeadea58bba2b287baf46390fc3383f68c7091a03a01fbb37294.jpg> 選手ら涙 川崎FはACLE優勝ならず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537630>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/cd73f35351eadbf2c9f5a1632968d3e968f31f5210419c31feb4d9933bf424df.jpg> 福山雅治主演 ラストマン映画化
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 09:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 09:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
