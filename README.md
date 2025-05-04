@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8b3da88451d89274e9cc1c0c4c45f415.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f21b8637f5f0a46338a06fc69f0762f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5c2d904ecd0ad25e8536ea1eae6062f2092dac36>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000057-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=249&cy=0&cw=824&ch=824&exp=10800&fmt=webp> 現役フジテレビ社員・ウザ強ヨシヤ、2回KO負け　会社から戒告処分「白装束」で覚悟のリング…朝久泰央に沈められる【RIZIN男祭り】
+      <a href=https://news.yahoo.co.jp/articles/2b80e6aafa149af5e085d08ce29f27a104081b21>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176731-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 川崎市の女性遺体遺棄 警察が容疑者宅など3回確認
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/12f621d98bdd4328b46a6386113676b14de05b92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000016-gbr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=744&ch=744&exp=10800&fmt=webp> 【RIZIN】“現役フジ社員”ウザ強ヨシヤ、元K-1王者・朝久泰央のハイキックで壮絶KO負け！
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7606b32ccf2fd88c94dcc52ed56f323dd0a64763>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000031-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=274&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平の第4打席は見逃し三振　3打席前まで8号ソロ含む3安打　佐々木朗希はメジャー初勝利の権利
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c61e32caee14451daa03422a81a2913431325bbc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35040417-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 岸博幸氏、神奈川県警対応に怒り「『事件性ない』はあり得ない」川崎・女性遺体遺棄事件
       </a>
     </td>
   </tr>
@@ -402,24 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537662>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/8e8df57345775b16ab819cddd6702af6b8913605ea665963fa63eb8cfccc51bf.jpg> バフェット氏発表 株主10分総立ち
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537656>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/e2118c06955284bcc62118048fba3ee505dd2a17bcbcc45bfd2d0889e6d6a76d.jpg> 民家に遺体 行方不明後に7回聴取
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6243ca105e4858796bded2976e3ac98e376377fcc91722a0c2e4f6be147a7e37.jpg> 中国産「宇治抹茶」販売 老舗怒り
       </a>
     </td>
   </tr>
@@ -434,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537664>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/875e50676eb96bf3f97a64186c6e901cf55c191b1f262221251030a9ebb7d791.jpg> 社長は中学3年生 アイデア絶えず
+      <a href=https://news.yahoo.co.jp/pickup/6537665>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6243ca105e4858796bded2976e3ac98e376377fcc91722a0c2e4f6be147a7e37.jpg> 中国産「宇治抹茶」販売 老舗怒り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b03b0eb18bdc8952eb794a3fb2072620cf661bac1751330670dacae774d0c4cc.jpg> ドラマロケ地 喫茶店は7時間待ち
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537673>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/4e06ddae07df685da65238da97aa783df65a753d76f486785e8b934d4dd6a763.jpg> RIZIN無許可出場 フジ社員敗れる
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 15:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 15:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
