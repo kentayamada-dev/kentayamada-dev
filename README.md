@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/89f762028475ef3227d761ce684b6e72.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c7f043f4be4f68044e65df3364f40af0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4a1d12bf40563ca26c20b3ae20dc5e4c669b05d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000177-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1262&ch=1262&exp=10800&fmt=webp> 劇的復活の朝倉未来　平本蓮との再戦にも意欲「もちろんある。ボコボコにしたい」
+      <a href=https://news.yahoo.co.jp/articles/f40b78a6cf983adf2c632b7c3f77a581088e2551>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00078830-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=752&ch=752&exp=10800&fmt=webp> 「インフルで寝ていた」川崎ストーカー殺人 白井秀征容疑者が遺族に語っていた仰天アリバイ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/22c78ed94225627642d9575901a313b33001c202>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000111-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1435&ch=1435&exp=10800&fmt=webp> ルーマニア大統領選始まる　泡沫候補首位、無効宣言で再実施
       </a>
     </td>
   </tr>
@@ -371,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c95c719926f87d67a685f6cd86eb9121bc1eb185>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00010002-tvkv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 川崎女性遺体遺棄事件　県警「ストーカー被害相談を受けた認識ない」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537700>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/2f0b20981b79ac5cff84cdf99fc0970d10f1f70c9449f826fd2f367cb06a5da3.jpg> 高速道路 早くもUターンラッシュ
+      <a href=https://news.yahoo.co.jp/pickup/6537695>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/cf4fa8eae2184729ecbd3d7bafee6176859763ab3e4f8b7ad1252b0e8caa14a3.jpg> 習氏が7日訪露 プーチン氏と会談
       </a>
     </td>
   </tr>
@@ -402,24 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537702>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/a3d5ca43f8ef5fa14f4f6ae2a50985b38a9082d2d15fed14248c24757c93dff2.jpg> バスなど3台絡む事故 12人けが
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537689>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/e11c47b55d21d535835728f6199e299ea09d6c13a54db79980856575dee323f6.jpg> 割安な輸入米 外食で導入広がる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537709>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6503596c62551a50c3c2e2d89a9651077b5f48a3fbd8589211392366e8b93877.jpg> 昼食10分「万博遠足」に教員悲鳴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537713>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/edfadeaf1e57cd7fb8739cbb172f3f8dfd0649c8a76da744707a970189c13ba7.jpg> 上げ馬神事 虐待批判受け新対策も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537714>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/03f35018a313b6b51b4c84700c57957dd11d6581f357106f61d71f198bdc27af.jpg> モルディブ大統領が約15時間会見
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 21:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 21:30:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
