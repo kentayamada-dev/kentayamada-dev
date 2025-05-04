@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c252accb20111b004fceffabac6b7217.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6ef00e1cef03556eb6775c8267d565a8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b02e58da69ea845b7fc32c311797fe76753bcfdf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00531883-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 井上尚弥戦、ChatGPTに勝敗を聞いた結果…カルデナス番狂わせの方法4つ考案「ズバリ予想します」
+      <a href=https://news.yahoo.co.jp/articles/35820f4159409affa20a74cce91adfa994e64ef4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-10176765-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> どれだけ伸びるんだ！ 大谷翔平、35度ハイアングル弾に外野手が驚き…フェンス際で急加速→スタンドインの衝撃シーン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eeb0d573b7c0cc79911860d3d5be7c9b7d651b83>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-10176763-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=580&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> こんなに喜ぶ大谷翔平は珍しい！？ 会心8号弾→ロハスと“大はしゃぎ” ベンチで「ニコ谷」3戦ぶりアーチ直後に捉えた一幕
+      <a href=https://news.yahoo.co.jp/articles/2da6bff2a31c789108642a680f3effc270467dfd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000156-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=857&ch=857&exp=10800&fmt=webp> ボクシング　井上尚弥、ファン殺到！前日計量クリア「最高の仕上がり」　ベガス決戦5日ゴング
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf91860fa3489ee0b917a879b1908473a0d90b6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000009-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=920&ch=920&exp=10800&fmt=webp> 中日・上林誠知、キラリと輝く今季2度目の1試合3安打　現在チーム4冠！高まる存在感「いいアプローチができている」
+      <a href=https://news.yahoo.co.jp/articles/d358fb07a440fc96f3a54284b04dbcecddf74043>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000152-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 阪神・森下翔太、今季甲子園初アーチを含む2安打でセ・リーグ首位打者に　首位奪取弾も頼んだ！！
       </a>
     </td>
   </tr>
@@ -394,16 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537716>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/16b6237d5457f8c656f8d70b2a17850587f255e5e12cf0f9fc9e6b7711267002.jpg> 知事20人 献金巡り団体ずさん処理
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/03f35018a313b6b51b4c84700c57957dd11d6581f357106f61d71f198bdc27af.jpg> モルディブ大統領が約15時間会見
+      <a href=https://news.yahoo.co.jp/pickup/6537737>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/375e70fe8e3c947ea651ae0c9fc5d609c6348e10379c9435a2438c7d41419848.jpg> 中国で遊覧船2隻が転覆 3人死亡
       </a>
     </td>
   </tr>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537718>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6cfa64e170fefb5a4fe48eb9e11c07933ef7d32c7af5b183649a450e44388310.jpg> 仲裁のタクシー運転手重傷 客逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6537735>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/45fbef783dee6a11086dc685453c6f9b2695d5ae02ad82b6379a7654765fae6a.jpg> 温泉街の老舗旅館で火事 客は避難
       </a>
     </td>
   </tr>
@@ -434,16 +426,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537732>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/9b20250fe04832f7b50f1aff2243e882ed0aca99917cf002eb7300c56210dd4e.jpg> 今永昇太が緊急降板 精密検査へ
+      <a href=https://news.yahoo.co.jp/pickup/6537736>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/8033eb3553d8223795469dbc3ac8b28d7958edc72f149848e1a61eeee194478c.jpg> 車の左側をバイクすり抜け 違反?
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537723>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b69bb743cd98ddc04d0fc184b30bbd4dd5083f925f850f34cb8efc7acbc0ba5e.jpg> 井川遥 今夏でブランド休止を発表
+      <a href=https://news.yahoo.co.jp/pickup/6537740>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/e96b9dcd75170e4955010f4cb61b341e36ce96722d8f8d6fdcc64f3fc2965969.jpg> 尚弥のため朝2時起き 米国人一家
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537732>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/9b20250fe04832f7b50f1aff2243e882ed0aca99917cf002eb7300c56210dd4e.jpg> 今永昇太が緊急降板 精密検査へ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 07:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 08:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
