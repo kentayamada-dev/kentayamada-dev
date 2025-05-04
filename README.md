@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6d22aec61da1c7838ae463f6711d94f5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dacd0d766e41b6ce8bc2cc81fb82e7c2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a096adf1fbc28b75feae051c7bf13a08aec4068a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000022-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=66&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平がバックスクリーンに8号ソロ　午後10時21分開始の深夜ゲームで佐々木朗希を強力援護
+      <a href=https://news.yahoo.co.jp/articles/bcc4968f2b2c6b380315fcf1637a5b5a322e9c85>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000024-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=147&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 大谷翔平は四回に強烈中前打放ち早くも猛打賞　三回には3試合ぶり一発となる8号をバックスクリーンへ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/01a8e18220c70db5be332e3f4037b496dfaf2d9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000007-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=79&cy=0&cw=482&ch=482&exp=10800&fmt=webp> 「事件性なしとされた」「ストーカー相談の認識なかった」　川崎・女性遺体遺棄で食い違う家族と警察の説明
+      <a href=https://news.yahoo.co.jp/articles/c61e32caee14451daa03422a81a2913431325bbc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35040417-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 岸博幸氏、神奈川県警対応に怒り「『事件性ない』はあり得ない」川崎・女性遺体遺棄事件
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537633>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/1cdcadc636d0342ab176faf322da18e5e2ae1b6140c971e28cd672279d03f5a7.jpg> 首相6日までホテル滞在 気分転換
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537647>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/5dc186194d6bd3425500405c5f558e8a9b67b52e588d2cf2d22fe9744acd666b.jpg> 二度と盗撮しない 誓った翌月再犯
       </a>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537664>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/875e50676eb96bf3f97a64186c6e901cf55c191b1f262221251030a9ebb7d791.jpg> 社長は中学3年生 アイデア絶えず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537659>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/1b02b587f4d9a79547f5298a147132beb97fa5cf9ef235695ef2790bdb333684.jpg> 大谷3戦ぶり8号 先発の朗希を援護
       </a>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 12:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 13:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
