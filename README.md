@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/95511370c4795434f6c754bf0f4af166.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a40ec7b26fb46d2f692ed5a60c7bbb68.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed071d8c1d8f6381d58606895c07912b79186738>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 自宅以外で燃やされたか　川崎の元交際相手遺体遺棄事件　神奈川県警
+      <a href=https://news.yahoo.co.jp/articles/c95c719926f87d67a685f6cd86eb9121bc1eb185>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00010002-tvkv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 川崎女性遺体遺棄事件　県警「ストーカー被害相談を受けた認識ない」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a8fbc99b97dc7072abcfdde6a8901c81ffb6e4a2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000086-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=932&ch=932&exp=10800&fmt=webp> 渋野日向子は7位から62位に急降下　「最後までどうしていいか分からない感じだった」／米女子ゴルフ
+      <a href=https://news.yahoo.co.jp/articles/12dbeabd2204a9393de679a8e8520ab686599321>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00343396-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=256&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【広島】新井監督が〝愛のムチ〟 小園海斗をスタメンから除外「弱い姿を見せたら外すよって」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a6428737728800c65909981b605fb2fcd4e6588>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000042-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=118&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平 3試合ぶり8号ソロHR　佐々木朗希メジャー初勝利
+      <a href=https://news.yahoo.co.jp/articles/13759a10de38f9b5e6cd0f6d262c756f6389532c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35041500-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=998&ch=998&exp=10800&fmt=webp> 大谷翔平、８号含む３安打１打点で佐々木朗希援護　キャンプ前にサポート役宣言の有言実行
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537691>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/636a6c81b01183333ab4a5bb99c4dbc2fcca106ef30a733b39afb7aa3abe09e7.jpg> シェル 石油大手BP買収を検討か
+      <a href=https://news.yahoo.co.jp/pickup/6537696>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/c6199af9f2ddf83dc63fc84b73bc8282b35e3fb68a9f09e76320e24221159e46.jpg> 首相の会食相手 目立つ「身内」
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537670>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/c49a91eb184a34bdd806195907bc35841539ce9595f1212d69e89ac8c7d6e671.jpg> 合鍵の作成防止にカバー 注意喚起
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537674>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b03b0eb18bdc8952eb794a3fb2072620cf661bac1751330670dacae774d0c4cc.jpg> ドラマロケ地 喫茶店は7時間待ち
       </a>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537701>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/c331effaaf6440b1bf5217bd3a875cef14854966bf7fd664c9539b8a242353b9.jpg> 角田夏実が子供に指導 もみくちゃ
+      <a href=https://news.yahoo.co.jp/pickup/6537707>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/cfff6d148033b3b759f0a742063040d10a23ffb9ca5561acf6246008aac26989.jpg> カープ監督 小園欠場の理由説明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537704>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/8b5366e6f50ad5f754818e508fe7f6e8e5d5343b732bad8bd75d90d3caa43766.jpg> 主審倒れ選手が笛吹く プレミアL
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 19:31:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 20:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
