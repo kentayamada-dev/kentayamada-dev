@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c36903525202995df5c8fc181d713b9b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/43f0f6ca7b09eee1129e3ea6a400878a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c25de7b6edf4830b28261b90d15999f44a64e40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000141-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1008&ch=1008&exp=10800&fmt=webp> 【RIZIN男祭り】朝倉未来、現役復帰戦での勝利をインスタで報告「戻ってきた」にファン歓喜「信じて待ってた」「感動と勇気をありがとう」
+      <a href=https://news.yahoo.co.jp/articles/3128590265f8b72db0cee0afab1029be3ccaa7d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00010008-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=357&cy=0&cw=1486&ch=1486&exp=10800&fmt=webp> 大谷翔平 ブルペン35球もスライダーはまだ解禁NG ロバーツ監督「肘への負担が大きい。チームドクターが慎重になっている」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/901103ca83ddd3537b2ef1332012b921e5109012>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176762-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> 「あれだけ打ち上がってスタンドインとは」大谷翔平、高角度8号弾に投手が呆然 打球を見上げ“思わず後退り”…驚きの声
+      <a href=https://news.yahoo.co.jp/articles/f58895f6185877066230d4c53661b85fcb739896>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35041944-nksports-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1278&ch=1278&exp=10800&fmt=webp> 【阪神】一時同点ソロ森下翔太、打率リーグトップ浮上で２冠「１打席１打席…」虎戦士５部門１位
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537715>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/272210ac2c4362d2d5f4bd40f5f5e6ec09e82f5b8d8b52da720737370ef5cd01.jpg> ルーマニアでやり直し大統領選挙
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537714>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/03f35018a313b6b51b4c84700c57957dd11d6581f357106f61d71f198bdc27af.jpg> モルディブ大統領が約15時間会見
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537706>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/576163172867975e30febc38a01642429cb92b465888d42bddd050e08a349439.jpg> コナン誕生日「聖地」に人人人
+      <a href=https://news.yahoo.co.jp/pickup/6537730>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/7240dab629f0c2772f8ad978491c936838c2940561ff346ed0eb4f27f5f8c514.jpg> 大坂なおみ 産後初のタイトル獲得
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/200f6137b587d0abe15344c20c6f8ec4d78804aa1dab564c430ffdce9affa22b.jpg> 長澤まさみ 年齢関係なく敬語使う
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 23:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 23:30:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
