@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f39a3954af0630fdab9e3d3f40af6dfb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a90b0f541eb2a1219134d7dd8d5bd69a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/215ffa594b71734e1c7d6fa32fc5b7b3944feef3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35041045-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=96&cw=561&ch=561&exp=10800&fmt=webp> 太田光、神奈川県警対応に言及「窓ガラスが割られたらすでに『事件』」川崎・女性遺体遺棄めぐり
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/49e203d79f1d1362132e7c1a0e8cd1a951807055>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00791625-encount-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【RIZIN】桜庭ジュニア・大世、プロ2戦目は一本負けで涙　キャリア60戦以上のベテランの腕十字にたまらずタップ
       </a>
@@ -365,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22f2f95766ed1a18b7e5b2a4f0bc0cd678455b66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35040703-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「恥を知れ」神奈川県警Ｘに批判コメント殺到　川崎死体遺棄事件で説明求める声　抗議動画も拡散
+      <a href=https://news.yahoo.co.jp/articles/ead23b87f68e42625fe8e725be43564a5521fd3b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000017-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=639&ch=639&exp=10800&fmt=webp> バチカンでトランプ氏と防空や制裁を協議、30日停戦要求＝ゼレンスキー氏
       </a>
     </td>
   </tr>
@@ -386,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/79aadfd28044f97d33a2be85a1181bc6032c67a775ea3a771aa68863220fb994.jpg> 領空侵犯 中国が日本側に逆に抗議
+      <a href=https://news.yahoo.co.jp/pickup/6537680>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/83fb3ac372cd6a3c64cee95bd7df6d8756f3ec8dc1e2bb138e8aad25749d492d.jpg> 国防総省会見 トランプ政権で激減
       </a>
     </td>
   </tr>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537666>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/5c5b1ebf84551a1fe0b72facfa2ba3d84d1cc74ad953e5b068302eca2ed115bc.jpg> 浜松4人死傷 遺族に謝罪なく怒り
+      <a href=https://news.yahoo.co.jp/pickup/6537684>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d6ee31b0799426c44887404f8a37caa426f1108cb0d2178786023fb4ef50feb0.jpg> 海に転落か 釣り出かけた男性死亡
       </a>
     </td>
   </tr>
@@ -418,24 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537665>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/6243ca105e4858796bded2976e3ac98e376377fcc91722a0c2e4f6be147a7e37.jpg> 中国産「宇治抹茶」販売 老舗怒り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537668>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/e2cb492e83f9809d3cac49dc2736d2e27b1da7e425460d823b2ea45cefb9ab7d.jpg> コメ高騰 ジャンボタニシに警戒感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537674>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b03b0eb18bdc8952eb794a3fb2072620cf661bac1751330670dacae774d0c4cc.jpg> ドラマロケ地 喫茶店は7時間待ち
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537681>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/c4fbc060a3b3b5b66d25f801fa1f6394756ddab056eb2ae9410721360d7a81ca.jpg> 朗希のメジャー初勝利 大谷が祝福
       </a>
     </td>
   </tr>
@@ -448,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537683>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/200f6137b587d0abe15344c20c6f8ec4d78804aa1dab564c430ffdce9affa22b.jpg> 長澤まさみ ChatGPTで語学勉強
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 16:30:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 17:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
