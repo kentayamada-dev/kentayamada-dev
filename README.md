@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/26721533713da02c597eb7761debcfa0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c36903525202995df5c8fc181d713b9b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f692eb0906f92be95a558e4f4d10108b9ac45fdb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-01169342-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=756&ch=756&exp=10800&fmt=webp> 川崎　住宅遺体事件　容疑者の男、逮捕前にストーカー行為を警察に認める
+      <a href=https://news.yahoo.co.jp/articles/1c25de7b6edf4830b28261b90d15999f44a64e40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000141-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1008&ch=1008&exp=10800&fmt=webp> 【RIZIN男祭り】朝倉未来、現役復帰戦での勝利をインスタで報告「戻ってきた」にファン歓喜「信じて待ってた」「感動と勇気をありがとう」
       </a>
     </td>
   </tr>
@@ -367,14 +367,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/901103ca83ddd3537b2ef1332012b921e5109012>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-10176762-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=239&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> 「あれだけ打ち上がってスタンドインとは」大谷翔平、高角度8号弾に投手が呆然 打球を見上げ“思わず後退り”…驚きの声
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f76d14ef8e9473fdeb5849852bde3039f96f49e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-09747271-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米政府高官らと面会　拉致被害者家族が帰国「今こそ覚悟が試されている」　政府に改めて対応求める
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537711>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/64572df791999c6d77072763a4dd386d1da30ca14e28636542b015faa920c949.jpg> 「玉木首相論」本人に聞いてみた
+      <a href=https://news.yahoo.co.jp/pickup/6537727>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/f60f2f63a89bd1f16159aa12b2d966ef75fc4fcbd50a905aecff0713a5b7af8a.jpg> 米の関税引き上げ 広い業種を直撃
       </a>
     </td>
   </tr>
@@ -418,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537715>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/272210ac2c4362d2d5f4bd40f5f5e6ec09e82f5b8d8b52da720737370ef5cd01.jpg> ルーマニアでやり直し大統領選挙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537714>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/03f35018a313b6b51b4c84700c57957dd11d6581f357106f61d71f198bdc27af.jpg> モルディブ大統領が約15時間会見
       </a>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537722>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/3b05c6ad8452955e07937a73ce1982ca01abf7f44ca0e0b745abb48f5d9e6540.jpg> 45歳の燕・石川が勝利 監督は絶賛
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537723>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b69bb743cd98ddc04d0fc184b30bbd4dd5083f925f850f34cb8efc7acbc0ba5e.jpg> 井川遥 今夏でブランド休止を発表
       </a>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 22:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 23:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
