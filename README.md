@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/683d2cfc5c4712f90b205a6b442822dc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/593bb61e305f97d4ddd6e4b9510e2403.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -387,23 +387,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537667>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/c0e501f7c52dba7f84ba3f81c3b9a5b11dbdd613731434a4e66831d5a07c8129.jpg> 領空侵犯 中国が日本側に逆に抗議
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/79aadfd28044f97d33a2be85a1181bc6032c67a775ea3a771aa68863220fb994.jpg> 領空侵犯 中国が日本側に逆に抗議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537631>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/f93612dfb6f6172de383e9fcaf7d5c41959e47e6c9fd58023719f6a31adf08ed.jpg> ウ北東部を「安全地域」に 露発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537660>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d93f8a1119410d00ba37c837ca7e8d5a8a16b4b39725c945002cb2d99d505340.jpg> 消費減税は課題山積 首相どう対応
+      <a href=https://news.yahoo.co.jp/pickup/6537649>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/c9bc73902b85910d5c9eca21bc289ed2340a10767651455f26cfe3c58a931e6d.jpg> 無人艇で露戦闘機を撃墜 ウが主張
       </a>
     </td>
   </tr>
@@ -418,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537656>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/e2118c06955284bcc62118048fba3ee505dd2a17bcbcc45bfd2d0889e6d6a76d.jpg> 民家に遺体 行方不明後に7回聴取
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537646>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/d5272b9d4e3e5a0697a84894ebf587e962f26a9475070be696630fc968da020c.jpg> 津軽地方で地鳴りとの声 原因不明
       </a>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537661>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/1f31bebe5f49f762c34bca2dce50e6e0cd354bea3c119e1150bbd06ffa40a403.jpg> おむつなし育児に賛否 医師見解
+      <a href=https://news.yahoo.co.jp/pickup/6537654>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/7f41f0f9b41d963cf15655853e4c56f3aa832aff995601970f58d5f4f43e466b.jpg> 万博の攻略法 予約は?持ち物は?
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 14:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 14:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
