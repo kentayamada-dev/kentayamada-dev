@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a90b0f541eb2a1219134d7dd8d5bd69a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2320390176b31ee14b5389b5ae44f645.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/215ffa594b71734e1c7d6fa32fc5b7b3944feef3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-35041045-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=96&cw=561&ch=561&exp=10800&fmt=webp> 太田光、神奈川県警対応に言及「窓ガラスが割られたらすでに『事件』」川崎・女性遺体遺棄めぐり
+      <a href=https://news.yahoo.co.jp/articles/c9f1e813fc4a672307437ce50f928ea916fa8e8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000031-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=563&ch=563&exp=10800&fmt=webp> 川崎　元交際女性の遺体　自宅外で焼いたか　現場の民家に焼損跡なし
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537676>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/924dbce1a74f62c5774df9687e813653f38680836880d8f0ccbbca76d356dd8e.jpg> 風力発電の羽根落下 住民に不安
+      <a href=https://news.yahoo.co.jp/pickup/6537674>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b03b0eb18bdc8952eb794a3fb2072620cf661bac1751330670dacae774d0c4cc.jpg> ドラマロケ地 喫茶店は7時間待ち
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537674>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/b03b0eb18bdc8952eb794a3fb2072620cf661bac1751330670dacae774d0c4cc.jpg> ドラマロケ地 喫茶店は7時間待ち
+      <a href=https://news.yahoo.co.jp/pickup/6537686>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「ヘビ真菌症」野生で国内初確認
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537683>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/200f6137b587d0abe15344c20c6f8ec4d78804aa1dab564c430ffdce9affa22b.jpg> 長澤まさみ ChatGPTで語学勉強
+      <a href=https://news.yahoo.co.jp/pickup/6537688>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/4/200f6137b587d0abe15344c20c6f8ec4d78804aa1dab564c430ffdce9affa22b.jpg> 長澤まさみ 年齢関係なく敬語使う
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/04 17:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/04 17:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
