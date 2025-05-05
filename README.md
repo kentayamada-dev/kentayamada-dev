@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0825d4f35975a78012c59ea019764a05.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/36d3fa3b52fa459bd682274e497eb261.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec47a9a6ce37f371ecd3deb61d004d14588a97a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-21895944-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=433&ch=433&exp=10800&fmt=webp> 「100メートルほど滑落」と救助要請　長野・戸隠山で埼玉の男性が遭難
+      <a href=https://news.yahoo.co.jp/articles/ea64ee2d230b8b9ff3ec336ee44afb3874d863ae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-90023105-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 「登山道から100メートルほど滑落した」と救助要請　戸隠山で埼玉県の49歳男性が遭難　警察などが男性と接触、同行下山へ　けがの程度は確認中
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537825>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/1fead1f781ea08fdfee5583c6930b063fef107a7e29556733456f01743e22121.jpg> 土手で55歳死亡 殺人未遂疑い逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537821>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/1257cccb9b3a72a406fbfcc3cfd2cbd23c4afe4a0aca901230572e983ce3252a.jpg> 陶器まつりの幕撤去中に転落 死亡
       </a>
@@ -426,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537830>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/aa295766cb8508d865ccdc2df85c356c53619993d282e1e470d6bf1804404135.jpg> 北アルプスなど 遭難が6件相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6537831>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/eb7ed2f2df582e937ecc7e1f72f61470a5138309c013af462f61eda2b04aa26a.jpg> 福岡→万博 600km歩く81歳の挑戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537806>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/7e8708bf3d8db1ffa2729aa81147b03804eb0f020bd3197f7d260e25d88fb799.jpg> 石田純一&東尾理子の長男が始球式
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 23:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 23:51:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
