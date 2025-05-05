@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a85e534b53a2fed5a323abee7a642db2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/464c90ce7c0e210f6821cd0bebc3ed19.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d358fb07a440fc96f3a54284b04dbcecddf74043>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000152-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 阪神・森下翔太、今季甲子園初アーチを含む2安打でセ・リーグ首位打者に　首位奪取弾も頼んだ！！
+      <a href=https://news.yahoo.co.jp/articles/1e57e2597bfce68cf909682fd29bd7e1021d03c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000000-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> フーシ派、イスラエル空港を攻撃 ネタニヤフ首相が報復宣言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8373b3f093bd2a624ae33028874416b52375008>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00544903-norimono-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 地獄の「カンヅメ渋滞」多発！ Uターンラッシュ本格化 最大40km【5月5日の渋滞予測】
+      <a href=https://news.yahoo.co.jp/articles/d358fb07a440fc96f3a54284b04dbcecddf74043>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000152-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 阪神・森下翔太、今季甲子園初アーチを含む2安打でセ・リーグ首位打者に　首位奪取弾も頼んだ！！
       </a>
     </td>
   </tr>
@@ -384,6 +384,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537751>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/80d4da51614ed7843c73519ba26964c4c5593bb301d1629cdbe844e2a8cc46bc.jpg> Uターン本格化 最大40km渋滞予測
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537741>
@@ -410,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537748>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/4c9648d4e8061602d7de13691db3902445f3a9ccc58200a7098be35a5aab258a.jpg> ガガさんのリオ公演 爆破計画未遂
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537736>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/8033eb3553d8223795469dbc3ac8b28d7958edc72f149848e1a61eeee194478c.jpg> 車の左側をバイクすり抜け 違反?
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537750>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/2bb0927631df50e29cf4866ded45a72b5398222dc66fbb01d69fa4aee8351d8e.jpg> 菓子の映画化 ギンビス社長は即決
+      <a href=https://news.yahoo.co.jp/pickup/6537747>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/5c7698262c28e426ee85fbfdbff41a18b7a946adcd8207c1fc2c0eca2411854b.jpg> ファミマ 海苔なしおむすび拡大
       </a>
     </td>
   </tr>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537745>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/0dda2453fc47c1006560a3f36ce87bad4bd9bce939a6c39fa91458ebdeb1dbda.jpg> 丸山礼 ウィキペディアを母が編集
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 09:00:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 09:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
