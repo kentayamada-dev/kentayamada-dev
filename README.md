@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dd0e2e0790a9f3d15d127aed77dc0355.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/03f475f9bd977a5bd37dc55ba2fd28bf.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1dfad95e05f8979470e8b90ee0ac545f37574ecd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 横須賀の多重事故、同乗男性立ち去る
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cf7f4c67f3dbb6c0e07269dec93941d5fae04c84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00010006-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=1918&ch=1918&exp=10800&fmt=webp> 大坂なおみ 初戦は主催者推薦の38歳に決定、7日開幕のBNLイタリア国際 組合せ発表＜女子テニス＞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2d7d9f4f50234677a064561c4601d6eb14395ed8>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000344-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=799&ch=799&exp=10800&fmt=webp> トランプ米大統領、外国製作映画に100％関税表明　ネット「暴論すぎる」「失敗する」「衰退に拍車」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f0bd4868f3c09fbc9916192a698e5fdb7aab6f33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-07234673-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> 酒気帯び運転の車による8台絡む事故で大阪市の自称会社員の男（31）を逮捕　基準値の約3倍のアルコールを検出　8人軽傷で危険運転傷害の疑いも視野に捜査
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/26f6abd2b080ceeeff4f103020aa22cf89e6824d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-07234662-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「船が…」中国の観光地で遊覧船が転覆、84人が川に投げ出され…10人死亡
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537814>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/dd9d598c703f288818aee738a54729f2371abc46a0570c82dae85ba2e495d083.jpg> GW最終日 西・東日本は広く雨か
+      <a href=https://news.yahoo.co.jp/pickup/6537822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/1e442c41cba497e6b4c1db361b8ffb53b228eeb11181de06c08d5d167517f391.jpg> 玉木氏 消費税の一律減税を強調
       </a>
     </td>
   </tr>
@@ -410,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537825>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/1fead1f781ea08fdfee5583c6930b063fef107a7e29556733456f01743e22121.jpg> 土手で55歳死亡 殺人未遂疑い逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537820>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/5d19452253eb2e0ac274022f05772b22637e1a227c9b90b33291a5a44fbc512f.jpg> 横須賀の多重事故 同乗者逃走
       </a>
@@ -420,14 +428,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537821>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/1257cccb9b3a72a406fbfcc3cfd2cbd23c4afe4a0aca901230572e983ce3252a.jpg> 陶器まつりの幕撤去中に転落 死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537802>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/102a23f5d380addacb3c1527d2ea138ded8833d0da6da17352b570f6ef3a3552.jpg> オリ山岡泰輔が1軍合流 自粛明け
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 22:00:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 22:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
