@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8a6e0439b04e7a8d76307bd78851d051.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/07006c873b0a93fc3895870af26f90d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f04a07149d8df48e44df2e42ad7bd4dd003edbf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-35050687-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=99&cw=811&ch=811&exp=10800&fmt=webp> access貴水博之「観ててメチャカラダにチカラ入って」ボクシング井上尚弥を祝福
+      <a href=https://news.yahoo.co.jp/articles/75ce869dad157c3a8158999d417b6a71d2403520>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-10176859-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=986&ch=986&exp=10800&fmt=webp> トランプ氏、全ての“外国製作”映画に100％の関税課す方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/07a1a4288afe33e43ad97d3c41a29e6fea14cb84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00343473-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 井上尚弥に大善戦のカルデナス　村田諒太氏が絶賛「気概が見えた。ピカソは話にならない」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/67565411a3ad2465af4f68096075d3c104b6763f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国・貴州省の川で遊覧船4隻転覆　10人死亡
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1049aae0974568e597b2dc772933471dd777501b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-11638342-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 新教皇を選ぶ秘密投票「コンクラーベ」 7日に開始【分かりやすく説明】 映画『教皇選挙』日本でもヒット
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4aea68dc61b0970b234ae3e260a1ea50c2b59e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-07234541-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 遊覧船転覆　9人死亡 1人行方不明　中国南部・貴州省の川で84人が投げ出される　大雨影響の可能性
       </a>
     </td>
   </tr>
@@ -402,6 +410,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537780>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02197389/title-1746405213181.jpeg?exp=10800> 7日は広く黄砂飛来見通し 注意点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537764>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/84f89d6b895e26590da32a317ee5e3e213cbdc69ad68d22d023deb0fc1e89edf.jpg> 兵庫県政に今も火種 職員の危機感
       </a>
@@ -418,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537769>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/9e2ede0bd4dd2ff0e83bf0274ecd6a238f06ccb28ebfb6ddae67b9a9bf36de4b.jpg> 店員なし「無人カフェ」人気拡大
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537775>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/27510ba3e4de10663c864da1ea724b58f9a5c16b48068112fd585632da2bfa1a.jpg> 尚弥TKO勝ち 世界戦KO数最多に
+      <a href=https://news.yahoo.co.jp/pickup/6537784>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/7bef083163aec62b1e92e33f41d5305b13f7aab07a596dd5898e24e6bcbb0137.jpg> 尚弥に伏兵 カルデナスに拍手の嵐
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 15:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 15:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
