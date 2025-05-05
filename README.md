@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6d7fa4fcfac6eb5bd51f5dda87bb3ba2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/20789c3bbd69990cc22b8781ca08fd1c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c359d70f9e25e360691ae93130b7aeeb40fc45ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00010002-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1463&ch=1463&exp=10800&fmt=webp> 大坂なおみ 前週Vで世界48位に浮上、苦手クレー克服で全仏OPに弾み＜女子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/febf8e67daa45501ee7bb057a935ab657b2d56ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00096063-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=956&ch=956&exp=10800&fmt=webp> 「一番苦手だと思っていたサーフェスでトロフィーを勝ち取れるなんて…」大坂なおみが下部ツアーで産後初の優勝を飾る＜SMASH＞
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e371bd53d658ea062521b5e0593081fd8365331>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000018-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=814&ch=814&exp=10800&fmt=webp> 大谷翔平、大飛球もひと伸び足りず…「あがりすぎたかー」ネットもため息、３打席目までヒットなし
+      <a href=https://news.yahoo.co.jp/articles/03fd9a70e1b903fa6fae5e5c045d5f945cda9ae4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000020-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、痛烈ライナー二塁打で２戦連続安打 続くベッツが倒れドジャース追い上げならず
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537749>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/67fa151b5f1bc3e3b4d6573287e4a15a8a5c4f6d4dafae662dbe28ed45fcefca.jpg> コンクラーベ前哨戦 注目候補次々
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/45fbef783dee6a11086dc685453c6f9b2695d5ae02ad82b6379a7654765fae6a.jpg> 温泉街の老舗旅館で火事 客は避難
+      <a href=https://news.yahoo.co.jp/pickup/6537760>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/2efb59ccd6402f0daad5f3b80933ed65c51bcf845e0ae9a1bc5a4e6183a6e97c.jpg> TX 社員の弔慰金を一律200万円に
       </a>
     </td>
   </tr>
@@ -434,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537761>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/bb02371b23dcf216664726eb10434cb146d92ade2cea810c8d6d569eefafe21f.jpg> 7歳が防災士に 4回不合格も諦めず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537753>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/24cd09c8d4300d87ce03717a0b8d1812977d21dafaeaf84b83e97227862425c0.jpg> フジ社員TKO負け なぜRIZIN挑戦
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537745>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/0dda2453fc47c1006560a3f36ce87bad4bd9bce939a6c39fa91458ebdeb1dbda.jpg> 丸山礼 ウィキペディアを母が編集
+      <a href=https://news.yahoo.co.jp/pickup/6537755>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/e0527a74b7dd81361943ed68d2a8db6951908f2c239d9060e734da5fe2c7bf7f.jpg> 鈴木えみ SNS時代も揺るがぬ信念
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 10:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 10:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
