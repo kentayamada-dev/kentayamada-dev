@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/927cb24a7a6f67f45095c64f27ea57fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dd10384d6f6693f6c72899624ca6334b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea651951a119437331147a7c11a17bea143954d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35051911-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=1327&ch=1327&exp=10800&fmt=webp> 【阪神】孝行息子・森下翔太「こどもの日」に４安打４打点１本塁打　今季４本塁打すべて両親観戦時
+      <a href=https://news.yahoo.co.jp/articles/85007edf91c0224f70d852f1b5433870cb577ee9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234720-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=817&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米ピュリツァー賞　トランプ氏暗殺未遂時を撮影のNYTカメラマンらが受賞
       </a>
     </td>
   </tr>
@@ -379,14 +379,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/facf80842f7918517915294461b4c663ad8bfe64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-05061007-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=974&ch=974&exp=10800&fmt=webp> カブス・今永昇太、「左太もも裏の張り」で１５日間の負傷者リスト入り　球団が発表…米２年目で自身初
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537832>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/fdfe66740d529d917c0292a5904079b5f3fce477c64d767bcaa588e669609a97.jpg> 配車アプリの手数料規制へ 国交省
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/047c68bcff86c2ba0881d0ebd13d74566af364001aa3982d84e20d0d7c935b19.jpg> トランプ政権 相互関税の撤廃拒否
+      <a href=https://news.yahoo.co.jp/pickup/6537835>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/14aebc2144cfd9ac8dbca5f44193eb0e2fff111fed045033f7edcb9af0d6e1db.jpg> GW最終日は雨予報 雷雨にも注意
       </a>
     </td>
   </tr>
@@ -418,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537811>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/9a5babdf499fe4525510a85b10c195175a2efea35793492333cff7164f14eb7b.jpg> コンクラーベ 真偽不明の情報戦
+      <a href=https://news.yahoo.co.jp/pickup/6537828>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/047c68bcff86c2ba0881d0ebd13d74566af364001aa3982d84e20d0d7c935b19.jpg> トランプ政権 相互関税の撤廃拒否
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537821>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/1257cccb9b3a72a406fbfcc3cfd2cbd23c4afe4a0aca901230572e983ce3252a.jpg> 陶器まつりの幕撤去中に転落 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6537832>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/fdfe66740d529d917c0292a5904079b5f3fce477c64d767bcaa588e669609a97.jpg> 配車アプリの手数料規制へ 国交省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537839>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/0ec9c86ff2e008a3d9ed2aa47b189c7e154d4fa20c4d9982ba25aa6a02dc7d10.jpg> JR西株を1億円分保有 市の狙い
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 07:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 08:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
