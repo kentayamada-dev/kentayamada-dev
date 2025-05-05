@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/03f475f9bd977a5bd37dc55ba2fd28bf.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7bd348ff3b4256af807db1eccfbcc80b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1dfad95e05f8979470e8b90ee0ac545f37574ecd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 横須賀の多重事故、同乗男性立ち去る
+      <a href=https://news.yahoo.co.jp/articles/33772ebb99260319c2a120607d2a985d31b46461>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00050077-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 横須賀で酒気帯び多重事故…横断歩道を渡っていた女性「危ないと思った瞬間、体の後ろを走り去った」
       </a>
     </td>
   </tr>
@@ -371,14 +371,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d7d9f4f50234677a064561c4601d6eb14395ed8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000344-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=799&ch=799&exp=10800&fmt=webp> トランプ米大統領、外国製作映画に100％関税表明　ネット「暴論すぎる」「失敗する」「衰退に拍車」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,16 +378,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537822>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/1e442c41cba497e6b4c1db361b8ffb53b228eeb11181de06c08d5d167517f391.jpg> 玉木氏 消費税の一律減税を強調
+      <a href=https://news.yahoo.co.jp/pickup/6537828>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/047c68bcff86c2ba0881d0ebd13d74566af364001aa3982d84e20d0d7c935b19.jpg> トランプ政権 相互関税の撤廃拒否
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537819>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/faa2f4255dc7caa9fa5dc9136b74d2c9a80bbaa9cec57e9ea571d265b8aa5b19.jpg> 上皇さま 疑われる心筋虚血とは
+      <a href=https://news.yahoo.co.jp/pickup/6537822>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/1e442c41cba497e6b4c1db361b8ffb53b228eeb11181de06c08d5d167517f391.jpg> 玉木氏 消費税の一律減税を強調
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537823>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/44a063aeadf7de97539a8b522bed28f934b0cc7fe7d51685455f71c148a6137c.jpg> 前田敦子 6歳長男選んだ服で笑顔
+      <a href=https://news.yahoo.co.jp/pickup/6537829>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/3e371185b7a0a73c8fd0ef94c08ccf2db57d7f054a31dece105a55070c8cca4e.jpg> 巨人大敗 阿部監督は取材対応せず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537816>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/baf60b6fe2b5405a022b88cfb26aba1c860532f0b731cb2f2b8fa483e6a0dcd6.jpg> 中川翔子 800人を前に妊娠生報告
+      <a href=https://news.yahoo.co.jp/pickup/6537827>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/74c9043eea08cef0e046c352ea425fc3ae56250f410635ebd972076769852b15.jpg> 井上尚弥 自身のダウンに「驚き」
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 22:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 23:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
