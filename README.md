@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dd10384d6f6693f6c72899624ca6334b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2169afcda7a9db59ed2d15cf0b8ff4fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c1a711a2e8dfe788dbbd308be0318d911d49e64e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000009-ann-000-8-thumb.jpg?exp=10800&fmt=webp> 神奈川県横須賀市の9台絡む事故 事故を起こした車に同乗していたとみられる男性が出頭
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/948e531f05325ec1683703aa9293487ef6e25e66>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000002-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ氏、次の大統領補佐官に「対中強硬派」ミラー氏任命か
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/85007edf91c0224f70d852f1b5433870cb577ee9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234720-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=817&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米ピュリツァー賞　トランプ氏暗殺未遂時を撮影のNYTカメラマンらが受賞
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/25cfdca2c4ec19cfa0141182e46ccc5311ccecbd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00967647-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 現場から逃走の横浜市に住む20代同乗者が警察に出頭　神奈川・横須賀市の8人が負傷した飲酒運転車暴走事故
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537822>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/1e442c41cba497e6b4c1db361b8ffb53b228eeb11181de06c08d5d167517f391.jpg> 玉木氏 消費税の一律減税を強調
+      <a href=https://news.yahoo.co.jp/pickup/6537837>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/163d5edf464fef303c12a57f55e6430747990e6f6329a1019d1d955c8ae78b1c.jpg> ルーマニア首相が辞任を表明
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 08:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 08:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
