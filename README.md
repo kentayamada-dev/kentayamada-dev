@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d8bd21778c889ed9918bdc09428b463f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea2eb0fe5260cd352e332527e2e8277a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cb4344a96a105fac1891232fd5d7fb798f6af2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 横須賀の多重事故、運転手に酒気帯び疑い
+      <a href=https://news.yahoo.co.jp/articles/8bb2c3292e844d11ae4dd634407fedf1a6e52f9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】横須賀で車暴走　酒気帯びで逮捕の男から基準値約3倍のアルコールを検出　バスなど8台以上の車に衝突　11人ケガ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/13ace95c010032a082039308c30aa23a74614d23>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 遊覧船転覆、死亡・不明10人に　中国
       </a>
     </td>
   </tr>
@@ -371,19 +379,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4aea68dc61b0970b234ae3e260a1ea50c2b59e0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-07234541-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 遊覧船転覆　9人死亡 1人行方不明　中国南部・貴州省の川で84人が投げ出される　大雨影響の可能性
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537770>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/2754da310432833e5852144e87bde7d70d8f2287a4982b6bb08907425ce1e4ce.jpg> GW明け ストレスが大きい学年は
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537773>
@@ -402,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537738>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/e2d1382914eafeb01e99a0b254184eb12cdf57437552a92916e6eb1660f8d8b1.jpg> 「子どもの肩こり」増加 医師指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537777>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/63aadc87aa69e99eda3075d475884b72eaa22ca91e385971f9034240a40b8f82.jpg> 駅前で8台絡む事故 酒気帯び疑い
       </a>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537772>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/ae121b4c59f10e04c1aecc42c8b90e575c5d945b1ef4cd145403cf68e6b9cdbd.jpg> 城崎温泉の旅館から出火 5棟焼く
+      <a href=https://news.yahoo.co.jp/pickup/6537769>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/9e2ede0bd4dd2ff0e83bf0274ecd6a238f06ccb28ebfb6ddae67b9a9bf36de4b.jpg> 店員なし「無人カフェ」人気拡大
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 14:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 14:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
