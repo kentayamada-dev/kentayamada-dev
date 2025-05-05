@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ec7a8b77e1f7a58af77a4ebf86f41fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f37777011189ce2595a44953f0abc5c3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/977ef04901148c03d7eb00ae5f92b486630ca99f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国・貴州省で遊覧船4隻が転覆し10人死亡　一部の乗客が救命胴衣を着ていなかったという情報も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6037babf8a5331c2fcb9003194e8af509e21b97f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000028-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=1623&ch=1623&exp=10800&fmt=webp> 教皇姿のトランプ氏画像、Ｘで炎上　ＡＩで生成
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9abc13bc6d7cf4477a7260e2e13aa9afc446fb9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00010012-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中国観光地の川で遊覧船4隻が転覆　10人死亡 事故の約1時間前には激しい雨
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9861fb6262765cdc3b40a6b2d76ea52fd7d586f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00010003-chugoku-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=653&ch=653&exp=10800&fmt=webp> 高知龍馬空港への緊急着陸から1カ月以上駐機していた問題の米軍戦闘機、岩国基地に帰還
       </a>
     </td>
   </tr>
@@ -394,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537782>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/a214eef1675b92e97c190fc3a3ee916a110be07da762444f982851af5dc9ce69.jpg> 上皇さま検査入院へ 心筋虚血疑い
+      <a href=https://news.yahoo.co.jp/pickup/6537797>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/otasaeko/02194473/title-1746168130169.jpeg?exp=10800> 高齢者向けプラチナNISA 懸念点は
       </a>
     </td>
   </tr>
@@ -411,15 +403,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/b3c81a637ed7c77c93f9497491579e6416477b6c7cb3483b190f9effede9ef2a.jpg> パラグライダーの男性が重体 搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537790>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/46e4d789ff563c98eb10fc43397cff02db21fd59c39849d5c8a0547bfe45108e.jpg> 戸たたいて起こされ 城崎温泉火災
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/299b33350c50cebe6d1f09873a89d3aa54c747b469b649140ee5bd97cb7e8274.jpg> パラグライダーの男性が重体 搬送
       </a>
     </td>
   </tr>
@@ -434,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537788>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/7bef083163aec62b1e92e33f41d5305b13f7aab07a596dd5898e24e6bcbb0137.jpg> 尚弥追い込む カルデナスに大拍手
+      <a href=https://news.yahoo.co.jp/pickup/6537783>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/94d56946d5362ddd635367b3d019aa1a07eecf27b5f7badf70b01613e237ba95.jpg> 中国で遊覧船4隻転覆 死者10人に
       </a>
     </td>
   </tr>
@@ -444,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537781>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/18b24ccc0097f231014a87875965f8b446211027c282e258dbc88ff9c2683ae9.jpg> 京都MF安斎契約解除 不適切行為
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537800>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/3c825d535373555c26c9d0a7af38cba37d3797dff0e492b3cf52c37717ed2273.jpg> ゆんが第2子妊娠 シルク発表
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 17:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 17:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
