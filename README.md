@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/78008eb718d89139a79bd1f25c5a6c18.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5788d22a3d158f32d531c9b841d4c913.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ea651951a119437331147a7c11a17bea143954d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35051911-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=1327&ch=1327&exp=10800&fmt=webp> 【阪神】孝行息子・森下翔太「こどもの日」に４安打４打点１本塁打　今季４本塁打すべて両親観戦時
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/25cfdca2c4ec19cfa0141182e46ccc5311ccecbd>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00967647-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 現場から逃走の横浜市に住む20代同乗者が警察に出頭　神奈川・横須賀市の8人が負傷した飲酒運転車暴走事故
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07e1bc52e598f843cc06029262bff5fdc4a86bd3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234710-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領“外国映画に100%関税” 対応について映画業界関係者と協議する考え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/60e8d8bbe22fc8829beafb079be45c72f6f37adb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-01747997-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 阪神森下は「天才すぎる」　.317→.338に急上昇、無双の“4/5”に騒然「かっこよすぎる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eba61c1f33e98adedb4907def12a60c5bf0c5dbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000008-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ローマ教皇選挙へ枢機卿全員集結　133人が投票へ
       </a>
     </td>
   </tr>
@@ -460,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 06:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 07:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
