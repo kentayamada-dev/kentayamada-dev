@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/280f9c9e17e1d679df6425c1a9a4ffa3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/78008eb718d89139a79bd1f25c5a6c18.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/25cfdca2c4ec19cfa0141182e46ccc5311ccecbd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00967647-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> 現場から逃走の横浜市に住む20代同乗者が警察に出頭　神奈川・横須賀市の8人が負傷した飲酒運転車暴走事故
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/07e1bc52e598f843cc06029262bff5fdc4a86bd3>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234710-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領“外国映画に100%関税” 対応について映画業界関係者と協議する考え
       </a>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/60e8d8bbe22fc8829beafb079be45c72f6f37adb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-01747997-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 阪神森下は「天才すぎる」　.317→.338に急上昇、無双の“4/5”に騒然「かっこよすぎる」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b2fb93c1278469bb6b82885fc197c6086cd768f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00050078-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=412&ch=412&exp=10800&fmt=webp> 川崎の女性遺棄、容疑者が昨年の聴取でストーカー行為を認める…自宅を捜索したのは４か月後
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-01747997-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 阪神森下は「天才すぎる」　.317→.338に急上昇、無双の“4/5”に騒然「かっこよすぎる」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 06:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 06:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
