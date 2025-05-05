@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1bb998c277cb935b489027c183a28d2f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dd0e2e0790a9f3d15d127aed77dc0355.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,23 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f0bd4868f3c09fbc9916192a698e5fdb7aab6f33>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-07234673-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 酒気帯び運転の車による8台絡む事故で大阪市の自称会社員の男（31）を逮捕　基準値の約3倍のアルコールを検出　8人軽傷で危険運転傷害の疑いも視野に捜査
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-07234673-jnn-000-5-thumb.jpg?exp=10800&fmt=webp> 酒気帯び運転の車による8台絡む事故で大阪市の自称会社員の男（31）を逮捕　基準値の約3倍のアルコールを検出　8人軽傷で危険運転傷害の疑いも視野に捜査
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f77d3843501903a3066bb657f159ec9612f2b0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000090-kyodonews-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=51&cw=650&ch=650&exp=10800&fmt=webp> 教皇模した合成画像、波紋拡大　投稿したトランプ氏に苦言や批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7680363e704d5d57506598144c5bd56a4e9ed125>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-10176883-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 観光客乗せた遊覧船4隻が転覆 10人死亡 中国
+      <a href=https://news.yahoo.co.jp/articles/26f6abd2b080ceeeff4f103020aa22cf89e6824d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-07234662-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「船が…」中国の観光地で遊覧船が転覆、84人が川に投げ出され…10人死亡
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537817>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/98866342a62e751b23266a3c3a1ae71bda1a6e54409bf97fd1ae249f71459832.jpg> 天然記念物が事故死 罪問われる?
+      <a href=https://news.yahoo.co.jp/pickup/6537802>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/102a23f5d380addacb3c1527d2ea138ded8833d0da6da17352b570f6ef3a3552.jpg> オリ山岡泰輔が1軍合流 自粛明け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/9d9f26b97d9bf55369487c4ca89907be45610f37f69e954a3f52052e9fa7309f.jpg> ゆんが第2子妊娠 シルク発表
+      <a href=https://news.yahoo.co.jp/pickup/6537823>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/44a063aeadf7de97539a8b522bed28f934b0cc7fe7d51685455f71c148a6137c.jpg> 前田敦子 6歳長男選んだ服で笑顔
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 21:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 22:00:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
