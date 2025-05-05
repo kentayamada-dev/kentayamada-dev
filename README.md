@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8bb5969f6fc3273ffca936d87a356323.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a12acee708f40dcd99f4060e68b86b17.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc3958dcb206028a2f2f9ee355d849ee9a6e82d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-01262440-mvwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=562&ch=562&exp=10800&fmt=webp> まもなくコンクラーベが本当に開催！注目度高まる『教皇選挙』とあわせて観たいフランシスコ教皇の関連作
+      <a href=https://news.yahoo.co.jp/articles/7b5e1ce0c6bda23f1ceb7d1103be7bf2350bb872>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-04558881-mdpr-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=466&ch=466&exp=10800&fmt=webp> 元宝塚・真彩希帆、第1子妊娠を報告 2023年に結婚
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/656ca09451c46dd3e426ad72a5dd740cfb0d4be0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00051084-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「ドアをたたいて起こされ…着の身着のまま出た」城崎温泉の老舗旅館で未明の火災　土産物店など５軒に延焼　宿泊客４３人は全員無事に避難
+      <a href=https://news.yahoo.co.jp/articles/fc3958dcb206028a2f2f9ee355d849ee9a6e82d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-01262440-mvwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=562&ch=562&exp=10800&fmt=webp> まもなくコンクラーベが本当に開催！注目度高まる『教皇選挙』とあわせて観たいフランシスコ教皇の関連作
       </a>
     </td>
   </tr>
@@ -384,6 +384,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/11/29/fe78c22b57718f59c604599e0a30a17266d10a13dd93b17d90e9c5813a97c2b1.jpg> GW 高速道路の事故・渋滞情報
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537758>
@@ -410,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537765>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 浜松4人死傷 男性が遺族に謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6537772>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/ae121b4c59f10e04c1aecc42c8b90e575c5d945b1ef4cd145403cf68e6b9cdbd.jpg> 城崎温泉の旅館から出火 5棟焼く
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537762>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/791af825bef72a2ab0c61fc0c44066b3e9dd31e6d41e7822d75b46794fe3141f.jpg> 速報 井上尚弥vs.カルデナス
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537768>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/93d18fea57e840b9c58002bcb10597241752b939163d845f746d848600661c34.jpg> ピコ太郎 なぜ海外では人気が持続
+      <a href=https://news.yahoo.co.jp/pickup/6537775>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/4c2e403f28209c645bb912fc96f0f412df426034d028f6a662102a22e195731d.jpg> 尚弥TKO勝ち 世界戦KO数最多に
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 12:30:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 13:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
