@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5788d22a3d158f32d531c9b841d4c913.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/927cb24a7a6f67f45095c64f27ea57fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/948e531f05325ec1683703aa9293487ef6e25e66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000002-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ氏、次の大統領補佐官に「対中強硬派」ミラー氏任命か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ea651951a119437331147a7c11a17bea143954d2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35051911-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=1327&ch=1327&exp=10800&fmt=webp> 【阪神】孝行息子・森下翔太「こどもの日」に４安打４打点１本塁打　今季４本塁打すべて両親観戦時
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35051911-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=1327&ch=1327&exp=10800&fmt=webp> 【阪神】孝行息子・森下翔太「こどもの日」に４安打４打点１本塁打　今季４本塁打すべて両親観戦時
       </a>
     </td>
   </tr>
@@ -371,11 +379,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/facf80842f7918517915294461b4c663ad8bfe64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-05061007-sph-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=974&ch=974&exp=10800&fmt=webp> カブス・今永昇太、「左太もも裏の張り」で１５日間の負傷者リスト入り　球団が発表…米２年目で自身初
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537832>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/fdfe66740d529d917c0292a5904079b5f3fce477c64d767bcaa588e669609a97.jpg> 配車アプリの手数料規制へ 国交省
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537828>
@@ -402,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537818>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/d474bb3f3c48bfaf9d1c947b8cfc6c4112d8d05146db77ef86e61823b69c544c.jpg> 川崎遺体 遺族と警察食い違う主張
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537821>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/1257cccb9b3a72a406fbfcc3cfd2cbd23c4afe4a0aca901230572e983ce3252a.jpg> 陶器まつりの幕撤去中に転落 死亡
       </a>
@@ -426,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537806>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/7e8708bf3d8db1ffa2729aa81147b03804eb0f020bd3197f7d260e25d88fb799.jpg> 石田純一&東尾理子の長男が始球式
+      <a href=https://news.yahoo.co.jp/pickup/6537833>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/4effbd707b6696c800b9c587b6d95e5ab640d32d8a3f1c06da223e62bd09c6e3.jpg> カブス今永昇太 負傷者リスト入り
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537827>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/74c9043eea08cef0e046c352ea425fc3ae56250f410635ebd972076769852b15.jpg> 井上尚弥 自身のダウンに「驚き」
+      <a href=https://news.yahoo.co.jp/pickup/6537834>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f043741fbf911e2025f37ff057752656b035061ce61d5ec12f0723fe6ba05464.jpg> 来春センバツでDH制の導入検討
       </a>
     </td>
   </tr>
@@ -444,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 07:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 07:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
