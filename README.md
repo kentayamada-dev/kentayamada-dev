@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/07006c873b0a93fc3895870af26f90d2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/644f33270700114283dc2eab147b9e17.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a5e6cd796409e4423d8d10cd3e9a6ef273d2481e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-07234614-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 行方不明の1人を発見するも死亡 中国・貴州省で遊覧船4隻が転覆　死者は10人に　70人が負傷
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/75ce869dad157c3a8158999d417b6a71d2403520>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-10176859-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=986&ch=986&exp=10800&fmt=webp> トランプ氏、全ての“外国製作”映画に100％の関税課す方針
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/07a1a4288afe33e43ad97d3c41a29e6fea14cb84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00343473-tospoweb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 井上尚弥に大善戦のカルデナス　村田諒太氏が絶賛「気概が見えた。ピカソは話にならない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/67565411a3ad2465af4f68096075d3c104b6763f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国・貴州省の川で遊覧船4隻転覆　10人死亡
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-10176859-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=986&ch=986&exp=10800&fmt=webp> トランプ氏、全ての“外国製作”映画に100％の関税課す方針
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1049aae0974568e597b2dc772933471dd777501b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-11638342-yorozuns-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 新教皇を選ぶ秘密投票「コンクラーベ」 7日に開始【分かりやすく説明】 映画『教皇選挙』日本でもヒット
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/89a503e9e4fad6205eb93870beecfcc398869bc6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00010000-suntvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 豊岡市　GWでにぎわう城崎温泉の老舗旅館で火事　宿泊客は全員避難し無事／兵庫県
       </a>
     </td>
   </tr>
@@ -402,24 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/2754da310432833e5852144e87bde7d70d8f2287a4982b6bb08907425ce1e4ce.jpg> GW明け ストレスが大きい学年は
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537780>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02197389/title-1746405213181.jpeg?exp=10800> 7日は広く黄砂飛来見通し 注意点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537764>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/84f89d6b895e26590da32a317ee5e3e213cbdc69ad68d22d023deb0fc1e89edf.jpg> 兵庫県政に今も火種 職員の危機感
       </a>
     </td>
   </tr>
@@ -434,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537784>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/7bef083163aec62b1e92e33f41d5305b13f7aab07a596dd5898e24e6bcbb0137.jpg> 尚弥に伏兵 カルデナスに拍手の嵐
+      <a href=https://news.yahoo.co.jp/pickup/6537790>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/46e4d789ff563c98eb10fc43397cff02db21fd59c39849d5c8a0547bfe45108e.jpg> 戸たたいて起こされ 城崎温泉火災
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537771>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/f32dc0a7ed17f11908027fd7e95269d7580ceba9021a1d6223c0f677147a286f.jpg> 万博アプリ「乱立」戸惑う来場者
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537788>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/7bef083163aec62b1e92e33f41d5305b13f7aab07a596dd5898e24e6bcbb0137.jpg> 尚弥追い込む カルデナスに大拍手
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 15:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 16:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
