@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/99a54cd0f14aa013ebfcdc7c6b0718a9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4293ae63d92eaba7e18b1c1af88628ca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2d7d9f4f50234677a064561c4601d6eb14395ed8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000344-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=799&ch=799&exp=10800&fmt=webp> トランプ米大統領、外国製作映画に100％関税表明　ネット「暴論すぎる」「失敗する」「衰退に拍車」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3f77d3843501903a3066bb657f159ec9612f2b0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000090-kyodonews-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=51&cw=650&ch=650&exp=10800&fmt=webp> 教皇模した合成画像、波紋拡大　投稿したトランプ氏に苦言や批判
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000090-kyodonews-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=51&cw=650&ch=650&exp=10800&fmt=webp> 教皇模した合成画像、波紋拡大　投稿したトランプ氏に苦言や批判
       </a>
     </td>
   </tr>
@@ -426,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537809>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/bd8ff16f098da853c814e11b882974b4ccdf0296d03d2d9972f2b2cec09543e1.jpg> 長さ100m お好み焼きでギネス記録
+      <a href=https://news.yahoo.co.jp/pickup/6537799>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/555b63d26feba118262f5f288d457663b1b82f4cba72e0b955cd9d5510d835c8.jpg> トランプ氏教皇姿 画像投稿に批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537816>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/baf60b6fe2b5405a022b88cfb26aba1c860532f0b731cb2f2b8fa483e6a0dcd6.jpg> 中川翔子 800人を前に妊娠生報告
       </a>
     </td>
   </tr>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/9d9f26b97d9bf55369487c4ca89907be45610f37f69e954a3f52052e9fa7309f.jpg> ゆんが第2子妊娠 シルク発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 20:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 20:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
