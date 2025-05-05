@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d5c7dbe904d6f17c75d61666b234c7f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a85e534b53a2fed5a323abee7a642db2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/35820f4159409affa20a74cce91adfa994e64ef4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-10176765-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> どれだけ伸びるんだ！ 大谷翔平、35度ハイアングル弾に外野手が驚き…フェンス際で急加速→スタンドインの衝撃シーン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2da6bff2a31c789108642a680f3effc270467dfd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000156-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=857&ch=857&exp=10800&fmt=webp> ボクシング　井上尚弥、ファン殺到！前日計量クリア「最高の仕上がり」　ベガス決戦5日ゴング
+      <a href=https://news.yahoo.co.jp/articles/2cf7b5ff74690956630a88495209e5ff701c32bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-05051035-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、第２打席で四球　２試合連続出塁　ミッドナイト試合“翌日”に２戦連発なるか
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d358fb07a440fc96f3a54284b04dbcecddf74043>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000152-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 阪神・森下翔太、今季甲子園初アーチを含む2安打でセ・リーグ首位打者に　首位奪取弾も頼んだ！！
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d8373b3f093bd2a624ae33028874416b52375008>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00544903-norimono-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 地獄の「カンヅメ渋滞」多発！ Uターンラッシュ本格化 最大40km【5月5日の渋滞予測】
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/375e70fe8e3c947ea651ae0c9fc5d609c6348e10379c9435a2438c7d41419848.jpg> 中国で遊覧船2隻が転覆 3人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6537735>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/45fbef783dee6a11086dc685453c6f9b2695d5ae02ad82b6379a7654765fae6a.jpg> 温泉街の老舗旅館で火事 客は避難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537735>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/45fbef783dee6a11086dc685453c6f9b2695d5ae02ad82b6379a7654765fae6a.jpg> 温泉街の老舗旅館で火事 客は避難
+      <a href=https://news.yahoo.co.jp/pickup/6537748>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/4c9648d4e8061602d7de13691db3902445f3a9ccc58200a7098be35a5aab258a.jpg> ガガさんのリオ公演 爆破計画未遂
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537739>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/2bb0927631df50e29cf4866ded45a72b5398222dc66fbb01d69fa4aee8351d8e.jpg> たべっ子どうぶつ映画化 社長即決
+      <a href=https://news.yahoo.co.jp/pickup/6537750>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/2bb0927631df50e29cf4866ded45a72b5398222dc66fbb01d69fa4aee8351d8e.jpg> 菓子の映画化 ギンビス社長は即決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537740>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/e96b9dcd75170e4955010f4cb61b341e36ce96722d8f8d6fdcc64f3fc2965969.jpg> 尚弥のため朝2時起き 米国人一家
+      <a href=https://news.yahoo.co.jp/pickup/6537744>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/9e9b9a4b4dee827d1b0b718938ca03d0ffbf9ecce40b611afd7d2141640934e0.jpg> さかなクン持ち込んだ幻の魚 公開
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 08:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 09:00:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
