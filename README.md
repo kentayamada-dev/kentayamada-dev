@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eb2ce734595aed1b55dccfee0cf11f5e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4c15fb8add9f7812966014fb2b888df7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33b2053c567f73eb466f7a473de9c0af88f8a032>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-90024201-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 繁華街で車“暴走”8人けが　酒気帯び運転の疑いで男逮捕　GW終盤に事故多発
+      <a href=https://news.yahoo.co.jp/articles/2c9e0626db758d5fc6c8636ed932477063961ffa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234684-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 酒気帯び運転の車による8台絡む事故で大阪市の男(31)を逮捕　基準値の約3倍のアルコールを検出　8人軽傷で危険運転傷害の疑いも視野に捜査　神奈川・横須賀市
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 04:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 04:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
