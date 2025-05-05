@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a6b23a79a36fe04246ae9ad730e08ec2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/280f9c9e17e1d679df6425c1a9a4ffa3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/07e1bc52e598f843cc06029262bff5fdc4a86bd3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234710-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領“外国映画に100%関税” 対応について映画業界関係者と協議する考え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/60e8d8bbe22fc8829beafb079be45c72f6f37adb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-01747997-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 阪神森下は「天才すぎる」　.317→.338に急上昇、無双の“4/5”に騒然「かっこよすぎる」
       </a>
@@ -365,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eba61c1f33e98adedb4907def12a60c5bf0c5dbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000008-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ローマ教皇選挙へ枢機卿全員集結　133人が投票へ
+      <a href=https://news.yahoo.co.jp/articles/b2fb93c1278469bb6b82885fc197c6086cd768f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00050078-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=44&cw=412&ch=412&exp=10800&fmt=webp> 川崎の女性遺棄、容疑者が昨年の聴取でストーカー行為を認める…自宅を捜索したのは４か月後
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c9e0626db758d5fc6c8636ed932477063961ffa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234684-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 酒気帯び運転の車による8台絡む事故で大阪市の男(31)を逮捕　基準値の約3倍のアルコールを検出　8人軽傷で危険運転傷害の疑いも視野に捜査　神奈川・横須賀市
+      <a href=https://news.yahoo.co.jp/articles/eba61c1f33e98adedb4907def12a60c5bf0c5dbb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000008-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ローマ教皇選挙へ枢機卿全員集結　133人が投票へ
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 05:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 06:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
