@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7bd348ff3b4256af807db1eccfbcc80b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0825d4f35975a78012c59ea019764a05.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33772ebb99260319c2a120607d2a985d31b46461>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00050077-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 横須賀で酒気帯び多重事故…横断歩道を渡っていた女性「危ないと思った瞬間、体の後ろを走り去った」
+      <a href=https://news.yahoo.co.jp/articles/ec47a9a6ce37f371ecd3deb61d004d14588a97a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-21895944-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=433&ch=433&exp=10800&fmt=webp> 「100メートルほど滑落」と救助要請　長野・戸隠山で埼玉の男性が遭難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cf7f4c67f3dbb6c0e07269dec93941d5fae04c84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00010006-tennisnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=1918&ch=1918&exp=10800&fmt=webp> 大坂なおみ 初戦は主催者推薦の38歳に決定、7日開幕のBNLイタリア国際 組合せ発表＜女子テニス＞
+      <a href=https://news.yahoo.co.jp/articles/3c93994db78c2951da50d4d3859fdf14c1572c44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000116-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=1154&ch=1154&exp=10800&fmt=webp> 虎打線、今季初の10得点で首位並ぶ　”お得意さま”巨人に今季6勝1敗、４回からマスクの梅野が好リード
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537811>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/9a5babdf499fe4525510a85b10c195175a2efea35793492333cff7164f14eb7b.jpg> コンクラーベ 真偽不明の情報戦
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537818>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/d474bb3f3c48bfaf9d1c947b8cfc6c4112d8d05146db77ef86e61823b69c544c.jpg> 川崎遺体 遺族と警察食い違う主張
       </a>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537820>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/5d19452253eb2e0ac274022f05772b22637e1a227c9b90b33291a5a44fbc512f.jpg> 横須賀の多重事故 同乗者逃走
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537821>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/1257cccb9b3a72a406fbfcc3cfd2cbd23c4afe4a0aca901230572e983ce3252a.jpg> 陶器まつりの幕撤去中に転落 死亡
       </a>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537829>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/3e371185b7a0a73c8fd0ef94c08ccf2db57d7f054a31dece105a55070c8cca4e.jpg> 巨人大敗 阿部監督は取材対応せず
+      <a href=https://news.yahoo.co.jp/pickup/6537830>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/aa295766cb8508d865ccdc2df85c356c53619993d282e1e470d6bf1804404135.jpg> 北アルプスなど 遭難が6件相次ぐ
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 23:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 23:30:50 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
