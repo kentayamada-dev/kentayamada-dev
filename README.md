@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ea2eb0fe5260cd352e332527e2e8277a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8a6e0439b04e7a8d76307bd78851d051.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8bb2c3292e844d11ae4dd634407fedf1a6e52f9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】横須賀で車暴走　酒気帯びで逮捕の男から基準値約3倍のアルコールを検出　バスなど8台以上の車に衝突　11人ケガ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13ace95c010032a082039308c30aa23a74614d23>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 遊覧船転覆、死亡・不明10人に　中国
+      <a href=https://news.yahoo.co.jp/articles/7f04a07149d8df48e44df2e42ad7bd4dd003edbf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-35050687-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=99&cw=811&ch=811&exp=10800&fmt=webp> access貴水博之「観ててメチャカラダにチカラ入って」ボクシング井上尚弥を祝福
       </a>
     </td>
   </tr>
@@ -379,6 +371,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b4aea68dc61b0970b234ae3e260a1ea50c2b59e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-07234541-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 遊覧船転覆　9人死亡 1人行方不明　中国南部・貴州省の川で84人が投げ出される　大雨影響の可能性
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -386,16 +386,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537770>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/2754da310432833e5852144e87bde7d70d8f2287a4982b6bb08907425ce1e4ce.jpg> GW明け ストレスが大きい学年は
+      <a href=https://news.yahoo.co.jp/pickup/6537782>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/a214eef1675b92e97c190fc3a3ee916a110be07da762444f982851af5dc9ce69.jpg> 上皇さま検査入院へ 心筋虚血疑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/11/29/fe78c22b57718f59c604599e0a30a17266d10a13dd93b17d90e9c5813a97c2b1.jpg> GW 高速道路の事故・渋滞情報
+      <a href=https://news.yahoo.co.jp/pickup/6537770>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/2754da310432833e5852144e87bde7d70d8f2287a4982b6bb08907425ce1e4ce.jpg> GW明け ストレスが大きい学年は
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/567bac1c9a6a49e219de3b51fc6cdc19c6b7d2d98ee06ac0c3198840d5aa7105.jpg> 中川翔子 40歳誕生日に妊娠を発表
+      <a href=https://news.yahoo.co.jp/pickup/6537781>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/18b24ccc0097f231014a87875965f8b446211027c282e258dbc88ff9c2683ae9.jpg> 京都MF安斎契約解除 不適切行為
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537774>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/f4bbc9af817877316e04e816087d782ff2683a7745931da84968a43d29d637ab.jpg> 元宝塚・真彩希帆 妊娠を公表
+      <a href=https://news.yahoo.co.jp/pickup/6537778>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/567bac1c9a6a49e219de3b51fc6cdc19c6b7d2d98ee06ac0c3198840d5aa7105.jpg> 中川翔子 40歳誕生日に妊娠を発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 14:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 15:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
