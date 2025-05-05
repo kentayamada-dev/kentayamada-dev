@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f37777011189ce2595a44953f0abc5c3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6b51277218e927a220d159a888d5430a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c87facee06f7c1e9e582bf6bde5c2953d8dbc89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-16596967-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> アメリカ製作でない映画に100％の関税とトランプ大統領、他国の優遇措置を批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/977ef04901148c03d7eb00ae5f92b486630ca99f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国・貴州省で遊覧船4隻が転覆し10人死亡　一部の乗客が救命胴衣を着ていなかったという情報も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00967410-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中国・貴州省で遊覧船4隻が転覆し10人死亡　一部の乗客が救命胴衣を着ていなかったという情報も
       </a>
     </td>
   </tr>
@@ -371,19 +379,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75ce869dad157c3a8158999d417b6a71d2403520>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-10176859-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=330&cy=0&cw=986&ch=986&exp=10800&fmt=webp> トランプ氏、全ての“外国製作”映画に100％の関税課す方針
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537785>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/47bb9bab8171f944093d3a507c0e5b63f6f0988a53eab19b1ee7c118456bcb4f.jpg> トランプ氏 3期目は考えていない
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537797>
@@ -402,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/299b33350c50cebe6d1f09873a89d3aa54c747b469b649140ee5bd97cb7e8274.jpg> パラグライダーの男性が重体 搬送
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537787>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/e196b457b1a13ee9c21da449fff067b0620fb0a674dfcddc79172ec17ee2d14d.jpg> Skype 5日で20年超の歴史に幕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537783>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/94d56946d5362ddd635367b3d019aa1a07eecf27b5f7badf70b01613e237ba95.jpg> 中国で遊覧船4隻転覆 死者10人に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537793>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 更年期障害 出やすい時期は「春」
       </a>
     </td>
   </tr>
@@ -435,7 +435,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537800>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/3c825d535373555c26c9d0a7af38cba37d3797dff0e492b3cf52c37717ed2273.jpg> ゆんが第2子妊娠 シルク発表
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/9d9f26b97d9bf55369487c4ca89907be45610f37f69e954a3f52052e9fa7309f.jpg> ゆんが第2子妊娠 シルク発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 17:30:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 18:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
