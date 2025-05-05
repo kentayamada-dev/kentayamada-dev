@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5e973949dedfcfe514b0b8445a2b0eb4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0ec7a8b77e1f7a58af77a4ebf86f41fe.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d22eb0f54a451e7eace9ae09f8e58acd297a9ddc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00010002-newsweek-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=259&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【徹底解説】次の教皇は誰に？...教皇選挙（コンクラーベ）のルールから2つの派閥、「ダークホース」まで
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1d643ef707dc5cdd83a8ee3cb2426aee5ed26322>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-06861227-tsb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【速報】青木村でパラグライダー事故　東京の65歳男性が意識不明の重体　着陸時にひもが首に絡んだか【長野】
+      <a href=https://news.yahoo.co.jp/articles/6037babf8a5331c2fcb9003194e8af509e21b97f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000028-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=1623&ch=1623&exp=10800&fmt=webp> 教皇姿のトランプ氏画像、Ｘで炎上　ＡＩで生成
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9abc13bc6d7cf4477a7260e2e13aa9afc446fb9e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00010012-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中国観光地の川で遊覧船4隻が転覆　10人死亡 事故の約1時間前には激しい雨
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9861fb6262765cdc3b40a6b2d76ea52fd7d586f4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00010003-chugoku-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=653&ch=653&exp=10800&fmt=webp> 高知龍馬空港への緊急着陸から1カ月以上駐機していた問題の米軍戦闘機、岩国基地に帰還
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537780>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/katayamayukiko/02197389/title-1746405213181.jpeg?exp=10800> 7日は広く黄砂飛来見通し 注意点
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537771>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/f32dc0a7ed17f11908027fd7e95269d7580ceba9021a1d6223c0f677147a286f.jpg> 万博アプリ「乱立」戸惑う来場者
+      <a href=https://news.yahoo.co.jp/pickup/6537779>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/a44ba5871172d764e8e626ea2bb9a1be64a3c2e8f76a3eb3457d6ffc12c7d04c.jpg> 家庭学習に生成AI 親にできること
       </a>
     </td>
   </tr>
@@ -419,7 +411,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537792>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/c86c0b8326113cd06321b8165ccaaf7c60400cce06dafda850c3547e13187fea.jpg> パラグライダーの男性が重体 搬送
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/b3c81a637ed7c77c93f9497491579e6416477b6c7cb3483b190f9effede9ef2a.jpg> パラグライダーの男性が重体 搬送
       </a>
     </td>
   </tr>
@@ -428,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537790>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/46e4d789ff563c98eb10fc43397cff02db21fd59c39849d5c8a0547bfe45108e.jpg> 戸たたいて起こされ 城崎温泉火災
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537787>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/e196b457b1a13ee9c21da449fff067b0620fb0a674dfcddc79172ec17ee2d14d.jpg> Skype 5日で20年超の歴史に幕
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537778>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/567bac1c9a6a49e219de3b51fc6cdc19c6b7d2d98ee06ac0c3198840d5aa7105.jpg> 中川翔子 40歳誕生日に妊娠を発表
+      <a href=https://news.yahoo.co.jp/pickup/6537795>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/2ef130ee58b92317c27ce3bb76a9fadc3fa6a643bf48322d37d6167ed8908faf.jpg> 中川翔子 新しい命を授かりました
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 16:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 17:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
