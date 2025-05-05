@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/23935c8cd793129279d2c191b613a6dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/86554fbc118651b9513f4a9932ac2cd5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,8 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3c93994db78c2951da50d4d3859fdf14c1572c44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000116-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=57&cy=0&cw=1154&ch=1154&exp=10800&fmt=webp> 虎打線、今季初の10得点で首位並ぶ　”お得意さま”巨人に今季6勝1敗、４回からマスクの梅野が好リード
+      <a href=https://news.yahoo.co.jp/articles/ae6520f42975e0b7cf78aca8e9a745f71f62b8ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00343516-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=301&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【阪神】佐藤輝明11号３ラン含む２安打　大好物の高め速球「しっかり狙いを絞っていたので」　
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 01:32:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 02:01:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
