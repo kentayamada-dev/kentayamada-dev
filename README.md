@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/36d3fa3b52fa459bd682274e497eb261.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/038f735da9f944873b482f7d63569ca5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea64ee2d230b8b9ff3ec336ee44afb3874d863ae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-90023105-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 「登山道から100メートルほど滑落した」と救助要請　戸隠山で埼玉県の49歳男性が遭難　警察などが男性と接触、同行下山へ　けがの程度は確認中
+      <a href=https://news.yahoo.co.jp/articles/62e884ace48a0e3e02dfc979a48bb0ffb53e57d0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-07512134-tsb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【信州への登山者必見】長野県警が伝える具体的な注意点5か条「GW中も後も気を付けたい山岳遭難」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0c0b59749058487c74c32bc88fc9367c297b78ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-56080958-bloom_st-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=203&ch=203&exp=10800&fmt=webp> ネットフリックスやディズニーの株価下落、外国映画への関税計画で
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 23:51:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 00:30:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
