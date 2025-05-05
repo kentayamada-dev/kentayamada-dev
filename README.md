@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4293ae63d92eaba7e18b1c1af88628ca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c13c4f6d33d1dd65d854513a4df74361.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/21874c485bd3c367ff06adda44d08b05449be703>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000099-kyodonews-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 遺体引き渡し、父「憎しみしか」　川崎・女性死体遺棄事件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2d7d9f4f50234677a064561c4601d6eb14395ed8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000344-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=799&ch=799&exp=10800&fmt=webp> トランプ米大統領、外国製作映画に100％関税表明　ネット「暴論すぎる」「失敗する」「衰退に拍車」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000344-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=799&ch=799&exp=10800&fmt=webp> トランプ米大統領、外国製作映画に100％関税表明　ネット「暴論すぎる」「失敗する」「衰退に拍車」
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3f77d3843501903a3066bb657f159ec9612f2b0b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000090-kyodonews-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=51&cw=650&ch=650&exp=10800&fmt=webp> 教皇模した合成画像、波紋拡大　投稿したトランプ氏に苦言や批判
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000090-kyodonews-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=51&cw=650&ch=650&exp=10800&fmt=webp> 教皇模した合成画像、波紋拡大　投稿したトランプ氏に苦言や批判
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17a3d70e3ba12c228ac138da7a4bfc1b86e47449>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00004738-yabv-000-1-thumb.jpg?exp=10800&fmt=webp> 【山口】山陽小野田市で世界一“長い”お好み焼きづくりに挑戦！
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537786>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/e3c18db783916eb20b79eabfa02c0f297e45f5e3f8c0f3a3014c036916aa6e06.jpg> 教員の処遇改善 改正案を修正へ
+      <a href=https://news.yahoo.co.jp/pickup/6537814>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/dd9d598c703f288818aee738a54729f2371abc46a0570c82dae85ba2e495d083.jpg> GW最終日 西・東日本は広く雨か
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537810>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/3b8e383afa0d8290c408801306826848984713a507a168dbafa5829388288958.jpg> 1940年の「幻の万博券」引き換え
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537807>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/8686d87e60854cbaf5017e5c0b534c0fda9a79fd0c5d59833fb6c6977a83540c.jpg> 酒気帯び疑い 事故の瞬間の映像
+      <a href=https://news.yahoo.co.jp/pickup/6537818>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/d474bb3f3c48bfaf9d1c947b8cfc6c4112d8d05146db77ef86e61823b69c544c.jpg> 川崎遺体 遺族と警察食い違う主張
       </a>
     </td>
   </tr>
@@ -436,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537799>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/555b63d26feba118262f5f288d457663b1b82f4cba72e0b955cd9d5510d835c8.jpg> トランプ氏教皇姿 画像投稿に批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537817>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/98866342a62e751b23266a3c3a1ae71bda1a6e54409bf97fd1ae249f71459832.jpg> 天然記念物が事故死 罪問われる?
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 20:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 21:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
