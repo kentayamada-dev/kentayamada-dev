@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/thjIGEjEA3g?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a8cdb9f9f536ebaeb477af269e91213f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c0a63723ccdbb4d70c09973a34f86fcd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02ba7702d3561c7e3a807643a2da0faa8cf89b1c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-10515941-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=683&ch=683&exp=10800&fmt=webp> ドジャース、接戦敗れて7連勝ストップ　大谷翔平はわずかに2戦連発届かずも、弾丸二塁打で2戦連続安打
+      <a href=https://news.yahoo.co.jp/articles/7463edca588694b435adf14d40bbaa2251289d4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-35232588-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=178&cy=0&cw=450&ch=450&exp=10800&fmt=webp> トランプ氏、教皇姿のＡＩ画像を投稿　カトリック教徒から批判の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/417cb4441ea08a53a8ad1b42f040572f53c2afa4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-10176825-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> イラン 固体燃料型の新型弾道ミサイル発射実験で敵対国を牽制
+      <a href=https://news.yahoo.co.jp/articles/c2265cd4b10c5e11e8d5f205cba5201c42131e3e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00010003-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 川崎女性遺棄事件　失踪当日「会いに行った」元交際相手が供述
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/febf8e67daa45501ee7bb057a935ab657b2d56ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00096063-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=956&ch=956&exp=10800&fmt=webp> 「一番苦手だと思っていたサーフェスでトロフィーを勝ち取れるなんて…」大坂なおみが下部ツアーで産後初の優勝を飾る＜SMASH＞
+      <a href=https://news.yahoo.co.jp/articles/b4651be96974c04aefe97a9f4fb861d63803fcb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国の観光地で遊覧船4隻が転覆、9人死亡1人不明　習近平主席が「安全対策強化」を指示
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537752>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/b82b03f3b43fb1ea929ea472851ceb864b2a6abcdd3ba14a4084c403303437df.jpg> フーシ派 イスラエルの空港を攻撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537765>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 浜松4人死傷 男性が遺族に謝罪
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537744>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/9e9b9a4b4dee827d1b0b718938ca03d0ffbf9ecce40b611afd7d2141640934e0.jpg> さかなクン持ち込んだ幻の魚 公開
+      <a href=https://news.yahoo.co.jp/pickup/6537766>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/caf021c8bea1d0e041d756cc3feddc79345b14c2a8e677356e61baf500bb0b74.jpg> 今永が緊急降板 離脱の可能性も
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537755>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/e0527a74b7dd81361943ed68d2a8db6951908f2c239d9060e734da5fe2c7bf7f.jpg> 鈴木えみ SNS時代も揺るがぬ信念
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 11:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 11:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
