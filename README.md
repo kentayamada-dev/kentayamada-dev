@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fa1c6c3da97c7032af0d3a6990335154.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a6b23a79a36fe04246ae9ad730e08ec2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/60e8d8bbe22fc8829beafb079be45c72f6f37adb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-01747997-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 阪神森下は「天才すぎる」　.317→.338に急上昇、無双の“4/5”に騒然「かっこよすぎる」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/eba61c1f33e98adedb4907def12a60c5bf0c5dbb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローマ教皇選挙へ枢機卿全員集結　133人が投票へ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000008-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=667&ch=667&exp=10800&fmt=webp> ローマ教皇選挙へ枢機卿全員集結　133人が投票へ
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 05:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 05:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
