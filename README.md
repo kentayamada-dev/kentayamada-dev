@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/rwnftkCOgHg?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a96bc7f5e5846d07e87aaecdba04156.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/82f08533c79c722934ce8a1fe7360096.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3f77d3843501903a3066bb657f159ec9612f2b0b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 教皇模した合成画像、波紋拡大　投稿したトランプ氏に苦言や批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7680363e704d5d57506598144c5bd56a4e9ed125>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-10176883-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=388&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 観光客乗せた遊覧船4隻が転覆 10人死亡 中国
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/17a3d70e3ba12c228ac138da7a4bfc1b86e47449>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00004738-yabv-000-1-thumb.jpg?exp=10800&fmt=webp> 【山口】山陽小野田市で世界一“長い”お好み焼きづくりに挑戦！
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c87facee06f7c1e9e582bf6bde5c2953d8dbc89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-16596967-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=224&cy=0&cw=576&ch=576&exp=10800&fmt=webp> アメリカ製作でない映画に100％の関税とトランプ大統領、他国の優遇措置を批判
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/977ef04901148c03d7eb00ae5f92b486630ca99f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00967410-fnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 中国・貴州省で遊覧船4隻が転覆し10人死亡　一部の乗客が救命胴衣を着ていなかったという情報も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6037babf8a5331c2fcb9003194e8af509e21b97f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000028-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=1623&ch=1623&exp=10800&fmt=webp> 教皇姿のトランプ氏画像、Ｘで炎上　ＡＩで生成
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537791>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/b1de73c56f47fcbf14649474c442cc62a08e19203f466dbc8fc41c43425f3473.jpg> 毛むしる 犬や猫にも「五月病」?
+      <a href=https://news.yahoo.co.jp/pickup/6537809>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/bd8ff16f098da853c814e11b882974b4ccdf0296d03d2d9972f2b2cec09543e1.jpg> 長さ100m お好み焼きでギネス記録
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 19:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 19:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
