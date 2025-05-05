@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9fef56b3bfd9f0cec3273e8ad7ff486e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb2ce734595aed1b55dccfee0cf11f5e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/62e884ace48a0e3e02dfc979a48bb0ffb53e57d0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-07512134-tsb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 【信州への登山者必見】長野県警が伝える具体的な注意点5か条「GW中も後も気を付けたい山岳遭難」
+      <a href=https://news.yahoo.co.jp/articles/33b2053c567f73eb466f7a473de9c0af88f8a032>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-90024201-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 繁華街で車“暴走”8人けが　酒気帯び運転の疑いで男逮捕　GW終盤に事故多発
       </a>
     </td>
   </tr>
@@ -436,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 03:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 04:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
