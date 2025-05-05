@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/thjIGEjEA3g?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/rwnftkCOgHg?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e085db90395f13d8e1ad524b91d66e62.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8bb5969f6fc3273ffca936d87a356323.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/78657dc52771274baa26c5de5192fb94d29809bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-02785847-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 3月聴取で…逮捕の男“別れてから岡崎さんに複数回、会いに行った”　川崎女性遺体遺棄
+      <a href=https://news.yahoo.co.jp/articles/fc3958dcb206028a2f2f9ee355d849ee9a6e82d3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-01262440-mvwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=562&ch=562&exp=10800&fmt=webp> まもなくコンクラーベが本当に開催！注目度高まる『教皇選挙』とあわせて観たいフランシスコ教皇の関連作
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b63c92c81337afcf9d8989d55faef28a82aa84b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00967273-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=317&cy=0&cw=801&ch=801&exp=10800&fmt=webp> トランプ大統領がSNSに投稿した“ローマ教皇に扮した画像”物議醸す「信者を怒らせ教会を侮辱する画像」「巧くも面白くもありません」
+      <a href=https://news.yahoo.co.jp/articles/656ca09451c46dd3e426ad72a5dd740cfb0d4be0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00051084-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 「ドアをたたいて起こされ…着の身着のまま出た」城崎温泉の老舗旅館で未明の火災　土産物店など５軒に延焼　宿泊客４３人は全員無事に避難
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4651be96974c04aefe97a9f4fb861d63803fcb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 中国の観光地で遊覧船4隻が転覆、9人死亡1人不明　習近平主席が「安全対策強化」を指示
+      <a href=https://news.yahoo.co.jp/articles/b4aea68dc61b0970b234ae3e260a1ea50c2b59e0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-07234541-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 遊覧船転覆　9人死亡 1人行方不明　中国南部・貴州省の川で84人が投げ出される　大雨影響の可能性
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537767>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/10ee2d8d5e337567e692a5117fb6f280028699b76b6430d568fec576ee8cf2f0.jpg> 川崎遺体遺棄 浮かぶ捜査の問題点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537765>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 浜松4人死傷 男性が遺族に謝罪
       </a>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537757>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/2d4caf604d376b488be9ee8ed7ce93d019a0cbae0dc48cbeb46aa74dbb6d03d0.jpg> 月収50万円の学生も 浅草の人力車
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537763>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/2edf4e359dae9b4777ec68b3d8b22348d67fbb9bcf5683ca3f3f8181a283233c.jpg> じいじ・ばあば呼び普及? 分析
       </a>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537766>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/caf021c8bea1d0e041d756cc3feddc79345b14c2a8e677356e61baf500bb0b74.jpg> 今永が緊急降板 離脱の可能性も
+      <a href=https://news.yahoo.co.jp/pickup/6537762>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/791af825bef72a2ab0c61fc0c44066b3e9dd31e6d41e7822d75b46794fe3141f.jpg> 速報 井上尚弥vs.カルデナス
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 12:01:03 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 12:30:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
