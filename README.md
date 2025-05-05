@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYQJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/464c90ce7c0e210f6821cd0bebc3ed19.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6d7fa4fcfac6eb5bd51f5dda87bb3ba2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2cf7b5ff74690956630a88495209e5ff701c32bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-05051035-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、第２打席で四球　２試合連続出塁　ミッドナイト試合“翌日”に２戦連発なるか
+      <a href=https://news.yahoo.co.jp/articles/c359d70f9e25e360691ae93130b7aeeb40fc45ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00010002-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1463&ch=1463&exp=10800&fmt=webp> 大坂なおみ 前週Vで世界48位に浮上、苦手クレー克服で全仏OPに弾み＜女子テニス＞
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9e371bd53d658ea062521b5e0593081fd8365331>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000018-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=814&ch=814&exp=10800&fmt=webp> 大谷翔平、大飛球もひと伸び足りず…「あがりすぎたかー」ネットもため息、３打席目までヒットなし
       </a>
     </td>
   </tr>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/1e57e2597bfce68cf909682fd29bd7e1021d03c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000000-jij_afp-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> フーシ派、イスラエル空港を攻撃 ネタニヤフ首相が報復宣言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d358fb07a440fc96f3a54284b04dbcecddf74043>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250504-00000152-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=61&cy=0&cw=1079&ch=1079&exp=10800&fmt=webp> 阪神・森下翔太、今季甲子園初アーチを含む2安打でセ・リーグ首位打者に　首位奪取弾も頼んだ！！
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250505-00000000-jij_afp-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> フーシ派、イスラエル空港を攻撃 ネタニヤフ首相が報復宣言
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/583aea24a423c375092f847f48ace4a42bbfc7eec915f25abf50d14a09f5b52f.jpg> ネットカジノ 自・立が法案協議へ
+      <a href=https://news.yahoo.co.jp/pickup/6537752>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/b82b03f3b43fb1ea929ea472851ceb864b2a6abcdd3ba14a4084c403303437df.jpg> フーシ派 イスラエルの空港を攻撃
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537747>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/5c7698262c28e426ee85fbfdbff41a18b7a946adcd8207c1fc2c0eca2411854b.jpg> ファミマ 海苔なしおむすび拡大
+      <a href=https://news.yahoo.co.jp/pickup/6537759>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/5c7698262c28e426ee85fbfdbff41a18b7a946adcd8207c1fc2c0eca2411854b.jpg> 海苔なしおむすび ファミマで拡大
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537732>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/9b20250fe04832f7b50f1aff2243e882ed0aca99917cf002eb7300c56210dd4e.jpg> 今永昇太が緊急降板 精密検査へ
+      <a href=https://news.yahoo.co.jp/pickup/6537753>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/24cd09c8d4300d87ce03717a0b8d1812977d21dafaeaf84b83e97227862425c0.jpg> フジ社員TKO負け なぜRIZIN挑戦
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/05 09:31:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/05 10:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
