@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1cc1b17aedb8ffbf89dccf1edf3968d9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c28c63c1bcd4f27b79c5e1a1d63cf483.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6b2214b529719001e307004c61bcd5435451889>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00967790-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 京都市営バスに飲酒運転のポルシェが突っ込む…バスの女性乗客が軽いけが　24歳男を道交法違反などの現行犯で逮捕
+      <a href=https://news.yahoo.co.jp/articles/7f6381cc63aeca1e23056fef219a957ce4e47fa0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00967801-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> ポルシェと京都市バスが正面衝突　バスの乗客1人がケガ　ポルシェの運転手の男からアルコール検知　過失運転致傷などの現行犯で逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f262021d8c6a666a5bbafad1498f5b3b34b0e8e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234820-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ローマ教皇選挙「コンクラーベ」日本時間あす午後開始　有力候補の“重病説”やマクロン大統領干渉報道も
+      <a href=https://news.yahoo.co.jp/articles/8525bc79cb239169009ba1b90d78b03119c3d4b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00051094-asahibc-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「酒は抜けていると思っていた」神戸市の男を酒気帯び運転などの疑いで現行犯逮捕　ポルシェが市バスに正面衝突
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a17168fffefe261888146c41844b202517e54b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00010005-abn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> GW中の山岳遭難 少なくとも24件発生・4人死亡 5日も各地で〝滑落〟相次ぐ【長野】
+      <a href=https://news.yahoo.co.jp/articles/edd8a2fbdbee33cd30e9580a5af21329cd5de0bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ニュースワード「コンクラーベ」
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537885>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/614d266e4fdb8988af26225051f87f0cf2a393271354d088b4e585a14995ec57.jpg> 川崎女性死体遺棄 祖母が涙の訴え
+      <a href=https://news.yahoo.co.jp/pickup/6537881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/e78194527706db8f3ae240d4c509bd4d10820f38c4b18393b56d157cf581a165.jpg> 更衣室で女性を切りつけ疑い 逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537881>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/e78194527706db8f3ae240d4c509bd4d10820f38c4b18393b56d157cf581a165.jpg> 更衣室で女性を切りつけ疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6537889>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/ee4d55d47fde5a2382a2878dc7db8387d488037d9d1b254b9333a819daa8fbb3.jpg> 酒気帯び疑い 車がバスに正面衝突
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537877>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/9c17cacdf97b24260f0d74589d51751d35178a148dcf5326a68168aeb302a2ed.jpg> 万博12カ国撤退地 苦肉の策で盛況
+      <a href=https://news.yahoo.co.jp/pickup/6537882>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f34e43d7772543925ea408b75ac079ab35ea48e5b7872b908c97ec32c1764e43.jpg> さかなクン 幻の魚の判別に苦労
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537882>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f34e43d7772543925ea408b75ac079ab35ea48e5b7872b908c97ec32c1764e43.jpg> さかなクン 幻の魚の判別に苦労
+      <a href=https://news.yahoo.co.jp/pickup/6537893>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/47fb828535e1e9fe6f770513eaa4c312447e916f18072db6e0e8437448ae4293.jpg> 村上宗隆復帰めど立たず 監督言及
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 16:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 17:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
