@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d3810943e4898231ad8f97acf0bcd29f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/df8f6a541d2fc01e16f84f60e1eb5430.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aadd9616216b1ea4f3c23c402d14f1b3f3c84ebc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000034-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、伝説の地・マイアミで９号２ランなど１安打１盗塁 ドジャース、マーリンズに今季４戦４勝
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/73227aeacc7851e54dcfebdd61601b7ca0530a47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-05061033-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「見てませんでした」井上尚弥ＴＫＯ勝利に「サン！シャイン」谷原章介が大興奮も武田鉄矢が恐縮して告白「誠に残念…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a853b1abc9cd959aa755da742814ef6e940fac7c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000003-yonnana-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=573&ch=573&exp=10800&fmt=webp> 念願の訪日果たしたフランシスコ死去、日本人記者と教皇の思い出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/742e402858c2bd59799b39877ea4616ebdaf2602>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-90023106-nbstv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 「登山道から100ｍほど滑落した」と救助要請　警察、消防など12人体制で捜索　埼玉県の49歳男性を救助　重傷の模様　戸隠山で遭難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/135699d6164d100ca2ebc360b8df641ad3c3feea>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00343533-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=267&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース大谷翔平が２試合ぶり９号２ラン　弾丸ライナーの打球速度は今季ＭＬＢ最速
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/696650e7d15cc9469a50b0a5a5524306be4ca26f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000002-yonnana-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=594&ch=594&exp=10800&fmt=webp> 「事実は〝映画〟より奇なり」カトリックの頂点、教皇選ぶ密室投票「コンクラーベ」前回２０１３年を振り返る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/426ee66a1794e981faa86d553ee2c1933495b3a1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-09819169-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=506&ch=506&exp=10800&fmt=webp> オープンAI、営利企業への転換を断念
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-90023106-nbstv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 「登山道から100ｍほど滑落した」と救助要請　警察、消防など12人体制で捜索　午前2時過ぎ、埼玉県の49歳男性を救助　重傷の模様　戸隠山で遭難
       </a>
     </td>
   </tr>
@@ -394,32 +394,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/14aebc2144cfd9ac8dbca5f44193eb0e2fff111fed045033f7edcb9af0d6e1db.jpg> GW最終日は雨予報 雷雨にも注意
+      <a href=https://news.yahoo.co.jp/pickup/6537843>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/a8cb73fe9e8defd2cbefcc5ff87c260ced7cf0fdd7631155ec57d28dbcb86401.jpg> ペリリュー 遺骨収集巡り協力合意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537832>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/fdfe66740d529d917c0292a5904079b5f3fce477c64d767bcaa588e669609a97.jpg> 配車アプリの手数料規制へ 国交省
+      <a href=https://news.yahoo.co.jp/pickup/6537854>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/fe24d1dbc44cb2604a4b06c1fe26adb492cd69556f8c04c354fc02f99d359513.jpg> 再エネ発電苦境 発電所の倒産最多
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537846>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/af457aaef529c83648e989b8a56571e897018e530e0e1880ca2a8d16e91feb5e.jpg> 海保職員減少に転じる 離職389人
+      <a href=https://news.yahoo.co.jp/pickup/6537852>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/2e3ac25c659edcfd1571c2809895ce2d3059475b7cc93e5270470e7698043f4d.jpg> 西田氏のひめゆり発言 研究者批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537837>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/163d5edf464fef303c12a57f55e6430747990e6f6329a1019d1d955c8ae78b1c.jpg> ルーマニア首相が辞任を表明
+      <a href=https://news.yahoo.co.jp/pickup/6537849>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/9c50f3dfb6be7f519f1d5430892f6578a984c98eed4087312303957f99e97e9c.jpg> オープンAI 営利企業への転換断念
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/17fa63cf845737623661b5e2925bb634e395b877d27fb6a00ab7b0f7fb92991a.jpg> マイクラ話題 ゲーム映画の爆発力
+      <a href=https://news.yahoo.co.jp/pickup/6537855>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/09e63b9eaa25c2478e0cadee9ed0df06077ed5c77177db8a84b21992cd160869.jpg> 亀梨が犬の姿で出演 独立後初MC
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 10:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 10:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
