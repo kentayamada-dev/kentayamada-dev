@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/89adbc6eee7cab35200741c27b7364dd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/133044733273e5869e2d66f175e6f012.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0195f99528fc43a5ba07e1420bf8861e0664fd2f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-05061056-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が９号２ラン＆今季１０盗塁も　ロバーツ監督「驚かなかったよ」　“伝説の地”は「居心地いい」
+      <a href=https://news.yahoo.co.jp/articles/224da4c97dca73cde85cd30b26bebab3b8ac3414>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00010010-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> キム・ヘソンの活躍に韓国メディアが歓喜の嵐　大谷翔平と「喜びのセレモニーを行った」韓日コンビが“クレイジー”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/14b627757e85b8303de6dbbbbdd6018893d2b9fb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米政権、米国から出国する不法移民に１４万円提供　自主退去促す狙い
+      <a href=https://news.yahoo.co.jp/articles/4bf252104c003c9623ad2f7c277f393630b715cb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-05061061-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース４番に離脱の可能性浮上　左太ももの張りで途中交代　精密検査の結果次第で…
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a853b1abc9cd959aa755da742814ef6e940fac7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000003-yonnana-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=573&ch=573&exp=10800&fmt=webp> 念願の訪日果たしたフランシスコ死去、日本人記者と教皇の思い出
+      <a href=https://news.yahoo.co.jp/articles/512bacebbe8c4e50fd8e057250209f1480bbcec9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234740-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “ローマ教皇風の画像”めぐりトランプ大統領「フェイクメディアは冗談を理解しない」批判どこ吹く風
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/742e402858c2bd59799b39877ea4616ebdaf2602>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-90023106-nbstv-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=482&cy=0&cw=1237&ch=1237&exp=10800&fmt=webp> 「登山道から100ｍほど滑落した」と救助要請　警察、消防など12人体制で捜索　午前2時過ぎ、埼玉県の49歳男性を救助　重傷の模様　戸隠山で遭難
+      <a href=https://news.yahoo.co.jp/articles/0f0a232c71ee0eccb5c0a5d38a169a3925e6184a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-21896212-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 長野県内で山岳遭難相次ぐ　5日は6件発生し3人が重傷　大型連休中は少なくとも24件で4人死亡
       </a>
     </td>
   </tr>
@@ -396,6 +396,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537854>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/fe24d1dbc44cb2604a4b06c1fe26adb492cd69556f8c04c354fc02f99d359513.jpg> 再エネ発電苦境 発電所の倒産最多
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537866>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/799fb1905bc98cf141fd339743bf15b22ddbb9a34f249a8c7492c3b0de09f71a.jpg> 米政権 不法移民に帰国費提供へ
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537849>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/9c50f3dfb6be7f519f1d5430892f6578a984c98eed4087312303957f99e97e9c.jpg> オープンAI 営利企業への転換断念
+      <a href=https://news.yahoo.co.jp/pickup/6537862>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/60913fa1f92e28d7834a766a16f5e97e82d98e645ab710622b51069ad2f36588.jpg> 渋滞減らすため 運転中できること
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537851>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/23e564bfced10b84f15741c0554d4f208e61969d28016d8053cbfa78b0cdcb13.jpg> 大谷翔平が豪快9号ホームラン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/75a683538e1bdc96ac41d1a1771d7668f80ee92fa3d48c7786d9bef955d2eff2.jpg> 五輪選手→モデル 転身の理由
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 11:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 12:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
