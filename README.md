@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9ca963ea26241f90f5d564c123a82aca.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f43fb404423e5b6c804060f29bc5fe22.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/19a809b607cc96262a953a1ce56b5e69b5223883>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-03957271-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> 次の教皇を選ぶ「コンクラーベ」日本時間7日夜から
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5a66bb5a54a4c02dd09e34f0594706637bbf6164>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35061561-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=1061&ch=1061&exp=10800&fmt=webp> 嵐が解散発表　最後までファンファースト貫き来春開催コンサートツアー終了をもって活動終了
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35061561-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=1061&ch=1061&exp=10800&fmt=webp> 嵐が解散発表　最後までファンファースト貫き来春開催コンサートツアー終了をもって活動終了
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/efd40d9d74e696f8cbc33fb8bf907b851512056b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-01748646-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 米記者が思わず繰り返した大谷翔平9号の凄み　わずか2年でド軍の歴史を“独占”
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-01748646-fullcount-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 米記者が思わず繰り返した大谷翔平9号の凄み　わずか2年でド軍の歴史を“独占”
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 05:31:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 06:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
