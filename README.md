@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b5f79de41a2bf15e9867fd2fb80d0ac9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e227dee1545306bdc17305efd9856e4c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/401852f8af7fabf94ff232af2efde1258b7f0806>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000028-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=391&ch=391&exp=10800&fmt=webp> 明日からコンクラーベ…サンピエトロ広場を除いてバチカン内の携帯電話通信を遮断
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e5227fe1473f8b629913786418269278db5cdb28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00050032-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 横須賀の酒気帯び運転による多重事故、同乗していた男性が出頭「パニックになり立ち去った」
+      <a href=https://news.yahoo.co.jp/articles/edd8a2fbdbee33cd30e9580a5af21329cd5de0bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ニュースワード「コンクラーベ」
       </a>
     </td>
   </tr>
@@ -375,6 +367,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/aa44cb9095a47807af459439b4abfe85f804abce>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00532872-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷衝撃HRより「こっちの方がビッグイベントに」　視線を奪われた米実況席「ブルペンを見て」お祭り騒ぎを紹介
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/708f81dbd1a49beff75bddb84cbd66294626c4e8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-21895966-jnn-000-1-thumb.jpg?exp=10800&fmt=webp> 「娘が変わり果てて帰ってきたら憎しみしかない」岡崎彩咲陽さんの父親語る　ストーカー被害「相談した」「受けた認識ない」親族と警察で食い違う言い分【news23】
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537875>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/af76a02e57e368a46eec2b88ccf428e7efde9b44ddab45475cd8197c02680da7.jpg> 横須賀事故 逃走の同乗者が出頭
+      <a href=https://news.yahoo.co.jp/pickup/6537885>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/614d266e4fdb8988af26225051f87f0cf2a393271354d088b4e585a14995ec57.jpg> 川崎女性死体遺棄 祖母が涙の訴え
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537881>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/e78194527706db8f3ae240d4c509bd4d10820f38c4b18393b56d157cf581a165.jpg> 更衣室で女性を切りつけ疑い 逮捕
       </a>
     </td>
   </tr>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537870>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/00ed7303f21c19ba246668d777d62c730201b86f5911bb99eee13f5eb82eaeb9.jpg> キム・ヘソンMLB初安打 大谷祝福
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537876>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/45a60981f70d8ee7e7fd63f7849c053b5ddafe3a8682adf2b2d77ff62d8a6075.jpg> 盲目の芸人 新喜劇で主演の覚悟
+      <a href=https://news.yahoo.co.jp/pickup/6537879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/bc55a91cc93532b5d43981b7a2e476c7faf4089736d836b3c90a8e4452c34490.jpg> スタッフが9号掴み興奮 大谷反応
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 15:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 15:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
