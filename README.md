@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c142edf9dc876150daa58b9a8fd1b557.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/34e15fb5885e71835e98db4c34823904.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e50cec4eec4b9fbe672602e5fe55b946ad77a5f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00968038-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=526&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏 イエメンへの攻撃停止　フーシ派はイスラエルへの攻撃継続を表明
+      <a href=https://news.yahoo.co.jp/articles/6a6a23a4cb86838da8914fab145f32406c102a4e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000010-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=413&ch=413&exp=10800&fmt=webp> トランプ大統領、フーシへの空爆停止を表明　「降伏した」と主張
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6b59a7f2602af6f828ee78c85862c4d7e600b67f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177021-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=344&cy=0&cw=781&ch=781&exp=10800&fmt=webp> ドイツの新たな首相にメルツ党首が就任 異例の「再投票」での選出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2cb08bfbc66b9946d90f721b1d068aacce7bdd59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177019-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 次期教皇を選ぶ「コンクラーベ」 7日にバチカンで開始
       </a>
     </td>
   </tr>
@@ -371,22 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57bac3c84a0db37b5cf5088c623377277273c26c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00968034-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> きょうから「コンクラーベ」新たなローマ教皇選出へ　枢機卿133人が投票…リストに前田枢機卿と菊地枢機卿の名前も　バチカン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b79d2d703274a4baf552984d2bd62381871ab329>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000001-jisin-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大野智　活動休止中の“ワイルドなヒゲ”を全剃り…嵐解散に見せた「リーダーの覚悟」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -395,7 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/fcc86b572bfeffc999c8159e96a3c0d436745a10e83c208c29eb706b36639fc0.jpg> 印 係争地のパキスタン側に攻撃
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/f6e80339865fb908f864c5a0019caaa1db93f2a701343e250af671655f8c6c65.jpg> 印 係争地のパキスタン側に攻撃
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537938>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/fe3353e54a93697f49bb06caee75a574deeebd1144dc16558e6a56ee3f52d180.jpg> フーシ派 船舶攻撃停止で米と合意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537932>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/89664be5521e9f313add1b742b9f1e4ef9d0f6833d07f645d1e41f0a689eea68.jpg> ドイツ新首相にメルツ氏選出
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537928>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f45226885bd31fd1620467e84ff3b50396ca458b4cbeff44a5c11a72b90b9cba.jpg> 小4のバリスタ コーヒーは大嫌い
+      <a href=https://news.yahoo.co.jp/pickup/6537940>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/9496fcd52c33e148253903a64d3275cfc42040059268b6beef7de2694781a1d2.jpg> 男子入学0も 地方私立短大の苦境
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537941>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/0d3aba7ff5ef32ab8c5ad4c32004cd82f3d3abb6de4d5c508ac8644bf6a7b5c5.jpg> 若年層も注意「スマホ認知症」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 07:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 07:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
