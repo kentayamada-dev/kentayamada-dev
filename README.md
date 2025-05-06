@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/XAfFIH5LD1g?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/933ec778afcbae79c29a299dd02bce56.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5af2834548cadee687610670a4dce5f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec522dad83dca34121816e6ab0151d7c608c9bd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234749-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 死者4人 長野県の大型連休山岳遭難は24件 きのうも戸隠山などで滑落 大けがも
+      <a href=https://news.yahoo.co.jp/articles/94dd546968a4c272c2d8bcfb7e343e221e8f8ad6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-21894355-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 2試合ぶり9号も「この時期に一番良い状態になることがあまりない」更なる向上へ SNSではキムを祝福
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d73cda3bbf37be501d05956ae2bf73f4e6650e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00343544-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が初安打のキム・ヘソンとベンチでハグ　ＬＡタイムズ「忘れられない瞬間共有」
+      <a href=https://news.yahoo.co.jp/articles/ec522dad83dca34121816e6ab0151d7c608c9bd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234749-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 死者4人 長野県の大型連休山岳遭難は24件 きのうも戸隠山などで滑落 大けがも
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537854>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/fe24d1dbc44cb2604a4b06c1fe26adb492cd69556f8c04c354fc02f99d359513.jpg> 再エネ発電苦境 発電所の倒産最多
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537866>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/799fb1905bc98cf141fd339743bf15b22ddbb9a34f249a8c7492c3b0de09f71a.jpg> 米政権 不法移民に帰国費提供へ
       </a>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537852>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/2e3ac25c659edcfd1571c2809895ce2d3059475b7cc93e5270470e7698043f4d.jpg> 西田氏のひめゆり発言 研究者批判
+      <a href=https://news.yahoo.co.jp/pickup/6537838>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/819fc23e7d20a20770f9fc341f3ebb17fe3dfb50087c2c9fba52a9c473173a4b.jpg> 中絶規制報道にピュリツァー賞
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537870>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/00ed7303f21c19ba246668d777d62c730201b86f5911bb99eee13f5eb82eaeb9.jpg> キム・ヘソンMLB初安打 大谷祝福
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 12:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 13:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
