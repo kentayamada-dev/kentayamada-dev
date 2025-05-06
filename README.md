@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/04d0c9c8067db0df504fed35e1334d81.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ff371d14d5bca929cec497d42cb5ef80.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2a79de3dc74c9e3effbd366711bffdcff8d5e48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00010001-tvkv-000-1-thumb.jpg?exp=10800&fmt=webp> 横須賀市酒気帯び運転事故　立ち去った同乗者が出頭「血をみてパニックに」
+      <a href=https://news.yahoo.co.jp/articles/8b5b5a6ec04415f02039ac572fdc81c7c8626301>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35061047-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=1061&ch=1061&exp=10800&fmt=webp> 再始動＆解散発表の嵐、メンバー５人の近況は　リーダー大野は活動休止中、二宮はYouTubeも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c140120a6b637896ac3631f0cea161a154a84fc0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-03958449-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> “飲酒暴走”8台に衝突　「パニックに…」立ち去った同乗者が出頭　神奈川・横須賀市
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5a6ff63f4b55e2b31f884c25cc031405f2477f3a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-08548266-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 今年も数学サボって大谷翔平を観戦？　“50-50”達成の試合と同じボードが掲げられる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29a385485a4ed518936df20cc98ba8511a28eef4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00967807-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 白井秀征容疑者（27）の親族が警察に「女性を殺してしまったかもしれない」川崎市20歳女性遺体遺棄　神奈川県警の対応に問題なかったか調査も
       </a>
     </td>
   </tr>
@@ -394,14 +394,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537886>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/30002b9c71ba7700c92e906b909f0b9d1becd2dc139fb7eb3cd290d53dcd789e.jpg> 夫婦別姓 今国会成立見通し立たず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537891>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/konnoharuki/02198643/title-1746505088104.jpeg?exp=10800> 連休後「大量離職」必要な改革は
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537900>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b812757bb11595984ca0ff23d06b429e940751f8f1924123d26c673c25f4069d.jpg> 1人10校担当も 学校医足りず悲鳴
+      <a href=https://news.yahoo.co.jp/pickup/6537898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/fc91194334f6b0b2fc8b3d8177ca7c2e7f692d5e35c46c64da3d08f5060d26a9.jpg> 元引きこもり採用 会社に良い効果
       </a>
     </td>
   </tr>
@@ -450,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537906>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/8e36924c20cb9f198649ecc1afe19ab7a5e129ca5832660023bf94665bd4fb9b.jpg> 嵐が来年5月で解散 ツアー開催へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537883>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f5b9756f977948ab8d19b8dbe80b7a7826c02f6787fbde8bbb275b76d101406a.jpg> 実写の白雪姫 赤字で終わる公算大
       </a>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 18:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 19:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
