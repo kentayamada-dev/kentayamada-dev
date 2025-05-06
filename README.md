@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/XAfFIH5LD1g?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/133044733273e5869e2d66f175e6f012.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/933ec778afcbae79c29a299dd02bce56.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/224da4c97dca73cde85cd30b26bebab3b8ac3414>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00010010-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> キム・ヘソンの活躍に韓国メディアが歓喜の嵐　大谷翔平と「喜びのセレモニーを行った」韓日コンビが“クレイジー”
+      <a href=https://news.yahoo.co.jp/articles/ec522dad83dca34121816e6ab0151d7c608c9bd4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234749-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 死者4人 長野県の大型連休山岳遭難は24件 きのうも戸隠山などで滑落 大けがも
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bf252104c003c9623ad2f7c277f393630b715cb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-05061061-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=800&ch=800&exp=10800&fmt=webp> ドジャース４番に離脱の可能性浮上　左太ももの張りで途中交代　精密検査の結果次第で…
+      <a href=https://news.yahoo.co.jp/articles/9d73cda3bbf37be501d05956ae2bf73f4e6650e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00343544-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が初安打のキム・ヘソンとベンチでハグ　ＬＡタイムズ「忘れられない瞬間共有」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/08bc380ade21ef0157202fb501143d5ac2b76fed>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-09239111-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平が9号2ランを放ち10号まであと1発　54HRでホームラン王の昨季はいつ10本目打った？
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/512bacebbe8c4e50fd8e057250209f1480bbcec9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234740-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> “ローマ教皇風の画像”めぐりトランプ大統領「フェイクメディアは冗談を理解しない」批判どこ吹く風
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f0a232c71ee0eccb5c0a5d38a169a3925e6184a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-21896212-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=332&ch=332&exp=10800&fmt=webp> 長野県内で山岳遭難相次ぐ　5日は6件発生し3人が重傷　大型連休中は少なくとも24件で4人死亡
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/23e564bfced10b84f15741c0554d4f208e61969d28016d8053cbfa78b0cdcb13.jpg> 大谷翔平が豪快9号ホームラン
+      <a href=https://news.yahoo.co.jp/pickup/6537868>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/fc86c49cf6e7f3bdc7f7a5322db8cd2f5c4055be1de7ffa377676ba960343243.jpg> 財政難の天文台 コナンが救世主
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 12:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 12:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
