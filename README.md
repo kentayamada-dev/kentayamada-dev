@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/34e15fb5885e71835e98db4c34823904.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f40291e3a7a31c1dc5d065b56348ab6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d47eece69bf34701360bb5ee637550c9fd1c225>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 教皇選挙、期間中は携帯電話の信号遮断 バチカン
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6a6a23a4cb86838da8914fab145f32406c102a4e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000010-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=413&ch=413&exp=10800&fmt=webp> トランプ大統領、フーシへの空爆停止を表明　「降伏した」と主張
       </a>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6b59a7f2602af6f828ee78c85862c4d7e600b67f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177021-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=344&cy=0&cw=781&ch=781&exp=10800&fmt=webp> ドイツの新たな首相にメルツ党首が就任 異例の「再投票」での選出
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2cb08bfbc66b9946d90f721b1d068aacce7bdd59>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177019-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=781&ch=781&exp=10800&fmt=webp> 次期教皇を選ぶ「コンクラーベ」 7日にバチカンで開始
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177021-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=344&cy=0&cw=781&ch=781&exp=10800&fmt=webp> ドイツの新たな首相にメルツ党首が就任 異例の「再投票」での選出
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 07:30:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 08:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
