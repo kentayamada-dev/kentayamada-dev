@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/464f64d1f980f3d6a46a94fb4e2dd3e0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/030d7e60a8b2409cd39b19763073a98a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ab04985c02d7ae42bc689ca16210cd672a3d0d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-90024240-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 相次ぐ“飲酒運転”　カメラ捉えた事故の瞬間　酒を飲むとどんな影響？
+      <a href=https://news.yahoo.co.jp/articles/77cbcc6db384c1c6dc665b098c321e22825a4404>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00050046-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> あすコンクラーベ開始、「秘密投票」は筆跡変える必要も…携帯電話をあずけ外部との接触禁止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9059e447a23c4d09211ca9790338879295c53b9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00092330-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 嵐、2026年春で活動終了　グループ最後のツアーは来春開催予定
+      <a href=https://news.yahoo.co.jp/articles/7ab04985c02d7ae42bc689ca16210cd672a3d0d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-90024240-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 相次ぐ“飲酒運転”　カメラ捉えた事故の瞬間　酒を飲むとどんな影響？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/65623fafc341cc70c225a0d5239b05307105af1a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-15108196-kbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=422&ch=422&exp=10800&fmt=webp> ＧＷ最終日　ＢＢＱの残り火か　福智町・粕屋町で火災相次ぐ
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/363ce264f7222842ba17fc575fb5a1995a987fae>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35060884-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=9&cw=966&ch=966&exp=10800&fmt=webp> 熟練の“ハンター”でもノーチャンスの出来事だった大谷翔平の50号落下地点／Nobu’ｓ Eye
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5ba1fc82de6e39550295cc3e48f3699f7e6ec36a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00003404-kab-000-4-thumb.jpg?exp=10800&fmt=webp> コンクラーベ前に映画「教皇選挙」関心高く　上映館では満席の日も
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b27fd556e7b2961902eae10a0f925026d67b66cdf39fa97a964c63ff71ae8bb6.jpg> 忘れないで コロナ後遺症闘う19歳
+      <a href=https://news.yahoo.co.jp/pickup/6537916>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/1ebf189c5b1f78b21e9ede83c7617300e6d676a7c068409111353019836a54b3.jpg> BBQの炭原因か 福岡で火災相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537912>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/64a484c4e9f0ed4f3e24cdc50c30b53928c7bc9f742244c3a6e92f601a70d813.jpg> 無断欠勤OK 効率上がり利益増
       </a>
     </td>
   </tr>
@@ -434,24 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/03017462ef27c025de460b91eca2459080ab2c0dcae5b6f394799e0c4db99c27.jpg> 中日・勝野が160km連発 球場騒然
+      <a href=https://news.yahoo.co.jp/pickup/6537914>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/8a59d05275fbacdd6dc3eb463e6fa71a8a5f4ab23e2099987427121d0b70d76c.jpg> 岡本和真が初回に緊急交代 騒然
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537906>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/8e36924c20cb9f198649ecc1afe19ab7a5e129ca5832660023bf94665bd4fb9b.jpg> 嵐が来年5月で解散 ツアー開催へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537883>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f5b9756f977948ab8d19b8dbe80b7a7826c02f6787fbde8bbb275b76d101406a.jpg> 実写の白雪姫 赤字で終わる公算大
+      <a href=https://news.yahoo.co.jp/pickup/6537913>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/e2621c52a20f791fe8be504d32ba64f689aab6b56c2aa064b1cc55af620957e2.jpg> 嵐が解散発表 大野1587日ぶりに姿
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 20:30:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 21:00:18 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
