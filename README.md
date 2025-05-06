@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ab8966e8d9a2a95789645d6cf39a3d21.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/652d1ebf5b3511caff3c448a209951bb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f8af5021b9c81eff31e026fd6833248a9f216e3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00096107-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「魔法のようだ」大谷翔平“伝説の地”でまたも大活躍、今季MLB最速の弾丸９号「ローンデポ・パークをこよなく愛している」
+      <a href=https://news.yahoo.co.jp/articles/dc3431939487fc92600640c4a8495c2809b432a9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-10176955-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=539&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> 打った瞬間すでに歓声…大谷翔平の9号“高速弾”、凄まじい打球音に敵地驚き 「弾丸のような爆発音」球場どよめき止まず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/335c4fe8f812dafd1931dbaf75af9252f3c8c14c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000052-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=167&cw=667&ch=667&exp=10800&fmt=webp> 酒気帯び車の同乗男性が出頭　横須賀・多重衝突で現場立ち去り
+      <a href=https://news.yahoo.co.jp/articles/4d541d35e006770c28b5bc0c3de3eefa9b2fc1ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234772-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「パニックになった」飲酒運転の乗用車が8台と衝突した事故で現場から立ち去った同乗者の男性が出頭　神奈川・横須賀市
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537858>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/628a58d2b88084765a2bbff515a81d520c1104cd1051fce903b4cde47c0f5d16.jpg> 切断遺体 都会の死角で捜査難航
+      <a href=https://news.yahoo.co.jp/pickup/6537875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/af76a02e57e368a46eec2b88ccf428e7efde9b44ddab45475cd8197c02680da7.jpg> 横須賀事故 逃走の同乗者が出頭
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537871>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/45a60981f70d8ee7e7fd63f7849c053b5ddafe3a8682adf2b2d77ff62d8a6075.jpg> 盲目の芸人 R-1優勝後抱えた葛藤
+      <a href=https://news.yahoo.co.jp/pickup/6537876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/45a60981f70d8ee7e7fd63f7849c053b5ddafe3a8682adf2b2d77ff62d8a6075.jpg> 盲目の芸人 新喜劇で主演の覚悟
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 13:30:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 14:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
