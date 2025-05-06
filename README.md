@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/77f4fe47e418c57df2a7b648c85244ef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/13287eb43b3afbb450e8a39d35015599.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf4f160db5dfd06b4bfefca6a308f2fa076b7481>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000118-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=930&ch=930&exp=10800&fmt=webp> 大谷翔平「50・50」達成の地で9号〝ロケット弾〟！打球速度は今季メジャー最速189.7キロ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/dca28e5317bf2fc48bce856e948a00fb45fa4208>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234894-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=793&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】ドイツ連邦議会 2回目の投票でメルツ氏を首相に選出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/993b46811ff805c81d6a8e784ca0c33ba59c0414>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00010005-shinmai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 八ヶ岳連峰赤岳　登山中にはぐれた男性が死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3358fdc8e9058eea22af25f685a28d572cb645a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000361-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 櫻井翔がコメント　「カメラの前に5人で並び…」　嵐の解散発表後「news　zero」で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa8cae507695b2df1a5541c92d2cbbe3476e5764>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-90022521-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手が豪快9号ホームラン 、ＭＬＢ最速弾　後輩の初ヒット“祝福”も話題に
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537932>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/89664be5521e9f313add1b742b9f1e4ef9d0f6833d07f645d1e41f0a689eea68.jpg> ドイツ新首相にメルツ氏選出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537926>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/aeb228cf368f6a16a1b975697135a81b987210b428695b2b26437146767b6f14.jpg> アメリカの3月貿易赤字 過去最大
       </a>
@@ -402,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/31394ef1a0ca7828bdb80252b5bbebcdf68deaca30e91c2ce3426db166e3f36e.jpg> ウ 露の戦勝記念日前に攻撃活発化
+      <a href=https://news.yahoo.co.jp/pickup/6537930>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b85946e6b44c5af51900c5be4564f932d242df7bf3d9f20ce32eac7a0e870d5b.jpg> 維新また内紛 離党議員語る違和感
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537931>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/c18233ef96cd93cc92372e27aab0743e956a6412ff8db928e545333e191d77ad.jpg> ショルツ氏が首相退任式で涙 独
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/319f1b1642f1e0c0ee082a55555fd3701650c396aa651340d07a646373f208b5.jpg> ネット上の性的広告 規制に賛否
+      <a href=https://news.yahoo.co.jp/pickup/6537909>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/7b594ca53201a089a273c69a155850932146b6c0da34f08ebf2d5237f2907382.jpg> バスと衝突 飲酒運転の事故相次ぐ
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 23:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 23:52:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
