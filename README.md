@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cbae606642786e4cb4850d6f3c82b160.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c142edf9dc876150daa58b9a8fd1b557.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57bac3c84a0db37b5cf5088c623377277273c26c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00968034-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 7日から「コンクラーベ」　新たな教皇選出へ準備進む
+      <a href=https://news.yahoo.co.jp/articles/9e50cec4eec4b9fbe672602e5fe55b946ad77a5f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00968038-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=526&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ氏 イエメンへの攻撃停止　フーシ派はイスラエルへの攻撃継続を表明
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75f571c3318447712246ffdf4fb0a29e04db71e1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-05071015-sph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=702&ch=702&exp=10800&fmt=webp> 大谷翔平のホームランキャッチで話題　ド軍理学療法士が爆笑会見　「ホームランゲーム」で“史上初”の予言的中
+      <a href=https://news.yahoo.co.jp/articles/00c9a5ec097974f8247fcac041f8d7fff64260f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177007-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 大谷翔平、9号弾丸ライナーで“想定外のハプニング”「ヤバいw」「ミラクルすぎ」190km“ロケット打球”がブルペンに爆速到達→まさかの展開
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/57bac3c84a0db37b5cf5088c623377277273c26c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00968034-fnn-000-2-thumb.jpg?exp=10800&fmt=webp> きょうから「コンクラーベ」新たなローマ教皇選出へ　枢機卿133人が投票…リストに前田枢機卿と菊地枢機卿の名前も　バチカン
       </a>
     </td>
   </tr>
@@ -374,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b79d2d703274a4baf552984d2bd62381871ab329>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000001-jisin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大野智　活動休止中の“ワイルドなヒゲ”を全剃り…嵐解散に見せた「リーダーの覚悟」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000001-jisin-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 大野智　活動休止中の“ワイルドなヒゲ”を全剃り…嵐解散に見せた「リーダーの覚悟」
       </a>
     </td>
   </tr>
@@ -394,6 +402,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/fe3353e54a93697f49bb06caee75a574deeebd1144dc16558e6a56ee3f52d180.jpg> フーシ派 船舶攻撃停止で米と合意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537932>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/89664be5521e9f313add1b742b9f1e4ef9d0f6833d07f645d1e41f0a689eea68.jpg> ドイツ新首相にメルツ氏選出
       </a>
@@ -402,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537909>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/7b594ca53201a089a273c69a155850932146b6c0da34f08ebf2d5237f2907382.jpg> バスと衝突 飲酒運転の事故相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6537939>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ac65d8560b0c10c34df52ce2c12149e201f50637629f536acc64cf12270c3c77.jpg> MUFG ネット専業の新銀行設立へ
       </a>
     </td>
   </tr>
@@ -434,14 +450,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537933>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/783112665a25af365fbd82fb4c2de4d2927021fb7d81e6d8e59d3041ad02ad8a.jpg> 岡本和真と交錯 表情曇る中野拓夢
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537935>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/c81e71c492162191004cd0cb17b20b771c442f0d0dbdbd6f5fbd75d1ddd81274.jpg> 櫻井翔 嵐解散の発表受けコメント
       </a>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 06:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 07:00:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
