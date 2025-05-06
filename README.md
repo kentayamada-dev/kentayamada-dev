@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/23a1f568566730eff3a23333159b9a63.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d9214803cea25c17841834616201dc4f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc7e80f164832234e41a059f26300c70e161b3a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-90023117-nbstv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 八ヶ岳連峰赤岳付近で遭難　男性が死亡　同行者とはぐれ、斜面で倒れている状態で発見　大型連休、山岳遭難相次ぐ　26件発生、死者5人に　
+      <a href=https://news.yahoo.co.jp/articles/dabc8a0ad1865132f644ae33f9b5325bbdd48d46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00010004-tvtokyos-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督 大谷翔平とキム・へソンとの関係に「謙虚で本当にいいやつ。正直、チーム全員が大好きなんだ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6932d7132fc495176934391b83f2ce26e15b7044>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00010000-tvtokyos-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ブルペン大はしゃぎ！大谷翔平の弾丸アーチをド軍フィジカル・セラピストが見事にキャッチ！両手を上げ大喜び
+      <a href=https://news.yahoo.co.jp/articles/dc7e80f164832234e41a059f26300c70e161b3a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-90023117-nbstv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 八ヶ岳連峰赤岳付近で遭難　男性が死亡　同行者とはぐれ、斜面で倒れている状態で発見　大型連休、山岳遭難相次ぐ　26件発生、死者5人に　
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 00:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 01:00:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
