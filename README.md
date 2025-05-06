@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d4d41300d061f00d4ec3fb0f6f411ffa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ea9f9462776a2b97252142bb479b42f2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/24e51784ffd88ccdeb682afa7e93998231181fe0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000007-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=407&ch=407&exp=10800&fmt=webp> トランプ氏銃撃報道などにピュリツァー賞　公益部門はプロパブリカ
+      <a href=https://news.yahoo.co.jp/articles/7c1fa1ea3adc3780add31a7d3f58b00028d9a952>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35060115-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平９号は時速190キロ！　角度20度の超速ライナーで右翼ブルペンに飛び込む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52f33e105d65354febbd8dae3bdc46e0763bf948>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00010003-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 会津駒ケ岳と燧ケ岳で山岳事故　滑落や転倒、ヘリで救助　福島・檜枝岐
+      <a href=https://news.yahoo.co.jp/articles/426ee66a1794e981faa86d553ee2c1933495b3a1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-09819169-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=25&cy=0&cw=506&ch=506&exp=10800&fmt=webp> オープンAI、営利企業への転換を断念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ad699669124ec062a5e5eb9d831162f49a0af10e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-21896030-sbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=433&ch=433&exp=10800&fmt=webp> 戸隠山で遭難した埼玉県の男性（49）を救助　「登山道100メートルほど滑落」行動不能に　長野
       </a>
     </td>
   </tr>
@@ -426,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537839>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/0ec9c86ff2e008a3d9ed2aa47b189c7e154d4fa20c4d9982ba25aa6a02dc7d10.jpg> JR西株を1億円分保有 市の狙い
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537848>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/0c141071278c0926c3e7abc7d60d6bcb7ea65067ed534bbe8295d9a4aece47f7.jpg> 退職代行 なぜGW明けに依頼増
       </a>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537833>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/4effbd707b6696c800b9c587b6d95e5ab640d32d8a3f1c06da223e62bd09c6e3.jpg> カブス今永昇太 負傷者リスト入り
+      <a href=https://news.yahoo.co.jp/pickup/6537851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/23e564bfced10b84f15741c0554d4f208e61969d28016d8053cbfa78b0cdcb13.jpg> 大谷翔平が豪快9号ホームラン
       </a>
     </td>
   </tr>
@@ -456,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/17fa63cf845737623661b5e2925bb634e395b877d27fb6a00ab7b0f7fb92991a.jpg> マイクラ話題 ゲーム映画の爆発力
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 09:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 09:30:59 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
