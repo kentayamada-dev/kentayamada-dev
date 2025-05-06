@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/XAfFIH5LD1g?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae63cbe8b78dfcc75b3b3d93371c1056.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6cb8777d1682d7fd789fb1ebf4718362.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f62ab97a4d86914218c71a11076337233502b7ac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35061544-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=1177&ch=1177&exp=10800&fmt=webp> 【巨人】激震！岡本和真が長期離脱濃厚　左肘負傷交代「時間かかるという診断だった」阿部監督
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/fb32053128d6b371d0cb014aa53dd73d8624b4cd>
@@ -374,15 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/77cbcc6db384c1c6dc665b098c321e22825a4404>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00050046-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> あすコンクラーベ開始、「秘密投票」は筆跡変える必要も…携帯電話をあずけ外部との接触禁止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96640772af5a0dd3c145b5f5e178e52d8b012fc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000004-gtv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 上武道路家族３人死亡事故から１年　遺族 飲酒運転根絶訴え　群馬・伊勢崎市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00050046-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> あすコンクラーベ開始、「秘密投票」は筆跡変える必要も…携帯電話をあずけ外部との接触禁止
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537897>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/e5a647d14cd34893e1c2910df6558fc5a0575f5a102f15207442cfcd28ffaf3c.jpg> ストーカー 警察は通常どう対応?
+      <a href=https://news.yahoo.co.jp/pickup/6537910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/e030da2c6e6da1a1b5131e2851afa80f27f29a136f1a7742eae3b3aa0cc84a68.jpg> 関電 国内最大級の蓄電所建設へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537916>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/1ebf189c5b1f78b21e9ede83c7617300e6d676a7c068409111353019836a54b3.jpg> BBQの炭原因か 福岡で火災相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6537919>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/07477d5afdff076976d8964c1626f9091fde8216ba5b43c1731f80efecbcd203.jpg> 3人死亡事故 母「つらいまま1年」
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b0f3336a6e9970dc363d779f10408f458eeaeaf2e1d54159e7c5293fbcb42fe0.jpg> 熟年離婚後 人生で最後の婚活盛況
+      <a href=https://news.yahoo.co.jp/pickup/6537905>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/4d17d430a8650e426b39cdcf269532013d6e6c567e8c4696eda9e71bbf11e836.jpg> 感染原因か 相次ぐ海鳥の異常行動
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/8a59d05275fbacdd6dc3eb463e6fa71a8a5f4ab23e2099987427121d0b70d76c.jpg> 岡本和真が初回に緊急交代 騒然
+      <a href=https://news.yahoo.co.jp/pickup/6537922>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b02e5c94d576da6a6067760fed52205d501295bbfd314e8cc3662da93683027b.jpg> 岡本和真は長期離脱見通し G監督
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 21:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 22:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
