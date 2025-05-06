@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b33373a87e5855d27cbc7586de0a13f6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/04d0c9c8067db0df504fed35e1334d81.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80fd017115caab3dff2dba49e4086a47bc6d4afe>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35060684-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=42&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 岸博幸氏「許しがたい」横須賀多重事故起こした運転手に怒り「こんなスピードでは避けようない」
+      <a href=https://news.yahoo.co.jp/articles/e2a79de3dc74c9e3effbd366711bffdcff8d5e48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00010001-tvkv-000-1-thumb.jpg?exp=10800&fmt=webp> 横須賀市酒気帯び運転事故　立ち去った同乗者が出頭「血をみてパニックに」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5a6ff63f4b55e2b31f884c25cc031405f2477f3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-08548266-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 今年も数学サボって大谷翔平を観戦？　“50-50”達成の試合と同じボードが掲げられる
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/29a385485a4ed518936df20cc98ba8511a28eef4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00967807-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 白井秀征容疑者（27）の親族が警察に「女性を殺してしまったかもしれない」川崎市20歳女性遺体遺棄　神奈川県警の対応に問題なかったか調査も
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2b73e79d89acb93417cc16455bbbdc5fe3786aab>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000079-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1954&ch=1954&exp=10800&fmt=webp> 教皇選挙「改革推進できる人を」　投票に臨む東京大司教、予測困難
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f6381cc63aeca1e23056fef219a957ce4e47fa0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00967801-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> ポルシェと京都市バスが正面衝突　バスの乗客1人がケガ　ポルシェの運転手の男からアルコール検知　過失運転致傷などの現行犯で逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa44cb9095a47807af459439b4abfe85f804abce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00532872-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷衝撃HRより「こっちの方がビッグイベントに」　視線を奪われた米実況席「ブルペンを見て」お祭り騒ぎを紹介
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537888>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/2137164c13f325f8145473c221ef4beab1d752e0000817d7c109effda7207492.jpg> 教皇選挙中 バチカン携帯通信遮断
+      <a href=https://news.yahoo.co.jp/pickup/6537891>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/konnoharuki/02198643/title-1746505088104.jpeg?exp=10800> 連休後「大量離職」必要な改革は
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537891>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/konnoharuki/02198643/title-1746505088104.jpeg?exp=10800> 連休後「大量離職」必要な改革は
+      <a href=https://news.yahoo.co.jp/pickup/6537902>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/6d1398186b9408cb9f725db6f46978f3eabdf9d410c7c6a59401c287cded4ebf.jpg> 川崎遺体 1月に男の関与疑う証言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537900>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b812757bb11595984ca0ff23d06b429e940751f8f1924123d26c673c25f4069d.jpg> 1人10校担当も 学校医足りず悲鳴
       </a>
     </td>
   </tr>
@@ -426,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537894>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/45c35ed0f7739ea043cb8ff9d4c64a526f5854f3dfc5915c97142e3fcb5d6414.jpg> マック披露宴も 中国で地味婚流行
+      <a href=https://news.yahoo.co.jp/pickup/6537896>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b27fd556e7b2961902eae10a0f925026d67b66cdf39fa97a964c63ff71ae8bb6.jpg> 忘れないで コロナ後遺症闘う19歳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537895>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/eeb723e0f70ac11ec26fd60ff8267ac130514609dc1250cdaaa9af9f24853d09.jpg> 日ハム清宮幸太郎 魚雷バット1号
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537893>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/47fb828535e1e9fe6f770513eaa4c312447e916f18072db6e0e8437448ae4293.jpg> 村上宗隆復帰めど立たず 監督言及
+      <a href=https://news.yahoo.co.jp/pickup/6537904>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/eeb723e0f70ac11ec26fd60ff8267ac130514609dc1250cdaaa9af9f24853d09.jpg> 清宮幸太郎 魚雷バットで初HR
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 18:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 18:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
