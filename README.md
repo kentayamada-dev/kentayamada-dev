@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/XAfFIH5LD1g?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ff293f41a2d3b71731b107be71fb1bd0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4bd5417014dbc6f08d76e737ed102e2a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2c32bfe1c65d04d89f4b25607ec6397425e21e7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000350-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1153&ch=1153&exp=10800&fmt=webp> 阪神・藤川球児監督「初回から気が重くなったプレーですね」　岡本、そして仲良しの中野も気遣う
+      <a href=https://news.yahoo.co.jp/articles/0c19d233f65636b044e70b87bcd45c6ec903833f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000349-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 嵐解散発表　「報ステ」トップニュースで報じる　大越健介氏「3年前、メンバーの…」
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/77cbcc6db384c1c6dc665b098c321e22825a4404>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00050046-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> あすコンクラーベ開始、「秘密投票」は筆跡変える必要も…携帯電話をあずけ外部との接触禁止
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00050046-yom-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> あすコンクラーベ開始、「秘密投票」は筆跡変える必要も…携帯電話をあずけ外部との接触禁止
       </a>
     </td>
   </tr>
@@ -394,24 +394,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/aeb228cf368f6a16a1b975697135a81b987210b428695b2b26437146767b6f14.jpg> アメリカの3月貿易赤字 過去最大
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537924>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/c37a4d7d064afd75264609d73f597f9d7bb83ed14d221bee1d52a02b2c4d0d37.jpg> 7日は気温上昇 初夏の陽気戻る
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/e030da2c6e6da1a1b5131e2851afa80f27f29a136f1a7742eae3b3aa0cc84a68.jpg> 関電 国内最大級の蓄電所建設へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537918>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/97dd4a5b6f96aed35198878711a5f95348fa4d3a005aaffd401bd1beef282ea4.jpg> 万博VIP来場「予測の3割満たず」
       </a>
     </td>
   </tr>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537925>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f45226885bd31fd1620467e84ff3b50396ca458b4cbeff44a5c11a72b90b9cba.jpg> 小4バリスタ活躍 コーヒーは苦手
+      <a href=https://news.yahoo.co.jp/pickup/6537927>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/619b0da52bb45a9f03adc5743b9e120bbb83386d7013fb6e9b36b939af2e79ce.jpg> 10号玉花火が地上近くで爆発 映像
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537928>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f45226885bd31fd1620467e84ff3b50396ca458b4cbeff44a5c11a72b90b9cba.jpg> 小4のバリスタ コーヒーは大嫌い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/319f1b1642f1e0c0ee082a55555fd3701650c396aa651340d07a646373f208b5.jpg> ネット上の性的広告 規制に賛否
       </a>
     </td>
   </tr>
@@ -436,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537922>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b02e5c94d576da6a6067760fed52205d501295bbfd314e8cc3662da93683027b.jpg> 岡本和真は長期離脱見通し G監督
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/109e2988450c73e5cc93cebb504ecb685287da916c9bc991e4d3953834d2251c.jpg> 都庁にトム・クルーズ 知事出迎え
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 22:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 23:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
