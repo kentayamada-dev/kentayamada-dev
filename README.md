@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/11882f34e7d2c6b57d9a95f677d8e31c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4240444c54eeffba2dcdc04c2b2050b2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/45fd36d2b055fe7e38b9955892b1abaf85b00ecc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000042-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 京都・市バスに「ポルシェ」衝突　酒気帯び運転容疑で24歳逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/363ce264f7222842ba17fc575fb5a1995a987fae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35060884-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=9&cw=966&ch=966&exp=10800&fmt=webp> 熟練の“ハンター”でもノーチャンスの出来事だった大谷翔平の50号落下地点／Nobu’ｓ Eye
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ba1fc82de6e39550295cc3e48f3699f7e6ec36a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00003404-kab-000-2-thumb.jpg?exp=10800&fmt=webp> コンクラーベ前に映画「教皇選挙」関心高く　上映回を増やす対応も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00003404-kab-000-4-thumb.jpg?exp=10800&fmt=webp> コンクラーベ前に映画「教皇選挙」関心高く　上映館では満席の日も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4bcd89571dca8853ade6c2d36254bee27ffaaedb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35060899-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平「50－50」伝説の地で189・7キロ弾丸ライナー弾！今季メジャー全本塁打で最速
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c140120a6b637896ac3631f0cea161a154a84fc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-03958449-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “飲酒暴走”8台に衝突　「パニックに…」立ち去った同乗者が出頭　神奈川・横須賀市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2a79de3dc74c9e3effbd366711bffdcff8d5e48>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00010001-tvkv-000-1-thumb.jpg?exp=10800&fmt=webp> 横須賀市酒気帯び運転事故　立ち去った同乗者が出頭「血をみてパニックに」
+      <a href=https://news.yahoo.co.jp/articles/c5d9658aa6bd1575a546d1b7ecb218a2eb21bfd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000072-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 「酒は抜けていると思った」京都市バスにポルシェが衝突　酒気帯び疑いで24歳の男を逮捕
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537891>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 連休後「大量離職」必要な改革は
+      <a href=https://news.yahoo.co.jp/pickup/6537897>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/e5a647d14cd34893e1c2910df6558fc5a0575f5a102f15207442cfcd28ffaf3c.jpg> ストーカー 警察は通常どう対応?
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537898>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/fc91194334f6b0b2fc8b3d8177ca7c2e7f692d5e35c46c64da3d08f5060d26a9.jpg> 元引きこもり採用 会社に良い効果
+      <a href=https://news.yahoo.co.jp/pickup/6537896>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b27fd556e7b2961902eae10a0f925026d67b66cdf39fa97a964c63ff71ae8bb6.jpg> 忘れないで コロナ後遺症闘う19歳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b27fd556e7b2961902eae10a0f925026d67b66cdf39fa97a964c63ff71ae8bb6.jpg> 忘れないで コロナ後遺症闘う19歳
+      <a href=https://news.yahoo.co.jp/pickup/6537899>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/95a0f83541101fc72d0015b8a2c68b6a467e3f4c98fdd880214a5ac819791d39.jpg> 「女は文系」払拭されない偏見
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 19:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 20:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
