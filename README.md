@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/13986903541ddc34be855991e81021bd.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b5f79de41a2bf15e9867fd2fb80d0ac9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a61d6710d57c688c0905b0405b0e145f9937c498>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35232613-cnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=51&cy=0&cw=675&ch=675&exp=10800&fmt=webp> バチカン、秘密選挙「コンクラーベ」前に携帯電話の電波遮断へ
+      <a href=https://news.yahoo.co.jp/articles/401852f8af7fabf94ff232af2efde1258b7f0806>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000028-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=391&ch=391&exp=10800&fmt=webp> 明日からコンクラーベ…サンピエトロ広場を除いてバチカン内の携帯電話通信を遮断
       </a>
     </td>
   </tr>
@@ -366,15 +366,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e5227fe1473f8b629913786418269278db5cdb28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00050032-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 横須賀の酒気帯び運転による多重事故、同乗していた男性が出頭「パニックになり立ち去った」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00050032-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 横須賀の酒気帯び運転による多重事故、同乗していた男性が出頭「パニックになり立ち去った」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc3431939487fc92600640c4a8495c2809b432a9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-10176955-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=539&cy=0&cw=1236&ch=1236&exp=10800&fmt=webp> 打った瞬間すでに歓声…大谷翔平の9号“高速弾”、凄まじい打球音に敵地驚き 「弾丸のような爆発音」球場どよめき止まず
+      <a href=https://news.yahoo.co.jp/articles/aa44cb9095a47807af459439b4abfe85f804abce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00532872-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷衝撃HRより「こっちの方がビッグイベントに」　視線を奪われた米実況席「ブルペンを見て」お祭り騒ぎを紹介
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537838>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/819fc23e7d20a20770f9fc341f3ebb17fe3dfb50087c2c9fba52a9c473173a4b.jpg> 中絶規制報道にピュリツァー賞
+      <a href=https://news.yahoo.co.jp/pickup/6537878>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/7828d91b46a89d2a93ae13400ada3ee36f213fd128843b16419984d41d619230.jpg> 急増する動物原因の鉄道輸送障害
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/fc86c49cf6e7f3bdc7f7a5322db8cd2f5c4055be1de7ffa377676ba960343243.jpg> 財政難の天文台 コナンが救世主
+      <a href=https://news.yahoo.co.jp/pickup/6537873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/1e5db4f55f8a9b9376a6e17533c6866c1546090ea331fa575307eaf116c861ed.jpg> 外国人行列の一蘭 日本人への工夫
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 14:30:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 15:00:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
