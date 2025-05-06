@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/030d7e60a8b2409cd39b19763073a98a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae63cbe8b78dfcc75b3b3d93371c1056.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/fb32053128d6b371d0cb014aa53dd73d8624b4cd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00967992-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「酒は抜けていると思った」　ポルシェと京都市バスが正面衝突　ポルシェ運転の男を酒気帯び運転などで現行犯逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aa8cae507695b2df1a5541c92d2cbbe3476e5764>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-90022521-nmit-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平選手が豪快9号ホームラン 、ＭＬＢ最速弾　後輩の初ヒット“祝福”も話題に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/77cbcc6db384c1c6dc665b098c321e22825a4404>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00050046-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> あすコンクラーベ開始、「秘密投票」は筆跡変える必要も…携帯電話をあずけ外部との接触禁止
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00050046-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> あすコンクラーベ開始、「秘密投票」は筆跡変える必要も…携帯電話をあずけ外部との接触禁止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7ab04985c02d7ae42bc689ca16210cd672a3d0d9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-90024240-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 相次ぐ“飲酒運転”　カメラ捉えた事故の瞬間　酒を飲むとどんな影響？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/65623fafc341cc70c225a0d5239b05307105af1a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-15108196-kbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=422&ch=422&exp=10800&fmt=webp> ＧＷ最終日　ＢＢＱの残り火か　福智町・粕屋町で火災相次ぐ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/363ce264f7222842ba17fc575fb5a1995a987fae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35060884-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=9&cw=966&ch=966&exp=10800&fmt=webp> 熟練の“ハンター”でもノーチャンスの出来事だった大谷翔平の50号落下地点／Nobu’ｓ Eye
+      <a href=https://news.yahoo.co.jp/articles/96640772af5a0dd3c145b5f5e178e52d8b012fc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000004-gtv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=350&cy=0&cw=450&ch=450&exp=10800&fmt=webp> 上武道路家族３人死亡事故から１年　遺族 飲酒運転根絶訴え　群馬・伊勢崎市
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537907>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/2b384aa9b32322c977e331bfb4be07800a46eb9176b9ecd536305bfe03b35e41.jpg> 異例 独・メルツ氏首相選出されず
+      <a href=https://news.yahoo.co.jp/pickup/6537911>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/dd9bf494e4f69d6c3dc983388a15b5e6d0d9b736457a365ff8411c62bc7395d6.jpg> 連休明け不登校 保護者焦らないで
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537899>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/95a0f83541101fc72d0015b8a2c68b6a467e3f4c98fdd880214a5ac819791d39.jpg> 「女は文系」払拭されない偏見
+      <a href=https://news.yahoo.co.jp/pickup/6537914>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/8a59d05275fbacdd6dc3eb463e6fa71a8a5f4ab23e2099987427121d0b70d76c.jpg> 岡本和真が初回に緊急交代 騒然
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/8a59d05275fbacdd6dc3eb463e6fa71a8a5f4ab23e2099987427121d0b70d76c.jpg> 岡本和真が初回に緊急交代 騒然
+      <a href=https://news.yahoo.co.jp/pickup/6537920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/109e2988450c73e5cc93cebb504ecb685287da916c9bc991e4d3953834d2251c.jpg> 都庁にトム・クルーズ 知事出迎え
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 21:00:18 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 21:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
