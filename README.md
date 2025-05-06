@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/20a81361b87e2cf834b9a6d933fc60f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9ca963ea26241f90f5d564c123a82aca.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cc56ea8f5266eece87be41503582505d71de4c49>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00096129-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「面白すぎる！」弾丸９号を叩き込んだ大谷翔平を“大爆笑”させた人物が判明！ド軍メンバーたちも続々と絵文字＆「いいね！」で反応！
+      <a href=https://news.yahoo.co.jp/articles/5a66bb5a54a4c02dd09e34f0594706637bbf6164>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35061561-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=1061&ch=1061&exp=10800&fmt=webp> 嵐が解散発表　最後までファンファースト貫き来春開催コンサートツアー終了をもって活動終了
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e2817ad4e46f7d5304c8c69f3c40cd6b3f925fae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000002-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=1530&ch=1530&exp=10800&fmt=webp> ドイツ議会、メルツ氏を首相に選出　連立政権発足へ
+      <a href=https://news.yahoo.co.jp/articles/efd40d9d74e696f8cbc33fb8bf907b851512056b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-01748646-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=161&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 米記者が思わず繰り返した大谷翔平9号の凄み　わずか2年でド軍の歴史を“独占”
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 05:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 05:31:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
