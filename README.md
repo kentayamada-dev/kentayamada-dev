@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cd872d26fc9472aba38138b4d8cd2a91.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d257f6c491e680f1db02e83dbda7298f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dc7e80f164832234e41a059f26300c70e161b3a7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-90023117-nbstv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 八ヶ岳連峰赤岳付近で遭難　男性が死亡　同行者とはぐれ、斜面で倒れている状態で発見　大型連休、山岳遭難相次ぐ　26件発生、死者5人に　
+      <a href=https://news.yahoo.co.jp/articles/e2817ad4e46f7d5304c8c69f3c40cd6b3f925fae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000002-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=335&cy=0&cw=1530&ch=1530&exp=10800&fmt=webp> ドイツ議会、メルツ氏を首相に選出　連立政権発足へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7342c2daa1765a90ca3f6c09a33e71aea432f7b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000356-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=376&cy=0&cw=766&ch=766&exp=10800&fmt=webp> 阪神・中野「よけたんですけど…」と表情曇らせる　交錯して負傷交代した巨人・岡本とは大の仲良し
+      <a href=https://news.yahoo.co.jp/articles/dc7e80f164832234e41a059f26300c70e161b3a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-90023117-nbstv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 八ヶ岳連峰赤岳付近で遭難　男性が死亡　同行者とはぐれ、斜面で倒れている状態で発見　大型連休、山岳遭難相次ぐ　26件発生、死者5人に　
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 03:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 03:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
