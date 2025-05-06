@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c28c63c1bcd4f27b79c5e1a1d63cf483.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/059e9116067f5638b345a6549c10c543.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2b73e79d89acb93417cc16455bbbdc5fe3786aab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000079-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1954&ch=1954&exp=10800&fmt=webp> 教皇選挙「改革推進できる人を」　投票に臨む東京大司教、予測困難
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7f6381cc63aeca1e23056fef219a957ce4e47fa0>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00967801-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> ポルシェと京都市バスが正面衝突　バスの乗客1人がケガ　ポルシェの運転手の男からアルコール検知　過失運転致傷などの現行犯で逮捕
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8525bc79cb239169009ba1b90d78b03119c3d4b7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00051094-asahibc-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「酒は抜けていると思っていた」神戸市の男を酒気帯び運転などの疑いで現行犯逮捕　ポルシェが市バスに正面衝突
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edd8a2fbdbee33cd30e9580a5af21329cd5de0bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ニュースワード「コンクラーベ」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f2fd68468634f831e6a7768006ef8b048b37961aed1bda60d22acc6322ce2aea.jpg> 上皇さまが検査入院 心筋虚血疑い
+      <a href=https://news.yahoo.co.jp/pickup/6537886>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/30002b9c71ba7700c92e906b909f0b9d1becd2dc139fb7eb3cd290d53dcd789e.jpg> 夫婦別姓 今国会成立見通し立たず
       </a>
     </td>
   </tr>
@@ -404,14 +404,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537888>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/2137164c13f325f8145473c221ef4beab1d752e0000817d7c109effda7207492.jpg> 教皇選挙中 バチカン携帯通信遮断
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537881>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/e78194527706db8f3ae240d4c509bd4d10820f38c4b18393b56d157cf581a165.jpg> 更衣室で女性を切りつけ疑い 逮捕
       </a>
     </td>
   </tr>
@@ -434,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537874>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/96535d91f2b51a57ffe397f0795b9a2786372e4a9629e38bb4b12f4d0bd02cd4.jpg> 夢の電池開発社が破産 新会社設立
+      <a href=https://news.yahoo.co.jp/pickup/6537884>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/cf0126a29235b8c81fe67d1c87d9bb4d9f2c7962bb4a93a9cc122c1f2c9a6cc0.jpg> 公園で宙返り・連続回転 74歳の技
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537882>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f34e43d7772543925ea408b75ac079ab35ea48e5b7872b908c97ec32c1764e43.jpg> さかなクン 幻の魚の判別に苦労
+      <a href=https://news.yahoo.co.jp/pickup/6537894>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/45c35ed0f7739ea043cb8ff9d4c64a526f5854f3dfc5915c97142e3fcb5d6414.jpg> マック披露宴も 中国で地味婚流行
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537883>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f5b9756f977948ab8d19b8dbe80b7a7826c02f6787fbde8bbb275b76d101406a.jpg> 実写の白雪姫 赤字で終わる公算大
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 17:00:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 17:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
