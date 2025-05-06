@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4bd5417014dbc6f08d76e737ed102e2a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/77f4fe47e418c57df2a7b648c85244ef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0c19d233f65636b044e70b87bcd45c6ec903833f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000349-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=916&ch=916&exp=10800&fmt=webp> 嵐解散発表　「報ステ」トップニュースで報じる　大越健介氏「3年前、メンバーの…」
+      <a href=https://news.yahoo.co.jp/articles/993b46811ff805c81d6a8e784ca0c33ba59c0414>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00010005-shinmai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 八ヶ岳連峰赤岳　登山中にはぐれた男性が死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb32053128d6b371d0cb014aa53dd73d8624b4cd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00967992-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「酒は抜けていると思った」　ポルシェと京都市バスが正面衝突　ポルシェ運転の男を酒気帯び運転などで現行犯逮捕
+      <a href=https://news.yahoo.co.jp/articles/3358fdc8e9058eea22af25f685a28d572cb645a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000361-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 櫻井翔がコメント　「カメラの前に5人で並び…」　嵐の解散発表後「news　zero」で
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/77cbcc6db384c1c6dc665b098c321e22825a4404>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00050046-yom-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> あすコンクラーベ開始、「秘密投票」は筆跡変える必要も…携帯電話をあずけ外部との接触禁止
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00050046-yom-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> あすコンクラーベ開始、「秘密投票」は筆跡変える必要も…投票を行う枢機卿は外部との接触禁止
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537924>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/c37a4d7d064afd75264609d73f597f9d7bb83ed14d221bee1d52a02b2c4d0d37.jpg> 7日は気温上昇 初夏の陽気戻る
+      <a href=https://news.yahoo.co.jp/pickup/6537923>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/31394ef1a0ca7828bdb80252b5bbebcdf68deaca30e91c2ce3426db166e3f36e.jpg> ウ 露の戦勝記念日前に攻撃活発化
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537921>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/930ebb8a7f57d6dc1ed380407bc071246e885b9f24e886475e82c1dad81071df.jpg> 百日ぜき 連休明け感染拡大の懸念
+      <a href=https://news.yahoo.co.jp/pickup/6537931>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/c18233ef96cd93cc92372e27aab0743e956a6412ff8db928e545333e191d77ad.jpg> ショルツ氏が首相退任式で涙 独
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537915>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/319f1b1642f1e0c0ee082a55555fd3701650c396aa651340d07a646373f208b5.jpg> ネット上の性的広告 規制に賛否
       </a>
     </td>
   </tr>
@@ -434,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537915>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/319f1b1642f1e0c0ee082a55555fd3701650c396aa651340d07a646373f208b5.jpg> ネット上の性的広告 規制に賛否
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537922>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b02e5c94d576da6a6067760fed52205d501295bbfd314e8cc3662da93683027b.jpg> 岡本和真は長期離脱見通し G監督
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537913>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/e2621c52a20f791fe8be504d32ba64f689aab6b56c2aa064b1cc55af620957e2.jpg> 嵐が解散発表 大野1587日ぶりに姿
+      <a href=https://news.yahoo.co.jp/pickup/6537929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/3918f06039ca1a097f47fa056b885bc9d781396de934bd2dda4e67231769c293.jpg> 嵐が解散発表 メンバー5人の現在
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 23:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 23:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
