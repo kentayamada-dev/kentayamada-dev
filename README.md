@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/13287eb43b3afbb450e8a39d35015599.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/23a1f568566730eff3a23333159b9a63.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf4f160db5dfd06b4bfefca6a308f2fa076b7481>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000118-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=930&ch=930&exp=10800&fmt=webp> 大谷翔平「50・50」達成の地で9号〝ロケット弾〟！打球速度は今季メジャー最速189.7キロ
+      <a href=https://news.yahoo.co.jp/articles/dc7e80f164832234e41a059f26300c70e161b3a7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-90023117-nbstv-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 八ヶ岳連峰赤岳付近で遭難　男性が死亡　同行者とはぐれ、斜面で倒れている状態で発見　大型連休、山岳遭難相次ぐ　26件発生、死者5人に　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dca28e5317bf2fc48bce856e948a00fb45fa4208>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234894-jnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=793&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】ドイツ連邦議会 2回目の投票でメルツ氏を首相に選出
+      <a href=https://news.yahoo.co.jp/articles/6932d7132fc495176934391b83f2ce26e15b7044>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00010000-tvtokyos-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> ブルペン大はしゃぎ！大谷翔平の弾丸アーチをド軍フィジカル・セラピストが見事にキャッチ！両手を上げ大喜び
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/993b46811ff805c81d6a8e784ca0c33ba59c0414>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00010005-shinmai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 八ヶ岳連峰赤岳　登山中にはぐれた男性が死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/77cbcc6db384c1c6dc665b098c321e22825a4404>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00050046-yom-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> あすコンクラーベ開始、「秘密投票」は筆跡変える必要も…投票を行う枢機卿は外部との接触禁止
+      <a href=https://news.yahoo.co.jp/articles/7342c2daa1765a90ca3f6c09a33e71aea432f7b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000356-spnannex-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=376&cy=0&cw=766&ch=766&exp=10800&fmt=webp> 阪神・中野「よけたんですけど…」と表情曇らせる　交錯して負傷交代した巨人・岡本とは大の仲良し
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537922>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b02e5c94d576da6a6067760fed52205d501295bbfd314e8cc3662da93683027b.jpg> 岡本和真は長期離脱見通し G監督
+      <a href=https://news.yahoo.co.jp/pickup/6537933>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/783112665a25af365fbd82fb4c2de4d2927021fb7d81e6d8e59d3041ad02ad8a.jpg> 岡本和真と交錯 表情曇る中野拓夢
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/3918f06039ca1a097f47fa056b885bc9d781396de934bd2dda4e67231769c293.jpg> 嵐が解散発表 メンバー5人の現在
+      <a href=https://news.yahoo.co.jp/pickup/6537913>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/e2621c52a20f791fe8be504d32ba64f689aab6b56c2aa064b1cc55af620957e2.jpg> 嵐が解散発表 大野1587日ぶりに姿
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 23:52:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 00:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
