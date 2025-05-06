@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d9214803cea25c17841834616201dc4f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/af59131ba88b647010d91e54c0e9cfab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dabc8a0ad1865132f644ae33f9b5325bbdd48d46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00010004-tvtokyos-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ロバーツ監督 大谷翔平とキム・へソンとの関係に「謙虚で本当にいいやつ。正直、チーム全員が大好きなんだ」
+      <a href=https://news.yahoo.co.jp/articles/81d34d842efba34a4a392a0991491eb69807b97a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000065-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=928&ch=928&exp=10800&fmt=webp> ドジャース・大谷　大喜びの予想は本塁打予想ゲーム　ボールはブルペンの自軍スタッフがキャッチ
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 01:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 01:30:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
