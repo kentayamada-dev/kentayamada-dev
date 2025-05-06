@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1909d1e886f018c894eeda58cd0655b0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/89adbc6eee7cab35200741c27b7364dd.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed58bb4bed55ebbed71efa38ef170298d9349541>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-05061048-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平「自信になる」　２２年サイ・ヤング賞右腕から打球速度１９０キロの弾丸で今季２発目
+      <a href=https://news.yahoo.co.jp/articles/0195f99528fc43a5ba07e1420bf8861e0664fd2f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-05061056-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が９号２ラン＆今季１０盗塁も　ロバーツ監督「驚かなかったよ」　“伝説の地”は「居心地いい」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/09d0b837a638405baa7dba001bfcbbc87881e485>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00532701-theanswer-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=600&ch=600&exp=10800&fmt=webp> TKO負けカルデナス、「早い」の指摘もあった審判ストップに本音「俺は大丈夫と言ったけど…」判断を尊重
+      <a href=https://news.yahoo.co.jp/articles/14b627757e85b8303de6dbbbbdd6018893d2b9fb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米政権、米国から出国する不法移民に１４万円提供　自主退去促す狙い
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a853b1abc9cd959aa755da742814ef6e940fac7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000003-yonnana-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=573&ch=573&exp=10800&fmt=webp> 念願の訪日果たしたフランシスコ死去、日本人記者と教皇の思い出
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000003-yonnana-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=573&ch=573&exp=10800&fmt=webp> 念願の訪日果たしたフランシスコ死去、日本人記者と教皇の思い出
       </a>
     </td>
   </tr>
@@ -392,14 +392,6 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537843>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/a8cb73fe9e8defd2cbefcc5ff87c260ced7cf0fdd7631155ec57d28dbcb86401.jpg> ペリリュー 遺骨収集巡り協力合意
-      </a>
-    </td>
-  </tr>
-
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537854>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537858>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/628a58d2b88084765a2bbff515a81d520c1104cd1051fce903b4cde47c0f5d16.jpg> 切断遺体 都会の死角で捜査難航
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537863>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/cfd9e82854fc1d469757b4a36b33d23bb71f5dd127f9ced56a6d1442aa8cfb15.jpg> GWに温泉街で火事 客が話す当時
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537864>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/4e4aff624110861de48870f1b9dffd9d6ac506374aff728f851831447ab9da7e.jpg> たかみな AKB壇上に呼ばれ焦り
+      <a href=https://news.yahoo.co.jp/pickup/6537856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b4e2558177992a2ee31ab1cbff3390366135b5276ab5ef7493e21008bc291dde.jpg> 勝利の尚弥 相手を挑発しない理由
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 11:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 11:30:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
