@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c8dd03cf723c822e4fa5ce0faaffacbb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1cc1b17aedb8ffbf89dccf1edf3968d9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8525bc79cb239169009ba1b90d78b03119c3d4b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00051094-asahibc-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「酒は抜けていると思っていた」神戸市の男を酒気帯び運転などの疑いで現行犯逮捕　ポルシェが市バスに正面衝突
+      <a href=https://news.yahoo.co.jp/articles/b6b2214b529719001e307004c61bcd5435451889>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00967790-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 京都市営バスに飲酒運転のポルシェが突っ込む…バスの女性乗客が軽いけが　24歳男を道交法違反などの現行犯で逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edd8a2fbdbee33cd30e9580a5af21329cd5de0bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ニュースワード「コンクラーベ」
+      <a href=https://news.yahoo.co.jp/articles/f262021d8c6a666a5bbafad1498f5b3b34b0e8e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234820-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ローマ教皇選挙「コンクラーベ」日本時間あす午後開始　有力候補の“重病説”やマクロン大統領干渉報道も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/0a17168fffefe261888146c41844b202517e54b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00010005-abn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> GW中の山岳遭難 少なくとも24件発生・4人死亡 5日も各地で〝滑落〟相次ぐ【長野】
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ec522dad83dca34121816e6ab0151d7c608c9bd4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234749-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 死者4人 長野県の大型連休山岳遭難は24件 きのうも戸隠山などで滑落 大けがも
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -395,15 +395,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537887>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/1f18a2b26412a93754e83b8728224cf3b393173d7a7d103472756bd9c56e5c5f.jpg> 上皇さまが検査入院 心筋虚血疑い
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f2fd68468634f831e6a7768006ef8b048b37961aed1bda60d22acc6322ce2aea.jpg> 上皇さまが検査入院 心筋虚血疑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537773>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/11/29/fe78c22b57718f59c604599e0a30a17266d10a13dd93b17d90e9c5813a97c2b1.jpg> GW 高速道路の事故・渋滞情報
+      <a href=https://news.yahoo.co.jp/pickup/6537888>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/2137164c13f325f8145473c221ef4beab1d752e0000817d7c109effda7207492.jpg> 教皇選挙中 バチカン携帯通信遮断
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537879>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/bc55a91cc93532b5d43981b7a2e476c7faf4089736d836b3c90a8e4452c34490.jpg> スタッフが9号掴み興奮 大谷反応
+      <a href=https://news.yahoo.co.jp/pickup/6537882>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f34e43d7772543925ea408b75ac079ab35ea48e5b7872b908c97ec32c1764e43.jpg> さかなクン 幻の魚の判別に苦労
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 16:00:59 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 16:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
