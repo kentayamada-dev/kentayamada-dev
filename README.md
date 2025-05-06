@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5af2834548cadee687610670a4dce5f2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ab8966e8d9a2a95789645d6cf39a3d21.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94dd546968a4c272c2d8bcfb7e343e221e8f8ad6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-21894355-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=387&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 大谷翔平 2試合ぶり9号も「この時期に一番良い状態になることがあまりない」更なる向上へ SNSではキムを祝福
+      <a href=https://news.yahoo.co.jp/articles/f8af5021b9c81eff31e026fd6833248a9f216e3a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00096107-thedigest-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「魔法のようだ」大谷翔平“伝説の地”でまたも大活躍、今季MLB最速の弾丸９号「ローンデポ・パークをこよなく愛している」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/335c4fe8f812dafd1931dbaf75af9252f3c8c14c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000052-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=167&cw=667&ch=667&exp=10800&fmt=webp> 酒気帯び車の同乗男性が出頭　横須賀・多重衝突で現場立ち去り
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/ec522dad83dca34121816e6ab0151d7c608c9bd4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234749-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 死者4人 長野県の大型連休山岳遭難は24件 きのうも戸隠山などで滑落 大けがも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/08bc380ade21ef0157202fb501143d5ac2b76fed>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-09239111-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平が9号2ランを放ち10号まであと1発　54HRでホームラン王の昨季はいつ10本目打った？
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537866>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/799fb1905bc98cf141fd339743bf15b22ddbb9a34f249a8c7492c3b0de09f71a.jpg> 米政権 不法移民に帰国費提供へ
+      <a href=https://news.yahoo.co.jp/pickup/6537773>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/11/29/fe78c22b57718f59c604599e0a30a17266d10a13dd93b17d90e9c5813a97c2b1.jpg> GW 高速道路の事故・渋滞情報
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537862>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/60913fa1f92e28d7834a766a16f5e97e82d98e645ab710622b51069ad2f36588.jpg> 渋滞減らすため 運転中できること
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537868>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/fc86c49cf6e7f3bdc7f7a5322db8cd2f5c4055be1de7ffa377676ba960343243.jpg> 財政難の天文台 コナンが救世主
       </a>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537871>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/45a60981f70d8ee7e7fd63f7849c053b5ddafe3a8682adf2b2d77ff62d8a6075.jpg> 盲目の芸人 R-1優勝後抱えた葛藤
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 13:01:01 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 13:30:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
