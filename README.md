@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ff371d14d5bca929cec497d42cb5ef80.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/11882f34e7d2c6b57d9a95f677d8e31c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8b5b5a6ec04415f02039ac572fdc81c7c8626301>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35061047-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=1061&ch=1061&exp=10800&fmt=webp> 再始動＆解散発表の嵐、メンバー５人の近況は　リーダー大野は活動休止中、二宮はYouTubeも
+      <a href=https://news.yahoo.co.jp/articles/5ba1fc82de6e39550295cc3e48f3699f7e6ec36a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00003404-kab-000-2-thumb.jpg?exp=10800&fmt=webp> コンクラーベ前に映画「教皇選挙」関心高く　上映回を増やす対応も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4bcd89571dca8853ade6c2d36254bee27ffaaedb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35060899-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=271&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平「50－50」伝説の地で189・7キロ弾丸ライナー弾！今季メジャー全本塁打で最速
       </a>
     </td>
   </tr>
@@ -366,23 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c140120a6b637896ac3631f0cea161a154a84fc0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-03958449-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> “飲酒暴走”8台に衝突　「パニックに…」立ち去った同乗者が出頭　神奈川・横須賀市
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-03958449-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> “飲酒暴走”8台に衝突　「パニックに…」立ち去った同乗者が出頭　神奈川・横須賀市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a6ff63f4b55e2b31f884c25cc031405f2477f3a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-08548266-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=149&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 今年も数学サボって大谷翔平を観戦？　“50-50”達成の試合と同じボードが掲げられる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b73e79d89acb93417cc16455bbbdc5fe3786aab>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000079-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=112&cy=0&cw=1954&ch=1954&exp=10800&fmt=webp> 教皇選挙「改革推進できる人を」　投票に臨む東京大司教、予測困難
+      <a href=https://news.yahoo.co.jp/articles/e2a79de3dc74c9e3effbd366711bffdcff8d5e48>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00010001-tvkv-000-1-thumb.jpg?exp=10800&fmt=webp> 横須賀市酒気帯び運転事故　立ち去った同乗者が出頭「血をみてパニックに」
       </a>
     </td>
   </tr>
@@ -394,8 +394,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537907>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/2b384aa9b32322c977e331bfb4be07800a46eb9176b9ecd536305bfe03b35e41.jpg> 異例 独・メルツ氏首相選出されず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537891>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/konnoharuki/02198643/title-1746505088104.jpeg?exp=10800> 連休後「大量離職」必要な改革は
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 連休後「大量離職」必要な改革は
       </a>
     </td>
   </tr>
@@ -418,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537892>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/1a826eb1120f891d8e24ab0c0f05659afb1888569616abf2e1fa7001a122316e.jpg> タイの観光地「二重価格」の現状
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537896>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b27fd556e7b2961902eae10a0f925026d67b66cdf39fa97a964c63ff71ae8bb6.jpg> 忘れないで コロナ後遺症闘う19歳
       </a>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537904>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/eeb723e0f70ac11ec26fd60ff8267ac130514609dc1250cdaaa9af9f24853d09.jpg> 清宮幸太郎 魚雷バットで初HR
+      <a href=https://news.yahoo.co.jp/pickup/6537903>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/03017462ef27c025de460b91eca2459080ab2c0dcae5b6f394799e0c4db99c27.jpg> 中日・勝野が160km連発 球場騒然
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 19:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 19:31:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
