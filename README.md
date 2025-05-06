@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6cb8777d1682d7fd789fb1ebf4718362.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ff293f41a2d3b71731b107be71fb1bd0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f62ab97a4d86914218c71a11076337233502b7ac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-35061544-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=1177&ch=1177&exp=10800&fmt=webp> 【巨人】激震！岡本和真が長期離脱濃厚　左肘負傷交代「時間かかるという診断だった」阿部監督
+      <a href=https://news.yahoo.co.jp/articles/c2c32bfe1c65d04d89f4b25607ec6397425e21e7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000350-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1153&ch=1153&exp=10800&fmt=webp> 阪神・藤川球児監督「初回から気が重くなったプレーですね」　岡本、そして仲良しの中野も気遣う
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537911>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/dd9bf494e4f69d6c3dc983388a15b5e6d0d9b736457a365ff8411c62bc7395d6.jpg> 連休明け不登校 保護者焦らないで
+      <a href=https://news.yahoo.co.jp/pickup/6537924>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/c37a4d7d064afd75264609d73f597f9d7bb83ed14d221bee1d52a02b2c4d0d37.jpg> 7日は気温上昇 初夏の陽気戻る
       </a>
     </td>
   </tr>
@@ -410,24 +410,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537919>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/07477d5afdff076976d8964c1626f9091fde8216ba5b43c1731f80efecbcd203.jpg> 3人死亡事故 母「つらいまま1年」
+      <a href=https://news.yahoo.co.jp/pickup/6537918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/97dd4a5b6f96aed35198878711a5f95348fa4d3a005aaffd401bd1beef282ea4.jpg> 万博VIP来場「予測の3割満たず」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537912>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/64a484c4e9f0ed4f3e24cdc50c30b53928c7bc9f742244c3a6e92f601a70d813.jpg> 無断欠勤OK 効率上がり利益増
+      <a href=https://news.yahoo.co.jp/pickup/6537921>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/930ebb8a7f57d6dc1ed380407bc071246e885b9f24e886475e82c1dad81071df.jpg> 百日ぜき 連休明け感染拡大の懸念
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537905>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/4d17d430a8650e426b39cdcf269532013d6e6c567e8c4696eda9e71bbf11e836.jpg> 感染原因か 相次ぐ海鳥の異常行動
+      <a href=https://news.yahoo.co.jp/pickup/6537925>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f45226885bd31fd1620467e84ff3b50396ca458b4cbeff44a5c11a72b90b9cba.jpg> 小4バリスタ活躍 コーヒーは苦手
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 22:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 22:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
