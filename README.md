@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2169afcda7a9db59ed2d15cf0b8ff4fe.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d4d41300d061f00d4ec3fb0f6f411ffa.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1a711a2e8dfe788dbbd308be0318d911d49e64e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000009-ann-000-8-thumb.jpg?exp=10800&fmt=webp> 神奈川県横須賀市の9台絡む事故 事故を起こした車に同乗していたとみられる男性が出頭
+      <a href=https://news.yahoo.co.jp/articles/24e51784ffd88ccdeb682afa7e93998231181fe0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000007-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=127&cy=0&cw=407&ch=407&exp=10800&fmt=webp> トランプ氏銃撃報道などにピュリツァー賞　公益部門はプロパブリカ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52f33e105d65354febbd8dae3bdc46e0763bf948>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00010003-minyu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800&fmt=webp> 会津駒ケ岳と燧ケ岳で山岳事故　滑落や転倒、ヘリで救助　福島・檜枝岐
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f4909b0d53e9c2e7ea47cb333a5a75ec22956a88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000007-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=94&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 次期教皇に１９００万ドルのベッティング集まる…支持率１位候補はピエトロ・パロリン枢機卿
       </a>
     </td>
   </tr>
@@ -367,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/948e531f05325ec1683703aa9293487ef6e25e66>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000002-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=186&cy=0&cw=373&ch=373&exp=10800&fmt=webp> トランプ氏、次の大統領補佐官に「対中強硬派」ミラー氏任命か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85007edf91c0224f70d852f1b5433870cb577ee9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-07234720-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=817&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 米ピュリツァー賞　トランプ氏暗殺未遂時を撮影のNYTカメラマンらが受賞
       </a>
     </td>
   </tr>
@@ -394,24 +402,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537837>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/163d5edf464fef303c12a57f55e6430747990e6f6329a1019d1d955c8ae78b1c.jpg> ルーマニア首相が辞任を表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537828>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/047c68bcff86c2ba0881d0ebd13d74566af364001aa3982d84e20d0d7c935b19.jpg> トランプ政権 相互関税の撤廃拒否
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537832>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/fdfe66740d529d917c0292a5904079b5f3fce477c64d767bcaa588e669609a97.jpg> 配車アプリの手数料規制へ 国交省
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537846>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/af457aaef529c83648e989b8a56571e897018e530e0e1880ca2a8d16e91feb5e.jpg> 海保職員減少に転じる 離職389人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537837>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/163d5edf464fef303c12a57f55e6430747990e6f6329a1019d1d955c8ae78b1c.jpg> ルーマニア首相が辞任を表明
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/5/eb7ed2f2df582e937ecc7e1f72f61470a5138309c013af462f61eda2b04aa26a.jpg> 福岡→万博 600km歩く81歳の挑戦
+      <a href=https://news.yahoo.co.jp/pickup/6537848>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/0c141071278c0926c3e7abc7d60d6bcb7ea65067ed534bbe8295d9a4aece47f7.jpg> 退職代行 なぜGW明けに依頼増
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537834>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/f043741fbf911e2025f37ff057752656b035061ce61d5ec12f0723fe6ba05464.jpg> 来春センバツでDH制の導入検討
+      <a href=https://news.yahoo.co.jp/pickup/6537850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/75a683538e1bdc96ac41d1a1771d7668f80ee92fa3d48c7786d9bef955d2eff2.jpg> 五輪選手→モデル 転身の理由
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 08:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 09:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
