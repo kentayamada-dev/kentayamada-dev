@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/rwnftkCOgHg?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/XAfFIH5LD1g?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/df8f6a541d2fc01e16f84f60e1eb5430.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1909d1e886f018c894eeda58cd0655b0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aadd9616216b1ea4f3c23c402d14f1b3f3c84ebc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000034-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=215&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、伝説の地・マイアミで９号２ランなど１安打１盗塁 ドジャース、マーリンズに今季４戦４勝
+      <a href=https://news.yahoo.co.jp/articles/ed58bb4bed55ebbed71efa38ef170298d9349541>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-05061048-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平「自信になる」　２２年サイ・ヤング賞右腕から打球速度１９０キロの弾丸で今季２発目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73227aeacc7851e54dcfebdd61601b7ca0530a47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-05061033-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「見てませんでした」井上尚弥ＴＫＯ勝利に「サン！シャイン」谷原章介が大興奮も武田鉄矢が恐縮して告白「誠に残念…」
+      <a href=https://news.yahoo.co.jp/articles/09d0b837a638405baa7dba001bfcbbc87881e485>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00532701-theanswer-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=600&ch=600&exp=10800&fmt=webp> TKO負けカルデナス、「早い」の指摘もあった審判ストップに本音「俺は大丈夫と言ったけど…」判断を尊重
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a853b1abc9cd959aa755da742814ef6e940fac7c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000003-yonnana-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=573&ch=573&exp=10800&fmt=webp> 念願の訪日果たしたフランシスコ死去、日本人記者と教皇の思い出
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000003-yonnana-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=573&ch=573&exp=10800&fmt=webp> 念願の訪日果たしたフランシスコ死去、日本人記者と教皇の思い出
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537849>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/9c50f3dfb6be7f519f1d5430892f6578a984c98eed4087312303957f99e97e9c.jpg> オープンAI 営利企業への転換断念
+      <a href=https://news.yahoo.co.jp/pickup/6537858>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/628a58d2b88084765a2bbff515a81d520c1104cd1051fce903b4cde47c0f5d16.jpg> 切断遺体 都会の死角で捜査難航
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/0c141071278c0926c3e7abc7d60d6bcb7ea65067ed534bbe8295d9a4aece47f7.jpg> 退職代行 なぜGW明けに依頼増
+      <a href=https://news.yahoo.co.jp/pickup/6537849>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/9c50f3dfb6be7f519f1d5430892f6578a984c98eed4087312303957f99e97e9c.jpg> オープンAI 営利企業への転換断念
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537855>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/09e63b9eaa25c2478e0cadee9ed0df06077ed5c77177db8a84b21992cd160869.jpg> 亀梨が犬の姿で出演 独立後初MC
+      <a href=https://news.yahoo.co.jp/pickup/6537864>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/4e4aff624110861de48870f1b9dffd9d6ac506374aff728f851831447ab9da7e.jpg> たかみな AKB壇上に呼ばれ焦り
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 10:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 11:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
