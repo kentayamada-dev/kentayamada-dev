@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4240444c54eeffba2dcdc04c2b2050b2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/464f64d1f980f3d6a46a94fb4e2dd3e0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45fd36d2b055fe7e38b9955892b1abaf85b00ecc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000042-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 京都・市バスに「ポルシェ」衝突　酒気帯び運転容疑で24歳逮捕
+      <a href=https://news.yahoo.co.jp/articles/7ab04985c02d7ae42bc689ca16210cd672a3d0d9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-90024240-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 相次ぐ“飲酒運転”　カメラ捉えた事故の瞬間　酒を飲むとどんな影響？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9059e447a23c4d09211ca9790338879295c53b9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00092330-kaiyou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 嵐、2026年春で活動終了　グループ最後のツアーは来春開催予定
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5ba1fc82de6e39550295cc3e48f3699f7e6ec36a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00003404-kab-000-4-thumb.jpg?exp=10800&fmt=webp> コンクラーベ前に映画「教皇選挙」関心高く　上映館では満席の日も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c5d9658aa6bd1575a546d1b7ecb218a2eb21bfd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000072-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 「酒は抜けていると思った」京都市バスにポルシェが衝突　酒気帯び疑いで24歳の男を逮捕
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537902>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/6d1398186b9408cb9f725db6f46978f3eabdf9d410c7c6a59401c287cded4ebf.jpg> 川崎遺体 1月に男の関与疑う証言
+      <a href=https://news.yahoo.co.jp/pickup/6537896>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b27fd556e7b2961902eae10a0f925026d67b66cdf39fa97a964c63ff71ae8bb6.jpg> 忘れないで コロナ後遺症闘う19歳
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537896>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b27fd556e7b2961902eae10a0f925026d67b66cdf39fa97a964c63ff71ae8bb6.jpg> 忘れないで コロナ後遺症闘う19歳
+      <a href=https://news.yahoo.co.jp/pickup/6537908>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/6/b0f3336a6e9970dc363d779f10408f458eeaeaf2e1d54159e7c5293fbcb42fe0.jpg> 熟年離婚後 人生で最後の婚活盛況
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/06 20:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/06 20:30:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
