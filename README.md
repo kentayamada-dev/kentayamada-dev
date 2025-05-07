@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/40c1bff095faedc18d24501811cab9f9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5c9eeda02573071bdb099f6144f2b1d0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,14 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c465897cbf3de09f012487711235b34bcd207c3f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000030-ann-000-1-thumb.jpg?exp=10800&fmt=webp> インドがカシミール地方のパキスタン支配地域攻撃　双方に死者
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/73c228d9e5ab50b17ee856c357aa3ae5e4e06e41>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d434eeb0c9534b3255e7e9d8931f855c977a160f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000001-yonnana-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ローマ教皇を選ぶコンクラーベ、投票資格がある日本人枢機卿ってどんな人？　「田舎の司祭になりたかった」被爆２世、大阪の前田万葉さん
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4c860c0858b5f10788d59322bc00a1cfb2a2e87c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00255813-sasahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「こども支援NISA」には換金制限なし？　不人気で廃止「ジュニアNISA」の教訓生かせるか
       </a>
     </td>
   </tr>
@@ -410,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537949>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/49a59792ee7eb6aed0f3a2e34399b06fcc0824c26c9ca1f5c5944fc87dfb65a8.jpg> 印がパに軍事作戦 大きな爆発音
+      <a href=https://news.yahoo.co.jp/pickup/6537960>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/886bfb12c7f23ea65c7bdb15cfd926ec26eb2b69e2f18db8e48c374dd34e08b7.jpg> 「国境離島」保全 測量を強化方針
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537962>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/55d4f2edd758803f05f7595dec9b2db56bc32c59ee2d4f5f89b6e71e43c00a7b.jpg> 角和夫氏死去 阪急阪神HD元会長
       </a>
     </td>
   </tr>
@@ -434,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537941>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/0d3aba7ff5ef32ab8c5ad4c32004cd82f3d3abb6de4d5c508ac8644bf6a7b5c5.jpg> 若年層も注意「スマホ認知症」
+      <a href=https://news.yahoo.co.jp/pickup/6537956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/5bb5f791a24ad32c924e567fe5ce62560f198660833f453bd1bf9130f3de060c.jpg> 三浦瑠麗氏 娘の希望で名字変えず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/5bb5f791a24ad32c924e567fe5ce62560f198660833f453bd1bf9130f3de060c.jpg> 三浦瑠麗氏 娘の希望で名字変えず
+      <a href=https://news.yahoo.co.jp/pickup/6537954>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/7e11ffca5061dab935719847b188a21c2af84aa27a7cb6dfe6eed032bbb632c8.jpg> 大谷の9号捕ったスタッフ「興奮」
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537959>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ac043c68eb721fc3eb3275f95d695a27d2c011ed53f1c654136f5bd00f8c0cca.jpg> 嵐が解散発表 SNS上の反応
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 10:30:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 11:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
