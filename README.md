@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a2b2dd66b60c2df512639dfa6bb28370.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6f6aa3ec9c31cd6fa6856f737816e14d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63427ce8036c43c1e0719ae8c349847c4707f4ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-05165877-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> インドがパキスタン側の実効支配地域にミサイル攻撃　双方に多数の死者も
+      <a href=https://news.yahoo.co.jp/articles/8174a001453ab4224219f1c89fc45538f10a8107>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-90024334-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 改革継承か保守への回帰か『コンクラーベ』まもなく開始“教皇選挙”世界が注目の理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/45af4289e51dac29a7cc4815d2537d2d5620a3bd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-09355372-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 【本命不在？】世界が注目　新たな教皇を決める「コンクラーベ」開始　混戦の“教皇選挙”
+      <a href=https://news.yahoo.co.jp/articles/63427ce8036c43c1e0719ae8c349847c4707f4ee>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-05165877-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> インドがパキスタン側の実効支配地域にミサイル攻撃　双方に多数の死者も
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 02:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 02:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
