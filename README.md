@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/XAfFIH5LD1g?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a4706c1dd9d324566ffbaa0278e14840.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3216f57c0ac0fb1dc1ccacba17e8cf05.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5682d9177da5226ac8b771ba3f2e30a760ef6916>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000004-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=1444&ch=1444&exp=10800&fmt=webp> ドイツ新首相「欧州的な」指導者目指す ウクライナめぐり英仏と協議へ
+      <a href=https://news.yahoo.co.jp/articles/f2960770676f285f4d33106fba697b9fb5ea614c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00533182-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「たった403？ありえない」　大谷衝撃10号に疑問噴出　発表は123mも「2階席まで飛んだんだぞ」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2608e8f114c4fd1a002e33ce5a2c6279769c6706>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00533159-theanswer-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷10号、年間45HRペースに急浮上　4時間前に指揮官が語った7戦4発の兆候「振るべき球を振っている」
+      <a href=https://news.yahoo.co.jp/articles/a08f98ee089747bf18c6f893b2ae3e66d977e4c8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000011-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 独メルツ内閣発足　最年少閣僚は35歳の開発相、両親はイラク系難民
       </a>
     </td>
   </tr>
@@ -382,7 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d434eeb0c9534b3255e7e9d8931f855c977a160f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000001-yonnana-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ローマ教皇を選ぶコンクラーベ、投票資格がある日本人枢機卿ってどんな人？　「田舎の司祭になりたかった」被爆２世、大阪の前田万葉さん
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000001-yonnana-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ローマ教皇を選ぶコンクラーベ、投票資格がある日本人枢機卿ってどんな人？　「田舎の司祭になりたかった」被爆２世、大阪の前田万葉さん
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537955>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/59c5a9006343db2d16127332557bad5e9fd96a26d16657f9c6ef3009275ad473.jpg> 大谷翔平が10号ソロ 2試合連発
+      <a href=https://news.yahoo.co.jp/pickup/6537956>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/5bb5f791a24ad32c924e567fe5ce62560f198660833f453bd1bf9130f3de060c.jpg> 三浦瑠麗氏 娘の希望で名字変えず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537943>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/78e02ca28ce6e21ff7a43dbc46f80097136a71f64019051d5e8d27b440f1addd.jpg> 内藤哲也が左目手術 次へのメンテ
+      <a href=https://news.yahoo.co.jp/pickup/6537957>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/59c5a9006343db2d16127332557bad5e9fd96a26d16657f9c6ef3009275ad473.jpg> 大谷が特大10号 2試合連発に騒然
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 09:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 10:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
