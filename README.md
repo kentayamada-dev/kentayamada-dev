@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5b783339506126db2805d9fce27a5fb0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/eb89d24595b13d21873b917d74f53586.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b749d1ddede074ddb9db7c4d5783eb1916fdb66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000027-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 初のアジア出身教皇誕生の可能性も　「予測不可能」な選挙開始へ
+      <a href=https://news.yahoo.co.jp/articles/5e76f7d426a95cf1b3a702e6cd590cf0083d0fe3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00968231-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=720&ch=720&exp=10800&fmt=webp> ローマ教皇を決める「コンクラーベ」きょうから投票始まる　舞台裏描いた映画「教皇選挙」が人気…有力候補巡る情報戦も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82e0458adfc7c6b66e55d5bc53fdb1d513b7b310>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35070671-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=29&cy=0&cw=1089&ch=1089&exp=10800&fmt=webp> 蓮舫氏「沖縄県連から？西田さんから直接聞くべきでは？？」ひめゆりの塔発言で自民党に「ん？」
+      <a href=https://news.yahoo.co.jp/articles/913a2ca6e6a4ddfa0f4b1c640fc02195c759f840>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000085-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 午後3時のドルは143円前半へ上昇、米中対立緩和に期待
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4e24591ddcc8cfb1b15a3837421fceab516956c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35070681-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=11&cw=1378&ch=1378&exp=10800&fmt=webp> 「警察は五感で感じて踏み込めむことができたかな」原晋監督、川崎女性遺体遺棄事件巡り私見
+      <a href=https://news.yahoo.co.jp/articles/2749e1bd10b3127820a76370f1340ebaad5c5d18>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000001-rallysv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 17日開幕 世界選手権ドーハへ張本智和「大会後に何も残っていないくらいにやり切る」各選手意気込みも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/be766d9e191f2a10aa4acf6723feed9316d08e54>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35070663-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 元捜査１課刑事、神奈川県警に「消極的な捜査だったことは否めない」川崎女性遺体遺棄で
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4466e1bae08b4e4d68a7c1f89ccde8cb509bf914>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000025-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 独メルツ新首相、造反者は「調査しない」　2回目投票でも基盤の弱さ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d0068fd09856395df51b2587299ccb10d208991>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177088-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=769&ch=769&exp=10800&fmt=webp> 米中高官 “トランプ関税”措置強化以降、初の協議へ ベッセント氏 「公正な貿易」望む
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537977>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/0ebcd9a3693e2f5fed17d2488dc156b0e55f5ced43fc316299f9622311bf0edb.jpg> 自転車はねられ母死亡 子2人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6537992>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/c5434f2e94e1a5014fc8185c879e0935bb71d6e60f1f024cd132832cdc8bb289.jpg> 西田氏のひめゆり発言 批判が拡大
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537981>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/55dfa8335c15f316f6d98a9d5a916650d0e5bd9de849191638ecd68efaea65f1.jpg> スーパーの総菜 節約策で人気↑
+      <a href=https://news.yahoo.co.jp/pickup/6537993>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/13a3558a3bacb344698abc039b3a630e8c14a5c13b93e43174cb4cf911a5d0da.jpg> TDRでの「ぬい活」賛否 運営見解
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537976>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/9cab11b0707933b1b3c7b24cc329a9603df59cb6095ee128eca90eedc03b2ca0.jpg> トムクルーズ 戸田奈津子氏に感謝
+      <a href=https://news.yahoo.co.jp/pickup/6537990>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/fe73677ebe5df4959b05ebf7acb716085f2e4de897c437427a89d226207a256c.jpg> 日テレ 平成の伝説的番組を放送
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 15:30:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 16:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
