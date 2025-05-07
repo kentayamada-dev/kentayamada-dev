@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/66e3d8bf1efef3e8ababe4054a909bc2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5a8f028bb793af0aefec629aa9ba8fec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dfb4eda4f1a6edfb32c8df0d4340c5918b32b969>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000066-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=575&ch=575&exp=10800&fmt=webp> 逃げ惑う乗客、血痕…駅内騒然「何が起きたのか」　東大前駅切りつけ
+      <a href=https://news.yahoo.co.jp/articles/1a768ad2a91a348c85242e05092655ea5358ee40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050193-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 高校生をタイからミャンマーへ移送容疑、２９歳男を逮捕…特殊詐欺メンバー集める役割か
       </a>
     </td>
   </tr>
@@ -374,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd3f8e3009d5c2d42b2431fbe9c655f265a12da4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050177-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> インドがパキスタンとカシミール地方攻撃、２６人死亡・４６人負傷…パキスタンが報復表明
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050177-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> インドがパキスタンとカシミール地方攻撃、２６人死亡・４６人負傷…パキスタンが報復表明
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538048>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/21d3de9514612e5280f6da57a6b04d64f4b98d0ed99d0f74c540168bd8c593b6.jpg> 意識失う 勤務前に飲酒の医師処分
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538026>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/acfa5955237a3e4d246f64ea1b5cae3ff240408f5b0bf0db6adadf38870b2bec.jpg> 同性婚展示 京都市一部中止求める
+      <a href=https://news.yahoo.co.jp/pickup/6538056>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/552ec85975e8149d187b13a6874f8bb3d4a838869ec6e3327e6047dacaf2e720.jpg> 高校生を海外連れ去った疑い 逮捕
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538057>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/aa462d2a7133256e041e0aae1cdb6e96d9df5843c12b16dc7658f1afc5210594.jpg> ディズニー UAEテーマパーク計画
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538055>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/7c53d8070ae60f1ae06d2a8c82648dc32257a230baafa295ccaf64773670ebe0.jpg> 死球の阪神中野「マジできつい」
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 23:30:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 23:52:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
