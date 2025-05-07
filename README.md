@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a8f028bb793af0aefec629aa9ba8fec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e358fa08a7d6f98eecf162697098975d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1a768ad2a91a348c85242e05092655ea5358ee40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050193-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 高校生をタイからミャンマーへ移送容疑、２９歳男を逮捕…特殊詐欺メンバー集める役割か
+      <a href=https://news.yahoo.co.jp/articles/0ba6025ab9c07dcec6519e231ca6b0f2ebce3b8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-08949486-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 世界が注目「コンクラーベ」まもなく開始　日本の枢機卿も2人参加【中継】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/feacf6fefd431b5ee2fe5d07449cd41312ec6c52>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00343736-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=867&ch=867&exp=10800&fmt=webp> 【巨人】岡本和真「靱帯損傷」で歓喜の勝利からＧ党悲鳴「ウソだと言って…」「聞いてない」
       </a>
     </td>
   </tr>
@@ -374,23 +382,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd3f8e3009d5c2d42b2431fbe9c655f265a12da4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050177-yom-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> インドがパキスタンとカシミール地方攻撃、２６人死亡・４６人負傷…パキスタンが報復表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b492de7b13aeead811120d032a7059797cbd6e89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35071394-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=843&ch=843&exp=10800&fmt=webp> コンクラーベ効果！?　米・英合作映画「教皇選挙」が興収７億円突破　９日間で２億円上積み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7112da3b6a31c7c116943043882a51a9f9da6a10>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000133-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=928&ch=928&exp=10800&fmt=webp> 「砂同盟」鳥取県がサウジと締結　ヨルダンに続き2カ国目　広がる「サンド外交」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050177-yom-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> インドがパキスタンとカシミール地方攻撃、２６人死亡・４６人負傷…パキスタンが報復表明
       </a>
     </td>
   </tr>
@@ -402,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/0259431e4bab003c01ac04446a5a6fd67ced84f5d4e3768522b3511059e24e08.jpg> 秘密選挙 コンクラーベに世界注目
+      <a href=https://news.yahoo.co.jp/pickup/6538052>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/e0b3b0f8a9d31369ebfcd6eff1b1983f12578b63a0959e39ee7dafe494ad5a44.jpg> 核保有国同士 印パ対立の今後解説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/e0b3b0f8a9d31369ebfcd6eff1b1983f12578b63a0959e39ee7dafe494ad5a44.jpg> 核保有国同士 印パ対立の今後解説
+      <a href=https://news.yahoo.co.jp/pickup/6538039>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/0259431e4bab003c01ac04446a5a6fd67ced84f5d4e3768522b3511059e24e08.jpg> 秘密選挙 コンクラーベに世界注目
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538058>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/27d8dcca0ef19cf1bd6c2fd5c04788a8eb073327c9358adfe8f37a73dd3a1d7a.jpg> トランプ氏 大きな発表行うと表明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538056>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/552ec85975e8149d187b13a6874f8bb3d4a838869ec6e3327e6047dacaf2e720.jpg> 高校生を海外連れ去った疑い 逮捕
       </a>
@@ -434,16 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538045>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/26fb97692bf8dc43d392cb47538a48c8998c0bff3fe5a6ad988372c4422f69df.jpg> 退職代行 新入社員からの依頼殺到
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538046>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/b2c716fb19ba6ef8e1bb6c59d857a559e910cb9f95beb19da410ce84aed5adce.jpg> PRTIMES 発表前情報など漏えいか
+      <a href=https://news.yahoo.co.jp/pickup/6538027>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/293925eed7bb17f00b622f7b3c9e0f563389326b17765c7c2e94baa7dc7bffab.jpg> 「ニセコバブル」崩壊前兆か 懸念
       </a>
     </td>
   </tr>
@@ -458,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538055>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/7c53d8070ae60f1ae06d2a8c82648dc32257a230baafa295ccaf64773670ebe0.jpg> 死球の阪神中野「マジできつい」
+      <a href=https://news.yahoo.co.jp/pickup/6538059>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/8eaeee535bc3fac36d663bd64aad04b47ce139226622312b78fce4379f1d26fb.jpg> G岡本は重傷だった 全治3カ月か
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 23:52:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 00:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
