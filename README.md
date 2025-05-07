@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3b863fd457f23e87f0fca030fa739036.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9c3676c6fdf9444d9374f9e5d76d5c86.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/178b0b7e35ff0663801c7bd2052ccc8e4bf3309c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-21899610-tysv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 釣りのミニボート転覆か 1人死亡、心肺停止状態の男性見つかる 山口・長門市
+      <a href=https://news.yahoo.co.jp/articles/8abb99e637a0b213bb4628ec02a183b6b3d4191d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010001-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=541&ch=541&exp=10800&fmt=webp> 「大きな戦力ダウンだが新たなジャイアンツが見えてくるかも」巨人の岡本和真が離脱する暗いムードを変えて阪神を撃破した坂本勇人の“風格”とOB松井秀喜氏の“檄”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/44c0746448a9699f89cb9b55bc8330be1964cd42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000196-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 国際政治の大家、知日派の米ハーバード大名誉教授、ジョセフ・ナイ氏が死去
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/608ef6da22b89e066a1d8abf3160e24045486211>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-35232690-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=798&ch=798&exp=10800&fmt=webp> インド軍攻撃、パキスタンの死者３１人に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c230c3e6dc1797a7dab85b7ba6d5f89eadc5d48b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00050003-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=35&cw=389&ch=389&exp=10800&fmt=webp> 巨人・岡本和真の負傷をテレビで見た坂本勇人、緊急昇格でタイムリー…「代わりにならないが精いっぱいやるしかない」
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538065>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/988328c7a3fe5502d8051de6938ae9a935997d99f46a802eae03cbc8c518b767.jpg> ミニボート転覆 1人死亡1人不明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538058>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/27d8dcca0ef19cf1bd6c2fd5c04788a8eb073327c9358adfe8f37a73dd3a1d7a.jpg> トランプ氏 大きな発表行うと表明
+      <a href=https://news.yahoo.co.jp/pickup/6538067>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トランプ氏 5月8日を戦勝記念日に
       </a>
     </td>
   </tr>
@@ -426,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/988328c7a3fe5502d8051de6938ae9a935997d99f46a802eae03cbc8c518b767.jpg> ミニボート転覆 1人死亡1人不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538066>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/11/29/fe78c22b57718f59c604599e0a30a17266d10a13dd93b17d90e9c5813a97c2b1.jpg> NHK受信料未払い 公用車で相次ぐ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/6b225a7c2abc03bba36036414f8a1813deb70a3fc72ec22fc477018475bda379.jpg> 大阪で中国から移住増 部活楽しい
       </a>
     </td>
   </tr>
@@ -440,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538064>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/b05a2f69e79d5a0af63ca17e56a5655038e7cbcb66fad5174096129a2b68b225.jpg> コナン映画 なぜ3年連続100億円超
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 07:30:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 08:01:02 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
