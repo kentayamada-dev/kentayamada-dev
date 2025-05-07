@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f070ba410ee7bd928b8e9056fe7917fc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3b863fd457f23e87f0fca030fa739036.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/606c36f67b98ac48def82f4e74ec75151eb772b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968570-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 乗客が突然頭など切りつけられる…目撃者「ホームに血がばしゃって」戸田佳孝容疑者（43）を現行犯逮捕　取り押さえた男性も指を切り重傷　東京メトロ南北線東大前駅
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/320896b5ee7c952fad9c572e5bf4155b31e61d76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-35232691-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 新教皇、初日は決まらず　煙突から黒い煙
+      <a href=https://news.yahoo.co.jp/articles/178b0b7e35ff0663801c7bd2052ccc8e4bf3309c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-21899610-tysv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 釣りのミニボート転覆か 1人死亡、心肺停止状態の男性見つかる 山口・長門市
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/e0b3b0f8a9d31369ebfcd6eff1b1983f12578b63a0959e39ee7dafe494ad5a44.jpg> 核保有国同士 印パ対立の今後解説
+      <a href=https://news.yahoo.co.jp/pickup/6538065>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/988328c7a3fe5502d8051de6938ae9a935997d99f46a802eae03cbc8c518b767.jpg> ミニボート転覆 1人死亡1人不明
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538056>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/552ec85975e8149d187b13a6874f8bb3d4a838869ec6e3327e6047dacaf2e720.jpg> 高校生を海外連れ去った疑い 逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538066>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/11/29/fe78c22b57718f59c604599e0a30a17266d10a13dd93b17d90e9c5813a97c2b1.jpg> NHK受信料未払い 公用車で相次ぐ
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 07:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 07:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
