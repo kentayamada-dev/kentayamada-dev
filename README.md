@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/572035514c4bb7bb808263f68db94b2d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/547f31b1f1c093c17ea73abd1437a5a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bf7f333baa89478d1790df4e76666f8a5cce98be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000384-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=946&ch=946&exp=10800&fmt=webp> 巨人・阿部監督　東京ドームでの阪神戦今季初勝利に「ホッとしてます」　坂本V打には「凄く大きい1点」
+      <a href=https://news.yahoo.co.jp/articles/dfb4eda4f1a6edfb32c8df0d4340c5918b32b969>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000066-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=575&ch=575&exp=10800&fmt=webp> 逃げ惑う乗客、血痕…駅内騒然「何が起きたのか」　東大前駅切りつけ
       </a>
     </td>
   </tr>
@@ -387,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/427379b7ea1f49783e946d33e5f09f267d7b7558>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000066-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 嵐、解散コンサート決定に悲観の声続々…メンバー “再始動匂わせ” の功罪とは
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -410,24 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538023>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/8af1ccdc8032c94c5dd3336e7300ef74ee866e803040fde0937f5ea8aeadf780.jpg> 自民保守系 政府の戦争検証に反対
+      <a href=https://news.yahoo.co.jp/pickup/6538035>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/3098d271b75dea78580f887129237485ddd2b22da1233650d7839790945ec269.jpg> フリーダイヤルなどの障害 復旧
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538036>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/1663bac544b29825e7bda78deec065b39450690482dbaf41523d144bb2dfbe87.jpg> 東京メトロで刃物持つ男 2人けが
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/620d89ee0e387c05e32b6050e892b709c7bb87dc87057fb4d44d3253fbeeb1ed.jpg> 万博関係者が裏で喫煙 協会認める
+      <a href=https://news.yahoo.co.jp/pickup/6538051>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/911d659b451a1e7340254e7968e8059f98800e8deeb42164fe8ebc6924c83606.jpg> 東京メトロ切りつけ 逃げ惑う乗客
       </a>
     </td>
   </tr>
@@ -442,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538027>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/293925eed7bb17f00b622f7b3c9e0f563389326b17765c7c2e94baa7dc7bffab.jpg> 「ニセコバブル」崩壊前兆か 懸念
+      <a href=https://news.yahoo.co.jp/pickup/6538046>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/b2c716fb19ba6ef8e1bb6c59d857a559e910cb9f95beb19da410ce84aed5adce.jpg> PRTIMES 発表前情報など漏えいか
       </a>
     </td>
   </tr>
@@ -458,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538040>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/d8d2d23225818354b0af97958d8c09163267ce9ea3ce76157720c930b0559a3c.jpg> 死球 巨人監督が阪神監督に謝罪も
+      <a href=https://news.yahoo.co.jp/pickup/6538049>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/a94b586ffe4d6ff457911167f36a1be91cf467fafaaa7b8d3c7b4dc0ca722c7a.jpg> 坂本勇人 岡本不在の一戦で決勝打
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538053>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/a8ef0391c53d0c677d0a233f44492a1de64d8303445c0e113c978599160fe655.jpg> オードリー春日始球式 通算9戦7勝
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 22:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 23:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
