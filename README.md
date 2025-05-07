@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2408a3a4830f6cb17887adf4e3c61000.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/664e341818b182f5047c88c33ad148c0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/30bb0620a6d0e9030baf59911a26cc57db8e5630>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000058-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【SMAPと対照的】嵐の解散コンサートで浮き彫り“性暴力”で潰えた国民的グループとの残酷な格差
+      <a href=https://news.yahoo.co.jp/articles/17f7552b5f0cc4b5f731a9e2aca4c41c7d99458d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177180-abemav-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 南北線・東大駅前で“刃物男” 1人けが 男は確保
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f74d9e6dd5b1918a059dfceb4e377aa0e4748011>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000007-courrier-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=437&cy=0&cw=1126&ch=1126&exp=10800&fmt=webp> コンクラーベ中に踏まえておきたい　次なる教皇の選出を左右するカトリック教会の「重要課題」
+      <a href=https://news.yahoo.co.jp/articles/fb325c5031560d790e97af7ee74421caeb749bc3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000061-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「やりたいことを発信してほしい」大野智　帰還に歓喜も“解散後”に寄せられるエールの声…嵐休止時には「自由な生活が一回したい」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/29a2b07b385688fd1f9d993ed0d8ee60e60277d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「欧州人より結束」　枢機卿の多数が非欧州　「コンクラーベ」でカギ握るグローバルサウス
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/afce69574c102d6315b47ae98920f5894bc724ef>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000045-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> インド軍のパキスタン領内攻撃　26人死亡、負傷者は46人に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1272b9d891e6a3c7ba837954fe0d056fe5105a75>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 石破首相事務所「政治資金、適切に処理」　献金巡る文春報道受け
       </a>
     </td>
   </tr>
@@ -418,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538010>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/e115c1e2b2e3c2317704c7dad97bc61c08125f6d6f1035fb5b69caf7d2e27fc0.jpg> 川崎遺棄 不審なハンマー見つかる
+      <a href=https://news.yahoo.co.jp/pickup/6538028>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/7138a4b9182ea6bdbe51dfd96effd20dd4dccb84ef6d2734faed6ef1751c7e63.jpg> 首相に過去献金と証言 不記載疑い
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538030>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/73b56f3081bd74158a7d2ab4b2c9161c730ed17a2a210391952afae1319ffc22.jpg> 東京メトロで刃物持つ男 けが人も
       </a>
     </td>
   </tr>
@@ -434,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538014>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 児童ら116人 ロタウイルス感染か
+      <a href=https://news.yahoo.co.jp/pickup/6538027>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/64578549d9b8ac6731e83178b02cf6555efde68dceaa72eb239d63e393ef2c5c.jpg> 「ニセコバブル」崩壊前兆か 懸念
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538007>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takaokondo/02198379/title-1746493488961.jpeg?exp=10800> 井上尚弥の次戦 立地良い名古屋か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 19:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 20:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
