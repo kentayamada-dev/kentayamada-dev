@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/52ce179b733ba7d01d2b1923a9df22b9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1972585ecf7f38a875f4d6992d74c7a7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0016e6e1fbaba97166f45a54b1ef7dafd89c9d05>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000037-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 米中、今週スイスで「関税戦争」初公式対話…両国高官級が出席
+      <a href=https://news.yahoo.co.jp/articles/2a069222a4161e6718ad5be1a7e24b206931f8f7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07234951-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「防災拠点の市役所での火災は大変遺憾」埼玉・白岡市役所の火災で市長　1階約1300平方メートル焼ける　市役所で行う業務はきょう休止
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/805fa6e84f8c2b69040a391ab5023483002cbfd0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050048-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 密室で開かれるコンクラーベ、きょうからここで…投票用紙を燃やすための炉も
+      <a href=https://news.yahoo.co.jp/articles/822935c502f5a8d8f6c164c2839ef6210b1c4d8f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07234942-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 新たなローマ教皇を決める「コンクラーベ」きょう夜から開始　選出されれば白い煙　改革進めた教皇フランシスコの意思が継承されるか注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aaf1ee4d456b3005a2c405855cbddf80f5d99edc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050049-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=61&cw=378&ch=378&exp=10800&fmt=webp> １歳児、深夜の用水路に浮いている状態で発見…コンビニの防犯カメラに１人で歩く姿
+      <a href=https://news.yahoo.co.jp/articles/711759c6908b915ab7d7cc4814d4cdfbd2454a06>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米中高官が貿易巡り協議へ　ジュネーブで10、11両日　ベセント氏「緊張緩和に関して議論」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f318c5d81f610e2094f4ff3447542b4c5464e92d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【ドイツ】メルツ政権、不安な船出　首相指名選挙は異例の再投票
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4780e88077012d4c7fec8bf74742c629b972f62f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35232630-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=362&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 新首相にメルツ氏、異例の２回目の投票で　独議会
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537952>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/a87729aa23c4bd254b9505764e45f8457798f98028a32efd8a40b84e0fff77b6.jpg> 米中の高官が協議へ 関税が議題に
+      <a href=https://news.yahoo.co.jp/pickup/6537961>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/9cf8dc892c610abd1b8813f3fa557ceb2365d82440493812014299ce57beaa6f.jpg> 印パ対立の火種 カシミール問題
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537960>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/886bfb12c7f23ea65c7bdb15cfd926ec26eb2b69e2f18db8e48c374dd34e08b7.jpg> 「国境離島」保全 測量を強化方針
+      <a href=https://news.yahoo.co.jp/pickup/6537971>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/4cb282e40c311f95871974c6c7410f78b4c05447a1938e72820fd88614a46a88.jpg> 首相 自民幹部にコメ高騰対策指示
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537957>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/59c5a9006343db2d16127332557bad5e9fd96a26d16657f9c6ef3009275ad473.jpg> 大谷が特大10号 2試合連発に騒然
+      <a href=https://news.yahoo.co.jp/pickup/6537970>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/f0bd0749522e03eb512dd36414a0615f38984f80e76bd516d5bf341e78c071c5.jpg> 大谷が特大弾 自己最速「10‐10」
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 11:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 12:01:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
