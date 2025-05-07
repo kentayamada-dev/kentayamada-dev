@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f9e42e4c715292a68b2b4272a038957e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a7e29743d72bc7ab9a706fb49e658ee4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0aa6dc15045e743e436212c152db0f16c35184bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00968140-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 5歳と1歳の男児2人乗せ自転車に…母子3人が軽乗用車にはねられ39歳母親死亡　20歳会社員の女を現行犯逮捕　香川・高松市
+      <a href=https://news.yahoo.co.jp/articles/901d034cc3299bf0efc81e7d0d0df2051e7050e6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 米中間で貿易協議開始も米中チキンレースは容易には終わらない
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/221d0c7c0dd8947efd1e70c07523aff75d8b7c5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000068-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=1404&ch=1404&exp=10800&fmt=webp> 午前のドルは143円前半へじり高、アジア通貨高一服
+      <a href=https://news.yahoo.co.jp/articles/0aa6dc15045e743e436212c152db0f16c35184bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00968140-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 5歳と1歳の男児2人乗せ自転車に…母子3人が軽乗用車にはねられ39歳母親死亡　20歳会社員の女を現行犯逮捕　香川・高松市
       </a>
     </td>
   </tr>
@@ -410,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537971>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/4cb282e40c311f95871974c6c7410f78b4c05447a1938e72820fd88614a46a88.jpg> 首相 自民幹部にコメ高騰対策指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537968>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/873ac49b4c60a3f035d545156101800388df4284d1520886b4c8391b7d45fd85.jpg> 1歳死亡 破れた網戸から家出たか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537969>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/58fbec7335a4c446ea7b1af0eccebfc1165ea13f0cd4cf56ef72f49ea1df96d4.jpg> 市役所火災で全業務を休止 埼玉
+      <a href=https://news.yahoo.co.jp/pickup/6537983>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/deb0b81833c3cffa55e490933ce3469d0ded5f440be3f1e36fb917a58e0fbba9.jpg> 米カナダ会談 51番目の州巡り応酬
       </a>
     </td>
   </tr>
@@ -442,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537966>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohidetoshi/02199534/title-1746579736000.jpeg?exp=10800> 用水路で1歳死亡 落ちない工夫を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537967>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/545dd50f5565eeca01ceb46b27bfd6eb9372f154a113a5a2503563ef72ec83d6.jpg> 生徒徹夜で歩く行事 負担で1日に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537980>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/75ea4cc05b72675e1536a82af7d91a2621a6676dd7584ce583319e6959db7d69.jpg> 食事中の「クチャ音」なぜ出るか
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 13:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 14:00:43 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
