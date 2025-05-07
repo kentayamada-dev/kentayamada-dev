@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d0b84dcfd44855544d3d7ec359e56f97.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c386b5a833be22e2182e9f0f4f4289c7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,7 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/52bd75788e35e162960ffef07cd74a9f7dd3623e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000078-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 巨人・坂本　岡本離脱の緊急事態救った!23日ぶり1軍昇格即V撃　復活誓う36歳「僕もまだまだ頑張る」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000078-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 巨人・坂本　岡本離脱の緊急事態救った!23日ぶり1軍昇格即V撃　復活誓う36歳「僕もまだまだ頑張る」
       </a>
     </td>
   </tr>
@@ -373,8 +373,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5843c99f7ca2e226f73bb68f7ce97094ed35ac6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010000-annd-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】ローマ教皇選挙「コンクラーベ」　初日の投票では決まらず　システィーナ礼拝堂の煙突から黒い煙
+      <a href=https://news.yahoo.co.jp/articles/0648c1f1aba67598153fe555e8d7bfeb2b4c6ed1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000002-mai-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ローマ教皇選挙、初日は決まらず　礼拝堂の煙突から「不選出」の黒煙
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 05:30:30 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 06:01:05 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
