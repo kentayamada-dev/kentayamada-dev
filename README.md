@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8564fe0416a5621610ae7d6a5c11dda5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/865f1583672adb3dcf1a52cc9fa8535c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6c2546fb2179a085297e56f26ebbd98e7651995c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00078853-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=623&ch=623&exp=10800&fmt=webp> 「顔にイレズミが」「自殺未遂をしたと連絡があって…」川崎ストーカー死体遺棄・白井秀征容疑者（27）の実父が明かした“息子との再会”
+      <a href=https://news.yahoo.co.jp/articles/c453ce384b712563c9879472fe398a1167fadc00>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 路上車遺体、交際男を再逮捕　首絞め殺害疑い　愛知県警
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c14cf3f3f7a73692d1b71a90fbc415bd4b4a5af7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35070728-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=684&ch=684&exp=10800&fmt=webp> 【コンクラーベ】リアル「教皇選挙」は本命不在の混戦に？7日夜にスタート／おもな流れ
+      <a href=https://news.yahoo.co.jp/articles/271f067eff2894be8bab46d1e481e304a23f76ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 次のローマ教皇決める「コンクラーベ」　新上五島町出身の前田枢機卿も投票へ【長崎】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4466e1bae08b4e4d68a7c1f89ccde8cb509bf914>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000025-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 独メルツ新首相、造反者は「調査しない」　2回目投票でも基盤の弱さ
+      <a href=https://news.yahoo.co.jp/articles/7149fce212e67c0a618f1d2462b99ecfa4c686bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000033-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 「嵐」チケット争奪戦の絶望感“推定120億円の収入源”FC会員300万人、「国立競技場」40公演でもカバーできず
       </a>
     </td>
   </tr>
@@ -394,32 +394,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537988>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/950c6ad1b9d67a9b3d71d3b8acc6892b58203a83c85b0bf1b8343c8221665eee.jpg> 自公 減税も視野に経済対策検討
+      <a href=https://news.yahoo.co.jp/pickup/6538001>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/f0db49d8e21e906e5e1de6fb33d762b3a8ffb245ebfe3c94b4129c69b8e0fac9.jpg> 印パ対立激化 国連「深刻な懸念」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537983>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/deb0b81833c3cffa55e490933ce3469d0ded5f440be3f1e36fb917a58e0fbba9.jpg> 米カナダ会談 51番目の州巡り応酬
+      <a href=https://news.yahoo.co.jp/pickup/6538002>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tsugenoriko/02199741/title-1746587889959.jpeg?exp=10800> 愛子さま初のお言葉 志を識者解説
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537987>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/fcdaaea4d45cc5906f24d020b0dfbf8ed826da0deffc641bc4c6099796618079.jpg> 首切断事件 母親に猶予付き判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537992>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/c5434f2e94e1a5014fc8185c879e0935bb71d6e60f1f024cd132832cdc8bb289.jpg> 西田氏のひめゆり発言 批判が拡大
+      <a href=https://news.yahoo.co.jp/pickup/6538006>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/18ae1af8f6aeac5f04d4333461cec787104496eb1b888988b873568c45f87ac7.jpg> 自民西田氏 ひめゆり発言撤回せず
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537995>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/bdc1f83a5ce5ae739f550f08dbdd044ef1def12610a00f90a2db349c73f69d86.jpg> 早田ひな 現状は暗いトンネルの中
+      <a href=https://news.yahoo.co.jp/pickup/6538004>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/9ef62f3a61cbd98ce991dca570484dae3c5fe11807230e53b3d08a01fd4dac20.jpg> 巨人・浅野翔吾 電撃1軍昇格
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538000>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/3116297b6b070908ec400221e854cde4173b9072123c1c17b254a61e88cfea7e.jpg> 嵐活動終了 大野神社に祈るファン
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 16:31:07 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 17:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
