@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b1c7be4ea68fee66037aacb90bf3278c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/fe4f92dd75cec3fbee4abd2c590cac6c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ac3b22ba259bdf3e47f97dfe5044884d22f8e430>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】ローマ教皇選挙 初日の投票では決まらず システィーナ礼拝堂の煙突から黒い煙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5843c99f7ca2e226f73bb68f7ce97094ed35ac6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】ローマ教皇選挙　初日の投票では決まらず　システィーナ礼拝堂の煙突から黒い煙
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/96d9d352cee0a16d11661b9d01371a387fd57089>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔FOMC〕金利、3会合連続据え置き＝トランプ関税の影響見極め―米FRB
       </a>
@@ -365,24 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8174a001453ab4224219f1c89fc45538f10a8107>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-90024334-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=373&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 改革継承か保守への回帰か『コンクラーベ』まもなく開始“教皇選挙”世界が注目の理由
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/63427ce8036c43c1e0719ae8c349847c4707f4ee>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-05165877-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> インドがパキスタン側の実効支配地域にミサイル攻撃　双方に多数の死者も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/604c51555018962790ed701b91c9629ed9ca598e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00343745-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【巨人】阿部監督　勝ち越し打の坂本勇人を称賛「すごく大きい１点。いい『薬』になると思う」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 04:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 04:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
