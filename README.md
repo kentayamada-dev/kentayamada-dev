@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a2bf9348bc9abbe32db1588d1ce034a5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2408a3a4830f6cb17887adf4e3c61000.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d8fcf5d9cf058ecdfa53bd24651c7b5ff1cce6f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050144-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=333&ch=333&exp=10800&fmt=webp> コンクラーベを前に、赤の衣装に身を包んだ枢機卿らがミサで祈る…バチカン・サンピエトロ大聖堂
+      <a href=https://news.yahoo.co.jp/articles/30bb0620a6d0e9030baf59911a26cc57db8e5630>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000058-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=206&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【SMAPと対照的】嵐の解散コンサートで浮き彫り“性暴力”で潰えた国民的グループとの残酷な格差
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f74d9e6dd5b1918a059dfceb4e377aa0e4748011>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000007-courrier-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=437&cy=0&cw=1126&ch=1126&exp=10800&fmt=webp> コンクラーベ中に踏まえておきたい　次なる教皇の選出を左右するカトリック教会の「重要課題」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/825ef1289f15d6db23df3fddbd352ab7dcb7a994>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-21899127-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 川崎死体遺棄事件　ストーカー被害、県内現状は?　件数と相談窓口
       </a>
     </td>
   </tr>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58414bdc3b279916a78316add272b905f01ca042>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050145-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ａｕスマホ料金を月２２０～３３０円値上げ…ＫＤＤＩが８月から、「スターリンク」接続利用可能
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3d6a21a2146b07517c66c28dea38a3eb65f32441>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000050-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 嵐、活動終了発表「可能性断念」の文言が呼ぶ混乱「株式会社嵐」設立もわずか1年で解散の不可解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/46f7c1ed4ea9a6f4ce21c6b6a379c3ee8b579b84>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07235050-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 元交際相手の白井秀征容疑者（27）が行方不明直前のストーカー行為を当時否定「18日以降はつきまとい行為をやっていない」 川崎市20歳女性遺体遺棄事件
+      <a href=https://news.yahoo.co.jp/articles/1272b9d891e6a3c7ba837954fe0d056fe5105a75>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000044-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 石破首相事務所「政治資金、適切に処理」　献金巡る文春報道受け
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538013>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/b7c71e752302e9af58a2da254acff77888338ae3ce468ca13aea29d58ca7fe29.jpg> 国交相 NEXCO中日本を厳重注意
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538020>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/f8e7243126fee1af3dfe6f656ca01f852bd5eac277c8833ddd468598ba4e8508.jpg> 緊張高まる印パ 両国引けない事情
       </a>
@@ -418,8 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538018>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/10139e7b45817918d9768333c4d53d2877fc22ceb9f873d202c19b1e841934f1.jpg> フリーダイヤルなど 一部障害発生
+      <a href=https://news.yahoo.co.jp/pickup/6538015>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ab1c66ce076409425e48427eda92689bd9cd08ffbc1865e4d7d36e3d924ad04d.jpg> 自民会合 全ての関税項目の協議を
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538010>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/e115c1e2b2e3c2317704c7dad97bc61c08125f6d6f1035fb5b69caf7d2e27fc0.jpg> 川崎遺棄 不審なハンマー見つかる
       </a>
     </td>
   </tr>
@@ -442,14 +442,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538005>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/352d4098f7dc9c31a081287008437547d06d5d0ca9e8bb2ade312223ee1c0d2e.jpg> 塩野義製薬 鳥居薬品にTOBへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538021>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ff19338783dacaaa08d5767f520c62951f42a4c3ae77ac79baffa48bc3fedd42.jpg> auも値上げ 値下げ競争の転換点?
       </a>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538007>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takaokondo/02198379/title-1746493488961.jpeg?exp=10800> 井上尚弥の次戦 立地良い名古屋か
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 19:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 19:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
