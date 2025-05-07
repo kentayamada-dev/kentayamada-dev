@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a7e29743d72bc7ab9a706fb49e658ee4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ed208140f28ad76df2ee811388f6763b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/901d034cc3299bf0efc81e7d0d0df2051e7050e6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00010001-nrin-000-1-view.jpg?pri=l&w=190&h=190&order=c2r&cx=420&cy=0&cw=190&ch=190&exp=10800&fmt=webp> 米中間で貿易協議開始も米中チキンレースは容易には終わらない
+      <a href=https://news.yahoo.co.jp/articles/3eee4a91b38f405a6008d8d689faebe140b429b3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000060-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 【速報】札幌すすきの殺人　母親に有罪判決 懲役1年2カ月　執行猶予3年
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0aa6dc15045e743e436212c152db0f16c35184bf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00968140-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 5歳と1歳の男児2人乗せ自転車に…母子3人が軽乗用車にはねられ39歳母親死亡　20歳会社員の女を現行犯逮捕　香川・高松市
+      <a href=https://news.yahoo.co.jp/articles/05f5433d597f3ececfc8be6af244b73892028cb4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177089-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=304&cy=0&cw=769&ch=769&exp=10800&fmt=webp> 行方不明3日後にスマホの電源切れる 川崎市の女性死体遺棄事件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9d0068fd09856395df51b2587299ccb10d208991>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177088-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=769&ch=769&exp=10800&fmt=webp> 米中高官 “トランプ関税”措置強化以降、初の協議へ ベッセント氏 「公正な貿易」望む
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d86479e068bd2013238d9abc20634a8820f32535>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00010000-senkyocom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=1280&ch=1280&exp=10800&fmt=webp> 教皇選挙（コンクラーベ）とは？仕組み・日程・注目ポイントを5分で解説！【白と黒の煙の意味】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d746b59a23445d3eea228a5868ea140259f0c4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07234965-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 元交際相手の容疑者の男（27）が行方不明直前のストーカー行為を当時否定　川崎20歳女性遺体遺棄事件
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537974>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ee59c1b25324d180af23caf1b3a2e0b527d5cd81f5bdb95355dafbdbce2ce60e.jpg> 印にパキスタンが反撃 双方に死者
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537983>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/deb0b81833c3cffa55e490933ce3469d0ded5f440be3f1e36fb917a58e0fbba9.jpg> 米カナダ会談 51番目の州巡り応酬
       </a>
@@ -418,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537977>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/0ebcd9a3693e2f5fed17d2488dc156b0e55f5ced43fc316299f9622311bf0edb.jpg> 自転車はねられ母死亡 子2人搬送
+      <a href=https://news.yahoo.co.jp/pickup/6537974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ee59c1b25324d180af23caf1b3a2e0b527d5cd81f5bdb95355dafbdbce2ce60e.jpg> 印にパキスタンが反撃 双方に死者
       </a>
     </td>
   </tr>
@@ -434,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537967>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/545dd50f5565eeca01ceb46b27bfd6eb9372f154a113a5a2503563ef72ec83d6.jpg> 生徒徹夜で歩く行事 負担で1日に
+      <a href=https://news.yahoo.co.jp/pickup/6537977>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/0ebcd9a3693e2f5fed17d2488dc156b0e55f5ced43fc316299f9622311bf0edb.jpg> 自転車はねられ母死亡 子2人搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537981>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/55dfa8335c15f316f6d98a9d5a916650d0e5bd9de849191638ecd68efaea65f1.jpg> スーパーの総菜 節約策で人気↑
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537978>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/258829050a38d574a0a38c02d682209b611912206c56b6c65c6a53a9abc16fe5.jpg> 嵐が解散へ 著名人らの反応まとめ
+      <a href=https://news.yahoo.co.jp/pickup/6537946>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ec37a225a273fd49d1d790d1d2a247edb36c32beaec1cfae4d4b0b5a80f97757.jpg> 堂本光一 F1角田裕毅を熱く語る
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 14:00:43 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 14:30:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
