@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/9c3676c6fdf9444d9374f9e5d76d5c86.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/440afec289e4ab94f266327d2857ec54.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8abb99e637a0b213bb4628ec02a183b6b3d4191d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010001-ronspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=541&ch=541&exp=10800&fmt=webp> 「大きな戦力ダウンだが新たなジャイアンツが見えてくるかも」巨人の岡本和真が離脱する暗いムードを変えて阪神を撃破した坂本勇人の“風格”とOB松井秀喜氏の“檄”
+      <a href=https://news.yahoo.co.jp/articles/ce4bed2871e583df58bdfaab031326e5282b6ff8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-10518891-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=683&ch=683&exp=10800&fmt=webp> ドジャース、大勝で4カード連続勝ち越し　フリーマンが3安打＆4打点の大活躍　金慧成は3試合連続安打のタイムリー
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/44c0746448a9699f89cb9b55bc8330be1964cd42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000196-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800&fmt=webp> 国際政治の大家、知日派の米ハーバード大名誉教授、ジョセフ・ナイ氏が死去
+      <a href=https://news.yahoo.co.jp/articles/8abb99e637a0b213bb4628ec02a183b6b3d4191d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010001-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=541&ch=541&exp=10800&fmt=webp> 「大きな戦力ダウンだが新たなジャイアンツが見えてくるかも」巨人の岡本和真が離脱する暗いムードを変えて阪神を撃破した坂本勇人の“風格”とOB松井秀喜氏の“檄”
       </a>
     </td>
   </tr>
@@ -386,6 +386,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538076>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/33996ee765c79db9e63671c19a3078efc9d243382c79d23019116a58448ad9aa.jpg> 北朝鮮が弾道ミサイル発射 韓国軍
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538075>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/e6e73e0db80cf8cf3f354d50a1bf9c92da607a447715a32e2666948fbd847add.jpg> 露宣言の一時停戦開始 ウは応じず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538060>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/859d67982ae95b57aa409f93b6d9418982f6020f4fc2384eb5bdabedcf6b1fae.jpg> 米FRB 3会合連続で金利据え置き
       </a>
@@ -394,24 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538061>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/29a75d82e00463b9f8cac6c0fabcb1843a50ae4c85d2693fbc1f3d14f6a83329.jpg> ローマ教皇選挙 初日は決まらず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538067>
         <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トランプ氏 5月8日を戦勝記念日に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538062>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/06a2b3a503d88ad683c4a49b3b546a72e0b44842fafbde72c5265389a56aa283.jpg> 切りつけ 男と被害者に面識なしか
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 08:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 08:31:04 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
