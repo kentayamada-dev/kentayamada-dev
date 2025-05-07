@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/44a3b3952043ca07b4e7fc6b42428a7a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f9e42e4c715292a68b2b4272a038957e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/221d0c7c0dd8947efd1e70c07523aff75d8b7c5d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000068-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=1404&ch=1404&exp=10800&fmt=webp> 午前のドルは143円前半へじり高、アジア通貨高一服
+      <a href=https://news.yahoo.co.jp/articles/0aa6dc15045e743e436212c152db0f16c35184bf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00968140-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 5歳と1歳の男児2人乗せ自転車に…母子3人が軽乗用車にはねられ39歳母親死亡　20歳会社員の女を現行犯逮捕　香川・高松市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9482590f2b20d0a2765863378da20caaaf42798e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00968103-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 自転車に乗っていた母子3人が軽自動車にはねられる…39歳母親死亡　20歳会社員を現行犯逮捕　香川・高松市
+      <a href=https://news.yahoo.co.jp/articles/221d0c7c0dd8947efd1e70c07523aff75d8b7c5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000068-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=1404&ch=1404&exp=10800&fmt=webp> 午前のドルは143円前半へじり高、アジア通貨高一服
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537965>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/76eee5b9be26043431b6ef56c49b46710351fb689ed8191ea9a8ba85792d971c.jpg> 川崎遺体 親族説得後に容疑者帰国
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537969>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/58fbec7335a4c446ea7b1af0eccebfc1165ea13f0cd4cf56ef72f49ea1df96d4.jpg> 市役所火災で全業務を休止 埼玉
       </a>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537978>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/258829050a38d574a0a38c02d682209b611912206c56b6c65c6a53a9abc16fe5.jpg> 嵐が解散へ 著名人らの反応まとめ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537976>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/9cab11b0707933b1b3c7b24cc329a9603df59cb6095ee128eca90eedc03b2ca0.jpg> トムクルーズ 戸田奈津子氏に感謝
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 13:00:08 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 13:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
