@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/fe4f92dd75cec3fbee4abd2c590cac6c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1df35d22d377ad95a13bf48d01b2ee25.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac3b22ba259bdf3e47f97dfe5044884d22f8e430>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】ローマ教皇選挙 初日の投票では決まらず システィーナ礼拝堂の煙突から黒い煙
+      <a href=https://news.yahoo.co.jp/articles/58e4df71cf083d6dedc64829fb503971515b98c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00050027-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> コンクラーベ初日、新教皇決まらず…システィナ礼拝堂の煙突から黒い煙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5843c99f7ca2e226f73bb68f7ce97094ed35ac6c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】ローマ教皇選挙　初日の投票では決まらず　システィーナ礼拝堂の煙突から黒い煙
+      <a href=https://news.yahoo.co.jp/articles/0648c1f1aba67598153fe555e8d7bfeb2b4c6ed1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000002-mai-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ローマ教皇選挙、初日は決まらず　礼拝堂の煙突から「不選出」の黒煙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/96d9d352cee0a16d11661b9d01371a387fd57089>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 〔FOMC〕金利、3会合連続据え置き＝トランプ関税の影響見極め―米FRB
+      <a href=https://news.yahoo.co.jp/articles/2c458bb863e97c3a4afab9e1bf201c6c1ea6605c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000013-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=517&ch=517&exp=10800&fmt=webp> ＦＲＢ金利据え置き、インフレと失業率上昇リスクを指摘
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 04:30:28 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 05:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
