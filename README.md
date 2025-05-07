@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1df35d22d377ad95a13bf48d01b2ee25.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d0b84dcfd44855544d3d7ec359e56f97.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52bd75788e35e162960ffef07cd74a9f7dd3623e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000078-spnannex-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 巨人・坂本　岡本離脱の緊急事態救った!23日ぶり1軍昇格即V撃　復活誓う36歳「僕もまだまだ頑張る」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/58e4df71cf083d6dedc64829fb503971515b98c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00050027-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> コンクラーベ初日、新教皇決まらず…システィナ礼拝堂の煙突から黒い煙
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00050027-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> コンクラーベ初日、新教皇決まらず…システィナ礼拝堂の煙突から黒い煙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0648c1f1aba67598153fe555e8d7bfeb2b4c6ed1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000002-mai-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ローマ教皇選挙、初日は決まらず　礼拝堂の煙突から「不選出」の黒煙
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c458bb863e97c3a4afab9e1bf201c6c1ea6605c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000013-reut-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=517&ch=517&exp=10800&fmt=webp> ＦＲＢ金利据え置き、インフレと失業率上昇リスクを指摘
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/63427ce8036c43c1e0719ae8c349847c4707f4ee>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-05165877-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> インドがパキスタン側の実効支配地域にミサイル攻撃　双方に多数の死者も
+      <a href=https://news.yahoo.co.jp/articles/5843c99f7ca2e226f73bb68f7ce97094ed35ac6c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010000-annd-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】ローマ教皇選挙「コンクラーベ」　初日の投票では決まらず　システィーナ礼拝堂の煙突から黒い煙
       </a>
     </td>
   </tr>
@@ -402,16 +394,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538052>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/e0b3b0f8a9d31369ebfcd6eff1b1983f12578b63a0959e39ee7dafe494ad5a44.jpg> 核保有国同士 印パ対立の今後解説
+      <a href=https://news.yahoo.co.jp/pickup/6538061>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/29a75d82e00463b9f8cac6c0fabcb1843a50ae4c85d2693fbc1f3d14f6a83329.jpg> ローマ教皇選挙 初日は決まらず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538039>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/0259431e4bab003c01ac04446a5a6fd67ced84f5d4e3768522b3511059e24e08.jpg> 秘密選挙 コンクラーベに世界注目
+      <a href=https://news.yahoo.co.jp/pickup/6538052>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/e0b3b0f8a9d31369ebfcd6eff1b1983f12578b63a0959e39ee7dafe494ad5a44.jpg> 核保有国同士 印パ対立の今後解説
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 05:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 05:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
