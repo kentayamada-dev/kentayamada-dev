@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/664e341818b182f5047c88c33ad148c0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5eaafe296939966e90cc04bb557be722.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/17f7552b5f0cc4b5f731a9e2aca4c41c7d99458d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177180-abemav-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 南北線・東大駅前で“刃物男” 1人けが 男は確保
+      <a href=https://news.yahoo.co.jp/articles/9e7c22fc4dffaca1634bf3fd5e5422c902bce49a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000057-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=549&ch=549&exp=10800&fmt=webp> 識者「両国、エスカレーション望まず」　インド軍のパキスタン領攻撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fb325c5031560d790e97af7ee74421caeb749bc3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000061-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「やりたいことを発信してほしい」大野智　帰還に歓喜も“解散後”に寄せられるエールの声…嵐休止時には「自由な生活が一回したい」
+      <a href=https://news.yahoo.co.jp/articles/5dbb3b76630682cde3d129d2f4f7236965a8504e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000064-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「コンクラーベ」を前にバチカンでミサ　枢機卿が出席、世界が注目
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29a2b07b385688fd1f9d993ed0d8ee60e60277d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「欧州人より結束」　枢機卿の多数が非欧州　「コンクラーベ」でカギ握るグローバルサウス
+      <a href=https://news.yahoo.co.jp/articles/94292dd0fff39acdfb4e8f3654b4de0b69377cb6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-06995184-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=28&cw=640&ch=640&exp=10800&fmt=webp> 東京・文京区の東大前駅で刃物切りつけ2人ケガか　43歳の男を殺人未遂容疑で現行犯逮捕　警視庁
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/93eaaf1099646fd0e54c19bb1d3abb34ee33948b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000065-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「嵐」電撃 “解散” もファンが納得する「40代の体力問題」…“ぽっちゃり” 激変メンバー続出で心配された「アイドル路線」の維持
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/825ef1289f15d6db23df3fddbd352ab7dcb7a994>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-21899127-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 川崎死体遺棄事件　ストーカー被害、県内現状は?　件数と相談窓口
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/afce69574c102d6315b47ae98920f5894bc724ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000045-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> インド軍のパキスタン領内攻撃　26人死亡、負傷者は46人に
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538015>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ab1c66ce076409425e48427eda92689bd9cd08ffbc1865e4d7d36e3d924ad04d.jpg> 自民会合 全ての関税項目の協議を
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538028>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/7138a4b9182ea6bdbe51dfd96effd20dd4dccb84ef6d2734faed6ef1751c7e63.jpg> 首相に過去献金と証言 不記載疑い
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538030>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/73b56f3081bd74158a7d2ab4b2c9161c730ed17a2a210391952afae1319ffc22.jpg> 東京メトロで刃物持つ男 けが人も
+      <a href=https://news.yahoo.co.jp/pickup/6538036>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/1663bac544b29825e7bda78deec065b39450690482dbaf41523d144bb2dfbe87.jpg> 東京メトロで刃物持つ男 2人けが
       </a>
     </td>
   </tr>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538008>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/e235d59da30b924777fac576250e6409aff74563a107f52f561d4892192fe8a8.jpg> 百日せき 感染者が初の週2000人超
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538027>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/64578549d9b8ac6731e83178b02cf6555efde68dceaa72eb239d63e393ef2c5c.jpg> 「ニセコバブル」崩壊前兆か 懸念
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「ニセコバブル」崩壊前兆か 懸念
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538019>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/5b8f685b0e1700d678f2d9f457935d4b5ed4cd97543d3563d99e526f4ee5c793.jpg> 咲くのは「120年に1度」花が咲く
+      <a href=https://news.yahoo.co.jp/pickup/6538033>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/5a46493088c45746315e779b4c9ada0148e7e4c2140eca3e4f8791667e51f9e2.jpg> 場内騒然 阪神・森下が4試合連発
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 20:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 20:30:54 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
