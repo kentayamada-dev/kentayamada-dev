@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c386b5a833be22e2182e9f0f4f4289c7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/87d0387026b7d2244c5bb9895fe36bf3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52bd75788e35e162960ffef07cd74a9f7dd3623e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000078-spnannex-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 巨人・坂本　岡本離脱の緊急事態救った!23日ぶり1軍昇格即V撃　復活誓う36歳「僕もまだまだ頑張る」
+      <a href=https://news.yahoo.co.jp/articles/c2c136b651c2ec25009c46285552253d6b8e4504>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235198-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 1回目の「コンクラーベ」教皇選出されず 煙突からは黒い煙　次回の投票は現地8日 午前・午後に2回ずつの見通し
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/58e4df71cf083d6dedc64829fb503971515b98c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00050027-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> コンクラーベ初日、新教皇決まらず…システィナ礼拝堂の煙突から黒い煙
+      <a href=https://news.yahoo.co.jp/articles/608ef6da22b89e066a1d8abf3160e24045486211>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-35232690-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=798&ch=798&exp=10800&fmt=webp> インド軍攻撃、パキスタンの死者３１人に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0648c1f1aba67598153fe555e8d7bfeb2b4c6ed1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000002-mai-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ローマ教皇選挙、初日は決まらず　礼拝堂の煙突から「不選出」の黒煙
+      <a href=https://news.yahoo.co.jp/articles/0f2e9b5759cb2e4c4e07dda5b60b5cf7420155f0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968562-fnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【速報】コンクラーベ初日は教皇決まらず…礼拝堂の煙突から「黒い煙」日本人2人を含む133人の枢機卿が参加　次回投票は8日午前から
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c230c3e6dc1797a7dab85b7ba6d5f89eadc5d48b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00050003-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=35&cw=389&ch=389&exp=10800&fmt=webp> 巨人・岡本和真の負傷をテレビで見た坂本勇人、緊急昇格でタイムリー…「代わりにならないが精いっぱいやるしかない」
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538051>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/911d659b451a1e7340254e7968e8059f98800e8deeb42164fe8ebc6924c83606.jpg> 東京メトロ切りつけ 逃げ惑う乗客
+      <a href=https://news.yahoo.co.jp/pickup/6538062>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/06a2b3a503d88ad683c4a49b3b546a72e0b44842fafbde72c5265389a56aa283.jpg> 切りつけ 男と被害者に面識なしか
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 06:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 06:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
