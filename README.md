@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/3216f57c0ac0fb1dc1ccacba17e8cf05.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/40c1bff095faedc18d24501811cab9f9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f2960770676f285f4d33106fba697b9fb5ea614c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00533182-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「たった403？ありえない」　大谷衝撃10号に疑問噴出　発表は123mも「2階席まで飛んだんだぞ」
+      <a href=https://news.yahoo.co.jp/articles/73c228d9e5ab50b17ee856c357aa3ae5e4e06e41>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000013-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 米財務長官ら中国と経済問題協議へ　関税問題も議論か　スイスで
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a08f98ee089747bf18c6f893b2ae3e66d977e4c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000011-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 独メルツ内閣発足　最年少閣僚は35歳の開発相、両親はイラク系難民
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c956ccd9d5110dc206af958ce717a55c74a73e9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米ベッセント財務長官、関税措置めぐる各国との交渉“今週中にも合意成立の可能性”中国側とはスイスで貿易問題めぐり協議
+      <a href=https://news.yahoo.co.jp/articles/4780e88077012d4c7fec8bf74742c629b972f62f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35232630-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=362&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 新首相にメルツ氏、異例の２回目の投票で　独議会
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d434eeb0c9534b3255e7e9d8931f855c977a160f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000001-yonnana-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ローマ教皇を選ぶコンクラーベ、投票資格がある日本人枢機卿ってどんな人？　「田舎の司祭になりたかった」被爆２世、大阪の前田万葉さん
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4c860c0858b5f10788d59322bc00a1cfb2a2e87c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00255813-sasahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「こども支援NISA」には換金制限なし？　不人気で廃止「ジュニアNISA」の教訓生かせるか
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537952>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/a87729aa23c4bd254b9505764e45f8457798f98028a32efd8a40b84e0fff77b6.jpg> 米中の高官が協議へ 関税が議題に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537949>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/49a59792ee7eb6aed0f3a2e34399b06fcc0824c26c9ca1f5c5944fc87dfb65a8.jpg> 印がパに軍事作戦 大きな爆発音
       </a>
@@ -410,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537942>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/2a07ae13122e810c070b722df2cafe05c7a2655b40ec4602ecbbe3b62cfc459f.jpg> 新教皇選ぶコンクラーベ 今夜から
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537944>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/795db3fa3cf036958aa58e38aa8a19c26fe1b6b2539932fbba94b56bdebcfbc2.jpg> 高齢女性から15万円奪い逃走 千葉
+      <a href=https://news.yahoo.co.jp/pickup/6537958>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/cbabf8be760d9f8d7b032435e248f52a7dcbab3b9ed5696170d3cfd14f179e1e.jpg> 「こども支援NISA」浮上 仕組みは
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537947>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/89a6f8601411613c46fec7d516bc3d8845ed12f6bdd356d4f0e36a68bc1e6366.jpg> 嵐解散 5/6発表の意味を記者分析
+      <a href=https://news.yahoo.co.jp/pickup/6537959>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ac043c68eb721fc3eb3275f95d695a27d2c011ed53f1c654136f5bd00f8c0cca.jpg> 嵐が解散発表 SNS上の反応
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 10:00:34 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 10:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
