@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/547f31b1f1c093c17ea73abd1437a5a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/66e3d8bf1efef3e8ababe4054a909bc2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -387,6 +387,14 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7112da3b6a31c7c116943043882a51a9f9da6a10>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000133-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=928&ch=928&exp=10800&fmt=webp> 「砂同盟」鳥取県がサウジと締結　ヨルダンに続き2カ国目　広がる「サンド外交」
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538035>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/3098d271b75dea78580f887129237485ddd2b22da1233650d7839790945ec269.jpg> フリーダイヤルなどの障害 復旧
+      <a href=https://news.yahoo.co.jp/pickup/6538052>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/e0b3b0f8a9d31369ebfcd6eff1b1983f12578b63a0959e39ee7dafe494ad5a44.jpg> 核保有国同士 印パ対立の今後解説
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538046>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/b2c716fb19ba6ef8e1bb6c59d857a559e910cb9f95beb19da410ce84aed5adce.jpg> PRTIMES 発表前情報など漏えいか
+      <a href=https://news.yahoo.co.jp/pickup/6538026>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/acfa5955237a3e4d246f64ea1b5cae3ff240408f5b0bf0db6adadf38870b2bec.jpg> 同性婚展示 京都市一部中止求める
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538049>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/a94b586ffe4d6ff457911167f36a1be91cf467fafaaa7b8d3c7b4dc0ca722c7a.jpg> 坂本勇人 岡本不在の一戦で決勝打
+      <a href=https://news.yahoo.co.jp/pickup/6538046>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/b2c716fb19ba6ef8e1bb6c59d857a559e910cb9f95beb19da410ce84aed5adce.jpg> PRTIMES 発表前情報など漏えいか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538053>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/a8ef0391c53d0c677d0a233f44492a1de64d8303445c0e113c978599160fe655.jpg> オードリー春日始球式 通算9戦7勝
+      <a href=https://news.yahoo.co.jp/pickup/6538055>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/7c53d8070ae60f1ae06d2a8c82648dc32257a230baafa295ccaf64773670ebe0.jpg> 死球の阪神中野「マジできつい」
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 23:00:55 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 23:30:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
