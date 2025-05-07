@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f274e113d35b408c59fa51438aa89dc6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae7a6b16b31be6bb5ac6908722093168.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/485f1b1d7a31d1618321710fdc97fb3fa0b6f98a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000047-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 嵐　ファンが感動した活動終了コンサートにむけた“粋な計らい”
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/c0eb3571761b1c7ff2422f2c77e781085bbd077f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 外部遮断の教皇選挙、保秘徹底　煙突から白煙、選出告知
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0a5d3cb5a63a20d5066c6c25d14ed42efe7e6e0f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000059-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=573&ch=573&exp=10800&fmt=webp> 中国「インドの軍事行動に遺憾」…インドとパキスタンに自制求める
       </a>
@@ -365,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1ae7052fe686ac4dbe40bffea81ccb41b71397ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000105-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 大政絢　第１子男児出産を報告
+      <a href=https://news.yahoo.co.jp/articles/2c88fb65a3ffb7149de0bb157b98db60dd4642dc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 体重6キロ、必要な保護せずか　母と祖父を再逮捕、広島
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/46f7c1ed4ea9a6f4ce21c6b6a379c3ee8b579b84>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07235050-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 元交際相手の白井秀征容疑者（27）が行方不明直前のストーカー行為を当時否定「18日以降はつきまとい行為をやっていない」 川崎市20歳女性遺体遺棄事件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/271f067eff2894be8bab46d1e481e304a23f76ff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 次のローマ教皇決める「コンクラーベ」　新上五島町出身の前田枢機卿も投票へ【長崎】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7149fce212e67c0a618f1d2462b99ecfa4c686bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000033-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 「嵐」チケット争奪戦の絶望感“推定120億円の収入源”FC会員300万人、「国立競技場」40公演でもカバーできず
       </a>
     </td>
   </tr>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538002>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tsugenoriko/02199741/title-1746587889959.jpeg?exp=10800> 愛子さま初のお言葉 志を識者解説
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538006>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/18ae1af8f6aeac5f04d4333461cec787104496eb1b888988b873568c45f87ac7.jpg> 自民西田氏 ひめゆり発言撤回せず
       </a>
@@ -426,24 +418,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538009>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 児童116人ロタウイルス集団感染か
+      <a href=https://news.yahoo.co.jp/pickup/6538013>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/b7c71e752302e9af58a2da254acff77888338ae3ce468ca13aea29d58ca7fe29.jpg> 国交相 NEXCO中日本を厳重注意
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537999>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/3b938fcab1d849030b50a2db54040f666c20cbfcea9d78841e2198734a48c739.jpg> 産後うつ辛く 長男殺害疑い母逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538016>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/4944dee4d6f6d3e9bf01371cd6bcd1db8a9ad1dd989b58166d310bc833cfce61.jpg> 食事与えられず3歳心肺停止 逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538003>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/6a82366c4415544eb196332d3c059f6631c81fe2d868e439c52fda6eb084099f.jpg> 航空大学校 女子枠試験に疑問の声
+      <a href=https://news.yahoo.co.jp/pickup/6538014>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 児童ら116人 ロタウイルス感染か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538005>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/352d4098f7dc9c31a081287008437547d06d5d0ca9e8bb2ade312223ee1c0d2e.jpg> 塩野義製薬 鳥居薬品にTOBへ
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538004>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/9ef62f3a61cbd98ce991dca570484dae3c5fe11807230e53b3d08a01fd4dac20.jpg> 巨人・浅野翔吾 電撃1軍昇格
+      <a href=https://news.yahoo.co.jp/pickup/6538012>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/f989b0a588e1e27aba4fc408751f78c5fd49e484314d8ff1e0c4d86174ce5041.jpg> 大政絢 第1子男児の出産を発表
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 17:30:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 18:00:42 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
