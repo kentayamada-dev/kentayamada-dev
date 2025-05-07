@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7bc42e63c15113dcb51f9dee64a05962.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a2bf9348bc9abbe32db1588d1ce034a5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/53419102c4c57b6b8362c597eb22118f4b3cb753>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07235106-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 投票の結果は「煙の色」で周知 新教皇は誰に?「コンクラーベ」開始へ　1回目の結果は8日午前2時頃の見込み
+      <a href=https://news.yahoo.co.jp/articles/2d8fcf5d9cf058ecdfa53bd24651c7b5ff1cce6f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050144-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=333&ch=333&exp=10800&fmt=webp> コンクラーベを前に、赤の衣装に身を包んだ枢機卿らがミサで祈る…バチカン・サンピエトロ大聖堂
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/afce69574c102d6315b47ae98920f5894bc724ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000045-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=534&ch=534&exp=10800&fmt=webp> インド軍のパキスタン領内攻撃　26人死亡、負傷者は46人に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/58414bdc3b279916a78316add272b905f01ca042>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050145-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> ａｕスマホ料金を月２２０～３３０円値上げ…ＫＤＤＩが８月から、「スターリンク」接続利用可能
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3d6a21a2146b07517c66c28dea38a3eb65f32441>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000050-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 嵐、活動終了発表「可能性断念」の文言が呼ぶ混乱「株式会社嵐」設立もわずか1年で解散の不可解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bcac8f708c8fe616f63183953c0b130419aaa43c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-90024290-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 緊張高まるインドとパキスタン…両国が引くに引けない事情　双方へ中国の影響力は？
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2c88fb65a3ffb7149de0bb157b98db60dd4642dc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 体重6キロ、必要な保護せずか　母と祖父を再逮捕、広島
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538013>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/b7c71e752302e9af58a2da254acff77888338ae3ce468ca13aea29d58ca7fe29.jpg> 国交相 NEXCO中日本を厳重注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538020>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/f8e7243126fee1af3dfe6f656ca01f852bd5eac277c8833ddd468598ba4e8508.jpg> 緊張高まる印パ 両国引けない事情
       </a>
     </td>
   </tr>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537993>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/13a3558a3bacb344698abc039b3a630e8c14a5c13b93e43174cb4cf911a5d0da.jpg> TDRでの「ぬい活」賛否 運営見解
+      <a href=https://news.yahoo.co.jp/pickup/6538021>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ff19338783dacaaa08d5767f520c62951f42a4c3ae77ac79baffa48bc3fedd42.jpg> auも値上げ 値下げ競争の転換点?
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538012>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/f989b0a588e1e27aba4fc408751f78c5fd49e484314d8ff1e0c4d86174ce5041.jpg> 大政絢 第1子男児の出産を発表
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 18:30:57 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 19:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
