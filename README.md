@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/865f1583672adb3dcf1a52cc9fa8535c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f274e113d35b408c59fa51438aa89dc6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c453ce384b712563c9879472fe398a1167fadc00>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 路上車遺体、交際男を再逮捕　首絞め殺害疑い　愛知県警
+      <a href=https://news.yahoo.co.jp/articles/0a5d3cb5a63a20d5066c6c25d14ed42efe7e6e0f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000059-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=573&ch=573&exp=10800&fmt=webp> 中国「インドの軍事行動に遺憾」…インドとパキスタンに自制求める
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/1ae7052fe686ac4dbe40bffea81ccb41b71397ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000105-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=866&ch=866&exp=10800&fmt=webp> 大政絢　第１子男児出産を報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/46f7c1ed4ea9a6f4ce21c6b6a379c3ee8b579b84>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07235050-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 元交際相手の白井秀征容疑者（27）が行方不明直前のストーカー行為を当時否定「18日以降はつきまとい行為をやっていない」 川崎市20歳女性遺体遺棄事件
       </a>
     </td>
   </tr>
@@ -375,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7149fce212e67c0a618f1d2462b99ecfa4c686bb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000033-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=157&cy=0&cw=683&ch=683&exp=10800&fmt=webp> 「嵐」チケット争奪戦の絶望感“推定120億円の収入源”FC会員300万人、「国立競技場」40公演でもカバーできず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32f445f63b9e1fd34a3ba5bb2cab60c06cd04695>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177092-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 印パ対立激化を受け 国連事務総長「深刻な懸念」 トランプ大統領「早く終わってほしいと願っている」
       </a>
     </td>
   </tr>
@@ -418,8 +426,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538009>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 児童116人ロタウイルス集団感染か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537999>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/3b938fcab1d849030b50a2db54040f666c20cbfcea9d78841e2198734a48c739.jpg> 産後うつ辛く 長男殺害疑い母逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538003>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/6a82366c4415544eb196332d3c059f6631c81fe2d868e439c52fda6eb084099f.jpg> 航空大学校 女子枠試験に疑問の声
       </a>
     </td>
   </tr>
@@ -440,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538000>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/3116297b6b070908ec400221e854cde4173b9072123c1c17b254a61e88cfea7e.jpg> 嵐活動終了 大野神社に祈るファン
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537990>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/fe73677ebe5df4959b05ebf7acb716085f2e4de897c437427a89d226207a256c.jpg> 日テレ 平成の伝説的番組を放送
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 17:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 17:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
