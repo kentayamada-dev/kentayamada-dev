@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cdb8b37bc07b41a0f9689f070ecfc4eb.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/44a3b3952043ca07b4e7fc6b42428a7a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/221d0c7c0dd8947efd1e70c07523aff75d8b7c5d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000068-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=1404&ch=1404&exp=10800&fmt=webp> 午前のドルは143円前半へじり高、アジア通貨高一服
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9482590f2b20d0a2765863378da20caaaf42798e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00968103-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 自転車に乗っていた母子3人が軽自動車にはねられる…39歳母親死亡　20歳会社員を現行犯逮捕　香川・高松市
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d86479e068bd2013238d9abc20634a8820f32535>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00010000-senkyocom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=320&cy=0&cw=1280&ch=1280&exp=10800&fmt=webp> 教皇選挙（コンクラーベ）とは？仕組み・日程・注目ポイントを5分で解説！【白と黒の煙の意味】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6d746b59a23445d3eea228a5868ea140259f0c4a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07234965-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=688&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 元交際相手の容疑者の男（27）が行方不明直前のストーカー行為を当時否定　川崎20歳女性遺体遺棄事件　
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f09b52d3b0254073175e11c2c0f01d91ecdbfac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07234970-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】母親（39）が死亡　自転車に乗っていた母子3人が車にはねられる　香川・高松市
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d14490299c1737bb883688f075fcc31d2247eddb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-05724468-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米財務長官と中国副首相、今週末にスイスで協議　トランプ関税めぐり米中の対面交渉は初めて
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d7630930f1bc6a7c960edc0694a0e305e0bf5d69>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000035-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 新たなローマ教皇は誰に…？　教皇選挙「コンクラーベ」今夜から
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07234965-jnn-000-4-thumb.jpg?exp=10800&fmt=webp> 元交際相手の容疑者の男（27）が行方不明直前のストーカー行為を当時否定　川崎20歳女性遺体遺棄事件
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537961>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/9cf8dc892c610abd1b8813f3fa557ceb2365d82440493812014299ce57beaa6f.jpg> 印パ対立の火種 カシミール問題
+      <a href=https://news.yahoo.co.jp/pickup/6537974>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ee59c1b25324d180af23caf1b3a2e0b527d5cd81f5bdb95355dafbdbce2ce60e.jpg> 印にパキスタンが反撃 双方に死者
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 12:30:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 13:00:08 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
