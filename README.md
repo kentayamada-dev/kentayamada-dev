@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cdae521f37f4d0a1fc340f00d2793ee1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/aa438a8a2134aa9821004955243dec24.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6f845ad537aa1ac2918e4b1a9980257c3c9333af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000097-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「リンゴ病」の全国感染者が過去10年で最多に　妊婦は特に注意必要
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f53a2c81e1c412eaff53cf33be52bea7f9db9ef9>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「テロリストの隠れ家」「侵略に対し団結」　印パ、戦闘と衝突の歴史　事態の激化には慎重
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b492de7b13aeead811120d032a7059797cbd6e89>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35071394-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=843&ch=843&exp=10800&fmt=webp> コンクラーベ効果！?　米・英合作映画「教皇選挙」が興収７億円突破　９日間で２億円上積み
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/651b8dd1e3d54e5e941e62ffb33d01f0f3faf939>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000007-jij_graph-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=821&ch=821&exp=10800&fmt=webp> 【図解】狙いは干渉防止と早期選出＝密室投票のコンクラーベ―ローマ教皇
       </a>
     </td>
   </tr>
@@ -426,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538016>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/4944dee4d6f6d3e9bf01371cd6bcd1db8a9ad1dd989b58166d310bc833cfce61.jpg> 食事与えられず3歳心肺停止 逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538008>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/e235d59da30b924777fac576250e6409aff74563a107f52f561d4892192fe8a8.jpg> 百日せき 感染者が初の週2000人超
+      <a href=https://news.yahoo.co.jp/pickup/6538029>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/48983d95f013bde85acf8d8ddc17b4093f6da792aac0dd17d4a2666628f956ed.jpg> 用水路で1歳死亡 水かさ40～60cm
       </a>
     </td>
   </tr>
@@ -443,7 +435,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538027>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 「ニセコバブル」崩壊前兆か 懸念
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/293925eed7bb17f00b622f7b3c9e0f563389326b17765c7c2e94baa7dc7bffab.jpg> 「ニセコバブル」崩壊前兆か 懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538041>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/360ce0c55adca4261f038c0e6d04d756287e90d4d59fc570a6fbf56200d60751.jpg> 体長2.7m巨大マンボウ 鎌倉に漂着
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 21:00:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 21:31:06 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
