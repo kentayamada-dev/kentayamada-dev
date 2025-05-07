@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/87d0387026b7d2244c5bb9895fe36bf3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f070ba410ee7bd928b8e9056fe7917fc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c2c136b651c2ec25009c46285552253d6b8e4504>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235198-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 1回目の「コンクラーベ」教皇選出されず 煙突からは黒い煙　次回の投票は現地8日 午前・午後に2回ずつの見通し
+      <a href=https://news.yahoo.co.jp/articles/606c36f67b98ac48def82f4e74ec75151eb772b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968570-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=295&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 乗客が突然頭など切りつけられる…目撃者「ホームに血がばしゃって」戸田佳孝容疑者（43）を現行犯逮捕　取り押さえた男性も指を切り重傷　東京メトロ南北線東大前駅
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/320896b5ee7c952fad9c572e5bf4155b31e61d76>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-35232691-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 新教皇、初日は決まらず　煙突から黒い煙
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/608ef6da22b89e066a1d8abf3160e24045486211>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-35232690-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=798&ch=798&exp=10800&fmt=webp> インド軍攻撃、パキスタンの死者３１人に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f2e9b5759cb2e4c4e07dda5b60b5cf7420155f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968562-fnn-000-3-thumb.jpg?exp=10800&fmt=webp> 【速報】コンクラーベ初日は教皇決まらず…礼拝堂の煙突から「黒い煙」日本人2人を含む133人の枢機卿が参加　次回投票は8日午前から
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538027>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/293925eed7bb17f00b622f7b3c9e0f563389326b17765c7c2e94baa7dc7bffab.jpg> 「ニセコバブル」崩壊前兆か 懸念
+      <a href=https://news.yahoo.co.jp/pickup/6538063>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/5fcabe07f1707d71de96327bd040042901dd1078f1db257eb111abd610085772.jpg> 新庄監督 1試合に10投手つぎ込む
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538059>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/8eaeee535bc3fac36d663bd64aad04b47ce139226622312b78fce4379f1d26fb.jpg> G岡本は重傷だった 全治3カ月か
+      <a href=https://news.yahoo.co.jp/pickup/6538064>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/b05a2f69e79d5a0af63ca17e56a5655038e7cbcb66fad5174096129a2b68b225.jpg> コナン映画 なぜ3年連続100億円超
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 06:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 07:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
