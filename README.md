@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae7a6b16b31be6bb5ac6908722093168.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7bc42e63c15113dcb51f9dee64a05962.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/485f1b1d7a31d1618321710fdc97fb3fa0b6f98a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000047-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=116&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 嵐　ファンが感動した活動終了コンサートにむけた“粋な計らい”
+      <a href=https://news.yahoo.co.jp/articles/53419102c4c57b6b8362c597eb22118f4b3cb753>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07235106-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 投票の結果は「煙の色」で周知 新教皇は誰に?「コンクラーベ」開始へ　1回目の結果は8日午前2時頃の見込み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0eb3571761b1c7ff2422f2c77e781085bbd077f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 外部遮断の教皇選挙、保秘徹底　煙突から白煙、選出告知
+      <a href=https://news.yahoo.co.jp/articles/3d6a21a2146b07517c66c28dea38a3eb65f32441>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000050-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 嵐、活動終了発表「可能性断念」の文言が呼ぶ混乱「株式会社嵐」設立もわずか1年で解散の不可解
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0a5d3cb5a63a20d5066c6c25d14ed42efe7e6e0f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000059-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=573&ch=573&exp=10800&fmt=webp> 中国「インドの軍事行動に遺憾」…インドとパキスタンに自制求める
+      <a href=https://news.yahoo.co.jp/articles/bcac8f708c8fe616f63183953c0b130419aaa43c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-90024290-ann-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 緊張高まるインドとパキスタン…両国が引くに引けない事情　双方へ中国の影響力は？
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538001>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/f0db49d8e21e906e5e1de6fb33d762b3a8ffb245ebfe3c94b4129c69b8e0fac9.jpg> 印パ対立激化 国連「深刻な懸念」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538006>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/18ae1af8f6aeac5f04d4333461cec787104496eb1b888988b873568c45f87ac7.jpg> 自民西田氏 ひめゆり発言撤回せず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538013>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/b7c71e752302e9af58a2da254acff77888338ae3ce468ca13aea29d58ca7fe29.jpg> 国交相 NEXCO中日本を厳重注意
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538018>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/10139e7b45817918d9768333c4d53d2877fc22ceb9f873d202c19b1e841934f1.jpg> フリーダイヤルなど 一部障害発生
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538019>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/5b8f685b0e1700d678f2d9f457935d4b5ed4cd97543d3563d99e526f4ee5c793.jpg> 咲くのは「120年に1度」花が咲く
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538012>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/f989b0a588e1e27aba4fc408751f78c5fd49e484314d8ff1e0c4d86174ce5041.jpg> 大政絢 第1子男児の出産を発表
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 18:00:42 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 18:30:57 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
