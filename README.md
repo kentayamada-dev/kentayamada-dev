@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1972585ecf7f38a875f4d6992d74c7a7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cdb8b37bc07b41a0f9689f070ecfc4eb.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2a069222a4161e6718ad5be1a7e24b206931f8f7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07234951-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「防災拠点の市役所での火災は大変遺憾」埼玉・白岡市役所の火災で市長　1階約1300平方メートル焼ける　市役所で行う業務はきょう休止
+      <a href=https://news.yahoo.co.jp/articles/6d746b59a23445d3eea228a5868ea140259f0c4a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07234965-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=688&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 元交際相手の容疑者の男（27）が行方不明直前のストーカー行為を当時否定　川崎20歳女性遺体遺棄事件　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/822935c502f5a8d8f6c164c2839ef6210b1c4d8f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07234942-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 新たなローマ教皇を決める「コンクラーベ」きょう夜から開始　選出されれば白い煙　改革進めた教皇フランシスコの意思が継承されるか注目
+      <a href=https://news.yahoo.co.jp/articles/0f09b52d3b0254073175e11c2c0f01d91ecdbfac>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-07234970-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 【速報】母親（39）が死亡　自転車に乗っていた母子3人が車にはねられる　香川・高松市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/711759c6908b915ab7d7cc4814d4cdfbd2454a06>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米中高官が貿易巡り協議へ　ジュネーブで10、11両日　ベセント氏「緊張緩和に関して議論」
+      <a href=https://news.yahoo.co.jp/articles/d14490299c1737bb883688f075fcc31d2247eddb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-05724468-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 米財務長官と中国副首相、今週末にスイスで協議　トランプ関税めぐり米中の対面交渉は初めて
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f318c5d81f610e2094f4ff3447542b4c5464e92d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【ドイツ】メルツ政権、不安な船出　首相指名選挙は異例の再投票
+      <a href=https://news.yahoo.co.jp/articles/d7630930f1bc6a7c960edc0694a0e305e0bf5d69>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000035-ann-000-4-thumb.jpg?exp=10800&fmt=webp> 新たなローマ教皇は誰に…？　教皇選挙「コンクラーベ」今夜から
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537962>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/55d4f2edd758803f05f7595dec9b2db56bc32c59ee2d4f5f89b6e71e43c00a7b.jpg> 角和夫氏死去 阪急阪神HD元会長
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537968>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/873ac49b4c60a3f035d545156101800388df4284d1520886b4c8391b7d45fd85.jpg> 1歳死亡 破れた網戸から家出たか
       </a>
@@ -442,6 +434,22 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537969>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/58fbec7335a4c446ea7b1af0eccebfc1165ea13f0cd4cf56ef72f49ea1df96d4.jpg> 市役所火災で全業務を休止 埼玉
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537977>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/0ebcd9a3693e2f5fed17d2488dc156b0e55f5ced43fc316299f9622311bf0edb.jpg> 自転車はねられ母死亡 子2人搬送
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537967>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/545dd50f5565eeca01ceb46b27bfd6eb9372f154a113a5a2503563ef72ec83d6.jpg> 生徒徹夜で歩く行事 負担で1日に
       </a>
@@ -450,16 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537964>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/7fed5757f1466d6d6c25425a1ad29dc73b276f25074e7c9c935350c4de336df8.jpg> ハッピー 大谷10号ゲットした家族
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537970>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/f0bd0749522e03eb512dd36414a0615f38984f80e76bd516d5bf341e78c071c5.jpg> 大谷が特大弾 自己最速「10‐10」
+      <a href=https://news.yahoo.co.jp/pickup/6537976>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/9cab11b0707933b1b3c7b24cc329a9603df59cb6095ee128eca90eedc03b2ca0.jpg> トムクルーズ 戸田奈津子氏に感謝
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 12:01:06 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 12:30:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
