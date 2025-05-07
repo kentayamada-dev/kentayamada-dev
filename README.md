@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5c9eeda02573071bdb099f6144f2b1d0.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/52ce179b733ba7d01d2b1923a9df22b9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c465897cbf3de09f012487711235b34bcd207c3f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000030-ann-000-1-thumb.jpg?exp=10800&fmt=webp> インドがカシミール地方のパキスタン支配地域攻撃　双方に死者
+      <a href=https://news.yahoo.co.jp/articles/0016e6e1fbaba97166f45a54b1ef7dafd89c9d05>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000037-cnippou-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=106&cy=0&cw=373&ch=373&exp=10800&fmt=webp> 米中、今週スイスで「関税戦争」初公式対話…両国高官級が出席
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/73c228d9e5ab50b17ee856c357aa3ae5e4e06e41>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000013-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 米財務長官ら中国と経済問題協議へ　関税問題も議論か　スイスで
+      <a href=https://news.yahoo.co.jp/articles/805fa6e84f8c2b69040a391ab5023483002cbfd0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050048-yom-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800&fmt=webp> 密室で開かれるコンクラーベ、きょうからここで…投票用紙を燃やすための炉も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/aaf1ee4d456b3005a2c405855cbddf80f5d99edc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050049-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=61&cw=378&ch=378&exp=10800&fmt=webp> １歳児、深夜の用水路に浮いている状態で発見…コンビニの防犯カメラに１人で歩く姿
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/521c714738aa9732f0739c8381603b4f3e7b0642>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00010005-baseballc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「ボールを粉砕した！」大谷翔平、2試合連続の第10号ソロホームラン！　米メディアも衝撃「今季もすでに」
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4780e88077012d4c7fec8bf74742c629b972f62f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35232630-cnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=362&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 新首相にメルツ氏、異例の２回目の投票で　独議会
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d434eeb0c9534b3255e7e9d8931f855c977a160f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000001-yonnana-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=171&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ローマ教皇を選ぶコンクラーベ、投票資格がある日本人枢機卿ってどんな人？　「田舎の司祭になりたかった」被爆２世、大阪の前田万葉さん
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/00c9a5ec097974f8247fcac041f8d7fff64260f0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177007-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=312&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 球場騒然！ 大谷翔平、9号弾丸ライナーで“想定外のハプニング”「ヤバいw」「ミラクルすぎ」190km“ロケット打球”がブルペンに爆速到達→まさかの展開
       </a>
     </td>
   </tr>
@@ -426,32 +426,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537958>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/cbabf8be760d9f8d7b032435e248f52a7dcbab3b9ed5696170d3cfd14f179e1e.jpg> 「こども支援NISA」浮上 仕組みは
+      <a href=https://news.yahoo.co.jp/pickup/6537968>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/873ac49b4c60a3f035d545156101800388df4284d1520886b4c8391b7d45fd85.jpg> 1歳死亡 破れた網戸から家出たか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537948>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/0d57f4cfb7f70fe59754e7b31910257f1955b49c8dd50a18ac469484c4de6f41.jpg> 用水路に浮く1歳を発見 死亡確認
+      <a href=https://news.yahoo.co.jp/pickup/6537965>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/76eee5b9be26043431b6ef56c49b46710351fb689ed8191ea9a8ba85792d971c.jpg> 川崎遺体 親族説得後に容疑者帰国
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537956>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/5bb5f791a24ad32c924e567fe5ce62560f198660833f453bd1bf9130f3de060c.jpg> 三浦瑠麗氏 娘の希望で名字変えず
+      <a href=https://news.yahoo.co.jp/pickup/6537967>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/545dd50f5565eeca01ceb46b27bfd6eb9372f154a113a5a2503563ef72ec83d6.jpg> 生徒徹夜で歩く行事 負担で1日に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537954>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/7e11ffca5061dab935719847b188a21c2af84aa27a7cb6dfe6eed032bbb632c8.jpg> 大谷の9号捕ったスタッフ「興奮」
+      <a href=https://news.yahoo.co.jp/pickup/6537964>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/7fed5757f1466d6d6c25425a1ad29dc73b276f25074e7c9c935350c4de336df8.jpg> ハッピー 大谷10号ゲットした家族
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 11:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 11:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
