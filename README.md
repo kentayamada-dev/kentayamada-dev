@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/eb89d24595b13d21873b917d74f53586.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8564fe0416a5621610ae7d6a5c11dda5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5e76f7d426a95cf1b3a702e6cd590cf0083d0fe3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00968231-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=327&cy=0&cw=720&ch=720&exp=10800&fmt=webp> ローマ教皇を決める「コンクラーベ」きょうから投票始まる　舞台裏描いた映画「教皇選挙」が人気…有力候補巡る情報戦も
+      <a href=https://news.yahoo.co.jp/articles/6c2546fb2179a085297e56f26ebbd98e7651995c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00078853-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=623&ch=623&exp=10800&fmt=webp> 「顔にイレズミが」「自殺未遂をしたと連絡があって…」川崎ストーカー死体遺棄・白井秀征容疑者（27）の実父が明かした“息子との再会”
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/913a2ca6e6a4ddfa0f4b1c640fc02195c759f840>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000085-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 午後3時のドルは143円前半へ上昇、米中対立緩和に期待
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2749e1bd10b3127820a76370f1340ebaad5c5d18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000001-rallysv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=576&ch=576&exp=10800&fmt=webp> 17日開幕 世界選手権ドーハへ張本智和「大会後に何も残っていないくらいにやり切る」各選手意気込みも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/be766d9e191f2a10aa4acf6723feed9316d08e54>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35070663-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 元捜査１課刑事、神奈川県警に「消極的な捜査だったことは否めない」川崎女性遺体遺棄で
+      <a href=https://news.yahoo.co.jp/articles/c14cf3f3f7a73692d1b71a90fbc415bd4b4a5af7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35070728-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=308&cy=0&cw=684&ch=684&exp=10800&fmt=webp> 【コンクラーベ】リアル「教皇選挙」は本命不在の混戦に？7日夜にスタート／おもな流れ
       </a>
     </td>
   </tr>
@@ -391,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4466e1bae08b4e4d68a7c1f89ccde8cb509bf914>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000025-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 独メルツ新首相、造反者は「調査しない」　2回目投票でも基盤の弱さ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/32f445f63b9e1fd34a3ba5bb2cab60c06cd04695>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177092-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=782&ch=782&exp=10800&fmt=webp> 印パ対立激化を受け 国連事務総長「深刻な懸念」 トランプ大統領「早く終わってほしいと願っている」
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537979>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/3f8a584f537e720734dd236b5ac8cd9d01fc4ed73d0a651f283b4156e59c9c71.jpg> 全国で卒アル漏えい 犯罪G狙いは
+      <a href=https://news.yahoo.co.jp/pickup/6537999>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/3b938fcab1d849030b50a2db54040f666c20cbfcea9d78841e2198734a48c739.jpg> 産後うつ辛く 長男殺害疑い母逮捕
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537980>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/75ea4cc05b72675e1536a82af7d91a2621a6676dd7584ce583319e6959db7d69.jpg> 食事中の「クチャ音」なぜ出るか
+      <a href=https://news.yahoo.co.jp/pickup/6537995>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/bdc1f83a5ce5ae739f550f08dbdd044ef1def12610a00f90a2db349c73f69d86.jpg> 早田ひな 現状は暗いトンネルの中
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 16:00:10 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 16:31:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
