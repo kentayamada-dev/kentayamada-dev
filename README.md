@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2af77ca086fa0fa24ee5349b08cbf25a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7e5d9e1f9a69be96632d5fd9de74d6ee.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/57e744e86f278b817cc2dbef16e79052cdd60f9f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000005-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=362&cy=0&cw=1464&ch=1464&exp=10800&fmt=webp> ローマ教皇選挙開始　数日中に決着見通し
+      <a href=https://news.yahoo.co.jp/articles/d5d705737ac0527bca35b989a430d298a79e1612>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-90024336-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=361&cy=0&cw=675&ch=675&exp=10800&fmt=webp> カシミール地方でのテロが発端に…報復と核の脅威　インド・パキスタン支配地域攻撃
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/45af4289e51dac29a7cc4815d2537d2d5620a3bd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-09355372-nnn-000-5-thumb.jpg?exp=10800&fmt=webp> 【本命不在？】世界が注目　新たな教皇を決める「コンクラーベ」開始　混戦の“教皇選挙”
       </a>
     </td>
   </tr>
@@ -367,22 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/feacf6fefd431b5ee2fe5d07449cd41312ec6c52>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00343736-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=867&ch=867&exp=10800&fmt=webp> 【巨人】岡本和真「靱帯損傷」で歓喜の勝利からＧ党悲鳴「ウソだと言って…」「聞いてない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0b3da7a11685ea7d8fd7a68b10a487ed0f996264>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-90020780-bbt-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 上市町の自宅に母親の遺体を放置か 同居の息子(40)を逮捕 「遺体を放置していたことに間違いない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd3f8e3009d5c2d42b2431fbe9c655f265a12da4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050177-yom-000-15-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> インドがパキスタンとカシミール地方攻撃、２６人死亡・４６人負傷…パキスタンが報復表明
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 01:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 01:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
