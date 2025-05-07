@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5eaafe296939966e90cc04bb557be722.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cdae521f37f4d0a1fc340f00d2793ee1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e7c22fc4dffaca1634bf3fd5e5422c902bce49a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000057-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=179&cy=0&cw=549&ch=549&exp=10800&fmt=webp> 識者「両国、エスカレーション望まず」　インド軍のパキスタン領攻撃
+      <a href=https://news.yahoo.co.jp/articles/f53a2c81e1c412eaff53cf33be52bea7f9db9ef9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「テロリストの隠れ家」「侵略に対し団結」　印パ、戦闘と衝突の歴史　事態の激化には慎重
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5dbb3b76630682cde3d129d2f4f7236965a8504e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000064-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=15&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「コンクラーベ」を前にバチカンでミサ　枢機卿が出席、世界が注目
+      <a href=https://news.yahoo.co.jp/articles/b492de7b13aeead811120d032a7059797cbd6e89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35071394-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=217&cy=0&cw=843&ch=843&exp=10800&fmt=webp> コンクラーベ効果！?　米・英合作映画「教皇選挙」が興収７億円突破　９日間で２億円上積み
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/94292dd0fff39acdfb4e8f3654b4de0b69377cb6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-06995184-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=28&cw=640&ch=640&exp=10800&fmt=webp> 東京・文京区の東大前駅で刃物切りつけ2人ケガか　43歳の男を殺人未遂容疑で現行犯逮捕　警視庁
+      <a href=https://news.yahoo.co.jp/articles/651b8dd1e3d54e5e941e62ffb33d01f0f3faf939>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000007-jij_graph-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=102&cy=0&cw=821&ch=821&exp=10800&fmt=webp> 【図解】狙いは干渉防止と早期選出＝密室投票のコンクラーベ―ローマ教皇
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/93eaaf1099646fd0e54c19bb1d3abb34ee33948b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000065-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 「嵐」電撃 “解散” もファンが納得する「40代の体力問題」…“ぽっちゃり” 激変メンバー続出で心配された「アイドル路線」の維持
+      <a href=https://news.yahoo.co.jp/articles/427379b7ea1f49783e946d33e5f09f267d7b7558>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000066-flash-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1200&ch=1200&exp=10800&fmt=webp> 嵐、解散コンサート決定に悲観の声続々…メンバー “再始動匂わせ” の功罪とは
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538020>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/f8e7243126fee1af3dfe6f656ca01f852bd5eac277c8833ddd468598ba4e8508.jpg> 緊張高まる印パ 両国引けない事情
+      <a href=https://news.yahoo.co.jp/pickup/6538028>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/7138a4b9182ea6bdbe51dfd96effd20dd4dccb84ef6d2734faed6ef1751c7e63.jpg> 首相に過去献金と証言 不記載疑い
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538028>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/7138a4b9182ea6bdbe51dfd96effd20dd4dccb84ef6d2734faed6ef1751c7e63.jpg> 首相に過去献金と証言 不記載疑い
+      <a href=https://news.yahoo.co.jp/pickup/6538023>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/8af1ccdc8032c94c5dd3336e7300ef74ee866e803040fde0937f5ea8aeadf780.jpg> 自民保守系 政府の戦争検証に反対
       </a>
     </td>
   </tr>
@@ -450,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538021>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ff19338783dacaaa08d5767f520c62951f42a4c3ae77ac79baffa48bc3fedd42.jpg> auも値上げ 値下げ競争の転換点?
+      <a href=https://news.yahoo.co.jp/pickup/6538040>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/d8d2d23225818354b0af97958d8c09163267ce9ea3ce76157720c930b0559a3c.jpg> 死球 巨人監督が阪神監督に謝罪も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538033>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/5a46493088c45746315e779b4c9ada0148e7e4c2140eca3e4f8791667e51f9e2.jpg> 場内騒然 阪神・森下が4試合連発
+      <a href=https://news.yahoo.co.jp/pickup/6538034>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/0370f47511897b354641198a087fcddb63248c6e5aa4dc384f5d78a729b3c060.jpg> 芸人・ひるちゃん 第1子女児誕生
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 20:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 21:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
