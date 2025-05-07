@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/170931a921c6ce5d5f4bf24b3f27cf84.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5b783339506126db2805d9fce27a5fb0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0af51b03ac22bd982f041317de3081c6a40e2776>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35070592-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1349&ch=1349&exp=10800&fmt=webp> コンクラーベは「世界でいちばん予想が難しい選挙かもしれない」元国会議員の杉村太蔵氏が指摘
+      <a href=https://news.yahoo.co.jp/articles/6b749d1ddede074ddb9db7c4d5783eb1916fdb66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000027-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=65&cy=0&cw=601&ch=601&exp=10800&fmt=webp> 初のアジア出身教皇誕生の可能性も　「予測不可能」な選挙開始へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3eee4a91b38f405a6008d8d689faebe140b429b3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 【速報】札幌すすきの殺人　母親に有罪判決 懲役1年2カ月　執行猶予3年
+      <a href=https://news.yahoo.co.jp/articles/82e0458adfc7c6b66e55d5bc53fdb1d513b7b310>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35070671-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=29&cy=0&cw=1089&ch=1089&exp=10800&fmt=webp> 蓮舫氏「沖縄県連から？西田さんから直接聞くべきでは？？」ひめゆりの塔発言で自民党に「ん？」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/05f5433d597f3ececfc8be6af244b73892028cb4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177089-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=304&cy=0&cw=769&ch=769&exp=10800&fmt=webp> 行方不明3日後にスマホの電源切れる 川崎市の女性死体遺棄事件
+      <a href=https://news.yahoo.co.jp/articles/4e24591ddcc8cfb1b15a3837421fceab516956c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-35070681-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=11&cw=1378&ch=1378&exp=10800&fmt=webp> 「警察は五感で感じて踏み込めむことができたかな」原晋監督、川崎女性遺体遺棄事件巡り私見
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4466e1bae08b4e4d68a7c1f89ccde8cb509bf914>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000025-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 独メルツ新首相、造反者は「調査しない」　2回目投票でも基盤の弱さ
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/9d0068fd09856395df51b2587299ccb10d208991>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-10177088-abemav-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=324&cy=0&cw=769&ch=769&exp=10800&fmt=webp> 米中高官 “トランプ関税”措置強化以降、初の協議へ ベッセント氏 「公正な貿易」望む
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5374812c3023e60c0013fd8e103f0b18a9dc4886>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-16543029-bbc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=237&cy=0&cw=570&ch=570&exp=10800&fmt=webp> ドイツ首相にメルツ氏　1回目投票での失敗を経て選出
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 15:00:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 15:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
