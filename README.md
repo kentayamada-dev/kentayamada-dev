@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/bfc5e356afe77b805fa4dc876a5460ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c15f15db4a8f44ecfbe9c880b9b5b9c8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/64aa777170e80a5363d41e6a78ef318cddd7f692>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250506-00000154-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 兵庫・丹波市で用水路に1歳児転落か　搬送先の病院で死亡確認
+      <a href=https://news.yahoo.co.jp/articles/f8cd9f0aa00df6a11ed0df29df7fdc622f5f9d26>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローマ教皇選ぶコンクラーベ　2代連続「非欧州」教皇の誕生なるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9d47eece69bf34701360bb5ee637550c9fd1c225>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00010000-afpbbnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 教皇選挙、期間中は携帯電話の信号遮断 バチカン
+      <a href=https://news.yahoo.co.jp/articles/e312ef67657863bd558d7b5f9c1aae0c45ba409e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> インド政府、カシミール地方のパキスタン支配地域など攻撃　パキスタン側も反撃…軍事的衝突広がる懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/37c2b5259ade456d0717524acbfb5a0eecffc5c3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000028-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 中国の何副首相、ベセント米財務長官とスイスで会談へ＝商務省
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537936>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/f6e80339865fb908f864c5a0019caaa1db93f2a701343e250af671655f8c6c65.jpg> 印 係争地のパキスタン側に攻撃
+      <a href=https://news.yahoo.co.jp/pickup/6537949>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/49a59792ee7eb6aed0f3a2e34399b06fcc0824c26c9ca1f5c5944fc87dfb65a8.jpg> 印がパに軍事作戦 大きな爆発音
       </a>
     </td>
   </tr>
@@ -404,14 +412,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537942>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/2a07ae13122e810c070b722df2cafe05c7a2655b40ec4602ecbbe3b62cfc459f.jpg> 新教皇選ぶコンクラーベ 今夜から
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6537939>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ac65d8560b0c10c34df52ce2c12149e201f50637629f536acc64cf12270c3c77.jpg> MUFG ネット専業の新銀行設立へ
       </a>
     </td>
   </tr>
@@ -442,6 +442,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6537943>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/78e02ca28ce6e21ff7a43dbc46f80097136a71f64019051d5e8d27b440f1addd.jpg> 内藤哲也が左目手術 次へのメンテ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6537937>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/ae139fc20a41f8574484551ac247e8122849535a94801b9edf6e781dd2525dd0.jpg> 巨人・坂本勇人 1軍に緊急昇格
       </a>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 08:30:53 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 09:01:01 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
