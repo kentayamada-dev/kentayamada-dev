@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/79a0020d4345f22b34c8fc48ebb69fb5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/572035514c4bb7bb808263f68db94b2d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bf7f333baa89478d1790df4e76666f8a5cce98be>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000384-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=39&cy=0&cw=946&ch=946&exp=10800&fmt=webp> 巨人・阿部監督　東京ドームでの阪神戦今季初勝利に「ホッとしてます」　坂本V打には「凄く大きい1点」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b3da7a11685ea7d8fd7a68b10a487ed0f996264>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-90020780-bbt-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 上市町の自宅に母親の遺体を放置か 同居の息子(40)を逮捕 「遺体を放置していたことに間違いない」
       </a>
@@ -366,15 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/dd3f8e3009d5c2d42b2431fbe9c655f265a12da4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050177-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> インドがパキスタンとカシミール地方攻撃、２６人死亡・４６人負傷…パキスタンが報復表明
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f845ad537aa1ac2918e4b1a9980257c3c9333af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00000097-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「リンゴ病」の全国感染者が過去10年で最多に　妊婦は特に注意必要
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250507-00050177-yom-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800&fmt=webp> インドがパキスタンとカシミール地方攻撃、２６人死亡・４６人負傷…パキスタンが報復表明
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538029>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/48983d95f013bde85acf8d8ddc17b4093f6da792aac0dd17d4a2666628f956ed.jpg> 用水路で1歳死亡 水かさ40～60cm
+      <a href=https://news.yahoo.co.jp/pickup/6538043>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/620d89ee0e387c05e32b6050e892b709c7bb87dc87057fb4d44d3253fbeeb1ed.jpg> 万博関係者が裏で喫煙 協会認める
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538043>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/620d89ee0e387c05e32b6050e892b709c7bb87dc87057fb4d44d3253fbeeb1ed.jpg> 万博関係者が裏で喫煙 協会認める
+      <a href=https://news.yahoo.co.jp/pickup/6538048>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/21d3de9514612e5280f6da57a6b04d64f4b98d0ed99d0f74c540168bd8c593b6.jpg> 意識失う 勤務前に飲酒の医師処分
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538041>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/360ce0c55adca4261f038c0e6d04d756287e90d4d59fc570a6fbf56200d60751.jpg> 体長2.7m巨大マンボウ 鎌倉に漂着
+      <a href=https://news.yahoo.co.jp/pickup/6538045>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/7/26fb97692bf8dc43d392cb47538a48c8998c0bff3fe5a6ad988372c4422f69df.jpg> 退職代行 新入社員からの依頼殺到
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/07 22:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/05/07 22:30:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
