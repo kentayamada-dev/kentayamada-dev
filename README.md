@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/df2751f10959a049403528b00e4c0524.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/28ed646c8808011ea78531e3879f3655.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b37f88eef86be110ba171282f5562ba9f955807c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000023-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=598&ch=598&exp=10800&fmt=webp> 巨人2選手、オンラインカジノ賭博容疑で書類送検　球団「2人の氏名の特定につながる回答は差し控えさせていただきます」「2人は深く後悔」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f03d8ffe798aed41f1cf6ac9590550f03846a862>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235239-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 煙突から「黒い煙」　次の教皇決める選挙「コンクラーベ」　1回目投票では選出されず現地8日に再投票予定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7f31fa8cda43789c99f2c6e38819cc63f0ed3dc5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010000-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 印のミサイル攻撃で19人死亡　パキスタンは報復攻撃を示唆
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/184157975cfe61d8ae0c819d0cbb6985479f1f1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000013-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ディズニー、中東アブダビに新テーマパーク建設を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f07d48e273bd2d5c52fdac32ce6394653dadc56>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000022-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=132&cw=536&ch=536&exp=10800&fmt=webp> オコエ瑠偉、増田大輝両選手を書類送検　オンラインカジノで賭博容疑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/acc0d6a1a8fccf1d38584eb4044c7b11fe9e9508>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> インドがパキスタンに軍事攻撃、民間人26人死亡とパ側　情勢緊迫
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000013-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ディズニー、中東アブダビに新テーマパーク建設を発表
       </a>
     </td>
   </tr>
@@ -402,24 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538081>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/2951426ad266ed87eb41101e510cc05057c5bb2d5cc3f90ab1eb75476f9288c9.jpg> ペルシャ湾→アラビア湾 米が検討
+      <a href=https://news.yahoo.co.jp/pickup/6538092>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/9ff7dec2ba54b47b108d729a7069268a3595e36b09051f0eb167c104ce52528b.jpg> 小学校教室に侵入の2人確保 東京
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538082>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/d51726b0209db47af972cfc9bb9265d711f48de3f28901d41d4c909758f8d9a5.jpg> NTTデータを完全子会社化へ NTT
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538079>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/7f69b80a35b463ecc55f3612c45ece6ab8905e98693dbca2a85c395b83ae24e9.jpg> 賭博疑い オコエ選手ら書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6538093>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/204402d7f9c48146eddecf7fd1f2a44a34de74fd71cafab790e0a23b20c0d5e2.jpg> 都と法政大3.8億円事業 なぜ中止
       </a>
     </td>
   </tr>
@@ -428,6 +428,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538089>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/cbb1199b77ed270921db6db49e813bb21ed8984d6e204b12adf60a0b74f6579e.jpg> BTSのJINさんにキス疑い 女性出頭
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538091>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/102fb327a6a0a0e9152644354806b9140f83d60b46cecacbebedc6d301410663.jpg> 選手書類送検 巨人がコメント発表
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 11:30:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 12:00:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
