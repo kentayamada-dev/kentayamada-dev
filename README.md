@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dc2ef17557140d1074117d1009b88960.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/092dababb73fd2edd23690aa14240f4a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d1007136133bb21e2b861d4ca537bef6edec2309>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235439-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「コンクラーベ」で黒い煙　新たなローマ教皇選出されず
+      <a href=https://news.yahoo.co.jp/articles/7d601c69fec5df1023c1be25d8a2a5400c3bc4de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-21902096-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 一部週刊誌が石破総理の政治資金規制法違反の疑いを指摘…石破総理「全くそのような事実はございません」と否定
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a1c3bcd3718e0059729a95e8f4d457987a190d7d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07182921-knb-000-1-thumb.jpg?exp=10800&fmt=webp> 富山県内企業にも影響　インドとパキスタンの衝突で出張取り止めも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/072fd4a06deccc779dda0cbc831d929d7a3243d5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-10177371-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=979&ch=979&exp=10800&fmt=webp> 「コンクラーベ」また決まらず 黒煙上がる バチカン
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/39b751400b43f6e7b5cf533da07bcccebd95f08b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-35081213-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【コンクラーベ】２度目投票も「黒煙」８日午前も新教皇選出なし、昼食後に午後の投票へ　CNN
       </a>
     </td>
   </tr>
@@ -371,35 +395,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ea730d931738cd1f51116bc157bedccd73fc1797>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000227-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1465&ch=1465&exp=10800&fmt=webp> インドが無人機攻撃、市民も死亡　パキスタン、衝突激化を懸念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8d8634be71deaa24c856d9382947b5ec54dbb15f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235375-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 投票続く「コンクラーベ」 ローマ教皇決める2回目の投票　決まれば礼拝堂の煙突から「白い煙」が
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b105ced9458f677b48184edbd1c8d411633ac1b2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00050155-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=364&ch=364&exp=10800&fmt=webp> 文春報道に石破首相「全く覚えがなく、そのような事実はない」…事務所も「政治資金は適正に処理」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538136>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/9367498a5e6264487e083cdb330d460192f3cfe4d2e207371a0f7cb27654c21a.jpg> 首相 政治資金の不記載報道を否定
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538134>
@@ -410,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538116>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/355dcf75148aa6e1ee4ba3d43102a06ba16c6de28a5722070a25cab15d2e8fac.jpg> 親パレスチナデモ隊 米大学で衝突
+      <a href=https://news.yahoo.co.jp/pickup/6538121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a600c6db03cc3b97f61efc19998f51a011ae8d9aacce94338a080b30038c7865.jpg> トヨタ 今期は純利益34.9%減予測
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a600c6db03cc3b97f61efc19998f51a011ae8d9aacce94338a080b30038c7865.jpg> トヨタ 今期は純利益34.9%減予測
+      <a href=https://news.yahoo.co.jp/pickup/6538128>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/ee4d710ad9f8e9277d43b94023dd5b1aa6ed05c89f5c12df7efca32c4c1535cd.jpg> 川崎遺体 女性とのやり取り消去か
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538135>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/fb1c0b5e3bd79c13e9da0f1946fa5486b4f9e249ad57e063eef88f999bdd80ff.jpg> 上白石萌歌 向井理からの手紙に涙
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 19:00:45 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 19:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
