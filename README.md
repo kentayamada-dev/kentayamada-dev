@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/07119c40439f45561d5b2a6c40eb04fc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/01b969eecde89badcc82c26e9b63526d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1eb43ef1a820e6bd62bfc5552e5ecadbe1a8257c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00029719-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 9日の関東　夜は広く雨　明日10日は千葉県や神奈川県で警報級の大雨のおそれも
+      <a href=https://news.yahoo.co.jp/articles/d5e10e12fbc1bcd13b7abe8e120abfcb270e84cf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00969177-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=604&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 初のアメリカ人教皇にトランプ大統領「これ以上ない栄誉」　近く会談する意向も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/205226aefdca645644883db34c3e090c31efc7d8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ニュースワード「コンクラーベ」
+      <a href=https://news.yahoo.co.jp/articles/d393237d3d393dd2b6d039dea2d6f968e8c95f5b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-10177413-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=561&ch=561&exp=10800&fmt=webp> パキスタン軍 インドのドローンからの攻撃により民間人1人死亡と発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/33f669d65d33db998dfab30f58bd3ee719c2a312>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000009-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=644&ch=644&exp=10800&fmt=webp> 「防ぎようがない」　小学校侵入・暴行事件で浮かぶ学校防犯の難しさ
+      <a href=https://news.yahoo.co.jp/articles/1cf4f46b5df040e9283caadd909b2c69f21d0fcc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-05091016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 「教室に侵入した男らは子どもたちの目の前で襲いかかりました」…東京・立川「小学校襲撃」事件…「ＴＨＥ　ＴＩＭＥ，」江藤愛アナが伝える
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e88ff51ab20cedfd5687932c8e41818153c5f2a3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新ローマ教皇「レオ14世」にプレヴォスト枢機卿　歴代初の米国出身
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538164>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ae46dc5c0a9b187ac16dfbadbb174a998cc6c3949a5a85bbdad0bfb589f542b7.jpg> 新教皇 米出身プレヴォスト枢機卿
+      <a href=https://news.yahoo.co.jp/pickup/6538171>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/2edb1ae2b2758d95ac4d14802c8db7e89d70aad3061c7bd3323d2254838c608a.jpg> 米国出身 教皇名は「レオ14世」
       </a>
     </td>
   </tr>
@@ -411,7 +419,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538165>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/a42e7ad2dbe366047848c187a1a3143e717925899fb94c8f4fc14af437dbf146.jpg> 赤ちゃんの遺体を遺棄疑い 女逮捕
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/cf50da957e165864b63e7797d9b9bc5db6772405d3f909f8b24d9d6b4c2d3abe.jpg> 赤ちゃんの遺体を遺棄疑い 女逮捕
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 07:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 07:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
