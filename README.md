@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/47a0199a0a18d9423a7b7dd2edcd2167.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/df2751f10959a049403528b00e4c0524.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/37a9e92025def34ed9b1182e592ca81f77022eb9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000019-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ミニボート転覆で1人死亡、1人心肺停止　山口・長門市沖
+      <a href=https://news.yahoo.co.jp/articles/184157975cfe61d8ae0c819d0cbb6985479f1f1d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000013-jij_afp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ディズニー、中東アブダビに新テーマパーク建設を発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7547c18d94968cc17ceb31a8b37dcf771b371903>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235214-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ディズニーが中東に初のテーマパーク開業へ　UAE・アブダビ　世界で7番目「現代建築と最先端テクノロジーの融合」
+      <a href=https://news.yahoo.co.jp/articles/6f07d48e273bd2d5c52fdac32ce6394653dadc56>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000022-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=132&cw=536&ch=536&exp=10800&fmt=webp> オコエ瑠偉、増田大輝両選手を書類送検　オンラインカジノで賭博容疑
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59140bea88c7ee7e3ae1cffdff7c528b8155cf2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「血の一滴まで復讐」パキスタン首相が報復宣言…カシミールのテロ事件めぐるインドの攻撃で衝突の激化懸念
+      <a href=https://news.yahoo.co.jp/articles/acc0d6a1a8fccf1d38584eb4044c7b11fe9e9508>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010002-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> インドがパキスタンに軍事攻撃、民間人26人死亡とパ側　情勢緊迫
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538087>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/0ce4c47bdf816bc23457c32e4138079b32c07557bdf8b510d15e4d44ed191b17.jpg> ボート転覆 1人死亡1人心肺停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538074>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/8169bc001d55865b0ad338927869fa7b3482b6a934e7240cf3b1fed4be4b8a4e.jpg> 今も登校困難 コロナ後遺症の子
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538079>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/7f69b80a35b463ecc55f3612c45ece6ab8905e98693dbca2a85c395b83ae24e9.jpg> 賭博疑い オコエ選手ら書類送検
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538089>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/cbb1199b77ed270921db6db49e813bb21ed8984d6e204b12adf60a0b74f6579e.jpg> BTSのJINさんにキス疑い 女性出頭
       </a>
     </td>
   </tr>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538090>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/f924aa10e92b812123587da2eda394dac9cc6c239f9327e04d13575527677995.jpg> 相葉雅紀 嵐の活動終了発表に言及
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 11:00:20 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 11:30:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
