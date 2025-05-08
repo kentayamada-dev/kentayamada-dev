@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/7f5142dd50fb69f14c7fb7d702f08142.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f2e5f4363e990258f19a85ef535294f4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/192b81ae676d091ad1bde2e47d285ed9e27754b7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000045-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「神奈川県警に対応調査を指導」　川崎の死体遺棄事件で警察庁長官
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e29a8049df4fb415c9e5336f57dae9c456954a31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-08545859-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ローマ教皇選挙コンクラーベ　まもなく2回目の投票始まる　現在の様子は？
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-08545859-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ローマ教皇選挙コンクラーベ　まもなく2回目の投票始まる　現在の様子は？
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c0dfbc8c48762b9c54132e57918b419f935accff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000074-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 体育の授業で長距離走の中1男子が倒れ死亡　死因は「調査中」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e78e73fffa70a7ef414234909da87d60cdc249c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 社説：川崎ストーカー　徹底した検証が必要だ
+      <a href=https://news.yahoo.co.jp/articles/0ce4cdf9bf36f14929101f107f3df164a05fe502>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-90040265-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=750&ch=750&exp=10800&fmt=webp> トヨタの2026年3月期「約1兆円の減益」の見通し “トランプ関税”の影響長期化でさらに下押しの恐れも
       </a>
     </td>
   </tr>
@@ -402,24 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538107>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/2ae19b51f3b9e582c0713449259d064c154f47f9322e896040a3cf68fe2f09b9.jpg> 9-10日 警報級の大雨の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6538121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a600c6db03cc3b97f61efc19998f51a011ae8d9aacce94338a080b30038c7865.jpg> トヨタ 今期は純利益34.9%減予測
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538102>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/e6253b87d28801f5d1f178922ab9302e99036786d78b6bb7d44bd44800ee200b.jpg> コメ価格が最高値更新 首相の焦り
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538105>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/ce40982f398859aaad61169750a6a1e6c850c8ffc518260ce3ff669229a7008b.jpg> 小学校に侵入 男2人は母親の友人
+      <a href=https://news.yahoo.co.jp/pickup/6538111>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/121ef9fce6a7ecf9974c8eb108948f662eedc6ab7b92691448b30aa67a26067f.jpg> 五輪談合 2審も博報堂に罰金2億円
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538109>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/49a1b46d4b29b87239bf42fffc4806375255bc4b9316ceec5013b3c3d7ac90e6.jpg> 自民・小渕氏 ひめゆり発言に苦言
+      <a href=https://news.yahoo.co.jp/pickup/6538105>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/ce40982f398859aaad61169750a6a1e6c850c8ffc518260ce3ff669229a7008b.jpg> 小学校に侵入 男2人は母親の友人
       </a>
     </td>
   </tr>
@@ -450,16 +442,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538097>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/9bc4f0ec1ffa6056f5a0e4396e50192224a7aec947ffc187712d2e9e673ddcc7.jpg> ボクシング死亡事故 激闘への賛否
+      <a href=https://news.yahoo.co.jp/pickup/6538110>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a46875d4da6cb3eac9684d51bc07ee05e4b4ea023db3976963a52d69c2cae5db.jpg> 安野貴博氏が新党設立 参院選向け
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538114>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/69b36f089debf95b2e80d7ffa03c3afa5b09e4c1a2dd96f8d0c93ba65c9b3672.jpg> chelmico鈴木真海子 一時活動休止
+      <a href=https://news.yahoo.co.jp/pickup/6538113>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/79dd82390f2f013078a2280e88177d7d489748889fd9e314fd8257a5ecf1a8de.jpg> カルディ運営 生ハム7万個を回収
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538097>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/9bc4f0ec1ffa6056f5a0e4396e50192224a7aec947ffc187712d2e9e673ddcc7.jpg> ボクシング死亡事故 激闘への賛否
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 16:30:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 17:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
