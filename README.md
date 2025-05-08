@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d92c4c465886ef94e2c514dc8f5a807d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1e07df916b90e746980b7b087d000a5c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb79215ec934ecb15bbbecd8ebb5272c3da63266>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00969165-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=411&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】新ローマ教皇にプレボスト枢機卿　初のアメリカ出身　レオ14世を名乗る
+      <a href=https://news.yahoo.co.jp/articles/1f77103c1b1b7e23f56510b277dd16b9dd539a8b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000005-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏、米出身の新教皇に祝意　選挙前にはジョークで物議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2e12c8c3c378af68bcf50b861e610e76eeadba14>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000002-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=24&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 新ローマ教皇に米国出身のロバート・プレボスト氏
+      <a href=https://news.yahoo.co.jp/articles/3cc3f265b25e4656961b6a182e92b8854bc4cdaa>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000006-reut-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 新ローマ教皇にプレボスト枢機卿、初の米国出身　「レオ14世」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/83217759ffc10eb4251d3489f367a6f044542d65>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000102-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1073&ch=1073&exp=10800&fmt=webp> ラクリマクリスティー、公式サイトで再結成を発表「KOJIの魂と共に」22年死去メンバーへの思いも【全文公開】
+      <a href=https://news.yahoo.co.jp/articles/a57043eb6f1e9e0afaa35f55eb574b3e07ffd577>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-90024417-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「怖かった」児童が見た恐怖の瞬間　児童の母親の知人が小学校で暴れ５人けが
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 03:00:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 04:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
