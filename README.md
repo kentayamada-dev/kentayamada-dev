@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0ecffe5fca9536add25935039e634117.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d92c4c465886ef94e2c514dc8f5a807d.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1138c2d1e408d77c5ebfd305c29a6a14e6bdb57f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-02853746-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 新ローマ教皇にアメリカ出身のプレボスト枢機卿　「コンクラーベ」2日目で決定
+      <a href=https://news.yahoo.co.jp/articles/cb79215ec934ecb15bbbecd8ebb5272c3da63266>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00969165-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=411&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】新ローマ教皇にプレボスト枢機卿　初のアメリカ出身　レオ14世を名乗る
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e8123071b91f0c9a45595fa2cb25380a7cd51313>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-09535868-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「コンクラーベ」新ローマ教皇決定　白い煙あがる
+      <a href=https://news.yahoo.co.jp/articles/2e12c8c3c378af68bcf50b861e610e76eeadba14>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000002-mai-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=24&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 新ローマ教皇に米国出身のロバート・プレボスト氏
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538162>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/395cbe6b0b8f8b6395ba80e65a2a8f09cabad2dbe1553f30c1e7e50bcb567182.jpg> 新ローマ教皇を選出 コンクラーベ
+      <a href=https://news.yahoo.co.jp/pickup/6538164>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/50b31e603ddd20e67632487df1e0e2e064af2294b08a308b031d67cbdc2dcdbe.jpg> 新教皇 米出身プレヴォスト枢機卿
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 02:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 03:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
