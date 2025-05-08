@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6fafc0f6b35f77358187a93a63e22c74.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2d549e53e791d8dbca98c61c87129a2a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6bbcb5f9b40b8ede563648130b0da9bbd23e0acb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968696-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ストーカー被害訴えていた岡﨑彩咲陽さんが遺体で発見　警察庁長官「適正な対応がされていたかを確認するように指導していく」
+      <a href=https://news.yahoo.co.jp/articles/e3d09c6cbb1b0384a04d0cf3c1560269e17918af>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-05412246-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「コンクラーベ」初日投票、新教皇決まらず　日本時間午後4時頃から再び投票へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/792ae2e281741850cd8ff656f530272b9fbaa450>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00004750-yabv-000-1-thumb.jpg?exp=10800&fmt=webp> 【山口】長門市・川尻岬の沖でボートが転覆　１人が死亡・１人が心肺停止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ee9decacb948cbea908c5613ce91621ca94aa064>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010006-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=730&ch=730&exp=10800&fmt=webp> コンクラーベ前に枢機卿たちが映画『教皇選挙』を鑑賞か　米報道
+      <a href=https://news.yahoo.co.jp/articles/47349039fa3d6537e98fb59059b5b4216148183a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「対応確認するよう指導」　川崎女性遺棄事件巡り警察庁長官、神奈川県警に
       </a>
     </td>
   </tr>
@@ -382,7 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6cdb96b54f3c0e78a06ca07bea6e77fc5f5ea67f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235236-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「血の一滴まで復讐」パキスタン首相が報復宣言…インド・パキスタン衝突は大規模紛争に発展の懸念も
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235236-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 「血の一滴まで復讐」パキスタン首相が報復宣言…インド・パキスタン衝突は大規模紛争に発展の懸念も
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6f4867bedfe86ce3d255cea3822d5749854b0798>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000034-ann-000-3-thumb.jpg?exp=10800&fmt=webp> コメ高騰…17週連続で値上がり　石破総理が対策取りまとめ指示
       </a>
     </td>
   </tr>
@@ -402,8 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538086>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/245afe06d00ce22a9b0a9e121237ee34894fb6347f97f0967a1cebe50eb234eb.jpg> 北朝鮮が発射 EEZ外に落下か
+      <a href=https://news.yahoo.co.jp/pickup/6538102>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/e6253b87d28801f5d1f178922ab9302e99036786d78b6bb7d44bd44800ee200b.jpg> コメ価格が最高値更新 首相の焦り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538100>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a5bf4cc62d24dbc5ffbc28c455292c8d1b0bdabc731fd8d3e839602d827ebb77.jpg> ひめゆり発言撤回せず 知事が苦言
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538098>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/476e01362b93b13695bc693d57cac98899b755d8ddb4cf803f26f6839c57f2a2.jpg> 小学校教室に侵入の2人逮捕 東京
       </a>
     </td>
   </tr>
@@ -418,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538098>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/476e01362b93b13695bc693d57cac98899b755d8ddb4cf803f26f6839c57f2a2.jpg> 小学校教室に侵入の2人逮捕 東京
+      <a href=https://news.yahoo.co.jp/pickup/6538094>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/05c455d3a9dd93592beedf791df9664ff601a8ff453e960897f12a2cfd4bffe9.jpg> 村の救急担当が脳梗塞 搬送遅れ
       </a>
     </td>
   </tr>
@@ -448,27 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538084>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/0bfa0952bcb77e89f6b0f7db80b55b2f8cb29083f79516c06d68e391f43f62f7.jpg> タイガース 前田健太の解雇を発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538090>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/f924aa10e92b812123587da2eda394dac9cc6c239f9327e04d13575527677995.jpg> 相葉雅紀 嵐の活動終了発表に言及
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 13:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 13:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
