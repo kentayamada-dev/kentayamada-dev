@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/837f554147a9195bb161e01200ab31b5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e017e65d79bfd077e647f1fb62cb8e75.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/59140bea88c7ee7e3ae1cffdff7c528b8155cf2a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「血の一滴まで復讐」パキスタン首相が報復宣言…カシミールのテロ事件めぐるインドの攻撃で衝突の激化懸念
+      <a href=https://news.yahoo.co.jp/articles/fbf6935ec06f8c7f70fac7a4e77ebdbfb04e5729>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 山口でボート転覆、1人死亡　1人心肺停止、釣りか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/03a9d2fb2bf78d7efef05d979991031ed8d881d7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00078980-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ米大統領、「ペルシャ湾」を「アラビア湾」に呼称変更か　イラン反発
+      <a href=https://news.yahoo.co.jp/articles/59140bea88c7ee7e3ae1cffdff7c528b8155cf2a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「血の一滴まで復讐」パキスタン首相が報復宣言…カシミールのテロ事件めぐるインドの攻撃で衝突の激化懸念
       </a>
     </td>
   </tr>
@@ -386,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538085>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 北が発射 ミサイルすでに落下か
+      <a href=https://news.yahoo.co.jp/pickup/6538086>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/245afe06d00ce22a9b0a9e121237ee34894fb6347f97f0967a1cebe50eb234eb.jpg> 北朝鮮が発射 EEZ外に落下か
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538073>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/9ca51434922d8d40e14ae293c44107fa0963c9d8065d8cb1d250d6e0c9425b82.jpg> ドイツで「ロシア産ガス」待望論
+      <a href=https://news.yahoo.co.jp/pickup/6538081>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/2951426ad266ed87eb41101e510cc05057c5bb2d5cc3f90ab1eb75476f9288c9.jpg> ペルシャ湾→アラビア湾 米が検討
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538069>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/8add6cab896e4731d651117e37ca87806712c3330391a737406cd6b3121c48cb.jpg> 知日派のジョセフ・ナイ氏死去
       </a>
     </td>
   </tr>
@@ -418,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538066>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/11/29/fe78c22b57718f59c604599e0a30a17266d10a13dd93b17d90e9c5813a97c2b1.jpg> NHK受信料未払い 公用車で相次ぐ
+      <a href=https://news.yahoo.co.jp/pickup/6538074>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/8169bc001d55865b0ad338927869fa7b3482b6a934e7240cf3b1fed4be4b8a4e.jpg> 今も登校困難 コロナ後遺症の子
       </a>
     </td>
   </tr>
@@ -434,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538070>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/6b225a7c2abc03bba36036414f8a1813deb70a3fc72ec22fc477018475bda379.jpg> 大阪で中国から移住増 部活楽しい
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538072>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/81162896e31f6104cb179fcf6679163e9de57104eed9f0ca7bb14ea569aeef23.jpg> 大谷に申告敬遠 敵地はブーイング
+      <a href=https://news.yahoo.co.jp/pickup/6538084>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/0bfa0952bcb77e89f6b0f7db80b55b2f8cb29083f79516c06d68e391f43f62f7.jpg> タイガース 前田健太の解雇を発表
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 10:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 10:30:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
