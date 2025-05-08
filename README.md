@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0b11f6b38584fb73f47fa484e9572b46.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0e42c556b58d480d1d0123d88fc651da.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538148>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/16094241f9c43ba60a13ed3e8c683c8c6229782a97aec1796656ee8fed2d88cf.jpg> 国民 参院選の公約案に消費減税
+      <a href=https://news.yahoo.co.jp/pickup/6538118>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/6a53e3d1f86d172eb287d66821a7ee3aea40642dc2aac2092c6793ec262aa4f1.jpg> 印パ係争地「火薬庫」カシミール
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538140>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/b87c7e3f928ec7f69be94dcbc241d99e2f516eae7b9072f3eed08c9c4dfd1036.jpg> 長崎の平和式典 全ての国を招待へ
+      <a href=https://news.yahoo.co.jp/pickup/6538119>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/f337dc73f3cb87d35440b6d52ff4de4e9466321bf37b393ec10bccf7a852f3ae.jpg> 任天堂 今期は13%の営業増益予想
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/f337dc73f3cb87d35440b6d52ff4de4e9466321bf37b393ec10bccf7a852f3ae.jpg> 任天堂 今期は13%の営業増益予想
+      <a href=https://news.yahoo.co.jp/pickup/6538157>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/810d8ccc4985eadcd8b3fd28079a463d3ee9c8339710c11260f584d343dd3e03.jpg> 前田健太の今後 米では厳しい評価
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 23:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 23:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
