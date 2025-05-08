@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -324,12 +324,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/198723ebf4cb5cb9717ccbfb11835e07.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/03171fbed54e7208cc7d8f0d730cb532.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/cd02560778cfe8f65b50427d127c6df1b988c968>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000012-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 意外な新教皇に「誰?」と驚く声も　レオ14世、最初の言葉とは
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a3f02654382df326d5e91d1b0f3601e8cda8193e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000081-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=715&ch=715&exp=10800&fmt=webp> フィフィ　小学校での教職員暴行に「暴力…良く無いが、学校はいじめの相談に対してどのような対応を」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000012-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 意外な新教皇に「誰?」と驚く声も　レオ14世、最初の言葉とは
       </a>
     </td>
   </tr>
@@ -381,8 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f89174408b36139150b0cea53aa58bd3979a581d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローマ教皇フランシスコの後継者は誰？　コンクラーベを機に名前の挙がる15人の有力候補
+      <a href=https://news.yahoo.co.jp/articles/1cf4f46b5df040e9283caadd909b2c69f21d0fcc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-05091016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 「教室に侵入した男らは子どもたちの目の前で襲いかかりました」…東京・立川「小学校襲撃」事件…「ＴＨＥ　ＴＩＭＥ，」江藤愛アナが伝える
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/52831aef41a342edd9418ea91ba6883b9597c46d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000188-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=115&cw=970&ch=970&exp=10800&fmt=webp> オンラインカジノ　他競技やお笑い界でも問題化して対策急務　総務省は有識者会議立ち上げ
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538165>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/cf50da957e165864b63e7797d9b9bc5db6772405d3f909f8b24d9d6b4c2d3abe.jpg> 赤ちゃんの遺体を遺棄疑い 女逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/2b041a2bcbcbba8e25d229a60404a230c01be8b6e375b0018584ab598389bfac.jpg> ダムで水面に滑落 作業員死亡
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538152>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/97bd1c92ee9169ca2d5615b3c3e680c20dfab559be7e46800d505e46daf89af6.jpg> 小学校侵入 いじめ巡る対応背景か
+      <a href=https://news.yahoo.co.jp/pickup/6538165>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/cf50da957e165864b63e7797d9b9bc5db6772405d3f909f8b24d9d6b4c2d3abe.jpg> 赤ちゃんの遺体を遺棄疑い 女逮捕
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 08:00:32 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 08:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
