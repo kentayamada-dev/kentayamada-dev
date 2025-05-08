@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/092dababb73fd2edd23690aa14240f4a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/59500d37ee61fae5673924f81d785b66.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d601c69fec5df1023c1be25d8a2a5400c3bc4de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-21902096-bss-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=358&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 一部週刊誌が石破総理の政治資金規制法違反の疑いを指摘…石破総理「全くそのような事実はございません」と否定
+      <a href=https://news.yahoo.co.jp/articles/410219602568e44104cc73fa3c3f017d03a71561>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00009868-kkbvc-000-1-thumb.jpg?exp=10800&fmt=webp> 「コンクラーベ」教皇は誰に？　映画「教皇選挙」の来場者4倍に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a1c3bcd3718e0059729a95e8f4d457987a190d7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07182921-knb-000-1-thumb.jpg?exp=10800&fmt=webp> 富山県内企業にも影響　インドとパキスタンの衝突で出張取り止めも
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/072fd4a06deccc779dda0cbc831d929d7a3243d5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-10177371-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=389&cy=0&cw=979&ch=979&exp=10800&fmt=webp> 「コンクラーベ」また決まらず 黒煙上がる バチカン
+      <a href=https://news.yahoo.co.jp/articles/325a519308c8aaeceb2d71a42819f0e6a9cea2fd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> カシミール軍事衝突　砲撃や無人機撃墜続く、インド「テロリスト100人以上殺害」
       </a>
     </td>
   </tr>
@@ -383,6 +375,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/39b751400b43f6e7b5cf533da07bcccebd95f08b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-35081213-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 【コンクラーベ】２度目投票も「黒煙」８日午前も新教皇選出なし、昼食後に午後の投票へ　CNN
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/660eb224e4e21438b64fd100a2861698848613c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000062-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=71&cw=733&ch=733&exp=10800&fmt=webp> 「天才贋作師」の問題作を無料展示　購入経緯説明も　徳島県立美術館
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538134>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/5e965e1de3b601dda90129e15730e6dbbe7c7dd9711d94b7b0c5483272602327.jpg> 9-10日 警報級大雨や暴風の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6538133>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/3787fcbdc5c15140c836b968a32b57f4103913b85fb33693fca752c481707cfa.jpg> 米副大統領「露の要求は過大」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a600c6db03cc3b97f61efc19998f51a011ae8d9aacce94338a080b30038c7865.jpg> トヨタ 今期は純利益34.9%減予測
+      <a href=https://news.yahoo.co.jp/pickup/6538134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/5e965e1de3b601dda90129e15730e6dbbe7c7dd9711d94b7b0c5483272602327.jpg> 9-10日 警報級大雨や暴風の恐れ
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538117>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a0a063de7910ccc01a6f87866683673a39cd24fd19d222bcd63bfa0140a93e52.jpg> 体育の持久走で倒れる 中1が死亡
+      <a href=https://news.yahoo.co.jp/pickup/6538122>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/0294af132283985f996e250760e0ab380bdff4459983b31d5dd2bf7758db39d0.jpg> 都内高級ホテル15社に警告 公取委
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538122>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/0294af132283985f996e250760e0ab380bdff4459983b31d5dd2bf7758db39d0.jpg> 都内高級ホテル15社に警告 公取委
+      <a href=https://news.yahoo.co.jp/pickup/6538139>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/25ab7ea8d76b83b362b78e7f5a73579f2b78478811f5de4fa2609ebfbd68f73d.jpg> 6720万円で購入の贋作 無料公開へ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 19:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 20:00:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
