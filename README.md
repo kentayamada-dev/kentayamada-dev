@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/64459630a488f79fc8843e068b57f0ea.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cbc7e125e2290f793dbb3073fc9b00b4.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1f77103c1b1b7e23f56510b277dd16b9dd539a8b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000005-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=122&cy=0&cw=534&ch=534&exp=10800&fmt=webp> トランプ氏、米出身の新教皇に祝意　選挙前にはジョークで物議
+      <a href=https://news.yahoo.co.jp/articles/0b1b3fbd896f288e1b2e5905add54c67098c3e42>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-05091012-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> バチカン、新ローマ教皇は初の米国人・プレボスト枢機卿　６９歳　教皇名はレオ１４世
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3cc3f265b25e4656961b6a182e92b8854bc4cdaa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000006-reut-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> 新ローマ教皇にプレボスト枢機卿、初の米国出身　「レオ14世」
+      <a href=https://news.yahoo.co.jp/articles/6415f2a3fb9b9b2a44cb94e3046407be7ed13fa4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000004-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 新ローマ教皇はレオ14世　米国出身で初　トランプ氏も祝意「名誉」
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 04:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 05:00:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
