@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6c1a3f2b8d07770302c1a57b72f4b591.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5714acc7e0a00dbbf189ff1886bc25a2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18d8720638be6c9be46440c82f1dac421cfa294f>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00253901-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1108&ch=1108&exp=10800&fmt=webp> 〈立川・焼酎の酒ビンを持った男２人が白昼の学校に〉校内にいた児童が語る恐怖「もう死んじゃうのかな…」避難訓練の日を襲った戦慄「児童の母が男２人を招集」
+      <a href=https://news.yahoo.co.jp/articles/f98e7baf1d28ac0f5fd35622c84d2b4a1cc54027>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-21902233-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 次のローマ教皇を決める選挙「コンクラーベ」133人の枢機卿のなかに2人の日本人【Nスタ解説】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f43940739893a92c7c60b14ad3648d042012acc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> パキスタン軍“インドの無人機12機を撃墜” 民間人1人死亡　インド国防相「軍事作戦終わってない」
+      <a href=https://news.yahoo.co.jp/articles/4e444aba866a7abf400ace38f2949f867b7e4b59>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000085-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 聞こえた叫び声、教室にバリケード…　男性2人侵入の小学校で何が
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c8c56e3ce0e0fd042fb5113ec4bc7d45b16de978>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-90019720-tku-000-1-thumb.jpg?exp=10800&fmt=webp> 若い世代ではもはや当たり前？「退職代行」とは　５月病と離職の現状【熊本】
+      <a href=https://news.yahoo.co.jp/articles/5e5995708d677f949f6b713f70015dc73e99d08e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000092-ann-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> パキスタン軍　インドのドローン攻撃で民間人1人死亡と発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a546b7684cec108712c75c53391cccdaf889468>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000076-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=534&ch=534&exp=10800&fmt=webp> ローマ教皇選挙、3回目までに決着せず　8日午前も煙突から黒い煙
+      <a href=https://news.yahoo.co.jp/articles/527720a6759f11130123bbe5c7e744ed8dd50cd5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000089-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=174&cy=0&cw=953&ch=953&exp=10800&fmt=webp> 堀内恒夫氏、巨人・坂本勇人の復帰即決勝打に「でも、まだ本物じゃない」「彼本来の振り方ではない」期待とエール
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538134>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/5e965e1de3b601dda90129e15730e6dbbe7c7dd9711d94b7b0c5483272602327.jpg> 9-10日 警報級大雨や暴風の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6538145>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a4d280f65e8924188d98853ebc3df0b5385fc4b992ca0357b765f62f17a4b905.jpg> 小学校侵入 児童ら語った「恐怖」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538145>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a4d280f65e8924188d98853ebc3df0b5385fc4b992ca0357b765f62f17a4b905.jpg> 小学校侵入 児童ら語った「恐怖」
+      <a href=https://news.yahoo.co.jp/pickup/6538137>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/3fe549e23e2220512a7e7442a5a64f25edb86b5df9e64783f5e970c51cd0df0e.jpg> ニデック 牧野フライスのTOB撤回
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538144>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/ee7178c3b05097ad4b06884d0a6298b9b68453972e7b18496aba72035958b3f6.jpg> プロ野球界 カジノ賭博を巡る経緯
+      <a href=https://news.yahoo.co.jp/pickup/6538146>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/7e7d340e36528b4541afe6061edfbc1c789442532044a3dc1e8ed79cfa5af25b.jpg> 卓球・丹羽孝希 米チーム入団決定
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 21:00:19 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 21:30:34 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
