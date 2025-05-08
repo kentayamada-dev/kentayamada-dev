@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/28ed646c8808011ea78531e3879f3655.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b18496a648dbbe05de55979a90ebee77.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b37f88eef86be110ba171282f5562ba9f955807c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000023-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=598&ch=598&exp=10800&fmt=webp> 巨人2選手、オンラインカジノ賭博容疑で書類送検　球団「2人の氏名の特定につながる回答は差し控えさせていただきます」「2人は深く後悔」
+      <a href=https://news.yahoo.co.jp/articles/6cdb96b54f3c0e78a06ca07bea6e77fc5f5ea67f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235236-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「血の一滴まで復讐」パキスタン首相が報復宣言…インド・パキスタン衝突は大規模紛争に発展の懸念も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f03d8ffe798aed41f1cf6ac9590550f03846a862>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235239-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 煙突から「黒い煙」　次の教皇決める選挙「コンクラーベ」　1回目投票では選出されず現地8日に再投票予定
+      <a href=https://news.yahoo.co.jp/articles/11a26f025e0e3a96d83b68322ff6e84b2dd26dd5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000030-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=380&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 東大前駅切り付け　容疑の男は30分前に駅構内に　大学生3回切り付けたか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7f31fa8cda43789c99f2c6e38819cc63f0ed3dc5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010000-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 印のミサイル攻撃で19人死亡　パキスタンは報復攻撃を示唆
+      <a href=https://news.yahoo.co.jp/articles/a079ca412bd6a0c8fb7a61cc0598308d7bcf9d66>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000039-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 新たな教皇選ぶ「コンクラーベ」 初回投票で決まらず再投票へ
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538077>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 不妊治療 90自治体の7割が助成
+      <a href=https://news.yahoo.co.jp/pickup/6538096>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/2051046cc11261a75e4f45fb4ead9ef782503cdc7df1600853cdbc7e7ba0c691.jpg> 切りつけ 電車内まで追い掛け襲撃
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538092>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/9ff7dec2ba54b47b108d729a7069268a3595e36b09051f0eb167c104ce52528b.jpg> 小学校教室に侵入の2人確保 東京
+      <a href=https://news.yahoo.co.jp/pickup/6538098>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/476e01362b93b13695bc693d57cac98899b755d8ddb4cf803f26f6839c57f2a2.jpg> 小学校教室に侵入の2人逮捕 東京
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 12:00:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 12:30:21 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
