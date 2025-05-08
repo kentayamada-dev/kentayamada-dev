@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b18496a648dbbe05de55979a90ebee77.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6fafc0f6b35f77358187a93a63e22c74.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/6bbcb5f9b40b8ede563648130b0da9bbd23e0acb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968696-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ストーカー被害訴えていた岡﨑彩咲陽さんが遺体で発見　警察庁長官「適正な対応がされていたかを確認するように指導していく」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/792ae2e281741850cd8ff656f530272b9fbaa450>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00004750-yabv-000-1-thumb.jpg?exp=10800&fmt=webp> 【山口】長門市・川尻岬の沖でボートが転覆　１人が死亡・１人が心肺停止
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ee9decacb948cbea908c5613ce91621ca94aa064>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010006-thrjapan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=730&ch=730&exp=10800&fmt=webp> コンクラーベ前に枢機卿たちが映画『教皇選挙』を鑑賞か　米報道
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6cdb96b54f3c0e78a06ca07bea6e77fc5f5ea67f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235236-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「血の一滴まで復讐」パキスタン首相が報復宣言…インド・パキスタン衝突は大規模紛争に発展の懸念も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/11a26f025e0e3a96d83b68322ff6e84b2dd26dd5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000030-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=380&cy=0&cw=797&ch=797&exp=10800&fmt=webp> 東大前駅切り付け　容疑の男は30分前に駅構内に　大学生3回切り付けたか
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a079ca412bd6a0c8fb7a61cc0598308d7bcf9d66>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000039-ann-000-1-thumb.jpg?exp=10800&fmt=webp> 新たな教皇選ぶ「コンクラーベ」 初回投票で決まらず再投票へ
       </a>
     </td>
   </tr>
@@ -419,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538093>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/204402d7f9c48146eddecf7fd1f2a44a34de74fd71cafab790e0a23b20c0d5e2.jpg> 都と法政大3.8億円事業 なぜ中止
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/29f872a3425f54e91a09861247da01838dae4a4aa680fa8716196c59223472b4.jpg> 都と法政大3.8億円事業 なぜ中止
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 12:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 13:00:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
