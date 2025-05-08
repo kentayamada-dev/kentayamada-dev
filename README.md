@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/50fcaa1021278a7b7f4da0b65a6fbbb3.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/7f5142dd50fb69f14c7fb7d702f08142.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,40 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/281b7b36cda1e3009f244c710e16559e850cf22a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 枢機卿、SNSで積極発信　密室のコンクラーベ前に
+      <a href=https://news.yahoo.co.jp/articles/e29a8049df4fb415c9e5336f57dae9c456954a31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-08545859-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> ローマ教皇選挙コンクラーベ　まもなく2回目の投票始まる　現在の様子は？
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb9aacc7eaa6565ae0bf3d7905e2a4a448ada51e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-21900878-cbcv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 【速報】カルディの生ハムから“サルモネラ属菌” 全店で販売した商品を自主回収「オリジナル 生ハム切り落とし」対象商品は?
+      <a href=https://news.yahoo.co.jp/articles/965ce8d9446ca11f995bbfffedde1f513eec8de0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000028-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> カシミールで衝突激化 7日以降に民間人13人死亡 インド
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/834c0d121389ce7c094ef25884c9272406d2d345>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968795-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=487&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「犠牲者が流した血の一滴のために復讐する」パキスタン首相が報復宣言　テロ事件めぐるインドの攻撃うけ
+      <a href=https://news.yahoo.co.jp/articles/6612dfb0a96b6981f9bd53447600e48a3d544457>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000006-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《凄惨な現場写真》「電車ドア前から階段まで血溜まりが…」「ホームには中華包丁」東大前切り付け事件の“緊迫の現場”を目撃者が証言
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2f7ece897f07da2e3979239124d29618dd444a80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968548-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新ローマ教皇選ぶ「コンクラーベ」に映画顔負けのドロドロ戦術…有力候補にフェイクニュース拡散　専門家が注目する日本人候補とは
+      <a href=https://news.yahoo.co.jp/articles/c0dfbc8c48762b9c54132e57918b419f935accff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000074-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800&fmt=webp> 体育の授業で長距離走の中1男子が倒れ死亡　死因は「調査中」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47349039fa3d6537e98fb59059b5b4216148183a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「対応確認するよう指導」　川崎女性遺棄事件巡り警察庁長官、神奈川県警に
+      <a href=https://news.yahoo.co.jp/articles/9e78e73fffa70a7ef414234909da87d60cdc249c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 社説：川崎ストーカー　徹底した検証が必要だ
       </a>
     </td>
   </tr>
@@ -418,16 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538104>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a33449a17398961e95091a8ab0975e8a933583bf24db3b438cabb75d2edacbe7.jpg> パキスタン首相 血の一滴まで復讐
+      <a href=https://news.yahoo.co.jp/pickup/6538105>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/ce40982f398859aaad61169750a6a1e6c850c8ffc518260ce3ff669229a7008b.jpg> 小学校に侵入 男2人は母親の友人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538105>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/ce40982f398859aaad61169750a6a1e6c850c8ffc518260ce3ff669229a7008b.jpg> 小学校に侵入 男2人は母親の友人
+      <a href=https://news.yahoo.co.jp/pickup/6538112>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/365a5e8e6b2b9ec99f79958ad4cc761da46e47a9b62a843703557d8950e37a4d.jpg> 川崎遺体 警察庁「重く受け止め」
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538101>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a4d4d30e2099850e936dc9d32e5840c2045c61c0f74ad01372e5aa8c6ba1fa93.jpg> 前田健太ウエーバー措置 移籍先は
+      <a href=https://news.yahoo.co.jp/pickup/6538117>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a0a063de7910ccc01a6f87866683673a39cd24fd19d222bcd63bfa0140a93e52.jpg> 体育の持久走で倒れる 中1が死亡
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 16:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 16:30:49 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
