@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dfaa94f651c8e05eab46926d115aa824.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1f8173c54ad5466bc0cb059eb44e9122.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b73ea1f6c113cf823bdbb9a10d54b8cf7e4fcb16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-21899530-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=471&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本人も候補…新教皇は誰に?秘密選挙「コンクラーベ」開始　あの名曲が問題に　有力候補めぐり熾烈な情報戦も【news23】
+      <a href=https://news.yahoo.co.jp/articles/2f7ece897f07da2e3979239124d29618dd444a80>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968548-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新ローマ教皇選ぶ「コンクラーベ」に映画顔負けのドロドロ戦術…有力候補にフェイクニュース拡散　専門家が注目する日本人候補とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2fc5f775ebec266461ac43ca37123604e8beff31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000053-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 女性との携帯やりとり消去　容疑者、関与隠蔽図ったか　川崎遺体遺棄・神奈川県警
       </a>
     </td>
   </tr>
@@ -374,23 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b0bfdba4bbddeab21df5155dfe9e726720ba7d42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000041-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=798&ch=798&exp=10800&fmt=webp> パキスタン「露骨な侵略」、報復辞さず　インドは民間人被害なしと主張
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000041-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=798&ch=798&exp=10800&fmt=webp> パキスタン「露骨な侵略」、報復辞さず　インドは民間人被害なしと主張
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92262e39d7c7c81fe93504ae6c0d3e0eccc2fd79>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-35080545-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=1159&ch=1159&exp=10800&fmt=webp> 浜川路己×本多大夢「タイプロ」ファイナリストがユニット「ROIROM」結成トレンド１位発進
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/47349039fa3d6537e98fb59059b5b4216148183a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「対応確認するよう指導」　川崎女性遺棄事件巡り警察庁長官、神奈川県警に
+      <a href=https://news.yahoo.co.jp/articles/bbc9b00581cfbebe55ff6f6f0113a640007bd33b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00029711-tenki-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日9日は西日本で警報級の大雨・暴風　10日は関東も大雨警戒　8日のうちに備えを
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538100>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a5bf4cc62d24dbc5ffbc28c455292c8d1b0bdabc731fd8d3e839602d827ebb77.jpg> ひめゆり発言撤回せず 知事が苦言
+      <a href=https://news.yahoo.co.jp/pickup/6538105>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/43347132d8d5c2c40d8c5075fd8d66a29d838673380398e41d941b83de4afe30.jpg> 小学校に侵入 男2人は母親の友人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538098>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/476e01362b93b13695bc693d57cac98899b755d8ddb4cf803f26f6839c57f2a2.jpg> 小学校教室に侵入の2人逮捕 東京
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538099>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/144eb3549e64bf05da6459042a42a5d327c897b9b85750a899d8555f5f38ac6a.jpg> ミニボートが転覆 男性2人死亡
+      <a href=https://news.yahoo.co.jp/pickup/6538109>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/49a1b46d4b29b87239bf42fffc4806375255bc4b9316ceec5013b3c3d7ac90e6.jpg> 自民・小渕氏 ひめゆり発言に苦言
       </a>
     </td>
   </tr>
@@ -450,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538091>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/102fb327a6a0a0e9152644354806b9140f83d60b46cecacbebedc6d301410663.jpg> 選手書類送検 巨人がコメント発表
+      <a href=https://news.yahoo.co.jp/pickup/6538101>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a4d4d30e2099850e936dc9d32e5840c2045c61c0f74ad01372e5aa8c6ba1fa93.jpg> 前田健太ウエーバー措置 移籍先は
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538108>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/38160b4f4ac9638bc92a5d9488c66f0746b8e234e1e420e6f36e0389d104ff2e.jpg> タイプロ出身の2人 ユニット結成
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 14:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 15:00:58 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
