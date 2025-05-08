@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/366fddcb99f9e8d666bddc727486f7a9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dc2ef17557140d1074117d1009b88960.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d1007136133bb21e2b861d4ca537bef6edec2309>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235439-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【速報】「コンクラーベ」で黒い煙　新たなローマ教皇選出されず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7d78006590669eaec2d688d4da1507a205c97dd1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 容疑者宅で所在確認できず　女性不明直後に2度訪問
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ea730d931738cd1f51116bc157bedccd73fc1797>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000227-kyodonews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=368&cy=0&cw=1465&ch=1465&exp=10800&fmt=webp> インドが無人機攻撃、市民も死亡　パキスタン、衝突激化を懸念
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/8d8634be71deaa24c856d9382947b5ec54dbb15f>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235375-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 投票続く「コンクラーベ」 ローマ教皇決める2回目の投票　決まれば礼拝堂の煙突から「白い煙」が
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5273ff6f8037314a8c567d04a09b6217af9f27c0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-10177355-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=596&ch=596&exp=10800&fmt=webp> パキスタン首相「血の一滴まで復讐する」 インド軍の攻撃受け
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/199ab0d9ea0acd94a2fc0d99fa8067010b48e2d6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 前日飲酒、救急車で事故　出勤時検査受けず、熊本
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cafb475b05ec8921f1ea9086bb47ba144adc45f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> SOSの訴えに「寄り添って」　川崎ストーカーで桶川遺族
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6612dfb0a96b6981f9bd53447600e48a3d544457>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000006-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《凄惨な現場写真》「電車ドア前から階段まで血溜まりが…」「ホームには中華包丁」東大前切り付け事件の“緊迫の現場”を目撃者が証言
+      <a href=https://news.yahoo.co.jp/articles/b105ced9458f677b48184edbd1c8d411633ac1b2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00050155-yom-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=364&ch=364&exp=10800&fmt=webp> 文春報道に石破首相「全く覚えがなく、そのような事実はない」…事務所も「政治資金は適正に処理」
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538125>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/27d516174135f24e5900490ced9e43cd6c4c9bb066d017e3e9fce4c94842cd30.jpg> 野党 首相に政倫審での弁明要求へ
+      <a href=https://news.yahoo.co.jp/pickup/6538134>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/5e965e1de3b601dda90129e15730e6dbbe7c7dd9711d94b7b0c5483272602327.jpg> 9-10日 警報級大雨や暴風の恐れ
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538131>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/fb1c0b5e3bd79c13e9da0f1946fa5486b4f9e249ad57e063eef88f999bdd80ff.jpg> 萌歌 向井理の手紙サプライズに涙
+      <a href=https://news.yahoo.co.jp/pickup/6538135>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/fb1c0b5e3bd79c13e9da0f1946fa5486b4f9e249ad57e063eef88f999bdd80ff.jpg> 上白石萌歌 向井理からの手紙に涙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 18:31:00 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 19:00:45 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
