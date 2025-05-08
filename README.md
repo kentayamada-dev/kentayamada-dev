@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1f8173c54ad5466bc0cb059eb44e9122.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5d43e292036f99ee2c773b94c9307ed1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/834c0d121389ce7c094ef25884c9272406d2d345>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968795-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=487&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「犠牲者が流した血の一滴のために復讐する」パキスタン首相が報復宣言　テロ事件めぐるインドの攻撃うけ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2f7ece897f07da2e3979239124d29618dd444a80>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968548-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 新ローマ教皇選ぶ「コンクラーベ」に映画顔負けのドロドロ戦術…有力候補にフェイクニュース拡散　専門家が注目する日本人候補とは
       </a>
@@ -366,23 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/2fc5f775ebec266461ac43ca37123604e8beff31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000053-jij-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 女性との携帯やりとり消去　容疑者、関与隠蔽図ったか　川崎遺体遺棄・神奈川県警
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f50057831fb79ebbc85eb4da68ce8498afd0892a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968622-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ここ結構ブラックやなと思って…」 GW明けは新人の“超早期離職”急増 退職代行サービス大忙し【福岡発】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b0bfdba4bbddeab21df5155dfe9e726720ba7d42>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000041-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=798&ch=798&exp=10800&fmt=webp> パキスタン「露骨な侵略」、報復辞さず　インドは民間人被害なしと主張
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000053-jij-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 女性との携帯やりとり消去　容疑者、関与隠蔽図ったか　川崎遺体遺棄・神奈川県警
       </a>
     </td>
   </tr>
@@ -395,11 +387,27 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f03d8ffe798aed41f1cf6ac9590550f03846a862>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235239-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 煙突から「黒い煙」　次の教皇決める選挙「コンクラーベ」　1回目投票では選出されず現地8日に再投票予定
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538107>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/2ae19b51f3b9e582c0713449259d064c154f47f9322e896040a3cf68fe2f09b9.jpg> 9-10日 警報級の大雨の恐れ
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538102>
@@ -419,7 +427,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538105>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/43347132d8d5c2c40d8c5075fd8d66a29d838673380398e41d941b83de4afe30.jpg> 小学校に侵入 男2人は母親の友人
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/ce40982f398859aaad61169750a6a1e6c850c8ffc518260ce3ff669229a7008b.jpg> 小学校に侵入 男2人は母親の友人
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538109>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/49a1b46d4b29b87239bf42fffc4806375255bc4b9316ceec5013b3c3d7ac90e6.jpg> 自民・小渕氏 ひめゆり発言に苦言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538094>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/05c455d3a9dd93592beedf791df9664ff601a8ff453e960897f12a2cfd4bffe9.jpg> 村の救急担当が脳梗塞 搬送遅れ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 15:00:58 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 15:30:26 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
