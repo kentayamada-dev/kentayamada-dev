@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/66402728af85e18580fdf6d26b865f7b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0b11f6b38584fb73f47fa484e9572b46.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0878f663885f576a5cd14fe0dd4a12d0527ae0aa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-04657251-nnn-000-1-thumb.jpg?exp=10800&fmt=webp> “児童間トラブル”で面談後、保護者が2人の男に連絡　小学2年生の教室に侵入、教師らに“暴行”
+      <a href=https://news.yahoo.co.jp/articles/ef449469356bf6840129d27ecd2b0680cba1acbc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00024334-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 改革継承か保守への回帰か『コンクラーベ』まもなく開始“教皇選挙”世界が注目の理由
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/92465189b6df94d845a8155e99b904f2517c1f76>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「コンクラーベ」2日目午前の投票で新教皇決まらず　午後にも最大2回の投票予定
+      <a href=https://news.yahoo.co.jp/articles/7e5e267b8409002459a91b8c9265129557a708dd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000339-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 「ラクリマ」12年ぶり再結成を発表　22年に死去「KOJIの魂と共に」　11月“V系”フェスに出演
       </a>
     </td>
   </tr>
@@ -375,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5e5995708d677f949f6b713f70015dc73e99d08e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000092-ann-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> パキスタン軍　インドのドローン攻撃で民間人1人死亡と発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7d78006590669eaec2d688d4da1507a205c97dd1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 容疑者宅で所在確認できず　女性不明直後に2度訪問
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538140>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/b87c7e3f928ec7f69be94dcbc241d99e2f516eae7b9072f3eed08c9c4dfd1036.jpg> 長崎の平和式典 全ての国を招待へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538119>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/f337dc73f3cb87d35440b6d52ff4de4e9466321bf37b393ec10bccf7a852f3ae.jpg> 任天堂 今期は13%の営業増益予想
       </a>
@@ -434,24 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538141>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/3c8a1aea500d365a8631f762541d5b71daf29d416807cd45365c3b3e5371671e.jpg> 人口減少 野菜買えなくなる未来も
+      <a href=https://news.yahoo.co.jp/pickup/6538156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/ec612113fc1b4a9a2d3b90a7abd9bb2d6409afd2a038ef2a4318b1fc29b1a4f3.jpg> 「ラクリマ」12年ぶりに再結成
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538149>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/ebf7f4a7a0e6b1b5f2d85509c8197ea3a63badc318ad26a33d1bcfadecaec520.jpg> カシオペアの寝台運行 6月で終了
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538153>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/c08d8c032502d52f5320a4de2d000f65c7ae8103a41926cb9874094e224d1104.jpg> ≠ME 警備増やしイベ開催と発表
+      <a href=https://news.yahoo.co.jp/pickup/6538154>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/7a261e3bdaece7f834773dbf3aa9d4857f217f68fb0ad3d79b0b44976d4bd17a.jpg> 豊川悦司 めいはK-POPアイドル
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 22:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 23:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
