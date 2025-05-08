@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/709f92fd62d20c436dbd28004cacdda5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dfaa94f651c8e05eab46926d115aa824.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,22 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b73ea1f6c113cf823bdbb9a10d54b8cf7e4fcb16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-21899530-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=471&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 日本人も候補…新教皇は誰に?秘密選挙「コンクラーベ」開始　あの名曲が問題に　有力候補めぐり熾烈な情報戦も【news23】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f50057831fb79ebbc85eb4da68ce8498afd0892a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968622-fnnprimev-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「ここ結構ブラックやなと思って…」 GW明けは新人の“超早期離職”急増 退職代行サービス大忙し【福岡発】
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b0bfdba4bbddeab21df5155dfe9e726720ba7d42>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000041-jij-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=798&ch=798&exp=10800&fmt=webp> パキスタン「露骨な侵略」、報復辞さず　インドは民間人被害なしと主張
       </a>
@@ -365,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e3d09c6cbb1b0384a04d0cf3c1560269e17918af>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-05412246-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「コンクラーベ」初日投票、新教皇決まらず　日本時間午後4時頃から再び投票へ
+      <a href=https://news.yahoo.co.jp/articles/92262e39d7c7c81fe93504ae6c0d3e0eccc2fd79>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-35080545-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=111&cy=0&cw=1159&ch=1159&exp=10800&fmt=webp> 浜川路己×本多大夢「タイプロ」ファイナリストがユニット「ROIROM」結成トレンド１位発進
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/47349039fa3d6537e98fb59059b5b4216148183a>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「対応確認するよう指導」　川崎女性遺棄事件巡り警察庁長官、神奈川県警に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6f4867bedfe86ce3d255cea3822d5749854b0798>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000034-ann-000-4-thumb.jpg?exp=10800&fmt=webp> コメ高騰…17週連続で値上がり　石破総理が対策取りまとめ指示
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/184157975cfe61d8ae0c819d0cbb6985479f1f1d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000013-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=341&cy=0&cw=1367&ch=1367&exp=10800&fmt=webp> ディズニー、中東アブダビに新テーマパーク建設を発表
       </a>
     </td>
   </tr>
@@ -404,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538102>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/e6253b87d28801f5d1f178922ab9302e99036786d78b6bb7d44bd44800ee200b.jpg> コメ価格が最高値更新 首相の焦り
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538104>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a33449a17398961e95091a8ab0975e8a933583bf24db3b438cabb75d2edacbe7.jpg> パキスタン首相 血の一滴まで復讐
       </a>
     </td>
   </tr>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538096>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/2051046cc11261a75e4f45fb4ead9ef782503cdc7df1600853cdbc7e7ba0c691.jpg> 切りつけ 電車内まで追い掛け襲撃
+      <a href=https://news.yahoo.co.jp/pickup/6538099>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/144eb3549e64bf05da6459042a42a5d327c897b9b85750a899d8555f5f38ac6a.jpg> ミニボートが転覆 男性2人死亡
       </a>
     </td>
   </tr>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538093>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/29f872a3425f54e91a09861247da01838dae4a4aa680fa8716196c59223472b4.jpg> 都と法政大3.8億円事業 なぜ中止
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538089>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/cbb1199b77ed270921db6db49e813bb21ed8984d6e204b12adf60a0b74f6579e.jpg> BTSのJINさんにキス疑い 女性出頭
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538091>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/102fb327a6a0a0e9152644354806b9140f83d60b46cecacbebedc6d301410663.jpg> 選手書類送検 巨人がコメント発表
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538097>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/9bc4f0ec1ffa6056f5a0e4396e50192224a7aec947ffc187712d2e9e673ddcc7.jpg> ボクシング死亡事故 激闘への賛否
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 14:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 14:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
