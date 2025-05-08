@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6cf5e8621dcdf5a33aa888f179fc3163.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/07119c40439f45561d5b2a6c40eb04fc.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b08720100e8b25feae45a82977323f7654268f0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235504-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 『レオ14世』ロバート・プレヴォスト枢機卿が新ローマ教皇に　アメリカ出身で初の教皇 「コンクラーベ」4回目の投票で
+      <a href=https://news.yahoo.co.jp/articles/1eb43ef1a820e6bd62bfc5552e5ecadbe1a8257c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00029719-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 9日の関東　夜は広く雨　明日10日は千葉県や神奈川県で警報級の大雨のおそれも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/205226aefdca645644883db34c3e090c31efc7d8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ニュースワード「コンクラーベ」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/33f669d65d33db998dfab30f58bd3ee719c2a312>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000009-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=155&cy=0&cw=644&ch=644&exp=10800&fmt=webp> 「防ぎようがない」　小学校侵入・暴行事件で浮かぶ学校防犯の難しさ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e9cd98d3ba3641a057da44dd57dfc26a5a623bac>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新ローマ教皇にプレボスト枢機卿　レオ14世名乗る　史上初の米国出身・コンクラーベ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538159>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/4459d3c300aeb5b0f9ad8e4c9b7a5b8085535b83f1028270e2a250c868028645.jpg> マイナ保険証 期限切れ事例が増加
+      <a href=https://news.yahoo.co.jp/pickup/6538168>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/83f94c0bd686cefd790650b6124247aef0e9ac2bc05d57a4a241015e6939cd45.jpg> 西から雨広がる 警報級の大雨恐れ
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538156>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/ec612113fc1b4a9a2d3b90a7abd9bb2d6409afd2a038ef2a4318b1fc29b1a4f3.jpg> 「ラクリマ」12年ぶりに再結成
+      <a href=https://news.yahoo.co.jp/pickup/6538169>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/bf5f6a702201db660d06649f0b013e8e5728e54e38dcbd78bbffc7b58324db86.jpg> J1秋春制 26年8月第2週開幕で調整
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 06:30:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 07:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
