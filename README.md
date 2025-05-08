@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6fe33d933657fb541d3101ace72243a2.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/366fddcb99f9e8d666bddc727486f7a9.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d8a2279a7ca1beea7a376aaf3fed2eb0db2b7c17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 川崎市20歳女性死体遺棄事件　逮捕された元交際相手の男は女性とのSNSのやりとりや通話履歴を消去　神奈川県警
+      <a href=https://news.yahoo.co.jp/articles/8d8634be71deaa24c856d9382947b5ec54dbb15f>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235375-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 投票続く「コンクラーベ」 ローマ教皇決める2回目の投票　決まれば礼拝堂の煙突から「白い煙」が
       </a>
     </td>
   </tr>
@@ -373,16 +373,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/18908b54aa1eeefc46029698cc9e59245ca4467c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-21901047-nbcv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【コンクラーベ】結果知らせる白煙、黒煙は誰がどうやって出している?秘密は″2台のストーブ″
+      <a href=https://news.yahoo.co.jp/articles/199ab0d9ea0acd94a2fc0d99fa8067010b48e2d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 前日飲酒、救急車で事故　出勤時検査受けず、熊本
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9358c242461b8f4e2d921d296134e46d4b8b9a5a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-06691499-sdt-000-1-thumb.jpg?exp=10800&fmt=webp> 【コメ最高値更新】高騰続きで生産者「倒産」「休廃業」相次ぎ 片や次期収穫米「概算金」引き上げも…県内農家は(静岡)
+      <a href=https://news.yahoo.co.jp/articles/cafb475b05ec8921f1ea9086bb47ba144adc45f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> SOSの訴えに「寄り添って」　川崎ストーカーで桶川遺族
       </a>
     </td>
   </tr>
@@ -402,16 +402,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538121>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a600c6db03cc3b97f61efc19998f51a011ae8d9aacce94338a080b30038c7865.jpg> トヨタ 今期は純利益34.9%減予測
+      <a href=https://news.yahoo.co.jp/pickup/6538125>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/27d516174135f24e5900490ced9e43cd6c4c9bb066d017e3e9fce4c94842cd30.jpg> 野党 首相に政倫審での弁明要求へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538125>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 野党 首相に政倫審での弁明要求へ
+      <a href=https://news.yahoo.co.jp/pickup/6538116>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/355dcf75148aa6e1ee4ba3d43102a06ba16c6de28a5722070a25cab15d2e8fac.jpg> 親パレスチナデモ隊 米大学で衝突
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538121>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a600c6db03cc3b97f61efc19998f51a011ae8d9aacce94338a080b30038c7865.jpg> トヨタ 今期は純利益34.9%減予測
       </a>
     </td>
   </tr>
@@ -442,24 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538115>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/5b0ac7affb3480a5d6ea7c8dc864be0e98f11797c175753178648ebb2d8a2506.jpg> 斎藤知事 消費者庁の指摘に見解
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538113>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/79dd82390f2f013078a2280e88177d7d489748889fd9e314fd8257a5ecf1a8de.jpg> カルディ運営 生ハム7万個を回収
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538126>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/6b8e3b17d8065b534a7b3c805ea2a9993021623cf23e4440b7459e573ab3660b.jpg> 関東インカレ 100m走で失格者続出
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538131>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/fb1c0b5e3bd79c13e9da0f1946fa5486b4f9e249ad57e063eef88f999bdd80ff.jpg> 萌歌 向井理の手紙サプライズに涙
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 18:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 18:31:00 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
