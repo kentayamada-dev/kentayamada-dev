@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8521bbb41007331824a250a2d063c5ec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/81f57d82630d154a33aef435e521fd34.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e92cfcd66836618c10a9a9b29366e30d414df89>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-10518883-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=683&ch=683&exp=10800&fmt=webp> ドジャース・大谷翔平、先制点演出の三塁打含む4出塁＆2得点　MLBトップ独走の40得点目　好相性のマイアミで今季も躍動
+      <a href=https://news.yahoo.co.jp/articles/03a9d2fb2bf78d7efef05d979991031ed8d881d7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00078980-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=321&cy=0&cw=800&ch=800&exp=10800&fmt=webp> トランプ米大統領、「ペルシャ湾」を「アラビア湾」に呼称変更か　イラン反発
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4b644cff0fd851910e05944c98eed6cf887080c2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968585-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ・ウォルト・ディズニー　 UAEアブダビにテーマパーク開設へ　世界で7番目　中東地域で初
+      <a href=https://news.yahoo.co.jp/articles/f3a4a7c4d5fa03fad2f3dc7a2cca97c1364603b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000038-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=481&cy=0&cw=1238&ch=1238&exp=10800&fmt=webp> ディズニー、ＵＡＥで中東初のテーマパーク開設へ
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538065>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/988328c7a3fe5502d8051de6938ae9a935997d99f46a802eae03cbc8c518b767.jpg> ミニボート転覆 1人死亡1人不明
+      <a href=https://news.yahoo.co.jp/pickup/6538073>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/9ca51434922d8d40e14ae293c44107fa0963c9d8065d8cb1d250d6e0c9425b82.jpg> ドイツで「ロシア産ガス」待望論
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538070>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/6b225a7c2abc03bba36036414f8a1813deb70a3fc72ec22fc477018475bda379.jpg> 大阪で中国から移住増 部活楽しい
+      <a href=https://news.yahoo.co.jp/pickup/6538079>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/7f69b80a35b463ecc55f3612c45ece6ab8905e98693dbca2a85c395b83ae24e9.jpg> 賭博疑い オコエ選手ら書類送検
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538063>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/5fcabe07f1707d71de96327bd040042901dd1078f1db257eb111abd610085772.jpg> 新庄監督 1試合に10投手つぎ込む
+      <a href=https://news.yahoo.co.jp/pickup/6538070>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/6b225a7c2abc03bba36036414f8a1813deb70a3fc72ec22fc477018475bda379.jpg> 大阪で中国から移住増 部活楽しい
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 09:00:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 09:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
