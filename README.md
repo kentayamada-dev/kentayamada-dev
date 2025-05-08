@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0e42c556b58d480d1d0123d88fc651da.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e29f97b9768bd7ffa9e50f9136ec2aef.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef449469356bf6840129d27ecd2b0680cba1acbc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00024334-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 改革継承か保守への回帰か『コンクラーベ』まもなく開始“教皇選挙”世界が注目の理由
+      <a href=https://news.yahoo.co.jp/articles/83217759ffc10eb4251d3489f367a6f044542d65>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000102-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1073&ch=1073&exp=10800&fmt=webp> ラクリマクリスティー、公式サイトで再結成を発表「KOJIの魂と共に」22年死去メンバーへの思いも【全文公開】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7e5e267b8409002459a91b8c9265129557a708dd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000339-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=799&ch=799&exp=10800&fmt=webp> 「ラクリマ」12年ぶり再結成を発表　22年に死去「KOJIの魂と共に」　11月“V系”フェスに出演
+      <a href=https://news.yahoo.co.jp/articles/5bfba7d30d29fc8e6dabe149963e85d1553421ff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000276-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> EU、対米報復計画の拡充発表　米製品15兆円、WTO提訴
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ef449469356bf6840129d27ecd2b0680cba1acbc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00024334-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 改革継承か保守への回帰か『コンクラーベ』まもなく開始“教皇選挙”世界が注目の理由
       </a>
     </td>
   </tr>
@@ -394,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538118>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/6a53e3d1f86d172eb287d66821a7ee3aea40642dc2aac2092c6793ec262aa4f1.jpg> 印パ係争地「火薬庫」カシミール
+      <a href=https://news.yahoo.co.jp/pickup/6538129>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/0b8e72deefc707aebe0a6a085ddd54921cd34f7947f4ab53c3a92c7fc378b466.jpg> コメ価格今後どうなる 識者予測
       </a>
     </td>
   </tr>
@@ -418,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538119>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/f337dc73f3cb87d35440b6d52ff4de4e9466321bf37b393ec10bccf7a852f3ae.jpg> 任天堂 今期は13%の営業増益予想
+      <a href=https://news.yahoo.co.jp/pickup/6538158>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/750994736819dfb463b3fab230579c95b80c707199bd992b89b09f989cb95745.jpg> スマホ通信料 値下げ時代は終了か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538139>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/25ab7ea8d76b83b362b78e7f5a73579f2b78478811f5de4fa2609ebfbd68f73d.jpg> 6720万円で購入の贋作 無料公開へ
       </a>
     </td>
   </tr>
@@ -428,14 +444,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538157>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/810d8ccc4985eadcd8b3fd28079a463d3ee9c8339710c11260f584d343dd3e03.jpg> 前田健太の今後 米では厳しい評価
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538156>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/ec612113fc1b4a9a2d3b90a7abd9bb2d6409afd2a038ef2a4318b1fc29b1a4f3.jpg> 「ラクリマ」12年ぶりに再結成
       </a>
     </td>
   </tr>
@@ -452,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 23:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 23:52:35 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
