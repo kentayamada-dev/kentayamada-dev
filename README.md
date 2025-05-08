@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e017e65d79bfd077e647f1fb62cb8e75.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/47a0199a0a18d9423a7b7dd2edcd2167.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7547c18d94968cc17ceb31a8b37dcf771b371903>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235214-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ディズニーが中東に初のテーマパーク開業へ　UAE・アブダビ　世界で7番目「現代建築と最先端テクノロジーの融合」
+      <a href=https://news.yahoo.co.jp/articles/37a9e92025def34ed9b1182e592ca81f77022eb9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000019-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=207&cy=0&cw=806&ch=806&exp=10800&fmt=webp> ミニボート転覆で1人死亡、1人心肺停止　山口・長門市沖
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fbf6935ec06f8c7f70fac7a4e77ebdbfb04e5729>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 山口でボート転覆、1人死亡　1人心肺停止、釣りか
+      <a href=https://news.yahoo.co.jp/articles/7547c18d94968cc17ceb31a8b37dcf771b371903>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235214-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ディズニーが中東に初のテーマパーク開業へ　UAE・アブダビ　世界で7番目「現代建築と最先端テクノロジーの融合」
       </a>
     </td>
   </tr>
@@ -394,8 +394,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/3bd33dd924646453172e78fe3e4d0bff6865e75f7685751a15be1298c68217c6.jpg> 露宣言の一時停戦開始 ウは応じず
+      <a href=https://news.yahoo.co.jp/pickup/6538077>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 不妊治療 90自治体の7割が助成
       </a>
     </td>
   </tr>
@@ -410,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538069>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/8add6cab896e4731d651117e37ca87806712c3330391a737406cd6b3121c48cb.jpg> 知日派のジョセフ・ナイ氏死去
+      <a href=https://news.yahoo.co.jp/pickup/6538082>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/d51726b0209db47af972cfc9bb9265d711f48de3f28901d41d4c909758f8d9a5.jpg> NTTデータを完全子会社化へ NTT
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538082>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/d51726b0209db47af972cfc9bb9265d711f48de3f28901d41d4c909758f8d9a5.jpg> NTTデータを完全子会社化へ NTT
+      <a href=https://news.yahoo.co.jp/pickup/6538087>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/0ce4c47bdf816bc23457c32e4138079b32c07557bdf8b510d15e4d44ed191b17.jpg> ボート転覆 1人死亡1人心肺停止
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 10:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 11:00:20 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
