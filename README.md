@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f2e5f4363e990258f19a85ef535294f4.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/af69519be53a1d43959add07bd8ce798.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/192b81ae676d091ad1bde2e47d285ed9e27754b7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000045-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=203&cy=0&cw=426&ch=426&exp=10800&fmt=webp> 「神奈川県警に対応調査を指導」　川崎の死体遺棄事件で警察庁長官
+      <a href=https://news.yahoo.co.jp/articles/473ebb07c22533cd6f15250ea38f5b688753af28>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010008-getsuriku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【陸上】100m栁田大輝 予選は力温存で10秒22w 準決勝、決勝で「風も良いので記録狙いたい」／関東IC
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e29a8049df4fb415c9e5336f57dae9c456954a31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-08545859-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> ローマ教皇選挙コンクラーベ　まもなく2回目の投票始まる　現在の様子は？
+      <a href=https://news.yahoo.co.jp/articles/18908b54aa1eeefc46029698cc9e59245ca4467c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-21901047-nbcv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 【コンクラーベ】結果知らせる白煙、黒煙は誰がどうやって出している?秘密は″2台のストーブ″
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0ce4cdf9bf36f14929101f107f3df164a05fe502>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-90040265-tokaiv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=750&ch=750&exp=10800&fmt=webp> トヨタの2026年3月期「約1兆円の減益」の見通し “トランプ関税”の影響長期化でさらに下押しの恐れも
+      <a href=https://news.yahoo.co.jp/articles/2fc5f775ebec266461ac43ca37123604e8beff31>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000053-jij-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 女性との携帯やりとり消去　容疑者、関与隠蔽図ったか　川崎遺体遺棄・神奈川県警
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538105>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/ce40982f398859aaad61169750a6a1e6c850c8ffc518260ce3ff669229a7008b.jpg> 小学校に侵入 男2人は母親の友人
+      <a href=https://news.yahoo.co.jp/pickup/6538123>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/6b1d02dda63b67c70916c8284a443118e805ded39728219dbd6720fa33e6c54d.jpg> 小学校侵入 緊迫した様子明らかに
       </a>
     </td>
   </tr>
@@ -436,6 +436,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538117>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a0a063de7910ccc01a6f87866683673a39cd24fd19d222bcd63bfa0140a93e52.jpg> 体育の持久走で倒れる 中1が死亡
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538115>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/5b0ac7affb3480a5d6ea7c8dc864be0e98f11797c175753178648ebb2d8a2506.jpg> 斎藤知事 消費者庁の指摘に見解
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538097>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/9bc4f0ec1ffa6056f5a0e4396e50192224a7aec947ffc187712d2e9e673ddcc7.jpg> ボクシング死亡事故 激闘への賛否
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 17:00:49 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 17:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
