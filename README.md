@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/01b969eecde89badcc82c26e9b63526d.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/198723ebf4cb5cb9717ccbfb11835e07.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d5e10e12fbc1bcd13b7abe8e120abfcb270e84cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00969177-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=604&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 初のアメリカ人教皇にトランプ大統領「これ以上ない栄誉」　近く会談する意向も
+      <a href=https://news.yahoo.co.jp/articles/cd02560778cfe8f65b50427d127c6df1b988c968>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000012-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 意外な新教皇に「誰?」と驚く声も　レオ14世、最初の言葉とは
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/a3f02654382df326d5e91d1b0f3601e8cda8193e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000081-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=715&ch=715&exp=10800&fmt=webp> フィフィ　小学校での教職員暴行に「暴力…良く無いが、学校はいじめの相談に対してどのような対応を」
       </a>
     </td>
   </tr>
@@ -366,23 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d393237d3d393dd2b6d039dea2d6f968e8c95f5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-10177413-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=561&ch=561&exp=10800&fmt=webp> パキスタン軍 インドのドローンからの攻撃により民間人1人死亡と発表
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-10177413-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=561&ch=561&exp=10800&fmt=webp> パキスタン軍 インドのドローンからの攻撃により民間人1人死亡と発表
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cf4f46b5df040e9283caadd909b2c69f21d0fcc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-05091016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 「教室に侵入した男らは子どもたちの目の前で襲いかかりました」…東京・立川「小学校襲撃」事件…「ＴＨＥ　ＴＩＭＥ，」江藤愛アナが伝える
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e88ff51ab20cedfd5687932c8e41818153c5f2a3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 新ローマ教皇「レオ14世」にプレヴォスト枢機卿　歴代初の米国出身
+      <a href=https://news.yahoo.co.jp/articles/f89174408b36139150b0cea53aa58bd3979a581d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> ローマ教皇フランシスコの後継者は誰？　コンクラーベを機に名前の挙がる15人の有力候補
       </a>
     </td>
   </tr>
@@ -434,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538173>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/eab4c20f24b56495e30001ad86e5d4fdfd74413c089564d7a256a88b5c00233e.jpg> 社長が従業員を暴行 防カメに映像
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538166>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/9baaebc42865df151b843a768b27bf55cc3e7cc23f4f7014ebcce2838048f3b5.jpg> ゲイツ氏 2045年までに30兆円寄付
       </a>
@@ -442,16 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538169>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/bf5f6a702201db660d06649f0b013e8e5728e54e38dcbd78bbffc7b58324db86.jpg> J1秋春制 26年8月第2週開幕で調整
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538154>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/7a261e3bdaece7f834773dbf3aa9d4857f217f68fb0ad3d79b0b44976d4bd17a.jpg> 豊川悦司 めいはK-POPアイドル
+      <a href=https://news.yahoo.co.jp/pickup/6538172>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/24ac584633675ec02a5ce7ab870858042ad7cfc961243beb4ef3ed504315e86c.jpg> 松坂桃李 パディントンは「親友」
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 07:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 08:00:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
