@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e29f97b9768bd7ffa9e50f9136ec2aef.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5a64ba2e1a7bdac5f9a39e9dec32bb90.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538151>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/262718a53221ae46e3a3423bceae44489a7c6a7d6796032b09b23d4c23afb6e0.jpg> 米の関税交渉 初の合意国は英国
+      <a href=https://news.yahoo.co.jp/pickup/6538160>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/6c6f81cb76eba85c633c648e86ff0fc01cca8029c2752e6ee2fae940967ea286.jpg> EU 米に15兆円規模の報復関税案
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538129>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/0b8e72deefc707aebe0a6a085ddd54921cd34f7947f4ab53c3a92c7fc378b466.jpg> コメ価格今後どうなる 識者予測
+      <a href=https://news.yahoo.co.jp/pickup/6538159>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/4459d3c300aeb5b0f9ad8e4c9b7a5b8085535b83f1028270e2a250c868028645.jpg> マイナ保険証 期限切れ事例が増加
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538157>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/810d8ccc4985eadcd8b3fd28079a463d3ee9c8339710c11260f584d343dd3e03.jpg> 前田健太の今後 米では厳しい評価
+      <a href=https://news.yahoo.co.jp/pickup/6538156>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/ec612113fc1b4a9a2d3b90a7abd9bb2d6409afd2a038ef2a4318b1fc29b1a4f3.jpg> 「ラクリマ」12年ぶりに再結成
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 23:52:35 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 00:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
