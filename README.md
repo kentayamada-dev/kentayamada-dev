@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c41d9ad74ff30fc98833b1ca6ae13201.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/90890490dc041e91e797ee91869d17f8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/123ed184174223f1ccdbd15547f2118f3c7ad956>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000023-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=667&ch=667&exp=10800&fmt=webp> 巨人・オコエ、増田大がオンカジ賭博で書類送検　自主的に申告　起訴を求める意見は付けず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/7941c8a90a306c7acb48fe6e94e32d14ecddaf48>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235503-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=409&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トランプ大統領　初の米国出身ローマ教皇を歓迎「我が国にとって、この上ない名誉」
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6415f2a3fb9b9b2a44cb94e3046407be7ed13fa4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000004-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=126&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 新ローマ教皇はレオ14世　米国出身で初　トランプ氏も祝意「名誉」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a57043eb6f1e9e0afaa35f55eb574b3e07ffd577>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-90024417-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=402&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 「怖かった」児童が見た恐怖の瞬間　児童の母親の知人が小学校で暴れ５人けが
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 05:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 06:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
