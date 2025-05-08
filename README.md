@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5d43e292036f99ee2c773b94c9307ed1.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/50fcaa1021278a7b7f4da0b65a6fbbb3.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -355,6 +355,22 @@
 <h3 id=Flash>速報・Flash</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/281b7b36cda1e3009f244c710e16559e850cf22a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 枢機卿、SNSで積極発信　密室のコンクラーベ前に
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/bb9aacc7eaa6565ae0bf3d7905e2a4a448ada51e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-21900878-cbcv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> 【速報】カルディの生ハムから“サルモネラ属菌” 全店で販売した商品を自主回収「オリジナル 生ハム切り落とし」対象商品は?
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/834c0d121389ce7c094ef25884c9272406d2d345>
@@ -373,24 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fc5f775ebec266461ac43ca37123604e8beff31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000053-jij-000-11-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 女性との携帯やりとり消去　容疑者、関与隠蔽図ったか　川崎遺体遺棄・神奈川県警
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bbc9b00581cfbebe55ff6f6f0113a640007bd33b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00029711-tenki-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日9日は西日本で警報級の大雨・暴風　10日は関東も大雨警戒　8日のうちに備えを
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f03d8ffe798aed41f1cf6ac9590550f03846a862>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-07235239-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 煙突から「黒い煙」　次の教皇決める選挙「コンクラーベ」　1回目投票では選出されず現地8日に再投票予定
+      <a href=https://news.yahoo.co.jp/articles/47349039fa3d6537e98fb59059b5b4216148183a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「対応確認するよう指導」　川崎女性遺棄事件巡り警察庁長官、神奈川県警に
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538108>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/38160b4f4ac9638bc92a5d9488c66f0746b8e234e1e420e6f36e0389d104ff2e.jpg> タイプロ出身の2人 ユニット結成
+      <a href=https://news.yahoo.co.jp/pickup/6538114>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/69b36f089debf95b2e80d7ffa03c3afa5b09e4c1a2dd96f8d0c93ba65c9b3672.jpg> chelmico鈴木真海子 一時活動休止
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 15:30:26 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 16:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
