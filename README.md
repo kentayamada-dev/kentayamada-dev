@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/af69519be53a1d43959add07bd8ce798.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6fe33d933657fb541d3101ace72243a2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/473ebb07c22533cd6f15250ea38f5b688753af28>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010008-getsuriku-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【陸上】100m栁田大輝 予選は力温存で10秒22w 準決勝、決勝で「風も良いので記録狙いたい」／関東IC
+      <a href=https://news.yahoo.co.jp/articles/d8a2279a7ca1beea7a376aaf3fed2eb0db2b7c17>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 川崎市20歳女性死体遺棄事件　逮捕された元交際相手の男は女性とのSNSのやりとりや通話履歴を消去　神奈川県警
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5273ff6f8037314a8c567d04a09b6217af9f27c0>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-10177355-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=234&cy=0&cw=596&ch=596&exp=10800&fmt=webp> パキスタン首相「血の一滴まで復讐する」 インド軍の攻撃受け
       </a>
     </td>
   </tr>
@@ -373,8 +381,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/965ce8d9446ca11f995bbfffedde1f513eec8de0>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000028-jij_afp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=342&cy=0&cw=1365&ch=1365&exp=10800&fmt=webp> カシミールで衝突激化 7日以降に民間人13人死亡 インド
+      <a href=https://news.yahoo.co.jp/articles/9358c242461b8f4e2d921d296134e46d4b8b9a5a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-06691499-sdt-000-1-thumb.jpg?exp=10800&fmt=webp> 【コメ最高値更新】高騰続きで生産者「倒産」「休廃業」相次ぎ 片や次期収穫米「概算金」引き上げも…県内農家は(静岡)
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/6612dfb0a96b6981f9bd53447600e48a3d544457>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000006-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《凄惨な現場写真》「電車ドア前から階段まで血溜まりが…」「ホームには中華包丁」東大前切り付け事件の“緊迫の現場”を目撃者が証言
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2fc5f775ebec266461ac43ca37123604e8beff31>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000053-jij-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=221&cy=0&cw=849&ch=849&exp=10800&fmt=webp> 女性との携帯やりとり消去　容疑者、関与隠蔽図ったか　川崎遺体遺棄・神奈川県警
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538111>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/121ef9fce6a7ecf9974c8eb108948f662eedc6ab7b92691448b30aa67a26067f.jpg> 五輪談合 2審も博報堂に罰金2億円
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538112>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/365a5e8e6b2b9ec99f79958ad4cc761da46e47a9b62a843703557d8950e37a4d.jpg> 川崎遺体 警察庁「重く受け止め」
+      <a href=https://news.yahoo.co.jp/pickup/6538125>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 野党 首相に政倫審での弁明要求へ
       </a>
     </td>
   </tr>
@@ -442,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538115>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/5b0ac7affb3480a5d6ea7c8dc864be0e98f11797c175753178648ebb2d8a2506.jpg> 斎藤知事 消費者庁の指摘に見解
+      <a href=https://news.yahoo.co.jp/pickup/6538122>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/0294af132283985f996e250760e0ab380bdff4459983b31d5dd2bf7758db39d0.jpg> 都内高級ホテル15社に警告 公取委
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538110>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/a46875d4da6cb3eac9684d51bc07ee05e4b4ea023db3976963a52d69c2cae5db.jpg> 安野貴博氏が新党設立 参院選向け
+      <a href=https://news.yahoo.co.jp/pickup/6538115>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/5b0ac7affb3480a5d6ea7c8dc864be0e98f11797c175753178648ebb2d8a2506.jpg> 斎藤知事 消費者庁の指摘に見解
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538126>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/6b8e3b17d8065b534a7b3c805ea2a9993021623cf23e4440b7459e573ab3660b.jpg> 関東インカレ 100m走で失格者続出
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 17:30:14 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 18:00:48 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
