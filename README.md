@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5a64ba2e1a7bdac5f9a39e9dec32bb90.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/b7b5f0985245384f49fc766f98632ea0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/86b001a1c28977a0395df76c05bd7ef1b3c961ab>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00969148-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 教皇選挙「コンクラーベ」 3回目も選出なく煙突からは「黒い煙」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/83217759ffc10eb4251d3489f367a6f044542d65>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000102-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1073&ch=1073&exp=10800&fmt=webp> ラクリマクリスティー、公式サイトで再結成を発表「KOJIの魂と共に」22年死去メンバーへの思いも【全文公開】
       </a>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5bfba7d30d29fc8e6dabe149963e85d1553421ff>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000276-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800&fmt=webp> EU、対米報復計画の拡充発表　米製品15兆円、WTO提訴
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef449469356bf6840129d27ecd2b0680cba1acbc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00024334-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=325&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 改革継承か保守への回帰か『コンクラーベ』まもなく開始“教皇選挙”世界が注目の理由
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 00:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 01:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
