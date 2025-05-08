@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/440afec289e4ab94f266327d2857ec54.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8521bbb41007331824a250a2d063c5ec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce4bed2871e583df58bdfaab031326e5282b6ff8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-10518891-baseballk-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=683&ch=683&exp=10800&fmt=webp> ドジャース、大勝で4カード連続勝ち越し　フリーマンが3安打＆4打点の大活躍　金慧成は3試合連続安打のタイムリー
+      <a href=https://news.yahoo.co.jp/articles/9e92cfcd66836618c10a9a9b29366e30d414df89>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-10518883-baseballk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=683&ch=683&exp=10800&fmt=webp> ドジャース・大谷翔平、先制点演出の三塁打含む4出塁＆2得点　MLBトップ独走の40得点目　好相性のマイアミで今季も躍動
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8abb99e637a0b213bb4628ec02a183b6b3d4191d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00010001-ronspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=541&ch=541&exp=10800&fmt=webp> 「大きな戦力ダウンだが新たなジャイアンツが見えてくるかも」巨人の岡本和真が離脱する暗いムードを変えて阪神を撃破した坂本勇人の“風格”とOB松井秀喜氏の“檄”
+      <a href=https://news.yahoo.co.jp/articles/4b644cff0fd851910e05944c98eed6cf887080c2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00968585-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> アメリカ・ウォルト・ディズニー　 UAEアブダビにテーマパーク開設へ　世界で7番目　中東地域で初
       </a>
     </td>
   </tr>
@@ -387,7 +387,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538076>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/33996ee765c79db9e63671c19a3078efc9d243382c79d23019116a58448ad9aa.jpg> 北朝鮮が弾道ミサイル発射 韓国軍
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/562a711028b8d501afa6bd82d4206563dae14bf40155d4d2e3fe5f026c68f5cf.jpg> 北朝鮮が弾道ミサイル発射 韓国軍
       </a>
     </td>
   </tr>
@@ -395,23 +395,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538075>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/e6e73e0db80cf8cf3f354d50a1bf9c92da607a447715a32e2666948fbd847add.jpg> 露宣言の一時停戦開始 ウは応じず
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538060>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/859d67982ae95b57aa409f93b6d9418982f6020f4fc2384eb5bdabedcf6b1fae.jpg> 米FRB 3会合連続で金利据え置き
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538067>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トランプ氏 5月8日を戦勝記念日に
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/3bd33dd924646453172e78fe3e4d0bff6865e75f7685751a15be1298c68217c6.jpg> 露宣言の一時停戦開始 ウは応じず
       </a>
     </td>
   </tr>
@@ -420,6 +404,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538065>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/988328c7a3fe5502d8051de6938ae9a935997d99f46a802eae03cbc8c518b767.jpg> ミニボート転覆 1人死亡1人不明
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538067>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/388ab13117316db9c3eee6c3e5fe107899c264e80293817a136738db84a90897.jpg> トランプ氏 5月8日を戦勝記念日に
       </a>
     </td>
   </tr>
@@ -448,11 +440,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538072>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/8/fec64a88e20575c230bc25b954046d9d09ad0ed04f5fce811e71061fa21c8535.jpg> 大谷に申告敬遠 敵地はブーイング
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/08 08:31:04 (JST)<br />
+  🗓️ Last Updated: 2025/05/08 09:00:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
