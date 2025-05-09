@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/447de4018b59fce1bdaa865f61eecc41.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/edc6582b7dce39efff36bd747926e169.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/f5610d9b0753f89fb9ab1c2215e695a29f7ea7e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00050045-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 新教皇レオ１４世に「パパ！」の声響く、バチカンの祝福ムード最高潮に…「戦争がなくなるよう手助けを」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d390f304a7cd3b8dbe4d31b891443aac6e509028>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000022-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 印パの軍事的応酬続く　米国務長官が電話協議「情勢を注視」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/378097540a5e89088f2e58a78cc65b84ad0cec9e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-05091029-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=763&ch=763&exp=10800&fmt=webp> 「当事者の子どもたちによくないことも起きる」…東京・立川「小学校襲撃事件」報道で「サン！シャイン」谷原章介が葛藤「悩ましい思い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a622b25485e42c226ca8cc22da408791b1c83437>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00343896-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＭＬＢ】解任第１号はパイレーツのシェルトン監督　わずか３８試合で
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fe0e874e6483e50bfcf484dee322b0b6d85758de>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-05091025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「厳しい対応をしてほしい」…東京・立川「小学校襲撃事件」容疑者２人へ「サン！シャイン」カズレーザーが断「ちゃんと罪に問うべき」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/82922daaf42ad37dd5c8e04c8402e27b4a5bad0d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「対話をもって、出会いを通じて互いに橋を架けましょう」　新教皇にレオ14世、初の米国人
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d393237d3d393dd2b6d039dea2d6f968e8c95f5b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-10177413-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=561&ch=561&exp=10800&fmt=webp> パキスタン軍 インドのドローンからの攻撃により民間人1人死亡と発表
       </a>
     </td>
   </tr>
@@ -394,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e515743f5505dfe284b222499e73809c928a6ee0fd5a125bbb760b8c79166fba.jpg> 空襲被害の救済法 各党で手続きへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538176>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/bc84ef0a39308228463320916502100a6026e6ef71ab7d39ca34be7f93c4cb0b.jpg> 政府 備蓄米の入札条件を緩和へ
       </a>
@@ -402,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/d4152f0aa48843002aecfaebbbdc5dac705da1c3d884cf0312231dae3229d87a.jpg> 防ぎようがない 学校防犯の難しさ
+      <a href=https://news.yahoo.co.jp/pickup/6538184>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/9c9a1030b20e433b0d2ee82511b594ac2279454b9391920f2dda6e1073f1dd62.jpg> 汚職事件 名古屋市役所を家宅捜索
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538171>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/2edb1ae2b2758d95ac4d14802c8db7e89d70aad3061c7bd3323d2254838c608a.jpg> 米国出身 教皇名は「レオ14世」
+      <a href=https://news.yahoo.co.jp/pickup/6538183>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/65942fd407c2d99b45e16f272160dea33dac128ebea416c7e4b192e4cd98df7c.jpg> トランプ氏 FRB議長を「愚か者」
       </a>
     </td>
   </tr>
@@ -428,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538178>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/101f25bfd759b3b44f06700ab002f83f717ccff0a8e6906d2d1401588be75ab3.jpg> バイク男性と歩行者衝突 両者死亡
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/2b041a2bcbcbba8e25d229a60404a230c01be8b6e375b0018584ab598389bfac.jpg> ダムで水面に滑落 作業員死亡
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 10:00:56 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 10:30:16 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
