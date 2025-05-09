@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/90481ce9c44365be27af855f2a292392.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8bb2a21723904ea1794eb0efd232f931.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b6b738826ec86c20991613cd7980196ad13810f9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235629-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破総理「消費税の減税しない」方針固める　野党からは「物価高に無策だ」と批判　夏の参院選で公約に減税掲げる公明党と歩調合うか
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/75eb38e9a0df5f68f551abbfdd778b8d037b82ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000068-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 大谷翔平、今季は「ミスター・メイ」？リーグ2位でキング射程の11号　「あと一人」活気づくファン沈黙の超弾丸ライナーに実況は「ロケット」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000068-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 大谷翔平、今季は「ミスター・メイ」？リーグ2位でキング射程の11号　「あと一人」活気づくファン沈黙の超弾丸ライナーに実況は「ロケット」
       </a>
     </td>
   </tr>
@@ -367,14 +375,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/963223033b93fdf71b6a40d81e60b370e563a557>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000065-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=391&ch=391&exp=10800&fmt=webp> 事件前に飲酒し、酒瓶を持って学校侵入か　逮捕の男2人　東京・立川
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b0e3370aae201af00bec903e135c755bedfbd81>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000062-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=390&ch=390&exp=10800&fmt=webp> パナソニック、従業員1万人を削減する方針　国内と海外で半々
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538223>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/3e680bfec119959c55fdfd488c19c689e11fe0782d7d4587bf113e35f0ee3342.jpg> 新教皇レオ14世 どんな考えを持つ
+      <a href=https://news.yahoo.co.jp/pickup/6538229>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/5a2051b51fb65c13908adc400c5473028eb769e9560f6c3678d5e633ca44fb99.jpg> 森友文書の一部欠落 財務省が回答
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538220>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/cbcf60dd9df06c807e7d3e3539f11bbbe39c9cb6ddeba7c0f6a865159244a357.jpg> 駐車場予約制に 動物園の来園激減
+      <a href=https://news.yahoo.co.jp/pickup/6538240>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/b177d3b682951225840475820e737ab2ea601d88c77a6338b5a4d9f056108b94.jpg> 留学中性被害で山梨学院大を提訴
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538226>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/5e1118176497434a012a444971270ac1a31f645436b4c216824afbfe1443d5e5.jpg> インカレで100m9秒95 追い風参考
+      <a href=https://news.yahoo.co.jp/pickup/6538220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/cbcf60dd9df06c807e7d3e3539f11bbbe39c9cb6ddeba7c0f6a865159244a357.jpg> 駐車場予約制に 動物園の来園激減
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 17:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 18:00:46 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
