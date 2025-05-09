@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d2d7872286cd9bc8256e3b2e9d630c05.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/1fc7d7f07f9e696e433636f139b53394.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab6577ff130ed9797cd55c4325998ec47276c213>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 侵入に教員不安「いつ起きても」　危機管理体制検証を、東京・立川
+      <a href=https://news.yahoo.co.jp/articles/078065084f979ba9fc8a510d34086633f9420610>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-90024471-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 保護者と学校、相談急増　去年から1.5倍に　“不審者対策”でカメラ60台の学校も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6ad0f74dce9169c0098745c881602d86ce66a0d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010058-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 『教皇選挙』と現実のコンクラーベを比較検証　新教皇・レオ14世は“ベリーニ枢機卿”に近い？
+      <a href=https://news.yahoo.co.jp/articles/13ea4c02efb191692e67e06da105782a802edbd6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-04561928-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=20&cw=582&ch=582&exp=10800&fmt=webp> 元アイドリング!!!大川藍、離婚＆再婚を報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ff76533b47d7fe65577f421b024918d004f0f432>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000005-courrier-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=901&ch=901&exp=10800&fmt=webp> いま知っておくべき過去の「レオ」教皇──「レオ13世」、「レオ1世」はどんな人だったのか仏誌が解説
       </a>
     </td>
   </tr>
@@ -379,14 +387,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9c45cbc3a427752ec9269ca324c76322e6337e30>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 愛知の住宅に血を流した高齢男女、事件か
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538247>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/96d190863f6d7d51cd165abac6f6092bc49bd27aa5753fb47c694090c71f9e8e.jpg> プーチン氏演説 停戦案に言及せず
+      <a href=https://news.yahoo.co.jp/pickup/6538242>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/bdd5e524788e7c263041a2efc91ea1027287ca9668d22e2935357f3e0481e3c1.jpg> 消費減税しない首相方針 野党批判
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538230>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/7cf1e76292d475b4bd75355d621dabced3e24ef91115d29db99707261dbebb4f.jpg> 日大パワハラ訴訟 元副学長が敗訴
+      <a href=https://news.yahoo.co.jp/pickup/6538260>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/39d99ffcd639f93894e0a025ef50a3b1d3c79340d24b85d88c4c2813900a6cfd.jpg> 小学校で266人が息絶えた 80年前
       </a>
     </td>
   </tr>
@@ -418,24 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538244>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/dc27607bbb4512667f0e3a067b5ea38357f3ad74e245bebabf32a24afd32cf74.jpg> 暴力ふるう社長 会社の異様な実態
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538250>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/2e2c93446e621394195d5f911685e888eeed93a859e4d33422bcd95246bde3bd.jpg> 診察装いわいせつ 医師に実刑判決
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538253>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/1dac55124a69f6298c5ca0eed3cbd8e659c6d0d63cdd6df8e3a7b5279ffede77.jpg> 73円のレタスも 野菜が異例の安さ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538255>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/150cb10457974696e8917b2dd8200b38f69226d88110579e6a5331f280793bd6.jpg> あずきバー増産へ アイス工場新設
       </a>
     </td>
   </tr>
@@ -450,8 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538249>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/6b412fce81df6eabd0451c36a7372d5d008d9effb5734c90bf7c7b019323ea8c.jpg> 大相撲 懸賞袋の中身3万円→1万円
+      <a href=https://news.yahoo.co.jp/pickup/6538259>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/9ed5364860d59c09099de250a19f74e50f6fd37502e1599aba218efed1194d12.jpg> 大川藍、離婚と再婚を報告
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/5181237be3c5888fecd4bf69451e2abf80f874cf18fe59dce846259a567bc8d7.jpg> 宮迫博之 ドジャース戦で始球式
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 20:00:31 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 20:30:17 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
