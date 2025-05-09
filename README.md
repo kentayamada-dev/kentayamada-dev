@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/225f894548513aa908d831f117c0e871.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ac5730e503befa8e93e9beb657aba375.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/faab10ce156e964a28d9f31daea135bfa9e60bff>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000055-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=161&cw=1668&ch=1668&exp=10800&fmt=webp> 「スカッとする一撃」大谷翔平が９回２死から衝撃弾　ＮＨＫ実況も叫ぶ「弾丸ライナーで飛び込みました！」
+      <a href=https://news.yahoo.co.jp/articles/c903589760cd8ddc6bb34b0356540166417f6f43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35090528-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=653&ch=653&exp=10800&fmt=webp> 八代英輝弁護士、逮捕の男２人を呼んだ母親の「共謀」の可能性言及　東京・立川の小学校暴行事件
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2cf9fa8994750635eb3050b40ca475c42814178e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010030-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=833&ch=833&exp=10800&fmt=webp> SUPER EIGHT 横山裕、1年間限定のソロプロジェクト『ROCK TO YOU』始動　アルバムリリースやツアーも
+      <a href=https://news.yahoo.co.jp/articles/32eabc8df5c075cdf4006c5412049c6f4bf4946c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “未公開情報を父親に…”東証元社員と父親に執行猶予つき有罪判決
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/257e42ec670230e3ed176e1a4b615b5490579877>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235543-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 送検の男2人は犯行場所の教室に直行か　40代男からは酒の臭いも　東京・立川市立小学校での傷害事件　警視庁
+      <a href=https://news.yahoo.co.jp/articles/39d264a5be84d942d2fc51ba52cd07999e02ec9d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010012-baseballc-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「負けたがいいだろう！」大谷翔平、2試合ぶりの第11号ホームラン！　米メディアも衝撃の弾丸アーチに
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/85b5a1248f10fc0738b209d9fe943551873806b1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00876472-toyo-000-1-view.jpg?pri=l&w=192&h=107&exp=10800&fmt=webp> 事実は映画よりも奇なり？　多くの日本人が知らない「新ローマ教皇」レオ14世(69)に託された先代からの”遺産“と”宿題”
       </a>
     </td>
   </tr>
@@ -383,14 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/bd5751b41bc8c4b9c81a4015cdde68337c2ddad1>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35232748-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【分析】戦勝記念日迎えるロシア、モスクワ上空にはドローンの脅威
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c07daa2a49935cafe0e43fce624cf9dbf2286c94>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 新ローマ教皇にプレボスト枢機卿、初の米国出身　「レオ14世」
       </a>
     </td>
   </tr>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538185>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/90a6dbca2db191e8a39492eff104aed5a92a8baaf3fb4065bdcf7adf262f522a.jpg> 大阪万博 SNS投稿のポジネガ分析
+      <a href=https://news.yahoo.co.jp/pickup/6538199>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e92615431baf2b97872ae74a20af06806969bd6faa72514b03a71ee528230bc8.jpg> 賭博疑いオコエ選手 21年頃始めた
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538199>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e92615431baf2b97872ae74a20af06806969bd6faa72514b03a71ee528230bc8.jpg> 賭博疑いオコエ選手 21年頃始めた
+      <a href=https://news.yahoo.co.jp/pickup/6538202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/73182ec7ddc39e7a6d8d263f61c6cc48d5b738df1e47365cf0a9f061a9d0b56b.jpg> 大谷が9回に意地のHR 量産モード
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/73182ec7ddc39e7a6d8d263f61c6cc48d5b738df1e47365cf0a9f061a9d0b56b.jpg> 大谷が9回に意地のHR 量産モード
+      <a href=https://news.yahoo.co.jp/pickup/6538200>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/54ada59595c492d2656c89020114c47ffeeee69d5a40af8a9f57b98909e5b989.jpg> 横山裕 1年間限定のソロPJを始動
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 13:30:36 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 14:00:29 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
