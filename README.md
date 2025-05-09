@@ -90,7 +90,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/cb0677c68226c020c86740c1c8ccc82c.png alt="函館駅・Hakodate Station" />
+        <img src=https://i.gyazo.com/7c22d67d43da9ee3b21a44c8c7959f4a.png alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -165,12 +165,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/2980f8345c123832a73cd97f7cf95e8b.png alt="お台場・Odaiba" />
+        <img src=https://i.gyazo.com/7e5e6c614542f74cf3fee25e546d526e.png alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/72a6067d3fb17f20f0172ce9b104c780.png alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=https://i.gyazo.com/d003500c71f8a7ca95d37c7fe35fc1c4.png alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -245,7 +245,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/5b75aae20e06eca57e9d631515fa8388.png alt="大阪市・Osaka City" />
+        <img src=https://i.gyazo.com/477ec17f0701b7b8e95d6b2239e2cf01.png alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -325,12 +325,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/f3c115f332e0b8fd64fd8eee18d898e1.png alt="那覇市・Naha City" />
+        <img src=https://i.gyazo.com/c98ebc82438b602cc7df9ffbb096b1d9.png alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/42e927feea6b5461db144159d6d30e83.png alt="那覇空港・Naha Airport" />
+        <img src=https://i.gyazo.com/d0b4ba3bca5ae4e7b0fda16e0238669b.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8f31d3502757ec612ff135dfe046fcec.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0d43745a6c2e88d2fdf02e620bc0a47b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a82029e4b94fab0734c1877a137b242de8c73c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース敗戦 大谷翔平が最終回に6戦連続安打となる11号本塁打も追撃ならず
+      <a href=https://news.yahoo.co.jp/articles/637d71cfa41c8f9534ae740ca936b0c5e12fb35c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000062-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1188&ch=1188&exp=10800&fmt=webp> 大谷「パパでもキング」へ量産態勢　パパ5号目！5月7試合で4発目　さらに大好き6月も　指揮官も納得顔
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 01:30:11 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 02:01:07 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
