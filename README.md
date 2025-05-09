@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/6d777ea37f95129a6f5c1cbad8688f5b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a61c66f8982491a314875b17c9494a8e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e7f1bd11cd9d8f656e2c7339769769c10db41c46>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-06445181-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　最終回2アウトから11号ソロ放ちナ・リーグ2位に浮上　今季最長の6試合連続安打は4本塁打含め全てで長打を記録
+      <a href=https://news.yahoo.co.jp/articles/2789b73f7f05108da0a47f443525e5dbd89b4b88>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000063-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=360&ch=360&exp=10800&fmt=webp> オンラインカジノへの誘導禁止で法改正へ　与野党　今国会での成立目指す
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/753a6112c5ece2a16219fc76cdbaf0db3f653dce>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010007-getsuriku-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【陸上】栁田大輝 追い風参考で100m9秒95！ 4.5mの風に乗って日本記録と同タイム／関東IC
+      <a href=https://news.yahoo.co.jp/articles/41f95647941b663a5d0773b3eb116a70e6c8f316>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-10177486-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=988&ch=988&exp=10800&fmt=webp> 大谷翔平、“あと1球”の土壇場で衝撃の弾丸アーチに敵地スタジアムは騒然…歓喜とどよめきが入り混じる“異様な雰囲気”の一部始終
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/045eac3b6fb0955a764ae6c829c40d85a24ca245>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35090638-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 佐々木成三氏「暴力で解決は誤った判断」東京・立川の小学校暴行事件　傷害容疑などで送検
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/41efd629b390a8f523e77a6d43be8df17cab45e2>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010004-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2150&ch=2150&exp=10800&fmt=webp> 新ローマ教皇はテニス経験者、イタリア国際で試合中に選出発表される＜テニス＞
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b58b48eb201c575453e80c40c1299092a2197131>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00050090-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 立川の小学校襲撃、男２人はタクシーで乗りつけ無施錠の正門脇扉から侵入か
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538223>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/3e680bfec119959c55fdfd488c19c689e11fe0782d7d4587bf113e35f0ee3342.jpg> 新教皇レオ14世 どんな考えを持つ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538203>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/6940bd486c114f29c1b168960f1b6da55127fbb8d50b2c236167b662525b5f71.jpg> 西田氏 ひめゆり発言を撤回し謝罪
       </a>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538206>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e6c7dd7a821218407938975a3d9af9079d7a11be0e54ce5d7a9139716e6eca6f.jpg> インサイダー 東証元社員らに有罪
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538198>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/0687e5beef0eb4bc2681a39cfbd9e6ebf60e367548f986f8150b960982baca72.jpg> 新教皇 トランプ氏らを過去に批判
+      <a href=https://news.yahoo.co.jp/pickup/6538219>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/86b9d6f22f7add82a12c87338554546f78faebbaef9a787e91281048c24ce4f8.jpg> 逮捕の2人 飲酒後に小学校侵入か
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538199>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e92615431baf2b97872ae74a20af06806969bd6faa72514b03a71ee528230bc8.jpg> 賭博疑いオコエ選手 21年頃始めた
+      <a href=https://news.yahoo.co.jp/pickup/6538215>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/086e11031f400763a5f84896ab828ea1012270c39ac328e8f50634e2606156ad.jpg> 栁田大輝 100m9秒95・追い風参考
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 15:30:27 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 16:00:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
