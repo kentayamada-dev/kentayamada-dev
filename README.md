@@ -90,7 +90,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/83c7d8911a649f529db3dc92f81a7023.png alt="函館駅・Hakodate Station" />
+        <img src=https://i.gyazo.com/094503ba4ed55d60aabd884affa24077.png alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -165,12 +165,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/c0df2110fdb4791c3ada566db4fac8af.png alt="お台場・Odaiba" />
+        <img src=https://i.gyazo.com/dfe15adde2fa72fc1676a633f8ce8c08.png alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/eaf7485cad1b532063d5b98b160c3458.png alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=https://i.gyazo.com/8c033a75019a716f2cfc52f8b02ec174.png alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -245,7 +245,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/ec71e3b596eff3d077b1f9674f88865c.png alt="大阪市・Osaka City" />
+        <img src=https://i.gyazo.com/d6ffadbca687e329013f5e13fba58ede.png alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -324,13 +324,13 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+        <img src=https://i.gyazo.com/6a9626ac6f013b29a886a1d423634753.png alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/a9f2ceb503f7560bbfef89eb2c3890ac.png alt="那覇空港・Naha Airport" />
+        <img src=https://i.gyazo.com/4ac12bfcc14c15777bc44ac70ea494a7.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/56d8f5b4824d01e5afcf0af4ed03bd86.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ad27ef8290d1d513a3042b8dceec354c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ed8e68708a270a4c29a48327c9def5301ccae91c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000469-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=795&ch=795&exp=10800&fmt=webp> なか卯、24時間営業終了へ　営業休止し“1時間の清掃”を導入で「店舗水準の向上を図る」
+      <a href=https://news.yahoo.co.jp/articles/6d6648e39df8abf0fe83359f973239b32ee4899b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「なか卯」24時間営業とりやめを発表　一部店舗を除く全店
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b51c371ca3f3364b849d791527db7284ea6981c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000192-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1186&ch=1186&exp=10800&fmt=webp> 大谷翔平は5月4発でピーク前倒しの予兆　投手復帰プログラムでは5月中に打者と対戦の可能性も
+      <a href=https://news.yahoo.co.jp/articles/3a82029e4b94fab0734c1877a137b242de8c73c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース敗戦 大谷翔平が最終回に6戦連続安打となる11号本塁打も追撃ならず
       </a>
     </td>
   </tr>
@@ -396,14 +396,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538268>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/841654dca7b5d3235fd78229d0663f00abc65f6258faa25d188d0ce6d1068c2d.jpg> 沖縄知事 西田氏に憤り禁じ得ない
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/711a14ee89a6d2e99f2da18384eac84134a9d90a59bdc5eed264e68ffcb2bb91.jpg> パナソニックHD 1万人規模削減へ
       </a>
     </td>
   </tr>
@@ -440,11 +432,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538259>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/9ed5364860d59c09099de250a19f74e50f6fd37502e1599aba218efed1194d12.jpg> 大川藍、離婚と再婚を報告
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 23:52:41 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 00:30:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
