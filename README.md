@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/c4f792807ed8c1c196f671b978d3cd51.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/dfed55b89904cc48578ec108def1c101.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0676d45d85feaa9ec3e0a8aa40dfb2e0684e2934>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-21904555-atv-000-2-thumb.jpg?exp=10800&fmt=webp> 漁師のなかには水揚げ量が「例年の1割」とする人も　ホタテ大量死　「陸奥湾ホタテ」の落札価格は3回連続で過去最高値を更新「前回も考えられない値段だったけれども…」募る危機感　
+      <a href=https://news.yahoo.co.jp/articles/078065084f979ba9fc8a510d34086633f9420610>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-90024471-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 保護者と学校、相談急増　去年から1.5倍に　“不審者対策”でカメラ60台の学校も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/078065084f979ba9fc8a510d34086633f9420610>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-90024471-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 保護者と学校、相談急増　去年から1.5倍に　“不審者対策”でカメラ60台の学校も
+      <a href=https://news.yahoo.co.jp/articles/383f52145125d9aa2eff19cd9d035275ef5ddf77>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-90019325-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「不正会計問題で株価下がり損失受けた」個人株主が東芝と当時の経営陣訴えた裁判　東芝に賠償命じる
       </a>
     </td>
   </tr>
@@ -386,16 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538242>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/bdd5e524788e7c263041a2efc91ea1027287ca9668d22e2935357f3e0481e3c1.jpg> 消費減税しない首相方針 野党批判
+      <a href=https://news.yahoo.co.jp/pickup/6538256>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ceeca67ef7648149183ac2c34d58f707e198b91ab35250777f11a5005b18ab2e.jpg> プーチン氏 北朝鮮の軍人と抱擁
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538260>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/39d99ffcd639f93894e0a025ef50a3b1d3c79340d24b85d88c4c2813900a6cfd.jpg> 小学校で266人が息絶えた 80年前
+      <a href=https://news.yahoo.co.jp/pickup/6538268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/841654dca7b5d3235fd78229d0663f00abc65f6258faa25d188d0ce6d1068c2d.jpg> 沖縄知事 西田氏に憤り禁じ得ない
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538269>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 岸田前首相「玉木氏は首相候補」
       </a>
     </td>
   </tr>
@@ -418,16 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538253>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/1dac55124a69f6298c5ca0eed3cbd8e659c6d0d63cdd6df8e3a7b5279ffede77.jpg> 73円のレタスも 野菜が異例の安さ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538263>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/12d8f06f3c2326e8e09c7501d7825b4163fdf6f1d4e93f9fec2e8b7bbff94c09.jpg> ラッコのメイ誕生日 人間なら90歳
+      <a href=https://news.yahoo.co.jp/pickup/6538267>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/751364acd8b9a5da0ade6b7d8fc79be220cdfe380f00ed06495a36826cff053c.jpg> 大量に死ぬホタテ 危機感募る漁師
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 21:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 22:00:15 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
