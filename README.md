@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0dc577122da959a22075a031359ce8de.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/447de4018b59fce1bdaa865f61eecc41.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/577eb35edfdf5a89a8850fa5a913253f1827d8be>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010000-mlb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【MLB】パイレーツがシェルトン監督の解任を発表　今季12勝26敗　ベンチコーチのドン・ケリーが後任に
+      <a href=https://news.yahoo.co.jp/articles/a622b25485e42c226ca8cc22da408791b1c83437>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00343896-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＭＬＢ】解任第１号はパイレーツのシェルトン監督　わずか３８試合で
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b4011a94555e1a1e02d40621a4092df39694a19b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000101-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=164&cy=0&cw=832&ch=832&exp=10800&fmt=webp> 武内陶子　男2人が小学校侵入、暴行事件に「最初は子供間のトラブル…どう対処したらいいんだろうと」
+      <a href=https://news.yahoo.co.jp/articles/fe0e874e6483e50bfcf484dee322b0b6d85758de>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-05091025-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「厳しい対応をしてほしい」…東京・立川「小学校襲撃事件」容疑者２人へ「サン！シャイン」カズレーザーが断「ちゃんと罪に問うべき」
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538168>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/83f94c0bd686cefd790650b6124247aef0e9ac2bc05d57a4a241015e6939cd45.jpg> 西から雨広がる 警報級の大雨恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6538176>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/bc84ef0a39308228463320916502100a6026e6ef71ab7d39ca34be7f93c4cb0b.jpg> 政府 備蓄米の入札条件を緩和へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/bc84ef0a39308228463320916502100a6026e6ef71ab7d39ca34be7f93c4cb0b.jpg> 政府 備蓄米の入札条件を緩和へ
+      <a href=https://news.yahoo.co.jp/pickup/6538175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/d4152f0aa48843002aecfaebbbdc5dac705da1c3d884cf0312231dae3229d87a.jpg> 防ぎようがない 学校防犯の難しさ
       </a>
     </td>
   </tr>
@@ -420,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538177>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/84ac3bf5f2dc4c021c5213df61ba7b7c9929e67a94ea4f95d583f848160e09a0.jpg> 日本空港ビル 社長と会長が辞任へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538175>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/d4152f0aa48843002aecfaebbbdc5dac705da1c3d884cf0312231dae3229d87a.jpg> 防ぎようがない 学校防犯の難しさ
       </a>
     </td>
   </tr>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538179>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/0b1b7da917b47db5783d6a8b3329312f244af13f594700a4e3e9130590127ca8.jpg> MLBパイレーツ 監督を電撃解任
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 09:30:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 10:00:56 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
