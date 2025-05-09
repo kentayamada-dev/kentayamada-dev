@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/606ec5c367828a8196dfe3859f8d064c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/d2d7872286cd9bc8256e3b2e9d630c05.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ab6577ff130ed9797cd55c4325998ec47276c213>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 侵入に教員不安「いつ起きても」　危機管理体制検証を、東京・立川
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/b6ad0f74dce9169c0098745c881602d86ce66a0d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010058-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 『教皇選挙』と現実のコンクラーベを比較検証　新教皇・レオ14世は“ベリーニ枢機卿”に近い？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/28dfdb87ff479b7b35d652affcf1f374b071c86e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35091242-nksports-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=1319&ch=1319&exp=10800&fmt=webp> 大谷翔平が量産態勢突入　６戦４発、トップ１差11号　「LAをやっつけろ」大合唱の中で特大弾
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1caf2222f57d5e151714eda42b94d91b83ab0054>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00794120-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 「何をしてもダメな親もいます」　小学校乱入事件が波紋、厳しさ増す“保護者対応”　現役教員が苦悩を吐露
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a180a40e9bd5578bd9eba06bab5573d1b362df80>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010002-nknatiogeo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 新教皇レオ14世が誕生　最初の演説で語ったこととは？ サプライズ選出だった人物像に迫る
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35091242-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=1319&ch=1319&exp=10800&fmt=webp> 大谷翔平が量産態勢突入　６戦４発、トップ１差11号　「LAをやっつけろ」大合唱の中で特大弾
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538222>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/33a1788fb3e73df55b12830c1815b3a3f3f8604d48a784122202064f5a0a3f11.jpg> オンラインカジノ法改正へ 与野党
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538235>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/711a14ee89a6d2e99f2da18384eac84134a9d90a59bdc5eed264e68ffcb2bb91.jpg> パナソニックHD 1万人規模削減へ
+      <a href=https://news.yahoo.co.jp/pickup/6538230>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/7cf1e76292d475b4bd75355d621dabced3e24ef91115d29db99707261dbebb4f.jpg> 日大パワハラ訴訟 元副学長が敗訴
       </a>
     </td>
   </tr>
@@ -426,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538244>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/dc27607bbb4512667f0e3a067b5ea38357f3ad74e245bebabf32a24afd32cf74.jpg> 暴力ふるう社長 会社の異様な実態
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538250>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/2e2c93446e621394195d5f911685e888eeed93a859e4d33422bcd95246bde3bd.jpg> 診察装いわいせつ 医師に実刑判決
       </a>
@@ -434,16 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538240>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/b177d3b682951225840475820e737ab2ea601d88c77a6338b5a4d9f056108b94.jpg> 留学中性被害で山梨学院大を提訴
+      <a href=https://news.yahoo.co.jp/pickup/6538253>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/1dac55124a69f6298c5ca0eed3cbd8e659c6d0d63cdd6df8e3a7b5279ffede77.jpg> 73円のレタスも 野菜が異例の安さ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538244>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/dc27607bbb4512667f0e3a067b5ea38357f3ad74e245bebabf32a24afd32cf74.jpg> 暴力ふるう社長 会社の異様な実態
+      <a href=https://news.yahoo.co.jp/pickup/6538254>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/4d494dd4818056ef867fc7865992445f3b9eafb65ab31db2bf3ba91c66f3a4ae.jpg> 「ポケポケ」大ヒット DeNA躍進
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 19:30:50 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 20:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
