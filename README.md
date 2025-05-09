@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5187e4f825db9f780e13836d4470ebc8.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/0c701736ca7359a7c622e0c5f0a10d79.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9dafce0237f8460ee1ea5d0cb3858870ec806aae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-03292354-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 戦勝記念日にプーチン氏が演説　ウクライナ侵攻「国全体が支持」　トランプ氏は30日間の停戦提唱
+      <a href=https://news.yahoo.co.jp/articles/4f99177628a56d7a23c6fff22cfef98c9c3a2431>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-03426753-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「亡くなったじいちゃんの分も」超ファインプレーからサヨナラ打　DeNA・林琢真がヒーローで涙
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6b4927b346ef1bfb10369029f04f83d890e28806>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-07235726-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「中国への関税は80％が妥当では」145％からの引き下げに言及
+      <a href=https://news.yahoo.co.jp/articles/90cc769dd5c85cac7ecd25838643ff6c5a3ae622>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000235-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=718&ch=718&exp=10800&fmt=webp> 消費税減税見送り報道　れいわ・高井氏「自民党、大丈夫か」　政権交代シナリオを披露
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/9dafce0237f8460ee1ea5d0cb3858870ec806aae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-03292354-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 戦勝記念日にプーチン氏が演説　ウクライナ侵攻「国全体が支持」　トランプ氏は30日間の停戦提唱
       </a>
     </td>
   </tr>
@@ -386,6 +394,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538278>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/c64643ebd6c4d8dd73971a1b41002c9f6605b09d8d684458720e749eb0d0bc03.jpg> 自民 夫婦別姓法案の提出見送りへ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538272>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ceaed746236dd027a5941926e473062fa4ad2f7066d6df320bbdc081140e92a5.jpg> トランプ氏 中国への関税80%妥当
       </a>
@@ -394,16 +410,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538256>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ceeca67ef7648149183ac2c34d58f707e198b91ab35250777f11a5005b18ab2e.jpg> プーチン氏 北朝鮮の軍人と抱擁
+      <a href=https://news.yahoo.co.jp/pickup/6538268>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/841654dca7b5d3235fd78229d0663f00abc65f6258faa25d188d0ce6d1068c2d.jpg> 沖縄知事 西田氏に憤り禁じ得ない
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/841654dca7b5d3235fd78229d0663f00abc65f6258faa25d188d0ce6d1068c2d.jpg> 沖縄知事 西田氏に憤り禁じ得ない
+      <a href=https://news.yahoo.co.jp/pickup/6538279>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f77d7e830d00cc0bc4c10a7c4553fb836cfa1684118bbdc53956d40f6c010837.jpg> 70代夫婦死亡 祖父殺害疑い孫逮捕
       </a>
     </td>
   </tr>
@@ -440,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/9ed5364860d59c09099de250a19f74e50f6fd37502e1599aba218efed1194d12.jpg> 大川藍、離婚と再婚を報告
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 07:00:44 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 07:30:37 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
