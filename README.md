@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4b129ca8d2048d6bf24dada8410645ab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f6fb16170e57217daa2d02aa5b368b47.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9900e230def7f94673f701d5a6f5fb17277daa34>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-21903914-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手　11号ソロホームラン放ちリーグ2位タイに　チームは5対3で敗れる
+      <a href=https://news.yahoo.co.jp/articles/dd429d388da22c94841e8351a63690a5f2527784>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00029732-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 10日午前中は関東南部で大雨のおそれ　雨のあとは暑さに注意　長野は真夏日予想
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41f6a4aa596e66878e6579c920107544ebbdc2ec>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000243-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1167&ch=1167&exp=10800&fmt=webp> 長嶋一茂　立川の小学校暴行受けパワーバランスの変化指摘「学校側の方が弱者に…先生を守る対策必要」
+      <a href=https://news.yahoo.co.jp/articles/eb6cc9cd6dcf12a76e5c1f76c605306e154167b4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000264-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 玉川徹氏「厳罰に処してほしい」　立川の小学校暴行に怒り「親ですらない大人が殴り込み…とんでもない話」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/2b94a30c6365e06fbe90c06d62016386b9945acb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000259-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=867&ch=867&exp=10800&fmt=webp> 大谷翔平　1920年以降で史上初の珍記録樹立　米データ会社が紹介　MLB4位タイ11本塁打もソロ9発
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/7211d3ad474cb22c1cb40441cfafbad46cf0ec24>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235630-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 元交際相手の白井秀征容疑者「家族に疑われ、逃げ場がない」1月の自殺未遂で任意聴取に説明　川崎20歳女性遺棄事件　神奈川県警
       </a>
     </td>
   </tr>
@@ -375,22 +391,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e0821d58027a25bdb19021930c950125e05b50ad>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235600-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「互いに橋をかけ合い、常に平和で結ぶのです」新ローマ教皇にレオ14世　移民支援など改革派の一面もある一方で保守的な面も
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa8b4310747132c6570f709b547cb52fa904f107>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00050104-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=307&ch=307&exp=10800&fmt=webp> 日大パワハラ訴訟、元副学長の損害賠償請求を棄却…東京地裁
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bd5751b41bc8c4b9c81a4015cdde68337c2ddad1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35232748-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【分析】戦勝記念日迎えるロシア、モスクワ上空にはドローンの脅威
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538203>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/6940bd486c114f29c1b168960f1b6da55127fbb8d50b2c236167b662525b5f71.jpg> 西田氏 ひめゆり発言を撤回し謝罪
+      <a href=https://news.yahoo.co.jp/pickup/6538209>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/586ad17f293ff3037503d9d012b062ede8ba3534be6f6f8bb8a265c229177430.jpg> 生成AIの開発促進に懸賞金 経産省
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538213>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/1a4a882e30e154480ad119c563e6d60079f2d4a49973832dd0ef2b92129d399d.jpg> 男性を切りつけた疑い 男を逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538227>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e8493f47e4924e2cd4628feb1729ca9c438326a36c6d7cdff5c7456fca5a994b.jpg> 日本電信電話→NTTに社名変更へ
       </a>
     </td>
   </tr>
@@ -443,7 +443,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538226>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/086e11031f400763a5f84896ab828ea1012270c39ac328e8f50634e2606156ad.jpg> インカレで100m9秒95 追い風参考
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/5e1118176497434a012a444971270ac1a31f645436b4c216824afbfe1443d5e5.jpg> インカレで100m9秒95 追い風参考
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 16:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 17:00:47 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
