@@ -90,7 +90,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/fc6f692704e1c3b2b02993a98f9bd2eb.png alt="函館駅・Hakodate Station" />
+        <img src=https://i.gyazo.com/83c7d8911a649f529db3dc92f81a7023.png alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -165,12 +165,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/83ee9fb5914c8acb98e67a2cad6600b3.png alt="お台場・Odaiba" />
+        <img src=https://i.gyazo.com/c0df2110fdb4791c3ada566db4fac8af.png alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/c53fa0f658909a0f14d0c8714d7f09bf.png alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=https://i.gyazo.com/eaf7485cad1b532063d5b98b160c3458.png alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -245,7 +245,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/cb0398ffbb266305d31406d073fe4b6f.png alt="大阪市・Osaka City" />
+        <img src=https://i.gyazo.com/ec71e3b596eff3d077b1f9674f88865c.png alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -324,13 +324,13 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/a6981c85d35db150401c25a3bd23408c.png alt="那覇市・Naha City" />
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+        <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/d45a4eddd0589e49fcc6f60b73f05b5f.png alt="那覇空港・Naha Airport" />
+        <img src=https://i.gyazo.com/a9f2ceb503f7560bbfef89eb2c3890ac.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a25eb1a94136d31032fd233689b70986.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/56d8f5b4824d01e5afcf0af4ed03bd86.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -366,7 +366,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/b51c371ca3f3364b849d791527db7284ea6981c6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000192-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1186&ch=1186&exp=10800&fmt=webp> ドジャース・大谷翔平が11号ソロで量産モード突入　投手復帰プログラムも順調に進行中
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000192-sanspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1186&ch=1186&exp=10800&fmt=webp> 大谷翔平は5月4発でピーク前倒しの予兆　投手復帰プログラムでは5月中に打者と対戦の可能性も
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/8bd9ce7e676133866f2b129c3118963e27d5e4a2f97c5aaf757aaab26c69cae3.jpg> 斎藤知事の研修帯同へ ブーイング
+      <a href=https://news.yahoo.co.jp/pickup/6538235>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/711a14ee89a6d2e99f2da18384eac84134a9d90a59bdc5eed264e68ffcb2bb91.jpg> パナソニックHD 1万人規模削減へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538246>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 小林製薬 広告の順次再開を発表
+      <a href=https://news.yahoo.co.jp/pickup/6538266>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/8bd9ce7e676133866f2b129c3118963e27d5e4a2f97c5aaf757aaab26c69cae3.jpg> 斎藤知事の研修帯同へ ブーイング
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538259>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/9ed5364860d59c09099de250a19f74e50f6fd37502e1599aba218efed1194d12.jpg> 大川藍、離婚と再婚を報告
+      <a href=https://news.yahoo.co.jp/pickup/6538277>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/99782b2a82806e8464eb1b7c8bd8135920c4d1af45a0b373c4807caf0fbe2b99.jpg> 「しんじょうに悪い試合」新庄氏
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 23:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 23:52:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
