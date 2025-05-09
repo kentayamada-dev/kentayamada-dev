@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a61c66f8982491a314875b17c9494a8e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4b129ca8d2048d6bf24dada8410645ab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2789b73f7f05108da0a47f443525e5dbd89b4b88>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000063-ann-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=360&ch=360&exp=10800&fmt=webp> オンラインカジノへの誘導禁止で法改正へ　与野党　今国会での成立目指す
+      <a href=https://news.yahoo.co.jp/articles/9900e230def7f94673f701d5a6f5fb17277daa34>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-21903914-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> ドジャース・大谷翔平選手　11号ソロホームラン放ちリーグ2位タイに　チームは5対3で敗れる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41f95647941b663a5d0773b3eb116a70e6c8f316>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-10177486-abema-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=183&cy=0&cw=988&ch=988&exp=10800&fmt=webp> 大谷翔平、“あと1球”の土壇場で衝撃の弾丸アーチに敵地スタジアムは騒然…歓喜とどよめきが入り混じる“異様な雰囲気”の一部始終
+      <a href=https://news.yahoo.co.jp/articles/41f6a4aa596e66878e6579c920107544ebbdc2ec>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000243-spnannex-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1167&ch=1167&exp=10800&fmt=webp> 長嶋一茂　立川の小学校暴行受けパワーバランスの変化指摘「学校側の方が弱者に…先生を守る対策必要」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/045eac3b6fb0955a764ae6c829c40d85a24ca245>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35090638-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 佐々木成三氏「暴力で解決は誤った判断」東京・立川の小学校暴行事件　傷害容疑などで送検
+      <a href=https://news.yahoo.co.jp/articles/e0821d58027a25bdb19021930c950125e05b50ad>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235600-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「互いに橋をかけ合い、常に平和で結ぶのです」新ローマ教皇にレオ14世　移民支援など改革派の一面もある一方で保守的な面も
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/41efd629b390a8f523e77a6d43be8df17cab45e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010004-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2150&ch=2150&exp=10800&fmt=webp> 新ローマ教皇はテニス経験者、イタリア国際で試合中に選出発表される＜テニス＞
+      <a href=https://news.yahoo.co.jp/articles/aa8b4310747132c6570f709b547cb52fa904f107>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00050104-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=307&ch=307&exp=10800&fmt=webp> 日大パワハラ訴訟、元副学長の損害賠償請求を棄却…東京地裁
       </a>
     </td>
   </tr>
@@ -418,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538201>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/shigemidaisuke/02201958/title-1746746797202.jpeg?exp=10800> 百日咳が流行 妊婦に伝えたいこと
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538219>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/86b9d6f22f7add82a12c87338554546f78faebbaef9a787e91281048c24ce4f8.jpg> 逮捕の2人 飲酒後に小学校侵入か
       </a>
@@ -442,16 +434,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538215>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/086e11031f400763a5f84896ab828ea1012270c39ac328e8f50634e2606156ad.jpg> 栁田大輝 100m9秒95・追い風参考
+      <a href=https://news.yahoo.co.jp/pickup/6538220>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/cbcf60dd9df06c807e7d3e3539f11bbbe39c9cb6ddeba7c0f6a865159244a357.jpg> 駐車場予約制に 動物園の来園激減
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538202>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/73182ec7ddc39e7a6d8d263f61c6cc48d5b738df1e47365cf0a9f061a9d0b56b.jpg> 大谷が9回に意地のHR 量産モード
+      <a href=https://news.yahoo.co.jp/pickup/6538226>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/086e11031f400763a5f84896ab828ea1012270c39ac328e8f50634e2606156ad.jpg> インカレで100m9秒95 追い風参考
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538221>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02202186/title-1746756955863.jpeg?exp=10800> ジャルジャルが私語注意 対応策は
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 16:00:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 16:30:19 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
