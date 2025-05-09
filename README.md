@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8bb2a21723904ea1794eb0efd232f931.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/74b065200b8bebd72a78889623688f42.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b6b738826ec86c20991613cd7980196ad13810f9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235629-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 石破総理「消費税の減税しない」方針固める　野党からは「物価高に無策だ」と批判　夏の参院選で公約に減税掲げる公明党と歩調合うか
+      <a href=https://news.yahoo.co.jp/articles/0ab0db5979dc36f601fe7d742b8b8705f3d5ead6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00969499-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> プレボスト枢機卿が史上初アメリカ出身の新ローマ教皇に…教皇名「レオ14世」選択の背景は?トランプ大統領も祝意「本当に光栄だ」日本からも祝福の声
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/75eb38e9a0df5f68f551abbfdd778b8d037b82ef>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000068-chuspo-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 大谷翔平、今季は「ミスター・メイ」？リーグ2位でキング射程の11号　「あと一人」活気づくファン沈黙の超弾丸ライナーに実況は「ロケット」
+      <a href=https://news.yahoo.co.jp/articles/ccb89327c9089a11d7528c5fcd3e17c22a1362d6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「殺す」メール家族届け出、川崎　消去か、神奈川県警が経緯捜査
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d54bfd988a8e44a920eea1ba2c374805348f83b8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00534080-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷46発ペースなのに…釣り合わない「68」　リーグ51位指標にネット嘆き「なかなか見れん数字やで」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/42097716d60e614d333c01359e3abcbd546d9363>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000074-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=400&cy=0&cw=800&ch=800&exp=10800&fmt=webp> サッカー日本代表・森保監督が38歳長友佑都を招集する理由「彼だからこそできる」存在価値を称賛
       </a>
     </td>
   </tr>
@@ -379,22 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7211d3ad474cb22c1cb40441cfafbad46cf0ec24>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235630-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 元交際相手の白井秀征容疑者「家族に疑われ、逃げ場がない」1月の自殺未遂で任意聴取に説明　川崎20歳女性遺棄事件　神奈川県警
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e0821d58027a25bdb19021930c950125e05b50ad>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235600-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「互いに橋をかけ合い、常に平和で結ぶのです」新ローマ教皇にレオ14世　移民支援など改革派の一面もある一方で保守的な面も
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538234>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/3b430554db644d38e356f2cd3a3ec460dce5f3275663b9e616395b5849b5f72a.jpg> 東海関東 10日にかけ警報級大雨か
+      <a href=https://news.yahoo.co.jp/pickup/6538222>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/33a1788fb3e73df55b12830c1815b3a3f3f8604d48a784122202064f5a0a3f11.jpg> オンラインカジノ法改正へ 与野党
       </a>
     </td>
   </tr>
@@ -418,24 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538224>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/03234bd16b39c23bfd18f4ecdb5cd77ae6cbadac8f87d4d4aa304ef3eed73de1.jpg> 24年度カレー物価 過去10年で最高
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538235>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/711a14ee89a6d2e99f2da18384eac84134a9d90a59bdc5eed264e68ffcb2bb91.jpg> パナソニックHD 1万人規模削減へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538219>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/86b9d6f22f7add82a12c87338554546f78faebbaef9a787e91281048c24ce4f8.jpg> 逮捕の2人 飲酒後に小学校侵入か
       </a>
     </td>
   </tr>
@@ -450,8 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538244>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/dc27607bbb4512667f0e3a067b5ea38357f3ad74e245bebabf32a24afd32cf74.jpg> 暴力ふるう社長 会社の異様な実態
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538220>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/cbcf60dd9df06c807e7d3e3539f11bbbe39c9cb6ddeba7c0f6a865159244a357.jpg> 駐車場予約制に 動物園の来園激減
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538243>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e6a3f7ff599122d069d9911ecc240457a1fa0c3ae63c536fc56f9994623e4847.jpg> 森保監督 長友を招集する理由熱弁
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 18:00:46 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 18:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
