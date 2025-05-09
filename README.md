@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/04b9ffbb876c2d78d8e0f4a12b6c36ab.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6d777ea37f95129a6f5c1cbad8688f5b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/80542cf068e101bd109aeee662b40a0131370506>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-90019307-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】大阪・阿倍野区で男性の頭を包丁でけがさせた疑い　34歳男を殺人未遂容疑で緊急逮捕
+      <a href=https://news.yahoo.co.jp/articles/e7f1bd11cd9d8f656e2c7339769769c10db41c46>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-06445181-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 大谷翔平　最終回2アウトから11号ソロ放ちナ・リーグ2位に浮上　今季最長の6試合連続安打は4本塁打含め全てで長打を記録
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5dcc5220a69fed6543d9dd1f3fe2a0776a51bfb3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-10177469-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=540&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 大谷翔平、弾丸第11号ホームランでも“淡々”リアクション…「明日以降に価値が」土壇場で飛び出した衝撃アーチにファン歓喜も本人は笑顔なし
+      <a href=https://news.yahoo.co.jp/articles/753a6112c5ece2a16219fc76cdbaf0db3f653dce>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010007-getsuriku-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=533&ch=533&exp=10800&fmt=webp> 【陸上】栁田大輝 追い風参考で100m9秒95！ 4.5mの風に乗って日本記録と同タイム／関東IC
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/389eab0b9c97b7db4758f73c8221bff42c398a47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000194-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 映画「教皇選挙」新教皇がコンクラーベ直前に鑑賞！他の枢機卿も　「正確」「有益な研究ツール」と米報道
+      <a href=https://news.yahoo.co.jp/articles/41efd629b390a8f523e77a6d43be8df17cab45e2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010004-tennisnet-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=2150&ch=2150&exp=10800&fmt=webp> 新ローマ教皇はテニス経験者、イタリア国際で試合中に選出発表される＜テニス＞
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c903589760cd8ddc6bb34b0356540166417f6f43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35090528-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=653&ch=653&exp=10800&fmt=webp> 八代英輝弁護士、逮捕の男２人を呼んだ母親の「共謀」の可能性言及　東京・立川の小学校暴行事件
+      <a href=https://news.yahoo.co.jp/articles/b58b48eb201c575453e80c40c1299092a2197131>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00050090-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=376&ch=376&exp=10800&fmt=webp> 立川の小学校襲撃、男２人はタクシーで乗りつけ無施錠の正門脇扉から侵入か
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538197>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/dd5e13022f936474e9226bae1243ed6d7dd7dd3a6fe2ae53e3e04769f3018fd3.jpg> 九州～関東 あすにかけ大雨の恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6538201>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/shigemidaisuke/02201958/title-1746746797202.jpeg?exp=10800> 百日咳が流行 妊婦に伝えたいこと
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538200>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/54ada59595c492d2656c89020114c47ffeeee69d5a40af8a9f57b98909e5b989.jpg> 横山裕 1年間限定のソロPJを始動
+      <a href=https://news.yahoo.co.jp/pickup/6538214>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e6ef4f673f8f6fcb2d3b3c8ed214bd9e463fe1a4448c06cc042d924e1e24458d.jpg> 宮迫のド軍戦始球式 仕掛け人思い
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 15:00:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 15:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
