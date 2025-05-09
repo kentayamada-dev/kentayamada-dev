@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0c701736ca7359a7c622e0c5f0a10d79.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/164f3a584e09f53947441f2f85d2f676.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4f99177628a56d7a23c6fff22cfef98c9c3a2431>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-03426753-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「亡くなったじいちゃんの分も」超ファインプレーからサヨナラ打　DeNA・林琢真がヒーローで涙
+      <a href=https://news.yahoo.co.jp/articles/1c7d105293e37fd059d086c99765673e120f6c5c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 英仏独、ロシアに30日停戦要求　米国と連携確認、派兵も協議
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/90cc769dd5c85cac7ecd25838643ff6c5a3ae622>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000235-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=218&cy=0&cw=718&ch=718&exp=10800&fmt=webp> 消費税減税見送り報道　れいわ・高井氏「自民党、大丈夫か」　政権交代シナリオを披露
+      <a href=https://news.yahoo.co.jp/articles/a888675295e820bff61a28e17122b66970935a4c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05101017-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平、中５日の佐々木朗希を援護へ　Ｄバックス戦「１番・ＤＨ」　最近６戦４発　２戦連発１２号なるか
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9dafce0237f8460ee1ea5d0cb3858870ec806aae>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-03292354-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 戦勝記念日にプーチン氏が演説　ウクライナ侵攻「国全体が支持」　トランプ氏は30日間の停戦提唱
+      <a href=https://news.yahoo.co.jp/articles/10e56300e17da047176bb08a332a7381229fe950>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000250-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1068&ch=1068&exp=10800&fmt=webp> オリックス大敗…岸田監督、今季最短35秒会見「六回の継投はちょっとまた考える」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/22527378f78bf60e86eeb86b164b9d8159b2e257>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00534025-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 最近、大谷翔平が「恐怖に陥れ続けている」納得の“存在”　解説が豪快アーチで表現「6戦4発だ」
+      <a href=https://news.yahoo.co.jp/articles/93e5bb02e9cc6644114363723b2ddcc9e0c88131>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000242-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1028&ch=1028&exp=10800&fmt=webp> DeNA・林琢真が決めた！泣いた！自身初のサヨナラ打　途中出場で大仕事、天国のおじいちゃんのためにも今季は「絶対にやってやろうと」
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ceaed746236dd027a5941926e473062fa4ad2f7066d6df320bbdc081140e92a5.jpg> トランプ氏 中国への関税80%妥当
+      <a href=https://news.yahoo.co.jp/pickup/6538283>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f27c8029491acc84de42d596e854cbf283013059989dac1903d1b64393218d41.jpg> 午前中 関東で雷雨や激しい雨恐れ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538268>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/841654dca7b5d3235fd78229d0663f00abc65f6258faa25d188d0ce6d1068c2d.jpg> 沖縄知事 西田氏に憤り禁じ得ない
+      <a href=https://news.yahoo.co.jp/pickup/6538272>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ceaed746236dd027a5941926e473062fa4ad2f7066d6df320bbdc081140e92a5.jpg> トランプ氏 中国への関税80%妥当
       </a>
     </td>
   </tr>
@@ -426,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/8bd9ce7e676133866f2b129c3118963e27d5e4a2f97c5aaf757aaab26c69cae3.jpg> 斎藤知事の研修帯同へ ブーイング
+      <a href=https://news.yahoo.co.jp/pickup/6538282>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/a66b711569f469b89d342331916c69de01101053a46b4eabf195470da966c232.jpg> マンションに女性2遺体 男を逮捕
       </a>
     </td>
   </tr>
@@ -442,16 +442,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538274>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/7b688cb3d7ba50dd5188c1682354f00ddec54c7733b89028af56a4ac7d560c71.jpg> ばあちゃん最後かも DeNA林が涙
+      <a href=https://news.yahoo.co.jp/pickup/6538285>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d2a50397501505e19a4850edf9da241fbfecd024f8cdf6c8e69f18fcf98f9c99.jpg> オリックスが大敗 監督会見は35秒
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538277>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/99782b2a82806e8464eb1b7c8bd8135920c4d1af45a0b373c4807caf0fbe2b99.jpg> 「しんじょうに悪い試合」新庄氏
+      <a href=https://news.yahoo.co.jp/pickup/6538281>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/06676cc56f0797f6ebc54fa6c9a0a77180a7803f1f5b767851e914977be150a3.jpg> GLAYが「1999年の解散危機」語る
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 07:30:37 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 08:00:40 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
