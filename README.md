@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ae9b898258db3e8cb246149b00b51714.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3a705af164099b4753da0399cb2251d2.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/3fcf23d038baadf37e01990e7cc4f3d95dea8ccf>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000037-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=461&ch=461&exp=10800&fmt=webp> 川崎の女性遺体事件、神奈川県警が対応を検証へ　行方不明前後が焦点
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/0b857e210863fa1432ef894936e9403d2ca4e1c4>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00050049-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=375&ch=375&exp=10800&fmt=webp> トランプ氏、ロシアとウクライナに「３０日間の無条件停戦」要求…「順守しなければさらなる制裁」
       </a>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/5bc2dbdad751310cf38297981ad94e39993f2423>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35090279-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 谷原章介「子どもたちまねてしまう」小学校に男２人乱入の暴行事件に苦言　匿名報道に悩みも
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35090279-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 谷原章介「子どもたちまねてしまう」小学校に男２人乱入の暴行事件に苦言　匿名報道に悩みも
       </a>
     </td>
   </tr>
@@ -387,14 +395,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d390f304a7cd3b8dbe4d31b891443aac6e509028>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000022-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 印パの軍事的応酬続く　米国務長官が電話協議「情勢を注視」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 <h3 id=Topics>トピックス・Topics</h3>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538181>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e515743f5505dfe284b222499e73809c928a6ee0fd5a125bbb760b8c79166fba.jpg> 空襲被害の救済法 各党で手続きへ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538176>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/bc84ef0a39308228463320916502100a6026e6ef71ab7d39ca34be7f93c4cb0b.jpg> 政府 備蓄米の入札条件を緩和へ
+      <a href=https://news.yahoo.co.jp/pickup/6538170>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/295647d9de021712c765acee7e21ca1d8196272e38f1fcd50f5d20cdc4da4539.jpg> トランプ氏 米出身の新教皇に祝意
       </a>
     </td>
   </tr>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/9c9a1030b20e433b0d2ee82511b594ac2279454b9391920f2dda6e1073f1dd62.jpg> 汚職事件 名古屋市役所を家宅捜索
+      <a href=https://news.yahoo.co.jp/pickup/6538181>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e515743f5505dfe284b222499e73809c928a6ee0fd5a125bbb760b8c79166fba.jpg> 空襲被害の救済法 各党で手続きへ
       </a>
     </td>
   </tr>
@@ -442,6 +434,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538187>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/3955d22704d769a32d31e06e8ce1c3bc808efd23ce26a5f123b629436b9addf1.jpg> 川崎遺体 県警が「検証チーム」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538178>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/101f25bfd759b3b44f06700ab002f83f717ccff0a8e6906d2d1401588be75ab3.jpg> バイク男性と歩行者衝突 両者死亡
       </a>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538187>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/3955d22704d769a32d31e06e8ce1c3bc808efd23ce26a5f123b629436b9addf1.jpg> 川崎遺体 県警が「検証チーム」
+      <a href=https://news.yahoo.co.jp/pickup/6538190>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ba04b6767e81126c322890848d2cbd32cdc83d498276972aacb6e5361bc411dc.jpg> 逆子治し子に障害 医師を書類送検
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 11:00:39 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 11:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
