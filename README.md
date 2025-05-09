@@ -90,7 +90,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
+        <img src=https://i.gyazo.com/129ba34d35dc62b130e76cb972215473.png alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -165,12 +165,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
+        <img src=https://i.gyazo.com/07e3525c06dd841fec46661cf82696a9.png alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=https://i.gyazo.com/f93d3ea78dba5abd52da820bd5620b9f.png alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -245,7 +245,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
+        <img src=https://i.gyazo.com/9db5f33e49eb073b93bbc69cae2d86cc.png alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -325,12 +325,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
+        <img src=https://i.gyazo.com/6545e3c63dcb597860c90c6cfa57d9a2.png alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
+        <img src=https://i.gyazo.com/63573587a0ea6878b42662ddaffedf1d.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/dfed55b89904cc48578ec108def1c101.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5054b37342cbb82786d332813696450f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/078065084f979ba9fc8a510d34086633f9420610>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-90024471-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 保護者と学校、相談急増　去年から1.5倍に　“不審者対策”でカメラ60台の学校も
+      <a href=https://news.yahoo.co.jp/articles/fce5f872e432ca9c81d116e82a7e481280951335>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35091918-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=1242&ch=1242&exp=10800&fmt=webp> 【DeNA】林琢真、お立ち台で涙「見に来るの最後かも」祖母の前でサヨナラ打、年明けには祖父死去
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/383f52145125d9aa2eff19cd9d035275ef5ddf77>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-90019325-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 「不正会計問題で株価下がり損失受けた」個人株主が東芝と当時の経営陣訴えた裁判　東芝に賠償命じる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/28dfdb87ff479b7b35d652affcf1f374b071c86e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35091242-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=1319&ch=1319&exp=10800&fmt=webp> 大谷翔平が量産態勢突入　６戦４発、トップ１差11号　「LAをやっつけろ」大合唱の中で特大弾
+      <a href=https://news.yahoo.co.jp/articles/b51c371ca3f3364b849d791527db7284ea6981c6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000192-sanspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1186&ch=1186&exp=10800&fmt=webp> ドジャース・大谷翔平が11号ソロで量産モード突入　投手復帰プログラムも順調に進行中
       </a>
     </td>
   </tr>
@@ -384,6 +376,14 @@
 <h3 id=Topics>トピックス・Topics</h3>
 
 <table>
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538272>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ceaed746236dd027a5941926e473062fa4ad2f7066d6df320bbdc081140e92a5.jpg> トランプ氏 中国への関税80%妥当
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538256>
@@ -410,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538264>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/7df094b45151a78c0a6cc5e08100d6f67a615b68859a8b653a5d7733b128a7fb.jpg> ローマ教皇の就任式 麻生氏派遣へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538266>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/8bd9ce7e676133866f2b129c3118963e27d5e4a2f97c5aaf757aaab26c69cae3.jpg> 斎藤知事の研修帯同へ ブーイング
       </a>
@@ -426,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538267>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/751364acd8b9a5da0ade6b7d8fc79be220cdfe380f00ed06495a36826cff053c.jpg> 大量に死ぬホタテ 危機感募る漁師
+      <a href=https://news.yahoo.co.jp/pickup/6538274>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/7b688cb3d7ba50dd5188c1682354f00ddec54c7733b89028af56a4ac7d560c71.jpg> ばあちゃん最後かも DeNA林が涙
       </a>
     </td>
   </tr>
@@ -442,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/5181237be3c5888fecd4bf69451e2abf80f874cf18fe59dce846259a567bc8d7.jpg> 宮迫博之 ドジャース戦で始球式
+      <a href=https://news.yahoo.co.jp/pickup/6538221>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02202186/title-1746756955863.jpeg?exp=10800> ジャルジャルが私語注意 対応策は
       </a>
     </td>
   </tr>
@@ -452,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 22:00:15 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 22:30:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
