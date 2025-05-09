@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/edc6582b7dce39efff36bd747926e169.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ae9b898258db3e8cb246149b00b51714.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/f5610d9b0753f89fb9ab1c2215e695a29f7ea7e2>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00050045-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=18&cy=0&cw=333&ch=333&exp=10800&fmt=webp> 新教皇レオ１４世に「パパ！」の声響く、バチカンの祝福ムード最高潮に…「戦争がなくなるよう手助けを」
+      <a href=https://news.yahoo.co.jp/articles/0b857e210863fa1432ef894936e9403d2ca4e1c4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00050049-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=86&cy=0&cw=375&ch=375&exp=10800&fmt=webp> トランプ氏、ロシアとウクライナに「３０日間の無条件停戦」要求…「順守しなければさらなる制裁」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5bc2dbdad751310cf38297981ad94e39993f2423>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35090279-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1500&ch=1500&exp=10800&fmt=webp> 谷原章介「子どもたちまねてしまう」小学校に男２人乱入の暴行事件に苦言　匿名報道に悩みも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/ba728f276886ae93b75b1fe9eb444552567f4ebe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010000-nknatiogeo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=392&cy=0&cw=800&ch=800&exp=10800&fmt=webp> コンクラーベに「沸いた」バチカン、新教皇選出でこれまでの質素倹約路線はどうなる？
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/06bfa0b55039a99c064e3460828514558e39b839>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 羽田空港ビル会社、社長ら辞任　利益供与、調査結果公表へ
       </a>
     </td>
   </tr>
@@ -366,23 +390,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d390f304a7cd3b8dbe4d31b891443aac6e509028>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000022-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 印パの軍事的応酬続く　米国務長官が電話協議「情勢を注視」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/378097540a5e89088f2e58a78cc65b84ad0cec9e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-05091029-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=62&cy=0&cw=763&ch=763&exp=10800&fmt=webp> 「当事者の子どもたちによくないことも起きる」…東京・立川「小学校襲撃事件」報道で「サン！シャイン」谷原章介が葛藤「悩ましい思い」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a622b25485e42c226ca8cc22da408791b1c83437>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00343896-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=136&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 【ＭＬＢ】解任第１号はパイレーツのシェルトン監督　わずか３８試合で
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000022-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 印パの軍事的応酬続く　米国務長官が電話協議「情勢を注視」
       </a>
     </td>
   </tr>
@@ -410,14 +418,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538184>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/9c9a1030b20e433b0d2ee82511b594ac2279454b9391920f2dda6e1073f1dd62.jpg> 汚職事件 名古屋市役所を家宅捜索
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538183>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/65942fd407c2d99b45e16f272160dea33dac128ebea416c7e4b192e4cd98df7c.jpg> トランプ氏 FRB議長を「愚か者」
       </a>
@@ -426,8 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538177>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/84ac3bf5f2dc4c021c5213df61ba7b7c9929e67a94ea4f95d583f848160e09a0.jpg> 日本空港ビル 社長と会長が辞任へ
+      <a href=https://news.yahoo.co.jp/pickup/6538184>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/9c9a1030b20e433b0d2ee82511b594ac2279454b9391920f2dda6e1073f1dd62.jpg> 汚職事件 名古屋市役所を家宅捜索
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538186>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/8a6a1baff1cac1944adddedf19ac83d167a3cac5daadd63d602bfca9a7540b7f.jpg> 日本空港ビル 会長と社長が辞任
       </a>
     </td>
   </tr>
@@ -442,16 +450,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538173>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/eab4c20f24b56495e30001ad86e5d4fdfd74413c089564d7a256a88b5c00233e.jpg> 社長が従業員を暴行 防カメに映像
+      <a href=https://news.yahoo.co.jp/pickup/6538187>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/3955d22704d769a32d31e06e8ce1c3bc808efd23ce26a5f123b629436b9addf1.jpg> 川崎遺体 県警が「検証チーム」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538179>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/0b1b7da917b47db5783d6a8b3329312f244af13f594700a4e3e9130590127ca8.jpg> MLBパイレーツ 監督を電撃解任
+      <a href=https://news.yahoo.co.jp/pickup/6538188>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/5181237be3c5888fecd4bf69451e2abf80f874cf18fe59dce846259a567bc8d7.jpg> 宮迫博之 ドジャース戦で始球式
       </a>
     </td>
   </tr>
@@ -460,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 10:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 11:00:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
