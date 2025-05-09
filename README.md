@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/649589786e3473a4bc5db976441c5546.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/225f894548513aa908d831f117c0e871.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab27330b6269709717b98d2e96ad69fe24f9906a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35090507-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=771&ch=771&exp=10800&fmt=webp> 三田寛子「どれほど怖かったか」　上地雄輔「信じられない」　東京・立川の小学校暴行事件
+      <a href=https://news.yahoo.co.jp/articles/faab10ce156e964a28d9f31daea135bfa9e60bff>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000055-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=161&cw=1668&ch=1668&exp=10800&fmt=webp> 「スカッとする一撃」大谷翔平が９回２死から衝撃弾　ＮＨＫ実況も叫ぶ「弾丸ライナーで飛び込みました！」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ef578285c34ce18cc79a6ed5c9bbf6a7e4026d16>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010002-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 新ローマ教皇の第一声　カトリック教会史初の米国人
+      <a href=https://news.yahoo.co.jp/articles/2cf9fa8994750635eb3050b40ca475c42814178e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010030-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=833&ch=833&exp=10800&fmt=webp> SUPER EIGHT 横山裕、1年間限定のソロプロジェクト『ROCK TO YOU』始動　アルバムリリースやツアーも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/257e42ec670230e3ed176e1a4b615b5490579877>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235543-jnn-000-3-thumb.jpg?exp=10800&fmt=webp> 送検の男2人は犯行場所の教室に直行か　40代男からは酒の臭いも　東京・立川市立小学校での傷害事件　警視庁
       </a>
     </td>
   </tr>
@@ -381,16 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/979ef5864708b10b7cdce05567a4b088d4ac6500>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235555-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=543&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 川崎市20歳女性遺体遺棄事件で当時の対応が適切だったか確認する「検証チーム」立ち上げ　神奈川県警
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ab77432b2c6c8abde92ad19eb3b44aa28ef28d40>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235533-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「この平和のあいさつが心に届くことを望んでいます」第267代ローマ教皇にプレヴォスト枢機卿　教皇名は「レオ14世」　初のアメリカ出身の教皇
+      <a href=https://news.yahoo.co.jp/articles/c07daa2a49935cafe0e43fce624cf9dbf2286c94>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010000-reutv-000-1-thumb.jpg?exp=10800&fmt=webp> 新ローマ教皇にプレボスト枢機卿、初の米国出身　「レオ14世」
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538190>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ba04b6767e81126c322890848d2cbd32cdc83d498276972aacb6e5361bc411dc.jpg> 逆子治し子に障害 医師を書類送検
+      <a href=https://news.yahoo.co.jp/pickup/6538185>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/90a6dbca2db191e8a39492eff104aed5a92a8baaf3fb4065bdcf7adf262f522a.jpg> 大阪万博 SNS投稿のポジネガ分析
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538188>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/5181237be3c5888fecd4bf69451e2abf80f874cf18fe59dce846259a567bc8d7.jpg> 宮迫博之 ドジャース戦で始球式
+      <a href=https://news.yahoo.co.jp/pickup/6538202>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/73182ec7ddc39e7a6d8d263f61c6cc48d5b738df1e47365cf0a9f061a9d0b56b.jpg> 大谷が9回に意地のHR 量産モード
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 13:00:23 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 13:30:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
