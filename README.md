@@ -90,7 +90,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/9d5e719c3e9b049a36be4bd269efed82.png alt="函館駅・Hakodate Station" />
+        <img src=https://i.gyazo.com/fc6f692704e1c3b2b02993a98f9bd2eb.png alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -165,12 +165,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/428e3c55de0132df39ec526e84489eb2.png alt="お台場・Odaiba" />
+        <img src=https://i.gyazo.com/83ee9fb5914c8acb98e67a2cad6600b3.png alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/d3cc5a047e87326c17823913f56965d8.png alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=https://i.gyazo.com/c53fa0f658909a0f14d0c8714d7f09bf.png alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -245,7 +245,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/2a5ab1e4338ef0ce254b9de33a08c187.png alt="大阪市・Osaka City" />
+        <img src=https://i.gyazo.com/cb0398ffbb266305d31406d073fe4b6f.png alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -325,12 +325,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/2f4e94bfdd4b64df224c742b6f9d58b5.png alt="那覇市・Naha City" />
+        <img src=https://i.gyazo.com/a6981c85d35db150401c25a3bd23408c.png alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/c479f80419242f77d416b22da3a003c6.png alt="那覇空港・Naha Airport" />
+        <img src=https://i.gyazo.com/d45a4eddd0589e49fcc6f60b73f05b5f.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/859b422ce2820cf20be93eb3a1af2ca7.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/a25eb1a94136d31032fd233689b70986.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538269>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 岸田前首相「玉木氏は首相候補」
+      <a href=https://news.yahoo.co.jp/pickup/6538266>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/8bd9ce7e676133866f2b129c3118963e27d5e4a2f97c5aaf757aaab26c69cae3.jpg> 斎藤知事の研修帯同へ ブーイング
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538266>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/8bd9ce7e676133866f2b129c3118963e27d5e4a2f97c5aaf757aaab26c69cae3.jpg> 斎藤知事の研修帯同へ ブーイング
+      <a href=https://news.yahoo.co.jp/pickup/6538246>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 小林製薬 広告の順次再開を発表
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 23:00:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 23:30:24 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
