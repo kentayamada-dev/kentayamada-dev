@@ -90,7 +90,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/129ba34d35dc62b130e76cb972215473.png alt="函館駅・Hakodate Station" />
+        <img src=https://i.gyazo.com/9d5e719c3e9b049a36be4bd269efed82.png alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -165,12 +165,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/07e3525c06dd841fec46661cf82696a9.png alt="お台場・Odaiba" />
+        <img src=https://i.gyazo.com/428e3c55de0132df39ec526e84489eb2.png alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/f93d3ea78dba5abd52da820bd5620b9f.png alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=https://i.gyazo.com/d3cc5a047e87326c17823913f56965d8.png alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -245,7 +245,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/9db5f33e49eb073b93bbc69cae2d86cc.png alt="大阪市・Osaka City" />
+        <img src=https://i.gyazo.com/2a5ab1e4338ef0ce254b9de33a08c187.png alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -325,12 +325,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/6545e3c63dcb597860c90c6cfa57d9a2.png alt="那覇市・Naha City" />
+        <img src=https://i.gyazo.com/2f4e94bfdd4b64df224c742b6f9d58b5.png alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/63573587a0ea6878b42662ddaffedf1d.png alt="那覇空港・Naha Airport" />
+        <img src=https://i.gyazo.com/c479f80419242f77d416b22da3a003c6.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5054b37342cbb82786d332813696450f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/859b422ce2820cf20be93eb3a1af2ca7.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fce5f872e432ca9c81d116e82a7e481280951335>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35091918-nksports-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=1242&ch=1242&exp=10800&fmt=webp> 【DeNA】林琢真、お立ち台で涙「見に来るの最後かも」祖母の前でサヨナラ打、年明けには祖父死去
+      <a href=https://news.yahoo.co.jp/articles/ed8e68708a270a4c29a48327c9def5301ccae91c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000469-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=83&cy=0&cw=795&ch=795&exp=10800&fmt=webp> なか卯、24時間営業終了へ　営業休止し“1時間の清掃”を導入で「店舗水準の向上を図る」
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538275>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/175856a572ff982314138425d36706be9dcd5360c96660e7593bb0b0e298a7e5.jpg> なか卯 24時間営業を廃止へ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538274>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/7b688cb3d7ba50dd5188c1682354f00ddec54c7733b89028af56a4ac7d560c71.jpg> ばあちゃん最後かも DeNA林が涙
       </a>
@@ -432,19 +440,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538221>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02202186/title-1746756955863.jpeg?exp=10800> ジャルジャルが私語注意 対応策は
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 22:30:33 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 23:00:33 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
