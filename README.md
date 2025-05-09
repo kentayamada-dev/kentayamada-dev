@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/03171fbed54e7208cc7d8f0d730cb532.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/cf0baabcfc4f3efcbfea7bab2e620dc0.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd02560778cfe8f65b50427d127c6df1b988c968>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000012-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 意外な新教皇に「誰?」と驚く声も　レオ14世、最初の言葉とは
+      <a href=https://news.yahoo.co.jp/articles/78efb485dc1d6cd753a8f17cabd3b36f188dde44>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000093-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=745&ch=745&exp=10800&fmt=webp> カズレーザー　男2人の小学校での暴行事件に「侵入する側の理があるような流れが少しでもできると…」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/82922daaf42ad37dd5c8e04c8402e27b4a5bad0d>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 「対話をもって、出会いを通じて互いに橋を架けましょう」　新教皇にレオ14世、初の米国人
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/780df0d5f2abc712fb117b7a3fc27b51962335d2>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00050011-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=65&cw=370&ch=370&exp=10800&fmt=webp> 利益供与、広告募集や経営相談など複数の取引でも…空港ビル内部調査　
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/d393237d3d393dd2b6d039dea2d6f968e8c95f5b>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-10177413-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=561&ch=561&exp=10800&fmt=webp> パキスタン軍 インドのドローンからの攻撃により民間人1人死亡と発表
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cf4f46b5df040e9283caadd909b2c69f21d0fcc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-05091016-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=222&cy=0&cw=757&ch=757&exp=10800&fmt=webp> 「教室に侵入した男らは子どもたちの目の前で襲いかかりました」…東京・立川「小学校襲撃」事件…「ＴＨＥ　ＴＩＭＥ，」江藤愛アナが伝える
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/52831aef41a342edd9418ea91ba6883b9597c46d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250508-00000188-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=115&cw=970&ch=970&exp=10800&fmt=webp> オンラインカジノ　他競技やお笑い界でも問題化して対策急務　総務省は有識者会議立ち上げ
       </a>
     </td>
   </tr>
@@ -402,14 +402,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538171>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/2edb1ae2b2758d95ac4d14802c8db7e89d70aad3061c7bd3323d2254838c608a.jpg> 米国出身 教皇名は「レオ14世」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538168>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/83f94c0bd686cefd790650b6124247aef0e9ac2bc05d57a4a241015e6939cd45.jpg> 西から雨広がる 警報級の大雨恐れ
       </a>
@@ -418,16 +410,32 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538174>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/2b041a2bcbcbba8e25d229a60404a230c01be8b6e375b0018584ab598389bfac.jpg> ダムで水面に滑落 作業員死亡
+      <a href=https://news.yahoo.co.jp/pickup/6538176>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/bc84ef0a39308228463320916502100a6026e6ef71ab7d39ca34be7f93c4cb0b.jpg> 政府 備蓄米の入札条件を緩和へ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538165>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/cf50da957e165864b63e7797d9b9bc5db6772405d3f909f8b24d9d6b4c2d3abe.jpg> 赤ちゃんの遺体を遺棄疑い 女逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538171>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/2edb1ae2b2758d95ac4d14802c8db7e89d70aad3061c7bd3323d2254838c608a.jpg> 米国出身 教皇名は「レオ14世」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538175>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/d4152f0aa48843002aecfaebbbdc5dac705da1c3d884cf0312231dae3229d87a.jpg> 防ぎようがない 学校防犯の難しさ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538174>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/2b041a2bcbcbba8e25d229a60404a230c01be8b6e375b0018584ab598389bfac.jpg> ダムで水面に滑落 作業員死亡
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538172>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/24ac584633675ec02a5ce7ab870858042ad7cfc961243beb4ef3ed504315e86c.jpg> 松坂桃李 パディントンは「親友」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 08:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 09:00:41 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
