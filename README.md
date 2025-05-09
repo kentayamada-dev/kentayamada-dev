@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/164f3a584e09f53947441f2f85d2f676.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/c88a5b777501861418d700da1bed0735.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1c7d105293e37fd059d086c99765673e120f6c5c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 英仏独、ロシアに30日停戦要求　米国と連携確認、派兵も協議
+      <a href=https://news.yahoo.co.jp/articles/9702418cadef691b112db03fab980b738f0df69b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 欧州4カ国首脳、キーウ訪問へ　「30日間停戦」でロシアに圧力
       </a>
     </td>
   </tr>
@@ -402,16 +402,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538283>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f27c8029491acc84de42d596e854cbf283013059989dac1903d1b64393218d41.jpg> 午前中 関東で雷雨や激しい雨恐れ
+      <a href=https://news.yahoo.co.jp/pickup/6538284>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/867d26f471ab014d7a30d5379baa3b941679154b82c2cff67b89792d1ec4c23b.jpg> 備蓄米 卸売業者へ出荷は32%のみ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538272>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ceaed746236dd027a5941926e473062fa4ad2f7066d6df320bbdc081140e92a5.jpg> トランプ氏 中国への関税80%妥当
+      <a href=https://news.yahoo.co.jp/pickup/6538283>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/f27c8029491acc84de42d596e854cbf283013059989dac1903d1b64393218d41.jpg> 午前中 関東で雷雨や激しい雨恐れ
       </a>
     </td>
   </tr>
@@ -434,14 +434,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538275>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/175856a572ff982314138425d36706be9dcd5360c96660e7593bb0b0e298a7e5.jpg> なか卯 24時間営業を廃止へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538285>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/d2a50397501505e19a4850edf9da241fbfecd024f8cdf6c8e69f18fcf98f9c99.jpg> オリックスが大敗 監督会見は35秒
       </a>
@@ -456,11 +448,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538289>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/10/cc84df226ea89d5ddc86ad8d767c69d67ab703816257db089f72b9c836bbf28b.jpg> 華原朋美 息子に再婚せかされる
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 08:00:40 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 08:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
