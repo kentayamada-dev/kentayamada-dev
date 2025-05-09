@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ac5730e503befa8e93e9beb657aba375.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e4afaa1f11d28b5b0a85739556a83c6c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c903589760cd8ddc6bb34b0356540166417f6f43>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35090528-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=653&ch=653&exp=10800&fmt=webp> 八代英輝弁護士、逮捕の男２人を呼んだ母親の「共謀」の可能性言及　東京・立川の小学校暴行事件
+      <a href=https://news.yahoo.co.jp/articles/389eab0b9c97b7db4758f73c8221bff42c398a47>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000194-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 映画「教皇選挙」新教皇がコンクラーベ直前に鑑賞！他の枢機卿も　「正確」「有益な研究ツール」と米報道
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/32eabc8df5c075cdf4006c5412049c6f4bf4946c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> “未公開情報を父親に…”東証元社員と父親に執行猶予つき有罪判決
+      <a href=https://news.yahoo.co.jp/articles/c903589760cd8ddc6bb34b0356540166417f6f43>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35090528-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=653&ch=653&exp=10800&fmt=webp> 八代英輝弁護士、逮捕の男２人を呼んだ母親の「共謀」の可能性言及　東京・立川の小学校暴行事件
       </a>
     </td>
   </tr>
@@ -374,15 +374,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/39d264a5be84d942d2fc51ba52cd07999e02ec9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010012-baseballc-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「負けたがいいだろう！」大谷翔平、2試合ぶりの第11号ホームラン！　米メディアも衝撃の弾丸アーチに
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010012-baseballc-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「負けたがいいだろう！」大谷翔平、2試合ぶりの第11号ホームラン！　米メディアも衝撃の弾丸アーチに
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/85b5a1248f10fc0738b209d9fe943551873806b1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00876472-toyo-000-1-view.jpg?pri=l&w=192&h=107&exp=10800&fmt=webp> 事実は映画よりも奇なり？　多くの日本人が知らない「新ローマ教皇」レオ14世(69)に託された先代からの”遺産“と”宿題”
+      <a href=https://news.yahoo.co.jp/articles/c1b75cf425856e36d7e7cca0727285fb5f976028>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000005-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=152&cw=896&ch=896&exp=10800&fmt=webp> NEDO、生成AIサービス開発に懸賞金「GENIAC-PRIZE」　総額8億円
       </a>
     </td>
   </tr>
@@ -402,8 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538189>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ec8f1b88f2f488f469372b01990bc0dbe0773d12d59d6e697dcac20ee81af3c4.jpg> トランプ氏 露ウに30日の停戦要求
+      <a href=https://news.yahoo.co.jp/pickup/6538203>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/6940bd486c114f29c1b168960f1b6da55127fbb8d50b2c236167b662525b5f71.jpg> 西田氏 ひめゆり発言を撤回し謝罪
       </a>
     </td>
   </tr>
@@ -418,16 +418,24 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538191>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/941e9155f7e2335df9937c4596bf5fac017b03db149d36bf1a1121bf5372751f.jpg> 日産 EV向け電池工場の建設断念
+      <a href=https://news.yahoo.co.jp/pickup/6538189>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ec8f1b88f2f488f469372b01990bc0dbe0773d12d59d6e697dcac20ee81af3c4.jpg> トランプ氏 露ウに30日の停戦要求
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538194>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ebffb072190337e116d5b6a7784e9819649f3935757c931a930a0a2f0cc8770c.jpg> 東大前駅で切りつけ 男が動機供述
+      <a href=https://news.yahoo.co.jp/pickup/6538198>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/0687e5beef0eb4bc2681a39cfbd9e6ebf60e367548f986f8150b960982baca72.jpg> 新教皇 トランプ氏らを過去に批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538208>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/1a4a882e30e154480ad119c563e6d60079f2d4a49973832dd0ef2b92129d399d.jpg> 通行人を切りつけた疑い 男逮捕
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538195>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/0d38caa711ae0f7f2676c50c2f499d29c1e96ab4b29ce6e507406cb290b8b890.jpg> 山本由伸まさか 満塁被弾にぼう然
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538200>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/54ada59595c492d2656c89020114c47ffeeee69d5a40af8a9f57b98909e5b989.jpg> 横山裕 1年間限定のソロPJを始動
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 14:00:29 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 14:30:22 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
