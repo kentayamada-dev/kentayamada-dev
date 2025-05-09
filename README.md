@@ -89,8 +89,8 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
+      <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
+        <img src=https://i.gyazo.com/cfaf7a6c9c2c5473c94f63b8192e97a9.png alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -164,13 +164,13 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/5016ea359d2068b78751f27896546167.png alt="お台場・Odaiba" />
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+        <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/03e82daced19418e9405666a1036db0e.png alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=https://i.gyazo.com/451c74b263a07f8b3148cac210134568.png alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -245,7 +245,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/6bbe43668a0120c19e8e376740952ecb.png alt="大阪市・Osaka City" />
+        <img src=https://i.gyazo.com/109b337a2b5f73178d5295e0892b67fd.png alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -325,12 +325,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/fe69026b627110fdcf3641b110d9eb13.png alt="那覇市・Naha City" />
+        <img src=https://i.gyazo.com/e5d2f756971677267ec3c82980929c67.png alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/148a26d128698982cc365e2309f7ab9d.png alt="那覇空港・Naha Airport" />
+        <img src=https://i.gyazo.com/c3d72081f5967e0a391a65b1ae634b90.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/235a4ce1dd2007cb5f3879a73e0e667a.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c65072dfbc977c3f3e47e0218d60cea.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0dc535099c24b1adc49ca0ae8bcc241c66ffc331>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05091256-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> １５年契約も可能だったドジャース・大谷翔平　６戦４発で例年より１か月早い量産態勢に
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/028d749ef836c230350e0377d17df57bc1f55afa>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000064-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=220&cw=761&ch=761&exp=10800&fmt=webp> ドジャース由伸　3年ぶり2度目の満塁被弾「ランナーのため方悪かった」　防御率陥落…1位は千賀に譲る
+      <a href=https://news.yahoo.co.jp/articles/586d641af69b887a49a024bfae260e8bbafbb80e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00343993-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 井岡一翔をナメてる⁉　王者マルティネスが放言　減量は「あと７キロ」…好戦的なのに守備的戦法示唆
       </a>
     </td>
   </tr>
@@ -444,7 +436,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 05:01:02 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 05:30:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
