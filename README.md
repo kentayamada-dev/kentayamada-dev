@@ -90,7 +90,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/71b0e65915e9ecc55937f5ccbed28621.png alt="函館駅・Hakodate Station" />
+        <img src=https://i.gyazo.com/cb0677c68226c020c86740c1c8ccc82c.png alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -165,12 +165,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/2f65be5f22b13164a8a8438fa54b0115.png alt="お台場・Odaiba" />
+        <img src=https://i.gyazo.com/2980f8345c123832a73cd97f7cf95e8b.png alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+        <img src=https://i.gyazo.com/72a6067d3fb17f20f0172ce9b104c780.png alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -245,7 +245,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/eb6d811f7d97e1ba5c1b6a97549d7d1f.png alt="大阪市・Osaka City" />
+        <img src=https://i.gyazo.com/5b75aae20e06eca57e9d631515fa8388.png alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -324,13 +324,13 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+        <img src=https://i.gyazo.com/f3c115f332e0b8fd64fd8eee18d898e1.png alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/5f5aa8ab6b12c822c687ff95ec4a9652.png alt="那覇空港・Naha Airport" />
+        <img src=https://i.gyazo.com/42e927feea6b5461db144159d6d30e83.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5e85073f3c38c6a872881b3d86be0c21.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f31d3502757ec612ff135dfe046fcec.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6d6648e39df8abf0fe83359f973239b32ee4899b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-06996917-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「なか卯」24時間営業とりやめを発表　一部店舗を除く全店
+      <a href=https://news.yahoo.co.jp/articles/3a82029e4b94fab0734c1877a137b242de8c73c1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース敗戦 大谷翔平が最終回に6戦連続安打となる11号本塁打も追撃ならず
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a82029e4b94fab0734c1877a137b242de8c73c1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00010000-tvtokyos-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=226&cy=0&cw=600&ch=600&exp=10800&fmt=webp> ドジャース敗戦 大谷翔平が最終回に6戦連続安打となる11号本塁打も追撃ならず
+      <a href=https://news.yahoo.co.jp/articles/fce5f872e432ca9c81d116e82a7e481280951335>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35091918-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=1242&ch=1242&exp=10800&fmt=webp> 【DeNA】林琢真、涙のお立ち台「見に来るの最後かも」祖母の前でサヨナラ打、年明けは祖父死去
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 01:01:05 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 01:30:11 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
