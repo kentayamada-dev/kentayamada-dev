@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f6fb16170e57217daa2d02aa5b368b47.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/90481ce9c44365be27af855f2a292392.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd429d388da22c94841e8351a63690a5f2527784>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00029732-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 10日午前中は関東南部で大雨のおそれ　雨のあとは暑さに注意　長野は真夏日予想
+      <a href=https://news.yahoo.co.jp/articles/75eb38e9a0df5f68f551abbfdd778b8d037b82ef>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000068-chuspo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=365&cy=0&cw=793&ch=793&exp=10800&fmt=webp> 大谷翔平、今季は「ミスター・メイ」？リーグ2位でキング射程の11号　「あと一人」活気づくファン沈黙の超弾丸ライナーに実況は「ロケット」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/eb6cc9cd6dcf12a76e5c1f76c605306e154167b4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000264-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=229&cy=0&cw=742&ch=742&exp=10800&fmt=webp> 玉川徹氏「厳罰に処してほしい」　立川の小学校暴行に怒り「親ですらない大人が殴り込み…とんでもない話」
+      <a href=https://news.yahoo.co.jp/articles/963223033b93fdf71b6a40d81e60b370e563a557>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000065-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=391&ch=391&exp=10800&fmt=webp> 事件前に飲酒し、酒瓶を持って学校侵入か　逮捕の男2人　東京・立川
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2b94a30c6365e06fbe90c06d62016386b9945acb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000259-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=867&ch=867&exp=10800&fmt=webp> 大谷翔平　1920年以降で史上初の珍記録樹立　米データ会社が紹介　MLB4位タイ11本塁打もソロ9発
+      <a href=https://news.yahoo.co.jp/articles/2b0e3370aae201af00bec903e135c755bedfbd81>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000062-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=390&ch=390&exp=10800&fmt=webp> パナソニック、従業員1万人を削減する方針　国内と海外で半々
       </a>
     </td>
   </tr>
@@ -402,6 +402,14 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538234>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/3b430554db644d38e356f2cd3a3ec460dce5f3275663b9e616395b5849b5f72a.jpg> 東海関東 10日にかけ警報級大雨か
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538223>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/3e680bfec119959c55fdfd488c19c689e11fe0782d7d4587bf113e35f0ee3342.jpg> 新教皇レオ14世 どんな考えを持つ
       </a>
@@ -410,8 +418,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538209>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/586ad17f293ff3037503d9d012b062ede8ba3534be6f6f8bb8a265c229177430.jpg> 生成AIの開発促進に懸賞金 経産省
+      <a href=https://news.yahoo.co.jp/pickup/6538224>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/03234bd16b39c23bfd18f4ecdb5cd77ae6cbadac8f87d4d4aa304ef3eed73de1.jpg> 24年度カレー物価 過去10年で最高
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538235>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/711a14ee89a6d2e99f2da18384eac84134a9d90a59bdc5eed264e68ffcb2bb91.jpg> パナソニックHD 1万人規模削減へ
       </a>
     </td>
   </tr>
@@ -420,14 +436,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538219>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/86b9d6f22f7add82a12c87338554546f78faebbaef9a787e91281048c24ce4f8.jpg> 逮捕の2人 飲酒後に小学校侵入か
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538227>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e8493f47e4924e2cd4628feb1729ca9c438326a36c6d7cdff5c7456fca5a994b.jpg> 日本電信電話→NTTに社名変更へ
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538214>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e6ef4f673f8f6fcb2d3b3c8ed214bd9e463fe1a4448c06cc042d924e1e24458d.jpg> 宮迫のド軍戦始球式 仕掛け人思い
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 17:00:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 17:30:27 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
