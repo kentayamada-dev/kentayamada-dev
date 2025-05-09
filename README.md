@@ -90,7 +90,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
+        <img src=https://i.gyazo.com/9e33064640f908abc2fea14c1a4feb2b.png alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -165,12 +165,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
+        <img src=https://i.gyazo.com/68b656de70addcb8fff39b733343142a.png alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/5deaac5260692630a89af229ef405e29.png alt="スクランブル交差点・Shibuya Scramble" />
+        <img src=https://i.gyazo.com/be19baea7cf30de939c21397a7fbed11.png alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -245,7 +245,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
+        <img src=https://i.gyazo.com/bda2fb7bac8c0de55a9aac995ab590f5.png alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -325,12 +325,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
+        <img src=https://i.gyazo.com/1fd36821c96b721e78ce2109cd8ebc51.png alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
+        <img src=https://i.gyazo.com/d7643d320aa2dcef7a0384ba9696904f.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/8cbb14b06b79a6e13400c2a26a79f05f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/9bf5f1f9535d7584678f87fdd3bef343.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0dc535099c24b1adc49ca0ae8bcc241c66ffc331>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05091256-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> １５年契約も可能だったドジャース・大谷翔平　６戦４発で例年より１か月早い量産態勢に
+      <a href=https://news.yahoo.co.jp/articles/fbc2d388d03c986519208935fc50e2b50ca1946a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-08981474-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ大統領、中国への関税「80％が妥当だ」　関税措置めぐる協議を前に
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/df478e73180f578d3c413efaab6da77ef9fc3fd9>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00969764-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 中国の4月の対米輸出額21％減…“トランプ関税”の影響出始めたか
+      <a href=https://news.yahoo.co.jp/articles/0dc535099c24b1adc49ca0ae8bcc241c66ffc331>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-05091256-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> １５年契約も可能だったドジャース・大谷翔平　６戦４発で例年より１か月早い量産態勢に
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 04:00:48 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 04:30:53 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
