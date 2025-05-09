@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1fc7d7f07f9e696e433636f139b53394.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/2dced8670165986a111ec646e90bf35c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -365,16 +365,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13ea4c02efb191692e67e06da105782a802edbd6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-04561928-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=20&cw=582&ch=582&exp=10800&fmt=webp> 元アイドリング!!!大川藍、離婚＆再婚を報告
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ff76533b47d7fe65577f421b024918d004f0f432>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000005-courrier-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=346&cy=0&cw=901&ch=901&exp=10800&fmt=webp> いま知っておくべき過去の「レオ」教皇──「レオ13世」、「レオ1世」はどんな人だったのか仏誌が解説
+      <a href=https://news.yahoo.co.jp/articles/fc8644aba36cea3ae508eaeefcc13c57f91b0802>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000081-mai-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=101&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 鳥羽水族館のラッコ「メイ」が21歳に　特製ケーキでお祝い　三重
       </a>
     </td>
   </tr>
@@ -410,8 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538252>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/96e013a126d37eab7dd78d629fc5aa6bcd9e0fc4357c947b8e7eab2c7688be4d.jpg> 愛知の住宅に血流した男女 死亡
+      <a href=https://news.yahoo.co.jp/pickup/6538261>
+        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> 愛知の住宅で夫婦死亡 体に切り傷
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538254>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/4d494dd4818056ef867fc7865992445f3b9eafb65ab31db2bf3ba91c66f3a4ae.jpg> 「ポケポケ」大ヒット DeNA躍進
+      <a href=https://news.yahoo.co.jp/pickup/6538258>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/c84dffe023b81ff6644349e7f9d665381fdaede06d9a4ad5e638e33157b4746f.jpg> 珍事 スライディングして打球直撃
       </a>
     </td>
   </tr>
@@ -460,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 20:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 21:00:09 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
