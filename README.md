@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e4afaa1f11d28b5b0a85739556a83c6c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/04b9ffbb876c2d78d8e0f4a12b6c36ab.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/80542cf068e101bd109aeee662b40a0131370506>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-90019307-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800&fmt=webp> 【速報】大阪・阿倍野区で男性の頭を包丁でけがさせた疑い　34歳男を殺人未遂容疑で緊急逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5dcc5220a69fed6543d9dd1f3fe2a0776a51bfb3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-10177469-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=540&cy=0&cw=986&ch=986&exp=10800&fmt=webp> 大谷翔平、弾丸第11号ホームランでも“淡々”リアクション…「明日以降に価値が」土壇場で飛び出した衝撃アーチにファン歓喜も本人は笑顔なし
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/389eab0b9c97b7db4758f73c8221bff42c398a47>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000194-spnannex-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 映画「教皇選挙」新教皇がコンクラーベ直前に鑑賞！他の枢機卿も　「正確」「有益な研究ツール」と米報道
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000194-spnannex-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 映画「教皇選挙」新教皇がコンクラーベ直前に鑑賞！他の枢機卿も　「正確」「有益な研究ツール」と米報道
       </a>
     </td>
   </tr>
@@ -367,22 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/c903589760cd8ddc6bb34b0356540166417f6f43>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35090528-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=653&ch=653&exp=10800&fmt=webp> 八代英輝弁護士、逮捕の男２人を呼んだ母親の「共謀」の可能性言及　東京・立川の小学校暴行事件
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/39d264a5be84d942d2fc51ba52cd07999e02ec9d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010012-baseballc-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=156&cy=0&cw=320&ch=320&exp=10800&fmt=webp> 「負けたがいいだろう！」大谷翔平、2試合ぶりの第11号ホームラン！　米メディアも衝撃の弾丸アーチに
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c1b75cf425856e36d7e7cca0727285fb5f976028>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000005-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=152&cw=896&ch=896&exp=10800&fmt=webp> NEDO、生成AIサービス開発に懸賞金「GENIAC-PRIZE」　総額8億円
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538189>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ec8f1b88f2f488f469372b01990bc0dbe0773d12d59d6e697dcac20ee81af3c4.jpg> トランプ氏 露ウに30日の停戦要求
+      <a href=https://news.yahoo.co.jp/pickup/6538206>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e6c7dd7a821218407938975a3d9af9079d7a11be0e54ce5d7a9139716e6eca6f.jpg> インサイダー 東証元社員らに有罪
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538208>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/1a4a882e30e154480ad119c563e6d60079f2d4a49973832dd0ef2b92129d399d.jpg> 通行人を切りつけた疑い 男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6538213>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/1a4a882e30e154480ad119c563e6d60079f2d4a49973832dd0ef2b92129d399d.jpg> 男性を切りつけた疑い 男を逮捕
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 14:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 15:00:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
