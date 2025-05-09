@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -324,7 +324,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇市・Naha City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/2ace882204402182dfba378793b52ba9.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/649589786e3473a4bc5db976441c5546.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/02171a3c47d762a32edf11b67712f8f870def484>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-90018998-ktn-000-1-thumb.jpg?exp=10800&fmt=webp> 長崎全域の海上で暴風警報　本土と五島を結ぶ船は終日欠航　10日朝まで1時間60ｍｍの非常に激しい雨か
+      <a href=https://news.yahoo.co.jp/articles/ab27330b6269709717b98d2e96ad69fe24f9906a>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35090507-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=771&ch=771&exp=10800&fmt=webp> 三田寛子「どれほど怖かったか」　上地雄輔「信じられない」　東京・立川の小学校暴行事件
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/514773b0637cb7d851ad4a7fa2220bf9929f35c8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35090414-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=110&cw=661&ch=661&exp=10800&fmt=webp> 小木博明「そんな親いるんだ」　野呂佳代「大人なら考えないとダメ」　小学校に男侵入の暴行事件
+      <a href=https://news.yahoo.co.jp/articles/ef578285c34ce18cc79a6ed5c9bbf6a7e4026d16>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00010002-aptsushinv-000-1-thumb.jpg?exp=10800&fmt=webp> 新ローマ教皇の第一声　カトリック教会史初の米国人
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1cec984aa3b85a66e730ddc05e99b5959694c875>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235525-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> ロシア「対ドイツ戦勝記念式典」きょう開催　ゼレンスキー大統領がトランプ大統領と電話会談「きょうにも停戦開始の用意ある」
+      <a href=https://news.yahoo.co.jp/articles/bd5751b41bc8c4b9c81a4015cdde68337c2ddad1>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35232748-cnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800&fmt=webp> 【分析】戦勝記念日迎えるロシア、モスクワ上空にはドローンの脅威
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e912c4dc321ba6c52da41e31d523390ebdabbc4e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00969256-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> ロバート・フランシス・プレボスト枢機卿が新ローマ教皇に　「レオ14世」名乗る　初のアメリカ出身の教皇　トランプ大統領も祝意「本当に光栄」
+      <a href=https://news.yahoo.co.jp/articles/ab77432b2c6c8abde92ad19eb3b44aa28ef28d40>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-07235533-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 「この平和のあいさつが心に届くことを望んでいます」第267代ローマ教皇にプレヴォスト枢機卿　教皇名は「レオ14世」　初のアメリカ出身の教皇
       </a>
     </td>
   </tr>
@@ -402,8 +402,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538170>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/295647d9de021712c765acee7e21ca1d8196272e38f1fcd50f5d20cdc4da4539.jpg> トランプ氏 米出身の新教皇に祝意
+      <a href=https://news.yahoo.co.jp/pickup/6538189>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/ec8f1b88f2f488f469372b01990bc0dbe0773d12d59d6e697dcac20ee81af3c4.jpg> トランプ氏 露ウに30日の停戦要求
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6538197>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/dd5e13022f936474e9226bae1243ed6d7dd7dd3a6fe2ae53e3e04769f3018fd3.jpg> 九州～関東 あすにかけ大雨の恐れ
       </a>
     </td>
   </tr>
@@ -412,14 +420,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6538191>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/941e9155f7e2335df9937c4596bf5fac017b03db149d36bf1a1121bf5372751f.jpg> 日産 EV向け電池工場の建設断念
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538186>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/8a6a1baff1cac1944adddedf19ac83d167a3cac5daadd63d602bfca9a7540b7f.jpg> 日本空港ビル 会長と社長が辞任
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6538192>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/97bd0e897ae3324790c33f983675db34e2c79848d8aa754e8771d68fcc3946cc.jpg> 大谷15年契約可能性あった 代理人
+      <a href=https://news.yahoo.co.jp/pickup/6538199>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/5/9/e92615431baf2b97872ae74a20af06806969bd6faa72514b03a71ee528230bc8.jpg> 賭博疑いオコエ選手 21年頃始めた
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/09 12:30:16 (JST)<br />
+  🗓️ Last Updated: 2025/05/09 13:00:23 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
