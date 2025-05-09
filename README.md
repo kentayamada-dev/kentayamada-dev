@@ -90,7 +90,7 @@
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/qcj0tipucts?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/2a24199451f12fe9037a3b258142f85f.png alt="函館駅・Hakodate Station" />
+        <img src=https://i.gyazo.com/a61d694bf3a0d5c400ac5423a6a1b6af.png alt="函館駅・Hakodate Station" />
       </a>
     </td>
   </tr>
@@ -165,12 +165,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/d28ce79bd0a58444a277c3a3cd43cb32.png alt="お台場・Odaiba" />
+        <img src=https://i.gyazo.com/b912b149521a73b7d7d6be17c979e8bd.png alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCYUJAYcqIYzv?rel=0&html5=1&autoplay=1>
-        <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
+      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+        <img src=https://i.gyazo.com/fc146db7e16fad2b795c8932ea8d688d.png alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
   </tr>
@@ -245,7 +245,7 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/FqR-nJp1Pug?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/ed920c9e164ea2c7a87d9f0633766233.png alt="大阪市・Osaka City" />
+        <img src=https://i.gyazo.com/e94c64035806b8f37c6c3a4e2acd449b.png alt="大阪市・Osaka City" />
       </a>
     </td>
     <td colspan=4 align=center>
@@ -325,12 +325,12 @@
   <tr>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/6HYjCFkmDPA?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/848e53030018816f093cc1ce2b46d1e0.png alt="那覇市・Naha City" />
+        <img src=https://i.gyazo.com/36e2e24f316a29c03bdd83ff6662d732.png alt="那覇市・Naha City" />
       </a>
     </td>
     <td colspan=4 align=center>
       <a href=https://www.youtube-nocookie.com/embed/ZzKEBEx6PYQ?rel=0&html5=1&autoplay=1>
-        <img src=https://i.gyazo.com/a23396706549e019646fe8498f8ab860.png alt="那覇空港・Naha Airport" />
+        <img src=https://i.gyazo.com/2f66e85a80c60c75d2e3b67a6dc8ec57.png alt="那覇空港・Naha Airport" />
       </a>
     </td>
   </tr>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/aa677f28cab1a4e123adccfe6d6ee156.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8e21aa488cba59c56a678e34e1913861.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -358,15 +358,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/637d71cfa41c8f9534ae740ca936b0c5e12fb35c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000062-spnannex-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1188&ch=1188&exp=10800&fmt=webp> 大谷「パパでもキング」へ量産態勢　パパ5号目！5月7試合で4発目　さらに大好き6月も　指揮官も納得顔
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00000062-spnannex-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1188&ch=1188&exp=10800&fmt=webp> 大谷「パパでもキング」へ量産態勢　パパ5号目！5月7試合で4発目　さらに大好き6月も　指揮官も納得顔
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fce5f872e432ca9c81d116e82a7e481280951335>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-35091918-nksports-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=1242&ch=1242&exp=10800&fmt=webp> 【DeNA】林琢真、涙のお立ち台「見に来るの最後かも」祖母の前でサヨナラ打、年明けは祖父死去
+      <a href=https://news.yahoo.co.jp/articles/df478e73180f578d3c413efaab6da77ef9fc3fd9>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00969764-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 中国の4月の対米輸出額21％減…“トランプ関税”の影響出始めたか
       </a>
     </td>
   </tr>
@@ -444,7 +444,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 02:30:47 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 03:00:31 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
