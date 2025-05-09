@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5ee50747ddaca07a38abd3b4d4c3305b.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f32ae0fd5af53d28f443bdcfea8ae12f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cb957ea74a278e7db9076ffa969fff2c062d371b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00534110-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=108&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 打率.135、絶好機に痛恨の併殺打　ド軍で不振の24億円男を指揮官は擁護「結果は出ていないが…」
+      <a href=https://news.yahoo.co.jp/articles/b34eab2a49a8161327cf7c66211af346872f10a5>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-07235728-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナでイギリスやフランスなど欧州4か国の首脳がゼレンスキー大統領と会談へ　ロシアに30日間の停戦求める方針
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/586d641af69b887a49a024bfae260e8bbafbb80e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00343993-tospoweb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 井岡一翔をナメてる⁉　王者マルティネスが放言　減量は「あと７キロ」…好戦的なのに守備的戦法示唆
+      <a href=https://news.yahoo.co.jp/articles/6b4927b346ef1bfb10369029f04f83d890e28806>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-07235726-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> トランプ大統領「中国への関税は80％が妥当では」145％からの引き下げに言及
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/22527378f78bf60e86eeb86b164b9d8159b2e257>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-00534025-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 最近、大谷翔平が「恐怖に陥れ続けている」納得の“存在”　解説が豪快アーチで表現「6戦4発だ」
       </a>
     </td>
   </tr>
@@ -444,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 06:00:21 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 06:30:52 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
