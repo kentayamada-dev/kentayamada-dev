@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f32ae0fd5af53d28f443bdcfea8ae12f.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5187e4f825db9f780e13836d4470ebc8.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b34eab2a49a8161327cf7c66211af346872f10a5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-07235728-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=349&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> ウクライナでイギリスやフランスなど欧州4か国の首脳がゼレンスキー大統領と会談へ　ロシアに30日間の停戦求める方針
+      <a href=https://news.yahoo.co.jp/articles/9dafce0237f8460ee1ea5d0cb3858870ec806aae>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250510-03292354-nnn-000-2-thumb.jpg?exp=10800&fmt=webp> 戦勝記念日にプーチン氏が演説　ウクライナ侵攻「国全体が支持」　トランプ氏は30日間の停戦提唱
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/05/10 06:30:52 (JST)<br />
+  🗓️ Last Updated: 2025/05/10 07:00:44 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
